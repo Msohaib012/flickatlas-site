@@ -1,6 +1,6 @@
 {
  "bucket": "75",
- "count": 38,
+ "count": 44,
  "titles": {
   "movie:10075": {
    "backdrop_path": "/wHzR9AzN9ePToQbCsz0ZZPpzWZp.jpg",
@@ -1406,6 +1406,123 @@
    "vote_average": 7.6,
    "vote_count": 348
   },
+  "movie:14475": {
+   "backdrop_path": "/6zMevCRj7ybKCAqxAsZkiFreCQ9.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Rudy Russo",
+     "n": "Kurt Russell"
+    },
+    {
+     "c": "Roy L. Fuchs / Luke Fuchs",
+     "n": "Jack Warden"
+    },
+    {
+     "c": "Jeff",
+     "n": "Gerrit Graham"
+    },
+    {
+     "c": "Jim the Mechanic",
+     "n": "Frank McRae"
+    },
+    {
+     "c": "Barbara Fuchs",
+     "n": "Deborah Harmon"
+    },
+    {
+     "c": "Sam Slaton",
+     "n": "Joe Flaherty"
+    },
+    {
+     "c": "Freddie Paris",
+     "n": "David L. Lander"
+    },
+    {
+     "c": "Eddie Winslow",
+     "n": "Michael McKean"
+    },
+    {
+     "c": "Mickey",
+     "n": "Michael Talbott"
+    },
+    {
+     "c": "Carmine",
+     "n": "Harry Northup"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Robert Zemeckis"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 14475,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When the owner of a struggling used car lot is killed, it's up to the lot's hot-shot salesman to save the property from falling into the hands of the owner's ruthless brother and used-car rival.",
+   "popularity": 2.8045,
+   "poster_path": "/h9hqesyEBaag8ZkgrBSaUGgGNFF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1980-07-11",
+   "revenue": 11715321,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Like new, great looking and fully loaded with laughs.",
+   "title": "Used Cars",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.435,
+   "vote_count": 314
+  },
   "movie:14675": {
    "backdrop_path": "/hkYHYp6IrVbDE39ffoGofTIsVj5.jpg",
    "budget": 600000,
@@ -1515,6 +1632,137 @@
    "type": "movie",
    "vote_average": 7.232,
    "vote_count": 380
+  },
+  "movie:157375": {
+   "backdrop_path": "/wcjQx3qVZf5RpbCN9ycYjtLaZ7Y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Leigh",
+     "n": "Kristen Bell"
+    },
+    {
+     "c": "Mel",
+     "n": "Mamie Gummer"
+    },
+    {
+     "c": "Todd",
+     "n": "Martin Starr"
+    },
+    {
+     "c": "John",
+     "n": "Joshua Harto"
+    },
+    {
+     "c": "Matt",
+     "n": "Alex Shaffer"
+    },
+    {
+     "c": "Little Jason",
+     "n": "David Lambert"
+    },
+    {
+     "c": "Justine",
+     "n": "Amy Madigan"
+    },
+    {
+     "c": "Hans",
+     "n": "Adam LeFevre"
+    },
+    {
+     "c": "Big Jason",
+     "n": "John Finn"
+    },
+    {
+     "c": "Lumpy",
+     "n": "Paulie Litt"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Liz W. Garcia"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 157375,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Leigh, feeling unfulfilled, quits her reporter job in New York and returns to the place she last felt happy: her childhood home in Connecticut. She takes a job as a lifeguard, regresses into adolescent behavior, and begins a dangerous relationship with a troubled teenager, leading to consequences for everyone involved.",
+   "popularity": 1.2194,
+   "poster_path": "/ecArdkI6uDNBZ59482pv7lDqVzY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-08-30",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This Summer Growing Up is Optional",
+   "title": "The Lifeguard",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 308
   },
   "movie:1591675": {
    "backdrop_path": "/ceOdqFmZy5kKImbGThuDHuifGpm.jpg",
@@ -2773,6 +3021,183 @@
    "vote_average": 6.7,
    "vote_count": 411
   },
+  "movie:434775": {
+   "backdrop_path": "/kHejbCUiGHVVqIj2RmweEnVb6LJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tomoaki Shigemori",
+     "n": "Masaharu Fukuyama"
+    },
+    {
+     "c": "Takashi Misumi",
+     "n": "Koji Yakusho"
+    },
+    {
+     "c": "Sakie Yamanaka",
+     "n": "Suzu Hirose"
+    },
+    {
+     "c": "Teru Kawashima",
+     "n": "Shinnosuke Mitsushima"
+    },
+    {
+     "c": "Itsuki Shinohara",
+     "n": "Mikako Ichikawa"
+    },
+    {
+     "c": "Akiko Hattori",
+     "n": "Izumi Matsuoka"
+    },
+    {
+     "c": "Yuka Shigemori",
+     "n": "Aju Makita"
+    },
+    {
+     "c": "Watanabe",
+     "n": "Tōru Shinagawa"
+    },
+    {
+     "c": "Landlady",
+     "n": "Toshie Negishi"
+    },
+    {
+     "c": "Sakurai",
+     "n": "Tsutomu Takahashi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Hirokazu Kore-eda"
+   ],
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 434775,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A lawyer tasked with defending a robbery-and-murder suspect begins developing doubts about what truly happened.",
+   "popularity": 2.2178,
+   "poster_path": "/xENc6UYviC3JfFqKA6kReHfT2Zt.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Film Movement Plus"
+    },
+    {
+     "name": "Film Movement Plus Amazon Channel"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/c8H4Jp8qInInqkPSryR80rb7jYO.png",
+     "name": "Film Movement Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zy8e5KYnkpB8qbLJUvzMnaynBSZ.png",
+     "name": "Film Movement Plus Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-09-09",
+   "revenue": 0,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Everyone has a truth to want to believe.",
+   "title": "The Third Murder",
+   "trailer": {
+    "key": "5JtiYQouj1E",
+    "name": "US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.644,
+   "vote_count": 319
+  },
   "movie:437375": {
    "backdrop_path": "/60GyN15XN4KVdn1x1e9jl6ElicG.jpg",
    "budget": 0,
@@ -3199,6 +3624,206 @@
    "vote_average": 7.167,
    "vote_count": 368
   },
+  "movie:514575": {
+   "backdrop_path": "/cdGuUnVxlngUNjfl7APfZLrQiZx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "José Mujica",
+     "n": "Antonio de la Torre"
+    },
+    {
+     "c": "Mauricio Rosencof",
+     "n": "Chino Darín"
+    },
+    {
+     "c": "Eleuterio Fernández Huidobro",
+     "n": "Alfonso Tort"
+    },
+    {
+     "c": "Militar",
+     "n": "César Troncoso"
+    },
+    {
+     "c": "Psychiatrist",
+     "n": "Soledad Villamil"
+    },
+    {
+     "c": "Ivette",
+     "n": "Sílvia Pérez Cruz"
+    },
+    {
+     "c": "Lucy",
+     "n": "Mirella Pascual"
+    },
+    {
+     "c": "Rosa",
+     "n": "Nidia Telles"
+    },
+    {
+     "c": "Sergeant Alzamora",
+     "n": "César Bordón"
+    },
+    {
+     "c": "Gómez",
+     "n": "Luciano Ciaglia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Álvaro Brechner"
+   ],
+   "genres": [
+    "Drama",
+    "Crime",
+    "History"
+   ],
+   "id": 514575,
+   "industry": "world",
+   "origin_country": [
+    "ES",
+    "UY"
+   ],
+   "original_language": "es",
+   "overview": "Uruguay, 1973. Having been crushed by the military dictatorship, surviving members of the Tupamaro guerillas are imprisoned and tortured. They must find a way to endure the coming 12 years.",
+   "popularity": 1.9939,
+   "poster_path": "/k1SEABHjk34flsBQigm9ygMuUM4.jpg",
+   "production_countries": [
+    "AR",
+    "ES",
+    "UY"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2018-09-20",
+   "revenue": 0,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Endless darkness. Limitless courage.",
+   "title": "A Twelve-Year Night",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 314
+  },
+  "movie:714375": {
+   "backdrop_path": "/lMbUiOZh8wELqY63v3ou54yTvEG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ellie Warren",
+     "n": "Nia Long"
+    },
+    {
+     "c": "David Hammond",
+     "n": "Omar Epps"
+    },
+    {
+     "c": "Marcus Warren",
+     "n": "Stephen Bishop"
+    },
+    {
+     "c": "Brittany Warren",
+     "n": "Aubrey Cleland"
+    },
+    {
+     "c": "Courtney",
+     "n": "Maya Stojan"
+    },
+    {
+     "c": "Deborah Hammond",
+     "n": "KJ Smith"
+    },
+    {
+     "c": "Travis",
+     "n": "Jason-Shane Scott"
+    },
+    {
+     "c": "Janice",
+     "n": "Carolyn Hennesy"
+    },
+    {
+     "c": "Dr. Leigh Beverly",
+     "n": "Fredella Calloway"
+    },
+    {
+     "c": "Linda",
+     "n": "Estelle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "13+",
+   "date_kind": "release",
+   "director": [
+    "Peter Sullivan"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 714375,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After a brief encounter with David Hammond, an old college friend, successful lawyer Ellie Warren tries to mend her marriage with her husband Marcus. But she finds herself caught in a terrifying game of cat and mouse when the encounter escalates into an obsession that jeopardizes everyone she loves.",
+   "popularity": 1.7019,
+   "poster_path": "/f4EAJ6PXNbxBb2xrdTrT2SlJlCH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-07-16",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Fatal Affair",
+   "trailer": {
+    "key": "bxWPPrDpqr8",
+    "name": "Fatal Affair Starring Nia Long + Omar Epps | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.699,
+   "vote_count": 319
+  },
   "movie:773975": {
    "backdrop_path": "/5luJmy21N3bYCkjzRHsoZfvLtPP.jpg",
    "budget": 0,
@@ -3305,6 +3930,122 @@
    "type": "movie",
    "vote_average": 5.947,
    "vote_count": 365
+  },
+  "movie:8075": {
+   "backdrop_path": "/beRcdPSD4cYcmMilMpsdrChpNGt.jpg",
+   "budget": 250000,
+   "cast": [
+    {
+     "c": "Corinne Durand",
+     "n": "Mireille Darc"
+    },
+    {
+     "c": "Roland Durand",
+     "n": "Jean Yanne"
+    },
+    {
+     "c": "Le Chef du Front de Libération de la Seine et Oise",
+     "n": "Jean-Pierre Kalfon"
+    },
+    {
+     "c": "Gros Poucet (uncredited)",
+     "n": "Yves Afonso"
+    },
+    {
+     "c": "Un Membre du FLSO (uncredited)",
+     "n": "Yves Beneyton"
+    },
+    {
+     "c": "Une Activiste du FLSO / Jeune Bourgeoise Accidentée (uncredited)",
+     "n": "Juliet Berto"
+    },
+    {
+     "c": "Girl in the Woods (uncredited)",
+     "n": "Michèle Breton"
+    },
+    {
+     "c": "Man From Farmyard (uncredited)",
+     "n": "Michel Cournot"
+    },
+    {
+     "c": "Revolutionary (uncredited)",
+     "n": "Lex De Bruijn"
+    },
+    {
+     "c": "Mon Frère Africain (uncredited)",
+     "n": "Omar Diop"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jean-Luc Godard"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 8075,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A supposedly idyllic weekend trip to the countryside turns into a never-ending nightmare of traffic jams, revolution, cannibalism and murder as French bourgeois society starts to collapse under the weight of its own consumer preoccupations.",
+   "popularity": 1.6387,
+   "poster_path": "/e9p8VdsAKXz1GoVXD36Lg5e3YKo.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1967-12-29",
+   "revenue": 0,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Weekend",
+   "trailer": {
+    "key": "dFJLuhVvBPM",
+    "name": "Original French Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.882,
+   "vote_count": 321
   },
   "movie:9275": {
    "backdrop_path": "/xse1f9OR0PVByGnTChplzUgYz7t.jpg",

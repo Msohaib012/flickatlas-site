@@ -1,6 +1,6 @@
 {
  "bucket": "18",
- "count": 53,
+ "count": 62,
  "titles": {
   "movie:1010818": {
    "d": "Groot's First Steps (2022): Animation/Family film. Story: Following the events of “Guardians of the Galaxy Vol. See cast and TMDB rating 7.0/10.",
@@ -118,6 +118,70 @@
    "t": "Material Girls (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2006"
   },
+  "movie:10618": {
+   "d": "Once Upon a Time in China II (1992): Action/Comedy film. Story: Wong Fei-Hung faces the White Lotus Society, a… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zrSmI2wP2WIkWrgfP7IDSY1F9fW.jpg",
+   "industry": "world",
+   "k": "Once Upon a Time in China II, Once Upon a Time in China II movie, Once Upon a Time in China II cast, Once Upon a Time in China II story, Once Upon a Time in China II box office collection, Once Upon a Time in China II budget, Once Upon a Time in China II review, Once Upon a Time in China II rating, Once Upon a Time in China II release date, Once Upon a Time in China II trailer, Once Upon a Time in China II Action, Once Upon a Time in China II Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jet Li"
+     },
+     {
+      "@type": "Person",
+      "name": "Rosamund Kwan Chi-Lam"
+     },
+     {
+      "@type": "Person",
+      "name": "Max Mok Siu-chung"
+     },
+     {
+      "@type": "Person",
+      "name": "Donnie Yen"
+     },
+     {
+      "@type": "Person",
+      "name": "David Chiang Da-wei"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 307,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Once Upon a Time in China II (1992): Action/Comedy film. Story: Wong Fei-Hung faces the White Lotus Society, a… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tsui Hark"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zrSmI2wP2WIkWrgfP7IDSY1F9fW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10618",
+    "name": "Once Upon a Time in China II",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1992-04-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10618"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Once Upon a Time in China II (1992)</h1>\n<p class=\"ssr-lead\">Wong Fei-Hung faces the White Lotus Society, a fanatical cult seeking to drive the Europeans out of China through violence, even attacking Chinese who follow Western ways. Wong must also defend revolutionary Dr. Sun Yat Sen from the military.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 April 1992</li><li>Runtime: 113 minutes</li><li>Director: Tsui Hark</li><li>Genres: Action, Comedy</li><li>TMDB rating: 7.2/10 (307 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jet Li as Wong Fei Hung</li><li>Rosamund Kwan Chi-Lam as 13th Aunt</li><li>Max Mok Siu-chung as Leung Foon</li><li>Donnie Yen as Commander Lan</li><li>David Chiang Da-wei as Luke Ho-Dung</li><li>Xiong Xinxin as Priest Gao Kung</li><li>Yen Shi-Kwan as Governor Chung</li><li>Leung Yat-Ho as Commander Lan&#x27;s Assistant</li><li>Paul Fonoroff as British Consul</li><li>Michael Miller as Dr. Thompson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel, HBO Max</li><li>Rent: Apple TV Store, Google Play Movies, Fandango At Home</li><li>Buy: Apple TV Store, Google Play Movies, Fandango At Home</li></ul>\n</article>",
+   "t": "Once Upon a Time in China II (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1992"
+  },
   "movie:10818": {
    "d": "Water Lilies (2007): Drama/Romance film. Story: Set during a sultry summer in a French suburb, Marie… See cast and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/an06c8GBu9W55aU3UTUSBKxKBFu.jpg",
@@ -181,6 +245,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Water Lilies (2007)</h1>\n<p class=\"ssr-lead\">Set during a sultry summer in a French suburb, Marie is desperate to join the local pool&#x27;s synchronized swimming team, but is her interest solely for the sake of sport or for a chance to get close to Floriane, the bad girl of the team? Sciamma, and the two leads, capture the uncertainty of teenage sexuality with a sympathetic eye in this delicate drama of the angst of coming-of-age.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 May 2007</li><li>Runtime: 85 minutes</li><li>Director: Céline Sciamma</li><li>Genres: Drama, Romance</li><li>TMDB rating: 6.5/10 (488 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pauline Acquart as Marie</li><li>Louise Blachère as Anne</li><li>Adèle Haenel as Floriane</li><li>Warren Jacquin as François</li><li>Christel Baras as L&#x27;inspectrice</li><li>Marie Gili-Pierre as La caissière</li><li>Alice de Lencquesaing as Fille vestiaire</li><li>Claire Pierrat as Fille vestiaire 2</li><li>Barbara Renard as Natacha</li><li>Esther Sironneau as La vendeuse</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel</li></ul>\n</article>",
    "t": "Water Lilies (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
+  },
+  "movie:11518": {
+   "d": "Mohabbatein (2000): Drama/Romance film. Story: At a prestigious all-male university, three friends… See cast, budget $4M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/s3IfP462ibiQkfU767D4YcMbKTt.jpg",
+   "industry": "bollywood",
+   "k": "Mohabbatein, Mohabbatein movie, Mohabbatein cast, Mohabbatein story, Mohabbatein box office collection, Mohabbatein budget, Mohabbatein review, Mohabbatein rating, Mohabbatein release date, Mohabbatein Drama, Mohabbatein Romance, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Amitabh Bachchan"
+     },
+     {
+      "@type": "Person",
+      "name": "Shah Rukh Khan"
+     },
+     {
+      "@type": "Person",
+      "name": "Uday Chopra"
+     },
+     {
+      "@type": "Person",
+      "name": "Jugal Hansraj"
+     },
+     {
+      "@type": "Person",
+      "name": "Jimmy Shergill"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 316,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Mohabbatein (2000): Drama/Romance film. Story: At a prestigious all-male university, three friends… See cast, budget $4M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Aditya Chopra"
+     }
+    ],
+    "duration": "PT216M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/s3IfP462ibiQkfU767D4YcMbKTt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11518",
+    "name": "Mohabbatein",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2000-10-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11518"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mohabbatein (2000)</h1>\n<p class=\"ssr-lead\">At a prestigious all-male university, three friends seek love outside of the school grounds; at the same time, a newly-hired music teacher seeks to befriend and loosen up the militantly strict headmaster.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 October 2000</li><li>Runtime: 216 minutes</li><li>Director: Aditya Chopra</li><li>Genres: Drama, Romance</li><li>Budget: $4M</li><li>TMDB rating: 7.1/10 (316 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Amitabh Bachchan as Narayan Shankar</li><li>Shah Rukh Khan as Raj Aryan Malhotra</li><li>Uday Chopra as Vicky</li><li>Jugal Hansraj as Sameer</li><li>Jimmy Shergill as Karan</li><li>Aishwarya Rai Bachchan as Megha</li><li>Preeti Jhangiani as Kiran</li><li>Shamita Shetty as Ishika</li><li>Kim Sharma as Sanjana</li><li>Anupam Kher as Kake</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Mohabbatein (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2000"
   },
   "movie:1155818": {
    "d": "Satluj (2026): Crime/Drama film. Story: Triggered by the search for his missing aunt, human… See cast, budget $4.5M, and TMDB rating 7.9/10.",
@@ -372,6 +500,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Birthday Party (2026)</h1>\n<p class=\"ssr-lead\">Thomas, Nora and their teenage daughter Ida live on remote marshland. Social contact is limited, as they only have one neighbour, Cristina, an Italian painter. As the two households plan a surprise birthday party for Nora, strange disturbances begin to occur and unease rolls over the marsh.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 September 2026</li><li>Runtime: 114 minutes</li><li>Director: Léa Mysius</li><li>Genres: Thriller</li><li>TMDB rating: 6.3/10 (22 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hafsia Herzi as Nora</li><li>Benoît Magimel as Franck</li><li>Bastien Bouillon as Thomas Bergogne</li><li>Monica Bellucci as Cristina</li><li>Tawba El Gharchi as Ida</li><li>Paul Hamy as Flo</li><li>Alane Delhaye as Bégue</li><li>Servane Ducorps as Estelle</li><li>Tatia Tsuladze as Kim</li><li>Jean-Paul Daniel as Chef de service</li></ul>\n</article>",
    "t": "The Birthday Party (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:12518": {
+   "d": "Honeymoon in Vegas (1992): Comedy/Romance film. Story: On her deathbed, a mother makes her son promise never… See cast, budget $25M, and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/okgLJmUGZr2CBgIgjTB1CXmlN33.jpg",
+   "industry": "world",
+   "k": "Honeymoon in Vegas, Honeymoon in Vegas movie, Honeymoon in Vegas cast, Honeymoon in Vegas story, Honeymoon in Vegas box office collection, Honeymoon in Vegas budget, Honeymoon in Vegas review, Honeymoon in Vegas rating, Honeymoon in Vegas release date, Honeymoon in Vegas Comedy, Honeymoon in Vegas Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "James Caan"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicolas Cage"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Jessica Parker"
+     },
+     {
+      "@type": "Person",
+      "name": "Pat Morita"
+     },
+     {
+      "@type": "Person",
+      "name": "Johnny Williams"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 336,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Honeymoon in Vegas (1992): Comedy/Romance film. Story: On her deathbed, a mother makes her son promise never… See cast, budget $25M, and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Andrew Bergman"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/okgLJmUGZr2CBgIgjTB1CXmlN33.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12518",
+    "name": "Honeymoon in Vegas",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1992-08-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12518"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Honeymoon in Vegas (1992)</h1>\n<p class=\"ssr-lead\">On her deathbed, a mother makes her son promise never to get married, which scars him with psychological blocks to a commitment with his girlfriend. They finally decide to tie the knot in Vegas, but a wealthy gambler arranges for the man to lose $65K in a poker game and offers to clear the debt for a weekend with his fiancée.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 August 1992</li><li>Runtime: 96 minutes</li><li>Director: Andrew Bergman</li><li>Genres: Comedy, Romance</li><li>Budget: $25M</li><li>TMDB rating: 5.7/10 (336 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>James Caan as Tommy Korman</li><li>Nicolas Cage as Jack Singer</li><li>Sarah Jessica Parker as Betsy / Donna</li><li>Pat Morita as Mahi Mahi</li><li>Johnny Williams as Johnny Sandwich</li><li>John Capodice as Sally Molars</li><li>Robert Costanzo as Sidney Tomashefsky</li><li>Anne Bancroft as Bea Singer</li><li>Peter Boyle as Chief Orman</li><li>Burton Gilliam as Roy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Honeymoon in Vegas (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1992"
   },
   "movie:12618": {
    "d": "Random Hearts (1999): Drama/Romance film. Story: After losing their spouses in a plane crash, an… See cast, budget $64M, and TMDB rating 5.6/10.",
@@ -627,6 +819,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>100 Nights of Hero (2025)</h1>\n<p class=\"ssr-lead\">When a charming house guest arrives at a remote castle, the delicate dynamic between a neglectful husband, his innocent bride Cherry and their devoted maid Hero is thrown into chaos.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 December 2025</li><li>Runtime: 91 minutes</li><li>Director: Julia Jackman</li><li>Genres: Fantasy, Romance</li><li>TMDB rating: 5.9/10 (30 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Emma Corrin as Hero</li><li>Nicholas Galitzine as Manfred</li><li>Maika Monroe as Cherry</li><li>Amir El-Masry as Jerome</li><li>Charli xcx as Rosa</li><li>Richard E. Grant as Birdman</li><li>Felicity Jones as Narrator / Moon</li><li>Safia Oakley-Green as Kiddo</li><li>Josh Cowdery as Beaked Brother Hugo</li><li>Markella Kavenagh as Mrs. A</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu, Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Sundance Now</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "100 Nights of Hero (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
+  },
+  "movie:135718": {
+   "d": "OMG: Oh My God! (2012): Comedy/Drama film. Story: A shopkeeper takes God to court when his shop is… See cast, budget $2.5M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kMUsTD4Dco26kkIUEhntbKZo0Ya.jpg",
+   "industry": "bollywood",
+   "k": "OMG: Oh My God!, OMG: Oh My God! movie, OMG: Oh My God! cast, OMG: Oh My God! story, OMG: Oh My God! box office collection, OMG: Oh My God! budget, OMG: Oh My God! review, OMG: Oh My God! rating, OMG: Oh My God! release date, OMG: Oh My God! Comedy, OMG: Oh My God! Drama, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Paresh Rawal"
+     },
+     {
+      "@type": "Person",
+      "name": "Akshay Kumar"
+     },
+     {
+      "@type": "Person",
+      "name": "Mithun Chakraborty"
+     },
+     {
+      "@type": "Person",
+      "name": "Om Puri"
+     },
+     {
+      "@type": "Person",
+      "name": "Mahesh Manjrekar"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 316,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "OMG: Oh My God! (2012): Comedy/Drama film. Story: A shopkeeper takes God to court when his shop is… See cast, budget $2.5M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Umesh Shukla"
+     }
+    ],
+    "duration": "PT125M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kMUsTD4Dco26kkIUEhntbKZo0Ya.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=135718",
+    "name": "OMG: Oh My God!",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-09-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=135718"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>OMG: Oh My God! (2012)</h1>\n<p class=\"ssr-lead\">A shopkeeper takes God to court when his shop is destroyed by an earthquake.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 September 2012</li><li>Runtime: 125 minutes</li><li>Director: Umesh Shukla</li><li>Genres: Comedy, Drama</li><li>Budget: $2.5M</li><li>TMDB rating: 7.3/10 (316 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paresh Rawal as Kanjibhai</li><li>Akshay Kumar as Krishna</li><li>Mithun Chakraborty as Leeladhar Swamy</li><li>Om Puri as Hanif Qureshi</li><li>Mahesh Manjrekar as Lawyer Sardesai</li><li>Puja Gupta as Hanif&#x27;s daughter</li><li>Apoorva Arora as Jigna</li><li>Poonam Jhawer as Gopi Ma</li><li>Krunal Pandit as Praveen</li><li>Harsh Chhaya</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "OMG: Oh My God! (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
   },
   "movie:1501018": {
    "d": "A Family of Bastards (2026): Comedy/Crime film. Story: After the death of his father, Mohamed discovers the… See cast and TMDB rating 5.7/10.",
@@ -1137,6 +1393,69 @@
    "t": "Shoot the Piano Player (1960) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1960"
   },
+  "movie:25518": {
+   "d": "La Belle Verte (1996): Comedy film. Story: As part of an intergalactic coalition, a well-meaning… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/a1ng6McskX9Qg8SJNE98zywG4ki.jpg",
+   "industry": "world",
+   "k": "La Belle Verte, La Belle Verte movie, La Belle Verte cast, La Belle Verte story, La Belle Verte box office collection, La Belle Verte budget, La Belle Verte review, La Belle Verte rating, La Belle Verte release date, La Belle Verte Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Coline Serreau"
+     },
+     {
+      "@type": "Person",
+      "name": "Vincent Lindon"
+     },
+     {
+      "@type": "Person",
+      "name": "James Thierrée"
+     },
+     {
+      "@type": "Person",
+      "name": "Marion Cotillard"
+     },
+     {
+      "@type": "Person",
+      "name": "Claire Keim"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 306,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "La Belle Verte (1996): Comedy film. Story: As part of an intergalactic coalition, a well-meaning… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Coline Serreau"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/a1ng6McskX9Qg8SJNE98zywG4ki.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=25518",
+    "name": "La Belle Verte",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1996-09-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=25518"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>La Belle Verte (1996)</h1>\n<p class=\"ssr-lead\">As part of an intergalactic coalition, a well-meaning space alien volunteers to bring a message of self-actualization and harmony with nature to the one planet rejected by all her peers as incorrigible: Earth.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 September 1996</li><li>Runtime: 99 minutes</li><li>Director: Coline Serreau</li><li>Genres: Comedy</li><li>TMDB rating: 7.2/10 (306 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Coline Serreau as Mila</li><li>Vincent Lindon as Max</li><li>James Thierrée as Mesaje</li><li>Marion Cotillard as Macha</li><li>Claire Keim as Sonia</li><li>Samuel Tasinaje as Mesaul</li><li>Catherine Samie as La femme sage</li><li>Paul Crauchet as Osam</li><li>Didier Flamand as Homme politique</li><li>Michel Lagueyrie</li></ul>\n</article>",
+   "t": "La Belle Verte (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1996"
+  },
   "movie:255718": {
    "d": "Barbie: The Pearl Princess (2014): Family/Animation film. Story: Barbie plays Lumina, a mermaid girl with the power to… See cast and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/nNVoQqLRgbjUNXGSsToql7hRfQI.jpg",
@@ -1524,6 +1843,133 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Alligator (1980)</h1>\n<p class=\"ssr-lead\">A baby alligator is flushed down a toilet and survives by eating discarded lab animals that have been injected with growth hormones. The now gigantic animal escapes the city sewers and goes on a rampage, pursued by a cop and a big-game hunter.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 1980</li><li>Runtime: 91 minutes</li><li>Director: Lewis Teague</li><li>Genres: Horror, Science Fiction, Thriller</li><li>Budget: $1.5M</li><li>TMDB rating: 6.0/10 (414 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert Forster as David</li><li>Robin Riker as Marisa</li><li>Michael V. Gazzo as Chief Clark</li><li>Dean Jagger as Slade</li><li>Sydney Lassick as Gutchel</li><li>Jack Carter as Mayor</li><li>Perry Lang as Kelly</li><li>Henry Silva as Brock</li><li>Bart Braverman as Kemp</li><li>John Lisbon Wood as Mad Bomber</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Peacock Premium, Philo, Night Flight Plus, Amazon Prime Video with Ads, Peacock Premium Plus, Shout! Factory Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Alligator (1980) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1980"
+  },
+  "movie:36218": {
+   "d": "Pokémon: Jirachi Wish Maker (2003): Family/Action film. Story: Ash, May, Brock, and Max come upon the festival of… See cast and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bGU8DD03FfsEPtUpu8zgu4TTHNf.jpg",
+   "industry": "world",
+   "k": "Pokémon: Jirachi Wish Maker, Pokémon: Jirachi Wish Maker movie, Pokémon: Jirachi Wish Maker cast, Pokémon: Jirachi Wish Maker story, Pokémon: Jirachi Wish Maker box office collection, Pokémon: Jirachi Wish Maker budget, Pokémon: Jirachi Wish Maker review, Pokémon: Jirachi Wish Maker rating, Pokémon: Jirachi Wish Maker release date, Pokémon: Jirachi Wish Maker Family, Pokémon: Jirachi Wish Maker Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rica Matsumoto"
+     },
+     {
+      "@type": "Person",
+      "name": "Yuji Ueda"
+     },
+     {
+      "@type": "Person",
+      "name": "KAORI"
+     },
+     {
+      "@type": "Person",
+      "name": "Fushigi Yamada"
+     },
+     {
+      "@type": "Person",
+      "name": "Ikue Otani"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 309,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Pokémon: Jirachi Wish Maker (2003): Family/Action film. Story: Ash, May, Brock, and Max come upon the festival of… See cast and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kunihiko Yuyama"
+     }
+    ],
+    "duration": "PT81M",
+    "genre": [
+     "Family",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bGU8DD03FfsEPtUpu8zgu4TTHNf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=36218",
+    "name": "Pokémon: Jirachi Wish Maker",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2003-07-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=36218"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pokémon: Jirachi Wish Maker (2003)</h1>\n<p class=\"ssr-lead\">Ash, May, Brock, and Max come upon the festival of the Wishing Star of Seven Nights. During their enjoyment, the legendary Pokemon--Jirachi, descends from the heavens and befriends Max. Jirachi, with the power to grant any wish, is sought after by many people wanting to claim its power. One man seeks to use its legendary power to revive an ancient Pokemon known as Groudon, unaware of the dangers hidden within Jirachi&#x27;s powers</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 July 2003</li><li>Runtime: 81 minutes</li><li>Director: Kunihiko Yuyama</li><li>Genres: Family, Action, Animation, Adventure, Fantasy, Science Fiction</li><li>TMDB rating: 6.6/10 (309 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rica Matsumoto as Satoshi (voice)</li><li>Yuji Ueda as Takeshi / Sonans (voice)</li><li>KAORI as Haruka (voice)</li><li>Fushigi Yamada as Masato (voice)</li><li>Ikue Otani as Pikachu (voice)</li><li>Tomiko Suzuki as Jirachi (voice)</li><li>Shin-ichiro Miki as Kojiro / Flygon (voice)</li><li>Megumi Hayashibara as Musashi / Absol (voice)</li><li>Inuko Inuyama as Nyarth (voice)</li><li>Koichi Yamadera as Butler (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Pokémon: Jirachi Wish Maker (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2003"
+  },
+  "movie:381518": {
+   "d": "Mindhorn (2016): Comedy film. Story: A washed up actor best known for playing the title… See cast, TMDB rating 6.1/10, and release date 9 October 2016.",
+   "img": "https://image.tmdb.org/t/p/w780/9pJXgycHE3P3CacBr1aeAi5feGN.jpg",
+   "industry": "world",
+   "k": "Mindhorn, Mindhorn movie, Mindhorn cast, Mindhorn story, Mindhorn box office collection, Mindhorn budget, Mindhorn review, Mindhorn rating, Mindhorn release date, Mindhorn trailer, Mindhorn Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Julian Barratt"
+     },
+     {
+      "@type": "Person",
+      "name": "Simon Farnaby"
+     },
+     {
+      "@type": "Person",
+      "name": "Essie Davis"
+     },
+     {
+      "@type": "Person",
+      "name": "Steve Coogan"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard McCabe"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 331,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Mindhorn (2016): Comedy film. Story: A washed up actor best known for playing the title… See cast, TMDB rating 6.1/10, and release date 9 October 2016.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sean Foley"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9pJXgycHE3P3CacBr1aeAi5feGN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=381518",
+    "name": "Mindhorn",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-10-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=381518"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mindhorn (2016)</h1>\n<p class=\"ssr-lead\">A washed up actor best known for playing the title character in the 1980s detective show &quot;Mindhorn&quot; must work with the police when a serial killer says that he will only speak with Detective Mindhorn, whom he believes to be real.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 October 2016</li><li>Runtime: 89 minutes</li><li>Director: Sean Foley</li><li>Genres: Comedy</li><li>TMDB rating: 6.1/10 (331 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Julian Barratt as Richard Thorncroft</li><li>Simon Farnaby as Clive Parnevik</li><li>Essie Davis as Patricia Deville</li><li>Steve Coogan as Peter Easterman</li><li>Richard McCabe as Jeffrey Moncrief</li><li>Andrea Riseborough as DC Elena Baines</li><li>Russell Tovey as Paul Melly</li><li>Robin Morrissey as PC Green</li><li>David Schofield as Chief Inspector Derek Newsome</li><li>Alannah Olivia as Casting Receptionist</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Studiocanal Presents Amazon Channel</li><li>Rent: Amazon Prime Video, Apple TV Store, Rakuten TV, Amazon Video, Sky Store, BFI Player, YouTube</li><li>Buy: Amazon Prime Video, Apple TV Store, Rakuten TV, Amazon Video, Sky Store, YouTube</li></ul>\n</article>",
+   "t": "Mindhorn (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
   },
   "movie:38718": {
    "d": "Reversal of Fortune (1990): Drama/Crime film. Story: Wealthy Sunny von Bülow lies brain-dead, husband… See cast and TMDB rating 6.7/10.",
@@ -1971,6 +2417,70 @@
    "t": "Beast (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
   },
+  "movie:47218": {
+   "d": "Happythankyoumoreplease (2011): Comedy/Drama film. Story: Six New Yorkers navigate love, commitment, and… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/70ZvRGM7UHVasF9MJWpUk6f0oGe.jpg",
+   "industry": "world",
+   "k": "Happythankyoumoreplease, Happythankyoumoreplease movie, Happythankyoumoreplease cast, Happythankyoumoreplease story, Happythankyoumoreplease box office collection, Happythankyoumoreplease budget, Happythankyoumoreplease review, Happythankyoumoreplease rating, Happythankyoumoreplease release date, Happythankyoumoreplease trailer, Happythankyoumoreplease Comedy, Happythankyoumoreplease Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Josh Radnor"
+     },
+     {
+      "@type": "Person",
+      "name": "Malin Akerman"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Mara"
+     },
+     {
+      "@type": "Person",
+      "name": "Zoe Kazan"
+     },
+     {
+      "@type": "Person",
+      "name": "Pablo Schreiber"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 317,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Happythankyoumoreplease (2011): Comedy/Drama film. Story: Six New Yorkers navigate love, commitment, and… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Josh Radnor"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/70ZvRGM7UHVasF9MJWpUk6f0oGe.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=47218",
+    "name": "Happythankyoumoreplease",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-10-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=47218"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Happythankyoumoreplease (2011)</h1>\n<p class=\"ssr-lead\">Six New Yorkers navigate love, commitment, and adulthood. When struggling novelist Sam takes in an abandoned boy he meets on the subway, his life begins to intertwine with a talented singer who challenges his bachelor ways. Meanwhile, his best friend Annie battles alopecia while torn between two drastically different men, and a long-term couple faces a crossroads that could alter their future together.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 October 2011</li><li>Runtime: 100 minutes</li><li>Director: Josh Radnor</li><li>Genres: Comedy, Drama, Romance</li><li>TMDB rating: 6.5/10 (317 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Josh Radnor as Sam</li><li>Malin Akerman as Annie</li><li>Kate Mara as Mississippi</li><li>Zoe Kazan as Mary Catherine</li><li>Pablo Schreiber as Charlie</li><li>Tony Hale as Sam #2</li><li>Michael Algieri as Rasheen</li><li>Jakob Appelman as School Boy</li><li>Dana Barron as The Gynecologist</li><li>Richard Jenkins as Paul Gertmanian</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Happythankyoumoreplease (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
   "movie:508018": {
    "d": "The Warning (2018): Thriller/Drama film. Story: Ten-year-old Nico receives a threatening letter and… See cast, budget $4.64M, and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/nyX2zXQ8eePITQNG7aj8RldHGgT.jpg",
@@ -2162,6 +2672,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>King of California (2007)</h1>\n<p class=\"ssr-lead\">Charlie gets released from an insane asylum and moves in with Miranda, the young daughter he left behind. Charlie believes that there is treasure hidden beneath the local Costco, so he puts together a plan to unearth the loot. By convincing Miranda to quit her job at McDonald&#x27;s and instead work at the wholesale store, he is able to obtain a key. Although Miranda is skeptical, she helps her father with his irrational quest.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 January 2007</li><li>Runtime: 93 minutes</li><li>Director: Mike Cahill</li><li>Genres: Comedy, Drama</li><li>Budget: $10M</li><li>TMDB rating: 6.4/10 (404 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Douglas as Charlie</li><li>Evan Rachel Wood as Miranda</li><li>Willis Burks II as Pepper</li><li>Kathleen Wilhoite as Kelly</li><li>Arthur Santiago as McDonald´s Manager</li><li>Anne L. Nathan as Applebee´s Manager</li><li>Ashley Greene as McDonald´s Customer</li><li>Ian Hopps as Boy</li><li>Paul Lieber as Doug</li><li>Laura Kachergus as Rita</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
    "t": "King of California (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
+  },
+  "movie:602518": {
+   "d": "The Devil of Venice (2019): Horror/Mystery film. Story: In 1950s Italy, a government official arrives in a… See cast and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4G77fFsEcl7RSlJSBREEzVDpszj.jpg",
+   "industry": "world",
+   "k": "The Devil of Venice, The Devil of Venice movie, The Devil of Venice cast, The Devil of Venice story, The Devil of Venice box office collection, The Devil of Venice budget, The Devil of Venice review, The Devil of Venice rating, The Devil of Venice release date, The Devil of Venice Horror, The Devil of Venice Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gabriel Lo Giudice"
+     },
+     {
+      "@type": "Person",
+      "name": "Filippo Franchini"
+     },
+     {
+      "@type": "Person",
+      "name": "Riccardo Claut"
+     },
+     {
+      "@type": "Person",
+      "name": "Lorenzo Salvatori"
+     },
+     {
+      "@type": "Person",
+      "name": "Chiara Sani"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 310,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "The Devil of Venice (2019): Horror/Mystery film. Story: In 1950s Italy, a government official arrives in a… See cast and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Pupi Avati"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4G77fFsEcl7RSlJSBREEzVDpszj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=602518",
+    "name": "The Devil of Venice",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-08-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=602518"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Devil of Venice (2019)</h1>\n<p class=\"ssr-lead\">In 1950s Italy, a government official arrives in a rural town to investigate a grisly child murder. The culprit is a young boy who claims he acted in order to kill the Devil itself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 August 2019</li><li>Runtime: 87 minutes</li><li>Director: Pupi Avati</li><li>Genres: Horror, Mystery</li><li>TMDB rating: 6.0/10 (310 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gabriel Lo Giudice as Furio Momenté</li><li>Filippo Franchini as Carlo Mongiorgi</li><li>Riccardo Claut as Paolino Osti</li><li>Lorenzo Salvatori as Emilio Vestri Musy</li><li>Chiara Sani as Maria Mongiorgi</li><li>Ludovica Pedetta as Laura Poli</li><li>Ariel Serra as Liù Quinterno</li><li>Fabio Ferrari as Alberto Collatina</li><li>Alberto Rossi as Sottosegretario Ministero di Grazia e Giustizia</li><li>Enrico Salimbeni as Giocatore Due</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "The Devil of Venice (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:736918": {
    "d": "The Noel Diary (2022): Romance/Comedy film. Story: Cleaning out his childhood home at Christmas, a… See cast and TMDB rating 6.3/10.",

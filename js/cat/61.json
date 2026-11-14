@@ -1,6 +1,6 @@
 {
  "bucket": "61",
- "count": 40,
+ "count": 51,
  "titles": {
   "movie:10361": {
    "backdrop_path": "/lhiLBuFJcRC0wkjsj04vfAfZWPm.jpg",
@@ -304,6 +304,117 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 24
+  },
+  "movie:12561": {
+   "backdrop_path": "/mTL72rHXjdwQYsfnuJC1Szbcckg.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Dr. Kensaku Ijuin",
+     "n": "Takuro Tatsumi"
+    },
+    {
+     "c": "Yukari Yamane",
+     "n": "Yoko Ishino"
+    },
+    {
+     "c": "Kenichi Yamane",
+     "n": "Yasufumi Hayashi"
+    },
+    {
+     "c": "Miki Saegusa",
+     "n": "Megumi Odaka"
+    },
+    {
+     "c": "Meru Ozawa",
+     "n": "Sayaka Osawa"
+    },
+    {
+     "c": "Professor Fukazawa",
+     "n": "Saburo Shinoda"
+    },
+    {
+     "c": "Commander Takaki Aso",
+     "n": "Akira Nakao"
+    },
+    {
+     "c": "Destoroyah",
+     "n": "Ryo Hariya"
+    },
+    {
+     "c": "Godzilla",
+     "n": "Kenpachirō Satsuma"
+    },
+    {
+     "c": "Dr. Daisuke Serizawa (archive footage)",
+     "n": "Akihiko Hirata"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Takao Okawara"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Horror"
+   ],
+   "id": 12561,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A burning Godzilla, on the verge of meltdown, emerges to lay siege to Hong Kong. At the same time horrifying new organisms are discovered in Japan. These crustacean-like beings are seemingly born of the Oxygen Destroyer, the weapon that killed the original Godzilla.",
+   "popularity": 3.669,
+   "poster_path": "/csebMf1IWokaWOughl5s3uX8p44.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1995-12-09",
+   "revenue": 18000000,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Godzilla dies",
+   "title": "Godzilla vs. Destoroyah",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.737,
+   "vote_count": 325
   },
   "movie:13061": {
    "backdrop_path": "/2oqiYVnxApzeGNC7hFprr2EHJdi.jpg",
@@ -936,6 +1047,156 @@
    "type": "movie",
    "vote_average": 6.33,
    "vote_count": 47
+  },
+  "movie:14361": {
+   "backdrop_path": "/cUqa9ngoI72dFGVQKVLsTbzj65B.jpg",
+   "budget": 24000000,
+   "cast": [
+    {
+     "c": "Captain Ron",
+     "n": "Kurt Russell"
+    },
+    {
+     "c": "Martin Harvey",
+     "n": "Martin Short"
+    },
+    {
+     "c": "Katherine Harvey",
+     "n": "Mary Kay Place"
+    },
+    {
+     "c": "Benjamin Harvey",
+     "n": "Benjamin Salisbury"
+    },
+    {
+     "c": "Caroline Harvey",
+     "n": "Meadow Sisto"
+    },
+    {
+     "c": "Bill",
+     "n": "Tom McGowan"
+    },
+    {
+     "c": "Zachery",
+     "n": "Dan Butler"
+    },
+    {
+     "c": "Donaldson",
+     "n": "Paul Anka"
+    },
+    {
+     "c": "General Armando",
+     "n": "Sunshine Logroño"
+    },
+    {
+     "c": "General's Translator",
+     "n": "Jorge Luis Ramos"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Thom Eberhardt"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 14361,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When mild-mannered Martin Harvey finds out that he has inherited a vintage yacht, he decides to take his family on a Caribbean vacation to retrieve the vessel. Upon arriving on a small island and realizing that the ship is in rough shape, Martin and his family end up with more than they bargained for as the roguish Captain Ron signs on to sail the boat to Miami. It doesn't take long before Ron's anything-goes antics get the Harveys into plenty of trouble.",
+   "popularity": 1.934,
+   "poster_path": "/otnKFXvqFH2swlrNf2sNiXpnIsR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1992-09-18",
+   "revenue": 22518097,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Martin just wanted a nice, quiet family vacation. Instead, he got... Captain Ron",
+   "title": "Captain Ron",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.621,
+   "vote_count": 339
   },
   "movie:1462861": {
    "backdrop_path": "/gZt1KXQRawEg3CTqzTamXYkniT4.jpg",
@@ -1783,6 +2044,97 @@
    "vote_average": 4.407,
    "vote_count": 27
   },
+  "movie:16761": {
+   "backdrop_path": "/bdo313RjHEymI0W5tKYBKE54Las.jpg",
+   "budget": 800000,
+   "cast": [
+    {
+     "c": "Toto (voice)",
+     "n": "Bruno Bichir"
+    },
+    {
+     "c": "Willy (voice)",
+     "n": "Carlos Espejel"
+    },
+    {
+     "c": "Bibi (voice)",
+     "n": "Angélica Vale"
+    },
+    {
+     "c": "Coco / Cuache / Iguano (voice)",
+     "n": "Rodolfo Riva Palacio Alatriste"
+    },
+    {
+     "c": "Confi / Serp / Torti / Huevo Poeta (voice)",
+     "n": "Gabriel Riva Palacio Alatriste"
+    },
+    {
+     "c": "Huevo de chocolate (voice)",
+     "n": "Humberto Vélez"
+    },
+    {
+     "c": "Huevo Líder (voice)",
+     "n": "Blas García"
+    },
+    {
+     "c": "Cocodrilo (voice)",
+     "n": "Rubén Moya"
+    },
+    {
+     "c": "Bebe (voice)",
+     "n": "Enzo Fortuny"
+    },
+    {
+     "c": "Bubi / Huevito Preso 1 (voice)",
+     "n": "Mario Filio"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "10",
+   "date_kind": "release",
+   "director": [
+    "Rodolfo Riva Palacio Alatriste",
+    "Gabriel Riva Palacio Alatriste"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 16761,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "A small egg named Toto decides that he wants to fulfill his purpose in life and become a chicken instead of dying in a frying pan; so he starts a quest to return to the farms along with his new friend, the noisy egg Willy and a crazy bacon stripe. The three friends will face lot of obstacles in their quest.",
+   "popularity": 2.2761,
+   "poster_path": "/eHqGqr5xBat3P2b9YdRbKMLli4J.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2006-04-21",
+   "revenue": 7144638,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Movie of Eggs",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.875,
+   "vote_count": 336
+  },
   "movie:186161": {
    "backdrop_path": "/jmZqL9yJ9DYuwzUv5mQUK946sXa.jpg",
    "budget": 7000000,
@@ -2072,6 +2424,178 @@
    "vote_average": 5.798,
    "vote_count": 386
   },
+  "movie:209361": {
+   "backdrop_path": "/o8QeIgs4CVNjFDZuAzXE1OIEuZ4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Paul Potts",
+     "n": "James Corden"
+    },
+    {
+     "c": "Julz",
+     "n": "Alexandra Roach"
+    },
+    {
+     "c": "Yvonne",
+     "n": "Julie Walters"
+    },
+    {
+     "c": "Roland Potts",
+     "n": "Colm Meaney"
+    },
+    {
+     "c": "Hydrangea",
+     "n": "Jemima Rooper"
+    },
+    {
+     "c": "Braddon",
+     "n": "Mackenzie Crook"
+    },
+    {
+     "c": "Matthew",
+     "n": "Trystan Gravelle"
+    },
+    {
+     "c": "Choirmaster",
+     "n": "Sion Tudor Owen"
+    },
+    {
+     "c": "Dr. Thorpe",
+     "n": "Alex Macqueen"
+    },
+    {
+     "c": "Signora Fiorentino",
+     "n": "Miriam Lucia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "David Frankel"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Music"
+   ],
+   "id": 209361,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "This film follows the remarkable and inspirational true story of Paul Potts, a shy, bullied shop assistant by day and an amateur opera singer by night.",
+   "popularity": 1.5242,
+   "poster_path": "/v7J3MW82NXvothqsN7gBizljnVj.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-09-09",
+   "revenue": 10900434,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The incredible true story of an underdog who never gave up.",
+   "title": "One Chance",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 329
+  },
   "movie:222461": {
    "backdrop_path": "/rxf3zpKOxQTc0xobKewnGpFdNUt.jpg",
    "budget": 0,
@@ -2226,6 +2750,254 @@
    "type": "movie",
    "vote_average": 6.379,
    "vote_count": 476
+  },
+  "movie:23761": {
+   "backdrop_path": "/cdsSLZKKpQsl4O4zFWEzkpD50x5.jpg",
+   "budget": 340000,
+   "cast": [
+    {
+     "c": "Catherine Spages",
+     "n": "Linda Miller"
+    },
+    {
+     "c": "Mrs. Tredoni",
+     "n": "Mildred Clinton"
+    },
+    {
+     "c": "Alice Spages",
+     "n": "Paula E. Sheppard"
+    },
+    {
+     "c": "Dom Spages",
+     "n": "Niles McMaster"
+    },
+    {
+     "c": "Aunt Annie DeLorenze",
+     "n": "Jane Lowry"
+    },
+    {
+     "c": "Father Tom",
+     "n": "Rudolph Willrich"
+    },
+    {
+     "c": "Detective Spina",
+     "n": "Michael Hardstark"
+    },
+    {
+     "c": "Mr. Alphonso",
+     "n": "Alphonso DeNoble"
+    },
+    {
+     "c": "Jim DeLorenze",
+     "n": "Gary Allen"
+    },
+    {
+     "c": "Karen Spages",
+     "n": "Brooke Shields"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Alfred Sole"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 23761,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Alice is a withdrawn 12-year-old who lives with her mother and her younger sister, Karen, who gets most of the attention from her mother, leaving Alice out of the spotlight. When Karen is found brutally murdered in a church, suspicions start to turn toward Alice. But could a 12-year-old girl really be capable of such savagery?",
+   "popularity": 2.1536,
+   "poster_path": "/izawwwy80RH7U7YKkdV1OpdPohZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Cultpix"
+    },
+    {
+     "name": "Artiflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "Midnight Pulp"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/hBR1NB5z52BHMqowq0TgZqMcDBv.png",
+     "name": "Cultpix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/hO4tZhtSJ7VrVnJusimkY3MltSx.png",
+     "name": "Artiflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1976-11-13",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "la",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "If you survive this night... nothing will scare you again.",
+   "title": "Alice, Sweet Alice",
+   "trailer": {
+    "key": "dwPfVlls1Kw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.384,
+   "vote_count": 332
+  },
+  "movie:24961": {
+   "backdrop_path": "/4CILG3fepXV2niGGp8XIJHDDOHZ.jpg",
+   "budget": 24000000,
+   "cast": [
+    {
+     "c": "Dorothy",
+     "n": "Diana Ross"
+    },
+    {
+     "c": "Scarecrow",
+     "n": "Michael Jackson"
+    },
+    {
+     "c": "Tinman",
+     "n": "Nipsey Russell"
+    },
+    {
+     "c": "Lion",
+     "n": "Ted Ross"
+    },
+    {
+     "c": "Evillene",
+     "n": "Mabel King"
+    },
+    {
+     "c": "Aunt Em",
+     "n": "Theresa Merritt"
+    },
+    {
+     "c": "Miss One",
+     "n": "Thelma Carpenter"
+    },
+    {
+     "c": "Glinda the Good",
+     "n": "Lena Horne"
+    },
+    {
+     "c": "The Wiz",
+     "n": "Richard Pryor"
+    },
+    {
+     "c": "Uncle Henry",
+     "n": "Stanley Greene"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Sidney Lumet"
+   ],
+   "genres": [
+    "Fantasy",
+    "Family",
+    "Adventure"
+   ],
+   "id": 24961,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Dorothy Gale, a shy kindergarten teacher, is swept away to the magic land of Oz where she embarks on a quest to return home.",
+   "popularity": 2.5513,
+   "poster_path": "/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1978-10-24",
+   "revenue": 21049053,
+   "runtime": 134,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The wiz! The stars! The music! Wow!",
+   "title": "The Wiz",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 337
   },
   "movie:253161": {
    "backdrop_path": "/eevB0urLnEpuGSu2GDHXcxEmbaA.jpg",
@@ -2407,6 +3179,153 @@
    "vote_average": 5.7,
    "vote_count": 425
   },
+  "movie:25961": {
+   "backdrop_path": "/dGulOAB9N4qJlafWxI4YczXDA4I.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Satoshi (voice)",
+     "n": "Rica Matsumoto"
+    },
+    {
+     "c": "Pikachu (voice)",
+     "n": "Ikue Otani"
+    },
+    {
+     "c": "Takeshi (voice)",
+     "n": "Yuji Ueda"
+    },
+    {
+     "c": "Hikari (voice)",
+     "n": "Megumi Toyoguchi"
+    },
+    {
+     "c": "Musashi (voice)",
+     "n": "Megumi Hayashibara"
+    },
+    {
+     "c": "Dai (voice)",
+     "n": "Ryuji Akiyama"
+    },
+    {
+     "c": "Buizel (voice)",
+     "n": "Kiyotaka Furushima"
+    },
+    {
+     "c": "Nyarth (voice)",
+     "n": "Inuko Inuyama"
+    },
+    {
+     "c": "Darkrai (voice)",
+     "n": "Koji Ishizaka"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Unsho Ishizuka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Kunihiko Yuyama"
+   ],
+   "genres": [
+    "Family",
+    "Adventure",
+    "Animation",
+    "Fantasy",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 25961,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Ash and friends (this time accompanied by newcomer Dawn) arrive at an idyllic village on their way to their next Pokemon contest, where chaos will soon erupt with the prophecy of two Pokemon Gods (Dialga and Palkia) and the arrival of a mysterious, seemingly deadly Pokemon named Darkrai, which has the power to distort space and time.",
+   "popularity": 2.7291,
+   "poster_path": "/yElGG6lxLtQXcgBVzF7Xxq7YRa2.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-07-14",
+   "revenue": 42496749,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Somewhere between time & space... a legend is born.",
+   "title": "Pokémon: The Rise of Darkrai",
+   "trailer": {
+    "key": "koKPESdDzYU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 329
+  },
   "movie:259761": {
    "backdrop_path": "/cVntX63U4vSeG1LOO5JDkY0i1Rc.jpg",
    "budget": 0,
@@ -2458,6 +3377,156 @@
    "type": "movie",
    "vote_average": 7.287,
    "vote_count": 413
+  },
+  "movie:28761": {
+   "backdrop_path": "/1ae6AzOM7GjIlNSPjsujbUPavXh.jpg",
+   "budget": 24000000,
+   "cast": [
+    {
+     "c": "John Wilson",
+     "n": "Clint Eastwood"
+    },
+    {
+     "c": "Pete Verrill",
+     "n": "Jeff Fahey"
+    },
+    {
+     "c": "Paul Landers",
+     "n": "George Dzundza"
+    },
+    {
+     "c": "Ralph Lockhart",
+     "n": "Alun Armstrong"
+    },
+    {
+     "c": "Mrs. Macgregor",
+     "n": "Mel Martin"
+    },
+    {
+     "c": "Harry",
+     "n": "Clive Mantle"
+    },
+    {
+     "c": "Hodkins",
+     "n": "Timothy Spall"
+    },
+    {
+     "c": "Irene Saunders",
+     "n": "Catherine Neilson"
+    },
+    {
+     "c": "Ogilvy",
+     "n": "Conrad Asquith"
+    },
+    {
+     "c": "Zibelinsky",
+     "n": "Alex Norton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Clint Eastwood"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama"
+   ],
+   "id": 28761,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Renowned filmmaker John Wilson travels to Africa to direct a new movie, but constantly leaves to hunt elephants and other game, to the dismay of his cast and crew. He eventually becomes obsessed with hunting down and killing one specific elephant.",
+   "popularity": 2.5258,
+   "poster_path": "/ppO7yFEqxuYqauKKJy43BLmiKGs.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1990-05-16",
+   "revenue": 2300000,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "An adventure in obsession...",
+   "title": "White Hunter, Black Heart",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.415,
+   "vote_count": 328
   },
   "movie:32761": {
    "backdrop_path": "/aI4PZbPUeuOc91OCi7TmjFza5Rk.jpg",
@@ -3626,6 +4695,105 @@
    "vote_average": 7.384,
    "vote_count": 453
   },
+  "movie:574861": {
+   "backdrop_path": "/ozg2NrBRVXVQknETYmalKt9mFdI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Béatrice Mazuret",
+     "n": "Alexandra Lamy"
+    },
+    {
+     "c": "Frédéric Mazuret",
+     "n": "José Garcia"
+    },
+    {
+     "c": "Fabrice",
+     "n": "Michaël Youn"
+    },
+    {
+     "c": "Nadia",
+     "n": "Anne Marivin"
+    },
+    {
+     "c": "JP",
+     "n": "Medi Sadoun"
+    },
+    {
+     "c": "Arnaud Lubert",
+     "n": "Michel Vuillermoz"
+    },
+    {
+     "c": "Bernard",
+     "n": "Nuno Lopes"
+    },
+    {
+     "c": "Hugues",
+     "n": "Guillaume Briat"
+    },
+    {
+     "c": "Odile",
+     "n": "Anne Girouard"
+    },
+    {
+     "c": "Emmanuelle",
+     "n": "Olivia Côte"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Eric Lavaine"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 574861,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Beatrice celebrates with her family the release of her book: she tells about the accident of her husband Frederic. He became blind and without filter - always so funny and seductive, he is totally unpredictable. But this book, hymn-to-life, will turn into a joyful fist because if Beatrice changed the names, each of his friends seeks to find his character. The book awakens secret jealousies, while the group of friends and family pitch.",
+   "popularity": 1.0401,
+   "poster_path": "/fzXjaN6CpJ9qD4nBcGYrfSlOIoH.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "France Channel Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-04-03",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "No Filter",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 319
+  },
   "movie:610461": {
    "backdrop_path": "/ebKa6nCRkKWU3KIuacEkEe6XSQl.jpg",
    "budget": 0,
@@ -3724,6 +4892,134 @@
    "type": "movie",
    "vote_average": 8.0,
    "vote_count": 393
+  },
+  "movie:661": {
+   "backdrop_path": "/ejp6CZQ64mEvewfit2fSIpOYxGR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maria Braun",
+     "n": "Hanna Schygulla"
+    },
+    {
+     "c": "Hermann Braun",
+     "n": "Klaus Löwitsch"
+    },
+    {
+     "c": "Karl Oswald",
+     "n": "Ivan Desny"
+    },
+    {
+     "c": "Bill",
+     "n": "George Eagles"
+    },
+    {
+     "c": "Mother",
+     "n": "Gisela Uhlen"
+    },
+    {
+     "c": "Betti Klenze",
+     "n": "Elisabeth Trissenaar"
+    },
+    {
+     "c": "Willi Klenze",
+     "n": "Gottfried John"
+    },
+    {
+     "c": "Senkenberg",
+     "n": "Hark Bohm"
+    },
+    {
+     "c": "Hans Wetzel",
+     "n": "Günter Lamprecht"
+    },
+    {
+     "c": "Frau Ehmke",
+     "n": "Lilo Pempeit"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Rainer Werner Fassbinder"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 661,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Maria marries a young soldier in the last days of World War II, only for him to go missing in the war. She must rely on her beauty and ambition to navigate the difficult post-war years alone.",
+   "popularity": 2.9739,
+   "poster_path": "/tXjZEzlf4WQwZ4Dt53gXeJVuO7p.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1979-03-23",
+   "revenue": 0,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "de",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Marriage of Maria Braun",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 315
   },
   "movie:677561": {
    "backdrop_path": "/vLEr8t7m5JXCZzmhjq9ZROq7dtr.jpg",
@@ -4371,6 +5667,111 @@
    "type": "movie",
    "vote_average": 7.638,
    "vote_count": 392
+  },
+  "movie:9261": {
+   "backdrop_path": "/AiADW9ru9v1DLbFo4Ac76CtlXjK.jpg",
+   "budget": 875000,
+   "cast": [
+    {
+     "c": "Mrs. Gao",
+     "n": "Gua Ah-leh"
+    },
+    {
+     "c": "Mr. Gao",
+     "n": "Lung Sihung"
+    },
+    {
+     "c": "Gu Wei-Wei",
+     "n": "May Chin"
+    },
+    {
+     "c": "Gao Wai-Tung",
+     "n": "Winston Chao Wen-hsuan"
+    },
+    {
+     "c": "Simon",
+     "n": "Mitchell Lichtenstein"
+    },
+    {
+     "c": "Mao Mei",
+     "n": "Vanessa Yang"
+    },
+    {
+     "c": "Andrew",
+     "n": "Dion Birney"
+    },
+    {
+     "c": "Wai-Tung's Secretary",
+     "n": "Jeanne Kuo Chang"
+    },
+    {
+     "c": "Justice of the Peace",
+     "n": "Michael Gaston"
+    },
+    {
+     "c": "Steve",
+     "n": "Neal Huff"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ang Lee"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 9261,
+   "industry": "world",
+   "origin_country": [
+    "TW"
+   ],
+   "original_language": "zh",
+   "overview": "A Taiwanese-American man is happily settled in New York with his American boyfriend. He plans a marriage of convenience to a Chinese woman in order to keep his parents off his back and to get the woman a green card. Chaos follows when his parents arrive in New York for the wedding.",
+   "popularity": 2.6742,
+   "poster_path": "/arWCA8lg0rbdlwHUMvI46LNDhnL.jpg",
+   "production_countries": [
+    "TW",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1993-03-01",
+   "revenue": 23633459,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "A little deception at the reception.",
+   "title": "The Wedding Banquet",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 309
   },
   "tv:21561": {
    "backdrop_path": "/yeuPvfPYK7Y3J3ZWqLF2IcWEi36.jpg",

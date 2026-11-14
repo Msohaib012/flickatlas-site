@@ -1,6 +1,6 @@
 {
  "bucket": "86",
- "count": 49,
+ "count": 56,
  "titles": {
   "movie:10886": {
    "backdrop_path": "/ckkDsME8QIqBDp1wO0PvJ2q5ACU.jpg",
@@ -299,6 +299,105 @@
    "type": "movie",
    "vote_average": 7.203,
    "vote_count": 493
+  },
+  "movie:12186": {
+   "backdrop_path": "/mqpcpd6CceRcM4FHeb5h8UJOMsJ.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Daniel Miller",
+     "n": "Albert Brooks"
+    },
+    {
+     "c": "Julia",
+     "n": "Meryl Streep"
+    },
+    {
+     "c": "Bob Diamond",
+     "n": "Rip Torn"
+    },
+    {
+     "c": "Lena Foster",
+     "n": "Lee Grant"
+    },
+    {
+     "c": "Agency Head",
+     "n": "Michael Durrell"
+    },
+    {
+     "c": "Jeep Owner",
+     "n": "James Eckhouse"
+    },
+    {
+     "c": "Car Salesman",
+     "n": "Gary Beach"
+    },
+    {
+     "c": "Tram Guide",
+     "n": "Julie Cobb"
+    },
+    {
+     "c": "Stan",
+     "n": "Peter Schuck"
+    },
+    {
+     "c": "Porter",
+     "n": "Time Winters"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Albert Brooks"
+   ],
+   "genres": [
+    "Romance",
+    "Fantasy",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 12186,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Is there love after death? After he dies suddenly, the hapless advertising executive Daniel Miller finds himself in Judgment City, a gleaming way station where the newly deceased must prove they lived a life of sufficient courage to advance in their journey through the universe. As the self-doubting Daniel struggles to make his case, a budding relationship with the uninhibited Julia offers him a chance to finally feel alive.",
+   "popularity": 2.0074,
+   "poster_path": "/flXJ4AnKYq8DH1f1TmQ4QrqSwsB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1991-04-05",
+   "revenue": 16371596,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "The first true story of what happens after you die.",
+   "title": "Defending Your Life",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.886,
+   "vote_count": 338
   },
   "movie:1284186": {
    "backdrop_path": "/uBRVzvMlNlKsegUCDXIwP7W6Ygb.jpg",
@@ -2072,6 +2171,135 @@
    "vote_average": 5.439,
    "vote_count": 387
   },
+  "movie:352186": {
+   "backdrop_path": "/8k7hVAUsMuJqZIRtd6T4Ewo8vfq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Andy Evans",
+     "n": "Nicholas Braun"
+    },
+    {
+     "c": "Nora Sullivan",
+     "n": "Zoey Deutch"
+    },
+    {
+     "c": "Lionel 'The Lion' Miller",
+     "n": "Mateo Arias"
+    },
+    {
+     "c": "Mike 'Spice' Jennings",
+     "n": "Israel Broussard"
+    },
+    {
+     "c": "Tinsley",
+     "n": "Julia Garner"
+    },
+    {
+     "c": "Gabby",
+     "n": "Ashley Judd"
+    },
+    {
+     "c": "Emily",
+     "n": "Virginia Gardner"
+    },
+    {
+     "c": "Tough Husband",
+     "n": "Randy Couture"
+    },
+    {
+     "c": "Yaco",
+     "n": "Demián Bichir"
+    },
+    {
+     "c": "Conch",
+     "n": "Dayo Okeniyi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Chris McCoy"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 352186,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Four high school students look to redefine themselves after graduation.",
+   "popularity": 1.7318,
+   "poster_path": "/9R3hZnqFNyFmG10qwKzaUntlUbg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-07-29",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Get ready for the summer of yes",
+   "title": "Good Kids",
+   "trailer": {
+    "key": "0ImuO4EBNWw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 340
+  },
   "movie:353686": {
    "backdrop_path": "/cY2NRhbnAH4AqeVGZ80EeCzbhoz.jpg",
    "budget": 0,
@@ -2172,6 +2400,104 @@
    "type": "movie",
    "vote_average": 5.3,
    "vote_count": 467
+  },
+  "movie:357786": {
+   "backdrop_path": "/tDM4UAaHxMrvODGIUj9ZixmyVmw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Koyomi Araragi (voice)",
+     "n": "Hiroshi Kamiya"
+    },
+    {
+     "c": "Kiss-Shot Acerola-Orion Heart-Under-Blade (voice)",
+     "n": "Maaya Sakamoto"
+    },
+    {
+     "c": "Tsubasa Hanekawa (voice)",
+     "n": "Yui Horie"
+    },
+    {
+     "c": "Meme Oshino (voice)",
+     "n": "Takahiro Sakurai"
+    },
+    {
+     "c": "Dramaturgy (voice)",
+     "n": "Masashi Ebara"
+    },
+    {
+     "c": "Episode (voice)",
+     "n": "Miyu Irino"
+    },
+    {
+     "c": "Guillotinecutter (voice)",
+     "n": "Hochu Otsuka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tatsuya Oishi",
+    "Akiyuki Shinbo"
+   ],
+   "genres": [
+    "Animation",
+    "Fantasy",
+    "Drama",
+    "Mystery",
+    "Action"
+   ],
+   "id": 357786,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "One day, Koyomi Araragi encounters the horrifying vampire, Kiss-shot Acerola-orion Heart-under-blade A.K.A. the \"King of Apparitions.\" He saves the fatally wounded Kiss-shot by offering his blood at the expense of his own life as a human. Now Koyomi has to face the vampire hunters to retrieve Kiss-shot’s limbs which were taken by these hunters...",
+   "popularity": 1.9187,
+   "poster_path": "/vftYhVOdvMCmb0dQIRIKmUYG9TU.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-01-08",
+   "revenue": 6319100,
+   "runtime": 63,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Kizumonogatari Part 1: Tekketsu",
+   "trailer": {
+    "key": "4lt0rT_nmvg",
+    "name": "KIZUMONOGATARI PART 1: TEKKETSU Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.7,
+   "vote_count": 329
   },
   "movie:39386": {
    "backdrop_path": "/wIK3PmfQFLISrFl455tq99kkVBW.jpg",
@@ -2569,6 +2895,181 @@
    "vote_average": 6.6,
    "vote_count": 379
   },
+  "movie:48186": {
+   "backdrop_path": "/1tmcsKQo0QzAzpvm1Akmkmxstjq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jordan",
+     "n": "Victoria Justice"
+    },
+    {
+     "c": "Hunter",
+     "n": "Chase Ellison"
+    },
+    {
+     "c": "Madame Varcolac",
+     "n": "Brooke Shields"
+    },
+    {
+     "c": "Ms. Carlsberg",
+     "n": "Anna Galvin"
+    },
+    {
+     "c": "David",
+     "n": "Matt Winston"
+    },
+    {
+     "c": "KC",
+     "n": "Jillian Marie Hubert"
+    },
+    {
+     "c": "Debbie",
+     "n": "Valerie Tian"
+    },
+    {
+     "c": "Cort McCann",
+     "n": "Kerry James"
+    },
+    {
+     "c": "Ashley",
+     "n": "Andrea Brooks"
+    },
+    {
+     "c": "Tiffany",
+     "n": "Christie Laing"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Eric Bross"
+   ],
+   "genres": [
+    "Family",
+    "Fantasy",
+    "TV Movie",
+    "Comedy"
+   ],
+   "id": 48186,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A Californian family inherits a castle in Romania. This is especially exciting to the son, who is obsessed with monsters. And he is not disappointed.",
+   "popularity": 2.1298,
+   "poster_path": "/i7lny9FF2ylyPDwdF70ImmSbOv3.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-10-22",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Boy Who Cried Werewolf",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.445,
+   "vote_count": 318
+  },
   "movie:4886": {
    "backdrop_path": "/anyaK6Ab3g2FQyXpTI36rAWRQsw.jpg",
    "budget": 0,
@@ -2691,6 +3192,96 @@
    "type": "movie",
    "vote_average": 7.041,
    "vote_count": 440
+  },
+  "movie:53486": {
+   "backdrop_path": "/h7vIVkj5sQfFnPdw8WgnV4P84vP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Geremia",
+     "n": "Giacomo Rizzo"
+    },
+    {
+     "c": "Gino",
+     "n": "Fabrizio Bentivoglio"
+    },
+    {
+     "c": "Rosalba",
+     "n": "Laura Chiatti"
+    },
+    {
+     "c": "Saverio, Rosalba's father",
+     "n": "Gigi Angelillo"
+    },
+    {
+     "c": "Geremia's mother",
+     "n": "Clara Bindi"
+    },
+    {
+     "c": "Bingo's Grandmother",
+     "n": "Barbara Valmorin"
+    },
+    {
+     "c": "Presenter",
+     "n": "Antonella Salvucci"
+    },
+    {
+     "c": "Attanasio",
+     "n": "Marco Giallini"
+    },
+    {
+     "c": "Massa",
+     "n": "Giorgio Colangeli"
+    },
+    {
+     "c": "Belana",
+     "n": "Alina Nedelea"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "date_kind": "release",
+   "director": [
+    "Paolo Sorrentino"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 53486,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Geremia, an aging tailor/money lender, is a repulsive, mean, stingy man who lives alone in his shabby house with his scornful, bedridden mother. He has a morbid, obsessive relationship with money and he uses it to insinuate himself into other people's affairs, pretending to be the \"family friend\". One day he is asked by a man to lend him money for the wedding of Rosalba, his daughter. Geremia falls in love at first sight with the bewitching creature and and soon indulges in a \"beauty and the beast\" relationship...",
+   "popularity": 1.0453,
+   "poster_path": "/4GErGIgZuhRbwMH9fYSQcZTeShT.jpg",
+   "production_countries": [
+    "IT",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2006-10-01",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Family Friend",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.22,
+   "vote_count": 316
   },
   "movie:5486": {
    "backdrop_path": "/2E2tfSguMHWrzbc29j1yKWifKDv.jpg",
@@ -3483,6 +4074,270 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 402
+  },
+  "movie:886": {
+   "backdrop_path": "/3IlZ4fSnthp0h1gPES3Ar03tqSy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eric Stoner (\"The Cincinnati Kid\")",
+     "n": "Steve McQueen"
+    },
+    {
+     "c": "Lancey Howard",
+     "n": "Edward G. Robinson"
+    },
+    {
+     "c": "Melba Nile",
+     "n": "Ann-Margret"
+    },
+    {
+     "c": "Shooter",
+     "n": "Karl Malden"
+    },
+    {
+     "c": "Christian Rudd",
+     "n": "Tuesday Weld"
+    },
+    {
+     "c": "Lady Fingers",
+     "n": "Joan Blondell"
+    },
+    {
+     "c": "William Jefferson Slade",
+     "n": "Rip Torn"
+    },
+    {
+     "c": "Pig",
+     "n": "Jack Weston"
+    },
+    {
+     "c": "Yeller",
+     "n": "Cab Calloway"
+    },
+    {
+     "c": "Hoban",
+     "n": "Jeff Corey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Norman Jewison"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 886,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An up-and-coming poker player tries to prove himself in a high-stakes match against a long-time master of the game.",
+   "popularity": 1.8448,
+   "poster_path": "/s4Apy8FcF6a0lR1Qay1atpfwAv9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1965-10-15",
+   "revenue": 15260000,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He'd take on anyone, at anything, anytime.",
+   "title": "The Cincinnati Kid",
+   "trailer": {
+    "key": "sWBWeVVaIPk",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.984,
+   "vote_count": 321
+  },
+  "movie:8986": {
+   "backdrop_path": "/A0rgmDhySzeYibyjUzC6NjtML7f.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "V",
+     "n": "Melanie Griffith"
+    },
+    {
+     "c": "Dad",
+     "n": "Ed Harris"
+    },
+    {
+     "c": "Frank",
+     "n": "Michael Patrick Carter"
+    },
+    {
+     "c": "Waltzer",
+     "n": "Malcolm McDowell"
+    },
+    {
+     "c": "Betty",
+     "n": "Anne Heche"
+    },
+    {
+     "c": "Cash",
+     "n": "Casey Siemaszko"
+    },
+    {
+     "c": "Jerry",
+     "n": "Philip Bosco"
+    },
+    {
+     "c": "Kevin",
+     "n": "Brian Christopher"
+    },
+    {
+     "c": "Brad",
+     "n": "Adam LaVorgna"
+    },
+    {
+     "c": "Mr. Clean",
+     "n": "Kevin Scannell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Richard Benjamin"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ],
+   "id": 8986,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Three young boys pool their money and pay V, a kindhearted prostitute, to strip for them. Afterward, she drives them home to the suburbs -- but then her car breaks down. It's just as well, though, because a mobster named Waltzer is after her, and V realizes the suburbs are the perfect place to hide. But things get a lot more complicated when V falls in love with Tom, a single father who is unaware of her real profession.",
+   "popularity": 2.5224,
+   "poster_path": "/od8SCOMLDq4iRYaHNqihQVn1SNE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1994-08-31",
+   "revenue": 18137661,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You can't get enough of a good thing... But first you have to find it.",
+   "title": "Milk Money",
+   "trailer": {
+    "key": "mQJDvN59u6o",
+    "name": "Milk Money - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 326
   },
   "movie:9686": {
    "backdrop_path": "/41EKMZkoZY2GSGwGLVsZIRVFViM.jpg",

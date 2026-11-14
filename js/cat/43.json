@@ -1,6 +1,6 @@
 {
  "bucket": "43",
- "count": 37,
+ "count": 43,
  "titles": {
   "movie:10243": {
    "backdrop_path": "/kQVe1fh6H3q5bCMM5nXt1tKS0hv.jpg",
@@ -314,6 +314,161 @@
    "type": "movie",
    "vote_average": 6.879,
    "vote_count": 365
+  },
+  "movie:10643": {
+   "backdrop_path": "/nv60CvL3fjosoJytnBcdJcF5l0L.jpg",
+   "budget": 8300000,
+   "cast": [
+    {
+     "c": "Yuji Shinoda",
+     "n": "Takehiro Murata"
+    },
+    {
+     "c": "Mitsuo Katagiri",
+     "n": "Hiroshi Abe"
+    },
+    {
+     "c": "Yuki Ichinose",
+     "n": "Naomi Nishida"
+    },
+    {
+     "c": "Io Shinoda",
+     "n": "Mayu Suzuki"
+    },
+    {
+     "c": "General Takada",
+     "n": "Takeo Nakahara"
+    },
+    {
+     "c": "Prof. Shiro Miyasaka",
+     "n": "Shiro Sano"
+    },
+    {
+     "c": "Gonno",
+     "n": "Takeshi Ōbayashi"
+    },
+    {
+     "c": "Shiosaki",
+     "n": "Shirô Namiki"
+    },
+    {
+     "c": "Okawa",
+     "n": "Hisashi Kimura"
+    },
+    {
+     "c": "",
+     "n": "Sakae Kimura"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Takao Okawara"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 10643,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "An independent group of researchers called the Godzilla Prediction Network (GPN) actively track Godzilla as he makes landfall in Nemuro.  Matters are further complicated when a giant meteor is discovered in the Ibaragi Prefecture. The mysterious rock begins to levitate as it's true intentions for the world and Godzilla are revealed.",
+   "popularity": 3.4655,
+   "poster_path": "/7BrjFxV0j5VzZRfVYeYbFXMUweB.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-09-29",
+   "revenue": 25000000,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Witness! A new era of Godzilla!",
+   "title": "Godzilla 2000: Millennium",
+   "trailer": {
+    "key": "ykM1erwrtiA",
+    "name": "GODZILLA 2000: MILLENNIUM - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.864,
+   "vote_count": 337
   },
   "movie:11443": {
    "backdrop_path": "/c8H6Xi9im1tT6HP9PA9HpFE3sOy.jpg",
@@ -1210,6 +1365,142 @@
    "vote_average": 7.1,
    "vote_count": 411
   },
+  "movie:157843": {
+   "backdrop_path": "/eYpu1C6Xe3FzHaw5MtMVxLjBtJf.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Gertrude Bell",
+     "n": "Nicole Kidman"
+    },
+    {
+     "c": "Henry Cadogan",
+     "n": "James Franco"
+    },
+    {
+     "c": "T.E. Lawrence",
+     "n": "Robert Pattinson"
+    },
+    {
+     "c": "Richard Wylie",
+     "n": "Damian Lewis"
+    },
+    {
+     "c": "Fattuh",
+     "n": "Jay Abdo"
+    },
+    {
+     "c": "Florance Bell",
+     "n": "Jenny Agutter"
+    },
+    {
+     "c": "Hugh Bell",
+     "n": "David Calder"
+    },
+    {
+     "c": "Winston Churchill",
+     "n": "Christopher Fulford"
+    },
+    {
+     "c": "Sir Mark Sykes",
+     "n": "Nick Waring"
+    },
+    {
+     "c": "Florence Lascelles",
+     "n": "Holly Earl"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "0",
+   "date_kind": "release",
+   "director": [
+    "Werner Herzog"
+   ],
+   "genres": [
+    "Drama",
+    "Adventure",
+    "History"
+   ],
+   "id": 157843,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A chronicle of Gertrude Bell's life, a traveler, writer, archaeologist, explorer, cartographer, and political attaché for the British Empire in the Near and Middle East at the dawn of the twentieth century. Her knowledge of the tribal leaders is used by the British to establish the Kingdoms of Iraq, Jordan and Saudi Arabia.",
+   "popularity": 2.5551,
+   "poster_path": "/tnav7efMoc9LwNMd96Ayymk3jYd.jpg",
+   "production_countries": [
+    "MA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Icon Film Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-09-03",
+   "revenue": 1592853,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ar",
+    "fr",
+    "tr"
+   ],
+   "status": "Released",
+   "tagline": "One woman can change the course of history",
+   "title": "Queen of the Desert",
+   "trailer": {
+    "key": "SU-bdMPV0V4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.811,
+   "vote_count": 315
+  },
   "movie:1601243": {
    "backdrop_path": "/diKBJ2kJHHfm4nmHTHhprBgfHIF.jpg",
    "budget": 0,
@@ -2078,6 +2369,128 @@
    "vote_average": 7.2,
    "vote_count": 459
   },
+  "movie:36243": {
+   "backdrop_path": "/flIztIygNv3r3wgJCDyxfnvH70K.jpg",
+   "budget": 9400000,
+   "cast": [
+    {
+     "c": "Yuri Tachibana",
+     "n": "Chiharu Niiyama"
+    },
+    {
+     "c": "SDF Adm. Taizô Tachibana",
+     "n": "Ryudo Uzaki"
+    },
+    {
+     "c": "Teruaki Takeda",
+     "n": "Masahiro Kobayashi"
+    },
+    {
+     "c": "Haruki Kadokura",
+     "n": "Shiro Sano"
+    },
+    {
+     "c": "AD Aki Maruo",
+     "n": "Takashi Nishina"
+    },
+    {
+     "c": "SDF Intelligence Capt. Kumi Emori",
+     "n": "Kaho Minami"
+    },
+    {
+     "c": "SDF L:t. Gen. Katsumasa Mikumo",
+     "n": "Shin'ya Ohwada"
+    },
+    {
+     "c": "SDF HQ Secretary Masato Hinogaki",
+     "n": "Kunio Murai"
+    },
+    {
+     "c": "Yutaka Hirose",
+     "n": "Hiroyuki Watanabe"
+    },
+    {
+     "c": "SDF Intelligence Maj. Tokihiko Kobayakawa",
+     "n": "Shingo Katsurayama"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Shusuke Kaneko"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Horror",
+    "Fantasy",
+    "Science Fiction"
+   ],
+   "id": 36243,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Godzilla has become a distant memory for Japan when the destruction of a US submarine raises alarms for Admiral Tachibana. His estranged daughter Yuri investigates the legend of the guardian monsters, who must rise to protect Japan against the vengeful spirits within Godzilla that seek to destroy both the nation and its people for the suffering they inflicted in the Pacific conflict.",
+   "popularity": 3.4207,
+   "poster_path": "/d3lMCQJfjCBlGFy5sWpsEaBnEPl.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2001-12-15",
+   "revenue": 20000000,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "The God of Destruction Godzilla lands in Japan!",
+   "title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.484,
+   "vote_count": 307
+  },
   "movie:4043": {
    "backdrop_path": "/kx3KdTmefo87oQEEhGqm6dLlAg0.jpg",
    "budget": 600000,
@@ -2316,6 +2729,106 @@
    "type": "movie",
    "vote_average": 6.381,
    "vote_count": 433
+  },
+  "movie:47943": {
+   "backdrop_path": "/mgNMFGVUezUAgOPJ57N2toQ7d6z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Michel",
+     "n": "Laurent Lucas"
+    },
+    {
+     "c": "Harry",
+     "n": "Sergi López"
+    },
+    {
+     "c": "Claire",
+     "n": "Mathilde Seigner"
+    },
+    {
+     "c": "Prune (Plum)",
+     "n": "Sophie Guillemin"
+    },
+    {
+     "c": "Mother",
+     "n": "Liliane Rovère"
+    },
+    {
+     "c": "Father",
+     "n": "Dominique Rozan"
+    },
+    {
+     "c": "Eric",
+     "n": "Michel Fau"
+    },
+    {
+     "c": "Jeanne",
+     "n": "Victoire de Koster"
+    },
+    {
+     "c": "Sarah",
+     "n": "Laurie Caminata"
+    },
+    {
+     "c": "Iris",
+     "n": "Lorena Caminiti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Dominik Moll"
+   ],
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 47943,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "While fixing up their summer cottage, Michel and his family run into a man who claims to have gone to high school with Michel.",
+   "popularity": 1.5316,
+   "poster_path": "/tQ6Ut3kPOpo3lRhPrW5QfkBDwGk.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "France Channel Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-08-15",
+   "revenue": 3818452,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Who needs enemies?",
+   "title": "With a Friend Like Harry...",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.798,
+   "vote_count": 307
   },
   "movie:489243": {
    "backdrop_path": "/4N6eXAhEm2rdwyMUrY2c4c7lTfO.jpg",
@@ -2994,6 +3507,141 @@
    "vote_average": 6.764,
    "vote_count": 426
   },
+  "movie:7343": {
+   "backdrop_path": "/1mJFeIf51DKAz84895htRmRzhs7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Acerola ´Ace´",
+     "n": "Douglas Silva"
+    },
+    {
+     "c": "Laranjinha `Wallace´",
+     "n": "Darlan Cunha"
+    },
+    {
+     "c": "Madrugadão ´Midnight`",
+     "n": "Jonathan Haagensen"
+    },
+    {
+     "c": "Heraldo",
+     "n": "Rodrigo de Odé"
+    },
+    {
+     "c": "Cris",
+     "n": "Camila Monteiro"
+    },
+    {
+     "c": "Camila",
+     "n": "Naima Silva"
+    },
+    {
+     "c": "Nefast ´Fasto´",
+     "n": "Eduardo 'BR' Piranha"
+    },
+    {
+     "c": "Fiel",
+     "n": "Luciano Vidigal"
+    },
+    {
+     "c": "Caju",
+     "n": "Pedro Henrique"
+    },
+    {
+     "c": "Clayton",
+     "n": "Vítor Oliveira"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Paulo Morelli"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 7343,
+   "industry": "world",
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "Best buddies Acerola and Laranjinha, about to turn 18, discover things about their missing fathers' pasts which will shatter their solid friendship, in the middle of a war between rival drug gangs from Rio's favelas.",
+   "popularity": 1.6767,
+   "poster_path": "/eVqTDE0seY23gw9aCpBmWTjIPdc.jpg",
+   "production_countries": [
+    "BR"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Essential"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-08-31",
+   "revenue": 307076,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "An unforgettable tale of friendship and survival in a city where the greatest challenge is growing up.",
+   "title": "City of Men",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 313
+  },
   "movie:79643": {
    "backdrop_path": "/sx5RlLVm3dh9IZxLlDGBX3I3V88.jpg",
    "budget": 0,
@@ -3227,6 +3875,121 @@
    "type": "movie",
    "vote_average": 4.954,
    "vote_count": 360
+  },
+  "movie:843543": {
+   "backdrop_path": "/vtnMv6btdq9ipALbwhRmHnIWukV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sheila",
+     "n": "Kaley Cuoco"
+    },
+    {
+     "c": "Gary",
+     "n": "Pete Davidson"
+    },
+    {
+     "c": "June",
+     "n": "Deborah S. Craig"
+    },
+    {
+     "c": "Sandra",
+     "n": "Sierra Fisk"
+    },
+    {
+     "c": "Young Gary",
+     "n": "Wesley Holloway"
+    },
+    {
+     "c": "Amit",
+     "n": "Rock Kohli"
+    },
+    {
+     "c": "Chai",
+     "n": "Hari Nef"
+    },
+    {
+     "c": "Phil the Bartender",
+     "n": "Kevin Corrigan"
+    },
+    {
+     "c": "Gertrude",
+     "n": "Rebecca Schull"
+    },
+    {
+     "c": "Ethel",
+     "n": "Pat Bowie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Alex Lehmann"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Science Fiction"
+   ],
+   "id": 843543,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A wildly inventive deconstruction of the romantic comedy built around the question: What would you do if you could travel to your loved ones’ past, heal their traumas, fix their problems, and change them into the perfect partner?",
+   "popularity": 2.4122,
+   "poster_path": "/9rp4nj7L3V5tPm2pWks4sX8NVKY.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-09-21",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Who says there's only one chance to make a first impression?",
+   "title": "Meet Cute",
+   "trailer": {
+    "key": "ADrWgBntlEE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.832,
+   "vote_count": 334
   },
   "movie:994143": {
    "backdrop_path": "/8Y0RxH5cXiKV8C9Wyj6JkW9VYaG.jpg",

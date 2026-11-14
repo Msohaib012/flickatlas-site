@@ -1,7 +1,365 @@
 {
  "bucket": "81",
- "count": 41,
+ "count": 49,
  "titles": {
+  "movie:1000081": {
+   "backdrop_path": "/jzdVz28uko3lGxuHFYI4n9vPBBe.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "François Sentinelle",
+     "n": "Jonathan Cohen"
+    },
+    {
+     "c": "Rémi Morisset",
+     "n": "Raphaël Quenard"
+    },
+    {
+     "c": "Florence Cazeaux-Rocher",
+     "n": "Emmanuelle Bercot"
+    },
+    {
+     "c": "Valéry Rocher",
+     "n": "Gustave Kervern"
+    },
+    {
+     "c": "Frédo",
+     "n": "Ramzy Bedia"
+    },
+    {
+     "c": "Sorcier",
+     "n": "Laurent Evuort"
+    },
+    {
+     "c": "Gilles Hoarau",
+     "n": "Ken Eind"
+    },
+    {
+     "c": "Rayanne",
+     "n": "Joseph Woerlen"
+    },
+    {
+     "c": "Jonas Terrence / Cascadeur",
+     "n": "Matthieu Virginius"
+    },
+    {
+     "c": "Freddy Terrence / Cascadeur",
+     "n": "Dimitri Virginius"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC16",
+   "date_kind": "release",
+   "director": [
+    "David Caviglioli",
+    "Hugo Benamozig"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ],
+   "id": 1000081,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "François Sentinelle has two lives. By day, he is the most famous cop of Réunion Island, known for his tough methods and flowery shirts, pursuing criminals in his famous yellow defender. But the rest of the time, Sentinelle is also a charming singer.",
+   "popularity": 1.0691,
+   "poster_path": "/wrFg0Q1kqfOhxlRvb8Dle7WF58F.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-08-27",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Sentinelle",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.255,
+   "vote_count": 320
+  },
+  "movie:1003581": {
+   "backdrop_path": "/soRpXRJOYqBBsDYuH3mLYSIeufk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Batman / Officer Wayne (voice)",
+     "n": "Jensen Ackles"
+    },
+    {
+     "c": "Superman / Agent Kent (voice)",
+     "n": "Darren Criss"
+    },
+    {
+     "c": "Wonder Woman / Diana Prince (voice)",
+     "n": "Stana Katic"
+    },
+    {
+     "c": "Martian Manhunter / J'onn J'onzz (voice)",
+     "n": "Ike Amadi"
+    },
+    {
+     "c": "Jonah Hex (voice)",
+     "n": "Troy Baker"
+    },
+    {
+     "c": "Old Man (voice)",
+     "n": "Matt Bomer"
+    },
+    {
+     "c": "Machiste (voice)",
+     "n": "Roger Cross"
+    },
+    {
+     "c": "Bat Lash (voice)",
+     "n": "Brett Dalton"
+    },
+    {
+     "c": "Drifter (voice)",
+     "n": "Trevor Devall"
+    },
+    {
+     "c": "Lobo (voice)",
+     "n": "John DiMaggio"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jeff Wamester"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Science Fiction",
+    "Adventure"
+   ],
+   "id": 1003581,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Until now, the Justice League has been a loose association of superpowered individuals. But when they are swept away to Warworld, a place of unending brutal gladiatorial combat, Batman, Superman, Wonder Woman and the others must somehow unite to form an unbeatable resistance able to lead an entire planet to freedom.",
+   "popularity": 2.5036,
+   "poster_path": "/pHdSS5G3wDwJp6jWgMpbSjNiTbr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-07-25",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Three heroes. Three worlds. One salvation.",
+   "title": "Justice League: Warworld",
+   "trailer": {
+    "key": "IPDLodUE9gg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.687,
+   "vote_count": 321
+  },
+  "movie:10081": {
+   "backdrop_path": "/4OH161N3H7SjKJXK0S6fzviLZap.jpg",
+   "budget": 11000000,
+   "cast": [
+    {
+     "c": "Rick Latimer",
+     "n": "Jim Belushi"
+    },
+    {
+     "c": "Jake Phillips",
+     "n": "Louis Gossett Jr."
+    },
+    {
+     "c": "Hilary Orozco",
+     "n": "Rae Dawn Chong"
+    },
+    {
+     "c": "Treena Lester (as Kelly Minter)",
+     "n": "Kelly Jo Minter"
+    },
+    {
+     "c": "Victor Duncan",
+     "n": "Michael Wright"
+    },
+    {
+     "c": "White Zac",
+     "n": "J.J. Cohen"
+    },
+    {
+     "c": "Raymi Rojas",
+     "n": "Esai Morales"
+    },
+    {
+     "c": "'Baby' Emile",
+     "n": "Troy Winbush"
+    },
+    {
+     "c": "Arturo Diego",
+     "n": "Jacob Vargas"
+    },
+    {
+     "c": "Mrs. Ripton",
+     "n": "Annabel Armour"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Christopher Cain"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Crime",
+    "Drama"
+   ],
+   "id": 10081,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Burglary. Drugs. Assault. Rape. The students at Brandel High are more than new Principal Rick Latimer bargained for. Gangs fight to control the school using knives - even guns - when they have to. When Latimer and the head of security try to clean up the school and stop the narcotics trade, they run up against a teenage mafia. A violent confrontation on the campus leads to a deadly showdown with the drug dealer's gang, and one last chance for Latimer to save his career... and his life.",
+   "popularity": 2.0664,
+   "poster_path": "/kwwDruwoHwNMY6tV7KOdVGcEusT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1987-09-18",
+   "revenue": 19734940,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He's teaching the students at Brandel High two words... NO MORE.",
+   "title": "The Principal",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.432,
+   "vote_count": 325
+  },
   "movie:10881": {
    "backdrop_path": "/cf8qwkSTSuHrRH9yIKfM6QYoCtB.jpg",
    "budget": 8000000,
@@ -613,6 +971,266 @@
    "vote_average": 7.013,
    "vote_count": 2558
   },
+  "movie:13581": {
+   "backdrop_path": "/9usqa6XNwQIduTwWh55F1xx0FLE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Walter Craig (Segment \"Linking Story\")",
+     "n": "Mervyn Johns"
+    },
+    {
+     "c": "Eliot Foley (Segment \"Linking Story\")",
+     "n": "Roland Culver"
+    },
+    {
+     "c": "Mrs. Foley (Segment \"Linking Story\")",
+     "n": "Mary Merrall"
+    },
+    {
+     "c": "Joan Cortland (Segment \"Linking Story\" & \"The Haunted Mirror\")",
+     "n": "Googie Withers"
+    },
+    {
+     "c": "Dr. Van Straaten (Segment \"Linking Story\" & \"The Ventriloquist's Dummy\")",
+     "n": "Frederick Valk"
+    },
+    {
+     "c": "Hugh Grainger (Segment \"Linking Story\" & \"The Hearse Conductor\")",
+     "n": "Anthony Baird"
+    },
+    {
+     "c": "Sally O'Hara (Segment \"Linking Story\" & \"The Christmas Story\")",
+     "n": "Sally Ann Howes"
+    },
+    {
+     "c": "Dr. Albury (Segment \"The Christmas Story\")",
+     "n": "Robert Wyndham"
+    },
+    {
+     "c": "Joyce Grainger (Segment \"Linking Story\" & \"The Hearse Conductor\")",
+     "n": "Judy Kelly"
+    },
+    {
+     "c": "Hearse Driver (Segment \"The Hearse Conductor\")",
+     "n": "Miles Malleson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Alberto Cavalcanti",
+    "Charles Crichton",
+    "Basil Dearden",
+    "Robert Hamer"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 13581,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "An architect, visiting an English country house, realizes the other guests are familiar from his recurring nightmare. When they share their tales of the supernatural, he is filled with a growing dread.",
+   "popularity": 1.7902,
+   "poster_path": "/6bpPtLRMbfSkH0k6sLdJRIcEeq3.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "IndieFlix Shorts Amazon Channel"
+    },
+    {
+     "name": "Chilling"
+    },
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lWzSEjT62Ob0XIHXdN7G4OQWCAr.png",
+     "name": "BFI Player Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/10011zizrQEpO955oxor51BM0IP.png",
+     "name": "IndieFlix Shorts Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/8MHJUtlpY7PGBclfvjryTzBEB7A.png",
+     "name": "Chilling",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1945-09-09",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The unexpected, the tragic, the comic, the romantic, the dramatic...",
+   "title": "Dead of Night",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.18,
+   "vote_count": 317
+  },
   "movie:1368881": {
    "backdrop_path": "/z1hekwU7a7FUP6XvqDwJjxAbrXJ.jpg",
    "budget": 0,
@@ -1046,6 +1664,158 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 199
+  },
+  "movie:146381": {
+   "backdrop_path": "/nJU9mcwhp3NyrEVawziufARy64B.jpg",
+   "budget": 22000000,
+   "cast": [
+    {
+     "c": "Talia (voice)",
+     "n": "Saoirse Ronan"
+    },
+    {
+     "c": "Justin (voice)",
+     "n": "Freddie Highmore"
+    },
+    {
+     "c": "Sir Clorex (voice)",
+     "n": "Antonio Banderas"
+    },
+    {
+     "c": "Heraclio (voice)",
+     "n": "Mark Strong"
+    },
+    {
+     "c": "Gran (voice)",
+     "n": "Julie Walters"
+    },
+    {
+     "c": "Queen (voice)",
+     "n": "Olivia Williams"
+    },
+    {
+     "c": "Reginald (voice)",
+     "n": "Alfred Molina"
+    },
+    {
+     "c": "Legantir (voice)",
+     "n": "Charles Dance"
+    },
+    {
+     "c": "Sota (voice)",
+     "n": "Rupert Everett"
+    },
+    {
+     "c": "Lara (voice)",
+     "n": "Tamsin Egerton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Manuel Sicilia"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure"
+   ],
+   "id": 146381,
+   "industry": "world",
+   "origin_country": [
+    "ES",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A heart-warming tale about friendship, honor & courage, which sees a young boy become a man as he embarks on a quest to become a knight.",
+   "popularity": 2.2212,
+   "poster_path": "/z6GrOTKOazrLnHQWVrN1pA082qi.jpg",
+   "production_countries": [
+    "ES",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-08-09",
+   "revenue": 19799759,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Justin and the Knights of Valour",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 340
   },
   "movie:14881": {
    "backdrop_path": "/xo8Mj2DI9hSivlX4DSNpNubP1Bt.jpg",
@@ -1901,6 +2671,161 @@
    "type": "movie",
    "vote_average": 6.23,
    "vote_count": 365
+  },
+  "movie:263281": {
+   "backdrop_path": "/d3tf2jxjpZNw088CjKQLS3aBIYa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Paul",
+     "n": "Jean Reno"
+    },
+    {
+     "c": "Théo",
+     "n": "Lukas Pelissier"
+    },
+    {
+     "c": "Adrien",
+     "n": "Hugo Dessioux"
+    },
+    {
+     "c": "Léa",
+     "n": "Chloé Jouannet"
+    },
+    {
+     "c": "Irène",
+     "n": "Anna Galiena"
+    },
+    {
+     "c": "Magali",
+     "n": "Aure Atika"
+    },
+    {
+     "c": "Tiago",
+     "n": "Tom Leeb"
+    },
+    {
+     "c": "Jean-Mi",
+     "n": "Jean-Michel Noirey"
+    },
+    {
+     "c": "Elie",
+     "n": "Hugues Aufray"
+    },
+    {
+     "c": "Laurette",
+     "n": "Charlotte de Turckheim"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Roselyne Bosch"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 263281,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In the wake of their parent's separation, three siblings spend the summer in the south of France with their estranged Grandfather. In less than 24 hours, a clash of generations has occurred between the teenagers and the old man. During this turbulent summer, both generations will be transformed by one another.",
+   "popularity": 1.8154,
+   "poster_path": "/lQPr7SXQosEeoT0ownuAONtszHT.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-04-02",
+   "revenue": 4519865,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "My Summer in Provence",
+   "trailer": {
+    "key": "Rq0ZaWsGhsE",
+    "name": "My Summer in Provence / Avis de mistral (2014) - Trailer English Subs",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.345,
+   "vote_count": 332
   },
   "movie:340481": {
    "backdrop_path": "/hZuFiZJJTKzmP4haYPA6aiRso99.jpg",
@@ -2916,6 +3841,180 @@
    "vote_average": 6.976,
    "vote_count": 432
   },
+  "movie:537681": {
+   "backdrop_path": "/FqmgG2cTm9SFuhy6k1FaVV5DxG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Franky Winter",
+     "n": "Josh Wiggins"
+    },
+    {
+     "c": "Ballas Kohl",
+     "n": "Darren Mann"
+    },
+    {
+     "c": "Natasha Kohl",
+     "n": "Taylor Hickson"
+    },
+    {
+     "c": "Carly Winter",
+     "n": "Maria Bello"
+    },
+    {
+     "c": "Ray Winter",
+     "n": "Kyle MacLachlan"
+    },
+    {
+     "c": "Michael",
+     "n": "Carson MacCormac"
+    },
+    {
+     "c": "Deanne Winter",
+     "n": "Olivia Scriven"
+    },
+    {
+     "c": "Mouse",
+     "n": "Niamh Wilson"
+    },
+    {
+     "c": "Priscilla",
+     "n": "Hailey Kittle"
+    },
+    {
+     "c": "Nic Kohl",
+     "n": "Peter Outerbridge"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Keith Behrman"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 537681,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two popular teen boys, best friends since childhood, discover their lives, families, and girlfriends dramatically upended after an unexpected incident occurs on the night of a 17th birthday party.",
+   "popularity": 1.3035,
+   "poster_path": "/j4U3nFK1JcvfCm9SyBta2g0eTwU.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-01-03",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Love without labels. Live without regrets.",
+   "title": "Giant Little Ones",
+   "trailer": {
+    "key": "G9Sqjsm8urw",
+    "name": "Giant Little Ones - Official Trailer - Out on DVD 10 February",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.085,
+   "vote_count": 317
+  },
   "movie:5781": {
    "backdrop_path": "/79ofDLTW1ozMSYDNWhDYe5cQzAa.jpg",
    "budget": 0,
@@ -3409,6 +4508,124 @@
    "type": "movie",
    "vote_average": 5.1,
    "vote_count": 344
+  },
+  "movie:787781": {
+   "backdrop_path": "/1jKBfRyeyJvBkJSKvNQ4nhIzTSx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Anne Yum",
+     "n": "Awkwafina"
+    },
+    {
+     "c": "Jenny Yum",
+     "n": "Sandra Oh"
+    },
+    {
+     "c": "Terry McTeer",
+     "n": "Will Ferrell"
+    },
+    {
+     "c": "Ron Heacock",
+     "n": "Jason Schwartzman"
+    },
+    {
+     "c": "Francine",
+     "n": "Holland Taylor"
+    },
+    {
+     "c": "Marge",
+     "n": "Angela Trimbur"
+    },
+    {
+     "c": "Mercedes",
+     "n": "Tawny Newsome"
+    },
+    {
+     "c": "Ben Franklin",
+     "n": "Tony Hale"
+    },
+    {
+     "c": "Ken",
+     "n": "Jonnie Park"
+    },
+    {
+     "c": "Darryl (Drunk Bro at Bar)",
+     "n": "Justiin Davis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jessica Yu"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 787781,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A brilliant but tightly wound, gameshow-obsessed young woman, Anne, and her estranged, train-wreck of a sister, Jenny, must work together to help cover their mother's gambling debts. When Anne's beloved dog is kidnapped, they set out on a wild, cross-country trek to get the cash the only way they know how: by turning Anne into a bona-fide gameshow champion.",
+   "popularity": 2.0769,
+   "poster_path": "/tqKiprkTUfXWi8bOjCl0lHtCwod.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-09-09",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Two sisters. One destiny.",
+   "title": "Quiz Lady",
+   "trailer": {
+    "key": "4OzaexEqDa8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.696,
+   "vote_count": 339
   },
   "movie:920081": {
    "backdrop_path": "/gvNmnvu13TPAewP54hvCyuHwNwR.jpg",

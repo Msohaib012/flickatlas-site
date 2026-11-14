@@ -1,6 +1,6 @@
 {
  "bucket": "85",
- "count": 51,
+ "count": 57,
  "titles": {
   "movie:11085": {
    "d": "Mutiny on the Bounty (1962): Adventure/Drama film. Story: The Bounty leaves Portsmouth in 1787. Its… See cast, budget $19M, and TMDB rating 7.0/10.",
@@ -1157,6 +1157,70 @@
    "t": "Ask Me Anything (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:30685": {
+   "d": "Blood Creek (2009): Horror/Thriller film. Story: A man and his brother on a mission of revenge become… See cast and TMDB rating 5.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/oFAwGYk2SIAnNiHjRiTFONE14kI.jpg",
+   "industry": "world",
+   "k": "Blood Creek, Blood Creek movie, Blood Creek cast, Blood Creek story, Blood Creek box office collection, Blood Creek budget, Blood Creek review, Blood Creek rating, Blood Creek release date, Blood Creek trailer, Blood Creek Horror, Blood Creek Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dominic Purcell"
+     },
+     {
+      "@type": "Person",
+      "name": "Henry Cavill"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Fassbender"
+     },
+     {
+      "@type": "Person",
+      "name": "Emma Booth"
+     },
+     {
+      "@type": "Person",
+      "name": "Rainer Winkelvoss"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 317,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "Blood Creek (2009): Horror/Thriller film. Story: A man and his brother on a mission of revenge become… See cast and TMDB rating 5.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joel Schumacher"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oFAwGYk2SIAnNiHjRiTFONE14kI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=30685",
+    "name": "Blood Creek",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-10-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=30685"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Blood Creek (2009)</h1>\n<p class=\"ssr-lead\">A man and his brother on a mission of revenge become trapped in a harrowing occult experiment dating back to the Third Reich.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 October 2009</li><li>Runtime: 90 minutes</li><li>Director: Joel Schumacher</li><li>Genres: Horror, Thriller</li><li>TMDB rating: 5.3/10 (317 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dominic Purcell as Victor Marshall</li><li>Henry Cavill as Evan Marshall</li><li>Michael Fassbender as Richard Wirth</li><li>Emma Booth as Liese Wollner</li><li>Rainer Winkelvoss as Otto Wollner</li><li>Shea Whigham as Luke Benny</li><li>Tony Barger as Larry</li><li>Ana Popescu as Meth Freak Girlfriend</li><li>Florin Piersic Jr. as Scrawny Meth Freak</li><li>Gerard McSorley as Mr. Marshall</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MovieSphere+ Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Blood Creek (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
   "movie:38285": {
    "d": "The Country Boy (1984): Comedy film. Story: A man is forced to completely change his habits when… See cast and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/nrlkA1yUj1cryt7qEz8qbrMGAOu.jpg",
@@ -1352,6 +1416,58 @@
    "t": "Beauty & the Briefcase (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
   },
+  "movie:406785": {
+   "d": "Inner Workings (2016): Animation/Family film. Story: This is the story of the internal struggle between a… See cast and TMDB rating 7.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bAqEMKPKkYjH3JeW4jeda2AogpR.jpg",
+   "industry": "world",
+   "k": "Inner Workings, Inner Workings movie, Inner Workings cast, Inner Workings story, Inner Workings box office collection, Inner Workings budget, Inner Workings review, Inner Workings rating, Inner Workings release date, Inner Workings trailer, Inner Workings Animation, Inner Workings Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tucker Gilmore"
+     },
+     {
+      "@type": "Person",
+      "name": "Raymond S. Persi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 314,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Inner Workings (2016): Animation/Family film. Story: This is the story of the internal struggle between a… See cast and TMDB rating 7.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Leo Matsuda"
+     }
+    ],
+    "duration": "PT7M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bAqEMKPKkYjH3JeW4jeda2AogpR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=406785",
+    "name": "Inner Workings",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-11-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=406785"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Inner Workings (2016)</h1>\n<p class=\"ssr-lead\">This is the story of the internal struggle between a man&#x27;s Brain—a pragmatic protector who calculates his every move, and his Heart—a free-spirited adventurer who wants to let loose.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 November 2016</li><li>Runtime: 7 minutes</li><li>Director: Leo Matsuda</li><li>Genres: Animation, Family, Comedy</li><li>TMDB rating: 7.8/10 (314 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tucker Gilmore as Paul / Surfer Dude / Radio Host (voice)</li><li>Raymond S. Persi as Stomach / Monk (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li><li>Buy: Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Inner Workings (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
   "movie:431185": {
    "d": "He's Out There (2018): Horror/Thriller film. Story: On vacation at a remote lake house, a mother and her… See cast and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/dMy6C8tcvXNFuOdL6pdppmvAgia.jpg",
@@ -1480,6 +1596,70 @@
    "t": "The Longest Yard (1974) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1974"
   },
+  "movie:504585": {
+   "d": "Little Joe (2019): Drama/Science Fiction film. Story: Alice, a single mother who is more dedicated to her… See cast and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jnq1lg6Fd8b6pn5ud5hVFS2hSyf.jpg",
+   "industry": "world",
+   "k": "Little Joe, Little Joe movie, Little Joe cast, Little Joe story, Little Joe box office collection, Little Joe budget, Little Joe review, Little Joe rating, Little Joe release date, Little Joe trailer, Little Joe Drama, Little Joe Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Emily Beecham"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Whishaw"
+     },
+     {
+      "@type": "Person",
+      "name": "Kerry Fox"
+     },
+     {
+      "@type": "Person",
+      "name": "Kit Connor"
+     },
+     {
+      "@type": "Person",
+      "name": "David Wilmot"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 338,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Little Joe (2019): Drama/Science Fiction film. Story: Alice, a single mother who is more dedicated to her… See cast and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jessica Hausner"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Drama",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jnq1lg6Fd8b6pn5ud5hVFS2hSyf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=504585",
+    "name": "Little Joe",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-11-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=504585"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Little Joe (2019)</h1>\n<p class=\"ssr-lead\">Alice, a single mother who is more dedicated to her work as a genetic engineer than to her teenage son Joe, develops a new variety of flower that is supposed to have the ability to make its owner happy thanks to its special chemical properties.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 November 2019</li><li>Runtime: 106 minutes</li><li>Director: Jessica Hausner</li><li>Genres: Drama, Science Fiction</li><li>TMDB rating: 5.7/10 (338 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Emily Beecham as Alice</li><li>Ben Whishaw as Chris</li><li>Kerry Fox as Bella</li><li>Kit Connor as Joe</li><li>David Wilmot as Karl</li><li>Phénix Brossard as Ric</li><li>Sebastian Hülk as Ivan</li><li>Lindsay Duncan as Psychotherapist</li><li>Jessie Mae Alonzo as Selma</li><li>Andrew Rajan as Jasper</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, Magnolia Selects Amazon Channel, Monsters and Nightmares Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Little Joe (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
   "movie:5185": {
    "d": "The Private Life of Sherlock Holmes (1970): Mystery/Crime film. Story: When a bored Sherlock eagerly takes the case of… See cast and budget $10M.",
    "img": "https://image.tmdb.org/t/p/w780/9FxGJdhpvDjb0qvhEjNFT3a1r4L.jpg",
@@ -1543,6 +1723,198 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Private Life of Sherlock Holmes (1970)</h1>\n<p class=\"ssr-lead\">When a bored Sherlock eagerly takes the case of Gabrielle Valladon following an attempt on her life, the search for her missing husband leads to Loch Ness and the legendary monster.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 October 1970</li><li>Runtime: 125 minutes</li><li>Director: Billy Wilder</li><li>Genres: Mystery, Crime, Comedy</li><li>Budget: $10M</li><li>TMDB rating: 6.8/10 (356 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert Stephens as Sherlock Holmes</li><li>Colin Blakely as Dr. John Watson</li><li>Geneviève Page as Gabrielle Valadon</li><li>Christopher Lee as Mycroft Holmes</li><li>Tamara Toumanova as Madame Petrova</li><li>Clive Revill as Nikolai Rogozhin</li><li>Irene Handl as Mrs. Hudson</li><li>Mollie Maureen as Queen Victoria</li><li>Stanley Holloway as Gravedigger</li><li>Catherine Lacey as Woman in Wheelchair</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "The Private Life of Sherlock Holmes (1970) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1970"
+  },
+  "movie:528985": {
+   "d": "Assimilate (2019): Horror/Thriller film. Story: Three friends making a web series about their town… See cast, TMDB rating 6.3/10, and release date 24 May 2019.",
+   "img": "https://image.tmdb.org/t/p/w780/hfwbqmZZBb0qdPVY5e6wT8tdk3E.jpg",
+   "industry": "world",
+   "k": "Assimilate, Assimilate movie, Assimilate cast, Assimilate story, Assimilate box office collection, Assimilate budget, Assimilate review, Assimilate rating, Assimilate release date, Assimilate Horror, Assimilate Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Andi Matichak"
+     },
+     {
+      "@type": "Person",
+      "name": "Cam Gigandet"
+     },
+     {
+      "@type": "Person",
+      "name": "Calum Worthy"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessica Medina"
+     },
+     {
+      "@type": "Person",
+      "name": "Joel Courtney"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 311,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Assimilate (2019): Horror/Thriller film. Story: Three friends making a web series about their town… See cast, TMDB rating 6.3/10, and release date 24 May 2019.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Murlowski"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hfwbqmZZBb0qdPVY5e6wT8tdk3E.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=528985",
+    "name": "Assimilate",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-05-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=528985"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Assimilate (2019)</h1>\n<p class=\"ssr-lead\">Three friends making a web series about their town discover that their neighbors are being killed and replaced by creatures who are perfect copies of their victims.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 May 2019</li><li>Runtime: 93 minutes</li><li>Director: John Murlowski</li><li>Genres: Horror, Thriller, Science Fiction</li><li>TMDB rating: 6.3/10 (311 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Andi Matichak as Kayla Shepard</li><li>Cam Gigandet as Josh Haywood</li><li>Calum Worthy as Randy Foster</li><li>Jessica Medina as Replicate</li><li>Joel Courtney as Zach Henderson</li><li>Katherine McNamara as Hannah</li><li>Mason McNulty as Joey Shepard</li><li>John Murlowski as Mr. Fritts</li><li>Terry Dale Parks as Pastor Greg</li><li>Vito Viscuso as Larry Shepard</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Assimilate (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
+  "movie:53985": {
+   "d": "Mutant Pumpkins from Outer Space (2009): TV Movie/Animation film. Story: Susan Murphy (a.k.a. Ginormica) and the Monsters are… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sGRYgQkVfUvJiCzz8RZ0Zb1wyHq.jpg",
+   "industry": "world",
+   "k": "Mutant Pumpkins from Outer Space, Mutant Pumpkins from Outer Space movie, Mutant Pumpkins from Outer Space cast, Mutant Pumpkins from Outer Space story, Mutant Pumpkins from Outer Space box office collection, Mutant Pumpkins from Outer Space budget, Mutant Pumpkins from Outer Space review, Mutant Pumpkins from Outer Space rating, Mutant Pumpkins from Outer Space release date, Mutant Pumpkins from Outer Space TV Movie, Mutant Pumpkins from Outer Space Animation, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Seth Rogen"
+     },
+     {
+      "@type": "Person",
+      "name": "Reese Witherspoon"
+     },
+     {
+      "@type": "Person",
+      "name": "Hugh Laurie"
+     },
+     {
+      "@type": "Person",
+      "name": "Will Arnett"
+     },
+     {
+      "@type": "Person",
+      "name": "Kiefer Sutherland"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 308,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Mutant Pumpkins from Outer Space (2009): TV Movie/Animation film. Story: Susan Murphy (a.k.a. Ginormica) and the Monsters are… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peter Ramsey"
+     }
+    ],
+    "duration": "PT27M",
+    "genre": [
+     "TV Movie",
+     "Animation"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sGRYgQkVfUvJiCzz8RZ0Zb1wyHq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=53985",
+    "name": "Mutant Pumpkins from Outer Space",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-04-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=53985"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mutant Pumpkins from Outer Space (2009)</h1>\n<p class=\"ssr-lead\">Susan Murphy (a.k.a. Ginormica) and the Monsters are now working with the US government as special ops. So when an alien presence is detected in Susan&#x27;s hometown of Modesto, California -- right before Halloween -- the team is dispatched to investigate. Everything appears normal, right down to the jack-o-lanterns peering out from every doorstep and windowsill. But when Halloween arrives, those innocent-looking carved pumpkins reveal themselves for what they really are mutant aliens. The altered pumpkins then start to implement their fiendish plan to take over Earth. The Monsters are there to combat the mutant gourds and try to smash their wicked scheme!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 April 2009</li><li>Runtime: 27 minutes</li><li>Director: Peter Ramsey</li><li>Genres: TV Movie, Animation, Family, Comedy, Science Fiction</li><li>TMDB rating: 6.1/10 (308 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Seth Rogen as B.O.B. (voice)</li><li>Reese Witherspoon as Susan Murphy / Ginormica (voice)</li><li>Hugh Laurie as Dr. Cockroach Ph.D. (voice)</li><li>Will Arnett as The Missing Link (voice)</li><li>Kiefer Sutherland as General W.R. Monger (voice)</li><li>Rainn Wilson as Wicked Jack (voice)</li><li>Jeffrey Tambor as Carl Murphy (voice)</li><li>Julie White as Wendy Murphy (voice)</li><li>Rich Dietl as B.O.B. Kid / Husband / Pumpkins (voice)</li><li>Walt Dohrn as Link Kid (voice)</li></ul>\n</article>",
+   "t": "Mutant Pumpkins from Outer Space (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
+  "movie:550385": {
+   "d": "Christmas with a View (2018): TV Movie/Romance film. Story: This Christmas, Thunder Mountain Ski Resort is abuzz… See cast and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/h7u2zCHb4QW59Jbk5xuiUOuQyyJ.jpg",
+   "industry": "world",
+   "k": "Christmas with a View, Christmas with a View movie, Christmas with a View cast, Christmas with a View story, Christmas with a View box office collection, Christmas with a View budget, Christmas with a View review, Christmas with a View rating, Christmas with a View release date, Christmas with a View trailer, Christmas with a View TV Movie, Christmas with a View Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kaitlyn Leeb"
+     },
+     {
+      "@type": "Person",
+      "name": "Scott Cavalheiro"
+     },
+     {
+      "@type": "Person",
+      "name": "Joseph Cannata"
+     },
+     {
+      "@type": "Person",
+      "name": "Vivica A. Fox"
+     },
+     {
+      "@type": "Person",
+      "name": "Patrick Duffy"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 330,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Christmas with a View (2018): TV Movie/Romance film. Story: This Christmas, Thunder Mountain Ski Resort is abuzz… See cast and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Justin G. Dyck"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "TV Movie",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/h7u2zCHb4QW59Jbk5xuiUOuQyyJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=550385",
+    "name": "Christmas with a View",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-11-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=550385"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Christmas with a View (2018)</h1>\n<p class=\"ssr-lead\">This Christmas, Thunder Mountain Ski Resort is abuzz when celebrity chef Shane Roarke is named the new head chef. Clara Garrison isn&#x27;t as excited and is instead focused on getting resettled after her failed attempt at opening a restaurant in the city. With their paths constantly crossing, will their shared passion for cooking bring them together or will secrets keep them apart?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 November 2018</li><li>Runtime: 90 minutes</li><li>Director: Justin G. Dyck</li><li>Genres: TV Movie, Romance, Family</li><li>TMDB rating: 5.8/10 (330 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kaitlyn Leeb as Clara Garrison</li><li>Scott Cavalheiro as Shane</li><li>Joseph Cannata as Clive</li><li>Vivica A. Fox as Lydia</li><li>Patrick Duffy as Frank Haven</li><li>Nicole Stamp as Maude</li><li>Genevieve Kang as Darlene</li><li>Mark Ghanimé as Mr. Peters</li><li>Jess Walton as Jackie Haven</li><li>Brigitte Kingsley as Janice A</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, UP Faith &amp; Family Apple TV channel, UP Faith &amp; Family Amazon Channel</li><li>Rent: Amazon Video, Fandango At Home</li><li>Buy: Amazon Video, Fandango At Home</li></ul>\n</article>",
+   "t": "Christmas with a View (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
   },
   "movie:571785": {
    "d": "Time to Hunt (2020): Drama/Action film. Story: Four young men want to leave their dystopian world… See cast, budget $9.07M, and TMDB rating 7.1/10.",

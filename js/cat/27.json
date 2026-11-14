@@ -1,7 +1,96 @@
 {
  "bucket": "27",
- "count": 40,
+ "count": 51,
  "titles": {
+  "movie:103327": {
+   "backdrop_path": "/1ESciDN81pKupe1Gb8rmWhmYzKr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gustave Latouche / Ghislaine Latouche",
+     "n": "Élie Semoun"
+    },
+    {
+     "c": "Ghislaine Rateau",
+     "n": "Joséphine de Meaux"
+    },
+    {
+     "c": "Adeline Gratin",
+     "n": "Héléna Noguerra"
+    },
+    {
+     "c": "Hervé Ducobu",
+     "n": "Pierre-François Martin-Laval"
+    },
+    {
+     "c": "Esteban",
+     "n": "Bruno Salomone"
+    },
+    {
+     "c": "Ducobu",
+     "n": "François Viette"
+    },
+    {
+     "c": "Léonie Gratin",
+     "n": "Juliette Chappey"
+    },
+    {
+     "c": "le directeur du village de vacances",
+     "n": "Cyril Lecomte"
+    },
+    {
+     "c": "le vieux marin",
+     "n": "Jean-Marc Ravera"
+    },
+    {
+     "c": "Antoine Ferchereau",
+     "n": "André Penvern"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Philippe de Chauveron"
+   ],
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 103327,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Ducobu goes on holiday in the south of France.",
+   "popularity": 0.9681,
+   "poster_path": "/jl6Ze8DRXsm3vCgwajJ0cpRsjh3.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2012-04-24",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Ducoboo 2: Crazy Vacation",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.7,
+   "vote_count": 307
+  },
   "movie:10427": {
    "backdrop_path": "/awzAeboEEQxTd0FH60Hn9JbVZIA.jpg",
    "budget": 8000000,
@@ -155,6 +244,101 @@
    "type": "movie",
    "vote_average": 6.782,
    "vote_count": 424
+  },
+  "movie:10627": {
+   "backdrop_path": "/vpkhxXlhBdykd0cicgIZzSvpaRc.jpg",
+   "budget": 14000000,
+   "cast": [
+    {
+     "c": "General Harlan Bache",
+     "n": "George C. Scott"
+    },
+    {
+     "c": "Cadet Major Brian Moreland",
+     "n": "Timothy Hutton"
+    },
+    {
+     "c": "Colonel Kerby",
+     "n": "Ronny Cox"
+    },
+    {
+     "c": "Cadet Captain Alex Dwyer",
+     "n": "Sean Penn"
+    },
+    {
+     "c": "Cadet Captain David Shawn",
+     "n": "Tom Cruise"
+    },
+    {
+     "c": "Derek Mellott",
+     "n": "John P. Navin Jr."
+    },
+    {
+     "c": "Bug",
+     "n": "Billy Van Zandt"
+    },
+    {
+     "c": "Edward West",
+     "n": "Evan Handler"
+    },
+    {
+     "c": "Cadet Captain J.C. Pierce",
+     "n": "Giancarlo Esposito"
+    },
+    {
+     "c": "Charlie Auden",
+     "n": "Brendan Ward"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Harold Becker"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 10627,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Military cadets take extreme measures to ensure the future of their academy when its existence is threatened by local condo developers.",
+   "popularity": 3.2541,
+   "poster_path": "/m6w9QiuYQSBle3jygH9oV5JC8sP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1981-12-20",
+   "revenue": 35900000,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "“This school is our home, we think it's worth defending.”",
+   "title": "Taps",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.723,
+   "vote_count": 314
   },
   "movie:1232827": {
    "backdrop_path": "/uwACVNL5OpiI3oT72DVGxnU4SRV.jpg",
@@ -1897,6 +2081,142 @@
    "vote_average": 7.296,
    "vote_count": 375
   },
+  "movie:1627": {
+   "backdrop_path": "/siuwx1J6sQ1Hqe3KHQ270CaHGky.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Victor, l'Enfant Sauvage",
+     "n": "Jean-Pierre Cargol"
+    },
+    {
+     "c": "Le Dr Jean Itard",
+     "n": "François Truffaut"
+    },
+    {
+     "c": "Madame Guerin",
+     "n": "Françoise Seigner"
+    },
+    {
+     "c": "Professor Philippe Pinel",
+     "n": "Jean Dasté"
+    },
+    {
+     "c": "Madame Lemeri",
+     "n": "Annie Miller"
+    },
+    {
+     "c": "Monsieur Lemeri",
+     "n": "Claude Miller"
+    },
+    {
+     "c": "Remy",
+     "n": "Paul Villé"
+    },
+    {
+     "c": "Baby Lemeri",
+     "n": "Nathan Miller"
+    },
+    {
+     "c": "Mathieu",
+     "n": "Mathieu Schiffman"
+    },
+    {
+     "c": "Visitor at Institute",
+     "n": "Jean Gruault"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "François Truffaut"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 1627,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "The true story of Victor of Aveyron. In a French forest circa 1798, an abandoned child — feral, filthy and mentally impaired — is found. Dr Jean Marc Gaspard Itard becomes interested in the case and patiently attempts to civilise the boy.",
+   "popularity": 1.2783,
+   "poster_path": "/ivIyyc2VgefJK9LdAogl1BEgmeH.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+     "name": "MGM Plus Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1970-02-26",
+   "revenue": 0,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "At last an adult film to which you can take your children.",
+   "title": "The Wild Child",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 319
+  },
   "movie:17127": {
    "backdrop_path": "/9ItSJKC4O77Uk2yULvSYdV6F171.jpg",
    "budget": 15000000,
@@ -2371,6 +2691,519 @@
    "vote_average": 6.791,
    "vote_count": 462
   },
+  "movie:330127": {
+   "backdrop_path": "/hyLi9BfEPwxUXqqggd9MCumITZJ.jpg",
+   "budget": 190000,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Michael J. Fox"
+    },
+    {
+     "c": "Self",
+     "n": "Lea Thompson"
+    },
+    {
+     "c": "Self",
+     "n": "Christopher Lloyd"
+    },
+    {
+     "c": "Self",
+     "n": "Robert Zemeckis"
+    },
+    {
+     "c": "Self",
+     "n": "Alan Silvestri"
+    },
+    {
+     "c": "Self",
+     "n": "Bob Gale"
+    },
+    {
+     "c": "Self",
+     "n": "Claudia Wells"
+    },
+    {
+     "c": "Self",
+     "n": "Dean Cundey"
+    },
+    {
+     "c": "Self",
+     "n": "Donald Fullilove"
+    },
+    {
+     "c": "Self",
+     "n": "Frank Price"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jason Aron"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 330127,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Cast, crew and fans explore the \"Back to the Future\" time-travel trilogy's resonance throughout our culture, thirty years after Marty McFly went back in time.",
+   "popularity": 1.1671,
+   "poster_path": "/yx564Sa6KUgzKmgcv4wUCefzEzI.jpg",
+   "production_countries": [
+    "CA",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-10-20",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A Back to the Future documentary",
+   "title": "Back in Time",
+   "trailer": {
+    "key": "_X4V6nIUSQY",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.525,
+   "vote_count": 322
+  },
+  "movie:334527": {
+   "backdrop_path": "/tvK2oSirZ84D8t1ADUq4T25OIsF.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Noah",
+     "n": "Dan Stevens"
+    },
+    {
+     "c": "Eddie",
+     "n": "John Travolta"
+    },
+    {
+     "c": "Zach",
+     "n": "Michael Pitt"
+    },
+    {
+     "c": "Gerry",
+     "n": "Jackie Earle Haley"
+    },
+    {
+     "c": "Agent Santos",
+     "n": "Travis Aaron Wade"
+    },
+    {
+     "c": "Warren",
+     "n": "Christopher Abbott"
+    },
+    {
+     "c": "Bryce",
+     "n": "Rob Brown"
+    },
+    {
+     "c": "Marques",
+     "n": "Edi Gathegi"
+    },
+    {
+     "c": "Janie",
+     "n": "Morgan Wolk"
+    },
+    {
+     "c": "Agent Reichert",
+     "n": "Alan B. Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jackie Earle Haley"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Drama"
+   ],
+   "id": 334527,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Four young men make a risky investment together that gets them into trouble with the mob.",
+   "popularity": 1.6701,
+   "poster_path": "/dwPUSDETHavt2c2bdLbG1RKxkVB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Zee5"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-11-20",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Leave the crime to the criminals.",
+   "title": "Criminal Activities",
+   "trailer": {
+    "key": "QoYfdgskwqg",
+    "name": "Criminal Activities: OFFICIAL TRAILER",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.937,
+   "vote_count": 331
+  },
+  "movie:375327": {
+   "backdrop_path": "/tBm1I5C1MhikqbFEmntIRnoFwEz.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "James More",
+     "n": "James McAvoy"
+    },
+    {
+     "c": "Danielle Flinders",
+     "n": "Alicia Vikander"
+    },
+    {
+     "c": "Thumbs",
+     "n": "Celyn Jones"
+    },
+    {
+     "c": "Dr. Shadid",
+     "n": "Alexander Siddig"
+    },
+    {
+     "c": "Bellhop",
+     "n": "Alex Hafner"
+    },
+    {
+     "c": "Bob",
+     "n": "Harvey Friedman"
+    },
+    {
+     "c": "Captain Anctil",
+     "n": "Jean-Pierre Lorit"
+    },
+    {
+     "c": "Étienne",
+     "n": "Loïc Corbery"
+    },
+    {
+     "c": "Gustavo",
+     "n": "Adam Quintero"
+    },
+    {
+     "c": "Jonas",
+     "n": "Julien Bouanich"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Wim Wenders"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Romance"
+   ],
+   "id": 375327,
+   "industry": "world",
+   "origin_country": [
+    "DE",
+    "US",
+    "ES",
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "While James More is held captive by terrorists in Somalia, thousands of miles away on the Greenland Sea, his lover Danny Flinders prepares to dive herself in a submersible into the deep bottom of the ocean, tormented by the memories of their brief encounter in France and her inability to know his whereabouts.",
+   "popularity": 1.3364,
+   "poster_path": "/sPwANB5cMjJLfRru45sc7Mnkjrq.jpg",
+   "production_countries": [
+    "US",
+    "FR",
+    "DE",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-03-01",
+   "revenue": 851960,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr",
+    "so"
+   ],
+   "status": "Released",
+   "tagline": "Love has no limits",
+   "title": "Submergence",
+   "trailer": {
+    "key": "vDe7Mv-QNe0",
+    "name": "SUBMERGENCE OFFICIAL TRAILER",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 320
+  },
+  "movie:38327": {
+   "backdrop_path": "/teZ2kPm9ruLUeD00hSXsRs0glaX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Achille De Bellis",
+     "n": "Carlo Verdone"
+    },
+    {
+     "c": "Orfeo Rinalduzzi",
+     "n": "Silvio Muccino"
+    },
+    {
+     "c": "Cecilia De Bellis",
+     "n": "Ana Caterina Morariu"
+    },
+    {
+     "c": "Gigliola Duranti",
+     "n": "Agnese Nano"
+    },
+    {
+     "c": "Guglielmo Duranti",
+     "n": "Paolo Triestino"
+    },
+    {
+     "c": "Ramona",
+     "n": "Corinne Jiga"
+    },
+    {
+     "c": "Annarita Rinalduzzi",
+     "n": "Sara Bertelà"
+    },
+    {
+     "c": "Riccardo",
+     "n": "Leonardo Petrillo"
+    },
+    {
+     "c": "Capo sicurezza hotel",
+     "n": "Dario Placidi"
+    },
+    {
+     "c": "Segretaria Achille",
+     "n": "Eleonora Vanni"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Carlo Verdone"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 38327,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "When a neurotic hotel manager fires a maid for allegedly stealing a laptop, her son swears revenge and begins to expose his deepest secrets — only to regret it after falling for his daughter.",
+   "popularity": 0.9394,
+   "poster_path": "/gI5kiWur7p2TcdFXB741Cl1xnqR.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2006-03-10",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Verdone Vs Muccino",
+   "title": "My Best Enemy",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.123,
+   "vote_count": 314
+  },
   "movie:39227": {
    "backdrop_path": "/5AUkAvLeFmMaX3YaBrV8CnvcGEf.jpg",
    "budget": 0,
@@ -2460,6 +3293,126 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 342
+  },
+  "movie:432527": {
+   "backdrop_path": "/50reJgWrWTXK3fvGh8idw71gxAO.jpg",
+   "budget": 31000000,
+   "cast": [
+    {
+     "c": "Queen Padmavati",
+     "n": "Deepika Padukone"
+    },
+    {
+     "c": "Maharaja Ratan Singh",
+     "n": "Shahid Kapoor"
+    },
+    {
+     "c": "Sultan Alauddin Khilji",
+     "n": "Ranveer Singh"
+    },
+    {
+     "c": "Malik Kafur",
+     "n": "Jim Sarbh"
+    },
+    {
+     "c": "Raghav Chetan",
+     "n": "Aayam Mehta"
+    },
+    {
+     "c": "Gora Singh",
+     "n": "Ujjwal Chopra"
+    },
+    {
+     "c": "Sultan Jalaluddin Khilji",
+     "n": "Raza Murad"
+    },
+    {
+     "c": "Mehrunissa",
+     "n": "Aditi Rao Hydari"
+    },
+    {
+     "c": "Nagmati",
+     "n": "Anupriya Goenka"
+    },
+    {
+     "c": "Kunwar Baisa",
+     "n": "Padmavati Rao"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Sanjay Leela Bhansali"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "Romance"
+   ],
+   "id": 432527,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "Rajputana, India, 13th century. The tyrannical usurper Alauddin Khilji, sultan of Delhi, becomes obsessed with Queen Padmavati, wife of King Ratan Singh of Mewar, and goes to great lengths to satisfy his greed for her.",
+   "popularity": 1.6837,
+   "poster_path": "/5kk71s8Vmvt8XQOojevhTA5QcB0.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-01-25",
+   "revenue": 81673897,
+   "runtime": 163,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "The Goddess Queen",
+   "title": "Padmaavat",
+   "trailer": {
+    "key": "X_5_BLt76c0",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 333
   },
   "movie:433627": {
    "backdrop_path": "/aJKvkpFEmuU8JlxqUlHYSo2LN3w.jpg",
@@ -2938,6 +3891,95 @@
    "vote_average": 6.945,
    "vote_count": 401
   },
+  "movie:521127": {
+   "backdrop_path": null,
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alejandro",
+     "n": "Diego Boggioni"
+    },
+    {
+     "c": "Sofia",
+     "n": "Daniela Castillo Toro"
+    },
+    {
+     "c": "Valentina",
+     "n": "Astrid Roldán"
+    },
+    {
+     "c": "Felipe",
+     "n": "Alex Quevedo"
+    },
+    {
+     "c": "Caro",
+     "n": "Sol Rodriguez"
+    },
+    {
+     "c": "Julio",
+     "n": "Gastón Salgado"
+    },
+    {
+     "c": "Juan",
+     "n": "Mauro Vaca"
+    },
+    {
+     "c": "Bar Waitress",
+     "n": "Paulina Moreno"
+    },
+    {
+     "c": "Sofia's Mother",
+     "n": "Paula Zúñiga"
+    },
+    {
+     "c": "Pedro",
+     "n": "Simón Pascal"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Pelayo Lira"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 521127,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Alejandro, a freshman, and Sofia, who’s doing her thesis, meet in college. They build an asymmetrical relationship: he’s in love while she just wants to see her sexual desires fulfilled.",
+   "popularity": 0.4642,
+   "poster_path": "/ntauOubYAPmGjTe7Kj7tSjr2iPt.jpg",
+   "production_countries": [
+    "CL"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2018-08-02",
+   "revenue": 0,
+   "runtime": 79,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Kingdoms",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.353,
+   "vote_count": 312
+  },
   "movie:5227": {
    "backdrop_path": "/byEn9PSz6KHrOx6rIjur10GXiCT.jpg",
    "budget": 300000,
@@ -3039,6 +4081,119 @@
    "vote_average": 4.073,
    "vote_count": 368
   },
+  "movie:683127": {
+   "backdrop_path": "/qMxpGzmmnY1jLd4p7EhhoW43wWF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Earwig (voice)",
+     "n": "Kokoro Hirasawa"
+    },
+    {
+     "c": "Bella Yaga (voice)",
+     "n": "Shinobu Terajima"
+    },
+    {
+     "c": "Thomas (voice)",
+     "n": "Gaku Hamada"
+    },
+    {
+     "c": "Earwig's Mother (voice)",
+     "n": "Sherina Munaf"
+    },
+    {
+     "c": "The Mandrake (voice)",
+     "n": "Etsushi Toyokawa"
+    },
+    {
+     "c": "Mr. Jenkins (voice)",
+     "n": "Yuji Ueda"
+    },
+    {
+     "c": "Custard (voice)",
+     "n": "Yusei Saito"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Goro Miyazaki"
+   ],
+   "genres": [
+    "Animation",
+    "Fantasy",
+    "Family",
+    "Music",
+    "Comedy"
+   ],
+   "id": 683127,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A headstrong orphan discovers a world of spells and potions while living with a selfish witch.",
+   "popularity": 2.4492,
+   "poster_path": "/9oK820JieICOcfUhI6mkpFrcA9m.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Kids"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rjPaInWHH1nPgtRFF17BbHN2gu.png",
+     "name": "Netflix Kids",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-02-04",
+   "revenue": 842744,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Enter a world of magic and music",
+   "title": "Earwig and the Witch",
+   "trailer": {
+    "key": "V--UCVHLzAY",
+    "name": "Earwig and the Witch | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.935,
+   "vote_count": 322
+  },
   "movie:7227": {
    "backdrop_path": "/flYEmZuMyDJKomYbprKzkbltXRw.jpg",
    "budget": 6000000,
@@ -3136,6 +4291,179 @@
    "type": "movie",
    "vote_average": 5.603,
    "vote_count": 349
+  },
+  "movie:805627": {
+   "backdrop_path": "/hiZLoo6joFeqkPZRlvG1zEw5q0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kato",
+     "n": "Kazunari Tosa"
+    },
+    {
+     "c": "Megumi",
+     "n": "Aki Asakura"
+    },
+    {
+     "c": "Aya",
+     "n": "Riko Fujitani"
+    },
+    {
+     "c": "Komiya",
+     "n": "Gota Ishida"
+    },
+    {
+     "c": "Tanabe",
+     "n": "Masashi Suwa"
+    },
+    {
+     "c": "Ozawa",
+     "n": "Yoshifumi Sakai"
+    },
+    {
+     "c": "Narita",
+     "n": "Haruki Nakagawa"
+    },
+    {
+     "c": "Furuya",
+     "n": "Takashi Sumita"
+    },
+    {
+     "c": "Kinjo",
+     "n": "Munenori Nagano"
+    },
+    {
+     "c": "Ishizuka",
+     "n": "Chikara Honda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "AL",
+   "date_kind": "release",
+   "director": [
+    "Junta Yamaguchi"
+   ],
+   "genres": [
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 805627,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A cafe owner discovers that the TV in his cafe suddenly shows images from the future, but only two minutes into the future.",
+   "popularity": 1.5588,
+   "poster_path": "/kIKcksbl6dbmxTMS1wq15iFkBnB.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-06-05",
+   "revenue": 0,
+   "runtime": 70,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "A one-take time travel Sci-fi comedy!",
+   "title": "Beyond the Infinite Two Minutes",
+   "trailer": {
+    "key": "iaLqKLf2f7U",
+    "name": "Beyond the Infinite Two Minutes TRAILER 『ドロステのはてで僕ら』",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.249,
+   "vote_count": 334
   },
   "movie:831827": {
    "backdrop_path": "/d3dkL8C7gfd8cv5xJLBJ3IG37nY.jpg",

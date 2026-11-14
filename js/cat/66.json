@@ -1,6 +1,6 @@
 {
  "bucket": "66",
- "count": 34,
+ "count": 43,
  "titles": {
   "movie:1107166": {
    "backdrop_path": "/gOcgmSwbCFW7h1rmEqMvYPzvjh7.jpg",
@@ -774,6 +774,176 @@
    "vote_average": 6.4,
    "vote_count": 31
   },
+  "movie:15766": {
+   "backdrop_path": "/aQHjAx6PisDlolT4bM4bHqLP1uJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Detective Shindo",
+     "n": "Yōsuke Natsuki"
+    },
+    {
+     "c": "Naoko Shindo",
+     "n": "Yuriko Hoshi"
+    },
+    {
+     "c": "Professor Murai",
+     "n": "Hiroshi Koizumi"
+    },
+    {
+     "c": "Dr. Tsukamoto",
+     "n": "Takashi Shimura"
+    },
+    {
+     "c": "Shobijin",
+     "n": "Emi Ito"
+    },
+    {
+     "c": "Shobijin",
+     "n": "Yumi Ito"
+    },
+    {
+     "c": "Princess Maas Doulina Salno of Selgina",
+     "n": "Akiko Wakabayashi"
+    },
+    {
+     "c": "Chief Assassin Malmess",
+     "n": "Hisaya Ito"
+    },
+    {
+     "c": "Chief Detective Okita",
+     "n": "Akihiko Hirata"
+    },
+    {
+     "c": "Prime Minister",
+     "n": "Minoru Takada"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Ishirō Honda"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Fantasy"
+   ],
+   "id": 15766,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "After a meteorite unleashes a three-headed beast upon Tokyo, Mothra tries to unite with Godzilla and Rodan to battle the extraterrestrial threat.",
+   "popularity": 3.8756,
+   "poster_path": "/qkI5nhvxx3233gQmoQvv0W3MB7A.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "TCM"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vJBXVX2REOqNrWlwgnBuQX4pQK6.png",
+     "name": "Cinemax Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7LA3wg2A01nyV3PCLN01WNOVhcT.png",
+     "name": "TCM",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eArBCdklkA9DKiESboGkyv3rVQ7.png",
+     "name": "Cinemax Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1964-12-20",
+   "revenue": 3237880,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Space Super Monster King Ghidorah attacks the Earth!",
+   "title": "Ghidorah, the Three-Headed Monster",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.982,
+   "vote_count": 309
+  },
   "movie:19766": {
    "backdrop_path": "/jeWcKqVdsQbVsyALogXQh6aH0A5.jpg",
    "budget": 12000000,
@@ -936,6 +1106,171 @@
    "type": "movie",
    "vote_average": 4.3,
    "vote_count": 426
+  },
+  "movie:21866": {
+   "backdrop_path": "/zeS0pzUcvhftTG0JnESfxbszyvb.jpg",
+   "budget": 6500000,
+   "cast": [
+    {
+     "c": "Bronco Billy",
+     "n": "Clint Eastwood"
+    },
+    {
+     "c": "Antoinette Lily",
+     "n": "Sondra Locke"
+    },
+    {
+     "c": "John Arlington",
+     "n": "Geoffrey Lewis"
+    },
+    {
+     "c": "Doc Lynch",
+     "n": "Scatman Crothers"
+    },
+    {
+     "c": "Lefty LeBow",
+     "n": "Bill McKinney"
+    },
+    {
+     "c": "Leonard James",
+     "n": "Sam Bottoms"
+    },
+    {
+     "c": "Chief Big Eagle",
+     "n": "Dan Vadis"
+    },
+    {
+     "c": "Lorraine Running Water",
+     "n": "Sierra Pecheur"
+    },
+    {
+     "c": "Sheriff Dix",
+     "n": "Walter Barnes"
+    },
+    {
+     "c": "Dr. Canterbury",
+     "n": "Woodrow Parfrey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Clint Eastwood"
+   ],
+   "genres": [
+    "Drama",
+    "Romance",
+    "Comedy"
+   ],
+   "id": 21866,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An idealistic, modern-day cowboy struggles to keep his Wild West show afloat in the face of hard luck and waning interest.",
+   "popularity": 2.0298,
+   "poster_path": "/qiWVmWUq4M9Hc2Ui4jPkAnX6oAz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1980-06-11",
+   "revenue": 24300000,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The most outrageous of 'em all.",
+   "title": "Bronco Billy",
+   "trailer": {
+    "key": "oqyBr-07Eh0",
+    "name": "Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 307
   },
   "movie:23966": {
    "backdrop_path": "/cxBbDUlZ10GibvyQ2iThASBm1Dj.jpg",
@@ -1495,6 +1830,436 @@
    "type": "movie",
    "vote_average": 7.232,
    "vote_count": 355
+  },
+  "movie:300666": {
+   "backdrop_path": "/olFrXt0DbDxk1k2SDc82hwLkSSK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alex",
+     "n": "Josh Duhamel"
+    },
+    {
+     "c": "Martha",
+     "n": "Maria Bello"
+    },
+    {
+     "c": "Annie",
+     "n": "Laura Dern"
+    },
+    {
+     "c": "Kerry",
+     "n": "Katrina Norman"
+    },
+    {
+     "c": "Josh Harvest",
+     "n": "Lucas Till"
+    },
+    {
+     "c": "Jim",
+     "n": "Tom Everett Scott"
+    },
+    {
+     "c": "Tony",
+     "n": "Jae Head"
+    },
+    {
+     "c": "Brandon",
+     "n": "Shamier Anderson"
+    },
+    {
+     "c": "Dance Judge",
+     "n": "Adam Hurtig"
+    },
+    {
+     "c": "Principal",
+     "n": "Paul Essiembre"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Daniel Duran"
+   ],
+   "genres": [
+    "Drama",
+    "Music"
+   ],
+   "id": 300666,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After an accidental drug overdose, a talented teenage DJ goes to live with his estranged father in a small Army town, where he gets to the bottom of his own pain and learns empathy for others.",
+   "popularity": 1.0571,
+   "poster_path": "/1XQvhq0bM9Odwr1Nf1fY6QsWOMM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/adymMNlhhLlJl5xccRCrsh3OehD.png",
+     "name": "Starz Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/h25xjouKmiSmFiiqw0aDXbxGZo7.png",
+     "name": "Starz",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tKembbxL7cYdDvFK70xBecbN0G8.png",
+     "name": "Starz Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-05-08",
+   "revenue": 0,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Life hurts. Love heals.",
+   "title": "Bravetown",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 309
+  },
+  "movie:376166": {
+   "backdrop_path": "/fPcOyvYdzBPsYgBBVtRgGxcAoMa.jpg",
+   "budget": 10300000,
+   "cast": [
+    {
+     "c": "Gabrielle",
+     "n": "Marion Cotillard"
+    },
+    {
+     "c": "André Sauvage",
+     "n": "Louis Garrel"
+    },
+    {
+     "c": "José",
+     "n": "Àlex Brendemühl"
+    },
+    {
+     "c": "Adéle",
+     "n": "Brigitte Roüan"
+    },
+    {
+     "c": "Jeannine",
+     "n": "Victoire du Bois"
+    },
+    {
+     "c": "Agostine",
+     "n": "Aloïse Sauvage"
+    },
+    {
+     "c": "Martin",
+     "n": "Daniel Para"
+    },
+    {
+     "c": "Blaise",
+     "n": "Jihwan Kim"
+    },
+    {
+     "c": "Marc - 14 ans",
+     "n": "Victor Quilichini"
+    },
+    {
+     "c": "Marc Rabascal à 7 ans",
+     "n": "Ange Black-Bereyziat"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Nicole Garcia"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 376166,
+   "industry": "world",
+   "origin_country": [
+    "BE",
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In 1950s France, a free-spirited woman trapped in an arranged marriage falls in love with an injured veteran of the Indochinese War.",
+   "popularity": 1.2878,
+   "poster_path": "/l6CQmiMBi1z6BIEC2XpUaOpfsc4.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-10-19",
+   "revenue": 47748,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "de",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "From the Land of the Moon",
+   "trailer": {
+    "key": "lMRyAvkdCu0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 319
+  },
+  "movie:39266": {
+   "backdrop_path": "/x57PAMkSURMbNZUk25lecXkJEWu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Adolf Hitler"
+    },
+    {
+     "c": "Self",
+     "n": "Max Amann"
+    },
+    {
+     "c": "Self",
+     "n": "Hermann Göring"
+    },
+    {
+     "c": "Self",
+     "n": "Martin Bormann"
+    },
+    {
+     "c": "Self",
+     "n": "Hans Frank"
+    },
+    {
+     "c": "Self",
+     "n": "Sepp Dietrich"
+    },
+    {
+     "c": "Self",
+     "n": "Joseph Goebbels"
+    },
+    {
+     "c": "Self",
+     "n": "Erich Raeder"
+    },
+    {
+     "c": "Self",
+     "n": "Rudolf Hess"
+    },
+    {
+     "c": "Self",
+     "n": "Robert Ley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Leni Riefenstahl"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 39266,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "A showcase of German chancellor and Nazi Party leader Adolf Hitler at the 1934 Nuremberg Rally.",
+   "popularity": 2.0946,
+   "poster_path": "/hyXCugoQzJ85mdrdz4dboqP8FoX.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Cultpix"
+    },
+    {
+     "name": "FlixFling"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/hBR1NB5z52BHMqowq0TgZqMcDBv.png",
+     "name": "Cultpix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1935-03-28",
+   "revenue": 0,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Triumph of the Will",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.917,
+   "vote_count": 319
   },
   "movie:408266": {
    "backdrop_path": "/hyUuVIbjqXLHKl3kcaTZxmBwN07.jpg",
@@ -2184,6 +2949,110 @@
    "vote_average": 6.304,
    "vote_count": 92
   },
+  "movie:485166": {
+   "backdrop_path": "/fe1hQtljvzp3xa85AvKGiiFDjQu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "David Sorel",
+     "n": "Vincent Lacoste"
+    },
+    {
+     "c": "Amanda",
+     "n": "Isaure Multrier"
+    },
+    {
+     "c": "Léna",
+     "n": "Stacy Martin"
+    },
+    {
+     "c": "Sandrine Sorel",
+     "n": "Ophélia Kolb"
+    },
+    {
+     "c": "Maud Sorel",
+     "n": "Marianne Basler"
+    },
+    {
+     "c": "Axel",
+     "n": "Jonathan Cohen"
+    },
+    {
+     "c": "Alison",
+     "n": "Greta Scacchi"
+    },
+    {
+     "c": "Lydia",
+     "n": "Claire Tran"
+    },
+    {
+     "c": "Raja",
+     "n": "Nabiha Akkari"
+    },
+    {
+     "c": "Director of the Children's House",
+     "n": "Bakary Sangaré"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Mikhaël Hers"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 485166,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "David, who gets by doing odd jobs, meets Léna, who has just moved up to Paris, and falls in love. But soon after, his life is brutally interrupted by the sudden death of his sister. Beyond the shock, and the pain, David now finds himself alone with his young niece Amanda to care for.",
+   "popularity": 1.0517,
+   "poster_path": "/eyebNlYE2iV3D0xLrjMTigTuHmN.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "France Channel Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-11-21",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Amanda",
+   "trailer": {
+    "key": "cyGC0W8PfoI",
+    "name": "Amanda (2018) - Trailer (English Subs)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 306
+  },
   "movie:606566": {
    "backdrop_path": "/hsAZKgLMhReTakzdBxCAJsTinea.jpg",
    "budget": 0,
@@ -2281,6 +3150,315 @@
    "type": "movie",
    "vote_average": 6.8,
    "vote_count": 444
+  },
+  "movie:628866": {
+   "backdrop_path": "/3fIELwQezqPoIrfgzCf19r9TymE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rodger Emmerlich",
+     "n": "Richard Harmon"
+    },
+    {
+     "c": "Beth Struman",
+     "n": "Sara Thompson"
+    },
+    {
+     "c": "Henrietta Cox",
+     "n": "Marina Stephenson Kerr"
+    },
+    {
+     "c": "Entity",
+     "n": "Kristen Sawatzky"
+    },
+    {
+     "c": "Oswald Emmerlich",
+     "n": "Erik Athavale"
+    },
+    {
+     "c": "Jordan Hasbury",
+     "n": "Echo Porisky"
+    },
+    {
+     "c": "Teen Jordan",
+     "n": "Callie Lane"
+    },
+    {
+     "c": "Teen Rodger Emmerlich",
+     "n": "Maclean Fish"
+    },
+    {
+     "c": "Young Rodger Emmerlich",
+     "n": "Keaton Fish"
+    },
+    {
+     "c": "Tanya",
+     "n": "Jaydee-Lynn McDougall"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "BJ Verot"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 628866,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "After the death of his father, a brilliant college student returns to his family home where he learns that the horrors from his childhood aren't as dead and gone as he once thought.",
+   "popularity": 1.2142,
+   "poster_path": "/rK2gW2kOIC5hG3JjVB81vU9v8gC.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-09-05",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Childhood horrors can kill.",
+   "title": "The Return",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 327
+  },
+  "movie:632666": {
+   "backdrop_path": "/2yimxrZdV8nT1lwzDEOXO226pyU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Veronica Clarke",
+     "n": "Haley Lu Richardson"
+    },
+    {
+     "c": "Bailey Butler",
+     "n": "Barbie Ferreira"
+    },
+    {
+     "c": "Bob",
+     "n": "Giancarlo Esposito"
+    },
+    {
+     "c": "Kevin",
+     "n": "Alex MacNicoll"
+    },
+    {
+     "c": "Mark",
+     "n": "Breckin Meyer"
+    },
+    {
+     "c": "Kate",
+     "n": "Sugar Lyn Beard"
+    },
+    {
+     "c": "Jarrod",
+     "n": "Denny Love"
+    },
+    {
+     "c": "Debra Clarke",
+     "n": "Mary McCormack"
+    },
+    {
+     "c": "Kira Matthews",
+     "n": "Betty Who"
+    },
+    {
+     "c": "Peg",
+     "n": "Jeryl Prescott"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Rachel Lee Goldenberg"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 632666,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After discovering she can’t legally get an abortion in Missouri without her parents’ permission, teenager Veronica convinces her former best friend Bailey to take a road trip to Albuquerque to seek the procedure.",
+   "popularity": 1.7055,
+   "poster_path": "/1BqjLXnPkGzIFR5CRBTYfXdu2DV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-09-10",
+   "revenue": 0,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "She's a Type A without a Plan B.",
+   "title": "Unpregnant",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.842,
+   "vote_count": 335
   },
   "movie:8866": {
    "backdrop_path": "/2ZWD2t48CbjxcxzaZ8tqqDiY85f.jpg",
@@ -2435,6 +3613,126 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 353
+  },
+  "movie:9066": {
+   "backdrop_path": "/aKKJttuN9RD8yTU8NHL9UkdJwip.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Carol Brady",
+     "n": "Shelley Long"
+    },
+    {
+     "c": "Mike Brady",
+     "n": "Gary Cole"
+    },
+    {
+     "c": "Marcia Brady",
+     "n": "Christine Taylor"
+    },
+    {
+     "c": "Greg Brady",
+     "n": "Christopher Daniel Barnes"
+    },
+    {
+     "c": "Jan Brady",
+     "n": "Jennifer Elise Cox"
+    },
+    {
+     "c": "Peter Brady",
+     "n": "Paul Sutera"
+    },
+    {
+     "c": "Cindy Brady",
+     "n": "Olivia Hack"
+    },
+    {
+     "c": "Bobby Brady",
+     "n": "Jesse Lee Soffer"
+    },
+    {
+     "c": "Alice Nelson",
+     "n": "Henriette Mantel"
+    },
+    {
+     "c": "Sam Franklin",
+     "n": "David Graf"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Betty Thomas"
+   ],
+   "genres": [
+    "Family",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 9066,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The original '70s TV family is now placed in the 1990s, where they're even more square and out of place than ever.",
+   "popularity": 2.4468,
+   "poster_path": "/kbJfBJh5vEf5356Jlm6P37H48hD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1995-02-16",
+   "revenue": 46576136,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They're back to save America from the '90s.",
+   "title": "The Brady Bunch Movie",
+   "trailer": {
+    "key": "zMicH5Mt7_s",
+    "name": "The Brady Bunch Movie - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.085,
+   "vote_count": 340
   },
   "movie:9666": {
    "backdrop_path": "/rQvjuEw7OWthkbZleA4v1nsOcXN.jpg",

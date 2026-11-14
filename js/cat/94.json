@@ -1,6 +1,6 @@
 {
  "bucket": "94",
- "count": 53,
+ "count": 58,
  "titles": {
   "movie:10694": {
    "backdrop_path": "/4mopIaKwC0RBK0kGVjgSnkLYn1m.jpg",
@@ -993,6 +993,140 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 498
+  },
+  "movie:14194": {
+   "backdrop_path": "/5vWEcjru7dUIuTgMbwOVfuGMU60.jpg",
+   "budget": 11000000,
+   "cast": [
+    {
+     "c": "Mr. A",
+     "n": "Hrithik Roshan"
+    },
+    {
+     "c": "Jai Dixit",
+     "n": "Abhishek Bachchan"
+    },
+    {
+     "c": "Sunehri",
+     "n": "Aishwarya Rai Bachchan"
+    },
+    {
+     "c": "Ali Khan",
+     "n": "Uday Chopra"
+    },
+    {
+     "c": "Sonali Bose / Monali Bose",
+     "n": "Bipasha Basu"
+    },
+    {
+     "c": "Sweety Dixit",
+     "n": "Rimi Sen"
+    },
+    {
+     "c": "Governess",
+     "n": "Trishla Baid"
+    },
+    {
+     "c": "DCP",
+     "n": "Yusuf Hussain"
+    },
+    {
+     "c": "Exhibition Manager",
+     "n": "Arjun Sablok"
+    },
+    {
+     "c": "Van Operator",
+     "n": "Samar Shaikh"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Sanjay Gadhvi"
+   ],
+   "genres": [
+    "Drama",
+    "Action",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 14194,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "Jai and Ali return, this time on the trail of an international thief who steals priceless artifacts and has chosen Mumbai as his next target.",
+   "popularity": 1.5637,
+   "poster_path": "/3zJLnrP9g9LSMpX5C1wau49gGUv.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-11-24",
+   "revenue": 46396427,
+   "runtime": 151,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Back in action.",
+   "title": "Dhoom 2",
+   "trailer": {
+    "key": "oRIIeyIa6nE",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.625,
+   "vote_count": 316
   },
   "movie:1474294": {
    "backdrop_path": "/6y7Eacm37GgO7KC2ysPSyNNU341.jpg",
@@ -1992,6 +2126,159 @@
    "vote_average": 5.4,
    "vote_count": 467
   },
+  "movie:1994": {
+   "backdrop_path": "/psBFJubFWiAV23dAZ6D0wjQWbhe.jpg",
+   "budget": 219869,
+   "cast": [
+    {
+     "c": "Robert Rainsford",
+     "n": "Joel McCrea"
+    },
+    {
+     "c": "Eve Trowbridge",
+     "n": "Fay Wray"
+    },
+    {
+     "c": "Count Zaroff",
+     "n": "Leslie Banks"
+    },
+    {
+     "c": "Martin Trowbridge",
+     "n": "Robert Armstrong"
+    },
+    {
+     "c": "Ivan",
+     "n": "Noble Johnson"
+    },
+    {
+     "c": "Tartar",
+     "n": "Steve Clemente"
+    },
+    {
+     "c": "Captain",
+     "n": "William B. Davidson"
+    },
+    {
+     "c": "Tartar Servant",
+     "n": "Oscar 'Dutch' Hendrian"
+    },
+    {
+     "c": "First Mate on Yacht (uncredited)",
+     "n": "James Flavin"
+    },
+    {
+     "c": "Bill Woodman (uncredited)",
+     "n": "Hale Hamilton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Irving Pichel",
+    "Ernest B. Schoedsack"
+   ],
+   "genres": [
+    "Thriller",
+    "Adventure",
+    "Horror",
+    "Action"
+   ],
+   "id": 1994,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When legendary hunter Bob Rainsford is shipwrecked on the perilous reefs surrounding a mysterious island, he finds himself the guest of the reclusive and eccentric Count Zaroff. While he is very gracious at first, Zaroff eventually forces Rainsford and two other shipwreck survivors, brother and sister Eve and Martin Towbridge, to participate in a sadistic game of cat and mouse in which they are the prey and he is the hunter.",
+   "popularity": 2.5843,
+   "poster_path": "/3aNlOIFlGOnIzxqvAWpgm5Sly1H.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Bloodstream"
+    },
+    {
+     "name": "Artiflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/hO4tZhtSJ7VrVnJusimkY3MltSx.png",
+     "name": "Artiflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1932-09-16",
+   "revenue": 443000,
+   "runtime": 63,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They saw the heads of hunted men in Zaroff's trophy room!",
+   "title": "The Most Dangerous Game",
+   "trailer": {
+    "key": "DoHUfQKA_sc",
+    "name": "Masters of Cinema Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.883,
+   "vote_count": 337
+  },
   "movie:20694": {
    "backdrop_path": "/7jhCBakn96BcRpjQfFyMZdnrKEY.jpg",
    "budget": 25000000,
@@ -2293,6 +2580,138 @@
    "type": "movie",
    "vote_average": 6.586,
    "vote_count": 401
+  },
+  "movie:27094": {
+   "backdrop_path": "/6zqFDzIKPKyGX1jwYAiJTGvYyXz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lenny Bruce",
+     "n": "Dustin Hoffman"
+    },
+    {
+     "c": "Honey Bruce",
+     "n": "Valerie Perrine"
+    },
+    {
+     "c": "Sally Marr",
+     "n": "Jan Miner"
+    },
+    {
+     "c": "Artie Silver",
+     "n": "Stanley Beck"
+    },
+    {
+     "c": "Baltimore Comic",
+     "n": "Frankie Man"
+    },
+    {
+     "c": "Aunt Mema",
+     "n": "Rashel Novikoff"
+    },
+    {
+     "c": "Sherman Hart",
+     "n": "Gary Morton"
+    },
+    {
+     "c": "Jack Goldstein",
+     "n": "Guy Rennie"
+    },
+    {
+     "c": "Nurse",
+     "n": "Michele Yonge"
+    },
+    {
+     "c": "Girl",
+     "n": "Kathryn Witt"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Bob Fosse"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 27094,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of acerbic 1960s comic Lenny Bruce, whose groundbreaking, no-holds-barred style and social commentary was often deemed by the establishment as too obscene for the public.",
+   "popularity": 1.7651,
+   "poster_path": "/Avhk4pGdz3YQrzqLU65icjnE6vn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1974-11-10",
+   "revenue": 0,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Lenny Said It. \"Hot Honey\" Did It. Together They Shocked America.",
+   "title": "Lenny",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.305,
+   "vote_count": 328
   },
   "movie:28794": {
    "backdrop_path": "/vdokrAQX8D2SfNY12GB8f3YdCaT.jpg",
@@ -2833,6 +3252,141 @@
    "type": "movie",
    "vote_average": 5.897,
    "vote_count": 385
+  },
+  "movie:351694": {
+   "backdrop_path": "/xESy6kg2k4JsGzHU0ILkOL9qYec.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "孙悟空（配音）",
+     "n": "Zhang Lei"
+    },
+    {
+     "c": "江流儿（配音）",
+     "n": "Lin Zijie"
+    },
+    {
+     "c": "法明（配音）",
+     "n": "Wu Wenlun"
+    },
+    {
+     "c": "混沌（配音）",
+     "n": "Tong Zirong"
+    },
+    {
+     "c": "猪八戒（配音）",
+     "n": "Liu Jiurong"
+    },
+    {
+     "c": "老板娘(女妖)（配音）",
+     "n": "Wu Di"
+    },
+    {
+     "c": "山神（配音）",
+     "n": "Liu Beichen"
+    },
+    {
+     "c": "江流儿爸爸（配音）",
+     "n": "Zhao Qianjing"
+    },
+    {
+     "c": "江流儿妈妈（配音）",
+     "n": "Zhou Shuai"
+    },
+    {
+     "c": "混沌（配音）",
+     "n": "Kuixing Teng"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Tian Xiaopeng"
+   ],
+   "genres": [
+    "Fantasy",
+    "Animation",
+    "Comedy"
+   ],
+   "id": 351694,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "The all-powerful Monkey King once roamed freely between Heaven and Earth, but after angering the Gods, he was imprisoned within an ice cage deep within the mountains. 500 years later, monsters attack a small village and a child flees to the mountains. Unknowingly, the child releases the Monkey King from his curse. With the help and encouragement from this special child, Monkey King saves the village from the evil monsters.",
+   "popularity": 2.926,
+   "poster_path": "/xHme10Y5jVdH8KeSGgStndjatF5.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-07-10",
+   "revenue": 153000000,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Monkey King: Hero Is Back",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.932,
+   "vote_count": 307
   },
   "movie:369894": {
    "backdrop_path": "/a0jV1eyShyfovNmk1FIMBZYx8zV.jpg",
@@ -3639,6 +4193,137 @@
    "type": "movie",
    "vote_average": 6.164,
    "vote_count": 479
+  },
+  "movie:51994": {
+   "backdrop_path": "/iAyzpvldbIxLdDIjRMOJoBORola.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hester Collyer",
+     "n": "Rachel Weisz"
+    },
+    {
+     "c": "Freddie Page",
+     "n": "Tom Hiddleston"
+    },
+    {
+     "c": "Sir William Collyer",
+     "n": "Simon Russell Beale"
+    },
+    {
+     "c": "Jackie Jackson",
+     "n": "Harry Hadden-Paton"
+    },
+    {
+     "c": "Philip Welch",
+     "n": "Jolyon Coy"
+    },
+    {
+     "c": "Mr. Miller",
+     "n": "Karl Johnson"
+    },
+    {
+     "c": "Mrs. Elton",
+     "n": "Ann Mitchell"
+    },
+    {
+     "c": "Mr. Elton",
+     "n": "Nicholas Amer"
+    },
+    {
+     "c": "Liz Jackson",
+     "n": "Sarah Kants"
+    },
+    {
+     "c": "Hester's Father",
+     "n": "Oliver Ford Davies"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Terence Davies"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 51994,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The wife of a British Judge is caught in a self-destructive love affair with a Royal Air Force pilot.",
+   "popularity": 2.5105,
+   "poster_path": "/tZAXsFxxYWWSpEy5XQtdBaETYoc.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Brew"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "OVID"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mwGw3KrIZxnACdeojp2a5cO41hi.png",
+     "name": "Brew",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-11-25",
+   "revenue": 1126525,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Beware of passion...",
+   "title": "The Deep Blue Sea",
+   "trailer": {
+    "key": "MIQR_99II3k",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.89,
+   "vote_count": 323
   },
   "movie:597094": {
    "backdrop_path": "/xxA5AJBxgi1EPq9GO6cZtryAn1q.jpg",

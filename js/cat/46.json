@@ -1,7 +1,131 @@
 {
  "bucket": "46",
- "count": 39,
+ "count": 56,
  "titles": {
+  "movie:10646": {
+   "backdrop_path": "/eCtRseKCbltn8C6XW1GhqW0c4VA.jpg",
+   "budget": 11000000,
+   "cast": [
+    {
+     "c": "Michael Delaney",
+     "n": "Jerry O'Connell"
+    },
+    {
+     "c": "Officer Natalie Parker",
+     "n": "Shannon Elizabeth"
+    },
+    {
+     "c": "Kyle Brenner",
+     "n": "Jake Busey"
+    },
+    {
+     "c": "Steve",
+     "n": "Horatio Sanz"
+    },
+    {
+     "c": "Officer Hurley",
+     "n": "Bernie Casey"
+    },
+    {
+     "c": "Tricia",
+     "n": "Jaime Pressly"
+    },
+    {
+     "c": "Dr. Crawford",
+     "n": "David Ogden Stiers"
+    },
+    {
+     "c": "Jan",
+     "n": "Travis Fine"
+    },
+    {
+     "c": "Jill",
+     "n": "Heather Stephens"
+    },
+    {
+     "c": "Shelby",
+     "n": "Julia Schultz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gregory Poirier"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 10646,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "College buddies chip in and promise that the group's last unmarried man will collect a cash pot. Seven years later, the kitty is worth $500,000 -- money Michael needs to pay a gambling debt. Problem is, the only other single guy is a hopeless womanizer!",
+   "popularity": 1.9936,
+   "poster_path": "/pAHD3TfoDJX6jCPVhICBNLBxnBH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2001-03-30",
+   "revenue": 23400000,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Last Man Standing Gets The Kitty.",
+   "title": "Tomcats",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.732,
+   "vote_count": 339
+  },
   "movie:10946": {
    "backdrop_path": "/4ADZ2iiATjoKxZwjJRiEo1x6Fk0.jpg",
    "budget": 15000000,
@@ -484,6 +608,194 @@
    "vote_average": 6.6,
    "vote_count": 1254
   },
+  "movie:127846": {
+   "backdrop_path": "/hVqcf5B92U0KnlLsbkynI7QJQRx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mikkel Hartmann",
+     "n": "Pilou Asbæk"
+    },
+    {
+     "c": "Peter C. Ludvigsen",
+     "n": "Søren Malling"
+    },
+    {
+     "c": "Lars Vestergaard",
+     "n": "Dar Salim"
+    },
+    {
+     "c": "Jan Sørensen",
+     "n": "Roland Møller"
+    },
+    {
+     "c": "Connor Julian",
+     "n": "Gary Skjoldmose Porter"
+    },
+    {
+     "c": "Omar",
+     "n": "Abdihakin Asgar"
+    },
+    {
+     "c": "Maria Hartmann",
+     "n": "Amalie Ihle Alstrup"
+    },
+    {
+     "c": "Kamilla Hartmann",
+     "n": "Amalie Vulff Andersen"
+    },
+    {
+     "c": "Anette Ludvigsen",
+     "n": "Linda Laursen"
+    },
+    {
+     "c": "Kaptajn",
+     "n": "Keith Pearson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tobias Lindholm"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "id": 127846,
+   "industry": "world",
+   "origin_country": [
+    "DK"
+   ],
+   "original_language": "da",
+   "overview": "Tensions are high after a Danish freighter is captured and held for ransom by Somali pirates, leading to weeks of high-stakes negotiations – and an escalating potential for explosive violence.",
+   "popularity": 1.1417,
+   "poster_path": "/wstbZDlyvmsgXRfK7O7HeDrjc0s.jpg",
+   "production_countries": [
+    "DK"
+   ],
+   "providers": [
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Warriors and Gangsters Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tYRiW2QvjPtCbBhRVYFUyyfApVl.png",
+     "name": "Warriors and Gangsters Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-02-29",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "da",
+    "ja",
+    "so",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Hijacking",
+   "trailer": {
+    "key": "EQ5b5Jml7H0",
+    "name": "A Hijacking - Official UK trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.788,
+   "vote_count": 311
+  },
   "movie:1284046": {
    "backdrop_path": "/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
    "budget": 15000000,
@@ -963,6 +1275,173 @@
    "vote_average": 5.9,
    "vote_count": 67
   },
+  "movie:1299046": {
+   "backdrop_path": "/pbcKKVPlySkjr1oMCQyNKZBoI5A.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alberta / Luisa",
+     "n": "Luisa Ranieri"
+    },
+    {
+     "c": "Gabriella / Jasmine",
+     "n": "Jasmine Trinca"
+    },
+    {
+     "c": "Elena",
+     "n": "Elena Sofia Ricci"
+    },
+    {
+     "c": "Eleonora / Lunetta",
+     "n": "Lunetta Savino"
+    },
+    {
+     "c": "Bianca Vega / Vanessa",
+     "n": "Vanessa Scalera"
+    },
+    {
+     "c": "Sofia Volpi / Kasia",
+     "n": "Kasia Smutniak"
+    },
+    {
+     "c": "Zia Olga / Milena",
+     "n": "Milena Vukotić"
+    },
+    {
+     "c": "Paolina / Anna",
+     "n": "Anna Ferzetti"
+    },
+    {
+     "c": "Fausta / Geppi",
+     "n": "Geppi Cucciari"
+    },
+    {
+     "c": "Silvana / Mara",
+     "n": "Mara Venier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "+13",
+   "date_kind": "release",
+   "director": [
+    "Ferzan Özpetek"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1299046,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "In 1970s Rome, a filmmaker gathers actresses for a new project, which triggers memories of his past working in a Roman costume shop, run by Alberta and Gabriella, navigating personal and professional challenges while creating costumes for a major film.",
+   "popularity": 1.6223,
+   "poster_path": "/rvtFJBLnDalT61QtguRGOrii0hM.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-12-19",
+   "revenue": 19695388,
+   "runtime": 135,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Diamonds",
+   "trailer": {
+    "key": "BuzzzII3LcU",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.072,
+   "vote_count": 333
+  },
   "movie:1312946": {
    "backdrop_path": "/5QKddKk1qEe8CwWYpklmKq68uyo.jpg",
    "budget": 0,
@@ -1152,6 +1631,94 @@
    "type": "movie",
    "vote_average": 8.417,
    "vote_count": 54
+  },
+  "movie:14646": {
+   "backdrop_path": "/mE7C0GZXXAbw6wUaOGkWnW3S9U0.jpg",
+   "budget": 3800000,
+   "cast": [
+    {
+     "c": "Henri Ménard",
+     "n": "Jean-Pierre Bacri"
+    },
+    {
+     "c": "Denis",
+     "n": "Jean-Pierre Darroussin"
+    },
+    {
+     "c": "Yolande Ménard",
+     "n": "Catherine Frot"
+    },
+    {
+     "c": "Betty Ménard",
+     "n": "Agnès Jaoui"
+    },
+    {
+     "c": "La mère",
+     "n": "Claire Maurier"
+    },
+    {
+     "c": "Philippe Ménard",
+     "n": "Wladimir Yordanoff"
+    },
+    {
+     "c": "Le présentateur TV",
+     "n": "Alain Guillo"
+    },
+    {
+     "c": "Le père en 1967",
+     "n": "Cédric Klapisch"
+    },
+    {
+     "c": "Neighbor of the estate",
+     "n": "Antoine Chappey"
+    },
+    {
+     "c": "La mère en 1967",
+     "n": "Sophie Simon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Cédric Klapisch"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 14646,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "An upper middle-class French family celebrates a birthday in a restaurant. In one evening and during one meal, family history, tensions, collective and separate grudges, delights, and memories both clash and coalesce.",
+   "popularity": 1.0576,
+   "poster_path": "/eKGcispYwnZdC4FPctDAtFXLkyu.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1996-09-07",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Family Resemblances",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.359,
+   "vote_count": 333
   },
   "movie:1476746": {
    "backdrop_path": "/jpH1VRw74w0vvPTY0ryKEtMIXc.jpg",
@@ -1636,6 +2203,209 @@
    "vote_average": 6.809,
    "vote_count": 351
   },
+  "movie:23446": {
+   "backdrop_path": "/pmMdke4HG8xq6Tu4gfE4QFM7OQp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Monkey D. Luffy (voice)",
+     "n": "Mayumi Tanaka"
+    },
+    {
+     "c": "Roronoa Zoro (voice)",
+     "n": "Kazuya Nakai"
+    },
+    {
+     "c": "Nami (voice)",
+     "n": "Akemi Okamura"
+    },
+    {
+     "c": "Usopp (voice)",
+     "n": "Kappei Yamaguchi"
+    },
+    {
+     "c": "Sanji (voice)",
+     "n": "Hiroaki Hirata"
+    },
+    {
+     "c": "Borodo (voice)",
+     "n": "Kenyu Horiuchi"
+    },
+    {
+     "c": "Akisu (voice)",
+     "n": "Akiko Yajima"
+    },
+    {
+     "c": "Akisu's father (voice)",
+     "n": "Daisuke Gori"
+    },
+    {
+     "c": "Akisu's mother (voice)",
+     "n": "Sumi Shimamoto"
+    },
+    {
+     "c": "Danny (voice)",
+     "n": "Tetsu Inada"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Junji Shimizu"
+   ],
+   "genres": [
+    "Action",
+    "Animation",
+    "Adventure"
+   ],
+   "id": 23446,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Relaxing on a cozy beach, the Straw Hat Pirates are taking a rest from their quest. Right until Luffy noticed the Going Merry has been hijacked and sailed off from the beach. This leads them to search the ship and find the thief who took it from them. They ran into a duo named the Theif Brothers, who informed them that their ship was stolen by a group of pirates called the Trump Kyoudai. When they encountered the Trump Pirates, Nami ended up getting kidnapped as well as Luffy's hat. They tracked down the pirates to their base on Clockwork Island. Now Luffy, Zoro, Sanji, Usopp, and the Theif Brothers must reclaim the Going Merry, Save Nami, and get back Shank's straw hat.",
+   "popularity": 2.973,
+   "poster_path": "/phrVSY5cpUkybc0gU41crWi2XIP.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2001-03-03",
+   "revenue": 0,
+   "runtime": 60,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "One Piece: Clockwork Island Adventure",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 309
+  },
+  "movie:31646": {
+   "backdrop_path": "/27IZSY74Wmr4JrrhG8oDzO23mRE.jpg",
+   "budget": 145786,
+   "cast": [
+    {
+     "c": "Anne Kimbrough",
+     "n": "Tricia O'Neil"
+    },
+    {
+     "c": "Tyler Sherman",
+     "n": "Steve Marachuk"
+    },
+    {
+     "c": "Police Chief Steve Kimbrough",
+     "n": "Lance Henriksen"
+    },
+    {
+     "c": "Chris Kimbrough",
+     "n": "Ricky Paull Goldin"
+    },
+    {
+     "c": "Raoul, Hotel Manager",
+     "n": "Ted Richert"
+    },
+    {
+     "c": "Allison Dumont",
+     "n": "Leslie Graves"
+    },
+    {
+     "c": "Jai",
+     "n": "Carole Davis"
+    },
+    {
+     "c": "Loretta",
+     "n": "Connie Lynn Hadden"
+    },
+    {
+     "c": "Mal the Cook",
+     "n": "Arnie Ross"
+    },
+    {
+     "c": "Beverly",
+     "n": "Tracey Berg"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "James Cameron"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 31646,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A scuba diving instructor, her biochemist boyfriend, and her police chief ex-husband try to link a series of bizarre deaths to a mutant strain of piranha fish whose lair is a sunken freighter ship off a Caribbean island resort.",
+   "popularity": 3.5159,
+   "poster_path": "/gOPhCh4Ko5crlsyQewPsq1sYLiA.jpg",
+   "production_countries": [
+    "IT",
+    "NL",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1982-07-13",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It started as a vacation...",
+   "title": "Piranha II: The Spawning",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.27,
+   "vote_count": 333
+  },
   "movie:325346": {
    "backdrop_path": "/mwqm4YiqlxOtmbo0Zxm5evZpw0x.jpg",
    "budget": 3800000,
@@ -1895,6 +2665,119 @@
    "vote_average": 6.937,
    "vote_count": 374
   },
+  "movie:34746": {
+   "backdrop_path": "/tZGsjeXFg0hRv0Uip2cQJ8fxX3Y.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Paul Kersey",
+     "n": "Charles Bronson"
+    },
+    {
+     "c": "Olivia Regent",
+     "n": "Lesley-Anne Down"
+    },
+    {
+     "c": "Tommy O'Shea",
+     "n": "Michael Parks"
+    },
+    {
+     "c": "Sal Paconi",
+     "n": "Chuck Shamata"
+    },
+    {
+     "c": "Freddie  Flakes",
+     "n": "Robert Joy"
+    },
+    {
+     "c": "Brian Hoyle",
+     "n": "Saul Rubinek"
+    },
+    {
+     "c": "Hector Vasquez",
+     "n": "Miguel Sandoval"
+    },
+    {
+     "c": "Lt. Mickey King",
+     "n": "Kenneth Welsh"
+    },
+    {
+     "c": "Chuck Paconi",
+     "n": "Kevin Lund"
+    },
+    {
+     "c": "Janice Omori",
+     "n": "Lisa Inouye"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Allan A. Goldstein"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "id": 34746,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Paul Kersey is back at working vigilante justice when his fiancée, Olivia, has her business threatened by mobsters.",
+   "popularity": 2.0594,
+   "poster_path": "/5gcpHxQh93M6CKTIMpngErxxq0D.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1994-01-14",
+   "revenue": 1702394,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "No judge. No jury. No appeals. No deals.",
+   "title": "Death Wish V: The Face of Death",
+   "trailer": {
+    "key": "_QlN7kuSjT0",
+    "name": "Death Wish 5: The Face of Death Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.582,
+   "vote_count": 335
+  },
   "movie:39346": {
    "backdrop_path": "/264UPQQm6cIF3NwXQDrj8W6e7K8.jpg",
    "budget": 3500000,
@@ -2046,6 +2929,189 @@
    "type": "movie",
    "vote_average": 5.4,
    "vote_count": 345
+  },
+  "movie:401546": {
+   "backdrop_path": "/oLHIzRF99r9PXF2rhDOe1cgqPPi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Stan Lohman",
+     "n": "Richard Gere"
+    },
+    {
+     "c": "Claire Lohman",
+     "n": "Laura Linney"
+    },
+    {
+     "c": "Paul Lohman",
+     "n": "Steve Coogan"
+    },
+    {
+     "c": "Katelyn Lohman",
+     "n": "Rebecca Hall"
+    },
+    {
+     "c": "Barbara Lohman",
+     "n": "Chloë Sevigny"
+    },
+    {
+     "c": "Dylan Heinz",
+     "n": "Michael Chernus"
+    },
+    {
+     "c": "Rick Lohman",
+     "n": "Seamus Davey-Fitzpatrick"
+    },
+    {
+     "c": "Michael Lohman",
+     "n": "Charlie Plummer"
+    },
+    {
+     "c": "Nina",
+     "n": "Adepero Oduye"
+    },
+    {
+     "c": "Rafael",
+     "n": "Dominic Colón"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Oren Moverman"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 401546,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two brothers and their wives meet up at a haute-cuisine restaurant to discuss what to do about a horrific crime that their sons committed together. As the quartet debate their options, the conversation reopens old wounds between the siblings.",
+   "popularity": 1.7222,
+   "poster_path": "/8rhlkQo3fqPlC9MH8wOHCu4XQjN.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-05-05",
+   "revenue": 2500000,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "How far would you go to protect your children?",
+   "title": "The Dinner",
+   "trailer": {
+    "key": "vLG4PRq6FAo",
+    "name": "The Dinner (2017) | Official Trailer HD",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.5,
+   "vote_count": 323
   },
   "movie:412546": {
    "backdrop_path": "/kUfhJUEa4Djx9yCxYCkuEcJFE12.jpg",
@@ -2259,6 +3325,116 @@
    "vote_average": 5.741,
    "vote_count": 367
   },
+  "movie:42246": {
+   "backdrop_path": "/bXILbW1i0WRShd6s4LfLKdJM6zm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Grammy (voice)",
+     "n": "Charlie Adler"
+    },
+    {
+     "c": "Steed (voice)",
+     "n": "Jeff Bennett"
+    },
+    {
+     "c": "J.W. / Spike (voice)",
+     "n": "John DiMaggio"
+    },
+    {
+     "c": "Buzz Blister / Film Director (voice)",
+     "n": "Jess Harnell"
+    },
+    {
+     "c": "Gorthan / Whale (voice)",
+     "n": "Tom Kenny"
+    },
+    {
+     "c": "Tom / Frank (voice)",
+     "n": "Bill Kopp"
+    },
+    {
+     "c": "Soccer Mom / Lady / Tour Girl (voice)",
+     "n": "Tress MacNeille"
+    },
+    {
+     "c": "Irving / Dave (voice)",
+     "n": "Rob Paulsen"
+    },
+    {
+     "c": "Biff Buzzard / President of Hollywood / Squirty (voice)",
+     "n": "Billy West"
+    },
+    {
+     "c": "Clown-O / Security Guard (voice)",
+     "n": "J. Grant Albrecht"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Bill Kopp"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Action"
+   ],
+   "id": 42246,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After being evicted from their old house by Tom's owner for causing major damage, cat and mouse Tom and Jerry enter a race entitled the \"Fabulous Super Race\" to win a mansion.",
+   "popularity": 2.8045,
+   "poster_path": "/4pQhh5bU1KcUeXqPOteWsCkNZPK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-10-11",
+   "revenue": 0,
+   "runtime": 75,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Tom and Jerry: The Fast and the Furry",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.087,
+   "vote_count": 316
+  },
   "movie:42446": {
    "backdrop_path": "/ad0n8V9w28K7ZZNcbDjT6PCet3F.jpg",
    "budget": 0,
@@ -2346,6 +3522,303 @@
    "type": "movie",
    "vote_average": 5.3,
    "vote_count": 363
+  },
+  "movie:43646": {
+   "backdrop_path": "/8BtUiO4SoLf6kvPLWyIslXOiuIq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Paolo",
+     "n": "Paolo Villaggio"
+    },
+    {
+     "c": "Renato",
+     "n": "Renato Pozzetto"
+    },
+    {
+     "c": "Il prete",
+     "n": "Enzo Cannavale"
+    },
+    {
+     "c": "Dominitlla, la sposa",
+     "n": "Alessandra Casella"
+    },
+    {
+     "c": "Marito, lo sposo",
+     "n": "Fabio Traversa"
+    },
+    {
+     "c": "moglie del marito geloso",
+     "n": "Tiziana Pini"
+    },
+    {
+     "c": "Marito geloso",
+     "n": "Gian"
+    },
+    {
+     "c": "proprietario dell'albergo",
+     "n": "Renato D'Amore"
+    },
+    {
+     "c": "lo scagnozzo dei due boss",
+     "n": "Giampaolo Saccarola"
+    },
+    {
+     "c": "Benzinaio",
+     "n": "Sal Borgese"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Neri Parenti"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 43646,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Two silent movie actors escape from their film. Forced to find a way to survive in the real world, they will only cause troubles to the people they will meet along the way.",
+   "popularity": 0.9106,
+   "poster_path": "/aVDruEvQjoeZCnmMNt6FGnWii7K.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1990-10-28",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Comics",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.83,
+   "vote_count": 315
+  },
+  "movie:438146": {
+   "backdrop_path": "/lcarJakzaR8z14GyXvzI0nDYVDH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rapayet",
+     "n": "José Acosta"
+    },
+    {
+     "c": "Úrsula",
+     "n": "Carmiña Martínez"
+    },
+    {
+     "c": "Zaida",
+     "n": "Natalia Reyes"
+    },
+    {
+     "c": "Leonídas",
+     "n": "Greider Meza"
+    },
+    {
+     "c": "Peregrino",
+     "n": "José Vicente"
+    },
+    {
+     "c": "Aníbal",
+     "n": "Juan Bautista Martínez"
+    },
+    {
+     "c": "Moisés",
+     "n": "Jhon Narváez"
+    },
+    {
+     "c": "The Pupil",
+     "n": "Miguel Viera"
+    },
+    {
+     "c": "Singing Shepherd",
+     "n": "Sergio Coen"
+    },
+    {
+     "c": "Indira",
+     "n": "Aslenis Márquez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Ciro Guerra",
+    "Cristina Gallego"
+   ],
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 438146,
+   "industry": "world",
+   "origin_country": [
+    "CO"
+   ],
+   "original_language": "es",
+   "overview": "During the marijuana bonanza, a violent decade that saw the origins of drug trafficking in Colombia, Rapayet and his indigenous family get involved in a war to control the business that ends up destroying their lives and their culture.",
+   "popularity": 1.6621,
+   "poster_path": "/fUXD9HrnDqZKnw6p1iZnyeQYShd.jpg",
+   "production_countries": [
+    "CO",
+    "MX",
+    "DK",
+    "FR",
+    "CH"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-08-02",
+   "revenue": 2517405,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Generations of tradition. Consumed by greed.",
+   "title": "Birds of Passage",
+   "trailer": {
+    "key": "E2d7ttGAC_Q",
+    "name": "Birds of Passage | Official UK Trailer #2 | In Cinemas & On Demand Now",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 340
   },
   "movie:475946": {
    "backdrop_path": "/7gZR9nztTzZIskcRCuDfhvrd5Ds.jpg",
@@ -2457,6 +3930,285 @@
    "type": "movie",
    "vote_average": 7.097,
    "vote_count": 467
+  },
+  "movie:48946": {
+   "backdrop_path": "/rsH3eLp3lsey8ItHST2sAy1DTJW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "William",
+     "n": "Aaron Taylor-Johnson"
+    },
+    {
+     "c": "Eva",
+     "n": "Imogen Poots"
+    },
+    {
+     "c": "Jim",
+     "n": "Matthew Beard"
+    },
+    {
+     "c": "Emily",
+     "n": "Hannah Murray"
+    },
+    {
+     "c": "Candy",
+     "n": "Tuppence Middleton"
+    },
+    {
+     "c": "Mo",
+     "n": "Daniel Kaluuya"
+    },
+    {
+     "c": "Grace",
+     "n": "Megan Dodds"
+    },
+    {
+     "c": "Rosie",
+     "n": "Michelle Fairley"
+    },
+    {
+     "c": "Paul",
+     "n": "Nicholas Gleaves"
+    },
+    {
+     "c": "Si",
+     "n": "Jacob Anderson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Hideo Nakata"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 48946,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When strangers Jim, Eva, Emily and Mo meet William online in his new 'Chelsea Teens!' chatroom, they're completely seduced by his fast-talking, charismatic character. But beneath the surface lies a much darker truth. William is a dangerous loner, channeling all his energies into cyberspace. He's become an analyser, a calculating manipulator who finds it almost impossible to interact normally with others in the real world, instead turning his hand to manipulating people online.",
+   "popularity": 1.6487,
+   "poster_path": "/f5md4o6xEVVQ3kitZeiLmk0OHqD.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Bloodstream"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-08-11",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Control. Alter. Delete.",
+   "title": "Chatroom",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.785,
+   "vote_count": 318
+  },
+  "movie:5146": {
+   "backdrop_path": "/2cT8Q75gYiseEuPOE55n3lmBpRk.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Steve Tobias",
+     "n": "Michael Douglas"
+    },
+    {
+     "c": "Jerry Peyser",
+     "n": "Albert Brooks"
+    },
+    {
+     "c": "Mark Tobias",
+     "n": "Ryan Reynolds"
+    },
+    {
+     "c": "Judy Tobias",
+     "n": "Candice Bergen"
+    },
+    {
+     "c": "Melissa Peyser",
+     "n": "Lindsay Sloane"
+    },
+    {
+     "c": "Katherine Peyser",
+     "n": "Maria Ricossa"
+    },
+    {
+     "c": "Bodyguard",
+     "n": "Michael Bodnar"
+    },
+    {
+     "c": "Cherkasov",
+     "n": "Vladimir Radian"
+    },
+    {
+     "c": "Angela Harris",
+     "n": "Robin Tunney"
+    },
+    {
+     "c": "Nurse",
+     "n": "Susan Aceron"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Andrew Fleming"
+   ],
+   "genres": [
+    "Action",
+    "Comedy"
+   ],
+   "id": 5146,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Right before his daughter's wedding, a mild-mannered foot doctor discovers that his new in-laws are international smugglers.",
+   "popularity": 1.7755,
+   "poster_path": "/15TNyg00AMSDff6u77AR9JeaEzR.jpg",
+   "production_countries": [
+    "US",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-05-23",
+   "revenue": 26800000,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "zh",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "He's not losing his daughter. He's gaining a madman.",
+   "title": "The In-Laws",
+   "trailer": {
+    "key": "THq7uQku8ME",
+    "name": "Theatrical Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 324
   },
   "movie:520946": {
    "backdrop_path": "/7TxeZVg2evMG42p0uSbMJpWNQ8A.jpg",
@@ -2602,6 +4354,121 @@
    "type": "movie",
    "vote_average": 6.143,
    "vote_count": 347
+  },
+  "movie:525946": {
+   "backdrop_path": "/jfCfEhdFtotjSwP6bipQzk3eaoB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Christmas Flint",
+     "n": "Mckenna Grace"
+    },
+    {
+     "c": "Miss Rayleen",
+     "n": "Viola Davis"
+    },
+    {
+     "c": "Ramsey Flint",
+     "n": "Jim Gaffigan"
+    },
+    {
+     "c": "Miss Massey",
+     "n": "Allison Janney"
+    },
+    {
+     "c": "Joseph",
+     "n": "Charlie Shotwell"
+    },
+    {
+     "c": "Hell-No Price",
+     "n": "Milan Ray"
+    },
+    {
+     "c": "Smash",
+     "n": "Johanna Colón"
+    },
+    {
+     "c": "Anne-Claire",
+     "n": "Bella Higginbotham"
+    },
+    {
+     "c": "Dwayne Champaign",
+     "n": "Mike Epps"
+    },
+    {
+     "c": "Piper Keller",
+     "n": "Ashley Brooke"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Bertie",
+    "Bert"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+   ],
+   "id": 525946,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In rural 1977 Georgia, a misfit girl dreams of life in outer space. When a national competition offers her a chance at her dream, to be recorded on NASA’s Golden Record, she recruits a makeshift troupe of Birdie Scouts, forging friendships that last a lifetime and beyond.",
+   "popularity": 1.952,
+   "poster_path": "/yr1RzTrVIfS5n9zvClUfAtZDyUn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-02-01",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Show the universe who you truly are.",
+   "title": "Troop Zero",
+   "trailer": {
+    "key": "Gi4C6GncmQ4",
+    "name": "Troop Zero - Official Trailer | Prime Video",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 317
   },
   "movie:557946": {
    "backdrop_path": "/6uKXrsdguwZrtG5BL1wBHvxWs3Z.jpg",
@@ -3132,6 +4999,96 @@
    "vote_average": 5.88,
    "vote_count": 367
   },
+  "movie:64246": {
+   "backdrop_path": "/prs7S1Gp6UL2ByRaZdbmEGNwLOP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Makoto Kobayashi (voice)",
+     "n": "Kazato Tomizawa"
+    },
+    {
+     "c": "Hiroka Kuwabara (voice)",
+     "n": "Akina Minami"
+    },
+    {
+     "c": "Shoko Sano (voice)",
+     "n": "Aoi Miyazaki"
+    },
+    {
+     "c": "Saotome (voice)",
+     "n": "Jingi Irie"
+    },
+    {
+     "c": "Mitsuru Kobayashi (voice)",
+     "n": "Akiyoshi Nakao"
+    },
+    {
+     "c": "Makoto's Mother (voice)",
+     "n": "Kumiko Aso"
+    },
+    {
+     "c": "Makoto's Father (voice)",
+     "n": "Katsumi Takahashi"
+    },
+    {
+     "c": "Purapura (voice)",
+     "n": "Michael"
+    },
+    {
+     "c": "Mao (voice)",
+     "n": "Manatsu Hayashi"
+    },
+    {
+     "c": "Mr. Sawada (voice)",
+     "n": "Keiji Fujiwara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Keiichi Hara"
+   ],
+   "genres": [
+    "Animation",
+    "Drama",
+    "Family"
+   ],
+   "id": 64246,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Upon reaching the train station to death, a dejected soul is informed that he is lucky and will have another chance at life. He is placed in the body of a 14-year-old boy named Kobayashi Makoto, who has just committed suicide. Watched over by a neutral spirit named Purapura, the soul must figure out what his greatest sin and mistake in his former life was, before his time limit in Makoto's body runs out. He also has a number of other lesser duties he must complete, such as understanding what led Makoto to commit suicide in the first place and learning how to enjoy his second chance at life.",
+   "popularity": 2.1943,
+   "poster_path": "/aSM1ki4WSEgvPYMZ9K28aylImFF.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2010-08-21",
+   "revenue": 0,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Colorful",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.209,
+   "vote_count": 326
+  },
   "movie:81446": {
    "backdrop_path": "/fynGPtLcobYqBIPTeKIxW8tNvjo.jpg",
    "budget": 4000000,
@@ -3309,6 +5266,170 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 361
+  },
+  "movie:8446": {
+   "backdrop_path": "/vF6HsyBdaJAZIYNUVs2hyY5itBy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bugsy Malone",
+     "n": "Scott Baio"
+    },
+    {
+     "c": "Blousey",
+     "n": "Florrie Dugger"
+    },
+    {
+     "c": "Tallulah",
+     "n": "Jodie Foster"
+    },
+    {
+     "c": "Fat Sam",
+     "n": "John Cassisi"
+    },
+    {
+     "c": "Dandy Dan",
+     "n": "Martin Lev"
+    },
+    {
+     "c": "Leroy Smith",
+     "n": "Paul Murphy"
+    },
+    {
+     "c": "Knuckles",
+     "n": "Sheridan Earl Russell"
+    },
+    {
+     "c": "Fizzy",
+     "n": "Albin 'Humpty' Jenkins"
+    },
+    {
+     "c": "Smolsky",
+     "n": "Paul Chirelstein"
+    },
+    {
+     "c": "O'Dreary",
+     "n": "Andrew Paul"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Alan Parker"
+   ],
+   "genres": [
+    "Drama",
+    "Action",
+    "Comedy",
+    "Music",
+    "Family"
+   ],
+   "id": 8446,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "New York, 1929, a war rages between two rival gangsters, Fat Sam and Dandy Dan. Dan is in possession of a new and deadly weapon, the dreaded \"splurge gun\". As the custard pies fly, Bugsy Malone, an all-round nice guy, falls for Blousey Brown, a singer at Fat Sam's speakeasy. His designs on her are disrupted by the seductive songstress Tallulah who wants Bugsy for herself.",
+   "popularity": 1.5801,
+   "poster_path": "/j9BPl3jkNCFgsYe5poKrirUqrf8.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1976-07-22",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every year brings a great movie. Every decade a great movie musical!",
+   "title": "Bugsy Malone",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 333
   },
   "movie:866346": {
    "backdrop_path": "/tMi07ApKsBuyHPmbznWnBedWFmf.jpg",
@@ -3733,6 +5854,113 @@
    "type": "movie",
    "vote_average": 6.063,
    "vote_count": 396
+  },
+  "movie:988046": {
+   "backdrop_path": "/qg2ar8RD0V543u8T35SxTguGV2W.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - aka Clarence Hughes, aka Warren Marshall (archive footage)",
+     "n": "Franklin Delano Floyd"
+    },
+    {
+     "c": "Self - Special Agent, FBI",
+     "n": "Joe Fitzpatrick"
+    },
+    {
+     "c": "Self - Tonya's Friend / Former Dancer, Passions",
+     "n": "Karen Parsley"
+    },
+    {
+     "c": "Self - Neurosurgeon",
+     "n": "Dr. Charles Engles"
+    },
+    {
+     "c": "Self - Michael's Foster Mother",
+     "n": "Merle Bean"
+    },
+    {
+     "c": "Self - Michael's Foster Father",
+     "n": "Ernest Bean"
+    },
+    {
+     "c": "Self - Assistant Chief, Choctaw Police (OK)",
+     "n": "Billy Carter"
+    },
+    {
+     "c": "Self - Sharon's Friend, Forest Park Senior High",
+     "n": "Sherry Fortson-Bailey"
+    },
+    {
+     "c": "Self - Sharon's Friend, Forest Park Senior High",
+     "n": "Lynn Clemons"
+    },
+    {
+     "c": "Self - Sharon's Friend, Student Council Camp",
+     "n": "Jenny Fisher"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Skye Borgman"
+   ],
+   "genres": [
+    "Crime",
+    "Documentary"
+   ],
+   "id": 988046,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young mother’s mysterious death and her son’s subsequent kidnapping blow open a decades-long mystery about the woman’s true identity, and the murderous federal fugitive at the center of it all.",
+   "popularity": 1.4443,
+   "poster_path": "/w6dnirDUhvWuHy91QECqGSYmOpa.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-07-06",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Her identity was a mystery to everyone. Even her.",
+   "title": "Girl in the Picture",
+   "trailer": {
+    "key": "jnJ4BGNpby8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.136,
+   "vote_count": 324
   },
   "tv:1446": {
    "backdrop_path": "/rtJrrlUeiMtzQ6lJLGHHyYHYhnK.jpg",

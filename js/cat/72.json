@@ -1,6 +1,6 @@
 {
  "bucket": "72",
- "count": 46,
+ "count": 55,
  "titles": {
   "movie:10372": {
    "backdrop_path": "/xdH8k2O6mpLv4szeLkQGiM1aSOC.jpg",
@@ -482,6 +482,333 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 407
+  },
+  "movie:11972": {
+   "backdrop_path": "/3pmuMl10ZLABOWdZRmGARsfuYLe.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Don Camillo Tarocci",
+     "n": "Fernandel"
+    },
+    {
+     "c": "Giuseppe Bottazzi \"Peppone\"",
+     "n": "Gino Cervi"
+    },
+    {
+     "c": "Gina Filotti",
+     "n": "Vera Talchi"
+    },
+    {
+     "c": "Mariolino Brusco",
+     "n": "Franco Interlenghi"
+    },
+    {
+     "c": "Brusco",
+     "n": "Saro Urzì"
+    },
+    {
+     "c": "Il Vescovo",
+     "n": "Charles Vissières"
+    },
+    {
+     "c": "Signora Cristina",
+     "n": "Sylvie"
+    },
+    {
+     "c": "Clara Auteri",
+     "n": "Clara Auteri Pepe"
+    },
+    {
+     "c": "Barchini",
+     "n": "Italo Clerici"
+    },
+    {
+     "c": "Assessore",
+     "n": "Peppino De Martino"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Julien Duvivier"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 11972,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "In a village of the Po valley where the earth is hard and life miserly, the priest and the communist mayor are always fighting to be the head of the community. If in secret, they admired and liked each other, politics still divided them as it is dividing the country. And when the mayor wants his \"People's House\"; the priest wants his \"Garden City\" for the poor. Division exist between the richest and the poorest, the pious and the atheists and even between lovers. But if the people are hard as the country, they are good in the bottom of there heart.",
+   "popularity": 1.326,
+   "poster_path": "/bDbzuBgsgZ5VVljMHNni3gJK9Qx.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1952-03-28",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Little World of Don Camillo",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.5,
+   "vote_count": 323
+  },
+  "movie:12172": {
+   "backdrop_path": "/k5wG09wKslKid7EqxJ351oFytFx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Narrator (voice)",
+     "n": "Werner Herzog"
+    },
+    {
+     "c": "Self - Volcanologist",
+     "n": "Clive Oppenheimer"
+    },
+    {
+     "c": "Self - Transportation Dept",
+     "n": "Scott Rowland"
+    },
+    {
+     "c": "Self - Philosopher, Forklift Driver",
+     "n": "Stefan Pashov"
+    },
+    {
+     "c": "Self - Glaciologist",
+     "n": "Doug MacAyeal"
+    },
+    {
+     "c": "Self - Filmmaker, Cook",
+     "n": "Ryan Andrew Evans"
+    },
+    {
+     "c": "Self - Survival School Instructor",
+     "n": "Kevin Emery"
+    },
+    {
+     "c": "Self - Nutritional Ecologist",
+     "n": "Olav T. Oftedal"
+    },
+    {
+     "c": "Self - Physiologist",
+     "n": "Regina Eisert"
+    },
+    {
+     "c": "Self - Journeyman Plumber",
+     "n": "David R. Pacheco Jr."
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Werner Herzog"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 12172,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Acclaimed filmmaker Werner Herzog travels to Antarctica, where he finds a desolate, beautiful landscape, largely untouched by human hands, and a group of truly unique people who risk their lives to study it. Centered at McMurdo Station, the United States' largest Antarctic research center, Herzog explores the minds of the scientists willing to abandon civilization and endure volatile conditions to learn more about the continent's wildlife and awe-inspiring natural wonders.",
+   "popularity": 1.8758,
+   "poster_path": "/gZVQoVCCFhqWoeskAcMtPHjTbro.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-07-18",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Off the map, things get strange.",
+   "title": "Encounters at the End of the World",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.489,
+   "vote_count": 311
+  },
+  "movie:1280672": {
+   "backdrop_path": "/t25z4ggC2Uvs3EhI66lxVO2jDp5.jpg",
+   "budget": 14000000,
+   "cast": [
+    {
+     "c": "Dreux",
+     "n": "Keke Palmer"
+    },
+    {
+     "c": "Alyssa",
+     "n": "SZA"
+    },
+    {
+     "c": "Keshawn",
+     "n": "Joshua David Neal"
+    },
+    {
+     "c": "Berniece",
+     "n": "Aziza Scott"
+    },
+    {
+     "c": "Maniac",
+     "n": "Patrick Cage"
+    },
+    {
+     "c": "Lucky",
+     "n": "Katt Williams"
+    },
+    {
+     "c": "Bethany",
+     "n": "Maude Apatow"
+    },
+    {
+     "c": "Mama Ruth",
+     "n": "Vanessa Bell Calloway"
+    },
+    {
+     "c": "Shayla",
+     "n": "Gabrielle Dennis"
+    },
+    {
+     "c": "Ruby",
+     "n": "Janelle James"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Lawrence Lamont"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1280672,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When one roommate's boyfriend blows their rent money, two best friends embark on a chaotic race against time to avoid eviction while trying to keep their friendship intact.",
+   "popularity": 3.2351,
+   "poster_path": "/ccn6bFUA5DECjA3Lo0CuJqGNQCv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-01-16",
+   "revenue": 51896264,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Two broke friends, one desperate plan.",
+   "title": "One of Them Days",
+   "trailer": {
+    "key": "-5xzjw_0d_0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.662,
+   "vote_count": 325
   },
   "movie:1288072": {
    "backdrop_path": "/8GjH1BU5PtoqAlhMeXQ46eq9z1D.jpg",
@@ -1007,6 +1334,212 @@
    "vote_average": 7.1,
    "vote_count": 351
   },
+  "movie:18172": {
+   "backdrop_path": "/hjYY1aQo5UTsKhmVjnDEasefSmQ.jpg",
+   "budget": 5600000,
+   "cast": [
+    {
+     "c": "Stefen Djordjevic",
+     "n": "Tom Cruise"
+    },
+    {
+     "c": "Nickerson",
+     "n": "Craig T. Nelson"
+    },
+    {
+     "c": "Lisa",
+     "n": "Lea Thompson"
+    },
+    {
+     "c": "Pop Djordjevic",
+     "n": "Charles Cioffi"
+    },
+    {
+     "c": "Greg Djordjevic",
+     "n": "Gary Graham"
+    },
+    {
+     "c": "Vinnie Salvucci",
+     "n": "Paul Carafotes"
+    },
+    {
+     "c": "Brian Riley",
+     "n": "Chris Penn"
+    },
+    {
+     "c": "Suzie Nickerson",
+     "n": "Sandy Faison"
+    },
+    {
+     "c": "Bosko",
+     "n": "James A. Baffico"
+    },
+    {
+     "c": "Jess Covington",
+     "n": "Mel Winkler"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michael Chapman"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 18172,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Sensitive study of a headstrong high school football star who dreams of getting out of his small Western Pennsylvania steel town with a football scholarship. His equally ambitious coach aims at a college position, resulting in a clash which could crush the player's dreams.",
+   "popularity": 3.15,
+   "poster_path": "/y8OSutSNEi84ROcqyV7Tu7p8xYg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1983-10-21",
+   "revenue": 17233166,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He has everything at stake. He can't afford to lose. He's got to make all the right moves.",
+   "title": "All the Right Moves",
+   "trailer": {
+    "key": "iOKk79bzSdM",
+    "name": "All the Right Moves | #TBT Trailer | 20th Century FOX",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.757,
+   "vote_count": 309
+  },
+  "movie:1872": {
+   "backdrop_path": "/wai7w9pjMK2NEY22pns8nIY0ZQC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eve",
+     "n": "Carla Gugino"
+    },
+    {
+     "c": "Clyde Rawlins",
+     "n": "Michael Chiklis"
+    },
+    {
+     "c": "Jenny",
+     "n": "Samaire Armstrong"
+    },
+    {
+     "c": "Sadie Blake",
+     "n": "Lucy Liu"
+    },
+    {
+     "c": "Bishop",
+     "n": "James D'Arcy"
+    },
+    {
+     "c": "Juan Ton",
+     "n": "Marilyn Manson"
+    },
+    {
+     "c": "Lloyd",
+     "n": "Robert Forster"
+    },
+    {
+     "c": "Collette",
+     "n": "Cameron Richardson"
+    },
+    {
+     "c": "Harrison",
+     "n": "Allan Rich"
+    },
+    {
+     "c": "Rourke",
+     "n": "Holt McCallany"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Sebastian Gutierrez"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Horror",
+    "Thriller"
+   ],
+   "id": 1872,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A reporter on the trail of a sinister cult wakes up in a morgue to find herself a member of the undead. She goes on a personal vendetta against a group a cultists who are responsible for her death.",
+   "popularity": 1.5567,
+   "poster_path": "/h4QNqFITPXjRrWGELtbifg34T1V.jpg",
+   "production_countries": [
+    "NZ",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-04-28",
+   "revenue": 2850927,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They didn't leave her alive. They left her UNDEAD.",
+   "title": "Rise: Blood Hunter",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.345,
+   "vote_count": 313
+  },
   "movie:219572": {
    "backdrop_path": "/7hJxwdm2OSE4Umsta7rYIxDaymU.jpg",
    "budget": 35000000,
@@ -1382,6 +1915,100 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 354
+  },
+  "movie:25472": {
+   "backdrop_path": "/h0hgSBPF5vKOg9tSkKovljeAwre.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alex (voice)",
+     "n": "Ben Stiller"
+    },
+    {
+     "c": "Marty (voice)",
+     "n": "Chris Rock"
+    },
+    {
+     "c": "Melman (voice)",
+     "n": "David Schwimmer"
+    },
+    {
+     "c": "Gloria (voice)",
+     "n": "Jada Pinkett Smith"
+    },
+    {
+     "c": "Maurice (voice)",
+     "n": "Cedric the Entertainer"
+    },
+    {
+     "c": "Mort (voice)",
+     "n": "Andy Richter"
+    },
+    {
+     "c": "Santa (voice)",
+     "n": "Carl Reiner"
+    },
+    {
+     "c": "Cupid (voice)",
+     "n": "Nina Dobrev"
+    },
+    {
+     "c": "King Julien (voice)",
+     "n": "Danny Jacobs"
+    },
+    {
+     "c": "Skipper (voice)",
+     "n": "Tom McGrath"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "David Soren"
+   ],
+   "genres": [
+    "Animation",
+    "Family"
+   ],
+   "id": 25472,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "While trapped on the island of Madagascar, the Central Park Zoo escapees receive a visit from Santa--crash landing on their territory and getting amnesia to boot! The animals must help Santa assume his rightful place in the universe, while King Julian laps up the opportunity for his subjects.",
+   "popularity": 2.7952,
+   "poster_path": "/s5nELMHR1L2agJXVIPiWxu6dWl8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2009-11-16",
+   "revenue": 0,
+   "runtime": 30,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Merry Madagascar",
+   "trailer": {
+    "key": "SvjEHkYm4cY",
+    "name": "DreamWorks' \"Merry Madagascar\" & \"Kung Fu Panda\" Holiday Specials",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 332
   },
   "movie:293572": {
    "backdrop_path": "/ev3ohnH3PZnBX0l7spiXWbcOIz4.jpg",
@@ -2463,6 +3090,166 @@
    "vote_average": 7.188,
    "vote_count": 455
   },
+  "movie:418472": {
+   "backdrop_path": "/3VUKpgrssr9iQYFAZiAbN5lbw7g.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sinan",
+     "n": "Doğu Demirkol"
+    },
+    {
+     "c": "İdris",
+     "n": "Murat Cemcir"
+    },
+    {
+     "c": "Asuman",
+     "n": "Bennu Yıldırımlar"
+    },
+    {
+     "c": "Hatice",
+     "n": "Hazar Ergüçlü"
+    },
+    {
+     "c": "Süleyman",
+     "n": "Serkan Keskin"
+    },
+    {
+     "c": "Recep",
+     "n": "Tamer Levent"
+    },
+    {
+     "c": "İmam Veysel",
+     "n": "Akın Aksu"
+    },
+    {
+     "c": "Ali Riza",
+     "n": "Ahmet Rıfat Şungar"
+    },
+    {
+     "c": "İlhami",
+     "n": "Kubilay Tunçer"
+    },
+    {
+     "c": "İmam Nazmi",
+     "n": "Öner Erkan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Nuri Bilge Ceylan"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 418472,
+   "industry": "world",
+   "origin_country": [
+    "TR"
+   ],
+   "original_language": "tr",
+   "overview": "Fresh out of university, a Turkish young man with literary aspirations returns to his home village and starts scraping together money to publish his book. While trying to reconnect with his old friends and environment; his uncertainty, existential struggle and his father’s gambling addiction bring him grave difficulties.",
+   "popularity": 1.0993,
+   "poster_path": "/s7kGE1MChkHD5VX8sv7SOGabGMZ.jpg",
+   "production_countries": [
+    "BA",
+    "BG",
+    "FR",
+    "DE",
+    "MK",
+    "QA",
+    "SE",
+    "TR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-06-01",
+   "revenue": 0,
+   "runtime": 188,
+   "source": "catalogue",
+   "spoken_languages": [
+    "tr"
+   ],
+   "status": "Released",
+   "tagline": "All these small-minded, bigoted people like peas in a pod.",
+   "title": "The Wild Pear Tree",
+   "trailer": {
+    "key": "po0vls18Koc",
+    "name": "The Wild Pear Tree (official trailer)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.488,
+   "vote_count": 335
+  },
   "movie:419472": {
    "backdrop_path": "/90147e6MgbxP5pJQHi48IgQ3CN2.jpg",
    "budget": 0,
@@ -2869,6 +3656,191 @@
    "type": "movie",
    "vote_average": 6.833,
    "vote_count": 432
+  },
+  "movie:4772": {
+   "backdrop_path": "/9MA9H3opBwq9cP4taf3S5ZWI2Fz.jpg",
+   "budget": 135000,
+   "cast": [
+    {
+     "c": "Richard",
+     "n": "Lionel Stander"
+    },
+    {
+     "c": "George",
+     "n": "Donald Pleasence"
+    },
+    {
+     "c": "Teresa",
+     "n": "Françoise Dorléac"
+    },
+    {
+     "c": "Albie",
+     "n": "Jack MacGowran"
+    },
+    {
+     "c": "Christopher",
+     "n": "Iain Quarrier"
+    },
+    {
+     "c": "Jacqueline",
+     "n": "Jacqueline Bisset"
+    },
+    {
+     "c": "Christopher's Mother",
+     "n": "Renée Houston"
+    },
+    {
+     "c": "Cecil",
+     "n": "William Franklyn"
+    },
+    {
+     "c": "Christopher's Father",
+     "n": "Geoffrey Sumner"
+    },
+    {
+     "c": "Philip Fairweather",
+     "n": "Robert Dorning"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Roman Polanski"
+   ],
+   "genres": [
+    "Thriller",
+    "Comedy",
+    "Crime"
+   ],
+   "id": 4772,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "On the run and in search of help, two wounded gangsters find refuge in the secluded castle of a feeble man and his wife; however, under the point of a gun, nothing is what it seems.",
+   "popularity": 1.396,
+   "poster_path": "/5YmxgiY8Pi9D1kawwzQUE7nCQQM.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "ScreenPix Apple TV channel"
+    },
+    {
+     "name": "IndieFlix Shorts Amazon Channel"
+    },
+    {
+     "name": "ScreenPix Amazon Channel "
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+     "name": "MGM Plus Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qUSKopZ7YFZ6N1dUpTbNhgZd5FH.png",
+     "name": "ScreenPix Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/10011zizrQEpO955oxor51BM0IP.png",
+     "name": "IndieFlix Shorts Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu1q89warmeMRwZRMgWQSl6GIYV.png",
+     "name": "ScreenPix Amazon Channel ",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1966-06-17",
+   "revenue": 0,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Sometimes there’s nothing left to do but laugh!",
+   "title": "Cul-de-sac",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.725,
+   "vote_count": 325
   },
   "movie:4972": {
    "backdrop_path": "/8c3EHJbYJ79dXMtFqmyduLs18RS.jpg",
@@ -3479,6 +4451,134 @@
    "type": "movie",
    "vote_average": 5.2,
    "vote_count": 436
+  },
+  "movie:604872": {
+   "backdrop_path": "/gUcoXuZoc7Z1RTQxgBXEsLQXjW8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Wentao Li",
+     "n": "Wang Xueqi"
+    },
+    {
+     "c": "Xiaomeng Li",
+     "n": "Hannah Quinlivan"
+    },
+    {
+     "c": "Zhengnan Xiao",
+     "n": "Shawn Dou"
+    },
+    {
+     "c": "Jiahui Dong",
+     "n": "An Danwei"
+    },
+    {
+     "c": "Qianwei Wang",
+     "n": "Leslie Ma"
+    },
+    {
+     "c": "Bo Teng",
+     "n": "Ji Lingchen"
+    },
+    {
+     "c": "Shanshan",
+     "n": "Li Yiqing"
+    },
+    {
+     "c": "Xiaomeng Li(young)",
+     "n": "Bee Rogers"
+    },
+    {
+     "c": "Professor Jiang",
+     "n": "Shi Liang"
+    },
+    {
+     "c": "Lei Xu",
+     "n": "Ryan Wu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Simon West"
+   ],
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "id": 604872,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "Tianhuo Island is as beautiful as a paradise. It almost makes people forget that it is located in the \"Ring of Fire\" the world-famous Pacific Rim volcanic belt. The volcano erupts, and the fates of the people on the island are entangled.",
+   "popularity": 1.9114,
+   "poster_path": "/dDf8M1yMwvBVe8VtOKxCpOog8CF.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-12-12",
+   "revenue": 24800000,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The mountain is waking up",
+   "title": "Skyfire",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.301,
+   "vote_count": 319
   },
   "movie:626872": {
    "backdrop_path": "/fI8hv1IqWUIUjx4YRfl6TWhdqHW.jpg",

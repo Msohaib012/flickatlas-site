@@ -1,6 +1,6 @@
 {
  "bucket": "79",
- "count": 44,
+ "count": 50,
  "titles": {
   "movie:1000879": {
    "d": "The Site (2026): Thriller/Fantasy film. Story: Vincent works the night shift on the construction… See cast and TMDB rating 5.3/10.",
@@ -322,6 +322,134 @@
    "t": "The Woman Next Door (1981) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1981"
   },
+  "movie:12779": {
+   "d": "Swept Away (2002): Comedy/Romance film. Story: Stranded and alone on a desert island during a… See cast, budget $10M, and TMDB rating 4.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bzb6BDskaYbRvXMIENcqFdgwiY0.jpg",
+   "industry": "world",
+   "k": "Swept Away, Swept Away movie, Swept Away cast, Swept Away story, Swept Away box office collection, Swept Away budget, Swept Away review, Swept Away rating, Swept Away release date, Swept Away Comedy, Swept Away Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Madonna"
+     },
+     {
+      "@type": "Person",
+      "name": "Adriano Giannini"
+     },
+     {
+      "@type": "Person",
+      "name": "Bruce Greenwood"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeanne Tripplehorn"
+     },
+     {
+      "@type": "Person",
+      "name": "Elizabeth Banks"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 325,
+     "ratingValue": 4.7,
+     "worstRating": 0
+    },
+    "description": "Swept Away (2002): Comedy/Romance film. Story: Stranded and alone on a desert island during a… See cast, budget $10M, and TMDB rating 4.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Guy Ritchie"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bzb6BDskaYbRvXMIENcqFdgwiY0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12779",
+    "name": "Swept Away",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-10-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12779"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Swept Away (2002)</h1>\n<p class=\"ssr-lead\">Stranded and alone on a desert island during a cruise, a spoiled rich woman and a deckhand fall in love and make a date to reunite after their rescue.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 October 2002</li><li>Runtime: 89 minutes</li><li>Director: Guy Ritchie</li><li>Genres: Comedy, Romance</li><li>Budget: $10M</li><li>TMDB rating: 4.7/10 (325 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Madonna as Amber Leighton</li><li>Adriano Giannini as Giuseppe &#x27;Guido&#x27; Esposito</li><li>Bruce Greenwood as Anthony &#x27;Tony&#x27; Leighton</li><li>Jeanne Tripplehorn as Marina</li><li>Elizabeth Banks as Debi</li><li>Michael Beattie as Todd</li><li>David Thornton as Michael</li><li>Yorgo Voyagis as Captain</li><li>Ricardo Perna as Crew Member</li><li>George Antoni as Chef</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Swept Away (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
+  },
+  "movie:13079": {
+   "d": "The Life Before Her Eyes (2008): Thriller/Drama film. Story: As the 15th anniversary of a fatal high school… See cast, budget $8M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/crwSXtFrmH3y9IAdzy3JzYVenSj.jpg",
+   "industry": "world",
+   "k": "The Life Before Her Eyes, The Life Before Her Eyes movie, The Life Before Her Eyes cast, The Life Before Her Eyes story, The Life Before Her Eyes box office collection, The Life Before Her Eyes budget, The Life Before Her Eyes review, The Life Before Her Eyes rating, The Life Before Her Eyes release date, The Life Before Her Eyes Thriller, The Life Before Her Eyes Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Uma Thurman"
+     },
+     {
+      "@type": "Person",
+      "name": "Evan Rachel Wood"
+     },
+     {
+      "@type": "Person",
+      "name": "Eva Amurri"
+     },
+     {
+      "@type": "Person",
+      "name": "Gabrielle Brennan"
+     },
+     {
+      "@type": "Person",
+      "name": "Brett Cullen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 310,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "The Life Before Her Eyes (2008): Thriller/Drama film. Story: As the 15th anniversary of a fatal high school… See cast, budget $8M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Vadim Perelman"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/crwSXtFrmH3y9IAdzy3JzYVenSj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13079",
+    "name": "The Life Before Her Eyes",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-04-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13079"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Life Before Her Eyes (2008)</h1>\n<p class=\"ssr-lead\">As the 15th anniversary of a fatal high school shooting approaches, former pupil Diana McFee is haunted by memories of the tragedy. After losing her best friend Maureen in the attack, Diana has been profoundly affected by the incident - her seemingly perfect life shaped by the events of that day.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 April 2008</li><li>Runtime: 90 minutes</li><li>Director: Vadim Perelman</li><li>Genres: Thriller, Drama, Mystery</li><li>Budget: $8M</li><li>TMDB rating: 6.0/10 (310 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Uma Thurman as Diana</li><li>Evan Rachel Wood as Young Diana</li><li>Eva Amurri as Maureen</li><li>Gabrielle Brennan as Emma McFee</li><li>Brett Cullen as Paul McFee</li><li>Oscar Isaac as Marcus</li><li>Jack Gilpin as Mr. McClood</li><li>John Magaro as Michael Patrick</li><li>Nathalie Paulding as Amanda (Teen)</li><li>Maggie Lacey as Amanda (Adult)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Magnolia Selects Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Life Before Her Eyes (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
+  },
   "movie:1321179": {
    "d": "The King's Warden (2026): History/Drama film. Story: In a remote mountain village of 15th-century Joseon… See cast, budget $6.9M, and TMDB rating 6.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/1s1r4OOdnU8VX2inALVTA2q94uY.jpg",
@@ -385,6 +513,74 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The King&#x27;s Warden (2026)</h1>\n<p class=\"ssr-lead\">In a remote mountain village of 15th-century Joseon, humble headman Heung-do hears a rumor that any village hosting an exiled nobleman will be blessed with abundance and fortune. Hoping to bring prosperity to his impoverished community, he eagerly submits a petition to host one—unaware that his guest is none other than the fallen monarch, deposed boy-king Danjong.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 February 2026</li><li>Runtime: 117 minutes</li><li>Director: Chang Hang-jun</li><li>Genres: History, Drama</li><li>Budget: $6.9M</li><li>TMDB rating: 6.9/10 (34 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yoo Hai-jin as Eom Heung-do</li><li>Park Ji-hoon as Yi Hong-wi / Nosan / King Danjong</li><li>Yoo Ji-tae as Han Myeong-hoe</li><li>Jeon Mi-do as Mae-hwa</li><li>Kim Min as Eom Tae-san</li><li>Park Ji-hwan as Eo Se-gyeom</li><li>Lee Jun-hyuk as Geumseong / Yi Yu</li><li>Ahn Jae-hong as Norugol village chief</li><li>Lee Jun-hyeok as Makdong&#x27;s father</li><li>Kim Soo-jin as Makdong&#x27;s mother</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Rakuten Viki</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The King's Warden (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:13479": {
+   "d": "A Charlie Brown Thanksgiving (1973): Animation/Comedy film. Story: Turkey, cranberries, pumpkin pie... and the Peanuts… See cast and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xCTW6uzOWasbTivZIeQc2AsEIWr.jpg",
+   "industry": "world",
+   "k": "A Charlie Brown Thanksgiving, A Charlie Brown Thanksgiving movie, A Charlie Brown Thanksgiving cast, A Charlie Brown Thanksgiving story, A Charlie Brown Thanksgiving box office collection, A Charlie Brown Thanksgiving budget, A Charlie Brown Thanksgiving review, A Charlie Brown Thanksgiving rating, A Charlie Brown Thanksgiving release date, A Charlie Brown Thanksgiving Animation, A Charlie Brown Thanksgiving Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Todd Barbee"
+     },
+     {
+      "@type": "Person",
+      "name": "Robin Kohn"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephen Shea"
+     },
+     {
+      "@type": "Person",
+      "name": "Hilary Momberger-Powers"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher DeFaria"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 309,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "A Charlie Brown Thanksgiving (1973): Animation/Comedy film. Story: Turkey, cranberries, pumpkin pie... and the Peanuts… See cast and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bill Melendez"
+     },
+     {
+      "@type": "Person",
+      "name": "Phil Roman"
+     }
+    ],
+    "duration": "PT25M",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xCTW6uzOWasbTivZIeQc2AsEIWr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13479",
+    "name": "A Charlie Brown Thanksgiving",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1973-11-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13479"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Charlie Brown Thanksgiving (1973)</h1>\n<p class=\"ssr-lead\">Turkey, cranberries, pumpkin pie... and the Peanuts gang to share them with. This is going to be the greatest Thanksgiving ever! The fun begins when Peppermint Patty invites herself and her pals to Charlie Brown&#x27;s house for a REALLY big turkey party. Good grief! All our hero can cook is cold cereal and maybe toast. Is Charlie Brown doomed? Not when Linus, Snoopy and Woodstock chip in to save the (Thanksgiving) Day. With such good friends, Charlie Brown - and all of us - have so many reasons to be thankful.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 1973</li><li>Runtime: 25 minutes</li><li>Director: Bill Melendez, Phil Roman</li><li>Genres: Animation, Comedy, Family, TV Movie</li><li>TMDB rating: 7.3/10 (309 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Todd Barbee as Charlie Brown (voice)</li><li>Robin Kohn as Lucy van Pelt (voice)</li><li>Stephen Shea as Linus van Pelt (voice)</li><li>Hilary Momberger-Powers as Sally Brown (voice)</li><li>Christopher DeFaria as Peppermint Patty (voice)</li><li>Jimmy Ahrens as Marcie (voice)</li><li>Bill Melendez as Snoopy / Woodstock (voice) (uncredited)</li><li>Robin Reed as Franklin (voice)</li><li>Vince Guaraldi as Little Birdie Singer (voice) (uncredited)</li><li>Peter Robbins as Charlie Brown&#x27;s screaming voice (voice) (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Apple TV, Apple TV Amazon Channel</li></ul>\n</article>",
+   "t": "A Charlie Brown Thanksgiving (1973) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1973"
   },
   "movie:13679": {
    "d": "Kirikou and the Wild Beasts (2005): Adventure/Animation film. Story: Kirikou's grandfather thinks that the story of… See cast and TMDB rating 6.6/10.",
@@ -699,6 +895,70 @@
    "t": "Godzilla Raids Again (1955) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1955"
   },
+  "movie:1779": {
+   "d": "Roger & Me (1989): Documentary/History film. Story: A documentary about the closure of General Motors'… See cast, budget $160.0k, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1TFrt5rlgbAS7WdHfCp142NPt4s.jpg",
+   "industry": "world",
+   "k": "Roger & Me, Roger & Me movie, Roger & Me cast, Roger & Me story, Roger & Me box office collection, Roger & Me budget, Roger & Me review, Roger & Me rating, Roger & Me release date, Roger & Me Documentary, Roger & Me History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "Rhonda Britton"
+     },
+     {
+      "@type": "Person",
+      "name": "Fred Ross"
+     },
+     {
+      "@type": "Person",
+      "name": "Roger B. Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Bob Eubanks"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 329,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Roger & Me (1989): Documentary/History film. Story: A documentary about the closure of General Motors'… See cast, budget $160.0k, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Moore"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Documentary",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1TFrt5rlgbAS7WdHfCp142NPt4s.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1779",
+    "name": "Roger & Me",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1989-09-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1779"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Roger &amp; Me (1989)</h1>\n<p class=\"ssr-lead\">A documentary about the closure of General Motors&#x27; plant at Flint, Michigan, which resulted in the loss of 30,000 jobs. Details the attempts of filmmaker Michael Moore to get an interview with GM CEO Roger Smith.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 September 1989</li><li>Runtime: 91 minutes</li><li>Director: Michael Moore</li><li>Genres: Documentary, History, Comedy</li><li>Budget: $160.0k</li><li>TMDB rating: 7.1/10 (329 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Moore as Self</li><li>Rhonda Britton as Self</li><li>Fred Ross as Self</li><li>Roger B. Smith as Self</li><li>Bob Eubanks as Self</li><li>James Blanchard as Self</li><li>Kaye Lani Rae Rafko Wilson as Self</li><li>Pat Boone as Self</li><li>Anita Bryant as Self</li><li>James Bond as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Roger & Me (1989) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1989"
+  },
   "movie:215379": {
    "d": "Young Ones (2014): Western/Action film. Story: In a future where water is scarce, a farmer defends… See cast, TMDB rating 5.7/10, and release date 28 June 2014.",
    "img": "https://image.tmdb.org/t/p/w780/d5DAiBywENsRTqVMFSGSZrllEtG.jpg",
@@ -953,6 +1213,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Bird (1988)</h1>\n<p class=\"ssr-lead\">Saxophone player Charlie ‘Bird’ Parker comes to New York in 1940 and is quickly noticed for his remarkable way of playing. He becomes a drug addict but his loving wife Chan tries to help him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 June 1988</li><li>Runtime: 161 minutes</li><li>Director: Clint Eastwood</li><li>Genres: Drama, Music</li><li>Budget: $9M</li><li>TMDB rating: 6.8/10 (363 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Forest Whitaker as Charlie &#x27;Bird&#x27; Parker</li><li>Diane Venora as Chan Parker</li><li>Michael Zelniker as Red Rodney</li><li>Samuel E. Wright as Dizzy Gillespie</li><li>Keith David as Buster Franklin</li><li>Michael McGuire as Brewster</li><li>James Handy as Esteves</li><li>Damon Whitaker as Young Bird</li><li>Morgan Nagler as Kim</li><li>Arlen Dean Snyder as Dr. Heath</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Bird (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1988"
+  },
+  "movie:253279": {
+   "d": "The Trials of Cate McCall (2013): Drama film. Story: In order to be reinstated to the bar and recover… See cast, budget $7M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3G8dPy3q6qfEW2o4CCB3gDk2qJY.jpg",
+   "industry": "world",
+   "k": "The Trials of Cate McCall, The Trials of Cate McCall movie, The Trials of Cate McCall cast, The Trials of Cate McCall story, The Trials of Cate McCall box office collection, The Trials of Cate McCall budget, The Trials of Cate McCall review, The Trials of Cate McCall rating, The Trials of Cate McCall release date, The Trials of Cate McCall trailer, The Trials of Cate McCall Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kate Beckinsale"
+     },
+     {
+      "@type": "Person",
+      "name": "Nick Nolte"
+     },
+     {
+      "@type": "Person",
+      "name": "James Cromwell"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Schafer"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Pellegrino"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 321,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "The Trials of Cate McCall (2013): Drama film. Story: In order to be reinstated to the bar and recover… See cast, budget $7M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Karen Moncrieff"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3G8dPy3q6qfEW2o4CCB3gDk2qJY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=253279",
+    "name": "The Trials of Cate McCall",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-11-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=253279"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Trials of Cate McCall (2013)</h1>\n<p class=\"ssr-lead\">In order to be reinstated to the bar and recover custody of her daughter, a hotshot lawyer, now in recovery and on probation, must take on the appeal of a woman wrongfully convicted of murder.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2013</li><li>Runtime: 89 minutes</li><li>Director: Karen Moncrieff</li><li>Genres: Drama</li><li>Budget: $7M</li><li>TMDB rating: 6.4/10 (321 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kate Beckinsale as Cate McCall</li><li>Nick Nolte as Bridges</li><li>James Cromwell as Justice Sumpter</li><li>Anna Schafer as Lacey</li><li>Mark Pellegrino as Detective Welch</li><li>Clancy Brown as Brinkerhoff</li><li>Taye Diggs as Austin Moseley</li><li>Isaiah Washington as Wilson George</li><li>Dale Dickey as Mrs. Stubbs</li><li>Brendan Sexton III as Rusty</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: FlixFling</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "The Trials of Cate McCall (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
   },
   "movie:3079": {
    "d": "The Curse of Frankenstein (1957): Horror/Science Fiction film. Story: Baron Victor Frankenstein has discovered life's… See cast and budget $270.0k.",
@@ -1974,6 +2297,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Paris (2008)</h1>\n<p class=\"ssr-lead\">Pierre, a professional dancer, suffers from a serious heart disease. While he is waiting for a transplant which may (or may not) save his life, he has nothing better to do than look at the people around him, from the balcony of his Paris apartment.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 February 2008</li><li>Runtime: 130 minutes</li><li>Director: Cédric Klapisch</li><li>Genres: Drama</li><li>Budget: $19M</li><li>TMDB rating: 6.5/10 (369 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Juliette Binoche as Elise</li><li>Romain Duris as Pierre</li><li>Fabrice Luchini as Roland Verneuil</li><li>Albert Dupontel as Jean</li><li>François Cluzet as Philippe Verneuil</li><li>Karin Viard as La Boulangère</li><li>Gilles Lellouche as Franky</li><li>Mélanie Laurent as Laetitia</li><li>Zinedine Soualem as Mourad</li><li>Julie Ferrier as Caroline</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: France Channel Amazon Channel</li><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Paris (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2008"
+  },
+  "movie:99579": {
+   "d": "Farewell, My Queen (2012): Drama/History film. Story: A look at the relationship between Marie Antoinette… See cast and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/nrhiSSXQGdQ3JoeDlwhg8RW8obm.jpg",
+   "industry": "world",
+   "k": "Farewell, My Queen, Farewell, My Queen movie, Farewell, My Queen cast, Farewell, My Queen story, Farewell, My Queen box office collection, Farewell, My Queen budget, Farewell, My Queen review, Farewell, My Queen rating, Farewell, My Queen release date, Farewell, My Queen Drama, Farewell, My Queen History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Léa Seydoux"
+     },
+     {
+      "@type": "Person",
+      "name": "Diane Kruger"
+     },
+     {
+      "@type": "Person",
+      "name": "Virginie Ledoyen"
+     },
+     {
+      "@type": "Person",
+      "name": "Noémie Lvovsky"
+     },
+     {
+      "@type": "Person",
+      "name": "Xavier Beauvois"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 331,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Farewell, My Queen (2012): Drama/History film. Story: A look at the relationship between Marie Antoinette… See cast and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Benoît Jacquot"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nrhiSSXQGdQ3JoeDlwhg8RW8obm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=99579",
+    "name": "Farewell, My Queen",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-03-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=99579"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Farewell, My Queen (2012)</h1>\n<p class=\"ssr-lead\">A look at the relationship between Marie Antoinette and one of her readers during the final days of the French Revolution.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 March 2012</li><li>Runtime: 100 minutes</li><li>Director: Benoît Jacquot</li><li>Genres: Drama, History</li><li>TMDB rating: 5.9/10 (331 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Léa Seydoux as Agathe-Sidonie Laborde</li><li>Diane Kruger as Marie Antoinette</li><li>Virginie Ledoyen as La duchesse Gabrielle de Polignac</li><li>Noémie Lvovsky as Henriette Genest dite Madame Campan</li><li>Xavier Beauvois as Le roi Louis XVI</li><li>Michel Robin as Jacob-Nicolas Moreau</li><li>Julie-Marie Parmentier as La servante Honorine Aubert</li><li>Lolita Chammah as La domestique Louison</li><li>Marthe Caufman as La domestique Alice</li><li>Vladimir Consigny as René dit Paolo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Cohen Media Amazon Channel</li><li>Rent: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Farewell, My Queen (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
   },
   "tv:106379": {
    "d": "Fallout (2024) is an Action & Adventure and Sci-Fi & Fantasy TV series. Explore its story: The story of haves and have-nots in a world in which… and cast.",

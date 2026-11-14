@@ -1,7 +1,71 @@
 {
  "bucket": "68",
- "count": 42,
+ "count": 51,
  "titles": {
+  "movie:10168": {
+   "d": "The Freshman (1990): Comedy/Crime film. Story: After a film student gets his belongings stolen, he… See cast, TMDB rating 6.3/10, and release date 27 July 1990.",
+   "img": "https://image.tmdb.org/t/p/w780/xbYDtVWOOL84KaZjM5JnQ5QYAuX.jpg",
+   "industry": "world",
+   "k": "The Freshman, The Freshman movie, The Freshman cast, The Freshman story, The Freshman box office collection, The Freshman budget, The Freshman review, The Freshman rating, The Freshman release date, The Freshman Comedy, The Freshman Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Marlon Brando"
+     },
+     {
+      "@type": "Person",
+      "name": "Matthew Broderick"
+     },
+     {
+      "@type": "Person",
+      "name": "Bruno Kirby"
+     },
+     {
+      "@type": "Person",
+      "name": "Penelope Ann Miller"
+     },
+     {
+      "@type": "Person",
+      "name": "Frank Whaley"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 328,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "The Freshman (1990): Comedy/Crime film. Story: After a film student gets his belongings stolen, he… See cast, TMDB rating 6.3/10, and release date 27 July 1990.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Andrew Bergman"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xbYDtVWOOL84KaZjM5JnQ5QYAuX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10168",
+    "name": "The Freshman",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1990-07-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10168"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Freshman (1990)</h1>\n<p class=\"ssr-lead\">After a film student gets his belongings stolen, he meets a mobster bearing a startling resemblance to a certain cinematic godfather. Soon, he finds himself caught up in a caper involving endangered species and fine dining.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 July 1990</li><li>Runtime: 102 minutes</li><li>Director: Andrew Bergman</li><li>Genres: Comedy, Crime</li><li>TMDB rating: 6.3/10 (328 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Marlon Brando as Carmine Sabatini, aka Jimmy The Toucan</li><li>Matthew Broderick as Clark Kellogg</li><li>Bruno Kirby as Victor Ray</li><li>Penelope Ann Miller as Tina Sabatini</li><li>Frank Whaley as Steve Bushak</li><li>Jon Polito as Chuck Greenwald</li><li>Kenneth Welsh as Dwight Armstrong</li><li>Richard Gant as Lloyd Simpson</li><li>Jefferson Mappin as Hunter</li><li>Maximilian Schell as Larry London</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Freshman (1990) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1990"
+  },
   "movie:10668": {
    "d": "Suicide Kings (1998): Action/Comedy film. Story: Carlo, a former mobster, is abducted by five… See cast, TMDB rating 6.6/10, and release date 25 September 1998.",
    "img": "https://image.tmdb.org/t/p/w780/3lFX0OVEllA09J8HRZ4w1C0Wsoe.jpg",
@@ -129,6 +193,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Singles (1992)</h1>\n<p class=\"ssr-lead\">A group of young adults in their twenties, who share an apartment in the city of Seattle, ponder on love and face all the challenges of adulthood.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 September 1992</li><li>Runtime: 99 minutes</li><li>Director: Cameron Crowe</li><li>Genres: Romance, Comedy, Drama</li><li>TMDB rating: 6.4/10 (458 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bridget Fonda as Janet Livermore</li><li>Campbell Scott as Steve Dunne</li><li>Kyra Sedgwick as Linda Powell</li><li>Matt Dillon as Cliff Poncier</li><li>Sheila Kelley as Debbie Hunt</li><li>Jim True-Frost as David Bailey</li><li>Bill Pullman as Dr. Jeffrey Jamison</li><li>James Le Gros as Andy</li><li>Ally Walker as Pam</li><li>Tom Skerritt as Mayor Weber</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Singles (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1992"
+  },
+  "movie:114168": {
+   "d": "Perras (2011): Thriller/Drama film. Story: Something terrible is happening in class 3A at… See cast, TMDB rating 7.3/10, and release date 4 March 2011.",
+   "img": "https://image.tmdb.org/t/p/w780/b7qyTKrkFDAVyAzBgVpqjvAHneH.jpg",
+   "industry": "world",
+   "k": "Perras, Perras movie, Perras cast, Perras story, Perras box office collection, Perras budget, Perras review, Perras rating, Perras release date, Perras Thriller, Perras Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Claudia Zepeda"
+     },
+     {
+      "@type": "Person",
+      "name": "Karen de la Hoya"
+     },
+     {
+      "@type": "Person",
+      "name": "Scarlet Dergal"
+     },
+     {
+      "@type": "Person",
+      "name": "Alenka Ríos"
+     },
+     {
+      "@type": "Person",
+      "name": "Steph Bumelcrownd"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 321,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Perras (2011): Thriller/Drama film. Story: Something terrible is happening in class 3A at… See cast, TMDB rating 7.3/10, and release date 4 March 2011.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Guillermo Ríos"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/b7qyTKrkFDAVyAzBgVpqjvAHneH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=114168",
+    "name": "Perras",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-03-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=114168"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Perras (2011)</h1>\n<p class=\"ssr-lead\">Something terrible is happening in class 3A at Calmecatl Junior High. No one can leave the classroom until the guilty party is found. This is the device that gives us a glimpse of the ethics, games, esthetics and eroticism of these girl-women. It is not easy to say what the subject is, there are so many: the discovery of sexuality, discrimination, chance, drugs, maternity, traditions, betrayals, power, love. A mural of a complex reality from the point of view of twenty-something women in the skin of 14 to 15 year old girls.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 March 2011</li><li>Runtime: 100 minutes</li><li>Director: Guillermo Ríos</li><li>Genres: Thriller, Drama, Romance</li><li>TMDB rating: 7.3/10 (321 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Claudia Zepeda as María del Mar</li><li>Karen de la Hoya as Tora</li><li>Scarlet Dergal as Sofía</li><li>Alenka Ríos as Ana Ceci</li><li>Steph Bumelcrownd as Iris</li><li>Andrea Pedrero as Diana</li><li>Kariam Castro as Andrea</li><li>Denis Montes as Alejandra</li><li>Eva Luna Marenco as Frida</li><li>Natalia Zurita as Patricia</li></ul>\n</article>",
+   "t": "Perras (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
   },
   "movie:11468": {
    "d": "The Salton Sea (2002): Crime/Drama film. Story: After the murder of his beloved wife, a man in search… See cast, budget $18M, and TMDB rating 6.6/10.",
@@ -1046,6 +1174,69 @@
    "t": "The Manual of Love (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2005"
   },
+  "movie:244268": {
+   "d": "Love Is Strange (2014): Drama film. Story: After 39 years together, Ben and George finally tie… See cast, TMDB rating 6.3/10, and release date 22 August 2014.",
+   "img": "https://image.tmdb.org/t/p/w780/8Jcd5t7VBnor1INXpZox0CYZIpa.jpg",
+   "industry": "world",
+   "k": "Love Is Strange, Love Is Strange movie, Love Is Strange cast, Love Is Strange story, Love Is Strange box office collection, Love Is Strange budget, Love Is Strange review, Love Is Strange rating, Love Is Strange release date, Love Is Strange trailer, Love Is Strange Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "John Lithgow"
+     },
+     {
+      "@type": "Person",
+      "name": "Alfred Molina"
+     },
+     {
+      "@type": "Person",
+      "name": "Marisa Tomei"
+     },
+     {
+      "@type": "Person",
+      "name": "Darren E. Burrows"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlie Tahan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 321,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Love Is Strange (2014): Drama film. Story: After 39 years together, Ben and George finally tie… See cast, TMDB rating 6.3/10, and release date 22 August 2014.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ira Sachs"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8Jcd5t7VBnor1INXpZox0CYZIpa.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=244268",
+    "name": "Love Is Strange",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-08-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=244268"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Love Is Strange (2014)</h1>\n<p class=\"ssr-lead\">After 39 years together, Ben and George finally tie the knot, but George loses his job as a result, and the newlyweds must sell their New York apartment and live apart, relying on friends and family to make ends meet.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 August 2014</li><li>Runtime: 98 minutes</li><li>Director: Ira Sachs</li><li>Genres: Drama</li><li>TMDB rating: 6.3/10 (321 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Lithgow as Ben</li><li>Alfred Molina as George</li><li>Marisa Tomei as Kate</li><li>Darren E. Burrows as Elliot</li><li>Charlie Tahan as Joey</li><li>Cheyenne Jackson as Ted</li><li>Manny Perez as Roberto</li><li>Christina Kirk as Mindy</li><li>Tank Burt as Doreen</li><li>Christian Coulson as Ian</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Love Is Strange (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:25468": {
    "d": "My Dinner with Andre (1981): Drama/Comedy film. Story: Wally, a struggling playwright and actor, reluctantly… See cast, budget $475.0k, and TMDB rating 7.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/r3zwnGMmRb7LaDNQluHVXAkZNoY.jpg",
@@ -1370,6 +1561,70 @@
    "t": "Stray Dog (1949) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1949"
   },
+  "movie:366668": {
+   "d": "Playmobil: The Movie (2019): Family/Animation film. Story: Marla is forced to abandon her carefully structured… See cast, budget $75M, and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9RykqvfLhZ47ZHEmQUjyMI64zDm.jpg",
+   "industry": "world",
+   "k": "Playmobil: The Movie, Playmobil: The Movie movie, Playmobil: The Movie cast, Playmobil: The Movie story, Playmobil: The Movie box office collection, Playmobil: The Movie budget, Playmobil: The Movie review, Playmobil: The Movie rating, Playmobil: The Movie release date, Playmobil: The Movie trailer, Playmobil: The Movie Family, Playmobil: The Movie Animation, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anya Taylor-Joy"
+     },
+     {
+      "@type": "Person",
+      "name": "Jim Gaffigan"
+     },
+     {
+      "@type": "Person",
+      "name": "Gabriel Bateman"
+     },
+     {
+      "@type": "Person",
+      "name": "Adam Lambert"
+     },
+     {
+      "@type": "Person",
+      "name": "Kenan Thompson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 323,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Playmobil: The Movie (2019): Family/Animation film. Story: Marla is forced to abandon her carefully structured… See cast, budget $75M, and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lino DiSalvo"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Family",
+     "Animation"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9RykqvfLhZ47ZHEmQUjyMI64zDm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=366668",
+    "name": "Playmobil: The Movie",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-06-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=366668"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Playmobil: The Movie (2019)</h1>\n<p class=\"ssr-lead\">Marla is forced to abandon her carefully structured life to embark on an epic journey to find her younger brother Charlie who has disappeared into the vast and wondrous animated world of Playmobil toys.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 June 2019</li><li>Runtime: 99 minutes</li><li>Director: Lino DiSalvo</li><li>Genres: Family, Animation, Comedy, Adventure, Fantasy</li><li>Budget: $75M</li><li>TMDB rating: 5.7/10 (323 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anya Taylor-Joy as Marla</li><li>Jim Gaffigan as Del (voice)</li><li>Gabriel Bateman as Charlie</li><li>Adam Lambert as Emperor Maximus (voice)</li><li>Kenan Thompson as Bloodbones (voice)</li><li>Meghan Trainor as Fairy Godmother (voice)</li><li>Daniel Radcliffe as Rex Dasher (voice)</li><li>Paloma Rodríguez as Valera (voice)</li><li>Maddie Taylor as Glinara (voice)</li><li>Lino DiSalvo as Robotitron (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel, Starz Apple TV channel</li><li>Rent: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Playmobil: The Movie (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
   "movie:37768": {
    "d": "Talcum Powder (1982): Comedy film. Story: Sergio Benvenuti is a shy seller of contracts for a… See cast, TMDB rating 6.8/10, and release date 22 January 1982.",
    "img": "https://image.tmdb.org/t/p/w780/mdyeJRmLW3IPCo0e1oEmR8WBklm.jpg",
@@ -1559,6 +1814,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Fantozzi The Return (1996)</h1>\n<p class=\"ssr-lead\">Ugo Fantozzi has been ejected from Heaven and is sent back to Earth for a short period of time until the staff in Heaven can get Fantozzi a place there. Fantozzi goes through a variety of unfortunate experiences, such as rescuing his retro punk granddaughter Uga, and having to pay a vast telephone bill due to frequent chat line conversations. He ends up getting arrested instead of his ex-boss, who was originally charged with corruption. Just as he is about to enjoy the World Cup Final with Italy, he is called back into Heaven. Can he find peace once again?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 December 1996</li><li>Runtime: 97 minutes</li><li>Director: Neri Parenti</li><li>Genres: Comedy</li><li>TMDB rating: 5.8/10 (404 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paolo Villaggio as Rag. Ugo Fantozzi</li><li>Milena Vukotić as Pina Fantozzi</li><li>Gigi Reder as Ragionier Filini</li><li>Maria Cristina Maccà as Mariangela Fantozzi / Uga</li><li>Maurizio Mattioli as Chirurgo plastico</li><li>Anna Mazzamauro as Signorina Silvani</li><li>Antonio Allocca as Controllore del treno</li><li>Sergio Gibello as Magistrato</li><li>Paolo Paoloni as Megadirettore Galattico Duca Conte Balabam</li><li>Nello Riviè as Pubblico Ministero</li></ul>\n</article>",
    "t": "Fantozzi The Return (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1996"
+  },
+  "movie:44268": {
+   "d": "Super Fantozzi (1986): Comedy film. Story: Superfantozzi (1986) is an Italian film from 1986. It… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ga8A76kyH4MhDEeIKx4xgeY75y8.jpg",
+   "industry": "world",
+   "k": "Super Fantozzi, Super Fantozzi movie, Super Fantozzi cast, Super Fantozzi story, Super Fantozzi box office collection, Super Fantozzi budget, Super Fantozzi review, Super Fantozzi rating, Super Fantozzi release date, Super Fantozzi Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Paolo Villaggio"
+     },
+     {
+      "@type": "Person",
+      "name": "Liù Bosisio"
+     },
+     {
+      "@type": "Person",
+      "name": "Gigi Reder"
+     },
+     {
+      "@type": "Person",
+      "name": "Plinio Fernando"
+     },
+     {
+      "@type": "Person",
+      "name": "Eva-Lena Lundgren"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 329,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Super Fantozzi (1986): Comedy film. Story: Superfantozzi (1986) is an Italian film from 1986. It… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Neri Parenti"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ga8A76kyH4MhDEeIKx4xgeY75y8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=44268",
+    "name": "Super Fantozzi",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1986-12-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=44268"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Super Fantozzi (1986)</h1>\n<p class=\"ssr-lead\">Superfantozzi (1986) is an Italian film from 1986. It is the fifth film in the saga of the unlucky clerk Ugo Fantozzi, played by its creator, Paolo Villaggio. In this film, Fantozzi is portrayed in a surreal historical journey, from Genesis to 1980s.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 December 1986</li><li>Runtime: 88 minutes</li><li>Director: Neri Parenti</li><li>Genres: Comedy</li><li>TMDB rating: 6.3/10 (329 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paolo Villaggio as Ugo Fantozzi</li><li>Liù Bosisio as Pina Fantozzi</li><li>Gigi Reder as Filini</li><li>Plinio Fernando as Mariangela Fantozzi</li><li>Eva-Lena Lundgren as Compagna dell&#x27;antagonista</li><li>Luc Merenda as Antagonista di Fantozzi</li><li>Jimmy il Fenomeno as Canottiere Corsi</li><li>Omero Capanna as uomo sull&#x27;autobus</li><li>Michele Kalamera as Dio / Primo Narratore</li><li>Gino La Monica as Adamo / Soldato Greco / Pretoriano / Cavaliere Nero / Robin Hood / Condannato alla ghigliottina / Gran Farabut Lupman Duca Modestino Balabam / Ufficiale Giapponese / Direttore Siderale</li></ul>\n</article>",
+   "t": "Super Fantozzi (1986) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1986"
   },
   "movie:476968": {
    "d": "Paul, Apostle of Christ (2018): Drama/History film. Story: Luke risks his life to visit Paul in a Roman prison… See cast, budget $5M, and TMDB rating 7.6/10.",
@@ -1809,6 +2127,69 @@
    "published": "2026-11-13",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Kidnapping Stella (2019)</h1>\n<p class=\"ssr-lead\">Snatched off the street and held for ransom, a bound and gagged woman uses her limited powers to derail her two masked abductors&#x27; carefully laid plans.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 June 2019</li><li>Runtime: 89 minutes</li><li>Director: Thomas Sieben</li><li>Genres: Thriller</li><li>TMDB rating: 5.3/10 (446 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Max von der Groeben as Tom</li><li>Clemens Schick as Vic</li><li>Jella Haase as Stella</li><li>Jarrod Pistilli as Vic</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Kidnapping Stella (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
+  "movie:612368": {
+   "d": "In the Name of the Land (2019): Drama film. Story: Pierre is 25 when he returns from Wyoming to his… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7I2OsWdv9rEgH7ajRLqAs9TsJWu.jpg",
+   "industry": "world",
+   "k": "In the Name of the Land, In the Name of the Land movie, In the Name of the Land cast, In the Name of the Land story, In the Name of the Land box office collection, In the Name of the Land budget, In the Name of the Land review, In the Name of the Land rating, In the Name of the Land release date, In the Name of the Land Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Guillaume Canet"
+     },
+     {
+      "@type": "Person",
+      "name": "Veerle Baetens"
+     },
+     {
+      "@type": "Person",
+      "name": "Anthony Bajon"
+     },
+     {
+      "@type": "Person",
+      "name": "Rufus"
+     },
+     {
+      "@type": "Person",
+      "name": "Samir Guesmi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 325,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "In the Name of the Land (2019): Drama film. Story: Pierre is 25 when he returns from Wyoming to his… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Édouard Bergeon"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7I2OsWdv9rEgH7ajRLqAs9TsJWu.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=612368",
+    "name": "In the Name of the Land",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-09-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=612368"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>In the Name of the Land (2019)</h1>\n<p class=\"ssr-lead\">Pierre is 25 when he returns from Wyoming to his fiancée and take over the family farm. Twenty years later, the farm expanded and so did the family. It&#x27;s the time of happy days, at least at the beginning. The debts accumulate and Pierre is exhausted at work. Despite the love of his wife and children, he is slowly falling...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 September 2019</li><li>Runtime: 103 minutes</li><li>Director: Édouard Bergeon</li><li>Genres: Drama</li><li>TMDB rating: 7.2/10 (325 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Guillaume Canet as Pierre Jarjeau</li><li>Veerle Baetens as Claire Jarjeau</li><li>Anthony Bajon as Thomas Jarjeau</li><li>Rufus as Jacques Jarjeau</li><li>Samir Guesmi as Mehdi</li><li>Yona Kervern as Emma Jarjeau</li><li>Solal Forte as Rémy</li><li>Marie-Christine Orry as Martine Jarjeau</li><li>Emmanuel Courcol as Notary</li><li>Michel Lerousseau as Doctor</li></ul>\n</article>",
+   "t": "In the Name of the Land (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
   "movie:613868": {
@@ -2134,6 +2515,141 @@
    "t": "Would I Lie to You? 3 (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2012"
   },
+  "movie:87368": {
+   "d": "17 Girls (2011): Drama film. Story: When Camille accidentally becomes pregnant, she… See cast, budget $4.14M, TMDB rating 5.5/10, and release date 13 June 2011.",
+   "img": "https://image.tmdb.org/t/p/w780/nc2zXyrhMGhopIUyd5uqST4PqdP.jpg",
+   "industry": "world",
+   "k": "17 Girls, 17 Girls movie, 17 Girls cast, 17 Girls story, 17 Girls box office collection, 17 Girls budget, 17 Girls review, 17 Girls rating, 17 Girls release date, 17 Girls Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Louise Grinberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Juliette Darche"
+     },
+     {
+      "@type": "Person",
+      "name": "Roxane Duran"
+     },
+     {
+      "@type": "Person",
+      "name": "Esther Garrel"
+     },
+     {
+      "@type": "Person",
+      "name": "Yara Pilartz"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 333,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "17 Girls (2011): Drama film. Story: When Camille accidentally becomes pregnant, she… See cast, budget $4.14M, TMDB rating 5.5/10, and release date 13 June 2011.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Muriel Coulin"
+     },
+     {
+      "@type": "Person",
+      "name": "Delphine Coulin"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nc2zXyrhMGhopIUyd5uqST4PqdP.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=87368",
+    "name": "17 Girls",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-06-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=87368"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>17 Girls (2011)</h1>\n<p class=\"ssr-lead\">When Camille accidentally becomes pregnant, she encourages her friends and fellow high school classmates to follow suit. It&#x27;s only a matter of time, before seventeen girls in the high school are pregnant and the town is thrown into a world of chaos.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 June 2011</li><li>Runtime: 87 minutes</li><li>Director: Muriel Coulin, Delphine Coulin</li><li>Genres: Drama</li><li>Budget: $4.14M</li><li>TMDB rating: 5.5/10 (333 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Louise Grinberg as Camille</li><li>Juliette Darche as Julia</li><li>Roxane Duran as Florence</li><li>Esther Garrel as Flavie</li><li>Yara Pilartz as Clémentine</li><li>Solène Rigot as Mathilde</li><li>Noémie Lvovsky as School Nurse</li><li>Florence Thomassin as Camille&#x27;s Mother</li><li>Carlo Brandt as Principal</li><li>Frédéric Noaille as Florian</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Strand Releasing Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store</li><li>Buy: Amazon Video, Apple TV Store</li></ul>\n</article>",
+   "t": "17 Girls (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
+  "movie:911068": {
+   "d": "Death to 2021 (2021): Comedy/Documentary film. Story: This comedic retrospective mixes archival footage and… See cast and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hMlP3wwX45qlJeY8d5A9SWwUb8V.jpg",
+   "industry": "world",
+   "k": "Death to 2021, Death to 2021 movie, Death to 2021 cast, Death to 2021 story, Death to 2021 box office collection, Death to 2021 budget, Death to 2021 review, Death to 2021 rating, Death to 2021 release date, Death to 2021 Comedy, Death to 2021 Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hugh Grant"
+     },
+     {
+      "@type": "Person",
+      "name": "Joe Keery"
+     },
+     {
+      "@type": "Person",
+      "name": "William Jackson Harper"
+     },
+     {
+      "@type": "Person",
+      "name": "Lucy Liu"
+     },
+     {
+      "@type": "Person",
+      "name": "Tracey Ullman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 322,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Death to 2021 (2021): Comedy/Documentary film. Story: This comedic retrospective mixes archival footage and… See cast and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Josh Ruben"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Clough"
+     }
+    ],
+    "duration": "PT60M",
+    "genre": [
+     "Comedy",
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hMlP3wwX45qlJeY8d5A9SWwUb8V.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=911068",
+    "name": "Death to 2021",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-12-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=911068"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Death to 2021 (2021)</h1>\n<p class=\"ssr-lead\">This comedic retrospective mixes archival footage and scripted sketches as it revisits all the dread — and occasional delight — that 2021 had to offer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 December 2021</li><li>Runtime: 60 minutes</li><li>Director: Josh Ruben, Jack Clough</li><li>Genres: Comedy, Documentary</li><li>TMDB rating: 6.0/10 (322 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hugh Grant as Tennyson Foss OBE</li><li>Joe Keery as Duke Goolies</li><li>William Jackson Harper as Zero Fournine</li><li>Lucy Liu as Snook Austin</li><li>Tracey Ullman as Madison Madison</li><li>Samson Kayo as Pyrex Flask</li><li>Stockard Channing as Penn Parker</li><li>Cristin Milioti as Kathy Flowers</li><li>Diane Morgan as Gemma Nerrick</li><li>Laurence Fishburne as Narrator (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Death to 2021 (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
   "movie:9568": {
    "d": "The Dentist (1996): Thriller/Horror film. Story: Dr. Alan Feinstone has everything: a beautiful wife… See cast, budget $700.0k, and TMDB rating 5.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/25pNPKtYHtZFLsJ71SC5skiXJAe.jpg",
@@ -2197,6 +2713,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Dentist (1996)</h1>\n<p class=\"ssr-lead\">Dr. Alan Feinstone has everything: a beautiful wife and a successful career in dentistry. However, when he discovers his wife&#x27;s affair, he realizes that behind every clean, white surface lies the stench of decay.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 June 1996</li><li>Runtime: 92 minutes</li><li>Director: Brian Yuzna</li><li>Genres: Thriller, Horror</li><li>Budget: $700.0k</li><li>TMDB rating: 5.5/10 (348 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Corbin Bernsen as Dr. Alan Feinstone</li><li>Linda Hoffman as Brooke Feinstone</li><li>Michael Stadvec as Matt</li><li>Ken Foree as Detective Gibbs</li><li>Tony Noakes as Detective Sunshine</li><li>Molly Hagan as Jessica</li><li>Christa Sauls as April Reign</li><li>Lise Simms as Paula Roberts</li><li>Mark Ruffalo as Steve Landers</li><li>Patty Toy as Karen</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "The Dentist (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1996"
+  },
+  "movie:9968": {
+   "d": "The Big White (2005): Comedy/Crime film. Story: To remedy his financial problems, a travel agent has… See cast, budget $14M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/swiMDuuplzAxOw9SGCyGKNCqQxD.jpg",
+   "industry": "world",
+   "k": "The Big White, The Big White movie, The Big White cast, The Big White story, The Big White box office collection, The Big White budget, The Big White review, The Big White rating, The Big White release date, The Big White Comedy, The Big White Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Robin Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Holly Hunter"
+     },
+     {
+      "@type": "Person",
+      "name": "Giovanni Ribisi"
+     },
+     {
+      "@type": "Person",
+      "name": "Tim Blake Nelson"
+     },
+     {
+      "@type": "Person",
+      "name": "W. Earl Brown"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 338,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "The Big White (2005): Comedy/Crime film. Story: To remedy his financial problems, a travel agent has… See cast, budget $14M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mark Mylod"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/swiMDuuplzAxOw9SGCyGKNCqQxD.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9968",
+    "name": "The Big White",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-10-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9968"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Big White (2005)</h1>\n<p class=\"ssr-lead\">To remedy his financial problems, a travel agent has his eye on a frozen corpse, which just happens to be sought after by two hitmen.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 October 2005</li><li>Runtime: 100 minutes</li><li>Director: Mark Mylod</li><li>Genres: Comedy, Crime, Drama</li><li>Budget: $14M</li><li>TMDB rating: 6.2/10 (338 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robin Williams as Paul Barnell</li><li>Holly Hunter as Margaret Barnell</li><li>Giovanni Ribisi as Ted</li><li>Tim Blake Nelson as Gary</li><li>W. Earl Brown as Jimbo</li><li>Woody Harrelson as Raymond Barnell</li><li>Alison Lohman as Tiffany</li><li>Marina Stephenson Kerr as Avis</li><li>Billy Merasty as Cam</li><li>Ralph Alderman as Mr. Branch</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Amazon Video, Sky Store</li><li>Buy: Apple TV Store, Amazon Video, Sky Store</li></ul>\n</article>",
+   "t": "The Big White (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
   },
   "tv:1668": {
    "d": "Friends (1994) is a Comedy TV series. Explore its story: Six young people from New York City, on their own and…, cast, 10 seasons, and 228 episodes.",

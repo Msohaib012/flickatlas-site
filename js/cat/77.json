@@ -1,6 +1,6 @@
 {
  "bucket": "77",
- "count": 39,
+ "count": 48,
  "titles": {
   "movie:10077": {
    "backdrop_path": "/cdR9ESJzcocgVphpwO5AYZRwrWg.jpg",
@@ -1235,6 +1235,129 @@
    "vote_average": 6.8,
    "vote_count": 1063
   },
+  "movie:14577": {
+   "backdrop_path": "/kFS9s5jBpGkEBIMXEvLkkmhpts5.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Mitch",
+     "n": "Norm Macdonald"
+    },
+    {
+     "c": "Sam",
+     "n": "Artie Lange"
+    },
+    {
+     "c": "Pops",
+     "n": "Jack Warden"
+    },
+    {
+     "c": "Kathy",
+     "n": "Traylor Howard"
+    },
+    {
+     "c": "Travis Cole",
+     "n": "Christopher McDonald"
+    },
+    {
+     "c": "Dr. Farthing",
+     "n": "Chevy Chase"
+    },
+    {
+     "c": "Hamilton",
+     "n": "Don Rickles"
+    },
+    {
+     "c": "Toni-Ann",
+     "n": "Polly Shannon"
+    },
+    {
+     "c": "Anton Phillips",
+     "n": "David Koechner"
+    },
+    {
+     "c": "Bearded Lady",
+     "n": "Rebecca Romijn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Bob Saget"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 14577,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Unemployed and recently dumped, Mitch and his buddy Sam start a revenge-for-hire business to raise the $50,000 that Sam's father needs to get a heart transplant.",
+   "popularity": 1.7015,
+   "poster_path": "/r6OcS6TQCHal2wHooJhHWSlFzfd.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1998-06-12",
+   "revenue": 0,
+   "runtime": 82,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Revenge is sweet. (And surprisingly affordable.)",
+   "title": "Dirty Work",
+   "trailer": {
+    "key": "UGO59S2mabY",
+    "name": "4K UHD/BD Promo Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.232,
+   "vote_count": 326
+  },
   "movie:1507877": {
    "backdrop_path": "/yLZCngaex5380FB6sEy6o10L9wN.jpg",
    "budget": 0,
@@ -1753,6 +1876,109 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 435
+  },
+  "movie:208277": {
+   "backdrop_path": "/jqcILemNblXGIOeg9CDCzHEBEpc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Helen Memel",
+     "n": "Carla Juri"
+    },
+    {
+     "c": "Helen's Father",
+     "n": "Axel Milberg"
+    },
+    {
+     "c": "Helen's Mother",
+     "n": "Meret Becker"
+    },
+    {
+     "c": "Valerie",
+     "n": "Peri Baumeister"
+    },
+    {
+     "c": "Robin",
+     "n": "Christoph Letkowski"
+    },
+    {
+     "c": "Dr. Notz",
+     "n": "Edgar Selge"
+    },
+    {
+     "c": "Corinna",
+     "n": "Marlen Kruse"
+    },
+    {
+     "c": "Helen (8 years)",
+     "n": "Clara Wunsch"
+    },
+    {
+     "c": "Toni",
+     "n": "Ludger Bökelmann"
+    },
+    {
+     "c": "Michael",
+     "n": "Bernardo Arias Porras"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "David Wnendt"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 208277,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Helen is a nonconformist teenage girl who maintains a conflictual relationship with her parents. Hanging out most of her time with her friend Corinna, with whom she breaks one social taboo after another, she uses sex as a way to rebel and break the conventional bourgeois ethic. After an intimate shaving accident, Helen ends up in the hospital where it doesn’t take long before she makes waves. But there she finds Robin, a male nurse who will sweep her off her feet...",
+   "popularity": 1.0028,
+   "poster_path": "/6hfZij2Nd8rCT1tezRkbzm7xWkl.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "Strand Releasing Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-08-22",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "Get ready for Helen.",
+   "title": "Wetlands",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 329
   },
   "movie:2577": {
    "backdrop_path": "/8BsZeEl8gArwpYIBXyJ2WdreF8I.jpg",
@@ -2286,6 +2512,290 @@
    "vote_average": 6.616,
    "vote_count": 409
   },
+  "movie:40377": {
+   "backdrop_path": "/1n5pOyD8aseJ5oyPY3RlK5SS1hW.jpg",
+   "budget": 800000,
+   "cast": [
+    {
+     "c": "Norman Bates",
+     "n": "Anthony Perkins"
+    },
+    {
+     "c": "Young Norman Bates",
+     "n": "Henry Thomas"
+    },
+    {
+     "c": "Norma Bates",
+     "n": "Olivia Hussey"
+    },
+    {
+     "c": "Fran Ambrose",
+     "n": "CCH Pounder"
+    },
+    {
+     "c": "Dr. Leo Richmond",
+     "n": "Warren Frost"
+    },
+    {
+     "c": "Connie Bates",
+     "n": "Donna Mitchell"
+    },
+    {
+     "c": "Chet Rudolph",
+     "n": "Thomas Schuster"
+    },
+    {
+     "c": "Holly",
+     "n": "Sharen Camille"
+    },
+    {
+     "c": "Gloria",
+     "n": "Bobbi Evors"
+    },
+    {
+     "c": "Mike Calveccio",
+     "n": "John Landis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mick Garris"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller",
+    "TV Movie"
+   ],
+   "id": 40377,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When he hears talk radio host Fran Ambrose discussing the topic of matricide, Norman calls in under a false name to tell his story.",
+   "popularity": 3.0225,
+   "poster_path": "/vxWTkQRAvTvA6rbBhsdC4pdnHuq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1990-11-10",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You've met Norman, now meet Mother...",
+   "title": "Psycho IV: The Beginning",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 323
+  },
+  "movie:44977": {
+   "backdrop_path": "/asmCFd6BnqPkwIj0jHzcJXgNJvi.jpg",
+   "budget": 19500000,
+   "cast": [
+    {
+     "c": "Sahir/Samar",
+     "n": "Aamir Khan"
+    },
+    {
+     "c": "A.C.P. Jai Dixit",
+     "n": "Abhishek Bachchan"
+    },
+    {
+     "c": "Aaliya",
+     "n": "Katrina Kaif"
+    },
+    {
+     "c": "Ali",
+     "n": "Uday Chopra"
+    },
+    {
+     "c": "Iqbal Khan",
+     "n": "Jackie Shroff"
+    },
+    {
+     "c": "Victoria Williams",
+     "n": "Tabrett Bethell"
+    },
+    {
+     "c": "Anderson",
+     "n": "Andrew Bicknell"
+    },
+    {
+     "c": "Indian news reporter",
+     "n": "Riya Ray"
+    },
+    {
+     "c": "Bank Teller",
+     "n": "Elizabeth Reiners"
+    },
+    {
+     "c": "Backup Dancer",
+     "n": "Jacqueline Scislowski"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Vijay Krishna Acharya"
+   ],
+   "genres": [
+    "Action",
+    "Crime"
+   ],
+   "id": 44977,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "To avenge his father's death, a circus entertainer trained in magic and acrobatics robs banks to take down a corrupt bank owner. Two cops from Mumbai are assigned to the case.",
+   "popularity": 1.5993,
+   "poster_path": "/rUVTM5EQUQ2I0fcfE46AkvBYWae.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-12-20",
+   "revenue": 91000000,
+   "runtime": 171,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This year will end with a Dhoom.",
+   "title": "Dhoom 3",
+   "trailer": {
+    "key": "yeF_b8EQcK0",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 336
+  },
   "movie:451877": {
    "backdrop_path": "/ipaCW3O6vFcZKfh1FLPeV4vArxI.jpg",
    "budget": 0,
@@ -2572,6 +3082,162 @@
    "type": "movie",
    "vote_average": 5.665,
    "vote_count": 434
+  },
+  "movie:520777": {
+   "backdrop_path": "/imRVEUDwJdISrfckUllkBQHUkc8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Mark K. Sargent"
+    },
+    {
+     "c": "Self",
+     "n": "Jeran Campanella"
+    },
+    {
+     "c": "Self",
+     "n": "Robbie Davidson"
+    },
+    {
+     "c": "Self",
+     "n": "Hannalore Gerling-Dunsmore"
+    },
+    {
+     "c": "Self",
+     "n": "Lamar Glover"
+    },
+    {
+     "c": "Self",
+     "n": "Stephen Hagberg"
+    },
+    {
+     "c": "Self",
+     "n": "Brian Hickey"
+    },
+    {
+     "c": "Self",
+     "n": "Scott Kelly"
+    },
+    {
+     "c": "Self",
+     "n": "Jimmy Kimmel"
+    },
+    {
+     "c": "Self",
+     "n": "Bob Knodel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Daniel J. Clark"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 520777,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Meet the growing, worldwide community of theorists who defend the belief that the Earth is flat while living in a society who vehemently rejects it.",
+   "popularity": 0.9308,
+   "poster_path": "/mOJrtSMmUpfFytvxlUEA8hej2At.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-04-30",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "See the world in a whole new shape.",
+   "title": "Behind the Curve",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 325
   },
   "movie:523077": {
    "backdrop_path": "/9VqvhI7mBuqAHit2aWVVaYZ0JCL.jpg",
@@ -2881,6 +3547,240 @@
    "type": "movie",
    "vote_average": 7.1,
    "vote_count": 361
+  },
+  "movie:599377": {
+   "backdrop_path": "/seQOxcSm29t7JRQ3TEQr1vmAtM6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Charlotte",
+     "n": "Charlotte Gainsbourg"
+    },
+    {
+     "c": "Béatrice",
+     "n": "Béatrice Dalle"
+    },
+    {
+     "c": "Abbey",
+     "n": "Abbey Lee"
+    },
+    {
+     "c": "Karl",
+     "n": "Karl Glusman"
+    },
+    {
+     "c": "Clara 3000",
+     "n": "Clara 3000"
+    },
+    {
+     "c": "Claude-Emmanuelle",
+     "n": "Claude-Emmanuelle Gajan-Maull"
+    },
+    {
+     "c": "Félix",
+     "n": "Félix Maritaud"
+    },
+    {
+     "c": "Mica",
+     "n": "Mica Argañaraz"
+    },
+    {
+     "c": "Anatole",
+     "n": "Anatole Devoucoux du Buysson"
+    },
+    {
+     "c": "Paul",
+     "n": "Paul Hameline"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Gaspar Noé"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Horror"
+   ],
+   "id": 599377,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Charlotte Gainsbourg agrees to play a witch condemned to be burned at the stake in the first film directed by Béatrice Dalle. But the chaotic production, technical problems, and psychotic breakdowns gradually plunge the shoot into a chaos of pure light.",
+   "popularity": 1.6059,
+   "poster_path": "/5oStzv8gUrAAevtIiv0icGcvAbq.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "ARROW"
+    },
+    {
+     "name": "Arrow Video Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uVhUzKH7taAxHZGrRMZ4IqIbQxe.png",
+     "name": "ARROW",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-11-19",
+   "revenue": 323829,
+   "runtime": 51,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "de",
+    "da"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Lux Æterna",
+   "trailer": {
+    "key": "f6z5u_YY-Ws",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.093,
+   "vote_count": 307
   },
   "movie:613377": {
    "backdrop_path": "/iLkzQbxrkTxuAjZMnOiVeVY4pG8.jpg",
@@ -3655,6 +4555,306 @@
    "type": "movie",
    "vote_average": 7.383,
    "vote_count": 467
+  },
+  "movie:813477": {
+   "backdrop_path": "/ccFavvHGfhA5yI32K0bzDjlyKSN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Takeshi Hongo / Kamen Rider",
+     "n": "Sosuke Ikematsu"
+    },
+    {
+     "c": "Ruriko Midorikawa",
+     "n": "Minami Hamabe"
+    },
+    {
+     "c": "Hayato Ichimonji / Kamen Rider No. 2",
+     "n": "Tasuku Emoto"
+    },
+    {
+     "c": "Ichirō Midorikawa / Kamen Rider No. 0",
+     "n": "Mirai Moriyama"
+    },
+    {
+     "c": "Hiromi / Hachi Augment-01",
+     "n": "Nanase Nishino"
+    },
+    {
+     "c": "Komori Augment-01",
+     "n": "Toru Tezuka"
+    },
+    {
+     "c": "Kumo Augment-01 (voice)",
+     "n": "Nao Omori"
+    },
+    {
+     "c": "Kamakiri Chameleon Augment-01",
+     "n": "Kanata Hongo"
+    },
+    {
+     "c": "Sasori Augment-01",
+     "n": "Masami Nagasawa"
+    },
+    {
+     "c": "K (voice)",
+     "n": "Tori Matsuzaka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Hideaki Anno"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Science Fiction"
+   ],
+   "id": 813477,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A man forced to bear power and stripped of humanity. A woman skeptical of happiness. Takeshi Hongo, an Augmentation made by SHOCKER, and Ruriko Midorikawa, a rebel of the organization, escape while fighting off assassins. What’s justice? What’s evil? Will this violence end? Despite his power, Hongo tries to remain human. Along with freedom, Ruriko has regained a heart. What paths will they choose?",
+   "popularity": 2.8027,
+   "poster_path": "/9dTO2RygcDT0cQkawABw4QkDegN.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-03-17",
+   "revenue": 15787771,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Those which change. Those which never change.  And those that don't want to change.",
+   "title": "Shin Kamen Rider",
+   "trailer": {
+    "key": "W1o01aSPjBg",
+    "name": "Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.952,
+   "vote_count": 322
+  },
+  "movie:9077": {
+   "backdrop_path": "/mJhEzR254JifF0wjKj48hcqabus.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr. Matt Hastings",
+     "n": "John Agar"
+    },
+    {
+     "c": "Stephanie 'Steve' Clayton",
+     "n": "Mara Corday"
+    },
+    {
+     "c": "Prof. Gerald Deemer",
+     "n": "Leo G. Carroll"
+    },
+    {
+     "c": "Sheriff Jack Andrews",
+     "n": "Nestor Paiva"
+    },
+    {
+     "c": "Joe Burch",
+     "n": "Ross Elliott"
+    },
+    {
+     "c": "Josh",
+     "n": "Hank Patterson"
+    },
+    {
+     "c": "Paul Lund / Eric Jacobs / Airport Workman",
+     "n": "Eddie Parker"
+    },
+    {
+     "c": "Barney Russell",
+     "n": "Bert Holland"
+    },
+    {
+     "c": "Dr. Townsend",
+     "n": "Raymond Bailey"
+    },
+    {
+     "c": "Andy Andersen",
+     "n": "Steve Darrell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Jack Arnold"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Horror"
+   ],
+   "id": 9077,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A rogue scientist near a small desert town arouses the suspicion of the town's doctor when his lab assistant is found dead from a case of acromegaly, which took only four days to develop.  As the doctor investigates, aided by the scientist's new female assistant, they discover that something is devouring local cattle and humans in increasingly large quantities.",
+   "popularity": 1.4597,
+   "poster_path": "/4mFsbUObsmbTe0rZCXBFPLfDbRt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1955-10-29",
+   "revenue": 0,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "More terrifying than any horror known to man comes a creeping crawling monster whose towering fury no one can escape!",
+   "title": "Tarantula",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.483,
+   "vote_count": 319
+  },
+  "movie:964877": {
+   "backdrop_path": "/6g0eMfWQvYWqzaZpvPukmvGZ6Ix.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sandrine Leroy",
+     "n": "Charlotte Gainsbourg"
+    },
+    {
+     "c": "Christophe Leroy",
+     "n": "José Garcia"
+    },
+    {
+     "c": "Loreleï Leroy",
+     "n": "Lili Aubry"
+    },
+    {
+     "c": "Bastien Leroy",
+     "n": "Hadrien Heaulmé"
+    },
+    {
+     "c": "Claude",
+     "n": "Lyes Salem"
+    },
+    {
+     "c": "Marcel Leroy",
+     "n": "Luis Rego"
+    },
+    {
+     "c": "\"Banksy\" le caricaturiste",
+     "n": "Sébastien Chassagne"
+    },
+    {
+     "c": "Jason",
+     "n": "Jérôme Niel"
+    },
+    {
+     "c": "Loic, le patron du Smart",
+     "n": "Adrien Ménielle"
+    },
+    {
+     "c": "Virgil",
+     "n": "Benjamin Tranié"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Florent Bernard"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 964877,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A man takes his wife and their teenage children on a road trip down memory lane while facing divorce.",
+   "popularity": 0.9451,
+   "poster_path": "/8s3Wkt7V96yLOqLMbYUsxG5H49w.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2024-04-10",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "A journey that will not be easy.",
+   "title": "Meet the Leroys",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 306
   },
   "tv:1777": {
    "backdrop_path": "/7mgf8w8xPyLnIln0kFo6qH2OEGh.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "47",
- "count": 31,
+ "count": 39,
  "titles": {
   "movie:1020047": {
    "d": "In the Hand of Dante (2026): Drama/Crime film. Story: A Vatican priest discovers Dante's original Divine… See cast, budget $25M, and TMDB rating 5.4/10.",
@@ -576,6 +576,197 @@
    "t": "The Ipcress File (1965) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1965"
   },
+  "movie:156547": {
+   "d": "Us in the U.S. (2013): Comedy film. Story: Five people who never met are convened by a notary… See cast, TMDB rating 5.7/10, and release date 3 January 2013.",
+   "img": "https://image.tmdb.org/t/p/w780/2Ck7LnV5gZIhEpYv47LEXyJkoNN.jpg",
+   "industry": "world",
+   "k": "Us in the U.S., Us in the U.S. movie, Us in the U.S. cast, Us in the U.S. story, Us in the U.S. box office collection, Us in the U.S. budget, Us in the U.S. review, Us in the U.S. rating, Us in the U.S. release date, Us in the U.S. Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vincenzo Salemme"
+     },
+     {
+      "@type": "Person",
+      "name": "Ambra Angiolini"
+     },
+     {
+      "@type": "Person",
+      "name": "Ricky Memphis"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Foglietta"
+     },
+     {
+      "@type": "Person",
+      "name": "Giovanni Vernia"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 310,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Us in the U.S. (2013): Comedy film. Story: Five people who never met are convened by a notary… See cast, TMDB rating 5.7/10, and release date 3 January 2013.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Carlo Vanzina"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2Ck7LnV5gZIhEpYv47LEXyJkoNN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=156547",
+    "name": "Us in the U.S.",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-01-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=156547"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Us in the U.S. (2013)</h1>\n<p class=\"ssr-lead\">Five people who never met are convened by a notary for the reading of a will, and learn they are all brothers and sisters, children of the same father. They’ll share a large inheritance if they can deliver the ashes to their father’s favorite lake in Arizona.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 January 2013</li><li>Runtime: 90 minutes</li><li>Director: Carlo Vanzina</li><li>Genres: Comedy</li><li>TMDB rating: 5.7/10 (310 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vincenzo Salemme as Antonio</li><li>Ambra Angiolini as Angela</li><li>Ricky Memphis as Nino</li><li>Anna Foglietta as Carmen</li><li>Giovanni Vernia as Michele</li><li>Maurizio Mattioli as Oreste Bracchi</li><li>Andrea Pittorino as Roby</li><li>Paolo Bessegato as Notaio Garbarino</li><li>Daniela Piperno as psicanalista</li><li>Ruth Barrie as Madam</li></ul>\n</article>",
+   "t": "Us in the U.S. (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
+  "movie:18147": {
+   "d": "Unaccompanied Minors (2006): Family/Comedy film. Story: Five disparate kids snowed in at the airport on… See cast, budget $26M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/h0Twi4WglgQ2ZlxQo7pcBZI89c.jpg",
+   "industry": "world",
+   "k": "Unaccompanied Minors, Unaccompanied Minors movie, Unaccompanied Minors cast, Unaccompanied Minors story, Unaccompanied Minors box office collection, Unaccompanied Minors budget, Unaccompanied Minors review, Unaccompanied Minors rating, Unaccompanied Minors release date, Unaccompanied Minors trailer, Unaccompanied Minors Family, Unaccompanied Minors Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lewis Black"
+     },
+     {
+      "@type": "Person",
+      "name": "Wilmer Valderrama"
+     },
+     {
+      "@type": "Person",
+      "name": "Tyler James Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Dyllan Christopher"
+     },
+     {
+      "@type": "Person",
+      "name": "Brett Kelly"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 338,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Unaccompanied Minors (2006): Family/Comedy film. Story: Five disparate kids snowed in at the airport on… See cast, budget $26M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Paul Feig"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Family",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/h0Twi4WglgQ2ZlxQo7pcBZI89c.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=18147",
+    "name": "Unaccompanied Minors",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-12-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=18147"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Unaccompanied Minors (2006)</h1>\n<p class=\"ssr-lead\">Five disparate kids snowed in at the airport on Christmas Eve learn some lessons about friendship when they launch a bid to get back to their families and outsmart a disgruntled airport official who wants to keep them grounded.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 December 2006</li><li>Runtime: 90 minutes</li><li>Director: Paul Feig</li><li>Genres: Family, Comedy</li><li>Budget: $26M</li><li>TMDB rating: 6.0/10 (338 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lewis Black as Oliver Porter</li><li>Wilmer Valderrama as Zach Van Bourke</li><li>Tyler James Williams as Charlie Goldfinch</li><li>Dyllan Christopher as Spencer Davenport</li><li>Brett Kelly as Timothy &#x27;Beef&#x27; Wellington</li><li>Gia Mantegna as Grace Conrad</li><li>Quinn Shephard as Donna Malone</li><li>Paget Brewster as Valerie Davenport</li><li>Rob Corddry as Sam Davenport</li><li>Dominique Saldaña as Katherine Davenport</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Unaccompanied Minors (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
+  },
+  "movie:18747": {
+   "d": "Election (2005): Crime/Drama film. Story: After losing an election to become chairman of the Wo… See cast, TMDB rating 7.2/10, and release date 20 October 2005.",
+   "img": "https://image.tmdb.org/t/p/w780/uPk8qtv5noHUOnV26ekuoABAEMH.jpg",
+   "industry": "world",
+   "k": "Election, Election movie, Election cast, Election story, Election box office collection, Election budget, Election review, Election rating, Election release date, Election Crime, Election Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Simon Yam"
+     },
+     {
+      "@type": "Person",
+      "name": "Tony Leung Ka-fai"
+     },
+     {
+      "@type": "Person",
+      "name": "Louis Koo"
+     },
+     {
+      "@type": "Person",
+      "name": "Nick Cheung Ka-fai"
+     },
+     {
+      "@type": "Person",
+      "name": "Gordon Lam Ka-tung"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 307,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Election (2005): Crime/Drama film. Story: After losing an election to become chairman of the Wo… See cast, TMDB rating 7.2/10, and release date 20 October 2005.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Johnnie To"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uPk8qtv5noHUOnV26ekuoABAEMH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=18747",
+    "name": "Election",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-10-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=18747"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Election (2005)</h1>\n<p class=\"ssr-lead\">After losing an election to become chairman of the Wo Lin Shing triad, a gang leader lashes out and tries to seize the dragon-head baton, the official symbol of a chairman&#x27;s authority.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 October 2005</li><li>Runtime: 101 minutes</li><li>Director: Johnnie To</li><li>Genres: Crime, Drama, Thriller</li><li>TMDB rating: 7.2/10 (307 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Simon Yam as Lok</li><li>Tony Leung Ka-fai as Big D</li><li>Louis Koo as Jimmy</li><li>Nick Cheung Ka-fai as Jet</li><li>Gordon Lam Ka-tung as Kun</li><li>Cheung Siu-fai as Mr. So</li><li>Lam Suet as Big Head</li><li>Wong Tin-lam as Uncle Teng</li><li>Tam Bing-Man as Uncle Cocky</li><li>Maggie Shiu Mei-kei as Mrs. Big D</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Election (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
+  },
   "movie:299847": {
    "d": "Happily Mixed Up (2014): Comedy film. Story: A psychoanalyst learns to have an illness and as a… See cast, TMDB rating 6.1/10, and release date 30 October 2014.",
    "img": "https://image.tmdb.org/t/p/w780/h0cOt7XbrRiKYdytcdoYFu6I7Jh.jpg",
@@ -639,6 +830,70 @@
    "t": "Happily Mixed Up (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:367147": {
+   "d": "Buster's Mal Heart (2017): Mystery/Drama film. Story: An eccentric mountain man on the run from the local… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xGbcYt0nBWW7Jp8ujKV841sh96t.jpg",
+   "industry": "world",
+   "k": "Buster's Mal Heart, Buster's Mal Heart movie, Buster's Mal Heart cast, Buster's Mal Heart story, Buster's Mal Heart box office collection, Buster's Mal Heart budget, Buster's Mal Heart review, Buster's Mal Heart rating, Buster's Mal Heart release date, Buster's Mal Heart trailer, Buster's Mal Heart Mystery, Buster's Mal Heart Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rami Malek"
+     },
+     {
+      "@type": "Person",
+      "name": "DJ Qualls"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Lyn Sheil"
+     },
+     {
+      "@type": "Person",
+      "name": "Toby Huss"
+     },
+     {
+      "@type": "Person",
+      "name": "Lin Shaye"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 330,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Buster's Mal Heart (2017): Mystery/Drama film. Story: An eccentric mountain man on the run from the local… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sarah Adina Smith"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Mystery",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xGbcYt0nBWW7Jp8ujKV841sh96t.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=367147",
+    "name": "Buster's Mal Heart",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-05-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=367147"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Buster&#x27;s Mal Heart (2017)</h1>\n<p class=\"ssr-lead\">An eccentric mountain man on the run from the local sheriff recalls the mysterious events that brought him to his present fugitive state.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 May 2017</li><li>Runtime: 96 minutes</li><li>Director: Sarah Adina Smith</li><li>Genres: Mystery, Drama</li><li>TMDB rating: 6.1/10 (330 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rami Malek as Buster</li><li>DJ Qualls as Brown (The Last Free Man)</li><li>Kate Lyn Sheil as Marty</li><li>Toby Huss as Deputy Winston</li><li>Lin Shaye as Pauline</li><li>Mark Kelly as Oscar</li><li>Brooke Bundy as Ranger Meg</li><li>Teresa Yenque as Adelita</li><li>Sandra Ellis Lafferty as Mrs. Bowery</li><li>Nicholas Pryor as Mr. Bowery</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Buster's Mal Heart (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
   "movie:37347": {
    "d": "Fort Apache (1948): Western film. Story: Owen Thursday sees his new posting to the desolate… See cast, budget $2.5M, and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/lJyDK0shCLOVa7OZQrcYkM9MKmq.jpg",
@@ -701,6 +956,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Fort Apache (1948)</h1>\n<p class=\"ssr-lead\">Owen Thursday sees his new posting to the desolate Fort Apache as a chance to claim the military honour which he believes is rightfully his. Arrogant, obsessed with military form and ultimately self-destructive, he attempts to destroy the Apache chief Cochise after luring him across the border from Mexico, against the advice of his subordinates.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 May 1948</li><li>Runtime: 128 minutes</li><li>Director: John Ford</li><li>Genres: Western</li><li>Budget: $2.5M</li><li>TMDB rating: 7.0/10 (432 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Wayne as Capt. Kirby York</li><li>Henry Fonda as Lt. Col. Owen Thursday</li><li>Shirley Temple as Philadelphia Thursday</li><li>Pedro Armendáriz as Sgt. Beaufort</li><li>Ward Bond as Sgt. Maj. Michael O&#x27;Rourke</li><li>George O&#x27;Brien as Capt. Sam Collingwood</li><li>Victor McLaglen as Sgt. Festus Mulcahy</li><li>Anna Lee as Mrs. Emily Collingwood</li><li>Irene Rich as Mrs. Mary O&#x27;Rourke</li><li>Dick Foran as Sgt. Quincannon</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Fort Apache (1948) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1948"
+  },
+  "movie:407447": {
+   "d": "The Extraordinary Journey of the Fakir (2019): Comedy/Adventure film. Story: Ajatashatru Lavash Patel has lived all his life in a… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/6rKx3paYMRDImAkoe8q1QDSuChj.jpg",
+   "industry": "world",
+   "k": "The Extraordinary Journey of the Fakir, The Extraordinary Journey of the Fakir movie, The Extraordinary Journey of the Fakir cast, The Extraordinary Journey of the Fakir story, The Extraordinary Journey of the Fakir box office collection, The Extraordinary Journey of the Fakir budget, The Extraordinary Journey of the Fakir review, The Extraordinary Journey of the Fakir rating, The Extraordinary Journey of the Fakir release date, The Extraordinary Journey of the Fakir trailer, The Extraordinary Journey of the Fakir Comedy, The Extraordinary Journey of the Fakir Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dhanush"
+     },
+     {
+      "@type": "Person",
+      "name": "Bérénice Bejo"
+     },
+     {
+      "@type": "Person",
+      "name": "Erin Moriarty"
+     },
+     {
+      "@type": "Person",
+      "name": "Barkhad Abdi"
+     },
+     {
+      "@type": "Person",
+      "name": "Gérard Jugnot"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 316,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "The Extraordinary Journey of the Fakir (2019): Comedy/Adventure film. Story: Ajatashatru Lavash Patel has lived all his life in a… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ken Scott"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Comedy",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6rKx3paYMRDImAkoe8q1QDSuChj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=407447",
+    "name": "The Extraordinary Journey of the Fakir",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-06-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=407447"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Extraordinary Journey of the Fakir (2019)</h1>\n<p class=\"ssr-lead\">Ajatashatru Lavash Patel has lived all his life in a small Mumbai neighborhood tricking people with street magic and fakir stunts. He sets out on a journey to find his estranged father but instead gets dragged on a never-ending adventure.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 June 2019</li><li>Runtime: 96 minutes</li><li>Director: Ken Scott</li><li>Genres: Comedy, Adventure, Drama</li><li>TMDB rating: 6.9/10 (316 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dhanush as Ajatashatru Lavash Patel</li><li>Bérénice Bejo as Nelly Marnay</li><li>Erin Moriarty as Marie</li><li>Barkhad Abdi as Wiraj</li><li>Gérard Jugnot as Gustave</li><li>Ben Miller as Officer Smith</li><li>Abel Jafri as Captain Fik</li><li>Sarah-Jeanne Labrosse as Rose</li><li>Kay Greidanus as Pieter</li><li>Amruta Sant as Siringh</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: aha</li></ul>\n</article>",
+   "t": "The Extraordinary Journey of the Fakir (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:412547": {
    "d": "Killing Gunther (2017): Action/Comedy film. Story: A group of eccentric assassins are fed up with… See cast and TMDB rating 4.8/10.",
@@ -1029,6 +1348,70 @@
    "t": "Trophy Wife (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
   },
+  "movie:564147": {
+   "d": "K.G.F: Chapter 1 (2018): Action/Thriller film. Story: A period drama set in the 1970s, KGF follows the… See cast and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4i1ofsSpfTuswHXcgPtXbZrSnoe.jpg",
+   "industry": "bollywood",
+   "k": "K.G.F: Chapter 1, K.G.F: Chapter 1 movie, K.G.F: Chapter 1 cast, K.G.F: Chapter 1 story, K.G.F: Chapter 1 box office collection, K.G.F: Chapter 1 budget, K.G.F: Chapter 1 review, K.G.F: Chapter 1 rating, K.G.F: Chapter 1 release date, K.G.F: Chapter 1 trailer, K.G.F: Chapter 1 Action, K.G.F: Chapter 1 Thriller, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Yash"
+     },
+     {
+      "@type": "Person",
+      "name": "Srinidhi Shetty"
+     },
+     {
+      "@type": "Person",
+      "name": "Ramachandra Raju"
+     },
+     {
+      "@type": "Person",
+      "name": "Archana Jois"
+     },
+     {
+      "@type": "Person",
+      "name": "Anant Nag"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 315,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "K.G.F: Chapter 1 (2018): Action/Thriller film. Story: A period drama set in the 1970s, KGF follows the… See cast and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Prashanth Neel"
+     }
+    ],
+    "duration": "PT156M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4i1ofsSpfTuswHXcgPtXbZrSnoe.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=564147",
+    "name": "K.G.F: Chapter 1",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-12-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=564147"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>K.G.F: Chapter 1 (2018)</h1>\n<p class=\"ssr-lead\">A period drama set in the 1970s, KGF follows the story of a fierce rebel who rises against the brutal oppression in Kolar Gold Fields and becomes the symbol of hope to legions of downtrodden people.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 December 2018</li><li>Runtime: 156 minutes</li><li>Director: Prashanth Neel</li><li>Genres: Action, Thriller</li><li>TMDB rating: 7.5/10 (315 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yash as Rocky / Raja Krishnappa Bairya</li><li>Srinidhi Shetty as Reena</li><li>Ramachandra Raju as Garuda</li><li>Archana Jois as Shanthamma / Rocky&#x27;s Mother</li><li>Anant Nag as Anand Ingalagi</li><li>Vasishta N. Simha as Kamal</li><li>Achyuth Kumar as Guru Pandian</li><li>Ayyappa P. Sharma as Vanaram</li><li>Malavika Avinash as Deepa Hegde</li><li>B. S. Avinash as Andrews</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "K.G.F: Chapter 1 (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
   "movie:57447": {
    "d": "The House with Laughing Windows (1976): Mystery/Thriller film. Story: Stefano, a young restorer, is commissioned to save a… See cast and budget $62.0k.",
    "img": "https://image.tmdb.org/t/p/w780/hN8BEjmyqsPdwSPsdDWenoid1as.jpg",
@@ -1092,6 +1475,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The House with Laughing Windows (1976)</h1>\n<p class=\"ssr-lead\">Stefano, a young restorer, is commissioned to save a controversial mural located in the church of a small, isolated village.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 August 1976</li><li>Runtime: 110 minutes</li><li>Director: Pupi Avati</li><li>Genres: Mystery, Thriller, Horror</li><li>Budget: $62.0k</li><li>TMDB rating: 7.2/10 (429 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lino Capolicchio as Stefano</li><li>Francesca Marciano as Francesca</li><li>Gianni Cavina as Coppola</li><li>Giulio Pizzirani as Antonio Mazza</li><li>Bob Tonelli as Mayor Solmi</li><li>Vanna Busoni as Teacher</li><li>Pietro Brambilla as Lidio</li><li>Ferdinando Orlandi as Police Marshall</li><li>Andrea Matteuzzi as Poppi</li><li>Ines Ciaschetti as Concierge</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: ARROW</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, Fandango At Home</li></ul>\n</article>",
    "t": "The House with Laughing Windows (1976) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1976"
+  },
+  "movie:628847": {
+   "d": "Trap House (2025): Action/Crime film. Story: An undercover DEA agent and his partner embark on a… See cast and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/oIJjO1CvEdTMFNkWfHaV0RB584G.jpg",
+   "industry": "world",
+   "k": "Trap House, Trap House movie, Trap House cast, Trap House story, Trap House box office collection, Trap House budget, Trap House review, Trap House rating, Trap House release date, Trap House trailer, Trap House Action, Trap House Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dave Bautista"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Champion"
+     },
+     {
+      "@type": "Person",
+      "name": "Sophia Lillis"
+     },
+     {
+      "@type": "Person",
+      "name": "Whitney Peak"
+     },
+     {
+      "@type": "Person",
+      "name": "Bobby Cannavale"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 333,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Trap House (2025): Action/Crime film. Story: An undercover DEA agent and his partner embark on a… See cast and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Dowse"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oIJjO1CvEdTMFNkWfHaV0RB584G.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=628847",
+    "name": "Trap House",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-11-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=628847"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Trap House (2025)</h1>\n<p class=\"ssr-lead\">An undercover DEA agent and his partner embark on a game of cat and mouse with an audacious, and surprising group of thieves – their own rebellious teenagers, who have begun robbing from a dangerous cartel, using their parents&#x27; tactics and top-secret intel to do it.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2025</li><li>Runtime: 103 minutes</li><li>Director: Michael Dowse</li><li>Genres: Action, Crime, Thriller</li><li>TMDB rating: 6.6/10 (333 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dave Bautista as Ray Seale</li><li>Jack Champion as Cody Seale</li><li>Sophia Lillis as Deni Matthews</li><li>Whitney Peak as Yvonne Reynolds</li><li>Bobby Cannavale as Andre Washburn</li><li>Kate del Castillo as Natalia Cabrera</li><li>Tony Dalton as Benito Cabrera</li><li>Inde Navarrette as Teresa Flores</li><li>Zaire Adams as Kyle Albright</li><li>Blu del Barrio as Jesse Padilla</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Trap House (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
   },
   "movie:64847": {
    "d": "Belladonna of Sadness (1973): Animation/Drama film. Story: An evil feudal lord rapes a village girl on her… See cast, budget $270.0k, and TMDB rating 7.4/10.",
@@ -1262,6 +1709,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Us Again (2021)</h1>\n<p class=\"ssr-lead\">In a vibrant city pulsating with rhythm and movement, an elderly man and his young-at-heart wife rekindle their youthful passion for life and each other on one magical night.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 March 2021</li><li>Runtime: 7 minutes</li><li>Director: Zach Parrish</li><li>Genres: Animation, Drama, Family, Romance</li><li>TMDB rating: 7.8/10 (360 votes)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li></ul>\n</article>",
    "t": "Us Again (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
+  },
+  "movie:8047": {
+   "d": "Matador (1986): Drama/Thriller film. Story: A conflicted youth confesses to crimes he didn't… See cast, TMDB rating 6.7/10, and release date 7 March 1986.",
+   "img": "https://image.tmdb.org/t/p/w780/sZPmrn6XRGoR8mtMCrASfEwn3gA.jpg",
+   "industry": "world",
+   "k": "Matador, Matador movie, Matador cast, Matador story, Matador box office collection, Matador budget, Matador review, Matador rating, Matador release date, Matador trailer, Matador Drama, Matador Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Assumpta Serna"
+     },
+     {
+      "@type": "Person",
+      "name": "Antonio Banderas"
+     },
+     {
+      "@type": "Person",
+      "name": "Nacho Martínez"
+     },
+     {
+      "@type": "Person",
+      "name": "Eva Cobo"
+     },
+     {
+      "@type": "Person",
+      "name": "Julieta Serrano"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 310,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Matador (1986): Drama/Thriller film. Story: A conflicted youth confesses to crimes he didn't… See cast, TMDB rating 6.7/10, and release date 7 March 1986.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Pedro Almodóvar"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sZPmrn6XRGoR8mtMCrASfEwn3gA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=8047",
+    "name": "Matador",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1986-03-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=8047"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Matador (1986)</h1>\n<p class=\"ssr-lead\">A conflicted youth confesses to crimes he didn&#x27;t commit while a man and woman aroused by death become obsessed with each other.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 March 1986</li><li>Runtime: 107 minutes</li><li>Director: Pedro Almodóvar</li><li>Genres: Drama, Thriller</li><li>TMDB rating: 6.7/10 (310 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Assumpta Serna as María</li><li>Antonio Banderas as Angel</li><li>Nacho Martínez as Diego</li><li>Eva Cobo as Eva</li><li>Julieta Serrano as Berta</li><li>Chus Lampreave as Pilar</li><li>Carmen Maura as Julia</li><li>Eusebio Poncela as Commissioner</li><li>Bibiana Fernández as Flower Seller</li><li>Luis Ciges as Guard</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Matador (1986) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1986"
   },
   "movie:94047": {
    "d": "My Way (2011): Drama/Action film. Story: During the invasion of Normandy the photograph of a… See cast, budget $25.5M, and TMDB rating 7.9/10.",

@@ -1,6 +1,6 @@
 {
  "bucket": "39",
- "count": 51,
+ "count": 55,
  "titles": {
   "movie:1019939": {
    "backdrop_path": "/krN2V7leYVBp6dOLzP11sM44eNb.jpg",
@@ -359,6 +359,119 @@
    "vote_average": 6.556,
    "vote_count": 355
   },
+  "movie:12639": {
+   "backdrop_path": "/64ABp1dJnwqZJl9DIEMe6UObhOu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Chris Adams",
+     "n": "Yul Brynner"
+    },
+    {
+     "c": "Vin",
+     "n": "Robert Fuller"
+    },
+    {
+     "c": "Chico",
+     "n": "Julián Mateos"
+    },
+    {
+     "c": "Colbee",
+     "n": "Warren Oates"
+    },
+    {
+     "c": "Frank",
+     "n": "Claude Akins"
+    },
+    {
+     "c": "Petra, Chico's Wife",
+     "n": "Elisa Montés"
+    },
+    {
+     "c": "Priest",
+     "n": "Fernando Rey"
+    },
+    {
+     "c": "Francisco Lorca",
+     "n": "Emilio Fernández"
+    },
+    {
+     "c": "Luis",
+     "n": "Virgílio Teixeira"
+    },
+    {
+     "c": "Lopez",
+     "n": "Rodolfo Acosta"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Burt Kennedy"
+   ],
+   "genres": [
+    "Western"
+   ],
+   "id": 12639,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Chico, one of the remaining members of The Magnificent Seven, now lives in the town that they (The Seven) helped. One day someone comes and takes most of the men prisoner. His wife seeks out Chris, the leader of The Seven for help. Chris also meets Vin another member of The Seven. They find four other men and they go to help Chico.",
+   "popularity": 2.2635,
+   "poster_path": "/xO3cPFFzXa7zZ704dOwgws5duFK.jpg",
+   "production_countries": [
+    "ES",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1966-10-19",
+   "revenue": 12644000,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "it",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Between the law and the lawless - SEVEN again... MAGNIFICENT again!",
+   "title": "Return of the Seven",
+   "trailer": {
+    "key": "pCz94aD2JfI",
+    "name": "Classic Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 320
+  },
   "movie:130739": {
    "backdrop_path": "/xL10TJ5dQluARc6Qq1dkHs2Xrk1.jpg",
    "budget": 300000,
@@ -657,6 +770,101 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 359
+  },
+  "movie:13339": {
+   "backdrop_path": "/hrD8UN3J7XMC2b9ponFzGDk0kYG.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Jerry Mitchell",
+     "n": "Casey Siemaszko"
+    },
+    {
+     "c": "Franny Perrins",
+     "n": "Annie Ryan"
+    },
+    {
+     "c": "Buddy Revell",
+     "n": "Richard Tyson"
+    },
+    {
+     "c": "Brei Mitchell",
+     "n": "Stacey Glick"
+    },
+    {
+     "c": "Vincent Costello",
+     "n": "Jonathan Wise"
+    },
+    {
+     "c": "Mr. Rice",
+     "n": "Jeffrey Tambor"
+    },
+    {
+     "c": "Detective Mulvahill",
+     "n": "Philip Baker Hall"
+    },
+    {
+     "c": "Mr. O'Rourke",
+     "n": "John P. Ryan"
+    },
+    {
+     "c": "Duke Herman",
+     "n": "Mitch Pileggi"
+    },
+    {
+     "c": "Hall Monitor",
+     "n": "Paul Feig"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Phil Joanou"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 13339,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Nerdy high schooler Jerry Mitchell is assigned to write an article for the school paper about the infamous new delinquent transfer student, Buddy Revell. When Jerry accidentally invades Buddy's personal space and touches him, Buddy challenges Jerry to an afterschool fight in the parking lot, which Jerry tries to avoid at all costs.",
+   "popularity": 2.1049,
+   "poster_path": "/wwnIIgCTAb1JZD5txcQAAaesW7W.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1987-10-09",
+   "revenue": 3685862,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Jerry Mitchell just bumped into Buddy Revell. Now Jerry isn't thinking about math or english. Because at three o'clock, he's history.",
+   "title": "Three O'Clock High",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.774,
+   "vote_count": 323
   },
   "movie:1437939": {
    "backdrop_path": "/4dN9kXTNqvssrbF81viFoPnW2pt.jpg",
@@ -1522,6 +1730,131 @@
    "type": "movie",
    "vote_average": 7.673,
    "vote_count": 431
+  },
+  "movie:233639": {
+   "backdrop_path": "/yFKJ2hsafckmieuYHWrLskNlZJY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mika",
+     "n": "Hanna Binke"
+    },
+    {
+     "c": "Sam",
+     "n": "Marvin Linke"
+    },
+    {
+     "c": "Mikas Grossmutter",
+     "n": "Cornelia Froboess"
+    },
+    {
+     "c": "Herr Kaan",
+     "n": "Tilo Prückner"
+    },
+    {
+     "c": "Mikas Mutter",
+     "n": "Nina Kronjäger"
+    },
+    {
+     "c": "Mikas Father",
+     "n": "Jürgen Vogel"
+    },
+    {
+     "c": "Dr. Anders",
+     "n": "Detlev Buck"
+    },
+    {
+     "c": "Michelle",
+     "n": "Marla Menn"
+    },
+    {
+     "c": "Tinka Anders",
+     "n": "Henriette Morawe"
+    },
+    {
+     "c": "Fanny",
+     "n": "Amber Bongard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Katja von Garnier"
+   ],
+   "genres": [
+    "Adventure",
+    "Family"
+   ],
+   "id": 233639,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "While spending the summer at her grandmother's farm, a girl discovers a talent for communicating with horses and tries to tame a fierce stallion.",
+   "popularity": 1.7564,
+   "poster_path": "/dshXuNNZHSLH25WPKcIKIs0OoJj.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-03-21",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "Wilder than her dreams",
+   "title": "Windstorm",
+   "trailer": {
+    "key": "a4Rq2_V9kgo",
+    "name": "WINDSTORM Trailer | TIFF Kids 2014",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 306
   },
   "movie:23439": {
    "backdrop_path": "/3OVwuyA8bP2GMhuKUDgTX9uwmCG.jpg",
@@ -4822,6 +5155,114 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 46
+  },
+  "movie:968739": {
+   "backdrop_path": "/bW62WOLYzax1WSG6tDTuJ5dBdT7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Célène",
+     "n": "Paola Locatelli"
+    },
+    {
+     "c": "Tristan Badiola",
+     "n": "Simon Rérolle"
+    },
+    {
+     "c": "Vanessa",
+     "n": "Ella Pellegrini"
+    },
+    {
+     "c": "Charlotte",
+     "n": "Héloïse Janjaud"
+    },
+    {
+     "c": "Tao",
+     "n": "Jin Xuan Mao"
+    },
+    {
+     "c": "Oscar",
+     "n": "Oscar Lesage"
+    },
+    {
+     "c": "Naya",
+     "n": "Camille Léon-Fucien"
+    },
+    {
+     "c": "Ariel",
+     "n": "Elsa Duchez Paverani"
+    },
+    {
+     "c": "Pierre",
+     "n": "Aymeric Fougeron"
+    },
+    {
+     "c": "Ben",
+     "n": "Tristan Zanchi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rachel Suissa"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 968739,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "The innocent Célène might be falling in love with popular surfer Tristan at her new school. But she has no idea that, in actuality, she’s the object of a cruel bet between Tristan and Instagram influencer Vanessa.",
+   "popularity": 1.9744,
+   "poster_path": "/opTwqTgREzvP67ERVrqt0ApXbeV.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-07-08",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Dangerous Liaisons",
+   "trailer": {
+    "key": "gUHOSIe922E",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.828,
+   "vote_count": 328
   },
   "movie:9839": {
    "backdrop_path": "/rp09OsrEIpFdsxQjIyWn821Wp7c.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "04",
- "count": 50,
+ "count": 61,
  "titles": {
   "movie:10604": {
    "backdrop_path": "/fdKE05kO9lch613DR2rfIqbv7dN.jpg",
@@ -121,6 +121,125 @@
    "type": "movie",
    "vote_average": 7.434,
    "vote_count": 404
+  },
+  "movie:10804": {
+   "backdrop_path": "/jeDUtGhVYoiKUUPIT8WwrOuNWZa.jpg",
+   "budget": 23000000,
+   "cast": [
+    {
+     "c": "Ralph",
+     "n": "John Goodman"
+    },
+    {
+     "c": "Willingham",
+     "n": "Peter O'Toole"
+    },
+    {
+     "c": "Graves",
+     "n": "John Hurt"
+    },
+    {
+     "c": "Miranda",
+     "n": "Camille Coduri"
+    },
+    {
+     "c": "Phipps",
+     "n": "Richard Griffiths"
+    },
+    {
+     "c": "King Gustav",
+     "n": "Julian Glover"
+    },
+    {
+     "c": "Gordon",
+     "n": "Leslie Phillips"
+    },
+    {
+     "c": "Queen Katherine",
+     "n": "Judy Parfitt"
+    },
+    {
+     "c": "Princess Anna",
+     "n": "Joely Richardson"
+    },
+    {
+     "c": "Hale",
+     "n": "James Villiers"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "David S. Ward"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 10804,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As the only relative in line to ascend the Royal throne, a down-on-his-luck American slob must learn the ways of the English.",
+   "popularity": 1.5274,
+   "poster_path": "/fRHq4KerVgNRLaDwwuYpCAHIQJX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1991-02-15",
+   "revenue": 52487045,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A comedy of majestic proportions.",
+   "title": "King Ralph",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.369,
+   "vote_count": 336
   },
   "movie:1128204": {
    "backdrop_path": "/4ZeaWA6DzFVOjWTi70b9ZAaQktf.jpg",
@@ -267,6 +386,112 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 37
+  },
+  "movie:1242404": {
+   "backdrop_path": "/sb8Aq1RohASXyjT0uEOUUZJi5oI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Steve",
+     "n": "Cillian Murphy"
+    },
+    {
+     "c": "Amanda",
+     "n": "Tracey Ullman"
+    },
+    {
+     "c": "Shy",
+     "n": "Jay Lycurgo"
+    },
+    {
+     "c": "Shola",
+     "n": "Little Simz"
+    },
+    {
+     "c": "Andy",
+     "n": "Douggie McMeekin"
+    },
+    {
+     "c": "Owen",
+     "n": "Youssef Kerkour"
+    },
+    {
+     "c": "Sir Hugh Montague Powell",
+     "n": "Roger Allam"
+    },
+    {
+     "c": "Jenny",
+     "n": "Emily Watson"
+    },
+    {
+     "c": "Posh Cal",
+     "n": "Archie Fisher"
+    },
+    {
+     "c": "Benny",
+     "n": "Araloyin Oshunremi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Tim Mielants"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1242404,
+   "industry": "world",
+   "origin_country": [
+    "IE"
+   ],
+   "original_language": "en",
+   "overview": "Over one intense day, the devoted head teacher of a last-chance reform school strives to keep his students in line while facing pressures of his own.",
+   "popularity": 2.8283,
+   "poster_path": "/wmLoMyofbseLfxiGgk1Iz5H97c3.jpg",
+   "production_countries": [
+    "IE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-09-19",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A quiet storm of emotion.",
+   "title": "Steve",
+   "trailer": {
+    "key": "Li7buIsBwRg",
+    "name": "Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.319,
+   "vote_count": 332
   },
   "movie:1276704": {
    "backdrop_path": "/kFK6FpbbEvVKDH956qTKEHB4Sfp.jpg",
@@ -1943,6 +2168,299 @@
    "vote_average": 7.8,
    "vote_count": 429
   },
+  "movie:25504": {
+   "backdrop_path": "/5JfXNdjitnpFoWxfARzD9IDYnyA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Johnny Barrett",
+     "n": "Peter Breck"
+    },
+    {
+     "c": "Cathy",
+     "n": "Constance Towers"
+    },
+    {
+     "c": "Boden",
+     "n": "Gene Evans"
+    },
+    {
+     "c": "Stuart",
+     "n": "James Best"
+    },
+    {
+     "c": "Trent",
+     "n": "Hari Rhodes"
+    },
+    {
+     "c": "Pagliacci",
+     "n": "Larry Tucker"
+    },
+    {
+     "c": "Dr. Menkin",
+     "n": "Paul Dubov"
+    },
+    {
+     "c": "Wilkes",
+     "n": "Chuck Roberson"
+    },
+    {
+     "c": "Psycho",
+     "n": "Neyle Morrow"
+    },
+    {
+     "c": "Dr. Cristo",
+     "n": "John Matthews"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Samuel Fuller"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 25504,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "With the help of his girlfriend Cathy and Dr. Fong, a psychiatrist, ambitious journalist Johnny Barrett poses as a madman in order to be admitted to a mental institution where a bloody murder has been committed.",
+   "popularity": 1.3539,
+   "poster_path": "/7jFI7GdduTss2SdgApcsiWtU5gA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Cultpix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "IndieFlix"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "IndieFlix Shorts Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/hBR1NB5z52BHMqowq0TgZqMcDBv.png",
+     "name": "Cultpix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1963-09-25",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "… opens the door to sights you've never seen before!",
+   "title": "Shock Corridor",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.955,
+   "vote_count": 311
+  },
+  "movie:25704": {
+   "backdrop_path": "/444xECWvFP8PtqQqKZFNHttf8nq.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Ryden Malby",
+     "n": "Alexis Bledel"
+    },
+    {
+     "c": "Adam Davies",
+     "n": "Zach Gilford"
+    },
+    {
+     "c": "Walter Malby",
+     "n": "Michael Keaton"
+    },
+    {
+     "c": "Carmella Malby",
+     "n": "Jane Lynch"
+    },
+    {
+     "c": "Hunter Malby",
+     "n": "Bobby Coleman"
+    },
+    {
+     "c": "Grandma Maureen",
+     "n": "Carol Burnett"
+    },
+    {
+     "c": "David Santiago",
+     "n": "Rodrigo Santoro"
+    },
+    {
+     "c": "Jessica Bard",
+     "n": "Catherine Reitman"
+    },
+    {
+     "c": "Barbara Snaff",
+     "n": "Mary Anne McGarry"
+    },
+    {
+     "c": "Roy Davies",
+     "n": "J.K. Simmons"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Vicky Jenson"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 25704,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ryden Malby has a master plan. Graduate college, get a great job, hang out with her best friend and find the perfect guy. But her plan spins hilariously out of control when she’s forced to move back home with her eccentric family.",
+   "popularity": 1.8855,
+   "poster_path": "/yM1QcAtEGkzAM3HFznXj8kvjyDk.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-08-21",
+   "revenue": 6414729,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A pre-life crisis.",
+   "title": "Post Grad",
+   "trailer": {
+    "key": "iFR4SgfqAFc",
+    "name": "POST GRAD -  Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.0,
+   "vote_count": 331
+  },
   "movie:309304": {
    "backdrop_path": "/kiVn09vghnscMWMqlX8uoQuXtMW.jpg",
    "budget": 600000,
@@ -2773,6 +3291,94 @@
    "vote_average": 5.544,
    "vote_count": 352
   },
+  "movie:487004": {
+   "backdrop_path": "/jtfQYlqjYRFrh3M4rtbM6lJMXkM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Antoine",
+     "n": "Arnaud Ducret"
+    },
+    {
+     "c": "Jeanne",
+     "n": "Louise Bourgoin"
+    },
+    {
+     "c": "Théo",
+     "n": "Timéo Bolland"
+    },
+    {
+     "c": "Lou",
+     "n": "Saskia de Melo Dillais"
+    },
+    {
+     "c": "Eric",
+     "n": "Laurent Ferraro"
+    },
+    {
+     "c": "Stan",
+     "n": "Michaël Cohen"
+    },
+    {
+     "c": "Mamoushka",
+     "n": "Colette Kraffe"
+    },
+    {
+     "c": "Papou",
+     "n": "Hervé Masquelier"
+    },
+    {
+     "c": "Vincent",
+     "n": "Roby Schinasi"
+    },
+    {
+     "c": "Nathalie",
+     "n": "Joana Preiss"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TP",
+   "date_kind": "release",
+   "director": [
+    "Emmanuel Gillibert"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 487004,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Antoine, a bachelor party-goer, gets new roommates: Jeanne and her two children.",
+   "popularity": 1.3117,
+   "poster_path": "/fE5eOWDf110gx7iobA1iXMQPBS6.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2018-03-21",
+   "revenue": 0,
+   "runtime": 0,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Full House",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 321
+  },
   "movie:496704": {
    "backdrop_path": "/s24IEZ2wWCEHImaAwBZxXLEKUUT.jpg",
    "budget": 0,
@@ -3061,6 +3667,309 @@
    "type": "movie",
    "vote_average": 5.4,
    "vote_count": 425
+  },
+  "movie:5204": {
+   "backdrop_path": "/x1i0wTxKqT86n1M71GBnc13mxLX.jpg",
+   "budget": 500000,
+   "cast": [
+    {
+     "c": "Bulcsú",
+     "n": "Sándor Csányi"
+    },
+    {
+     "c": "Professzor",
+     "n": "Zoltán Mucsi"
+    },
+    {
+     "c": "Muki",
+     "n": "Csaba Pindroch"
+    },
+    {
+     "c": "Lecsó",
+     "n": "Sándor Badár"
+    },
+    {
+     "c": "Tibi",
+     "n": "Zsolt Nagy"
+    },
+    {
+     "c": "Szofi",
+     "n": "Balla Eszter"
+    },
+    {
+     "c": "Béla",
+     "n": "Lajos Kovács"
+    },
+    {
+     "c": "Gyalogkakukk",
+     "n": "Bence Mátyássy"
+    },
+    {
+     "c": "Lökdösődő",
+     "n": "Győző Szabó"
+    },
+    {
+     "c": "Főnök",
+     "n": "Péter Scherer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Nimród Antal"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 5204,
+   "industry": "world",
+   "origin_country": [
+    "HU"
+   ],
+   "original_language": "hu",
+   "overview": "A subway enforcement officer working in the oppressively gray Budapest metro gets a chance at love — but first he needs to find out why passengers are jumping — or being pushed — to their deaths onto the tracks.",
+   "popularity": 1.1956,
+   "poster_path": "/rEf7jXTm4oaI4YWTLlqQCukn63j.jpg",
+   "production_countries": [
+    "HU"
+   ],
+   "providers": [
+    {
+     "name": "Fandor Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-11-20",
+   "revenue": 1277800,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hu",
+    "it",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "There's no such thing as a free ride.",
+   "title": "Kontroll",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.253,
+   "vote_count": 320
+  },
+  "movie:54004": {
+   "backdrop_path": "/4w0EJTxym0GZo27jvHSQmVyCRSv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Melanie Porter",
+     "n": "Mary-Kate Olsen"
+    },
+    {
+     "c": "Allyson Porter",
+     "n": "Ashley Olsen"
+    },
+    {
+     "c": "Grandpa Edward",
+     "n": "Peter White"
+    },
+    {
+     "c": "Jeremy Bluff",
+     "n": "Matt Winston"
+    },
+    {
+     "c": "Brigitte",
+     "n": "Yvonne Sciò"
+    },
+    {
+     "c": "Jean",
+     "n": "Brocker Way"
+    },
+    {
+     "c": "Michel",
+     "n": "Ethan Peck"
+    },
+    {
+     "c": "Henri",
+     "n": "François Giroday"
+    },
+    {
+     "c": "François",
+     "n": "Jon Menick"
+    },
+    {
+     "c": "Barbara Porter",
+     "n": "Doran Clark"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Alan Metter"
+   ],
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 54004,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Sent to Paris to visit their grandfather, the twins fall in love with France, not to mention two French boys.",
+   "popularity": 1.5656,
+   "poster_path": "/qwSUZWucryjWJ4ZLjDhy94MHev5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1999-11-09",
+   "revenue": 0,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Passport to Paris",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 322
   },
   "movie:544404": {
    "backdrop_path": "/1WT5MPdagc2PXcsF74TvinTqLz2.jpg",
@@ -3470,6 +4379,141 @@
    "vote_average": 6.0,
    "vote_count": 437
   },
+  "movie:628704": {
+   "backdrop_path": "/sOR6e2JhxhHQmcvawhfi6gAntgc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kyung-mi",
+     "n": "Jin Ki-joo"
+    },
+    {
+     "c": "Do-sik",
+     "n": "Wi Ha-jun"
+    },
+    {
+     "c": "Jong-tak",
+     "n": "Park Hoon"
+    },
+    {
+     "c": "Kyung-mi's Mother",
+     "n": "Kil Hae-yeon"
+    },
+    {
+     "c": "So-jung",
+     "n": "Kim Hye-yoon"
+    },
+    {
+     "c": "Police Officer",
+     "n": "Park Ji-hoon"
+    },
+    {
+     "c": "Police Officer",
+     "n": "Jung Won-chang"
+    },
+    {
+     "c": "Drunk Man",
+     "n": "Lee Sang-hee"
+    },
+    {
+     "c": "Office Worker",
+     "n": "Choi Min-woo"
+    },
+    {
+     "c": "Jin Sang-nyeo",
+     "n": "Oh Ji-young"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Kwon Oh-seung"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime"
+   ],
+   "id": 628704,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A serial killer ruthlessly hunts down a deaf woman through the streets of South Korea after she witnesses his brutal crime.",
+   "popularity": 2.6765,
+   "poster_path": "/gXaS8OuavUsEjoW7P8qKrHTGPi1.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-06-30",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "si",
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "Silence kills.",
+   "title": "Midnight",
+   "trailer": {
+    "key": "E7hLubfftiw",
+    "name": "MIDNIGHT (2021)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.107,
+   "vote_count": 336
+  },
   "movie:633604": {
    "backdrop_path": "/2UcDOPaJjCTW0YrvyeMkAof5wub.jpg",
    "budget": 0,
@@ -3801,6 +4845,409 @@
    "type": "movie",
    "vote_average": 7.115,
    "vote_count": 492
+  },
+  "movie:760204": {
+   "backdrop_path": "/cBNLVp6sDn9xoK8gZYBw1ycAjaD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Capt. Kate Sinclair",
+     "n": "Charlotte Kirk"
+    },
+    {
+     "c": "Sgt. Tom Hook",
+     "n": "Jonathan Howard"
+    },
+    {
+     "c": "Major Roy Finch",
+     "n": "Jamie Bamber"
+    },
+    {
+     "c": "Corp. Kip Wilks",
+     "n": "Mark Strepan"
+    },
+    {
+     "c": "Kabir",
+     "n": "Hadi Khanjanpour"
+    },
+    {
+     "c": "Sgt. Oswald Jones",
+     "n": "Leon Ockenden"
+    },
+    {
+     "c": "Trooper Vince Hughes",
+     "n": "Harry Taurasi"
+    },
+    {
+     "c": "Pvt. Eddie Serano",
+     "n": "Adam Bond"
+    },
+    {
+     "c": "Spearhead Operator",
+     "n": "Neil Marshall"
+    },
+    {
+     "c": "Trooper Dave Bromhead",
+     "n": "Troy Alexander"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Neil Marshall"
+   ],
+   "genres": [
+    "Horror",
+    "Action"
+   ],
+   "id": 760204,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "PT"
+   ],
+   "original_language": "en",
+   "overview": "Royal Air Force pilot Lt. Kate Sinclair is on her final flight mission when her jet is shot down over one of the most dangerous rebel strongholds in Afghanistan. She finds refuge in an abandoned underground bunker where deadly man-made creatures known as Ravagers — half-human, half-alien, and hungry for human flesh — are awakened.",
+   "popularity": 2.5929,
+   "poster_path": "/ifRFLx83Xk1DcwAS3OScgI6HmWO.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-10-28",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Unlocked. Unleashed.",
+   "title": "The Lair",
+   "trailer": {
+    "key": "ebjFxaZfrQw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 332
+  },
+  "movie:80304": {
+   "backdrop_path": "/tuOGlHRCgBAnMwHgcwUyq9htqXB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Armando Alvarez",
+     "n": "Will Ferrell"
+    },
+    {
+     "c": "Esmeralda",
+     "n": "Mariann Gavelo"
+    },
+    {
+     "c": "Sheila",
+     "n": "Molly Shannon"
+    },
+    {
+     "c": "Onza",
+     "n": "Gael García Bernal"
+    },
+    {
+     "c": "Agent Parker",
+     "n": "Nick Offerman"
+    },
+    {
+     "c": "Esteban",
+     "n": "Efren Ramirez"
+    },
+    {
+     "c": "Sonia",
+     "n": "Genesis Rodriguez"
+    },
+    {
+     "c": "Raul",
+     "n": "Diego Luna"
+    },
+    {
+     "c": "Miguel Ernesto Alvarez",
+     "n": "Pedro Armendáriz Jr."
+    },
+    {
+     "c": "Manuel",
+     "n": "Adrian Martinez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Matt Piedmont"
+   ],
+   "genres": [
+    "Comedy",
+    "Western"
+   ],
+   "id": 80304,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Scheming of a way to save their father's ranch, the Alvarez brothers find themselves in a war with Mexico's most feared drug lord.",
+   "popularity": 1.5119,
+   "poster_path": "/kVCc7xwTAlckBofazrwIz8x1TXC.jpg",
+   "production_countries": [
+    "US",
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/g7BsbL25SKZVg365NCENaZNVrEF.png",
+     "name": "Studiocanal Presents Amazon Channel",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-03-15",
+   "revenue": 5909483,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Funniest movie you'll ever read.",
+   "title": "Casa de Mi Padre",
+   "trailer": {
+    "key": "01IYDy2Gdk4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.3,
+   "vote_count": 334
+  },
+  "movie:803104": {
+   "backdrop_path": "/sqLNgWTMBhLBRY26SwwfWcSI5qq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Avery Hansen-White",
+     "n": "Mika Abdalla"
+    },
+    {
+     "c": "Larson",
+     "n": "Jake Short"
+    },
+    {
+     "c": "Danica McCollum",
+     "n": "Paris Jackson"
+    },
+    {
+     "c": "Mama Suze",
+     "n": "Fortune Feimster"
+    },
+    {
+     "c": "Kim",
+     "n": "Rebecca Henderson"
+    },
+    {
+     "c": "Casper",
+     "n": "Mason Versaw"
+    },
+    {
+     "c": "Ms. Carlson",
+     "n": "Artemis Pebdani"
+    },
+    {
+     "c": "Ms. Russell",
+     "n": "Tate Hanyok"
+    },
+    {
+     "c": "Ma Deb",
+     "n": "Margaret Cho"
+    },
+    {
+     "c": "Mr. Vemmer",
+     "n": "Hayden Szeto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Talia Osteen"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 803104,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Avery, a teenager with a tendency towards perfectionism, enlists her friend Larson to help her prepare for her first time with her long-distance boyfriend.",
+   "popularity": 2.155,
+   "poster_path": "/mpwXOeSSQdBjUpyQqf6YHYbSTFO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-01-14",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The only science she doesn't get is chemistry.",
+   "title": "Sex Appeal",
+   "trailer": {
+    "key": "A207HN4bRJM",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.602,
+   "vote_count": 329
   },
   "movie:898704": {
    "backdrop_path": "/ohlNSR8MsHk5e6fcAxqAJmcz4Sm.jpg",

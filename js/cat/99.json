@@ -1,6 +1,6 @@
 {
  "bucket": "99",
- "count": 35,
+ "count": 49,
  "titles": {
   "movie:10399": {
    "backdrop_path": "/w3jB1liVZioKssQ9V18mEZaTG9V.jpg",
@@ -768,6 +768,269 @@
    "vote_average": 5.929,
    "vote_count": 35
   },
+  "movie:1235499": {
+   "backdrop_path": "/sfhhJmKJBidavKSnCd8ZIMFOOup.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Shelly",
+     "n": "Pamela Anderson"
+    },
+    {
+     "c": "Annette",
+     "n": "Jamie Lee Curtis"
+    },
+    {
+     "c": "Eddie",
+     "n": "Dave Bautista"
+    },
+    {
+     "c": "Mary-Anne",
+     "n": "Brenda Song"
+    },
+    {
+     "c": "Jodie",
+     "n": "Kiernan Shipka"
+    },
+    {
+     "c": "Hannah",
+     "n": "Billie Lourd"
+    },
+    {
+     "c": "Poker Player",
+     "n": "John Clofine"
+    },
+    {
+     "c": "Director",
+     "n": "Jason Schwartzman"
+    },
+    {
+     "c": "Brad",
+     "n": "Patrick Hilgart"
+    },
+    {
+     "c": "Wardrobe Dresser",
+     "n": "Jesse Phillips"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gia Coppola"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1235499,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When the glittering Las Vegas revue she has headlined for decades announces it will soon close, a glamorous showgirl must reconcile with the decisions she’s made and the community she has built as she plans her next act.",
+   "popularity": 2.0268,
+   "poster_path": "/lNhuLz4brOeltuvfuKGk6lHYstY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-01-10",
+   "revenue": 6380079,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Last Showgirl",
+   "trailer": {
+    "key": "1H7AQkPIxZw",
+    "name": "MUBI Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.412,
+   "vote_count": 325
+  },
+  "movie:12499": {
+   "backdrop_path": "/r6OIUKbFs92aDjaMa25EPaX1RaA.jpg",
+   "budget": 85000000,
+   "cast": [
+    {
+     "c": "Dale Putley",
+     "n": "Robin Williams"
+    },
+    {
+     "c": "Jack Lawrence",
+     "n": "Billy Crystal"
+    },
+    {
+     "c": "Carrie Lawrence",
+     "n": "Julia Louis-Dreyfus"
+    },
+    {
+     "c": "Collette Andrews",
+     "n": "Nastassja Kinski"
+    },
+    {
+     "c": "Scott Andrews",
+     "n": "Charlie Hofheimer"
+    },
+    {
+     "c": "Bob Andrews",
+     "n": "Bruce Greenwood"
+    },
+    {
+     "c": "Calvin the Trucker",
+     "n": "Dennis Burkley"
+    },
+    {
+     "c": "Nikki Trainor",
+     "n": "Haylie Johnson"
+    },
+    {
+     "c": "Russ Trainor",
+     "n": "Charles Rocket"
+    },
+    {
+     "c": "Shirley Trainor",
+     "n": "Patti D'Arbanville"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ivan Reitman"
+   ],
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 12499,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A woman cons two old boyfriends into searching for her runaway son by convincing both that they are the boy's father.",
+   "popularity": 1.8339,
+   "poster_path": "/834wRxQRbbctFupf8AES7CCeTSM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1997-05-09",
+   "revenue": 36000000,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "All she said was \"My son is yours.\" Unfortunately, she said it to both of them.",
+   "title": "Fathers' Day",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 322
+  },
   "movie:12699": {
    "backdrop_path": "/2p97B1Bv0s7cK6P4dK0nYlVJjRD.jpg",
    "budget": 5000000,
@@ -1269,6 +1532,109 @@
    "type": "movie",
    "vote_average": 8.449,
    "vote_count": 89
+  },
+  "movie:157099": {
+   "backdrop_path": "/qnx8XZfvCNhRZCWThq2UW2BV5Gb.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Douglas Varney",
+     "n": "Sam Rockwell"
+    },
+    {
+     "c": "Kara Varney",
+     "n": "Michelle Monaghan"
+    },
+    {
+     "c": "Elizabeth Roberts",
+     "n": "Olivia Wilde"
+    },
+    {
+     "c": "Pharmacy Customer",
+     "n": "Jane Fonda"
+    },
+    {
+     "c": "Jack Roberts",
+     "n": "Ray Liotta"
+    },
+    {
+     "c": "Agent Andrew Carp",
+     "n": "Norbert Leo Butz"
+    },
+    {
+     "c": "Noah",
+     "n": "Ben Schwartz"
+    },
+    {
+     "c": "Walter Bishop",
+     "n": "Ken Howard"
+    },
+    {
+     "c": "Janet",
+     "n": "Jenn Harris"
+    },
+    {
+     "c": "Ethan Varney",
+     "n": "Harrison Holzer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Geoff Moore",
+    "David Posamentier"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 157099,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A straight-laced pharmacist's uneventful life spirals out of control when he starts an affair with a trophy wife customer who takes him on a joyride involving sex, drugs and possibly murder.",
+   "popularity": 1.9016,
+   "poster_path": "/9PpwTNDsXnuGHcwBdpgybVSwsFN.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-03-14",
+   "revenue": 75143,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Happiness has no formula",
+   "title": "Better Living Through Chemistry",
+   "trailer": {
+    "key": "F3MeyUawSsg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 332
   },
   "movie:1668499": {
    "backdrop_path": "/hMKAPLiacrrqRXlHGMyyIosfjzr.jpg",
@@ -1789,6 +2155,83 @@
    "vote_average": 6.928,
    "vote_count": 425
   },
+  "movie:22599": {
+   "backdrop_path": "/A55WRPRK73zx1cuULDkdX4vriDO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "The Driver",
+     "n": "Clive Owen"
+    },
+    {
+     "c": "Manager",
+     "n": "Michael Beattie"
+    },
+    {
+     "c": "Bodyguard",
+     "n": "Toru Tanaka Jr."
+    },
+    {
+     "c": "Star (uncredited)",
+     "n": "Madonna"
+    },
+    {
+     "c": "Bodyguard (uncredited)",
+     "n": "D-Teflon"
+    },
+    {
+     "c": "Bodyguard (uncredited)",
+     "n": "Troy Aguayo"
+    },
+    {
+     "c": "Bodyguard (uncredited)",
+     "n": "Woon Young Park"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Guy Ritchie"
+   ],
+   "genres": [
+    "Comedy",
+    "Action"
+   ],
+   "id": 22599,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Driver now carries an arrogant rock star who is visiting a major city. Played by Madonna, this title character wants to get away from her bodyguards in the Driver's BMW. He soon gets tired of her and decides to have a bit of fun.",
+   "popularity": 0.4945,
+   "poster_path": "/zslEgrYEg6EDzOYrr8EfDoQK8j1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2001-06-01",
+   "revenue": 0,
+   "runtime": 9,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Star",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.916,
+   "vote_count": 326
+  },
   "movie:236399": {
    "backdrop_path": "/mQUNXRA6uaf4kS1mUUoDKk4qaDB.jpg",
    "budget": 0,
@@ -1936,6 +2379,177 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 425
+  },
+  "movie:24099": {
+   "backdrop_path": "/qtdLpv0Qtqv1QMnmmnyRP0hf2Ek.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alex Gardner",
+     "n": "Dennis Quaid"
+    },
+    {
+     "c": "Paul Novotny",
+     "n": "Max von Sydow"
+    },
+    {
+     "c": "Bob Blair",
+     "n": "Christopher Plummer"
+    },
+    {
+     "c": "The President",
+     "n": "Eddie Albert"
+    },
+    {
+     "c": "Jane DeVries",
+     "n": "Kate Capshaw"
+    },
+    {
+     "c": "Tommy Ray Glatman",
+     "n": "David Patrick Kelly"
+    },
+    {
+     "c": "Charlie Prince",
+     "n": "George Wendt"
+    },
+    {
+     "c": "Mr. Webber",
+     "n": "Larry Gelman"
+    },
+    {
+     "c": "Buddy",
+     "n": "Cory 'Bumper' Yothers"
+    },
+    {
+     "c": "Snead",
+     "n": "Redmond Gleeson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Joseph Ruben"
+   ],
+   "genres": [
+    "Drama",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 24099,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In order to diagnose the psychic traumas suffered by his patients, Dr. Paul Novotny gets young Alex Gardner to enter their dreams.",
+   "popularity": 2.073,
+   "poster_path": "/gRLhwWhXS9asnE4c1mt84t1iEER.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1984-08-15",
+   "revenue": 12145169,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Close your eyes and the adventure begins.",
+   "title": "Dreamscape",
+   "trailer": {
+    "key": "4ybHzYtF3ZM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.077,
+   "vote_count": 338
   },
   "movie:258099": {
    "backdrop_path": "/x6i6ktXpzsrFKyg5MOxTugxLB5v.jpg",
@@ -2235,6 +2849,170 @@
    "vote_average": 6.588,
    "vote_count": 396
   },
+  "movie:27899": {
+   "backdrop_path": "/fG5sKoSaTiySmGaqFjNcGXo4Gtt.jpg",
+   "budget": 281000,
+   "cast": [
+    {
+     "c": "Caesar Enrico 'Rico' Bandello aka 'Little Caesar'",
+     "n": "Edward G. Robinson"
+    },
+    {
+     "c": "Joe Massara",
+     "n": "Douglas Fairbanks Jr."
+    },
+    {
+     "c": "Olga Stassoff",
+     "n": "Glenda Farrell"
+    },
+    {
+     "c": "Tony Passa",
+     "n": "William Collier Jr."
+    },
+    {
+     "c": "Big Boy",
+     "n": "Sidney Blackmer"
+    },
+    {
+     "c": "Pete Montana",
+     "n": "Ralph Ince"
+    },
+    {
+     "c": "Sgt. Flaherty",
+     "n": "Thomas E. Jackson"
+    },
+    {
+     "c": "Sam Vettori",
+     "n": "Stanley Fields"
+    },
+    {
+     "c": "Little Arnie Lorch",
+     "n": "Maurice Black"
+    },
+    {
+     "c": "Otero",
+     "n": "George E. Stone"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Mervyn LeRoy"
+   ],
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 27899,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A small-time hood shoots his way to the top, but how long can he stay there?",
+   "popularity": 1.3287,
+   "poster_path": "/1K3Q1tAHHA5Sdtja2pPALBQevA7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "TCM"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7LA3wg2A01nyV3PCLN01WNOVhcT.png",
+     "name": "TCM",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1931-01-25",
+   "revenue": 752000,
+   "runtime": 78,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Power-Mad Monarch of the Murder Mobs!",
+   "title": "Little Caesar",
+   "trailer": {
+    "key": "pAM2UDuQIjw",
+    "name": "Little Caesar - Trailer #a1",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.864,
+   "vote_count": 316
+  },
   "movie:299": {
    "backdrop_path": "/vJLSt7NvYP85nR4XJ8CxnMadf6G.jpg",
    "budget": 0,
@@ -2344,6 +3122,319 @@
    "type": "movie",
    "vote_average": 6.371,
    "vote_count": 431
+  },
+  "movie:32499": {
+   "backdrop_path": "/jVyVSD0w4Bg3r67geP0LvkizfC5.jpg",
+   "budget": 1558000,
+   "cast": [
+    {
+     "c": "Georgia Lorrison",
+     "n": "Lana Turner"
+    },
+    {
+     "c": "Jonathan Shields",
+     "n": "Kirk Douglas"
+    },
+    {
+     "c": "Harry Pebbel",
+     "n": "Walter Pidgeon"
+    },
+    {
+     "c": "James Lee Bartlow",
+     "n": "Dick Powell"
+    },
+    {
+     "c": "Fred Amiel",
+     "n": "Barry Sullivan"
+    },
+    {
+     "c": "Rosemary Bartlow",
+     "n": "Gloria Grahame"
+    },
+    {
+     "c": "Henry Whitfield",
+     "n": "Leo G. Carroll"
+    },
+    {
+     "c": "Victor \"Gaucho\" Ribera",
+     "n": "Gilbert Roland"
+    },
+    {
+     "c": "Syd Murphy",
+     "n": "Paul Stewart"
+    },
+    {
+     "c": "Kay Amiel",
+     "n": "Vanessa Brown"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Vincente Minnelli"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 32499,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Told in flashback form, the film traces the rise and fall of a tough, ambitious Hollywood producer, Jonathan Shields, as seen through the eyes of various acquaintances, including a writer, James Lee Bartlow; a star, Georgia Lorrison; and a director, Fred Amiel. He is a hard-driving, ambitious man who ruthlessly uses everyone on the way to becoming one of Hollywood's top movie makers.",
+   "popularity": 2.0154,
+   "poster_path": "/ajAXzTiPkL7JxeCRw5lQBqrKNGx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "TCM"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7LA3wg2A01nyV3PCLN01WNOVhcT.png",
+     "name": "TCM",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1953-01-15",
+   "revenue": 3373000,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "I took you out of the gutter... I can fling you back!",
+   "title": "The Bad and the Beautiful",
+   "trailer": {
+    "key": "T4mG-4HBn1w",
+    "name": "The Bad and the Beautiful (1952) - trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 316
+  },
+  "movie:350499": {
+   "backdrop_path": "/crFk9m8DK9lNqlOa7AGTvYsO6Qn.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Satoshi (voice)",
+     "n": "Rica Matsumoto"
+    },
+    {
+     "c": "Pikachu (voice)",
+     "n": "Ikue Otani"
+    },
+    {
+     "c": "Serena (voice)",
+     "n": "Mayuki Makiguchi"
+    },
+    {
+     "c": "Citron (voice)",
+     "n": "Yuki Kaji"
+    },
+    {
+     "c": "Eureka (voice)",
+     "n": "Mariya Ise"
+    },
+    {
+     "c": "Dedenne (voice)",
+     "n": "Megumi Satou"
+    },
+    {
+     "c": "Musashi (voice)",
+     "n": "Megumi Hayashibara"
+    },
+    {
+     "c": "Kojiro (voice)",
+     "n": "Shin-ichiro Miki"
+    },
+    {
+     "c": "Nyarth (voice)",
+     "n": "Inuko Inuyama"
+    },
+    {
+     "c": "Sonans (voice)",
+     "n": "Yuji Ueda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Kunihiko Yuyama"
+   ],
+   "genres": [
+    "Family",
+    "Adventure",
+    "Animation",
+    "Action",
+    "Fantasy"
+   ],
+   "id": 350499,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Ash, Pikachu, and their friends come to a desert city by the sea. Here they meet the Mythical Pokémon Hoopa, which has the ability to summon things—including people and Pokémon—through its magic rings. After a scary incident, they learn of a story about a brave hero who stopped the rampage of a terrifying Pokémon long ago. Now, the threat that has been bottled up for years is in danger of breaking loose again.",
+   "popularity": 3.4124,
+   "poster_path": "/6kXRevMC1XSywmxqqRHuBcZlROT.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Pokémon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-07-18",
+   "revenue": 21815482,
+   "runtime": 73,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "A power unbound. A battle of legends.",
+   "title": "Pokémon the Movie: Hoopa and the Clash of Ages",
+   "trailer": {
+    "key": "mi-fahz-YY4",
+    "name": "Pokémon the Movie: Hoopa and the Clash of Ages Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 321
   },
   "movie:377799": {
    "backdrop_path": "/fVBFQQPoWCbhJdT9tWtHIifw7ya.jpg",
@@ -2606,6 +3697,171 @@
    "vote_average": 6.925,
    "vote_count": 378
   },
+  "movie:451499": {
+   "backdrop_path": "/5KGtBcI4twwyZIB1dAXznQiqXsL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Totoche",
+     "n": "François Cluzet"
+    },
+    {
+     "c": "Paul Caradec",
+     "n": "Jean Scandel"
+    },
+    {
+     "c": "Borel",
+     "n": "Éric Elmosnino"
+    },
+    {
+     "c": "Count Louis Fernand de La Fresnaye",
+     "n": "François Berléand"
+    },
+    {
+     "c": "Célestine",
+     "n": "Valérie Karsenti"
+    },
+    {
+     "c": "Bertrand",
+     "n": "Thomas Durand"
+    },
+    {
+     "c": "Bella",
+     "n": "Ilona Cabrera"
+    },
+    {
+     "c": "Dédé",
+     "n": "Frédéric Saurel"
+    },
+    {
+     "c": "Lucien",
+     "n": "Urbain Cancelier"
+    },
+    {
+     "c": "Montaine",
+     "n": "Murielle Huet des Aunay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Nicolas Vanier"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Family"
+   ],
+   "id": 451499,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Paris 1930. Paul has only ever had one and the same horizon: the high walls of the orphanage, an austere building in the Parisian working class suburbs. Entrusted to a joyful country woman, Célestine, and her husband, Borel, the rather stiff gamekeeper of a vast estate in Sologne, the city child, recalcitrant and stubborn, arrives in a mysterious and disturbing world, that of a sovereign and wild region. The huge forest, misty ponds, heaths, and fields all belong to the Count de la Fresnaye, an elderly taciturn man who lives alone in his manor.",
+   "popularity": 1.1181,
+   "poster_path": "/rBjy3aR5EvKVvbuwfiZyK3w7vvJ.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "OVID"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/g4C5BqC8EC0xcBY57C4Mnm5Ht8k.png",
+     "name": "OVID",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-02-22",
+   "revenue": 0,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "School of Life",
+   "trailer": {
+    "key": "oQIjhz6ZIpE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.375,
+   "vote_count": 316
+  },
   "movie:454699": {
    "backdrop_path": "/jFSwrtsYJ0QesgPrvShQNOTn8aV.jpg",
    "budget": 0,
@@ -2782,6 +4038,143 @@
    "vote_average": 6.017,
    "vote_count": 385
   },
+  "movie:493099": {
+   "backdrop_path": "/prShXu2j9SWAbeatf1A9AobqE5O.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Ruth Bader Ginsburg"
+    },
+    {
+     "c": "Self",
+     "n": "Jane C. Ginsburg"
+    },
+    {
+     "c": "Self",
+     "n": "James Steven Ginsburg"
+    },
+    {
+     "c": "Self",
+     "n": "Nina Totenberg"
+    },
+    {
+     "c": "Self",
+     "n": "Clara Spera"
+    },
+    {
+     "c": "Self",
+     "n": "Gloria Steinem"
+    },
+    {
+     "c": "Self",
+     "n": "Bill Clinton"
+    },
+    {
+     "c": "Self",
+     "n": "Sharron Frontiero"
+    },
+    {
+     "c": "Self",
+     "n": "Orrin Hatch"
+    },
+    {
+     "c": "Self",
+     "n": "Lilly Ledbetter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Betsy West",
+    "Julie Cohen"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 493099,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Justice Ruth Bader Ginsburg now 84, and still inspired by the lawyers who defended free speech during the Red Scare, Ginsburg refuses to relinquish her passionate duty, steadily fighting for equal rights for all citizens under the law. Through intimate interviews and unprecedented access to Ginsburg’s life outside the court, RBG tells the electric story of Ginsburg’s consuming love affairs with both the Constitution and her beloved husband Marty—and of a life’s work that led her to become an icon of justice in the highest court in the land.",
+   "popularity": 1.7076,
+   "poster_path": "/vIenhDe9DuvxODJOIpMjBheYlcS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Dox Amazon Channel"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-07-07",
+   "revenue": 2002767,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "it",
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Hero. Icon. Dissenter.",
+   "title": "RBG",
+   "trailer": {
+    "key": "biIRlcQqmOc",
+    "name": "RBG - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.478,
+   "vote_count": 318
+  },
   "movie:53399": {
    "backdrop_path": "/4WRlyxjZnShSxoPgIxVa4fWx98f.jpg",
    "budget": 0,
@@ -2871,6 +4264,131 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 398
+  },
+  "movie:575299": {
+   "backdrop_path": "/6jeisB2CFbdGmXK5vE9NP3YJPcp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sergey",
+     "n": "Aleksandr Pal"
+    },
+    {
+     "c": "Lena",
+     "n": "Evgeniya Gromova"
+    },
+    {
+     "c": "Ivan",
+     "n": "Alexey Agranovich"
+    },
+    {
+     "c": "Katya",
+     "n": "Marina Vasilyeva"
+    },
+    {
+     "c": "Nikiforova",
+     "n": "Anna Kotova"
+    },
+    {
+     "c": "Vadim",
+     "n": "Pavel Vorozhtsov"
+    },
+    {
+     "c": "Dima",
+     "n": "Vasily Rikhter"
+    },
+    {
+     "c": "Polina",
+     "n": "Anastasiya Denisova"
+    },
+    {
+     "c": "Policeman",
+     "n": "Kirill Kaganovich"
+    },
+    {
+     "c": "Policeman",
+     "n": "Mikhail Troynik"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Nigina Sayfullaeva"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 575299,
+   "industry": "world",
+   "origin_country": [
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "A successful obstetrician living a seemingly stable married life begins to question her relationship when emotional and physical intimacy fades. Suspecting her husband of betrayal, she seeks connection elsewhere, stepping into a hidden world that offers desire, control, and escape. As she navigates this parallel existence, the boundaries between loyalty, loneliness, and self-discovery slowly begin to blur.",
+   "popularity": 3.7439,
+   "poster_path": "/gG8tlkC981yNenGtKuByqUPu48P.jpg",
+   "production_countries": [
+    "RU"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-10-31",
+   "revenue": 0,
+   "runtime": 82,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Fidelity",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.625,
+   "vote_count": 339
   },
   "movie:613099": {
    "backdrop_path": "/isazfkX14Unin8m6meZMfm7QDfn.jpg",
@@ -2975,6 +4493,113 @@
    "type": "movie",
    "vote_average": 6.549,
    "vote_count": 479
+  },
+  "movie:6499": {
+   "backdrop_path": "/zTeRNwkRxEbZ6qrwnbbyJHiPdcG.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Adam Park",
+     "n": "Johnny Yong Bosch"
+    },
+    {
+     "c": "Tanya Sloan",
+     "n": "Nakia Burrise"
+    },
+    {
+     "c": "Tommy Oliver",
+     "n": "Jason David Frank"
+    },
+    {
+     "c": "Kat Hillard",
+     "n": "Catherine Sutherland"
+    },
+    {
+     "c": "Justin Stewart",
+     "n": "Blake Foster"
+    },
+    {
+     "c": "Kimberly Hart",
+     "n": "Amy Jo Johnson"
+    },
+    {
+     "c": "Rocky DeSantos",
+     "n": "Steve Cardenas"
+    },
+    {
+     "c": "Jason Lee Scott",
+     "n": "Austin St. John"
+    },
+    {
+     "c": "Skull",
+     "n": "Jason Narvy"
+    },
+    {
+     "c": "Bulk",
+     "n": "Paul Schrier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Shuki Levy",
+    "David Winning"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Family",
+    "Fantasy",
+    "Science Fiction"
+   ],
+   "id": 6499,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The legendary Power Rangers must stop the evil space pirate Divatox from releasing the powerful Maligore from his volcanic imprisonment on the island of Muranthias, where only the kindly wizard Lerigot has the key to release him. The hope of victory lies in the Ranger's incredible new Turbo powers and powerful Turbo Zords.",
+   "popularity": 2.366,
+   "poster_path": "/4mau5EXQoKUTiS5wx3Wocwrh5hG.jpg",
+   "production_countries": [
+    "US",
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1997-03-27",
+   "revenue": 9615840,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Power Is Back!",
+   "title": "Turbo: A Power Rangers Movie",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.777,
+   "vote_count": 323
   },
   "movie:654299": {
    "backdrop_path": "/o33acwn7KliNpJRbjy4FrMSpiQ9.jpg",
@@ -3081,6 +4706,240 @@
    "type": "movie",
    "vote_average": 8.264,
    "vote_count": 397
+  },
+  "movie:767499": {
+   "backdrop_path": "/7k7U0XWjo5LRAu9UxF9iGE3pCrF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Judith",
+     "n": "Barbara Hershey"
+    },
+    {
+     "c": "Josh",
+     "n": "Nicholas Alexander"
+    },
+    {
+     "c": "Roland",
+     "n": "Bruce Davison"
+    },
+    {
+     "c": "Trish",
+     "n": "Jill Larson"
+    },
+    {
+     "c": "Ruth",
+     "n": "Fran Bennett"
+    },
+    {
+     "c": "Liesel",
+     "n": "Ciera Payton"
+    },
+    {
+     "c": "Annette",
+     "n": "Nancy Linehan Charles"
+    },
+    {
+     "c": "Barbara",
+     "n": "Katie A. Keane"
+    },
+    {
+     "c": "Elizabeth",
+     "n": "Shelley Robertson"
+    },
+    {
+     "c": "Ms. Benson",
+     "n": "Stacey Travis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Axelle Carolyn"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 767499,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After suffering a stroke, Judith moves into a historic nursing home, where she begins to suspect something supernatural is preying on the residents. With no one willing to believe her, Judith must either escape the confines of the manor, or fall victim to the evil that dwells within it.",
+   "popularity": 1.571,
+   "poster_path": "/eNf7Dp1m6eTKDY7p56iZdterZkL.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-10-08",
+   "revenue": 0,
+   "runtime": 81,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Enjoy your stay.",
+   "title": "The Manor",
+   "trailer": {
+    "key": "kKIhdhesFTk",
+    "name": "The Manor - Official Trailer | Prime Video",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 323
+  },
+  "movie:77499": {
+   "backdrop_path": "/qoN2Ytg1mEyTkyJdt6xc1kB2ll.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Barbie (voice)",
+     "n": "Diana Kaarina"
+    },
+    {
+     "c": "Barbie (singing voice)",
+     "n": "Jennifer Waris"
+    },
+    {
+     "c": "Skipper (voice)",
+     "n": "Rachel Drance"
+    },
+    {
+     "c": "Skipper (singing voice)",
+     "n": "Nevada Brandt"
+    },
+    {
+     "c": "Stacie (voice)",
+     "n": "Lauren Lavoie"
+    },
+    {
+     "c": "Stacie (singing voice)",
+     "n": "Danielle Bessler"
+    },
+    {
+     "c": "Chelsea (voice)",
+     "n": "Ashlyn Drummond"
+    },
+    {
+     "c": "Chelsea (singing voice)",
+     "n": "Lucia Vecchio"
+    },
+    {
+     "c": "Christie Clauson / Ivy Elif (voice)",
+     "n": "Maryke Hendrikse"
+    },
+    {
+     "c": "Christie Clauson (singing voice)",
+     "n": "Allie Feder"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Mark Baldo"
+   ],
+   "genres": [
+    "Animation",
+    "Family"
+   ],
+   "id": 77499,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The vacation plans of Barbie and her sisters take a turn due to a snowstorm. Stranded in Tannenbaum town, they find themselves amidst a holiday venture where they learn a heartwarming lesson.",
+   "popularity": 2.7729,
+   "poster_path": "/u14NrsyD9h505ZXs5Ofm7Tv3AuM.jpg",
+   "production_countries": [
+    "US",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-11-03",
+   "revenue": 0,
+   "runtime": 74,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Being together is what makes a perfect Christmas.",
+   "title": "Barbie: A Perfect Christmas",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.755,
+   "vote_count": 337
   },
   "movie:823999": {
    "backdrop_path": "/jYbABnXml6XyQ7cfhZFkMRZvMQz.jpg",

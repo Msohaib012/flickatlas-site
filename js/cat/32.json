@@ -1,6 +1,6 @@
 {
  "bucket": "32",
- "count": 41,
+ "count": 49,
  "titles": {
   "movie:10032": {
    "backdrop_path": "/xm7dypK8AlW3LdVtjmwgMzez4or.jpg",
@@ -721,6 +721,131 @@
    "vote_average": 6.416,
    "vote_count": 428
   },
+  "movie:12232": {
+   "backdrop_path": "/oaSBgbi0czdGjtXllTTIMj1H3th.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jaffar",
+     "n": "Conrad Veidt"
+    },
+    {
+     "c": "Abu",
+     "n": "Sabu"
+    },
+    {
+     "c": "Princess",
+     "n": "June Duprez"
+    },
+    {
+     "c": "Ahmad",
+     "n": "John Justin"
+    },
+    {
+     "c": "Djinn",
+     "n": "Rex Ingram"
+    },
+    {
+     "c": "Sultan",
+     "n": "Miles Malleson"
+    },
+    {
+     "c": "The Old King",
+     "n": "Morton Selten"
+    },
+    {
+     "c": "Halima",
+     "n": "Mary Morris"
+    },
+    {
+     "c": "The Merchant",
+     "n": "Bruce Winston"
+    },
+    {
+     "c": "Astrologer",
+     "n": "Hay Petrie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Tim Whelan",
+    "Ludwig Berger",
+    "Michael Powell"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Romance"
+   ],
+   "id": 12232,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When Prince Ahmad is blinded and cast out of Bagdad by the nefarious Jaffar, he joins forces with the scrappy thief Abu to win back his royal place, as well as the heart of a beautiful princess.",
+   "popularity": 2.597,
+   "poster_path": "/8Fs29JYTOkDluTXgbvLRIaps6PO.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1940-02-19",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "ONE THOUSAND AND ONE SIGHTS FROM THE THOUSAND OF ONE NIGHTS....",
+   "title": "The Thief of Bagdad",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 315
+  },
   "movie:1242332": {
    "backdrop_path": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
    "budget": 10000000,
@@ -1182,6 +1307,113 @@
    "type": "movie",
    "vote_average": 6.707,
    "vote_count": 347
+  },
+  "movie:1397832": {
+   "backdrop_path": "/pOR4Aye28KLZ5Jogu8zc3yiqBpT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maje",
+     "n": "Ivana Baquero"
+    },
+    {
+     "c": "Salva Rodrigo",
+     "n": "Tristán Ulloa"
+    },
+    {
+     "c": "Eva",
+     "n": "Carmen Machi"
+    },
+    {
+     "c": "Bernardo",
+     "n": "Pepe Ocio"
+    },
+    {
+     "c": "Daniel",
+     "n": "Joel Sánchez"
+    },
+    {
+     "c": "Antonio",
+     "n": "Álex Gadea"
+    },
+    {
+     "c": "Turrientes",
+     "n": "Pablo Molinero"
+    },
+    {
+     "c": "Javier Gil",
+     "n": "Ramón Ródenas"
+    },
+    {
+     "c": "Sonia",
+     "n": "Tania Fortea"
+    },
+    {
+     "c": "Elias",
+     "n": "Sergio Abelaira"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Carlos Sedes"
+   ],
+   "genres": [
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 1397832,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "When a man is found dead, the investigation shatters his widow's perfect facade and exposes a hidden double life in this thriller based on real events.",
+   "popularity": 2.7026,
+   "poster_path": "/yZOdrJDl2GwREoigC0y40kMosxj.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-05-30",
+   "revenue": 0,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Widow's Game",
+   "trailer": {
+    "key": "DETBsFN1iqg",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 311
   },
   "movie:1400032": {
    "backdrop_path": "/hsuT5b5EcDAVCY3Oe0Iyez2lTES.jpg",
@@ -1746,6 +1978,333 @@
    "type": "movie",
    "vote_average": 5.933,
    "vote_count": 344
+  },
+  "movie:277432": {
+   "backdrop_path": "/k3OfhFR2ej3RC4Ec5xOjVJz9Hta.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Charlie",
+     "n": "Shah Rukh Khan"
+    },
+    {
+     "c": "Mohini",
+     "n": "Deepika Padukone"
+    },
+    {
+     "c": "Nandu Bhide",
+     "n": "Abhishek Bachchan"
+    },
+    {
+     "c": "Jag",
+     "n": "Sonu Sood"
+    },
+    {
+     "c": "Tammy Irani",
+     "n": "Boman Irani"
+    },
+    {
+     "c": "Rohan",
+     "n": "Vivaan Shah"
+    },
+    {
+     "c": "Charan Groover",
+     "n": "Jackie Shroff"
+    },
+    {
+     "c": "Manohar Sharma",
+     "n": "Anupam Kher"
+    },
+    {
+     "c": "Tammy's Mother",
+     "n": "Daisy Irani"
+    },
+    {
+     "c": "Laila",
+     "n": "Sarah-Jane Dias"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Farah Khan"
+   ],
+   "genres": [
+    "Crime",
+    "Comedy"
+   ],
+   "id": 277432,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "Six would-be thieves enter a prestigious dance competition as a cover for their larger goal of pulling off a major heist.",
+   "popularity": 1.6814,
+   "poster_path": "/5kv0trpR00030JmZbLnLMBKIrtD.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-10-24",
+   "revenue": 0,
+   "runtime": 180,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Happy New Year",
+   "trailer": {
+    "key": "SrJhqxYRJBU",
+    "name": "Happy New Year | Official Trailer | Shah Rukh Khan | Deepika Padukone",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 314
+  },
+  "movie:27932": {
+   "backdrop_path": "/83YI8dTK3t02c0kyY3SLWu1mSpx.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Alan Murdock",
+     "n": "Charlton Heston"
+    },
+    {
+     "c": "Nancy Pryor",
+     "n": "Karen Black"
+    },
+    {
+     "c": "Joe Patroni",
+     "n": "George Kennedy"
+    },
+    {
+     "c": "Captain Stacy",
+     "n": "Efrem Zimbalist Jr."
+    },
+    {
+     "c": "Helen Patroni",
+     "n": "Susan Clark"
+    },
+    {
+     "c": "Sister Ruth",
+     "n": "Helen Reddy"
+    },
+    {
+     "c": "Janice Abbott",
+     "n": "Linda Blair"
+    },
+    {
+     "c": "Scott Freeman",
+     "n": "Dana Andrews"
+    },
+    {
+     "c": "Urias",
+     "n": "Roy Thinnes"
+    },
+    {
+     "c": "Barney",
+     "n": "Sid Caesar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jack Smight"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Action"
+   ],
+   "id": 27932,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When an in-flight collision incapacitates the pilots of an airplane bound for Los Angeles, stewardess Nancy Pryor is forced to take over the controls. From the ground, her boyfriend Alan Murdock, a retired test pilot, tries to talk her through piloting and landing the 747 aircraft. Worse yet, the anxious passengers — among which are a noisy nun and a cranky man — are aggravating the already tense atmosphere.",
+   "popularity": 2.3535,
+   "poster_path": "/etfUuwVCvywq8mGspT94CBeLpSz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Artiflix"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/hO4tZhtSJ7VrVnJusimkY3MltSx.png",
+     "name": "Artiflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1974-10-18",
+   "revenue": 102985152,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Something hit us... The crew is dead... Help us, please, please help us!",
+   "title": "Airport 1975",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.759,
+   "vote_count": 311
+  },
+  "movie:295832": {
+   "backdrop_path": "/rVPIPunkvO5gtTxT9UQsrySleXq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Francesco",
+     "n": "Luca Argentero"
+    },
+    {
+     "c": "Pietro",
+     "n": "Raoul Bova"
+    },
+    {
+     "c": "Giulia",
+     "n": "Carolina Crescentini"
+    },
+    {
+     "c": "Sofia",
+     "n": "Miriam Leone"
+    },
+    {
+     "c": "Agata",
+     "n": "Giusy Buscemi"
+    },
+    {
+     "c": "Gustavo",
+     "n": "Sergio Assisi"
+    },
+    {
+     "c": "il primario medico",
+     "n": "Massimo De Lorenzo"
+    },
+    {
+     "c": "il giudice tutelare",
+     "n": "Michela Andreozzi"
+    },
+    {
+     "c": "il regista",
+     "n": "Augusto Zucchi"
+    },
+    {
+     "c": "Stella",
+     "n": "Eleonora Gaggero"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Alessio Maria Federici"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 295832,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A funny story about two brothers, Pietro and Francesco, and what happens with them and their families after Petro loses his memory.",
+   "popularity": 0.6573,
+   "poster_path": "/qXKqml7CaEpUQT7dlia5rXNilfA.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2014-10-02",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Unique Brothers",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 306
   },
   "movie:305932": {
    "backdrop_path": "/6L5vre1eJu0dppvk6kGfVuSGNyC.jpg",
@@ -2340,6 +2899,109 @@
    "vote_average": 6.817,
    "vote_count": 366
   },
+  "movie:53932": {
+   "backdrop_path": "/jz6QSRsQWQUsj8iIdcHltbKkBs3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lulú",
+     "n": "Francesca Neri"
+    },
+    {
+     "c": "Pablo",
+     "n": "Óscar Ladoire"
+    },
+    {
+     "c": "Ely",
+     "n": "María Barranco"
+    },
+    {
+     "c": "Marcelo",
+     "n": "Fernando Guillén Cuervo"
+    },
+    {
+     "c": "Chelo",
+     "n": "Rosana Pastor"
+    },
+    {
+     "c": "Jimmy",
+     "n": "Javier Bardem"
+    },
+    {
+     "c": "Remy",
+     "n": "Juan Graell"
+    },
+    {
+     "c": "Pablito",
+     "n": "Rodrigo Valverde"
+    },
+    {
+     "c": "Encarna",
+     "n": "Pilar Bardem"
+    },
+    {
+     "c": "madre di Lulù",
+     "n": "Marta May"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Bigas Luna"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 53932,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Fifteen-year-old Lulu has never known any affection from her family. But when she goes to a rock concert with Pablo, a friend of the family, he introduces Lulu to her first sexual experience. Years later, Pablo and Lulu have married; Pablo has created a sheltered, private world for Lulu, into which nothing intrudes. However, Lulu tires of her cloistered existence, and begins hanging out in shady bars, looking for vicarious thrills and danger.",
+   "popularity": 4.1267,
+   "poster_path": "/reyEwMbNZ88RjS9JP9FkY7vptp4.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Film Movement Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/c8H4Jp8qInInqkPSryR80rb7jYO.png",
+     "name": "Film Movement Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1990-12-03",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "A scorching Spanish sexual awakening.",
+   "title": "The Ages of Lulu",
+   "trailer": {
+    "key": "BLW8D2qI6jE",
+    "name": "The Ages of Lulu - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.378,
+   "vote_count": 316
+  },
   "movie:56832": {
    "backdrop_path": "/jNsK2a8A1DYpaCX5HGElp3t4x6.jpg",
    "budget": 0,
@@ -2521,6 +3183,95 @@
    "type": "movie",
    "vote_average": 8.19,
    "vote_count": 442
+  },
+  "movie:570132": {
+   "backdrop_path": "/yKVbRjnusjEs3jGBPBwgNH38Q1j.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sofia",
+     "n": "Leïla Bekhti"
+    },
+    {
+     "c": "Paul",
+     "n": "Édouard Baer"
+    },
+    {
+     "c": "Bensallah",
+     "n": "Ramzy Bedia"
+    },
+    {
+     "c": "Dounia",
+     "n": "Eye Haïdara"
+    },
+    {
+     "c": "M. Toledano",
+     "n": "Laurent Capelluto"
+    },
+    {
+     "c": "Milo's father",
+     "n": "Sébastien Chassagne"
+    },
+    {
+     "c": "Corentin",
+     "n": "Tom Levy"
+    },
+    {
+     "c": "Mlle Delamarre",
+     "n": "Baya Kasmi"
+    },
+    {
+     "c": "Nadir",
+     "n": "Oussama Kheddam"
+    },
+    {
+     "c": "Madame Traoré",
+     "n": "Claudia Tagbo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "KT/EA",
+   "date_kind": "release",
+   "director": [
+    "Michel Leclerc"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 570132,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "As everyone knows, children make no difference between social classes, skin colors or religions. But then why does Corentin, Paul and Sofia's nine-year-old son, only have friends like him at Bagnolet's school? And when his friends all leave for a private school in Paris, his parents are frightened. From now on, Corentin is the only one in his class. But the only what?",
+   "popularity": 0.6654,
+   "poster_path": "/mHIeGGpbSbtW2pVuap4vdewyhvQ.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2019-04-03",
+   "revenue": 3458157,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Battle of the Classes",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 320
   },
   "movie:580532": {
    "backdrop_path": "/gFDOQMQwo5UWegXE5kNEchn1eKx.jpg",
@@ -2709,6 +3460,124 @@
    "type": "movie",
    "vote_average": 7.532,
    "vote_count": 401
+  },
+  "movie:631132": {
+   "backdrop_path": "/ySHlkHDbXztjdjRJ0pZN7FXRnaW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Goblin Slayer (voice)",
+     "n": "Yuuichirou Umehara"
+    },
+    {
+     "c": "Priestess (voice)",
+     "n": "Yui Ogura"
+    },
+    {
+     "c": "High Elf Archer (voice)",
+     "n": "Nao Toyama"
+    },
+    {
+     "c": "Dwarf Shaman (voice)",
+     "n": "Yuichi Nakamura"
+    },
+    {
+     "c": "Lizard Priest (voice)",
+     "n": "Tomokazu Sugita"
+    },
+    {
+     "c": "Noble Fencer (voice)",
+     "n": "Sumire Uesaka"
+    },
+    {
+     "c": "Cow Girl (voice)",
+     "n": "Yuka Iguchi"
+    },
+    {
+     "c": "Guild Girl (voice)",
+     "n": "Maaya Uchida"
+    },
+    {
+     "c": "Witch (voice)",
+     "n": "Yoko Hikasa"
+    },
+    {
+     "c": "Spearman (voice)",
+     "n": "Yoshitsugu Matsuoka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Takaharu Ozaki"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Action",
+    "Fantasy"
+   ],
+   "id": 631132,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Goblin Slayer and his party head up to the snowy mountains in the north after receiving that request from the Sword Maiden to find any information on the Noble Fencer that disappeared after leaving to slay some goblins. A small village gets attacked, they encounter a mysterious chapel, and something about how these goblins are acting bothers the Goblin slayer.  In order to save the captured Noble Fencer, the Goblin Slayer and his party head to an ancient fortress covered in snow to face off with a powerful foe and a horde of goblins!",
+   "popularity": 2.4966,
+   "poster_path": "/A7SH888eBwbJDU3m48Vk2FK6ahW.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-02-01",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "He does not let anyone roll the dice.",
+   "title": "Goblin Slayer: Goblin's Crown",
+   "trailer": {
+    "key": "msDg5AEN7KY",
+    "name": "GOBLIN SLAYER -GOBLIN’S CROWN- Official Dubbed Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 318
   },
   "movie:632632": {
    "backdrop_path": "/9Xz0bzUFTVgDZd4WZz1cJDQjLkB.jpg",

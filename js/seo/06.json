@@ -1,6 +1,6 @@
 {
  "bucket": "06",
- "count": 53,
+ "count": 62,
  "titles": {
   "movie:10606": {
    "d": "The Philadelphia Experiment (1984): Science Fiction/Adventure film. Story: Based on an \"actual event\" that took place in 1943. See cast and budget $9M.",
@@ -1021,6 +1021,70 @@
    "t": "The Hanged Woman (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:16406": {
+   "d": "Dick (1999): Comedy/Adventure film. Story: Two high school girls wander off during a class trip… See cast, budget $13M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5LpDUkULnRcWjhKPE5aFMMdlQmK.jpg",
+   "industry": "world",
+   "k": "Dick, Dick movie, Dick cast, Dick story, Dick box office collection, Dick budget, Dick review, Dick rating, Dick release date, Dick Comedy, Dick Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kirsten Dunst"
+     },
+     {
+      "@type": "Person",
+      "name": "Michelle Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Dan Hedaya"
+     },
+     {
+      "@type": "Person",
+      "name": "Will Ferrell"
+     },
+     {
+      "@type": "Person",
+      "name": "Bruce McCulloch"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 315,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Dick (1999): Comedy/Adventure film. Story: Two high school girls wander off during a class trip… See cast, budget $13M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Andrew Fleming"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Comedy",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5LpDUkULnRcWjhKPE5aFMMdlQmK.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=16406",
+    "name": "Dick",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1999-08-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=16406"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dick (1999)</h1>\n<p class=\"ssr-lead\">Two high school girls wander off during a class trip to the White House and meet President Richard Nixon. They become the official dog walkers for Nixon&#x27;s dog Checkers, and become his secret advisors during the Watergate scandal.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 August 1999</li><li>Runtime: 94 minutes</li><li>Director: Andrew Fleming</li><li>Genres: Comedy, Adventure</li><li>Budget: $13M</li><li>TMDB rating: 6.0/10 (315 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kirsten Dunst as Betsy Jobs</li><li>Michelle Williams as Arlene Lorenzo</li><li>Dan Hedaya as President Richard M. Nixon</li><li>Will Ferrell as Bob Woodward</li><li>Bruce McCulloch as Carl Bernstein</li><li>Teri Garr as Helen Lorenzo</li><li>Dave Foley as Bob Haldeman</li><li>Jim Breuer as John Dean</li><li>Ana Gasteyer as Rose Mary Woods</li><li>Harry Shearer as G. Gordon Liddy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Dick (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1999"
+  },
   "movie:172106": {
    "d": "Jappeloup (2013): Drama film. Story: A true sports story that utterly defies the odds… See cast, TMDB rating 7.1/10, and release date 13 March 2013.",
    "img": "https://image.tmdb.org/t/p/w780/hUCRLTCb9eq4ZttqYYxEnUqDvsf.jpg",
@@ -1402,6 +1466,134 @@
    "t": "Noroi: The Curse (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2005"
   },
+  "movie:24106": {
+   "d": "The Black Cat (1934): Horror/Thriller film. Story: After a road accident in Hungary, the American… See cast, budget $95.7k, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ww1gZ8vVCjmtyO2zkhcsRB7v6Tf.jpg",
+   "industry": "world",
+   "k": "The Black Cat, The Black Cat movie, The Black Cat cast, The Black Cat story, The Black Cat box office collection, The Black Cat budget, The Black Cat review, The Black Cat rating, The Black Cat release date, The Black Cat Horror, The Black Cat Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Boris Karloff"
+     },
+     {
+      "@type": "Person",
+      "name": "Bela Lugosi"
+     },
+     {
+      "@type": "Person",
+      "name": "David Manners"
+     },
+     {
+      "@type": "Person",
+      "name": "Julie Bishop"
+     },
+     {
+      "@type": "Person",
+      "name": "Egon Brecher"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 323,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "The Black Cat (1934): Horror/Thriller film. Story: After a road accident in Hungary, the American… See cast, budget $95.7k, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Edgar G. Ulmer"
+     }
+    ],
+    "duration": "PT65M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ww1gZ8vVCjmtyO2zkhcsRB7v6Tf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=24106",
+    "name": "The Black Cat",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1934-05-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=24106"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Black Cat (1934)</h1>\n<p class=\"ssr-lead\">After a road accident in Hungary, the American honeymooners Joan and Peter and the enigmatic Dr. Werdegast find refuge in the house of the famed architect Hjalmar Poelzig, who shares a dark past with the doctor.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 May 1934</li><li>Runtime: 65 minutes</li><li>Director: Edgar G. Ulmer</li><li>Genres: Horror, Thriller</li><li>Budget: $95.7k</li><li>TMDB rating: 6.7/10 (323 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Boris Karloff as Hjalmar Poelzig</li><li>Bela Lugosi as Dr. Vitus Werdegast</li><li>David Manners as Peter Alison</li><li>Julie Bishop as Joan Alison</li><li>Egon Brecher as The Majordomo</li><li>Harry Cording as Thamal</li><li>Lucille Lund as Karen</li><li>Henry Armetta as The Sergeant</li><li>Albert Conti as The Lieutenant</li><li>John Carradine as Cult Organist</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Black Cat (1934) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1934"
+  },
+  "movie:242606": {
+   "d": "Keep Watching (2017): Thriller/Horror film. Story: A family imprisoned by intruders is forced to play a… See cast and TMDB rating 5.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/u0SmCStAg5GS8Pis36RsoailrRG.jpg",
+   "industry": "world",
+   "k": "Keep Watching, Keep Watching movie, Keep Watching cast, Keep Watching story, Keep Watching box office collection, Keep Watching budget, Keep Watching review, Keep Watching rating, Keep Watching release date, Keep Watching Thriller, Keep Watching Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bella Thorne"
+     },
+     {
+      "@type": "Person",
+      "name": "Chandler Riggs"
+     },
+     {
+      "@type": "Person",
+      "name": "Natalie Martinez"
+     },
+     {
+      "@type": "Person",
+      "name": "Ioan Gruffudd"
+     },
+     {
+      "@type": "Person",
+      "name": "Maya Eshet"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 322,
+     "ratingValue": 5.0,
+     "worstRating": 0
+    },
+    "description": "Keep Watching (2017): Thriller/Horror film. Story: A family imprisoned by intruders is forced to play a… See cast and TMDB rating 5.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sean Carter"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Thriller",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/u0SmCStAg5GS8Pis36RsoailrRG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=242606",
+    "name": "Keep Watching",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-05-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=242606"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Keep Watching (2017)</h1>\n<p class=\"ssr-lead\">A family imprisoned by intruders is forced to play a terrifying game of &quot;Kill, Or Be Killed&quot;. As the night unfolds, the game&#x27;s mysterious rules become clear, and the family realizes their nightmare is being streamed live to riveted viewers all over the world, who are compelled to KEEP WATCHING... not knowing if what they&#x27;re seeing is real, or staged.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 May 2017</li><li>Runtime: 90 minutes</li><li>Director: Sean Carter</li><li>Genres: Thriller, Horror, Drama</li><li>TMDB rating: 5.0/10 (322 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bella Thorne as Jamie Mitchell</li><li>Chandler Riggs as John Mitchell</li><li>Natalie Martinez as Nicole</li><li>Ioan Gruffudd as Carl Mitchell</li><li>Maya Eshet as The Wasp</li><li>Matthew Willig as The Terror</li><li>Leigh Whannell as Matt</li><li>Jared Abrahamson as Josh</li><li>Roger Craig Smith as The Creator (Voice)</li><li>Christopher James Baker as The Creator</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Keep Watching (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
   "movie:34106": {
    "d": "You Can't Take It with You (1938): Comedy/Romance film. Story: Alice, the only relatively normal member of the… See cast, budget $1.64M, and TMDB rating 7.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/As4GJO5V3SxbSDW8ZEWPnYtSZIg.jpg",
@@ -1466,6 +1658,70 @@
    "t": "You Can't Take It with You (1938) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1938"
   },
+  "movie:355506": {
+   "d": "Siren (2016): Horror/Thriller film. Story: A bachelor party becomes a savage fight for survival… See cast, budget $300.0k, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xywle3yMnKbbuUaFhDMtGo1n6aw.jpg",
+   "industry": "world",
+   "k": "Siren, Siren movie, Siren cast, Siren story, Siren box office collection, Siren budget, Siren review, Siren rating, Siren release date, Siren Horror, Siren Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chase Williamson"
+     },
+     {
+      "@type": "Person",
+      "name": "Justin Welborn"
+     },
+     {
+      "@type": "Person",
+      "name": "Hannah Fierman"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Aaron Milligan"
+     },
+     {
+      "@type": "Person",
+      "name": "Hayes Mercure"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 313,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Siren (2016): Horror/Thriller film. Story: A bachelor party becomes a savage fight for survival… See cast, budget $300.0k, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gregg Bishop"
+     }
+    ],
+    "duration": "PT82M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xywle3yMnKbbuUaFhDMtGo1n6aw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=355506",
+    "name": "Siren",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-12-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=355506"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Siren (2016)</h1>\n<p class=\"ssr-lead\">A bachelor party becomes a savage fight for survival when the groomsmen unwittingly unleash a fabled predator upon the festivities.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 December 2016</li><li>Runtime: 82 minutes</li><li>Director: Gregg Bishop</li><li>Genres: Horror, Thriller</li><li>Budget: $300.0k</li><li>TMDB rating: 6.0/10 (313 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chase Williamson as Jonah</li><li>Justin Welborn as Mr. Nyx</li><li>Hannah Fierman as Lily</li><li>Michael Aaron Milligan as Mac</li><li>Hayes Mercure as Rand</li><li>Randy McDowell as Elliott</li><li>Lindsey Garrett as Eva</li><li>Stephen Caudill as Sheriff Boone</li><li>William Mark McCullough as The Addict</li><li>Krystal Badia as Cllisto</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Siren (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
   "movie:360606": {
    "d": "Adventures in Babysitting (2016): Comedy/Family film. Story: Two teen rival babysitters, Jenny and Lola, team up… See cast, budget $9M, and TMDB rating 7.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/eWCeRLTavVwPt3uOGUF1ewzwH6e.jpg",
@@ -1529,6 +1785,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Adventures in Babysitting (2016)</h1>\n<p class=\"ssr-lead\">Two teen rival babysitters, Jenny and Lola, team up to hunt down one of their kids who accidentally ran away into the big city without any supervision.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 June 2016</li><li>Runtime: 95 minutes</li><li>Director: John Schultz</li><li>Genres: Comedy, Family, Adventure, TV Movie</li><li>Budget: $9M</li><li>TMDB rating: 7.2/10 (450 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sabrina Carpenter as Jenny Parker</li><li>Sofia Carson as Lola Perez</li><li>Nikki Hahn as Emily Cooper</li><li>Mallory James Mahoney as Katy Cooper</li><li>Max Gecowets as Trey Anderson</li><li>Jet Jurgensmeyer as Bobby Anderson</li><li>Madison Horcher as AJ Anderson</li><li>Kevin G. Quinn as Zac Chase</li><li>Gillian Vigman as Helen</li><li>Gabrielle Miller as Donna Cooper</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Adventures in Babysitting (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
+  },
+  "movie:37606": {
+   "d": "Valmont (1989): Drama/Romance film. Story: Set in Baroque France, a scheming widow and her lover… See cast, budget $33M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/upZUY8Tj9RHHLKPpGKU40qQ0Y1R.jpg",
+   "industry": "world",
+   "k": "Valmont, Valmont movie, Valmont cast, Valmont story, Valmont box office collection, Valmont budget, Valmont review, Valmont rating, Valmont release date, Valmont Drama, Valmont Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Colin Firth"
+     },
+     {
+      "@type": "Person",
+      "name": "Annette Bening"
+     },
+     {
+      "@type": "Person",
+      "name": "Meg Tilly"
+     },
+     {
+      "@type": "Person",
+      "name": "Fairuza Balk"
+     },
+     {
+      "@type": "Person",
+      "name": "Siân Phillips"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 318,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Valmont (1989): Drama/Romance film. Story: Set in Baroque France, a scheming widow and her lover… See cast, budget $33M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Miloš Forman"
+     }
+    ],
+    "duration": "PT137M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/upZUY8Tj9RHHLKPpGKU40qQ0Y1R.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=37606",
+    "name": "Valmont",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1989-12-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=37606"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Valmont (1989)</h1>\n<p class=\"ssr-lead\">Set in Baroque France, a scheming widow and her lover make a bet regarding the corruption of a recently married woman. The lover, Valmont, bets that he can seduce her, even though she is an honorable woman. If he wins, he can have his lover to do as he will. However, in the process of seducing the married woman, Valmont falls in love.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 December 1989</li><li>Runtime: 137 minutes</li><li>Director: Miloš Forman</li><li>Genres: Drama, Romance</li><li>Budget: $33M</li><li>TMDB rating: 6.7/10 (318 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Colin Firth as Valmont</li><li>Annette Bening as Merteuil</li><li>Meg Tilly as Madame de Tourvel</li><li>Fairuza Balk as Cécile</li><li>Siân Phillips as Madame de Volanges</li><li>Jeffrey Jones as Gercourt</li><li>Henry Thomas as Danceny</li><li>Fabia Drake as Madame de Rosemonde</li><li>T. P. McKenna as Baron</li><li>Isla Blair as Baroness</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store</li><li>Buy: Amazon Video, Apple TV Store</li></ul>\n</article>",
+   "t": "Valmont (1989) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1989"
+  },
+  "movie:401306": {
+   "d": "The Seventh Company Has Been Found (1975): Comedy/War film. Story: The second part of the Seventh Company adventures. See cast and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wmMP0nmUtK27U7c18qdLz7zkPtM.jpg",
+   "industry": "world",
+   "k": "The Seventh Company Has Been Found, The Seventh Company Has Been Found movie, The Seventh Company Has Been Found cast, The Seventh Company Has Been Found story, The Seventh Company Has Been Found box office collection, The Seventh Company Has Been Found budget, The Seventh Company Has Been Found review, The Seventh Company Has Been Found rating, The Seventh Company Has Been Found release date, The Seventh Company Has Been Found Comedy, The Seventh Company Has Been Found War, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jean Lefebvre"
+     },
+     {
+      "@type": "Person",
+      "name": "Pierre Mondy"
+     },
+     {
+      "@type": "Person",
+      "name": "Henri Guybet"
+     },
+     {
+      "@type": "Person",
+      "name": "Pierre Tornade"
+     },
+     {
+      "@type": "Person",
+      "name": "Érik Colin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 323,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "The Seventh Company Has Been Found (1975): Comedy/War film. Story: The second part of the Seventh Company adventures. See cast and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Robert Lamoureux"
+     }
+    ],
+    "duration": "PT80M",
+    "genre": [
+     "Comedy",
+     "War"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wmMP0nmUtK27U7c18qdLz7zkPtM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=401306",
+    "name": "The Seventh Company Has Been Found",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1975-12-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=401306"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Seventh Company Has Been Found (1975)</h1>\n<p class=\"ssr-lead\">The second part of the Seventh Company adventures.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 December 1975</li><li>Runtime: 80 minutes</li><li>Director: Robert Lamoureux</li><li>Genres: Comedy, War</li><li>TMDB rating: 7.3/10 (323 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean Lefebvre as Pithivier</li><li>Pierre Mondy as Sergent-chef Chaudard</li><li>Henri Guybet as Tassin</li><li>Pierre Tornade as Capitaine Dumont</li><li>Érik Colin as Lieutenant Duvauchel</li><li>Robert Lamoureux as Colonel Blanchet</li><li>Bernard Dhéran as Colonel Voisin</li><li>Jacques Monod as Panadon</li><li>René Bouloc as Le soldat prisonnier qui s&#x27;indigne pour les patates</li><li>Robert Dalban as Colonel Bricard</li></ul>\n</article>",
+   "t": "The Seventh Company Has Been Found (1975) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1975"
   },
   "movie:500006": {
    "d": "Utøya: July 22 (2018): History/Drama film. Story: A teenage girl fights for survival and to locate her… See cast, budget $22M, and TMDB rating 7.1/10.",
@@ -1658,6 +2042,69 @@
    "t": "The Trouble with You (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
   },
+  "movie:5206": {
+   "d": "The Boss of It All (2006): Comedy film. Story: The owner of an IT firm wants to sell his business… See cast, budget $3M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tZnSELkhNmzDmRLzWWsQh74HNcW.jpg",
+   "industry": "world",
+   "k": "The Boss of It All, The Boss of It All movie, The Boss of It All cast, The Boss of It All story, The Boss of It All box office collection, The Boss of It All budget, The Boss of It All review, The Boss of It All rating, The Boss of It All release date, The Boss of It All trailer, The Boss of It All Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jens Albinus"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Gantzler"
+     },
+     {
+      "@type": "Person",
+      "name": "Fridrik Thor Fridriksson"
+     },
+     {
+      "@type": "Person",
+      "name": "Benedikt Erlingsson"
+     },
+     {
+      "@type": "Person",
+      "name": "Iben Hjejle"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 339,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "The Boss of It All (2006): Comedy film. Story: The owner of an IT firm wants to sell his business… See cast, budget $3M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lars von Trier"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tZnSELkhNmzDmRLzWWsQh74HNcW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=5206",
+    "name": "The Boss of It All",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-12-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=5206"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Boss of It All (2006)</h1>\n<p class=\"ssr-lead\">The owner of an IT firm wants to sell his business for profit; however, when he started his firm, he invented a nonexistent president to hide behind when unpopular steps needed to be taken. When potential purchasers insist on negotiating with &#x27;The Boss&#x27; face to face, the owner hires a failed actor to play the part.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 December 2006</li><li>Runtime: 99 minutes</li><li>Director: Lars von Trier</li><li>Genres: Comedy</li><li>Budget: $3M</li><li>TMDB rating: 6.6/10 (339 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jens Albinus as The Boss of it All / Kristoffer / Svend E</li><li>Peter Gantzler as Ravn</li><li>Fridrik Thor Fridriksson as Finnur</li><li>Benedikt Erlingsson as Interpreter</li><li>Iben Hjejle as Lise</li><li>Henrik Prip as Nalle</li><li>Mia Lyhne as Heidi A.</li><li>Casper Christensen as Gorm</li><li>Louise Mieritz as Mette</li><li>Jean-Marc Barr as Spencer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI, MUBI Amazon Channel</li></ul>\n</article>",
+   "t": "The Boss of It All (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
+  },
   "movie:522406": {
    "d": "Flashback (2021): Thriller/Mystery film. Story: Frederick Fitzell is living his best life—until he… See cast, TMDB rating 5.9/10, and release date 3 June 2021.",
    "img": "https://image.tmdb.org/t/p/w780/lR7qQNifkq2fNwy681lH3NtmynV.jpg",
@@ -1785,6 +2232,74 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Husk (2011)</h1>\n<p class=\"ssr-lead\">A group of friends stranded near a desolate cornfield find shelter in an old farmhouse, though they soon discover the dwelling is the center of a supernatural ritual.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 January 2011</li><li>Runtime: 83 minutes</li><li>Director: Brett Simmons</li><li>Genres: Horror, Thriller</li><li>TMDB rating: 5.8/10 (396 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Devon Graye as Scott</li><li>Wes Chatham as Brian</li><li>C.J. Thomason as Chris</li><li>Tammin Sursok as Natalie</li><li>Ben Easter as Johnny</li><li>Josh Skipworth as Corey</li><li>Nick Toussaint as Alex</li><li>Michael Cornelison as Farmer Comstock</li><li>Aaron Harpold as Road Farmer</li><li>Candice Rose as Road Farmer&#x27;s Wife</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Starz Apple TV channel, MovieSphere+ Amazon Channel, Starz Roku Premium Channel</li><li>Rent: Google Play Movies</li><li>Buy: Google Play Movies</li></ul>\n</article>",
    "t": "Husk (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:582206": {
+   "d": "The Best Is Yet to Come (2019): Comedy/Drama film. Story: Following a huge misunderstanding, two friends always… See cast, budget $13M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3eGj3Jcp7eP4yDh7LccmV6XwW6v.jpg",
+   "industry": "world",
+   "k": "The Best Is Yet to Come, The Best Is Yet to Come movie, The Best Is Yet to Come cast, The Best Is Yet to Come story, The Best Is Yet to Come box office collection, The Best Is Yet to Come budget, The Best Is Yet to Come review, The Best Is Yet to Come rating, The Best Is Yet to Come release date, The Best Is Yet to Come trailer, The Best Is Yet to Come Comedy, The Best Is Yet to Come Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Fabrice Luchini"
+     },
+     {
+      "@type": "Person",
+      "name": "Patrick Bruel"
+     },
+     {
+      "@type": "Person",
+      "name": "Zineb Triki"
+     },
+     {
+      "@type": "Person",
+      "name": "Pascale Arbillot"
+     },
+     {
+      "@type": "Person",
+      "name": "Marie Narbonne"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 317,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "The Best Is Yet to Come (2019): Comedy/Drama film. Story: Following a huge misunderstanding, two friends always… See cast, budget $13M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Matthieu Delaporte"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexandre de La Patellière"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3eGj3Jcp7eP4yDh7LccmV6XwW6v.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=582206",
+    "name": "The Best Is Yet to Come",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-12-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=582206"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Best Is Yet to Come (2019)</h1>\n<p class=\"ssr-lead\">Following a huge misunderstanding, two friends always decide to tackle everything to make up for lost time.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 December 2019</li><li>Runtime: 117 minutes</li><li>Director: Matthieu Delaporte, Alexandre de La Patellière</li><li>Genres: Comedy, Drama</li><li>Budget: $13M</li><li>TMDB rating: 6.8/10 (317 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Fabrice Luchini as Arthur Dreyfus</li><li>Patrick Bruel as César Montesiho</li><li>Zineb Triki as Randa Ameziane</li><li>Pascale Arbillot as Virginia, Arthur&#x27;s ex</li><li>Marie Narbonne as Julie Dreyfus, daughter of Arthur and Virginie</li><li>Jean-Marie Winling as Bernard Montesiho, father of César</li><li>André Marcon as The priest</li><li>Thierry Godard as Doctor Cerceau</li><li>Martina García as Lucia</li><li>Sébastien Pierre as Maître Lansky</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Best Is Yet to Come (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:6": {
    "d": "Judgment Night (1993): Action/Crime film. Story: Four young friends, while taking a shortcut en route… See cast, budget $21M, and TMDB rating 6.5/10.",
@@ -2232,6 +2747,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Home (2025)</h1>\n<p class=\"ssr-lead\">A troubled man starts working at a retirement home and realizes its residents and caretakers harbor sinister secrets. As he investigates the building and its forbidden fourth floor, he starts to uncover connections to his own past and upbringing as a foster child.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 August 2025</li><li>Runtime: 95 minutes</li><li>Director: James DeMonaco</li><li>Genres: Horror, Mystery, Thriller</li><li>TMDB rating: 6.9/10 (345 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pete Davidson as Max</li><li>John Glover as Lou</li><li>Mugga as Juno</li><li>Adam Cantor as Les</li><li>Bruce Altman as Doc Sabian</li><li>Denise Burse as Sadie</li><li>Stuart Rudin as Screaming Man</li><li>Ethan Phillips as Ethan</li><li>Nathalie Schmidt as Ellie</li><li>Mary Beth Peil as Norma</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "The Home (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
+  },
+  "movie:958006": {
+   "d": "The Kill Room (2023): Comedy/Crime film. Story: A hitman, his boss, an art dealer and a… See cast, budget $50M, and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bylJq7JEA87YqHMObZUnaP292T2.jpg",
+   "industry": "world",
+   "k": "The Kill Room, The Kill Room movie, The Kill Room cast, The Kill Room story, The Kill Room box office collection, The Kill Room budget, The Kill Room review, The Kill Room rating, The Kill Room release date, The Kill Room trailer, The Kill Room Comedy, The Kill Room Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Uma Thurman"
+     },
+     {
+      "@type": "Person",
+      "name": "Joe Manganiello"
+     },
+     {
+      "@type": "Person",
+      "name": "Samuel L. Jackson"
+     },
+     {
+      "@type": "Person",
+      "name": "Maya Hawke"
+     },
+     {
+      "@type": "Person",
+      "name": "Debi Mazar"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 317,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "The Kill Room (2023): Comedy/Crime film. Story: A hitman, his boss, an art dealer and a… See cast, budget $50M, and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nicol Paone"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bylJq7JEA87YqHMObZUnaP292T2.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=958006",
+    "name": "The Kill Room",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-09-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=958006"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Kill Room (2023)</h1>\n<p class=\"ssr-lead\">A hitman, his boss, an art dealer and a money-laundering scheme that accidentally turns the assassin into an overnight avant-garde sensation, one that forces her to play the art world against the underworld.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 September 2023</li><li>Runtime: 98 minutes</li><li>Director: Nicol Paone</li><li>Genres: Comedy, Crime</li><li>Budget: $50M</li><li>TMDB rating: 5.8/10 (317 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Uma Thurman as Patrice</li><li>Joe Manganiello as Reggie</li><li>Samuel L. Jackson as Gordon</li><li>Maya Hawke as Grace</li><li>Debi Mazar as The Kimono</li><li>Dree Hemingway as Anika</li><li>Amy Keum as Leslie</li><li>Candy Buckley as Mrs. Galvinson</li><li>Larry Pine as Dr. Galvinson</li><li>Jennifer Kim as Mae</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Amazon Prime Video with Ads, Shout! Factory Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Kill Room (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
   },
   "movie:977506": {
    "d": "The Crime is Mine (2023): Crime/Comedy film. Story: In 1930s Paris, Madeleine, a pretty, young… See cast, budget $13.7M, and TMDB rating 6.5/10.",

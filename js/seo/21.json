@@ -1,6 +1,6 @@
 {
  "bucket": "21",
- "count": 54,
+ "count": 66,
  "titles": {
   "movie:1010821": {
    "d": "Groot Takes a Bath (2022): Animation/Family film. Story: Everybody needs some alone time to relax and wash up… See cast and TMDB rating 7.1/10.",
@@ -57,6 +57,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Groot Takes a Bath (2022)</h1>\n<p class=\"ssr-lead\">Everybody needs some alone time to relax and wash up, but things go quite differently when you’re a Flora Colossi toddler.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 August 2022</li><li>Runtime: 6 minutes</li><li>Director: Kirsten Lepore</li><li>Genres: Animation, Family, Comedy, Science Fiction</li><li>TMDB rating: 7.1/10 (373 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vin Diesel as Baby Groot (voice)</li><li>Fred Tatasciore as Additional Voices (voice)</li><li>Kaitlyn Robrock as Additional Voices (voice)</li></ul>\n</article>",
    "t": "Groot Takes a Bath (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:10421": {
+   "d": "War of the Buttons (1962): Comedy/Drama film. Story: For generations, two rival French villages… See cast, TMDB rating 7.2/10, and release date 18 April 1962.",
+   "img": "https://image.tmdb.org/t/p/w780/o0vdiPmh1oEpyZ1hSSPnb6tKPRd.jpg",
+   "industry": "world",
+   "k": "War of the Buttons, War of the Buttons movie, War of the Buttons cast, War of the Buttons story, War of the Buttons box office collection, War of the Buttons budget, War of the Buttons review, War of the Buttons rating, War of the Buttons release date, War of the Buttons Comedy, War of the Buttons Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jacques Dufilho"
+     },
+     {
+      "@type": "Person",
+      "name": "Yvette Etiévant"
+     },
+     {
+      "@type": "Person",
+      "name": "Michel Galabru"
+     },
+     {
+      "@type": "Person",
+      "name": "Michèle Méritz"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean Richard"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 308,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "War of the Buttons (1962): Comedy/Drama film. Story: For generations, two rival French villages… See cast, TMDB rating 7.2/10, and release date 18 April 1962.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Yves Robert"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/o0vdiPmh1oEpyZ1hSSPnb6tKPRd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10421",
+    "name": "War of the Buttons",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1962-04-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10421"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>War of the Buttons (1962)</h1>\n<p class=\"ssr-lead\">For generations, two rival French villages, Longueverne and Velrans, have been at war. But this is no ordinary conflict, for the on-going hostilities are between two armies of young schoolboys. When he is beaten by his father for having lost his buttons, the leader of the Longueverne army, Lebrac, has an idea which will give his side the advantage: next time, he and his brave soldiers will go in battle without their clothes...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 April 1962</li><li>Runtime: 90 minutes</li><li>Director: Yves Robert</li><li>Genres: Comedy, Drama, Family</li><li>TMDB rating: 7.2/10 (308 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jacques Dufilho as L&#x27;Aztec&#x27;s father</li><li>Yvette Etiévant as Lebrac&#x27;s mother</li><li>Michel Galabru as Bacaillé&#x27;s father</li><li>Michèle Méritz as L&#x27;Aztec&#x27;s mother</li><li>Jean Richard as Lebrac&#x27;s father</li><li>Pierre Tchernia as Bédouin, rural warden</li><li>Pierre Trabaud as Teacher at Longeverne</li><li>Claude Confortès as Nestor, postman</li><li>Paul Crauchet as Touegueule</li><li>Henri Labussière as Countryman</li></ul>\n</article>",
+   "t": "War of the Buttons (1962) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1962"
   },
   "movie:1103621": {
    "d": "How to Make Millions Before Grandma Dies (2024): Drama film. Story: M, a university dropout low on money and luck… See cast, budget $1M, and TMDB rating 8.1/10.",
@@ -1466,6 +1530,198 @@
    "t": "The English Teacher (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
   },
+  "movie:177221": {
+   "d": "The Battery (2012): Drama/Horror film. Story: In rural Connecticut, baseball players Ben and Mickey… See cast, budget $6.0k, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4cjH6b7MGJssyYNNntog1YZZ9CJ.jpg",
+   "industry": "world",
+   "k": "The Battery, The Battery movie, The Battery cast, The Battery story, The Battery box office collection, The Battery budget, The Battery review, The Battery rating, The Battery release date, The Battery Drama, The Battery Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jeremy Gardner"
+     },
+     {
+      "@type": "Person",
+      "name": "Adam Cronheim"
+     },
+     {
+      "@type": "Person",
+      "name": "Niels Bolle"
+     },
+     {
+      "@type": "Person",
+      "name": "Alana O'Brien"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamie Pantanella"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 323,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "The Battery (2012): Drama/Horror film. Story: In rural Connecticut, baseball players Ben and Mickey… See cast, budget $6.0k, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jeremy Gardner"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Drama",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4cjH6b7MGJssyYNNntog1YZZ9CJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=177221",
+    "name": "The Battery",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-10-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=177221"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Battery (2012)</h1>\n<p class=\"ssr-lead\">In rural Connecticut, baseball players Ben and Mickey are trying to survive a zombie plague. They are forced to form a battery: a catcher and a pitcher who work together to outwit the batter, the one who hits the ball. And the batter in this case just happens to be a zombie. Tough Ben and gentle Mickey frequently disagree on the best way to go about the situation. Then they suddenly hear a human voice through their walkie-talkies. Is salvation nearby, like Mickey thinks, or is Ben’s suspicion justified?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 October 2012</li><li>Runtime: 101 minutes</li><li>Director: Jeremy Gardner</li><li>Genres: Drama, Horror</li><li>Budget: $6.0k</li><li>TMDB rating: 6.1/10 (323 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jeremy Gardner as Ben</li><li>Adam Cronheim as Mickey</li><li>Niels Bolle as Jerry</li><li>Alana O&#x27;Brien as Annie</li><li>Jamie Pantanella as Egghead</li><li>Larry Fessenden as Frank</li><li>Kelly McQuade as Laura</li><li>Matt Bacco as Mickey&#x27;s First Kill</li><li>Elise Stella as Fresh Slut Zombie</li><li>Eric Simon as Basement Zombie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Brew</li><li>Rent: Brew</li><li>Buy: Brew</li></ul>\n</article>",
+   "t": "The Battery (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
+  },
+  "movie:20421": {
+   "d": "Rock-A-Doodle (1991): Comedy/Family film. Story: Chanticleer is a foolhardy farm rooster who believes… See cast, budget $18M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9iqygVCxucOpxL4hpHTn4D5BUQR.jpg",
+   "industry": "world",
+   "k": "Rock-A-Doodle, Rock-A-Doodle movie, Rock-A-Doodle cast, Rock-A-Doodle story, Rock-A-Doodle box office collection, Rock-A-Doodle budget, Rock-A-Doodle review, Rock-A-Doodle rating, Rock-A-Doodle release date, Rock-A-Doodle Comedy, Rock-A-Doodle Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Glen Campbell"
+     },
+     {
+      "@type": "Person",
+      "name": "Toby Scott Ganger"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher Plummer"
+     },
+     {
+      "@type": "Person",
+      "name": "Kathryn Holcomb"
+     },
+     {
+      "@type": "Person",
+      "name": "Stan Ivar"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 326,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Rock-A-Doodle (1991): Comedy/Family film. Story: Chanticleer is a foolhardy farm rooster who believes… See cast, budget $18M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Don Bluth"
+     }
+    ],
+    "duration": "PT74M",
+    "genre": [
+     "Comedy",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9iqygVCxucOpxL4hpHTn4D5BUQR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=20421",
+    "name": "Rock-A-Doodle",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1991-08-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=20421"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Rock-A-Doodle (1991)</h1>\n<p class=\"ssr-lead\">Chanticleer is a foolhardy farm rooster who believes his crows can actually make the sun come up and shine. When the sun rises one morning without Chanticleer&#x27;s crow, he leaves the farm in disgrace and runs off to become a rock &#x27;n&#x27; roll singer. But in his absence, a sinister, sunshine-hating owl prepares to take over.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 August 1991</li><li>Runtime: 74 minutes</li><li>Director: Don Bluth</li><li>Genres: Comedy, Family, Animation, Fantasy, Music</li><li>Budget: $18M</li><li>TMDB rating: 6.2/10 (326 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Glen Campbell as Chanticleer / The King (voice)</li><li>Toby Scott Ganger as Edmond</li><li>Christopher Plummer as Grand Duke (voice)</li><li>Kathryn Holcomb as Dory - Mother</li><li>Stan Ivar as Frank - Dad</li><li>Ellen Greene as Goldie (voice)</li><li>Phil Harris as Narrator / Patou (voice)</li><li>Eddie Deezen as Snipes (voice)</li><li>Charles Nelson Reilly as Hunch (voice)</li><li>Sandy Duncan as Peepers (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, MGM+ Amazon Channel, Philo, MGM Plus Roku Premium Channel, MGM Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Rock-A-Doodle (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1991"
+  },
+  "movie:206821": {
+   "d": "The Longest Week (2014): Comedy/Drama film. Story: Left broke and homeless by his wealthy parents'… See cast and TMDB rating 5.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4YA27hPiubhlVIxVtfzbWXLqC7s.jpg",
+   "industry": "world",
+   "k": "The Longest Week, The Longest Week movie, The Longest Week cast, The Longest Week story, The Longest Week box office collection, The Longest Week budget, The Longest Week review, The Longest Week rating, The Longest Week release date, The Longest Week Comedy, The Longest Week Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jason Bateman"
+     },
+     {
+      "@type": "Person",
+      "name": "Olivia Wilde"
+     },
+     {
+      "@type": "Person",
+      "name": "Billy Crudup"
+     },
+     {
+      "@type": "Person",
+      "name": "Jenny Slate"
+     },
+     {
+      "@type": "Person",
+      "name": "Tony Roberts"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 320,
+     "ratingValue": 5.1,
+     "worstRating": 0
+    },
+    "description": "The Longest Week (2014): Comedy/Drama film. Story: Left broke and homeless by his wealthy parents'… See cast and TMDB rating 5.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peter Glanz"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4YA27hPiubhlVIxVtfzbWXLqC7s.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=206821",
+    "name": "The Longest Week",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-09-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=206821"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Longest Week (2014)</h1>\n<p class=\"ssr-lead\">Left broke and homeless by his wealthy parents&#x27; divorce, a young man moves in with an old friend and finally meets the woman of his dreams -- only to discover she&#x27;s already dating his friend.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 September 2014</li><li>Runtime: 86 minutes</li><li>Director: Peter Glanz</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 5.1/10 (320 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jason Bateman as Conrad Valmont</li><li>Olivia Wilde as Beatrice Fairbanks</li><li>Billy Crudup as Dylan Tate</li><li>Jenny Slate as Jocelyn</li><li>Tony Roberts as Barry</li><li>Barry Primus as Bernard the Chauffer</li><li>Laura Clery as Bunny</li><li>William Abadie as Concierge</li><li>Stephen Temperly as Jean-Louis Valmont</li><li>Alexandra Neil as Maribel Valmont</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Longest Week (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:21521": {
    "d": "Project A - Part II (1987): Action/Comedy film. Story: Dragon is now transferred to be the police head of… See cast and TMDB rating 7.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/rvpN5CrzCdwvwlBq0PDvoUYh9WE.jpg",
@@ -1529,6 +1785,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Project A - Part II (1987)</h1>\n<p class=\"ssr-lead\">Dragon is now transferred to be the police head of Sai Wan district, and has to contend with a gangster kingpin, anti-Manchu revolutionaries, some runaway pirates, Manchu Loyalists and a corrupt police superintendent.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 July 1987</li><li>Runtime: 105 minutes</li><li>Director: Jackie Chan</li><li>Genres: Action, Comedy</li><li>TMDB rating: 7.1/10 (364 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jackie Chan as Sgt. Dragon Ma Yue Lung</li><li>Maggie Cheung Man-yuk as Maggie</li><li>Rosamund Kwan Chi-Lam as Ms. Pak</li><li>Carina Lau as Carina</li><li>David Lam Wai as Superintendent Chun</li><li>Bill Tung Biu as Chief Inspector Tung</li><li>Herman Kwan Hoi-san as Captain Chik</li><li>Isabella Wong Man-ying as Winnie Chik</li><li>Regina Kent as Regina</li><li>Tai Bo as Mr. B</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Tencent Video</li></ul>\n</article>",
    "t": "Project A - Part II (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1987"
+  },
+  "movie:22021": {
+   "d": "Coffy (1973): Crime/Thriller film. Story: After her younger sister gets involved in drugs and… See cast, budget $500.0k, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jztSvvmOUEP8V85xadxMRoE5e2O.jpg",
+   "industry": "world",
+   "k": "Coffy, Coffy movie, Coffy cast, Coffy story, Coffy box office collection, Coffy budget, Coffy review, Coffy rating, Coffy release date, Coffy Crime, Coffy Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Pam Grier"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert DoQui"
+     },
+     {
+      "@type": "Person",
+      "name": "Sid Haig"
+     },
+     {
+      "@type": "Person",
+      "name": "Booker Bradshaw"
+     },
+     {
+      "@type": "Person",
+      "name": "William Elliott"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 330,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Coffy (1973): Crime/Thriller film. Story: After her younger sister gets involved in drugs and… See cast, budget $500.0k, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jack Hill"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jztSvvmOUEP8V85xadxMRoE5e2O.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=22021",
+    "name": "Coffy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1973-06-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=22021"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Coffy (1973)</h1>\n<p class=\"ssr-lead\">After her younger sister gets involved in drugs and is severely injured by contaminated heroin, a nurse sets out on a mission of vengeance and vigilante justice, killing drug dealers, pimps, and mobsters who cross her path.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 June 1973</li><li>Runtime: 90 minutes</li><li>Director: Jack Hill</li><li>Genres: Crime, Thriller, Drama</li><li>Budget: $500.0k</li><li>TMDB rating: 6.6/10 (330 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pam Grier as Coffy</li><li>Robert DoQui as King George</li><li>Sid Haig as Omar</li><li>Booker Bradshaw as Howard Brunswick</li><li>William Elliott as Carter Brown</li><li>Allan Arbus as Arturo Vitroni</li><li>Linda Haynes as Meg</li><li>Barry Cahill as McHenry</li><li>Lee de Broux as Nick</li><li>Ruben Moreno as Ramos</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li></ul>\n</article>",
+   "t": "Coffy (1973) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1973"
   },
   "movie:2321": {
    "d": "Married to the Mob (1988): Comedy/Crime film. Story: Angela de Marco is fed up with her gangster husband's… See cast, budget $10M, and TMDB rating 6.0/10.",
@@ -2232,6 +2552,138 @@
    "t": "The Sugarland Express (1974) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1974"
   },
+  "movie:532321": {
+   "d": "Re:ZERO -Starting Life in Another World- Memory Snow (2018): Animation/Adventure film. Story: Subaru finally gets to take a breather, but he does… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/t9ifVuOtSZBvtieF9L83pnHnOcC.jpg",
+   "industry": "world",
+   "k": "Re:ZERO -Starting Life in Another World- Memory Snow, Re:ZERO -Starting Life in Another World- Memory Snow movie, Re:ZERO -Starting Life in Another World- Memory Snow cast, Re:ZERO -Starting Life in Another World- Memory Snow story, Re:ZERO -Starting Life in Another World- Memory Snow box office collection, Re:ZERO -Starting Life in Another World- Memory Snow budget, Re:ZERO -Starting Life in Another World- Memory Snow review, Re:ZERO -Starting Life in Another World- Memory Snow rating, Re:ZERO -Starting Life in Another World- Memory Snow release date, Re:ZERO -Starting Life in Another World- Memory Snow trailer, Re:ZERO -Starting Life in Another World- Memory Snow Animation, Re:ZERO -Starting Life in Another World- Memory Snow Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Yusuke Kobayashi"
+     },
+     {
+      "@type": "Person",
+      "name": "Rie Takahashi"
+     },
+     {
+      "@type": "Person",
+      "name": "Yumi Uchiyama"
+     },
+     {
+      "@type": "Person",
+      "name": "Inori Minase"
+     },
+     {
+      "@type": "Person",
+      "name": "Rie Murakawa"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 330,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Re:ZERO -Starting Life in Another World- Memory Snow (2018): Animation/Adventure film. Story: Subaru finally gets to take a breather, but he does… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tatsuya Koyanagi"
+     },
+     {
+      "@type": "Person",
+      "name": "Masaharu Watanabe"
+     }
+    ],
+    "duration": "PT61M",
+    "genre": [
+     "Animation",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/t9ifVuOtSZBvtieF9L83pnHnOcC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=532321",
+    "name": "Re:ZERO -Starting Life in Another World- Memory Snow",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-10-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=532321"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Re:ZERO -Starting Life in Another World- Memory Snow (2018)</h1>\n<p class=\"ssr-lead\">Subaru finally gets to take a breather, but he does not waste any time as he prepares for a date with his beloved Emilia. He scouts the nearby village for the right dating spot, and with the help of the village children, he finds a wonderful location. With that, he is well prepared for his date! Unfortunately for Subaru, cold weather suddenly sweeps across Roswaal&#x27;s mansion on his important day, leaving him with no choice but to postpone the date. Overnight, it becomes even colder and unbearable. Subaru must get to the bottom of this because, at this rate, his date will be the least of his worries.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 October 2018</li><li>Runtime: 61 minutes</li><li>Director: Tatsuya Koyanagi, Masaharu Watanabe</li><li>Genres: Animation, Adventure, Fantasy</li><li>TMDB rating: 7.4/10 (330 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yusuke Kobayashi as Subaru Natsuki (voice)</li><li>Rie Takahashi as Emilia (voice)</li><li>Yumi Uchiyama as Puck (voice)</li><li>Inori Minase as Rem (voice)</li><li>Rie Murakawa as Ram (voice)</li><li>Satomi Arai as Beatrice (voice)</li><li>Takehito Koyasu as Roswaal L. Mathers (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll Amazon Channel, Anime Times Amazon Channel</li></ul>\n</article>",
+   "t": "Re:ZERO -Starting Life in Another World- Memory Snow (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
+  "movie:542921": {
+   "d": "While at War (2019): Drama/History film. Story: Salamanca, Spain, 1936. In the early days of the… See cast, budget $4.74M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ab2Yq3VoDMy0MoamCUcJq3OIzZY.jpg",
+   "industry": "world",
+   "k": "While at War, While at War movie, While at War cast, While at War story, While at War box office collection, While at War budget, While at War review, While at War rating, While at War release date, While at War Drama, While at War History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Karra Elejalde"
+     },
+     {
+      "@type": "Person",
+      "name": "Eduard Fernández"
+     },
+     {
+      "@type": "Person",
+      "name": "Santi Prego"
+     },
+     {
+      "@type": "Person",
+      "name": "Nathalie Poza"
+     },
+     {
+      "@type": "Person",
+      "name": "Luis Bermejo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 314,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "While at War (2019): Drama/History film. Story: Salamanca, Spain, 1936. In the early days of the… See cast, budget $4.74M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alejandro Amenábar"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ab2Yq3VoDMy0MoamCUcJq3OIzZY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=542921",
+    "name": "While at War",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-09-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=542921"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>While at War (2019)</h1>\n<p class=\"ssr-lead\">Salamanca, Spain, 1936. In the early days of the military rebellion that began the Spanish Civil War (1936-39), writer Miguel de Unamuno supports the uprising in the hope that the prevailing political chaos will end. But when the confrontation becomes bloody, Unamuno must question his initial position.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 September 2019</li><li>Runtime: 108 minutes</li><li>Director: Alejandro Amenábar</li><li>Genres: Drama, History, War</li><li>Budget: $4.74M</li><li>TMDB rating: 7.0/10 (314 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Karra Elejalde as Miguel</li><li>Eduard Fernández as Millán-Astray</li><li>Santi Prego as Franco</li><li>Nathalie Poza as Ana</li><li>Luis Bermejo as Nicolás</li><li>Tito Valverde as Cabanellas</li><li>Patricia López Arnaiz as María</li><li>Inma Cuevas as Felisa</li><li>Carlos Serrano-Clark as Salvador</li><li>Luis Zahera as Atilano</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "While at War (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
   "movie:566221": {
    "d": "The Edge of Democracy (2019): Documentary film. Story: A cautionary tale for these times of democracy in… See cast and TMDB rating 7.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/b8LjR8NjRjrWs6uIfGfrDn0OeI6.jpg",
@@ -2293,6 +2745,70 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Edge of Democracy (2019)</h1>\n<p class=\"ssr-lead\">A cautionary tale for these times of democracy in crisis—the personal and political fuse to explore one of the most dramatic periods in Brazilian history. With unprecedented access to Presidents Dilma Rousseff and Lula da Silva, we witness their rise and fall and the tragically polarized nation that remains.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 January 2019</li><li>Runtime: 121 minutes</li><li>Director: Petra Costa</li><li>Genres: Documentary</li><li>TMDB rating: 7.7/10 (391 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dilma Rousseff as Self</li><li>Luiz Inácio Lula da Silva as Self</li><li>Michel Temer as Self</li><li>Eduardo Cunha as Self</li><li>Jair Bolsonaro as Self</li><li>Sérgio Moro as Self</li><li>Paulo Maluf as Self</li><li>Jean Wyllys as Self</li><li>Aécio Neves as Self</li><li>Gilberto Carvalho as Himself</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "The Edge of Democracy (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
+  "movie:574321": {
+   "d": "Only the Animals (2019): Drama/Crime film. Story: Following the disappearance of the glamorous and… See cast, budget $5M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/gKs2sjPNlk72CiWjFf1XTbpZLNR.jpg",
+   "industry": "world",
+   "k": "Only the Animals, Only the Animals movie, Only the Animals cast, Only the Animals story, Only the Animals box office collection, Only the Animals budget, Only the Animals review, Only the Animals rating, Only the Animals release date, Only the Animals trailer, Only the Animals Drama, Only the Animals Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Denis Ménochet"
+     },
+     {
+      "@type": "Person",
+      "name": "Laure Calamy"
+     },
+     {
+      "@type": "Person",
+      "name": "Damien Bonnard"
+     },
+     {
+      "@type": "Person",
+      "name": "Nadia Tereszkiewicz"
+     },
+     {
+      "@type": "Person",
+      "name": "Bastien Bouillon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 340,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Only the Animals (2019): Drama/Crime film. Story: Following the disappearance of the glamorous and… See cast, budget $5M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Dominik Moll"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gKs2sjPNlk72CiWjFf1XTbpZLNR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=574321",
+    "name": "Only the Animals",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-12-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=574321"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Only the Animals (2019)</h1>\n<p class=\"ssr-lead\">Following the disappearance of the glamorous and secretive Evelyne Ducat during a blizzard in the highlands of southern France, the lives of five people inextricably linked to Evelyne are brought together to devastating effect as the local police investigate the case.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 December 2019</li><li>Runtime: 116 minutes</li><li>Director: Dominik Moll</li><li>Genres: Drama, Crime</li><li>Budget: $5M</li><li>TMDB rating: 6.7/10 (340 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Denis Ménochet as Michel Farange</li><li>Laure Calamy as Alice Farange, Michel&#x27;s wife</li><li>Damien Bonnard as Joseph Bonnefille, isolated farmer</li><li>Nadia Tereszkiewicz as Marion, young lover</li><li>Bastien Bouillon as Gendarme Cédric Vigier</li><li>Valeria Bruni Tedeschi as Evelyne Ducat</li><li>Jenny Bellay as Madame Calvet</li><li>Fred Ulysse as Alice&#x27;s father</li><li>Roland Plantin as Guillaume Ducat</li><li>Colin Niel as Cooperative seller</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Cohen Media Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Only the Animals (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
   "movie:588921": {
@@ -2427,6 +2943,198 @@
    "t": "Cyberbully (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
   },
+  "movie:720321": {
+   "d": "Breathe (2024): Action/Science Fiction film. Story: Air-supply is scarce in the near future, forcing a… See cast and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/v2oPRCnWADeQhEAAUKD7DfMdScP.jpg",
+   "industry": "world",
+   "k": "Breathe, Breathe movie, Breathe cast, Breathe story, Breathe box office collection, Breathe budget, Breathe review, Breathe rating, Breathe release date, Breathe trailer, Breathe Action, Breathe Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jennifer Hudson"
+     },
+     {
+      "@type": "Person",
+      "name": "Milla Jovovich"
+     },
+     {
+      "@type": "Person",
+      "name": "Quvenzhané Wallis"
+     },
+     {
+      "@type": "Person",
+      "name": "Common"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Worthington"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 310,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Breathe (2024): Action/Science Fiction film. Story: Air-supply is scarce in the near future, forcing a… See cast and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stefon Bristol"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Action",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/v2oPRCnWADeQhEAAUKD7DfMdScP.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=720321",
+    "name": "Breathe",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-04-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=720321"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Breathe (2024)</h1>\n<p class=\"ssr-lead\">Air-supply is scarce in the near future, forcing a mother and daughter to fight for survival when two strangers arrive desperate for an oxygenated haven.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 April 2024</li><li>Runtime: 93 minutes</li><li>Director: Stefon Bristol</li><li>Genres: Action, Science Fiction, Mystery, Thriller</li><li>TMDB rating: 5.6/10 (310 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jennifer Hudson as Maya</li><li>Milla Jovovich as Tess</li><li>Quvenzhané Wallis as Zora</li><li>Common as Darius</li><li>Sam Worthington as Lucas</li><li>Raúl Castillo as Micah</li><li>James Saito as Man</li><li>Dan Martin as Mike</li><li>James Saito as The Man</li><li>Sonya Giddings as Lady (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li></ul>\n</article>",
+   "t": "Breathe (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
+  },
+  "movie:77221": {
+   "d": "Black Gold (2011): Adventure/Drama film. Story: On the Arabian Peninsula in the 1930s, two warring… See cast, budget $40M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/krkiarKAcnw9dSFpxf9qfJWSuu3.jpg",
+   "industry": "world",
+   "k": "Black Gold, Black Gold movie, Black Gold cast, Black Gold story, Black Gold box office collection, Black Gold budget, Black Gold review, Black Gold rating, Black Gold release date, Black Gold trailer, Black Gold Adventure, Black Gold Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mark Strong"
+     },
+     {
+      "@type": "Person",
+      "name": "Antonio Banderas"
+     },
+     {
+      "@type": "Person",
+      "name": "Freida Pinto"
+     },
+     {
+      "@type": "Person",
+      "name": "Tahar Rahim"
+     },
+     {
+      "@type": "Person",
+      "name": "Riz Ahmed"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 325,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Black Gold (2011): Adventure/Drama film. Story: On the Arabian Peninsula in the 1930s, two warring… See cast, budget $40M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jean-Jacques Annaud"
+     }
+    ],
+    "duration": "PT130M",
+    "genre": [
+     "Adventure",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/krkiarKAcnw9dSFpxf9qfJWSuu3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=77221",
+    "name": "Black Gold",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-12-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=77221"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Black Gold (2011)</h1>\n<p class=\"ssr-lead\">On the Arabian Peninsula in the 1930s, two warring leaders come face to face. The victorious Nesib, Emir of Hobeika, lays down his peace terms to rival Amar, Sultan of Salmaah. The two men agree that neither can lay claim to the area of no man’s land between them called The Yellow Belt. In return, Nesib adopts Amar’s two boys Saleeh and Auda as a guarantee against invasion. Twelve years later, Saleeh and Auda have grown into young men. Saleeh, the warrior, itches to escape his gilded cage and return to his father’s land. Auda cares only for books and the pursuit of knowledge. One day, their adopted father Nesib is visited by an American from Texas. He tells the Emir that his land is blessed with oil and promises him riches beyond his wildest imagination. Nesib imagines a realm of infinite possibility, a kingdom with roads, schools and hospitals all paid for by the black gold beneath the barren sand. There is only one problem. The precious oil is located in the Yellow Belt.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 December 2011</li><li>Runtime: 130 minutes</li><li>Director: Jean-Jacques Annaud</li><li>Genres: Adventure, Drama</li><li>Budget: $40M</li><li>TMDB rating: 6.5/10 (325 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mark Strong as Sultan Amar</li><li>Antonio Banderas as Emir Nesib</li><li>Freida Pinto as Leyla</li><li>Tahar Rahim as Auda</li><li>Riz Ahmed as Ali</li><li>Lotfi Dziri as Sheikh of Bani Sirri</li><li>Liya Kebede as Aicha</li><li>Corey Johnson as Thurkettle</li><li>Akin Gazi as Saleh</li><li>Ériq Ebouaney as Hassan Dakhil</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Black Gold (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
+  "movie:774021": {
+   "d": "Demonic (2021): Drama/Horror film. Story: A young woman unleashes terrifying demons when… See cast, TMDB rating 4.8/10, and release date 29 July 2021.",
+   "img": "https://image.tmdb.org/t/p/w780/tFBVXnqmsmoSFR3rbltTfdGIMgV.jpg",
+   "industry": "world",
+   "k": "Demonic, Demonic movie, Demonic cast, Demonic story, Demonic box office collection, Demonic budget, Demonic review, Demonic rating, Demonic release date, Demonic trailer, Demonic Drama, Demonic Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Carly Pope"
+     },
+     {
+      "@type": "Person",
+      "name": "Nathalie Boltt"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris William Martin"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael J. Rogers"
+     },
+     {
+      "@type": "Person",
+      "name": "Kandyse McClure"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 313,
+     "ratingValue": 4.8,
+     "worstRating": 0
+    },
+    "description": "Demonic (2021): Drama/Horror film. Story: A young woman unleashes terrifying demons when… See cast, TMDB rating 4.8/10, and release date 29 July 2021.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Neill Blomkamp"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Drama",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tFBVXnqmsmoSFR3rbltTfdGIMgV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=774021",
+    "name": "Demonic",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-07-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=774021"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Demonic (2021)</h1>\n<p class=\"ssr-lead\">A young woman unleashes terrifying demons when supernatural forces at the root of a decades-old rift between mother and daughter are ruthlessly revealed.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 July 2021</li><li>Runtime: 104 minutes</li><li>Director: Neill Blomkamp</li><li>Genres: Drama, Horror, Science Fiction</li><li>TMDB rating: 4.8/10 (313 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Carly Pope as Carly</li><li>Nathalie Boltt as Angela</li><li>Chris William Martin as Martin</li><li>Michael J. Rogers as Michael</li><li>Kandyse McClure as Sam</li><li>Terry Chen as Daniel</li><li>Jason Tremblay as Officer Derry</li><li>Quinton Boisclair as Demon</li><li>Andrea Agur as Cashier</li><li>Mavourneen Varcoe-Ryan as Customer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Demonic (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
   "movie:930921": {
    "d": "Strangeness (2022): Comedy/History film. Story: During a trip to Sicily in 1920, Luigi Pirandello… See cast and TMDB rating 6.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/pJyGcGcoIEsEXrWxUjoEaUOpRyG.jpg",
@@ -2490,6 +3198,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Strangeness (2022)</h1>\n<p class=\"ssr-lead\">During a trip to Sicily in 1920, Luigi Pirandello meets two gravediggers-turned-playwrights rehearsing a play with their amateur dramatics. Pirandello takes an interest in the odd couple, having been suffering from writer&#x27;s block while working on his eventual masterpiece, Six Characters in Search of an Author.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 October 2022</li><li>Runtime: 103 minutes</li><li>Director: Roberto Andò</li><li>Genres: Comedy, History, Drama</li><li>TMDB rating: 6.9/10 (367 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Toni Servillo as Luigi Pirandello</li><li>Salvatore Ficarra as Onofrio &quot;Nofrio&quot; Principato</li><li>Valentino Picone as Sebastiano &quot;Bastiano&quot; Vella</li><li>Giulia Andò as Santina</li><li>Rosario Lisma as Mimmo Casà</li><li>Donatella Finocchiaro as La balia</li><li>Aurora Quattrocchi as Maria Antonietta Portolano</li><li>Galatea Ranzi as La madre</li><li>Fausto Russo Alesi as Il padre</li><li>Filippo Luna as Il direttore di scena</li></ul>\n</article>",
    "t": "Strangeness (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:9821": {
+   "d": "The Mighty (1998): Drama/Comedy film. Story: Kevin, an intelligent guy helps out Maxwell to… See cast, TMDB rating 7.2/10, and release date 30 October 1998.",
+   "img": "https://image.tmdb.org/t/p/w780/wq41s88t8TUNDWWhpZQ65P4OhP8.jpg",
+   "industry": "world",
+   "k": "The Mighty, The Mighty movie, The Mighty cast, The Mighty story, The Mighty box office collection, The Mighty budget, The Mighty review, The Mighty rating, The Mighty release date, The Mighty Drama, The Mighty Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sharon Stone"
+     },
+     {
+      "@type": "Person",
+      "name": "Elden Henson"
+     },
+     {
+      "@type": "Person",
+      "name": "Kieran Culkin"
+     },
+     {
+      "@type": "Person",
+      "name": "Gena Rowlands"
+     },
+     {
+      "@type": "Person",
+      "name": "Harry Dean Stanton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 308,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "The Mighty (1998): Drama/Comedy film. Story: Kevin, an intelligent guy helps out Maxwell to… See cast, TMDB rating 7.2/10, and release date 30 October 1998.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peter Chelsom"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wq41s88t8TUNDWWhpZQ65P4OhP8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9821",
+    "name": "The Mighty",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1998-10-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9821"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Mighty (1998)</h1>\n<p class=\"ssr-lead\">Kevin, an intelligent guy helps out Maxwell to improve his reading skills. In return, Kevin wants Maxwell to take him out places since he is not authorized to go out. Being the social outcasts of the town, Kevin and Maxwell come to realize that they are similar to each other and accept that they are &quot;freaks&quot; and nothing will stop them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 October 1998</li><li>Runtime: 100 minutes</li><li>Director: Peter Chelsom</li><li>Genres: Drama, Comedy</li><li>TMDB rating: 7.2/10 (308 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sharon Stone as Gwen Dillon</li><li>Elden Henson as Maxwell &quot;Max&quot; Kane</li><li>Kieran Culkin as Kevin &quot;Freak&quot; Dillon</li><li>Gena Rowlands as Gram</li><li>Harry Dean Stanton as Grim</li><li>Meat Loaf as Iggy</li><li>Jenifer Lewis as Mrs. Addison</li><li>Dov Tiefenbach as Doghouse Boy #1</li><li>Michael Colton as Doghouse Boy #2</li><li>Daniel Lee as Doghouse Boy #3</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Mighty (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1998"
   },
   "movie:996821": {
    "d": "You're Cordially Invited (2025): Comedy/Romance film. Story: When two weddings are accidentally booked on the same… See cast and TMDB rating 5.8/10.",

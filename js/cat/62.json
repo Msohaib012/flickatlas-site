@@ -1,7 +1,101 @@
 {
  "bucket": "62",
- "count": 51,
+ "count": 61,
  "titles": {
+  "movie:1000862": {
+   "backdrop_path": "/1SO3YnpeZB4kSBpv4IgT88dBiE8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Julien",
+     "n": "François Civil"
+    },
+    {
+     "c": "Walid",
+     "n": "Shaïn Boumedine"
+    },
+    {
+     "c": "Leslie",
+     "n": "Toscane Duquesne"
+    },
+    {
+     "c": "Océane",
+     "n": "Mallory Wanecque"
+    },
+    {
+     "c": "Modibo",
+     "n": "Bakary Kebe"
+    },
+    {
+     "c": "Roxana",
+     "n": "Marianne Ehouman"
+    },
+    {
+     "c": "Erica",
+     "n": "Luna Ho Poumey"
+    },
+    {
+     "c": "Sihem",
+     "n": "Emma Boumali"
+    },
+    {
+     "c": "Theo",
+     "n": "Estevan Marchenoir"
+    },
+    {
+     "c": "Mohamed-Amine",
+     "n": "Atik Jawed"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Teddy Lussi-Modeste"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1000862,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Julien, a young teacher, is wrongfully accused of sexual misconduct by a teenage girl from his class. As he faces mounting pressures from the girl’s older brother and her classmates, the situation spirals out of control. Allegations spread, the entire school is thrown into turmoil, and the teacher has to fight to clear his name.",
+   "popularity": 1.0098,
+   "poster_path": "/haqfplSRnIwO8ha5tKOxwnG1sxP.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2024-03-27",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Good Teacher",
+   "trailer": {
+    "key": "5wa67QkhH1s",
+    "name": "The Good Teacher / Pas de vagues (2024) - Trailer (English Subs)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 326
+  },
   "movie:10162": {
    "backdrop_path": "/et3pBXfI1Q1fb7kLwZIoW7CYQgh.jpg",
    "budget": 3000000,
@@ -382,6 +476,109 @@
    "type": "movie",
    "vote_average": 5.977,
    "vote_count": 345
+  },
+  "movie:1154762": {
+   "backdrop_path": "/7QZCkr6hvQM0PDqsAOguUqOETNt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Katie",
+     "n": "Carrie Coon"
+    },
+    {
+     "c": "Rachel",
+     "n": "Natasha Lyonne"
+    },
+    {
+     "c": "Christina",
+     "n": "Elizabeth Olsen"
+    },
+    {
+     "c": "Vincent",
+     "n": "Jay O. Sanders"
+    },
+    {
+     "c": "Benji",
+     "n": "Jovan Adepo"
+    },
+    {
+     "c": "Angel",
+     "n": "Rudy Galvan"
+    },
+    {
+     "c": "Victor",
+     "n": "Jose Febus"
+    },
+    {
+     "c": "Parent",
+     "n": "Randy Ramos Jr."
+    },
+    {
+     "c": "Nurse",
+     "n": "Jasmine Bracey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Azazel Jacobs"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1154762,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Emotions run high when three estranged sisters reunite in a cramped New York City apartment to watch over their ailing father during his final days.",
+   "popularity": 2.0821,
+   "poster_path": "/yTIHBPLQyzhgz1c2spak3btJxsg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-09-05",
+   "revenue": 0,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "His Three Daughters",
+   "trailer": {
+    "key": "K0jwAP2fS1E",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.787,
+   "vote_count": 329
   },
   "movie:1162": {
    "backdrop_path": "/5bvQEihHBKJ0Rs1J46HcG0wASDr.jpg",
@@ -2281,6 +2478,166 @@
    "vote_average": 6.888,
    "vote_count": 480
   },
+  "movie:17962": {
+   "backdrop_path": "/pXOsdvH4xuprxGmZMiCJsRAowi7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Takashi Mochizuki",
+     "n": "Arata Iura"
+    },
+    {
+     "c": "Shiori Satonaka",
+     "n": "Erika Oda"
+    },
+    {
+     "c": "Satoru Kawashima",
+     "n": "Susumu Terajima"
+    },
+    {
+     "c": "Takuro Sugie",
+     "n": "Takashi Naito"
+    },
+    {
+     "c": "Kennosuke Nakamura",
+     "n": "Kei Tani"
+    },
+    {
+     "c": "Kyoko Watanabe",
+     "n": "Kyōko Kagawa"
+    },
+    {
+     "c": "Gisuke Shoda",
+     "n": "Tōru Yuri"
+    },
+    {
+     "c": "Yusuke Iseya",
+     "n": "Yusuke Iseya"
+    },
+    {
+     "c": "Kana Yoshino",
+     "n": "Sayaka Yoshino"
+    },
+    {
+     "c": "Nobuko Amano",
+     "n": "Kazuko Shirakawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Hirokazu Kore-eda"
+   ],
+   "genres": [
+    "Fantasy",
+    "Drama"
+   ],
+   "id": 17962,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "On a cold Monday morning, a group of counselors clock in at an old-fashioned social services office. Their task is to interview the recently deceased, record their personal details, then, over the course of the week, assist them in choosing a single memory to keep for eternity.",
+   "popularity": 3.1828,
+   "poster_path": "/bs2M1hqAQl5LeAOPPRV4drwouZS.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1999-04-17",
+   "revenue": 0,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "What is the one memory you would take with you?",
+   "title": "After Life",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.239,
+   "vote_count": 309
+  },
   "movie:183662": {
    "backdrop_path": "/dPGn9ONgU9vYuViebCoBdHGDbHc.jpg",
    "budget": 0,
@@ -2991,6 +3348,437 @@
    "vote_average": 7.752,
    "vote_count": 497
   },
+  "movie:31662": {
+   "backdrop_path": "/hNNlrvbqYqAPGRf4cCsrF3kBsM1.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Wade Whitehouse",
+     "n": "Nick Nolte"
+    },
+    {
+     "c": "Margie Fogg",
+     "n": "Sissy Spacek"
+    },
+    {
+     "c": "Glen Whitehouse",
+     "n": "James Coburn"
+    },
+    {
+     "c": "Rolfe Whitehouse",
+     "n": "Willem Dafoe"
+    },
+    {
+     "c": "Lillian",
+     "n": "Mary Beth Hurt"
+    },
+    {
+     "c": "Jack Hewitt",
+     "n": "Jim True-Frost"
+    },
+    {
+     "c": "Alma Pittman",
+     "n": "Marian Seldes"
+    },
+    {
+     "c": "Gordon LaRiviere",
+     "n": "Holmes Osborne"
+    },
+    {
+     "c": "Jill",
+     "n": "Brigid Tierney"
+    },
+    {
+     "c": "Evan Twombley",
+     "n": "Sean McCann"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Paul Schrader"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 31662,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A small town policeman must investigate a suspicious hunting accident. The investigation and other events result in him slowly disintegrating mentally.",
+   "popularity": 1.9983,
+   "poster_path": "/hNu8ePwoRyXDQxhLY4iurCVXAQs.jpg",
+   "production_countries": [
+    "US",
+    "CA",
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1998-02-12",
+   "revenue": 6330054,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Like father like son...?",
+   "title": "Affliction",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.317,
+   "vote_count": 339
+  },
+  "movie:335462": {
+   "backdrop_path": "/zUmcuYkAbbl5YX4wabqdKLWSBlZ.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Leng Feng",
+     "n": "Wu Jing"
+    },
+    {
+     "c": "Tom Cat",
+     "n": "Scott Adkins"
+    },
+    {
+     "c": "Long Xiaoyun",
+     "n": "Yu Nan"
+    },
+    {
+     "c": "Min Deng",
+     "n": "Ni Dahong"
+    },
+    {
+     "c": "Shi Qingsong",
+     "n": "Shi Zhaoqi"
+    },
+    {
+     "c": "Wu Ji",
+     "n": "Zhou Xiaoou"
+    },
+    {
+     "c": "Crazy Bull",
+     "n": "Kevin Lee"
+    },
+    {
+     "c": "Li Zhijun",
+     "n": "Ma Dongyan"
+    },
+    {
+     "c": "Hostage",
+     "n": "Fang Zibin"
+    },
+    {
+     "c": "38Shi",
+     "n": "Wang Sen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Wu Jing"
+   ],
+   "genres": [
+    "Action",
+    "War"
+   ],
+   "id": 335462,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "A Chinese special force soldier with extraordinary marksmanship is confronted by a group of deadly foreign mercenaries who are hired to assassinate him by a vicious drug lord.",
+   "popularity": 2.4925,
+   "poster_path": "/9tGyxJcPUQclngSCcT18oEs80Yn.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Hi-YAH"
+    },
+    {
+     "name": "ViX Premium Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "Hi-YAH Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/VSkdYiq9YA34Oaucl2Ga0dBL11.png",
+     "name": "Hi-YAH",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+     "name": "ViX Premium Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mlciWnmFopns3WZGENR6ZZoNnZO.png",
+     "name": "Hi-YAH Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-04-02",
+   "revenue": 89911331,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Wolf Warrior",
+   "trailer": {
+    "key": "ec7LY8dLYSc",
+    "name": "WOLF WARRIOR (2015) Official Trailer | Well Go USA",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.241,
+   "vote_count": 307
+  },
   "movie:381262": {
    "backdrop_path": "/rSWv4coph16vM5yOaOFXE1Y6qgY.jpg",
    "budget": 0,
@@ -3111,6 +3899,95 @@
    "type": "movie",
    "vote_average": 6.752,
    "vote_count": 341
+  },
+  "movie:38262": {
+   "backdrop_path": "/dgg7NFl5wgmiNeNaF6cqV4ok0kQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Evaristo Mazzetti, prima addetto alle pulizie e poi commesso del reparto sanitari",
+     "n": "Enrico Montesano"
+    },
+    {
+     "c": "Detenuto Turati / Robot",
+     "n": "Paolo Villaggio"
+    },
+    {
+     "c": "Marco Salviati, attore pubblicitario",
+     "n": "Nino Manfredi"
+    },
+    {
+     "c": "Nicola Patecola da Cerignola, il mendicante",
+     "n": "Lino Banfi"
+    },
+    {
+     "c": "Fausto Valsecchi, addetto alle consegne",
+     "n": "Renato Pozzetto"
+    },
+    {
+     "c": "Antonio Borazzi, culturista e vincitore del buono premio di 500.000 lire",
+     "n": "Christian De Sica"
+    },
+    {
+     "c": "Corrado Minozzi, capo della sorveglianza",
+     "n": "Massimo Boldi"
+    },
+    {
+     "c": "Armando Venturini detto \"Gratta-Gratta Amico Mio\", ladro di biciclette",
+     "n": "Teo Teocoli"
+    },
+    {
+     "c": "Detenuto Nardini / Piazzista del Robot",
+     "n": "Gigi Reder"
+    },
+    {
+     "c": "Simoni, agente teatrale",
+     "n": "Leo Gullotta"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Castellano",
+    "Pipolo"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 38262,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A series of skits involving customers and store personnel from several departments of the big department store.",
+   "popularity": 0.692,
+   "poster_path": "/aNGOictqiSNtnXufFARxydvXGtC.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1986-06-06",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Department Store",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.841,
+   "vote_count": 328
   },
   "movie:41662": {
    "backdrop_path": "/pTmMEIW2cyOkcSRkWTCDEbd5if0.jpg",
@@ -3689,6 +4566,294 @@
    "vote_average": 6.0,
    "vote_count": 492
   },
+  "movie:467062": {
+   "backdrop_path": "/fHM3ChEYaoAEcCCpRokQzN2DBYy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Steven Spielberg"
+    },
+    {
+     "c": "Self",
+     "n": "Martin Scorsese"
+    },
+    {
+     "c": "Self",
+     "n": "Richard Dreyfuss"
+    },
+    {
+     "c": "Self",
+     "n": "Francis Ford Coppola"
+    },
+    {
+     "c": "Self",
+     "n": "Tom Hanks"
+    },
+    {
+     "c": "Self",
+     "n": "J.J. Abrams"
+    },
+    {
+     "c": "Self",
+     "n": "Leonardo DiCaprio"
+    },
+    {
+     "c": "Self",
+     "n": "Cate Blanchett"
+    },
+    {
+     "c": "Self",
+     "n": "Drew Barrymore"
+    },
+    {
+     "c": "Self",
+     "n": "Daniel Craig"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Susan Lacy"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 467062,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A documentary on the life and career of one of the most influential film directors of all time, Steven Spielberg.",
+   "popularity": 1.648,
+   "poster_path": "/2AAvIR2PHoxNITgLDOkXXlWLlua.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-10-05",
+   "revenue": 0,
+   "runtime": 147,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Direct from the heart",
+   "title": "Spielberg",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.5,
+   "vote_count": 317
+  },
+  "movie:468362": {
+   "backdrop_path": "/hrPM6KM36D0NhcEGL9t76tHG2XP.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Ashraf Marwan",
+     "n": "Marwan Kenzari"
+    },
+    {
+     "c": "Danny Ben Aroya",
+     "n": "Toby Kebbell"
+    },
+    {
+     "c": "Diana Davis",
+     "n": "Hannah Ware"
+    },
+    {
+     "c": "Gamal Abdel Nasser",
+     "n": "Waleed Zuaiter"
+    },
+    {
+     "c": "Mona Marwan",
+     "n": "Maisa Abd Elhadi"
+    },
+    {
+     "c": "Anwar Sadat",
+     "n": "Sasson Gabai"
+    },
+    {
+     "c": "Zvi Zamir",
+     "n": "Ori Pfeffer"
+    },
+    {
+     "c": "Sami Sharaf",
+     "n": "Slimane Dazi"
+    },
+    {
+     "c": "Souad",
+     "n": "Sapir Azulay"
+    },
+    {
+     "c": "Natalie Ben Aroya",
+     "n": "Mali Levi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Ariel Vromen"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "History",
+    "Thriller",
+    "War"
+   ],
+   "id": 468362,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "True story of Ashraf Marwan, who was President Nasser's son-in-law and special adviser and confidant to his successor Anwar Sadat - while simultaneously Israeli Intelligence's most precious asset of the 20th century. Based on NYT bestselling book 'The Angel: The Egyptian Spy Who Saved Israel' by Uri Bar-Joseph.",
+   "popularity": 1.6084,
+   "poster_path": "/d5vBixJD1coOvHvr8N2pbyffxFU.jpg",
+   "production_countries": [
+    "US",
+    "BG",
+    "GB",
+    "IL",
+    "MA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-05-15",
+   "revenue": 0,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "he",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Angel",
+   "trailer": {
+    "key": "z0q2WbXQWbw",
+    "name": "The Angel | Official Trailer [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 338
+  },
   "movie:481762": {
    "backdrop_path": "/bmEg1mKCTieMba1KGIXQbQ0TTpF.jpg",
    "budget": 0,
@@ -4137,6 +5302,148 @@
    "vote_average": 6.296,
    "vote_count": 385
   },
+  "movie:73262": {
+   "backdrop_path": "/hYJOPAcO60cSNaWqzE815PgdsTz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marie",
+     "n": "Hannah Herzsprung"
+    },
+    {
+     "c": "Phillip",
+     "n": "Lars Eidinger"
+    },
+    {
+     "c": "Tom",
+     "n": "Stipe Erceg"
+    },
+    {
+     "c": "Leonie",
+     "n": "Lisa Vicari"
+    },
+    {
+     "c": "Bäuerin Elisabeth",
+     "n": "Angela Winkler"
+    },
+    {
+     "c": "Micha",
+     "n": "Yoann Blanc"
+    },
+    {
+     "c": "Bauer Brückner",
+     "n": "Christoph Gaugler"
+    },
+    {
+     "c": "Oma",
+     "n": "Ellen Schweiger"
+    },
+    {
+     "c": "Jens",
+     "n": "Luca Winkler"
+    },
+    {
+     "c": "Toni",
+     "n": "Tammo Winkler"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tim Fehlbaum"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 73262,
+   "industry": "world",
+   "origin_country": [
+    "DE",
+    "CH"
+   ],
+   "original_language": "de",
+   "overview": "In 2016 the sun has turned the entire world into a scorched and barren wasteland. The humans who have survived are either resourceful or violent, and sometimes both. Marie, her little sister Leonie, and best friend Phillip, are in a car headed to the mountains - rumor has it there is water there. Along the way they meet Tom, a first-rate mechanic. But can they trust him? Fraught with deep distrust, the group is lured into an ambush where their real battle for survival begins.",
+   "popularity": 1.3037,
+   "poster_path": "/rJulOgsQxehjHhAdhIi9SgLLFHC.jpg",
+   "production_countries": [
+    "DE",
+    "CH"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-09-20",
+   "revenue": 1359257,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "What gave us our beginning, will lead to our end.",
+   "title": "Hell",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 319
+  },
   "movie:790462": {
    "backdrop_path": "/uNVm7P02IDiYsi9lul0aJ0lROBL.jpg",
    "budget": 13800000,
@@ -4426,6 +5733,228 @@
    "type": "movie",
    "vote_average": 6.4,
    "vote_count": 430
+  },
+  "movie:832262": {
+   "backdrop_path": "/13IumZY7wLHnKzqANfyPhYW7wxk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Aaron Falk",
+     "n": "Eric Bana"
+    },
+    {
+     "c": "Alice",
+     "n": "Anna Torv"
+    },
+    {
+     "c": "Jill Bailey",
+     "n": "Deborra-Lee Furness"
+    },
+    {
+     "c": "Lauren",
+     "n": "Robin McLeavy"
+    },
+    {
+     "c": "Beth",
+     "n": "Sisi Stringer"
+    },
+    {
+     "c": "Bree",
+     "n": "Lucy Ansell"
+    },
+    {
+     "c": "Carmen Cooper",
+     "n": "Jacqueline McKenzie"
+    },
+    {
+     "c": "Erik Falk",
+     "n": "Jeremy Lindsay Taylor"
+    },
+    {
+     "c": "Daniel Bailey",
+     "n": "Richard Roxburgh"
+    },
+    {
+     "c": "Ian Chase",
+     "n": "Tony Briggs"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Robert Connolly"
+   ],
+   "genres": [
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 832262,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "When five women take part in a corporate hiking retreat and only four come out on the other side, Federal Agents Aaron Falk and Carmen Cooper head deep into the Victorian mountain ranges to investigate in the hopes of finding their whistle-blowing informant, Alice Russell, alive.",
+   "popularity": 2.3625,
+   "poster_path": "/sw4M0jLT04FM1p3C2XQ3il50wgV.jpg",
+   "production_countries": [
+    "AU",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-02-08",
+   "revenue": 5786313,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The forest holds more than one secret.",
+   "title": "Force of Nature: The Dry 2",
+   "trailer": {
+    "key": "jKJtl3Qu7kU",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.268,
+   "vote_count": 306
   },
   "movie:881462": {
    "backdrop_path": "/jOqGCRHZ2Hea2mPH2IOkMabmdw5.jpg",

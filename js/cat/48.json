@@ -1,6 +1,6 @@
 {
  "bucket": "48",
- "count": 49,
+ "count": 55,
  "titles": {
   "movie:10348": {
    "backdrop_path": "/4B5L3OQsta7N7qr08yRS44ESIKK.jpg",
@@ -277,6 +277,134 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 162
+  },
+  "movie:11148": {
+   "backdrop_path": "/w1USmlLq33AkiAEIry7k0Hy5GsE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alex",
+     "n": "Inés Efrón"
+    },
+    {
+     "c": "Álvaro",
+     "n": "Martín Piroyansky"
+    },
+    {
+     "c": "Kraken",
+     "n": "Ricardo Darín"
+    },
+    {
+     "c": "Suli",
+     "n": "Valeria Bertuccelli"
+    },
+    {
+     "c": "Ramiro",
+     "n": "Germán Palacios"
+    },
+    {
+     "c": "Erika",
+     "n": "Carolina Peleritti"
+    },
+    {
+     "c": "Juan",
+     "n": "Guillermo Angelelli"
+    },
+    {
+     "c": "Washington",
+     "n": "César Troncoso"
+    },
+    {
+     "c": "Esteban",
+     "n": "Jean Pierre Reguerraz"
+    },
+    {
+     "c": "Roberta",
+     "n": "Ailín Salas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA15+",
+   "date_kind": "release",
+   "director": [
+    "Lucía Puenzo"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 11148,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "ES",
+    "AR"
+   ],
+   "original_language": "es",
+   "overview": "Alex, an intersexed 15-year-old, is living as a girl, but she and her family begin to wonder whether she's emotionally a boy when another teenager's sexual advances bring the issue to a head. As Alex faces a final decision regarding her gender, she meets both hostility and compassion.",
+   "popularity": 1.806,
+   "poster_path": "/4sgoignnXhqjxepHBi2inLFLhSz.jpg",
+   "production_countries": [
+    "AR",
+    "ES",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "JustWatch TV Plus"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png",
+     "name": "JustWatch TV Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-06-14",
+   "revenue": 2728869,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Our sex makes us men and women ...or both",
+   "title": "XXY",
+   "trailer": {
+    "key": "cWcyZDMm1rE",
+    "name": "XXY (2007) | Trailer | Ricardo Darín | Valeria Bertuccelli | Germán Palacios",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.834,
+   "vote_count": 335
   },
   "movie:1119548": {
    "backdrop_path": "/sq4KQ8CXOFr02KI2XWIZvkpJXui.jpg",
@@ -2696,6 +2824,100 @@
    "vote_average": 7.237,
    "vote_count": 352
   },
+  "movie:282848": {
+   "backdrop_path": "/1a1ZpkbE5IkjWnALugYjiU2qij3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "The Doctor (11)",
+     "n": "Matt Smith"
+    },
+    {
+     "c": "Clara Oswald",
+     "n": "Jenna Coleman"
+    },
+    {
+     "c": "The Doctor (12)",
+     "n": "Peter Capaldi"
+    },
+    {
+     "c": "Amy Pond",
+     "n": "Karen Gillan"
+    },
+    {
+     "c": "Tasha Lem",
+     "n": "Orla Brady"
+    },
+    {
+     "c": "Handles (voice)",
+     "n": "Kayvan Novak"
+    },
+    {
+     "c": "Daleks / Cybermen (voice)",
+     "n": "Nicholas Briggs"
+    },
+    {
+     "c": "Sontaran",
+     "n": "Dan Starkey"
+    },
+    {
+     "c": "Weeping Angel",
+     "n": "Sarah Louise Madison"
+    },
+    {
+     "c": "Silent",
+     "n": "Ross Mullan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Jamie Payne"
+   ],
+   "genres": [
+    "Drama",
+    "Science Fiction",
+    "TV Movie"
+   ],
+   "id": 282848,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Orbiting a quiet backwater planet, the massed forces of the universe's deadliest species gather, drawn to a mysterious message that echoes out to the stars. And amongst them, the Doctor. Rescuing Clara from a family Christmas dinner, the Time Lord and his best friend must learn what this enigmatic signal means for his own fate and that of the universe.",
+   "popularity": 1.9388,
+   "poster_path": "/8GSVpMPlvymndYheKMtQb1aLDBh.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2013-12-25",
+   "revenue": 0,
+   "runtime": 60,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A change is going to come...",
+   "title": "Doctor Who: The Time of the Doctor",
+   "trailer": {
+    "key": "TWwYLlcPekA",
+    "name": "The Time of the Doctor trailer | Doctor Who Christmas Special 2013 | BBC",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.069,
+   "vote_count": 327
+  },
   "movie:301348": {
    "backdrop_path": "/4qqX8rBDa4Dzqf6pSSumpFoEHMB.jpg",
    "budget": 5000000,
@@ -3089,6 +3311,109 @@
    "type": "movie",
    "vote_average": 5.793,
    "vote_count": 496
+  },
+  "movie:34148": {
+   "backdrop_path": "/v6saYVrDHHs5ansCFz5lIyFUV5X.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lora Meredith",
+     "n": "Lana Turner"
+    },
+    {
+     "c": "Steve Archer",
+     "n": "John Gavin"
+    },
+    {
+     "c": "Susie (16)",
+     "n": "Sandra Dee"
+    },
+    {
+     "c": "Sarah Jane (18)",
+     "n": "Susan Kohner"
+    },
+    {
+     "c": "Allen Loomis",
+     "n": "Robert Alda"
+    },
+    {
+     "c": "David Edwards",
+     "n": "Dan O'Herlihy"
+    },
+    {
+     "c": "Annie Johnson",
+     "n": "Juanita Moore"
+    },
+    {
+     "c": "Sarah Jane (8)",
+     "n": "Karin Dicker"
+    },
+    {
+     "c": "Susie (6)",
+     "n": "Terry Burnham"
+    },
+    {
+     "c": "Young Man",
+     "n": "John Vivyan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Douglas Sirk"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 34148,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1940s New York, a white widow who dreams of being on Broadway has a chance encounter with a black single mother, who becomes her maid.",
+   "popularity": 2.0463,
+   "poster_path": "/xt3cUn7lsjpaGuB279A4v8zAYRn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1959-04-09",
+   "revenue": 0,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fannie Hurst's best selling novel of today's tormented generation!",
+   "title": "Imitation of Life",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 332
   },
   "movie:38448": {
    "backdrop_path": "/myYFabjrPz1Gbt3bB3GnEo6OlSN.jpg",
@@ -4511,6 +4836,484 @@
    "type": "movie",
    "vote_average": 6.28,
    "vote_count": 381
+  },
+  "movie:6948": {
+   "backdrop_path": "/8IuDDi2bNu2at9zU7765gfHBMjE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Heather Fasulo",
+     "n": "Agnes Bruckner"
+    },
+    {
+     "c": "Alice Fasulo",
+     "n": "Emma Campbell"
+    },
+    {
+     "c": "Joe Fasulo",
+     "n": "Bruce Campbell"
+    },
+    {
+     "c": "Mrs. Traverse",
+     "n": "Patricia Clarkson"
+    },
+    {
+     "c": "Marcy Turner",
+     "n": "Lauren Birkell"
+    },
+    {
+     "c": "Ms. Cross",
+     "n": "Jane Gilchrist"
+    },
+    {
+     "c": "Ms. Leland",
+     "n": "Catherine Colvey"
+    },
+    {
+     "c": "Mrs. Mackinaw",
+     "n": "Marcia Bennett"
+    },
+    {
+     "c": "Samantha Wise",
+     "n": "Rachel Nichols"
+    },
+    {
+     "c": "Sheriff",
+     "n": "Gordon Currie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Lucky McKee"
+   ],
+   "genres": [
+    "Mystery",
+    "Horror",
+    "Thriller"
+   ],
+   "id": 6948,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1965 New England, a troubled girl encounters mysterious happenings in the woods surrounding an isolated girls school that she was sent to by her estranged parents.",
+   "popularity": 1.9431,
+   "poster_path": "/lQWtLTy7xBxXx1l89sSQRfplHXm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-04-24",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Private school, deadly lessons.",
+   "title": "The Woods",
+   "trailer": {
+    "key": "wCPk_IxZY7E",
+    "name": "Official Sizzle",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.757,
+   "vote_count": 327
+  },
+  "movie:75948": {
+   "backdrop_path": "/oIXnmpQXADWUF8JXSjKNlSw78qk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fa Hai",
+     "n": "Jet Li"
+    },
+    {
+     "c": "Neng Ren",
+     "n": "Wen Zhang"
+    },
+    {
+     "c": "Xu Xian",
+     "n": "Raymond Lam"
+    },
+    {
+     "c": "White Snake",
+     "n": "Eva Huang"
+    },
+    {
+     "c": "Green Snake",
+     "n": "Charlene Choi Chuek-yin"
+    },
+    {
+     "c": "Ice Harpy",
+     "n": "Vivian Hsu"
+    },
+    {
+     "c": "Turtle Devil",
+     "n": "Jiang Wu"
+    },
+    {
+     "c": "Rabbit Devil",
+     "n": "Miriam Yeung Chin-wah"
+    },
+    {
+     "c": "Toad Monster",
+     "n": "Chapman To Man-chat"
+    },
+    {
+     "c": "Chicken Devil",
+     "n": "Lam Suet"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Tony Ching Siu-tung"
+   ],
+   "genres": [
+    "Action",
+    "Fantasy"
+   ],
+   "id": 75948,
+   "industry": "world",
+   "origin_country": [
+    "CN",
+    "HK"
+   ],
+   "original_language": "zh",
+   "overview": "The Sorcerer and the White Snake is an ancient Chinese fable about a woman demon who falls in love with a mortal is brought to life through the latest advances in CGI and action techniques.",
+   "popularity": 3.3469,
+   "poster_path": "/5Jfv3CtMULd41C5jpLR8PGAMgE3.jpg",
+   "production_countries": [
+    "CN",
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Warriors and Gangsters Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tYRiW2QvjPtCbBhRVYFUyyfApVl.png",
+     "name": "Warriors and Gangsters Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-09-27",
+   "revenue": 18445,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Sorcerer and the White Snake",
+   "trailer": {
+    "key": "E5KR-SDeQII",
+    "name": "The Sorcerer and the White Snake - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 333
+  },
+  "movie:848": {
+   "backdrop_path": "/wbNKvMdPgOjrsydymIXxHLqIlOZ.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Galen",
+     "n": "Peter MacNicol"
+    },
+    {
+     "c": "Valerian",
+     "n": "Caitlin Clarke"
+    },
+    {
+     "c": "Ulrich",
+     "n": "Ralph Richardson"
+    },
+    {
+     "c": "Tyrian",
+     "n": "John Hallam"
+    },
+    {
+     "c": "Casiodorus Rex",
+     "n": "Peter Eyre"
+    },
+    {
+     "c": "Greil",
+     "n": "Albert Salmi"
+    },
+    {
+     "c": "Hodge",
+     "n": "Sydney Bromley"
+    },
+    {
+     "c": "Princess Elspeth",
+     "n": "Chloe Salaman"
+    },
+    {
+     "c": "Valerian's Father",
+     "n": "Emrys James"
+    },
+    {
+     "c": "Brother Jacopus",
+     "n": "Ian McDiarmid"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Matthew Robbins"
+   ],
+   "genres": [
+    "Fantasy",
+    "Adventure"
+   ],
+   "id": 848,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A sorcerer and his apprentice are on a mission to kill an evil dragon to save the King’s daughter from being sacrificed according to a pact that the King himself made with the dragon to protect his kingdom.",
+   "popularity": 2.4334,
+   "poster_path": "/92VXAEwbjebYqTeUa7uX5bBtDuD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1981-06-26",
+   "revenue": 14110013,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In the Dark Ages, Magic was a weapon. Love was a mystery. Adventure was everywhere...And Dragons were real.",
+   "title": "Dragonslayer",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.556,
+   "vote_count": 341
   },
   "movie:8748": {
    "backdrop_path": "/pVIDe1IBxEnsCEbBP9fQQYIQsm0.jpg",

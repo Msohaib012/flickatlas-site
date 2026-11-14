@@ -1,6 +1,6 @@
 {
  "bucket": "22",
- "count": 47,
+ "count": 54,
  "titles": {
   "movie:1063422": {
    "d": "The Strays (2023): Thriller film. Story: A Black woman's meticulously crafted life of… See cast, TMDB rating 5.5/10, and release date 17 February 2023.",
@@ -192,6 +192,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Midway (1976)</h1>\n<p class=\"ssr-lead\">This war drama depicts the U.S. and Japanese forces in the naval Battle of Midway, which became a turning point for Americans during World War II.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 June 1976</li><li>Runtime: 132 minutes</li><li>Director: Jack Smight</li><li>Genres: Action, Drama, History, War</li><li>Budget: $4M</li><li>TMDB rating: 6.6/10 (346 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Charlton Heston as Capt. Matthew Garth</li><li>Henry Fonda as Adm. Chester W. Nimitz</li><li>James Coburn as Capt. Vinton Maddox</li><li>Glenn Ford as Rear Admiral Raymond A. Spruance</li><li>Hal Holbrook as Cmdr. Joseph Rochefort</li><li>Robert Mitchum as Vice Adm. William F. &#x27;Bull&#x27; Halsey Jr.</li><li>Toshirō Mifune as Admiral Isoroku Yamamoto</li><li>Cliff Robertson as Cmdr. Jessop</li><li>Robert Wagner as Lt.Cmdr. Blake</li><li>Robert Webber as Admiral Jack Fletcher</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Midway (1976) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1976"
+  },
+  "movie:116322": {
+   "d": "The Legend of La Llorona (2011): Animation/Family film. Story: Based on a famous Mexican legend, a group of kids… See cast and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uMyPeZ5WjouTHVEckilshhHULAg.jpg",
+   "industry": "world",
+   "k": "The Legend of La Llorona, The Legend of La Llorona movie, The Legend of La Llorona cast, The Legend of La Llorona story, The Legend of La Llorona box office collection, The Legend of La Llorona budget, The Legend of La Llorona review, The Legend of La Llorona rating, The Legend of La Llorona release date, The Legend of La Llorona trailer, The Legend of La Llorona Animation, The Legend of La Llorona Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rafael Inclán"
+     },
+     {
+      "@type": "Person",
+      "name": "Yair Prado"
+     },
+     {
+      "@type": "Person",
+      "name": "Mónica del Carmen"
+     },
+     {
+      "@type": "Person",
+      "name": "Mayté Cordero"
+     },
+     {
+      "@type": "Person",
+      "name": "Rosario Zúñiga"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 339,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "The Legend of La Llorona (2011): Animation/Family film. Story: Based on a famous Mexican legend, a group of kids… See cast and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alberto Rodríguez"
+     }
+    ],
+    "duration": "PT75M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uMyPeZ5WjouTHVEckilshhHULAg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=116322",
+    "name": "The Legend of La Llorona",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-10-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=116322"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Legend of La Llorona (2011)</h1>\n<p class=\"ssr-lead\">Based on a famous Mexican legend, a group of kids must stop the ghost of a woman whose guilt over the drowning of her own children leads her to abduct youngsters who wander the woods at night.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 October 2011</li><li>Runtime: 75 minutes</li><li>Director: Alberto Rodríguez</li><li>Genres: Animation, Family, Fantasy, Horror</li><li>TMDB rating: 8.0/10 (339 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rafael Inclán as Alebrije (voice)</li><li>Yair Prado as Leo San Juan (voice)</li><li>Mónica del Carmen as Kika (voice)</li><li>Mayté Cordero as Teodora Villavicencio (voice)</li><li>Rosario Zúñiga as Rosa (voice)</li><li>Mercedes Hernández as Yoltzin (voice)</li><li>Andrés Couturier as Don Andres / Pujo (voice)</li><li>Rocío Lara as La Llorona (voice)</li><li>Miguel Couturier as Willy / Fray Godofredo (voice)</li><li>Jesús Guzmán as Pecas / Finado (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Google Play Movies, YouTube</li><li>Buy: Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "The Legend of La Llorona (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
   },
   "movie:11822": {
    "d": "Nekromantik (1988): Drama/Horror film. Story: An employee of Joe's Streetcleaning Agency, a company… See cast and TMDB rating 5.1/10.",
@@ -766,6 +830,133 @@
    "t": "Black Beauty (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1994"
   },
+  "movie:1462322": {
+   "d": "The Last One for the Road (2025): Comedy film. Story: A couple of jovial life-long drunkards run into a shy… See cast and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/105dMBJGgkM0SzgjV62KzlMDdG8.jpg",
+   "industry": "world",
+   "k": "The Last One for the Road, The Last One for the Road movie, The Last One for the Road cast, The Last One for the Road story, The Last One for the Road box office collection, The Last One for the Road budget, The Last One for the Road review, The Last One for the Road rating, The Last One for the Road release date, The Last One for the Road trailer, The Last One for the Road Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Filippo Scotti"
+     },
+     {
+      "@type": "Person",
+      "name": "Sergio Romano"
+     },
+     {
+      "@type": "Person",
+      "name": "Pierpaolo Capovilla"
+     },
+     {
+      "@type": "Person",
+      "name": "Roberto Citran"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrea Pennacchi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 311,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "The Last One for the Road (2025): Comedy film. Story: A couple of jovial life-long drunkards run into a shy… See cast and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Francesco Sossai"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/105dMBJGgkM0SzgjV62KzlMDdG8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1462322",
+    "name": "The Last One for the Road",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-10-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1462322"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Last One for the Road (2025)</h1>\n<p class=\"ssr-lead\">A couple of jovial life-long drunkards run into a shy architecture undergrad, whose way of seeing things will be transformed as the trio wanders from pub to pub in search of a buried treasure.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 October 2025</li><li>Runtime: 98 minutes</li><li>Director: Francesco Sossai</li><li>Genres: Comedy</li><li>TMDB rating: 7.5/10 (311 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Filippo Scotti as Giulio</li><li>Sergio Romano as Carlobianchi</li><li>Pierpaolo Capovilla as Doriano</li><li>Roberto Citran as Cavalier Fadiga</li><li>Andrea Pennacchi as Genio</li><li>Giuseppe Messina as Argentino Campagnolo</li><li>Denis Fasolo as Conte Bugnello</li><li>Tommaso Gianesini as Piero</li><li>Lorena De March as Ketj</li><li>Gianni Da Re as Primo Sossai</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "The Last One for the Road (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:16222": {
+   "d": "Whatever It Takes (2000): Drama/Comedy film. Story: A nerdy teen, Ryan Woodman is smitten with the… See cast, budget $15M, and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hworhPYqwu3z4T7HbuugQk8WVCK.jpg",
+   "industry": "world",
+   "k": "Whatever It Takes, Whatever It Takes movie, Whatever It Takes cast, Whatever It Takes story, Whatever It Takes box office collection, Whatever It Takes budget, Whatever It Takes review, Whatever It Takes rating, Whatever It Takes release date, Whatever It Takes Drama, Whatever It Takes Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jodi Lyn O'Keefe"
+     },
+     {
+      "@type": "Person",
+      "name": "Shane West"
+     },
+     {
+      "@type": "Person",
+      "name": "Marla Sokoloff"
+     },
+     {
+      "@type": "Person",
+      "name": "James Franco"
+     },
+     {
+      "@type": "Person",
+      "name": "Aaron Paul"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 312,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Whatever It Takes (2000): Drama/Comedy film. Story: A nerdy teen, Ryan Woodman is smitten with the… See cast, budget $15M, and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Raynr"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hworhPYqwu3z4T7HbuugQk8WVCK.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=16222",
+    "name": "Whatever It Takes",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2000-03-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=16222"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Whatever It Takes (2000)</h1>\n<p class=\"ssr-lead\">A nerdy teen, Ryan Woodman is smitten with the popular and gorgeous Ashley Grant, who apparently has no interest in him. Meanwhile, dim star athlete Chris Campbell has his eye on Ryan&#x27;s brainy and beautiful friend, Maggie Carter. The two agree to help each other in their romantic quests, but, as they come closer to their goals, both Ryan and Chris suspect that they might be pursuing the wrong girls.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 March 2000</li><li>Runtime: 94 minutes</li><li>Director: David Raynr</li><li>Genres: Drama, Comedy, Romance</li><li>Budget: $15M</li><li>TMDB rating: 5.8/10 (312 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jodi Lyn O&#x27;Keefe as Ashley Grant</li><li>Shane West as Ryan Woodman</li><li>Marla Sokoloff as Maggie Carter</li><li>James Franco as Chris Campbell</li><li>Aaron Paul as Floyd</li><li>Colin Hanks as Cosmo</li><li>Julia Sweeney as Kate Woodman</li><li>Richard Schiff as P.E. Teacher</li><li>Kip Pardue as Harris</li><li>Nick Cannon as Chess Club Kid</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Whatever It Takes (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2000"
+  },
   "movie:187022": {
    "d": "A Touch of Sin (2013): Crime/Drama film. Story: Four people in different provinces are driven to… See cast, budget $4M, and TMDB rating 7.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/sKrZb0tPP72SOiOJM5iEewflG3H.jpg",
@@ -1134,6 +1325,132 @@
    "t": "Alone in Berlin (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
   },
+  "movie:336222": {
+   "d": "Rams (2015): Drama film. Story: In a secluded valley in Iceland, Gummi and Kiddi live… See cast, TMDB rating 7.0/10, and release date 28 May 2015.",
+   "img": "https://image.tmdb.org/t/p/w780/eAgKvahrg6EY521kEA11GwGvjY2.jpg",
+   "industry": "world",
+   "k": "Rams, Rams movie, Rams cast, Rams story, Rams box office collection, Rams budget, Rams review, Rams rating, Rams release date, Rams trailer, Rams Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sigurður Sigurjónsson"
+     },
+     {
+      "@type": "Person",
+      "name": "Theodór Júlíusson"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlotte Bøving"
+     },
+     {
+      "@type": "Person",
+      "name": "Jón Benónýsson"
+     },
+     {
+      "@type": "Person",
+      "name": "Gunnar Jónsson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 316,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Rams (2015): Drama film. Story: In a secluded valley in Iceland, Gummi and Kiddi live… See cast, TMDB rating 7.0/10, and release date 28 May 2015.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Grímur Hákonarson"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eAgKvahrg6EY521kEA11GwGvjY2.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=336222",
+    "name": "Rams",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-05-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=336222"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Rams (2015)</h1>\n<p class=\"ssr-lead\">In a secluded valley in Iceland, Gummi and Kiddi live side by side, tending to their sheep. Their ancestral sheep-stock is considered one of the country’s best and the two brothers are repeatedly awarded for their prized rams who carry an ancient lineage. Although they share the land and a way of life, Gummi and Kiddi have not spoken to each other in four decades. When a lethal disease suddenly infects Kiddi’s sheep, the entire valley comes under threat. The authorities decide to cull all the animals in the area to contain the outbreak. But Gummi and Kiddi don’t give up so easily – and each brother tries to stave off the disaster in his own fashion: Kiddi by using his rifle and Gummi by using his wits.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 May 2015</li><li>Runtime: 93 minutes</li><li>Director: Grímur Hákonarson</li><li>Genres: Drama</li><li>TMDB rating: 7.0/10 (316 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sigurður Sigurjónsson as Gummi</li><li>Theodór Júlíusson as Kiddi</li><li>Charlotte Bøving as Katrin</li><li>Jón Benónýsson as Runólfur</li><li>Gunnar Jónsson as Grímur</li><li>Sveinn Ólafur Gunnarsson as Bjarni</li><li>Þorleifur Einarsson as Sindri</li><li>Ingrid Jónsdóttir as Eygló</li><li>Jörundur Ragnarsson as Villi</li><li>Viktor Már Bjarnason as Finnur</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, Fandor, Fandor Amazon Channel, Cohen Media Amazon Channel, Cineverse Amazon Channel</li><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Rams (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
+  "movie:372822": {
+   "d": "Vacanze ai Caraibi - Il film di Natale (2015): Comedy film. Story: While on holiday in the Caribbean, a bankrupt family… See cast and TMDB rating 4.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jY3GXVS9Tc81Rvnn8kBzfrQHqo6.jpg",
+   "industry": "world",
+   "k": "Vacanze ai Caraibi - Il film di Natale, Vacanze ai Caraibi - Il film di Natale movie, Vacanze ai Caraibi - Il film di Natale cast, Vacanze ai Caraibi - Il film di Natale story, Vacanze ai Caraibi - Il film di Natale box office collection, Vacanze ai Caraibi - Il film di Natale budget, Vacanze ai Caraibi - Il film di Natale review, Vacanze ai Caraibi - Il film di Natale rating, Vacanze ai Caraibi - Il film di Natale release date, Vacanze ai Caraibi - Il film di Natale Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christian De Sica"
+     },
+     {
+      "@type": "Person",
+      "name": "Massimo Ghini"
+     },
+     {
+      "@type": "Person",
+      "name": "Angela Finocchiaro"
+     },
+     {
+      "@type": "Person",
+      "name": "Dario Bandiera"
+     },
+     {
+      "@type": "Person",
+      "name": "Ilaria Spada"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 313,
+     "ratingValue": 4.6,
+     "worstRating": 0
+    },
+    "description": "Vacanze ai Caraibi - Il film di Natale (2015): Comedy film. Story: While on holiday in the Caribbean, a bankrupt family… See cast and TMDB rating 4.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Neri Parenti"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jY3GXVS9Tc81Rvnn8kBzfrQHqo6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=372822",
+    "name": "Vacanze ai Caraibi - Il film di Natale",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-12-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=372822"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Vacanze ai Caraibi - Il film di Natale (2015)</h1>\n<p class=\"ssr-lead\">While on holiday in the Caribbean, a bankrupt family pins their hopes on a rich man, two strangers fall in lust, and a technophile gets shipwrecked.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 December 2015</li><li>Runtime: 97 minutes</li><li>Director: Neri Parenti</li><li>Genres: Comedy</li><li>TMDB rating: 4.6/10 (313 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christian De Sica as Mario Grossi Tubi</li><li>Massimo Ghini as Ottavio Vianale</li><li>Angela Finocchiaro as Gianna Grossi Tubi</li><li>Dario Bandiera as Adriano Fiore</li><li>Ilaria Spada as Claudia</li><li>Luca Argentero as Fausto</li><li>Maria Luisa De Crescenzo as Anna Pia Grossi Tubi</li><li>Marco Aceti</li><li>Silvia Degrandi</li><li>Cristina Marino as Maria Claudia</li></ul>\n</article>",
+   "t": "Vacanze ai Caraibi - Il film di Natale (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:419522": {
    "d": "Ignorance Is Bliss (2017): Comedy film. Story: Ernesto and Filippo, two high school teachers… See cast, TMDB rating 5.9/10, and release date 23 February 2017.",
    "img": "https://image.tmdb.org/t/p/w780/e0ziCGOEXhSaNuIyfh5svpflXhT.jpg",
@@ -1453,6 +1770,74 @@
    "t": "Love Hurts (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2002"
   },
+  "movie:605722": {
+   "d": "Long Distance (2024): Science Fiction/Comedy film. Story: After crash-landing on an alien planet, an asteroid… See cast and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1QV5TIM7pVm0wcWthKIAj7cXjbJ.jpg",
+   "industry": "world",
+   "k": "Long Distance, Long Distance movie, Long Distance cast, Long Distance story, Long Distance box office collection, Long Distance budget, Long Distance review, Long Distance rating, Long Distance release date, Long Distance trailer, Long Distance Science Fiction, Long Distance Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anthony Ramos"
+     },
+     {
+      "@type": "Person",
+      "name": "Naomi Scott"
+     },
+     {
+      "@type": "Person",
+      "name": "Kristofer Hivju"
+     },
+     {
+      "@type": "Person",
+      "name": "Zachary Quinto"
+     },
+     {
+      "@type": "Person",
+      "name": "Izzy Jones"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 310,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Long Distance (2024): Science Fiction/Comedy film. Story: After crash-landing on an alien planet, an asteroid… See cast and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Will Speck"
+     },
+     {
+      "@type": "Person",
+      "name": "Josh Gordon"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Science Fiction",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1QV5TIM7pVm0wcWthKIAj7cXjbJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=605722",
+    "name": "Long Distance",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-07-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=605722"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Long Distance (2024)</h1>\n<p class=\"ssr-lead\">After crash-landing on an alien planet, an asteroid miner must contend with the challenges of his new surroundings, while making his way across the harsh terrain to the only other survivor – a woman who is trapped in her escape pod.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 July 2024</li><li>Runtime: 87 minutes</li><li>Director: Will Speck, Josh Gordon</li><li>Genres: Science Fiction, Comedy, Action</li><li>TMDB rating: 6.6/10 (310 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anthony Ramos as Andy Ramirez</li><li>Naomi Scott as Naomi Calloway</li><li>Kristofer Hivju as Dwayne</li><li>Zachary Quinto as L.E.O.N.A.R.D. (voice)</li><li>Izzy Jones as Mia Ramirez</li><li>Leon Nurse-Joseph as Caleb Ramirez</li><li>Milan Walls-Smith as A.M.I.E. (voice)</li><li>Paisley Roemer as Borealis Computer (voice)</li><li>Josh Gordon as Dead Body in Pod</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel</li></ul>\n</article>",
+   "t": "Long Distance (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
+  },
   "movie:652722": {
    "d": "In the Arms of an Assassin (2019): Romance/Thriller film. Story: Victor (William Levy) is one of the world’s most… See cast and TMDB rating 7.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/6cqogY7SYppI0ZNchaTKszSkxwH.jpg",
@@ -1516,6 +1901,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>In the Arms of an Assassin (2019)</h1>\n<p class=\"ssr-lead\">Victor (William Levy) is one of the world’s most handsome men, but he has a deep secret – he is a cold blooded assassin. Smooth talking and seductive, Victor was raised to do one thing only, which is to kill for money. When he is sent to the home of a brutal drug lord to collect payment for his most recent hit, he encounters the beautiful Sarai (Alicia Sanz), who has been forced to spend the last 9 years of her life with the drug lord.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 December 2019</li><li>Runtime: 101 minutes</li><li>Director: Matías Moltrasio</li><li>Genres: Romance, Thriller</li><li>TMDB rating: 7.8/10 (434 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>William Levy as Victor Faust</li><li>Alicia Sanz as Sarai</li><li>Roberto Sosa as Javier</li><li>Adrián Lastra as Niklas</li><li>Thanya López as Izel</li><li>Dalisa Alegría as Lydia</li><li>Mónica Ayos as Samantha</li><li>Ettore D&#x27;Alessandro as Hamburg</li><li>Alessia Seravalle as Hostess</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "In the Arms of an Assassin (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:696822": {
+   "d": "Bloody Hell (2020): Horror/Comedy film. Story: A man with a mysterious past flees the country to… See cast, TMDB rating 6.6/10, and release date 8 October 2020.",
+   "img": "https://image.tmdb.org/t/p/w780/vTc8XTjCvmAv0cL3UrLT2SajvjY.jpg",
+   "industry": "world",
+   "k": "Bloody Hell, Bloody Hell movie, Bloody Hell cast, Bloody Hell story, Bloody Hell box office collection, Bloody Hell budget, Bloody Hell review, Bloody Hell rating, Bloody Hell release date, Bloody Hell trailer, Bloody Hell Horror, Bloody Hell Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ben O'Toole"
+     },
+     {
+      "@type": "Person",
+      "name": "Meg Fraser"
+     },
+     {
+      "@type": "Person",
+      "name": "Caroline Craig"
+     },
+     {
+      "@type": "Person",
+      "name": "Matthew Sunderland"
+     },
+     {
+      "@type": "Person",
+      "name": "Travis Jeffery"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 315,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Bloody Hell (2020): Horror/Comedy film. Story: A man with a mysterious past flees the country to… See cast, TMDB rating 6.6/10, and release date 8 October 2020.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alister Grierson"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Horror",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vTc8XTjCvmAv0cL3UrLT2SajvjY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=696822",
+    "name": "Bloody Hell",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-10-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=696822"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bloody Hell (2020)</h1>\n<p class=\"ssr-lead\">A man with a mysterious past flees the country to escape his own personal hell... only to arrive somewhere much worse. In an effort to survive this new horror, he turns to his personified conscience.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 October 2020</li><li>Runtime: 94 minutes</li><li>Director: Alister Grierson</li><li>Genres: Horror, Comedy, Action, Mystery, Thriller</li><li>TMDB rating: 6.6/10 (315 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ben O&#x27;Toole as Rex</li><li>Meg Fraser as Alia</li><li>Caroline Craig as Mother</li><li>Matthew Sunderland as Father</li><li>Travis Jeffery as Gael / Gideon</li><li>Jack Finsterer as Uncle</li><li>David Hill as Olli</li><li>Joshua Brennan as Pete</li><li>Ashlee Lollback as Maddy</li><li>Sophia Emberson-Bain as Olivia</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Bloodstream</li><li>Rent: Bloodstream</li></ul>\n</article>",
+   "t": "Bloody Hell (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
   },
   "movie:75622": {
    "d": "Rampart (2011): Crime/Drama film. Story: The story follows veteran police officer Dave Brown… See cast, budget $12M, and TMDB rating 5.5/10.",

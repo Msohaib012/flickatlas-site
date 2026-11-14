@@ -1,6 +1,6 @@
 {
  "bucket": "54",
- "count": 55,
+ "count": 64,
  "titles": {
   "movie:1015154": {
    "d": "Fireflies at El Mozote (2025): Action/Drama film. Story: A boy seeks revenge after surviving El Mozote… See cast and TMDB rating 8.7/10.",
@@ -130,6 +130,133 @@
    "t": "A Short Film About Killing (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1988"
   },
+  "movie:10854": {
+   "d": "Wicked Little Things (2006): Horror/Fantasy film. Story: Karen, Sarah, and Emma Tunney are all moving to a… See cast and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/62WHUNJ1yEFf5BTXcsS61sE4cD6.jpg",
+   "industry": "world",
+   "k": "Wicked Little Things, Wicked Little Things movie, Wicked Little Things cast, Wicked Little Things story, Wicked Little Things box office collection, Wicked Little Things budget, Wicked Little Things review, Wicked Little Things rating, Wicked Little Things release date, Wicked Little Things Horror, Wicked Little Things Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lori Heuring"
+     },
+     {
+      "@type": "Person",
+      "name": "Scout Taylor-Compton"
+     },
+     {
+      "@type": "Person",
+      "name": "Chloë Grace Moretz"
+     },
+     {
+      "@type": "Person",
+      "name": "Geoffrey Lewis"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Cross"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 307,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Wicked Little Things (2006): Horror/Fantasy film. Story: Karen, Sarah, and Emma Tunney are all moving to a… See cast and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "J.S. Cardone"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Horror",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/62WHUNJ1yEFf5BTXcsS61sE4cD6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10854",
+    "name": "Wicked Little Things",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-11-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10854"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wicked Little Things (2006)</h1>\n<p class=\"ssr-lead\">Karen, Sarah, and Emma Tunney are all moving to a small town in Pennsylvania where, unknown to them, in 1913, a horrid mine accident trapped dozens of children alive, underground. But there&#x27;s a problem. They&#x27;re still alive.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 November 2006</li><li>Runtime: 94 minutes</li><li>Director: J.S. Cardone</li><li>Genres: Horror, Fantasy</li><li>TMDB rating: 5.8/10 (307 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lori Heuring as Karen Tunny</li><li>Scout Taylor-Compton as Sarah Tunny</li><li>Chloë Grace Moretz as Emma Tunny</li><li>Geoffrey Lewis as Harold Thompson</li><li>Ben Cross as Aaron Hanks</li><li>Julie Rogers as Lisa</li><li>Michael McCoy as Walter</li><li>Velizar Binev as Bull Foreman</li><li>Martin McDougall as William Carlton</li><li>Chris Jamba as Sean</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, Howdy Amazon Channel</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Wicked Little Things (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
+  },
+  "movie:110354": {
+   "d": "Side by Side (2012): Documentary film. Story: Since the invention of cinema, the standard format… See cast, TMDB rating 7.3/10, and release date 19 August 2012.",
+   "img": "https://image.tmdb.org/t/p/w780/AkuDVdvopWHr2Vw3IBmfhlPk8Bx.jpg",
+   "industry": "world",
+   "k": "Side by Side, Side by Side movie, Side by Side cast, Side by Side story, Side by Side box office collection, Side by Side budget, Side by Side review, Side by Side rating, Side by Side release date, Side by Side Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Keanu Reeves"
+     },
+     {
+      "@type": "Person",
+      "name": "Martin Scorsese"
+     },
+     {
+      "@type": "Person",
+      "name": "James Cameron"
+     },
+     {
+      "@type": "Person",
+      "name": "David Fincher"
+     },
+     {
+      "@type": "Person",
+      "name": "David Lynch"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 322,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Side by Side (2012): Documentary film. Story: Since the invention of cinema, the standard format… See cast, TMDB rating 7.3/10, and release date 19 August 2012.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Christopher Kenneally"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/AkuDVdvopWHr2Vw3IBmfhlPk8Bx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=110354",
+    "name": "Side by Side",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-08-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=110354"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Side by Side (2012)</h1>\n<p class=\"ssr-lead\">Since the invention of cinema, the standard format for recording moving images has been film. Over the past two decades, a new form of digital filmmaking has emerged, creating a groundbreaking evolution in the medium. Keanu Reeves explores the development of cinema and the impact of digital filmmaking via in-depth interviews with Hollywood masters, such as James Cameron, David Fincher, David Lynch, Christopher Nolan, Martin Scorsese, George Lucas, Steven Soderbergh, and many more.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 August 2012</li><li>Runtime: 99 minutes</li><li>Director: Christopher Kenneally</li><li>Genres: Documentary</li><li>TMDB rating: 7.3/10 (322 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Keanu Reeves as Self / Host</li><li>Martin Scorsese as Self</li><li>James Cameron as Self</li><li>David Fincher as Self</li><li>David Lynch as Self</li><li>Lars von Trier as Self</li><li>Steven Soderbergh as Self</li><li>Danny Boyle as Self</li><li>George Lucas as Self</li><li>Robert Rodriguez as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Echoboom Amazon Channel, FUEL TV+ Amazon Channel</li><li>Rent: Amazon Video, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Side by Side (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
+  },
   "movie:11054": {
    "d": "Hairspray (1988): Comedy film. Story: 'Pleasantly plump' teenager Tracy Turnblad achieves… See cast, budget $2M, and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/ersVrGMSzq2WU6ynBQrHJhwuQ85.jpg",
@@ -192,6 +319,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Hairspray (1988)</h1>\n<p class=\"ssr-lead\">&#x27;Pleasantly plump&#x27; teenager Tracy Turnblad achieves her dream of becoming a regular on the Corny Collins Dance Show. Now a teen hero, she starts using her fame to speak out for the causes she believes in, most of all integration. In doing so, she earns the wrath of the show&#x27;s former star, Amber Von Tussle, as well as Amber&#x27;s manipulative, pro-segregation parents. The rivalry comes to a head as Amber and Tracy vie for the title of Miss Auto Show 1963.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 February 1988</li><li>Runtime: 92 minutes</li><li>Director: John Waters</li><li>Genres: Comedy</li><li>Budget: $2M</li><li>TMDB rating: 6.8/10 (471 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ricki Lake as Tracy Turnblad</li><li>Divine as Edna Turnblad / Arvin Hodgepile</li><li>Debbie Harry as Velma Von Tussle</li><li>Vitamin C as Amber von Tussle</li><li>Sonny Bono as Franklin von Tussle</li><li>Leslie Ann Powers as Penny Pingleton</li><li>Ruth Brown as Motormouth Maybelle</li><li>Jerry Stiller as Wilbur Turnblad</li><li>Michael St. Gerard as Link Larkin</li><li>Clayton Prince as Seaweed</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Hairspray (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1988"
+  },
+  "movie:11354": {
+   "d": "The Upside of Anger (2005): Comedy/Drama film. Story: After her husband runs off with his secretary, Terry… See cast, budget $12M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bPkP368pQkRY3m89nP2nWYjIxRC.jpg",
+   "industry": "world",
+   "k": "The Upside of Anger, The Upside of Anger movie, The Upside of Anger cast, The Upside of Anger story, The Upside of Anger box office collection, The Upside of Anger budget, The Upside of Anger review, The Upside of Anger rating, The Upside of Anger release date, The Upside of Anger trailer, The Upside of Anger Comedy, The Upside of Anger Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Joan Allen"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin Costner"
+     },
+     {
+      "@type": "Person",
+      "name": "Erika Christensen"
+     },
+     {
+      "@type": "Person",
+      "name": "Keri Russell"
+     },
+     {
+      "@type": "Person",
+      "name": "Alicia Witt"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 307,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "The Upside of Anger (2005): Comedy/Drama film. Story: After her husband runs off with his secretary, Terry… See cast, budget $12M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mike Binder"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bPkP368pQkRY3m89nP2nWYjIxRC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11354",
+    "name": "The Upside of Anger",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-04-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11354"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Upside of Anger (2005)</h1>\n<p class=\"ssr-lead\">After her husband runs off with his secretary, Terry Wolfmeyer is left to fend for herself -- and her four daughters. As she hits rock bottom, Terry finds a friend and drinking buddy in next-door neighbor Denny, a former baseball player. As the two grow closer, and her daughters increasingly rely on Denny, Terry starts to have reservations about where their relationship is headed.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 April 2005</li><li>Runtime: 118 minutes</li><li>Director: Mike Binder</li><li>Genres: Comedy, Drama</li><li>Budget: $12M</li><li>TMDB rating: 6.3/10 (307 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joan Allen as Terry Wolfmeyer</li><li>Kevin Costner as Denny Davies</li><li>Erika Christensen as Andy Wolfmeyer</li><li>Keri Russell as Emily Wolfmeyer</li><li>Alicia Witt as Hadley Wolfmeyer</li><li>Evan Rachel Wood as Popeye Wolfmeyer</li><li>Mike Binder as Adam &#x27;Shep&#x27; Goodman</li><li>Tom Harper as David Junior</li><li>Dane Christensen as Gordon Reiner</li><li>Danny Webb as Grey Wolfmeyer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Upside of Anger (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
   },
   "movie:11854": {
    "d": "Kuch Kuch Hota Hai (1998): Romance/Drama film. Story: Per her mother's last wish, an 8 year old girl sets… See cast, budget $2.42M, and TMDB rating 7.5/10.",
@@ -833,6 +1024,70 @@
    "t": "Mr. Holland's Opus (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1995"
   },
+  "movie:23954": {
+   "d": "Atlantic City (1980): Crime/Drama film. Story: In a corrupt city, a small-time gangster and the… See cast, budget $7.2M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/27Y0dGVBW0ZowwRjfa6nHbfP2aR.jpg",
+   "industry": "world",
+   "k": "Atlantic City, Atlantic City movie, Atlantic City cast, Atlantic City story, Atlantic City box office collection, Atlantic City budget, Atlantic City review, Atlantic City rating, Atlantic City release date, Atlantic City trailer, Atlantic City Crime, Atlantic City Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Burt Lancaster"
+     },
+     {
+      "@type": "Person",
+      "name": "Susan Sarandon"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Reid"
+     },
+     {
+      "@type": "Person",
+      "name": "Michel Piccoli"
+     },
+     {
+      "@type": "Person",
+      "name": "Hollis McLaren"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 313,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Atlantic City (1980): Crime/Drama film. Story: In a corrupt city, a small-time gangster and the… See cast, budget $7.2M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Louis Malle"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/27Y0dGVBW0ZowwRjfa6nHbfP2aR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=23954",
+    "name": "Atlantic City",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1980-09-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=23954"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Atlantic City (1980)</h1>\n<p class=\"ssr-lead\">In a corrupt city, a small-time gangster and the estranged wife of a pot dealer find themselves thrown together in an escapade of love, money, drugs and danger.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 September 1980</li><li>Runtime: 104 minutes</li><li>Director: Louis Malle</li><li>Genres: Crime, Drama, Romance</li><li>Budget: $7.2M</li><li>TMDB rating: 6.8/10 (313 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Burt Lancaster as Lou</li><li>Susan Sarandon as Sally</li><li>Kate Reid as Grace</li><li>Michel Piccoli as Joseph</li><li>Hollis McLaren as Chrissy</li><li>Robert Joy as Dave</li><li>Al Waxman as Alfie</li><li>Robert Goulet as Singer</li><li>Moses Znaimer as Felix</li><li>Angus MacInnes as Vinnie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: YouTube TV</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Atlantic City (1980) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1980"
+  },
   "movie:259954": {
    "d": "5 to 7 (2014): Comedy/Romance film. Story: A young writer begins an affair with an older woman… See cast, TMDB rating 7.1/10, and release date 19 April 2014.",
    "img": "https://image.tmdb.org/t/p/w780/xQmJgCwXVTs5Aw7DSCYFl6wJcqi.jpg",
@@ -960,6 +1215,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Panic in Needle Park (1971)</h1>\n<p class=\"ssr-lead\">A stark portrayal of life among a group of heroin addicts who hang out in Needle Park in New York City. Played against this setting is a low-key love story between Bobby, a young addict and small-time hustler, and Helen, a homeless girl who finds in her relationship with Bobby the stability she craves.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 June 1971</li><li>Runtime: 110 minutes</li><li>Director: Jerry Schatzberg</li><li>Genres: Drama, Romance, Crime</li><li>Budget: $1.65M</li><li>TMDB rating: 6.8/10 (386 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Al Pacino as Bobby</li><li>Kitty Winn as Helen</li><li>Alan Vint as Hotch</li><li>Richard Bright as Hank</li><li>Kiel Martin as Chico</li><li>Michael McClanathan as Sonny</li><li>Warren Finnerty as Sammy</li><li>Marcia Jean Kurtz as Marcie</li><li>Raúl Juliá as Marco</li><li>Angie Ortega as Irene</li></ul>\n</article>",
    "t": "The Panic in Needle Park (1971) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1971"
+  },
+  "movie:333354": {
+   "d": "Extortion (2017): Action/Adventure film. Story: A doctor desperately tries to save his wife and their… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wf3Bd6w8g0KcyvCiMo0mIqZHINk.jpg",
+   "industry": "world",
+   "k": "Extortion, Extortion movie, Extortion cast, Extortion story, Extortion box office collection, Extortion budget, Extortion review, Extortion rating, Extortion release date, Extortion trailer, Extortion Action, Extortion Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Eion Bailey"
+     },
+     {
+      "@type": "Person",
+      "name": "Bethany Joy Lenz"
+     },
+     {
+      "@type": "Person",
+      "name": "Mauricio Alemañy"
+     },
+     {
+      "@type": "Person",
+      "name": "Barkhad Abdi"
+     },
+     {
+      "@type": "Person",
+      "name": "Danny Glover"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 332,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Extortion (2017): Action/Adventure film. Story: A doctor desperately tries to save his wife and their… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Phil Volken"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wf3Bd6w8g0KcyvCiMo0mIqZHINk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=333354",
+    "name": "Extortion",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-01-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=333354"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Extortion (2017)</h1>\n<p class=\"ssr-lead\">A doctor desperately tries to save his wife and their 5 year old son after their vacation in the Bahamas takes an unexpected turn.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 January 2017</li><li>Runtime: 108 minutes</li><li>Director: Phil Volken</li><li>Genres: Action, Adventure, Crime, Drama, Thriller</li><li>TMDB rating: 6.1/10 (332 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eion Bailey as Kevin Riley</li><li>Bethany Joy Lenz as Julie Riley</li><li>Mauricio Alemañy as Andy Riley</li><li>Barkhad Abdi as Miguel Kaba</li><li>Danny Glover as Detective Constable Haagen</li><li>Tim Griffin as Chief of Mission Sweeney</li><li>Jack Wallace as Lucas</li><li>Jorge Cabrera as Jorge</li><li>Elid M. Barrios as Miguel&#x27;s Wife</li><li>Genesis Castro as Miguel&#x27;s Older Daughter</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Extortion (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
   },
   "movie:337154": {
    "d": "The Meddler (2016): Comedy/Drama film. Story: With a new iPhone, an apartment near the Grove, and a… See cast, budget $3.2M, and TMDB rating 6.0/10.",
@@ -2232,6 +2551,197 @@
    "t": "The Summit of the Gods (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
   },
+  "movie:729854": {
+   "d": "Concrete Utopia (2023): Thriller/Action film. Story: The world has been reduced to rubble by a massive… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/57Nn5HRpMiDY2ODKSI4VAOiuyJg.jpg",
+   "industry": "world",
+   "k": "Concrete Utopia, Concrete Utopia movie, Concrete Utopia cast, Concrete Utopia story, Concrete Utopia box office collection, Concrete Utopia budget, Concrete Utopia review, Concrete Utopia rating, Concrete Utopia release date, Concrete Utopia trailer, Concrete Utopia Thriller, Concrete Utopia Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lee Byung-hun"
+     },
+     {
+      "@type": "Person",
+      "name": "Park Seo-jun"
+     },
+     {
+      "@type": "Person",
+      "name": "Park Bo-young"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Sun-young"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Do-yoon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 328,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Concrete Utopia (2023): Thriller/Action film. Story: The world has been reduced to rubble by a massive… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Um Tae-hwa"
+     }
+    ],
+    "duration": "PT130M",
+    "genre": [
+     "Thriller",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/57Nn5HRpMiDY2ODKSI4VAOiuyJg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=729854",
+    "name": "Concrete Utopia",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-08-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=729854"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Concrete Utopia (2023)</h1>\n<p class=\"ssr-lead\">The world has been reduced to rubble by a massive earthquake. While no one knows for sure how far the ruins stretch, or what the cause of the earthquake may be, in the heart of Seoul there is only one apartment building left standing. It is called Hwang Gung Apartments. As time passes, outsiders start coming in to Hwang Gung Apartments trying to escape the extreme cold. Before long, the apartment residents are unable to cope with the increasing numbers. Feeling a threat to their very survival, the residents enact a special measure.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 August 2023</li><li>Runtime: 130 minutes</li><li>Director: Um Tae-hwa</li><li>Genres: Thriller, Action</li><li>TMDB rating: 6.8/10 (328 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lee Byung-hun as Yeong-tak</li><li>Park Seo-jun as Min-seong</li><li>Park Bo-young as Myeong-hwa</li><li>Kim Sun-young as Geum-ae</li><li>Kim Do-yoon as Do-gyun</li><li>Park Ji-hu as Hye-won</li><li>Kim Hak-sun as Assemblyman</li><li>Gong Min-jeung as Hyo-jin</li><li>Um Tae-goo as Homeless 1</li><li>Jung Young-ki as Homeless 2</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Concrete Utopia (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
+  "movie:73454": {
+   "d": "X (2011): Action/Thriller film. Story: A veteran call girl and a runaway prostitute witness… See cast, TMDB rating 6.4/10, and release date 23 November 2011.",
+   "img": "https://image.tmdb.org/t/p/w780/AlqDoPCHBqrqRNpAWkAmltIFTR1.jpg",
+   "industry": "world",
+   "k": "X, X movie, X cast, X story, X box office collection, X budget, X review, X rating, X release date, X Action, X Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Viva Bianca"
+     },
+     {
+      "@type": "Person",
+      "name": "Hanna Mangan Lawrence"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Docker"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephen Phillips"
+     },
+     {
+      "@type": "Person",
+      "name": "Eamon Farren"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 330,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "X (2011): Action/Thriller film. Story: A veteran call girl and a runaway prostitute witness… See cast, TMDB rating 6.4/10, and release date 23 November 2011.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jon Hewitt"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/AlqDoPCHBqrqRNpAWkAmltIFTR1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=73454",
+    "name": "X",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-11-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=73454"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>X (2011)</h1>\n<p class=\"ssr-lead\">A veteran call girl and a runaway prostitute witness a murder which sends them on an out-of-control roller coaster ride through the twilight zone of sex-for-sale.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 November 2011</li><li>Runtime: 90 minutes</li><li>Director: Jon Hewitt</li><li>Genres: Action, Thriller, Romance</li><li>TMDB rating: 6.4/10 (330 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Viva Bianca as Holly Rowe</li><li>Hanna Mangan Lawrence as Shay Ryan</li><li>Peter Docker as Ligurian</li><li>Stephen Phillips as Bennett</li><li>Eamon Farren as Harry</li><li>Belinda McClory as Katherine</li><li>Darren Moss as Giles</li><li>Freya Tingley as Cindy</li><li>Anthony Phelan as Customer</li><li>Hazem Shammas as Willie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "X (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
+  "movie:759054": {
+   "d": "Rise (2022): Drama film. Story: After emigrating to Greece from Nigeria, Vera and… See cast, TMDB rating 7.5/10, and release date 23 June 2022.",
+   "img": "https://image.tmdb.org/t/p/w780/uKL39lSf3rQbcMG8XbByoHBwGId.jpg",
+   "industry": "world",
+   "k": "Rise, Rise movie, Rise cast, Rise story, Rise box office collection, Rise budget, Rise review, Rise rating, Rise release date, Rise trailer, Rise Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Uche Agada"
+     },
+     {
+      "@type": "Person",
+      "name": "Dayo Okeniyi"
+     },
+     {
+      "@type": "Person",
+      "name": "Yetide Badaki"
+     },
+     {
+      "@type": "Person",
+      "name": "Ral Agada"
+     },
+     {
+      "@type": "Person",
+      "name": "Jaden Osimuwa"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 319,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Rise (2022): Drama film. Story: After emigrating to Greece from Nigeria, Vera and… See cast, TMDB rating 7.5/10, and release date 23 June 2022.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Akin Omotoso"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uKL39lSf3rQbcMG8XbByoHBwGId.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=759054",
+    "name": "Rise",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-06-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=759054"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Rise (2022)</h1>\n<p class=\"ssr-lead\">After emigrating to Greece from Nigeria, Vera and Charles Antetokounmpo struggled to survive and provide for their five children, while living under the daily threat of deportation. Desperate to obtain Greek citizenship but undermined by a system that blocked them at every turn, the family&#x27;s vision, determination and faith lifted them out of obscurity to launch the careers of three NBA champions.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 June 2022</li><li>Runtime: 113 minutes</li><li>Director: Akin Omotoso</li><li>Genres: Drama</li><li>TMDB rating: 7.5/10 (319 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Uche Agada as Giannis Antetokounmpo</li><li>Dayo Okeniyi as Charles Antetokounmpo</li><li>Yetide Badaki as Veronica Antetokounmpo</li><li>Ral Agada as Thanasis Antetokounmpo</li><li>Jaden Osimuwa as Kostas Antetokounmpo</li><li>Elijah Sholanke as Alexandros Antetokounmpo</li><li>Taylor Nichols as John Hammond</li><li>Panos Koronis as Takis Zivas</li><li>Manish Dayal as Kevin Stephanides</li><li>Christos Loulis as Poco</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li></ul>\n</article>",
+   "t": "Rise (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
   "movie:780154": {
    "d": "All My Friends Are Dead (2020): Comedy/Drama film. Story: A group of friends at a New Year’s Eve party go… See cast and TMDB rating 5.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/cGJUnIquDE7SZpCS7YDG29roLwL.jpg",
@@ -2295,6 +2805,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>All My Friends Are Dead (2020)</h1>\n<p class=\"ssr-lead\">A group of friends at a New Year’s Eve party go through a whirlwind of events that exposes secrets, breaks hearts — and leads to a shocking outcome.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 December 2020</li><li>Runtime: 95 minutes</li><li>Director: Jan Belcl</li><li>Genres: Comedy, Drama, Thriller</li><li>TMDB rating: 5.8/10 (404 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Julia Wieniawa as Anastazja</li><li>Mateusz Więcławek as Filip</li><li>Adam Woronowicz as Inspector Kwaśniewski</li><li>Monika Krzywkowska as Gloria</li><li>Paulina Gałązka as Jolanta</li><li>Aleksandra Pisula as Olivia</li><li>Adam Turczyk as Jordan</li><li>Nikodem Rozbicki as Paweł</li><li>Katarzyna Chojnacka as Angelika</li><li>Konrad Żygadło as Daniel</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "All My Friends Are Dead (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
+  },
+  "movie:872954": {
+   "d": "The Old Way (2023): Action/Drama film. Story: An old gunslinger and his daughter must face the… See cast, TMDB rating 5.7/10, and release date 6 January 2023.",
+   "img": "https://image.tmdb.org/t/p/w780/gGkm2TDZjXQjtcLy8F5V0lrhYNw.jpg",
+   "industry": "world",
+   "k": "The Old Way, The Old Way movie, The Old Way cast, The Old Way story, The Old Way box office collection, The Old Way budget, The Old Way review, The Old Way rating, The Old Way release date, The Old Way trailer, The Old Way Action, The Old Way Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nicolas Cage"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryan Kiera Armstrong"
+     },
+     {
+      "@type": "Person",
+      "name": "Noah Le Gros"
+     },
+     {
+      "@type": "Person",
+      "name": "Clint Howard"
+     },
+     {
+      "@type": "Person",
+      "name": "Shiloh Fernandez"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 316,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "The Old Way (2023): Action/Drama film. Story: An old gunslinger and his daughter must face the… See cast, TMDB rating 5.7/10, and release date 6 January 2023.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Brett Donowho"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gGkm2TDZjXQjtcLy8F5V0lrhYNw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=872954",
+    "name": "The Old Way",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-01-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=872954"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Old Way (2023)</h1>\n<p class=\"ssr-lead\">An old gunslinger and his daughter must face the consequences of his past, when the son of a man he killed years ago arrives to take his revenge.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 January 2023</li><li>Runtime: 95 minutes</li><li>Director: Brett Donowho</li><li>Genres: Action, Drama, Western</li><li>TMDB rating: 5.7/10 (316 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nicolas Cage as Colton Briggs</li><li>Ryan Kiera Armstrong as Brooke Briggs</li><li>Noah Le Gros as James McCallister</li><li>Clint Howard as Eustice</li><li>Shiloh Fernandez as Boots</li><li>Abraham Benrubi as Big Mike</li><li>Nick Searcy as Marshal Jarret</li><li>Kerry Knuppe as Ruth Briggs</li><li>Dean Armstrong as Clark</li><li>Skyler Stone as Mr. Jeffries</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Hulu, fuboTV, Peacock Premium, Lionsgate+ Amazon Channel, Amazon Prime Video with Ads, Peacock Premium Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Old Way (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
   },
   "movie:8954": {
    "d": "Reservation Road (2007): Drama/Crime film. Story: Two fathers' lives intersect when one of them is… See cast and TMDB rating 6.5/10.",

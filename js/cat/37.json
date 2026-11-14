@@ -1,6 +1,6 @@
 {
  "bucket": "37",
- "count": 45,
+ "count": 52,
  "titles": {
   "movie:10337": {
    "backdrop_path": "/t353Hj5sFXWQFriVzB1GiT3TSlm.jpg",
@@ -1540,6 +1540,138 @@
    "vote_average": 7.762,
    "vote_count": 21
   },
+  "movie:14237": {
+   "backdrop_path": "/uu2AafsWp6sovE8OHYqXpudGRwU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Michael",
+     "n": "Edward Furlong"
+    },
+    {
+     "c": "Detective Hayden",
+     "n": "Frank Langella"
+    },
+    {
+     "c": "The Trickster",
+     "n": "T. Ryder Smith"
+    },
+    {
+     "c": "Kimberly",
+     "n": "Amy Hargreaves"
+    },
+    {
+     "c": "Kyle",
+     "n": "Jamie Marsh"
+    },
+    {
+     "c": "Martin",
+     "n": "Victor Ertmanis"
+    },
+    {
+     "c": "Dr. Fromberg",
+     "n": "David Hemblen"
+    },
+    {
+     "c": "Frank",
+     "n": "Vlasta Vrana"
+    },
+    {
+     "c": "Ken",
+     "n": "Domenico Fiore"
+    },
+    {
+     "c": "News Anchor",
+     "n": "Claire Riley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Flynn"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 14237,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A lonely teenage horror fan and video gamer plays a new immersive and hypnotic computer game where he becomes a psychopathic killer, but when he emerges, he finds that the murder has actually happened.",
+   "popularity": 1.6696,
+   "poster_path": "/5JqamPZC7W5rzRNweMGhqltcsIV.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1994-04-22",
+   "revenue": 4352094,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Wanna play? I dare you.",
+   "title": "Brainscan",
+   "trailer": {
+    "key": "CJwuX3m1Bcs",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.124,
+   "vote_count": 307
+  },
   "movie:1575337": {
    "backdrop_path": "/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg",
    "budget": 0,
@@ -2034,6 +2166,104 @@
    "vote_average": 6.0,
    "vote_count": 367
   },
+  "movie:17337": {
+   "backdrop_path": "/qIkSCWFsXGDYInpQCqtKqCsatKl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Littlefoot (voice)",
+     "n": "Thomas Dekker"
+    },
+    {
+     "c": "Grandpa (voice)",
+     "n": "Kenneth Mars"
+    },
+    {
+     "c": "Cera (voice)",
+     "n": "Anndi McAfee"
+    },
+    {
+     "c": "Ducky (voice)",
+     "n": "Aria Noelle Curzon"
+    },
+    {
+     "c": "Petrie / Spike (voice)",
+     "n": "Jeff Bennett"
+    },
+    {
+     "c": "Dana (voice)",
+     "n": "Nancy Cartwright"
+    },
+    {
+     "c": "Dinah (voice)",
+     "n": "Sandy Fox"
+    },
+    {
+     "c": "Grandma (voice)",
+     "n": "Miriam Flynn"
+    },
+    {
+     "c": "Cera's Dad (voice)",
+     "n": "John Ingle"
+    },
+    {
+     "c": "Allosaurus (voice)",
+     "n": "Danny Mann"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Charles Grosvenor"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Family"
+   ],
+   "id": 17337,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Littlefoot's grandfather narrates the story about the Lone Dinosaur that killed a Sharptooth. A giant monolith formed after the fight and if it's destroyed, bad luck will loom over the valley.",
+   "popularity": 2.4453,
+   "poster_path": "/gULz0vkjx3VrN9aJGjQ7EduSNx8.jpg",
+   "production_countries": [
+    "KR",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1998-12-01",
+   "revenue": 0,
+   "runtime": 77,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Land Before Time VI: The Secret of Saurus Rock",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.203,
+   "vote_count": 308
+  },
   "movie:23637": {
    "backdrop_path": "/8feVoYD8Ps0p9qI5pmRPKXmLu52.jpg",
    "budget": 0,
@@ -2290,6 +2520,153 @@
    "vote_average": 5.713,
    "vote_count": 361
   },
+  "movie:261037": {
+   "backdrop_path": "/s6eh24u2kJjSiITYxvGVTS6rnev.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Miss Meadows",
+     "n": "Katie Holmes"
+    },
+    {
+     "c": "Sheriff",
+     "n": "James Badge Dale"
+    },
+    {
+     "c": "Skylar",
+     "n": "Callan Mulvey"
+    },
+    {
+     "c": "Mrs. Davenport",
+     "n": "Mary Kay Place"
+    },
+    {
+     "c": "Doctor",
+     "n": "Saidah Arrika Ekulona"
+    },
+    {
+     "c": "Derek Weaver",
+     "n": "James Landry Hébert"
+    },
+    {
+     "c": "Trudy Navis",
+     "n": "Kate Linder"
+    },
+    {
+     "c": "Lt. Danny",
+     "n": "Stephen Bishop"
+    },
+    {
+     "c": "Mother Meadows",
+     "n": "Jean Smart"
+    },
+    {
+     "c": "Minister",
+     "n": "Harry Zinn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Karen Leigh Hopkins"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 261037,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Miss Meadows is a school teacher with impeccable manners and grace. However, underneath the candy-sweet exterior hides a ruthless gun-toting vigilante who takes it upon herself to right the wrongs in the world by whatever means necessary. For Miss Meadows, bad behavior is simply unforgivable.",
+   "popularity": 2.0819,
+   "poster_path": "/fpYXvWGKPwk51UTk8hqo0qE13qk.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-09-12",
+   "revenue": 0,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "She doesn't play well with others.",
+   "title": "Miss Meadows",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.862,
+   "vote_count": 322
+  },
   "movie:284537": {
    "backdrop_path": "/dtgSkyamABSVFbZhJNl4e5SX6VL.jpg",
    "budget": 0,
@@ -2395,6 +2772,369 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 352
+  },
+  "movie:310137": {
+   "backdrop_path": "/bR9JE8Y5YNYIBqXaDQuTaWKv5B5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eve Pritchard",
+     "n": "Tina Ivlev"
+    },
+    {
+     "c": "Phil",
+     "n": "Richard Tyson"
+    },
+    {
+     "c": "Lea",
+     "n": "Bianca Malinowski"
+    },
+    {
+     "c": "Ronnie Taylor",
+     "n": "Kris Kjornes"
+    },
+    {
+     "c": "Laura",
+     "n": "Dustin Quick"
+    },
+    {
+     "c": "Nina",
+     "n": "Stephanie Charles"
+    },
+    {
+     "c": "Skinny Man",
+     "n": "Ric Sarabia"
+    },
+    {
+     "c": "Katrina Garza",
+     "n": "Nihan Gur"
+    },
+    {
+     "c": "Fat Man",
+     "n": "Keith Johnson"
+    },
+    {
+     "c": "Tall Man",
+     "n": "Scott Vance"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "José Manuel Cravioto"
+   ],
+   "genres": [
+    "Thriller",
+    "Horror"
+   ],
+   "id": 310137,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young woman, Eve, fights back and manages to escape a malicious abductor. However, after discovering she may not be the only victim, Eve unravels a darker truth and decides to turn the tables on her captor.",
+   "popularity": 1.6215,
+   "poster_path": "/bA6GPWd69RBlcD1wpowtMhgOmFr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-06-26",
+   "revenue": 0,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Escape is just the beginning.",
+   "title": "Bound to Vengeance",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.647,
+   "vote_count": 309
+  },
+  "movie:319337": {
+   "backdrop_path": "/zpFFDwv7RsWwQIRBHzUW7WGmycC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Georg Elser",
+     "n": "Christian Friedel"
+    },
+    {
+     "c": "Elsa",
+     "n": "Katharina Schüttler"
+    },
+    {
+     "c": "Nebe",
+     "n": "Burghart Klaußner"
+    },
+    {
+     "c": "Heinrich Müller",
+     "n": "Johann von Bülow"
+    },
+    {
+     "c": "Eberle",
+     "n": "Felix Eitner"
+    },
+    {
+     "c": "Josef Schurr",
+     "n": "David Zimmerschied"
+    },
+    {
+     "c": "Erich",
+     "n": "Rüdiger Klink"
+    },
+    {
+     "c": "SA-Mann",
+     "n": "Oliver Bigalke"
+    },
+    {
+     "c": "Maria Elser",
+     "n": "Cornelia Köndgen"
+    },
+    {
+     "c": "Ludwig Elser",
+     "n": "Martin Maria Abram"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Oliver Hirschbiegel"
+   ],
+   "genres": [
+    "History",
+    "Drama"
+   ],
+   "id": 319337,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "The breathtaking story of a man who nearly would have changed the world. In 1939, when Hitler tricked millions of people at the height of his power, radical Georg Elser — disparaged as an assassin — is one of the greatest resistance fighters.",
+   "popularity": 1.9674,
+   "poster_path": "/dSaDHmmDWLdoJnCnwJQToFkXJp5.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-04-09",
+   "revenue": 1328233,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "This man could have changed history",
+   "title": "13 Minutes",
+   "trailer": {
+    "key": "8SsIsCWXtV4",
+    "name": "13 MINUTES - UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 322
   },
   "movie:348537": {
    "backdrop_path": "/rvMBDR182O8S3CqXymi7GwX1ekF.jpg",
@@ -2550,6 +3290,222 @@
    "type": "movie",
    "vote_average": 5.52,
    "vote_count": 442
+  },
+  "movie:362637": {
+   "backdrop_path": "/Alq6OY1DspbQG0kFHWAfZC7FqJ7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Stefano Parisi",
+     "n": "Luca Argentero"
+    },
+    {
+     "c": "Claudia Torrini",
+     "n": "Sarah Felberbaum"
+    },
+    {
+     "c": "Alessandro",
+     "n": "Giampaolo Morelli"
+    },
+    {
+     "c": "Mariasole",
+     "n": "Anna Safroncik"
+    },
+    {
+     "c": "Doctor Beck",
+     "n": "Tommaso Ragno"
+    },
+    {
+     "c": "Carolina",
+     "n": "Grazia Schiavo"
+    },
+    {
+     "c": "Luca",
+     "n": "Riccardo Russo"
+    },
+    {
+     "c": "Luigi Braschi",
+     "n": "Gualtiero Burzi"
+    },
+    {
+     "c": "Rita",
+     "n": "Elena Di Cioccio"
+    },
+    {
+     "c": "Florist",
+     "n": "Stefano Fresi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Max Croci"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 362637,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "She's a divorce lawyer, single mother and perpetually at war against men, he is a couple's therapist, single and not looking, they meet and collide in a bourgeois and romantic Rome...",
+   "popularity": 0.5313,
+   "poster_path": "/n6XyICW24fbOdNvth24sxBAUqx2.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2015-10-08",
+   "revenue": 0,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Opposites Attract",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 317
+  },
+  "movie:384737": {
+   "backdrop_path": "/5yRU4YM4Vo5jYVZ6FoYlsUOrxU3.jpg",
+   "budget": 10500000,
+   "cast": [
+    {
+     "c": "Eddie",
+     "n": "Bruce Willis"
+    },
+    {
+     "c": "Jack",
+     "n": "Mark-Paul Gosselaar"
+    },
+    {
+     "c": "Karen",
+     "n": "Claire Forlani"
+    },
+    {
+     "c": "Logan",
+     "n": "Jenna B. Kelly"
+    },
+    {
+     "c": "Andrew Herzberg",
+     "n": "Nick Loeb"
+    },
+    {
+     "c": "Simon",
+     "n": "Daniel Bernhardt"
+    },
+    {
+     "c": "Nicholas",
+     "n": "John Brotherton"
+    },
+    {
+     "c": "Jenna",
+     "n": "Lydia Hull"
+    },
+    {
+     "c": "Apsara",
+     "n": "Sammi Barber"
+    },
+    {
+     "c": "Lucas",
+     "n": "Tyler Jon Olson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Max Adams"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 384737,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After a botched heist, Eddie  a murderous crime boss, hunts down the seductive thief Karen who failed him. In order to win back Eddie’s trust, Karen recruits her ex-lover and premier thief Jack to steal a cargo of rare precious gems. But when the job goes down, allegiances are betrayed and lines are crossed as Jack, Karen, and Eddie face off in a fateful showdown.",
+   "popularity": 2.1844,
+   "poster_path": "/dOQv2PDBu9bBCZRLeRp6QQYJDr3.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Zee5"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-07-14",
+   "revenue": 567064,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Never steal from a thief",
+   "title": "Precious Cargo",
+   "trailer": {
+    "key": "NWnrow_02mA",
+    "name": "Precious Cargo (2016 Movie – Starring Bruce Willis, Mark-Paul Gosselaar) – Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.1,
+   "vote_count": 311
   },
   "movie:42437": {
    "backdrop_path": "/me8J6liwKAiabtJteO2qmPlKMrs.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "83",
- "count": 41,
+ "count": 49,
  "titles": {
   "movie:10183": {
    "d": "Frozen River (2008): Drama/Crime film. Story: A financially strapped mother joins a Mohawk woman to… See cast, budget $1M, and TMDB rating 6.6/10.",
@@ -194,6 +194,70 @@
    "t": "Mother Mary (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:11483": {
+   "d": "Pirates (1986): Adventure/Comedy film. Story: Captain Red runs a hardy pirate ship with the able… See cast, budget $40M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jBfHr0cZqHXbORe7g6tDKB16MhL.jpg",
+   "industry": "world",
+   "k": "Pirates, Pirates movie, Pirates cast, Pirates story, Pirates box office collection, Pirates budget, Pirates review, Pirates rating, Pirates release date, Pirates Adventure, Pirates Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Walter Matthau"
+     },
+     {
+      "@type": "Person",
+      "name": "Cris Campion"
+     },
+     {
+      "@type": "Person",
+      "name": "Damien Thomas"
+     },
+     {
+      "@type": "Person",
+      "name": "Olu Jacobs"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlotte Lewis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 331,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Pirates (1986): Adventure/Comedy film. Story: Captain Red runs a hardy pirate ship with the able… See cast, budget $40M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Roman Polanski"
+     }
+    ],
+    "duration": "PT124M",
+    "genre": [
+     "Adventure",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jBfHr0cZqHXbORe7g6tDKB16MhL.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11483",
+    "name": "Pirates",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1986-05-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11483"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pirates (1986)</h1>\n<p class=\"ssr-lead\">Captain Red runs a hardy pirate ship with the able assistance of Frog, a dashing young French sailor. One day Capt. Red is captured and taken aboard a Spanish galleon, but thanks to his inventiveness, he raises the crew to mutiny, takes over the ship, and kidnaps the niece of the governor of Maracaibo. The question is, can he keep this pace up?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 May 1986</li><li>Runtime: 124 minutes</li><li>Director: Roman Polanski</li><li>Genres: Adventure, Comedy</li><li>Budget: $40M</li><li>TMDB rating: 6.3/10 (331 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Walter Matthau as Captain Thomas Bartholomew Red</li><li>Cris Campion as Jean-Baptiste &#x27;The Frog&#x27;</li><li>Damien Thomas as Don Alfonso de la Torré</li><li>Olu Jacobs as Boomako</li><li>Charlotte Lewis as María-Dolores de la Jenya de la Calde</li><li>Roy Kinnear as Dutch</li><li>Roger Ashton-Griffiths as Moonhead</li><li>David Kelly as Surgeon</li><li>Michael Elphick as Sentry</li><li>Ferdy Mayne as Captain Linares</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Pirates (1986) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1986"
+  },
   "movie:11583": {
    "d": "The First Great Train Robbery (1978): Thriller/Adventure film. Story: In Victorian England, a master criminal makes… See cast and budget $6M.",
    "img": "https://image.tmdb.org/t/p/w780/hRqwp6ee3qKnUWLw6S4nj9yMwv0.jpg",
@@ -257,6 +321,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The First Great Train Robbery (1978)</h1>\n<p class=\"ssr-lead\">In Victorian England, a master criminal makes elaborate plans to steal a shipment of gold from a moving train.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 December 1978</li><li>Runtime: 110 minutes</li><li>Director: Michael Crichton</li><li>Genres: Thriller, Adventure, Drama, Crime</li><li>Budget: $6M</li><li>TMDB rating: 6.7/10 (461 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sean Connery as Edward Pierce</li><li>Donald Sutherland as Robert Agar</li><li>Lesley-Anne Down as Miriam</li><li>Peter Butterworth as Putnam</li><li>Michael Elphick as Burgess</li><li>Alan Webb as Edgar Trent</li><li>Robert Lang as Sharp</li><li>Malcolm Terris as Fowler</li><li>Wayne Sleep as Clean Willy</li><li>Gabrielle Lloyd as Elizabeth Trent</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "The First Great Train Robbery (1978) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1978"
+  },
+  "movie:12583": {
+   "d": "Ginger Snaps Back: The Beginning (2004): Horror/Fantasy film. Story: Set in 19th Century Canada, Brigitte and her sister… See cast and budget $3.5M.",
+   "img": "https://image.tmdb.org/t/p/w780/6WiX5YHelMF0ci2S1xXsiAQ9Jsu.jpg",
+   "industry": "world",
+   "k": "Ginger Snaps Back: The Beginning, Ginger Snaps Back: The Beginning movie, Ginger Snaps Back: The Beginning cast, Ginger Snaps Back: The Beginning story, Ginger Snaps Back: The Beginning box office collection, Ginger Snaps Back: The Beginning budget, Ginger Snaps Back: The Beginning review, Ginger Snaps Back: The Beginning rating, Ginger Snaps Back: The Beginning release date, Ginger Snaps Back: The Beginning Horror, Ginger Snaps Back: The Beginning Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Katharine Isabelle"
+     },
+     {
+      "@type": "Person",
+      "name": "Emily Perkins"
+     },
+     {
+      "@type": "Person",
+      "name": "Nathaniel Arcand"
+     },
+     {
+      "@type": "Person",
+      "name": "JR Bourne"
+     },
+     {
+      "@type": "Person",
+      "name": "Hugh Dillon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 327,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Ginger Snaps Back: The Beginning (2004): Horror/Fantasy film. Story: Set in 19th Century Canada, Brigitte and her sister… See cast and budget $3.5M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Grant Harvey"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Horror",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6WiX5YHelMF0ci2S1xXsiAQ9Jsu.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12583",
+    "name": "Ginger Snaps Back: The Beginning",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-07-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12583"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ginger Snaps Back: The Beginning (2004)</h1>\n<p class=\"ssr-lead\">Set in 19th Century Canada, Brigitte and her sister Ginger take refuge in a Traders&#x27; Fort which later becomes under siege by some savage werewolves. But when one of the girls is bitten, they have no one to turn to but themselves.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 July 2004</li><li>Runtime: 95 minutes</li><li>Director: Grant Harvey</li><li>Genres: Horror, Fantasy</li><li>Budget: $3.5M</li><li>TMDB rating: 6.1/10 (327 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Katharine Isabelle as Ginger Fitzgerald</li><li>Emily Perkins as Brigitte Fitzgerald</li><li>Nathaniel Arcand as Hunter</li><li>JR Bourne as James</li><li>Hugh Dillon as Reverend Gilbert</li><li>Adrien Dorval as Seamus</li><li>Brendan Fletcher as Finn</li><li>David La Haye as Claude</li><li>Tom McCamus as Wallace Rowlands</li><li>Matthew Walker as Doc Murphy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Movie Sphere+</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Ginger Snaps Back: The Beginning (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
   },
   "movie:1259983": {
    "d": "Guru (2026): Drama/Thriller film. Story: Matt, a charismatic coach, captivates crowds until he… See cast, TMDB rating 6.0/10, and release date 28 January 2026.",
@@ -1016,6 +1144,134 @@
    "t": "The Wizard (1989) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1989"
   },
+  "movie:20083": {
+   "d": "Shinjuku Incident (2009): Drama/Action film. Story: A simple Chinese immigrant wages a perilous war… See cast, budget $15M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7JubXPFBKGpJ7mvpMJQ7M0s8DG7.jpg",
+   "industry": "world",
+   "k": "Shinjuku Incident, Shinjuku Incident movie, Shinjuku Incident cast, Shinjuku Incident story, Shinjuku Incident box office collection, Shinjuku Incident budget, Shinjuku Incident review, Shinjuku Incident rating, Shinjuku Incident release date, Shinjuku Incident trailer, Shinjuku Incident Drama, Shinjuku Incident Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jackie Chan"
+     },
+     {
+      "@type": "Person",
+      "name": "Naoto Takenaka"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Wu"
+     },
+     {
+      "@type": "Person",
+      "name": "Fan Bingbing"
+     },
+     {
+      "@type": "Person",
+      "name": "Xu Jinglei"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 338,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Shinjuku Incident (2009): Drama/Action film. Story: A simple Chinese immigrant wages a perilous war… See cast, budget $15M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Derek Yee Tung-Sing"
+     }
+    ],
+    "duration": "PT119M",
+    "genre": [
+     "Drama",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7JubXPFBKGpJ7mvpMJQ7M0s8DG7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=20083",
+    "name": "Shinjuku Incident",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-03-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=20083"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Shinjuku Incident (2009)</h1>\n<p class=\"ssr-lead\">A simple Chinese immigrant wages a perilous war against one of the most powerful criminal organizations on the planet.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 March 2009</li><li>Runtime: 119 minutes</li><li>Director: Derek Yee Tung-Sing</li><li>Genres: Drama, Action, Thriller, Crime</li><li>Budget: $15M</li><li>TMDB rating: 6.7/10 (338 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jackie Chan as Steelhead</li><li>Naoto Takenaka as Inspector Kitano</li><li>Daniel Wu as Jie</li><li>Fan Bingbing as Lily</li><li>Xu Jinglei as Xiu Xiu / Yuko Eguchi</li><li>Masaya Katō as Toshinari Eguchi</li><li>Toru Minegishi as Koichi Muranishi</li><li>Jack Kao as Gao Jie</li><li>Yasuaki Kurata as Taro Watagawa</li><li>Chin Ka-Lok as Hong Kong Boy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: VI movies and tv</li></ul>\n</article>",
+   "t": "Shinjuku Incident (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
+  "movie:20283": {
+   "d": "Breaking Away (1979): Drama/Comedy film. Story: Dave, nineteen, has just graduated high school, with… See cast, budget $2.3M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yNjrT8bsr5WR9bmRjLsIwIoZtFR.jpg",
+   "industry": "world",
+   "k": "Breaking Away, Breaking Away movie, Breaking Away cast, Breaking Away story, Breaking Away box office collection, Breaking Away budget, Breaking Away review, Breaking Away rating, Breaking Away release date, Breaking Away Drama, Breaking Away Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dennis Christopher"
+     },
+     {
+      "@type": "Person",
+      "name": "Dennis Quaid"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Stern"
+     },
+     {
+      "@type": "Person",
+      "name": "Jackie Earle Haley"
+     },
+     {
+      "@type": "Person",
+      "name": "Barbara Barrie"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 313,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Breaking Away (1979): Drama/Comedy film. Story: Dave, nineteen, has just graduated high school, with… See cast, budget $2.3M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peter Yates"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yNjrT8bsr5WR9bmRjLsIwIoZtFR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=20283",
+    "name": "Breaking Away",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1979-05-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=20283"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Breaking Away (1979)</h1>\n<p class=\"ssr-lead\">Dave, nineteen, has just graduated high school, with his three friends: the comical Cyril, the warm hearted but short-tempered Moocher, and the athletic, spiteful but good-hearted Mike. Now, Dave enjoys racing bikes and hopes to race the Italians one day, and even takes up the Italian culture, much to his friends&#x27; and parents&#x27; annoyance.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 May 1979</li><li>Runtime: 101 minutes</li><li>Director: Peter Yates</li><li>Genres: Drama, Comedy</li><li>Budget: $2.3M</li><li>TMDB rating: 7.1/10 (313 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dennis Christopher as Dave Stoller</li><li>Dennis Quaid as Mike</li><li>Daniel Stern as Cyril</li><li>Jackie Earle Haley as Moocher</li><li>Barbara Barrie as Evelyn Stoller</li><li>Paul Dooley as Ray Stoller</li><li>Robyn Douglass as Katherine</li><li>Hart Bochner as Rod</li><li>Amy Wright as Nancy</li><li>Peter Maloney as Doctor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Breaking Away (1979) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1979"
+  },
   "movie:20483": {
    "d": "Catch That Kid (2004): Family/Action film. Story: A determined twelve-year-old mountain climber takes… See cast, budget $18M, and TMDB rating 5.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/eIJEApRNDaysFxBIJFXCxdciZpk.jpg",
@@ -1280,6 +1536,132 @@
    "t": "The Professionals (1966) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1966"
   },
+  "movie:23383": {
+   "d": "Hamlet (1948): Drama film. Story: Winner of four Academy Awards, including Best Picture… See cast, budget $750.0k, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tFfucMJh4Me1JYBIRJcOokWWuLs.jpg",
+   "industry": "world",
+   "k": "Hamlet, Hamlet movie, Hamlet cast, Hamlet story, Hamlet box office collection, Hamlet budget, Hamlet review, Hamlet rating, Hamlet release date, Hamlet trailer, Hamlet Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Laurence Olivier"
+     },
+     {
+      "@type": "Person",
+      "name": "Basil Sydney"
+     },
+     {
+      "@type": "Person",
+      "name": "Eileen Herlie"
+     },
+     {
+      "@type": "Person",
+      "name": "Norman Wooland"
+     },
+     {
+      "@type": "Person",
+      "name": "Felix Aylmer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 308,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Hamlet (1948): Drama film. Story: Winner of four Academy Awards, including Best Picture… See cast, budget $750.0k, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Laurence Olivier"
+     }
+    ],
+    "duration": "PT153M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tFfucMJh4Me1JYBIRJcOokWWuLs.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=23383",
+    "name": "Hamlet",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1948-12-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=23383"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hamlet (1948)</h1>\n<p class=\"ssr-lead\">Winner of four Academy Awards, including Best Picture and Best Actor, Sir Laurence Olivier’s Hamlet continues to be the most compelling version of Shakespeare’s beloved tragedy. Olivier is at his most inspired—both as director and as the melancholy Dane himself—as he breathes new life into the words of one of the world’s greatest dramatists.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 December 1948</li><li>Runtime: 153 minutes</li><li>Director: Laurence Olivier</li><li>Genres: Drama</li><li>Budget: $750.0k</li><li>TMDB rating: 7.4/10 (308 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Laurence Olivier as Hamlet - Prince of Denmark / Voice of Ghost</li><li>Basil Sydney as Claudius - The King</li><li>Eileen Herlie as Gertrude - The Queen</li><li>Norman Wooland as Horatio - His Friend</li><li>Felix Aylmer as Polonius - Lord Chamberlain</li><li>Jean Simmons as Ophelia</li><li>Terence Morgan as Laertes</li><li>Peter Cushing as Osric</li><li>Stanley Holloway as Gravedigger</li><li>Russell Thorndike as Priest</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, HBO Max Amazon Channel, Criterion Channel, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Hamlet (1948) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1948"
+  },
+  "movie:303483": {
+   "d": "Once in a Lifetime (2014): Drama film. Story: At Léon Blum High School in Créteil, France, a… See cast, TMDB rating 7.4/10, and release date 3 December 2014.",
+   "img": "https://image.tmdb.org/t/p/w780/hQyuTd670x8q1751XJ4a2s9zT5d.jpg",
+   "industry": "world",
+   "k": "Once in a Lifetime, Once in a Lifetime movie, Once in a Lifetime cast, Once in a Lifetime story, Once in a Lifetime box office collection, Once in a Lifetime budget, Once in a Lifetime review, Once in a Lifetime rating, Once in a Lifetime release date, Once in a Lifetime trailer, Once in a Lifetime Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ariane Ascaride"
+     },
+     {
+      "@type": "Person",
+      "name": "Ahmed Dramé"
+     },
+     {
+      "@type": "Person",
+      "name": "Noémie Merlant"
+     },
+     {
+      "@type": "Person",
+      "name": "Geneviève Mnich"
+     },
+     {
+      "@type": "Person",
+      "name": "Stéphane Bak"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 333,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Once in a Lifetime (2014): Drama film. Story: At Léon Blum High School in Créteil, France, a… See cast, TMDB rating 7.4/10, and release date 3 December 2014.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Marie-Castille Mention-Schaar"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hQyuTd670x8q1751XJ4a2s9zT5d.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=303483",
+    "name": "Once in a Lifetime",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-12-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=303483"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Once in a Lifetime (2014)</h1>\n<p class=\"ssr-lead\">At Léon Blum High School in Créteil, France, a history teacher decides to have her weakest 10th grade class participate in a national history competition.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 December 2014</li><li>Runtime: 105 minutes</li><li>Director: Marie-Castille Mention-Schaar</li><li>Genres: Drama</li><li>TMDB rating: 7.4/10 (333 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ariane Ascaride as Anne Gueguen</li><li>Ahmed Dramé as Malik</li><li>Noémie Merlant as Mélanie</li><li>Geneviève Mnich as Yvette Thomas</li><li>Stéphane Bak as Max</li><li>Wendy Nieto as Jamila</li><li>Aïmen Derriachi as Saïd</li><li>Mohamed Seddiki as Olivier / Brahim</li><li>Adrien Hurdubae as Théo</li><li>Alicia Dadoun as Camélia</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Chai Flicks, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Once in a Lifetime (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:33583": {
    "d": "The Decameron (1971): History/Drama film. Story: A young Sicilian is swindled twice, but ends up rich… See cast and TMDB rating 6.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/9CbH2EktREWAur7XLBeFNFNr5BQ.jpg",
@@ -1343,6 +1725,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Decameron (1971)</h1>\n<p class=\"ssr-lead\">A young Sicilian is swindled twice, but ends up rich; a man poses as a deaf-mute in a convent of curious nuns; a woman must hide her lover when her husband comes home early; a scoundrel fools a priest on his deathbed; three brothers take revenge on their sister&#x27;s lover; a young girl sleeps on the roof to meet her boyfriend at night; a group of painters wait for inspiration; a crafty priest attempts to seduce his friend&#x27;s wife; and two friends make a pact to find out what happens after death.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 August 1971</li><li>Runtime: 111 minutes</li><li>Director: Pier Paolo Pasolini</li><li>Genres: History, Drama, Comedy</li><li>TMDB rating: 6.9/10 (370 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Franco Citti as Ciappelletto</li><li>Ninetto Davoli as Andreuccio of Perugia</li><li>Jovan Jovanović as Rustico (scenes deleted)</li><li>Angela Luce as Peronella</li><li>Vincenzo Amato as Masetto of Lamporecchio</li><li>Giuseppe Zigaina as Monk</li><li>Maria Gabriella Maione as Una Madonna</li><li>Vincenzo Cristo</li><li>Pier Paolo Pasolini as Allievo di Giotto</li><li>Giorgio Iovine as Lizio da Valbona</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
    "t": "The Decameron (1971) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1971"
+  },
+  "movie:34583": {
+   "d": "The Final (2010): Thriller/Horror film. Story: A group of high school outcasts get revenge on the… See cast, budget $1M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sSBLA1G4A6ZEFWhFrrox9fIV8Mt.jpg",
+   "industry": "world",
+   "k": "The Final, The Final movie, The Final cast, The Final story, The Final box office collection, The Final budget, The Final review, The Final rating, The Final release date, The Final trailer, The Final Thriller, The Final Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Marc Donato"
+     },
+     {
+      "@type": "Person",
+      "name": "Jascha Washington"
+     },
+     {
+      "@type": "Person",
+      "name": "Whitney Hoy"
+     },
+     {
+      "@type": "Person",
+      "name": "Justin Arnold"
+     },
+     {
+      "@type": "Person",
+      "name": "Lindsay Seidel"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 316,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "The Final (2010): Thriller/Horror film. Story: A group of high school outcasts get revenge on the… See cast, budget $1M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joey Stewart"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Thriller",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sSBLA1G4A6ZEFWhFrrox9fIV8Mt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=34583",
+    "name": "The Final",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-01-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=34583"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Final (2010)</h1>\n<p class=\"ssr-lead\">A group of high school outcasts get revenge on the students that torment them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 January 2010</li><li>Runtime: 93 minutes</li><li>Director: Joey Stewart</li><li>Genres: Thriller, Horror</li><li>Budget: $1M</li><li>TMDB rating: 6.0/10 (316 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Marc Donato as Dane</li><li>Jascha Washington as Kurtis</li><li>Whitney Hoy as Bridget</li><li>Justin Arnold as Bradley</li><li>Lindsay Seidel as Emily</li><li>Laura Ashley Samuels as Kelli</li><li>Travis Tedford as Andy</li><li>Eric Isenhower as Jack</li><li>Vincent Silochan as Ravi</li><li>Preston Flagg as Riggs</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Fandango At Home</li><li>Buy: Fandango At Home</li></ul>\n</article>",
+   "t": "The Final (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
   },
   "movie:369883": {
    "d": "Middle School: The Worst Years of My Life (2016): Family/Comedy film. Story: A quiet teenage artist Rafe Katchadorian has a wild… See cast and budget $8.5M.",
@@ -1534,6 +1980,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Action Point (2018)</h1>\n<p class=\"ssr-lead\">A daredevil designs and operates his own theme park with his friends.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 June 2018</li><li>Runtime: 85 minutes</li><li>Director: Tim Kirkby</li><li>Genres: Comedy</li><li>Budget: $19M</li><li>TMDB rating: 5.5/10 (372 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Johnny Knoxville as Deshawn Crious &quot;D.C.&quot; Carver</li><li>Chris Pontius as Benny</li><li>Clover Nee as Rudie</li><li>Eleanor Worthington-Cox as Boogie</li><li>Susan Yeagley as Adult Boogie</li><li>Dan Bakkedahl as Knoblach</li><li>Camilla Wolfson as Mia</li><li>Johnny Pemberton as Ziffel</li><li>Jack Haven as Four Finger Annie</li><li>Eric Manaka as Rodney</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Action Point (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
+  },
+  "movie:525183": {
+   "d": "Paddleton (2019): Comedy/Drama film. Story: An unlikely friendship between two neighbors becomes… See cast and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/maoFnW8j7thGdiplQgT5UGNlbHo.jpg",
+   "industry": "world",
+   "k": "Paddleton, Paddleton movie, Paddleton cast, Paddleton story, Paddleton box office collection, Paddleton budget, Paddleton review, Paddleton rating, Paddleton release date, Paddleton trailer, Paddleton Comedy, Paddleton Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mark Duplass"
+     },
+     {
+      "@type": "Person",
+      "name": "Ray Romano"
+     },
+     {
+      "@type": "Person",
+      "name": "Christine Woods"
+     },
+     {
+      "@type": "Person",
+      "name": "Jen Sung"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephen Oyoung"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 328,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Paddleton (2019): Comedy/Drama film. Story: An unlikely friendship between two neighbors becomes… See cast and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alex Lehmann"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/maoFnW8j7thGdiplQgT5UGNlbHo.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=525183",
+    "name": "Paddleton",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-02-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=525183"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Paddleton (2019)</h1>\n<p class=\"ssr-lead\">An unlikely friendship between two neighbors becomes an unexpectedly emotional journey when the younger man is diagnosed with terminal cancer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 February 2019</li><li>Runtime: 89 minutes</li><li>Director: Alex Lehmann</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 7.0/10 (328 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mark Duplass as Michael</li><li>Ray Romano as Andy</li><li>Christine Woods as Doctor Hagen</li><li>Jen Sung as Master Liu</li><li>Stephen Oyoung as Chien</li><li>Bjorn Johnson as Master Liu (voice)</li><li>Harry Dej as Copy Shop Customer</li><li>Sierra Fisk as Olive</li><li>Alana Carithers as Dr. Laurey (voice)</li><li>Lu Junchang as Ku Woo Tai</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Paddleton (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:529983": {
    "d": "The Poison Rose (2019): Thriller/Crime film. Story: A down-on-his-luck PI is hired by his old flame to… See cast and TMDB rating 4.7/10.",

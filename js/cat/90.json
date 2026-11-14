@@ -1,6 +1,6 @@
 {
  "bucket": "90",
- "count": 49,
+ "count": 53,
  "titles": {
   "movie:10390": {
    "backdrop_path": "/jYg7oXQUB3yW6WHYVXn5ltXfcpa.jpg",
@@ -412,6 +412,184 @@
    "type": "movie",
    "vote_average": 6.037,
    "vote_count": 342
+  },
+  "movie:1143190": {
+   "backdrop_path": "/2gmaQoioyg0nmYEMBlSjBovLcUy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tess",
+     "n": "Maggie Q"
+    },
+    {
+     "c": "Beth",
+     "n": "Kat Foster"
+    },
+    {
+     "c": "Perry",
+     "n": "Travis Hammer"
+    },
+    {
+     "c": "Mia",
+     "n": "Gia Crovatin"
+    },
+    {
+     "c": "Bridget",
+     "n": "Brenda Meaney"
+    },
+    {
+     "c": "Noelle",
+     "n": "Ito Aghayere"
+    },
+    {
+     "c": "Esther",
+     "n": "Kirstin Leigh"
+    },
+    {
+     "c": "Rose",
+     "n": "Highdee Kuan"
+    },
+    {
+     "c": "Alfonse",
+     "n": "KeiLyn Durrel Jones"
+    },
+    {
+     "c": "Divya",
+     "n": "Roshni Shukla"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA 15+",
+   "date_kind": "release",
+   "director": [
+    "Neil LaBute"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Horror"
+   ],
+   "id": 1143190,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "During a bachelorette party in a secluded California farmhouse, masked intruders launch a brutal attack, forcing eight women to fight for survival. Led by Tess, a troubled military veteran, they unite to defend themselves throughout a harrowing night.",
+   "popularity": 1.944,
+   "poster_path": "/oAWpvlroYbHbkaeKwlL3XlVRnyG.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Channel 101 Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-11-01",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fight til dawn.",
+   "title": "Fear the Night",
+   "trailer": {
+    "key": "glhL12W4JNY",
+    "name": "Official International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.888,
+   "vote_count": 322
   },
   "movie:11590": {
    "backdrop_path": "/kAMgr9znXqu07SQjdbT1vwUeqYD.jpg",
@@ -1330,6 +1508,283 @@
    "vote_average": 6.099,
    "vote_count": 379
   },
+  "movie:13490": {
+   "backdrop_path": "/wJANuGGBJC5GXJXY93cZXAPD3nk.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Roscoe Jenkins",
+     "n": "Martin Lawrence"
+    },
+    {
+     "c": "Papa Jenkins",
+     "n": "James Earl Jones"
+    },
+    {
+     "c": "Mamma Jenkins",
+     "n": "Margaret Avery"
+    },
+    {
+     "c": "Bianca Kittles",
+     "n": "Joy Bryant"
+    },
+    {
+     "c": "Clyde Stubb",
+     "n": "Cedric the Entertainer"
+    },
+    {
+     "c": "Lucinda Allen",
+     "n": "Nicole Ari Parker"
+    },
+    {
+     "c": "Sheriff Otis Jenkins",
+     "n": "Michael Clarke Duncan"
+    },
+    {
+     "c": "Reggie",
+     "n": "Mike Epps"
+    },
+    {
+     "c": "Betty",
+     "n": "Mo'Nique"
+    },
+    {
+     "c": "Jamaal Jenkins",
+     "n": "Damani Roberts"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Malcolm D. Lee"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+   ],
+   "id": 13490,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a celebrated TV show host returns to his hometown in the South, his family is there to remind him that going home is no vacation!",
+   "popularity": 4.0026,
+   "poster_path": "/1VzS2bkQHVcIxSeBJifOx65oxHK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Starz Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-02-08",
+   "revenue": 43650785,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Roscoe Jenkins aims for the heartstrings and funny bones, a raucous helping of family soul food.",
+   "title": "Welcome Home Roscoe Jenkins",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 324
+  },
+  "movie:13990": {
+   "backdrop_path": "/5GlBEqiG0vpnnRWc7Vi5O4ao6Yi.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Luke Shapiro",
+     "n": "Josh Peck"
+    },
+    {
+     "c": "Dr. Squires",
+     "n": "Ben Kingsley"
+    },
+    {
+     "c": "Kristin Squires",
+     "n": "Famke Janssen"
+    },
+    {
+     "c": "Stephanie",
+     "n": "Olivia Thirlby"
+    },
+    {
+     "c": "Union",
+     "n": "Mary-Kate Olsen"
+    },
+    {
+     "c": "Eleanor",
+     "n": "Jane Adams"
+    },
+    {
+     "c": "Percy",
+     "n": "Method Man"
+    },
+    {
+     "c": "Justin",
+     "n": "Aaron Yoo"
+    },
+    {
+     "c": "Mrs. Shapiro",
+     "n": "Talia Balsam"
+    },
+    {
+     "c": "Mr. Shapiro",
+     "n": "David Wohl"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jonathan Levine"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 13990,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Set in New York City in the sweltering summer, The Wackness tells the story of a troubled teenage drug dealer, who trades pot for therapy sessions with a drug-addled psychiatrist. Things get more complicated when he falls for one of his classmates, who just happens to be the doctor's daughter. This is a coming-of-age story about sex, drugs, music and what it takes to be a man.",
+   "popularity": 1.0769,
+   "poster_path": "/gmtlqHZs8YBXcpMw4BgA3SGJfg8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-07-03",
+   "revenue": 3175469,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Sometimes it's right to do the wrong things.",
+   "title": "The Wackness",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 327
+  },
   "movie:1428990": {
    "backdrop_path": "/dydvEc82Z6ptEx3aAubzJawesiQ.jpg",
    "budget": 0,
@@ -2023,6 +2478,180 @@
    "type": "movie",
    "vote_average": 7.49,
    "vote_count": 52
+  },
+  "movie:17590": {
+   "backdrop_path": "/pk5GvHFVB1a5ifKPrtFTcyLBWsO.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Sidney Bruhl",
+     "n": "Michael Caine"
+    },
+    {
+     "c": "Clifford Anderson",
+     "n": "Christopher Reeve"
+    },
+    {
+     "c": "Myra Bruhl",
+     "n": "Dyan Cannon"
+    },
+    {
+     "c": "Helga ten Dorp",
+     "n": "Irene Worth"
+    },
+    {
+     "c": "Porter Milgrim",
+     "n": "Henry Jones"
+    },
+    {
+     "c": "Seymour Starger",
+     "n": "Joe Silver"
+    },
+    {
+     "c": "Burt",
+     "n": "Tony DiBenedetto"
+    },
+    {
+     "c": "Handsome Actor",
+     "n": "Al LeBreton"
+    },
+    {
+     "c": "Minister",
+     "n": "Francis B. Creamer Jr."
+    },
+    {
+     "c": "Stewart Klein",
+     "n": "Stewart Klein"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Sidney Lumet"
+   ],
+   "genres": [
+    "Mystery",
+    "Thriller",
+    "Comedy"
+   ],
+   "id": 17590,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A Broadway playwright puts murder in his plan to take credit for a student's script.",
+   "popularity": 1.9891,
+   "poster_path": "/fwrqCTcu5rAkU2dL2YqG6jjrLPn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1982-03-19",
+   "revenue": 19000000,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The trap is set... For a wickedly funny who'll-do-it.",
+   "title": "Deathtrap",
+   "trailer": {
+    "key": "8AQ2GlTw7x4",
+    "name": "Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 332
   },
   "movie:18890": {
    "backdrop_path": "/6pbIOpnWFAO42JgZhuNUdMEUxi8.jpg",

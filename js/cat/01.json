@@ -1,6 +1,6 @@
 {
  "bucket": "01",
- "count": 48,
+ "count": 56,
  "titles": {
   "movie:1013601": {
    "backdrop_path": "/iveeHEGtkq0dBJZtOcoK650sZ6x.jpg",
@@ -1311,6 +1311,138 @@
    "vote_average": 7.0,
    "vote_count": 28
   },
+  "movie:17501": {
+   "backdrop_path": "/edCPKBBiWwiLnvMyDwpDeEHL0Oz.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Mark \"Don\" Donald  / Vijay Pal",
+     "n": "Shah Rukh Khan"
+    },
+    {
+     "c": "Roma Bhagat",
+     "n": "Priyanka Chopra Jonas"
+    },
+    {
+     "c": "Jasjit \"JJ\" Ahuja",
+     "n": "Arjun Rampal"
+    },
+    {
+     "c": "DCP DeSilva",
+     "n": "Boman Irani"
+    },
+    {
+     "c": "Vishal Malik",
+     "n": "Om Puri"
+    },
+    {
+     "c": "Anita Sinha",
+     "n": "Isha Koppikar"
+    },
+    {
+     "c": "Narang Singh",
+     "n": "Pavan Malhotra"
+    },
+    {
+     "c": "Sanjeev Singhania",
+     "n": "Rajesh Khattar"
+    },
+    {
+     "c": "Kamini Bhagat / Sonia",
+     "n": "Kareena Kapoor Khan"
+    },
+    {
+     "c": "Ramesh Bhagat",
+     "n": "Diwakar Pundir"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Farhan Akhtar"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 17501,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "DCP DeSilva sees a way to bring to justice the feared head of a criminal empire by recruiting a man named Vijay, who looks exactly like the crime boss. The ruse works too well, and soon Vijay finds his life in danger when DeSilva, the only one who knows his true identity, dies.",
+   "popularity": 1.234,
+   "poster_path": "/1d52h7aDRlc5IPUFno24XPNT6hA.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-10-20",
+   "revenue": 15000000,
+   "runtime": 178,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "The chase begins again.",
+   "title": "Don",
+   "trailer": {
+    "key": "_cJRiAfr2PE",
+    "name": "Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.935,
+   "vote_count": 332
+  },
   "movie:1751701": {
    "backdrop_path": "/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
    "budget": 100000,
@@ -1687,6 +1819,144 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 449
+  },
+  "movie:21301": {
+   "backdrop_path": "/pGlgLhYBBiPerXXgERqsEKn7VlP.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Calvin",
+     "n": "Ice Cube"
+    },
+    {
+     "c": "Eddie",
+     "n": "Cedric the Entertainer"
+    },
+    {
+     "c": "Terri",
+     "n": "Eve"
+    },
+    {
+     "c": "Jimmy",
+     "n": "Sean Patrick Thomas"
+    },
+    {
+     "c": "Isaac",
+     "n": "Troy Garity"
+    },
+    {
+     "c": "Ricky",
+     "n": "Michael Ealy"
+    },
+    {
+     "c": "Gina",
+     "n": "Queen Latifah"
+    },
+    {
+     "c": "Jennifer",
+     "n": "Jazsmin Lewis"
+    },
+    {
+     "c": "Dinka",
+     "n": "Leonard Earl Howze"
+    },
+    {
+     "c": "Quentin Leroux",
+     "n": "Harry Lennix"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Kevin Rodney Sullivan"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 21301,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The continuing adventures of the barbers at Calvin's Barbershop. Gina, a stylist at the beauty shop next door, is now trying to cut in on his business. Calvin is again struggling to keep his father's shop and traditions alive--this time against urban developers looking to replace mom & pop establishments with name-brand chains. The world changes, but some things never go out of style--from current events and politics to relationships and love, you can still say anything you want at the barbershop.",
+   "popularity": 2.3379,
+   "poster_path": "/n4sOe401udZJWJEOvKvSs3peZcB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-01-20",
+   "revenue": 65070412,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Let your hair down.",
+   "title": "Barbershop 2: Back in Business",
+   "trailer": {
+    "key": "YQTD_yRV_bA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 335
   },
   "movie:22201": {
    "backdrop_path": "/n4Ec7koHqqFKz0fC7vIitNxxqwi.jpg",
@@ -2344,6 +2614,265 @@
    "vote_average": 5.7,
    "vote_count": 352
   },
+  "movie:36801": {
+   "backdrop_path": "/pZeOUR7fNfXdSZJhWLnReK8kaJi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Frederick \"Freddie\" Taylor",
+     "n": "Christian Cooke"
+    },
+    {
+     "c": "Bruce Pearson",
+     "n": "Tom Hughes"
+    },
+    {
+     "c": "Snork",
+     "n": "Jack Doolan"
+    },
+    {
+     "c": "Julie Kendrick",
+     "n": "Felicity Jones"
+    },
+    {
+     "c": "Mr. Kendrick",
+     "n": "Ralph Fiennes"
+    },
+    {
+     "c": "Len Taylor",
+     "n": "Ricky Gervais"
+    },
+    {
+     "c": "Mrs. Kendrick",
+     "n": "Emily Watson"
+    },
+    {
+     "c": "Mike Ramsay",
+     "n": "Matthew Goode"
+    },
+    {
+     "c": "Freddie's Gran",
+     "n": "Anne Reid"
+    },
+    {
+     "c": "Sgt. Wyn Davies",
+     "n": "Steve Speirs"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ricky Gervais",
+    "Stephen Merchant"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 36801,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In 1970s England, three blue-collar friends spend their days joking, drinking, fighting and chasing girls. Freddie wants to leave their working-class world but cool, charismatic Bruce and lovable loser Snork are happy with life the way it is. When Freddie gets a new job as a door-to-door salesman and bumps into his old school sweetheart Julie, the gang are forced to make choices that will change their lives for ever.",
+   "popularity": 1.6768,
+   "poster_path": "/9fyzMdRX1kWd9UnceWc2Duh4eFt.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-04-14",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Be young. Be free. Be somebody.",
+   "title": "Cemetery Junction",
+   "trailer": {
+    "key": "XYDeHIszUqA",
+    "name": "Cemetery Junction trailer - At UK Cinemas 14 April 2010",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.53,
+   "vote_count": 332
+  },
+  "movie:414001": {
+   "backdrop_path": "/acKU4LlCFgcbjsL2IjtD4mPzlq7.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Donald Crowhurst",
+     "n": "Colin Firth"
+    },
+    {
+     "c": "Clare Crowhurst",
+     "n": "Rachel Weisz"
+    },
+    {
+     "c": "Rodney Hallworth",
+     "n": "David Thewlis"
+    },
+    {
+     "c": "Ronald Hall",
+     "n": "Mark Gatiss"
+    },
+    {
+     "c": "'Miss Teignmouth'",
+     "n": "Genevieve Gaunt"
+    },
+    {
+     "c": "Ian Wheeler",
+     "n": "Jonathan Bailey"
+    },
+    {
+     "c": "Ian Milburn",
+     "n": "Andrew Buchan"
+    },
+    {
+     "c": "Sir Francis Chichester",
+     "n": "Simon McBurney"
+    },
+    {
+     "c": "Rachel Crowhurst",
+     "n": "Eleanor Stagg"
+    },
+    {
+     "c": "Stanley Best",
+     "n": "Ken Stott"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "James Marsh"
+   ],
+   "genres": [
+    "Drama",
+    "Adventure"
+   ],
+   "id": 414001,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In 1968, Donald Crowhurst, an amateur sailor, endangers the fate of his family and business, and his own life, blinded by his ambition to compete in the Sunday Times Golden Globe Race, attempting to become the first person in history to single-handedly circumnavigate the world without making any stopover.",
+   "popularity": 2.0115,
+   "poster_path": "/51qWwl16Mb0hqorgffCtyENwTPP.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-02-09",
+   "revenue": 4536348,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Based on the true story",
+   "title": "The Mercy",
+   "trailer": {
+    "key": "ToN2G3K5pOE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.911,
+   "vote_count": 313
+  },
   "movie:42801": {
    "backdrop_path": "/i7awVEzUulqDX35EDKtXijRCpzM.jpg",
    "budget": 0,
@@ -2663,6 +3192,128 @@
    "type": "movie",
    "vote_average": 6.57,
    "vote_count": 408
+  },
+  "movie:5001": {
+   "backdrop_path": "/jnJ4i6vPQETcfjxOvAODxzsdQfX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Reinaldo Arenas",
+     "n": "Javier Bardem"
+    },
+    {
+     "c": "Lazaro Gomez Carilles",
+     "n": "Olivier Martinez"
+    },
+    {
+     "c": "Bon Bon / Lieutenant Victor",
+     "n": "Johnny Depp"
+    },
+    {
+     "c": "Pepe Malas",
+     "n": "Andrea Di Stefano"
+    },
+    {
+     "c": "Tomas Diego",
+     "n": "Santiago Magill"
+    },
+    {
+     "c": "Juan Abreu",
+     "n": "John Ortiz"
+    },
+    {
+     "c": "Virgilio Pinera",
+     "n": "Héctor Babenco"
+    },
+    {
+     "c": "Jorge Camacho",
+     "n": "Francisco Gattorno"
+    },
+    {
+     "c": "Margarita Camacho",
+     "n": "Marisol Padilla Sánchez"
+    },
+    {
+     "c": "Herberto Zorilla Ochoa",
+     "n": "Michael Wincott"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Julian Schnabel"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 5001,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Spanning several decades, this powerful biopic offers a glimpse into the life of famed Cuban poet and novelist Reinaldo Arenas, an artist who was vilified for his homosexuality in Fidel Castro's Cuba.",
+   "popularity": 1.4908,
+   "poster_path": "/kb2dqj73cfmt6qHAh1ySIlVm6v0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-09-03",
+   "revenue": 8524534,
+   "runtime": 134,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es",
+    "ru",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Before Night Falls",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 318
   },
   "movie:508101": {
    "backdrop_path": "/sjLo8RbshOyglJK2NLGqIfdzPCp.jpg",
@@ -3238,6 +3889,199 @@
    "vote_average": 7.455,
    "vote_count": 357
   },
+  "movie:701": {
+   "backdrop_path": "/265pOIZG5xsX1I2AnLqzQoNFOL5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "William McKay",
+     "n": "Buster Keaton"
+    },
+    {
+     "c": "Joseph Canfield",
+     "n": "Joe Roberts"
+    },
+    {
+     "c": "Virginia Canfield",
+     "n": "Natalie Talmadge"
+    },
+    {
+     "c": "Clayton Canfield",
+     "n": "Francis X. Bushman Jr."
+    },
+    {
+     "c": "Lee Canfield",
+     "n": "Craig Ward"
+    },
+    {
+     "c": "The Engineer",
+     "n": "Joe Keaton"
+    },
+    {
+     "c": "Aunt Mary",
+     "n": "Kitty Bradbury"
+    },
+    {
+     "c": "Willie McKay - 1 Year Old",
+     "n": "Buster Keaton Jr."
+    },
+    {
+     "c": "Husband Quarreling with Wife (uncredited)",
+     "n": "Erwin Connelly"
+    },
+    {
+     "c": "John McKay (uncredited)",
+     "n": "Edward Coxen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "John G. Blystone",
+    "Buster Keaton"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Thriller"
+   ],
+   "id": 701,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young man falls for a young woman on his trip home; unbeknownst to him, her family has vowed to kill every member of his family.",
+   "popularity": 1.4807,
+   "poster_path": "/cAEdL6RzfDSbPO51izl01Njzikx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "IndieFlix"
+    },
+    {
+     "name": "Cohen Media Amazon Channel"
+    },
+    {
+     "name": "IndieFlix Shorts Amazon Channel"
+    },
+    {
+     "name": "FILMBOX+ Now Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gawu8fJwrJKNvzgTjklQBdVqPCF.png",
+     "name": "IndieFlix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/89EaG6G6QpQnxfquTLSPNlpRhF8.png",
+     "name": "Cohen Media Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/10011zizrQEpO955oxor51BM0IP.png",
+     "name": "IndieFlix Shorts Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rAJjslepn3Be3RppygJDVVYdkLw.png",
+     "name": "FILMBOX+ Now Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1923-11-19",
+   "revenue": 0,
+   "runtime": 73,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "A Comedy with a Heart of Gold",
+   "title": "Our Hospitality",
+   "trailer": {
+    "key": "1BWMJ06xDN0",
+    "name": "BUSTER KEATON: 3 FILMS (Volume 3) (Masters of Cinema) Clips",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.5,
+   "vote_count": 334
+  },
   "movie:7501": {
    "backdrop_path": "/eZTEtIU8AORfmVa7YcRBlAfbgA1.jpg",
    "budget": 15000000,
@@ -3431,6 +4275,312 @@
    "type": "movie",
    "vote_average": 7.6,
    "vote_count": 441
+  },
+  "movie:9401": {
+   "backdrop_path": "/7JmTlybgcuEH6uuOIOk96Bupj4Z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dosmo Pizzo",
+     "n": "Danny Aiello"
+    },
+    {
+     "c": "Alvin Strayer",
+     "n": "Jeff Daniels"
+    },
+    {
+     "c": "Becky Foxx",
+     "n": "Teri Hatcher"
+    },
+    {
+     "c": "Helga Svelgen",
+     "n": "Charlize Theron"
+    },
+    {
+     "c": "Lee Woods",
+     "n": "James Spader"
+    },
+    {
+     "c": "Wes Taylor",
+     "n": "Eric Stoltz"
+    },
+    {
+     "c": "Susan Parish",
+     "n": "Glenne Headly"
+    },
+    {
+     "c": "Roy Foxx",
+     "n": "Peter Horton"
+    },
+    {
+     "c": "Allan Hopper",
+     "n": "Greg Cruttwell"
+    },
+    {
+     "c": "Audrey Hopper",
+     "n": "Marsha Mason"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Herzfeld"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 9401,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a sleepy bedroom community of LA's San Fernando Valley, the murder of a professional athlete by two hit men sets into motion a chain of events that puts the mundane lives of a dozen residents on a collision course. This clever tale tells the story of two hit men, a mistress, a nurse, a vindictive ex-wife, a wealthy art dealer and his lovelorn assistant, a suicidal writer and his dog, and a bitter cop and his partner.",
+   "popularity": 2.7206,
+   "poster_path": "/75uUISK33HxW3mmy74hHn6zmFlg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1996-09-11",
+   "revenue": 11132156,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You have one minute to decide the rest of your life.",
+   "title": "2 Days in the Valley",
+   "trailer": {
+    "key": "umjwm08s104",
+    "name": "2 Days in the Valley - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.193,
+   "vote_count": 310
+  },
+  "movie:94901": {
+   "backdrop_path": "/2kaBbThrOp8ZXf8iSuGmiuI2Zwd.jpg",
+   "budget": 2500000,
+   "cast": [
+    {
+     "c": "Angelina",
+     "n": "Ashley Hinshaw"
+    },
+    {
+     "c": "Phyllis",
+     "n": "Lili Taylor"
+    },
+    {
+     "c": "Andrew",
+     "n": "Dev Patel"
+    },
+    {
+     "c": "Jillian",
+     "n": "Diane Farr"
+    },
+    {
+     "c": "Bobby",
+     "n": "Jonny Weston"
+    },
+    {
+     "c": "Francis",
+     "n": "James Franco"
+    },
+    {
+     "c": "Margaret",
+     "n": "Heather Graham"
+    },
+    {
+     "c": "Jojo",
+     "n": "Maya Raines"
+    },
+    {
+     "c": "Paco",
+     "n": "Vincent Palo"
+    },
+    {
+     "c": "Lana",
+     "n": "Elana Krausz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Stephen Elliott"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 94901,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "18-year-old Angelina shuffles between school, a dead-end job, her exploitative boyfriend, and home, where her life consists of cleaning up after her alcoholic mother and protecting her younger sister from their menacing stepfather. After arranging an escape to San Francisco with her best friend Andrew, she soon finds herself dating a coke-addicted attorney and becoming immersed in the local porn industry, mentored by lesbian director Margaret, who has more than just a professional interest in Angelina's talents.",
+   "popularity": 2.4196,
+   "poster_path": "/gl6Q7GwDnwHDNd1emmQBoyUKiwB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-02-14",
+   "revenue": 8315,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There's No Such Thing As Going Too Far.",
+   "title": "About Cherry",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.588,
+   "vote_count": 331
   },
   "movie:9501": {
    "backdrop_path": "/aNPC0up2DinxoW23lF6R6yGLTAQ.jpg",

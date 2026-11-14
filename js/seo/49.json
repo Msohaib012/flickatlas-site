@@ -1,6 +1,6 @@
 {
  "bucket": "49",
- "count": 43,
+ "count": 50,
  "titles": {
   "movie:10349": {
    "d": "The Dark Half (1993): Mystery/Horror film. Story: Following the public's realization that Thad Beaumont… See cast, budget $15M, and TMDB rating 6.0/10.",
@@ -322,6 +322,70 @@
    "t": "The Shadow Strays (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2024"
   },
+  "movie:1232449": {
+   "d": "Young Hearts (2024): Drama/Romance film. Story: 14-year-old Elias increasingly feels like an outsider… See cast and TMDB rating 8.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3HaqAPZ0C8n6Hd5T86U53yJlBAN.jpg",
+   "industry": "world",
+   "k": "Young Hearts, Young Hearts movie, Young Hearts cast, Young Hearts story, Young Hearts box office collection, Young Hearts budget, Young Hearts review, Young Hearts rating, Young Hearts release date, Young Hearts trailer, Young Hearts Drama, Young Hearts Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lou Goossens"
+     },
+     {
+      "@type": "Person",
+      "name": "Marius De Saeger"
+     },
+     {
+      "@type": "Person",
+      "name": "Geert Van Rampelberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Emilie De Roo"
+     },
+     {
+      "@type": "Person",
+      "name": "Dirk van Dijck"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 337,
+     "ratingValue": 8.6,
+     "worstRating": 0
+    },
+    "description": "Young Hearts (2024): Drama/Romance film. Story: 14-year-old Elias increasingly feels like an outsider… See cast and TMDB rating 8.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Anthony Schatteman"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3HaqAPZ0C8n6Hd5T86U53yJlBAN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1232449",
+    "name": "Young Hearts",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-10-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1232449"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Young Hearts (2024)</h1>\n<p class=\"ssr-lead\">14-year-old Elias increasingly feels like an outsider in his village. When he meets his new neighbour of the same age, Alexander, Elias is confronted with his burgeoning sexuality.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 October 2024</li><li>Runtime: 99 minutes</li><li>Director: Anthony Schatteman</li><li>Genres: Drama, Romance</li><li>TMDB rating: 8.6/10 (337 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lou Goossens as Elias</li><li>Marius De Saeger as Alexander</li><li>Geert Van Rampelberg as Luk</li><li>Emilie De Roo as Nathalie</li><li>Dirk van Dijck as Fred</li><li>Jul Goossens as Maxime</li><li>Ezra van Dongen as Line</li><li>Olivier Englebert as Marc</li><li>Olga De Saeger as Ella</li><li>Wim Opbrouck as Tony</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Strand Releasing Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Young Hearts (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
+  },
   "movie:1249": {
    "d": "Hollywoodland (2006): Crime/Drama film. Story: When Hollywood superstar George Reeves dies in his… See cast and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/grBVNhFI7iNB54eFfXVzbYfDSQk.jpg",
@@ -577,6 +641,70 @@
    "t": "Adult World (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:14849": {
+   "d": "Dead Like Me: Life After Death (2009): Drama/Fantasy film. Story: When George and her colleagues get a new boss whose… See cast and budget $5M.",
+   "img": "https://image.tmdb.org/t/p/w780/xU9m2bxxuY2QXER4k28RbbIt2Kl.jpg",
+   "industry": "world",
+   "k": "Dead Like Me: Life After Death, Dead Like Me: Life After Death movie, Dead Like Me: Life After Death cast, Dead Like Me: Life After Death story, Dead Like Me: Life After Death box office collection, Dead Like Me: Life After Death budget, Dead Like Me: Life After Death review, Dead Like Me: Life After Death rating, Dead Like Me: Life After Death release date, Dead Like Me: Life After Death Drama, Dead Like Me: Life After Death Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ellen Muth"
+     },
+     {
+      "@type": "Person",
+      "name": "Jasmine Guy"
+     },
+     {
+      "@type": "Person",
+      "name": "Callum Blue"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Wynter"
+     },
+     {
+      "@type": "Person",
+      "name": "Britt McKillip"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 329,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Dead Like Me: Life After Death (2009): Drama/Fantasy film. Story: When George and her colleagues get a new boss whose… See cast and budget $5M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stephen Herek"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Drama",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xU9m2bxxuY2QXER4k28RbbIt2Kl.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14849",
+    "name": "Dead Like Me: Life After Death",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-02-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14849"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dead Like Me: Life After Death (2009)</h1>\n<p class=\"ssr-lead\">When George and her colleagues get a new boss whose focus is on moving souls quickly and enjoying life without consequences, the team begins to break the strict reaper rules. While her friends fall victim to their desires for money, success, and fame, George breaks another rule by revealing her true identity to her living family.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 February 2009</li><li>Runtime: 87 minutes</li><li>Director: Stephen Herek</li><li>Genres: Drama, Fantasy, Comedy</li><li>Budget: $5M</li><li>TMDB rating: 6.4/10 (329 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ellen Muth as George Lass</li><li>Jasmine Guy as Roxy Harvey</li><li>Callum Blue as Mason</li><li>Sarah Wynter as Daisy Adair</li><li>Britt McKillip as Reggie Lass</li><li>Christine Willes as Delores Herbig</li><li>Cynthia Stevenson as Joy Lass</li><li>Henry Ian Cusick as Cameron Kane</li><li>Shenae Grimes-Beech as Jennifer Hardick</li><li>Ferelith Young as Melange Receptionist</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Dead Like Me: Life After Death (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
   "movie:1511549": {
    "d": "Still Sexy (2026): Comedy/Romance film. Story: Maddalena has it all: a job she loves, the perfect… See cast, TMDB rating 5.5/10, and release date 12 June 2026.",
    "img": "https://image.tmdb.org/t/p/w780/jUpuMPCQiNSYi4QxeCIGFUlPizn.jpg",
@@ -704,6 +832,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Lorne (2026)</h1>\n<p class=\"ssr-lead\">An unprecedented, behind-the-scenes glimpse at the man who built the inimitable empire of comedy, shaping television and culture for generations. The documentary features exclusive footage, archival treasures, and candid interviews with the show’s most iconic cast members and writers including Tina Fey, Maya Rudolph, John Mulaney, Andy Samberg, Conan O’Brien, Chris Rock and many more.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 April 2026</li><li>Runtime: 101 minutes</li><li>Director: Morgan Neville</li><li>Genres: Comedy, Documentary</li><li>TMDB rating: 7.0/10 (20 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lorne Michaels as Self</li><li>Steve Higgins as Self</li><li>Michael Che as Self</li><li>Colin Jost as Self</li><li>Tom Schiller as Self</li><li>Paul Simon as Self</li><li>James Andrew Miller as Self</li><li>Timothée Chalamet as Self</li><li>Paula Pell as Self</li><li>Adam Sandler as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
    "t": "Lorne (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:201749": {
+   "d": "Mr. Morgan's Last Love (2013): Drama/Comedy film. Story: A widowed professor living in Paris develops a… See cast, budget $8.2M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/94NOogxgor0pIM0kgiEVZyurjHq.jpg",
+   "industry": "world",
+   "k": "Mr. Morgan's Last Love, Mr. Morgan's Last Love movie, Mr. Morgan's Last Love cast, Mr. Morgan's Last Love story, Mr. Morgan's Last Love box office collection, Mr. Morgan's Last Love budget, Mr. Morgan's Last Love review, Mr. Morgan's Last Love rating, Mr. Morgan's Last Love release date, Mr. Morgan's Last Love trailer, Mr. Morgan's Last Love Drama, Mr. Morgan's Last Love Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Caine"
+     },
+     {
+      "@type": "Person",
+      "name": "Clémence Poésy"
+     },
+     {
+      "@type": "Person",
+      "name": "Gillian Anderson"
+     },
+     {
+      "@type": "Person",
+      "name": "Justin Kirk"
+     },
+     {
+      "@type": "Person",
+      "name": "Jane Alexander"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 331,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Mr. Morgan's Last Love (2013): Drama/Comedy film. Story: A widowed professor living in Paris develops a… See cast, budget $8.2M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sandra Nettelbeck"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/94NOogxgor0pIM0kgiEVZyurjHq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=201749",
+    "name": "Mr. Morgan's Last Love",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-08-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=201749"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mr. Morgan&#x27;s Last Love (2013)</h1>\n<p class=\"ssr-lead\">A widowed professor living in Paris develops a special relationship with a younger French woman.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 August 2013</li><li>Runtime: 111 minutes</li><li>Director: Sandra Nettelbeck</li><li>Genres: Drama, Comedy</li><li>Budget: $8.2M</li><li>TMDB rating: 6.6/10 (331 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Caine as Matthew Morgan</li><li>Clémence Poésy as Pauline Laubie</li><li>Gillian Anderson as Karen Morgan</li><li>Justin Kirk as Miles Morgan</li><li>Jane Alexander as Joan Morgan</li><li>Richard Hope as Stamp Collector</li><li>Anne Alvaro as Madame Léry</li><li>Yannick Choirat as Lucien</li><li>Michelle Goddet as Madme Dune</li><li>Ian Fenelon as Maitre D&#x27; Chez René</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: AcornTV Amazon Channel, Acorn TV Apple TV channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Mr. Morgan's Last Love (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
   },
   "movie:20649": {
    "d": "Clockers (1995): Crime/Drama film. Story: Strike is a young city drug pusher under the tutelage… See cast, budget $25M, and TMDB rating 6.7/10.",
@@ -833,6 +1025,70 @@
    "t": "The Love Punch (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:21349": {
+   "d": "Anywhere but Here (1999): Drama/Comedy film. Story: Single mother Adele August is bad with money, and… See cast, budget $23M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/n03FL1Ia88Jq2nV7fz4AJE9utw0.jpg",
+   "industry": "world",
+   "k": "Anywhere but Here, Anywhere but Here movie, Anywhere but Here cast, Anywhere but Here story, Anywhere but Here box office collection, Anywhere but Here budget, Anywhere but Here review, Anywhere but Here rating, Anywhere but Here release date, Anywhere but Here Drama, Anywhere but Here Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Susan Sarandon"
+     },
+     {
+      "@type": "Person",
+      "name": "Natalie Portman"
+     },
+     {
+      "@type": "Person",
+      "name": "Hart Bochner"
+     },
+     {
+      "@type": "Person",
+      "name": "Eileen Ryan"
+     },
+     {
+      "@type": "Person",
+      "name": "Ray Baker"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 308,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Anywhere but Here (1999): Drama/Comedy film. Story: Single mother Adele August is bad with money, and… See cast, budget $23M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Wayne Wang"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/n03FL1Ia88Jq2nV7fz4AJE9utw0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=21349",
+    "name": "Anywhere but Here",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1999-11-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=21349"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Anywhere but Here (1999)</h1>\n<p class=\"ssr-lead\">Single mother Adele August is bad with money, and even worse when it comes to making decisions. Her straight-laced daughter, Ann, is a successful high school student with Ivy League aspirations. When Adele decides to pack up and move the two of them from the Midwest to Beverly Hills, Calif., to pursue her dreams of Hollywood success, Ann grows frustrated with her mother&#x27;s irresponsible and impulsive ways.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 November 1999</li><li>Runtime: 114 minutes</li><li>Director: Wayne Wang</li><li>Genres: Drama, Comedy, Romance</li><li>Budget: $23M</li><li>TMDB rating: 6.1/10 (308 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Susan Sarandon as Adele August</li><li>Natalie Portman as Ann August</li><li>Hart Bochner as Josh Spritzer</li><li>Eileen Ryan as Lillian</li><li>Ray Baker as Ted</li><li>John Diehl as Jimmy</li><li>Shawn Hatosy as Benny</li><li>Bonnie Bedelia as Carol</li><li>Faran Tahir as Hisham Badir</li><li>Shishir Kurup as Hisham Badir (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Anywhere but Here (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1999"
+  },
   "movie:2149": {
    "d": "Body of Evidence (1993): Drama/Thriller film. Story: When an elderly millionaire is found dead with… See cast, budget $30M, and TMDB rating 5.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/vbVe8HhnR1hJ6I5k49E6cqCajYX.jpg",
@@ -960,6 +1216,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>My Life in Ruins (2009)</h1>\n<p class=\"ssr-lead\">A Greek tour guide named Georgia attempts to recapture her kefi (Greek for mojo) by guiding a ragtag group of tourists around Greece and showing them the beauty of her native land. Along the way, she manages to open their eyes to the wonders of an exotic foreign land while beginning to see the world through a new set of eyes in the process.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 June 2009</li><li>Runtime: 95 minutes</li><li>Director: Donald Petrie</li><li>Genres: Comedy, Romance</li><li>Budget: $17M</li><li>TMDB rating: 6.1/10 (451 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nia Vardalos as Georgia Ianakopolis</li><li>Richard Dreyfuss as Irv Gideon</li><li>Alexis Georgoulis as Poupi Kakas</li><li>Alistair McGowan as Nico</li><li>Harland Williams as Big Al Sawchuck</li><li>Rachel Dratch as Kim</li><li>Caroline Goodall as Dr. Elizabeth Tullen</li><li>Ian Ogilvy as Mr. Stewart Tullen</li><li>Sophie Stuckey as Caitlin</li><li>María Botto as Lala Cruz</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "My Life in Ruins (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2009"
+  },
+  "movie:25649": {
+   "d": "Bad Guy (2002): Drama/Thriller film. Story: A pimp enforcer takes revenge on a woman who rejected… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/AlLN0T6Tz2ruQJMiGhNhLX0ShSd.jpg",
+   "industry": "world",
+   "k": "Bad Guy, Bad Guy movie, Bad Guy cast, Bad Guy story, Bad Guy box office collection, Bad Guy budget, Bad Guy review, Bad Guy rating, Bad Guy release date, Bad Guy Drama, Bad Guy Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Cho Jae-hyun"
+     },
+     {
+      "@type": "Person",
+      "name": "Seo Won"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Yun-tae"
+     },
+     {
+      "@type": "Person",
+      "name": "Choi Deok-moon"
+     },
+     {
+      "@type": "Person",
+      "name": "Choi Yoon-young"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 312,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Bad Guy (2002): Drama/Thriller film. Story: A pimp enforcer takes revenge on a woman who rejected… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kim Ki-duk"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/AlLN0T6Tz2ruQJMiGhNhLX0ShSd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=25649",
+    "name": "Bad Guy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-01-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=25649"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bad Guy (2002)</h1>\n<p class=\"ssr-lead\">A pimp enforcer takes revenge on a woman who rejected his advances by tricking her into prostitution, but complications arise.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 January 2002</li><li>Runtime: 102 minutes</li><li>Director: Kim Ki-duk</li><li>Genres: Drama, Thriller, Romance</li><li>TMDB rating: 6.5/10 (312 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Cho Jae-hyun as Han-ki</li><li>Seo Won as Sun-hwa</li><li>Kim Yun-tae as Jung-tae</li><li>Choi Deok-moon as Myeong-su</li><li>Choi Yoon-young as Hyun-ja</li><li>Shin Yoo-jin as Min-jung</li><li>Kim Jung-young as Eun-hye</li><li>Namkoong Min as Hyun-soo</li><li>Lee Han-wi as Dal-soo</li><li>Park Wan-kyu as Pickpocket</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: FlixFling, Cineverse</li><li>Rent: Google Play Movies, YouTube, FlixFling</li><li>Buy: Google Play Movies, YouTube, FlixFling</li></ul>\n</article>",
+   "t": "Bad Guy (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
   },
   "movie:302349": {
    "d": "Iron Sky: The Coming Race (2019): Action/Comedy film. Story: 29 years after the events of Iron Sky, the former… See cast, budget $17.5M, and TMDB rating 5.2/10.",
@@ -1217,6 +1537,70 @@
    "t": "Traffik (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
   },
+  "movie:549": {
+   "d": "Basquiat (1996): Drama/History film. Story: The brief life of Jean Michel Basquiat, a world… See cast, budget $3.3M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/h7vBO0meGzjW3yu0Gejx5hI09I9.jpg",
+   "industry": "world",
+   "k": "Basquiat, Basquiat movie, Basquiat cast, Basquiat story, Basquiat box office collection, Basquiat budget, Basquiat review, Basquiat rating, Basquiat release date, Basquiat trailer, Basquiat Drama, Basquiat History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jeffrey Wright"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Wincott"
+     },
+     {
+      "@type": "Person",
+      "name": "Benicio del Toro"
+     },
+     {
+      "@type": "Person",
+      "name": "Claire Forlani"
+     },
+     {
+      "@type": "Person",
+      "name": "David Bowie"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 330,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Basquiat (1996): Drama/History film. Story: The brief life of Jean Michel Basquiat, a world… See cast, budget $3.3M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Julian Schnabel"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/h7vBO0meGzjW3yu0Gejx5hI09I9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=549",
+    "name": "Basquiat",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1996-12-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=549"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Basquiat (1996)</h1>\n<p class=\"ssr-lead\">The brief life of Jean Michel Basquiat, a world renowned New York street artist struggling with fame, drugs and his identity.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 December 1996</li><li>Runtime: 107 minutes</li><li>Director: Julian Schnabel</li><li>Genres: Drama, History</li><li>Budget: $3.3M</li><li>TMDB rating: 6.6/10 (330 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jeffrey Wright as Jean Michel Basquiat</li><li>Michael Wincott as Rene Ricard</li><li>Benicio del Toro as Benny Dalmau</li><li>Claire Forlani as Gina Cardinale</li><li>David Bowie as Andy Warhol</li><li>Dennis Hopper as Bruno Bischofberger</li><li>Gary Oldman as Albert Milo</li><li>Christopher Walken as The Interviewer</li><li>Willem Dafoe as The Electrician</li><li>Jean-Claude La Marre as Shenge</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, HBO Max Amazon Channel, Criterion Channel, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Basquiat (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1996"
+  },
   "movie:613349": {
    "d": "A Good Doctor (2019): Comedy film. Story: On Christmas eve, Serge is the only on-call emergency… See cast, budget $6.84M, and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/70zanWt7TxBCZJCdMYhCMFDdGQr.jpg",
@@ -1279,6 +1663,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>A Good Doctor (2019)</h1>\n<p class=\"ssr-lead\">On Christmas eve, Serge is the only on-call emergency doctor available. Struck by a crippling back-ache, he gets help from a pizza delivery boy who will need to step in the doctor&#x27;s shoes.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 December 2019</li><li>Runtime: 90 minutes</li><li>Director: Tristan Séguéla</li><li>Genres: Comedy</li><li>Budget: $6.84M</li><li>TMDB rating: 6.5/10 (343 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michel Blanc as Serge Mamou Mani, the doctor</li><li>Hakim Jemili as Malek Aknoun, Uber delivery man</li><li>Solène Rigot as Rose Malaparte</li><li>Chantal Lauby as Suzy, the switchboard operator (voice)</li><li>Franck Gastambide as Grisoni, Uber&#x27;s customer</li><li>Fadily Camara as Sonya Derringer, the woman giving birth</li><li>Artus as Wilfried</li><li>Jacques Boudet as Mr. Xanakis, the old patient</li><li>Ophélia Kolb as Marjolaine Joffrin</li><li>Maxence Tual as Henri Joffrin</li></ul>\n</article>",
    "t": "A Good Doctor (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:621749": {
+   "d": "Nimic (2020): Drama film. Story: A professional cellist has an encounter with a… See cast, TMDB rating 6.6/10, and release date 30 January 2020.",
+   "img": "https://image.tmdb.org/t/p/w780/2mJBGDwpqLQcViV2paaeS8h8JDc.jpg",
+   "industry": "world",
+   "k": "Nimic, Nimic movie, Nimic cast, Nimic story, Nimic box office collection, Nimic budget, Nimic review, Nimic rating, Nimic release date, Nimic trailer, Nimic Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Matt Dillon"
+     },
+     {
+      "@type": "Person",
+      "name": "Daphné Patakia"
+     },
+     {
+      "@type": "Person",
+      "name": "Susan Elle"
+     },
+     {
+      "@type": "Person",
+      "name": "Sara Lee"
+     },
+     {
+      "@type": "Person",
+      "name": "Eugena Lee"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 328,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Nimic (2020): Drama film. Story: A professional cellist has an encounter with a… See cast, TMDB rating 6.6/10, and release date 30 January 2020.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Yorgos Lanthimos"
+     }
+    ],
+    "duration": "PT12M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2mJBGDwpqLQcViV2paaeS8h8JDc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=621749",
+    "name": "Nimic",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-01-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=621749"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Nimic (2020)</h1>\n<p class=\"ssr-lead\">A professional cellist has an encounter with a stranger on the subway which has unexpected and far-reaching ramifications on his life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 January 2020</li><li>Runtime: 12 minutes</li><li>Director: Yorgos Lanthimos</li><li>Genres: Drama</li><li>TMDB rating: 6.6/10 (328 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Matt Dillon as Father</li><li>Daphné Patakia as Mimic</li><li>Susan Elle as Mother</li><li>Sara Lee as Daughter</li><li>Eugena Lee as Daughter</li><li>Rowan Kay as Son</li><li>Anvo Kyle Tucker as Boy on Subway</li><li>Lizzy Ceniceros as Conductor</li><li>Florencia Mariotti as Flower Seller</li><li>Jeffrey Raines as Studio Teacher</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Buy: Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Nimic (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
   },
   "movie:6949": {
    "d": "What's Up, Doc? (1972): Comedy/Crime film. Story: The accidental mix-up of four identical plaid… See cast, budget $4M, and TMDB rating 7.4/10.",

@@ -1,6 +1,6 @@
 {
  "bucket": "95",
- "count": 44,
+ "count": 52,
  "titles": {
   "movie:10295": {
    "backdrop_path": "/sS0MhzRDPAUxT412DqAyhhs6yFY.jpg",
@@ -105,6 +105,227 @@
    "type": "movie",
    "vote_average": 6.414,
    "vote_count": 492
+  },
+  "movie:1115395": {
+   "backdrop_path": "/cLXvsCO4KfWSLaXPnJF9GL0NKeg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Leopold Bilski",
+     "n": "Jakub Gierszał"
+    },
+    {
+     "c": "Helena Bogucka",
+     "n": "Maja Ostaszewska"
+    },
+    {
+     "c": "Monika Bogucka",
+     "n": "Zofia Jastrzębska"
+    },
+    {
+     "c": "Tadeusz Dubiela",
+     "n": "Andrzej Konopka"
+    },
+    {
+     "c": "Łukasz 'Kazar' Kazarski",
+     "n": "Przemysław Bluszcz"
+    },
+    {
+     "c": "Waldemar Mila",
+     "n": "Wojciech Zieliński"
+    },
+    {
+     "c": "Roman Bogucki",
+     "n": "Andrzej Zieliński"
+    },
+    {
+     "c": "Mario Dubiela",
+     "n": "Jan Wieteska"
+    },
+    {
+     "c": "Prosecutor Ambroziak",
+     "n": "Zbigniew Stryj"
+    },
+    {
+     "c": "Policeman 'Kita'",
+     "n": "Łukasz Pawłowski"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Adrian Panek"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 1115395,
+   "industry": "world",
+   "origin_country": [
+    "PL"
+   ],
+   "original_language": "pl",
+   "overview": "When a girl's body is found on a beach in Poland's Tricity, a prosecutor teams up with the victim's mother on an impassioned quest for the truth.",
+   "popularity": 1.5993,
+   "poster_path": "/5NAdIXaF2AhewMFMqFvbxZmDC3M.jpg",
+   "production_countries": [
+    "PL"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-05-29",
+   "revenue": 0,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pl"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Colors of Evil: Red",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 331
+  },
+  "movie:12395": {
+   "backdrop_path": "/ezqMGAZNg1y2b3TPU9jWKUL8rKM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ray Levoi",
+     "n": "Val Kilmer"
+    },
+    {
+     "c": "Frank Coutelle",
+     "n": "Sam Shepard"
+    },
+    {
+     "c": "Walter Crow Horse",
+     "n": "Graham Greene"
+    },
+    {
+     "c": "Jack Milton",
+     "n": "Fred Ward"
+    },
+    {
+     "c": "William Dawes",
+     "n": "Fred Thompson"
+    },
+    {
+     "c": "Maggie Eagle Bear",
+     "n": "Sheila Tousey"
+    },
+    {
+     "c": "Grandpa Sam Reaches",
+     "n": "Ted Thin Elk"
+    },
+    {
+     "c": "Jimmy Looks Twice",
+     "n": "John Trudell"
+    },
+    {
+     "c": "Richard Yellow Hawk",
+     "n": "Julius Drum"
+    },
+    {
+     "c": "Maisy Blue Legs",
+     "n": "Sarah Brave"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michael Apted"
+   ],
+   "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 12395,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young mixed-blood FBI agent is assigned to work with a cynical veteran investigator on a murder on a poverty-stricken Sioux reservation.",
+   "popularity": 2.0989,
+   "poster_path": "/uGbVd9gzRHk70E8WQPZcjiv6ZLk.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1992-04-03",
+   "revenue": 0,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Two men from different worlds. Two cops after the same killer. Together they must uncover the secrets. Together they must discover the truth.",
+   "title": "Thunderheart",
+   "trailer": {
+    "key": "dJp5pxFG6Sg",
+    "name": "THUNDERHEART Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.361,
+   "vote_count": 337
   },
   "movie:1281195": {
    "backdrop_path": "/mN5HuZwSIueiA62F0LS3wBCFj55.jpg",
@@ -654,6 +875,161 @@
    "type": "movie",
    "vote_average": 7.467,
    "vote_count": 180
+  },
+  "movie:14195": {
+   "backdrop_path": "/j5I6hCY2aSPoqr5nrlyoWGDqfTj.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Honey Whitlock",
+     "n": "Melanie Griffith"
+    },
+    {
+     "c": "Cecil B. Demented",
+     "n": "Stephen Dorff"
+    },
+    {
+     "c": "Cherish",
+     "n": "Alicia Witt"
+    },
+    {
+     "c": "Lyle",
+     "n": "Adrian Grenier"
+    },
+    {
+     "c": "Raven",
+     "n": "Maggie Gyllenhaal"
+    },
+    {
+     "c": "Lewis",
+     "n": "Lawrence Gilliard Jr."
+    },
+    {
+     "c": "Rodney",
+     "n": "Jack Noseworthy"
+    },
+    {
+     "c": "Petie",
+     "n": "Michael Shannon"
+    },
+    {
+     "c": "Dinah",
+     "n": "Harry Dodge"
+    },
+    {
+     "c": "Fidget",
+     "n": "Eric Barry"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Waters"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 14195,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young lunatic director and his devoted cult of cinema terrorists kidnap a Hollywood movie goddess and force her to star in their radical underground movie.",
+   "popularity": 1.7075,
+   "poster_path": "/gCXUA9BUOSDmOFVfkVBF4v15Td6.jpg",
+   "production_countries": [
+    "US",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-08-02",
+   "revenue": 1961544,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Demented forever!",
+   "title": "Cecil B. Demented",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.449,
+   "vote_count": 315
   },
   "movie:14295": {
    "backdrop_path": "/hardcwpNmv4soWzTZWWD6OhzsSX.jpg",
@@ -1606,6 +1982,238 @@
    "vote_average": 6.965,
    "vote_count": 404
   },
+  "movie:195": {
+   "backdrop_path": "/8xFIubJoxyidKaGjO1dc0btC9e7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lily",
+     "n": "Miriam Hopkins"
+    },
+    {
+     "c": "Mariette",
+     "n": "Kay Francis"
+    },
+    {
+     "c": "Gaston",
+     "n": "Herbert Marshall"
+    },
+    {
+     "c": "Major",
+     "n": "Charles Ruggles"
+    },
+    {
+     "c": "Francois",
+     "n": "Edward Everett Horton"
+    },
+    {
+     "c": "Giron",
+     "n": "C. Aubrey Smith"
+    },
+    {
+     "c": "Jacques",
+     "n": "Robert Greig"
+    },
+    {
+     "c": "Annoyed Opera Fan (uncredited)",
+     "n": "Luis Alberni"
+    },
+    {
+     "c": "Insurance Agent (uncredited)",
+     "n": "Hooper Atchley"
+    },
+    {
+     "c": "Commercial Singer (uncredited)",
+     "n": "Tyler Brooke"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "AL",
+   "date_kind": "release",
+   "director": [
+    "Ernst Lubitsch"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Romance"
+   ],
+   "id": 195,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Thief Gaston Monescu and pickpocket Lily are partners in crime and love. Working for perfume company executive Mariette Colet, the two crooks decide to combine their criminal talents to rob their employer. Under the alias of Monsieur Laval, Gaston uses his position as Mariette's personal secretary to become closer to her. However, he takes things too far when he actually falls in love with Mariette, and has to choose between her and Lily.",
+   "popularity": 1.7634,
+   "poster_path": "/FBxuoLRD3Biyul14unT5m3PYNS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "FlixFling"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1932-10-30",
+   "revenue": 0,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "HIS PARADISE BECAME A MERRY HELL!",
+   "title": "Trouble in Paradise",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 328
+  },
+  "movie:25095": {
+   "backdrop_path": "/60OypzgF62FE8PWxXi5zSI1bLyS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cathy / Catherine",
+     "n": "Juliette Binoche"
+    },
+    {
+     "c": "Heathcliff",
+     "n": "Ralph Fiennes"
+    },
+    {
+     "c": "Ellen Dean",
+     "n": "Janet McTeer"
+    },
+    {
+     "c": "Isabella Linton",
+     "n": "Sophie Ward"
+    },
+    {
+     "c": "Edgar Linton",
+     "n": "Simon Shepherd"
+    },
+    {
+     "c": "Hindley Earnshaw",
+     "n": "Jeremy Northam"
+    },
+    {
+     "c": "Hareton Earnshaw",
+     "n": "Jason Riddington"
+    },
+    {
+     "c": "Mr. Linton",
+     "n": "Simon Ward"
+    },
+    {
+     "c": "Joseph",
+     "n": "Robert Demeger"
+    },
+    {
+     "c": "Mr. Lockwood",
+     "n": "Paul Geoffrey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Peter Kosminsky"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 25095,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Young orphan Heathcliff is adopted by the wealthy Earnshaw family and moves into their estate, Wuthering Heights. Soon, the new resident falls for his compassionate foster sister, Cathy. The two share a remarkable bond that seems unbreakable until Cathy, feeling the pressure of social convention, suppresses her feelings and marries Edgar Linton, a man of means who befits her stature. Heathcliff vows to win her back.",
+   "popularity": 3.9018,
+   "poster_path": "/lV8zMPqaK8Qg39zKLzfvnYkiBiC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1992-10-16",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A passion. An obsession. A love that destroyed everyone it touched.",
+   "title": "Wuthering Heights",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 328
+  },
   "movie:27995": {
    "backdrop_path": "/aqUYYwKMNRzmqvkBvNM1gqRerb1.jpg",
    "budget": 175000,
@@ -2072,6 +2680,194 @@
    "type": "movie",
    "vote_average": 6.011,
    "vote_count": 413
+  },
+  "movie:335795": {
+   "backdrop_path": "/99wklPc31J1jVsPUUxpAQRQHx5I.jpg",
+   "budget": 1000000,
+   "cast": [
+    {
+     "c": "Clawdeen Wolf",
+     "n": "Miia Harris"
+    },
+    {
+     "c": "Frankie Stein",
+     "n": "Ceci Balagot"
+    },
+    {
+     "c": "Draculaura",
+     "n": "Nayah Damasen"
+    },
+    {
+     "c": "Cleo De Nile",
+     "n": "Jy Prishkulnik"
+    },
+    {
+     "c": "Deuce Gorgon",
+     "n": "Case Walker"
+    },
+    {
+     "c": "Heath Burns",
+     "n": "Justin Derickson"
+    },
+    {
+     "c": "Apollo / Pierre",
+     "n": "Scotch Ellis Loring"
+    },
+    {
+     "c": "Dracula",
+     "n": "Steve Valentine"
+    },
+    {
+     "c": "Headmistress Bloodgood",
+     "n": "Marci T. House"
+    },
+    {
+     "c": "Mr. Komos",
+     "n": "Kyle Selig"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Todd Holland"
+   ],
+   "genres": [
+    "Family",
+    "Fantasy",
+    "Comedy",
+    "Adventure"
+   ],
+   "id": 335795,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Clawdeen Wolf, half human and half werewolf, has recently started attending Monster High, a school for monsters in all forms. After quickly befriending her classmates Frankie Stein and Draculaura, Clawdeen feels like she has finally found a place where she can truly be herself, or so she thinks. Soon, a devious plan to destroy Monster High threatens to reveal her real identity and Clawdeen must learn to embrace her true monster heart before it's too late.",
+   "popularity": 2.6736,
+   "poster_path": "/768OBP28OA4mjavOUAIRlVo14Xu.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-10-06",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Skull's in session.",
+   "title": "Monster High: The Movie",
+   "trailer": {
+    "key": "Ghz0V5LegzI",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 312
   },
   "movie:428495": {
    "backdrop_path": "/tUVpn0woaiBLkeCkBigoRvO1iwh.jpg",
@@ -3204,6 +4000,116 @@
    "vote_average": 6.1,
    "vote_count": 433
   },
+  "movie:671295": {
+   "backdrop_path": "/7piVB6weeJdWB6xL0wzJJeHNo6O.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Omar",
+     "n": "Jimmy Gonzales"
+    },
+    {
+     "c": "Wade",
+     "n": "Dennis Quaid"
+    },
+    {
+     "c": "Geco",
+     "n": "Anthony Gonzalez"
+    },
+    {
+     "c": "Wayne Bisbee",
+     "n": "Bruce McGill"
+    },
+    {
+     "c": "Hector",
+     "n": "Raymond Cruz"
+    },
+    {
+     "c": "Tricia Bisbee",
+     "n": "Dana Wheeler-Nicholson"
+    },
+    {
+     "c": "Becca",
+     "n": "Fernanda Urrejola"
+    },
+    {
+     "c": "Hollywood",
+     "n": "Nathan Arenas"
+    },
+    {
+     "c": "Gary",
+     "n": "Chris Doubek"
+    },
+    {
+     "c": "Wiki",
+     "n": "Isaac Arellanes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Julio Quintana"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Family"
+   ],
+   "id": 671295,
+   "industry": "world",
+   "origin_country": [
+    "MX",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "To save their cash-strapped orphanage, a guardian and his kids partner with a washed-up boat captain for a chance to win a lucrative fishing competition.",
+   "popularity": 1.2197,
+   "poster_path": "/wlDSL8Rn4eQCzDPy1pPRkCh8H32.jpg",
+   "production_countries": [
+    "MX",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-05-27",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Blue Miracle",
+   "trailer": {
+    "key": "pXHCBnT3d4k",
+    "name": "Blue Miracle | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 312
+  },
   "movie:673595": {
    "backdrop_path": "/y6J8TOnSUscFeMgvWxc6xeEEXo7.jpg",
    "budget": 0,
@@ -3499,6 +4405,191 @@
    "type": "movie",
    "vote_average": 5.8,
    "vote_count": 350
+  },
+  "movie:97795": {
+   "backdrop_path": "/ljIFlIqVbES8p7gtPSYgIMI1alL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alan White",
+     "n": "Kai Lennox"
+    },
+    {
+     "c": "Paul Ortega",
+     "n": "Rick Gonzalez"
+    },
+    {
+     "c": "Ellen Keegan",
+     "n": "Fiona Glascott"
+    },
+    {
+     "c": "Caitlin White",
+     "n": "Gia Mantegna"
+    },
+    {
+     "c": "Dr. Helzer",
+     "n": "Michael O'Keefe"
+    },
+    {
+     "c": "Heseltine",
+     "n": "Francesc Garrido"
+    },
+    {
+     "c": "Lamson",
+     "n": "Fermí Reixach"
+    },
+    {
+     "c": "Cynthia",
+     "n": "Laura Martuscelli"
+    },
+    {
+     "c": "Benny White",
+     "n": "Damian Roman"
+    },
+    {
+     "c": "Pedestrian 1",
+     "n": "Susana García Díez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Carles Torrens"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 97795,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "en",
+   "overview": "A team of parapsychologists sets out to investigate a series of anomalous phenomena taking place in a newly occupied apartment. Telephone calls with no caller, mysterious shadows, extraordinary light emissions, flying objects, and exploding light bulbs are some of the events they will face while recording their every step with state-of-the-art technology. Using infrared filming, digital photography, psychophonic recordings, movement detectors, and magnetic field alteration meters, the group’s attempts to contact the “other side” will grow increasingly dangerous as they near a point of no return.",
+   "popularity": 1.5571,
+   "poster_path": "/hAXqjMVgF6TS8oa40TIRfrNix5d.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Monsters and Nightmares Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pcSzaYgwXvQaoPYqtrPXu6nrEdW.png",
+     "name": "Monsters and Nightmares Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-10-11",
+   "revenue": 4144297,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The First Real Ghost Story.",
+   "title": "Apartment 143",
+   "trailer": {
+    "key": "UIMvIMsNJeA",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.1,
+   "vote_count": 315
   },
   "tv:119495": {
    "backdrop_path": "/htD5SJpPOvkmAowU80KrWnN59WO.jpg",

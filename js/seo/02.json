@@ -1,7 +1,71 @@
 {
  "bucket": "02",
- "count": 50,
+ "count": 55,
  "titles": {
+  "movie:10002": {
+   "d": "Mona Lisa (1986): Crime/Drama film. Story: George is a small-time crook just out of prison who… See cast, TMDB rating 6.9/10, and release date 13 June 1986.",
+   "img": "https://image.tmdb.org/t/p/w780/awqquwDxMN9iuOAgDJZSkUO9yf7.jpg",
+   "industry": "world",
+   "k": "Mona Lisa, Mona Lisa movie, Mona Lisa cast, Mona Lisa story, Mona Lisa box office collection, Mona Lisa budget, Mona Lisa review, Mona Lisa rating, Mona Lisa release date, Mona Lisa trailer, Mona Lisa Crime, Mona Lisa Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bob Hoskins"
+     },
+     {
+      "@type": "Person",
+      "name": "Cathy Tyson"
+     },
+     {
+      "@type": "Person",
+      "name": "Robbie Coltrane"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Caine"
+     },
+     {
+      "@type": "Person",
+      "name": "Clarke Peters"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 317,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Mona Lisa (1986): Crime/Drama film. Story: George is a small-time crook just out of prison who… See cast, TMDB rating 6.9/10, and release date 13 June 1986.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Neil Jordan"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/awqquwDxMN9iuOAgDJZSkUO9yf7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10002",
+    "name": "Mona Lisa",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1986-06-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10002"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mona Lisa (1986)</h1>\n<p class=\"ssr-lead\">George is a small-time crook just out of prison who discovers his tough-guy image is out of date. Reduced to working as a minder/driver for high class call girl Simone, he has to agree when she asks him to find a young colleague from her King&#x27;s Cross days. That&#x27;s when George&#x27;s troubles just start.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 June 1986</li><li>Runtime: 105 minutes</li><li>Director: Neil Jordan</li><li>Genres: Crime, Drama, Romance, Thriller</li><li>TMDB rating: 6.9/10 (317 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bob Hoskins as George</li><li>Cathy Tyson as Simone</li><li>Robbie Coltrane as Thomas</li><li>Michael Caine as Mortwell</li><li>Clarke Peters as Anderson</li><li>Sammi Davis as May</li><li>Kate Hardie as Cathy</li><li>Zoë Nathenson as Jeannie</li><li>Rod Bedall as Terry</li><li>Joe Brown as Dudley</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, Criterion Channel, HBO Max</li></ul>\n</article>",
+   "t": "Mona Lisa (1986) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1986"
+  },
   "movie:11502": {
    "d": "Knife in the Water (1962): Drama/Thriller film. Story: On their way to an afternoon on the lake, husband and… See cast and TMDB rating 7.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/hlS23ABq7d8BwAeB9LKfZ2Xum8L.jpg",
@@ -324,6 +388,70 @@
    "t": "Lion Fist (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:13702": {
+   "d": "A Dirty Shame (2004): Comedy/Fantasy film. Story: Sylvia Stickles runs a convenience store with her… See cast, budget $15M, and TMDB rating 5.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6njeLorayAYvVxmBeOep1RMlDCY.jpg",
+   "industry": "world",
+   "k": "A Dirty Shame, A Dirty Shame movie, A Dirty Shame cast, A Dirty Shame story, A Dirty Shame box office collection, A Dirty Shame budget, A Dirty Shame review, A Dirty Shame rating, A Dirty Shame release date, A Dirty Shame trailer, A Dirty Shame Comedy, A Dirty Shame Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tracey Ullman"
+     },
+     {
+      "@type": "Person",
+      "name": "Johnny Knoxville"
+     },
+     {
+      "@type": "Person",
+      "name": "Selma Blair"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Isaak"
+     },
+     {
+      "@type": "Person",
+      "name": "Suzanne Shepherd"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 311,
+     "ratingValue": 5.4,
+     "worstRating": 0
+    },
+    "description": "A Dirty Shame (2004): Comedy/Fantasy film. Story: Sylvia Stickles runs a convenience store with her… See cast, budget $15M, and TMDB rating 5.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Waters"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Comedy",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6njeLorayAYvVxmBeOep1RMlDCY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13702",
+    "name": "A Dirty Shame",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-09-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13702"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Dirty Shame (2004)</h1>\n<p class=\"ssr-lead\">Sylvia Stickles runs a convenience store with her husband and mother-in-law. One day, Sylvia is hit on the head and transforms from an uptight prude to a sex-crazed lunatic. As she goes on a rampage through town, Sylvia attracts the attention of Ray Ray, a sexual healer and tow truck driver in search of the world&#x27;s greatest orgasm. Their sexual revolution, however, causes a class war in their tiny Baltimore community.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 September 2004</li><li>Runtime: 89 minutes</li><li>Director: John Waters</li><li>Genres: Comedy, Fantasy</li><li>Budget: $15M</li><li>TMDB rating: 5.4/10 (311 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tracey Ullman as Sylvia Stickles</li><li>Johnny Knoxville as Ray Ray Perkins</li><li>Selma Blair as Caprice Stickles</li><li>Chris Isaak as Vaughn Stickles</li><li>Suzanne Shepherd as Big Ethel</li><li>Mink Stole as Marge the Neuter</li><li>Patricia Hearst as Paige</li><li>Jackie Hoffman as Dora</li><li>Nicholas E.I. Noble as Weird Paperboy</li><li>Lucy Newman-Williams as Neuter Yuppie Woman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "A Dirty Shame (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
+  },
   "movie:1371202": {
    "d": "iHostage (2025): Thriller/Crime film. Story: When a gunman enters an Apple Store in the heart of… See cast, TMDB rating 5.9/10, and release date 18 April 2025.",
    "img": "https://image.tmdb.org/t/p/w780/4mM7m9L3XlPLq4vNNy3P8yDSXNM.jpg",
@@ -493,6 +621,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Murder of Rachel Nickell (2026)</h1>\n<p class=\"ssr-lead\">A young mother is killed in broad daylight on London&#x27;s Wimbledon Common — in front of her toddler. This documentary examines the yearslong murder case.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 June 2026</li><li>Runtime: 96 minutes</li><li>Director: Lucy Bowden</li><li>Genres: Documentary, Crime</li><li>TMDB rating: 6.3/10 (38 votes)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "The Murder of Rachel Nickell (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:17102": {
+   "d": "Dracula: Prince of Darkness (1966): Horror film. Story: Whilst vacationing in the Carpathian Mountain, two… See cast, budget $280.4k, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1BaTdEzBaZDW8z1wk1twkXMpwsd.jpg",
+   "industry": "world",
+   "k": "Dracula: Prince of Darkness, Dracula: Prince of Darkness movie, Dracula: Prince of Darkness cast, Dracula: Prince of Darkness story, Dracula: Prince of Darkness box office collection, Dracula: Prince of Darkness budget, Dracula: Prince of Darkness review, Dracula: Prince of Darkness rating, Dracula: Prince of Darkness release date, Dracula: Prince of Darkness trailer, Dracula: Prince of Darkness Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christopher Lee"
+     },
+     {
+      "@type": "Person",
+      "name": "Barbara Shelley"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrew Keir"
+     },
+     {
+      "@type": "Person",
+      "name": "Francis Matthews"
+     },
+     {
+      "@type": "Person",
+      "name": "Suzan Farmer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 310,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Dracula: Prince of Darkness (1966): Horror film. Story: Whilst vacationing in the Carpathian Mountain, two… See cast, budget $280.4k, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Terence Fisher"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1BaTdEzBaZDW8z1wk1twkXMpwsd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=17102",
+    "name": "Dracula: Prince of Darkness",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1966-01-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=17102"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dracula: Prince of Darkness (1966)</h1>\n<p class=\"ssr-lead\">Whilst vacationing in the Carpathian Mountain, two couples stumble across the remains of Count Dracula&#x27;s castle. The Count&#x27;s trusted servant kills one of the men, suspending the body over the Count&#x27;s ashes so that the blood drips from the corpse and saturates the blackened remains. The ritual is completed, the Count revived and his attentions focus on the dead man&#x27;s wife who is to become his partner; devoted to an existence of depravity and evil.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 January 1966</li><li>Runtime: 90 minutes</li><li>Director: Terence Fisher</li><li>Genres: Horror</li><li>Budget: $280.4k</li><li>TMDB rating: 6.7/10 (310 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christopher Lee as Count Dracula</li><li>Barbara Shelley as Helen Kent</li><li>Andrew Keir as Father Sandor</li><li>Francis Matthews as Charles Kent</li><li>Suzan Farmer as Diana Kent</li><li>Thorley Walters as Ludwig</li><li>Philip Latham as Klove</li><li>Charles Tingwell as Alan Kent</li><li>Walter Brown as Brother Mark</li><li>George Woodbridge as Landlord</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Studiocanal Presents Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video, YouTube</li><li>Buy: Apple TV Store, Amazon Video, YouTube</li></ul>\n</article>",
+   "t": "Dracula: Prince of Darkness (1966) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1966"
   },
   "movie:1739202": {
    "d": "Untold Raygun: Breaking Badly (2026): Documentary film. Story: Nobody, least of all Rachael Gunn, expected to be an… See cast and TMDB rating 5.6/10.",
@@ -1199,6 +1390,133 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Almost Christmas (2016)</h1>\n<p class=\"ssr-lead\">A dysfunctional family gathers together for their first Christmas since the death of their matriarch.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 November 2016</li><li>Runtime: 111 minutes</li><li>Director: David E. Talbert</li><li>Genres: Comedy, Drama</li><li>Budget: $17M</li><li>TMDB rating: 6.0/10 (405 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kimberly Elise as Cheryl</li><li>Omar Epps as Malachi</li><li>Danny Glover as Walter</li><li>John Michael Higgins as Brooks</li><li>Romany Malco as Christian</li><li>Mo&#x27;Nique as Aunt May</li><li>Nicole Ari Parker as Sonya</li><li>JB Smoove as Uncle Lonnie</li><li>Gabrielle Union as Rachel</li><li>Jessie T. Usher as Evan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Almost Christmas (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
+  },
+  "movie:369202": {
+   "d": "Lake Bodom (2016): Horror film. Story: Four friends are spending the night at Lake Bodom… See cast, budget $1.1M, and TMDB rating 5.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/heaHpK33jbxr2k9J8rwF1wT96HY.jpg",
+   "industry": "world",
+   "k": "Lake Bodom, Lake Bodom movie, Lake Bodom cast, Lake Bodom story, Lake Bodom box office collection, Lake Bodom budget, Lake Bodom review, Lake Bodom rating, Lake Bodom release date, Lake Bodom Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nelly Hirst-Gee"
+     },
+     {
+      "@type": "Person",
+      "name": "Mimosa Willamo"
+     },
+     {
+      "@type": "Person",
+      "name": "Mikael Gabriel"
+     },
+     {
+      "@type": "Person",
+      "name": "Santeri Helinheimo Mäntylä"
+     },
+     {
+      "@type": "Person",
+      "name": "Pirjo Lankinen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 312,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "Lake Bodom (2016): Horror film. Story: Four friends are spending the night at Lake Bodom… See cast, budget $1.1M, and TMDB rating 5.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Taneli Mustonen"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/heaHpK33jbxr2k9J8rwF1wT96HY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=369202",
+    "name": "Lake Bodom",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-08-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=369202"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Lake Bodom (2016)</h1>\n<p class=\"ssr-lead\">Four friends are spending the night at Lake Bodom, where unsolved murders took place many years ago. The young men are determined to venture into the dense forest to solve the mystery.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 August 2016</li><li>Runtime: 90 minutes</li><li>Director: Taneli Mustonen</li><li>Genres: Horror</li><li>Budget: $1.1M</li><li>TMDB rating: 5.3/10 (312 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nelly Hirst-Gee as Ida-Maria</li><li>Mimosa Willamo as Nora</li><li>Mikael Gabriel as Elias</li><li>Santeri Helinheimo Mäntylä as Atte</li><li>Pirjo Lankinen as Mother</li><li>Ilkka Heiskanen as Father</li><li>Sami Eerola as Hiker</li><li>Otso Ahosola as Young Hiker</li><li>Ville Saksela as Young Man</li><li>Iiris Kankkunen as Young Woman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo</li><li>Buy: Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Lake Bodom (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
+  "movie:38602": {
+   "d": "Little Lord Fauntleroy (1980): Family/Drama film. Story: Young Cedric Errol and his widowed mother live in… See cast, budget $6M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8CdC61bvZTEwDlgFrXyYubjyMWc.jpg",
+   "industry": "world",
+   "k": "Little Lord Fauntleroy, Little Lord Fauntleroy movie, Little Lord Fauntleroy cast, Little Lord Fauntleroy story, Little Lord Fauntleroy box office collection, Little Lord Fauntleroy budget, Little Lord Fauntleroy review, Little Lord Fauntleroy rating, Little Lord Fauntleroy release date, Little Lord Fauntleroy Family, Little Lord Fauntleroy Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ricky Schroder"
+     },
+     {
+      "@type": "Person",
+      "name": "Alec Guinness"
+     },
+     {
+      "@type": "Person",
+      "name": "Eric Porter"
+     },
+     {
+      "@type": "Person",
+      "name": "Colin Blakely"
+     },
+     {
+      "@type": "Person",
+      "name": "Connie Booth"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 326,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Little Lord Fauntleroy (1980): Family/Drama film. Story: Young Cedric Errol and his widowed mother live in… See cast, budget $6M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jack Gold"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Family",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8CdC61bvZTEwDlgFrXyYubjyMWc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=38602",
+    "name": "Little Lord Fauntleroy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1980-12-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=38602"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Little Lord Fauntleroy (1980)</h1>\n<p class=\"ssr-lead\">Young Cedric Errol and his widowed mother live in genteel poverty in 1880s Brooklyn after the death of his father. Cedric&#x27;s grandfather, the Earl of Dorincourt, has long ago disowned his son for marrying an American. But after the death of the Earl&#x27;s remaining son, he decides to accept Cedric as his heir.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 December 1980</li><li>Runtime: 103 minutes</li><li>Director: Jack Gold</li><li>Genres: Family, Drama, TV Movie</li><li>Budget: $6M</li><li>TMDB rating: 7.3/10 (326 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ricky Schroder as Cedric Errol / Lord Fauntleroy</li><li>Alec Guinness as Earl of Dorincourt</li><li>Eric Porter as Mr. Havisham</li><li>Colin Blakely as Silas Hobbs</li><li>Connie Booth as Mrs. Errol</li><li>Rachel Kempson as Lady Lorradaile</li><li>Gerry Cowper as Mellon</li><li>Barry Jackson as Hustings</li><li>Antonia Pemberton as Mrs. Dawson</li><li>John Southworth as Higgins</li></ul>\n</article>",
+   "t": "Little Lord Fauntleroy (1980) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1980"
   },
   "movie:444902": {
    "d": "Dirty Dancing (2017): Drama/Romance film. Story: Spending the summer at a Catskills resort with her… See cast, budget $6M, and TMDB rating 5.5/10.",

@@ -1,7 +1,116 @@
 {
  "bucket": "44",
- "count": 50,
+ "count": 56,
  "titles": {
+  "movie:1045944": {
+   "backdrop_path": "/nITzFbM1JS7WEvFjjGL0kCb2yPr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Boss Baby (voice)",
+     "n": "JP Karliak"
+    },
+    {
+     "c": "Tim (voice)",
+     "n": "Pierce Gagnon"
+    },
+    {
+     "c": "French Girl (voice)",
+     "n": "Amaryllis Aubel"
+    },
+    {
+     "c": "Lala Doo-Da (voice)",
+     "n": "Jodi Benson"
+    },
+    {
+     "c": "Staci (voice)",
+     "n": "Alex Cazares"
+    },
+    {
+     "c": "Diddly Doo (voice)",
+     "n": "Kalen Chase"
+    },
+    {
+     "c": "Ding Dong Dongle (voice)",
+     "n": "Ray Chase"
+    },
+    {
+     "c": "Dad (voice)",
+     "n": "David W. Collins"
+    },
+    {
+     "c": "Jingly Jangly (voice)",
+     "n": "Dana Davis"
+    },
+    {
+     "c": "Tippy Tappy Sloppy (voice)",
+     "n": "Charles Dewayne"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "date_kind": "release",
+   "director": [
+    "Matt Engstrom",
+    "Christo Stamboliev"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure"
+   ],
+   "id": 1045944,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Christmas Eve takes a twisty turn when the Boss Baby accidentally swaps places with one of Santa's elves and gets stranded at the North Pole.",
+   "popularity": 3.0844,
+   "poster_path": "/iMmMxF6f2OonUrXrHKBLSYAhXly.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Kids"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-12-06",
+   "revenue": 0,
+   "runtime": 45,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Boss Baby: Christmas Bonus",
+   "trailer": {
+    "key": "Xemiea7TCzI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.678,
+   "vote_count": 325
+  },
   "movie:1053544": {
    "backdrop_path": "/omRgNEWxU8wDbh5Qfdadf4l6V9n.jpg",
    "budget": 0,
@@ -1296,6 +1405,114 @@
    "vote_average": 6.369,
    "vote_count": 260
   },
+  "movie:1429744": {
+   "backdrop_path": "/rdtylu8IGowaxKGRKN9fFbdwSuA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Singh",
+     "n": "Prin Suparat"
+    },
+    {
+     "c": "Rin",
+     "n": "Nuttanicha Dungwattanawanich"
+    },
+    {
+     "c": "Buddy",
+     "n": "Wanvayla Boonnithipaisit"
+    },
+    {
+     "c": "Vasu",
+     "n": "Johnny Anfone"
+    },
+    {
+     "c": "Mink",
+     "n": "Pimmada Boriruksuppakorn"
+    },
+    {
+     "c": "Kim",
+     "n": "Jason Young"
+    },
+    {
+     "c": "Joke",
+     "n": "Suphachai Saepong"
+    },
+    {
+     "c": "Ann",
+     "n": "Duangporn Oapirat"
+    },
+    {
+     "c": "Purich",
+     "n": "Keerati Sivakua"
+    },
+    {
+     "c": "Dr. Prang",
+     "n": "Yok Sirimat"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Kulp Kaljareuk"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Action"
+   ],
+   "id": 1429744,
+   "industry": "world",
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "In a fight for survival against a horrifying army of zombies, a former Muay Thai fighter must use skill, speed and grit to save his girlfriend.",
+   "popularity": 2.9073,
+   "poster_path": "/yHYj2t3NzsjkHVYa0bPri4sMBsg.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-07-08",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Released",
+   "tagline": "This barehanded fighter will knock down a horde of zombies.",
+   "title": "Ziam",
+   "trailer": {
+    "key": "ATjGbAL8hWg",
+    "name": "Ziam | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 306
+  },
   "movie:1451344": {
    "backdrop_path": "/doasZ6ROBhD0xIRsvAFdTeZsKhp.jpg",
    "budget": 0,
@@ -1773,6 +1990,496 @@
    "type": "movie",
    "vote_average": 6.832,
    "vote_count": 381
+  },
+  "movie:19344": {
+   "backdrop_path": "/nnrNau1w3kIsPYMllbfsVQNUJVu.jpg",
+   "budget": 900000,
+   "cast": [
+    {
+     "c": "Annabelle Tillman",
+     "n": "Erin Kelly"
+    },
+    {
+     "c": "Simone Bradley",
+     "n": "Diane Gaidry"
+    },
+    {
+     "c": "Colins",
+     "n": "Laura Breckenridge"
+    },
+    {
+     "c": "Kristen",
+     "n": "Michelle Horn"
+    },
+    {
+     "c": "Cat Pegrum",
+     "n": "Gustine Fudickar"
+    },
+    {
+     "c": "Mother Immaculata",
+     "n": "Ilene Graff"
+    },
+    {
+     "c": "Father Harris",
+     "n": "Kevin McCarthy"
+    },
+    {
+     "c": "Michael",
+     "n": "Markus Flanagan"
+    },
+    {
+     "c": "Sister Claire",
+     "n": "Karen Teliha"
+    },
+    {
+     "c": "Lauren",
+     "n": "Marla Maples"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Katherine Brooks"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 19344,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Annabelle is the wise-beyond-her-years newcomer to an exclusive Catholic girls school. Having been expelled from her first two schools she's bound to stir some trouble. Sparks fly though when sexual chemistry appears between her and the Head of her dorm and English teacher, Simone Bradley. Annabelle pursues her relentlessly and until the end the older woman manages to avoid the law.",
+   "popularity": 1.7532,
+   "poster_path": "/a6p1Oexil6Z2XO5d1QVHR3F2OoM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-05-24",
+   "revenue": 0,
+   "runtime": 77,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One student. One teacher. One secret.",
+   "title": "Loving Annabelle",
+   "trailer": {
+    "key": "AEzcWmymuEk",
+    "name": "Loving Annabelle - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 316
+  },
+  "movie:20544": {
+   "backdrop_path": "/oT6z05HLXAfgD2CI3cPMuqG8OAW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr. Alfred Blalock",
+     "n": "Alan Rickman"
+    },
+    {
+     "c": "Vivien Thomas",
+     "n": "Yasiin Bey"
+    },
+    {
+     "c": "Mary Blalock",
+     "n": "Kyra Sedgwick"
+    },
+    {
+     "c": "Clara Thomas",
+     "n": "Gabrielle Union"
+    },
+    {
+     "c": "Mrs. Saxon",
+     "n": "Merritt Wever"
+    },
+    {
+     "c": "William Thomas",
+     "n": "Charles S. Dutton"
+    },
+    {
+     "c": "Dr. Helen Taussig",
+     "n": "Mary Stuart Masterson"
+    },
+    {
+     "c": "Francis Grebel",
+     "n": "Irene Ziegler"
+    },
+    {
+     "c": "Charles Manlove",
+     "n": "Luray Cooper"
+    },
+    {
+     "c": "Lodel Williams",
+     "n": "Cliff McMullen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Joseph Sargent"
+   ],
+   "genres": [
+    "TV Movie",
+    "Drama"
+   ],
+   "id": 20544,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A dramatization of the relationship between heart surgery pioneers Alfred Blalock and Vivien Thomas.",
+   "popularity": 3.4046,
+   "poster_path": "/lk2wEO6Rt3mnZmfRTu8wvYiGPmp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-05-30",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "A breakthrough that changed the face of medicine. A unique partnership that broke the rules.",
+   "title": "Something the Lord Made",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.976,
+   "vote_count": 335
+  },
+  "movie:209244": {
+   "backdrop_path": "/AgWnDRoGbbE6oXJWZpQVQWWzaUa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Steve Dallas",
+     "n": "Owen Wilson"
+    },
+    {
+     "c": "Ben Baker",
+     "n": "Zach Galifianakis"
+    },
+    {
+     "c": "Terri Baker",
+     "n": "Amy Poehler"
+    },
+    {
+     "c": "Angela Baker",
+     "n": "Laura Ramsey"
+    },
+    {
+     "c": "Delia Shepard",
+     "n": "Lauren Lapkus"
+    },
+    {
+     "c": "Alli",
+     "n": "Jenna Fischer"
+    },
+    {
+     "c": "George",
+     "n": "Jason Davis"
+    },
+    {
+     "c": "Red Coulter",
+     "n": "Joel Gretsch"
+    },
+    {
+     "c": "Victoria Riolobos",
+     "n": "Alana de la Garza"
+    },
+    {
+     "c": "Kyle Robertson",
+     "n": "Greg Cromer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Matthew Weiner"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 209244,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Steve Dallas, a womanizing local weatherman, hears that his off-the-grid best friend Ben Baker has lost his estranged father, the two return to Ben's childhood home. Once there, they discover Ben has inherited the family fortune, and the ill-equipped duo must battle Ben's formidable sister and deal with his father's gorgeous 25-year old widow.",
+   "popularity": 1.7877,
+   "poster_path": "/v83MAkGH8jF8uNhJhKgADqw3Xup.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-09-07",
+   "revenue": 0,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Friendship... there's nothing in it for anybody.",
+   "title": "Are You Here",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.2,
+   "vote_count": 309
   },
   "movie:2144": {
    "backdrop_path": "/wLNMNO87pYqUAgbJE5xZGNUK46S.jpg",
@@ -2303,6 +3010,162 @@
    "type": "movie",
    "vote_average": 7.006,
    "vote_count": 411
+  },
+  "movie:367544": {
+   "backdrop_path": "/uwnAbCfrxDeWKqxAMas6ZnmAqfQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kate Jordan",
+     "n": "Jen Lilley"
+    },
+    {
+     "c": "Daniel Forsythe",
+     "n": "Thomas Beaudoin"
+    },
+    {
+     "c": "Walter Rafferty",
+     "n": "Robert E. Walsh"
+    },
+    {
+     "c": "Sheriff Noah Bell",
+     "n": "Bates Wilder"
+    },
+    {
+     "c": "Lilly",
+     "n": "Kati Salowsky"
+    },
+    {
+     "c": "Harry",
+     "n": "Brett Leigh"
+    },
+    {
+     "c": "Molly Bell",
+     "n": "Joanna Herrington"
+    },
+    {
+     "c": "Oliver",
+     "n": "Christopher Tarjan"
+    },
+    {
+     "c": "Charles",
+     "n": "Steven A. Miller"
+    },
+    {
+     "c": "Laird",
+     "n": "Alexander Gauthier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "David Jackson"
+   ],
+   "genres": [
+    "Romance",
+    "Drama",
+    "Fantasy",
+    "TV Movie"
+   ],
+   "id": 367544,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A woman falls in love with a man who is somewhat unavailable.",
+   "popularity": 1.2786,
+   "poster_path": "/ynWcaW8ZrtBeuzgUyEXR30A2TAT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-11-28",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This holiday could be the start of a new beginning.",
+   "title": "The Spirit of Christmas",
+   "trailer": {
+    "key": "gjQJL2mbqXw",
+    "name": "THE SPIRIT OF CHRISTMAS",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.04,
+   "vote_count": 313
   },
   "movie:39144": {
    "backdrop_path": "/trUoQPnQy3cAXDx5TknzuBTFiWX.jpg",

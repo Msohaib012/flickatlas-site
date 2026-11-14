@@ -1,6 +1,6 @@
 {
  "bucket": "03",
- "count": 49,
+ "count": 57,
  "titles": {
   "movie:11703": {
    "backdrop_path": "/sQSKR3iDCtayRTN2Nr9LiRYy6TT.jpg",
@@ -685,6 +685,164 @@
    "vote_average": 6.428,
    "vote_count": 975
   },
+  "movie:13203": {
+   "backdrop_path": "/pV1Kdxjk05NfTUtfXB3ZZyD95s0.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Crawl",
+     "n": "Pauly Shore"
+    },
+    {
+     "c": "Rebecca Warner",
+     "n": "Carla Gugino"
+    },
+    {
+     "c": "Walter Warner",
+     "n": "Lane Smith"
+    },
+    {
+     "c": "Tracy",
+     "n": "Tiffani Thiessen"
+    },
+    {
+     "c": "Connie Warner",
+     "n": "Cindy Pickett"
+    },
+    {
+     "c": "Walter Warner Sr.",
+     "n": "Mason Adams"
+    },
+    {
+     "c": "Zack Warner",
+     "n": "Patrick Renna"
+    },
+    {
+     "c": "Theo",
+     "n": "Dennis Burkley"
+    },
+    {
+     "c": "Travis",
+     "n": "Dan Gauthier"
+    },
+    {
+     "c": "Male Hairdresser",
+     "n": "Garret Sato"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Steve Rash"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 13203,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Country girl Rebecca has spent most of her life on a farm in South Dakota, and, when she goes away to college in Los Angeles, Rebecca immediately feels out of place in the daunting urban setting. She is befriended by a savvy party animal named Crawl, who convinces the ambivalent Rebecca to stay in the city. When Thanksgiving break rolls around, Rebecca, no longer an innocent farm girl, invites Crawl back to South Dakota, where he pretends to be her fiancé.",
+   "popularity": 2.3344,
+   "poster_path": "/gj4afHL9bMQ18opZzMp77tlPkAq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1993-07-02",
+   "revenue": 36448200,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He's a relative nightmare.",
+   "title": "Son in Law",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.011,
+   "vote_count": 316
+  },
   "movie:13403": {
    "backdrop_path": "/uY5EB9VIX8lT03MdYcR9DzlhEGM.jpg",
    "budget": 6000000,
@@ -842,6 +1000,108 @@
    "type": "movie",
    "vote_average": 7.5,
    "vote_count": 451
+  },
+  "movie:13703": {
+   "backdrop_path": "/6Otwiru3uklbKPavWLdOLsgLFJU.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Clay",
+     "n": "Andrew McCarthy"
+    },
+    {
+     "c": "Blair",
+     "n": "Jami Gertz"
+    },
+    {
+     "c": "Julian",
+     "n": "Robert Downey Jr."
+    },
+    {
+     "c": "Rip",
+     "n": "James Spader"
+    },
+    {
+     "c": "Bradford Easton",
+     "n": "Tony Bill"
+    },
+    {
+     "c": "Benjamin Wells",
+     "n": "Nicholas Pryor"
+    },
+    {
+     "c": "Elaine Easton",
+     "n": "Donna Mitchell"
+    },
+    {
+     "c": "Hop",
+     "n": "Michael Bowen"
+    },
+    {
+     "c": "Markie",
+     "n": "Sarah Buxton"
+    },
+    {
+     "c": "Patti",
+     "n": "Lisanne Falk"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Marek Kanievska"
+   ],
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 13703,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A college freshman returns to Los Angeles for Christmas at his ex-girlfriend's request, but discovers that his former best friend has an out-of-control drug habit.",
+   "popularity": 2.679,
+   "poster_path": "/8pFMuyJJwJLqOJ3Ljq3M5BFGbTF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1987-11-06",
+   "revenue": 12396383,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "It only looks like the good life.",
+   "title": "Less Than Zero",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 319
   },
   "movie:13803": {
    "backdrop_path": "/5YRfEqAcnqyJmpVkWtEQMhKBjE0.jpg",
@@ -2220,6 +2480,140 @@
    "vote_average": 7.2,
    "vote_count": 345
   },
+  "movie:25103": {
+   "backdrop_path": "/bUFWLSQsSYdyy4eohp4iBBnOV1s.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr. John Holden",
+     "n": "Dana Andrews"
+    },
+    {
+     "c": "Joanna Harrington",
+     "n": "Peggy Cummins"
+    },
+    {
+     "c": "Dr. Julian Karswell",
+     "n": "Niall MacGinnis"
+    },
+    {
+     "c": "Professor Henry Harrington",
+     "n": "Maurice Denham"
+    },
+    {
+     "c": "Mrs. Karswell",
+     "n": "Athene Seyler"
+    },
+    {
+     "c": "Professor Mark O'Brien",
+     "n": "Liam Redmond"
+    },
+    {
+     "c": "Mr. Meek",
+     "n": "Reginald Beckwith"
+    },
+    {
+     "c": "Lloyd Williamson",
+     "n": "Ewan Roberts"
+    },
+    {
+     "c": "Professor K.T. Kumar",
+     "n": "Peter Elliott"
+    },
+    {
+     "c": "Mrs. Meek",
+     "n": "Rosamund Greenwood"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Jacques Tourneur"
+   ],
+   "genres": [
+    "Fantasy",
+    "Horror",
+    "Mystery"
+   ],
+   "id": 25103,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "American professor John Holden arrives in London for a conference on parapsychology only to discover that the colleague he was supposed to meet was killed in a freak accident the day before. It turns out that the deceased had been investigating a cult lead by Dr. Julian Karswell. Though a skeptic, Holden is suspicious of the devil-worshiping Karswell. Following a trail of mysterious manuscripts, Holden enters a world that makes him question his faith in science.",
+   "popularity": 2.1852,
+   "poster_path": "/uy3wfu0fXi72R5AypMmV22wS1UN.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Cultpix"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Midnight Pulp"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "Chilling"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/hBR1NB5z52BHMqowq0TgZqMcDBv.png",
+     "name": "Cultpix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1957-11-09",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Who will be the next in line to defy the curse?",
+   "title": "Night of the Demon",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.038,
+   "vote_count": 334
+  },
   "movie:3": {
    "backdrop_path": "/l94l89eMmFKh7na2a1u5q67VgNx.jpg",
    "budget": 0,
@@ -2721,6 +3115,154 @@
    "vote_average": 7.017,
    "vote_count": 471
   },
+  "movie:486103": {
+   "backdrop_path": "/9h93OngWRuPRsW0jP93rhGNjI6E.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Roberto",
+     "n": "Diego Abatantuono"
+    },
+    {
+     "c": "Anna",
+     "n": "Monica Guerritore"
+    },
+    {
+     "c": "Paolo",
+     "n": "Salvatore Esposito"
+    },
+    {
+     "c": "Antonio",
+     "n": "Cristiano Caccamo"
+    },
+    {
+     "c": "Donato",
+     "n": "Dino Abbrescia"
+    },
+    {
+     "c": "Benedetta",
+     "n": "Diana Del Bufalo"
+    },
+    {
+     "c": "Camilla",
+     "n": "Beatrice Arnera"
+    },
+    {
+     "c": "Vincenza",
+     "n": "Rosaria D'Urso"
+    },
+    {
+     "c": "Frate Francesco",
+     "n": "Antonio Catania"
+    },
+    {
+     "c": "Enzo Miccio",
+     "n": "Enzo Miccio"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "AA",
+   "date_kind": "release",
+   "director": [
+    "Alessandro Genovesi"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 486103,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A father, who calls himself \"open\" and tolerant and fights against any form of discrimination, reveals himself as not so liberal when his son announces the engagement to his partner. Overwhelmed by the news, he regresses into the most fierce opponent of same-sex marriage, and tries to undermine his son's happiness with a series of embarrassing situations.",
+   "popularity": 1.168,
+   "poster_path": "/vjiX79FqxONv0qVixtyfusIbKYp.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-03-01",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "My Big Gay Italian Wedding",
+   "trailer": {
+    "key": "RDDRM3kbXz4",
+    "name": "MY BIG GAY ITALIAN WEDDING (2019) - Official HD Trailer - A film by Alessandro Genovesi",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.735,
+   "vote_count": 321
+  },
   "movie:504603": {
    "backdrop_path": "/mr5rhvpOnursGgUjBQ3MiRHOUvp.jpg",
    "budget": 0,
@@ -2847,6 +3389,203 @@
    "type": "movie",
    "vote_average": 6.691,
    "vote_count": 452
+  },
+  "movie:5203": {
+   "backdrop_path": "/qsCZL7WMdRoQC9QRRwb1bT2CGYH.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Emily Reed",
+     "n": "Carré Otis"
+    },
+    {
+     "c": "James Wheeler",
+     "n": "Mickey Rourke"
+    },
+    {
+     "c": "Claudia Dennis",
+     "n": "Jacqueline Bisset"
+    },
+    {
+     "c": "Hanna Munch",
+     "n": "Assumpta Serna"
+    },
+    {
+     "c": "Jerome McFarland",
+     "n": "Bruce Greenwood"
+    },
+    {
+     "c": "Otto Munch",
+     "n": "Oleg Vidov"
+    },
+    {
+     "c": "Flavio",
+     "n": "Milton Gonçalves"
+    },
+    {
+     "c": "Elliot Costa",
+     "n": "Michael Villella"
+    },
+    {
+     "c": "Roberto",
+     "n": "Bernardo Jablonski"
+    },
+    {
+     "c": "Big Sailor",
+     "n": "Paul Land"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Zalman King"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 5203,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A woman lawyer becomes mesmerized by a self-made millionaire during an encounter in Rio setting off a series of erotic encounters.",
+   "popularity": 4.436,
+   "poster_path": "/6UfS8J9Ixn0BAv1aeuAFWom5YEk.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1989-12-22",
+   "revenue": 11060485,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "An adventure of the senses.",
+   "title": "Wild Orchid",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.251,
+   "vote_count": 315
+  },
+  "movie:570503": {
+   "backdrop_path": "/5sSCPzLhX9Ho7Llpj5N3ECjqYai.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kim Mi-su",
+     "n": "Kim Go-eun"
+    },
+    {
+     "c": "Cha Hyun-woo",
+     "n": "Jung Hae-in"
+    },
+    {
+     "c": "Jong-woo",
+     "n": "Park Hae-joon"
+    },
+    {
+     "c": "Eun-ja",
+     "n": "Kim Guk-hee"
+    },
+    {
+     "c": "Hyun-ju",
+     "n": "Eugene Jung"
+    },
+    {
+     "c": "Tae-sung",
+     "n": "Choi Jun-young"
+    },
+    {
+     "c": "Woo-sik",
+     "n": "Nam Moon-chul"
+    },
+    {
+     "c": "Geum-i",
+     "n": "Shim Dal-gi"
+    },
+    {
+     "c": "Yoo Yeol",
+     "n": "Yoo Yeol"
+    },
+    {
+     "c": "Kim Hyun-sook",
+     "n": "Kim Hyun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Jung Ji-woo"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 570503,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "During the 1990s, hardworking Mi-soo and optimistic Hyun-woo meet at a bakery and fall in love while exchanging stories on a radio station, but while their paths keep crossing, the timing never seems to work out.",
+   "popularity": 2.2935,
+   "poster_path": "/7yaF5BOtPjQH8JDSSiVbzdrsWM4.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-08-28",
+   "revenue": 8631781,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "Let me get what I want.",
+   "title": "Tune in for Love",
+   "trailer": {
+    "key": "O2x8gaL5Omw",
+    "name": "Tune in for Love | Official Trailer | Netflix [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.708,
+   "vote_count": 336
   },
   "movie:583903": {
    "backdrop_path": "/tlnu7qpEeyh4mgS7w2BIH6daPsA.jpg",
@@ -3524,6 +4263,192 @@
    "vote_average": 7.306,
    "vote_count": 373
   },
+  "movie:86703": {
+   "backdrop_path": "/29fL6pG0Fi67Qflhrh5ZDY0eDsf.jpg",
+   "budget": 1000000,
+   "cast": [
+    {
+     "c": "Anne Babish",
+     "n": "Carmen Electra"
+    },
+    {
+     "c": "Professor Babish",
+     "n": "Charlie O'Connell"
+    },
+    {
+     "c": "Kate",
+     "n": "Brooke Hogan"
+    },
+    {
+     "c": "Han",
+     "n": "Gerald Webb"
+    },
+    {
+     "c": "Paul",
+     "n": "David Gallegos"
+    },
+    {
+     "c": "Dana",
+     "n": "Christina Bach"
+    },
+    {
+     "c": "Kristen",
+     "n": "Ashley Bissing"
+    },
+    {
+     "c": "Ryan",
+     "n": "Marckenson Charles"
+    },
+    {
+     "c": "Kirk",
+     "n": "Chase Conner"
+    },
+    {
+     "c": "Ethan",
+     "n": "Michael Dicarluccio"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Christopher Ray"
+   ],
+   "genres": [
+    "Horror",
+    "Action",
+    "Science Fiction",
+    "Comedy"
+   ],
+   "id": 86703,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A Semester at Sea ship is attacked and sunk by a mutated two-headed shark, and the survivors seek refuge on a deserted atoll. The coeds, however, are no longer safe when the atoll starts flooding.",
+   "popularity": 2.0675,
+   "poster_path": "/elKZZhpc6fVFgMFPZaVAC4l1JdM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "Bloodstream"
+    },
+    {
+     "name": "Channel 101 Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-06-26",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "tr",
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "1 Body, 2 Heads and 6,000 Teeth",
+   "title": "2-Headed Shark Attack",
+   "trailer": {
+    "key": "lcH03mWg_sM",
+    "name": "2 HEADED SHARK ATTACK OFFICIAL TRAILER",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.2,
+   "vote_count": 315
+  },
   "movie:8703": {
    "backdrop_path": "/r3tn3xGjHdLnjSdQOC3WEkTloPC.jpg",
    "budget": 580000,
@@ -3637,6 +4562,96 @@
    "type": "movie",
    "vote_average": 7.467,
    "vote_count": 396
+  },
+  "movie:888003": {
+   "backdrop_path": "/ftlFPDcdhyPd1YDf9AcwYtE7gDK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marc Becker",
+     "n": "Pierre Niney"
+    },
+    {
+     "c": "Charlotte",
+     "n": "Blanche Gardin"
+    },
+    {
+     "c": "Denise",
+     "n": "Françoise Lebrun"
+    },
+    {
+     "c": "Sylvia",
+     "n": "Frankie Wallach"
+    },
+    {
+     "c": "Gabrielle",
+     "n": "Camille Rutherford"
+    },
+    {
+     "c": "Carlos",
+     "n": "Mourad Boudaoud"
+    },
+    {
+     "c": "Mathias",
+     "n": "Vincent Elbaz"
+    },
+    {
+     "c": "Martine, actrice de Chacun tout le monde",
+     "n": "Dominique Valadié"
+    },
+    {
+     "c": "Sting",
+     "n": "Sting"
+    },
+    {
+     "c": "L'ingénieur du son",
+     "n": "Sacha Bourdo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "AL",
+   "date_kind": "release",
+   "director": [
+    "Michel Gondry"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 888003,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Marc, a bipolar and paranoid filmmaker, cannot tolerate seeing his current project picked apart by his producers. The clips he’s been able to sneak a look at lead him to fear the worst. With his editor as an accomplice, he manages to spirit away the rushes to his aunt’s place in the Cévennes, to finish the film as he envisions it. Instead, its completion is constantly postponed, as he creates endless diversions and impasses, which alternate between the comic and the downright disturbing.",
+   "popularity": 1.1751,
+   "poster_path": "/1ljGxJuIB7PVnvtEFiNSVRnfXch.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2023-09-13",
+   "revenue": 3557686,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Book of Solutions",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.915,
+   "vote_count": 331
   },
   "movie:9403": {
    "backdrop_path": "/liPn0q65pOXosCpkr0BTbTHjbRT.jpg",

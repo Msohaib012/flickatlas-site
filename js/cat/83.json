@@ -1,6 +1,6 @@
 {
  "bucket": "83",
- "count": 41,
+ "count": 49,
  "titles": {
   "movie:10183": {
    "backdrop_path": "/gOhtvGwrVkEM5hCFdyyWKJEOBk8.jpg",
@@ -479,6 +479,114 @@
    "vote_average": 5.7,
    "vote_count": 231
   },
+  "movie:11483": {
+   "backdrop_path": "/jBfHr0cZqHXbORe7g6tDKB16MhL.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Captain Thomas Bartholomew Red",
+     "n": "Walter Matthau"
+    },
+    {
+     "c": "Jean-Baptiste 'The Frog'",
+     "n": "Cris Campion"
+    },
+    {
+     "c": "Don Alfonso de la Torré",
+     "n": "Damien Thomas"
+    },
+    {
+     "c": "Boomako",
+     "n": "Olu Jacobs"
+    },
+    {
+     "c": "María-Dolores de la Jenya de la Calde",
+     "n": "Charlotte Lewis"
+    },
+    {
+     "c": "Dutch",
+     "n": "Roy Kinnear"
+    },
+    {
+     "c": "Moonhead",
+     "n": "Roger Ashton-Griffiths"
+    },
+    {
+     "c": "Surgeon",
+     "n": "David Kelly"
+    },
+    {
+     "c": "Sentry",
+     "n": "Michael Elphick"
+    },
+    {
+     "c": "Captain Linares",
+     "n": "Ferdy Mayne"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Roman Polanski"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 11483,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "Captain Red runs a hardy pirate ship with the able assistance of Frog, a dashing young French sailor. One day Capt. Red is captured and taken aboard a Spanish galleon, but thanks to his inventiveness, he raises the crew to mutiny, takes over the ship, and kidnaps the niece of the governor of Maracaibo. The question is, can he keep this pace up?",
+   "popularity": 2.6356,
+   "poster_path": "/cuSnexGO0vq0ynefeHJvSwGYPU2.jpg",
+   "production_countries": [
+    "FR",
+    "TN",
+    "MX",
+    "GB",
+    "PL"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1986-05-08",
+   "revenue": 1641825,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Our Ship's Highly-Trained Staff Awaits You.",
+   "title": "Pirates",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 331
+  },
   "movie:11583": {
    "backdrop_path": "/hRqwp6ee3qKnUWLw6S4nj9yMwv0.jpg",
    "budget": 6000000,
@@ -600,6 +708,132 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 461
+  },
+  "movie:12583": {
+   "backdrop_path": "/6WiX5YHelMF0ci2S1xXsiAQ9Jsu.jpg",
+   "budget": 3500000,
+   "cast": [
+    {
+     "c": "Ginger Fitzgerald",
+     "n": "Katharine Isabelle"
+    },
+    {
+     "c": "Brigitte Fitzgerald",
+     "n": "Emily Perkins"
+    },
+    {
+     "c": "Hunter",
+     "n": "Nathaniel Arcand"
+    },
+    {
+     "c": "James",
+     "n": "JR Bourne"
+    },
+    {
+     "c": "Reverend Gilbert",
+     "n": "Hugh Dillon"
+    },
+    {
+     "c": "Seamus",
+     "n": "Adrien Dorval"
+    },
+    {
+     "c": "Finn",
+     "n": "Brendan Fletcher"
+    },
+    {
+     "c": "Claude",
+     "n": "David La Haye"
+    },
+    {
+     "c": "Wallace Rowlands",
+     "n": "Tom McCamus"
+    },
+    {
+     "c": "Doc Murphy",
+     "n": "Matthew Walker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Grant Harvey"
+   ],
+   "genres": [
+    "Horror",
+    "Fantasy"
+   ],
+   "id": 12583,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set in 19th Century Canada, Brigitte and her sister Ginger take refuge in a Traders' Fort which later becomes under siege by some savage werewolves. But when one of the girls is bitten, they have no one to turn to but themselves.",
+   "popularity": 2.0872,
+   "poster_path": "/tQ17krYhctcHnnslqq90zzGkhg7.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-07-10",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Evil Rises.",
+   "title": "Ginger Snaps Back: The Beginning",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.098,
+   "vote_count": 327
   },
   "movie:1259983": {
    "backdrop_path": "/t77v17Y74eIQDSITsBHtiySOGPr.jpg",
@@ -2049,6 +2283,269 @@
    "vote_average": 6.1,
    "vote_count": 365
   },
+  "movie:20083": {
+   "backdrop_path": "/7JubXPFBKGpJ7mvpMJQ7M0s8DG7.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Steelhead",
+     "n": "Jackie Chan"
+    },
+    {
+     "c": "Inspector Kitano",
+     "n": "Naoto Takenaka"
+    },
+    {
+     "c": "Jie",
+     "n": "Daniel Wu"
+    },
+    {
+     "c": "Lily",
+     "n": "Fan Bingbing"
+    },
+    {
+     "c": "Xiu Xiu / Yuko Eguchi",
+     "n": "Xu Jinglei"
+    },
+    {
+     "c": "Toshinari Eguchi",
+     "n": "Masaya Katō"
+    },
+    {
+     "c": "Koichi Muranishi",
+     "n": "Toru Minegishi"
+    },
+    {
+     "c": "Gao Jie",
+     "n": "Jack Kao"
+    },
+    {
+     "c": "Taro Watagawa",
+     "n": "Yasuaki Kurata"
+    },
+    {
+     "c": "Hong Kong Boy",
+     "n": "Chin Ka-Lok"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Derek Yee Tung-Sing"
+   ],
+   "genres": [
+    "Drama",
+    "Action",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 20083,
+   "industry": "world",
+   "origin_country": [
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "A simple Chinese immigrant wages a perilous war against one of the most powerful criminal organizations on the planet.",
+   "popularity": 2.933,
+   "poster_path": "/8zWliijoTsk3kUdUJpbjqWgV617.jpg",
+   "production_countries": [
+    "HK",
+    "JP",
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-03-22",
+   "revenue": 5461200,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "zh",
+    "cn",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They destroyed his life... Now he'll destroy them all.",
+   "title": "Shinjuku Incident",
+   "trailer": {
+    "key": "PJqi2rj6LDo",
+    "name": "Shinjuku Incident | 新宿事件 | Int'l Trailer | HD",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 338
+  },
+  "movie:20283": {
+   "backdrop_path": "/yNjrT8bsr5WR9bmRjLsIwIoZtFR.jpg",
+   "budget": 2300000,
+   "cast": [
+    {
+     "c": "Dave Stoller",
+     "n": "Dennis Christopher"
+    },
+    {
+     "c": "Mike",
+     "n": "Dennis Quaid"
+    },
+    {
+     "c": "Cyril",
+     "n": "Daniel Stern"
+    },
+    {
+     "c": "Moocher",
+     "n": "Jackie Earle Haley"
+    },
+    {
+     "c": "Evelyn Stoller",
+     "n": "Barbara Barrie"
+    },
+    {
+     "c": "Ray Stoller",
+     "n": "Paul Dooley"
+    },
+    {
+     "c": "Katherine",
+     "n": "Robyn Douglass"
+    },
+    {
+     "c": "Rod",
+     "n": "Hart Bochner"
+    },
+    {
+     "c": "Nancy",
+     "n": "Amy Wright"
+    },
+    {
+     "c": "Doctor",
+     "n": "Peter Maloney"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Peter Yates"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 20283,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Dave, nineteen, has just graduated high school, with his three friends: the comical Cyril, the warm hearted but short-tempered Moocher, and the athletic, spiteful but good-hearted Mike. Now, Dave enjoys racing bikes and hopes to race the Italians one day, and even takes up the Italian culture, much to his friends' and parents' annoyance.",
+   "popularity": 1.8569,
+   "poster_path": "/k7b5GsVJK1hfdwoYqcczN9pBba6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1979-05-24",
+   "revenue": 20000000,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "The movie that tells you exactly what you can do with your high school diploma!",
+   "title": "Breaking Away",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.142,
+   "vote_count": 313
+  },
   "movie:20483": {
    "backdrop_path": "/eIJEApRNDaysFxBIJFXCxdciZpk.jpg",
    "budget": 18000000,
@@ -2590,6 +3087,354 @@
    "vote_average": 7.1,
    "vote_count": 370
   },
+  "movie:23383": {
+   "backdrop_path": "/tFfucMJh4Me1JYBIRJcOokWWuLs.jpg",
+   "budget": 750000,
+   "cast": [
+    {
+     "c": "Hamlet - Prince of Denmark / Voice of Ghost",
+     "n": "Laurence Olivier"
+    },
+    {
+     "c": "Claudius - The King",
+     "n": "Basil Sydney"
+    },
+    {
+     "c": "Gertrude - The Queen",
+     "n": "Eileen Herlie"
+    },
+    {
+     "c": "Horatio - His Friend",
+     "n": "Norman Wooland"
+    },
+    {
+     "c": "Polonius - Lord Chamberlain",
+     "n": "Felix Aylmer"
+    },
+    {
+     "c": "Ophelia",
+     "n": "Jean Simmons"
+    },
+    {
+     "c": "Laertes",
+     "n": "Terence Morgan"
+    },
+    {
+     "c": "Osric",
+     "n": "Peter Cushing"
+    },
+    {
+     "c": "Gravedigger",
+     "n": "Stanley Holloway"
+    },
+    {
+     "c": "Priest",
+     "n": "Russell Thorndike"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Laurence Olivier"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 23383,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Winner of four Academy Awards, including Best Picture and Best Actor, Sir Laurence Olivier’s Hamlet continues to be the most compelling version of Shakespeare’s beloved tragedy. Olivier is at his most inspired—both as director and as the melancholy Dane himself—as he breathes new life into the words of one of the world’s greatest dramatists.",
+   "popularity": 2.1209,
+   "poster_path": "/woO9SgU2vTRMZeG0YqOLeoIqlzC.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1948-12-10",
+   "revenue": 0,
+   "runtime": 153,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The motion picture of all time ... for all time!",
+   "title": "Hamlet",
+   "trailer": {
+    "key": "9G8LjlR60bw",
+    "name": "Amleto di Laurence Olivier - Trailer originale",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.404,
+   "vote_count": 308
+  },
+  "movie:303483": {
+   "backdrop_path": "/hQyuTd670x8q1751XJ4a2s9zT5d.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Anne Gueguen",
+     "n": "Ariane Ascaride"
+    },
+    {
+     "c": "Malik",
+     "n": "Ahmed Dramé"
+    },
+    {
+     "c": "Mélanie",
+     "n": "Noémie Merlant"
+    },
+    {
+     "c": "Yvette Thomas",
+     "n": "Geneviève Mnich"
+    },
+    {
+     "c": "Max",
+     "n": "Stéphane Bak"
+    },
+    {
+     "c": "Jamila",
+     "n": "Wendy Nieto"
+    },
+    {
+     "c": "Saïd",
+     "n": "Aïmen Derriachi"
+    },
+    {
+     "c": "Olivier / Brahim",
+     "n": "Mohamed Seddiki"
+    },
+    {
+     "c": "Théo",
+     "n": "Adrien Hurdubae"
+    },
+    {
+     "c": "Camélia",
+     "n": "Alicia Dadoun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "8",
+   "date_kind": "release",
+   "director": [
+    "Marie-Castille Mention-Schaar"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 303483,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "At Léon Blum High School in Créteil, France, a history teacher decides to have her weakest 10th grade class participate in a national history competition.",
+   "popularity": 0.5373,
+   "poster_path": "/dHGRwKIDyrMjudTp1BlBKxe4Gvq.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Chai Flicks"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/b1cu4YuZF6xRagXjCjVeZBbnSD2.png",
+     "name": "Chai Flicks",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-12-03",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Based on a true story",
+   "title": "Once in a Lifetime",
+   "trailer": {
+    "key": "UozgwCTAi8I",
+    "name": "Once In A Lifetime - Official U.S. Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 333
+  },
   "movie:33583": {
    "backdrop_path": "/9CbH2EktREWAur7XLBeFNFNr5BQ.jpg",
    "budget": 0,
@@ -2714,6 +3559,119 @@
    "type": "movie",
    "vote_average": 6.851,
    "vote_count": 370
+  },
+  "movie:34583": {
+   "backdrop_path": "/sSBLA1G4A6ZEFWhFrrox9fIV8Mt.jpg",
+   "budget": 1000000,
+   "cast": [
+    {
+     "c": "Dane",
+     "n": "Marc Donato"
+    },
+    {
+     "c": "Kurtis",
+     "n": "Jascha Washington"
+    },
+    {
+     "c": "Bridget",
+     "n": "Whitney Hoy"
+    },
+    {
+     "c": "Bradley",
+     "n": "Justin Arnold"
+    },
+    {
+     "c": "Emily",
+     "n": "Lindsay Seidel"
+    },
+    {
+     "c": "Kelli",
+     "n": "Laura Ashley Samuels"
+    },
+    {
+     "c": "Andy",
+     "n": "Travis Tedford"
+    },
+    {
+     "c": "Jack",
+     "n": "Eric Isenhower"
+    },
+    {
+     "c": "Ravi",
+     "n": "Vincent Silochan"
+    },
+    {
+     "c": "Riggs",
+     "n": "Preston Flagg"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joey Stewart"
+   ],
+   "genres": [
+    "Thriller",
+    "Horror"
+   ],
+   "id": 34583,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of high school outcasts get revenge on the students that torment them.",
+   "popularity": 1.7477,
+   "poster_path": "/ff7UI8q51sOArKafaaAOQnnfpne.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-01-28",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This lesson can't be learned in the classroom.",
+   "title": "The Final",
+   "trailer": {
+    "key": "jJCtWHk5v3M",
+    "name": "THE FINAL (2010) - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.016,
+   "vote_count": 316
   },
   "movie:369883": {
    "backdrop_path": "/xDHCtB2rUUJYMEWoYbXITbQcirY.jpg",
@@ -3106,6 +4064,113 @@
    "type": "movie",
    "vote_average": 5.462,
    "vote_count": 372
+  },
+  "movie:525183": {
+   "backdrop_path": "/maoFnW8j7thGdiplQgT5UGNlbHo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Michael",
+     "n": "Mark Duplass"
+    },
+    {
+     "c": "Andy",
+     "n": "Ray Romano"
+    },
+    {
+     "c": "Doctor Hagen",
+     "n": "Christine Woods"
+    },
+    {
+     "c": "Master Liu",
+     "n": "Jen Sung"
+    },
+    {
+     "c": "Chien",
+     "n": "Stephen Oyoung"
+    },
+    {
+     "c": "Master Liu (voice)",
+     "n": "Bjorn Johnson"
+    },
+    {
+     "c": "Copy Shop Customer",
+     "n": "Harry Dej"
+    },
+    {
+     "c": "Olive",
+     "n": "Sierra Fisk"
+    },
+    {
+     "c": "Dr. Laurey (voice)",
+     "n": "Alana Carithers"
+    },
+    {
+     "c": "Ku Woo Tai",
+     "n": "Lu Junchang"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Alex Lehmann"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 525183,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An unlikely friendship between two neighbors becomes an unexpectedly emotional journey when the younger man is diagnosed with terminal cancer.",
+   "popularity": 1.1745,
+   "poster_path": "/gtssTSvNgY8132hPRtp1DbciYJ6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-02-01",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A comedy of dramatic proportions.",
+   "title": "Paddleton",
+   "trailer": {
+    "key": "rs9YpUktrWw",
+    "name": "Paddleton | Official Trailer [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 328
   },
   "movie:529983": {
    "backdrop_path": "/cXpkDrZWK8amdYXzf24LH67Vftn.jpg",

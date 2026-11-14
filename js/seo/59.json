@@ -1,7 +1,71 @@
 {
  "bucket": "59",
- "count": 46,
+ "count": 52,
  "titles": {
+  "movie:10359": {
+   "d": "Resurrection (1999): Crime/Mystery film. Story: A jaded homicide detective has been put on the case… See cast, budget $10M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/deqB89VLPy9WJzGrb51tU1DyuhN.jpg",
+   "industry": "world",
+   "k": "Resurrection, Resurrection movie, Resurrection cast, Resurrection story, Resurrection box office collection, Resurrection budget, Resurrection review, Resurrection rating, Resurrection release date, Resurrection Crime, Resurrection Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christopher Lambert"
+     },
+     {
+      "@type": "Person",
+      "name": "Leland Orser"
+     },
+     {
+      "@type": "Person",
+      "name": "Barbara Tyson"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeff J.J. Authors"
+     },
+     {
+      "@type": "Person",
+      "name": "David Cronenberg"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 323,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Resurrection (1999): Crime/Mystery film. Story: A jaded homicide detective has been put on the case… See cast, budget $10M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Russell Mulcahy"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Crime",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/deqB89VLPy9WJzGrb51tU1DyuhN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10359",
+    "name": "Resurrection",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1999-06-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10359"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Resurrection (1999)</h1>\n<p class=\"ssr-lead\">A jaded homicide detective has been put on the case of a ruthless killer in the city of Chicago, who leaves a trail of horribly mutilated and dismembered corpses along with perversely ironic biblical quotes.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 June 1999</li><li>Runtime: 108 minutes</li><li>Director: Russell Mulcahy</li><li>Genres: Crime, Mystery, Thriller, Horror</li><li>Budget: $10M</li><li>TMDB rating: 6.1/10 (323 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christopher Lambert as Det. John Prudhomme</li><li>Leland Orser as Det. Andrew Hollinsworth</li><li>Barbara Tyson as Sara Prudhomme</li><li>Jeff J.J. Authors as Paramedic</li><li>David Cronenberg as Father Rousell</li><li>Jayne Eastwood as Dolores Koontz</li><li>Rick Fox as Scholfield</li><li>Robert Joy as Demus</li><li>Peter MacNeill as Captain Whippley</li><li>Jonathan Potts as Det. Moltz</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, Howdy Amazon Channel</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Resurrection (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1999"
+  },
   "movie:104859": {
    "d": "Mac & Devin Go to High School (2012): Comedy film. Story: A comedy that follows two high school students -- one… See cast and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/hozr6lmxzdEAwADSINd4YQjmTg6.jpg",
@@ -1349,6 +1413,70 @@
    "t": "Iron Maiden: Burning Ambition (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:16559": {
+   "d": "The Picture of Dorian Gray (1945): Drama/Horror film. Story: A handsome young man trades his soul so that his… See cast and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6LF0NpAu1Ea8ZlWTjwm4lWaBsyp.jpg",
+   "industry": "world",
+   "k": "The Picture of Dorian Gray, The Picture of Dorian Gray movie, The Picture of Dorian Gray cast, The Picture of Dorian Gray story, The Picture of Dorian Gray box office collection, The Picture of Dorian Gray budget, The Picture of Dorian Gray review, The Picture of Dorian Gray rating, The Picture of Dorian Gray release date, The Picture of Dorian Gray trailer, The Picture of Dorian Gray Drama, The Picture of Dorian Gray Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "George Sanders"
+     },
+     {
+      "@type": "Person",
+      "name": "Hurd Hatfield"
+     },
+     {
+      "@type": "Person",
+      "name": "Donna Reed"
+     },
+     {
+      "@type": "Person",
+      "name": "Angela Lansbury"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Lawford"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 314,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Picture of Dorian Gray (1945): Drama/Horror film. Story: A handsome young man trades his soul so that his… See cast and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Albert Lewin"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Drama",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6LF0NpAu1Ea8ZlWTjwm4lWaBsyp.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=16559",
+    "name": "The Picture of Dorian Gray",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1945-03-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=16559"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Picture of Dorian Gray (1945)</h1>\n<p class=\"ssr-lead\">A handsome young man trades his soul so that his portrait ages while he stays eternally young.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 March 1945</li><li>Runtime: 111 minutes</li><li>Director: Albert Lewin</li><li>Genres: Drama, Horror, Fantasy</li><li>TMDB rating: 7.1/10 (314 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>George Sanders as Lord Henry Wotton</li><li>Hurd Hatfield as Dorian Gray</li><li>Donna Reed as Gladys Hallward</li><li>Angela Lansbury as Sibyl Vane</li><li>Peter Lawford as David Stone</li><li>Lowell Gilmore as Basil Hallward</li><li>Richard Fraser as James Vane</li><li>Douglas Walton as Allen Campbell</li><li>Morton Lowry as Adrian Singleton</li><li>Miles Mander as Sir Robert Bentley</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: TCM</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Picture of Dorian Gray (1945) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1945"
+  },
   "movie:17159": {
    "d": "Eddie Murphy Raw (1987): Comedy film. Story: Eddie Murphy delights, shocks and entertains with… See cast, TMDB rating 7.2/10, and release date 25 November 1987.",
    "img": "https://image.tmdb.org/t/p/w780/zAP5PZVtSIOZwweMaHmNKHJ3xTF.jpg",
@@ -1538,6 +1666,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Ninotchka (1939)</h1>\n<p class=\"ssr-lead\">A stern Russian woman sent to Paris on official business finds herself attracted to a man who represents everything she is supposed to detest.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 November 1939</li><li>Runtime: 110 minutes</li><li>Director: Ernst Lubitsch</li><li>Genres: Comedy, Romance</li><li>Budget: $1.36M</li><li>TMDB rating: 7.5/10 (462 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Greta Garbo as Nina &quot;Ninotchka&quot; Ivanovna Yakushova</li><li>Melvyn Douglas as Count Leon d&#x27;Algout</li><li>Ina Claire as Grand Duchess Swana</li><li>Bela Lugosi as Commissar Razinin</li><li>Sig Ruman as Comrade Iranoff</li><li>Felix Bressart as Comrade Buljanoff</li><li>Alexander Granach as Comrade Kopalski</li><li>Gregory Gaye as Count Alexis Rakonin</li><li>Rolfe Sedan as Hotel Manager</li><li>Edwin Maxwell as Mercier</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Ninotchka (1939) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1939"
+  },
+  "movie:298459": {
+   "d": "Next Time I'll Aim for the Heart (2014): Crime/Thriller film. Story: Between 1978 and 1979, the inhabitants of the Oise… See cast and budget $5.1M.",
+   "img": "https://image.tmdb.org/t/p/w780/64zKO0Ia4o6YOrTmNFP4irvtB64.jpg",
+   "industry": "world",
+   "k": "Next Time I'll Aim for the Heart, Next Time I'll Aim for the Heart movie, Next Time I'll Aim for the Heart cast, Next Time I'll Aim for the Heart story, Next Time I'll Aim for the Heart box office collection, Next Time I'll Aim for the Heart budget, Next Time I'll Aim for the Heart review, Next Time I'll Aim for the Heart rating, Next Time I'll Aim for the Heart release date, Next Time I'll Aim for the Heart trailer, Next Time I'll Aim for the Heart Crime, Next Time I'll Aim for the Heart Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Guillaume Canet"
+     },
+     {
+      "@type": "Person",
+      "name": "Ana Girardot"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean-Yves Berteloot"
+     },
+     {
+      "@type": "Person",
+      "name": "Cédric le Maoût"
+     },
+     {
+      "@type": "Person",
+      "name": "Alice de Lencquesaing"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 319,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Next Time I'll Aim for the Heart (2014): Crime/Thriller film. Story: Between 1978 and 1979, the inhabitants of the Oise… See cast and budget $5.1M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Cédric Anger"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/64zKO0Ia4o6YOrTmNFP4irvtB64.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=298459",
+    "name": "Next Time I'll Aim for the Heart",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-11-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=298459"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Next Time I&#x27;ll Aim for the Heart (2014)</h1>\n<p class=\"ssr-lead\">Between 1978 and 1979, the inhabitants of the Oise are in fear of a maniac who kills several hitchhikers and escape the police. He was then dubbed &quot;the killer of the Oise&quot; is actually a shy young policeman who will investigate his own murder, only to lose control of the situation.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 November 2014</li><li>Runtime: 111 minutes</li><li>Director: Cédric Anger</li><li>Genres: Crime, Thriller, Drama</li><li>Budget: $5.1M</li><li>TMDB rating: 5.9/10 (319 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Guillaume Canet as Franck</li><li>Ana Girardot as Sophie</li><li>Jean-Yves Berteloot as Lacombe</li><li>Cédric le Maoût as Olivier</li><li>Alice de Lencquesaing as Melissa</li><li>Nicolas Ronchi as Le medecin</li><li>Nicolas Carpentier as Paul</li><li>Pierick Tournier as Carpentier</li><li>Alexandre Carrière as Ossart</li><li>Franck Andrieux as Auzier</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Philo, Fandor, OVID, Fandor Amazon Channel, Amazon Prime Video with Ads, Cineverse Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Next Time I'll Aim for the Heart (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
   },
   "movie:3059": {
    "d": "Intolerance: Love's Struggle Throughout the Ages (1916): Drama/History film. Story: The story of a poor young woman, separated by… See cast and budget $385.9k.",
@@ -2049,6 +2241,70 @@
    "t": "An Autumn Afternoon (1962) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1962"
   },
+  "movie:53459": {
+   "d": "F (2010): Horror/Thriller film. Story: A group of teachers must defend themselves from a… See cast, budget $1.3M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/2qdA7BufVgCzw0M11WfLcwBQOYL.jpg",
+   "industry": "world",
+   "k": "F, F movie, F cast, F story, F box office collection, F budget, F review, F rating, F release date, F Horror, F Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "David Schofield"
+     },
+     {
+      "@type": "Person",
+      "name": "Eliza Bennett"
+     },
+     {
+      "@type": "Person",
+      "name": "Ruth Gemmell"
+     },
+     {
+      "@type": "Person",
+      "name": "Juliet Aubrey"
+     },
+     {
+      "@type": "Person",
+      "name": "Roxanne McKee"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 325,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "F (2010): Horror/Thriller film. Story: A group of teachers must defend themselves from a… See cast, budget $1.3M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Johannes Roberts"
+     }
+    ],
+    "duration": "PT79M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2qdA7BufVgCzw0M11WfLcwBQOYL.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=53459",
+    "name": "F",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-09-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=53459"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>F (2010)</h1>\n<p class=\"ssr-lead\">A group of teachers must defend themselves from a gang of murderous kids when their school comes under siege after hours.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 September 2010</li><li>Runtime: 79 minutes</li><li>Director: Johannes Roberts</li><li>Genres: Horror, Thriller</li><li>Budget: $1.3M</li><li>TMDB rating: 6.1/10 (325 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Schofield as Robert Anderson</li><li>Eliza Bennett as Kate Anderson</li><li>Ruth Gemmell as Sarah Balham</li><li>Juliet Aubrey as Helen Anderson</li><li>Roxanne McKee as Nicky</li><li>Emma Cleasby as Lucy</li><li>Max Fowler as Jake Eaves</li><li>Finlay Robertson as James</li><li>Tina Barnes as Policewoman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, YouTube</li><li>Buy: Amazon Video, Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "F (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
+  },
   "movie:537059": {
    "d": "Justice League vs. the Fatal Five (2019): Animation/Action film. Story: The Justice League faces a powerful new threat — the… See cast and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/LJzyrq1ixZE8o10DbLkuEDYc7M.jpg",
@@ -2177,6 +2433,48 @@
    "t": "The Coldest Game (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
+  "movie:747059": {
+   "d": "Burrow (2020): Animation/Family film. Story: A young rabbit embarks on a journey to dig the burrow… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tj58v7h4d9xDkFr3Hot0qhKdwRf.jpg",
+   "industry": "world",
+   "k": "Burrow, Burrow movie, Burrow cast, Burrow story, Burrow box office collection, Burrow budget, Burrow review, Burrow rating, Burrow release date, Burrow Animation, Burrow Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 327,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Burrow (2020): Animation/Family film. Story: A young rabbit embarks on a journey to dig the burrow… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Madeline Sharafian"
+     }
+    ],
+    "duration": "PT6M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tj58v7h4d9xDkFr3Hot0qhKdwRf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=747059",
+    "name": "Burrow",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-12-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=747059"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Burrow (2020)</h1>\n<p class=\"ssr-lead\">A young rabbit embarks on a journey to dig the burrow of her dreams, despite not having a clue what she&#x27;s doing. Rather than reveal to her neighbors her imperfections, she digs herself deeper and deeper into trouble. After hitting (bed)rock bottom, she learns there is no shame in asking for help.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 December 2020</li><li>Runtime: 6 minutes</li><li>Director: Madeline Sharafian</li><li>Genres: Animation, Family, Comedy</li><li>TMDB rating: 7.4/10 (327 votes)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li></ul>\n</article>",
+   "t": "Burrow (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
   "movie:845659": {
    "d": "Perfect Addiction (2023): Drama/Romance film. Story: A female boxing trainer discovers that her champion… See cast and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/sE6uilkTOIdg1zbZ3S8UKJ7Q9Av.jpg",
@@ -2240,6 +2538,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Perfect Addiction (2023)</h1>\n<p class=\"ssr-lead\">A female boxing trainer discovers that her champion cage-fighter boyfriend has been cheating on her with her sister and decides to seek revenge by training up his arch-rival to challenge him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 February 2023</li><li>Runtime: 97 minutes</li><li>Director: Castille Landon</li><li>Genres: Drama, Romance</li><li>TMDB rating: 6.8/10 (343 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kiana Madeira as Sienna Lane</li><li>Ross Butler as Kayden Williams</li><li>Matthew Noszka as Jax Deneris</li><li>Bree Winslow as Beth Lane</li><li>Nicholas Duvernay as Brent Jacobs</li><li>Manu Bennett as Julian</li><li>Ryan Bown as Evan Kessler</li><li>Poppy Gilbert as Cara</li><li>Cecilia Diesch as Athena</li><li>Alex Czerwinski as Bookie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "Perfect Addiction (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2023"
+  },
+  "movie:9459": {
+   "d": "Woodstock (1970): Documentary/Music film. Story: An intimate look at the Woodstock Music & Art… See cast, budget $600.0k, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/50tOx2lJXuszVjwCjNYHEXnPMWx.jpg",
+   "industry": "world",
+   "k": "Woodstock, Woodstock movie, Woodstock cast, Woodstock story, Woodstock box office collection, Woodstock budget, Woodstock review, Woodstock rating, Woodstock release date, Woodstock trailer, Woodstock Documentary, Woodstock Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Richie Havens"
+     },
+     {
+      "@type": "Person",
+      "name": "Joan Baez"
+     },
+     {
+      "@type": "Person",
+      "name": "Roger Daltrey"
+     },
+     {
+      "@type": "Person",
+      "name": "John Entwistle"
+     },
+     {
+      "@type": "Person",
+      "name": "Keith Moon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 307,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Woodstock (1970): Documentary/Music film. Story: An intimate look at the Woodstock Music & Art… See cast, budget $600.0k, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Wadleigh"
+     }
+    ],
+    "duration": "PT224M",
+    "genre": [
+     "Documentary",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/50tOx2lJXuszVjwCjNYHEXnPMWx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9459",
+    "name": "Woodstock",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1970-03-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9459"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Woodstock (1970)</h1>\n<p class=\"ssr-lead\">An intimate look at the Woodstock Music &amp; Art Festival held in Bethel, NY in 1969, from preparation through cleanup, with historic access to insiders, blistering concert footage, and portraits of the concertgoers; negative and positive aspects are shown, from drug use by performers to naked fans sliding in the mud, from the collapse of the fences by the unexpected hordes to the surreal arrival of National Guard helicopters with food and medical assistance for the impromptu city of 500,000.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 March 1970</li><li>Runtime: 224 minutes</li><li>Director: Michael Wadleigh</li><li>Genres: Documentary, Music</li><li>Budget: $600.0k</li><li>TMDB rating: 7.6/10 (307 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Richie Havens as Self</li><li>Joan Baez as Self</li><li>Roger Daltrey as Self - The Who</li><li>John Entwistle as Self - The Who</li><li>Keith Moon as Self - The Who</li><li>Pete Townshend as Self - The Who</li><li>Joe Cocker as Self</li><li>Country Joe McDonald as Self - Country Joe and the Fish</li><li>Barry Melton as Self - Country Joe and the Fish</li><li>Greg Dewey as Self - Country Joe and the Fish</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Woodstock (1970) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1970"
   },
   "movie:9959": {
    "d": "Freedomland (2006): Thriller/Crime film. Story: A black police detective must solve a strange case of… See cast, budget $37.66M, and TMDB rating 5.3/10.",

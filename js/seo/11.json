@@ -1,7 +1,70 @@
 {
  "bucket": "11",
- "count": 50,
+ "count": 64,
  "titles": {
+  "movie:1019411": {
+   "d": "Space Cadet (2024): Comedy film. Story: Tiffany \"Rex\" Simpson has always dreamed of going to… See cast, TMDB rating 5.5/10, and release date 4 July 2024.",
+   "img": "https://image.tmdb.org/t/p/w780/c3tOvnxFp2uUfLs6U8ew52N3FhO.jpg",
+   "industry": "world",
+   "k": "Space Cadet, Space Cadet movie, Space Cadet cast, Space Cadet story, Space Cadet box office collection, Space Cadet budget, Space Cadet review, Space Cadet rating, Space Cadet release date, Space Cadet trailer, Space Cadet Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Emma Roberts"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Hopper"
+     },
+     {
+      "@type": "Person",
+      "name": "Poppy Liu"
+     },
+     {
+      "@type": "Person",
+      "name": "Gabrielle Union"
+     },
+     {
+      "@type": "Person",
+      "name": "Kuhoo Verma"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 314,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "Space Cadet (2024): Comedy film. Story: Tiffany \"Rex\" Simpson has always dreamed of going to… See cast, TMDB rating 5.5/10, and release date 4 July 2024.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Liz W. Garcia"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/c3tOvnxFp2uUfLs6U8ew52N3FhO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1019411",
+    "name": "Space Cadet",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-07-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1019411"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Space Cadet (2024)</h1>\n<p class=\"ssr-lead\">Tiffany &quot;Rex&quot; Simpson has always dreamed of going to space, and her &quot;doctored&quot; application lands her in NASA&#x27;s ultra-competitive astronaut training program. In over her head, can this Florida girl rely on her quick wits, moxie and determination to get through training and into the cosmos before she blows her cover?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 July 2024</li><li>Runtime: 110 minutes</li><li>Director: Liz W. Garcia</li><li>Genres: Comedy</li><li>TMDB rating: 5.5/10 (314 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Emma Roberts as Rex Simpson</li><li>Tom Hopper as Logan O&#x27;Leary</li><li>Poppy Liu as Nadine Cai</li><li>Gabrielle Union as Pam Proctor</li><li>Kuhoo Verma as Violet Marie Vislawski</li><li>Desi Lydic as Dr. Stacy Kellogg</li><li>Sebastián Yatra as Toddrick Spencer</li><li>Sam Robards as Rex&#x27;s Dad (Calvin Simpson)</li><li>Dave Foley as Rudolph Bolton</li><li>Yasha Jackson as Grace Jackson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Space Cadet (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
+  },
   "movie:10411": {
    "d": "The Distinguished Gentleman (1992): Comedy film. Story: A Florida con man uses the recent death of the long… See cast, budget $50M, and TMDB rating 6.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/4AR1E5kJ0QiQh0zPWd9KLYCxM4v.jpg",
@@ -384,6 +447,70 @@
    "t": "Miraculous World: Tokyo, Stellar Force (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
   },
+  "movie:11511": {
+   "d": "Kazaam (1996): Fantasy/Comedy film. Story: When Max fools a gang of local toughs, he finds… See cast, budget $20M, and TMDB rating 4.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mQzeocOItlHOf26UQeYEFgAvNaJ.jpg",
+   "industry": "world",
+   "k": "Kazaam, Kazaam movie, Kazaam cast, Kazaam story, Kazaam box office collection, Kazaam budget, Kazaam review, Kazaam rating, Kazaam release date, Kazaam Fantasy, Kazaam Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shaquille O'Neal"
+     },
+     {
+      "@type": "Person",
+      "name": "Francis Capra"
+     },
+     {
+      "@type": "Person",
+      "name": "Ally Walker"
+     },
+     {
+      "@type": "Person",
+      "name": "Marshall Manesh"
+     },
+     {
+      "@type": "Person",
+      "name": "James Acheson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 325,
+     "ratingValue": 4.2,
+     "worstRating": 0
+    },
+    "description": "Kazaam (1996): Fantasy/Comedy film. Story: When Max fools a gang of local toughs, he finds… See cast, budget $20M, and TMDB rating 4.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Paul Michael Glaser"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Fantasy",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mQzeocOItlHOf26UQeYEFgAvNaJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11511",
+    "name": "Kazaam",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1996-07-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11511"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Kazaam (1996)</h1>\n<p class=\"ssr-lead\">When Max fools a gang of local toughs, he finds himself in big trouble. Fleeing from the thugs, Max runs into an old warehouse and bumps into a boom box. By doing that, he manages to release Kazaam, a genie who has been held captive for thousands of years.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 July 1996</li><li>Runtime: 94 minutes</li><li>Director: Paul Michael Glaser</li><li>Genres: Fantasy, Comedy, Family</li><li>Budget: $20M</li><li>TMDB rating: 4.2/10 (325 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shaquille O&#x27;Neal as Kazaam</li><li>Francis Capra as Max</li><li>Ally Walker as Alice</li><li>Marshall Manesh as Malik</li><li>James Acheson as Nick</li><li>Fawn Reed as Asia Moon</li><li>John Costelloe as Travis</li><li>Mother Love as Mrs. Duke</li><li>Brandon Durand as Vasquez</li><li>Wade Robson as Elito</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Kazaam (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1996"
+  },
   "movie:116811": {
    "d": "Berberian Sound Studio (2012): Horror/Drama film. Story: In the 1970s, a British sound technician is brought… See cast and TMDB rating 6.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/y23fv507CBr4i0ODMlJd5JOU4AU.jpg",
@@ -704,6 +831,134 @@
    "t": "Quantum Supremacy (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:13411": {
+   "d": "Malibu's Most Wanted (2003): Comedy/Crime film. Story: A senator arranges for his son, a rich white kid who… See cast, budget $15M, and TMDB rating 5.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bwkrnryQYBaYNagZoEuuPlOI2UM.jpg",
+   "industry": "world",
+   "k": "Malibu's Most Wanted, Malibu's Most Wanted movie, Malibu's Most Wanted cast, Malibu's Most Wanted story, Malibu's Most Wanted box office collection, Malibu's Most Wanted budget, Malibu's Most Wanted review, Malibu's Most Wanted rating, Malibu's Most Wanted release date, Malibu's Most Wanted Comedy, Malibu's Most Wanted Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jamie Kennedy"
+     },
+     {
+      "@type": "Person",
+      "name": "Taye Diggs"
+     },
+     {
+      "@type": "Person",
+      "name": "Anthony Anderson"
+     },
+     {
+      "@type": "Person",
+      "name": "Regina Hall"
+     },
+     {
+      "@type": "Person",
+      "name": "Blair Underwood"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 313,
+     "ratingValue": 5.4,
+     "worstRating": 0
+    },
+    "description": "Malibu's Most Wanted (2003): Comedy/Crime film. Story: A senator arranges for his son, a rich white kid who… See cast, budget $15M, and TMDB rating 5.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Whitesell"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bwkrnryQYBaYNagZoEuuPlOI2UM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13411",
+    "name": "Malibu's Most Wanted",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2003-04-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13411"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Malibu&#x27;s Most Wanted (2003)</h1>\n<p class=\"ssr-lead\">A senator arranges for his son, a rich white kid who fancies himself black, to be kidnapped by a couple of black actors pretending to be murderers to try and shock him out of his plans to become a rapper.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 April 2003</li><li>Runtime: 86 minutes</li><li>Director: John Whitesell</li><li>Genres: Comedy, Crime</li><li>Budget: $15M</li><li>TMDB rating: 5.4/10 (313 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jamie Kennedy as B-Rad</li><li>Taye Diggs as Sean</li><li>Anthony Anderson as PJ</li><li>Regina Hall as Shondra</li><li>Blair Underwood as Tom Gibbsons</li><li>Damien Dante Wayans as Tec</li><li>Ryan O&#x27;Neal as Bill Gluckman</li><li>Bo Derek as Bess Gluckman</li><li>Jeffrey Tambor as Dr. Feldman</li><li>Kal Penn as Hadji</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Malibu's Most Wanted (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2003"
+  },
+  "movie:136911": {
+   "d": "The Factory (2012): Crime/Thriller film. Story: An obsessed cop is on the trail of a serial killer… See cast, budget $25M, and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8Fak5YNyqdzRZxM5KIZfhOfjETs.jpg",
+   "industry": "world",
+   "k": "The Factory, The Factory movie, The Factory cast, The Factory story, The Factory box office collection, The Factory budget, The Factory review, The Factory rating, The Factory release date, The Factory trailer, The Factory Crime, The Factory Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "John Cusack"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Carpenter"
+     },
+     {
+      "@type": "Person",
+      "name": "Mae Whitman"
+     },
+     {
+      "@type": "Person",
+      "name": "Dallas Roberts"
+     },
+     {
+      "@type": "Person",
+      "name": "Sonya Walger"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 313,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "The Factory (2012): Crime/Thriller film. Story: An obsessed cop is on the trail of a serial killer… See cast, budget $25M, and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Morgan O'Neill"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8Fak5YNyqdzRZxM5KIZfhOfjETs.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=136911",
+    "name": "The Factory",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-10-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=136911"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Factory (2012)</h1>\n<p class=\"ssr-lead\">An obsessed cop is on the trail of a serial killer prowling the streets of Buffalo, N.Y. but when his teenage daughter disappears, he drops any professional restraint to get the killer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 October 2012</li><li>Runtime: 108 minutes</li><li>Director: Morgan O&#x27;Neill</li><li>Genres: Crime, Thriller, Mystery</li><li>Budget: $25M</li><li>TMDB rating: 5.6/10 (313 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Cusack as Mike Fletcher</li><li>Jennifer Carpenter as Kelsey Walker</li><li>Mae Whitman as Abby Fletcher</li><li>Dallas Roberts as Gary Gemeaux</li><li>Sonya Walger as Shelley</li><li>Michael Trevino as Tad</li><li>Ksenia Solo as Emma</li><li>Mageina Tovah as Brittany</li><li>Katherine Waterston as Lauren</li><li>Gary Anthony Williams as Darryl</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Factory (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
+  },
   "movie:14211": {
    "d": "Prey (2007): Adventure/Horror film. Story: An American family on holiday in Africa becomes lost… See cast, TMDB rating 5.8/10, and release date 18 May 2007.",
    "img": "https://image.tmdb.org/t/p/w780/rBOb3v35qgTXkNHkOW2UYiTZjPa.jpg",
@@ -895,6 +1150,78 @@
    "t": "Balandrau: Where the Fierce Wind Blew (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:14611": {
+   "d": "Ultimate Avengers 2 (2006): Adventure/Animation film. Story: Mysterious Wakanda lies in the darkest heart of… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hoJpIYgFPc75NhaSWPNUeMFPMy1.jpg",
+   "industry": "world",
+   "k": "Ultimate Avengers 2, Ultimate Avengers 2 movie, Ultimate Avengers 2 cast, Ultimate Avengers 2 story, Ultimate Avengers 2 box office collection, Ultimate Avengers 2 budget, Ultimate Avengers 2 review, Ultimate Avengers 2 rating, Ultimate Avengers 2 release date, Ultimate Avengers 2 Adventure, Ultimate Avengers 2 Animation, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Justin Gross"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeffrey D. Sams"
+     },
+     {
+      "@type": "Person",
+      "name": "Grey DeLisle"
+     },
+     {
+      "@type": "Person",
+      "name": "Nolan North"
+     },
+     {
+      "@type": "Person",
+      "name": "Olivia D'Abo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 336,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Ultimate Avengers 2 (2006): Adventure/Animation film. Story: Mysterious Wakanda lies in the darkest heart of… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Will Meugniot"
+     },
+     {
+      "@type": "Person",
+      "name": "Dick Sebast"
+     },
+     {
+      "@type": "Person",
+      "name": "Bob Richardson"
+     }
+    ],
+    "duration": "PT73M",
+    "genre": [
+     "Adventure",
+     "Animation"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hoJpIYgFPc75NhaSWPNUeMFPMy1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14611",
+    "name": "Ultimate Avengers 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-08-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14611"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ultimate Avengers 2 (2006)</h1>\n<p class=\"ssr-lead\">Mysterious Wakanda lies in the darkest heart of Africa, unknown to most of the world. An isolated land hidden behind closed borders, fiercely protected by its young king: Black Panther. But when brutal alien invaders attack, the threat leaves Black Panther with no option but to go against the sacred decrees of his people and ask for help from outsiders.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 August 2006</li><li>Runtime: 73 minutes</li><li>Director: Will Meugniot, Dick Sebast, Bob Richardson</li><li>Genres: Adventure, Animation, Action, Science Fiction</li><li>TMDB rating: 6.8/10 (336 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Justin Gross as Steve Rogers / Captain America (voice)</li><li>Jeffrey D. Sams as T&#x27;Challa / Black Panther (voice)</li><li>Grey DeLisle as Janet Pym / Wasp (voice)</li><li>Nolan North as Hank Pym / Giant Man (voice)</li><li>Olivia D&#x27;Abo as Natalia Romanoff / Black Widow (voice)</li><li>Marc Worden as Tony Stark / Iron Man(voice)</li><li>Michael Massee as Bruce Banner (voice)</li><li>David Boat as Thor (voice)</li><li>Andre Ware as Nick Fury (voice)</li><li>Fred Tatasciore as Hulk / Edwin Jarvis / Additional Voices (voice)</li></ul>\n</article>",
+   "t": "Ultimate Avengers 2 (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
+  },
   "movie:156711": {
    "d": "Austenland (2013): Comedy/Romance film. Story: Obsessed with the BBC production of \"Pride and… See cast, budget $4.9M, and TMDB rating 6.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/c3eDS62fd2wuchzjbv5kJAIoIiD.jpg",
@@ -959,6 +1286,137 @@
    "t": "Austenland (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
   },
+  "movie:16211": {
+   "d": "The Sons of Katie Elder (1965): Western film. Story: The four sons of Katie Elder reunite in their… See cast, budget $6.5M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/u9Yrx1ZYMSvtujeCRlLbNON8hR2.jpg",
+   "industry": "world",
+   "k": "The Sons of Katie Elder, The Sons of Katie Elder movie, The Sons of Katie Elder cast, The Sons of Katie Elder story, The Sons of Katie Elder box office collection, The Sons of Katie Elder budget, The Sons of Katie Elder review, The Sons of Katie Elder rating, The Sons of Katie Elder release date, The Sons of Katie Elder trailer, The Sons of Katie Elder Western, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "John Wayne"
+     },
+     {
+      "@type": "Person",
+      "name": "Dean Martin"
+     },
+     {
+      "@type": "Person",
+      "name": "Martha Hyer"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Anderson Jr."
+     },
+     {
+      "@type": "Person",
+      "name": "Earl Holliman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 319,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "The Sons of Katie Elder (1965): Western film. Story: The four sons of Katie Elder reunite in their… See cast, budget $6.5M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Henry Hathaway"
+     }
+    ],
+    "duration": "PT122M",
+    "genre": [
+     "Western"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/u9Yrx1ZYMSvtujeCRlLbNON8hR2.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=16211",
+    "name": "The Sons of Katie Elder",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1965-06-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=16211"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Sons of Katie Elder (1965)</h1>\n<p class=\"ssr-lead\">The four sons of Katie Elder reunite in their hometown of Clearwater, Texas for her funeral and discover that the family ranch is now in the hands of Morgan Hastings, a corrupt businessman who wants to exploit the area around the town.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 June 1965</li><li>Runtime: 122 minutes</li><li>Director: Henry Hathaway</li><li>Genres: Western</li><li>Budget: $6.5M</li><li>TMDB rating: 7.0/10 (319 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Wayne as John Elder</li><li>Dean Martin as Tom Elder</li><li>Martha Hyer as Mary Gordon</li><li>Michael Anderson Jr. as Bud Elder</li><li>Earl Holliman as Matt Elder</li><li>Jeremy Slate as Ben Latta</li><li>James Gregory as Morgan Hastings</li><li>Paul Fix as Sheriff Billy Wilson</li><li>George Kennedy as Curley</li><li>Dennis Hopper as Dave Hastings</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Sons of Katie Elder (1965) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1965"
+  },
+  "movie:16411": {
+   "d": "Initial D (2005): Action/Crime film. Story: After winning his first competition, Takumi focuses… See cast, budget $1.55M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/q0K6uqrVMs5UpRY7sb7rsPHiFYc.jpg",
+   "industry": "world",
+   "k": "Initial D, Initial D movie, Initial D cast, Initial D story, Initial D box office collection, Initial D budget, Initial D review, Initial D rating, Initial D release date, Initial D Action, Initial D Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jay Chou"
+     },
+     {
+      "@type": "Person",
+      "name": "Anne Suzuki"
+     },
+     {
+      "@type": "Person",
+      "name": "Jordan Chan Siu-chun"
+     },
+     {
+      "@type": "Person",
+      "name": "Yue Man-lok"
+     },
+     {
+      "@type": "Person",
+      "name": "Anthony Wong Chau-sang"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 320,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Initial D (2005): Action/Crime film. Story: After winning his first competition, Takumi focuses… See cast, budget $1.55M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alan Mak Siu-fai"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrew Lau Wai-keung"
+     }
+    ],
+    "duration": "PT109M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/q0K6uqrVMs5UpRY7sb7rsPHiFYc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=16411",
+    "name": "Initial D",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-05-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=16411"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Initial D (2005)</h1>\n<p class=\"ssr-lead\">After winning his first competition, Takumi focuses his attention on drift racing, a sport he has unknowingly perfected while delivering tofu in his father&#x27;s Toyota AE86.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 May 2005</li><li>Runtime: 109 minutes</li><li>Director: Alan Mak Siu-fai, Andrew Lau Wai-keung</li><li>Genres: Action, Crime, Drama</li><li>Budget: $1.55M</li><li>TMDB rating: 6.6/10 (320 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jay Chou as Takumi Fujiwara</li><li>Anne Suzuki as Natsuki Mogi</li><li>Jordan Chan Siu-chun as Kyouichi Sudou</li><li>Yue Man-lok as Takeshi Nakazato</li><li>Anthony Wong Chau-sang as Bunta Fujiwara</li><li>Kenny Bee as Yuuichi Tachibana</li><li>Chapman To Man-chat as Itsuki Tachibana</li><li>Edison Chen as Ryousuke Takahashi</li><li>Tsuyoshi Abe as Kenji</li><li>Will Liu Geng-Hong as Seiji Iwaki</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Initial D (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
+  },
   "movie:17711": {
    "d": "The Adventures of Rocky & Bullwinkle (2000): Adventure/Animation film. Story: Rocky and Bullwinkle have been living off the… See cast and budget $76M.",
    "img": "https://image.tmdb.org/t/p/w780/9K1y8HCokYpuU92jKauiFwu0y7P.jpg",
@@ -1022,6 +1480,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Adventures of Rocky &amp; Bullwinkle (2000)</h1>\n<p class=\"ssr-lead\">Rocky and Bullwinkle have been living off the finances made from the reruns of their cartoon show. Boris and Natasha somehow manage to crossover into reality and team up with Fearless Leader, an evil criminal turned media mogul with some evil plans up his sleeve. Rocky and Bullwinkle must stop the three of them before they wreak havoc.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 June 2000</li><li>Runtime: 92 minutes</li><li>Director: Des McAnuff</li><li>Genres: Adventure, Animation, Comedy, Family</li><li>Budget: $76M</li><li>TMDB rating: 4.3/10 (412 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>June Foray as Rocky / Cartoon Natasha / Narrator&#x27;s Mother (voice)</li><li>Keith Scott as Bullwinkle / Narrator / Cartoon Boris / Cartoon Leader (voice)</li><li>Rene Russo as Natasha</li><li>Jason Alexander as Boris</li><li>Piper Perabo as Karen Sympathy</li><li>Randy Quaid as Cappy von Trapment</li><li>Robert De Niro as Fearless Leader</li><li>Jonathan Winters as Whoppa Chopper Pilot / Ohio Cop with Bullhorn / Jeb</li><li>Janeane Garofalo as Minnie Mogul</li><li>Carl Reiner as P.G. Biggershot</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "The Adventures of Rocky & Bullwinkle (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2000"
+  },
+  "movie:179111": {
+   "d": "A Field in England (2013): History/Horror film. Story: During the Civil War in 17th-Century England, a small… See cast, budget $300.0k, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/euBvKWkvYD38O7dMMvw3GvrkZoa.jpg",
+   "industry": "world",
+   "k": "A Field in England, A Field in England movie, A Field in England cast, A Field in England story, A Field in England box office collection, A Field in England budget, A Field in England review, A Field in England rating, A Field in England release date, A Field in England trailer, A Field in England History, A Field in England Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Reece Shearsmith"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Smiley"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Glover"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Ferdinando"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryan Pope"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 313,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "A Field in England (2013): History/Horror film. Story: During the Civil War in 17th-Century England, a small… See cast, budget $300.0k, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ben Wheatley"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "History",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/euBvKWkvYD38O7dMMvw3GvrkZoa.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=179111",
+    "name": "A Field in England",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-07-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=179111"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Field in England (2013)</h1>\n<p class=\"ssr-lead\">During the Civil War in 17th-Century England, a small group of deserters flee from a raging battle through an overgrown field. They are captured by an alchemist, who forces the group to aid him in his search to find a hidden treasure that he believes is buried in the field. Crossing a vast mushroom circle, which provides their first meal, the group quickly descend into a chaos of arguments, fighting and paranoia, and, as it becomes clear that the treasure might be something other than gold, they slowly become victim to the terrifying energies trapped inside the field.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 July 2013</li><li>Runtime: 90 minutes</li><li>Director: Ben Wheatley</li><li>Genres: History, Horror, Thriller</li><li>Budget: $300.0k</li><li>TMDB rating: 6.2/10 (313 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Reece Shearsmith as Whitehead</li><li>Michael Smiley as O&#x27;Neil</li><li>Richard Glover as Friend</li><li>Peter Ferdinando as Jacob</li><li>Ryan Pope as Cutler</li><li>Julian Barratt as Trower</li><li>Laura Obiols as Anastasia</li><li>Sara Dee as The Field (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI, MUBI Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "A Field in England (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
   },
   "movie:295011": {
    "d": "Patient Zero (2018): Horror/Thriller film. Story: After an unprecedented global pandemic has turned the… See cast and TMDB rating 5.3/10.",
@@ -1342,6 +1864,70 @@
    "t": "Sleepaway Camp II: Unhappy Campers (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1988"
   },
+  "movie:355111": {
+   "d": "Barbie in Rock 'N Royals (2015): Animation/Music film. Story: When royal Princess Courtney trades places with… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4nOShZSE5V5MWZgZs4NjDcDHiSo.jpg",
+   "industry": "world",
+   "k": "Barbie in Rock 'N Royals, Barbie in Rock 'N Royals movie, Barbie in Rock 'N Royals cast, Barbie in Rock 'N Royals story, Barbie in Rock 'N Royals box office collection, Barbie in Rock 'N Royals budget, Barbie in Rock 'N Royals review, Barbie in Rock 'N Royals rating, Barbie in Rock 'N Royals release date, Barbie in Rock 'N Royals trailer, Barbie in Rock 'N Royals Animation, Barbie in Rock 'N Royals Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kelly Sheridan"
+     },
+     {
+      "@type": "Person",
+      "name": "Chiara Zanni"
+     },
+     {
+      "@type": "Person",
+      "name": "Bethany Brown"
+     },
+     {
+      "@type": "Person",
+      "name": "Devyn Dalton"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Dobson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 327,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Barbie in Rock 'N Royals (2015): Animation/Music film. Story: When royal Princess Courtney trades places with… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Karen J. Lloyd"
+     }
+    ],
+    "duration": "PT84M",
+    "genre": [
+     "Animation",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4nOShZSE5V5MWZgZs4NjDcDHiSo.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=355111",
+    "name": "Barbie in Rock 'N Royals",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-08-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=355111"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Barbie in Rock &#x27;N Royals (2015)</h1>\n<p class=\"ssr-lead\">When royal Princess Courtney trades places with famous rock star Erika, two worlds collide while both learn to appreciate new friends and experiences.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 August 2015</li><li>Runtime: 84 minutes</li><li>Director: Karen J. Lloyd</li><li>Genres: Animation, Music, Family</li><li>TMDB rating: 6.9/10 (327 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kelly Sheridan as Princess Courtney / Svetlana Petranova (voice)</li><li>Chiara Zanni as Erika Juno (voice)</li><li>Bethany Brown as Princess Genevieve / Allegra James (voice)</li><li>Devyn Dalton as Zia (voice)</li><li>Michael Dobson as Finn Oxford (voice)</li><li>Brynna Drummond as Princess Aubray (voice)</li><li>Rachel Drance as Rayna (voice)</li><li>Alessandro Juliani as Clive / Prince Reginald (voice)</li><li>Peter Kelamis as Eddie (voice)</li><li>Omari Newton as Marcus (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Barbie in Rock 'N Royals (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:364111": {
    "d": "The Anthem of the Heart (2015): Animation/Drama film. Story: A young girl had her voice magically taken away so… See cast and TMDB rating 7.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/A4EYBTiUFUS1av5xb5GDjvouJJN.jpg",
@@ -1469,6 +2055,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Scooby-Doo! and the Reluctant Werewolf (1988)</h1>\n<p class=\"ssr-lead\">Shaggy is turned into a werewolf by the wicked Count Dracula, and it&#x27;s up to Scooby, Scrappy and Shaggy&#x27;s girlfriend Googie to help him win a race against other monsters, and become human again.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 November 1988</li><li>Runtime: 92 minutes</li><li>Director: Ray Patterson</li><li>Genres: Animation, Comedy, Family, TV Movie</li><li>TMDB rating: 7.4/10 (353 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Casey Kasem as Shaggy Rogers (voice)</li><li>Don Messick as Scooby-Doo / Scrappy-Doo (voice)</li><li>B.J. Ward as Googie / Repulsa (voice)</li><li>Hamilton Camp as Dracula (voice)</li><li>Pat Musick as Vanna Pira (voice)</li><li>Rob Paulsen as Brunch (voice)</li><li>Frank Welker as Crunch (voice)</li><li>Jim Cummings as Frankenstein / Skull Head / Genghis Kong (voice)</li><li>Brian Stokes Mitchell as Bonejangles (voice)</li><li>Ed Gilbert as Dr. Jackyll / Mr. Snyde (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Scooby-Doo! and the Reluctant Werewolf (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1988"
+  },
+  "movie:380111": {
+   "d": "The Crew (2016): Action/Thriller film. Story: During a flight, the pilot of a Russian airliner… See cast, budget $10M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/MrnSQzIwftHPAXJa9DrkebfnXu.jpg",
+   "industry": "world",
+   "k": "The Crew, The Crew movie, The Crew cast, The Crew story, The Crew box office collection, The Crew budget, The Crew review, The Crew rating, The Crew release date, The Crew Action, The Crew Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Danila Kozlovsky"
+     },
+     {
+      "@type": "Person",
+      "name": "Vladimir Mashkov"
+     },
+     {
+      "@type": "Person",
+      "name": "Agnė Grudytė"
+     },
+     {
+      "@type": "Person",
+      "name": "Sergey Kempo"
+     },
+     {
+      "@type": "Person",
+      "name": "Katerina Shpitsa"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 314,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "The Crew (2016): Action/Thriller film. Story: During a flight, the pilot of a Russian airliner… See cast, budget $10M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nikolay Lebedev"
+     }
+    ],
+    "duration": "PT138M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/MrnSQzIwftHPAXJa9DrkebfnXu.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=380111",
+    "name": "The Crew",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-04-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=380111"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Crew (2016)</h1>\n<p class=\"ssr-lead\">During a flight, the pilot of a Russian airliner receives a distress call from an island. Soon, the team begins a rescue mission to evacuate the people before the predicted volcanic eruption.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 April 2016</li><li>Runtime: 138 minutes</li><li>Director: Nikolay Lebedev</li><li>Genres: Action, Thriller, Adventure</li><li>Budget: $10M</li><li>TMDB rating: 6.9/10 (314 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Danila Kozlovsky as Gushchin</li><li>Vladimir Mashkov as Zinchenko</li><li>Agnė Grudytė as Alexandra</li><li>Sergey Kempo as Andrey</li><li>Katerina Shpitsa as Vika</li><li>Sergey Shakurov as Father</li><li>Sergey Gazarov as Shestakov</li><li>Elena Yakovleva as Zinchenko&#x27;s wife</li><li>Alyona Babenko as Margarita</li><li>Sergey Romanovich as Valera</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "The Crew (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
   },
   "movie:392011": {
    "d": "Kedi (2017): Documentary film. Story: A profile of Istanbul and its unique people, seen… See cast, TMDB rating 7.5/10, and release date 10 February 2017.",
@@ -1645,6 +2295,134 @@
    "t": "Mister Happiness (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
+  "movie:437311": {
+   "d": "Orbiter 9 (2017): Drama/Science Fiction film. Story: Helena, a young woman on a deep space mission, has… See cast and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jSxVqmHofYPXcJGt4CA28vtkc9w.jpg",
+   "industry": "world",
+   "k": "Orbiter 9, Orbiter 9 movie, Orbiter 9 cast, Orbiter 9 story, Orbiter 9 box office collection, Orbiter 9 budget, Orbiter 9 review, Orbiter 9 rating, Orbiter 9 release date, Orbiter 9 Drama, Orbiter 9 Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Clara Lago"
+     },
+     {
+      "@type": "Person",
+      "name": "Belén Rueda"
+     },
+     {
+      "@type": "Person",
+      "name": "Álex González"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrés Parra"
+     },
+     {
+      "@type": "Person",
+      "name": "Kristina Lilley"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 328,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Orbiter 9 (2017): Drama/Science Fiction film. Story: Helena, a young woman on a deep space mission, has… See cast and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Hatem Khraiche"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Drama",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jSxVqmHofYPXcJGt4CA28vtkc9w.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=437311",
+    "name": "Orbiter 9",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-04-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=437311"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Orbiter 9 (2017)</h1>\n<p class=\"ssr-lead\">Helena, a young woman on a deep space mission, has been alone for 20 years. Her parents abandoned ship after a technical malfunction made it impossible for all three of them to reach their intended destination. Alex, an isolated engineer, is about to enter her life and turn her world upside down.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 April 2017</li><li>Runtime: 95 minutes</li><li>Director: Hatem Khraiche</li><li>Genres: Drama, Science Fiction, Romance</li><li>TMDB rating: 5.8/10 (328 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Clara Lago as Helena</li><li>Belén Rueda as Silvia</li><li>Álex González as Alex</li><li>Andrés Parra as Hugo</li><li>Kristina Lilley as Katherine</li><li>John Alex Castillo as Dr. Xiao</li><li>Sara Deray as Madre Helena</li><li>Luna Baxter as Valerie</li><li>Silvia Santamaría as Marta</li><li>Patxi Santamaría as General</li></ul>\n</article>",
+   "t": "Orbiter 9 (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
+  "movie:485811": {
+   "d": "Redcon-1 (2018): Action/Horror film. Story: After a zombie apocalypse spreads from a London… See cast, TMDB rating 5.7/10, and release date 7 September 2018.",
+   "img": "https://image.tmdb.org/t/p/w780/palbhPOSYf2g1p18vWd91dDhZLM.jpg",
+   "industry": "world",
+   "k": "Redcon-1, Redcon-1 movie, Redcon-1 cast, Redcon-1 story, Redcon-1 box office collection, Redcon-1 budget, Redcon-1 review, Redcon-1 rating, Redcon-1 release date, Redcon-1 trailer, Redcon-1 Action, Redcon-1 Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Oris Erhuero"
+     },
+     {
+      "@type": "Person",
+      "name": "Carlos Gallardo"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Strange"
+     },
+     {
+      "@type": "Person",
+      "name": "Joshua Dickinson"
+     },
+     {
+      "@type": "Person",
+      "name": "Martyn Ford"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 336,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Redcon-1 (2018): Action/Horror film. Story: After a zombie apocalypse spreads from a London… See cast, TMDB rating 5.7/10, and release date 7 September 2018.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chee Keong Cheung"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Action",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/palbhPOSYf2g1p18vWd91dDhZLM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=485811",
+    "name": "Redcon-1",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-09-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=485811"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Redcon-1 (2018)</h1>\n<p class=\"ssr-lead\">After a zombie apocalypse spreads from a London prison, the UK is brought to its knees. The spread of the virus is temporarily contained but, without a cure, it’s only a matter of time before it breaks its boundaries and the biggest problem of all… any zombies with combat skills are now enhanced. With the South East of England quarantined from the rest of the world using fortified borders, intelligence finds that the scientist responsible for the outbreak is alive and well in London. With his recovery being the only hope of a cure, a squad of eight Special Forces soldiers is sent on a suicide mission to the city, now ruled by the undead, with a single task: get him out alive within 72 hours by any means necessary. What emerges is an unlikely pairing on a course to save humanity against ever-rising odds.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 September 2018</li><li>Runtime: 117 minutes</li><li>Director: Chee Keong Cheung</li><li>Genres: Action, Horror, Science Fiction</li><li>TMDB rating: 5.7/10 (336 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Oris Erhuero as Captain Marcus Stanton</li><li>Carlos Gallardo as Sergeant Frederick Reeves</li><li>Mark Strange as Lieutenant Frank Perez</li><li>Joshua Dickinson as Private Perry Bernstein</li><li>Martyn Ford as Corporal Jacob Gallagher</li><li>Akira Koieyama as Sergeant Simon Lau</li><li>Katarina Leigh Waters as Sergeant Kira Paige</li><li>Michael Sheehan as Corporal Rodrigo Gonzalez</li><li>Euan Macnaughton as Major General Charles Smith</li><li>Robert Goodale as Doctor Julian Raynes</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Redcon-1 (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
   "movie:4911": {
    "d": "Dark Blue (2002): Crime/Thriller film. Story: Set during the Rodney King riots, a robbery homicide… See cast, budget $15M, and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/dmpYhHScw2B0PD9XM0HG0NF0q7T.jpg",
@@ -1708,6 +2486,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Dark Blue (2002)</h1>\n<p class=\"ssr-lead\">Set during the Rodney King riots, a robbery homicide investigation triggers a series of events that will cause a corrupt LAPD officer to question his tactics.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 December 2002</li><li>Runtime: 118 minutes</li><li>Director: Ron Shelton</li><li>Genres: Crime, Thriller, Drama</li><li>Budget: $15M</li><li>TMDB rating: 6.2/10 (408 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kurt Russell as Eldon Perry</li><li>Scott Speedman as Bobby Keough</li><li>Michael Michele as Beth Williamson</li><li>Brendan Gleeson as Jack van Meter</li><li>Ving Rhames as Arthur Holland</li><li>Kurupt as Darryl Orchard</li><li>Dash Mihok as Gary Sidwell</li><li>Jonathan Banks as James Barcomb</li><li>Lolita Davidovich as Sally Perry</li><li>Khandi Alexander as Janelle Holland</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Dark Blue (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2002"
+  },
+  "movie:623511": {
+   "d": "The Burning Sea (2021): Action/Thriller film. Story: An oil platform dramatically goes down on the… See cast, budget $8.3M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9JLl9UYkcWbkLWWHtzuVB6fc9Qr.jpg",
+   "industry": "world",
+   "k": "The Burning Sea, The Burning Sea movie, The Burning Sea cast, The Burning Sea story, The Burning Sea box office collection, The Burning Sea budget, The Burning Sea review, The Burning Sea rating, The Burning Sea release date, The Burning Sea trailer, The Burning Sea Action, The Burning Sea Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kristine Kujath Thorp"
+     },
+     {
+      "@type": "Person",
+      "name": "Henrik Bjelland"
+     },
+     {
+      "@type": "Person",
+      "name": "Rolf Kristian Larsen"
+     },
+     {
+      "@type": "Person",
+      "name": "Anders Baasmo Christiansen"
+     },
+     {
+      "@type": "Person",
+      "name": "Bjørn Floberg"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 330,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "The Burning Sea (2021): Action/Thriller film. Story: An oil platform dramatically goes down on the… See cast, budget $8.3M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Andreas Andersen"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9JLl9UYkcWbkLWWHtzuVB6fc9Qr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=623511",
+    "name": "The Burning Sea",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-10-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=623511"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Burning Sea (2021)</h1>\n<p class=\"ssr-lead\">An oil platform dramatically goes down on the Norwegian coast, and researchers try to find out what happened when they realize this is just the start of something even more serious.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 October 2021</li><li>Runtime: 104 minutes</li><li>Director: John Andreas Andersen</li><li>Genres: Action, Thriller, Drama</li><li>Budget: $8.3M</li><li>TMDB rating: 6.5/10 (330 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kristine Kujath Thorp as Sofia</li><li>Henrik Bjelland as Stian</li><li>Rolf Kristian Larsen as Arthur</li><li>Anders Baasmo Christiansen as Ronny</li><li>Bjørn Floberg as William Lie</li><li>Anneke von der Lippe as Gunn Langlo</li><li>Ane Skumsvoll as Berit</li><li>Cengiz Al as Jasin</li><li>Mathilde Austegard Ypsøy as Oil Rig Worker</li><li>Nils Elias Olsen as Odin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "The Burning Sea (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
+  "movie:745611": {
+   "d": "Delicious (2021): History/Comedy film. Story: France, 1789 - just before the Revolution. When… See cast, budget $5M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/j2rCXGUk11O34kyGpYrRP2SFm03.jpg",
+   "industry": "world",
+   "k": "Delicious, Delicious movie, Delicious cast, Delicious story, Delicious box office collection, Delicious budget, Delicious review, Delicious rating, Delicious release date, Delicious History, Delicious Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Isabelle Carré"
+     },
+     {
+      "@type": "Person",
+      "name": "Grégory Gadebois"
+     },
+     {
+      "@type": "Person",
+      "name": "Benjamin Lavernhe"
+     },
+     {
+      "@type": "Person",
+      "name": "Guillaume de Tonquédec"
+     },
+     {
+      "@type": "Person",
+      "name": "Christian Bouillette"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 318,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Delicious (2021): History/Comedy film. Story: France, 1789 - just before the Revolution. When… See cast, budget $5M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Éric Besnard"
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "History",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/j2rCXGUk11O34kyGpYrRP2SFm03.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=745611",
+    "name": "Delicious",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-09-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=745611"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Delicious (2021)</h1>\n<p class=\"ssr-lead\">France, 1789 - just before the Revolution. When talented chef Manceron is dismissed from his prestigious position by the Duke of Chamfort, he loses the taste for cooking. But when he meets the mysterious Louise, together they decide to create the very first restaurant in France.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 September 2021</li><li>Runtime: 112 minutes</li><li>Director: Éric Besnard</li><li>Genres: History, Comedy, Drama</li><li>Budget: $5M</li><li>TMDB rating: 6.9/10 (318 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Isabelle Carré as Louise</li><li>Grégory Gadebois as Pierre Manceron</li><li>Benjamin Lavernhe as The Duke of Chamfort</li><li>Guillaume de Tonquédec as Hyacinthe</li><li>Christian Bouillette as Jacob</li><li>Lorenzo Lefèbvre as Benjamin Manceron</li><li>Marie-Julie Baup as The Marquise de Saint-Genet</li><li>Laurent Bateau as Dumortier</li><li>Félix Fournier as Clerk</li><li>François de Brauer as Marquis Frigoli</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Delicious (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "movie:7511": {
    "d": "The Last Kiss (2006): Comedy/Drama film. Story: Michael has a great job, has his 4 best friends, and… See cast, budget $20M, and TMDB rating 6.1/10.",

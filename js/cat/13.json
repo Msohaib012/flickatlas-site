@@ -1,6 +1,6 @@
 {
  "bucket": "13",
- "count": 38,
+ "count": 47,
  "titles": {
   "movie:10213": {
    "backdrop_path": "/n4ChV0MskyVOzOMBO8V6xoi6Z94.jpg",
@@ -120,6 +120,281 @@
    "type": "movie",
    "vote_average": 4.9,
    "vote_count": 413
+  },
+  "movie:1037113": {
+   "backdrop_path": "/UxPjfVl50OGlJ6Ww8DXEDFzx7g.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "A.J.",
+     "n": "Conor Sherry"
+    },
+    {
+     "c": "Moose",
+     "n": "Gabriel LaBelle"
+    },
+    {
+     "c": "Brooke",
+     "n": "Mika Abdalla"
+    },
+    {
+     "c": "Shane",
+     "n": "Nick Robinson"
+    },
+    {
+     "c": "Judge",
+     "n": "David Costabile"
+    },
+    {
+     "c": "Jean",
+     "n": "Gillian Vigman"
+    },
+    {
+     "c": "Chrissy",
+     "n": "June Gentry"
+    },
+    {
+     "c": "Leah",
+     "n": "April Clark"
+    },
+    {
+     "c": "Randy Carmichael",
+     "n": "Michael Bonini"
+    },
+    {
+     "c": "Rodney Carmichael",
+     "n": "Christian James"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Adam Rehmeier"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1037113,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Inseparable best friends AJ and Moose decide to run the local pool's snack shack after their plan to sell home-brewed beer goes down the drain. Things take a turn when they meet Brooke, an effortlessly cool lifeguard who puts their big plans, and friendship, at risk.",
+   "popularity": 3.0658,
+   "poster_path": "/wCXd5tpUSc12LVPd2oN9OKU1EVQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-09-25",
+   "revenue": 455708,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One summer can change everything.",
+   "title": "Snack Shack",
+   "trailer": {
+    "key": "BdXFIKFPWoQ",
+    "name": "Official Red Band Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.39,
+   "vote_count": 326
+  },
+  "movie:116613": {
+   "backdrop_path": "/mfYG7D6fQdnKopR6DqnXyfkWG8W.jpg",
+   "budget": 3730500,
+   "cast": [
+    {
+     "c": "Jack Regan",
+     "n": "Ray Winstone"
+    },
+    {
+     "c": "George Carter",
+     "n": "Plan B"
+    },
+    {
+     "c": "Nancy Lewis",
+     "n": "Hayley Atwell"
+    },
+    {
+     "c": "Frank Haskins",
+     "n": "Damian Lewis"
+    },
+    {
+     "c": "Harry",
+     "n": "Alan Ford"
+    },
+    {
+     "c": "Ivan Lewis",
+     "n": "Steven Mackintosh"
+    },
+    {
+     "c": "Francis Allen",
+     "n": "Paul Anderson"
+    },
+    {
+     "c": "DC Kara Clarke",
+     "n": "Caroline Chikezie"
+    },
+    {
+     "c": "DC Simon Ellis",
+     "n": "Allen Leech"
+    },
+    {
+     "c": "Johnny Wextru",
+     "n": "Ronnie Fox"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Nick Love"
+   ],
+   "genres": [
+    "Action",
+    "Crime"
+   ],
+   "id": 116613,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Jack Regan, a hardened cop who doesn’t play by the rules, is confronted with a criminal from his past. With sidekick George Carter they are put on the case of a jewellery store heist that ends in a killing. But is that killing really an execution in disguise? With pressure from his boss and the fact that Regan is having an affair with that boss’s wife, it’s not going to be easy for him to stay out of trouble.",
+   "popularity": 1.7068,
+   "poster_path": "/nwGo7AoYXG4C03wbyfdeYvcVbnV.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-09-11",
+   "revenue": 6294161,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "sr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Act like a criminal to catch a criminal.",
+   "title": "The Sweeney",
+   "trailer": {
+    "key": "EaNAtkzaKe4",
+    "name": "Official Main Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 307
   },
   "movie:12613": {
    "backdrop_path": "/ckjqoqCGbPyf8HknxXu4hXS9N4M.jpg",
@@ -868,6 +1143,144 @@
    "vote_average": 5.2,
    "vote_count": 462
   },
+  "movie:13713": {
+   "backdrop_path": "/kzdKyioNrJGqxIw9Fjt25OEbVaK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fabrice / Self",
+     "n": "Fabrice Luchini"
+    },
+    {
+     "c": "Jean-Philippe Smet / Self",
+     "n": "Johnny Hallyday"
+    },
+    {
+     "c": "Babette",
+     "n": "Guilaine Londez"
+    },
+    {
+     "c": "Chris Summer / Christian Saumon",
+     "n": "Antoine Duléry"
+    },
+    {
+     "c": "Laura / Marion",
+     "n": "Élodie Bollée"
+    },
+    {
+     "c": "Laurent",
+     "n": "Olivier Gueritée"
+    },
+    {
+     "c": "Marion's physics teacher",
+     "n": "Jackie Berroyer"
+    },
+    {
+     "c": "Caroline",
+     "n": "Caroline Cellier"
+    },
+    {
+     "c": "Gabrielle",
+     "n": "Barbara Schulz"
+    },
+    {
+     "c": "Bernard Frédéric, double of Claude François",
+     "n": "Benoît Poelvoorde"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Laurent Tuel"
+   ],
+   "genres": [
+    "Comedy",
+    "Music"
+   ],
+   "id": 13713,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A bourgeois office drone whose raison d'être is the music of French rocker Johnny Hallyday awakens one day in an alternate universe where the famed musician never recorded a single song. When he’s not at the office dutifully plugging-away, Fabrice lives a deadly dull life.",
+   "popularity": 1.2376,
+   "poster_path": "/2ItX0Pueg1a4tWAJx0jigYkYkHa.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-04-05",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "What if Johnny had never existed...",
+   "title": "Jean-Philippe",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.733,
+   "vote_count": 333
+  },
   "movie:1382513": {
    "backdrop_path": "/ii2Ox8CZeZ4yifffFLsR9Rp0kfR.jpg",
    "budget": 0,
@@ -1354,6 +1767,98 @@
    "vote_average": 5.6,
    "vote_count": 27
   },
+  "movie:14613": {
+   "backdrop_path": "/iYY8wiLHASWDxhGWTXfqr4XOAGG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "James Rogers (voice)",
+     "n": "Noah Crawford"
+    },
+    {
+     "c": "Torunn (voice)",
+     "n": "Brenna O'Brien"
+    },
+    {
+     "c": "Pym (voice)",
+     "n": "Aidan Drummond"
+    },
+    {
+     "c": "Azari (voice)",
+     "n": "Dempsey Pappion"
+    },
+    {
+     "c": "Tony Stark / Iron Man / Ultron (voice)",
+     "n": "Tom Kane"
+    },
+    {
+     "c": "Hulk (voice)",
+     "n": "Fred Tatasciore"
+    },
+    {
+     "c": "Thor (voice)",
+     "n": "Michael Adamthwaite"
+    },
+    {
+     "c": "Hawkeye (voice)",
+     "n": "Adrian Petriw"
+    },
+    {
+     "c": "Vision (voice)",
+     "n": "Shawn Macdonald"
+    },
+    {
+     "c": "Betty Ross (voice)",
+     "n": "Nicole Oliver"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jay Oliva"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 14613,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The children of the Avengers hone their powers and go head to head with the very enemy responsible for their parents' demise.",
+   "popularity": 2.2263,
+   "poster_path": "/1y4J9HZJoTIMdt77wCq80uXaQJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2008-09-02",
+   "revenue": 3800000,
+   "runtime": 78,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The children of heroes past are our only hope for the future!",
+   "title": "Next Avengers: Heroes of Tomorrow",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.059,
+   "vote_count": 322
+  },
   "movie:1480613": {
    "backdrop_path": "/l2B2WTUqgePLN6kh9uLCYy63Pyk.jpg",
    "budget": 0,
@@ -1443,6 +1948,121 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 28
+  },
+  "movie:14913": {
+   "backdrop_path": "/tu0ci5qZNsozmMvGpLU3SX0Vyz1.jpg",
+   "budget": 4500000,
+   "cast": [
+    {
+     "c": "Laura Porter",
+     "n": "Danielle Savre"
+    },
+    {
+     "c": "Henry Porter",
+     "n": "Matt Cohen"
+    },
+    {
+     "c": "Nicky",
+     "n": "Chrissy Calhoun"
+    },
+    {
+     "c": "Darren",
+     "n": "Michael Graziadei"
+    },
+    {
+     "c": "Alison",
+     "n": "Mae Whitman"
+    },
+    {
+     "c": "Jessica Ryan",
+     "n": "Renée O'Connor"
+    },
+    {
+     "c": "Mitchell Allen",
+     "n": "Tobin Bell"
+    },
+    {
+     "c": "Paul",
+     "n": "Johnny Simmons"
+    },
+    {
+     "c": "Mark",
+     "n": "David Gallagher"
+    },
+    {
+     "c": "Gloria",
+     "n": "Lesli Margherita"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Jeff Betancourt"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 14913,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young woman attempts to cure her phobia of the boogeyman by checking herself into a mental health facility, only to realize too late that she is now helplessly trapped with her own greatest fear.",
+   "popularity": 2.0101,
+   "poster_path": "/zPtDUBYzbbTnTsLXIfoOHGg8Gux.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-10-20",
+   "revenue": 1798418,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fear. In The Flesh.",
+   "title": "Boogeyman 2",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 311
   },
   "movie:15213": {
    "backdrop_path": "/tcFFMP25n6zoB8R12ulx3lKgRzs.jpg",
@@ -1759,6 +2379,267 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 100
+  },
+  "movie:1713": {
+   "backdrop_path": "/2YQfKfYX0mvHPnFMP5wiL1kYYBU.jpg",
+   "budget": 14000000,
+   "cast": [
+    {
+     "c": "Flipper Purify",
+     "n": "Wesley Snipes"
+    },
+    {
+     "c": "Angie Tucci",
+     "n": "Annabella Sciorra"
+    },
+    {
+     "c": "Cyrus",
+     "n": "Spike Lee"
+    },
+    {
+     "c": "Reverend Purify",
+     "n": "Ossie Davis"
+    },
+    {
+     "c": "Lucinda Purify",
+     "n": "Ruby Dee"
+    },
+    {
+     "c": "Gator Purify",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Drew",
+     "n": "Lonette McKee"
+    },
+    {
+     "c": "Pauline Carbone",
+     "n": "John Turturro"
+    },
+    {
+     "c": "Mike Tucci",
+     "n": "Frank Vincent"
+    },
+    {
+     "c": "Lou Carbone",
+     "n": "Anthony Quinn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Spike Lee"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 1713,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A successful and married black man contemplates having an affair with a white girl from work. He's quite rightly worried that the racial difference would make an already taboo relationship even worse.",
+   "popularity": 2.3918,
+   "poster_path": "/pw7cOdwCylBuiv6rvosBSkcgKEe.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1991-06-07",
+   "revenue": 32482682,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Jungle Fever",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.385,
+   "vote_count": 338
+  },
+  "movie:193613": {
+   "backdrop_path": "/AfFy1kSasTQcDwJbbTFalwc4fdH.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Trip",
+     "n": "Dane DeHaan"
+    },
+    {
+     "c": "Self",
+     "n": "James Hetfield"
+    },
+    {
+     "c": "Self",
+     "n": "Lars Ulrich"
+    },
+    {
+     "c": "Self",
+     "n": "Kirk Hammett"
+    },
+    {
+     "c": "Self",
+     "n": "Robert Trujillo"
+    },
+    {
+     "c": "Tall Man",
+     "n": "Mackenzie Gray"
+    },
+    {
+     "c": "Big Man",
+     "n": "Toby Hargrave"
+    },
+    {
+     "c": "Car Crash man",
+     "n": "Peter Bryant"
+    },
+    {
+     "c": "Truck Driver",
+     "n": "Hrothgar Mathews"
+    },
+    {
+     "c": "Waving man",
+     "n": "Jeremy Raymond"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Nimród Antal"
+   ],
+   "genres": [
+    "Music"
+   ],
+   "id": 193613,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Trip, a young roadie for Metallica, is sent on an urgent mission during the band's show. But what seems like a simple assignment turns into a surreal adventure.",
+   "popularity": 1.8057,
+   "poster_path": "/6szqjCuVRZQbL1otckVPDCfRgiI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Qello Concerts by Stingray Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4iLmGtD9ZFdZYFQ0ukrMFdZMrjm.png",
+     "name": "Qello Concerts by Stingray Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-09-25",
+   "revenue": 7972967,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Experience Metallica like never before",
+   "title": "Metallica: Through the Never",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 328
   },
   "movie:19413": {
    "backdrop_path": "/lZzW1Y6sDGhbnOh8NuMwUlOVVVe.jpg",
@@ -2179,6 +3060,131 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 493
+  },
+  "movie:291413": {
+   "backdrop_path": "/abYksHVv56UF1HKJpc4DNHGaWuX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "John Alexander",
+     "n": "Michael Vartan"
+    },
+    {
+     "c": "Hannah Alexander",
+     "n": "Erin Moriarty"
+    },
+    {
+     "c": "Melanie Alexander",
+     "n": "Nadine Velazquez"
+    },
+    {
+     "c": "Ray Walsh",
+     "n": "Ronnie Gene Blevins"
+    },
+    {
+     "c": "Rosemary Fletcher",
+     "n": "JoBeth Williams"
+    },
+    {
+     "c": "Tommy",
+     "n": "Blake Jenner"
+    },
+    {
+     "c": "David",
+     "n": "Dorian Kingi"
+    },
+    {
+     "c": "Tina Walsh",
+     "n": "Misty Upham"
+    },
+    {
+     "c": "Jake",
+     "n": "Steele Stebbins"
+    },
+    {
+     "c": "Detective Pascal",
+     "n": "Tom Wright"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Phil Claydon"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 291413,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A widower, his daughter, and his new wife move into a peaceful neighborhood. At first it appears to be a perfect neighborhood but the family quickly realize that something is not right about their new home.",
+   "popularity": 1.696,
+   "poster_path": "/wfOaPl9lfzRuMjbnJZ8joBHG1h2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-10-18",
+   "revenue": 0,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You can't keep out what is already inside.",
+   "title": "Within",
+   "trailer": {
+    "key": "KHg90WBsrGo",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 340
   },
   "movie:32613": {
    "backdrop_path": "/ok4zZ7MCpYS6PaT2ijUrb7Ankc5.jpg",
@@ -2671,6 +3677,140 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 408
+  },
+  "movie:566213": {
+   "backdrop_path": "/q3rUkRlFBzf0XfjeKrfonQiLfr1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Hatidzhe Muratova"
+    },
+    {
+     "c": "Self",
+     "n": "Nazife Muratova"
+    },
+    {
+     "c": "Self",
+     "n": "Hussein Sam"
+    },
+    {
+     "c": "Self",
+     "n": "Ljutvie Sam"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "AL",
+   "date_kind": "release",
+   "director": [
+    "Ljubomir Stefanov",
+    "Tamara Kotevska"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 566213,
+   "industry": "world",
+   "origin_country": [
+    "MK"
+   ],
+   "original_language": "tr",
+   "overview": "When nomadic beekeepers break Honeyland’s basic rule (take half of the honey, but leave half to the bees), the last female beehunter in Europe must save the bees and restore natural balance.",
+   "popularity": 1.4905,
+   "poster_path": "/3IxGhQEzLWOxkZlcNMAIiYlOT8D.jpg",
+   "production_countries": [
+    "MK"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-07-26",
+   "revenue": 1133735,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "bs",
+    "hr",
+    "mk",
+    "sr",
+    "tr"
+   ],
+   "status": "Released",
+   "tagline": "If one breaks the rule, everyone pays the price.",
+   "title": "Honeyland",
+   "trailer": {
+    "key": "B27ORUHlp6E",
+    "name": "Honeyland [Official Trailer] – In Theaters July 26, 2019",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.88,
+   "vote_count": 317
   },
   "movie:680813": {
    "backdrop_path": "/CKGSEnFTpcxPJM5TzTFUJz53s.jpg",

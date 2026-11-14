@@ -1,7 +1,117 @@
 {
  "bucket": "41",
- "count": 50,
+ "count": 65,
  "titles": {
+  "movie:1068141": {
+   "backdrop_path": "/5gbeErtfkOgrppxlRYM3whR82NN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Billy Cranston",
+     "n": "David Yost"
+    },
+    {
+     "c": "Zack Taylor",
+     "n": "Walter Jones"
+    },
+    {
+     "c": "Minh Kwan",
+     "n": "Charlie Kersh"
+    },
+    {
+     "c": "Rocky DeSantos",
+     "n": "Steve Cardenas"
+    },
+    {
+     "c": "Kat Hillard",
+     "n": "Catherine Sutherland"
+    },
+    {
+     "c": "Alpha (voice)",
+     "n": "Richard Steven Horvitz"
+    },
+    {
+     "c": "Robo Rita (voice)",
+     "n": "Barbara Goodson"
+    },
+    {
+     "c": "Robo Snizzard (voice)",
+     "n": "Daniel Watterson"
+    },
+    {
+     "c": "Robo Minotaur (voice)",
+     "n": "Ryan Cooper"
+    },
+    {
+     "c": "Aisha Campbell",
+     "n": "Karan Ashley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Charlie Haskell"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction",
+    "Family"
+   ],
+   "id": 1068141,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After tragedy strikes, an unlikely young hero takes her rightful place among the Power Rangers to face off against the team's oldest archnemesis.",
+   "popularity": 2.1393,
+   "poster_path": "/vc87upO8vcAGj9OmgH3AIz6ikKB.jpg",
+   "production_countries": [
+    "CA",
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-04-19",
+   "revenue": 0,
+   "runtime": 55,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A Mighty Morphin reunion 30 years in the making.",
+   "title": "Mighty Morphin Power Rangers: Once & Always",
+   "trailer": {
+    "key": "ZKE2DC7Xzog",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 306
+  },
   "movie:10741": {
    "backdrop_path": "/3ivhTBoGtSRcxqsTdXHHkYFLxO2.jpg",
    "budget": 0,
@@ -585,6 +695,115 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 54
+  },
+  "movie:1226841": {
+   "backdrop_path": "/2YAsgcRDuISJbp2Fum9wvMCkLZe.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Lionel Richie"
+    },
+    {
+     "c": "Self",
+     "n": "Bruce Springsteen"
+    },
+    {
+     "c": "Self",
+     "n": "Dionne Warwick"
+    },
+    {
+     "c": "Self",
+     "n": "Kenny Loggins"
+    },
+    {
+     "c": "Self",
+     "n": "Huey Lewis"
+    },
+    {
+     "c": "Self",
+     "n": "Cyndi Lauper"
+    },
+    {
+     "c": "Self",
+     "n": "Sheila E."
+    },
+    {
+     "c": "Self",
+     "n": "Smokey Robinson"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Michael Jackson"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Stevie Wonder"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Bao Nguyen"
+   ],
+   "genres": [
+    "Documentary",
+    "Music"
+   ],
+   "id": 1226841,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "On a January night in 1985, music's biggest stars gathered to record \"We Are the World.\" This documentary goes behind the scenes of the historic event.",
+   "popularity": 3.0502,
+   "poster_path": "/jDz4wFujk94tQP9Sx6EMKDULvkn.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-01-19",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The untold story behind \"We Are the World.\"",
+   "title": "The Greatest Night in Pop",
+   "trailer": {
+    "key": "MD3oU1gowu4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.87,
+   "vote_count": 320
   },
   "movie:1227241": {
    "backdrop_path": "/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
@@ -2055,6 +2274,202 @@
    "vote_average": 8.8,
    "vote_count": 25
   },
+  "movie:154441": {
+   "backdrop_path": "/aDu4NawDawBsBkRiEJUU2NDKdv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tino",
+     "n": "Leandro Hassum"
+    },
+    {
+     "c": "Jane",
+     "n": "Danielle Winits"
+    },
+    {
+     "c": "Amauri",
+     "n": "Kiko Mascarenhas"
+    },
+    {
+     "c": "Laura",
+     "n": "Rita Elmôr"
+    },
+    {
+     "c": "Adelson",
+     "n": "Aílton Graça"
+    },
+    {
+     "c": "Vander",
+     "n": "Rodrigo Sant'anna"
+    },
+    {
+     "c": "Tete",
+     "n": "Julia Dalavia"
+    },
+    {
+     "c": "Juninho",
+     "n": "Henry Fiuka"
+    },
+    {
+     "c": "Nelsinho",
+     "n": "Marcelo Saback"
+    },
+    {
+     "c": "Rickson",
+     "n": "Carlos Bonow"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Roberto Santucci"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 154441,
+   "industry": "world",
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "Check out the hilarious story of luck and misadventures of Tino, a family man whose life is transformed after he wins the lottery. Dazzled by wealth, this boaster spends all his money on a life of luxury and ostentation. But after finding out that he is bankrupt, he faces comical situations: besides not telling his wife he is broke because she is pregnant and cannot get upset, Tino must accept help from his neighbor who is an extremely thrifty financial adviser and the only one capable of getting him out of the rut.",
+   "popularity": 1.0479,
+   "poster_path": "/xAd1DeclHsJ0lnrizw4bTYivFqB.jpg",
+   "production_countries": [
+    "BR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2012-10-05",
+   "revenue": 1672940,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Till Luck Do Us Part",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 321
+  },
+  "movie:15641": {
+   "backdrop_path": "/q2QyAgK4u24SDjQEsI5XaBwScQD.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Jessica",
+     "n": "Agnes Bruckner"
+    },
+    {
+     "c": "Caleb",
+     "n": "Trevor Wright"
+    },
+    {
+     "c": "Tanner",
+     "n": "Arjay Smith"
+    },
+    {
+     "c": "Gordon",
+     "n": "David Moscow"
+    },
+    {
+     "c": "Reece",
+     "n": "Brian Klugman"
+    },
+    {
+     "c": "Otis",
+     "n": "Beau Billingslea"
+    },
+    {
+     "c": "Groom",
+     "n": "Nelson Lee"
+    },
+    {
+     "c": "Bride",
+     "n": "Gwendoline Yeo"
+    },
+    {
+     "c": "Smith",
+     "n": "Scott G. Anderson"
+    },
+    {
+     "c": "Manager",
+     "n": "Andrew Fiscella"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Eric Bross"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 15641,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Three young people check into the Meadow View Inn for a night's rest, fully unaware of the inn's sick-minded employees and their nefarious intentions.",
+   "popularity": 1.819,
+   "poster_path": "/qp0xpheiKwK2ASjX3YUwDPVOzHx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-10-24",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "If the camera is on, you're dead.",
+   "title": "Vacancy 2: The First Cut",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.3,
+   "vote_count": 308
+  },
   "movie:16241": {
    "backdrop_path": "/3sjEoFwtHHlX6kdqJ8ZAUvt3kq6.jpg",
    "budget": 12000000,
@@ -2700,6 +3115,133 @@
    "vote_average": 4.488,
    "vote_count": 43
   },
+  "movie:17941": {
+   "backdrop_path": "/rMCZoAVjXmZq26ujyq84khtRG4P.jpg",
+   "budget": 21000000,
+   "cast": [
+    {
+     "c": "Martha Baring",
+     "n": "Jessica Lange"
+    },
+    {
+     "c": "Helen Baring",
+     "n": "Gwyneth Paltrow"
+    },
+    {
+     "c": "Jackson Baring",
+     "n": "Johnathon Schaech"
+    },
+    {
+     "c": "Alice Baring",
+     "n": "Nina Foch"
+    },
+    {
+     "c": "Lisa",
+     "n": "Debi Mazar"
+    },
+    {
+     "c": "Sister O'Shaughnessy",
+     "n": "Kaiulani Lee"
+    },
+    {
+     "c": "Gavin",
+     "n": "David Thornton"
+    },
+    {
+     "c": "Dr. Franklin Hill",
+     "n": "Hal Holbrook"
+    },
+    {
+     "c": "Hal Bentall",
+     "n": "Richard Lineback"
+    },
+    {
+     "c": "Clayton Richards",
+     "n": "Richard Kohn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jonathan Darby"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 17941,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jackson and Helen are in love and about to have their first child when they move in with Jackson's mother, Martha, in order to take care of the family estate. But all is not well in this household. Martha is jealous of her son's affection for Helen, and, despite her Southern smile, she's starting to act strangely. As Helen tries to create a happy home life, Martha attempts to divide the family so that Jackson will become hers alone.",
+   "popularity": 2.2572,
+   "poster_path": "/muUx7SqlYE9kb1W4xzK7AaJueeN.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1998-03-06",
+   "revenue": 13583690,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Don't breathe a word.",
+   "title": "Hush",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.71,
+   "vote_count": 333
+  },
   "movie:184341": {
    "backdrop_path": "/lVDDXGuuu2WiqQCyXMsLe513FNP.jpg",
    "budget": 20000000,
@@ -3309,6 +3851,112 @@
    "vote_average": 6.072,
    "vote_count": 352
   },
+  "movie:40641": {
+   "backdrop_path": "/toHBVabANkZMB5lTdZieJh9Gs1J.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lola (Cécile)",
+     "n": "Anouk Aimée"
+    },
+    {
+     "c": "Roland Cassard",
+     "n": "Marc Michel"
+    },
+    {
+     "c": "Michel",
+     "n": "Jacques Harden"
+    },
+    {
+     "c": "Frankie",
+     "n": "Alan Scott"
+    },
+    {
+     "c": "Madame Desnoyers",
+     "n": "Élina Labourdette"
+    },
+    {
+     "c": "Jeanne, la mère de Michel",
+     "n": "Margo Lion"
+    },
+    {
+     "c": "Cécile Desnoyers",
+     "n": "Annie Duperoux"
+    },
+    {
+     "c": "Claire, the bar owner",
+     "n": "Catherine Lutz"
+    },
+    {
+     "c": "Daisy",
+     "n": "Corinne Marchand"
+    },
+    {
+     "c": "Madame Frédérique",
+     "n": "Yvette Anziani"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jacques Demy"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 40641,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A bored young man meets with his former girlfriend, now a cabaret dancer and single mother, and soon finds himself falling back in love with her.",
+   "popularity": 1.647,
+   "poster_path": "/hH88hjYwabtAg5kAWO0S4iG3Mt0.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1961-03-03",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Lola",
+   "trailer": {
+    "key": "d4oUnqkJipI",
+    "name": "Lola - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 308
+  },
   "movie:42441": {
    "backdrop_path": "/lo2Dp8t6ElOQ2u8pnTqWhiRJqya.jpg",
    "budget": 0,
@@ -3396,6 +4044,281 @@
    "type": "movie",
    "vote_average": 5.6,
    "vote_count": 354
+  },
+  "movie:42741": {
+   "backdrop_path": "/pVhFrfHcbQ7aUjdffRC9FPuF4S0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Commissioner Édouard Coleman",
+     "n": "Alain Delon"
+    },
+    {
+     "c": "Simon",
+     "n": "Richard Crenna"
+    },
+    {
+     "c": "Cathy",
+     "n": "Catherine Deneuve"
+    },
+    {
+     "c": "Paul Weber",
+     "n": "Riccardo Cucciolla"
+    },
+    {
+     "c": "Louis Costa",
+     "n": "Michael Conrad"
+    },
+    {
+     "c": "Morand",
+     "n": "Paul Crauchet"
+    },
+    {
+     "c": "Weber's Wife",
+     "n": "Simone Valère"
+    },
+    {
+     "c": "Marc Albouis",
+     "n": "André Pousse"
+    },
+    {
+     "c": "Distinguished Man",
+     "n": "Jean Desailly"
+    },
+    {
+     "c": "Gaby",
+     "n": "Valérie Wilson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jean-Pierre Melville"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "id": 42741,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "IT"
+   ],
+   "original_language": "fr",
+   "overview": "A Parisian police chief has an affair, but unbeknownst to him, the boyfriend of the woman he’s having an affair with is a bank robber planning a heist.",
+   "popularity": 2.1491,
+   "poster_path": "/gICgcF0VuxW13XeHeeUEKlAkyOE.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "France Channel Amazon Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1972-10-01",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Un Flic",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 309
+  },
+  "movie:441": {
+   "backdrop_path": "/cpvq7ODdoNvvIUidZljILpLUVK1.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Nathan Bronfman",
+     "n": "Tim Robbins"
+    },
+    {
+     "c": "Lila Jute",
+     "n": "Patricia Arquette"
+    },
+    {
+     "c": "Puff",
+     "n": "Rhys Ifans"
+    },
+    {
+     "c": "Gabrielle",
+     "n": "Miranda Otto"
+    },
+    {
+     "c": "Nathan's Mother",
+     "n": "Mary Kay Place"
+    },
+    {
+     "c": "Nathan's Father",
+     "n": "Robert Forster"
+    },
+    {
+     "c": "Frank",
+     "n": "Peter Dinklage"
+    },
+    {
+     "c": "Louise",
+     "n": "Rosie Perez"
+    },
+    {
+     "c": "Young Lila Jute",
+     "n": "Hilary Duff"
+    },
+    {
+     "c": "Wendall the Therapist",
+     "n": "Miguel Sandoval"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michel Gondry"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 441,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "Obsessive scientist Nathan and his lover, the naturalist Lila, discover Puff: a man born and raised in the wild. As Nathan trains the wild man in the civilized ways of the world, Lila fights to preserve the man’s natural state. In the power struggle that ensues, an unusual love triangle emerges.",
+   "popularity": 1.4933,
+   "poster_path": "/eyEgsPIwsr9bUV9n9INH46L5KuM.jpg",
+   "production_countries": [
+    "FR",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2001-09-12",
+   "revenue": 1600000,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In the Interest of Civilization… Conform.",
+   "title": "Human Nature",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 308
   },
   "movie:44741": {
    "backdrop_path": "/eGqZyH83bQ1x5MKD5SggEfarPa.jpg",
@@ -3847,6 +4770,143 @@
    "vote_average": 5.518,
    "vote_count": 477
   },
+  "movie:515741": {
+   "backdrop_path": "/lEc3Dq7AO4enb6qf9BvOC8tnLYK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lizzie",
+     "n": "Noomi Rapace"
+    },
+    {
+     "c": "Claire",
+     "n": "Yvonne Strahovski"
+    },
+    {
+     "c": "Mike",
+     "n": "Luke Evans"
+    },
+    {
+     "c": "Bernard",
+     "n": "Richard Roxburgh"
+    },
+    {
+     "c": "Ellen",
+     "n": "Rachel Gordon"
+    },
+    {
+     "c": "Thomas",
+     "n": "Finn Little"
+    },
+    {
+     "c": "Brian",
+     "n": "Rob Collins"
+    },
+    {
+     "c": "Courtney",
+     "n": "Emily Gruhl"
+    },
+    {
+     "c": "Actor",
+     "n": "Mirko Grillini"
+    },
+    {
+     "c": "Carl",
+     "n": "Pip Miller"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Kim Farrant"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 515741,
+   "industry": "world",
+   "origin_country": [
+    "AU",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A woman grieving over the death of her daughter loses grip of reality when she begins to think her girl may still be alive.",
+   "popularity": 1.8877,
+   "poster_path": "/q8IxjDRqJ7jFtt5Fn0jcXjiRVoF.jpg",
+   "production_countries": [
+    "AU",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-08-15",
+   "revenue": 230193,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Angel of Mine",
+   "trailer": {
+    "key": "Hui0KpDzAwY",
+    "name": "ANGEL OF MINE - In Select Theaters and On Demand August 30",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 321
+  },
   "movie:536841": {
    "backdrop_path": "/lFb1Ey6HqCdc2D74Zt5kr7EpQKT.jpg",
    "budget": 0,
@@ -3966,6 +5026,164 @@
    "type": "movie",
    "vote_average": 7.403,
    "vote_count": 455
+  },
+  "movie:54441": {
+   "backdrop_path": "/ogVQgSTF6E4hjNJuvzk5Zi1rDcv.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Renato Vallanzasca",
+     "n": "Kim Rossi Stuart"
+    },
+    {
+     "c": "Enzo",
+     "n": "Filippo Timi"
+    },
+    {
+     "c": "Ripalta 'Consuelo' Pioggia",
+     "n": "Valeria Solarino"
+    },
+    {
+     "c": "Sergio",
+     "n": "Moritz Bleibtreu"
+    },
+    {
+     "c": "Antonella D'Agostino",
+     "n": "Paz Vega"
+    },
+    {
+     "c": "Turatello",
+     "n": "Francesco Scianna"
+    },
+    {
+     "c": "Carmen",
+     "n": "Lia Gotti"
+    },
+    {
+     "c": "Fausto",
+     "n": "Gaetano Bruno"
+    },
+    {
+     "c": "Nunzio",
+     "n": "Lino Guanciale"
+    },
+    {
+     "c": "Beppe",
+     "n": "Paolo Mazzarelli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Michele Placido"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 54441,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Set in Italy in the 1970s, VALLANZASCA is the true story of the Italian underworld’s most infamous outlaw. A criminal by age 9, Renato Vallanzasca grew up to become the country’s most notorious mobster before the age of 27. Vallanzasca and his gang wrested control of the Milan underworld with a string of high profile robberies, kidnappings and murders. In the process, he captivated the public and earned the nickname ‘il bel Renè’ – for his devilish charm and handsome face. Arrested multiple times, his daring escapes from prison enraged the government, angered his rivals and fed his legend.",
+   "popularity": 1.4028,
+   "poster_path": "/gy3999DHePSXUR64OSz67PrW07s.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-09-06",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "The incredible true story of Italy's most notorious gangster.",
+   "title": "Angel of Evil",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.757,
+   "vote_count": 307
   },
   "movie:553141": {
    "backdrop_path": "/2Wjxq7qeuyWvXSdqvOr5mkbcdwN.jpg",
@@ -4860,6 +6078,409 @@
    "vote_average": 5.054,
    "vote_count": 391
   },
+  "movie:8141": {
+   "backdrop_path": "/8WXGl3bMf363K3CZhy1nVsuAEiB.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Frank Falenczyk",
+     "n": "Ben Kingsley"
+    },
+    {
+     "c": "Laurel Pearson",
+     "n": "Téa Leoni"
+    },
+    {
+     "c": "Tom",
+     "n": "Luke Wilson"
+    },
+    {
+     "c": "Dave",
+     "n": "Bill Pullman"
+    },
+    {
+     "c": "Edward O'Leary",
+     "n": "Dennis Farina"
+    },
+    {
+     "c": "Roman Krzeminski",
+     "n": "Philip Baker Hall"
+    },
+    {
+     "c": "Stef Krzeminski",
+     "n": "Marcus Thomas"
+    },
+    {
+     "c": "James Doyle",
+     "n": "Scott Heindl"
+    },
+    {
+     "c": "Doris Rainford",
+     "n": "Alison Sealy-Smith"
+    },
+    {
+     "c": "Walter Fitzgerald",
+     "n": "Aron Tager"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Dahl"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Thriller",
+    "Romance"
+   ],
+   "id": 8141,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "While drying out on the West Coast, an alcoholic hit man befriends a tart-tongued woman who might just come in handy when it's time for him to return to Buffalo and settle some old scores.",
+   "popularity": 1.1312,
+   "poster_path": "/4C5VQVdE2YRBPhpZLnExk1XUzDZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-02-09",
+   "revenue": 3748295,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Professional alcoholic hit man gets life back on track thanks to her",
+   "title": "You Kill Me",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.146,
+   "vote_count": 320
+  },
+  "movie:84341": {
+   "backdrop_path": "/5rdtiEBC6znvGr5ep2TfeqI1JCC.jpg",
+   "budget": 500000,
+   "cast": [
+    {
+     "c": "Kate Hannah",
+     "n": "Mary Elizabeth Winstead"
+    },
+    {
+     "c": "Charlie Hannah",
+     "n": "Aaron Paul"
+    },
+    {
+     "c": "Jenny",
+     "n": "Octavia Spencer"
+    },
+    {
+     "c": "Dave Davies",
+     "n": "Nick Offerman"
+    },
+    {
+     "c": "Principal Barnes",
+     "n": "Megan Mullally"
+    },
+    {
+     "c": "Rochelle",
+     "n": "Mary Kay Place"
+    },
+    {
+     "c": "Owen Hannah",
+     "n": "Kyle Gallner"
+    },
+    {
+     "c": "Millie",
+     "n": "Mackenzie Davis"
+    },
+    {
+     "c": "Freda",
+     "n": "Bree Turner"
+    },
+    {
+     "c": "Felix",
+     "n": "Brad Carter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "James Ponsoldt"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 84341,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Kate and Charlie like to have a good time. Their marriage thrives on a shared fondness for music, laughter… and getting smashed. When Kate’s partying spirals into hard-core asocial behavior, compromising her job as an elementary schoolteacher, something’s got to give. But change isn’t exactly a cakewalk. Sobriety means she will have to confront the lies she’s been spinning at work, her troubling relationship with her mother, and the nature of her bond with Charlie.",
+   "popularity": 1.3661,
+   "poster_path": "/d4b2k3bB5C6AC9s3FFZhjZw7rB1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-09-12",
+   "revenue": 377000,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Smashed",
+   "trailer": {
+    "key": "n1J1IKeqAoI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.445,
+   "vote_count": 317
+  },
+  "movie:869641": {
+   "backdrop_path": "/gyaqhppr9BnBCFF0R2dXeIe4J1k.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marcus",
+     "n": "Lil Rel Howery"
+    },
+    {
+     "c": "Emily",
+     "n": "Yvonne Orji"
+    },
+    {
+     "c": "Ron",
+     "n": "John Cena"
+    },
+    {
+     "c": "Kyla",
+     "n": "Meredith Hagner"
+    },
+    {
+     "c": "Reese Hackford",
+     "n": "Steve Buscemi"
+    },
+    {
+     "c": "Maurillio",
+     "n": "Carlos Santos"
+    },
+    {
+     "c": "Yeon",
+     "n": "Ronny Chieng"
+    },
+    {
+     "c": "Goe",
+     "n": "Arnold Y. Kim"
+    },
+    {
+     "c": "Warren",
+     "n": "Jamie Hector"
+    },
+    {
+     "c": "Jerome",
+     "n": "Lovensky Jean-Baptiste"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Clay Tarver"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 869641,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Newly married Marcus and Emily invite Ron and Kyla, who are also newly married with a baby, to join them at a Caribbean resort, where Marcus is meeting with the owners about a construction contract for a Chicago hotel. But when the party begins the couples' relaxing vacation quickly becomes a wild adventure.",
+   "popularity": 2.288,
+   "poster_path": "/wmH3VaUbwwTO3vDJhWT35BOFgb3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-08-24",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Time for another round.",
+   "title": "Vacation Friends 2",
+   "trailer": {
+    "key": "lMUu-ag9ofk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.279,
+   "vote_count": 317
+  },
   "movie:880841": {
    "backdrop_path": "/rXFe9rYsq4j1zEiOivJoUfdWsuR.jpg",
    "budget": 0,
@@ -5146,6 +6767,333 @@
    "type": "movie",
    "vote_average": 5.53,
    "vote_count": 406
+  },
+  "movie:937941": {
+   "backdrop_path": "/jOuu4mEBOuJVb6CkkmRDpjnrZed.jpg",
+   "budget": 1400000,
+   "cast": [
+    {
+     "c": "Mia",
+     "n": "Camille Sullivan"
+    },
+    {
+     "c": "Riley",
+     "n": "Sarah Durn"
+    },
+    {
+     "c": "Robert",
+     "n": "Brendan Sexton III"
+    },
+    {
+     "c": "Detective Burke",
+     "n": "Michael Beach"
+    },
+    {
+     "c": "Morton Jacobson",
+     "n": "Keith David"
+    },
+    {
+     "c": "Norma Miles",
+     "n": "Robin Bartlett"
+    },
+    {
+     "c": "Wilson Miles",
+     "n": "Charlie Talbert"
+    },
+    {
+     "c": "Janet",
+     "n": "Emily Bennett"
+    },
+    {
+     "c": "Tarion",
+     "n": "Derek Mears"
+    },
+    {
+     "c": "Reactor #1",
+     "n": "Mason Heidger"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Chris Stuckmann"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 937941,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A woman's obsessive search for her missing sister leads her into a terrifying mystery at the hands of an unknown evil.",
+   "popularity": 3.0453,
+   "poster_path": "/i3omY4P6QUzFQlEeclWY92RuXCH.jpg",
+   "production_countries": [
+    "US",
+    "BE"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-10-02",
+   "revenue": 8140300,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Who took Riley Brennan?",
+   "title": "Shelby Oaks",
+   "trailer": {
+    "key": "B-m1TGIY6Zo",
+    "name": "Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 337
+  },
+  "movie:9841": {
+   "backdrop_path": "/prpkkiV5prfklqYR6O5jMN8VEOq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nicole Carrow",
+     "n": "Jaimie Alexander"
+    },
+    {
+     "c": "Jess Hilts",
+     "n": "Joey Mendicino"
+    },
+    {
+     "c": "Tracy Kress",
+     "n": "Deanna Russo"
+    },
+    {
+     "c": "The Mother",
+     "n": "Diane Salinger"
+    },
+    {
+     "c": "The Ranger",
+     "n": "Curtis Taylor"
+    },
+    {
+     "c": "Officer Michael Deacon",
+     "n": "Joey Lawrence"
+    },
+    {
+     "c": "Twin #1",
+     "n": "Gary Entin"
+    },
+    {
+     "c": "Twin #2",
+     "n": "Edmund Entin"
+    },
+    {
+     "c": "College Student",
+     "n": "Jennifer Cormack"
+    },
+    {
+     "c": "Scotty",
+     "n": "Mikey Post"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "John Shiban"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 9841,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In Texas, the aspirant actress Nicole Carrow runs away home to Los Angeles with her boyfriend Jess Hilts. They drive through a shortcut in an old road, and when they park in a rest stop, Jess is abducted by the sadistic driver of an old yellow truck. Along the night, Nicole is threatened by the sick maniac, while mysterious things happen to her in the place.",
+   "popularity": 1.671,
+   "poster_path": "/jrmgeb2v8MTqk0sl9uBst06E3qc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-10-07",
+   "revenue": 0,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The First Stop on the Road to Hell",
+   "title": "Rest Stop",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 320
   },
   "tv:131041": {
    "backdrop_path": "/seMRyWVwIVBWbC9xaMzDMZJ8fUH.jpg",

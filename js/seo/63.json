@@ -1,6 +1,6 @@
 {
  "bucket": "63",
- "count": 42,
+ "count": 51,
  "titles": {
   "movie:10063": {
    "d": "The Breed (2006): Thriller/Horror film. Story: Brothers John and Matt have inherited an island cabin… See cast and TMDB rating 5.5/10.",
@@ -258,6 +258,134 @@
    "t": "Battle of Britain (1969) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1969"
   },
+  "movie:11863": {
+   "d": "Jade (1995): Thriller/Crime film. Story: When a prominent art dealer is found murdered, the… See cast, budget $50M, and TMDB rating 5.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/k19u7EVyMqhfQrH9KMlyCNbnvBZ.jpg",
+   "industry": "world",
+   "k": "Jade, Jade movie, Jade cast, Jade story, Jade box office collection, Jade budget, Jade review, Jade rating, Jade release date, Jade trailer, Jade Thriller, Jade Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "David Caruso"
+     },
+     {
+      "@type": "Person",
+      "name": "Linda Fiorentino"
+     },
+     {
+      "@type": "Person",
+      "name": "Chazz Palminteri"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Crenna"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Biehn"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 317,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "Jade (1995): Thriller/Crime film. Story: When a prominent art dealer is found murdered, the… See cast, budget $50M, and TMDB rating 5.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "William Friedkin"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Thriller",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/k19u7EVyMqhfQrH9KMlyCNbnvBZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11863",
+    "name": "Jade",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1995-10-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11863"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Jade (1995)</h1>\n<p class=\"ssr-lead\">When a prominent art dealer is found murdered, the man&#x27;s death leads to an intriguing investigation steeped in sex, corruption and crime. District Attorney David Corelli gets assigned to the case and discovers that a key suspect is his ex-lover Katrina Gavin, a beautiful psychologist who has settled down with his old friend and peer. As Corelli gets deeper into the case, he uncovers dark secrets with far-reaching implications.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 October 1995</li><li>Runtime: 95 minutes</li><li>Director: William Friedkin</li><li>Genres: Thriller, Crime, Mystery</li><li>Budget: $50M</li><li>TMDB rating: 5.5/10 (317 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Caruso as David Corelli</li><li>Linda Fiorentino as Trina Gavin</li><li>Chazz Palminteri as Matt Gavin</li><li>Richard Crenna as Governor Edwards</li><li>Michael Biehn as Bob Hargrove</li><li>Donna Murphy as Karen Heller</li><li>Ken King as Petey Vasko</li><li>Holt McCallany as Bill Barrett</li><li>David Hunt as Pat Callendar</li><li>Angie Everhart as Patrice Jacinto</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Jade (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1995"
+  },
+  "movie:12663": {
+   "d": "Red Scorpion (1988): Adventure/Action film. Story: A Soviet commando is sent to eliminate a rebel leader… See cast, budget $16M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/gOvT2J5upwmFqiYYZ5z7u6QZokr.jpg",
+   "industry": "world",
+   "k": "Red Scorpion, Red Scorpion movie, Red Scorpion cast, Red Scorpion story, Red Scorpion box office collection, Red Scorpion budget, Red Scorpion review, Red Scorpion rating, Red Scorpion release date, Red Scorpion Adventure, Red Scorpion Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dolph Lundgren"
+     },
+     {
+      "@type": "Person",
+      "name": "M. Emmet Walsh"
+     },
+     {
+      "@type": "Person",
+      "name": "Al White"
+     },
+     {
+      "@type": "Person",
+      "name": "T. P. McKenna"
+     },
+     {
+      "@type": "Person",
+      "name": "Carmen Argenziano"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 323,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Red Scorpion (1988): Adventure/Action film. Story: A Soviet commando is sent to eliminate a rebel leader… See cast, budget $16M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joseph Zito"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Adventure",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gOvT2J5upwmFqiYYZ5z7u6QZokr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12663",
+    "name": "Red Scorpion",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1988-12-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12663"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Red Scorpion (1988)</h1>\n<p class=\"ssr-lead\">A Soviet commando is sent to eliminate a rebel leader in Africa. Soon he finds himself doubting his mission.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 December 1988</li><li>Runtime: 105 minutes</li><li>Director: Joseph Zito</li><li>Genres: Adventure, Action, War</li><li>Budget: $16M</li><li>TMDB rating: 6.0/10 (323 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dolph Lundgren as Lt. Nikolai Rachenko</li><li>M. Emmet Walsh as Dewey Ferguson</li><li>Al White as Kallunda Kintash</li><li>T. P. McKenna as General Vortek</li><li>Carmen Argenziano as Colonel Zayas</li><li>Alex Colon as Sgt. Mendez</li><li>Brion James as Krasnov</li><li>Ruben Nthodi as Ango Sundata</li><li>Vusi Dibakwane as Guerilla Officer</li><li>James Mthoba as Guerilla Officer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Screambox Amazon Channel, Amazon Prime Video with Ads, Troma NOW, Midnight Pulp Amazon Channel, Cineverse Amazon Channel</li><li>Rent: Amazon Video, Fandango At Home</li><li>Buy: Amazon Video, Fandango At Home</li></ul>\n</article>",
+   "t": "Red Scorpion (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1988"
+  },
   "movie:1356963": {
    "d": "Little Lorraine (2026): Crime/Drama film. Story: Little Lorraine, a North Atlantic seaside town with a… See cast and TMDB rating 6.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/utpd4H566GFpw6hjufRxEuoSIIg.jpg",
@@ -449,6 +577,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Tell Me Softly (2025)</h1>\n<p class=\"ssr-lead\">Kamila has everything under control: studies, social life, her image... Everything except the unexpected return of her neighbors, the Di Bianco brothers, after seven years of absence. Thiago stole her first kiss, and Taylor was her best friend, but now their return will turn Kami&#x27;s world upside down. Can the three overcome the past that binds them? Or will everything explode into pieces once again?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 December 2025</li><li>Runtime: 119 minutes</li><li>Director: Denis Rovira van Boekholt</li><li>Genres: Romance, Drama</li><li>TMDB rating: 6.3/10 (217 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alícia Falcó as Kami</li><li>Fernando Lindez as Thiago</li><li>Diego Vidales as Taylor</li><li>Jan Buxaderas as Dani</li><li>Eve Ryan as Cata</li><li>Fernando Nagore as Jules</li><li>Patricia Vico as Anne</li><li>Celia Freijeiro as Chiara</li><li>Francisco Reyes as Clab</li><li>Andrés Velencoso as Tino</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
    "t": "Tell Me Softly (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
+  },
+  "movie:13963": {
+   "d": "The Last Waltz (1978): Documentary/Music film. Story: Martin Scorsese's documentary intertwines footage… See cast and TMDB rating 7.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/noOz8qEQKBJZ7aEk7VboOUsJyR2.jpg",
+   "industry": "world",
+   "k": "The Last Waltz, The Last Waltz movie, The Last Waltz cast, The Last Waltz story, The Last Waltz box office collection, The Last Waltz budget, The Last Waltz review, The Last Waltz rating, The Last Waltz release date, The Last Waltz trailer, The Last Waltz Documentary, The Last Waltz Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Robbie Robertson"
+     },
+     {
+      "@type": "Person",
+      "name": "Rick Danko"
+     },
+     {
+      "@type": "Person",
+      "name": "Levon Helm"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Manuel"
+     },
+     {
+      "@type": "Person",
+      "name": "Garth Hudson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 330,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "The Last Waltz (1978): Documentary/Music film. Story: Martin Scorsese's documentary intertwines footage… See cast and TMDB rating 7.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Martin Scorsese"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Documentary",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/noOz8qEQKBJZ7aEk7VboOUsJyR2.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13963",
+    "name": "The Last Waltz",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1978-04-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13963"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Last Waltz (1978)</h1>\n<p class=\"ssr-lead\">Martin Scorsese&#x27;s documentary intertwines footage from The Band&#x27;s incredible farewell tour with probing backstage interviews and featured performances by Bob Dylan, Joni Mitchell, Van Morrison, Eric Clapton, and other rock legends.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 April 1978</li><li>Runtime: 117 minutes</li><li>Director: Martin Scorsese</li><li>Genres: Documentary, Music</li><li>TMDB rating: 7.7/10 (330 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robbie Robertson as Self</li><li>Rick Danko as Self</li><li>Levon Helm as Self</li><li>Richard Manuel as Self</li><li>Garth Hudson as Self</li><li>Eric Clapton as Self</li><li>Neil Diamond as Self</li><li>Bob Dylan as Self</li><li>Neil Young as Self</li><li>Joni Mitchell as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li></ul>\n</article>",
+   "t": "The Last Waltz (1978) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1978"
   },
   "movie:1400763": {
    "d": "Touch Me (2026): Comedy/Science Fiction film. Story: Two codependent best friends become addicted to the… See cast and TMDB rating 5.7/10.",
@@ -896,6 +1088,69 @@
    "t": "Best of the Best (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:15163": {
+   "d": "Amazing Grace (2007): Drama film. Story: The true story of William Wilberforce and his… See cast, TMDB rating 6.9/10, and release date 23 February 2007.",
+   "img": "https://image.tmdb.org/t/p/w780/9vFMRabZKwF4BTlrIqn7ltaUUMJ.jpg",
+   "industry": "world",
+   "k": "Amazing Grace, Amazing Grace movie, Amazing Grace cast, Amazing Grace story, Amazing Grace box office collection, Amazing Grace budget, Amazing Grace review, Amazing Grace rating, Amazing Grace release date, Amazing Grace Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ioan Gruffudd"
+     },
+     {
+      "@type": "Person",
+      "name": "Romola Garai"
+     },
+     {
+      "@type": "Person",
+      "name": "Ciarán Hinds"
+     },
+     {
+      "@type": "Person",
+      "name": "Rufus Sewell"
+     },
+     {
+      "@type": "Person",
+      "name": "Youssou N'Dour"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 335,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Amazing Grace (2007): Drama film. Story: The true story of William Wilberforce and his… See cast, TMDB rating 6.9/10, and release date 23 February 2007.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Apted"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9vFMRabZKwF4BTlrIqn7ltaUUMJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=15163",
+    "name": "Amazing Grace",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-02-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=15163"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Amazing Grace (2007)</h1>\n<p class=\"ssr-lead\">The true story of William Wilberforce and his courageous quest to end the British slave trade. Along the way, Wilberforce meets intense opposition, but his minister urges him to see the cause through.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 February 2007</li><li>Runtime: 117 minutes</li><li>Director: Michael Apted</li><li>Genres: Drama</li><li>TMDB rating: 6.9/10 (335 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ioan Gruffudd as William Wilberforce</li><li>Romola Garai as Barbara Spooner</li><li>Ciarán Hinds as Lord Tarleton</li><li>Rufus Sewell as Thomas Clarkson</li><li>Youssou N&#x27;Dour as Olaudah Equiano</li><li>Benedict Cumberbatch as William Pitt</li><li>Nicholas Farrell as Henry Thornton</li><li>Stephen Campbell Moore as James Stephen</li><li>Toby Jones as Duke of Clarence</li><li>Bill Paterson as Lord Dundas</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Angel Studios, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Amazing Grace (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:1633263": {
    "d": "Wonderful Nightmare (2026): Comedy/Romance film. Story: A high-flying, career-driven lawyer dies prematurely… See cast and TMDB rating 7.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/43xC9erNcSoBBfZRokKgm5xb9Ek.jpg",
@@ -1152,6 +1407,69 @@
    "t": "As Tears Go By (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1988"
   },
+  "movie:244563": {
+   "d": "Kumiko, the Treasure Hunter (2015): Drama film. Story: Frustrated with her mundane life, a Tokyo office… See cast and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pGN4hqoXRLEFsBfavVVY7XWtjZG.jpg",
+   "industry": "world",
+   "k": "Kumiko, the Treasure Hunter, Kumiko, the Treasure Hunter movie, Kumiko, the Treasure Hunter cast, Kumiko, the Treasure Hunter story, Kumiko, the Treasure Hunter box office collection, Kumiko, the Treasure Hunter budget, Kumiko, the Treasure Hunter review, Kumiko, the Treasure Hunter rating, Kumiko, the Treasure Hunter release date, Kumiko, the Treasure Hunter trailer, Kumiko, the Treasure Hunter Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rinko Kikuchi"
+     },
+     {
+      "@type": "Person",
+      "name": "Nobuyuki Katsube"
+     },
+     {
+      "@type": "Person",
+      "name": "Kanako Higashi"
+     },
+     {
+      "@type": "Person",
+      "name": "Ichi Kyokaku"
+     },
+     {
+      "@type": "Person",
+      "name": "Ayaka Onishi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 308,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Kumiko, the Treasure Hunter (2015): Drama film. Story: Frustrated with her mundane life, a Tokyo office… See cast and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Zellner"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pGN4hqoXRLEFsBfavVVY7XWtjZG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=244563",
+    "name": "Kumiko, the Treasure Hunter",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-02-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=244563"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Kumiko, the Treasure Hunter (2015)</h1>\n<p class=\"ssr-lead\">Frustrated with her mundane life, a Tokyo office worker becomes obsessed with a fictional movie that she mistakes for a documentary. Fixating on a scene where stolen cash is buried in North Dakota, she travels to America to find it.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 February 2015</li><li>Runtime: 104 minutes</li><li>Director: David Zellner</li><li>Genres: Drama</li><li>TMDB rating: 6.6/10 (308 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rinko Kikuchi as Kumiko</li><li>Nobuyuki Katsube as Sakagami</li><li>Kanako Higashi as Michi</li><li>Ichi Kyokaku as Library Security Guard</li><li>Ayaka Onishi as Chieko</li><li>Mayuko Kawakita as Ms. Kanazaki</li><li>Asami Tano as Office Lady</li><li>Ako Yoshida as Office Lady</li><li>Anna Wakamori as Office Lady</li><li>Risa Hotta as Office Lady</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JustWatch TV Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Kumiko, the Treasure Hunter (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:258363": {
    "d": "Desierto (2016): Thriller/Drama film. Story: A group of Mexican emigrants attempts to cross the… See cast and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/rrTKWLU0JBYKWSJd8abzXq3LjyQ.jpg",
@@ -1279,6 +1597,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Death Wish 4: The Crackdown (1987)</h1>\n<p class=\"ssr-lead\">After the death of his girlfriend&#x27;s daughter from a drug overdose, Paul Kersey takes on the local drug cartel.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 June 1987</li><li>Runtime: 99 minutes</li><li>Director: J. Lee Thompson</li><li>Genres: Crime, Action, Thriller, Drama</li><li>Budget: $5M</li><li>TMDB rating: 5.7/10 (375 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Charles Bronson as Paul Kersey</li><li>Kay Lenz as Karen Sheldon</li><li>John P. Ryan as Nathan White</li><li>Perry Lopez as Ed Zacharias</li><li>George Dickerson as Detective Reiner</li><li>Soon-Tek Oh as Det. Phil Nozaki</li><li>Dana Barron as Erica Sheldon</li><li>Jesse Dabson as Randy Viscovich</li><li>Peter Sherayko as Nick Franco</li><li>James Purcell as Vince Montono</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Death Wish 4: The Crackdown (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1987"
+  },
+  "movie:267463": {
+   "d": "The 10 Year Plan (2014): Romance/Comedy film. Story: Myles and Brody are best friends with two very… See cast, budget $80.0k, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zmITCoQrARbYoNh3vm3tOpO1cKY.jpg",
+   "industry": "world",
+   "k": "The 10 Year Plan, The 10 Year Plan movie, The 10 Year Plan cast, The 10 Year Plan story, The 10 Year Plan box office collection, The 10 Year Plan budget, The 10 Year Plan review, The 10 Year Plan rating, The 10 Year Plan release date, The 10 Year Plan Romance, The 10 Year Plan Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jack Turner"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Adam Hamilton"
+     },
+     {
+      "@type": "Person",
+      "name": "Moronai Kanekoa"
+     },
+     {
+      "@type": "Person",
+      "name": "Adam Bucci"
+     },
+     {
+      "@type": "Person",
+      "name": "Teri Reeves"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 312,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "The 10 Year Plan (2014): Romance/Comedy film. Story: Myles and Brody are best friends with two very… See cast, budget $80.0k, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "J.C. Calciano"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zmITCoQrARbYoNh3vm3tOpO1cKY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=267463",
+    "name": "The 10 Year Plan",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-09-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=267463"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The 10 Year Plan (2014)</h1>\n<p class=\"ssr-lead\">Myles and Brody are best friends with two very different ways of finding love. Displeased with their current love lives, they make a pact to be together if neither finds love in ten year’s time. Now two months shy of their deadline, both friends set off to do whatever it takes to avoid ending up as each other’s last resort.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 September 2014</li><li>Runtime: 90 minutes</li><li>Director: J.C. Calciano</li><li>Genres: Romance, Comedy</li><li>Budget: $80.0k</li><li>TMDB rating: 6.7/10 (312 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jack Turner as Myles Robertson</li><li>Michael Adam Hamilton as Brody Hamilton</li><li>Moronai Kanekoa as Richard</li><li>Adam Bucci as Hunter</li><li>Teri Reeves as Diane</li><li>Michael Rothhaar as Neighbor</li><li>Debra Wilson as Minister</li><li>Ben Palacios as Walter</li><li>Trevor Kuhn as Raul</li><li>Jesse Welch as Jesse</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store</li><li>Buy: Amazon Video, Apple TV Store</li></ul>\n</article>",
+   "t": "The 10 Year Plan (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
   },
   "movie:29963": {
    "d": "Bright Star (2009): Drama/Romance film. Story: In 1818, high-spirited young Fanny Brawne finds… See cast, budget $10M, and TMDB rating 6.6/10.",
@@ -1531,6 +1913,133 @@
    "t": "Three Little Pigs (1933) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1933"
   },
+  "movie:49763": {
+   "d": "Bad Moon (1996): Horror/Fantasy film. Story: During an expedition in Nepal, a photo-journalist… See cast, budget $7M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5Qr1sU7l1BU7qVnu8iTu3iND89U.jpg",
+   "industry": "world",
+   "k": "Bad Moon, Bad Moon movie, Bad Moon cast, Bad Moon story, Bad Moon box office collection, Bad Moon budget, Bad Moon review, Bad Moon rating, Bad Moon release date, Bad Moon trailer, Bad Moon Horror, Bad Moon Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mariel Hemingway"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Paré"
+     },
+     {
+      "@type": "Person",
+      "name": "Mason Gamble"
+     },
+     {
+      "@type": "Person",
+      "name": "Hrothgar Mathews"
+     },
+     {
+      "@type": "Person",
+      "name": "Ken Pogue"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 311,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Bad Moon (1996): Horror/Fantasy film. Story: During an expedition in Nepal, a photo-journalist… See cast, budget $7M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Eric Red"
+     }
+    ],
+    "duration": "PT80M",
+    "genre": [
+     "Horror",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5Qr1sU7l1BU7qVnu8iTu3iND89U.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=49763",
+    "name": "Bad Moon",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1996-11-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=49763"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bad Moon (1996)</h1>\n<p class=\"ssr-lead\">During an expedition in Nepal, a photo-journalist becomes infected by a werewolf. Returning to the U.S., he holes up in an isolated location in the woods, but when he invites his sister and nephew for a visit, their dog, Thor, knows something is amiss.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 November 1996</li><li>Runtime: 80 minutes</li><li>Director: Eric Red</li><li>Genres: Horror, Fantasy</li><li>Budget: $7M</li><li>TMDB rating: 6.7/10 (311 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mariel Hemingway as Janet Harrison</li><li>Michael Paré as Uncle Ted</li><li>Mason Gamble as Brett Harrison</li><li>Hrothgar Mathews as Jerry Mills (aka &quot;Flopsy&quot;)</li><li>Ken Pogue as Sheriff Jenson</li><li>Johanna Marlowe as Marjorie</li><li>Julia Montgomery Brown as Reporter</li><li>Gavin Buhr as Forest Ranger</li><li>Primo the Dog as Thor</li><li>Ken Kirzinger as The Werewolf</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel, Amazon Prime Video with Ads, Shout! Factory Amazon Channel, Cineverse Amazon Channel</li><li>Rent: Amazon Video, Fandango At Home</li><li>Buy: Amazon Video, Fandango At Home</li></ul>\n</article>",
+   "t": "Bad Moon (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1996"
+  },
+  "movie:505063": {
+   "d": "Await Further Instructions (2018): Horror film. Story: A dysfunctional family awake on Christmas morning to… See cast and TMDB rating 5.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/AmT9r8QHiTvINxCMNN2IRV3Vz8x.jpg",
+   "industry": "world",
+   "k": "Await Further Instructions, Await Further Instructions movie, Await Further Instructions cast, Await Further Instructions story, Await Further Instructions box office collection, Await Further Instructions budget, Await Further Instructions review, Await Further Instructions rating, Await Further Instructions release date, Await Further Instructions trailer, Await Further Instructions Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "David Bradley"
+     },
+     {
+      "@type": "Person",
+      "name": "Abigail Cruttenden"
+     },
+     {
+      "@type": "Person",
+      "name": "Holly Weston"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Gittins"
+     },
+     {
+      "@type": "Person",
+      "name": "Grant Masters"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 324,
+     "ratingValue": 5.4,
+     "worstRating": 0
+    },
+    "description": "Await Further Instructions (2018): Horror film. Story: A dysfunctional family awake on Christmas morning to… See cast and TMDB rating 5.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Johnny Kevorkian"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/AmT9r8QHiTvINxCMNN2IRV3Vz8x.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=505063",
+    "name": "Await Further Instructions",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-08-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=505063"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Await Further Instructions (2018)</h1>\n<p class=\"ssr-lead\">A dysfunctional family awake on Christmas morning to discover they’re sealed inside their house by a mysterious black substance. On television, a single line of text reads: “Stay Indoors and Await Further Instructions.”</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 August 2018</li><li>Runtime: 91 minutes</li><li>Director: Johnny Kevorkian</li><li>Genres: Horror</li><li>TMDB rating: 5.4/10 (324 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Bradley as Grandad</li><li>Abigail Cruttenden as Beth</li><li>Holly Weston as Kate</li><li>Sam Gittins as Nick</li><li>Grant Masters as Tony</li><li>Neerja Naik as Annji</li><li>Kris Saddler as Scott</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Await Further Instructions (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
   "movie:592863": {
    "d": "Respect (2021): Drama/Music film. Story: The rise of Aretha Franklin’s career from a child… See cast, budget $55M, and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/gTtr2ovxRwHyOI3XrX6h6cgG7MD.jpg",
@@ -1594,6 +2103,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Respect (2021)</h1>\n<p class=\"ssr-lead\">The rise of Aretha Franklin’s career from a child singing in her father’s church’s choir to her international superstardom.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 August 2021</li><li>Runtime: 145 minutes</li><li>Director: Liesl Tommy</li><li>Genres: Drama, Music, History</li><li>Budget: $55M</li><li>TMDB rating: 6.8/10 (492 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jennifer Hudson as Aretha Franklin</li><li>Forest Whitaker as C. L. Franklin</li><li>Marlon Wayans as Ted White</li><li>Audra McDonald as Barbara Franklin</li><li>Mary J. Blige as Dinah Washington</li><li>Marc Maron as Jerry Wexler</li><li>Tituss Burgess as Reverend Dr. James Cleveland</li><li>Saycon Sengbloh as Erma Franklin</li><li>Hailey Kilgore as Carolyn Franklin</li><li>Tate Donovan as John Hammond</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Respect (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
+  },
+  "movie:624963": {
+   "d": "A Babysitter's Guide to Monster Hunting (2020): Family/Fantasy film. Story: Recruited by a secret society of babysitters, a high… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/ezLKohe4HKsHQbwQwhv0ARo83NC.jpg",
+   "industry": "world",
+   "k": "A Babysitter's Guide to Monster Hunting, A Babysitter's Guide to Monster Hunting movie, A Babysitter's Guide to Monster Hunting cast, A Babysitter's Guide to Monster Hunting story, A Babysitter's Guide to Monster Hunting box office collection, A Babysitter's Guide to Monster Hunting budget, A Babysitter's Guide to Monster Hunting review, A Babysitter's Guide to Monster Hunting rating, A Babysitter's Guide to Monster Hunting release date, A Babysitter's Guide to Monster Hunting trailer, A Babysitter's Guide to Monster Hunting Family, A Babysitter's Guide to Monster Hunting Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tamara Smart"
+     },
+     {
+      "@type": "Person",
+      "name": "Oona Laurence"
+     },
+     {
+      "@type": "Person",
+      "name": "Alessio Scalzotto"
+     },
+     {
+      "@type": "Person",
+      "name": "Lillah Indya Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Felton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 330,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "A Babysitter's Guide to Monster Hunting (2020): Family/Fantasy film. Story: Recruited by a secret society of babysitters, a high… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rachel Talalay"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Family",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ezLKohe4HKsHQbwQwhv0ARo83NC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=624963",
+    "name": "A Babysitter's Guide to Monster Hunting",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-10-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=624963"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Babysitter&#x27;s Guide to Monster Hunting (2020)</h1>\n<p class=\"ssr-lead\">Recruited by a secret society of babysitters, a high schooler battles the Boogeyman and his monsters when they nab the boy she&#x27;s watching on Halloween.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 October 2020</li><li>Runtime: 95 minutes</li><li>Director: Rachel Talalay</li><li>Genres: Family, Fantasy, Adventure, Comedy</li><li>TMDB rating: 6.2/10 (330 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tamara Smart as Kelly Ferguson</li><li>Oona Laurence as Liz Lerue</li><li>Alessio Scalzotto as Victor Colleti</li><li>Lillah Indya Moore as Peggy Drood</li><li>Tom Felton as The Grand Guignol</li><li>Ian Ho as Jacob Zellman</li><li>Tamsen McDonough as Mrs. Zellman</li><li>Troy Leigh-Anne Johnson as Berna Vincent</li><li>Lynn Masako Cheng as Cassie Zhen</li><li>Ty Consiglio as Curtis Critter</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "A Babysitter's Guide to Monster Hunting (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
   },
   "movie:925263": {
    "d": "A Brighter Tomorrow (2023): Comedy film. Story: An old film director, unhappy with the movie he's… See cast, budget $13.27M, and TMDB rating 7.0/10.",

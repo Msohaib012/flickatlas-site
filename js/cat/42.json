@@ -1,6 +1,6 @@
 {
  "bucket": "42",
- "count": 46,
+ "count": 54,
  "titles": {
   "movie:10342": {
    "backdrop_path": "/i64i2v5EvY0qmpUkyKs5cSOwdGG.jpg",
@@ -117,6 +117,144 @@
    "type": "movie",
    "vote_average": 5.532,
    "vote_count": 378
+  },
+  "movie:1096342": {
+   "backdrop_path": "/42sE1uzoUt5w49numc5Oee7e18N.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Travis Maddox",
+     "n": "Dylan Sprouse"
+    },
+    {
+     "c": "Abby Abernathy",
+     "n": "Virginia Gardner"
+    },
+    {
+     "c": "Shepley Maddox",
+     "n": "Austin North"
+    },
+    {
+     "c": "America Mason",
+     "n": "Libe Barer"
+    },
+    {
+     "c": "Benny",
+     "n": "Rob Estes"
+    },
+    {
+     "c": "Sancho",
+     "n": "Steven Bauer"
+    },
+    {
+     "c": "Vivian Hayes",
+     "n": "Kyle Richards"
+    },
+    {
+     "c": "Miguel",
+     "n": "Alex Aiono"
+    },
+    {
+     "c": "Buzz",
+     "n": "Emmanuel Kabongo"
+    },
+    {
+     "c": "Thumbelina",
+     "n": "Molly Miller"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Roger Kumble"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1096342,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Abby and Travis wake after a crazy night in Vegas as accidental newlyweds! With the mob on their heels, they flee to Mexico for a wild, weird honeymoon—but are they in for another disaster?",
+   "popularity": 2.1902,
+   "poster_path": "/cmeYlRD628KrijyY7thzwlV2KPT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-01-25",
+   "revenue": 1781246,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Disaster strikes... again.",
+   "title": "Beautiful Wedding",
+   "trailer": {
+    "key": "3qDY7cZdqlE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.503,
+   "vote_count": 326
   },
   "movie:11042": {
    "backdrop_path": "/7PefpVkSOiQmcdGv6TGHU8kn296.jpg",
@@ -547,6 +685,178 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 473
+  },
+  "movie:11842": {
+   "backdrop_path": "/zKeTLUB5obmb0DPqqqtm3k0Mfbm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Link",
+     "n": "Charles Bronson"
+    },
+    {
+     "c": "Cristina",
+     "n": "Ursula Andress"
+    },
+    {
+     "c": "Kuroda Jubei",
+     "n": "Toshirō Mifune"
+    },
+    {
+     "c": "Gauche",
+     "n": "Alain Delon"
+    },
+    {
+     "c": "Pepita",
+     "n": "Capucine"
+    },
+    {
+     "c": "Paco",
+     "n": "Barta Barri"
+    },
+    {
+     "c": "Mace",
+     "n": "Guido Lollobrigida"
+    },
+    {
+     "c": "Hyatt",
+     "n": "Anthony Dawson"
+    },
+    {
+     "c": "Miguel",
+     "n": "Gianni Medici"
+    },
+    {
+     "c": "Sheriff Stone",
+     "n": "Georges Lycan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Terence Young"
+   ],
+   "genres": [
+    "Western"
+   ],
+   "id": 11842,
+   "industry": "world",
+   "origin_country": [
+    "IT",
+    "FR",
+    "ES"
+   ],
+   "original_language": "fr",
+   "overview": "In 1870, Japanese ambassador Sakaguchi and his entourage travel by train to Washington to deliver a valuable sword to the President of the United States, a gift from the Emperor of Japan. On board the same train are two robbers, Link and Gauche, ready to make their move…",
+   "popularity": 2.5036,
+   "poster_path": "/hDQyx0N8J5OJMJYpJLIX0SkKwT4.jpg",
+   "production_countries": [
+    "FR",
+    "IT",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1971-09-15",
+   "revenue": 0,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "The greatest fighting machine the West has ever known.",
+   "title": "Red Sun",
+   "trailer": {
+    "key": "Y1seoPdjpUg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 337
   },
   "movie:11942": {
    "backdrop_path": "/3U84leD4UV9HadHEHceZp9y2T6y.jpg",
@@ -1886,6 +2196,94 @@
    "vote_average": 6.07,
    "vote_count": 443
   },
+  "movie:243442": {
+   "backdrop_path": "/o2FeP51EjjBHEfVy1aht0th747I.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Arnaldo Nardi",
+     "n": "Leonardo Pieraccioni"
+    },
+    {
+     "c": "Anita Nardi",
+     "n": "Serena Autieri"
+    },
+    {
+     "c": "Giovannelli",
+     "n": "Maurizio Battista"
+    },
+    {
+     "c": "Esposito",
+     "n": "Marco Marzocca"
+    },
+    {
+     "c": "Camilla",
+     "n": "Marianna Di Martino"
+    },
+    {
+     "c": "Anna",
+     "n": "Chiara Mastalli"
+    },
+    {
+     "c": "Marco",
+     "n": "Giuseppe Maggio"
+    },
+    {
+     "c": "Edoardo",
+     "n": "David Sef"
+    },
+    {
+     "c": "Clelia",
+     "n": "Alice Bellagamba"
+    },
+    {
+     "c": "Padre di Anna",
+     "n": "Massimo Ceccherini"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Leonardo Pieraccioni"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 243442,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Middle-aged family man Arnaldo is kicked out by his wife because of a misunderstanding. Instead of despairing, Arnaldo takes advantage of the situation to turn around his unsatisfying adult life by going to live in a flat shared with four university students.",
+   "popularity": 0.6995,
+   "poster_path": "/xUAabAY6cPvFDbtZ5tD8WJjvpQX.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2013-12-12",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Fantastic Back and Forth",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.977,
+   "vote_count": 329
+  },
   "movie:25642": {
    "backdrop_path": "/oK190JudMVb0C5773Vab0TKcBbv.jpg",
    "budget": 40000000,
@@ -2277,6 +2675,117 @@
    "vote_average": 6.717,
    "vote_count": 390
   },
+  "movie:340442": {
+   "backdrop_path": "/tSar2P8bHqVzTP9IKlnjGnpQ5lf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "The Novice - Brother Diarmuid",
+     "n": "Tom Holland"
+    },
+    {
+     "c": "Raymond De Merville",
+     "n": "Richard Armitage"
+    },
+    {
+     "c": "The Mute",
+     "n": "Jon Bernthal"
+    },
+    {
+     "c": "The Cistercian - Brother Gerladus",
+     "n": "Stanley Weber"
+    },
+    {
+     "c": "The Herbalist - Brother Ciaran",
+     "n": "John Lynch"
+    },
+    {
+     "c": "Baron de Merville",
+     "n": "Éric Godon"
+    },
+    {
+     "c": "Dugald",
+     "n": "Tristan McConnell"
+    },
+    {
+     "c": "Brother Rua",
+     "n": "Rúaidhrí Conroy"
+    },
+    {
+     "c": "Lopsided",
+     "n": "Lochlann Ó Mearáin"
+    },
+    {
+     "c": "Brother Cathal",
+     "n": "Hugh O'Conor"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Brendan Muldowney"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "id": 340442,
+   "industry": "world",
+   "origin_country": [
+    "BE",
+    "IE"
+   ],
+   "original_language": "en",
+   "overview": "In 13th century Ireland a group of monks must escort a sacred relic across a landscape fraught with peril.",
+   "popularity": 2.4147,
+   "poster_path": "/3BJLrIbghIfGVgTPqob7WerQwsF.jpg",
+   "production_countries": [
+    "BE",
+    "IE"
+   ],
+   "providers": [
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-04-23",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ga"
+   ],
+   "status": "Released",
+   "tagline": "A journey paved in blood.",
+   "title": "Pilgrimage",
+   "trailer": {
+    "key": "MQZ7_Uo0OI0",
+    "name": "PILGRIMAGE - Official UK Trailer - Coming Soon",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 320
+  },
   "movie:34942": {
    "backdrop_path": "/4rFvJSvzX9dSOYeGzl59Udzdym9.jpg",
    "budget": 0,
@@ -2610,6 +3119,186 @@
    "vote_average": 6.0,
    "vote_count": 382
   },
+  "movie:375742": {
+   "backdrop_path": "/kwUym7oi1fOJBwnyoQce66xNpoO.jpg",
+   "budget": 1300000,
+   "cast": [
+    {
+     "c": "Mermaid Złota",
+     "n": "Michalina Olszańska"
+    },
+    {
+     "c": "Mermaid Srebrna",
+     "n": "Marta Mazurek"
+    },
+    {
+     "c": "Krysia",
+     "n": "Kinga Preis"
+    },
+    {
+     "c": "Mietek",
+     "n": "Jakub Gierszał"
+    },
+    {
+     "c": "Drummer",
+     "n": "Andrzej Konopka"
+    },
+    {
+     "c": "Kierownik sali",
+     "n": "Zygmunt Malanowicz"
+    },
+    {
+     "c": "Tryton / Dedal",
+     "n": "Marcin Kowalczyk"
+    },
+    {
+     "c": "Boskie Futro",
+     "n": "Magdalena Cielecka"
+    },
+    {
+     "c": "Porucznik MO",
+     "n": "Katarzyna Herman"
+    },
+    {
+     "c": "Nerka",
+     "n": "Joanna Niemirska"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Agnieszka Smoczyńska"
+   ],
+   "genres": [
+    "Horror",
+    "Music",
+    "Fantasy"
+   ],
+   "id": 375742,
+   "industry": "world",
+   "origin_country": [
+    "PL"
+   ],
+   "original_language": "pl",
+   "overview": "Two mermaid sisters, who end up performing at a nightclub, face cruel and bloody choices when one of them falls in love with a beautiful young man.",
+   "popularity": 1.3456,
+   "poster_path": "/pM2XH8ivLCflyKAWM1oklbbVG6G.jpg",
+   "production_countries": [
+    "PL"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-12-25",
+   "revenue": 102986,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pl"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Lure",
+   "trailer": {
+    "key": "Y8IiWjTItmk",
+    "name": "THE LURE - Janus Films Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 315
+  },
   "movie:38842": {
    "backdrop_path": "/wiyGkY94gw6K38hjqdB961GmCuy.jpg",
    "budget": 22000000,
@@ -2779,6 +3468,155 @@
    "type": "movie",
    "vote_average": 6.522,
    "vote_count": 370
+  },
+  "movie:40342": {
+   "backdrop_path": "/fZysWhyBOXND2oO5FdDuLBVjwpB.jpg",
+   "budget": 1500000,
+   "cast": [
+    {
+     "c": "George",
+     "n": "David Edwin Knight"
+    },
+    {
+     "c": "Hannah",
+     "n": "Nancy Brilli"
+    },
+    {
+     "c": "Sally Day",
+     "n": "Coralina Cataldi-Tassoni"
+    },
+    {
+     "c": "Ingrid Haller",
+     "n": "Asia Argento"
+    },
+    {
+     "c": "Hank",
+     "n": "Bobby Rhodes"
+    },
+    {
+     "c": "Mary",
+     "n": "Virginia Bryant"
+    },
+    {
+     "c": "Miss Poole",
+     "n": "Anita Bartolucci"
+    },
+    {
+     "c": "Mr. Haller",
+     "n": "Antonio Cantafora"
+    },
+    {
+     "c": "Helga Haller",
+     "n": "Luisa Passega"
+    },
+    {
+     "c": "Demon Tommy",
+     "n": "Davide Marotta"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Lamberto Bava"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 40342,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A group of tenants and visitors are trapped in a 10-story high-rise apartment building infested with demons who proceed to hunt the dwindling humans down.",
+   "popularity": 2.391,
+   "poster_path": "/gAJGt3E6hoL9wRJodpoAKFaXHXd.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Bloodstream"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "IndieFlix"
+    },
+    {
+     "name": "Cineverse"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    },
+    {
+     "name": "IndieFlix Shorts Amazon Channel"
+    },
+    {
+     "name": "IndiePix Unlimited Amazon Channel"
+    },
+    {
+     "name": "ARROW"
+    },
+    {
+     "name": "Arrow Video Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1986-10-09",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Let's Party!",
+   "title": "Demons 2",
+   "trailer": {
+    "key": "yiDmpU79kUc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 335
   },
   "movie:440642": {
    "backdrop_path": "/t4YhlPbrloOjukZLKol9dhfDyxS.jpg",
@@ -2997,6 +3835,109 @@
    "type": "movie",
    "vote_average": 6.89,
    "vote_count": 435
+  },
+  "movie:542": {
+   "backdrop_path": "/pH4MhQJK12l8lT6DCpNy0Lu8Wub.jpg",
+   "budget": 1800000,
+   "cast": [
+    {
+     "c": "Padre Amaro",
+     "n": "Gael García Bernal"
+    },
+    {
+     "c": "Amelia",
+     "n": "Ana Claudia Talancón"
+    },
+    {
+     "c": "Padre Benito Díaz",
+     "n": "Sancho Gracia"
+    },
+    {
+     "c": "Augustina Sanjuanera",
+     "n": "Angélica Aragón"
+    },
+    {
+     "c": "Dionisia",
+     "n": "Luisa Huertas"
+    },
+    {
+     "c": "Obispo",
+     "n": "Ernesto Gómez Cruz"
+    },
+    {
+     "c": "Martín",
+     "n": "Gastón Melo"
+    },
+    {
+     "c": "Padre Natalio Pérez",
+     "n": "Damián Alcázar"
+    },
+    {
+     "c": "Rubén de la Rosa",
+     "n": "Andrés Montiel"
+    },
+    {
+     "c": "Doc",
+     "n": "Gerardo Moscoso"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Carlos Carrera"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 542,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Sent to Mexico to help take care of aging Father Benito, young Father Amaro faces a moral challenge when he meets a 16-year-old girl who he starts an affair with. Likewise, the girl's mother had been having an affair with Father Benito. Father Amaro must choose between a holy or sinful life.",
+   "popularity": 1.9842,
+   "poster_path": "/wqwt2DKcQV6EeSwXuYTk7pkLFii.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-10-01",
+   "revenue": 0,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Lead us not into temptation",
+   "title": "The Crime of Padre Amaro",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 322
   },
   "movie:785542": {
    "backdrop_path": "/8xTvH93bQl0AxMMeVkrlao2bMui.jpg",
@@ -3298,6 +4239,103 @@
    "type": "movie",
    "vote_average": 6.339,
    "vote_count": 492
+  },
+  "movie:842": {
+   "backdrop_path": "/mhMBrMEzG7eMVmOeBSmZUjH5Yu0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Samuel Bicke",
+     "n": "Sean Penn"
+    },
+    {
+     "c": "Bonny Simmons",
+     "n": "Don Cheadle"
+    },
+    {
+     "c": "Jack Jones",
+     "n": "Jack Thompson"
+    },
+    {
+     "c": "Harold Mann",
+     "n": "Mykelti Williamson"
+    },
+    {
+     "c": "Julius Bicke",
+     "n": "Michael Wincott"
+    },
+    {
+     "c": "Marie Bicke",
+     "n": "Naomi Watts"
+    },
+    {
+     "c": "Tom Ford",
+     "n": "Nick Searcy"
+    },
+    {
+     "c": "Martin Jones",
+     "n": "Brad William Henke"
+    },
+    {
+     "c": "Businesswoman",
+     "n": "Tracy Middendorf"
+    },
+    {
+     "c": "Receptionist",
+     "n": "Lily Knight"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Niels Mueller"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 842,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "It’s 1974 and Sam Bicke has lost everything. His wife leaves him with his three kids, his boss fires him, his brother turns away from him, and the bank won’t give him any money to start anew. He tries to find someone to blame for his misfortunes and comes up with the President of the United States who he plans to murder.",
+   "popularity": 1.8106,
+   "poster_path": "/5jOOvAVvP0XtwC5yYQpQCy4cjq1.jpg",
+   "production_countries": [
+    "US",
+    "AU",
+    "MX"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2004-05-17",
+   "revenue": 4426087,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The mad story of a true man.",
+   "title": "The Assassination of Richard Nixon",
+   "trailer": {
+    "key": "oHO6MlSu7_k",
+    "name": "The Assassination of Richard Nixon - Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.528,
+   "vote_count": 320
   },
   "movie:842942": {
    "backdrop_path": "/oeBom7DLr85lixEkWOGmhCPEfuY.jpg",

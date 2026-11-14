@@ -1,6 +1,6 @@
 {
  "bucket": "30",
- "count": 45,
+ "count": 53,
  "titles": {
   "movie:1024530": {
    "backdrop_path": "/navvd9bBMuBYbQzKaWKifCw6wsU.jpg",
@@ -1552,6 +1552,122 @@
    "vote_average": 7.056,
    "vote_count": 45
   },
+  "movie:154030": {
+   "backdrop_path": "/f5LwI17I4F2QxJRw3JEUzfJ55Bh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kang Young-ki",
+     "n": "Sul Kyung-gu"
+    },
+    {
+     "c": "Seo Yoon-hee",
+     "n": "Son Ye-jin"
+    },
+    {
+     "c": "Lee Dae-ho",
+     "n": "Kim Sang-kyung"
+    },
+    {
+     "c": "Lee Ha-na",
+     "n": "Jo Min-ah"
+    },
+    {
+     "c": "Lee Seon-woo",
+     "n": "Do Ji-han"
+    },
+    {
+     "c": "Fire Station Chief",
+     "n": "Ahn Sung-ki"
+    },
+    {
+     "c": "Kim Jang-ro",
+     "n": "Lee Han-wi"
+    },
+    {
+     "c": "President Jo",
+     "n": "Cha In-pyo"
+    },
+    {
+     "c": "Mr. Yoon",
+     "n": "Song Jae-ho"
+    },
+    {
+     "c": "Mrs. Jung",
+     "n": "Lee Joo-sil"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Kim Ji-hoon"
+   ],
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "id": 154030,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Tower Sky, a luxurious building complex, has organised a lavish Christmas party for its VIP guests. However, things go awry when a fire breaks out and thousands of lives are endangered.",
+   "popularity": 2.386,
+   "poster_path": "/bt6OTuiq8ANbhIsOmZFztTw3Y2X.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-12-25",
+   "revenue": 36531605,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko",
+    "fr",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Tower Sky. 108 Stories. Survive at any cost.",
+   "title": "The Tower",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 329
+  },
   "movie:1679730": {
    "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
    "budget": 0,
@@ -1755,6 +1871,193 @@
    "vote_average": 7.21,
    "vote_count": 434
   },
+  "movie:23730": {
+   "backdrop_path": "/zY9ahWKd9wVgQ6Rj5iL2zo0UvOt.jpg",
+   "budget": 1250000,
+   "cast": [
+    {
+     "c": "George Cooper",
+     "n": "John Heard"
+    },
+    {
+     "c": "A.J. 'The Reverend' Shepherd",
+     "n": "Daniel Stern"
+    },
+    {
+     "c": "Captain Bosch",
+     "n": "Christopher Curry"
+    },
+    {
+     "c": "Lauren Daniels",
+     "n": "Kim Greist"
+    },
+    {
+     "c": "Flora Bosch",
+     "n": "Laure Mattos"
+    },
+    {
+     "c": "Francine the Landlady",
+     "n": "Brenda Currin"
+    },
+    {
+     "c": "Justin",
+     "n": "Justin Hall"
+    },
+    {
+     "c": "Fuller",
+     "n": "Michael O'Hare"
+    },
+    {
+     "c": "Officer Sanderson",
+     "n": "Cordis Heard"
+    },
+    {
+     "c": "Officer Crespi",
+     "n": "Sam McMurray"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Douglas Cheek"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 23730,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A rash of bizarre murders in New York City seems to point to a group of grotesquely deformed vagrants living in the sewers. A courageous policeman, a photojournalist and his girlfriend, and a nutty bum, who seems to know a lot about the creatures, band together to try and determine what the creatures are and how to stop them.",
+   "popularity": 2.351,
+   "poster_path": "/8BVw5RIDBTZwdMAR1VKpAkwrMjj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1984-08-31",
+   "revenue": 3412497,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They're not staying down there anymore!",
+   "title": "C.H.U.D.",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.606,
+   "vote_count": 327
+  },
   "movie:238930": {
    "backdrop_path": "/4iiIIBk4Aw2GpSfrkvk8GWiwOxd.jpg",
    "budget": 0,
@@ -1842,6 +2145,158 @@
    "type": "movie",
    "vote_average": 3.9,
    "vote_count": 450
+  },
+  "movie:26030": {
+   "backdrop_path": "/sD3fYFWaoLzMPFDcKrGFPrXFJG3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Robert 'Bob le Flambeur' Montagné",
+     "n": "Roger Duchesne"
+    },
+    {
+     "c": "Anne",
+     "n": "Isabelle Corey"
+    },
+    {
+     "c": "Paulo",
+     "n": "Daniel Cauchy"
+    },
+    {
+     "c": "Marc",
+     "n": "Gérard Buhr"
+    },
+    {
+     "c": "Police Commissary Ledru",
+     "n": "Guy Decomble"
+    },
+    {
+     "c": "Jean, the Croupier",
+     "n": "Claude Cerval"
+    },
+    {
+     "c": "McKimmie, the Sponsor",
+     "n": "Howard Vernon"
+    },
+    {
+     "c": "Suzanne, Jean's Girlfriend",
+     "n": "Colette Fleury"
+    },
+    {
+     "c": "Yvonne",
+     "n": "Simone Paris"
+    },
+    {
+     "c": "Inspector Morin",
+     "n": "René Havard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jean-Pierre Melville"
+   ],
+   "genres": [
+    "Drama",
+    "Action",
+    "Crime"
+   ],
+   "id": 26030,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In Paris, Bob Montagne is practically synonymous with gambling -- and winning. He is kind, classy and well-liked by virtually everyone in town, including police inspector Ledru. However, when Bob's luck turns sour, he begins to lose friends and makes the most desperate gamble of his life: to rob the Deauville casino during Grand Prix weekend, when the vaults are full. Unfortunately, Bob soon learns that the game is rigged and the cops are on to him.",
+   "popularity": 1.5355,
+   "poster_path": "/3CIfIDtD1I1rYY3ooaya8iZHlD8.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1956-08-24",
+   "revenue": 41010,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Bob le Flambeur",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 308
   },
   "movie:27130": {
    "backdrop_path": "/bCyK6eETwA6kzxLxDDuwJ3l7Wdw.jpg",
@@ -2102,6 +2557,205 @@
    "type": "movie",
    "vote_average": 5.6,
    "vote_count": 491
+  },
+  "movie:360030": {
+   "backdrop_path": "/d663QlgXkIEVgG6RnlI5JJUykMo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Elon Musk"
+    },
+    {
+     "c": "Self",
+     "n": "Lawrence Krauss"
+    },
+    {
+     "c": "Self",
+     "n": "Werner Herzog"
+    },
+    {
+     "c": "Self",
+     "n": "Lucianne Walkowicz"
+    },
+    {
+     "c": "Self",
+     "n": "Leonard Kleinrock"
+    },
+    {
+     "c": "Self",
+     "n": "Ted Nelson"
+    },
+    {
+     "c": "Self",
+     "n": "Bob Kahn"
+    },
+    {
+     "c": "Self",
+     "n": "Danny Hillis"
+    },
+    {
+     "c": "Self",
+     "n": "Adrien Treuille"
+    },
+    {
+     "c": "Self",
+     "n": "Raj Rajkumar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Werner Herzog"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 360030,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Werner Herzog's exploration of the Internet and the connected world.",
+   "popularity": 1.9449,
+   "poster_path": "/yv9ecMFec43ReHGy1fDntPF4FS2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Dox Amazon Channel"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/t9kQOukUOI9EcnXN5vtV76HbTfO.png",
+     "name": "Dox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-08-19",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The human side of the digital revolution.",
+   "title": "Lo and Behold: Reveries of the Connected World",
+   "trailer": {
+    "key": "Zc1tZ8JsZvg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.584,
+   "vote_count": 340
   },
   "movie:369230": {
    "backdrop_path": "/qbpfEMjf2q3kdJBhz1fShhASor.jpg",
@@ -2694,6 +3348,259 @@
    "vote_average": 5.9,
    "vote_count": 459
   },
+  "movie:546630": {
+   "backdrop_path": "/fqb1odEjdxDrwicf6DZVCKZvrAr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Paul Konaske",
+     "n": "Florian David Fitz"
+    },
+    {
+     "c": "Anton Katz",
+     "n": "Matthias Schweighöfer"
+    },
+    {
+     "c": "Lucy",
+     "n": "Miriam Stein"
+    },
+    {
+     "c": "Renate Konaske",
+     "n": "Hannelore Elsner"
+    },
+    {
+     "c": "Wolfgang Konaske",
+     "n": "Wolfgang Stumph"
+    },
+    {
+     "c": "Grandma Konaske",
+     "n": "Katharina Thalbach"
+    },
+    {
+     "c": "Ronne",
+     "n": "Johannes Allmayer"
+    },
+    {
+     "c": "Betty",
+     "n": "Sarah Viktoria Frick"
+    },
+    {
+     "c": "Antonietta Kärcher",
+     "n": "Maria Furtwängler"
+    },
+    {
+     "c": "David Zuckerman",
+     "n": "Artjom Gilz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15+",
+   "date_kind": "release",
+   "director": [
+    "Florian David Fitz"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 546630,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Best friends Toni and Paul decide to relinquish all of their belongings for 100 days, whereby they receive one of their items back on each day. During this challenge the two realize, that the only thing they cannot be without is their friendship. A story about contemporary materialism and the quest for the truly important things in life.",
+   "popularity": 1.286,
+   "poster_path": "/yTfpEmMitPaOOmzRZ3NGvLhamz6.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2018-12-06",
+   "revenue": 0,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "100 Things",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.565,
+   "vote_count": 330
+  },
+  "movie:573730": {
+   "backdrop_path": "/tQprwIKzFx83JpM5dVrGRC4UpF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Riko (voice)",
+     "n": "Miyu Tomita"
+    },
+    {
+     "c": "Reg (voice)",
+     "n": "Mariya Ise"
+    },
+    {
+     "c": "Nanachi (voice)",
+     "n": "Shiori Izawa"
+    },
+    {
+     "c": "Bondrewd (voice)",
+     "n": "Toshiyuki Morikawa"
+    },
+    {
+     "c": "Prushka (voice)",
+     "n": "Inori Minase"
+    },
+    {
+     "c": "Ozen (voice)",
+     "n": "Sayaka Ohara"
+    },
+    {
+     "c": "Habolg (voice)",
+     "n": "Tetsu Inada"
+    },
+    {
+     "c": "Mitty (voice)",
+     "n": "Eri Kitamura"
+    },
+    {
+     "c": "Meinya (voice)",
+     "n": "Natsuko Hara"
+    },
+    {
+     "c": "Gueira (voice)",
+     "n": "Shinji Kawada"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Masayuki Kojima"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Fantasy",
+    "Mystery"
+   ],
+   "id": 573730,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A continuation of the epic adventure of plucky Riko and Reg who are joined by their new friend Nanachi. Together they descend into the Abyss' treacherous fifth layer, the Sea of Corpses, and encounter the mysterious Bondrewd, a legendary White Whistle whose shadow looms over Nanachi's troubled past. Bondrewd is ingratiatingly hospitable, but the brave adventurers know things are not always as they seem in the enigmatic Abyss.",
+   "popularity": 3.7437,
+   "poster_path": "/k4riqNEEd5rnkbNytf02wkF4W8i.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "HiDive"
+    },
+    {
+     "name": "Hidive Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1743zXk6Hn0afaarNtp6bXVMlsT.png",
+     "name": "HiDive",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/63UDiSB2rJAEUaxUXTNZbGNnjRm.png",
+     "name": "Hidive Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-01-17",
+   "revenue": 4971635,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Defy the darkness",
+   "title": "Made in Abyss: Dawn of the Deep Soul",
+   "trailer": {
+    "key": "UF7VM7jbYp8",
+    "name": "MADE IN ABYSS: Dawn of the Deep Soul Official Dub Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.85,
+   "vote_count": 337
+  },
   "movie:580630": {
    "backdrop_path": "/ttIRBgGvZLFSkEPMHsJtDwXifof.jpg",
    "budget": 0,
@@ -2948,6 +3855,130 @@
    "type": "movie",
    "vote_average": 7.025,
    "vote_count": 355
+  },
+  "movie:607430": {
+   "backdrop_path": "/wLewdoshX7fqzsDoMlTP5njnckP.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Will",
+     "n": "Winston Duke"
+    },
+    {
+     "c": "Emma",
+     "n": "Zazie Beetz"
+    },
+    {
+     "c": "Kyo",
+     "n": "Benedict Wong"
+    },
+    {
+     "c": "Mike",
+     "n": "David Rysdahl"
+    },
+    {
+     "c": "Maria",
+     "n": "Arianna Ortiz"
+    },
+    {
+     "c": "Alexander",
+     "n": "Tony Hale"
+    },
+    {
+     "c": "Kane",
+     "n": "Bill Skarsgård"
+    },
+    {
+     "c": "Anne",
+     "n": "Perry Smith"
+    },
+    {
+     "c": "Colleen",
+     "n": "Geraldine Hughes"
+    },
+    {
+     "c": "Amanda's Mom",
+     "n": "Brandy Pitcher"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Edson Oda"
+   ],
+   "genres": [
+    "Drama",
+    "Fantasy"
+   ],
+   "id": 607430,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A bureaucrat interviews five souls to decide which of them will be given a life on Earth. But he soon faces an existential challenge of his own.",
+   "popularity": 1.5669,
+   "poster_path": "/6ZemGof32GQRpAMfIK9Q2VFJdwt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-07-15",
+   "revenue": 969204,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Nine Days",
+   "trailer": {
+    "key": "A73FnWETvr8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.834,
+   "vote_count": 307
   },
   "movie:61630": {
    "backdrop_path": "/sWYVXYXOaUlnPdVH9e7J9YpX1By.jpg",
@@ -3255,6 +4286,127 @@
    "type": "movie",
    "vote_average": 7.184,
    "vote_count": 496
+  },
+  "movie:86130": {
+   "backdrop_path": "/NLX24ONDw5Td59wH4jBNLp1Bcr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rosetta (voice)",
+     "n": "Megan Hilty"
+    },
+    {
+     "c": "Glimmer (voice)",
+     "n": "Tiffany Thornton"
+    },
+    {
+     "c": "Fern (voice)",
+     "n": "Zendaya"
+    },
+    {
+     "c": "Rumble (voice)",
+     "n": "Jason Dolley"
+    },
+    {
+     "c": "Chloe (voice)",
+     "n": "Brenda Song"
+    },
+    {
+     "c": "Tinker Bell (voice)",
+     "n": "Mae Whitman"
+    },
+    {
+     "c": "Silvermist (voice)",
+     "n": "Lucy Liu"
+    },
+    {
+     "c": "Iridessa (voice)",
+     "n": "Raven-Symoné"
+    },
+    {
+     "c": "Fawn (voice)",
+     "n": "Angela Bartys"
+    },
+    {
+     "c": "Vidia (voice)",
+     "n": "Pamela Adlon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Bradley Raymond"
+   ],
+   "genres": [
+    "Animation",
+    "Family"
+   ],
+   "id": 86130,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Rosetta and new arrival Chloe band together to try to break the garden fairies' legendary losing streak in the Pixie Hollow Games, a sports spectacle filled with pixie pageantry, fantastic fairy events and hilarious surprises.",
+   "popularity": 2.6541,
+   "poster_path": "/hfpMphA7NP9Fu2E78EaxfhOuwep.jpg",
+   "production_countries": [
+    "IN",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-12-24",
+   "revenue": 0,
+   "runtime": 23,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Pixie Hollow Games",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.023,
+   "vote_count": 310
   },
   "movie:943930": {
    "backdrop_path": "/fUUEyB2WI8BqHgBIL0c17DNKmYL.jpg",

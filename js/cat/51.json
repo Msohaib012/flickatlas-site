@@ -1,6 +1,6 @@
 {
  "bucket": "51",
- "count": 44,
+ "count": 52,
  "titles": {
   "movie:10451": {
    "backdrop_path": "/tllmUjmEQKF0OaH7FgqZYnLBsYB.jpg",
@@ -892,6 +892,96 @@
    "vote_average": 7.018,
    "vote_count": 369
   },
+  "movie:139651": {
+   "backdrop_path": "/9bsiPVNG92ikIpnTjltMA19Pqhb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hortense",
+     "n": "Catherine Frot"
+    },
+    {
+     "c": "Nicolas Bauvois",
+     "n": "Arthur Dupont"
+    },
+    {
+     "c": "le président de la République",
+     "n": "Jean d'Ormesson"
+    },
+    {
+     "c": "David Azoulay",
+     "n": "Hippolyte Girardot"
+    },
+    {
+     "c": "Jean-Marc Luchet",
+     "n": "Jean-Marc Roulot"
+    },
+    {
+     "c": "Mary",
+     "n": "Arly Jover"
+    },
+    {
+     "c": "Pascal Lepiq",
+     "n": "Brice Fournier"
+    },
+    {
+     "c": "Coche-Dury",
+     "n": "Philippe Uchan"
+    },
+    {
+     "c": "Jean-Michel Salomé",
+     "n": "Laurent Poitrenaux"
+    },
+    {
+     "c": "Olivier Moncoulon",
+     "n": "Roch Leibovici"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Christian Vincent"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 139651,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "The story of Danièle Delpeuch and how she was appointed as the private chef for François Mitterrand.",
+   "popularity": 1.8958,
+   "poster_path": "/aEXtMSaAIsHMKBKqKh1OKKnaHdy.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2012-09-17",
+   "revenue": 11384015,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "He runs the country, she runs the kitchen, together they serve with excellence",
+   "title": "Haute Cuisine",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.212,
+   "vote_count": 312
+  },
   "movie:1426451": {
    "backdrop_path": "/sWaTZpotExFAYzW9OgOLLBT5s82.jpg",
    "budget": 0,
@@ -1306,6 +1396,146 @@
    "type": "movie",
    "vote_average": 7.599,
    "vote_count": 379
+  },
+  "movie:157351": {
+   "backdrop_path": "/mFhaWSCPSidNjsLD0yzwypajDvS.jpg",
+   "budget": 1300000,
+   "cast": [
+    {
+     "c": "Emanuel",
+     "n": "Kaya Scodelario"
+    },
+    {
+     "c": "Linda",
+     "n": "Jessica Biel"
+    },
+    {
+     "c": "Dennis",
+     "n": "Alfred Molina"
+    },
+    {
+     "c": "Janice",
+     "n": "Frances O'Connor"
+    },
+    {
+     "c": "Arthur",
+     "n": "Jimmi Simpson"
+    },
+    {
+     "c": "Claude",
+     "n": "Aneurin Barnard"
+    },
+    {
+     "c": "Thomas",
+     "n": "Sam Jaeger"
+    },
+    {
+     "c": "Sam",
+     "n": "Jonathan Schmock"
+    },
+    {
+     "c": "Officer Ted",
+     "n": "Spencer Garrett"
+    },
+    {
+     "c": "Officer Watson",
+     "n": "Kevin McCorkle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Francesca Gregorini"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 157351,
+   "industry": "world",
+   "origin_country": [
+    "MX",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A troubled young woman becomes obsessed with her mysterious new neighbor, who bears a striking resemblance to the girl's dead mother.",
+   "popularity": 2.9463,
+   "poster_path": "/z98jqAlVlnXyYnTlC95Na8FQXHF.jpg",
+   "production_countries": [
+    "US",
+    "GB",
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-04-26",
+   "revenue": 4404,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Two Lives. Two Voids. One Secret.",
+   "title": "The Truth About Emanuel",
+   "trailer": {
+    "key": "f3b_XVosLfU",
+    "name": "The New Neighbour Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 310
   },
   "movie:1620551": {
    "backdrop_path": "/Ary1sG0AHn4V1DFrwV7g72Fomq0.jpg",
@@ -1980,6 +2210,143 @@
    "vote_average": 6.507,
    "vote_count": 370
   },
+  "movie:265851": {
+   "backdrop_path": "/c1fDKwLbInSP6AzTFUtiajJ4uGv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gon",
+     "n": "Jang Dong-gun"
+    },
+    {
+     "c": "Mo-kyeong",
+     "n": "Kim Min-hee"
+    },
+    {
+     "c": "Charles",
+     "n": "Brian Tee"
+    },
+    {
+     "c": "Team Leader Park",
+     "n": "Kim Min-jae"
+    },
+    {
+     "c": "John Lee",
+     "n": "Brian Kim"
+    },
+    {
+     "c": "Head of a Department Byeon",
+     "n": "Kim Hee-won"
+    },
+    {
+     "c": "Detective Jang",
+     "n": "Jeon Bae-soo"
+    },
+    {
+     "c": "Song Joon-gi",
+     "n": "Byun Yo-han"
+    },
+    {
+     "c": "Ok-soon",
+     "n": "Lee Young-ran"
+    },
+    {
+     "c": "Yoo-mi",
+     "n": "Kang Ji-woo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Lee Jeong-beom"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 265851,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A hitman accidentally kills a little girl. Filled with regret, he wants to quit. But then to tie up loose ends, he is forced to go on another job, to kill the girl's mother.",
+   "popularity": 1.9068,
+   "poster_path": "/t3vtsQtu76xMKLal0g1UYkmZD2e.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-06-04",
+   "revenue": 4500000,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "ko",
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "His first mistake is his last chance for redemption.",
+   "title": "No Tears for the Dead",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 316
+  },
   "movie:299551": {
    "backdrop_path": "/ogO4yKFddTm3h3Loekk1US4BdIq.jpg",
    "budget": 1000000,
@@ -2573,6 +2940,138 @@
    "vote_average": 7.047,
    "vote_count": 416
   },
+  "movie:4251": {
+   "backdrop_path": "/tID8mHaMGDwh9sNydvSo3U1fdxb.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Veer Pratap Singh",
+     "n": "Shah Rukh Khan"
+    },
+    {
+     "c": "Zaara Hayaat Khan",
+     "n": "Preity Zinta"
+    },
+    {
+     "c": "Saamiya Siddiqui",
+     "n": "Rani Mukerji"
+    },
+    {
+     "c": "Mariam Hayaat Khan",
+     "n": "Kirron Kher"
+    },
+    {
+     "c": "Shabina 'Shabbo' Ibrahim",
+     "n": "Divya Dutta"
+    },
+    {
+     "c": "Jahangir Hayaat Khan",
+     "n": "Boman Irani"
+    },
+    {
+     "c": "Zakir Ahmed",
+     "n": "Anupam Kher"
+    },
+    {
+     "c": "Chaudhary Sumer Singh",
+     "n": "Amitabh Bachchan"
+    },
+    {
+     "c": "Saraswati Kaur",
+     "n": "Hema Malini"
+    },
+    {
+     "c": "Razaa Shirazi",
+     "n": "Manoj Bajpayee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Yash Chopra"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 4251,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "Squadron Leader Veer Pratap Singh, a pilot in the Indian Air Force, rescues the stranded Zaara, a woman from Pakistan, following a bus accident, and their lives are forever bound.",
+   "popularity": 2.3898,
+   "poster_path": "/j267YqLvKAHeyykTflxzpgVgviQ.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Netflix Kids"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-11-12",
+   "revenue": 29385320,
+   "runtime": 192,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi",
+    "pa",
+    "ur"
+   ],
+   "status": "Released",
+   "tagline": "A Love Legend",
+   "title": "Veer-Zaara",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.5,
+   "vote_count": 326
+  },
   "movie:4351": {
    "backdrop_path": "/fUdxWZPjTy7ghxp0wZVBfCvWhzV.jpg",
    "budget": 21000000,
@@ -3027,6 +3526,158 @@
    "type": "movie",
    "vote_average": 6.931,
    "vote_count": 486
+  },
+  "movie:54551": {
+   "backdrop_path": "/fDjknkPghKnkFqqG268QEaW79X1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Minions (Various) (voice)",
+     "n": "Pierre Coffin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Kyle Balda",
+    "Samuel Tourneux"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Comedy"
+   ],
+   "id": 54551,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Minions fight over a delicious banana... but is that all they want?!",
+   "popularity": 1.562,
+   "poster_path": "/AnmIMKAQjXLjD2DI0ba4D9DpkHv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2010-12-13",
+   "revenue": 0,
+   "runtime": 4,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Banana",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.046,
+   "vote_count": 313
+  },
+  "movie:58451": {
+   "backdrop_path": "/1gAIPtpuHSYWJ6PjF8r9jOJdSmG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Pinocchio",
+     "n": "Andrea Balestri"
+    },
+    {
+     "c": "Geppetto",
+     "n": "Nino Manfredi"
+    },
+    {
+     "c": "Fata",
+     "n": "Gina Lollobrigida"
+    },
+    {
+     "c": "Lucignolo",
+     "n": "Domenico Santoro"
+    },
+    {
+     "c": "Gatto",
+     "n": "Franco Franchi"
+    },
+    {
+     "c": "Volpe",
+     "n": "Ciccio Ingrassia"
+    },
+    {
+     "c": "Lumaca",
+     "n": "Zoe Incrocci"
+    },
+    {
+     "c": "Mangiafoco",
+     "n": "Lionel Stander"
+    },
+    {
+     "c": "Omino di burro",
+     "n": "Riccardo Billi"
+    },
+    {
+     "c": "Mastro Ciliegia",
+     "n": "Ugo D'Alessio"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Luigi Comencini"
+   ],
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Family",
+    "Comedy"
+   ],
+   "id": 58451,
+   "industry": "world",
+   "origin_country": [
+    "DE",
+    "IT",
+    "FR"
+   ],
+   "original_language": "it",
+   "overview": "Mastro Geppetto is a poor carpenter with no wife and no children. The man is very lonely, and after trading a piece of wood with his colleague Mastro Ciliegia, decides to build himself a puppet to keep him company.",
+   "popularity": 1.372,
+   "poster_path": "/xjoYc9umKoZHTVr2B0uBbn3bCXj.jpg",
+   "production_countries": [
+    "DE",
+    "FR",
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1972-12-21",
+   "revenue": 0,
+   "runtime": 135,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Adventures of Pinocchio",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.5,
+   "vote_count": 328
   },
   "movie:586451": {
    "backdrop_path": "/fsM6AB85cptuiG142s6ZQS17mjr.jpg",
@@ -3528,6 +4179,109 @@
    "vote_average": 6.365,
    "vote_count": 477
   },
+  "movie:658751": {
+   "backdrop_path": "/29D1fbU1bP9vzPvHiYr7aeGG17P.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Viktor Steiner",
+     "n": "David Kross"
+    },
+    {
+     "c": "Gerry Falkland",
+     "n": "Frederick Lau"
+    },
+    {
+     "c": "Nicole Kleber",
+     "n": "Janina Uhse"
+    },
+    {
+     "c": "Luna",
+     "n": "Anne Schäfer"
+    },
+    {
+     "c": "Peter Steiner",
+     "n": "Robert Schupp"
+    },
+    {
+     "c": "Viktoria Steiner",
+     "n": "Silvina Buchbauer"
+    },
+    {
+     "c": "Chantal",
+     "n": "Sophia Thomalla"
+    },
+    {
+     "c": "Manfred Bauer",
+     "n": "Uwe Preuss"
+    },
+    {
+     "c": "Daniela",
+     "n": "Monika Anna Wojtyllo"
+    },
+    {
+     "c": "Viktor / Kind",
+     "n": "Arthur Gropp"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Cüneyt Kaya"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 658751,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Charting the rise and fall of three corrupt real estate agents who accumulate absurd wealth in no time but fall into a vortex of fraud, greed and drugs.",
+   "popularity": 1.4141,
+   "poster_path": "/6r83qslpsERzHzCroFSp6X4eUse.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-04-17",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Rising High",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.495,
+   "vote_count": 311
+  },
   "movie:665251": {
    "backdrop_path": "/x6Dxc9Z17Yt9gtq7Dq6uCPbPcxD.jpg",
    "budget": 0,
@@ -3771,6 +4525,130 @@
    "type": "movie",
    "vote_average": 6.045,
    "vote_count": 444
+  },
+  "movie:9051": {
+   "backdrop_path": "/rlu0VPvvRZWbcX4OTlv8C1lDorz.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "George Webber",
+     "n": "Dudley Moore"
+    },
+    {
+     "c": "Samantha Taylor",
+     "n": "Julie Andrews"
+    },
+    {
+     "c": "Jenny Hanley",
+     "n": "Bo Derek"
+    },
+    {
+     "c": "Hugh",
+     "n": "Robert Webber"
+    },
+    {
+     "c": "Mary Lewis",
+     "n": "Dee Wallace"
+    },
+    {
+     "c": "David Hanley",
+     "n": "Sam J. Jones"
+    },
+    {
+     "c": "Donald",
+     "n": "Brian Dennehy"
+    },
+    {
+     "c": "Reverend",
+     "n": "Max Showalter"
+    },
+    {
+     "c": "Josh Taylor",
+     "n": "Rad Daly"
+    },
+    {
+     "c": "Mrs. Kissell",
+     "n": "Nedra Volz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Blake Edwards"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 9051,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A Hollywood songwriter goes through a mid-life crisis and becomes infatuated with a sexy blonde newlywed.",
+   "popularity": 3.0324,
+   "poster_path": "/uUCr4WTogPnb7LOILL8opxSyxGw.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1979-10-05",
+   "revenue": 107000000,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A temptingly tasteful comedy for adults who can count.",
+   "title": "10",
+   "trailer": {
+    "key": "HsI1gzpvWR4",
+    "name": "Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.819,
+   "vote_count": 329
   },
   "tv:2251": {
    "backdrop_path": "/8Y8vn9feCVUoJRXpWK6xno5VrUz.jpg",

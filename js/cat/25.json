@@ -1,6 +1,6 @@
 {
  "bucket": "25",
- "count": 42,
+ "count": 48,
  "titles": {
   "movie:10425": {
    "backdrop_path": "/o1QOSrwY9cjkEi1f9RL3tYxUFta.jpg",
@@ -167,6 +167,159 @@
    "type": "movie",
    "vote_average": 6.166,
    "vote_count": 419
+  },
+  "movie:1156125": {
+   "backdrop_path": "/dojVTVK4H2Q0tx2A9NJSnI79OPm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Takumi",
+     "n": "Hitoshi Omika"
+    },
+    {
+     "c": "Hana",
+     "n": "Ryo Nishikawa"
+    },
+    {
+     "c": "Takahashi",
+     "n": "Ryuji Kosaka"
+    },
+    {
+     "c": "Mayuzumi",
+     "n": "Ayaka Shibutani"
+    },
+    {
+     "c": "Sachi",
+     "n": "Hazuki Kikuchi"
+    },
+    {
+     "c": "Kazuo",
+     "n": "Hiroyuki Miura"
+    },
+    {
+     "c": "Horiguchi",
+     "n": "Yoshinori Miyata"
+    },
+    {
+     "c": "Tatsuki",
+     "n": "Yûto Torii"
+    },
+    {
+     "c": "Yoshiko",
+     "n": "Takako Yamamura"
+    },
+    {
+     "c": "Hasegawa",
+     "n": "Takuma Nagao"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Ryusuke Hamaguchi"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1156125,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Takumi and his daughter Hana live in Mizubiki Village, close to Tokyo. One day, the village inhabitants become aware of a plan to build a camping site near Takumi's house offering city residents a comfortable \"escape\" to nature.",
+   "popularity": 2.0913,
+   "poster_path": "/lvJflmoOKkb8NLJz7VwFEzmd4d7.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-12-06",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Don't upset the balance.",
+   "title": "Evil Does Not Exist",
+   "trailer": {
+    "key": "zVY4lWfrbME",
+    "name": "Official US Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 330
   },
   "movie:12525": {
    "backdrop_path": "/7Lzqpkdwmhmok2WGxmNWgBp82s.jpg",
@@ -2660,6 +2813,94 @@
    "vote_average": 4.492,
    "vote_count": 424
   },
+  "movie:35025": {
+   "backdrop_path": "/5yhXOc685Pybx7M5CiEetJhEgbY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ace / Chapelle",
+     "n": "José Garcia"
+    },
+    {
+     "c": "Tiago Mendès",
+     "n": "Gilbert Melki"
+    },
+    {
+     "c": "La mère",
+     "n": "Carmen Maura"
+    },
+    {
+     "c": "Sami",
+     "n": "Arsène Mosca"
+    },
+    {
+     "c": "Marco",
+     "n": "Jo Prestia"
+    },
+    {
+     "c": "Luna",
+     "n": "Catalina Denis"
+    },
+    {
+     "c": "Marzin",
+     "n": "Alain Fromager"
+    },
+    {
+     "c": "Rafart",
+     "n": "Laurent Bateau"
+    },
+    {
+     "c": "Najma",
+     "n": "Mouni Farro"
+    },
+    {
+     "c": "Slim",
+     "n": "Doudou Masta"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Pascal Bourdiaux"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 35025,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A mild-mannered banker is forced to masquerade as a notorious gangster and pimp.",
+   "popularity": 0.8309,
+   "poster_path": "/qsai3CTU0VENHY2LuKJ7Xe06LGr.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2010-02-16",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Pimp",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.798,
+   "vote_count": 312
+  },
   "movie:42425": {
    "backdrop_path": "/s3eOnLXmUNqP5CsVjZu4yUGMab3.jpg",
    "budget": 0,
@@ -2749,6 +2990,269 @@
    "type": "movie",
    "vote_average": 5.2,
    "vote_count": 350
+  },
+  "movie:437425": {
+   "backdrop_path": "/luSylfUQyA3N56EXAguoGJVSHOP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Juliette",
+     "n": "Alexandra Lamy"
+    },
+    {
+     "c": "Étienne",
+     "n": "Arnaud Ducret"
+    },
+    {
+     "c": "Paul",
+     "n": "Jamie Bamber"
+    },
+    {
+     "c": "Joelle",
+     "n": "Anne Marivin"
+    },
+    {
+     "c": "Sonia",
+     "n": "Sabrina Ouazani"
+    },
+    {
+     "c": "Richard",
+     "n": "Lionnel Astier"
+    },
+    {
+     "c": "Philippe",
+     "n": "Jérôme Commandeur"
+    },
+    {
+     "c": "Cédric",
+     "n": "Arnaud Henriet"
+    },
+    {
+     "c": "Client tatouage",
+     "n": "Benjamin Jungers"
+    },
+    {
+     "c": "Mère de Juliette",
+     "n": "Elise Diamant"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Eric Lavaine"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 437425,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Even at the age of 40, Juliette is used to other people making decisions for her. When she meets two guys she likes, she has to finally make her own decision.",
+   "popularity": 1.568,
+   "poster_path": "/d82mQYgcbld4l0FkURk5jJvdOyJ.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-03-15",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hu",
+    "it",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "You Choose!",
+   "trailer": {
+    "key": "ZcKfhPkdc_8",
+    "name": "You Choose ! / L'Embarras du choix (2017) - Trailer (English Subs)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.663,
+   "vote_count": 331
+  },
+  "movie:468225": {
+   "backdrop_path": "/1tDelhmpG8KzFdU3QvOhBScm4sS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lilly Maynard",
+     "n": "Melissa McCarthy"
+    },
+    {
+     "c": "Jack Maynard",
+     "n": "Chris O'Dowd"
+    },
+    {
+     "c": "Dr. Larry Fine",
+     "n": "Kevin Kline"
+    },
+    {
+     "c": "Travis Delp",
+     "n": "Timothy Olyphant"
+    },
+    {
+     "c": "Ben",
+     "n": "Daveed Diggs"
+    },
+    {
+     "c": "Dickey",
+     "n": "Skyler Gisondo"
+    },
+    {
+     "c": "Sherri",
+     "n": "Laura Harrier"
+    },
+    {
+     "c": "Regina",
+     "n": "Kimberly Quinn"
+    },
+    {
+     "c": "Velma",
+     "n": "Loretta Devine"
+    },
+    {
+     "c": "Hector",
+     "n": "Jesse Garcia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Theodore Melfi"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 468225,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A woman adjusting to life after a loss contends with a feisty bird that's taken over her garden — and a husband who's struggling to find a way forward.",
+   "popularity": 1.5264,
+   "poster_path": "/gPkaPGNbjZCeRurSYGi0JD63DBa.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-09-17",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Hope starts small",
+   "title": "The Starling",
+   "trailer": {
+    "key": "fYyImx_KXm4",
+    "name": "The Starling | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.919,
+   "vote_count": 340
   },
   "movie:520725": {
    "backdrop_path": "/brLBKS5vQfP1vjiupHqa3xg1XQC.jpg",
@@ -3517,6 +4021,130 @@
    "vote_average": 7.141,
    "vote_count": 393
   },
+  "movie:757725": {
+   "backdrop_path": "/lBsbWXGn9maPKGhN3fozTU3BH0r.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Kyrah",
+     "n": "Kerry Washington"
+    },
+    {
+     "c": "Isaac",
+     "n": "Omar Sy"
+    },
+    {
+     "c": "Ky Sarr",
+     "n": "Jahleel Kamara"
+    },
+    {
+     "c": "Jack Cinder",
+     "n": "Mark Strong"
+    },
+    {
+     "c": "Auntie",
+     "n": "Da'Vine Joy Randolph"
+    },
+    {
+     "c": "Unc",
+     "n": "Method Man"
+    },
+    {
+     "c": "Parker",
+     "n": "Ed Quinn"
+    },
+    {
+     "c": "Moriti",
+     "n": "Natalia Reyes"
+    },
+    {
+     "c": "Cysgod",
+     "n": "Marvin Jones III"
+    },
+    {
+     "c": "Anino",
+     "n": "Jénel Stevens"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joe Carnahan"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 757725,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Kyrah and Isaac were once the leaders of a multinational special forces group called Shadow Force. They broke the rules by falling in love, and in order to protect their son, they go underground. With a large bounty on their heads, and the vengeful Shadow Force hot on their trail, one family's fight becomes all-out war.",
+   "popularity": 3.1916,
+   "poster_path": "/9LCpHFXZgkqp2AWiYq0mGbfZauk.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-05-01",
+   "revenue": 5416976,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Family over everything.",
+   "title": "Shadow Force",
+   "trailer": {
+    "key": "M7LhGytiHFM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.28,
+   "vote_count": 337
+  },
   "movie:812225": {
    "backdrop_path": "/rogeBJK44LtWynOqzMFmEF30T80.jpg",
    "budget": 0,
@@ -3828,6 +4456,116 @@
    "type": "movie",
    "vote_average": 7.331,
    "vote_count": 415
+  },
+  "movie:920125": {
+   "backdrop_path": "/oq597AkQ3AOcUO1RdaUS8N6fmrz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kamal",
+     "n": "Sinqua Walls"
+    },
+    {
+     "c": "Jeremy",
+     "n": "Jack Harlow"
+    },
+    {
+     "c": "Benji",
+     "n": "Lance Reddick"
+    },
+    {
+     "c": "Imani",
+     "n": "Teyana Taylor"
+    },
+    {
+     "c": "Tatiana",
+     "n": "Laura Harrier"
+    },
+    {
+     "c": "Renzo",
+     "n": "Myles Bullock"
+    },
+    {
+     "c": "Speedy",
+     "n": "Vince Staples"
+    },
+    {
+     "c": "Phillip Williamson",
+     "n": "Zak Steiner"
+    },
+    {
+     "c": "Jermaine",
+     "n": "J. Alphonse Nicholson"
+    },
+    {
+     "c": "Drew",
+     "n": "Aiden Shute"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Calmatic"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 920125,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Seemingly opposite street hoopers, Jeremy, an injury prone former star, and Kamal, a has-been prodigy, team up to take one final shot at living out their dreams.",
+   "popularity": 2.5152,
+   "poster_path": "/i83Ykng2HVY5EF043zMmeQdLUQY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-05-11",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Play hard. Hustle harder.",
+   "title": "White Men Can't Jump",
+   "trailer": {
+    "key": "noxvcFVmG4E",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 317
   },
   "movie:9625": {
    "backdrop_path": "/oFs99SgcuVOwGhtew77rBKniNmi.jpg",

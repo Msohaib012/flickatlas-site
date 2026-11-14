@@ -1,6 +1,6 @@
 {
  "bucket": "92",
- "count": 39,
+ "count": 47,
  "titles": {
   "movie:1008392": {
    "backdrop_path": "/iHSE8lEkPFHHPqaCv6Eh2aUfe6q.jpg",
@@ -108,6 +108,112 @@
    "type": "movie",
    "vote_average": 5.8,
    "vote_count": 452
+  },
+  "movie:10292": {
+   "backdrop_path": "/hgwBYgFvHEDJVx0OVA4qGtcYrCC.jpg",
+   "budget": 3500000,
+   "cast": [
+    {
+     "c": "Samantha Owens",
+     "n": "Kate Mara"
+    },
+    {
+     "c": "David Owens",
+     "n": "Robert Vito"
+    },
+    {
+     "c": "Grace Taylor",
+     "n": "Tina Lifford"
+    },
+    {
+     "c": "Bill Owens",
+     "n": "Ed Marinaro"
+    },
+    {
+     "c": "Buck Jacoby",
+     "n": "Michael Coe"
+    },
+    {
+     "c": "Mary Banner / 'Bloody Mary'",
+     "n": "Lillith Fields"
+    },
+    {
+     "c": "Pam Owens",
+     "n": "Nancy Everhard"
+    },
+    {
+     "c": "Heather Thompson",
+     "n": "Audra Lea Keener"
+    },
+    {
+     "c": "Coach Jacoby",
+     "n": "Don Shanks"
+    },
+    {
+     "c": "Sheriff McKenna",
+     "n": "Jeff Olson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mary Lambert"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 10292,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On a prom-night dare, a trio of high school friends chant an incantation, unleashing an evil spirit from the past with deadly consequences.",
+   "popularity": 2.836,
+   "poster_path": "/Avlo5JZOBXWx4oymtkXfCaomV5Y.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-07-19",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Turn off the light and see what happens.",
+   "title": "Urban Legends: Bloody Mary",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.898,
+   "vote_count": 318
   },
   "movie:1032892": {
    "backdrop_path": "/uM5i623wwNfoGD97iwwQWQ7GlZL.jpg",
@@ -1267,6 +1373,109 @@
    "vote_average": 7.227,
    "vote_count": 22
   },
+  "movie:16992": {
+   "backdrop_path": "/37iU8su1kQgylRqpbhzGb2KtrWF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Danny Flynn",
+     "n": "Daniel Day-Lewis"
+    },
+    {
+     "c": "Maggie Hamill",
+     "n": "Emily Watson"
+    },
+    {
+     "c": "Joe Hamill",
+     "n": "Brian Cox"
+    },
+    {
+     "c": "Ike Weir",
+     "n": "Ken Stott"
+    },
+    {
+     "c": "Harry",
+     "n": "Gerard McSorley"
+    },
+    {
+     "c": "Joe Hamill's Aide",
+     "n": "David Hayman"
+    },
+    {
+     "c": "Matt MaGuire",
+     "n": "Kenneth Cranham"
+    },
+    {
+     "c": "Bride",
+     "n": "Lorraine Pilkington"
+    },
+    {
+     "c": "Groom",
+     "n": "Niall Shanahan"
+    },
+    {
+     "c": "Priest",
+     "n": "John Wall"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jim Sheridan"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 16992,
+   "industry": "world",
+   "origin_country": [
+    "IE",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Nineteen-year-old Danny Flynn is imprisoned for his involvement with the I.R.A. in Belfast. He leaves behind his family and his sixteen-year-old girlfriend, Maggie Hamill. Fourteen years later, Danny is released from prison and returns to his old working class neighborhood to resume his life as a boxer.",
+   "popularity": 1.5845,
+   "poster_path": "/wsbNQWMQV4HwwqXtvQUoBfiBzK8.jpg",
+   "production_countries": [
+    "IE",
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1997-12-31",
+   "revenue": 16534578,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Love is always worth fighting for.",
+   "title": "The Boxer",
+   "trailer": {
+    "key": "UlcM-1Rm9Eo",
+    "name": "THE BOXER TRAILER",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.696,
+   "vote_count": 327
+  },
   "movie:1715492": {
    "backdrop_path": "/n6TYhOl8NYSoIl8q6dI16IZiodB.jpg",
    "budget": 0,
@@ -2008,6 +2217,135 @@
    "vote_average": 6.15,
    "vote_count": 472
   },
+  "movie:31592": {
+   "backdrop_path": "/Aoknrm6AdGdPdqIIKyXzygvlEzP.jpg",
+   "budget": 250000,
+   "cast": [
+    {
+     "c": "Morgan",
+     "n": "Boris Karloff"
+    },
+    {
+     "c": "Penderel",
+     "n": "Melvyn Douglas"
+    },
+    {
+     "c": "Sir William Porterhouse",
+     "n": "Charles Laughton"
+    },
+    {
+     "c": "Gladys",
+     "n": "Lilian Bond"
+    },
+    {
+     "c": "Horace Femm",
+     "n": "Ernest Thesiger"
+    },
+    {
+     "c": "Rebecca Femm",
+     "n": "Eva Moore"
+    },
+    {
+     "c": "Philip Waverton",
+     "n": "Raymond Massey"
+    },
+    {
+     "c": "Margaret Waverton",
+     "n": "Gloria Stuart"
+    },
+    {
+     "c": "Sir Roderick Femm",
+     "n": "Elspeth Dudgeon"
+    },
+    {
+     "c": "Saul Femm",
+     "n": "Brember Wills"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "James Whale"
+   ],
+   "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "id": 31592,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a remote region of Wales, five travelers beset by a relentless storm find shelter in an old mansion.",
+   "popularity": 1.771,
+   "poster_path": "/t4058MoAiVg8R1aqHNL3nAP48km.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Bloodstream"
+    },
+    {
+     "name": "Artiflix"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "Cohen Media Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/hO4tZhtSJ7VrVnJusimkY3MltSx.png",
+     "name": "Artiflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1932-10-20",
+   "revenue": 0,
+   "runtime": 70,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Beware the night!",
+   "title": "The Old Dark House",
+   "trailer": {
+    "key": "2Hlku8RJAXk",
+    "name": "Masters of Cinema Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.718,
+   "vote_count": 323
+  },
   "movie:339792": {
    "backdrop_path": "/Afs2EfDfnacxLa2qSZ4ji9LEsru.jpg",
    "budget": 0,
@@ -2628,6 +2966,94 @@
    "vote_average": 6.472,
    "vote_count": 453
   },
+  "movie:42892": {
+   "backdrop_path": "/7DvsXlSqZhPIVEVmutHo0YcxVgo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ezio",
+     "n": "Fabio De Luigi"
+    },
+    {
+     "c": "Vincenzo",
+     "n": "Fabrizio Bentivoglio"
+    },
+    {
+     "c": "Margherita",
+     "n": "Margherita Buy"
+    },
+    {
+     "c": "Marta",
+     "n": "Alice Croci"
+    },
+    {
+     "c": "Caterina",
+     "n": "Valeria Bilello"
+    },
+    {
+     "c": "Marta's Father",
+     "n": "Diego Abatantuono"
+    },
+    {
+     "c": "Marta's Mother",
+     "n": "Carla Signoris"
+    },
+    {
+     "c": "Grandmother Anna",
+     "n": "Corinna Agustoni"
+    },
+    {
+     "c": "Filippo",
+     "n": "Gianmaria Biancuzzi"
+    },
+    {
+     "c": "Federica",
+     "n": "Federica Fracassi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Gabriele Salvatores"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 42892,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A blocked screenwriter, Ezio, is trying to finish a story about two off-kilter families thrown together when their teenage children announce they’re getting married. So Ezio writes himself into the story with a romantic part—a development his characters welcome, as they’ve got some ideas of their own for bigger and better roles.",
+   "popularity": 0.7101,
+   "poster_path": "/pWrfIvygxbJTOrqMVqUDWvv1Ato.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2010-03-26",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Happy Family",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.412,
+   "vote_count": 323
+  },
   "movie:461992": {
    "backdrop_path": "/2Py1YSWpCA2gsZxl0bPk3sOrL37.jpg",
    "budget": 1000000,
@@ -2976,6 +3402,227 @@
    "type": "movie",
    "vote_average": 6.553,
    "vote_count": 454
+  },
+  "movie:513692": {
+   "backdrop_path": "/kHXblysahey0anR3M2dYoYw51FD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bong",
+     "n": "Donnie Yen"
+    },
+    {
+     "c": "Ngo",
+     "n": "Nicholas Tse Ting-fung"
+    },
+    {
+     "c": "Ying",
+     "n": "Qin Lan"
+    },
+    {
+     "c": "Yiu-sir",
+     "n": "Ray Lui"
+    },
+    {
+     "c": "SACP Lok",
+     "n": "Simon Yam"
+    },
+    {
+     "c": "Sze-To Kit",
+     "n": "Ben Yuen Foo-wah"
+    },
+    {
+     "c": "Guai",
+     "n": "Ben Lam Kwok-bun"
+    },
+    {
+     "c": "Wing",
+     "n": "Ken Lo Wai-kwong"
+    },
+    {
+     "c": "Hisa-sir",
+     "n": "Carlos Chan Ka-lok"
+    },
+    {
+     "c": "Jaws",
+     "n": "Kenny Wong Tak-ban"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Benny Chan Muk-sing"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller",
+    "Adventure",
+    "Mystery"
+   ],
+   "id": 513692,
+   "industry": "world",
+   "origin_country": [
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "Cheung Sung-bong is a highly respected cop with a long history of success in dangerous cases. However, his past soon comes back to haunt him when a former protégé resurfaces, seeking revenge.",
+   "popularity": 3.9517,
+   "poster_path": "/nD9zK3nfEUPHKWwFmAaQoLsQYE5.jpg",
+   "production_countries": [
+    "CN",
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Hi-YAH"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "Hi-YAH Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/VSkdYiq9YA34Oaucl2Ga0dBL11.png",
+     "name": "Hi-YAH",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mlciWnmFopns3WZGENR6ZZoNnZO.png",
+     "name": "Hi-YAH Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-07-29",
+   "revenue": 205000000,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "en",
+    "cn"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Raging Fire",
+   "trailer": {
+    "key": "spy-dhYLRxI",
+    "name": "Raging Fire 《怒火》Trailer | In Australia & New Zealand on 19 August",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.136,
+   "vote_count": 324
   },
   "movie:55292": {
    "backdrop_path": "/lewuyD46yg3pjZpxqMLwfudIwWz.jpg",
@@ -3611,6 +4258,114 @@
    "vote_average": 6.22,
    "vote_count": 461
   },
+  "movie:717192": {
+   "backdrop_path": "/fejok33Ijc6SppiEU1cfwA9Mo2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ferry Bouman",
+     "n": "Frank Lammers"
+    },
+    {
+     "c": "Danielle van Marken",
+     "n": "Elise Schaap"
+    },
+    {
+     "c": "Ralph Brink",
+     "n": "Huub Stapel"
+    },
+    {
+     "c": "Claudia Bouman",
+     "n": "Monic Hendrickx"
+    },
+    {
+     "c": "John Zwart",
+     "n": "Raymond Thiry"
+    },
+    {
+     "c": "Rico",
+     "n": "Maarten Heijmans"
+    },
+    {
+     "c": "Lars van Marken",
+     "n": "Yannick van de Velde"
+    },
+    {
+     "c": "Robbert",
+     "n": "Olaf Ait Tami"
+    },
+    {
+     "c": "Keesje Bouman",
+     "n": "Juliette van Ardenne"
+    },
+    {
+     "c": "Jack Bouman",
+     "n": "Bob Stoop"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Cecilia Verheyden"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Action"
+   ],
+   "id": 717192,
+   "industry": "world",
+   "origin_country": [
+    "BE"
+   ],
+   "original_language": "nl",
+   "overview": "Before he built a drug empire, Ferry Bouman returns to his hometown on a revenge mission that finds his loyalty tested — and a love that alters his life.",
+   "popularity": 1.3608,
+   "poster_path": "/1sZlGoyGShlPhKj1AspcuHh4jfU.jpg",
+   "production_countries": [
+    "BE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-05-13",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "nl"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Ferry",
+   "trailer": {
+    "key": "MG6U7gduIwA",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.803,
+   "vote_count": 310
+  },
   "movie:876792": {
    "backdrop_path": "/g03h9TULzJZOoXA34Abp5LE7lvt.jpg",
    "budget": 0,
@@ -3826,6 +4581,268 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 346
+  },
+  "movie:9092": {
+   "backdrop_path": "/jrm5WPcYN09Xv9u31XwATd0R7Rv.jpg",
+   "budget": 26000000,
+   "cast": [
+    {
+     "c": "Lady Claudia Hoffman",
+     "n": "Sigourney Weaver"
+    },
+    {
+     "c": "Lord Friedrich Hoffman",
+     "n": "Sam Neill"
+    },
+    {
+     "c": "Lilliana 'Lilly' Hoffman",
+     "n": "Monica Keena"
+    },
+    {
+     "c": "Will",
+     "n": "Gil Bellows"
+    },
+    {
+     "c": "Lars",
+     "n": "Brian Glover"
+    },
+    {
+     "c": "Peter Gutenberg",
+     "n": "David Conrad"
+    },
+    {
+     "c": "Rolf",
+     "n": "Anthony Brophy"
+    },
+    {
+     "c": "Scar",
+     "n": "Andrew Tiernan"
+    },
+    {
+     "c": "Little Lilliana 'Lilly' Hoffman",
+     "n": "Taryn Davis"
+    },
+    {
+     "c": "Maidservant Ilsa",
+     "n": "Dale Wyatt"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michael Cohn"
+   ],
+   "genres": [
+    "Fantasy",
+    "Horror"
+   ],
+   "id": 9092,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When young Lili's mother dies in childbirth, her father remarries Lady Claudia, a woman ruled by an evil mirror with the power to make her queen of all living things.  After escaping an attempt on her life, Lili finds herself lost in a dark forest, where living happily ever after seems unlikely.",
+   "popularity": 3.3251,
+   "poster_path": "/3Zythq86Hyov8J100r3XNbEXtUh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1997-07-18",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The fairy tale is over.",
+   "title": "Snow White: A Tale of Terror",
+   "trailer": {
+    "key": "Z0qbe5_Cqt0",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.09,
+   "vote_count": 307
+  },
+  "movie:916192": {
+   "backdrop_path": "/rWJc5BkI7Op1IYMb3gW6qGjOnIp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kaoru Tono (voice)",
+     "n": "Ouji Suzuka"
+    },
+    {
+     "c": "Anzu Hanashiro (voice)",
+     "n": "Marie Iitoyo"
+    },
+    {
+     "c": "Shohei Kaga (voice)",
+     "n": "Tasuku Hatanaka"
+    },
+    {
+     "c": "Koharu Kawasaki (voice)",
+     "n": "Arisa Komiya"
+    },
+    {
+     "c": "Ms. Hamamoto (voice)",
+     "n": "Haruka Terui"
+    },
+    {
+     "c": "Kaoru's Father (voice)",
+     "n": "Rikiya Koyama"
+    },
+    {
+     "c": "Karen Tono (voice)",
+     "n": "Seiran Kobayashi"
+    },
+    {
+     "c": "(voice)",
+     "n": "Chiko Mizumori"
+    },
+    {
+     "c": "(voice)",
+     "n": "Hiroto Kazuki"
+    },
+    {
+     "c": "(voice)",
+     "n": "Taiki Kurokawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Tomohisa Taguchi"
+   ],
+   "genres": [
+    "Animation",
+    "Drama",
+    "Romance",
+    "Fantasy",
+    "Science Fiction"
+   ],
+   "id": 916192,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Urashima Tunnel – Once you enter that tunnel, you can get whatever you want, but at a price. Kaoru Tohno, who seems to have an elusive personality and traumatic past, and Anzu Hanashiro, who is struggling to reconcile her ideal image and true-to-heart attitude, team up to investigate the Urashima Tunnel and get what they want. This is an unforgettable summer story of nostalgia and sprinting in a remote countryside.",
+   "popularity": 4.1869,
+   "poster_path": "/5AGA6pbBKXZTI8k1c6odx30JuQR.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "HiDive"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1743zXk6Hn0afaarNtp6bXVMlsT.png",
+     "name": "HiDive",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-09-09",
+   "revenue": 872000,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "A mysterious tunnel can grant your fondest wish... but at a price.",
+   "title": "The Tunnel to Summer, the Exit of Goodbyes",
+   "trailer": {
+    "key": "gBa7pP9mgGI",
+    "name": "Dub Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.711,
+   "vote_count": 317
   },
   "tv:110492": {
    "backdrop_path": "/aJcUU3LMlqMKBi8L3eaxGfAbd4G.jpg",

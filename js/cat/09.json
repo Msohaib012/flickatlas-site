@@ -1,6 +1,6 @@
 {
  "bucket": "09",
- "count": 50,
+ "count": 55,
  "titles": {
   "movie:1002109": {
    "backdrop_path": "/h7VBwwztl4it7BSA6HsJR41nC37.jpg",
@@ -846,6 +846,148 @@
    "type": "movie",
    "vote_average": 6.659,
    "vote_count": 375
+  },
+  "movie:1252309": {
+   "backdrop_path": "/kHJlXiwxcMAf9R934f0ncEBAMXg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Judith Flores",
+     "n": "Gabriela Andrada"
+    },
+    {
+     "c": "Eric Zimmerman",
+     "n": "Mario Ermito"
+    },
+    {
+     "c": "Mónica",
+     "n": "Celia Freijeiro"
+    },
+    {
+     "c": "Miguel",
+     "n": "David Solans"
+    },
+    {
+     "c": "Frida",
+     "n": "Alba Ribas"
+    },
+    {
+     "c": "Andrés",
+     "n": "Joel Bosqued"
+    },
+    {
+     "c": "Rebeca / Betta",
+     "n": "Alicia Bercan"
+    },
+    {
+     "c": "Amanda",
+     "n": "Anna Karinvinge"
+    },
+    {
+     "c": "Fernando",
+     "n": "Fernando Oyagüez"
+    },
+    {
+     "c": "Manuel",
+     "n": "Paco Tous"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Lucía Alemany"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 1252309,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
+   "popularity": 14.1913,
+   "poster_path": "/yZXYCiZQPB7Ui6D5206W1zDKv8P.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-11-29",
+   "revenue": 2265661,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Tell Me What You Want",
+   "trailer": {
+    "key": "MzNbhA4WFqg",
+    "name": "Trailer [Dubbed]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.081,
+   "vote_count": 327
   },
   "movie:12609": {
    "backdrop_path": "/yQ0eSp9Cfpixnp1EvFpFWQzKhB5.jpg",
@@ -1748,6 +1890,94 @@
    "vote_average": 6.17,
    "vote_count": 498
   },
+  "movie:15709": {
+   "backdrop_path": "/sD7hC5cohIgFU6rfT4Tg08z6aUf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hugo Marciac",
+     "n": "Dany Boon"
+    },
+    {
+     "c": "Ariane Marciac",
+     "n": "Sophie Marceau"
+    },
+    {
+     "c": "Maurice",
+     "n": "Antoine Duléry"
+    },
+    {
+     "c": "Adolphe Nicart",
+     "n": "Roland Giraud"
+    },
+    {
+     "c": "Lise",
+     "n": "Anny Duperey"
+    },
+    {
+     "c": "Charlotte",
+     "n": "Juliette Arnaud"
+    },
+    {
+     "c": "Louise",
+     "n": "Ninon Mauger"
+    },
+    {
+     "c": "Hector",
+     "n": "Clémot Couture"
+    },
+    {
+     "c": "Flanvart",
+     "n": "François Vincentelli"
+    },
+    {
+     "c": "Samia",
+     "n": "Delphine Rivière"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Pascale Pouzadoux"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 15709,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Ariane and Hugo decide to exchange the lives they lead to escape from their routine, which after ten years of marriage, gives them the feeling of being hamsters in a wheel. She suddenly finds herself at the head of a construction equipment rental company and he tries to take the role of a house calling jewelry salesman...But is life really better when you live it on the other side of the bed?",
+   "popularity": 1.1784,
+   "poster_path": "/yFWMa7JatOBYwbuDcokjVbTuYWK.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2009-01-07",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Changing Sides",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 311
+  },
   "movie:1630409": {
    "backdrop_path": "/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
    "budget": 0,
@@ -1855,6 +2085,133 @@
    "type": "movie",
    "vote_average": 7.8,
    "vote_count": 152
+  },
+  "movie:16409": {
+   "backdrop_path": "/7RZTIpPZMK9pZhkFCFZNJMn3AIb.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Harvey Shine",
+     "n": "Dustin Hoffman"
+    },
+    {
+     "c": "Kate Walker",
+     "n": "Emma Thompson"
+    },
+    {
+     "c": "Maggie Walker",
+     "n": "Eileen Atkins"
+    },
+    {
+     "c": "Jean",
+     "n": "Kathy Baker"
+    },
+    {
+     "c": "Susan Shine Wright",
+     "n": "Liane Balaban"
+    },
+    {
+     "c": "Scott Wright",
+     "n": "Daniel Lapaine"
+    },
+    {
+     "c": "Brian",
+     "n": "James Brolin"
+    },
+    {
+     "c": "Marvin",
+     "n": "Richard Schiff"
+    },
+    {
+     "c": "Aggie",
+     "n": "Wendy Mae Brown"
+    },
+    {
+     "c": "Oonagh",
+     "n": "Bronagh Gallagher"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Joel Hopkins"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 16409,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In London for his daughter's wedding, a struggling jingle-writer, Harvey Shine, misses his plane to New York, and thus loses his job. While drowning his sorrows in the airport pub, Harvey meets Kate, a British government worker stuck in an endless cycle of work, phone calls from her mother, and blind dates. A connection forms between the unhappy pair, who soon find themselves falling in love.",
+   "popularity": 1.564,
+   "poster_path": "/er7IVSXCIxZt3RBOXqddePlRYua.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-12-25",
+   "revenue": 32600000,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "When it comes to love, is it ever too late to take a chance?",
+   "title": "Last Chance Harvey",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 319
   },
   "movie:18009": {
    "backdrop_path": "/yvtMS504Fvqxs613lD7hAGI51Dd.jpg",
@@ -3889,6 +4246,116 @@
    "vote_average": 6.0,
    "vote_count": 434
   },
+  "movie:881209": {
+   "backdrop_path": "/5iXZJyEY2sDQMs7dHo9gH3qijmL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Helen Carpenter",
+     "n": "Ellie Kemper"
+    },
+    {
+     "c": "Jake",
+     "n": "Luke Grimes"
+    },
+    {
+     "c": "Hugh",
+     "n": "Nico Santos"
+    },
+    {
+     "c": "Gigi",
+     "n": "Blythe Danner"
+    },
+    {
+     "c": "Beckett",
+     "n": "Ben Cook"
+    },
+    {
+     "c": "Windy",
+     "n": "Shayvawn Webster"
+    },
+    {
+     "c": "Sue",
+     "n": "Julia Shiplett"
+    },
+    {
+     "c": "Kaylee",
+     "n": "Gus Birney"
+    },
+    {
+     "c": "Mason",
+     "n": "Esteban Benito"
+    },
+    {
+     "c": "Duncan",
+     "n": "Alexander Koch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Vicky Wight"
+   ],
+   "genres": [
+    "Romance",
+    "Adventure",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 881209,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "At a crossroads after her divorce, a schoolteacher ventures toward a fresh start in life — and love — when she signs up for a grueling group hiking trip.",
+   "popularity": 1.7681,
+   "poster_path": "/rK4jb2t3J98IXjY9O3nc8bX9yqt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-07-23",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Happiness for Beginners",
+   "trailer": {
+    "key": "45Iuy6YmMBs",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.152,
+   "vote_count": 338
+  },
   "movie:909": {
    "backdrop_path": "/fQ93o3wVSIe0dXMLTVTBHoqWwew.jpg",
    "budget": 1707561,
@@ -3997,6 +4464,152 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 446
+  },
+  "movie:9709": {
+   "backdrop_path": "/yyD97jO6qJDKuI016aD3a0nTpml.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mona",
+     "n": "Natalie Press"
+    },
+    {
+     "c": "Tamsin",
+     "n": "Emily Blunt"
+    },
+    {
+     "c": "Phil",
+     "n": "Paddy Considine"
+    },
+    {
+     "c": "Ricky",
+     "n": "Dean Andrews"
+    },
+    {
+     "c": "Ricky's Wife",
+     "n": "Michelle Byrne"
+    },
+    {
+     "c": "Tamsin's Father",
+     "n": "Paul Antony-Barber"
+    },
+    {
+     "c": "Tamsin's Mother",
+     "n": "Lynette Edwards"
+    },
+    {
+     "c": "Sadie",
+     "n": "Kathryn Sumner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Paweł Pawlikowski"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 9709,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In the Yorkshire countryside, working-class tomboy Mona meets the exotic, pampered Tamsin. To seal their friendship, Mona introduces Tamsin to her born-again Christian brother and helps her spy on her adulterous father. Bound together by their secrets, the two girls see their friendship deepen and enter into dangerous waters.",
+   "popularity": 1.8682,
+   "poster_path": "/47eozMel2wZgEASToUzScsPVpDs.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-05-05",
+   "revenue": 2766094,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The most dangerous thing to want is more.",
+   "title": "My Summer of Love",
+   "trailer": {
+    "key": "G6fEOBmqUPo",
+    "name": "My Summer of Love - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.158,
+   "vote_count": 339
   },
   "movie:9809": {
    "backdrop_path": "/1ZyZvbZlvA6fFLWEPmbJ84G3kG1.jpg",

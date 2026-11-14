@@ -1,6 +1,6 @@
 {
  "bucket": "21",
- "count": 54,
+ "count": 66,
  "titles": {
   "movie:1010821": {
    "backdrop_path": "/hlAPsSBPnwGVeBuhCd8llKYBsNT.jpg",
@@ -64,6 +64,96 @@
    "type": "movie",
    "vote_average": 7.098,
    "vote_count": 373
+  },
+  "movie:10421": {
+   "backdrop_path": "/o0vdiPmh1oEpyZ1hSSPnb6tKPRd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "L'Aztec's father",
+     "n": "Jacques Dufilho"
+    },
+    {
+     "c": "Lebrac's mother",
+     "n": "Yvette Etiévant"
+    },
+    {
+     "c": "Bacaillé's father",
+     "n": "Michel Galabru"
+    },
+    {
+     "c": "L'Aztec's mother",
+     "n": "Michèle Méritz"
+    },
+    {
+     "c": "Lebrac's father",
+     "n": "Jean Richard"
+    },
+    {
+     "c": "Bédouin, rural warden",
+     "n": "Pierre Tchernia"
+    },
+    {
+     "c": "Teacher at Longeverne",
+     "n": "Pierre Trabaud"
+    },
+    {
+     "c": "Nestor, postman",
+     "n": "Claude Confortès"
+    },
+    {
+     "c": "Touegueule",
+     "n": "Paul Crauchet"
+    },
+    {
+     "c": "Countryman",
+     "n": "Henri Labussière"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Yves Robert"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+   ],
+   "id": 10421,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "For generations, two rival French villages, Longueverne and Velrans, have been at war. But this is no ordinary conflict, for the on-going hostilities are between two armies of young schoolboys. When he is beaten by his father for having lost his buttons, the leader of the Longueverne army, Lebrac, has an idea which will give his side the advantage: next time, he and his brave soldiers will go in battle without their clothes...",
+   "popularity": 1.4935,
+   "poster_path": "/zD6RMT8WdJvjXYtk0BkRmPEkzoT.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1962-04-18",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "War of the Buttons",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 308
   },
   "movie:1103621": {
    "backdrop_path": "/6Ypt0zspYChnZM6JWVOirbUaBx3.jpg",
@@ -2888,6 +2978,461 @@
    "vote_average": 5.6,
    "vote_count": 382
   },
+  "movie:177221": {
+   "backdrop_path": "/4cjH6b7MGJssyYNNntog1YZZ9CJ.jpg",
+   "budget": 6000,
+   "cast": [
+    {
+     "c": "Ben",
+     "n": "Jeremy Gardner"
+    },
+    {
+     "c": "Mickey",
+     "n": "Adam Cronheim"
+    },
+    {
+     "c": "Jerry",
+     "n": "Niels Bolle"
+    },
+    {
+     "c": "Annie",
+     "n": "Alana O'Brien"
+    },
+    {
+     "c": "Egghead",
+     "n": "Jamie Pantanella"
+    },
+    {
+     "c": "Frank",
+     "n": "Larry Fessenden"
+    },
+    {
+     "c": "Laura",
+     "n": "Kelly McQuade"
+    },
+    {
+     "c": "Mickey's First Kill",
+     "n": "Matt Bacco"
+    },
+    {
+     "c": "Fresh Slut Zombie",
+     "n": "Elise Stella"
+    },
+    {
+     "c": "Basement Zombie",
+     "n": "Eric Simon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Jeremy Gardner"
+   ],
+   "genres": [
+    "Drama",
+    "Horror"
+   ],
+   "id": 177221,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In rural Connecticut, baseball players Ben and Mickey are trying to survive a zombie plague. They are forced to form a battery: a catcher and a pitcher who work together to outwit the batter, the one who hits the ball. And the batter in this case just happens to be a zombie. Tough Ben and gentle Mickey frequently disagree on the best way to go about the situation. Then they suddenly hear a human voice through their walkie-talkies. Is salvation nearby, like Mickey thinks, or is Ben’s suspicion justified?",
+   "popularity": 2.3011,
+   "poster_path": "/nI7lzx2t4UPfuqhunB5bEVymOOV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Brew"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Darkroom"
+    },
+    {
+     "name": "Midnight Pulp"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mwGw3KrIZxnACdeojp2a5cO41hi.png",
+     "name": "Brew",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/mwGw3KrIZxnACdeojp2a5cO41hi.png",
+     "name": "Brew",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/mwGw3KrIZxnACdeojp2a5cO41hi.png",
+     "name": "Brew",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-10-13",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In a land ravaged by the undead, Ben and Mickey must learn to survive... each other.",
+   "title": "The Battery",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 323
+  },
+  "movie:20421": {
+   "backdrop_path": "/9iqygVCxucOpxL4hpHTn4D5BUQR.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Chanticleer / The King (voice)",
+     "n": "Glen Campbell"
+    },
+    {
+     "c": "Edmond",
+     "n": "Toby Scott Ganger"
+    },
+    {
+     "c": "Grand Duke (voice)",
+     "n": "Christopher Plummer"
+    },
+    {
+     "c": "Dory - Mother",
+     "n": "Kathryn Holcomb"
+    },
+    {
+     "c": "Frank - Dad",
+     "n": "Stan Ivar"
+    },
+    {
+     "c": "Goldie (voice)",
+     "n": "Ellen Greene"
+    },
+    {
+     "c": "Narrator / Patou (voice)",
+     "n": "Phil Harris"
+    },
+    {
+     "c": "Snipes (voice)",
+     "n": "Eddie Deezen"
+    },
+    {
+     "c": "Hunch (voice)",
+     "n": "Charles Nelson Reilly"
+    },
+    {
+     "c": "Peepers (voice)",
+     "n": "Sandy Duncan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Don Bluth"
+   ],
+   "genres": [
+    "Comedy",
+    "Family",
+    "Animation",
+    "Fantasy",
+    "Music"
+   ],
+   "id": 20421,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Chanticleer is a foolhardy farm rooster who believes his crows can actually make the sun come up and shine. When the sun rises one morning without Chanticleer's crow, he leaves the farm in disgrace and runs off to become a rock 'n' roll singer. But in his absence, a sinister, sunshine-hating owl prepares to take over.",
+   "popularity": 2.3949,
+   "poster_path": "/q5xSS8MNmrwR3em6VB6OC3992d6.jpg",
+   "production_countries": [
+    "IE",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+     "name": "MGM Plus Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1991-08-02",
+   "revenue": 11657385,
+   "runtime": 74,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The rousing, rollicking adventure of the world's first rockin' rooster!",
+   "title": "Rock-A-Doodle",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 326
+  },
+  "movie:206821": {
+   "backdrop_path": "/4YA27hPiubhlVIxVtfzbWXLqC7s.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Conrad Valmont",
+     "n": "Jason Bateman"
+    },
+    {
+     "c": "Beatrice Fairbanks",
+     "n": "Olivia Wilde"
+    },
+    {
+     "c": "Dylan Tate",
+     "n": "Billy Crudup"
+    },
+    {
+     "c": "Jocelyn",
+     "n": "Jenny Slate"
+    },
+    {
+     "c": "Barry",
+     "n": "Tony Roberts"
+    },
+    {
+     "c": "Bernard the Chauffer",
+     "n": "Barry Primus"
+    },
+    {
+     "c": "Bunny",
+     "n": "Laura Clery"
+    },
+    {
+     "c": "Concierge",
+     "n": "William Abadie"
+    },
+    {
+     "c": "Jean-Louis Valmont",
+     "n": "Stephen Temperly"
+    },
+    {
+     "c": "Maribel Valmont",
+     "n": "Alexandra Neil"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Peter Glanz"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 206821,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Left broke and homeless by his wealthy parents' divorce, a young man moves in with an old friend and finally meets the woman of his dreams -- only to discover she's already dating his friend.",
+   "popularity": 1.8167,
+   "poster_path": "/nXWsjQefKVsJdQQsu5NZT1Zk1rv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-09-05",
+   "revenue": 46460,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "She had him at “I'm your best friend's girlfriend”",
+   "title": "The Longest Week",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.1,
+   "vote_count": 320
+  },
   "movie:21521": {
    "backdrop_path": "/rvpN5CrzCdwvwlBq0PDvoUYh9WE.jpg",
    "budget": 0,
@@ -2991,6 +3536,107 @@
    "type": "movie",
    "vote_average": 7.1,
    "vote_count": 364
+  },
+  "movie:22021": {
+   "backdrop_path": "/jztSvvmOUEP8V85xadxMRoE5e2O.jpg",
+   "budget": 500000,
+   "cast": [
+    {
+     "c": "Coffy",
+     "n": "Pam Grier"
+    },
+    {
+     "c": "King George",
+     "n": "Robert DoQui"
+    },
+    {
+     "c": "Omar",
+     "n": "Sid Haig"
+    },
+    {
+     "c": "Howard Brunswick",
+     "n": "Booker Bradshaw"
+    },
+    {
+     "c": "Carter Brown",
+     "n": "William Elliott"
+    },
+    {
+     "c": "Arturo Vitroni",
+     "n": "Allan Arbus"
+    },
+    {
+     "c": "Meg",
+     "n": "Linda Haynes"
+    },
+    {
+     "c": "McHenry",
+     "n": "Barry Cahill"
+    },
+    {
+     "c": "Nick",
+     "n": "Lee de Broux"
+    },
+    {
+     "c": "Ramos",
+     "n": "Ruben Moreno"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jack Hill"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 22021,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After her younger sister gets involved in drugs and is severely injured by contaminated heroin, a nurse sets out on a mission of vengeance and vigilante justice, killing drug dealers, pimps, and mobsters who cross her path.",
+   "popularity": 2.3976,
+   "poster_path": "/sN00Cvlahl6JLC2TAUBL0jZOqD3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1973-06-13",
+   "revenue": 4000000,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Baddest One-Chick Hit-Squad that ever hit town!",
+   "title": "Coffy",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.574,
+   "vote_count": 330
   },
   "movie:2321": {
    "backdrop_path": "/aQKLuDKzaRBKpQVDsgbRT8C2SYJ.jpg",
@@ -4512,6 +5158,263 @@
    "vote_average": 6.61,
    "vote_count": 492
   },
+  "movie:532321": {
+   "backdrop_path": "/t9ifVuOtSZBvtieF9L83pnHnOcC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Subaru Natsuki (voice)",
+     "n": "Yusuke Kobayashi"
+    },
+    {
+     "c": "Emilia (voice)",
+     "n": "Rie Takahashi"
+    },
+    {
+     "c": "Puck (voice)",
+     "n": "Yumi Uchiyama"
+    },
+    {
+     "c": "Rem (voice)",
+     "n": "Inori Minase"
+    },
+    {
+     "c": "Ram (voice)",
+     "n": "Rie Murakawa"
+    },
+    {
+     "c": "Beatrice (voice)",
+     "n": "Satomi Arai"
+    },
+    {
+     "c": "Roswaal L. Mathers (voice)",
+     "n": "Takehito Koyasu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Tatsuya Koyanagi",
+    "Masaharu Watanabe"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 532321,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Subaru finally gets to take a breather, but he does not waste any time as he prepares for a date with his beloved Emilia. He scouts the nearby village for the right dating spot, and with the help of the village children, he finds a wonderful location. With that, he is well prepared for his date! Unfortunately for Subaru, cold weather suddenly sweeps across Roswaal's mansion on his important day, leaving him with no choice but to postpone the date. Overnight, it becomes even colder and unbearable. Subaru must get to the bottom of this because, at this rate, his date will be the least of his worries.",
+   "popularity": 2.681,
+   "poster_path": "/y7XwmyE5ue9hjk65fEWpO2hGU2B.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-10-06",
+   "revenue": 1725339,
+   "runtime": 61,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Re:ZERO -Starting Life in Another World- Memory Snow",
+   "trailer": {
+    "key": "pEWjuo3WEIk",
+    "name": "Re: Zero -Starting Life in Another World- Memory Snow - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.353,
+   "vote_count": 330
+  },
+  "movie:542921": {
+   "backdrop_path": "/ab2Yq3VoDMy0MoamCUcJq3OIzZY.jpg",
+   "budget": 4735684,
+   "cast": [
+    {
+     "c": "Miguel",
+     "n": "Karra Elejalde"
+    },
+    {
+     "c": "Millán-Astray",
+     "n": "Eduard Fernández"
+    },
+    {
+     "c": "Franco",
+     "n": "Santi Prego"
+    },
+    {
+     "c": "Ana",
+     "n": "Nathalie Poza"
+    },
+    {
+     "c": "Nicolás",
+     "n": "Luis Bermejo"
+    },
+    {
+     "c": "Cabanellas",
+     "n": "Tito Valverde"
+    },
+    {
+     "c": "María",
+     "n": "Patricia López Arnaiz"
+    },
+    {
+     "c": "Felisa",
+     "n": "Inma Cuevas"
+    },
+    {
+     "c": "Salvador",
+     "n": "Carlos Serrano-Clark"
+    },
+    {
+     "c": "Atilano",
+     "n": "Luis Zahera"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "7",
+   "date_kind": "release",
+   "director": [
+    "Alejandro Amenábar"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "id": 542921,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Salamanca, Spain, 1936. In the early days of the military rebellion that began the Spanish Civil War (1936-39), writer Miguel de Unamuno supports the uprising in the hope that the prevailing political chaos will end. But when the confrontation becomes bloody, Unamuno must question his initial position.",
+   "popularity": 1.8484,
+   "poster_path": "/pbuMcrQBXngZS7wMOTKRCmQAjCN.jpg",
+   "production_countries": [
+    "AR",
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-09-27",
+   "revenue": 12277353,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Sometimes silence is the worst lie",
+   "title": "While at War",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.049,
+   "vote_count": 314
+  },
   "movie:566221": {
    "backdrop_path": "/b8LjR8NjRjrWs6uIfGfrDn0OeI6.jpg",
    "budget": 0,
@@ -4617,6 +5520,174 @@
    "type": "movie",
    "vote_average": 7.7,
    "vote_count": 391
+  },
+  "movie:574321": {
+   "backdrop_path": "/gKs2sjPNlk72CiWjFf1XTbpZLNR.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Michel Farange",
+     "n": "Denis Ménochet"
+    },
+    {
+     "c": "Alice Farange, Michel's wife",
+     "n": "Laure Calamy"
+    },
+    {
+     "c": "Joseph Bonnefille, isolated farmer",
+     "n": "Damien Bonnard"
+    },
+    {
+     "c": "Marion, young lover",
+     "n": "Nadia Tereszkiewicz"
+    },
+    {
+     "c": "Gendarme Cédric Vigier",
+     "n": "Bastien Bouillon"
+    },
+    {
+     "c": "Evelyne Ducat",
+     "n": "Valeria Bruni Tedeschi"
+    },
+    {
+     "c": "Madame Calvet",
+     "n": "Jenny Bellay"
+    },
+    {
+     "c": "Alice's father",
+     "n": "Fred Ulysse"
+    },
+    {
+     "c": "Guillaume Ducat",
+     "n": "Roland Plantin"
+    },
+    {
+     "c": "Cooperative seller",
+     "n": "Colin Niel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Dominik Moll"
+   ],
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 574321,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Following the disappearance of the glamorous and secretive Evelyne Ducat during a blizzard in the highlands of southern France, the lives of five people inextricably linked to Evelyne are brought together to devastating effect as the local police investigate the case.",
+   "popularity": 1.2308,
+   "poster_path": "/zdAS6PT1AZIL7s1q9xTkOMDjU5z.jpg",
+   "production_countries": [
+    "FR",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Cohen Media Amazon Channel"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/89EaG6G6QpQnxfquTLSPNlpRhF8.png",
+     "name": "Cohen Media Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-12-04",
+   "revenue": 878668,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Only the Animals",
+   "trailer": {
+    "key": "5HYJ6CjOzi8",
+    "name": "ONLY THE ANIMALS | Exclusively on Curzon Home Cinema 29 May",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.696,
+   "vote_count": 340
   },
   "movie:588921": {
    "backdrop_path": "/v4NDRjYO3HYj8nt321BEZB65tWl.jpg",
@@ -4866,6 +5937,411 @@
    "vote_average": 6.0,
    "vote_count": 478
   },
+  "movie:720321": {
+   "backdrop_path": "/v2oPRCnWADeQhEAAUKD7DfMdScP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maya",
+     "n": "Jennifer Hudson"
+    },
+    {
+     "c": "Tess",
+     "n": "Milla Jovovich"
+    },
+    {
+     "c": "Zora",
+     "n": "Quvenzhané Wallis"
+    },
+    {
+     "c": "Darius",
+     "n": "Common"
+    },
+    {
+     "c": "Lucas",
+     "n": "Sam Worthington"
+    },
+    {
+     "c": "Micah",
+     "n": "Raúl Castillo"
+    },
+    {
+     "c": "Man",
+     "n": "James Saito"
+    },
+    {
+     "c": "Mike",
+     "n": "Dan Martin"
+    },
+    {
+     "c": "The Man",
+     "n": "James Saito"
+    },
+    {
+     "c": "Lady (uncredited)",
+     "n": "Sonya Giddings"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Stefon Bristol"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 720321,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Air-supply is scarce in the near future, forcing a mother and daughter to fight for survival when two strangers arrive desperate for an oxygenated haven.",
+   "popularity": 2.3765,
+   "poster_path": "/wTW2t8ocWDlHns8I7vQxuqkyK58.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-04-04",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Time is running out.",
+   "title": "Breathe",
+   "trailer": {
+    "key": "JENDBXIfWWM",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 310
+  },
+  "movie:77221": {
+   "backdrop_path": "/krkiarKAcnw9dSFpxf9qfJWSuu3.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Sultan Amar",
+     "n": "Mark Strong"
+    },
+    {
+     "c": "Emir Nesib",
+     "n": "Antonio Banderas"
+    },
+    {
+     "c": "Leyla",
+     "n": "Freida Pinto"
+    },
+    {
+     "c": "Auda",
+     "n": "Tahar Rahim"
+    },
+    {
+     "c": "Ali",
+     "n": "Riz Ahmed"
+    },
+    {
+     "c": "Sheikh of Bani Sirri",
+     "n": "Lotfi Dziri"
+    },
+    {
+     "c": "Aicha",
+     "n": "Liya Kebede"
+    },
+    {
+     "c": "Thurkettle",
+     "n": "Corey Johnson"
+    },
+    {
+     "c": "Saleh",
+     "n": "Akin Gazi"
+    },
+    {
+     "c": "Hassan Dakhil",
+     "n": "Ériq Ebouaney"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jean-Jacques Annaud"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama"
+   ],
+   "id": 77221,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On the Arabian Peninsula in the 1930s, two warring leaders come face to face. The victorious Nesib, Emir of Hobeika, lays down his peace terms to rival Amar, Sultan of Salmaah. The two men agree that neither can lay claim to the area of no man’s land between them called The Yellow Belt. In return, Nesib adopts Amar’s two boys Saleeh and Auda as a guarantee against invasion. Twelve years later, Saleeh and Auda have grown into young men. Saleeh, the warrior, itches to escape his gilded cage and return to his father’s land. Auda cares only for books and the pursuit of knowledge. One day, their adopted father Nesib is visited by an American from Texas. He tells the Emir that his land is blessed with oil and promises him riches beyond his wildest imagination. Nesib imagines a realm of infinite possibility, a kingdom with roads, schools and hospitals all paid for by the black gold beneath the barren sand. There is only one problem. The precious oil is located in the Yellow Belt.",
+   "popularity": 1.9794,
+   "poster_path": "/9ikn974ObBFOnIre7JE4tDwQnGd.jpg",
+   "production_countries": [
+    "FR",
+    "IT",
+    "QA",
+    "TN"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-12-21",
+   "revenue": 5446000,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Black Gold",
+   "trailer": {
+    "key": "4oDVE5nSVsk",
+    "name": "Black Gold - Trailer - Official Warner Bros. UK",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 325
+  },
+  "movie:774021": {
+   "backdrop_path": "/tFBVXnqmsmoSFR3rbltTfdGIMgV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carly",
+     "n": "Carly Pope"
+    },
+    {
+     "c": "Angela",
+     "n": "Nathalie Boltt"
+    },
+    {
+     "c": "Martin",
+     "n": "Chris William Martin"
+    },
+    {
+     "c": "Michael",
+     "n": "Michael J. Rogers"
+    },
+    {
+     "c": "Sam",
+     "n": "Kandyse McClure"
+    },
+    {
+     "c": "Daniel",
+     "n": "Terry Chen"
+    },
+    {
+     "c": "Officer Derry",
+     "n": "Jason Tremblay"
+    },
+    {
+     "c": "Demon",
+     "n": "Quinton Boisclair"
+    },
+    {
+     "c": "Cashier",
+     "n": "Andrea Agur"
+    },
+    {
+     "c": "Customer",
+     "n": "Mavourneen Varcoe-Ryan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Neill Blomkamp"
+   ],
+   "genres": [
+    "Drama",
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 774021,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young woman unleashes terrifying demons when supernatural forces at the root of a decades-old rift between mother and daughter are ruthlessly revealed.",
+   "popularity": 1.5649,
+   "poster_path": "/tcKtX4XWZq6vhGwhmmB8thdaabV.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-07-29",
+   "revenue": 68581,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "It's not a dream, it's not reality.",
+   "title": "Demonic",
+   "trailer": {
+    "key": "dUUtdDnxRuY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.8,
+   "vote_count": 313
+  },
   "movie:930921": {
    "backdrop_path": "/pJyGcGcoIEsEXrWxUjoEaUOpRyG.jpg",
    "budget": 0,
@@ -4955,6 +6431,114 @@
    "type": "movie",
    "vote_average": 6.869,
    "vote_count": 367
+  },
+  "movie:9821": {
+   "backdrop_path": "/wq41s88t8TUNDWWhpZQ65P4OhP8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gwen Dillon",
+     "n": "Sharon Stone"
+    },
+    {
+     "c": "Maxwell \"Max\" Kane",
+     "n": "Elden Henson"
+    },
+    {
+     "c": "Kevin \"Freak\" Dillon",
+     "n": "Kieran Culkin"
+    },
+    {
+     "c": "Gram",
+     "n": "Gena Rowlands"
+    },
+    {
+     "c": "Grim",
+     "n": "Harry Dean Stanton"
+    },
+    {
+     "c": "Iggy",
+     "n": "Meat Loaf"
+    },
+    {
+     "c": "Mrs. Addison",
+     "n": "Jenifer Lewis"
+    },
+    {
+     "c": "Doghouse Boy #1",
+     "n": "Dov Tiefenbach"
+    },
+    {
+     "c": "Doghouse Boy #2",
+     "n": "Michael Colton"
+    },
+    {
+     "c": "Doghouse Boy #3",
+     "n": "Daniel Lee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Peter Chelsom"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 9821,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Kevin, an intelligent guy helps out Maxwell to improve his reading skills. In return, Kevin wants Maxwell to take him out places since he is not authorized to go out. Being the social outcasts of the town, Kevin and Maxwell come to realize that they are similar to each other and accept that they are \"freaks\" and nothing will stop them.",
+   "popularity": 1.5313,
+   "poster_path": "/eHcuTZwmY4VAJm7kfbZn7qDAjYs.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1998-10-30",
+   "revenue": 2652246,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The quest for friendship is the noblest cause of all",
+   "title": "The Mighty",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 308
   },
   "movie:996821": {
    "backdrop_path": "/lsOdEAkwQ0TcP71HocJi8WUftmp.jpg",

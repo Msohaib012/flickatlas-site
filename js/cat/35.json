@@ -1,6 +1,6 @@
 {
  "bucket": "35",
- "count": 47,
+ "count": 53,
  "titles": {
   "movie:1001835": {
    "backdrop_path": "/3xvdNyZ9WsVJpyeGhm85fukeZz4.jpg",
@@ -494,6 +494,351 @@
    "type": "movie",
    "vote_average": 6.795,
    "vote_count": 429
+  },
+  "movie:121835": {
+   "backdrop_path": "/vjvrgGvCvS6crRg5bFcyoubQnZX.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Lore",
+     "n": "Saskia Rosendahl"
+    },
+    {
+     "c": "Thomas",
+     "n": "Kai-Peter Malina"
+    },
+    {
+     "c": "Liesel",
+     "n": "Nele Trebs"
+    },
+    {
+     "c": "Mom",
+     "n": "Ursina Lardi"
+    },
+    {
+     "c": "Dad",
+     "n": "Hans-Jochen Wagner"
+    },
+    {
+     "c": "Jürgen",
+     "n": "Mika Seidel"
+    },
+    {
+     "c": "Günter",
+     "n": "André Frid"
+    },
+    {
+     "c": "Grandma",
+     "n": "Eva-Maria Hagen"
+    },
+    {
+     "c": "Young German Soldier",
+     "n": "Mike Veidner"
+    },
+    {
+     "c": "Baby Peter",
+     "n": "Nick Holaschke"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Cate Shortland"
+   ],
+   "genres": [
+    "Drama",
+    "War",
+    "Thriller"
+   ],
+   "id": 121835,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "DE",
+    "AU"
+   ],
+   "original_language": "de",
+   "overview": "After being abandoned by their Nazi parents at the end of World War II, five German siblings embark on a harrowing journey across their war-torn country. Led by the eldest, 14 year-old Lore, the children are forced to confront their parents’ actions and the reality of a new world.",
+   "popularity": 1.5527,
+   "poster_path": "/1yWoAyREEPDfyVnOgHUVfLVitmZ.jpg",
+   "production_countries": [
+    "AU",
+    "DE",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Brew"
+    },
+    {
+     "name": "OVID"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Metrograph"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mwGw3KrIZxnACdeojp2a5cO41hi.png",
+     "name": "Brew",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/g4C5BqC8EC0xcBY57C4Mnm5Ht8k.png",
+     "name": "OVID",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/az2JJqmANqUA48IPn7Iz2E7MchD.png",
+     "name": "Metrograph",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-09-20",
+   "revenue": 970000,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "en",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "When your life is a lie who can you trust?",
+   "title": "Lore",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.727,
+   "vote_count": 328
+  },
+  "movie:12235": {
+   "backdrop_path": "/oPQqAgvVLpvmQOalLHxXlRQtHYY.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Teddy Barnes",
+     "n": "Glenn Close"
+    },
+    {
+     "c": "Jack Forrester",
+     "n": "Jeff Bridges"
+    },
+    {
+     "c": "Thomas Krasny",
+     "n": "Peter Coyote"
+    },
+    {
+     "c": "Frank Martin",
+     "n": "Lance Henriksen"
+    },
+    {
+     "c": "Sam Ransom",
+     "n": "Robert Loggia"
+    },
+    {
+     "c": "Dan Hislan",
+     "n": "Michael Dorn"
+    },
+    {
+     "c": "Page Forrester",
+     "n": "Maria Mayenzet"
+    },
+    {
+     "c": "Greg Arnold",
+     "n": "William Allen Young"
+    },
+    {
+     "c": "Dr. Goldman",
+     "n": "Ben Hammer"
+    },
+    {
+     "c": "Andrew Hardesty",
+     "n": "James Karen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Richard Marquand"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 12235,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After a wealthy heiress is murdered in her beach house, her devastated husband becomes the prime suspect. He hires a lawyer who hasn’t taken a criminal case in years, and as they work together, a complicated romance develops amidst the trial.",
+   "popularity": 2.2271,
+   "poster_path": "/wHYjo3NLc293ZEXVSGhRIUr3Iqi.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1985-10-04",
+   "revenue": 40491165,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "When a murder case is this shocking, which do you trust? Your emotions or your evidence?",
+   "title": "Jagged Edge",
+   "trailer": {
+    "key": "ZnQa0AI10ic",
+    "name": "JAGGED EDGE Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.263,
+   "vote_count": 312
   },
   "movie:12535": {
    "backdrop_path": "/uZK6kGcO2RRteHoEgkpH4Mwa3lf.jpg",
@@ -1065,6 +1410,155 @@
    "type": "movie",
    "vote_average": 5.837,
    "vote_count": 378
+  },
+  "movie:14135": {
+   "backdrop_path": "/ad6tCgBgKieGjIde9RasliPlCfY.jpg",
+   "budget": 750000,
+   "cast": [
+    {
+     "c": "Bubby",
+     "n": "Nicholas Hope"
+    },
+    {
+     "c": "Pop",
+     "n": "Ralph Cotterill"
+    },
+    {
+     "c": "Mum",
+     "n": "Claire Benito"
+    },
+    {
+     "c": "Yobbo",
+     "n": "Syd Brisbane"
+    },
+    {
+     "c": "Robbed Woman",
+     "n": "Ullie Birvé"
+    },
+    {
+     "c": "Cherie the Salvo",
+     "n": "Natalie Carr"
+    },
+    {
+     "c": "Woman in Mercedes",
+     "n": "Celine O'Leary"
+    },
+    {
+     "c": "Angel",
+     "n": "Carmel Johnson"
+    },
+    {
+     "c": "Salesman",
+     "n": "Grant Piro"
+    },
+    {
+     "c": "Fondled Salvo",
+     "n": "Audine Leith"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Rolf de Heer"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 14135,
+   "industry": "world",
+   "origin_country": [
+    "IT",
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "Bubby has spent thirty years trapped in the same small room, tricked by his mother. One day, he manages to escape and, deranged and naive in equal measures, his adventure into a modern and nihilistic life begins.",
+   "popularity": 1.9054,
+   "poster_path": "/Ag1jvBqJmi0ND2s0f7T8y56e4oQ.jpg",
+   "production_countries": [
+    "AU",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Midnight Pulp"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/c1dWUx3AwvoZ13meOTQSDEBonZD.png",
+     "name": "Midnight Pulp",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1993-09-01",
+   "revenue": 0,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "All he needs is love.",
+   "title": "Bad Boy Bubby",
+   "trailer": {
+    "key": "YXZ4u2ZVWOc",
+    "name": "Bad Boy Bubby Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.917,
+   "vote_count": 330
   },
   "movie:1473635": {
    "backdrop_path": "/pBeB38aB3FfzPqCrSoxZpvLHxjt.jpg",
@@ -3575,6 +4069,408 @@
    "type": "movie",
    "vote_average": 6.981,
    "vote_count": 467
+  },
+  "movie:605735": {
+   "backdrop_path": "/4y8hoQAveC7dVwAAsJJ78Y89lh9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Antoine Mercier",
+     "n": "Franck Dubosc"
+    },
+    {
+     "c": "Isabelle Mercier",
+     "n": "Aure Atika"
+    },
+    {
+     "c": "Julia",
+     "n": "Alice David"
+    },
+    {
+     "c": "Thierry Di Caprio",
+     "n": "Alexis Michalik"
+    },
+    {
+     "c": "Audrey",
+     "n": "Héléna Noguerra"
+    },
+    {
+     "c": "Paul, Audrey's husband",
+     "n": "Marc Bodnar"
+    },
+    {
+     "c": "Arthur Mercier, the eldest",
+     "n": "Swan Joulin"
+    },
+    {
+     "c": "Chloé Mercier, the youngest",
+     "n": "Violette Guillon"
+    },
+    {
+     "c": "Maxime Mercier, the youngest",
+     "n": "Ilan Debrabant"
+    },
+    {
+     "c": "Jojo Mercier, the baby",
+     "n": "Evan Paturel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "8",
+   "date_kind": "release",
+   "director": [
+    "Ludovic Bernard"
+   ],
+   "genres": [
+    "Family",
+    "Comedy"
+   ],
+   "id": 605735,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Antoine is the Head of HR of a big company. Managing people is his thing, so when his overwhelmed wife suddenly decides to go on holiday and leave him with the responsibility of the house and their four kids, he knows it will be a piece of cake for him. But Antoine has drastically underestimated the mess that four mischievous kids can cause...",
+   "popularity": 1.6179,
+   "poster_path": "/ih0727BoT24cg87aOVfppZyqzNQ.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-02-19",
+   "revenue": 9305412,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "10 Days with Dad",
+   "trailer": {
+    "key": "-MYq-fkbSm8",
+    "name": "10 days with dad US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.955,
+   "vote_count": 330
+  },
+  "movie:69335": {
+   "backdrop_path": "/3Os2EXMHcV9EkO0PWNIvT4phksL.jpg",
+   "budget": 536279,
+   "cast": [
+    {
+     "c": "Raimundo Nonato / Alecrim",
+     "n": "João Miguel"
+    },
+    {
+     "c": "Iria",
+     "n": "Fabiula Nascimento"
+    },
+    {
+     "c": "Bujiú",
+     "n": "Babu Santana"
+    },
+    {
+     "c": "Giovanni",
+     "n": "Carlo Briani"
+    },
+    {
+     "c": "Zulmiro",
+     "n": "Zeca Cenovicz"
+    },
+    {
+     "c": "Vagnão",
+     "n": "Marco Zenni"
+    },
+    {
+     "c": "Valtão",
+     "n": "Marcel Szymanski"
+    },
+    {
+     "c": "Boquenga",
+     "n": "Sidy Correa"
+    },
+    {
+     "c": "Lino",
+     "n": "Alexander Sil"
+    },
+    {
+     "c": "Magrão",
+     "n": "Rodrigo Ferrarini"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Marcos Jorge"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 69335,
+   "industry": "world",
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "In a dog-eat-dog world, Raimundo Nonato has found an alternative way to move ahead: he cooks. No matter what social strata this deceptively innocent young man inhabits, he hones his skills and sharpens his knives—and then he falls in love. Jorge's nimble comic fable provides a smartly constructed gastronomic allegory for ambition and survival.",
+   "popularity": 1.0751,
+   "poster_path": "/mo9utQQ9nurl2ELWUzS4e3WHGDm.jpg",
+   "production_countries": [
+    "BR",
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2008-04-11",
+   "revenue": 0,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "An adult fable on power, sex and cooking",
+   "title": "Estômago: A Gastronomic Story",
+   "trailer": {
+    "key": "Awq6P5Bjvgg",
+    "name": "Official Trailer in Portuguese",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.888,
+   "vote_count": 313
+  },
+  "movie:73935": {
+   "backdrop_path": "/jRfYRzwE4eX1qcnMSTagL1xlxGS.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Goody",
+     "n": "Alicia Silverstone"
+    },
+    {
+     "c": "Stacy",
+     "n": "Krysten Ritter"
+    },
+    {
+     "c": "Joey",
+     "n": "Dan Stevens"
+    },
+    {
+     "c": "Danny",
+     "n": "Richard Lewis"
+    },
+    {
+     "c": "Dr. Van Helsing",
+     "n": "Wallace Shawn"
+    },
+    {
+     "c": "Vadim",
+     "n": "Justin Kirk"
+    },
+    {
+     "c": "Vlad Tepish",
+     "n": "Malcolm McDowell"
+    },
+    {
+     "c": "Cisserus",
+     "n": "Sigourney Weaver"
+    },
+    {
+     "c": "Angela",
+     "n": "Marilu Henner"
+    },
+    {
+     "c": "Mrs. Van Helsing",
+     "n": "Kristen Johnston"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Amy Heckerling"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Horror"
+   ],
+   "id": 73935,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The modern-day story focuses on two beautiful young vampires who are living the good nightlife in New York until love enters the picture and each has to make a choice that will jeopardize their immortality.",
+   "popularity": 2.2305,
+   "poster_path": "/43nUqYJMyqS9HbgD9XoKDvaz6AC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/adymMNlhhLlJl5xccRCrsh3OehD.png",
+     "name": "Starz Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/h25xjouKmiSmFiiqw0aDXbxGZo7.png",
+     "name": "Starz",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tKembbxL7cYdDvFK70xBecbN0G8.png",
+     "name": "Starz Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-08-25",
+   "revenue": 92748,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Nice girls suck.",
+   "title": "Vamps",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.329,
+   "vote_count": 313
   },
   "movie:764835": {
    "backdrop_path": "/qp8qKiP7Q7zK4z3LItwWMHfV9kJ.jpg",

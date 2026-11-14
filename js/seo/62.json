@@ -1,7 +1,71 @@
 {
  "bucket": "62",
- "count": 51,
+ "count": 61,
  "titles": {
+  "movie:1000862": {
+   "d": "The Good Teacher (2024): Drama/Thriller film. Story: Julien, a young teacher, is wrongfully accused of… See cast and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1SO3YnpeZB4kSBpv4IgT88dBiE8.jpg",
+   "industry": "world",
+   "k": "The Good Teacher, The Good Teacher movie, The Good Teacher cast, The Good Teacher story, The Good Teacher box office collection, The Good Teacher budget, The Good Teacher review, The Good Teacher rating, The Good Teacher release date, The Good Teacher trailer, The Good Teacher Drama, The Good Teacher Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "François Civil"
+     },
+     {
+      "@type": "Person",
+      "name": "Shaïn Boumedine"
+     },
+     {
+      "@type": "Person",
+      "name": "Toscane Duquesne"
+     },
+     {
+      "@type": "Person",
+      "name": "Mallory Wanecque"
+     },
+     {
+      "@type": "Person",
+      "name": "Bakary Kebe"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 326,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "The Good Teacher (2024): Drama/Thriller film. Story: Julien, a young teacher, is wrongfully accused of… See cast and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Teddy Lussi-Modeste"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1SO3YnpeZB4kSBpv4IgT88dBiE8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1000862",
+    "name": "The Good Teacher",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-03-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1000862"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Good Teacher (2024)</h1>\n<p class=\"ssr-lead\">Julien, a young teacher, is wrongfully accused of sexual misconduct by a teenage girl from his class. As he faces mounting pressures from the girl’s older brother and her classmates, the situation spirals out of control. Allegations spread, the entire school is thrown into turmoil, and the teacher has to fight to clear his name.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 March 2024</li><li>Runtime: 92 minutes</li><li>Director: Teddy Lussi-Modeste</li><li>Genres: Drama, Thriller</li><li>TMDB rating: 6.4/10 (326 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>François Civil as Julien</li><li>Shaïn Boumedine as Walid</li><li>Toscane Duquesne as Leslie</li><li>Mallory Wanecque as Océane</li><li>Bakary Kebe as Modibo</li><li>Marianne Ehouman as Roxana</li><li>Luna Ho Poumey as Erica</li><li>Emma Boumali as Sihem</li><li>Estevan Marchenoir as Theo</li><li>Atik Jawed as Mohamed-Amine</li></ul>\n</article>",
+   "t": "The Good Teacher (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
+  },
   "movie:10162": {
    "d": "Waking Ned (1999): Comedy film. Story: When a lottery winner dies of shock, his fellow… See cast, budget $3M, and TMDB rating 7.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/et3pBXfI1Q1fb7kLwZIoW7CYQgh.jpg",
@@ -192,6 +256,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>City Hall (1996)</h1>\n<p class=\"ssr-lead\">The accidental shooting of a boy in New York City leads to an investigation by the Deputy Mayor, and unexpectedly far-reaching consequences.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 February 1996</li><li>Runtime: 111 minutes</li><li>Director: Harold Becker</li><li>Genres: Drama, Thriller</li><li>Budget: $40M</li><li>TMDB rating: 6.0/10 (345 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Al Pacino as Mayor John Pappas</li><li>John Cusack as Kevin Calhoun</li><li>Bridget Fonda as Marybeth Cogan</li><li>Danny Aiello as Frank Anselmo</li><li>Martin Landau as Judge Walter Stern</li><li>David Paymer as Abe Goodman</li><li>Anthony Franciosa as Paul Zapatti</li><li>Lindsay Duncan as Sydney Pappas</li><li>Luna Lauren Vélez as Elaine Santos</li><li>Richard Schiff as Larry Schwartz</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "City Hall (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1996"
+  },
+  "movie:1154762": {
+   "d": "His Three Daughters (2024): Drama/Comedy film. Story: Emotions run high when three estranged sisters… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7QZCkr6hvQM0PDqsAOguUqOETNt.jpg",
+   "industry": "world",
+   "k": "His Three Daughters, His Three Daughters movie, His Three Daughters cast, His Three Daughters story, His Three Daughters box office collection, His Three Daughters budget, His Three Daughters review, His Three Daughters rating, His Three Daughters release date, His Three Daughters trailer, His Three Daughters Drama, His Three Daughters Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Carrie Coon"
+     },
+     {
+      "@type": "Person",
+      "name": "Natasha Lyonne"
+     },
+     {
+      "@type": "Person",
+      "name": "Elizabeth Olsen"
+     },
+     {
+      "@type": "Person",
+      "name": "Jay O. Sanders"
+     },
+     {
+      "@type": "Person",
+      "name": "Jovan Adepo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 329,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "His Three Daughters (2024): Drama/Comedy film. Story: Emotions run high when three estranged sisters… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Azazel Jacobs"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7QZCkr6hvQM0PDqsAOguUqOETNt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1154762",
+    "name": "His Three Daughters",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-09-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1154762"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>His Three Daughters (2024)</h1>\n<p class=\"ssr-lead\">Emotions run high when three estranged sisters reunite in a cramped New York City apartment to watch over their ailing father during his final days.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 September 2024</li><li>Runtime: 104 minutes</li><li>Director: Azazel Jacobs</li><li>Genres: Drama, Comedy</li><li>TMDB rating: 6.8/10 (329 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Carrie Coon as Katie</li><li>Natasha Lyonne as Rachel</li><li>Elizabeth Olsen as Christina</li><li>Jay O. Sanders as Vincent</li><li>Jovan Adepo as Benji</li><li>Rudy Galvan as Angel</li><li>Jose Febus as Victor</li><li>Randy Ramos Jr. as Parent</li><li>Jasmine Bracey as Nurse</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "His Three Daughters (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
   },
   "movie:1162": {
    "d": "The Miracle Worker (1962): Drama/History film. Story: The true story of the frightening, lonely world of… See cast, budget $500.0k, and TMDB rating 7.9/10.",
@@ -1157,6 +1285,70 @@
    "t": "Barbie Fairytopia: Magic of the Rainbow (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
   },
+  "movie:17962": {
+   "d": "After Life (1999): Fantasy/Drama film. Story: On a cold Monday morning, a group of counselors clock… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pXOsdvH4xuprxGmZMiCJsRAowi7.jpg",
+   "industry": "world",
+   "k": "After Life, After Life movie, After Life cast, After Life story, After Life box office collection, After Life budget, After Life review, After Life rating, After Life release date, After Life Fantasy, After Life Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Arata Iura"
+     },
+     {
+      "@type": "Person",
+      "name": "Erika Oda"
+     },
+     {
+      "@type": "Person",
+      "name": "Susumu Terajima"
+     },
+     {
+      "@type": "Person",
+      "name": "Takashi Naito"
+     },
+     {
+      "@type": "Person",
+      "name": "Kei Tani"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 309,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "After Life (1999): Fantasy/Drama film. Story: On a cold Monday morning, a group of counselors clock… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Hirokazu Kore-eda"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Fantasy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pXOsdvH4xuprxGmZMiCJsRAowi7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=17962",
+    "name": "After Life",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1999-04-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=17962"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>After Life (1999)</h1>\n<p class=\"ssr-lead\">On a cold Monday morning, a group of counselors clock in at an old-fashioned social services office. Their task is to interview the recently deceased, record their personal details, then, over the course of the week, assist them in choosing a single memory to keep for eternity.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 April 1999</li><li>Runtime: 118 minutes</li><li>Director: Hirokazu Kore-eda</li><li>Genres: Fantasy, Drama</li><li>TMDB rating: 7.2/10 (309 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Arata Iura as Takashi Mochizuki</li><li>Erika Oda as Shiori Satonaka</li><li>Susumu Terajima as Satoru Kawashima</li><li>Takashi Naito as Takuro Sugie</li><li>Kei Tani as Kennosuke Nakamura</li><li>Kyōko Kagawa as Kyoko Watanabe</li><li>Tōru Yuri as Gisuke Shoda</li><li>Yusuke Iseya as Yusuke Iseya</li><li>Sayaka Yoshino as Kana Yoshino</li><li>Kazuko Shirakawa as Nobuko Amano</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "After Life (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1999"
+  },
   "movie:183662": {
    "d": "Crush (2013): Thriller film. Story: A secret admirer's crush on a high school athlete… See cast, TMDB rating 6.0/10, and release date 13 March 2013.",
    "img": "https://image.tmdb.org/t/p/w780/dPGn9ONgU9vYuViebCoBdHGDbHc.jpg",
@@ -1480,6 +1672,134 @@
    "t": "A Matter of Life and Death (1946) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1946"
   },
+  "movie:31662": {
+   "d": "Affliction (1998): Crime/Drama film. Story: A small town policeman must investigate a suspicious… See cast, budget $6M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hNNlrvbqYqAPGRf4cCsrF3kBsM1.jpg",
+   "industry": "world",
+   "k": "Affliction, Affliction movie, Affliction cast, Affliction story, Affliction box office collection, Affliction budget, Affliction review, Affliction rating, Affliction release date, Affliction Crime, Affliction Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nick Nolte"
+     },
+     {
+      "@type": "Person",
+      "name": "Sissy Spacek"
+     },
+     {
+      "@type": "Person",
+      "name": "James Coburn"
+     },
+     {
+      "@type": "Person",
+      "name": "Willem Dafoe"
+     },
+     {
+      "@type": "Person",
+      "name": "Mary Beth Hurt"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 339,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Affliction (1998): Crime/Drama film. Story: A small town policeman must investigate a suspicious… See cast, budget $6M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Paul Schrader"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hNNlrvbqYqAPGRf4cCsrF3kBsM1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=31662",
+    "name": "Affliction",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1998-02-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=31662"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Affliction (1998)</h1>\n<p class=\"ssr-lead\">A small town policeman must investigate a suspicious hunting accident. The investigation and other events result in him slowly disintegrating mentally.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 February 1998</li><li>Runtime: 114 minutes</li><li>Director: Paul Schrader</li><li>Genres: Crime, Drama</li><li>Budget: $6M</li><li>TMDB rating: 6.3/10 (339 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nick Nolte as Wade Whitehouse</li><li>Sissy Spacek as Margie Fogg</li><li>James Coburn as Glen Whitehouse</li><li>Willem Dafoe as Rolfe Whitehouse</li><li>Mary Beth Hurt as Lillian</li><li>Jim True-Frost as Jack Hewitt</li><li>Marian Seldes as Alma Pittman</li><li>Holmes Osborne as Gordon LaRiviere</li><li>Brigid Tierney as Jill</li><li>Sean McCann as Evan Twombley</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Amazon Prime Video with Ads, Shout! Factory Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Affliction (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1998"
+  },
+  "movie:335462": {
+   "d": "Wolf Warrior (2015): Action/War film. Story: A Chinese special force soldier with extraordinary… See cast, budget $12M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zUmcuYkAbbl5YX4wabqdKLWSBlZ.jpg",
+   "industry": "world",
+   "k": "Wolf Warrior, Wolf Warrior movie, Wolf Warrior cast, Wolf Warrior story, Wolf Warrior box office collection, Wolf Warrior budget, Wolf Warrior review, Wolf Warrior rating, Wolf Warrior release date, Wolf Warrior trailer, Wolf Warrior Action, Wolf Warrior War, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Wu Jing"
+     },
+     {
+      "@type": "Person",
+      "name": "Scott Adkins"
+     },
+     {
+      "@type": "Person",
+      "name": "Yu Nan"
+     },
+     {
+      "@type": "Person",
+      "name": "Ni Dahong"
+     },
+     {
+      "@type": "Person",
+      "name": "Shi Zhaoqi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 307,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Wolf Warrior (2015): Action/War film. Story: A Chinese special force soldier with extraordinary… See cast, budget $12M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Wu Jing"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Action",
+     "War"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zUmcuYkAbbl5YX4wabqdKLWSBlZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=335462",
+    "name": "Wolf Warrior",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-04-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=335462"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wolf Warrior (2015)</h1>\n<p class=\"ssr-lead\">A Chinese special force soldier with extraordinary marksmanship is confronted by a group of deadly foreign mercenaries who are hired to assassinate him by a vicious drug lord.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 April 2015</li><li>Runtime: 90 minutes</li><li>Director: Wu Jing</li><li>Genres: Action, War</li><li>Budget: $12M</li><li>TMDB rating: 6.2/10 (307 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Wu Jing as Leng Feng</li><li>Scott Adkins as Tom Cat</li><li>Yu Nan as Long Xiaoyun</li><li>Ni Dahong as Min Deng</li><li>Shi Zhaoqi as Shi Qingsong</li><li>Zhou Xiaoou as Wu Ji</li><li>Kevin Lee as Crazy Bull</li><li>Ma Dongyan as Li Zhijun</li><li>Fang Zibin as Hostage</li><li>Wang Sen as 38Shi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Philo, Fandor, Fandor Amazon Channel, Hi-YAH, ViX Premium Amazon Channel, Amazon Prime Video with Ads, Midnight Pulp Amazon Channel, Hi-YAH Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Wolf Warrior (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:381262": {
    "d": "In Her Name (2016): Drama/Crime film. Story: In 1982, André Bamberski learns about the death of… See cast, TMDB rating 6.8/10, and release date 16 March 2016.",
    "img": "https://image.tmdb.org/t/p/w780/rSWv4coph16vM5yOaOFXE1Y6qgY.jpg",
@@ -1543,6 +1863,73 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>In Her Name (2016)</h1>\n<p class=\"ssr-lead\">In 1982, André Bamberski learns about the death of his 14 year-old daughter, Kalinka, while she was on vacation with her mother and stepfather in Germany. Convinced that Kalinka’s death was not an accident, Bamberski begins to investigate. A botched autopsy report raises his suspicions and leads him to accuse Kalinka’s stepfather, Dr Dieter Krombach, as the murderer. Unable to indict Krombach in Germany, Bamberski attempts to take the trial to France, where he will dedicate his life to Kalinka’s justice and the imprisonment of Krombach.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 March 2016</li><li>Runtime: 87 minutes</li><li>Director: Vincent Garenq</li><li>Genres: Drama, Crime</li><li>TMDB rating: 6.8/10 (341 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Daniel Auteuil as André Bamberski</li><li>Sebastian Koch as Doctor Dieter Krombach</li><li>Marie-Josée Croze as Dany</li><li>Christelle Cornil as Cécile</li><li>Lila-Rose Gilberti as Kalinka (6 years old)</li><li>Emma Besson as Kalinka (14 years old)</li><li>Christian Kmiotek as Robert</li><li>Serge Feuillard as Maître Gibault</li><li>Fred Personne as Father of André</li><li>Thérèse Roussel as Mother of André</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "In Her Name (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
+  },
+  "movie:38262": {
+   "d": "Department Store (1986): Comedy film. Story: A series of skits involving customers and store… See cast, TMDB rating 5.8/10, and release date 6 June 1986.",
+   "img": "https://image.tmdb.org/t/p/w780/dgg7NFl5wgmiNeNaF6cqV4ok0kQ.jpg",
+   "industry": "world",
+   "k": "Department Store, Department Store movie, Department Store cast, Department Store story, Department Store box office collection, Department Store budget, Department Store review, Department Store rating, Department Store release date, Department Store Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Enrico Montesano"
+     },
+     {
+      "@type": "Person",
+      "name": "Paolo Villaggio"
+     },
+     {
+      "@type": "Person",
+      "name": "Nino Manfredi"
+     },
+     {
+      "@type": "Person",
+      "name": "Lino Banfi"
+     },
+     {
+      "@type": "Person",
+      "name": "Renato Pozzetto"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 328,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Department Store (1986): Comedy film. Story: A series of skits involving customers and store… See cast, TMDB rating 5.8/10, and release date 6 June 1986.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Castellano"
+     },
+     {
+      "@type": "Person",
+      "name": "Pipolo"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dgg7NFl5wgmiNeNaF6cqV4ok0kQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=38262",
+    "name": "Department Store",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1986-06-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=38262"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Department Store (1986)</h1>\n<p class=\"ssr-lead\">A series of skits involving customers and store personnel from several departments of the big department store.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 June 1986</li><li>Runtime: 110 minutes</li><li>Director: Castellano, Pipolo</li><li>Genres: Comedy</li><li>TMDB rating: 5.8/10 (328 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Enrico Montesano as Evaristo Mazzetti, prima addetto alle pulizie e poi commesso del reparto sanitari</li><li>Paolo Villaggio as Detenuto Turati / Robot</li><li>Nino Manfredi as Marco Salviati, attore pubblicitario</li><li>Lino Banfi as Nicola Patecola da Cerignola, il mendicante</li><li>Renato Pozzetto as Fausto Valsecchi, addetto alle consegne</li><li>Christian De Sica as Antonio Borazzi, culturista e vincitore del buono premio di 500.000 lire</li><li>Massimo Boldi as Corrado Minozzi, capo della sorveglianza</li><li>Teo Teocoli as Armando Venturini detto &quot;Gratta-Gratta Amico Mio&quot;, ladro di biciclette</li><li>Gigi Reder as Detenuto Nardini / Piazzista del Robot</li><li>Leo Gullotta as Simoni, agente teatrale</li></ul>\n</article>",
+   "t": "Department Store (1986) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1986"
   },
   "movie:41662": {
    "d": "3 Women (1977): Drama film. Story: Two co-workers, one a vain woman and the other an… See cast, budget $1.5M, and TMDB rating 7.1/10.",
@@ -1798,6 +2185,133 @@
    "t": "Shimmer Lake (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
+  "movie:467062": {
+   "d": "Spielberg (2017): Documentary film. Story: A documentary on the life and career of one of the… See cast, TMDB rating 7.5/10, and release date 5 October 2017.",
+   "img": "https://image.tmdb.org/t/p/w780/fHM3ChEYaoAEcCCpRokQzN2DBYy.jpg",
+   "industry": "world",
+   "k": "Spielberg, Spielberg movie, Spielberg cast, Spielberg story, Spielberg box office collection, Spielberg budget, Spielberg review, Spielberg rating, Spielberg release date, Spielberg Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Steven Spielberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Martin Scorsese"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Dreyfuss"
+     },
+     {
+      "@type": "Person",
+      "name": "Francis Ford Coppola"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Hanks"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 317,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Spielberg (2017): Documentary film. Story: A documentary on the life and career of one of the… See cast, TMDB rating 7.5/10, and release date 5 October 2017.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Susan Lacy"
+     }
+    ],
+    "duration": "PT147M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fHM3ChEYaoAEcCCpRokQzN2DBYy.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=467062",
+    "name": "Spielberg",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-10-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=467062"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Spielberg (2017)</h1>\n<p class=\"ssr-lead\">A documentary on the life and career of one of the most influential film directors of all time, Steven Spielberg.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 October 2017</li><li>Runtime: 147 minutes</li><li>Director: Susan Lacy</li><li>Genres: Documentary</li><li>TMDB rating: 7.5/10 (317 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Steven Spielberg as Self</li><li>Martin Scorsese as Self</li><li>Richard Dreyfuss as Self</li><li>Francis Ford Coppola as Self</li><li>Tom Hanks as Self</li><li>J.J. Abrams as Self</li><li>Leonardo DiCaprio as Self</li><li>Cate Blanchett as Self</li><li>Drew Barrymore as Self</li><li>Daniel Craig as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Spielberg (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
+  "movie:468362": {
+   "d": "The Angel (2018): Action/Drama film. Story: True story of Ashraf Marwan, who was President… See cast, budget $12M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hrPM6KM36D0NhcEGL9t76tHG2XP.jpg",
+   "industry": "world",
+   "k": "The Angel, The Angel movie, The Angel cast, The Angel story, The Angel box office collection, The Angel budget, The Angel review, The Angel rating, The Angel release date, The Angel trailer, The Angel Action, The Angel Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Marwan Kenzari"
+     },
+     {
+      "@type": "Person",
+      "name": "Toby Kebbell"
+     },
+     {
+      "@type": "Person",
+      "name": "Hannah Ware"
+     },
+     {
+      "@type": "Person",
+      "name": "Waleed Zuaiter"
+     },
+     {
+      "@type": "Person",
+      "name": "Maisa Abd Elhadi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 338,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "The Angel (2018): Action/Drama film. Story: True story of Ashraf Marwan, who was President… See cast, budget $12M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ariel Vromen"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hrPM6KM36D0NhcEGL9t76tHG2XP.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=468362",
+    "name": "The Angel",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-05-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=468362"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Angel (2018)</h1>\n<p class=\"ssr-lead\">True story of Ashraf Marwan, who was President Nasser&#x27;s son-in-law and special adviser and confidant to his successor Anwar Sadat - while simultaneously Israeli Intelligence&#x27;s most precious asset of the 20th century. Based on NYT bestselling book &#x27;The Angel: The Egyptian Spy Who Saved Israel&#x27; by Uri Bar-Joseph.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 May 2018</li><li>Runtime: 114 minutes</li><li>Director: Ariel Vromen</li><li>Genres: Action, Drama, History, Thriller, War</li><li>Budget: $12M</li><li>TMDB rating: 6.5/10 (338 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Marwan Kenzari as Ashraf Marwan</li><li>Toby Kebbell as Danny Ben Aroya</li><li>Hannah Ware as Diana Davis</li><li>Waleed Zuaiter as Gamal Abdel Nasser</li><li>Maisa Abd Elhadi as Mona Marwan</li><li>Sasson Gabai as Anwar Sadat</li><li>Ori Pfeffer as Zvi Zamir</li><li>Slimane Dazi as Sami Sharaf</li><li>Sapir Azulay as Souad</li><li>Mali Levi as Natalie Ben Aroya</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Angel (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
   "movie:481762": {
    "d": "Neuilly sa mère, sa mère ! (2018): Comedy film. Story: In 2008, Sami Benboudaoud discovered the hell of… See cast and TMDB rating 5.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/bmEg1mKCTieMba1KGIXQbQ0TTpF.jpg",
@@ -1989,6 +2503,70 @@
    "t": "Rust Creek (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
+  "movie:73262": {
+   "d": "Hell (2011): Horror/Science Fiction film. Story: In 2016 the sun has turned the entire world into a… See cast and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hYJOPAcO60cSNaWqzE815PgdsTz.jpg",
+   "industry": "world",
+   "k": "Hell, Hell movie, Hell cast, Hell story, Hell box office collection, Hell budget, Hell review, Hell rating, Hell release date, Hell Horror, Hell Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hannah Herzsprung"
+     },
+     {
+      "@type": "Person",
+      "name": "Lars Eidinger"
+     },
+     {
+      "@type": "Person",
+      "name": "Stipe Erceg"
+     },
+     {
+      "@type": "Person",
+      "name": "Lisa Vicari"
+     },
+     {
+      "@type": "Person",
+      "name": "Angela Winkler"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 319,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Hell (2011): Horror/Science Fiction film. Story: In 2016 the sun has turned the entire world into a… See cast and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tim Fehlbaum"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hYJOPAcO60cSNaWqzE815PgdsTz.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=73262",
+    "name": "Hell",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-09-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=73262"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hell (2011)</h1>\n<p class=\"ssr-lead\">In 2016 the sun has turned the entire world into a scorched and barren wasteland. The humans who have survived are either resourceful or violent, and sometimes both. Marie, her little sister Leonie, and best friend Phillip, are in a car headed to the mountains - rumor has it there is water there. Along the way they meet Tom, a first-rate mechanic. But can they trust him? Fraught with deep distrust, the group is lured into an ambush where their real battle for survival begins.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 September 2011</li><li>Runtime: 89 minutes</li><li>Director: Tim Fehlbaum</li><li>Genres: Horror, Science Fiction, Thriller, Mystery</li><li>TMDB rating: 5.7/10 (319 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hannah Herzsprung as Marie</li><li>Lars Eidinger as Phillip</li><li>Stipe Erceg as Tom</li><li>Lisa Vicari as Leonie</li><li>Angela Winkler as Bäuerin Elisabeth</li><li>Yoann Blanc as Micha</li><li>Christoph Gaugler as Bauer Brückner</li><li>Ellen Schweiger as Oma</li><li>Luca Winkler as Jens</li><li>Tammo Winkler as Toni</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video, Sky Store, YouTube</li><li>Buy: Apple TV Store, Amazon Video, Sky Store, YouTube</li></ul>\n</article>",
+   "t": "Hell (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
   "movie:790462": {
    "d": "I.S.S. (2024): Science Fiction/Thriller film. Story: Tensions flare in the near future aboard the… See cast, budget $13.8M, and TMDB rating 5.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/uNVm7P02IDiYsi9lul0aJ0lROBL.jpg",
@@ -2116,6 +2694,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Marsh King&#x27;s Daughter (2023)</h1>\n<p class=\"ssr-lead\">Helena, a woman living a seemingly ordinary life, hides a dark secret—her father is the infamous &#x27;Marsh King&#x27;, the man who kept her and her mother captive in the wilderness for years. After a lifetime of trying to escape her past, Helena is forced to face her demons when her father unexpectedly escapes from prison.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 September 2023</li><li>Runtime: 109 minutes</li><li>Director: Neil Burger</li><li>Genres: Thriller, Crime, Mystery</li><li>TMDB rating: 6.4/10 (430 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Daisy Ridley as Helena</li><li>Ben Mendelsohn as Jacob</li><li>Garrett Hedlund as Stephen</li><li>Caren Pistorius as Beth</li><li>Brooklynn Prince as Young Helena</li><li>Joey Carson as Marigold</li><li>Yanna McIntosh as Agent Lorna Illing</li><li>Gil Birmingham as Clark Bekkum</li><li>Joshua Peace as ATV Driver</li><li>Pamela MacDonald as Mrs. Haver</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "The Marsh King's Daughter (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2023"
+  },
+  "movie:832262": {
+   "d": "Force of Nature: The Dry 2 (2024): Mystery/Thriller film. Story: When five women take part in a corporate hiking… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/13IumZY7wLHnKzqANfyPhYW7wxk.jpg",
+   "industry": "world",
+   "k": "Force of Nature: The Dry 2, Force of Nature: The Dry 2 movie, Force of Nature: The Dry 2 cast, Force of Nature: The Dry 2 story, Force of Nature: The Dry 2 box office collection, Force of Nature: The Dry 2 budget, Force of Nature: The Dry 2 review, Force of Nature: The Dry 2 rating, Force of Nature: The Dry 2 release date, Force of Nature: The Dry 2 trailer, Force of Nature: The Dry 2 Mystery, Force of Nature: The Dry 2 Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Eric Bana"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Torv"
+     },
+     {
+      "@type": "Person",
+      "name": "Deborra-Lee Furness"
+     },
+     {
+      "@type": "Person",
+      "name": "Robin McLeavy"
+     },
+     {
+      "@type": "Person",
+      "name": "Sisi Stringer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 306,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Force of Nature: The Dry 2 (2024): Mystery/Thriller film. Story: When five women take part in a corporate hiking… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Robert Connolly"
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "Mystery",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/13IumZY7wLHnKzqANfyPhYW7wxk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=832262",
+    "name": "Force of Nature: The Dry 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-02-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=832262"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Force of Nature: The Dry 2 (2024)</h1>\n<p class=\"ssr-lead\">When five women take part in a corporate hiking retreat and only four come out on the other side, Federal Agents Aaron Falk and Carmen Cooper head deep into the Victorian mountain ranges to investigate in the hopes of finding their whistle-blowing informant, Alice Russell, alive.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 February 2024</li><li>Runtime: 112 minutes</li><li>Director: Robert Connolly</li><li>Genres: Mystery, Thriller</li><li>TMDB rating: 6.3/10 (306 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eric Bana as Aaron Falk</li><li>Anna Torv as Alice</li><li>Deborra-Lee Furness as Jill Bailey</li><li>Robin McLeavy as Lauren</li><li>Sisi Stringer as Beth</li><li>Lucy Ansell as Bree</li><li>Jacqueline McKenzie as Carmen Cooper</li><li>Jeremy Lindsay Taylor as Erik Falk</li><li>Richard Roxburgh as Daniel Bailey</li><li>Tony Briggs as Ian Chase</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu, Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Sundance Now</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Force of Nature: The Dry 2 (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
   },
   "movie:881462": {
    "d": "Still Time (2023): Romance/Comedy film. Story: Dante accidentally kisses Alice and they get engaged. See cast and TMDB rating 6.7/10.",

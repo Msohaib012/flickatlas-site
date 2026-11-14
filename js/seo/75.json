@@ -1,6 +1,6 @@
 {
  "bucket": "75",
- "count": 38,
+ "count": 44,
  "titles": {
   "movie:10075": {
    "d": "Blood and Chocolate (2007): Drama/Fantasy film. Story: A young teenage werewolf is torn between honoring her… See cast, budget $15M, and TMDB rating 5.6/10.",
@@ -645,6 +645,69 @@
    "t": "Hoop Dreams (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1994"
   },
+  "movie:14475": {
+   "d": "Used Cars (1980): Comedy film. Story: When the owner of a struggling used car lot is… See cast, budget $8M, TMDB rating 6.4/10, and release date 11 July 1980.",
+   "img": "https://image.tmdb.org/t/p/w780/6zMevCRj7ybKCAqxAsZkiFreCQ9.jpg",
+   "industry": "world",
+   "k": "Used Cars, Used Cars movie, Used Cars cast, Used Cars story, Used Cars box office collection, Used Cars budget, Used Cars review, Used Cars rating, Used Cars release date, Used Cars Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kurt Russell"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Warden"
+     },
+     {
+      "@type": "Person",
+      "name": "Gerrit Graham"
+     },
+     {
+      "@type": "Person",
+      "name": "Frank McRae"
+     },
+     {
+      "@type": "Person",
+      "name": "Deborah Harmon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 314,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Used Cars (1980): Comedy film. Story: When the owner of a struggling used car lot is… See cast, budget $8M, TMDB rating 6.4/10, and release date 11 July 1980.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Robert Zemeckis"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6zMevCRj7ybKCAqxAsZkiFreCQ9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14475",
+    "name": "Used Cars",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1980-07-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14475"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Used Cars (1980)</h1>\n<p class=\"ssr-lead\">When the owner of a struggling used car lot is killed, it&#x27;s up to the lot&#x27;s hot-shot salesman to save the property from falling into the hands of the owner&#x27;s ruthless brother and used-car rival.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 July 1980</li><li>Runtime: 113 minutes</li><li>Director: Robert Zemeckis</li><li>Genres: Comedy</li><li>Budget: $8M</li><li>TMDB rating: 6.4/10 (314 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kurt Russell as Rudy Russo</li><li>Jack Warden as Roy L. Fuchs / Luke Fuchs</li><li>Gerrit Graham as Jeff</li><li>Frank McRae as Jim the Mechanic</li><li>Deborah Harmon as Barbara Fuchs</li><li>Joe Flaherty as Sam Slaton</li><li>David L. Lander as Freddie Paris</li><li>Michael McKean as Eddie Winslow</li><li>Michael Talbott as Mickey</li><li>Harry Northup as Carmine</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Used Cars (1980) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1980"
+  },
   "movie:14675": {
    "d": "The Awful Truth (1937): Comedy/Romance film. Story: Unfounded suspicions lead a married couple to begin… See cast, budget $600.0k, and TMDB rating 7.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/hkYHYp6IrVbDE39ffoGofTIsVj5.jpg",
@@ -708,6 +771,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Awful Truth (1937)</h1>\n<p class=\"ssr-lead\">Unfounded suspicions lead a married couple to begin divorce proceedings, whereupon they start undermining each other&#x27;s attempts to find new romance.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 October 1937</li><li>Runtime: 91 minutes</li><li>Director: Leo McCarey</li><li>Genres: Comedy, Romance</li><li>Budget: $600.0k</li><li>TMDB rating: 7.2/10 (380 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Irene Dunne as Lucy Warriner</li><li>Cary Grant as Jerry Warriner</li><li>Ralph Bellamy as Dan Leeson</li><li>Alexander D&#x27;Arcy as Armand Duvalle</li><li>Cecil Cunningham as Aunt Patsy</li><li>Molly Lamont as Barbara Vance</li><li>Esther Dale as Mrs. Leeson</li><li>Joyce Compton as Dixie Belle Lee</li><li>Robert Allen as Frank Randall</li><li>Robert Warwick as Mr. Vance</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "The Awful Truth (1937) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1937"
+  },
+  "movie:157375": {
+   "d": "The Lifeguard (2013): Drama/Comedy film. Story: Leigh, feeling unfulfilled, quits her reporter job in… See cast and TMDB rating 5.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wcjQx3qVZf5RpbCN9ycYjtLaZ7Y.jpg",
+   "industry": "world",
+   "k": "The Lifeguard, The Lifeguard movie, The Lifeguard cast, The Lifeguard story, The Lifeguard box office collection, The Lifeguard budget, The Lifeguard review, The Lifeguard rating, The Lifeguard release date, The Lifeguard Drama, The Lifeguard Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kristen Bell"
+     },
+     {
+      "@type": "Person",
+      "name": "Mamie Gummer"
+     },
+     {
+      "@type": "Person",
+      "name": "Martin Starr"
+     },
+     {
+      "@type": "Person",
+      "name": "Joshua Harto"
+     },
+     {
+      "@type": "Person",
+      "name": "Alex Shaffer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 308,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "The Lifeguard (2013): Drama/Comedy film. Story: Leigh, feeling unfulfilled, quits her reporter job in… See cast and TMDB rating 5.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Liz W. Garcia"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wcjQx3qVZf5RpbCN9ycYjtLaZ7Y.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=157375",
+    "name": "The Lifeguard",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-08-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=157375"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Lifeguard (2013)</h1>\n<p class=\"ssr-lead\">Leigh, feeling unfulfilled, quits her reporter job in New York and returns to the place she last felt happy: her childhood home in Connecticut. She takes a job as a lifeguard, regresses into adolescent behavior, and begins a dangerous relationship with a troubled teenager, leading to consequences for everyone involved.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 August 2013</li><li>Runtime: 98 minutes</li><li>Director: Liz W. Garcia</li><li>Genres: Drama, Comedy, Romance</li><li>TMDB rating: 5.5/10 (308 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kristen Bell as Leigh</li><li>Mamie Gummer as Mel</li><li>Martin Starr as Todd</li><li>Joshua Harto as John</li><li>Alex Shaffer as Matt</li><li>David Lambert as Little Jason</li><li>Amy Madigan as Justine</li><li>Adam LeFevre as Hans</li><li>John Finn as Big Jason</li><li>Paulie Litt as Lumpy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "The Lifeguard (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
   },
   "movie:1591675": {
    "d": "Look Back (2026): Drama film. Story: Popular, outgoing Fujino is celebrated by her… See cast, TMDB rating 8.0/10, and release date 11 September 2026.",
@@ -1288,6 +1415,70 @@
    "t": "Pokémon Heroes (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2002"
   },
+  "movie:434775": {
+   "d": "The Third Murder (2017): Drama/Mystery film. Story: A lawyer tasked with defending a robbery-and-murder… See cast and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kHejbCUiGHVVqIj2RmweEnVb6LJ.jpg",
+   "industry": "world",
+   "k": "The Third Murder, The Third Murder movie, The Third Murder cast, The Third Murder story, The Third Murder box office collection, The Third Murder budget, The Third Murder review, The Third Murder rating, The Third Murder release date, The Third Murder trailer, The Third Murder Drama, The Third Murder Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Masaharu Fukuyama"
+     },
+     {
+      "@type": "Person",
+      "name": "Koji Yakusho"
+     },
+     {
+      "@type": "Person",
+      "name": "Suzu Hirose"
+     },
+     {
+      "@type": "Person",
+      "name": "Shinnosuke Mitsushima"
+     },
+     {
+      "@type": "Person",
+      "name": "Mikako Ichikawa"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 319,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "The Third Murder (2017): Drama/Mystery film. Story: A lawyer tasked with defending a robbery-and-murder… See cast and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Hirokazu Kore-eda"
+     }
+    ],
+    "duration": "PT125M",
+    "genre": [
+     "Drama",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kHejbCUiGHVVqIj2RmweEnVb6LJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=434775",
+    "name": "The Third Murder",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-09-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=434775"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Third Murder (2017)</h1>\n<p class=\"ssr-lead\">A lawyer tasked with defending a robbery-and-murder suspect begins developing doubts about what truly happened.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 September 2017</li><li>Runtime: 125 minutes</li><li>Director: Hirokazu Kore-eda</li><li>Genres: Drama, Mystery, Crime</li><li>TMDB rating: 6.6/10 (319 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Masaharu Fukuyama as Tomoaki Shigemori</li><li>Koji Yakusho as Takashi Misumi</li><li>Suzu Hirose as Sakie Yamanaka</li><li>Shinnosuke Mitsushima as Teru Kawashima</li><li>Mikako Ichikawa as Itsuki Shinohara</li><li>Izumi Matsuoka as Akiko Hattori</li><li>Aju Makita as Yuka Shigemori</li><li>Tōru Shinagawa as Watanabe</li><li>Toshie Negishi as Landlady</li><li>Tsutomu Takahashi as Sakurai</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Film Movement Plus, Film Movement Plus Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Third Murder (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
   "movie:437375": {
    "d": "Looking Glass (2018): Thriller/Mystery film. Story: A psycho- sexual thriller following a couple that… See cast and TMDB rating 4.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/60GyN15XN4KVdn1x1e9jl6ElicG.jpg",
@@ -1480,6 +1671,133 @@
    "t": "TPB AFK: The Pirate Bay - Away from Keyboard (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
   },
+  "movie:514575": {
+   "d": "A Twelve-Year Night (2018): Drama/Crime film. Story: Uruguay, 1973. Having been crushed by the military… See cast and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cdGuUnVxlngUNjfl7APfZLrQiZx.jpg",
+   "industry": "world",
+   "k": "A Twelve-Year Night, A Twelve-Year Night movie, A Twelve-Year Night cast, A Twelve-Year Night story, A Twelve-Year Night box office collection, A Twelve-Year Night budget, A Twelve-Year Night review, A Twelve-Year Night rating, A Twelve-Year Night release date, A Twelve-Year Night Drama, A Twelve-Year Night Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Antonio de la Torre"
+     },
+     {
+      "@type": "Person",
+      "name": "Chino Darín"
+     },
+     {
+      "@type": "Person",
+      "name": "Alfonso Tort"
+     },
+     {
+      "@type": "Person",
+      "name": "César Troncoso"
+     },
+     {
+      "@type": "Person",
+      "name": "Soledad Villamil"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 314,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "A Twelve-Year Night (2018): Drama/Crime film. Story: Uruguay, 1973. Having been crushed by the military… See cast and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Álvaro Brechner"
+     }
+    ],
+    "duration": "PT122M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cdGuUnVxlngUNjfl7APfZLrQiZx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=514575",
+    "name": "A Twelve-Year Night",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-09-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=514575"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Twelve-Year Night (2018)</h1>\n<p class=\"ssr-lead\">Uruguay, 1973. Having been crushed by the military dictatorship, surviving members of the Tupamaro guerillas are imprisoned and tortured. They must find a way to endure the coming 12 years.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 September 2018</li><li>Runtime: 122 minutes</li><li>Director: Álvaro Brechner</li><li>Genres: Drama, Crime, History</li><li>TMDB rating: 7.3/10 (314 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Antonio de la Torre as José Mujica</li><li>Chino Darín as Mauricio Rosencof</li><li>Alfonso Tort as Eleuterio Fernández Huidobro</li><li>César Troncoso as Militar</li><li>Soledad Villamil as Psychiatrist</li><li>Sílvia Pérez Cruz as Ivette</li><li>Mirella Pascual as Lucy</li><li>Nidia Telles as Rosa</li><li>César Bordón as Sergeant Alzamora</li><li>Luciano Ciaglia as Gómez</li></ul>\n</article>",
+   "t": "A Twelve-Year Night (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
+  "movie:714375": {
+   "d": "Fatal Affair (2020): Thriller film. Story: After a brief encounter with David Hammond, an old… See cast, TMDB rating 5.7/10, and release date 16 July 2020.",
+   "img": "https://image.tmdb.org/t/p/w780/lMbUiOZh8wELqY63v3ou54yTvEG.jpg",
+   "industry": "world",
+   "k": "Fatal Affair, Fatal Affair movie, Fatal Affair cast, Fatal Affair story, Fatal Affair box office collection, Fatal Affair budget, Fatal Affair review, Fatal Affair rating, Fatal Affair release date, Fatal Affair trailer, Fatal Affair Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nia Long"
+     },
+     {
+      "@type": "Person",
+      "name": "Omar Epps"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephen Bishop"
+     },
+     {
+      "@type": "Person",
+      "name": "Aubrey Cleland"
+     },
+     {
+      "@type": "Person",
+      "name": "Maya Stojan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 319,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Fatal Affair (2020): Thriller film. Story: After a brief encounter with David Hammond, an old… See cast, TMDB rating 5.7/10, and release date 16 July 2020.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peter Sullivan"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lMbUiOZh8wELqY63v3ou54yTvEG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=714375",
+    "name": "Fatal Affair",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-07-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=714375"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fatal Affair (2020)</h1>\n<p class=\"ssr-lead\">After a brief encounter with David Hammond, an old college friend, successful lawyer Ellie Warren tries to mend her marriage with her husband Marcus. But she finds herself caught in a terrifying game of cat and mouse when the encounter escalates into an obsession that jeopardizes everyone she loves.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 July 2020</li><li>Runtime: 89 minutes</li><li>Director: Peter Sullivan</li><li>Genres: Thriller</li><li>TMDB rating: 5.7/10 (319 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nia Long as Ellie Warren</li><li>Omar Epps as David Hammond</li><li>Stephen Bishop as Marcus Warren</li><li>Aubrey Cleland as Brittany Warren</li><li>Maya Stojan as Courtney</li><li>KJ Smith as Deborah Hammond</li><li>Jason-Shane Scott as Travis</li><li>Carolyn Hennesy as Janice</li><li>Fredella Calloway as Dr. Leigh Beverly</li><li>Estelle as Linda</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Fatal Affair (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
   "movie:773975": {
    "d": "End of the Road (2022): Drama/Thriller film. Story: Recently widowed mom Brenda fights to protect her… See cast and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/5luJmy21N3bYCkjzRHsoZfvLtPP.jpg",
@@ -1543,6 +1861,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>End of the Road (2022)</h1>\n<p class=\"ssr-lead\">Recently widowed mom Brenda fights to protect her family during a harrowing road trip when a murder and a missing bag of cash plunge them into danger.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 September 2022</li><li>Runtime: 89 minutes</li><li>Director: Millicent Shelton</li><li>Genres: Drama, Thriller</li><li>TMDB rating: 5.9/10 (365 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Queen Latifah as Brenda Freeman</li><li>Ludacris as Reggie Beaumont</li><li>Mychala Lee as Kelly Freeman</li><li>Shaun Dixon as Cam Freeman</li><li>Beau Bridges as Capt. JD Hammers</li><li>Frances Lee McCain as Val Hammers</li><li>Keith Jardine as Mace</li><li>Jesse Luken as Harvey Ruck</li><li>Tabatha Shaun as Shelby (motel maid)</li><li>Jasper Keen as Passenger Dude</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "End of the Road (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:8075": {
+   "d": "Weekend (1967): Comedy film. Story: A supposedly idyllic weekend trip to the countryside… See cast, budget $250.0k, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/beRcdPSD4cYcmMilMpsdrChpNGt.jpg",
+   "industry": "world",
+   "k": "Weekend, Weekend movie, Weekend cast, Weekend story, Weekend box office collection, Weekend budget, Weekend review, Weekend rating, Weekend release date, Weekend trailer, Weekend Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mireille Darc"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean Yanne"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean-Pierre Kalfon"
+     },
+     {
+      "@type": "Person",
+      "name": "Yves Afonso"
+     },
+     {
+      "@type": "Person",
+      "name": "Yves Beneyton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 321,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Weekend (1967): Comedy film. Story: A supposedly idyllic weekend trip to the countryside… See cast, budget $250.0k, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jean-Luc Godard"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/beRcdPSD4cYcmMilMpsdrChpNGt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=8075",
+    "name": "Weekend",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1967-12-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=8075"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Weekend (1967)</h1>\n<p class=\"ssr-lead\">A supposedly idyllic weekend trip to the countryside turns into a never-ending nightmare of traffic jams, revolution, cannibalism and murder as French bourgeois society starts to collapse under the weight of its own consumer preoccupations.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 December 1967</li><li>Runtime: 104 minutes</li><li>Director: Jean-Luc Godard</li><li>Genres: Comedy</li><li>Budget: $250.0k</li><li>TMDB rating: 6.9/10 (321 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mireille Darc as Corinne Durand</li><li>Jean Yanne as Roland Durand</li><li>Jean-Pierre Kalfon as Le Chef du Front de Libération de la Seine et Oise</li><li>Yves Afonso as Gros Poucet (uncredited)</li><li>Yves Beneyton as Un Membre du FLSO (uncredited)</li><li>Juliet Berto as Une Activiste du FLSO / Jeune Bourgeoise Accidentée (uncredited)</li><li>Michèle Breton as Girl in the Woods (uncredited)</li><li>Michel Cournot as Man From Farmyard (uncredited)</li><li>Lex De Bruijn as Revolutionary (uncredited)</li><li>Omar Diop as Mon Frère Africain (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, HBO Max</li></ul>\n</article>",
+   "t": "Weekend (1967) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1967"
   },
   "movie:9275": {
    "d": "Death to Smoochy (2002): Comedy/Crime film. Story: Tells the story of Rainbow Randolph, the corrupt… See cast, budget $55M, and TMDB rating 5.9/10.",

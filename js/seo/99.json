@@ -1,6 +1,6 @@
 {
  "bucket": "99",
- "count": 35,
+ "count": 49,
  "titles": {
   "movie:10399": {
    "d": "Mansfield Park (1999): Romance/Drama film. Story: Fanny Price is sent to live with her wealthy… See cast, budget $11M, and TMDB rating 6.7/10.",
@@ -386,6 +386,133 @@
    "t": "The Wrong Girls (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:1235499": {
+   "d": "The Last Showgirl (2025): Drama film. Story: When the glittering Las Vegas revue she has headlined… See cast, budget $2M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sfhhJmKJBidavKSnCd8ZIMFOOup.jpg",
+   "industry": "world",
+   "k": "The Last Showgirl, The Last Showgirl movie, The Last Showgirl cast, The Last Showgirl story, The Last Showgirl box office collection, The Last Showgirl budget, The Last Showgirl review, The Last Showgirl rating, The Last Showgirl release date, The Last Showgirl trailer, The Last Showgirl Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Pamela Anderson"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamie Lee Curtis"
+     },
+     {
+      "@type": "Person",
+      "name": "Dave Bautista"
+     },
+     {
+      "@type": "Person",
+      "name": "Brenda Song"
+     },
+     {
+      "@type": "Person",
+      "name": "Kiernan Shipka"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 325,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "The Last Showgirl (2025): Drama film. Story: When the glittering Las Vegas revue she has headlined… See cast, budget $2M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gia Coppola"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sfhhJmKJBidavKSnCd8ZIMFOOup.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1235499",
+    "name": "The Last Showgirl",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-01-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1235499"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Last Showgirl (2025)</h1>\n<p class=\"ssr-lead\">When the glittering Las Vegas revue she has headlined for decades announces it will soon close, a glamorous showgirl must reconcile with the decisions she’s made and the community she has built as she plans her next act.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 January 2025</li><li>Runtime: 89 minutes</li><li>Director: Gia Coppola</li><li>Genres: Drama</li><li>Budget: $2M</li><li>TMDB rating: 6.4/10 (325 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pamela Anderson as Shelly</li><li>Jamie Lee Curtis as Annette</li><li>Dave Bautista as Eddie</li><li>Brenda Song as Mary-Anne</li><li>Kiernan Shipka as Jodie</li><li>Billie Lourd as Hannah</li><li>John Clofine as Poker Player</li><li>Jason Schwartzman as Director</li><li>Patrick Hilgart as Brad</li><li>Jesse Phillips as Wardrobe Dresser</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Last Showgirl (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:12499": {
+   "d": "Fathers' Day (1997): Comedy/Family film. Story: A woman cons two old boyfriends into searching for… See cast, budget $85M, and TMDB rating 5.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/r6OIUKbFs92aDjaMa25EPaX1RaA.jpg",
+   "industry": "world",
+   "k": "Fathers' Day, Fathers' Day movie, Fathers' Day cast, Fathers' Day story, Fathers' Day box office collection, Fathers' Day budget, Fathers' Day review, Fathers' Day rating, Fathers' Day release date, Fathers' Day Comedy, Fathers' Day Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Robin Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Billy Crystal"
+     },
+     {
+      "@type": "Person",
+      "name": "Julia Louis-Dreyfus"
+     },
+     {
+      "@type": "Person",
+      "name": "Nastassja Kinski"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlie Hofheimer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 322,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "Fathers' Day (1997): Comedy/Family film. Story: A woman cons two old boyfriends into searching for… See cast, budget $85M, and TMDB rating 5.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ivan Reitman"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Comedy",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/r6OIUKbFs92aDjaMa25EPaX1RaA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12499",
+    "name": "Fathers' Day",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1997-05-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12499"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fathers&#x27; Day (1997)</h1>\n<p class=\"ssr-lead\">A woman cons two old boyfriends into searching for her runaway son by convincing both that they are the boy&#x27;s father.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 May 1997</li><li>Runtime: 99 minutes</li><li>Director: Ivan Reitman</li><li>Genres: Comedy, Family</li><li>Budget: $85M</li><li>TMDB rating: 5.5/10 (322 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robin Williams as Dale Putley</li><li>Billy Crystal as Jack Lawrence</li><li>Julia Louis-Dreyfus as Carrie Lawrence</li><li>Nastassja Kinski as Collette Andrews</li><li>Charlie Hofheimer as Scott Andrews</li><li>Bruce Greenwood as Bob Andrews</li><li>Dennis Burkley as Calvin the Trucker</li><li>Haylie Johnson as Nikki Trainor</li><li>Charles Rocket as Russ Trainor</li><li>Patti D&#x27;Arbanville as Shirley Trainor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Fathers' Day (1997) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1997"
+  },
   "movie:12699": {
    "d": "Hellraiser: Hellworld (2005): Horror/Thriller film. Story: When five hardcore Internet gamers are invited to a… See cast, budget $5M, and TMDB rating 4.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/2p97B1Bv0s7cK6P4dK0nYlVJjRD.jpg",
@@ -646,6 +773,74 @@
    "t": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D) (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:157099": {
+   "d": "Better Living Through Chemistry (2014): Drama/Comedy film. Story: A straight-laced pharmacist's uneventful life spirals… See cast and budget $5M.",
+   "img": "https://image.tmdb.org/t/p/w780/qnx8XZfvCNhRZCWThq2UW2BV5Gb.jpg",
+   "industry": "world",
+   "k": "Better Living Through Chemistry, Better Living Through Chemistry movie, Better Living Through Chemistry cast, Better Living Through Chemistry story, Better Living Through Chemistry box office collection, Better Living Through Chemistry budget, Better Living Through Chemistry review, Better Living Through Chemistry rating, Better Living Through Chemistry release date, Better Living Through Chemistry trailer, Better Living Through Chemistry Drama, Better Living Through Chemistry Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sam Rockwell"
+     },
+     {
+      "@type": "Person",
+      "name": "Michelle Monaghan"
+     },
+     {
+      "@type": "Person",
+      "name": "Olivia Wilde"
+     },
+     {
+      "@type": "Person",
+      "name": "Jane Fonda"
+     },
+     {
+      "@type": "Person",
+      "name": "Ray Liotta"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 332,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Better Living Through Chemistry (2014): Drama/Comedy film. Story: A straight-laced pharmacist's uneventful life spirals… See cast and budget $5M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Geoff Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "David Posamentier"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qnx8XZfvCNhRZCWThq2UW2BV5Gb.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=157099",
+    "name": "Better Living Through Chemistry",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-03-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=157099"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Better Living Through Chemistry (2014)</h1>\n<p class=\"ssr-lead\">A straight-laced pharmacist&#x27;s uneventful life spirals out of control when he starts an affair with a trophy wife customer who takes him on a joyride involving sex, drugs and possibly murder.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 March 2014</li><li>Runtime: 91 minutes</li><li>Director: Geoff Moore, David Posamentier</li><li>Genres: Drama, Comedy</li><li>Budget: $5M</li><li>TMDB rating: 5.9/10 (332 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sam Rockwell as Douglas Varney</li><li>Michelle Monaghan as Kara Varney</li><li>Olivia Wilde as Elizabeth Roberts</li><li>Jane Fonda as Pharmacy Customer</li><li>Ray Liotta as Jack Roberts</li><li>Norbert Leo Butz as Agent Andrew Carp</li><li>Ben Schwartz as Noah</li><li>Ken Howard as Walter Bishop</li><li>Jenn Harris as Janet</li><li>Harrison Holzer as Ethan Varney</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Better Living Through Chemistry (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:1668499": {
    "d": "Vertiginous (2026): Animation/Comedy film. Story: Jacques goes to his friend Bruno's house to tell him… See cast and TMDB rating 6.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/hMKAPLiacrrqRXlHGMyyIosfjzr.jpg",
@@ -902,6 +1097,70 @@
    "t": "In the Bedroom (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2002"
   },
+  "movie:22599": {
+   "d": "Star (2001): Comedy/Action film. Story: The Driver now carries an arrogant rock star who is… See cast, TMDB rating 6.9/10, and release date 1 June 2001.",
+   "img": "https://image.tmdb.org/t/p/w780/A55WRPRK73zx1cuULDkdX4vriDO.jpg",
+   "industry": "world",
+   "k": "Star, Star movie, Star cast, Star story, Star box office collection, Star budget, Star review, Star rating, Star release date, Star Comedy, Star Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Clive Owen"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Beattie"
+     },
+     {
+      "@type": "Person",
+      "name": "Toru Tanaka Jr."
+     },
+     {
+      "@type": "Person",
+      "name": "Madonna"
+     },
+     {
+      "@type": "Person",
+      "name": "D-Teflon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 326,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Star (2001): Comedy/Action film. Story: The Driver now carries an arrogant rock star who is… See cast, TMDB rating 6.9/10, and release date 1 June 2001.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Guy Ritchie"
+     }
+    ],
+    "duration": "PT9M",
+    "genre": [
+     "Comedy",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/A55WRPRK73zx1cuULDkdX4vriDO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=22599",
+    "name": "Star",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2001-06-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=22599"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Star (2001)</h1>\n<p class=\"ssr-lead\">The Driver now carries an arrogant rock star who is visiting a major city. Played by Madonna, this title character wants to get away from her bodyguards in the Driver&#x27;s BMW. He soon gets tired of her and decides to have a bit of fun.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 June 2001</li><li>Runtime: 9 minutes</li><li>Director: Guy Ritchie</li><li>Genres: Comedy, Action</li><li>TMDB rating: 6.9/10 (326 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Clive Owen as The Driver</li><li>Michael Beattie as Manager</li><li>Toru Tanaka Jr. as Bodyguard</li><li>Madonna as Star (uncredited)</li><li>D-Teflon as Bodyguard (uncredited)</li><li>Troy Aguayo as Bodyguard (uncredited)</li><li>Woon Young Park as Bodyguard (uncredited)</li></ul>\n</article>",
+   "t": "Star (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2001"
+  },
   "movie:236399": {
    "d": "Flowers in the Attic (2014): Drama/Mystery film. Story: After the sudden death of their father, four children… See cast and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/mQUNXRA6uaf4kS1mUUoDKk4qaDB.jpg",
@@ -965,6 +1224,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Flowers in the Attic (2014)</h1>\n<p class=\"ssr-lead\">After the sudden death of their father, four children face cruel treatment from their ruthless grandmother.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 January 2014</li><li>Runtime: 90 minutes</li><li>Director: Deborah Chow</li><li>Genres: Drama, Mystery, Thriller, TV Movie</li><li>TMDB rating: 6.7/10 (425 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Heather Graham as Corrine</li><li>Kiernan Shipka as Cathy</li><li>Mason Dye as Christopher</li><li>Ava Telek as Carrie</li><li>Maxwell Kovach as Cory</li><li>Dylan Bruce as Bart</li><li>Chad Willett as Dad</li><li>Ellen Burstyn as Grandmother</li><li>Beau Daniels as Mr. Foxworth</li><li>Laura Jaye as Female Guest</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Philo, Lifetime Movie Club, Netflix Standard with Ads</li><li>Rent: Fandango At Home, Plex</li><li>Buy: Fandango At Home</li></ul>\n</article>",
    "t": "Flowers in the Attic (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
+  },
+  "movie:24099": {
+   "d": "Dreamscape (1984): Drama/Science Fiction film. Story: In order to diagnose the psychic traumas suffered by… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qtdLpv0Qtqv1QMnmmnyRP0hf2Ek.jpg",
+   "industry": "world",
+   "k": "Dreamscape, Dreamscape movie, Dreamscape cast, Dreamscape story, Dreamscape box office collection, Dreamscape budget, Dreamscape review, Dreamscape rating, Dreamscape release date, Dreamscape trailer, Dreamscape Drama, Dreamscape Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dennis Quaid"
+     },
+     {
+      "@type": "Person",
+      "name": "Max von Sydow"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher Plummer"
+     },
+     {
+      "@type": "Person",
+      "name": "Eddie Albert"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Capshaw"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 338,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Dreamscape (1984): Drama/Science Fiction film. Story: In order to diagnose the psychic traumas suffered by… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joseph Ruben"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Drama",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qtdLpv0Qtqv1QMnmmnyRP0hf2Ek.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=24099",
+    "name": "Dreamscape",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1984-08-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=24099"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dreamscape (1984)</h1>\n<p class=\"ssr-lead\">In order to diagnose the psychic traumas suffered by his patients, Dr. Paul Novotny gets young Alex Gardner to enter their dreams.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 August 1984</li><li>Runtime: 99 minutes</li><li>Director: Joseph Ruben</li><li>Genres: Drama, Science Fiction, Thriller</li><li>TMDB rating: 6.1/10 (338 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dennis Quaid as Alex Gardner</li><li>Max von Sydow as Paul Novotny</li><li>Christopher Plummer as Bob Blair</li><li>Eddie Albert as The President</li><li>Kate Capshaw as Jane DeVries</li><li>David Patrick Kelly as Tommy Ray Glatman</li><li>George Wendt as Charlie Prince</li><li>Larry Gelman as Mr. Webber</li><li>Cory &#x27;Bumper&#x27; Yothers as Buddy</li><li>Redmond Gleeson as Snead</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Peacock Premium, Peacock Premium Plus, Shout! Factory Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Dreamscape (1984) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1984"
   },
   "movie:258099": {
    "d": "Just Before I Go (2015): Comedy/Drama film. Story: Ted Morgan has been treading water for most of his… See cast and TMDB rating 6.4/10.",
@@ -1093,6 +1416,70 @@
    "t": "White God (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:27899": {
+   "d": "Little Caesar (1931): Drama/Crime film. Story: A small-time hood shoots his way to the top, but how… See cast, budget $281.0k, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fG5sKoSaTiySmGaqFjNcGXo4Gtt.jpg",
+   "industry": "world",
+   "k": "Little Caesar, Little Caesar movie, Little Caesar cast, Little Caesar story, Little Caesar box office collection, Little Caesar budget, Little Caesar review, Little Caesar rating, Little Caesar release date, Little Caesar trailer, Little Caesar Drama, Little Caesar Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Edward G. Robinson"
+     },
+     {
+      "@type": "Person",
+      "name": "Douglas Fairbanks Jr."
+     },
+     {
+      "@type": "Person",
+      "name": "Glenda Farrell"
+     },
+     {
+      "@type": "Person",
+      "name": "William Collier Jr."
+     },
+     {
+      "@type": "Person",
+      "name": "Sidney Blackmer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 316,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Little Caesar (1931): Drama/Crime film. Story: A small-time hood shoots his way to the top, but how… See cast, budget $281.0k, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mervyn LeRoy"
+     }
+    ],
+    "duration": "PT78M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fG5sKoSaTiySmGaqFjNcGXo4Gtt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=27899",
+    "name": "Little Caesar",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1931-01-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=27899"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Little Caesar (1931)</h1>\n<p class=\"ssr-lead\">A small-time hood shoots his way to the top, but how long can he stay there?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 January 1931</li><li>Runtime: 78 minutes</li><li>Director: Mervyn LeRoy</li><li>Genres: Drama, Crime</li><li>Budget: $281.0k</li><li>TMDB rating: 6.9/10 (316 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Edward G. Robinson as Caesar Enrico &#x27;Rico&#x27; Bandello aka &#x27;Little Caesar&#x27;</li><li>Douglas Fairbanks Jr. as Joe Massara</li><li>Glenda Farrell as Olga Stassoff</li><li>William Collier Jr. as Tony Passa</li><li>Sidney Blackmer as Big Boy</li><li>Ralph Ince as Pete Montana</li><li>Thomas E. Jackson as Sgt. Flaherty</li><li>Stanley Fields as Sam Vettori</li><li>Maurice Black as Little Arnie Lorch</li><li>George E. Stone as Otero</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: TCM</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Little Caesar (1931) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1931"
+  },
   "movie:299": {
    "d": "Ocean's Eleven (1960): Crime/Comedy film. Story: Danny Ocean and his gang attempt to rob the five… See cast and TMDB rating 6.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/vJLSt7NvYP85nR4XJ8CxnMadf6G.jpg",
@@ -1156,6 +1543,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Ocean&#x27;s Eleven (1960)</h1>\n<p class=\"ssr-lead\">Danny Ocean and his gang attempt to rob the five biggest casinos in Las Vegas in one night.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 August 1960</li><li>Runtime: 127 minutes</li><li>Director: Lewis Milestone</li><li>Genres: Crime, Comedy, Thriller</li><li>TMDB rating: 6.4/10 (431 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Frank Sinatra as Danny Ocean</li><li>Dean Martin as Sam Harmon</li><li>Sammy Davis Jr. as Josh Howard</li><li>Peter Lawford as Jimmy Foster</li><li>Angie Dickinson as Beatrice Ocean</li><li>Richard Conte as Anthony Bergdorf</li><li>Cesar Romero as Duke Santos</li><li>Patrice Wymore as Adele Ekstrom</li><li>Joey Bishop as &quot;Mushy&quot; O&#x27;Connors</li><li>Akim Tamiroff as Spyros Acebos</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Ocean's Eleven (1960) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1960"
+  },
+  "movie:32499": {
+   "d": "The Bad and the Beautiful (1953): Drama/Romance film. Story: Told in flashback form, the film traces the rise and… See cast and budget $1.56M.",
+   "img": "https://image.tmdb.org/t/p/w780/jVyVSD0w4Bg3r67geP0LvkizfC5.jpg",
+   "industry": "world",
+   "k": "The Bad and the Beautiful, The Bad and the Beautiful movie, The Bad and the Beautiful cast, The Bad and the Beautiful story, The Bad and the Beautiful box office collection, The Bad and the Beautiful budget, The Bad and the Beautiful review, The Bad and the Beautiful rating, The Bad and the Beautiful release date, The Bad and the Beautiful trailer, The Bad and the Beautiful Drama, The Bad and the Beautiful Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lana Turner"
+     },
+     {
+      "@type": "Person",
+      "name": "Kirk Douglas"
+     },
+     {
+      "@type": "Person",
+      "name": "Walter Pidgeon"
+     },
+     {
+      "@type": "Person",
+      "name": "Dick Powell"
+     },
+     {
+      "@type": "Person",
+      "name": "Barry Sullivan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 316,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "The Bad and the Beautiful (1953): Drama/Romance film. Story: Told in flashback form, the film traces the rise and… See cast and budget $1.56M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Vincente Minnelli"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jVyVSD0w4Bg3r67geP0LvkizfC5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=32499",
+    "name": "The Bad and the Beautiful",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1953-01-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=32499"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Bad and the Beautiful (1953)</h1>\n<p class=\"ssr-lead\">Told in flashback form, the film traces the rise and fall of a tough, ambitious Hollywood producer, Jonathan Shields, as seen through the eyes of various acquaintances, including a writer, James Lee Bartlow; a star, Georgia Lorrison; and a director, Fred Amiel. He is a hard-driving, ambitious man who ruthlessly uses everyone on the way to becoming one of Hollywood&#x27;s top movie makers.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 January 1953</li><li>Runtime: 118 minutes</li><li>Director: Vincente Minnelli</li><li>Genres: Drama, Romance</li><li>Budget: $1.56M</li><li>TMDB rating: 7.3/10 (316 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lana Turner as Georgia Lorrison</li><li>Kirk Douglas as Jonathan Shields</li><li>Walter Pidgeon as Harry Pebbel</li><li>Dick Powell as James Lee Bartlow</li><li>Barry Sullivan as Fred Amiel</li><li>Gloria Grahame as Rosemary Bartlow</li><li>Leo G. Carroll as Henry Whitfield</li><li>Gilbert Roland as Victor &quot;Gaucho&quot; Ribera</li><li>Paul Stewart as Syd Murphy</li><li>Vanessa Brown as Kay Amiel</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: TCM</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Bad and the Beautiful (1953) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1953"
+  },
+  "movie:350499": {
+   "d": "Pokémon the Movie: Hoopa and the Clash of Ages (2015): Family/Adventure film. Story: Ash, Pikachu, and their friends come to a desert city… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/crFk9m8DK9lNqlOa7AGTvYsO6Qn.jpg",
+   "industry": "world",
+   "k": "Pokémon the Movie: Hoopa and the Clash of Ages, Pokémon the Movie: Hoopa and the Clash of Ages movie, Pokémon the Movie: Hoopa and the Clash of Ages cast, Pokémon the Movie: Hoopa and the Clash of Ages story, Pokémon the Movie: Hoopa and the Clash of Ages box office collection, Pokémon the Movie: Hoopa and the Clash of Ages budget, Pokémon the Movie: Hoopa and the Clash of Ages review, Pokémon the Movie: Hoopa and the Clash of Ages rating, Pokémon the Movie: Hoopa and the Clash of Ages release date, Pokémon the Movie: Hoopa and the Clash of Ages trailer, Pokémon the Movie: Hoopa and the Clash of Ages Family, Pokémon the Movie: Hoopa and the Clash of Ages Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rica Matsumoto"
+     },
+     {
+      "@type": "Person",
+      "name": "Ikue Otani"
+     },
+     {
+      "@type": "Person",
+      "name": "Mayuki Makiguchi"
+     },
+     {
+      "@type": "Person",
+      "name": "Yuki Kaji"
+     },
+     {
+      "@type": "Person",
+      "name": "Mariya Ise"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 321,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Pokémon the Movie: Hoopa and the Clash of Ages (2015): Family/Adventure film. Story: Ash, Pikachu, and their friends come to a desert city… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kunihiko Yuyama"
+     }
+    ],
+    "duration": "PT73M",
+    "genre": [
+     "Family",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/crFk9m8DK9lNqlOa7AGTvYsO6Qn.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=350499",
+    "name": "Pokémon the Movie: Hoopa and the Clash of Ages",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-07-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=350499"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pokémon the Movie: Hoopa and the Clash of Ages (2015)</h1>\n<p class=\"ssr-lead\">Ash, Pikachu, and their friends come to a desert city by the sea. Here they meet the Mythical Pokémon Hoopa, which has the ability to summon things—including people and Pokémon—through its magic rings. After a scary incident, they learn of a story about a brave hero who stopped the rampage of a terrifying Pokémon long ago. Now, the threat that has been bottled up for years is in danger of breaking loose again.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 July 2015</li><li>Runtime: 73 minutes</li><li>Director: Kunihiko Yuyama</li><li>Genres: Family, Adventure, Animation, Action, Fantasy</li><li>TMDB rating: 6.8/10 (321 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rica Matsumoto as Satoshi (voice)</li><li>Ikue Otani as Pikachu (voice)</li><li>Mayuki Makiguchi as Serena (voice)</li><li>Yuki Kaji as Citron (voice)</li><li>Mariya Ise as Eureka (voice)</li><li>Megumi Satou as Dedenne (voice)</li><li>Megumi Hayashibara as Musashi (voice)</li><li>Shin-ichiro Miki as Kojiro (voice)</li><li>Inuko Inuyama as Nyarth (voice)</li><li>Yuji Ueda as Sonans (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Pokémon the Movie: Hoopa and the Clash of Ages (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
   },
   "movie:377799": {
    "d": "One Man and his Cow (2017): Drama/Comedy film. Story: An Algerian man's life-long dream finally comes true… See cast, budget $5.3M, and TMDB rating 6.7/10.",
@@ -1285,6 +1800,70 @@
    "t": "The Other Side of Hope (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
+  "movie:451499": {
+   "d": "School of Life (2017): Drama/Comedy film. Story: Paris 1930. Paul has only ever had one and the same… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5KGtBcI4twwyZIB1dAXznQiqXsL.jpg",
+   "industry": "world",
+   "k": "School of Life, School of Life movie, School of Life cast, School of Life story, School of Life box office collection, School of Life budget, School of Life review, School of Life rating, School of Life release date, School of Life trailer, School of Life Drama, School of Life Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "François Cluzet"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean Scandel"
+     },
+     {
+      "@type": "Person",
+      "name": "Éric Elmosnino"
+     },
+     {
+      "@type": "Person",
+      "name": "François Berléand"
+     },
+     {
+      "@type": "Person",
+      "name": "Valérie Karsenti"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 316,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "School of Life (2017): Drama/Comedy film. Story: Paris 1930. Paul has only ever had one and the same… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nicolas Vanier"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5KGtBcI4twwyZIB1dAXznQiqXsL.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=451499",
+    "name": "School of Life",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-02-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=451499"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>School of Life (2017)</h1>\n<p class=\"ssr-lead\">Paris 1930. Paul has only ever had one and the same horizon: the high walls of the orphanage, an austere building in the Parisian working class suburbs. Entrusted to a joyful country woman, Célestine, and her husband, Borel, the rather stiff gamekeeper of a vast estate in Sologne, the city child, recalcitrant and stubborn, arrives in a mysterious and disturbing world, that of a sovereign and wild region. The huge forest, misty ponds, heaths, and fields all belong to the Count de la Fresnaye, an elderly taciturn man who lives alone in his manor.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 February 2017</li><li>Runtime: 116 minutes</li><li>Director: Nicolas Vanier</li><li>Genres: Drama, Comedy, Family</li><li>TMDB rating: 7.4/10 (316 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>François Cluzet as Totoche</li><li>Jean Scandel as Paul Caradec</li><li>Éric Elmosnino as Borel</li><li>François Berléand as Count Louis Fernand de La Fresnaye</li><li>Valérie Karsenti as Célestine</li><li>Thomas Durand as Bertrand</li><li>Ilona Cabrera as Bella</li><li>Frédéric Saurel as Dédé</li><li>Urbain Cancelier as Lucien</li><li>Murielle Huet des Aunay as Montaine</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: OVID</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "School of Life (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
   "movie:454699": {
    "d": "Monster Family (2017): Animation/Family film. Story: The Wishbone family are far from happy. In an attempt… See cast and TMDB rating 6.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/jFSwrtsYJ0QesgPrvShQNOTn8aV.jpg",
@@ -1349,6 +1928,73 @@
    "t": "Monster Family (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
+  "movie:493099": {
+   "d": "RBG (2018): Documentary film. Story: Justice Ruth Bader Ginsburg now 84, and still… See cast, TMDB rating 7.5/10, and release date 7 July 2018.",
+   "img": "https://image.tmdb.org/t/p/w780/prShXu2j9SWAbeatf1A9AobqE5O.jpg",
+   "industry": "world",
+   "k": "RBG, RBG movie, RBG cast, RBG story, RBG box office collection, RBG budget, RBG review, RBG rating, RBG release date, RBG trailer, RBG Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ruth Bader Ginsburg"
+     },
+     {
+      "@type": "Person",
+      "name": "Jane C. Ginsburg"
+     },
+     {
+      "@type": "Person",
+      "name": "James Steven Ginsburg"
+     },
+     {
+      "@type": "Person",
+      "name": "Nina Totenberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Clara Spera"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 318,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "RBG (2018): Documentary film. Story: Justice Ruth Bader Ginsburg now 84, and still… See cast, TMDB rating 7.5/10, and release date 7 July 2018.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Betsy West"
+     },
+     {
+      "@type": "Person",
+      "name": "Julie Cohen"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/prShXu2j9SWAbeatf1A9AobqE5O.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=493099",
+    "name": "RBG",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-07-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=493099"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>RBG (2018)</h1>\n<p class=\"ssr-lead\">Justice Ruth Bader Ginsburg now 84, and still inspired by the lawyers who defended free speech during the Red Scare, Ginsburg refuses to relinquish her passionate duty, steadily fighting for equal rights for all citizens under the law. Through intimate interviews and unprecedented access to Ginsburg’s life outside the court, RBG tells the electric story of Ginsburg’s consuming love affairs with both the Constitution and her beloved husband Marty—and of a life’s work that led her to become an icon of justice in the highest court in the land.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 July 2018</li><li>Runtime: 98 minutes</li><li>Director: Betsy West, Julie Cohen</li><li>Genres: Documentary</li><li>TMDB rating: 7.5/10 (318 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ruth Bader Ginsburg as Self</li><li>Jane C. Ginsburg as Self</li><li>James Steven Ginsburg as Self</li><li>Nina Totenberg as Self</li><li>Clara Spera as Self</li><li>Gloria Steinem as Self</li><li>Bill Clinton as Self</li><li>Sharron Frontiero as Self</li><li>Orrin Hatch as Self</li><li>Lilly Ledbetter as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "RBG (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
   "movie:53399": {
    "d": "The Solitude of Prime Numbers (2010): Drama film. Story: Prime numbers are divisible only by one and… See cast and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/4WRlyxjZnShSxoPgIxVa4fWx98f.jpg",
@@ -1411,6 +2057,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Solitude of Prime Numbers (2010)</h1>\n<p class=\"ssr-lead\">Prime numbers are divisible only by one and themselves. These numbers are solitary and incomprehensible to others. Alice and Mattia are both &quot;prime&quot;, both haunted by the tragedies that have marked them in childhood: a skiing accident for Alice which has caused a defect in her leg, and the loss of his twin sister for Matthew.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 September 2010</li><li>Runtime: 118 minutes</li><li>Director: Saverio Costanzo</li><li>Genres: Drama</li><li>TMDB rating: 5.9/10 (398 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alba Rohrwacher as Alice Della Rocca</li><li>Luca Marinelli as Mattia Balossino</li><li>Aurora Ruffino as Viola</li><li>Arianna Nastro as Alice Della Rocca (young)</li><li>Tommaso Maria Neri as Mattia Balossino (child)</li><li>Isabella Rossellini as Adele</li><li>Maurizio Donadoni as Umberto</li><li>Roberto Sbaratto as Pietro Balossino</li><li>Giorgia Senesi as Elena</li><li>Filippo Timi as Clown</li></ul>\n</article>",
    "t": "The Solitude of Prime Numbers (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
+  },
+  "movie:575299": {
+   "d": "Fidelity (2019): Drama film. Story: A successful obstetrician living a seemingly stable… See cast, TMDB rating 6.6/10, and release date 31 October 2019.",
+   "img": "https://image.tmdb.org/t/p/w780/6jeisB2CFbdGmXK5vE9NP3YJPcp.jpg",
+   "industry": "world",
+   "k": "Fidelity, Fidelity movie, Fidelity cast, Fidelity story, Fidelity box office collection, Fidelity budget, Fidelity review, Fidelity rating, Fidelity release date, Fidelity Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Aleksandr Pal"
+     },
+     {
+      "@type": "Person",
+      "name": "Evgeniya Gromova"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexey Agranovich"
+     },
+     {
+      "@type": "Person",
+      "name": "Marina Vasilyeva"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Kotova"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 339,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Fidelity (2019): Drama film. Story: A successful obstetrician living a seemingly stable… See cast, TMDB rating 6.6/10, and release date 31 October 2019.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nigina Sayfullaeva"
+     }
+    ],
+    "duration": "PT82M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6jeisB2CFbdGmXK5vE9NP3YJPcp.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=575299",
+    "name": "Fidelity",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-10-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=575299"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fidelity (2019)</h1>\n<p class=\"ssr-lead\">A successful obstetrician living a seemingly stable married life begins to question her relationship when emotional and physical intimacy fades. Suspecting her husband of betrayal, she seeks connection elsewhere, stepping into a hidden world that offers desire, control, and escape. As she navigates this parallel existence, the boundaries between loyalty, loneliness, and self-discovery slowly begin to blur.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 October 2019</li><li>Runtime: 82 minutes</li><li>Director: Nigina Sayfullaeva</li><li>Genres: Drama</li><li>TMDB rating: 6.6/10 (339 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aleksandr Pal as Sergey</li><li>Evgeniya Gromova as Lena</li><li>Alexey Agranovich as Ivan</li><li>Marina Vasilyeva as Katya</li><li>Anna Kotova as Nikiforova</li><li>Pavel Vorozhtsov as Vadim</li><li>Vasily Rikhter as Dima</li><li>Anastasiya Denisova as Polina</li><li>Kirill Kaganovich as Policeman</li><li>Mikhail Troynik as Policeman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Fidelity (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:613099": {
    "d": "The Legacy of the Bones (2019): Thriller/Crime film. Story: Inspector Amaia Salazar must return to the Baztan… See cast and TMDB rating 6.5/10.",
@@ -1475,6 +2184,74 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Legacy of the Bones (2019)</h1>\n<p class=\"ssr-lead\">Inspector Amaia Salazar must return to the Baztan valley in order to solve a series of suicides that seem to follow a similar pattern.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 December 2019</li><li>Runtime: 121 minutes</li><li>Director: Fernando González Molina</li><li>Genres: Thriller, Crime, Mystery</li><li>TMDB rating: 6.5/10 (479 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Marta Etura as Amaia Salazar</li><li>Leonardo Sbaraglia as Juez Javier Markina</li><li>Susi Sánchez as Rosario</li><li>Imanol Arias as Padre Sarasola</li><li>Elvira Mínguez as Flora Salazar</li><li>Pedro Casablanc as Comisario General de Pamplona</li><li>Carlos Librado &quot;Nene&quot; as Jonan Etxaide</li><li>Itziar Aizpuru as Tía Engrasi</li><li>Miquel Fernández as Padre de Amaia</li><li>Francesc Orella as Fermín Montés</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "The Legacy of the Bones (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:6499": {
+   "d": "Turbo: A Power Rangers Movie (1997): Action/Adventure film. Story: The legendary Power Rangers must stop the evil space… See cast and budget $10M.",
+   "img": "https://image.tmdb.org/t/p/w780/zTeRNwkRxEbZ6qrwnbbyJHiPdcG.jpg",
+   "industry": "world",
+   "k": "Turbo: A Power Rangers Movie, Turbo: A Power Rangers Movie movie, Turbo: A Power Rangers Movie cast, Turbo: A Power Rangers Movie story, Turbo: A Power Rangers Movie box office collection, Turbo: A Power Rangers Movie budget, Turbo: A Power Rangers Movie review, Turbo: A Power Rangers Movie rating, Turbo: A Power Rangers Movie release date, Turbo: A Power Rangers Movie Action, Turbo: A Power Rangers Movie Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Johnny Yong Bosch"
+     },
+     {
+      "@type": "Person",
+      "name": "Nakia Burrise"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason David Frank"
+     },
+     {
+      "@type": "Person",
+      "name": "Catherine Sutherland"
+     },
+     {
+      "@type": "Person",
+      "name": "Blake Foster"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 323,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Turbo: A Power Rangers Movie (1997): Action/Adventure film. Story: The legendary Power Rangers must stop the evil space… See cast and budget $10M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Shuki Levy"
+     },
+     {
+      "@type": "Person",
+      "name": "David Winning"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zTeRNwkRxEbZ6qrwnbbyJHiPdcG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=6499",
+    "name": "Turbo: A Power Rangers Movie",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1997-03-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=6499"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Turbo: A Power Rangers Movie (1997)</h1>\n<p class=\"ssr-lead\">The legendary Power Rangers must stop the evil space pirate Divatox from releasing the powerful Maligore from his volcanic imprisonment on the island of Muranthias, where only the kindly wizard Lerigot has the key to release him. The hope of victory lies in the Ranger&#x27;s incredible new Turbo powers and powerful Turbo Zords.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 March 1997</li><li>Runtime: 99 minutes</li><li>Director: Shuki Levy, David Winning</li><li>Genres: Action, Adventure, Family, Fantasy, Science Fiction</li><li>Budget: $10M</li><li>TMDB rating: 5.8/10 (323 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Johnny Yong Bosch as Adam Park</li><li>Nakia Burrise as Tanya Sloan</li><li>Jason David Frank as Tommy Oliver</li><li>Catherine Sutherland as Kat Hillard</li><li>Blake Foster as Justin Stewart</li><li>Amy Jo Johnson as Kimberly Hart</li><li>Steve Cardenas as Rocky DeSantos</li><li>Austin St. John as Jason Lee Scott</li><li>Jason Narvy as Skull</li><li>Paul Schrier as Bulk</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Turbo: A Power Rangers Movie (1997) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1997"
   },
   "movie:654299": {
    "d": "Out of the Clear Blue Sky (2019): Comedy/Drama film. Story: Returning to Earth as an imitator, the legendary… See cast and TMDB rating 8.3/10.",
@@ -1543,6 +2320,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Out of the Clear Blue Sky (2019)</h1>\n<p class=\"ssr-lead\">Returning to Earth as an imitator, the legendary Mexican artist Pedro Infante must prove that he is no longer a womanizer to enter paradise.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 December 2019</li><li>Runtime: 112 minutes</li><li>Director: Pepe Bojórquez, José Pepe Bojórquez</li><li>Genres: Comedy, Drama, Music</li><li>TMDB rating: 8.3/10 (397 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Omar Chaparro</li><li>Ana Claudia Talancón</li><li>Stephanie Cayo as Samantha</li><li>Lupita Sandoval</li><li>Yare Santana as Jenny Infante</li><li>Angélica María</li><li>Manuel &#x27;Flaco&#x27; Ibáñez</li><li>Alejandro Gasque</li><li>Juan Alberto Villareal</li><li>Rocío Verdejo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Out of the Clear Blue Sky (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:767499": {
+   "d": "The Manor (2021): Horror/Mystery film. Story: After suffering a stroke, Judith moves into a… See cast, TMDB rating 5.5/10, and release date 8 October 2021.",
+   "img": "https://image.tmdb.org/t/p/w780/7k7U0XWjo5LRAu9UxF9iGE3pCrF.jpg",
+   "industry": "world",
+   "k": "The Manor, The Manor movie, The Manor cast, The Manor story, The Manor box office collection, The Manor budget, The Manor review, The Manor rating, The Manor release date, The Manor trailer, The Manor Horror, The Manor Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Barbara Hershey"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicholas Alexander"
+     },
+     {
+      "@type": "Person",
+      "name": "Bruce Davison"
+     },
+     {
+      "@type": "Person",
+      "name": "Jill Larson"
+     },
+     {
+      "@type": "Person",
+      "name": "Fran Bennett"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 323,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "The Manor (2021): Horror/Mystery film. Story: After suffering a stroke, Judith moves into a… See cast, TMDB rating 5.5/10, and release date 8 October 2021.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Axelle Carolyn"
+     }
+    ],
+    "duration": "PT81M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7k7U0XWjo5LRAu9UxF9iGE3pCrF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=767499",
+    "name": "The Manor",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-10-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=767499"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Manor (2021)</h1>\n<p class=\"ssr-lead\">After suffering a stroke, Judith moves into a historic nursing home, where she begins to suspect something supernatural is preying on the residents. With no one willing to believe her, Judith must either escape the confines of the manor, or fall victim to the evil that dwells within it.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 October 2021</li><li>Runtime: 81 minutes</li><li>Director: Axelle Carolyn</li><li>Genres: Horror, Mystery</li><li>TMDB rating: 5.5/10 (323 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Barbara Hershey as Judith</li><li>Nicholas Alexander as Josh</li><li>Bruce Davison as Roland</li><li>Jill Larson as Trish</li><li>Fran Bennett as Ruth</li><li>Ciera Payton as Liesel</li><li>Nancy Linehan Charles as Annette</li><li>Katie A. Keane as Barbara</li><li>Shelley Robertson as Elizabeth</li><li>Stacey Travis as Ms. Benson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "The Manor (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
+  "movie:77499": {
+   "d": "Barbie: A Perfect Christmas (2011): Animation/Family film. Story: The vacation plans of Barbie and her sisters take a… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qoN2Ytg1mEyTkyJdt6xc1kB2ll.jpg",
+   "industry": "world",
+   "k": "Barbie: A Perfect Christmas, Barbie: A Perfect Christmas movie, Barbie: A Perfect Christmas cast, Barbie: A Perfect Christmas story, Barbie: A Perfect Christmas box office collection, Barbie: A Perfect Christmas budget, Barbie: A Perfect Christmas review, Barbie: A Perfect Christmas rating, Barbie: A Perfect Christmas release date, Barbie: A Perfect Christmas Animation, Barbie: A Perfect Christmas Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Diana Kaarina"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Waris"
+     },
+     {
+      "@type": "Person",
+      "name": "Rachel Drance"
+     },
+     {
+      "@type": "Person",
+      "name": "Nevada Brandt"
+     },
+     {
+      "@type": "Person",
+      "name": "Lauren Lavoie"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 337,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Barbie: A Perfect Christmas (2011): Animation/Family film. Story: The vacation plans of Barbie and her sisters take a… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mark Baldo"
+     }
+    ],
+    "duration": "PT74M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qoN2Ytg1mEyTkyJdt6xc1kB2ll.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=77499",
+    "name": "Barbie: A Perfect Christmas",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-11-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=77499"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Barbie: A Perfect Christmas (2011)</h1>\n<p class=\"ssr-lead\">The vacation plans of Barbie and her sisters take a turn due to a snowstorm. Stranded in Tannenbaum town, they find themselves amidst a holiday venture where they learn a heartwarming lesson.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 November 2011</li><li>Runtime: 74 minutes</li><li>Director: Mark Baldo</li><li>Genres: Animation, Family</li><li>TMDB rating: 6.8/10 (337 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Diana Kaarina as Barbie (voice)</li><li>Jennifer Waris as Barbie (singing voice)</li><li>Rachel Drance as Skipper (voice)</li><li>Nevada Brandt as Skipper (singing voice)</li><li>Lauren Lavoie as Stacie (voice)</li><li>Danielle Bessler as Stacie (singing voice)</li><li>Ashlyn Drummond as Chelsea (voice)</li><li>Lucia Vecchio as Chelsea (singing voice)</li><li>Maryke Hendrikse as Christie Clauson / Ivy Elif (voice)</li><li>Allie Feder as Christie Clauson (singing voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Barbie: A Perfect Christmas (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
   },
   "movie:823999": {
    "d": "Diabolik: Ginko Attacks! (2022): Crime/Action film. Story: Diabolik narrowly escapes Inspector Ginko's latest… See cast and TMDB rating 6.0/10.",

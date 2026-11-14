@@ -1,7 +1,203 @@
 {
  "bucket": "81",
- "count": 41,
+ "count": 49,
  "titles": {
+  "movie:1000081": {
+   "d": "Sentinelle (2023): Action/Comedy film. Story: François Sentinelle has two lives. By day, he is the… See cast, budget $5M, and TMDB rating 5.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jzdVz28uko3lGxuHFYI4n9vPBBe.jpg",
+   "industry": "world",
+   "k": "Sentinelle, Sentinelle movie, Sentinelle cast, Sentinelle story, Sentinelle box office collection, Sentinelle budget, Sentinelle review, Sentinelle rating, Sentinelle release date, Sentinelle Action, Sentinelle Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jonathan Cohen"
+     },
+     {
+      "@type": "Person",
+      "name": "Raphaël Quenard"
+     },
+     {
+      "@type": "Person",
+      "name": "Emmanuelle Bercot"
+     },
+     {
+      "@type": "Person",
+      "name": "Gustave Kervern"
+     },
+     {
+      "@type": "Person",
+      "name": "Ramzy Bedia"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 320,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "Sentinelle (2023): Action/Comedy film. Story: François Sentinelle has two lives. By day, he is the… See cast, budget $5M, and TMDB rating 5.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Caviglioli"
+     },
+     {
+      "@type": "Person",
+      "name": "Hugo Benamozig"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jzdVz28uko3lGxuHFYI4n9vPBBe.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1000081",
+    "name": "Sentinelle",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-08-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1000081"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sentinelle (2023)</h1>\n<p class=\"ssr-lead\">François Sentinelle has two lives. By day, he is the most famous cop of Réunion Island, known for his tough methods and flowery shirts, pursuing criminals in his famous yellow defender. But the rest of the time, Sentinelle is also a charming singer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 August 2023</li><li>Runtime: 98 minutes</li><li>Director: David Caviglioli, Hugo Benamozig</li><li>Genres: Action, Comedy, Crime</li><li>Budget: $5M</li><li>TMDB rating: 5.3/10 (320 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jonathan Cohen as François Sentinelle</li><li>Raphaël Quenard as Rémi Morisset</li><li>Emmanuelle Bercot as Florence Cazeaux-Rocher</li><li>Gustave Kervern as Valéry Rocher</li><li>Ramzy Bedia as Frédo</li><li>Laurent Evuort as Sorcier</li><li>Ken Eind as Gilles Hoarau</li><li>Joseph Woerlen as Rayanne</li><li>Matthieu Virginius as Jonas Terrence / Cascadeur</li><li>Dimitri Virginius as Freddy Terrence / Cascadeur</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Sentinelle (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
+  "movie:1003581": {
+   "d": "Justice League: Warworld (2023): Animation/Action film. Story: Until now, the Justice League has been a loose… See cast and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/soRpXRJOYqBBsDYuH3mLYSIeufk.jpg",
+   "industry": "world",
+   "k": "Justice League: Warworld, Justice League: Warworld movie, Justice League: Warworld cast, Justice League: Warworld story, Justice League: Warworld box office collection, Justice League: Warworld budget, Justice League: Warworld review, Justice League: Warworld rating, Justice League: Warworld release date, Justice League: Warworld trailer, Justice League: Warworld Animation, Justice League: Warworld Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jensen Ackles"
+     },
+     {
+      "@type": "Person",
+      "name": "Darren Criss"
+     },
+     {
+      "@type": "Person",
+      "name": "Stana Katic"
+     },
+     {
+      "@type": "Person",
+      "name": "Ike Amadi"
+     },
+     {
+      "@type": "Person",
+      "name": "Troy Baker"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 321,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Justice League: Warworld (2023): Animation/Action film. Story: Until now, the Justice League has been a loose… See cast and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jeff Wamester"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Animation",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/soRpXRJOYqBBsDYuH3mLYSIeufk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1003581",
+    "name": "Justice League: Warworld",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-07-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1003581"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Justice League: Warworld (2023)</h1>\n<p class=\"ssr-lead\">Until now, the Justice League has been a loose association of superpowered individuals. But when they are swept away to Warworld, a place of unending brutal gladiatorial combat, Batman, Superman, Wonder Woman and the others must somehow unite to form an unbeatable resistance able to lead an entire planet to freedom.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 July 2023</li><li>Runtime: 90 minutes</li><li>Director: Jeff Wamester</li><li>Genres: Animation, Action, Science Fiction, Adventure</li><li>TMDB rating: 6.7/10 (321 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jensen Ackles as Batman / Officer Wayne (voice)</li><li>Darren Criss as Superman / Agent Kent (voice)</li><li>Stana Katic as Wonder Woman / Diana Prince (voice)</li><li>Ike Amadi as Martian Manhunter / J&#x27;onn J&#x27;onzz (voice)</li><li>Troy Baker as Jonah Hex (voice)</li><li>Matt Bomer as Old Man (voice)</li><li>Roger Cross as Machiste (voice)</li><li>Brett Dalton as Bat Lash (voice)</li><li>Trevor Devall as Drifter (voice)</li><li>John DiMaggio as Lobo (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Justice League: Warworld (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
+  "movie:10081": {
+   "d": "The Principal (1987): Action/Adventure film. Story: Burglary. Drugs. Assault. Rape. The students at… See cast, budget $11M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4OH161N3H7SjKJXK0S6fzviLZap.jpg",
+   "industry": "world",
+   "k": "The Principal, The Principal movie, The Principal cast, The Principal story, The Principal box office collection, The Principal budget, The Principal review, The Principal rating, The Principal release date, The Principal Action, The Principal Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jim Belushi"
+     },
+     {
+      "@type": "Person",
+      "name": "Louis Gossett Jr."
+     },
+     {
+      "@type": "Person",
+      "name": "Rae Dawn Chong"
+     },
+     {
+      "@type": "Person",
+      "name": "Kelly Jo Minter"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Wright"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 325,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "The Principal (1987): Action/Adventure film. Story: Burglary. Drugs. Assault. Rape. The students at… See cast, budget $11M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Christopher Cain"
+     }
+    ],
+    "duration": "PT109M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4OH161N3H7SjKJXK0S6fzviLZap.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10081",
+    "name": "The Principal",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1987-09-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10081"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Principal (1987)</h1>\n<p class=\"ssr-lead\">Burglary. Drugs. Assault. Rape. The students at Brandel High are more than new Principal Rick Latimer bargained for. Gangs fight to control the school using knives - even guns - when they have to. When Latimer and the head of security try to clean up the school and stop the narcotics trade, they run up against a teenage mafia. A violent confrontation on the campus leads to a deadly showdown with the drug dealer&#x27;s gang, and one last chance for Latimer to save his career... and his life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 September 1987</li><li>Runtime: 109 minutes</li><li>Director: Christopher Cain</li><li>Genres: Action, Adventure, Crime, Drama</li><li>Budget: $11M</li><li>TMDB rating: 6.4/10 (325 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jim Belushi as Rick Latimer</li><li>Louis Gossett Jr. as Jake Phillips</li><li>Rae Dawn Chong as Hilary Orozco</li><li>Kelly Jo Minter as Treena Lester (as Kelly Minter)</li><li>Michael Wright as Victor Duncan</li><li>J.J. Cohen as White Zac</li><li>Esai Morales as Raymi Rojas</li><li>Troy Winbush as &#x27;Baby&#x27; Emile</li><li>Jacob Vargas as Arturo Diego</li><li>Annabel Armour as Mrs. Ripton</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Principal (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1987"
+  },
   "movie:10881": {
    "d": "Avalon (2001): Action/Science Fiction film. Story: In a future world, young people are increasingly… See cast, budget $8M, and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/cf8qwkSTSuHrRH9yIKfM6QYoCtB.jpg",
@@ -322,6 +518,82 @@
    "t": "The Devil Wears Prada 2 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:13581": {
+   "d": "Dead of Night (1945): Horror/Thriller film. Story: An architect, visiting an English country house… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9usqa6XNwQIduTwWh55F1xx0FLE.jpg",
+   "industry": "world",
+   "k": "Dead of Night, Dead of Night movie, Dead of Night cast, Dead of Night story, Dead of Night box office collection, Dead of Night budget, Dead of Night review, Dead of Night rating, Dead of Night release date, Dead of Night Horror, Dead of Night Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mervyn Johns"
+     },
+     {
+      "@type": "Person",
+      "name": "Roland Culver"
+     },
+     {
+      "@type": "Person",
+      "name": "Mary Merrall"
+     },
+     {
+      "@type": "Person",
+      "name": "Googie Withers"
+     },
+     {
+      "@type": "Person",
+      "name": "Frederick Valk"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 317,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Dead of Night (1945): Horror/Thriller film. Story: An architect, visiting an English country house… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alberto Cavalcanti"
+     },
+     {
+      "@type": "Person",
+      "name": "Charles Crichton"
+     },
+     {
+      "@type": "Person",
+      "name": "Basil Dearden"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Hamer"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9usqa6XNwQIduTwWh55F1xx0FLE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13581",
+    "name": "Dead of Night",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1945-09-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13581"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dead of Night (1945)</h1>\n<p class=\"ssr-lead\">An architect, visiting an English country house, realizes the other guests are familiar from his recurring nightmare. When they share their tales of the supernatural, he is filled with a growing dread.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 September 1945</li><li>Runtime: 103 minutes</li><li>Director: Alberto Cavalcanti, Charles Crichton, Basil Dearden, Robert Hamer</li><li>Genres: Horror, Thriller</li><li>TMDB rating: 7.2/10 (317 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mervyn Johns as Walter Craig (Segment &quot;Linking Story&quot;)</li><li>Roland Culver as Eliot Foley (Segment &quot;Linking Story&quot;)</li><li>Mary Merrall as Mrs. Foley (Segment &quot;Linking Story&quot;)</li><li>Googie Withers as Joan Cortland (Segment &quot;Linking Story&quot; &amp; &quot;The Haunted Mirror&quot;)</li><li>Frederick Valk as Dr. Van Straaten (Segment &quot;Linking Story&quot; &amp; &quot;The Ventriloquist&#x27;s Dummy&quot;)</li><li>Anthony Baird as Hugh Grainger (Segment &quot;Linking Story&quot; &amp; &quot;The Hearse Conductor&quot;)</li><li>Sally Ann Howes as Sally O&#x27;Hara (Segment &quot;Linking Story&quot; &amp; &quot;The Christmas Story&quot;)</li><li>Robert Wyndham as Dr. Albury (Segment &quot;The Christmas Story&quot;)</li><li>Judy Kelly as Joyce Grainger (Segment &quot;Linking Story&quot; &amp; &quot;The Hearse Conductor&quot;)</li><li>Miles Malleson as Hearse Driver (Segment &quot;The Hearse Conductor&quot;)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+, Fandor, Shudder, Fandor Amazon Channel, Screambox Amazon Channel, BFI Player Amazon Channel, IndieFlix Shorts Amazon Channel, Chilling</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Dead of Night (1945) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1945"
+  },
   "movie:1368881": {
    "d": "Ladies First (2026): Comedy/Fantasy film. Story: An arrogant but charismatic ladies' man finds his… See cast, TMDB rating 5.9/10, and release date 21 May 2026.",
    "img": "https://image.tmdb.org/t/p/w780/z1hekwU7a7FUP6XvqDwJjxAbrXJ.jpg",
@@ -513,6 +785,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Testament of Ann Lee (2026)</h1>\n<p class=\"ssr-lead\">The extraordinary true legend of Ann Lee, founder of the devotional sect known as the Shakers, who preached gender and social equality and was revered by her followers as the female Christ.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 January 2026</li><li>Runtime: 137 minutes</li><li>Director: Mona Fastvold</li><li>Genres: History, Drama, Music</li><li>Budget: $10M</li><li>TMDB rating: 6.3/10 (199 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Amanda Seyfried as Ann Lee</li><li>Lewis Pullman as William Lee</li><li>Thomasin McKenzie as Mary Partington / Narrator</li><li>Matthew Beard as James Whittaker</li><li>Christopher Abbott as Abraham Standerin</li><li>Viola Prettejohn as Nancy Lee</li><li>David Cale as John Hocknell</li><li>Stacy Martin as Jane Wardly</li><li>Scott Handy as James Wardley</li><li>Jeremy Wheeler as John Townley</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "The Testament of Ann Lee (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:146381": {
+   "d": "Justin and the Knights of Valour (2013): Animation/Adventure film. Story: A heart-warming tale about friendship, honor &… See cast and budget $22M.",
+   "img": "https://image.tmdb.org/t/p/w780/nJU9mcwhp3NyrEVawziufARy64B.jpg",
+   "industry": "world",
+   "k": "Justin and the Knights of Valour, Justin and the Knights of Valour movie, Justin and the Knights of Valour cast, Justin and the Knights of Valour story, Justin and the Knights of Valour box office collection, Justin and the Knights of Valour budget, Justin and the Knights of Valour review, Justin and the Knights of Valour rating, Justin and the Knights of Valour release date, Justin and the Knights of Valour Animation, Justin and the Knights of Valour Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Saoirse Ronan"
+     },
+     {
+      "@type": "Person",
+      "name": "Freddie Highmore"
+     },
+     {
+      "@type": "Person",
+      "name": "Antonio Banderas"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Strong"
+     },
+     {
+      "@type": "Person",
+      "name": "Julie Walters"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 340,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Justin and the Knights of Valour (2013): Animation/Adventure film. Story: A heart-warming tale about friendship, honor &… See cast and budget $22M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Manuel Sicilia"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Animation",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nJU9mcwhp3NyrEVawziufARy64B.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=146381",
+    "name": "Justin and the Knights of Valour",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-08-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=146381"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Justin and the Knights of Valour (2013)</h1>\n<p class=\"ssr-lead\">A heart-warming tale about friendship, honor &amp; courage, which sees a young boy become a man as he embarks on a quest to become a knight.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 August 2013</li><li>Runtime: 90 minutes</li><li>Director: Manuel Sicilia</li><li>Genres: Animation, Adventure</li><li>Budget: $22M</li><li>TMDB rating: 5.9/10 (340 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Saoirse Ronan as Talia (voice)</li><li>Freddie Highmore as Justin (voice)</li><li>Antonio Banderas as Sir Clorex (voice)</li><li>Mark Strong as Heraclio (voice)</li><li>Julie Walters as Gran (voice)</li><li>Olivia Williams as Queen (voice)</li><li>Alfred Molina as Reginald (voice)</li><li>Charles Dance as Legantir (voice)</li><li>Rupert Everett as Sota (voice)</li><li>Tamsin Egerton as Lara (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Rakuten TV, Amazon Video, Sky Store, YouTube</li><li>Buy: Apple TV Store, Rakuten TV, Amazon Video, Sky Store, YouTube</li></ul>\n</article>",
+   "t": "Justin and the Knights of Valour (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
   },
   "movie:14881": {
    "d": "Joe Kidd (1972): Western/Drama film. Story: A band of Mexicans find their U. S. land claims… See cast, TMDB rating 6.4/10, and release date 19 July 1972.",
@@ -1028,6 +1364,70 @@
    "t": "Gigi (1958) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1958"
   },
+  "movie:263281": {
+   "d": "My Summer in Provence (2014): Comedy/Drama film. Story: In the wake of their parent's separation, three… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/d3tf2jxjpZNw088CjKQLS3aBIYa.jpg",
+   "industry": "world",
+   "k": "My Summer in Provence, My Summer in Provence movie, My Summer in Provence cast, My Summer in Provence story, My Summer in Provence box office collection, My Summer in Provence budget, My Summer in Provence review, My Summer in Provence rating, My Summer in Provence release date, My Summer in Provence trailer, My Summer in Provence Comedy, My Summer in Provence Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jean Reno"
+     },
+     {
+      "@type": "Person",
+      "name": "Lukas Pelissier"
+     },
+     {
+      "@type": "Person",
+      "name": "Hugo Dessioux"
+     },
+     {
+      "@type": "Person",
+      "name": "Chloé Jouannet"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Galiena"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 332,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "My Summer in Provence (2014): Comedy/Drama film. Story: In the wake of their parent's separation, three… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Roselyne Bosch"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/d3tf2jxjpZNw088CjKQLS3aBIYa.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=263281",
+    "name": "My Summer in Provence",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-04-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=263281"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>My Summer in Provence (2014)</h1>\n<p class=\"ssr-lead\">In the wake of their parent&#x27;s separation, three siblings spend the summer in the south of France with their estranged Grandfather. In less than 24 hours, a clash of generations has occurred between the teenagers and the old man. During this turbulent summer, both generations will be transformed by one another.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 April 2014</li><li>Runtime: 105 minutes</li><li>Director: Roselyne Bosch</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 6.3/10 (332 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean Reno as Paul</li><li>Lukas Pelissier as Théo</li><li>Hugo Dessioux as Adrien</li><li>Chloé Jouannet as Léa</li><li>Anna Galiena as Irène</li><li>Aure Atika as Magali</li><li>Tom Leeb as Tiago</li><li>Jean-Michel Noirey as Jean-Mi</li><li>Hugues Aufray as Elie</li><li>Charlotte de Turckheim as Laurette</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "My Summer in Provence (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:340481": {
    "d": "The Unknown Girl (2016): Thriller/Drama film. Story: Jenny, a young doctor who feels guilty after a young… See cast and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/hZuFiZJJTKzmP4haYPA6aiRso99.jpg",
@@ -1479,6 +1879,69 @@
    "t": "The World to Come (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
   },
+  "movie:537681": {
+   "d": "Giant Little Ones (2019): Drama film. Story: Two popular teen boys, best friends since childhood… See cast, TMDB rating 7.1/10, and release date 3 January 2019.",
+   "img": "https://image.tmdb.org/t/p/w780/FqmgG2cTm9SFuhy6k1FaVV5DxG.jpg",
+   "industry": "world",
+   "k": "Giant Little Ones, Giant Little Ones movie, Giant Little Ones cast, Giant Little Ones story, Giant Little Ones box office collection, Giant Little Ones budget, Giant Little Ones review, Giant Little Ones rating, Giant Little Ones release date, Giant Little Ones trailer, Giant Little Ones Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Josh Wiggins"
+     },
+     {
+      "@type": "Person",
+      "name": "Darren Mann"
+     },
+     {
+      "@type": "Person",
+      "name": "Taylor Hickson"
+     },
+     {
+      "@type": "Person",
+      "name": "Maria Bello"
+     },
+     {
+      "@type": "Person",
+      "name": "Kyle MacLachlan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 317,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Giant Little Ones (2019): Drama film. Story: Two popular teen boys, best friends since childhood… See cast, TMDB rating 7.1/10, and release date 3 January 2019.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Keith Behrman"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/FqmgG2cTm9SFuhy6k1FaVV5DxG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=537681",
+    "name": "Giant Little Ones",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-01-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=537681"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Giant Little Ones (2019)</h1>\n<p class=\"ssr-lead\">Two popular teen boys, best friends since childhood, discover their lives, families, and girlfriends dramatically upended after an unexpected incident occurs on the night of a 17th birthday party.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 January 2019</li><li>Runtime: 93 minutes</li><li>Director: Keith Behrman</li><li>Genres: Drama</li><li>TMDB rating: 7.1/10 (317 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Josh Wiggins as Franky Winter</li><li>Darren Mann as Ballas Kohl</li><li>Taylor Hickson as Natasha Kohl</li><li>Maria Bello as Carly Winter</li><li>Kyle MacLachlan as Ray Winter</li><li>Carson MacCormac as Michael</li><li>Olivia Scriven as Deanne Winter</li><li>Niamh Wilson as Mouse</li><li>Hailey Kittle as Priscilla</li><li>Peter Outerbridge as Nic Kohl</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Giant Little Ones (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
   "movie:5781": {
    "d": "That Obscure Object of Desire (1977): Comedy/Drama film. Story: After dumping a bucket of water on a beautiful young… See cast and TMDB rating 7.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/79ofDLTW1ozMSYDNWhDYe5cQzAa.jpg",
@@ -1738,6 +2201,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Twixt (2011)</h1>\n<p class=\"ssr-lead\">A washed-up horror novelist arrives in a sleepy town on a book tour, only to stumble into a string of eerie murders. Haunted by dreams of a ghostly girl named V and guided by the spirit of Edgar Allan Poe, he’s drawn into a nightmarish world where fiction and reality blur—and the story he’s chasing leads back to his own buried guilt.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 September 2011</li><li>Runtime: 88 minutes</li><li>Director: Francis Ford Coppola</li><li>Genres: Mystery, Fantasy, Horror</li><li>Budget: $7M</li><li>TMDB rating: 5.1/10 (344 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Val Kilmer as Hall Baltimore</li><li>Elle Fanning as V.</li><li>Bruce Dern as Sheriff Bobby LaGrange</li><li>Ben Chaplin as Edgar Allan Poe</li><li>Joanne Whalley as Denise</li><li>David Paymer as Sam</li><li>Anthony Fusco as Pastor Allan Floyd</li><li>Alden Ehrenreich as Flamingo</li><li>Bruce A. Miroglio as Deputy Arbus</li><li>Don Novello as Melvin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Lionsgate+ Amazon Channel, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Twixt (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:787781": {
+   "d": "Quiz Lady (2023): Comedy film. Story: A brilliant but tightly wound, gameshow-obsessed… See cast, TMDB rating 6.7/10, and release date 9 September 2023.",
+   "img": "https://image.tmdb.org/t/p/w780/1jKBfRyeyJvBkJSKvNQ4nhIzTSx.jpg",
+   "industry": "world",
+   "k": "Quiz Lady, Quiz Lady movie, Quiz Lady cast, Quiz Lady story, Quiz Lady box office collection, Quiz Lady budget, Quiz Lady review, Quiz Lady rating, Quiz Lady release date, Quiz Lady trailer, Quiz Lady Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Awkwafina"
+     },
+     {
+      "@type": "Person",
+      "name": "Sandra Oh"
+     },
+     {
+      "@type": "Person",
+      "name": "Will Ferrell"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Schwartzman"
+     },
+     {
+      "@type": "Person",
+      "name": "Holland Taylor"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 339,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Quiz Lady (2023): Comedy film. Story: A brilliant but tightly wound, gameshow-obsessed… See cast, TMDB rating 6.7/10, and release date 9 September 2023.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jessica Yu"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1jKBfRyeyJvBkJSKvNQ4nhIzTSx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=787781",
+    "name": "Quiz Lady",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-09-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=787781"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Quiz Lady (2023)</h1>\n<p class=\"ssr-lead\">A brilliant but tightly wound, gameshow-obsessed young woman, Anne, and her estranged, train-wreck of a sister, Jenny, must work together to help cover their mother&#x27;s gambling debts. When Anne&#x27;s beloved dog is kidnapped, they set out on a wild, cross-country trek to get the cash the only way they know how: by turning Anne into a bona-fide gameshow champion.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 September 2023</li><li>Runtime: 100 minutes</li><li>Director: Jessica Yu</li><li>Genres: Comedy</li><li>TMDB rating: 6.7/10 (339 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Awkwafina as Anne Yum</li><li>Sandra Oh as Jenny Yum</li><li>Will Ferrell as Terry McTeer</li><li>Jason Schwartzman as Ron Heacock</li><li>Holland Taylor as Francine</li><li>Angela Trimbur as Marge</li><li>Tawny Newsome as Mercedes</li><li>Tony Hale as Ben Franklin</li><li>Jonnie Park as Ken</li><li>Justiin Davis as Darryl (Drunk Bro at Bar)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li></ul>\n</article>",
+   "t": "Quiz Lady (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
   },
   "movie:920081": {
    "d": "Megaboa (2021): Action/Horror film. Story: On a trip to Colombia, a group of college students… See cast, TMDB rating 6.3/10, and release date 26 November 2021.",

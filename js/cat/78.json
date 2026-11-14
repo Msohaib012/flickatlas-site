@@ -1,6 +1,6 @@
 {
  "bucket": "78",
- "count": 39,
+ "count": 45,
  "titles": {
   "movie:10178": {
    "backdrop_path": "/xSN7sVwIC6ExQZVMIUMjm4Tl2TN.jpg",
@@ -104,6 +104,107 @@
    "type": "movie",
    "vote_average": 7.261,
    "vote_count": 391
+  },
+  "movie:10278": {
+   "backdrop_path": "/oyozrAwuzpXIhxvsCA688SFcIEw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "John 'Sheriff' Volgecherev",
+     "n": "Vince Vaughn"
+    },
+    {
+     "c": "Beth Eastern",
+     "n": "Anne Heche"
+    },
+    {
+     "c": "Lewis McBride",
+     "n": "Joaquin Phoenix"
+    },
+    {
+     "c": "Tony Croft",
+     "n": "David Conrad"
+    },
+    {
+     "c": "M.J. Major",
+     "n": "Jada Pinkett Smith"
+    },
+    {
+     "c": "Kerrie",
+     "n": "Vera Farmiga"
+    },
+    {
+     "c": "Ravitch",
+     "n": "Nick Sandow"
+    },
+    {
+     "c": "Gaby",
+     "n": "Elizabeth Rodriguez"
+    },
+    {
+     "c": "Mr. Chandran",
+     "n": "Ming Lee"
+    },
+    {
+     "c": "Mr. Doramin",
+     "n": "Joel de la Fuente"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joseph Ruben"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Romance"
+   ],
+   "id": 10278,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lewis, Sheriff and Tony are three friends vacationing in Malaysia. Sheriff and Tony eventually leave to pursue careers in New York, but Lewis stays behind to work with orangutans. Two years later, Sheriff and Tony learn that, because of their past actions, Lewis has been arrested for drug possession. With Lewis facing a death sentence, the friends are left with a difficult decision: return to Malaysia and split Lewis' sentence, or let him die.",
+   "popularity": 1.914,
+   "poster_path": "/t4lmZtx1zLUijwO2oHHEbUQ7j41.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1998-08-10",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Give up three years of their lives or give up the life of their friend. They have eight days to decide.",
+   "title": "Return to Paradise",
+   "trailer": {
+    "key": "t58hRl6dLyY",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.466,
+   "vote_count": 322
   },
   "movie:114478": {
    "backdrop_path": "/sFfD1TvTUzmzWFpSm7GnYrKcWJH.jpg",
@@ -231,6 +332,96 @@
    "type": "movie",
    "vote_average": 5.858,
    "vote_count": 464
+  },
+  "movie:11578": {
+   "backdrop_path": "/414exGjkL14kpAV75wSRSm2fyny.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Don Camillo Tarocci",
+     "n": "Fernandel"
+    },
+    {
+     "c": "Giuseppe \"Peppone\" Bottazzi",
+     "n": "Gino Cervi"
+    },
+    {
+     "c": "Il cantoniere",
+     "n": "Arturo Bragaglia"
+    },
+    {
+     "c": "Le docteur Spiletti / Il dottore Spiletti",
+     "n": "Édouard Delmont"
+    },
+    {
+     "c": "Franceso 'Nero' Gallini",
+     "n": "Alexandre Rignault"
+    },
+    {
+     "c": "Brusco - il barbiere",
+     "n": "Saro Urzì"
+    },
+    {
+     "c": "Marchetti",
+     "n": "Paolo Stoppa"
+    },
+    {
+     "c": "Cagnola",
+     "n": "Thomy Bourdelle"
+    },
+    {
+     "c": "",
+     "n": "Miranda Campa"
+    },
+    {
+     "c": "Beppo Bottazzi",
+     "n": "Claudy Chapeland"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Julien Duvivier"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 11578,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Energetic priest Don Camillo returns to the town of Brescello for more political and personal duels with Communist mayor Peppone.",
+   "popularity": 1.2433,
+   "poster_path": "/DPSCKSwMYsGnu2X4w7iOGI9vHQ.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1953-06-05",
+   "revenue": 0,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Return of Don Camillo",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.236,
+   "vote_count": 313
   },
   "movie:1181678": {
    "backdrop_path": "/xyWKrni8WrYzqn7ztvI5nIY0h62.jpg",
@@ -1264,6 +1455,101 @@
    "vote_average": 4.918,
    "vote_count": 49
   },
+  "movie:19178": {
+   "backdrop_path": "/fDJ8J4fM5tMdXxljCHfHTlK5Bzl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Grandgil, l'artiste peintre",
+     "n": "Jean Gabin"
+    },
+    {
+     "c": "Marcel Martin, chauffeur de taxi au chômage",
+     "n": "Bourvil"
+    },
+    {
+     "c": "Jambier, l'épicier",
+     "n": "Louis de Funès"
+    },
+    {
+     "c": "Mariette Martin, la femme de Marcel",
+     "n": "Jeannette Batti"
+    },
+    {
+     "c": "Lucienne Couronne, la cafetière",
+     "n": "Georgette Anys"
+    },
+    {
+     "c": "Marchandot, le boucher charcutier",
+     "n": "Robert Arnoux"
+    },
+    {
+     "c": "La serveuse du restaurant",
+     "n": "Laurence Badie"
+    },
+    {
+     "c": "Angèle Marchandot, la bouchère charcutière",
+     "n": "Myno Burney"
+    },
+    {
+     "c": "Une femme au restaurant",
+     "n": "Germaine Delbat"
+    },
+    {
+     "c": "Mme Jambier, l'épicière",
+     "n": "Monette Dinay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Claude Autant-Lara"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 19178,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Two unlikely companions must smuggle four suitcases filled with contraband pork across Nazi-occupied Paris.",
+   "popularity": 2.0333,
+   "poster_path": "/euq3YhkXJgsDlUxid5cTInsxnqh.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1956-10-26",
+   "revenue": 0,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "JEAN GABIN and BOURVIL in a REMARKABLE FRENCH FILM with suspense predominating of course - but also much more than just a soupcon of laughter!",
+   "title": "La Traversée de Paris",
+   "trailer": {
+    "key": "rTBUyR0RAHA",
+    "name": "The Trip Across Paris / La Traversée de Paris (1956) - Trailer (english subtitles)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.287,
+   "vote_count": 324
+  },
   "movie:1978": {
    "backdrop_path": "/sUZfWQ8zlZx0OwOTmorDgttzIia.jpg",
    "budget": 1450000,
@@ -1431,6 +1717,248 @@
    "type": "movie",
    "vote_average": 6.825,
    "vote_count": 383
+  },
+  "movie:20778": {
+   "backdrop_path": "/6fX4DqAGPBVDcN0IhETXwfGDy9N.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Silien",
+     "n": "Jean-Paul Belmondo"
+    },
+    {
+     "c": "Maurice Faugel",
+     "n": "Serge Reggiani"
+    },
+    {
+     "c": "Superintendant Clain",
+     "n": "Jean Desailly"
+    },
+    {
+     "c": "Gilbert Varnove",
+     "n": "René Lefèvre"
+    },
+    {
+     "c": "Police inspector",
+     "n": "Marcel Cuvelier"
+    },
+    {
+     "c": "Jean",
+     "n": "Philippe March"
+    },
+    {
+     "c": "Fabienne",
+     "n": "Fabienne Dali"
+    },
+    {
+     "c": "Thérèse",
+     "n": "Monique Hennessy"
+    },
+    {
+     "c": "Kern",
+     "n": "Carl Studer"
+    },
+    {
+     "c": "Doctor",
+     "n": "Christian Lude"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Jean-Pierre Melville"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 20778,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Enigmatic gangster Silien may or may not be responsible for informing on Faugel,  who was just released from prison and is already involved in what should be a simple heist. By the end of this brutal, twisting, and multilayered policier, who will be left to trust?",
+   "popularity": 1.8981,
+   "poster_path": "/f8Su2mIJ5PyL2NkkrYnswX5IydV.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "France Channel Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1962-12-13",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Raw! Shocking! Savage!",
+   "title": "Le Doulos",
+   "trailer": {
+    "key": "5-NbnHocnFk",
+    "name": "Le Doulos",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.383,
+   "vote_count": 321
+  },
+  "movie:20878": {
+   "backdrop_path": "/lYg9Iqn4U1WFaDUUdaN2NH8OqrK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shurik",
+     "n": "Aleksandr Demyanenko"
+    },
+    {
+     "c": "Nina",
+     "n": "Natalya Varley"
+    },
+    {
+     "c": "Balbes",
+     "n": "Yuriy Nikulin"
+    },
+    {
+     "c": "Trus",
+     "n": "Georgiy Vitsin"
+    },
+    {
+     "c": "Byvalyy",
+     "n": "Yevgeni Morgunov"
+    },
+    {
+     "c": "сomrade Saakhov",
+     "n": "Vladimir Etush"
+    },
+    {
+     "c": "Dzhabrail",
+     "n": "Mher Mkrtchyan"
+    },
+    {
+     "c": "Edik",
+     "n": "Ruslan Akhmetov"
+    },
+    {
+     "c": "hotel worker",
+     "n": "Noy Avaliani"
+    },
+    {
+     "c": "doctor",
+     "n": "Nina Grebeshkova"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Leonid Gaidai"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 20878,
+   "industry": "world",
+   "origin_country": [
+    "SU"
+   ],
+   "original_language": "ru",
+   "overview": "Shurik, a kind but naïve ethnography student, falls in love with the intelligent, athletic and beautiful All-Union Leninist Young Communist League member Nina. He has a rival in the wealthy comrade Saakhov, who concocts a kidnapping scheme to force Nina to marry him.",
+   "popularity": 1.936,
+   "poster_path": "/orp7Ec8fDDHXFYnAjOPWsuF0Dhe.jpg",
+   "production_countries": [
+    "SU"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1967-04-03",
+   "revenue": 0,
+   "runtime": 82,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Kidnapping, Caucasian Style",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.653,
+   "vote_count": 310
   },
   "movie:25678": {
    "backdrop_path": "/vu7Pbne8Fwpkj1su4DuHW7WQH9k.jpg",
@@ -2302,6 +2830,206 @@
    "type": "movie",
    "vote_average": 6.269,
    "vote_count": 413
+  },
+  "movie:63578": {
+   "backdrop_path": "/mFhtMAX6nqoLSqA8Y5NvLejAcc5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Steve Coogan",
+     "n": "Steve Coogan"
+    },
+    {
+     "c": "Rob Brydon",
+     "n": "Rob Brydon"
+    },
+    {
+     "c": "Emma",
+     "n": "Claire Keelan"
+    },
+    {
+     "c": "Mischa",
+     "n": "Margo Stilley"
+    },
+    {
+     "c": "Paul",
+     "n": "Paul Popplewell"
+    },
+    {
+     "c": "Sally",
+     "n": "Rebecca Johnson"
+    },
+    {
+     "c": "Magda",
+     "n": "Dolya Gavanski"
+    },
+    {
+     "c": "Steve's US Agent",
+     "n": "Kerry Shale"
+    },
+    {
+     "c": "Steve's Dad",
+     "n": "Bernard Gallagher"
+    },
+    {
+     "c": "Yolanda",
+     "n": "Marta Barrio"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Michael Winterbottom"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 63578,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When Steve Coogan is asked by The Observer to tour the country's finest restaurants, he envisions it as the perfect getaway with his beautiful girlfriend. But, when she backs out on him, he has no one to accompany him but his best friend and source of eternal aggravation, Rob Brydon.",
+   "popularity": 1.0,
+   "poster_path": "/tjGrjHNjsR0klih0bkGBHbukMdX.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-04-24",
+   "revenue": 951179,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Eat, drink and try not to kill each other",
+   "title": "The Trip",
+   "trailer": {
+    "key": "K9bPJmy68Rs",
+    "name": "The Trip (2011) - Official Trailer HD",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 332
   },
   "movie:69778": {
    "backdrop_path": "/oqN7CoEzxAABrGBlS8s4PyU3xLO.jpg",

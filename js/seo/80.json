@@ -1,6 +1,6 @@
 {
  "bucket": "80",
- "count": 48,
+ "count": 54,
  "titles": {
   "movie:10480": {
    "d": "Nurse Betty (2000): Comedy/Crime film. Story: What happens when a person decides that life is… See cast, budget $24M, and TMDB rating 6.1/10.",
@@ -832,6 +832,137 @@
    "t": "The Girlfriend Experience (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2009"
   },
+  "movie:252680": {
+   "d": "Moms' Night Out (2014): Comedy film. Story: Yearning for an evening without their kids, some… See cast, budget $5M, and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xzi0mSJJU0de8sXn1d6S4ahzzr.jpg",
+   "industry": "world",
+   "k": "Moms' Night Out, Moms' Night Out movie, Moms' Night Out cast, Moms' Night Out story, Moms' Night Out box office collection, Moms' Night Out budget, Moms' Night Out review, Moms' Night Out rating, Moms' Night Out release date, Moms' Night Out Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sarah Drew"
+     },
+     {
+      "@type": "Person",
+      "name": "Sean Astin"
+     },
+     {
+      "@type": "Person",
+      "name": "Patricia Heaton"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrea Logan White"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Amaya"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 317,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Moms' Night Out (2014): Comedy film. Story: Yearning for an evening without their kids, some… See cast, budget $5M, and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Andrew Erwin"
+     },
+     {
+      "@type": "Person",
+      "name": "Jon Erwin"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xzi0mSJJU0de8sXn1d6S4ahzzr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=252680",
+    "name": "Moms' Night Out",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-03-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=252680"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Moms&#x27; Night Out (2014)</h1>\n<p class=\"ssr-lead\">Yearning for an evening without their kids, some friends plan a night out. But to do this, their husbands need to watch the kids. What can go wrong?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 March 2014</li><li>Runtime: 98 minutes</li><li>Director: Andrew Erwin, Jon Erwin</li><li>Genres: Comedy</li><li>Budget: $5M</li><li>TMDB rating: 5.6/10 (317 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sarah Drew as Allyson</li><li>Sean Astin as Sean</li><li>Patricia Heaton as Sondra</li><li>Andrea Logan White as Izzy</li><li>Robert Amaya as Marco</li><li>Sammi Hanratty as Zoe</li><li>Harry Shum Jr. as Joey</li><li>Kevin Downes as Kevin</li><li>Abbie Cobb as Bridgette</li><li>Alex Kendrick as Pastor Ray</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Moms' Night Out (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
+  "movie:267480": {
+   "d": "The Look of Silence (2014): History/Documentary film. Story: An Indonesian man with a communist background named… See cast and TMDB rating 7.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/eozLsgdW5VyUEdPDuDaBD4VB86o.jpg",
+   "industry": "world",
+   "k": "The Look of Silence, The Look of Silence movie, The Look of Silence cast, The Look of Silence story, The Look of Silence box office collection, The Look of Silence budget, The Look of Silence review, The Look of Silence rating, The Look of Silence release date, The Look of Silence trailer, The Look of Silence History, The Look of Silence Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Adi Rukun"
+     },
+     {
+      "@type": "Person",
+      "name": "M.Y. Basrun"
+     },
+     {
+      "@type": "Person",
+      "name": "Amir Hasan"
+     },
+     {
+      "@type": "Person",
+      "name": "Inong"
+     },
+     {
+      "@type": "Person",
+      "name": "Kemat"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 329,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "The Look of Silence (2014): History/Documentary film. Story: An Indonesian man with a communist background named… See cast and TMDB rating 7.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joshua Oppenheimer"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "History",
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eozLsgdW5VyUEdPDuDaBD4VB86o.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=267480",
+    "name": "The Look of Silence",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-09-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=267480"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Look of Silence (2014)</h1>\n<p class=\"ssr-lead\">An Indonesian man with a communist background named Ramli was brutally murdered when the &quot;Communist&quot; purge occurred in 1965. His remaining family members lived in fear and silence until the making of this documentary. Adi, a brother of his, decided to revisit the horrific incident and visited the men who were responsible for the killings and one survivor of the purge. These meetings uncovered sadistic details of the murders and exposed raw emotions and reactions of the killers&#x27; family members about what happened in the past - much to Adi&#x27;s disappointment.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 September 2014</li><li>Runtime: 100 minutes</li><li>Director: Joshua Oppenheimer</li><li>Genres: History, Documentary</li><li>TMDB rating: 7.8/10 (329 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Adi Rukun as Self</li><li>M.Y. Basrun as Self</li><li>Amir Hasan as Self (archive footage)</li><li>Inong as Self</li><li>Kemat as Self</li><li>Joshua Oppenheimer as Self (voice)</li><li>Amir Siahaan as Self</li><li>Ted Yates as Self (archive footage)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Fandor</li><li>Rent: Amazon Video, Apple TV Store</li><li>Buy: Amazon Video, Apple TV Store</li></ul>\n</article>",
+   "t": "The Look of Silence (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:3080": {
    "d": "Top Hat (1935): Music/Comedy film. Story: Showman Jerry Travers is working for producer Horace… See cast, budget $609.0k, and TMDB rating 7.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/9riMLH4EOw6PZzeCDnPlIGSyiEu.jpg",
@@ -1151,6 +1282,70 @@
    "t": "Brad's Status (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
+  "movie:4780": {
+   "d": "Obsession (1976): Thriller/Mystery film. Story: A wealthy New Orleans businessman becomes obsessed… See cast, budget $1.4M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kjIgQmRlgBI1u2YvjW7EcorzHbf.jpg",
+   "industry": "world",
+   "k": "Obsession, Obsession movie, Obsession cast, Obsession story, Obsession box office collection, Obsession budget, Obsession review, Obsession rating, Obsession release date, Obsession trailer, Obsession Thriller, Obsession Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Cliff Robertson"
+     },
+     {
+      "@type": "Person",
+      "name": "Geneviève Bujold"
+     },
+     {
+      "@type": "Person",
+      "name": "John Lithgow"
+     },
+     {
+      "@type": "Person",
+      "name": "Sylvia Kuumba Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Wanda Blackman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 339,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Obsession (1976): Thriller/Mystery film. Story: A wealthy New Orleans businessman becomes obsessed… See cast, budget $1.4M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Brian De Palma"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Thriller",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kjIgQmRlgBI1u2YvjW7EcorzHbf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=4780",
+    "name": "Obsession",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1976-08-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=4780"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Obsession (1976)</h1>\n<p class=\"ssr-lead\">A wealthy New Orleans businessman becomes obsessed with a young woman who resembles his late wife.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 August 1976</li><li>Runtime: 99 minutes</li><li>Director: Brian De Palma</li><li>Genres: Thriller, Mystery, Drama</li><li>Budget: $1.4M</li><li>TMDB rating: 6.7/10 (339 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Cliff Robertson as Michael Courtland</li><li>Geneviève Bujold as Elizabeth Courtland / Sandra Portinari</li><li>John Lithgow as Robert Lasalle</li><li>Sylvia Kuumba Williams as Maid</li><li>Wanda Blackman as Amy Courtland</li><li>J. Patrick McNamara as Third Kidnapper</li><li>Stanley J. Reyes as Inspector Brie</li><li>Nick Kreiger as Farber</li><li>Stocker Fontelieu as Dr. Ellman</li><li>Don Hood as Ferguson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: ARROW</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Obsession (1976) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1976"
+  },
   "movie:51980": {
    "d": "Germinal (1993): Drama/Romance film. Story: It's mid 19th century, north of France. The story of… See cast and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/goeGgDKGaTzpXp6jJAvDWKT7P80.jpg",
@@ -1278,6 +1473,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Alice and the Mayor (2019)</h1>\n<p class=\"ssr-lead\">The mayor of Lyon, Paul Théraneau, is in a delicate position. After 30 years in politics, he is running out of ideas and is faced with a feeling of existential emptiness. To overcome this, Paul hires a young and brilliant philosopher, Alice Heimann. Then follows a dialogue between two diametrically opposed personalities who will turn their certainties upside down.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 May 2019</li><li>Runtime: 103 minutes</li><li>Director: Nicolas Pariser</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 6.2/10 (353 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Fabrice Luchini as Paul Theraneau</li><li>Anaïs Demoustier as Alice Heimann</li><li>Nora Hamzawi as Mélinda</li><li>Léonie Simaga as Isabelle Leinsdorf</li><li>Antoine Reinartz as Daniel</li><li>Maud Wyler as Delphine</li><li>Alexandre Steiger as Gauthier</li><li>Pascal Rénéric as Xavier</li><li>Thomas Rortais as Pierre</li><li>Thomas Chabrol as Patrick Brac</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: France Channel Amazon Channel</li></ul>\n</article>",
    "t": "Alice and the Mayor (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:608980": {
+   "d": "Three Floors (2021): Drama film. Story: Follows the lives of three families who live in a… See cast, budget $8.23M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3E7SmCwoSbpBn7cfp10hQjsGk2U.jpg",
+   "industry": "world",
+   "k": "Three Floors, Three Floors movie, Three Floors cast, Three Floors story, Three Floors box office collection, Three Floors budget, Three Floors review, Three Floors rating, Three Floors release date, Three Floors trailer, Three Floors Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Margherita Buy"
+     },
+     {
+      "@type": "Person",
+      "name": "Riccardo Scamarcio"
+     },
+     {
+      "@type": "Person",
+      "name": "Alba Rohrwacher"
+     },
+     {
+      "@type": "Person",
+      "name": "Adriano Giannini"
+     },
+     {
+      "@type": "Person",
+      "name": "Elena Lietti"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 322,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Three Floors (2021): Drama film. Story: Follows the lives of three families who live in a… See cast, budget $8.23M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nanni Moretti"
+     }
+    ],
+    "duration": "PT119M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3E7SmCwoSbpBn7cfp10hQjsGk2U.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=608980",
+    "name": "Three Floors",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-09-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=608980"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Three Floors (2021)</h1>\n<p class=\"ssr-lead\">Follows the lives of three families who live in a three-story building in a Roman neighbourhood.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 September 2021</li><li>Runtime: 119 minutes</li><li>Director: Nanni Moretti</li><li>Genres: Drama</li><li>Budget: $8.23M</li><li>TMDB rating: 6.3/10 (322 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Margherita Buy as Dora</li><li>Riccardo Scamarcio as Lucio</li><li>Alba Rohrwacher as Monica</li><li>Adriano Giannini as Giorgio</li><li>Elena Lietti as Sara</li><li>Alessandro Sperduti as Andrea</li><li>Denise Tantucci as Charlotte</li><li>Nanni Moretti as Vittorio</li><li>Anna Bonaiuto as Giovanna</li><li>Paolo Graziosi as Renato</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Rakuten TV, Amazon Video, Sky Store, BFI Player, YouTube</li><li>Buy: Apple TV Store, Rakuten TV, Amazon Video, Sky Store, YouTube</li></ul>\n</article>",
+   "t": "Three Floors (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "movie:664280": {
    "d": "David Attenborough: A Life on Our Planet (2020): Documentary/Drama film. Story: The story of life on our planet by the man who has… See cast.",
@@ -1593,6 +1851,136 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Suspect Zero (2004)</h1>\n<p class=\"ssr-lead\">A killer is on the loose, and an FBI agent sifts through clues and learns that the bloodthirsty felon&#x27;s victims of choice are other serial killers.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 August 2004</li><li>Runtime: 99 minutes</li><li>Director: E. Elias Merhige</li><li>Genres: Crime, Thriller</li><li>Budget: $27M</li><li>TMDB rating: 5.6/10 (422 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aaron Eckhart as Thomas Mackelway</li><li>Ben Kingsley as Benjamin O&#x27;Ryan</li><li>Carrie-Anne Moss as Fran Kulok</li><li>Harry Lennix as Rich Charleton</li><li>Kevin Chamberlin as Harold Speck</li><li>Julian Reyes as Highway Patrolman</li><li>Keith Campbell as Raymond Starkey</li><li>Chloe Alexa Ibanez as Loretta</li><li>Ellen Blake as Dolly</li><li>William B. Johnson as Mel</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Suspect Zero (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2004"
+  },
+  "movie:843380": {
+   "d": "Dead for a Dollar (2022): Western film. Story: In 1897, veteran bounty hunter Max Borlund is deep… See cast and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/15BnuDQ8pYRmLqPZKAk5vIhUu9J.jpg",
+   "industry": "world",
+   "k": "Dead for a Dollar, Dead for a Dollar movie, Dead for a Dollar cast, Dead for a Dollar story, Dead for a Dollar box office collection, Dead for a Dollar budget, Dead for a Dollar review, Dead for a Dollar rating, Dead for a Dollar release date, Dead for a Dollar trailer, Dead for a Dollar Western, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christoph Waltz"
+     },
+     {
+      "@type": "Person",
+      "name": "Willem Dafoe"
+     },
+     {
+      "@type": "Person",
+      "name": "Rachel Brosnahan"
+     },
+     {
+      "@type": "Person",
+      "name": "Hamish Linklater"
+     },
+     {
+      "@type": "Person",
+      "name": "Benjamin Bratt"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 325,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Dead for a Dollar (2022): Western film. Story: In 1897, veteran bounty hunter Max Borlund is deep… See cast and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Walter Hill"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Western"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/15BnuDQ8pYRmLqPZKAk5vIhUu9J.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=843380",
+    "name": "Dead for a Dollar",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-09-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=843380"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dead for a Dollar (2022)</h1>\n<p class=\"ssr-lead\">In 1897, veteran bounty hunter Max Borlund is deep into Mexico where he encounters professional gambler and outlaw Joe Cribbens — a sworn enemy he sent to prison years before. Max is on a mission to find and return Rachel Kidd, the wife of a wealthy businessman, who as the story is told to Max, has been abducted by Buffalo Soldier Elijah Jones. Max is ultimately faced with a showdown to save honor.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 September 2022</li><li>Runtime: 107 minutes</li><li>Director: Walter Hill</li><li>Genres: Western</li><li>TMDB rating: 5.8/10 (325 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christoph Waltz as Max Borlund</li><li>Willem Dafoe as Joe Cribbens</li><li>Rachel Brosnahan as Rachel Kidd</li><li>Hamish Linklater as Martin Kidd</li><li>Benjamin Bratt as Tiberio Vargas</li><li>Guy Burnet as English Bill</li><li>Brandon Scott as Elijah Jones</li><li>Scott Peat as Jack Tyree</li><li>Warren Burke as Sergeant Poe</li><li>Luis Chávez as Esteban Romero</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Dead for a Dollar (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
+  "movie:926980": {
+   "d": "The Privilege (2022): Horror film. Story: A wealthy teen and his friends attending an elite… See cast, TMDB rating 5.2/10, and release date 9 February 2022.",
+   "img": "https://image.tmdb.org/t/p/w780/tN5Ws9NXR6N3LR2S39rHfCXrFkN.jpg",
+   "industry": "world",
+   "k": "The Privilege, The Privilege movie, The Privilege cast, The Privilege story, The Privilege box office collection, The Privilege budget, The Privilege review, The Privilege rating, The Privilege release date, The Privilege Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Max Schimmelpfennig"
+     },
+     {
+      "@type": "Person",
+      "name": "Lea van Acken"
+     },
+     {
+      "@type": "Person",
+      "name": "Tijan Marei"
+     },
+     {
+      "@type": "Person",
+      "name": "Milena Tscharntke"
+     },
+     {
+      "@type": "Person",
+      "name": "Lise Risom Olsen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 312,
+     "ratingValue": 5.2,
+     "worstRating": 0
+    },
+    "description": "The Privilege (2022): Horror film. Story: A wealthy teen and his friends attending an elite… See cast, TMDB rating 5.2/10, and release date 9 February 2022.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Felix Fuchssteiner"
+     },
+     {
+      "@type": "Person",
+      "name": "Katharina Schöde"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tN5Ws9NXR6N3LR2S39rHfCXrFkN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=926980",
+    "name": "The Privilege",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-02-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=926980"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Privilege (2022)</h1>\n<p class=\"ssr-lead\">A wealthy teen and his friends attending an elite private school uncover a dark conspiracy while looking into a series of strange supernatural events.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 February 2022</li><li>Runtime: 107 minutes</li><li>Director: Felix Fuchssteiner, Katharina Schöde</li><li>Genres: Horror</li><li>TMDB rating: 5.2/10 (312 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Max Schimmelpfennig as Finn Bergmann</li><li>Lea van Acken as Lena</li><li>Tijan Marei as Samira Steinke</li><li>Milena Tscharntke as Sophie Bergmann</li><li>Lise Risom Olsen as Yvonne Bergmann</li><li>Roman Knižka as Roman Bergmann</li><li>Nadeshda Brennicke as Dr Steinke</li><li>Horst Janson as Grandpa Bergmann</li><li>Caroline Hartig as Anna Bergmann</li><li>Jeanette Spassova as Eliska Novak</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Privilege (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
   },
   "movie:94380": {
    "d": "Bad Ass (2012): Action/Drama film. Story: Decorated Vietnam hero, Frank Vega returns home only… See cast, TMDB rating 5.8/10, and release date 12 April 2012.",

@@ -1,7 +1,114 @@
 {
  "bucket": "26",
- "count": 47,
+ "count": 56,
  "titles": {
+  "movie:1010826": {
+   "backdrop_path": "/lEMO9pVODhiWLgJzuCaYlfJkdNz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ángela",
+     "n": "Veki Velilla"
+    },
+    {
+     "c": "Sebas Hoyos",
+     "n": "Álvaro Mel"
+    },
+    {
+     "c": "Virginia",
+     "n": "Priscilla Delgado"
+    },
+    {
+     "c": "Nando",
+     "n": "Iván Pellicer"
+    },
+    {
+     "c": "Koldo",
+     "n": "Hamza Zaidi"
+    },
+    {
+     "c": "Eva",
+     "n": "María Cerezuela"
+    },
+    {
+     "c": "Sara Pons",
+     "n": "Ane Rot"
+    },
+    {
+     "c": "Rai",
+     "n": "Carlos Alcaide"
+    },
+    {
+     "c": "Cruzado",
+     "n": "Daniel Grao"
+    },
+    {
+     "c": "Catalina",
+     "n": "Carmela Lloret"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Carlos Alonso-Ojea"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 1010826,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Eight horror-loving friends fight for their lives when a killer clown who seems to know the grim secret they share begins to pick them off, one by one.",
+   "popularity": 2.0007,
+   "poster_path": "/zZH0sAUV0nfEEDBUdWBMLjs2XnN.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-08-25",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Killer Book Club",
+   "trailer": {
+    "key": "yQFYsvt07LA",
+    "name": "Killer Book Club - 2023 - Netflix Movie Trailer - English Subs",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.555,
+   "vote_count": 328
+  },
   "movie:10426": {
    "backdrop_path": "/bfnQPbcmPAXO2QmDONalx4vNWPB.jpg",
    "budget": 20000000,
@@ -1866,6 +1973,287 @@
    "vote_average": 6.6,
    "vote_count": 499
   },
+  "movie:25126": {
+   "backdrop_path": "/bTYoUROtBXXDivjpHV6S0zqZYwv.jpg",
+   "budget": 200000,
+   "cast": [
+    {
+     "c": "Donnelly",
+     "n": "Brendan Gleeson"
+    },
+    {
+     "c": "Kid",
+     "n": "Rúaidhrí Conroy"
+    },
+    {
+     "c": "Man",
+     "n": "David Wilmot"
+    },
+    {
+     "c": "Woman",
+     "n": "Aisling O'Sullivan"
+    },
+    {
+     "c": "Chief Guard",
+     "n": "Gary Lydon"
+    },
+    {
+     "c": "Cashier",
+     "n": "Domhnall Gleeson"
+    },
+    {
+     "c": "Doctor",
+     "n": "David Murray"
+    },
+    {
+     "c": "Young Kid",
+     "n": "Tadgh Conroy"
+    },
+    {
+     "c": "Short Man",
+     "n": "David Pearse"
+    },
+    {
+     "c": "Donnelly's Wife",
+     "n": "Ann McFarlane"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "festival",
+   "director": [
+    "Martin McDonagh"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Crime"
+   ],
+   "id": 25126,
+   "industry": "world",
+   "origin_country": [
+    "IE",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Overwhelmed by grief following the death of his wife, Donnelly shares a train carriage home with a troubled young man identified only as the 'Kid'. As the Kid becomes more agitated and foul-mouthed, the journey takes on a violent and dangerous hue – for the bereaved Donnelly and for other hapless passengers on the train. Academy Award Winner: Best Live Action Short Film – 2005",
+   "popularity": 1.4148,
+   "poster_path": "/hBJTJi0SH4avrBr7OQqBZuYPvmA.jpg",
+   "production_countries": [
+    "IE",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "ShortsTV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gNQdc6Hdh5mr9AJkuyQEFEmphWW.png",
+     "name": "ShortsTV Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-10-14",
+   "revenue": 0,
+   "runtime": 27,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A black and bloody Irish comedy.",
+   "title": "Six Shooter",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.142,
+   "vote_count": 313
+  },
+  "movie:283726": {
+   "backdrop_path": "/gi88gFtqxVRZPT5AIWwwKzAuzHF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "David / Virginia",
+     "n": "Romain Duris"
+    },
+    {
+     "c": "Claire",
+     "n": "Anaïs Demoustier"
+    },
+    {
+     "c": "Gilles",
+     "n": "Raphaël Personnaz"
+    },
+    {
+     "c": "Laura",
+     "n": "Isild Le Besco"
+    },
+    {
+     "c": "Liz, la mère de Laura",
+     "n": "Aurore Clément"
+    },
+    {
+     "c": "Robert, le père de Laura",
+     "n": "Jean-Claude Bolle-Reddat"
+    },
+    {
+     "c": "Nounou",
+     "n": "Claudine Chatel"
+    },
+    {
+     "c": "Infirmière",
+     "n": "Anita Gillier"
+    },
+    {
+     "c": "Aide soignant",
+     "n": "Alex Fondja"
+    },
+    {
+     "c": "Serveuse restaurant",
+     "n": "Zita Hanrot"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "François Ozon"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 283726,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A young woman makes a surprising discovery about the husband of her late best friend.",
+   "popularity": 1.6707,
+   "poster_path": "/miW6zqiLFXY3uOrN4Ehpho2DMBB.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Cohen Media Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/89EaG6G6QpQnxfquTLSPNlpRhF8.png",
+     "name": "Cohen Media Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-10-11",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Your secrets, her lies.",
+   "title": "The New Girlfriend",
+   "trailer": {
+    "key": "KbSGOhnl9aY",
+    "name": "The New Girlfriend | Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 330
+  },
   "movie:2926": {
    "backdrop_path": "/ljZtX8UZhGOOpQrgtcqSwPTTZJv.jpg",
    "budget": 4500000,
@@ -2791,6 +3179,112 @@
    "vote_average": 4.7,
    "vote_count": 353
   },
+  "movie:42726": {
+   "backdrop_path": "/chVgCErGuL1oUNFg6Gs7iQZGGZF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Anne Gauthier",
+     "n": "Anouk Aimée"
+    },
+    {
+     "c": "Jean-Louis Duroc",
+     "n": "Jean-Louis Trintignant"
+    },
+    {
+     "c": "Pierre Gauthier",
+     "n": "Pierre Barouh"
+    },
+    {
+     "c": "Valérie Duroc",
+     "n": "Valérie Lagrange"
+    },
+    {
+     "c": "Antoine Duroc",
+     "n": "Antoine Sire"
+    },
+    {
+     "c": "Françoise Gauthier",
+     "n": "Souad Amidou"
+    },
+    {
+     "c": "Jean-Louis' Co-pilot",
+     "n": "Henri Chemin"
+    },
+    {
+     "c": "Jean-Louis' Mistress",
+     "n": "Yane Barry"
+    },
+    {
+     "c": "Gas Station Attendant",
+     "n": "Paul Le Person"
+    },
+    {
+     "c": "Director of the Pension",
+     "n": "Simone Paris"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Claude Lelouch"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 42726,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A man and a woman meet by accident on a Sunday evening at their childrens' boarding school. Slowly, they reveal themselves to each other, finding that they have something deeply in common.",
+   "popularity": 2.4575,
+   "poster_path": "/boDZQiubhyhksN8fcgM4sXZ2btW.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1966-05-27",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "See it with someone you love!",
+   "title": "A Man and a Woman",
+   "trailer": {
+    "key": "_F7guhRPmOQ",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.35,
+   "vote_count": 324
+  },
   "movie:437626": {
    "backdrop_path": "/2Enmg9KVNty2rOPNtXU8XWUHQ0a.jpg",
    "budget": 0,
@@ -3096,6 +3590,167 @@
    "vote_average": 6.545,
    "vote_count": 341
   },
+  "movie:46326": {
+   "backdrop_path": "/roPGP6yjxwSBXczkp54Cmo99HRb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jean",
+     "n": "Jean Gabin"
+    },
+    {
+     "c": "Zabel",
+     "n": "Michel Simon"
+    },
+    {
+     "c": "Nelly",
+     "n": "Michèle Morgan"
+    },
+    {
+     "c": "Lucien",
+     "n": "Pierre Brasseur"
+    },
+    {
+     "c": "Panama",
+     "n": "Édouard Delmont"
+    },
+    {
+     "c": "Quart Vittel",
+     "n": "Raymond Aimos"
+    },
+    {
+     "c": "The Painter",
+     "n": "Robert Le Vigan"
+    },
+    {
+     "c": "The Doctor",
+     "n": "René Génin"
+    },
+    {
+     "c": "A Girl",
+     "n": "Jenny Burnay"
+    },
+    {
+     "c": "Hotel Manager",
+     "n": "Roger Legris"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Marcel Carné"
+   ],
+   "genres": [
+    "Romance",
+    "Drama",
+    "Crime"
+   ],
+   "id": 46326,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Down a foggy, desolate road to the port city of Le Havre travels Jean, an army deserter looking for another chance to make good on life. Fate, however, has a different plan for him, as acts of both revenge and kindness render him front-page news.",
+   "popularity": 3.2052,
+   "poster_path": "/2S8O2V50TZlXV8uabOvGUJ1i5CZ.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "France Channel Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1938-05-17",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Tender... frankly adult. Filled with almost every emotion known to man",
+   "title": "Port of Shadows",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.402,
+   "vote_count": 322
+  },
   "movie:479626": {
    "backdrop_path": "/eiBXqcjxrw9osXatNfqTGmibhTC.jpg",
    "budget": 0,
@@ -3341,6 +3996,227 @@
    "vote_average": 6.959,
    "vote_count": 486
   },
+  "movie:5126": {
+   "backdrop_path": "/hAvQYr8vpK9OlJHwn4ft0ETKzRD.jpg",
+   "budget": 27000000,
+   "cast": [
+    {
+     "c": "David",
+     "n": "John Cusack"
+    },
+    {
+     "c": "Dennis",
+     "n": "Bobby Coleman"
+    },
+    {
+     "c": "Harlee",
+     "n": "Amanda Peet"
+    },
+    {
+     "c": "Sophie",
+     "n": "Sophie Okonedo"
+    },
+    {
+     "c": "Liz",
+     "n": "Joan Cusack"
+    },
+    {
+     "c": "Jeff",
+     "n": "Oliver Platt"
+    },
+    {
+     "c": "Lefkowitz",
+     "n": "Richard Schiff"
+    },
+    {
+     "c": "Esther",
+     "n": "Taya Calicetto"
+    },
+    {
+     "c": "Andy",
+     "n": "David Kaye"
+    },
+    {
+     "c": "Nicholas",
+     "n": "Braxton Bonneville"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Menno Meyjes"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 5126,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A recently-widowed science fiction writer considers whether to adopt a hyper-imaginative 6-year-old abandoned and socially-rejected boy who says he's really from Mars.",
+   "popularity": 1.3727,
+   "poster_path": "/amRUHHflkZsbcvRnfJN9ZKxv8R3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-11-02",
+   "revenue": 9400000,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Doesn't matter where you come from, as long as you find where you belong!",
+   "title": "Martian Child",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 336
+  },
+  "movie:58626": {
+   "backdrop_path": "/dv4uPIXzgQM5LJ8MFyy1TG877nY.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Jonas Arbor",
+     "n": "Cuba Gooding Jr."
+    },
+    {
+     "c": "Allan Campbell",
+     "n": "Cole Hauser"
+    },
+    {
+     "c": "Detective Neil McKay",
+     "n": "Jonathan LaPaglia"
+    },
+    {
+     "c": "Special Agent Drake Ford",
+     "n": "Michael Papajohn"
+    },
+    {
+     "c": "Mike Dodd",
+     "n": "Drew Waters"
+    },
+    {
+     "c": "Jenny Rawlins",
+     "n": "Sarah Ann Schultz"
+    },
+    {
+     "c": "Officer Turnkey",
+     "n": "Holt Boggs"
+    },
+    {
+     "c": "Detective Nic Vetter",
+     "n": "David E. Ornston"
+    },
+    {
+     "c": "Sydney Campbell",
+     "n": "Ginny Weirick"
+    },
+    {
+     "c": "Brian Felzner",
+     "n": "Sean Cook"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "William Kaufman"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 58626,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A disgruntled man creates a hit list with a stranger during a drunken night out and must then race to try to save those he marked for extermination as the bodies begin to pile up and all fingers point to him.",
+   "popularity": 1.7682,
+   "poster_path": "/tR88diuLaMMdxl9rBVdAKERzIjo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": " AP International South Cinema Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/qe5IxHppN6JWNGf8xqSo2dgAbR4.png",
+     "name": " AP International South Cinema Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-04-02",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Who's on your list?",
+   "title": "The Hit List",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 307
+  },
   "movie:728526": {
    "backdrop_path": "/zlj0zHo67xXoj7hvwGtaKRkSdBV.jpg",
    "budget": 0,
@@ -3457,6 +4333,104 @@
    "vote_average": 6.276,
    "vote_count": 480
   },
+  "movie:74726": {
+   "backdrop_path": "/qlKK49jNOK9a3DhDbWKoB8hA5Vn.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Juan",
+     "n": "Alexis Díaz de Villegas"
+    },
+    {
+     "c": "Lázaro",
+     "n": "Jorge Molina"
+    },
+    {
+     "c": "Vladi California",
+     "n": "Andros Perugorría"
+    },
+    {
+     "c": "Camila",
+     "n": "Andrea Duro"
+    },
+    {
+     "c": "La China",
+     "n": "Jazz Vilá"
+    },
+    {
+     "c": "El Primo",
+     "n": "Eliecer Ramírez"
+    },
+    {
+     "c": "Sara",
+     "n": "Blanca Rosa Blanco"
+    },
+    {
+     "c": "Lucía",
+     "n": "Susana Pous"
+    },
+    {
+     "c": "Padre Jones",
+     "n": "Antonio Dechent"
+    },
+    {
+     "c": "Berta",
+     "n": "Eslinda Núñez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Alejandro Brugués"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy"
+   ],
+   "id": 74726,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "While Havana is full of zombies hungry for human flesh, official media reported that the disturbances are caused by dissidents paid by the United States. Panic seizes all until Juan comes to the rescue: he discovers he can kill the undead destroying his brain, and decides to start a small business under the slogan \"We kill your loved ones.\"",
+   "popularity": 1.6364,
+   "poster_path": "/yQLHnDXOdl2gny6glOsts3Btczc.jpg",
+   "production_countries": [
+    "CU",
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-10-14",
+   "revenue": 324834,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "He's Havana killer day.",
+   "title": "Juan of the Dead",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.265,
+   "vote_count": 319
+  },
   "movie:833326": {
    "backdrop_path": "/v3zHKRxNH3G3oop2GmSbgOzxza8.jpg",
    "budget": 0,
@@ -3553,6 +4527,158 @@
    "type": "movie",
    "vote_average": 6.286,
    "vote_count": 474
+  },
+  "movie:9526": {
+   "backdrop_path": "/a207j6hwf3iHiLO8ArhLIljiC1D.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Yolanda Johnson",
+     "n": "Meryl Streep"
+    },
+    {
+     "c": "Rhonda Johnson",
+     "n": "Lily Tomlin"
+    },
+    {
+     "c": "Lola Johnson",
+     "n": "Lindsay Lohan"
+    },
+    {
+     "c": "GK",
+     "n": "Garrison Keillor"
+    },
+    {
+     "c": "Dusty",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Lefty",
+     "n": "John C. Reilly"
+    },
+    {
+     "c": "Dangerous Woman",
+     "n": "Virginia Madsen"
+    },
+    {
+     "c": "Guy Noir",
+     "n": "Kevin Kline"
+    },
+    {
+     "c": "Axeman",
+     "n": "Tommy Lee Jones"
+    },
+    {
+     "c": "Chuck Akers",
+     "n": "L.Q. Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Robert Altman"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Music"
+   ],
+   "id": 9526,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A look at what goes on backstage during the last broadcast of America's most celebrated radio show, where singing cowboys Dusty and Lefty, a country music siren, and a host of others hold court.",
+   "popularity": 2.0297,
+   "poster_path": "/jVdqvd8SgPTWLdG3qc9pSlXGxQi.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-06-01",
+   "revenue": 25978375,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "no",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Radio like you've never seen it before.",
+   "title": "A Prairie Home Companion",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.257,
+   "vote_count": 331
   },
   "tv:10126": {
    "backdrop_path": "/kWwj7gNJsnd5ocTRvlmEznaB8wG.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "63",
- "count": 42,
+ "count": 51,
  "titles": {
   "movie:10063": {
    "backdrop_path": "/81kbwVTU6Im3zcSnK0Pp2oP4piN.jpg",
@@ -505,6 +505,343 @@
    "vote_average": 6.812,
    "vote_count": 370
   },
+  "movie:11863": {
+   "backdrop_path": "/k19u7EVyMqhfQrH9KMlyCNbnvBZ.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "David Corelli",
+     "n": "David Caruso"
+    },
+    {
+     "c": "Trina Gavin",
+     "n": "Linda Fiorentino"
+    },
+    {
+     "c": "Matt Gavin",
+     "n": "Chazz Palminteri"
+    },
+    {
+     "c": "Governor Edwards",
+     "n": "Richard Crenna"
+    },
+    {
+     "c": "Bob Hargrove",
+     "n": "Michael Biehn"
+    },
+    {
+     "c": "Karen Heller",
+     "n": "Donna Murphy"
+    },
+    {
+     "c": "Petey Vasko",
+     "n": "Ken King"
+    },
+    {
+     "c": "Bill Barrett",
+     "n": "Holt McCallany"
+    },
+    {
+     "c": "Pat Callendar",
+     "n": "David Hunt"
+    },
+    {
+     "c": "Patrice Jacinto",
+     "n": "Angie Everhart"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "William Friedkin"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 11863,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a prominent art dealer is found murdered, the man's death leads to an intriguing investigation steeped in sex, corruption and crime. District Attorney David Corelli gets assigned to the case and discovers that a key suspect is his ex-lover Katrina Gavin, a beautiful psychologist who has settled down with his old friend and peer. As Corelli gets deeper into the case, he uncovers dark secrets with far-reaching implications.",
+   "popularity": 2.7742,
+   "poster_path": "/8KWiZKDYpAgh8n27lanvTuDquyX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1995-10-11",
+   "revenue": 9851610,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Some fantasies go too far.",
+   "title": "Jade",
+   "trailer": {
+    "key": "UHLNId3k-dQ",
+    "name": "Imprint 4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.498,
+   "vote_count": 317
+  },
+  "movie:12663": {
+   "backdrop_path": "/gOvT2J5upwmFqiYYZ5z7u6QZokr.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Lt. Nikolai Rachenko",
+     "n": "Dolph Lundgren"
+    },
+    {
+     "c": "Dewey Ferguson",
+     "n": "M. Emmet Walsh"
+    },
+    {
+     "c": "Kallunda Kintash",
+     "n": "Al White"
+    },
+    {
+     "c": "General Vortek",
+     "n": "T. P. McKenna"
+    },
+    {
+     "c": "Colonel Zayas",
+     "n": "Carmen Argenziano"
+    },
+    {
+     "c": "Sgt. Mendez",
+     "n": "Alex Colon"
+    },
+    {
+     "c": "Krasnov",
+     "n": "Brion James"
+    },
+    {
+     "c": "Ango Sundata",
+     "n": "Ruben Nthodi"
+    },
+    {
+     "c": "Guerilla Officer",
+     "n": "Vusi Dibakwane"
+    },
+    {
+     "c": "Guerilla Officer",
+     "n": "James Mthoba"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joseph Zito"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "War"
+   ],
+   "id": 12663,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A Soviet commando is sent to eliminate a rebel leader in Africa.  Soon he finds himself doubting his mission.",
+   "popularity": 2.2141,
+   "poster_path": "/vzLQeJWGIKBQldk3HsAea5OFucI.jpg",
+   "production_countries": [
+    "NA",
+    "ZA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Troma NOW"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/A8GVl6Pu2O0KVYVtijBHIsZ6LQn.png",
+     "name": "Troma NOW",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-12-24",
+   "revenue": 4192440,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "They think they control him. Think again.",
+   "title": "Red Scorpion",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 323
+  },
   "movie:1356963": {
    "backdrop_path": "/utpd4H566GFpw6hjufRxEuoSIIg.jpg",
    "budget": 0,
@@ -850,6 +1187,119 @@
    "type": "movie",
    "vote_average": 6.288,
    "vote_count": 217
+  },
+  "movie:13963": {
+   "backdrop_path": "/noOz8qEQKBJZ7aEk7VboOUsJyR2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Robbie Robertson"
+    },
+    {
+     "c": "Self",
+     "n": "Rick Danko"
+    },
+    {
+     "c": "Self",
+     "n": "Levon Helm"
+    },
+    {
+     "c": "Self",
+     "n": "Richard Manuel"
+    },
+    {
+     "c": "Self",
+     "n": "Garth Hudson"
+    },
+    {
+     "c": "Self",
+     "n": "Eric Clapton"
+    },
+    {
+     "c": "Self",
+     "n": "Neil Diamond"
+    },
+    {
+     "c": "Self",
+     "n": "Bob Dylan"
+    },
+    {
+     "c": "Self",
+     "n": "Neil Young"
+    },
+    {
+     "c": "Self",
+     "n": "Joni Mitchell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Martin Scorsese"
+   ],
+   "genres": [
+    "Documentary",
+    "Music"
+   ],
+   "id": 13963,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Martin Scorsese's documentary intertwines footage from The Band's incredible farewell tour with probing backstage interviews and featured performances by Bob Dylan, Joni Mitchell, Van Morrison, Eric Clapton, and other rock legends.",
+   "popularity": 2.4068,
+   "poster_path": "/2K7CFH0AIHnGrA4yQjPCoIB5CmQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1978-04-26",
+   "revenue": 321952,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It Started as a Concert. It Became a Celebration.",
+   "title": "The Last Waltz",
+   "trailer": {
+    "key": "jvDx5mCzkYg",
+    "name": "Masters of Cinema Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.673,
+   "vote_count": 330
   },
   "movie:1400763": {
    "backdrop_path": "/kQ3V85ke3LKA4dnww2tH42bsZfX.jpg",
@@ -1801,6 +2251,161 @@
    "vote_average": 5.722,
    "vote_count": 97
   },
+  "movie:15163": {
+   "backdrop_path": "/9vFMRabZKwF4BTlrIqn7ltaUUMJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "William Wilberforce",
+     "n": "Ioan Gruffudd"
+    },
+    {
+     "c": "Barbara Spooner",
+     "n": "Romola Garai"
+    },
+    {
+     "c": "Lord Tarleton",
+     "n": "Ciarán Hinds"
+    },
+    {
+     "c": "Thomas Clarkson",
+     "n": "Rufus Sewell"
+    },
+    {
+     "c": "Olaudah Equiano",
+     "n": "Youssou N'Dour"
+    },
+    {
+     "c": "William Pitt",
+     "n": "Benedict Cumberbatch"
+    },
+    {
+     "c": "Henry Thornton",
+     "n": "Nicholas Farrell"
+    },
+    {
+     "c": "James Stephen",
+     "n": "Stephen Campbell Moore"
+    },
+    {
+     "c": "Duke of Clarence",
+     "n": "Toby Jones"
+    },
+    {
+     "c": "Lord Dundas",
+     "n": "Bill Paterson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Michael Apted"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 15163,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The true story of William Wilberforce and his courageous quest to end the British slave trade. Along the way, Wilberforce meets intense opposition, but his minister urges him to see the cause through.",
+   "popularity": 2.1795,
+   "poster_path": "/zr48JEuwxcYM03NcdJU6qWMHPtq.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Angel Studios"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pusUxS9dP5VK7HkN8SLf2wnP9gm.png",
+     "name": "Angel Studios",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-02-23",
+   "revenue": 32120360,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Behind the song you love is a story you will never forget.",
+   "title": "Amazing Grace",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.896,
+   "vote_count": 335
+  },
   "movie:1633263": {
    "backdrop_path": "/43xC9erNcSoBBfZRokKgm5xb9Ek.jpg",
    "budget": 0,
@@ -2337,6 +2942,170 @@
    "vote_average": 6.969,
    "vote_count": 397
   },
+  "movie:244563": {
+   "backdrop_path": "/pGN4hqoXRLEFsBfavVVY7XWtjZG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kumiko",
+     "n": "Rinko Kikuchi"
+    },
+    {
+     "c": "Sakagami",
+     "n": "Nobuyuki Katsube"
+    },
+    {
+     "c": "Michi",
+     "n": "Kanako Higashi"
+    },
+    {
+     "c": "Library Security Guard",
+     "n": "Ichi Kyokaku"
+    },
+    {
+     "c": "Chieko",
+     "n": "Ayaka Onishi"
+    },
+    {
+     "c": "Ms. Kanazaki",
+     "n": "Mayuko Kawakita"
+    },
+    {
+     "c": "Office Lady",
+     "n": "Asami Tano"
+    },
+    {
+     "c": "Office Lady",
+     "n": "Ako Yoshida"
+    },
+    {
+     "c": "Office Lady",
+     "n": "Anna Wakamori"
+    },
+    {
+     "c": "Office Lady",
+     "n": "Risa Hotta"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "David Zellner"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 244563,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Frustrated with her mundane life, a Tokyo office worker becomes obsessed with a fictional movie that she mistakes for a documentary. Fixating on a scene where stolen cash is buried in North Dakota, she travels to America to find it.",
+   "popularity": 1.3744,
+   "poster_path": "/wZU05LeIZE6azWUCnjYhEHeCDHB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JustWatch TV Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png",
+     "name": "JustWatch TV Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-02-20",
+   "revenue": 739623,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Kumiko, the Treasure Hunter",
+   "trailer": {
+    "key": "WiyQSSzihFQ",
+    "name": "Official HD Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.575,
+   "vote_count": 308
+  },
   "movie:258363": {
    "backdrop_path": "/rrTKWLU0JBYKWSJd8abzXq3LjyQ.jpg",
    "budget": 0,
@@ -2592,6 +3361,139 @@
    "type": "movie",
    "vote_average": 5.712,
    "vote_count": 375
+  },
+  "movie:267463": {
+   "backdrop_path": "/zmITCoQrARbYoNh3vm3tOpO1cKY.jpg",
+   "budget": 80000,
+   "cast": [
+    {
+     "c": "Myles Robertson",
+     "n": "Jack Turner"
+    },
+    {
+     "c": "Brody Hamilton",
+     "n": "Michael Adam Hamilton"
+    },
+    {
+     "c": "Richard",
+     "n": "Moronai Kanekoa"
+    },
+    {
+     "c": "Hunter",
+     "n": "Adam Bucci"
+    },
+    {
+     "c": "Diane",
+     "n": "Teri Reeves"
+    },
+    {
+     "c": "Neighbor",
+     "n": "Michael Rothhaar"
+    },
+    {
+     "c": "Minister",
+     "n": "Debra Wilson"
+    },
+    {
+     "c": "Walter",
+     "n": "Ben Palacios"
+    },
+    {
+     "c": "Raul",
+     "n": "Trevor Kuhn"
+    },
+    {
+     "c": "Jesse",
+     "n": "Jesse Welch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "J.C. Calciano"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 267463,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Myles and Brody are best friends with two very different ways of finding love. Displeased with their current love lives, they make a pact to be together if neither finds love in ten year’s time. Now two months shy of their deadline, both friends set off to do whatever it takes to avoid ending up as each other’s last resort.",
+   "popularity": 1.2549,
+   "poster_path": "/x2oJPcyydaL997oaDQhcCt4xGgD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-09-06",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Sometimes love takes a little time.",
+   "title": "The 10 Year Plan",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.745,
+   "vote_count": 312
   },
   "movie:29963": {
    "backdrop_path": "/nnyaQslEbd2ST1FAhuDyF4228mb.jpg",
@@ -3042,6 +3944,394 @@
    "vote_average": 6.889,
    "vote_count": 436
   },
+  "movie:49763": {
+   "backdrop_path": "/5Qr1sU7l1BU7qVnu8iTu3iND89U.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Janet Harrison",
+     "n": "Mariel Hemingway"
+    },
+    {
+     "c": "Uncle Ted",
+     "n": "Michael Paré"
+    },
+    {
+     "c": "Brett Harrison",
+     "n": "Mason Gamble"
+    },
+    {
+     "c": "Jerry Mills (aka \"Flopsy\")",
+     "n": "Hrothgar Mathews"
+    },
+    {
+     "c": "Sheriff Jenson",
+     "n": "Ken Pogue"
+    },
+    {
+     "c": "Marjorie",
+     "n": "Johanna Marlowe"
+    },
+    {
+     "c": "Reporter",
+     "n": "Julia Montgomery Brown"
+    },
+    {
+     "c": "Forest Ranger",
+     "n": "Gavin Buhr"
+    },
+    {
+     "c": "Thor",
+     "n": "Primo the Dog"
+    },
+    {
+     "c": "The Werewolf",
+     "n": "Ken Kirzinger"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Eric Red"
+   ],
+   "genres": [
+    "Horror",
+    "Fantasy"
+   ],
+   "id": 49763,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "During an expedition in Nepal, a photo-journalist becomes infected by a werewolf. Returning to the U.S., he holes up in an isolated location in the woods, but when he invites his sister and nephew for a visit, their dog, Thor, knows something is amiss.",
+   "popularity": 2.2961,
+   "poster_path": "/1RobAQaPIYV2PBmkb4XISbsQZPe.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1996-11-01",
+   "revenue": 1100000,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Half man.  Half wolf.  Total terror.",
+   "title": "Bad Moon",
+   "trailer": {
+    "key": "R8mK-_EPxdk",
+    "name": "Bad Moon",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.695,
+   "vote_count": 311
+  },
+  "movie:505063": {
+   "backdrop_path": "/AmT9r8QHiTvINxCMNN2IRV3Vz8x.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Grandad",
+     "n": "David Bradley"
+    },
+    {
+     "c": "Beth",
+     "n": "Abigail Cruttenden"
+    },
+    {
+     "c": "Kate",
+     "n": "Holly Weston"
+    },
+    {
+     "c": "Nick",
+     "n": "Sam Gittins"
+    },
+    {
+     "c": "Tony",
+     "n": "Grant Masters"
+    },
+    {
+     "c": "Annji",
+     "n": "Neerja Naik"
+    },
+    {
+     "c": "Scott",
+     "n": "Kris Saddler"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Johnny Kevorkian"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 505063,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A dysfunctional family awake on Christmas morning to discover they’re sealed inside their house by a mysterious black substance. On television, a single line of text reads: “Stay Indoors and Await Further Instructions.”",
+   "popularity": 1.3543,
+   "poster_path": "/afvi5tVi5S3Ux9faZaI32SmPRkj.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-08-26",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Contain. Corrupt. Control.",
+   "title": "Await Further Instructions",
+   "trailer": {
+    "key": "cExGHt350NE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 324
+  },
   "movie:592863": {
    "backdrop_path": "/gTtr2ovxRwHyOI3XrX6h6cgG7MD.jpg",
    "budget": 55000000,
@@ -3197,6 +4487,115 @@
    "type": "movie",
    "vote_average": 6.763,
    "vote_count": 492
+  },
+  "movie:624963": {
+   "backdrop_path": "/ezLKohe4HKsHQbwQwhv0ARo83NC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kelly Ferguson",
+     "n": "Tamara Smart"
+    },
+    {
+     "c": "Liz Lerue",
+     "n": "Oona Laurence"
+    },
+    {
+     "c": "Victor Colleti",
+     "n": "Alessio Scalzotto"
+    },
+    {
+     "c": "Peggy Drood",
+     "n": "Lillah Indya Moore"
+    },
+    {
+     "c": "The Grand Guignol",
+     "n": "Tom Felton"
+    },
+    {
+     "c": "Jacob Zellman",
+     "n": "Ian Ho"
+    },
+    {
+     "c": "Mrs. Zellman",
+     "n": "Tamsen McDonough"
+    },
+    {
+     "c": "Berna Vincent",
+     "n": "Troy Leigh-Anne Johnson"
+    },
+    {
+     "c": "Cassie Zhen",
+     "n": "Lynn Masako Cheng"
+    },
+    {
+     "c": "Curtis Critter",
+     "n": "Ty Consiglio"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Rachel Talalay"
+   ],
+   "genres": [
+    "Family",
+    "Fantasy",
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 624963,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Recruited by a secret society of babysitters, a high schooler battles the Boogeyman and his monsters when they nab the boy she's watching on Halloween.",
+   "popularity": 2.4262,
+   "poster_path": "/bkld8Me0WiLWipLORRNfF1yIPHu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-10-14",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Babysitter's Guide to Monster Hunting",
+   "trailer": {
+    "key": "MKR33fJ_yPw",
+    "name": "A Babysitter's Guide To Monster Hunting | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.22,
+   "vote_count": 330
   },
   "movie:925263": {
    "backdrop_path": "/klNuvFdKPROPuEgyISq3lFRATb0.jpg",

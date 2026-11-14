@@ -1,6 +1,6 @@
 {
  "bucket": "87",
- "count": 37,
+ "count": 46,
  "titles": {
   "movie:1030987": {
    "backdrop_path": "/g2EUWSPVSLyzIkrKdxuHSF2wGWh.jpg",
@@ -522,6 +522,175 @@
    "vote_average": 8.252,
    "vote_count": 457
   },
+  "movie:1182387": {
+   "backdrop_path": "/evFChfYeD2LqobEJf8iQsrYcGTw.jpg",
+   "budget": 11500000,
+   "cast": [
+    {
+     "c": "James",
+     "n": "Jason Patric"
+    },
+    {
+     "c": "Rook",
+     "n": "Sylvester Stallone"
+    },
+    {
+     "c": "Casey",
+     "n": "Josh Wiggins"
+    },
+    {
+     "c": "Smoke",
+     "n": "Dash Mihok"
+    },
+    {
+     "c": "Tex",
+     "n": "Blake Shields"
+    },
+    {
+     "c": "Echo",
+     "n": "Josh Whites"
+    },
+    {
+     "c": "Viper",
+     "n": "Jeff Chase"
+    },
+    {
+     "c": "Match",
+     "n": "Martin Bats Bradford"
+    },
+    {
+     "c": "Trisha",
+     "n": "Erin Ownbey"
+    },
+    {
+     "c": "Alcoholic #1",
+     "n": "Justin William Davis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Justin Routt"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 1182387,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Armored truck security guard James Brody is working with his son Casey transporting millions of dollars between banks when a team of thieves led by Rook orchestrate a takeover of their truck to seize the riches. Following a violent car chase, Rook soon has the armored truck surrounded and James and Casey find themselves cornered onto a decrepit bridge.",
+   "popularity": 3.7169,
+   "poster_path": "/fYq9ap0wVM6K0LFvRwH5siM4dfU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-10-30",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "On the bridge of death.",
+   "title": "Armor",
+   "trailer": {
+    "key": "tzQsSmDc8gw",
+    "name": "Official International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.467,
+   "vote_count": 318
+  },
   "movie:12187": {
    "backdrop_path": "/orjpvbnfiDQvqRJIy9cLAb8WTgF.jpg",
    "budget": 0,
@@ -618,6 +787,115 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 442
+  },
+  "movie:1290287": {
+   "backdrop_path": "/6neVLKBU4DaWAwpWFhfCpV6yuqN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kathy Barrett",
+     "n": "Lacey Chabert"
+    },
+    {
+     "c": "Jack Snowman",
+     "n": "Dustin Milligan"
+    },
+    {
+     "c": "Dottie",
+     "n": "Katy Mixon"
+    },
+    {
+     "c": "Jane Miller",
+     "n": "Lauren Holly"
+    },
+    {
+     "c": "Jan",
+     "n": "Chrishell Stause"
+    },
+    {
+     "c": "Mel",
+     "n": "Sherry Miller"
+    },
+    {
+     "c": "Theo",
+     "n": "Dan Lett"
+    },
+    {
+     "c": "Brendan",
+     "n": "Matthew Stefiuk"
+    },
+    {
+     "c": "Ethel",
+     "n": "Helene Lohan Cameron"
+    },
+    {
+     "c": "Mortimer",
+     "n": "Allan Royal"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Jerry Ciccoritti"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 1290287,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a young widow's magic scarf brings a dashing snowman to life, can he help her rediscover romance, laughter and holiday cheer before he melts away?",
+   "popularity": 3.3481,
+   "poster_path": "/waW6R5WJQSxq65gwBkvnKlseU6n.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-11-12",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It took a snowman to melt her heart.",
+   "title": "Hot Frosty",
+   "trailer": {
+    "key": "Dmi794YO-0w",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.911,
+   "vote_count": 316
   },
   "movie:1309587": {
    "backdrop_path": "/rwp9tjccz9OG0b48ux6Y9DdsQ14.jpg",
@@ -2679,6 +2957,162 @@
    "vote_average": 6.322,
    "vote_count": 385
   },
+  "movie:29987": {
+   "backdrop_path": "/dcJLwvM8sRgnMyYRHF2dyOg19z8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Giovanna",
+     "n": "Giovanna Mezzogiorno"
+    },
+    {
+     "c": "Lorenzo",
+     "n": "Raoul Bova"
+    },
+    {
+     "c": "Simone / Davide Veroli",
+     "n": "Massimo Girotti"
+    },
+    {
+     "c": "Filippo",
+     "n": "Filippo Nigro"
+    },
+    {
+     "c": "Eminè",
+     "n": "Serra Yılmaz"
+    },
+    {
+     "c": "Sara",
+     "n": "Maria Grazia Bon"
+    },
+    {
+     "c": "Martina",
+     "n": "Benedetta Gargari"
+    },
+    {
+     "c": "Marco",
+     "n": "Carlo Daniele"
+    },
+    {
+     "c": "Young Davide",
+     "n": "Massimo Poggio"
+    },
+    {
+     "c": "Barista",
+     "n": "Rosaria De Cicco"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Ferzan Özpetek"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 29987,
+   "industry": "world",
+   "origin_country": [
+    "TR",
+    "IT",
+    "GB",
+    "PT"
+   ],
+   "original_language": "it",
+   "overview": "Overburdened and stuck in a greying marriage, Giovanna takes to caring for a Jewish Holocaust survivor her husband brings home. As she begins to reflect on her life, she turns to the man who lives across from her.",
+   "popularity": 1.9685,
+   "poster_path": "/1yeh5uQ6KgvxnInUYE0SYSUWd22.jpg",
+   "production_countries": [
+    "GB",
+    "IT",
+    "TR",
+    "PT"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-02-27",
+   "revenue": 15530077,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Desire knows no bounds.",
+   "title": "Facing Windows",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.945,
+   "vote_count": 339
+  },
   "movie:31587": {
    "backdrop_path": "/jFUhMdZuEISfCGCm9lrI441Cw5j.jpg",
    "budget": 875000,
@@ -3061,6 +3495,142 @@
    "vote_average": 6.0,
    "vote_count": 396
   },
+  "movie:377587": {
+   "backdrop_path": "/bJKd2F0fzOIzoMHe4TaaYHvZfWe.jpg",
+   "budget": 900000,
+   "cast": [
+    {
+     "c": "Carl Black",
+     "n": "Mike Epps"
+    },
+    {
+     "c": "Lorena",
+     "n": "Zulay Henao"
+    },
+    {
+     "c": "President El Bama",
+     "n": "George López"
+    },
+    {
+     "c": "James Clown",
+     "n": "Mike Tyson"
+    },
+    {
+     "c": "Key Flo",
+     "n": "Charlie Murphy"
+    },
+    {
+     "c": "Freezee",
+     "n": "Andrew Bachelor"
+    },
+    {
+     "c": "Tyrone",
+     "n": "DeRay Davis"
+    },
+    {
+     "c": "Parole Officer",
+     "n": "Lavell Crawford"
+    },
+    {
+     "c": "Stranger",
+     "n": "Gary Owen"
+    },
+    {
+     "c": "Allie",
+     "n": "Bresha Webb"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Deon Taylor"
+   ],
+   "genres": [
+    "Comedy",
+    "Horror"
+   ],
+   "id": 377587,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As Carl Black gets the opportunity to move his family out of Chicago in hope of a better life, their arrival in Beverly Hills is timed with that city's annual purge, where all crime is legal for twelve hours.",
+   "popularity": 1.6268,
+   "poster_path": "/4pemUf5lKEzgxGebxxMVKL5NHSW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-04-01",
+   "revenue": 9097072,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Meet the Blacks",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.7,
+   "vote_count": 338
+  },
   "movie:423087": {
    "backdrop_path": "/twq14rFTS6a2SoJsk8LSajR7Hym.jpg",
    "budget": 0,
@@ -3292,6 +3862,359 @@
    "vote_average": 7.597,
    "vote_count": 390
   },
+  "movie:436387": {
+   "backdrop_path": "/mlkOIAgd9OfNpKNMQDLYIJus9VV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Paul Herzfeld",
+     "n": "Moritz Bleibtreu"
+    },
+    {
+     "c": "Linda",
+     "n": "Jasna Fritzi Bauer"
+    },
+    {
+     "c": "Jan Erik Sadler",
+     "n": "Lars Eidinger"
+    },
+    {
+     "c": "Ender Müller",
+     "n": "Fahri Yardım"
+    },
+    {
+     "c": "Udo Bandrupp",
+     "n": "Niels-Bruno Schmidt"
+    },
+    {
+     "c": "RA Korn",
+     "n": "Jana Klinge"
+    },
+    {
+     "c": "Zeuge",
+     "n": "John Vaughan"
+    },
+    {
+     "c": "Friederike Töven",
+     "n": "Klara Höfels"
+    },
+    {
+     "c": "Tom",
+     "n": "Ben Münchow"
+    },
+    {
+     "c": "Ingolf von Appen",
+     "n": "Enno Hesse"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Christian Alvart"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Horror",
+    "Mystery"
+   ],
+   "id": 436387,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "A coroner finds a capsule in the head of a heavily mutilated corpse, containing a phone number and single word: the name of his daughter.",
+   "popularity": 1.1693,
+   "poster_path": "/927kgdzuNNHX6wubSbqi50kZse0.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-10-11",
+   "revenue": 1228051,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Cut Off",
+   "trailer": {
+    "key": "tw0padxF1gQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.589,
+   "vote_count": 330
+  },
+  "movie:52587": {
+   "backdrop_path": "/6LkKZ43zyz7SAqWGTYM75uKLwKU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lena Bach",
+     "n": "Karoline Herfurth"
+    },
+    {
+     "c": "Louise",
+     "n": "Nina Hoss"
+    },
+    {
+     "c": "Charlotte",
+     "n": "Jennifer Ulrich"
+    },
+    {
+     "c": "Nora",
+     "n": "Anna Fischer"
+    },
+    {
+     "c": "Tom Serner",
+     "n": "Max Riemelt"
+    },
+    {
+     "c": "Lummer",
+     "n": "Arved Birnbaum"
+    },
+    {
+     "c": "Lenas Mutter",
+     "n": "Steffi Kühnert"
+    },
+    {
+     "c": "Bewährungshelfer",
+     "n": "Jochen Nickel"
+    },
+    {
+     "c": "Spusi Frau",
+     "n": "Senta Dorothea Kirschner"
+    },
+    {
+     "c": "van Gogh",
+     "n": "Ivan Shvedoff"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Dennis Gansel"
+   ],
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Horror",
+    "Romance"
+   ],
+   "id": 52587,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "One night, 18 year old Lena is bitten by Louise, leader of a female vampire trio that are as deadly as they are beautiful. Her newfound vampiric lifestyle is a blessing and a curse at the same time. At first, she enjoys the limitless freedom, the luxury, the parties. But soon the murderous blood lust of her comrades in arms proves too much for her, and she falls dangerously in love with Tom, a young undercover cop.",
+   "popularity": 2.1756,
+   "poster_path": "/zNESCcM2PbynPPdzlEPUUHMaxqI.jpg",
+   "production_countries": [
+    "FR",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-10-28",
+   "revenue": 2405336,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "Immortal. Insatiable.",
+   "title": "We Are the Night",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.02,
+   "vote_count": 322
+  },
   "movie:59387": {
    "backdrop_path": "/9JYhHvfdLC0rUI1AtXyw6l4bUpV.jpg",
    "budget": 11000000,
@@ -3382,6 +4305,257 @@
    "type": "movie",
    "vote_average": 6.8,
    "vote_count": 369
+  },
+  "movie:614587": {
+   "backdrop_path": "/sk5KCRdQ0GVP6fngh03PVkRMBb6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Arsène Lupin III (voice)",
+     "n": "Kanichi Kurita"
+    },
+    {
+     "c": "Daisuke Jigen (voice)",
+     "n": "Kiyoshi Kobayashi"
+    },
+    {
+     "c": "Fujiko Mine (voice)",
+     "n": "Miyuki Sawashiro"
+    },
+    {
+     "c": "Goemon Ishikawa XIII (voice)",
+     "n": "Daisuke Namikawa"
+    },
+    {
+     "c": "Inspector Koichi Zenigata (voice)",
+     "n": "Koichi Yamadera"
+    },
+    {
+     "c": "Laetitia (voice)",
+     "n": "Suzu Hirose"
+    },
+    {
+     "c": "Lambert (voice)",
+     "n": "Kotaro Yoshida"
+    },
+    {
+     "c": "Geralt (voice)",
+     "n": "Tatsuya Fujiwara"
+    },
+    {
+     "c": "Bresson (voice)",
+     "n": "Kazuaki Ito"
+    },
+    {
+     "c": "Adolf Hitler (voice)",
+     "n": "Mitsuru Takakuwa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Takashi Yamazaki"
+   ],
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 614587,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "The iconic \"gentleman thief\" Lupin III returns in an action-packed, continent-spanning adventure, as Lupin III and his colourful underworld companions race to uncover the secrets of the mysterious Bresson Diary, before it falls into the hands of a dark cabal that will stop at nothing to resurrect the Third Reich.",
+   "popularity": 3.3081,
+   "poster_path": "/yEKzkOF0uImcs4CdhPQpF8TwVDE.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-03-13",
+   "revenue": 7334393,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Well, let's get started.",
+   "title": "Lupin III: The First",
+   "trailer": {
+    "key": "SGEOkMTkTmA",
+    "name": "Lupin III: The First [Official Subtitled Trailer, GKIDS]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.296,
+   "vote_count": 333
+  },
+  "movie:655187": {
+   "backdrop_path": "/rJfOjuaCbYFEoxYGqfr9xko0SdQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rostegui",
+     "n": "Àlex Brendemühl"
+    },
+    {
+     "c": "Ana",
+     "n": "Amaia Aberasturi"
+    },
+    {
+     "c": "Salazar",
+     "n": "Daniel Fanego"
+    },
+    {
+     "c": "Katalin",
+     "n": "Garazi Urkola"
+    },
+    {
+     "c": "María",
+     "n": "Yune Nogueiras"
+    },
+    {
+     "c": "Maider",
+     "n": "Jone Laspiur"
+    },
+    {
+     "c": "Olaia",
+     "n": "Irati Sáez de Urabain"
+    },
+    {
+     "c": "Oneka",
+     "n": "Lorea Ibarra"
+    },
+    {
+     "c": "Father Cristóbal",
+     "n": "Asier Oruesagasti"
+    },
+    {
+     "c": "Mrs. Lara",
+     "n": "Elena Uriz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Pablo Agüero"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 655187,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "eu",
+   "overview": "French Basque Country, year 1609. The men of a small fishing village have gone to sea. Judge Rostegui, who has been charged by the king with ridding the country of the devil's wiles, arrests Ana and her friends and accuses them of witchcraft.",
+   "popularity": 0.9154,
+   "poster_path": "/lyB3yoQbGO3LiCVuSOD2g17Hr6p.jpg",
+   "production_countries": [
+    "AR",
+    "ES",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-10-02",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "eu",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Coven",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.694,
+   "vote_count": 324
   },
   "movie:747687": {
    "backdrop_path": "/kYJNrQ5say16fewLCdOVGjNpsX9.jpg",
@@ -3597,6 +4771,210 @@
    "type": "movie",
    "vote_average": 6.984,
    "vote_count": 474
+  },
+  "movie:809787": {
+   "backdrop_path": "/gGZxCy9keK0D6TxbmS8GJj85Ut4.jpg",
+   "budget": 41000000,
+   "cast": [
+    {
+     "c": "Kristin",
+     "n": "Toni Collette"
+    },
+    {
+     "c": "Bianca",
+     "n": "Monica Bellucci"
+    },
+    {
+     "c": "Jenny",
+     "n": "Sophia Nomvete"
+    },
+    {
+     "c": "Don Giuseppe Balbano",
+     "n": "Alessandro Bressanello"
+    },
+    {
+     "c": "Fabrizio",
+     "n": "Eduardo Scarpetta"
+    },
+    {
+     "c": "Domenick",
+     "n": "Tommy Rodger"
+    },
+    {
+     "c": "Rudy aka “Lorenzo”",
+     "n": "Giulio Maria Corso"
+    },
+    {
+     "c": "Aldo",
+     "n": "Francesco Mastroianni"
+    },
+    {
+     "c": "Dante",
+     "n": "Alfonso Perugini"
+    },
+    {
+     "c": "Carlo Romano",
+     "n": "Giuseppe Zeno"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Catherine Hardwicke"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Action"
+   ],
+   "id": 809787,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A suburban American woman inherits her grandfather’s Mafia empire and, guided by the Firm’s trusted consigliere, defies everyone’s expectations, including her own, as the new head of the family business.",
+   "popularity": 2.2511,
+   "poster_path": "/hqFZqZFWWEDRCTtbTJqvrIitEKB.jpg",
+   "production_countries": [
+    "GB",
+    "US",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-04-13",
+   "revenue": 3900000,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "From suburban Mom to mafia Don.",
+   "title": "Mafia Mamma",
+   "trailer": {
+    "key": "4H5pIOz1cOM",
+    "name": "Limoncello",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.031,
+   "vote_count": 335
   },
   "movie:829487": {
    "backdrop_path": "/A3XP3vGg4DGDhEH75GnyyjsDDm1.jpg",

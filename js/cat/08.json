@@ -1,6 +1,6 @@
 {
  "bucket": "08",
- "count": 47,
+ "count": 53,
  "titles": {
   "movie:10208": {
    "backdrop_path": "/4n10DEpEsNOJj5Is1NjpGqrN7Lv.jpg",
@@ -259,6 +259,228 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 366
+  },
+  "movie:11508": {
+   "backdrop_path": "/hz95xUI0MhXTpRGjfnT0HkDijtV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Morticia Addams",
+     "n": "Daryl Hannah"
+    },
+    {
+     "c": "Gomez Addams",
+     "n": "Tim Curry"
+    },
+    {
+     "c": "Wednesday Addams",
+     "n": "Nicole Fugere"
+    },
+    {
+     "c": "Pugsley Addams",
+     "n": "Jerry Messing"
+    },
+    {
+     "c": "Lurch",
+     "n": "Carel Struycken"
+    },
+    {
+     "c": "Thing",
+     "n": "Christopher Hart"
+    },
+    {
+     "c": "Uncle Fester",
+     "n": "Patrick Thomas"
+    },
+    {
+     "c": "Grandpa Addams",
+     "n": "Kevin McCarthy"
+    },
+    {
+     "c": "Grandma Addams",
+     "n": "Estelle Harris"
+    },
+    {
+     "c": "Granny",
+     "n": "Alice Ghostley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Dave Payne"
+   ],
+   "genres": [
+    "Comedy",
+    "Horror",
+    "Fantasy",
+    "Family",
+    "TV Movie"
+   ],
+   "id": 11508,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Addams Family goes on a search for their relatives. Gomez and Morticia are horrified to discover that Grandpa and Grandma Addams have a disease that is slowly turning them \"normal\". The only chance they have of a cure is to find a family member hoping that they know a home remedy.",
+   "popularity": 2.4115,
+   "poster_path": "/XtfNBKnLDpg1waJhDF5FAd5OEX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1998-12-23",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Some families have all the fun.",
+   "title": "Addams Family Reunion",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.8,
+   "vote_count": 307
+  },
+  "movie:1161108": {
+   "backdrop_path": "/86GuiqoYEVWmuTCafT1ZGqdGe2w.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Florence Drucker",
+     "n": "Léa Seydoux"
+    },
+    {
+     "c": "Guillaume Tardieu",
+     "n": "Vincent Lindon"
+    },
+    {
+     "c": "David",
+     "n": "Louis Garrel"
+    },
+    {
+     "c": "Willy / Christian",
+     "n": "Raphaël Quenard"
+    },
+    {
+     "c": "Stéphane Jouvet",
+     "n": "Manuel Guillot"
+    },
+    {
+     "c": "Intriguing Extra 1",
+     "n": "Françoise Gazio"
+    },
+    {
+     "c": "Intriguing Extra 2",
+     "n": "Régine Mondion"
+    },
+    {
+     "c": "Florence and David's Agent",
+     "n": "Valérie Vogt"
+    },
+    {
+     "c": "Florence's Mom",
+     "n": "Hélène Alexandridis"
+    },
+    {
+     "c": "Asssitant Director",
+     "n": "Max Nicolas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "+13",
+   "date_kind": "release",
+   "director": [
+    "Quentin Dupieux"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1161108,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Florence wants to introduce David, the man she’s madly in love with, to her father Guillaume. But David isn’t attracted to Florence and wants to throw her into the arms of his friend Willy. The four characters meet in a restaurant in the middle of nowhere.",
+   "popularity": 2.1543,
+   "poster_path": "/lc5ZJA4C55n6nzNtkNnDwOvpEtD.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-05-14",
+   "revenue": 0,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Second Act",
+   "trailer": {
+    "key": "s8lLhVBMBoc",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.064,
+   "vote_count": 330
   },
   "movie:1206008": {
    "backdrop_path": "/9cd1zsxcOAcBW01WDOWz8EODTS0.jpg",
@@ -1070,6 +1292,137 @@
    "vote_average": 7.145,
    "vote_count": 83
   },
+  "movie:185008": {
+   "backdrop_path": "/hvaSiRRM93aCSzTmKlY4sHERL0S.jpg",
+   "budget": 7700000,
+   "cast": [
+    {
+     "c": "Kabir 'Bunny' Thapar",
+     "n": "Ranbir Kapoor"
+    },
+    {
+     "c": "Naina Talwar",
+     "n": "Deepika Padukone"
+    },
+    {
+     "c": "Avinash Arora",
+     "n": "Aditya Roy Kapur"
+    },
+    {
+     "c": "Aditi Mehra",
+     "n": "Kalki Koechlin"
+    },
+    {
+     "c": "Taran Saxena",
+     "n": "Kunaal Roy Kapur"
+    },
+    {
+     "c": "Sanjay Thapar",
+     "n": "Farooq Shaikh"
+    },
+    {
+     "c": "Shivani Thapar",
+     "n": "Tanvi Azmi"
+    },
+    {
+     "c": "Preeti",
+     "n": "Anisa Butt"
+    },
+    {
+     "c": "Lara Handa",
+     "n": "Evelyn Sharma"
+    },
+    {
+     "c": "Riyana Sarai",
+     "n": "Poorna Jagannathan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Ayan Mukerji"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 185008,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "On a trekking trip, an introverted Naina falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again.",
+   "popularity": 1.8528,
+   "poster_path": "/em39H81XLCDgXsI7V4IcBZseEO6.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Eros Now Select Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Eros Now Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-05-31",
+   "revenue": 46000000,
+   "runtime": 160,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "One cannot be wise and old without being young and crazy.",
+   "title": "Yeh Jawaani Hai Deewani",
+   "trailer": {
+    "key": "9kFDQkNmA5Y",
+    "name": "Official Theatrical Trailer (English Subtitles)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 326
+  },
   "movie:1908": {
    "backdrop_path": "/es4sV6krplqscHmhn9TFSqkl8ee.jpg",
    "budget": 2000000,
@@ -1677,6 +2030,156 @@
    "type": "movie",
    "vote_average": 6.8,
    "vote_count": 419
+  },
+  "movie:24008": {
+   "backdrop_path": "/1sS6ilJQOv6QUbQ6cgZ0E7mh5qB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Barnaby Fulton",
+     "n": "Cary Grant"
+    },
+    {
+     "c": "Edwina Fulton",
+     "n": "Ginger Rogers"
+    },
+    {
+     "c": "Oliver Oxley",
+     "n": "Charles Coburn"
+    },
+    {
+     "c": "Lois Laurel",
+     "n": "Marilyn Monroe"
+    },
+    {
+     "c": "Hank Entwhistle",
+     "n": "Hugh Marlowe"
+    },
+    {
+     "c": "Jerome Kitzel",
+     "n": "Henri Letondal"
+    },
+    {
+     "c": "Dr. Zoldeck",
+     "n": "Robert Cornthwaite"
+    },
+    {
+     "c": "GJ Culverly",
+     "n": "Larry Keating"
+    },
+    {
+     "c": "Dr. Brunner",
+     "n": "Douglas Spencer"
+    },
+    {
+     "c": "Mrs. Rhinelander",
+     "n": "Esther Dale"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TP",
+   "date_kind": "release",
+   "director": [
+    "Howard Hawks"
+   ],
+   "genres": [
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 24008,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Research chemist Barnaby Fulton works on a fountain of youth pill for a chemical company. One of the labs chimps gets loose in the laboratory and mixes chemicals, but then pours the mix into the water cooler. When trying one of his own samples, washed down with water from the cooler, Fulton begins to act just like a twenty-year-old and believes his potion is working. Soon his wife and boss are also behaving like children.",
+   "popularity": 1.7008,
+   "poster_path": "/cVYh7b1fLy9zzpZLX2aVNF5U12C.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1952-09-03",
+   "revenue": 2000000,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's some fun!",
+   "title": "Monkey Business",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.67,
+   "vote_count": 312
   },
   "movie:276908": {
    "backdrop_path": "/znDbUAz0uPgc329iHBiobnnYA2P.jpg",
@@ -2541,6 +3044,216 @@
    "type": "movie",
    "vote_average": 8.011,
    "vote_count": 460
+  },
+  "movie:492008": {
+   "backdrop_path": "/5lmhjGvg5ddXbTXzeNJfU4qpIeh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tae-yeul",
+     "n": "Jang Hyuk"
+    },
+    {
+     "c": "Tae-ok",
+     "n": "Kim Hyeon-soo"
+    },
+    {
+     "c": "Gurutai",
+     "n": "Joe Taslim"
+    },
+    {
+     "c": "Min Seung-ho",
+     "n": "Jeong Man-sik"
+    },
+    {
+     "c": "Monarch",
+     "n": "Jang Hyun-sung"
+    },
+    {
+     "c": "Hwa-seon",
+     "n": "Lee Na-kyeong"
+    },
+    {
+     "c": "Gyeom Sa-bok",
+     "n": "Lee Min-hyuk"
+    },
+    {
+     "c": "Lee Mok-yo",
+     "n": "Choi Jin-ho"
+    },
+    {
+     "c": "Inuchi",
+     "n": "Ji Seung-hyun"
+    },
+    {
+     "c": "Huasam",
+     "n": "Ji Gun-woo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Choi Jae-hoon"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "History"
+   ],
+   "id": 492008,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "After being blinded in a coup against the king, Joseon's greatest swordsman goes into hiding, far removed from his city's anguish. But when traffickers kidnap his daughter, he has no choice but to unsheathe his sword once more.",
+   "popularity": 2.3112,
+   "poster_path": "/r08U3dwiOeStXcjYmfnRyumgKyq.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Hi-YAH"
+    },
+    {
+     "name": "ViX Premium Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hi-YAH Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/VSkdYiq9YA34Oaucl2Ga0dBL11.png",
+     "name": "Hi-YAH",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+     "name": "ViX Premium Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mlciWnmFopns3WZGENR6ZZoNnZO.png",
+     "name": "Hi-YAH Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-09-23",
+   "revenue": 1516150,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "Real chase action.",
+   "title": "The Swordsman",
+   "trailer": {
+    "key": "ACvvexZ22Z8",
+    "name": "The Swordsman (2020)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.52,
+   "vote_count": 306
   },
   "movie:532908": {
    "backdrop_path": "/vBhFCHx3gMQfAdqJTyIiQK3IckS.jpg",
@@ -3462,6 +4175,136 @@
    "type": "movie",
    "vote_average": 7.333,
    "vote_count": 412
+  },
+  "movie:73108": {
+   "backdrop_path": "/s75xYQOo4Hy2fy229CEfj5jgC2B.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Amber",
+     "n": "Cassie Scerbo"
+    },
+    {
+     "c": "Lisa",
+     "n": "Lindsey Shaw"
+    },
+    {
+     "c": "Nick",
+     "n": "Chris Zylka"
+    },
+    {
+     "c": "Vesper",
+     "n": "Rhoda Griffis"
+    },
+    {
+     "c": "Selena",
+     "n": "Katie Sarife"
+    },
+    {
+     "c": "Raj Kukuri",
+     "n": "Paras Patel"
+    },
+    {
+     "c": "Gillian Pollock",
+     "n": "Andrea Powell"
+    },
+    {
+     "c": "Colin",
+     "n": "Travis Quentin Young"
+    },
+    {
+     "c": "Paisley",
+     "n": "Carissa Capobianco"
+    },
+    {
+     "c": "Aunt Marielle",
+     "n": "Elena Varela"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Gil Junger"
+   ],
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Comedy",
+    "TV Movie"
+   ],
+   "id": 73108,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Amber, a mean popular girl who gets electrocuted and dies, is not allowed to enter into heaven unless she helps the least popular girl in school become Prom Queen within a week, but things do not go as planned.",
+   "popularity": 1.437,
+   "poster_path": "/8mmxoEBzTMX4ziYgveeEx35ltNY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Freeform"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/n0IYtqCRKBhqnioKooWDLOS3l3r.png",
+     "name": "Freeform",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-08-07",
+   "revenue": 0,
+   "runtime": 81,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "From geek to chic in one week? Her afterlife depends on it!",
+   "title": "Teen Spirit",
+   "trailer": {
+    "key": "A-IOXbvU18A",
+    "name": "Teen Spirit: OFFICIAL TRAILER",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.918,
+   "vote_count": 306
   },
   "movie:79108": {
    "backdrop_path": "/oWaSlhlfx9woNAYP9XeqarG6JYH.jpg",

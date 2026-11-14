@@ -1,7 +1,135 @@
 {
  "bucket": "45",
- "count": 53,
+ "count": 61,
  "titles": {
+  "movie:10445": {
+   "d": "Shadowlands (1993): Drama/Romance film. Story: C.S. Lewis, a world-renowned writer and professor… See cast, budget $22M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/nna1FWMle9WUd0lg3qJWog1NBbe.jpg",
+   "industry": "world",
+   "k": "Shadowlands, Shadowlands movie, Shadowlands cast, Shadowlands story, Shadowlands box office collection, Shadowlands budget, Shadowlands review, Shadowlands rating, Shadowlands release date, Shadowlands Drama, Shadowlands Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anthony Hopkins"
+     },
+     {
+      "@type": "Person",
+      "name": "Debra Winger"
+     },
+     {
+      "@type": "Person",
+      "name": "Edward Hardwicke"
+     },
+     {
+      "@type": "Person",
+      "name": "John Wood"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Denison"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 320,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Shadowlands (1993): Drama/Romance film. Story: C.S. Lewis, a world-renowned writer and professor… See cast, budget $22M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Richard Attenborough"
+     }
+    ],
+    "duration": "PT131M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nna1FWMle9WUd0lg3qJWog1NBbe.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10445",
+    "name": "Shadowlands",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1993-12-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10445"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Shadowlands (1993)</h1>\n<p class=\"ssr-lead\">C.S. Lewis, a world-renowned writer and professor, leads a passionless life until he meets spirited poet Joy Gresham.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 December 1993</li><li>Runtime: 131 minutes</li><li>Director: Richard Attenborough</li><li>Genres: Drama, Romance</li><li>Budget: $22M</li><li>TMDB rating: 6.9/10 (320 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anthony Hopkins as C. S. &#x27;Jack&#x27; Lewis</li><li>Debra Winger as Joy Gresham</li><li>Edward Hardwicke as Warnie Lewis</li><li>John Wood as Christopher Riley</li><li>Michael Denison as Harry Harrington</li><li>Peter Firth as Dr Craig</li><li>Matthew Delamere as Simon Chadwick</li><li>Julian Fellowes as Desmond Arding</li><li>Julian Firth as Father John Fisher</li><li>Robert Flemyng as Claude Bird</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Sky Store</li><li>Buy: Sky Store</li></ul>\n</article>",
+   "t": "Shadowlands (1993) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1993"
+  },
+  "movie:10845": {
+   "d": "2001 Maniacs (2005): Horror/Comedy film. Story: On their way to Spring Break, college kids take a… See cast, budget $1.5M, and TMDB rating 5.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8cHtECGEUaz6OI2Hq97HvlRtEGo.jpg",
+   "industry": "world",
+   "k": "2001 Maniacs, 2001 Maniacs movie, 2001 Maniacs cast, 2001 Maniacs story, 2001 Maniacs box office collection, 2001 Maniacs budget, 2001 Maniacs review, 2001 Maniacs rating, 2001 Maniacs release date, 2001 Maniacs Horror, 2001 Maniacs Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Robert Englund"
+     },
+     {
+      "@type": "Person",
+      "name": "Giuseppe Andrews"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Stormare"
+     },
+     {
+      "@type": "Person",
+      "name": "Dylan Edrington"
+     },
+     {
+      "@type": "Person",
+      "name": "Lin Shaye"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 310,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "2001 Maniacs (2005): Horror/Comedy film. Story: On their way to Spring Break, college kids take a… See cast, budget $1.5M, and TMDB rating 5.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tim Sullivan"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Horror",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8cHtECGEUaz6OI2Hq97HvlRtEGo.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10845",
+    "name": "2001 Maniacs",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-05-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10845"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>2001 Maniacs (2005)</h1>\n<p class=\"ssr-lead\">On their way to Spring Break, college kids take a detour through an old Southern town. The people of Pleasant Valley insist the kids stay for their annual barbecue celebration... but instead of getting a taste of the old South, the old South gets a taste of them!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 May 2005</li><li>Runtime: 87 minutes</li><li>Director: Tim Sullivan</li><li>Genres: Horror, Comedy</li><li>Budget: $1.5M</li><li>TMDB rating: 5.5/10 (310 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert Englund as Mayor Buckman</li><li>Giuseppe Andrews as Harper Alexander</li><li>Peter Stormare as Professor Ackerman</li><li>Dylan Edrington as Nelson Elliot</li><li>Lin Shaye as Granny Boone</li><li>Marla Malcolm as Joey</li><li>Jay Gillespie as Anderson Lee</li><li>Gina Marie Heekin as Kat</li><li>Matthew Carey as Cory</li><li>Brendan McCarthy as Rufus</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MovieSphere+ Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "2001 Maniacs (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
+  },
   "movie:10945": {
    "d": "Jumpin' Jack Flash (1986): Romance/Comedy film. Story: Terry works for a bank, and uses computers to… See cast, budget $18M, and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/l9jj1CwgCWeCHE2rhzY5Hb0zXcZ.jpg",
@@ -261,6 +389,138 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Mutiny (2026)</h1>\n<p class=\"ssr-lead\">After witnessing his billionaire boss&#x27; murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss&#x27; death only to discover an international conspiracy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 August 2026</li><li>Runtime: 96 minutes</li><li>Director: Jean-François Richet</li><li>Genres: Action, Thriller</li><li>Budget: $40M</li><li>TMDB rating: 7.6/10 (1071 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jason Statham as Cole Reed</li><li>Annabelle Wallis as Angie Ellis</li><li>Roland Møller as Captain Marko Madsen</li><li>Ramon Tikaram as Tibu Campallo</li><li>Arnas Fedaravičius as Mateo Pineda</li><li>Jason Wong as Taran</li><li>Adrian Lester as Captain Adam Spencer</li><li>Chaneil Kular as Kameron Campallo</li><li>Andrew John Tait as BK Lobby Businessman</li><li>Simon Kluth as Jaran Daniles</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home, FlixFling, Plex</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "Mutiny (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:13345": {
+   "d": "A Chinese Odyssey Part One: Pandora's Box (1995): Action/Adventure film. Story: When the Goddess of Happiness tosses the Longevity… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/cvpq5L0LSrTvLBokQ0tsFdEysJ6.jpg",
+   "industry": "world",
+   "k": "A Chinese Odyssey Part One: Pandora's Box, A Chinese Odyssey Part One: Pandora's Box movie, A Chinese Odyssey Part One: Pandora's Box cast, A Chinese Odyssey Part One: Pandora's Box story, A Chinese Odyssey Part One: Pandora's Box box office collection, A Chinese Odyssey Part One: Pandora's Box budget, A Chinese Odyssey Part One: Pandora's Box review, A Chinese Odyssey Part One: Pandora's Box rating, A Chinese Odyssey Part One: Pandora's Box release date, A Chinese Odyssey Part One: Pandora's Box Action, A Chinese Odyssey Part One: Pandora's Box Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Stephen Chow"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Ng Man-tat"
+     },
+     {
+      "@type": "Person",
+      "name": "Law Kar-ying"
+     },
+     {
+      "@type": "Person",
+      "name": "Yammie Lam Kit-ying"
+     },
+     {
+      "@type": "Person",
+      "name": "Karen Mok Man-wai"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 325,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "A Chinese Odyssey Part One: Pandora's Box (1995): Action/Adventure film. Story: When the Goddess of Happiness tosses the Longevity… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jeffrey Lau Chun-wai"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cvpq5L0LSrTvLBokQ0tsFdEysJ6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13345",
+    "name": "A Chinese Odyssey Part One: Pandora's Box",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1995-01-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13345"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Chinese Odyssey Part One: Pandora&#x27;s Box (1995)</h1>\n<p class=\"ssr-lead\">When the Goddess of Happiness tosses the Longevity Monk and his disciples out of heaven (because the Monkey King tried to attain immortality), the Monkey King is reincarnated as the Joker. He now spends his time chasing two jealous women. When one of them is dying, the Joker goes back in time in an attempt to save her.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 January 1995</li><li>Runtime: 88 minutes</li><li>Director: Jeffrey Lau Chun-wai</li><li>Genres: Action, Adventure, Fantasy, Comedy, Romance, Drama</li><li>TMDB rating: 7.5/10 (325 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Stephen Chow as Joker / Monkey King</li><li>Richard Ng Man-tat as Piggy</li><li>Law Kar-ying as Longevity Monk</li><li>Yammie Lam Kit-ying as Spider Demon</li><li>Karen Mok Man-wai as White-Bone Demon / Pak Jing Jing</li><li>Johnnie Kong as Sandy / Blindy</li><li>Lu Shuming as King Bull</li><li>Jeffrey Lau Chun-wai as Grape Buddha</li><li>Athena Chu Yan as Lin Zixia</li><li>Lee Kin-yan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "A Chinese Odyssey Part One: Pandora's Box (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1995"
+  },
+  "movie:137145": {
+   "d": "247°F (2011): Horror/Thriller film. Story: Four friends travel to a lakeside cabin for a… See cast, budget $650.0k, and TMDB rating 5.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tIHNc6240dif2H8lzsuahPTCvxo.jpg",
+   "industry": "world",
+   "k": "247°F, 247°F movie, 247°F cast, 247°F story, 247°F box office collection, 247°F budget, 247°F review, 247°F rating, 247°F release date, 247°F Horror, 247°F Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Scout Taylor-Compton"
+     },
+     {
+      "@type": "Person",
+      "name": "Christina Ulloa"
+     },
+     {
+      "@type": "Person",
+      "name": "Travis Van Winkle"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Copon"
+     },
+     {
+      "@type": "Person",
+      "name": "Tyler Mane"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 307,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "247°F (2011): Horror/Thriller film. Story: Four friends travel to a lakeside cabin for a… See cast, budget $650.0k, and TMDB rating 5.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Levan Bakhia"
+     },
+     {
+      "@type": "Person",
+      "name": "Beqa Jguburia"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tIHNc6240dif2H8lzsuahPTCvxo.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=137145",
+    "name": "247°F",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-09-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=137145"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>247°F (2011)</h1>\n<p class=\"ssr-lead\">Four friends travel to a lakeside cabin for a carefree weekend, but the fun turns into a nightmare when 3 of them end up locked in a hot sauna. Every minute counts and every degree matters as they fight for their lives in the heat up to 247°F.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 September 2011</li><li>Runtime: 88 minutes</li><li>Director: Levan Bakhia, Beqa Jguburia</li><li>Genres: Horror, Thriller</li><li>Budget: $650.0k</li><li>TMDB rating: 5.5/10 (307 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Scout Taylor-Compton as Jenna</li><li>Christina Ulloa as Renee</li><li>Travis Van Winkle as Ian</li><li>Michael Copon as Michael</li><li>Tyler Mane as Wade</li><li>Rene Etore as Beau</li><li>Tornike Gogrichiani as Jamie</li><li>Jeremy Inabnit as Man in the woods</li><li>Igor Lubkin as Wade&#x27;s Double</li><li>Ibrahim Idowu as Club Security 1</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, MovieSphere+ Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "247°F (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
   },
   "movie:1510745": {
    "d": "Bodycam (2026): Horror film. Story: A call to a quiet suburban home unleashes unthinkable… See cast, TMDB rating 6.0/10, and release date 12 March 2026.",
@@ -780,6 +1040,70 @@
    "t": "Steins;Gate: The Movie - Load Region of Déjà Vu (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
   },
+  "movie:247645": {
+   "d": "Queen (2014): Comedy/Drama film. Story: Rani, a 24-year-old homely girl, decides to go on her… See cast, budget $1.9M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/laKTtxs7jq64sDHzvbjeT7V2oBa.jpg",
+   "industry": "bollywood",
+   "k": "Queen, Queen movie, Queen cast, Queen story, Queen box office collection, Queen budget, Queen review, Queen rating, Queen release date, Queen Comedy, Queen Drama, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kangana Ranaut"
+     },
+     {
+      "@type": "Person",
+      "name": "Rajkummar Rao"
+     },
+     {
+      "@type": "Person",
+      "name": "Lisa Haydon"
+     },
+     {
+      "@type": "Person",
+      "name": "Mish Boyko"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeffrey Ho"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 329,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Queen (2014): Comedy/Drama film. Story: Rani, a 24-year-old homely girl, decides to go on her… See cast, budget $1.9M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Vikas Bahl"
+     }
+    ],
+    "duration": "PT146M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/laKTtxs7jq64sDHzvbjeT7V2oBa.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=247645",
+    "name": "Queen",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-03-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=247645"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Queen (2014)</h1>\n<p class=\"ssr-lead\">Rani, a 24-year-old homely girl, decides to go on her honeymoon alone when her fiancé calls off the wedding. Traveling around Europe, she finds joy, makes friends, and gains new-found independence.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 March 2014</li><li>Runtime: 146 minutes</li><li>Director: Vikas Bahl</li><li>Genres: Comedy, Drama</li><li>Budget: $1.9M</li><li>TMDB rating: 7.3/10 (329 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kangana Ranaut as Rani (Queen)</li><li>Rajkummar Rao as Vijay</li><li>Lisa Haydon as Vijayalakshmi</li><li>Mish Boyko as Oleksander</li><li>Jeffrey Ho as Taka</li><li>Yogendra Tiku as Rani&#x27;s Father</li><li>Alka Badola Kaushal as Rani&#x27;s Mother</li><li>Marco Canadea as Marcello</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, VI movies and tv, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Queen (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:28145": {
    "d": "They Shoot Horses, Don't They? (1969): Drama film. Story: In the midst of the Great Depression, manipulative… See cast and TMDB rating 7.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/aNGoAAVZWxyOLcGRBJb46nXDdDt.jpg",
@@ -1098,6 +1422,70 @@
    "t": "Retribution (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:362045": {
+   "d": "Bajirao Mastani (2015): History/Romance film. Story: Peshwa Bajirao married to Kashibai, falls in love… See cast, budget $19.5M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wqe6GXolmOtRTYxImtZQkKH35EA.jpg",
+   "industry": "bollywood",
+   "k": "Bajirao Mastani, Bajirao Mastani movie, Bajirao Mastani cast, Bajirao Mastani story, Bajirao Mastani box office collection, Bajirao Mastani budget, Bajirao Mastani review, Bajirao Mastani rating, Bajirao Mastani release date, Bajirao Mastani History, Bajirao Mastani Romance, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ranveer Singh"
+     },
+     {
+      "@type": "Person",
+      "name": "Deepika Padukone"
+     },
+     {
+      "@type": "Person",
+      "name": "Priyanka Chopra Jonas"
+     },
+     {
+      "@type": "Person",
+      "name": "Tanvi Azmi"
+     },
+     {
+      "@type": "Person",
+      "name": "Vaibhav Tatwawadi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 329,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Bajirao Mastani (2015): History/Romance film. Story: Peshwa Bajirao married to Kashibai, falls in love… See cast, budget $19.5M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sanjay Leela Bhansali"
+     }
+    ],
+    "duration": "PT158M",
+    "genre": [
+     "History",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wqe6GXolmOtRTYxImtZQkKH35EA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=362045",
+    "name": "Bajirao Mastani",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-12-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=362045"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bajirao Mastani (2015)</h1>\n<p class=\"ssr-lead\">Peshwa Bajirao married to Kashibai, falls in love with Mastani, a warrior princess in distress. They struggle to make their love triumph amid opposition from his conservative family.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 December 2015</li><li>Runtime: 158 minutes</li><li>Director: Sanjay Leela Bhansali</li><li>Genres: History, Romance, Drama</li><li>Budget: $19.5M</li><li>TMDB rating: 7.2/10 (329 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ranveer Singh as Peshwa Bajirao Ballaad</li><li>Deepika Padukone as Mastani</li><li>Priyanka Chopra Jonas as Kashibai</li><li>Tanvi Azmi as Radhabai</li><li>Vaibhav Tatwawadi as Chimaji Appa</li><li>Mahesh Manjrekar as Chhatrapati Shahu</li><li>Milind Soman as Ambaji Panth</li><li>Aditya Pancholi as Shripatrao Pratinidhi</li><li>Ayush Tandon as Nana Saheb</li><li>Rudra Soni as Young Nana Saheb</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Eros Now Select Apple TV channel</li><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Bajirao Mastani (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:365045": {
    "d": "Heidi (2015): Adventure/Family film. Story: Heidi, is an eight-year-old Swiss orphan who is given… See cast, budget $8.8M, and TMDB rating 7.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/1PlM2EeieSZPJ9jrM5XYIJyoRRL.jpg",
@@ -1289,6 +1677,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Casper Meets Wendy (1998)</h1>\n<p class=\"ssr-lead\">When a warlock threatens Wendy the Good Little Witch, she and her aunts hide out at a resort where Casper the Ghost is vacationing with his uncles. Although Casper and Wendy are told ghosts and witches don&#x27;t get along, the two are kindred spirits! This spooky family-friendly adventure finds Casper and Wendy bridging the ghost-witch divide to battle the warlock who is intent on destroying Wendy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 September 1998</li><li>Runtime: 90 minutes</li><li>Director: Sean McNamara</li><li>Genres: Family, Fantasy, Comedy, TV Movie</li><li>TMDB rating: 5.9/10 (430 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hilary Duff as Wendy</li><li>Shelley Duvall as Gabby</li><li>Cathy Moriarty as Geri</li><li>Teri Garr as Fanny</li><li>George Hamilton as Desmond Spellman</li><li>Jeremy Foley as Casper (voice)</li><li>Jim Ward as Stretch (voice)</li><li>Jess Harnell as Fatso (voice)</li><li>Richard Moll as Jules</li><li>Vincent Schiavelli as Vincent</li></ul>\n</article>",
    "t": "Casper Meets Wendy (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1998"
+  },
+  "movie:41245": {
+   "d": "Peppermint Candy (2000): Drama film. Story: In the spring of 1999, a group of old friends gather… See cast, TMDB rating 7.5/10, and release date 1 January 2000.",
+   "img": "https://image.tmdb.org/t/p/w780/d9LNlmhjihHAAP1vKCQJo57JQFX.jpg",
+   "industry": "world",
+   "k": "Peppermint Candy, Peppermint Candy movie, Peppermint Candy cast, Peppermint Candy story, Peppermint Candy box office collection, Peppermint Candy budget, Peppermint Candy review, Peppermint Candy rating, Peppermint Candy release date, Peppermint Candy trailer, Peppermint Candy Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sul Kyung-gu"
+     },
+     {
+      "@type": "Person",
+      "name": "Moon So-ri"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Yeo-jin"
+     },
+     {
+      "@type": "Person",
+      "name": "Suh Jung"
+     },
+     {
+      "@type": "Person",
+      "name": "Go Seo-hee"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 320,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Peppermint Candy (2000): Drama film. Story: In the spring of 1999, a group of old friends gather… See cast, TMDB rating 7.5/10, and release date 1 January 2000.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lee Chang-dong"
+     }
+    ],
+    "duration": "PT131M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/d9LNlmhjihHAAP1vKCQJo57JQFX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=41245",
+    "name": "Peppermint Candy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2000-01-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=41245"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Peppermint Candy (2000)</h1>\n<p class=\"ssr-lead\">In the spring of 1999, a group of old friends gather to celebrate their 20 year reunion. Among the group is Yeong-ho, a cold, unhappy man, whose demeanor puts a damper on the festivities. The seriousness of Yeong-ho&#x27;s depression becomes apparent when he climbs a railroad bridge and looks like he might jump. At this crucial moment, memories of seven crucial episodes from Yeong-ho&#x27;s past flood his mind.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 January 2000</li><li>Runtime: 131 minutes</li><li>Director: Lee Chang-dong</li><li>Genres: Drama</li><li>TMDB rating: 7.5/10 (320 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sul Kyung-gu as Kim Yeong-ho</li><li>Moon So-ri as Yun Sun-im</li><li>Kim Yeo-jin as Hong-ja</li><li>Suh Jung as Miss Lee</li><li>Go Seo-hee as Kyeong-ah</li><li>Kim In-kwon as Sergeant Lee</li><li>Lee Dae-yeon as Detective Kang</li><li>Gong Hyung-jin as Detective Song</li><li>Kim Kyung-ik as Park Myung-sik</li><li>Park Se-bum as Shin Kwang-man</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Metrograph, Netflix Standard with Ads, Film Movement Plus, Film Movement Plus Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Peppermint Candy (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2000"
   },
   "movie:433945": {
    "d": "Tokyo Ghoul (2017): Action/Drama film. Story: A Tokyo college student is attacked by a ghoul, a… See cast, TMDB rating 7.0/10, and release date 16 July 2017.",
@@ -1991,6 +2442,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>War of the Buttons (2011)</h1>\n<p class=\"ssr-lead\">Occupied France; Lebrac leads a play war between two rival kid gangs, but a girl he likes, who&#x27;s Jewish, is in danger of being discovered by local Nazi sympathisers. Lebrac and the village must now respond to the reality of what&#x27;s happening.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 September 2011</li><li>Runtime: 100 minutes</li><li>Director: Christophe Barratier</li><li>Genres: Adventure, Family</li><li>TMDB rating: 5.9/10 (481 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean Texier as Lebrac</li><li>Clément Godefroy as Petit Bibus</li><li>Théophile Baquet as Grand Gibus</li><li>Louis Dussol as Bacaillé, mayor&#x27;s kid</li><li>Harold Werner as La Crique, smart kid</li><li>Nathan Parent as Camus</li><li>Ilona Bachelier as Violette</li><li>Thomas Goldberg as L&#x27;Aztec</li><li>Laetitia Casta as Simone</li><li>Guillaume Canet as L&#x27;instituteur</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "War of the Buttons (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:760245": {
+   "d": "Foe (2023): Science Fiction/Drama film. Story: Henrietta and Junior farm a secluded piece of land… See cast and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vWr6CxlFVhkDcBjz7R5gBsCAU9I.jpg",
+   "industry": "world",
+   "k": "Foe, Foe movie, Foe cast, Foe story, Foe box office collection, Foe budget, Foe review, Foe rating, Foe release date, Foe trailer, Foe Science Fiction, Foe Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Paul Mescal"
+     },
+     {
+      "@type": "Person",
+      "name": "Saoirse Ronan"
+     },
+     {
+      "@type": "Person",
+      "name": "Aaron Pierre"
+     },
+     {
+      "@type": "Person",
+      "name": "Jordan Chodziesner"
+     },
+     {
+      "@type": "Person",
+      "name": "William Freeman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 320,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Foe (2023): Science Fiction/Drama film. Story: Henrietta and Junior farm a secluded piece of land… See cast and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Garth Davis"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Science Fiction",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vWr6CxlFVhkDcBjz7R5gBsCAU9I.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=760245",
+    "name": "Foe",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-10-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=760245"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Foe (2023)</h1>\n<p class=\"ssr-lead\">Henrietta and Junior farm a secluded piece of land that has been in Junior&#x27;s family for generations, but their quiet life is thrown into turmoil when an uninvited stranger shows up at their door with a startling proposal. Will they risk their relationship &amp; personal identity for a chance to survive in a new world?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 October 2023</li><li>Runtime: 111 minutes</li><li>Director: Garth Davis</li><li>Genres: Science Fiction, Drama, Thriller</li><li>TMDB rating: 5.8/10 (320 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paul Mescal as Junior</li><li>Saoirse Ronan as Hen</li><li>Aaron Pierre as Terrence</li><li>Jordan Chodziesner as Formal Escort 1</li><li>William Freeman as Formal Escort 2</li><li>Jalen Ong as Computer Technician 1</li><li>Patrick Williams as Computer Technician 2</li><li>David Woods as VIP 1</li><li>Yesse Spence as VIP 2</li><li>Shamita Sivabalan as VIP 3</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Foe (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
   },
   "movie:800345": {
    "d": "Carter (2022): Action/Thriller film. Story: Carter, who awakens two months into a deadly pandemic… See cast, TMDB rating 6.0/10, and release date 5 August 2022.",

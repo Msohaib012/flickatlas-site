@@ -1,6 +1,6 @@
 {
  "bucket": "67",
- "count": 48,
+ "count": 55,
  "titles": {
   "movie:10167": {
    "backdrop_path": "/kn2DrfbjYWyNAXlYjCIhQPOTEYd.jpg",
@@ -544,6 +544,220 @@
    "type": "movie",
    "vote_average": 5.7,
    "vote_count": 42
+  },
+  "movie:1196067": {
+   "backdrop_path": "/gMItMzDOyrfQGZsMWRM9tdxq5cV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Willa",
+     "n": "Billie Boullet"
+    },
+    {
+     "c": "Dad",
+     "n": "Luke Evans"
+    },
+    {
+     "c": "Mom",
+     "n": "Milla Jovovich"
+    },
+    {
+     "c": "Rosie",
+     "n": "Mila Harris"
+    },
+    {
+     "c": "The Man",
+     "n": "Kevin Glynn"
+    },
+    {
+     "c": "Infected Soldier",
+     "n": "Steven Calvert"
+    },
+    {
+     "c": "Female Guard 1",
+     "n": "Meadow Williams"
+    },
+    {
+     "c": "Female Guard 2",
+     "n": "Nadia Violet-Johnson"
+    },
+    {
+     "c": "Older Man",
+     "n": "Brian Devlin"
+    },
+    {
+     "c": "Kodiak",
+     "n": "Chris Finlayson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Brad Anderson"
+   ],
+   "genres": [
+    "Action",
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 1196067,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Five years ago, a tear in the fabric of reality brought creatures to our world from an alternate dimension bent on our destruction. A father hides his daughter on an island to keep her safe while he prepares her for survival and the battles to come. But when the world is about to break, no place is safe.",
+   "popularity": 7.0396,
+   "poster_path": "/ahj1JU8r0uJv7QII5Uj7tKzbEsC.jpg",
+   "production_countries": [
+    "US",
+    "XI"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+     "name": "MGM Plus Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-10-30",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The future belongs to those who fight.",
+   "title": "Worldbreaker",
+   "trailer": {
+    "key": "oJ960Hqz9DY",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.976,
+   "vote_count": 310
   },
   "movie:1232667": {
    "backdrop_path": "/fH4pbzTCP1EWbZ1BoCtx7lgRb1F.jpg",
@@ -2070,6 +2284,155 @@
    "vote_average": 7.361,
    "vote_count": 498
   },
+  "movie:221667": {
+   "backdrop_path": "/tMyM608XeIm92JIMONAgObcCWGi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yves Saint Laurent",
+     "n": "Gaspard Ulliel"
+    },
+    {
+     "c": "Pierre Bergé",
+     "n": "Jérémie Renier"
+    },
+    {
+     "c": "Jacques de Bascher",
+     "n": "Louis Garrel"
+    },
+    {
+     "c": "Loulou de la Falaise",
+     "n": "Léa Seydoux"
+    },
+    {
+     "c": "Betty Catroux",
+     "n": "Aymeline Valade"
+    },
+    {
+     "c": "Anne-Marie Munoz",
+     "n": "Amira Casar"
+    },
+    {
+     "c": "Monsieur Jean-Pierre",
+     "n": "Micha Lescot"
+    },
+    {
+     "c": "Yves Saint Laurent in 1989",
+     "n": "Helmut Berger"
+    },
+    {
+     "c": "Client",
+     "n": "Valeria Bruni Tedeschi"
+    },
+    {
+     "c": "Tante Renée",
+     "n": "Valérie Donzelli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Bertrand Bonello"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 221667,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "1967-1976. As one of history's greatest fashion designers entered a decade of freedom, neither came out of it in one piece.",
+   "popularity": 1.5471,
+   "poster_path": "/1ETFKC3kcuixCfohdcrc5GuQ4WG.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-10-19",
+   "revenue": 0,
+   "runtime": 150,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "The story that has never been told before",
+   "title": "Saint Laurent",
+   "trailer": {
+    "key": "kF7y2U0zW7k",
+    "name": "Official International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 311
+  },
   "movie:23367": {
    "backdrop_path": "/5YSHbGte3wLCZLe3bVu5Pe9LlmZ.jpg",
    "budget": 20000000,
@@ -2341,6 +2704,183 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 344
+  },
+  "movie:27367": {
+   "backdrop_path": "/jqu2wqiFKrmhbF6fLqwi3zRUDz7.jpg",
+   "budget": 1344000,
+   "cast": [
+    {
+     "c": "Mrs. Miniver",
+     "n": "Greer Garson"
+    },
+    {
+     "c": "Clem Miniver",
+     "n": "Walter Pidgeon"
+    },
+    {
+     "c": "Carol Beldon",
+     "n": "Teresa Wright"
+    },
+    {
+     "c": "Lady Beldon",
+     "n": "May Whitty"
+    },
+    {
+     "c": "Foley",
+     "n": "Reginald Owen"
+    },
+    {
+     "c": "Mr. Ballard",
+     "n": "Henry Travers"
+    },
+    {
+     "c": "Vin Miniver",
+     "n": "Richard Ney"
+    },
+    {
+     "c": "Vicar",
+     "n": "Henry Wilcoxon"
+    },
+    {
+     "c": "Toby Miniver",
+     "n": "Christopher Severn"
+    },
+    {
+     "c": "Gladys",
+     "n": "Brenda Forbes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "William Wyler"
+   ],
+   "genres": [
+    "Drama",
+    "Romance",
+    "War"
+   ],
+   "id": 27367,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Middle-class housewife Kay Miniver deals with petty problems. She and her husband Clem watch her Oxford-educated son Vin court Carol Beldon, the charming granddaughter of the local nobility as represented by Lady Beldon. Then the war comes and Vin joins the RAF.",
+   "popularity": 1.786,
+   "poster_path": "/fjPjx6FTaoTussbqoLj6OYTtUyi.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "IndieFlix"
+    },
+    {
+     "name": "IndieFlix Shorts Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gawu8fJwrJKNvzgTjklQBdVqPCF.png",
+     "name": "IndieFlix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/10011zizrQEpO955oxor51BM0IP.png",
+     "name": "IndieFlix Shorts Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1942-07-03",
+   "revenue": 13500000,
+   "runtime": 134,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "\"Mrs. Miniver\" is more than a picture... It's dramatic. It's tender. It's human. It's real.",
+   "title": "Mrs. Miniver",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.063,
+   "vote_count": 308
   },
   "movie:2767": {
    "backdrop_path": "/6vWdQxx4yqV5kEeAqtzBHndo3Eg.jpg",
@@ -2829,6 +3369,180 @@
    "vote_average": 5.9,
    "vote_count": 435
   },
+  "movie:333667": {
+   "backdrop_path": "/vHiTIgoIoF1rjnjeC4n3qYaZ7Ua.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Bodi (voice)",
+     "n": "Luke Wilson"
+    },
+    {
+     "c": "Angus Scattergood (voice)",
+     "n": "Suzy Eddie Izzard"
+    },
+    {
+     "c": "Khampa (voice)",
+     "n": "J.K. Simmons"
+    },
+    {
+     "c": "Linnux (voice)",
+     "n": "Lewis Black"
+    },
+    {
+     "c": "Riff (voice)",
+     "n": "Kenan Thompson"
+    },
+    {
+     "c": "Darma (voice)",
+     "n": "Mae Whitman"
+    },
+    {
+     "c": "Germur (voice)",
+     "n": "Jorge Garcia"
+    },
+    {
+     "c": "Trey (voice)",
+     "n": "Matt Dillon"
+    },
+    {
+     "c": "Fleetwood Yak (voice)",
+     "n": "Sam Elliott"
+    },
+    {
+     "c": "Floyd / Carl (voice)",
+     "n": "Will Finn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Ash Brannon"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Music"
+   ],
+   "id": 333667,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a radio falls from the sky into the hands of a wide-eyed Tibetan Mastiff, he leaves home to fulfill his dream of becoming a musician, setting into motion a series of completely unexpected events.",
+   "popularity": 2.0661,
+   "poster_path": "/7RXi2afiNJGU8EB79SD8HYoSz4O.jpg",
+   "production_countries": [
+    "CN",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-07-08",
+   "revenue": 23270926,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A new breed of rock star",
+   "title": "Rock Dog",
+   "trailer": {
+    "key": "_eeBeGp_T6k",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 332
+  },
   "movie:34067": {
    "backdrop_path": "/7qzuPx3ukGxCyLR9j0Ahg3fFI7r.jpg",
    "budget": 0,
@@ -2976,6 +3690,210 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 347
+  },
+  "movie:345067": {
+   "backdrop_path": "/2HWRhTOG8EolfA1OlEEKibjH2LC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marco Damiani",
+     "n": "Raoul Bova"
+    },
+    {
+     "c": "Claudio Palmerini",
+     "n": "Ricky Memphis"
+    },
+    {
+     "c": "Giulia Borghini",
+     "n": "Giulia Michelini"
+    },
+    {
+     "c": "Aldo, il padre di Marco",
+     "n": "Max Tortora"
+    },
+    {
+     "c": "Patrizia, la madre di Marco",
+     "n": "Michela Andreozzi"
+    },
+    {
+     "c": "Giuditta, la madre di Claudio",
+     "n": "Paola Minaccioni"
+    },
+    {
+     "c": "Gilberto, il fratello di Marco",
+     "n": "Vittorio Emanuele Propizio"
+    },
+    {
+     "c": "Franca, la madre di Giulia",
+     "n": "Fiorenza Tessari"
+    },
+    {
+     "c": "Titti, la sorella di Giulia",
+     "n": "Erika Di Rienzo"
+    },
+    {
+     "c": "Lando",
+     "n": "Augusto Fornari"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Carlo Vanzina"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 345067,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Marco is married to a gorgeous woman, has a child and a great job. Everything seems perfect, at least until his wife of 25 years announces that she has another man and wants a separation. Marco is forced to leave home.",
+   "popularity": 0.751,
+   "poster_path": "/eScmIS1SGWnpT3aMGbDpMdZslqh.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2015-06-18",
+   "revenue": 0,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Torno indietro e cambio vita",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 325
+  },
+  "movie:349067": {
+   "backdrop_path": "/4JXF6GkzFcKA7MvSJyfv407WwC0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Estrella",
+     "n": "Paola Lara"
+    },
+    {
+     "c": "El Shine",
+     "n": "Juan Ramón López"
+    },
+    {
+     "c": "Caco",
+     "n": "Ianis Guerrero"
+    },
+    {
+     "c": "Pop",
+     "n": "Rodrigo Cortes"
+    },
+    {
+     "c": "Tucsi",
+     "n": "Hanssel Casillas"
+    },
+    {
+     "c": "Maxwell \"Morrito\" Vázquez",
+     "n": "Nery Arredondo"
+    },
+    {
+     "c": "El Chino",
+     "n": "Tenoch Huerta Mejía"
+    },
+    {
+     "c": "Brayan",
+     "n": "Benny Emmanuel"
+    },
+    {
+     "c": "Niño Rescatado 1",
+     "n": "Renato Marin Alcalde"
+    },
+    {
+     "c": "Mamá Estrella",
+     "n": "Viviana Amaya"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Issa López"
+   ],
+   "genres": [
+    "Fantasy",
+    "Horror"
+   ],
+   "id": 349067,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "When her mother suddenly disappears with no one to care for her, young Estrella ends up on the street and joins a gang of children, triggering a dangerous and tragic chain of events.",
+   "popularity": 1.113,
+   "poster_path": "/fSDOwpgG8WFB3rt4Fj7iJ0EQnNq.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-11-02",
+   "revenue": 0,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Who lives in your fantasies?",
+   "title": "Tigers Are Not Afraid",
+   "trailer": {
+    "key": "KyoE0mSJXO8",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.819,
+   "vote_count": 310
   },
   "movie:364067": {
    "backdrop_path": "/sW5mPgwYEpzauk0QOBWxRUhs2t9.jpg",
@@ -3499,6 +4417,114 @@
    "type": "movie",
    "vote_average": 5.94,
    "vote_count": 476
+  },
+  "movie:659067": {
+   "backdrop_path": "/mnq5O3MyfHIJvunmE0fRhMrQQ89.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Saïd",
+     "n": "Sami Bouajila"
+    },
+    {
+     "c": "Adama",
+     "n": "Ériq Ebouaney"
+    },
+    {
+     "c": "Yanis",
+     "n": "Samy Seghir"
+    },
+    {
+     "c": "Sarah",
+     "n": "Sofia Lesaffre"
+    },
+    {
+     "c": "Mehdi",
+     "n": "Redouanne Harjane"
+    },
+    {
+     "c": "Yao",
+     "n": "Eric Kabongo"
+    },
+    {
+     "c": "Alassane",
+     "n": "Oumar Diolo"
+    },
+    {
+     "c": "Kouame",
+     "n": "Anis Benbatoul"
+    },
+    {
+     "c": "Koffi",
+     "n": "Blaise Afonso"
+    },
+    {
+     "c": "Eric",
+     "n": "Gaëtan Lejeune"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Julien Leclercq"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 659067,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A sawmill owner and his teenage daughter become tangled in a deadly feud when a drug dealer stashes stolen cocaine on their remote property.",
+   "popularity": 1.3641,
+   "poster_path": "/23S0NEXXOMhhXhF566Pw5sx7hnZ.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-04-17",
+   "revenue": 0,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Earth and Blood",
+   "trailer": {
+    "key": "prchZUT26KM",
+    "name": "Earth and Blood | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 310
   },
   "movie:820067": {
    "backdrop_path": "/gcgKSyE2iqwfKWMDZ8TJPxeIu0P.jpg",

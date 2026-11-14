@@ -1,6 +1,6 @@
 {
  "bucket": "16",
- "count": 53,
+ "count": 68,
  "titles": {
   "movie:1034716": {
    "backdrop_path": "/qa3oDSDZSJKSdIdBgQgEAxO0N88.jpg",
@@ -108,6 +108,369 @@
    "type": "movie",
    "vote_average": 6.944,
    "vote_count": 771
+  },
+  "movie:1058616": {
+   "backdrop_path": "/986n9SAXsuxpPJzFAWK3azPknX0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Narrator and Interviewer",
+     "n": "Mstyslav Chernov"
+    },
+    {
+     "c": "Self",
+     "n": "Evgeniy Maloletka"
+    },
+    {
+     "c": "Self",
+     "n": "Liudmyla Amelkina"
+    },
+    {
+     "c": "Self",
+     "n": "Zhanna Homa"
+    },
+    {
+     "c": "Self",
+     "n": "Oleksandr Ivanov"
+    },
+    {
+     "c": "Self",
+     "n": "Irina Kalinina"
+    },
+    {
+     "c": "Self",
+     "n": "Volodymyr Nikulin"
+    },
+    {
+     "c": "Self",
+     "n": "Anastasiya Yerashova"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Mstyslav Chernov"
+   ],
+   "genres": [
+    "Documentary",
+    "War"
+   ],
+   "id": 1058616,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As the Russian invasion begins, a team of Ukrainian journalists trapped in the besieged city of Mariupol struggle to continue their work documenting the war's atrocities.",
+   "popularity": 3.0028,
+   "poster_path": "/zIRp1IeuPh4GgqFCH3y0DQuY9xP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "PBS Documentaries Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/fZiIXJI0fAN09zTXY1U0xFirdIu.png",
+     "name": "PBS Documentaries Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-08-31",
+   "revenue": 21000,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "uk",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "20 Days in Mariupol",
+   "trailer": {
+    "key": "L3DvHs0GbsY",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.079,
+   "vote_count": 328
+  },
+  "movie:11316": {
+   "backdrop_path": "/isyOwiSRyLRFXdsMn0UiA7mQbXV.jpg",
+   "budget": 2400000,
+   "cast": [
+    {
+     "c": "Macbeth",
+     "n": "Jon Finch"
+    },
+    {
+     "c": "Lady Macbeth",
+     "n": "Francesca Annis"
+    },
+    {
+     "c": "Banquo",
+     "n": "Martin Shaw"
+    },
+    {
+     "c": "Ross",
+     "n": "John Stride"
+    },
+    {
+     "c": "Duncan",
+     "n": "Nicholas Selby"
+    },
+    {
+     "c": "Macduff",
+     "n": "Terence Bayler"
+    },
+    {
+     "c": "Malcolm",
+     "n": "Stephan Chase"
+    },
+    {
+     "c": "Donalbain",
+     "n": "Paul Shelley"
+    },
+    {
+     "c": "Seyton",
+     "n": "Noel Davis"
+    },
+    {
+     "c": "Doctor",
+     "n": "Richard Pearson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Roman Polanski"
+   ],
+   "genres": [
+    "War",
+    "Drama"
+   ],
+   "id": 11316,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Scotland, 11th century. Driven by the twisted prophecy of three witches and the ruthless ambition of his wife, warlord Macbeth, bold and brave, but also weak and hesitant, betrays his good king and his brothers in arms and sinks into the bloody mud of a path with no return, sown with crime and suspicion.",
+   "popularity": 2.0348,
+   "poster_path": "/35wNrDYuZjVCLurOmTZ5j490iuR.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1971-12-20",
+   "revenue": 1000000,
+   "runtime": 141,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Macbeth",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.075,
+   "vote_count": 315
+  },
+  "movie:1147416": {
+   "backdrop_path": "/cBTwQKMd7Vn6rGTGBtoFLIfj7uM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marinette / Chronobug (voice)",
+     "n": "Anouck Hautbois"
+    },
+    {
+     "c": "Bunnyx / Tikki / Gimmi (voice)",
+     "n": "Marie Nonnenmacher"
+    },
+    {
+     "c": "Adrien / Chat Noir (voice)",
+     "n": "Benjamin Bollen"
+    },
+    {
+     "c": "Lila / Kagami / Clara Contard (voice)",
+     "n": "Clara Soares"
+    },
+    {
+     "c": "Nathalie (voice)",
+     "n": "Marie Chevalot"
+    },
+    {
+     "c": "Gabriel (voice)",
+     "n": "Antoine Tomé"
+    },
+    {
+     "c": "Nooroo / Tom / Journalist (voice)",
+     "n": "Martial Le Minoux"
+    },
+    {
+     "c": "Plagg / Gimmi / Wayzz (voice)",
+     "n": "Thierry Kazazian"
+    },
+    {
+     "c": "Nadja / Barkk / Sabine (voice)",
+     "n": "Jessie Lambotte"
+    },
+    {
+     "c": "Sass / Journalist (voice)",
+     "n": "Alexandre Nguyen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Thomas Astruc"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 1147416,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "To save the future from a terrible fate, Marinette becomes Chronobug and teams up with Bunnyx to defeat a mysterious opponent who travels through time.",
+   "popularity": 6.9998,
+   "poster_path": "/6AtoMpHvs9pxd30KsyK8QmJ9W9M.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-11-14",
+   "revenue": 0,
+   "runtime": 50,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Miraculous World: London, at the Edge of Time",
+   "trailer": {
+    "key": "iFN9DouWuYY",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.57,
+   "vote_count": 336
   },
   "movie:12716": {
    "backdrop_path": "/bjvKom2HhetBSCjBCtAf88tEQSp.jpg",
@@ -424,6 +787,134 @@
    "type": "movie",
    "vote_average": 7.068,
    "vote_count": 140
+  },
+  "movie:132316": {
+   "backdrop_path": "/sgf60uAPn95lBAcSX9eQE8bKxTb.jpg",
+   "budget": 6087315,
+   "cast": [
+    {
+     "c": "Major Samar Anand",
+     "n": "Shah Rukh Khan"
+    },
+    {
+     "c": "Meera Thapar",
+     "n": "Katrina Kaif"
+    },
+    {
+     "c": "Akira Rai",
+     "n": "Anushka Sharma"
+    },
+    {
+     "c": "Dr. Zoya Ali Khan",
+     "n": "Sarika"
+    },
+    {
+     "c": "Frank",
+     "n": "Andrew Bicknell"
+    },
+    {
+     "c": "Zain",
+     "n": "Sharib Hashmi"
+    },
+    {
+     "c": "Maria",
+     "n": "Jasmine Jardot"
+    },
+    {
+     "c": "Captain Jagdeep Deewan",
+     "n": "Gireesh Sahedev"
+    },
+    {
+     "c": "Captain Kamal Singh",
+     "n": "Amarinder Sodhi"
+    },
+    {
+     "c": "Lieutenant Hari Krishnan",
+     "n": "Varun Thakur"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Yash Chopra"
+   ],
+   "genres": [
+    "Drama",
+    "Romance",
+    "Music"
+   ],
+   "id": 132316,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "Samar Anand, a London-based struggling musician falls in love with Meera Thappar. After a severe accident, a panicked Meera promises God to leave Samar if he lives. Heartbroken, Samar leaves for India to become a fearless bomb disposal expert in the army.",
+   "popularity": 1.3602,
+   "poster_path": "/1TlzJZrzUlaC95Noqt3oMoxQxCu.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-11-13",
+   "revenue": 27942181,
+   "runtime": 176,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Jab Tak Hai Jaan",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 308
   },
   "movie:1329016": {
    "backdrop_path": "/krECXoTSBzXezQA7KPPgdV3VBF3.jpg",
@@ -1146,6 +1637,380 @@
    "vote_average": 8.152,
    "vote_count": 89
   },
+  "movie:174316": {
+   "backdrop_path": "/oX29bzX5KNNPGg2bUZnZB7oOpUL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sam Newman",
+     "n": "Justin Long"
+    },
+    {
+     "c": "Birdie Hazel",
+     "n": "Evan Rachel Wood"
+    },
+    {
+     "c": "Eliot",
+     "n": "Keir O'Donnell"
+    },
+    {
+     "c": "Ashley",
+     "n": "Busy Philipps"
+    },
+    {
+     "c": "Sarah Schipper",
+     "n": "Sienna Miller"
+    },
+    {
+     "c": "Jemily",
+     "n": "Mizuo Peck"
+    },
+    {
+     "c": "Gerard",
+     "n": "Peter Dinklage"
+    },
+    {
+     "c": "Gary",
+     "n": "Sam Rockwell"
+    },
+    {
+     "c": "Alan",
+     "n": "Vince Vaughn"
+    },
+    {
+     "c": "Jackie",
+     "n": "Jenn Harris"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Kat Coiro"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 174316,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Young writer Sam has a crush on Birdie, the cute and quirky barista at his local coffee shop. When his conventional attempts to woo her crash and burn, he takes his efforts online, creating an Internet profile embellished with all of the details that would make him Birdie’s dream guy. When the harebrained scheme is a surprise success and Birdie falls for his exaggerated alter ego, Sam must keep up the act or lose his dream girl forever.",
+   "popularity": 1.5573,
+   "poster_path": "/qP6X7K5BWtQv28leIpxJNmq1deB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-02-13",
+   "revenue": 4187,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He'll be everything she likes but himself.",
+   "title": "A Case of You",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 329
+  },
+  "movie:175116": {
+   "backdrop_path": "/yriVjtK2wKO2t4bCZ2wH7YXyb8z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Andrea Manfredini",
+     "n": "Raoul Bova"
+    },
+    {
+     "c": "Enzo Brighi",
+     "n": "Marco Giallini"
+    },
+    {
+     "c": "Paolo",
+     "n": "Edoardo Leo"
+    },
+    {
+     "c": "Lorenza Metrano",
+     "n": "Nicole Grimaudo"
+    },
+    {
+     "c": "Layla Manfredini",
+     "n": "Rosabell Laurenti Sellers"
+    },
+    {
+     "c": "Adele Stramaccioni",
+     "n": "Paola Tiziana Cruciani"
+    },
+    {
+     "c": "Roberto Manfredini",
+     "n": "Mattia Sbragia"
+    },
+    {
+     "c": "Adriano",
+     "n": "Antonino Bruschetta"
+    },
+    {
+     "c": "Grande Star",
+     "n": "Giorgio Colangeli"
+    },
+    {
+     "c": "Angelica/Susy",
+     "n": "Pamela Saino"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "ATP",
+   "date_kind": "release",
+   "director": [
+    "Edoardo Leo"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 175116,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Andrea is a handsome and cocky 38-year old man with a successful business career. Shallow, womanizing and a confirmed bachelor, his life seems to be just perfect... until the day he comes home and finds there Layla, a teenage girl who claims to be his daughter. Alongside Layla is her grandfather Enzo, a former rockstar and the father of Andrea's first fleeting and forgotten conquest. And they've come to stay!",
+   "popularity": 0.5395,
+   "poster_path": "/i3ZB3GVSJQQYpVgJBDFpDrsaC3Q.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2013-03-14",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Out of the Blue",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 327
+  },
+  "movie:18316": {
+   "backdrop_path": "/g3OIqGPv36wGfe86NPjzWpAmQ7Y.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Jack Crews",
+     "n": "Patrick Swayze"
+    },
+    {
+     "c": "Red",
+     "n": "Meat Loaf"
+    },
+    {
+     "c": "Earl",
+     "n": "Randy Travis"
+    },
+    {
+     "c": "Sonny",
+     "n": "Gabriel Casseus"
+    },
+    {
+     "c": "Cutler",
+     "n": "Graham Beckel"
+    },
+    {
+     "c": "Melanie",
+     "n": "Brenda Strong"
+    },
+    {
+     "c": "Junior",
+     "n": "Rusty De Wees"
+    },
+    {
+     "c": "Wes",
+     "n": "Brian Vincent"
+    },
+    {
+     "c": "Vince",
+     "n": "Cyril O'Reilly"
+    },
+    {
+     "c": "Tracy",
+     "n": "Erin Broderick"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Kevin Hooks"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 18316,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "An ex-con takes a job driving a truck cross country. What he doesn't know is that the truck is filled with illegal weapons and now he must fight to survive and save his family.",
+   "popularity": 1.7638,
+   "poster_path": "/8hvt4L3EXWq3ANutok32ODQIGwV.jpg",
+   "production_countries": [
+    "FR",
+    "DE",
+    "JP",
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1998-05-01",
+   "revenue": 12951088,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The rules of the road are simple. Don't turn back.",
+   "title": "Black Dog",
+   "trailer": {
+    "key": "C5FHxF0KqdA",
+    "name": "Black Dog - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.425,
+   "vote_count": 314
+  },
   "movie:2016": {
    "backdrop_path": "/eKYnSOV7UBj0zCSCmnD1GFVFMTs.jpg",
    "budget": 14500000,
@@ -1542,6 +2407,341 @@
    "vote_average": 6.6,
    "vote_count": 372
   },
+  "movie:24016": {
+   "backdrop_path": "/27nvfP0Y7cBP2Bd7ewqv90HZltq.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Kit",
+     "n": "Debra Winger"
+    },
+    {
+     "c": "Port",
+     "n": "John Malkovich"
+    },
+    {
+     "c": "Tunner",
+     "n": "Campbell Scott"
+    },
+    {
+     "c": "Mrs. Lyle",
+     "n": "Jill Bennett"
+    },
+    {
+     "c": "Eric Lyle",
+     "n": "Timothy Spall"
+    },
+    {
+     "c": "Belqassim",
+     "n": "Eric Vu-An"
+    },
+    {
+     "c": "Mahrnia",
+     "n": "Amina Annabi"
+    },
+    {
+     "c": "Captain Broussard",
+     "n": "Philippe Morier-Genoud"
+    },
+    {
+     "c": "Abdelkader",
+     "n": "Sotigui Kouyaté"
+    },
+    {
+     "c": "French Immigration Officer",
+     "n": "Tom Novembre"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Bernardo Bertolucci"
+   ],
+   "genres": [
+    "Drama",
+    "Adventure"
+   ],
+   "id": 24016,
+   "industry": "world",
+   "origin_country": [
+    "IT",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "An American couple drift toward emptiness in postwar North Africa.",
+   "popularity": 1.4964,
+   "poster_path": "/mcaypmWykltQMLjjSuD2vxylZHV.jpg",
+   "production_countries": [
+    "IT",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1990-10-25",
+   "revenue": 2075084,
+   "runtime": 138,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "A woman's dangerous and erotic journey...",
+   "title": "The Sheltering Sky",
+   "trailer": {
+    "key": "kKzAaSI_OEM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.519,
+   "vote_count": 311
+  },
+  "movie:244316": {
+   "backdrop_path": "/k5T3sHUGsjZa4qVsf2BAECdrOOO.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Rowan",
+     "n": "James Marsden"
+    },
+    {
+     "c": "Beckett",
+     "n": "Thomas Jane"
+    },
+    {
+     "c": "Michelle",
+     "n": "Piper Perabo"
+    },
+    {
+     "c": "Sully",
+     "n": "Scott Glenn"
+    },
+    {
+     "c": "Kaley",
+     "n": "Michaela McManus"
+    },
+    {
+     "c": "Douglass",
+     "n": "Billy Bob Thornton"
+    },
+    {
+     "c": "Johnny Cadillac",
+     "n": "Adam Beach"
+    },
+    {
+     "c": "Amber",
+     "n": "Kelly Curran"
+    },
+    {
+     "c": "Gerry Smith",
+     "n": "Reese Alexander"
+    },
+    {
+     "c": "Zoe Langford",
+     "n": "Luisa d'Oliveira"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "David Hackl"
+   ],
+   "genres": [
+    "Action",
+    "Horror",
+    "Thriller"
+   ],
+   "id": 244316,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two estranged brothers reunite at their childhood home in the Alaskan wild. They set out on a two-day hike and are stalked by an unrelenting grizzly bear.",
+   "popularity": 2.6521,
+   "poster_path": "/i5GbFCeZ0fG5xb2ta6B3yNgzIM7.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png",
+     "name": "Sony Pictures Core Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-02-27",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Hunt or be hunted.",
+   "title": "Into the Grizzly Maze",
+   "trailer": {
+    "key": "T7hIqnKsuQk",
+    "name": "Into The Grizzly Maze- Official Trailer- Now on Digital HD!",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.41,
+   "vote_count": 338
+  },
   "movie:244516": {
    "backdrop_path": "/bq2spDK7r7f7KELPKE2piDtqLHx.jpg",
    "budget": 0,
@@ -1802,6 +3002,103 @@
    "type": "movie",
    "vote_average": 7.51,
    "vote_count": 341
+  },
+  "movie:31516": {
+   "backdrop_path": "/otY1rdFZ9XNsacvZHis9EkaxdnJ.jpg",
+   "budget": 2133000,
+   "cast": [
+    {
+     "c": "Gabey",
+     "n": "Gene Kelly"
+    },
+    {
+     "c": "Chip",
+     "n": "Frank Sinatra"
+    },
+    {
+     "c": "Brunhilde Esterhazy",
+     "n": "Betty Garrett"
+    },
+    {
+     "c": "Claire Huddesen",
+     "n": "Ann Miller"
+    },
+    {
+     "c": "Ozzie",
+     "n": "Jules Munshin"
+    },
+    {
+     "c": "Ivy Smith",
+     "n": "Vera-Ellen"
+    },
+    {
+     "c": "Madame Dilyovska",
+     "n": "Florence Bates"
+    },
+    {
+     "c": "Lucy Schmeeler",
+     "n": "Alice Pearce"
+    },
+    {
+     "c": "Professor",
+     "n": "George Meader"
+    },
+    {
+     "c": "Cab Company Owner (uncredited)",
+     "n": "Murray Alper"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Gene Kelly",
+    "Stanley Donen"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 31516,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Three sailors wreak havoc as they search for love during a whirlwind 24-hour leave in New York City.",
+   "popularity": 1.6249,
+   "poster_path": "/lEU8QQmIayAtPZrCDf2czQgTjQ1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1949-12-30",
+   "revenue": 4428000,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They Paint The Town With Joy!",
+   "title": "On the Town",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.005,
+   "vote_count": 307
   },
   "movie:320316": {
    "backdrop_path": "/gIqzuwHmt9OzBrNbNL0LkuEpGiq.jpg",
@@ -2480,6 +3777,138 @@
    "vote_average": 7.146,
    "vote_count": 482
   },
+  "movie:448916": {
+   "backdrop_path": "/gCC7IsbkGvkejzjTf4aRYZKe4O3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mackenzie 'Mack' Wilson",
+     "n": "Katee Sackhoff"
+    },
+    {
+     "c": "Sterling Brooks",
+     "n": "Ray Fearon"
+    },
+    {
+     "c": "Lena Wilson",
+     "n": "Julie Cox"
+    },
+    {
+     "c": "ARTi (voice)",
+     "n": "Steven Cree"
+    },
+    {
+     "c": "Jill Valentine (voice)",
+     "n": "Noush Skaugen"
+    },
+    {
+     "c": "Jake Wilson (voice)",
+     "n": "Joe David Walters"
+    },
+    {
+     "c": "Jian Lin (voice)",
+     "n": "David K.S. Tse"
+    },
+    {
+     "c": "Security Officer",
+     "n": "Neil Robertson"
+    },
+    {
+     "c": "SWAT Team Soldier 2",
+     "n": "Matthew Holloway"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Hasraf Dulull"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 448916,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "After the first manned mission to Mars ends in a deadly crash, mission controller Mackenzie 'Mack' Wilson assists an artificial intelligence system, A.R.T.I. Their investigation uncovers a mysterious object under the surface of Mars that could change the future of our planet as we know it.",
+   "popularity": 1.4869,
+   "poster_path": "/v3StJTYXbU3OZ26Vh1PbczqfyCD.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Zee5"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-06-08",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The origins of our existence have remained a mystery...until now",
+   "title": "2036 Origin Unknown",
+   "trailer": {
+    "key": "9HKoPnraoLk",
+    "name": "2036 Origin Unknown | Katee Sackhoff | Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.7,
+   "vote_count": 306
+  },
   "movie:459616": {
    "backdrop_path": "/uPWJAJJwwFuqzsZBsIiQ4vHJ6Ya.jpg",
    "budget": 18900000,
@@ -2837,6 +4266,161 @@
    "type": "movie",
    "vote_average": 5.7,
    "vote_count": 354
+  },
+  "movie:492616": {
+   "backdrop_path": "/sXoe5hg2EjXfx2347ocV3y1e5yo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Luce Edgar",
+     "n": "Kelvin Harrison Jr."
+    },
+    {
+     "c": "Amy Edgar",
+     "n": "Naomi Watts"
+    },
+    {
+     "c": "Harriet Wilson",
+     "n": "Octavia Spencer"
+    },
+    {
+     "c": "Peter Edgar",
+     "n": "Tim Roth"
+    },
+    {
+     "c": "Dan Towson",
+     "n": "Norbert Leo Butz"
+    },
+    {
+     "c": "Stephanie Kim",
+     "n": "Andrea Bang"
+    },
+    {
+     "c": "Rosemary Wilson",
+     "n": "Marsha Stephanie Blake"
+    },
+    {
+     "c": "Corey Johnson",
+     "n": "Omar Brunson"
+    },
+    {
+     "c": "Kenny Orlicki",
+     "n": "Noah Gaynor"
+    },
+    {
+     "c": "DeShaun Meeks",
+     "n": "Stro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Julius Onah"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 492616,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A star athlete and top student, Luce's idealized image is challenged by one of his teachers when his unsettling views on political violence come to light, putting a strain on family bonds while igniting intense debates on race and identity.",
+   "popularity": 1.2839,
+   "poster_path": "/uxig1ZvVddzXVRYNOAQ6hKtea80.jpg",
+   "production_countries": [
+    "US",
+    "CN"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-08-02",
+   "revenue": 2268204,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The truth has many faces.",
+   "title": "Luce",
+   "trailer": {
+    "key": "aqzgDB1CMI4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.392,
+   "vote_count": 334
   },
   "movie:500916": {
    "backdrop_path": "/lY3CHPKZV41z5rW2npA0UGeMAHI.jpg",
@@ -3317,6 +4901,138 @@
    "vote_average": 5.9,
    "vote_count": 445
   },
+  "movie:7916": {
+   "backdrop_path": "/zt5slO9dVCtXSA2dWT14qtx2kT9.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Jack Carver",
+     "n": "Til Schweiger"
+    },
+    {
+     "c": "Valerie Constantin",
+     "n": "Emmanuelle Vaugier"
+    },
+    {
+     "c": "Dr. Krieger",
+     "n": "Udo Kier"
+    },
+    {
+     "c": "Katia Chernov",
+     "n": "Natalia Avelon"
+    },
+    {
+     "c": "General Roderick",
+     "n": "Don S. Davis"
+    },
+    {
+     "c": "Max Cardinal",
+     "n": "Ralf Moeller"
+    },
+    {
+     "c": "Jason Parker",
+     "n": "Craig Fairbrass"
+    },
+    {
+     "c": "Paul Summer",
+     "n": "Michael Paré"
+    },
+    {
+     "c": "Theresa",
+     "n": "Suzanne Ristic"
+    },
+    {
+     "c": "Ralph",
+     "n": "Jay Brazeau"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Uwe Boll"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 7916,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "Jack Carver, a former member of the Special Forces takes the journalist Valerie Cardinal to an Island to visit her uncle Max who is working in a Military complex on the Island. As they arrive Valerie gets captured by the minions of Doctor Krüger. After the destruction of his boat Jack finds out about the true purpose of the Facilities on the Island, which is the creation of genetic soldiers.",
+   "popularity": 1.8738,
+   "poster_path": "/fOMM5tHlY6eBNnRYVttq9dU9Sqi.jpg",
+   "production_countries": [
+    "CA",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-10-02",
+   "revenue": 743,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Far Cry",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 3.676,
+   "vote_count": 341
+  },
   "movie:8016": {
    "backdrop_path": "/vblx2TkQFrBrEORsEssizgEqakT.jpg",
    "budget": 115000,
@@ -3450,6 +5166,270 @@
    "type": "movie",
    "vote_average": 7.622,
    "vote_count": 440
+  },
+  "movie:804616": {
+   "backdrop_path": "/2XCmJWRZIQtHzikNsW29l9oy5Fb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Meg",
+     "n": "Hiftu Quasem"
+    },
+    {
+     "c": "Kayla",
+     "n": "Natalie Mitson"
+    },
+    {
+     "c": "Lizzie",
+     "n": "Lauren Lyle"
+    },
+    {
+     "c": "Cam",
+     "n": "Nicole Rieko Setsuko"
+    },
+    {
+     "c": "Ruth",
+     "n": "Ellouise Shakespeare-Hart"
+    },
+    {
+     "c": "Dominic",
+     "n": "Gabriel Prevost"
+    },
+    {
+     "c": "Teenage Girl",
+     "n": "Chloe Marshall"
+    },
+    {
+     "c": "Teenage Girl",
+     "n": "Tashani Bent"
+    },
+    {
+     "c": "Teenage Girl",
+     "n": "Laura Costa"
+    },
+    {
+     "c": "Teenage Girl",
+     "n": "India Jean-Jacques"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Hayley Easton Street"
+   ],
+   "genres": [
+    "Thriller",
+    "Horror"
+   ],
+   "id": 804616,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "FR",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "After lesbian couple Meg and Kayla split following a traumatic homophobic incident, their three friends are intent on mending the rift during the wedding of Lizzie at a paradise resort. But a pre-wedding boat excursion turns to disaster and the wedding breakfast is likely to be the five girls!",
+   "popularity": 2.1655,
+   "poster_path": "/tCA4O5CwZWLaryAGKQrbfvFbaWZ.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-03-22",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fear finds new depths.",
+   "title": "Something in the Water",
+   "trailer": {
+    "key": "dfWv4KO8GOM",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.547,
+   "vote_count": 339
+  },
+  "movie:8216": {
+   "backdrop_path": "/fji432Vjgj89p0ISOJONYyfNUmy.jpg",
+   "budget": 750000,
+   "cast": [
+    {
+     "c": "Samantha the Cat / The Sheep (voice)",
+     "n": "Donna Akersten"
+    },
+    {
+     "c": "Sebastian / Dr. Quack / Daisy the Cow / Sandy the Chicken (voice)",
+     "n": "Stuart Devenie"
+    },
+    {
+     "c": "Heidi / Robert / Barry the Bulldog (voice)",
+     "n": "Mark Hadlow"
+    },
+    {
+     "c": "Wynyard the Frog / Trevor the Rat / The Fly (voice)",
+     "n": "Brian Sergent"
+    },
+    {
+     "c": "Harry / Dennis / Abi Bargwan / Mr. Big / Pekingese / others (voice) (uncredited)",
+     "n": "Ross Jolly"
+    },
+    {
+     "c": "Bletch / Arfur the Worm (voice)",
+     "n": "Peter Vere-Jones"
+    },
+    {
+     "c": "Sid the Elephant / The Cockroach / Louie the Fish (voice)",
+     "n": "Mark Wright"
+    },
+    {
+     "c": "Heidi the Hippo (uncredited)",
+     "n": "Danny Mulheron"
+    },
+    {
+     "c": "Killer man (uncredited)",
+     "n": "Jay Snowfield"
+    },
+    {
+     "c": "Bletch (voice) (uncredited)",
+     "n": "Doug Wren"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Peter Jackson"
+   ],
+   "genres": [
+    "Comedy",
+    "Music"
+   ],
+   "id": 8216,
+   "industry": "world",
+   "origin_country": [
+    "NZ"
+   ],
+   "original_language": "en",
+   "overview": "Heidi the Hippo, star of 'The Feebles Variety Hour', discovers her lover Bletch the Walrus is cheating on her. And with all the world waiting for the big show, the assorted co-stars must contend with drug addiction, extortion, robbery, disease, Vietnam flashbacks, drug dealing, and murder.",
+   "popularity": 1.7321,
+   "poster_path": "/31DqGazwdE9N4Y9FHC6Q4NvstuW.jpg",
+   "production_countries": [
+    "NZ"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1989-12-08",
+   "revenue": 80000,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Welcome to the jungle!",
+   "title": "Meet the Feebles",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.341,
+   "vote_count": 337
   },
   "movie:843416": {
    "backdrop_path": "/djE6IF5IPJPmeNsQnxpKxlrtpD7.jpg",

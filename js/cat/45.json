@@ -1,7 +1,271 @@
 {
  "bucket": "45",
- "count": 53,
+ "count": 61,
  "titles": {
+  "movie:10445": {
+   "backdrop_path": "/nna1FWMle9WUd0lg3qJWog1NBbe.jpg",
+   "budget": 22000000,
+   "cast": [
+    {
+     "c": "C. S. 'Jack' Lewis",
+     "n": "Anthony Hopkins"
+    },
+    {
+     "c": "Joy Gresham",
+     "n": "Debra Winger"
+    },
+    {
+     "c": "Warnie Lewis",
+     "n": "Edward Hardwicke"
+    },
+    {
+     "c": "Christopher Riley",
+     "n": "John Wood"
+    },
+    {
+     "c": "Harry Harrington",
+     "n": "Michael Denison"
+    },
+    {
+     "c": "Dr Craig",
+     "n": "Peter Firth"
+    },
+    {
+     "c": "Simon Chadwick",
+     "n": "Matthew Delamere"
+    },
+    {
+     "c": "Desmond Arding",
+     "n": "Julian Fellowes"
+    },
+    {
+     "c": "Father John Fisher",
+     "n": "Julian Firth"
+    },
+    {
+     "c": "Claude Bird",
+     "n": "Robert Flemyng"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Richard Attenborough"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 10445,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "C.S. Lewis, a world-renowned writer and professor, leads a passionless life until he meets spirited poet Joy Gresham.",
+   "popularity": 1.8128,
+   "poster_path": "/5jTWY1M2O4Zhid4rLOpftzazRGn.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1993-12-25",
+   "revenue": 25842000,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He distanced himself from love as he distanced himself from pain, until one woman got close enough to open his heart to the world.",
+   "title": "Shadowlands",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.881,
+   "vote_count": 320
+  },
+  "movie:10845": {
+   "backdrop_path": "/8cHtECGEUaz6OI2Hq97HvlRtEGo.jpg",
+   "budget": 1500000,
+   "cast": [
+    {
+     "c": "Mayor Buckman",
+     "n": "Robert Englund"
+    },
+    {
+     "c": "Harper Alexander",
+     "n": "Giuseppe Andrews"
+    },
+    {
+     "c": "Professor Ackerman",
+     "n": "Peter Stormare"
+    },
+    {
+     "c": "Nelson Elliot",
+     "n": "Dylan Edrington"
+    },
+    {
+     "c": "Granny Boone",
+     "n": "Lin Shaye"
+    },
+    {
+     "c": "Joey",
+     "n": "Marla Malcolm"
+    },
+    {
+     "c": "Anderson Lee",
+     "n": "Jay Gillespie"
+    },
+    {
+     "c": "Kat",
+     "n": "Gina Marie Heekin"
+    },
+    {
+     "c": "Cory",
+     "n": "Matthew Carey"
+    },
+    {
+     "c": "Rufus",
+     "n": "Brendan McCarthy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tim Sullivan"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy"
+   ],
+   "id": 10845,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On their way to Spring Break, college kids take a detour through an old Southern town. The people of Pleasant Valley insist the kids stay for their annual barbecue celebration... but instead of getting a taste of the old South, the old South gets a taste of them!",
+   "popularity": 2.0614,
+   "poster_path": "/bVGq9FOV1uoBzfO0ntou3fE7tvR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-05-12",
+   "revenue": 0,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You are what THEY eat!",
+   "title": "2001 Maniacs",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 310
+  },
   "movie:10945": {
    "backdrop_path": "/l9jj1CwgCWeCHE2rhzY5Hb0zXcZ.jpg",
    "budget": 18000000,
@@ -491,6 +755,298 @@
    "type": "movie",
    "vote_average": 7.62,
    "vote_count": 1071
+  },
+  "movie:13345": {
+   "backdrop_path": "/cvpq5L0LSrTvLBokQ0tsFdEysJ6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joker / Monkey King",
+     "n": "Stephen Chow"
+    },
+    {
+     "c": "Piggy",
+     "n": "Richard Ng Man-tat"
+    },
+    {
+     "c": "Longevity Monk",
+     "n": "Law Kar-ying"
+    },
+    {
+     "c": "Spider Demon",
+     "n": "Yammie Lam Kit-ying"
+    },
+    {
+     "c": "White-Bone Demon / Pak Jing Jing",
+     "n": "Karen Mok Man-wai"
+    },
+    {
+     "c": "Sandy / Blindy",
+     "n": "Johnnie Kong"
+    },
+    {
+     "c": "King Bull",
+     "n": "Lu Shuming"
+    },
+    {
+     "c": "Grape Buddha",
+     "n": "Jeffrey Lau Chun-wai"
+    },
+    {
+     "c": "Lin Zixia",
+     "n": "Athena Chu Yan"
+    },
+    {
+     "c": "",
+     "n": "Lee Kin-yan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "IIB",
+   "date_kind": "release",
+   "director": [
+    "Jeffrey Lau Chun-wai"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Comedy",
+    "Romance",
+    "Drama"
+   ],
+   "id": 13345,
+   "industry": "world",
+   "origin_country": [
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "When the Goddess of Happiness tosses the Longevity Monk and his disciples out of heaven (because the Monkey King tried to attain immortality), the Monkey King is reincarnated as the Joker. He now spends his time chasing two jealous women. When one of them is dying, the Joker goes back in time in an attempt to save her.",
+   "popularity": 5.2287,
+   "poster_path": "/wIDDJ3FXPmVnNpxVoZOvjjcKVqj.jpg",
+   "production_countries": [
+    "HK",
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1995-01-21",
+   "revenue": 3237520,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Chinese Odyssey Part One: Pandora's Box",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.5,
+   "vote_count": 325
+  },
+  "movie:137145": {
+   "backdrop_path": "/tIHNc6240dif2H8lzsuahPTCvxo.jpg",
+   "budget": 650000,
+   "cast": [
+    {
+     "c": "Jenna",
+     "n": "Scout Taylor-Compton"
+    },
+    {
+     "c": "Renee",
+     "n": "Christina Ulloa"
+    },
+    {
+     "c": "Ian",
+     "n": "Travis Van Winkle"
+    },
+    {
+     "c": "Michael",
+     "n": "Michael Copon"
+    },
+    {
+     "c": "Wade",
+     "n": "Tyler Mane"
+    },
+    {
+     "c": "Beau",
+     "n": "Rene Etore"
+    },
+    {
+     "c": "Jamie",
+     "n": "Tornike Gogrichiani"
+    },
+    {
+     "c": "Man in the woods",
+     "n": "Jeremy Inabnit"
+    },
+    {
+     "c": "Wade's Double",
+     "n": "Igor Lubkin"
+    },
+    {
+     "c": "Club Security 1",
+     "n": "Ibrahim Idowu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Levan Bakhia",
+    "Beqa Jguburia"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 137145,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Four friends travel to a lakeside cabin for a carefree weekend, but the fun turns into a nightmare when 3 of them end up locked in a hot sauna. Every minute counts and every degree matters as they fight for their lives in the heat up to 247°F.",
+   "popularity": 1.7651,
+   "poster_path": "/1lkaFSVU0tN3z21CJV98P9dseMe.jpg",
+   "production_countries": [
+    "GE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-09-01",
+   "revenue": 0,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "uk"
+   ],
+   "status": "Released",
+   "tagline": "Every Degree Matters",
+   "title": "247°F",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 307
   },
   "movie:1510745": {
    "backdrop_path": "/qmWypRw88VYp35oTQn0a1sqdZRs.jpg",
@@ -1567,6 +2123,140 @@
    "vote_average": 7.582,
    "vote_count": 417
   },
+  "movie:247645": {
+   "backdrop_path": "/laKTtxs7jq64sDHzvbjeT7V2oBa.jpg",
+   "budget": 1900000,
+   "cast": [
+    {
+     "c": "Rani (Queen)",
+     "n": "Kangana Ranaut"
+    },
+    {
+     "c": "Vijay",
+     "n": "Rajkummar Rao"
+    },
+    {
+     "c": "Vijayalakshmi",
+     "n": "Lisa Haydon"
+    },
+    {
+     "c": "Oleksander",
+     "n": "Mish Boyko"
+    },
+    {
+     "c": "Taka",
+     "n": "Jeffrey Ho"
+    },
+    {
+     "c": "Rani's Father",
+     "n": "Yogendra Tiku"
+    },
+    {
+     "c": "Rani's Mother",
+     "n": "Alka Badola Kaushal"
+    },
+    {
+     "c": "Marcello",
+     "n": "Marco Canadea"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Vikas Bahl"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 247645,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "Rani, a 24-year-old homely girl, decides to go on her honeymoon alone when her fiancé calls off the wedding. Traveling around Europe, she finds joy, makes friends, and gains new-found independence.",
+   "popularity": 0.9515,
+   "poster_path": "/vKLp0X2RQOuA31R3AdaYtDdKIPK.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-03-07",
+   "revenue": 17000000,
+   "runtime": 146,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "Hail Goddess",
+   "title": "Queen",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.336,
+   "vote_count": 329
+  },
   "movie:28145": {
    "backdrop_path": "/aNGoAAVZWxyOLcGRBJb46nXDdDt.jpg",
    "budget": 0,
@@ -2280,6 +2970,135 @@
    "vote_average": 6.706,
    "vote_count": 478
   },
+  "movie:362045": {
+   "backdrop_path": "/wqe6GXolmOtRTYxImtZQkKH35EA.jpg",
+   "budget": 19500000,
+   "cast": [
+    {
+     "c": "Peshwa Bajirao Ballaad",
+     "n": "Ranveer Singh"
+    },
+    {
+     "c": "Mastani",
+     "n": "Deepika Padukone"
+    },
+    {
+     "c": "Kashibai",
+     "n": "Priyanka Chopra Jonas"
+    },
+    {
+     "c": "Radhabai",
+     "n": "Tanvi Azmi"
+    },
+    {
+     "c": "Chimaji Appa",
+     "n": "Vaibhav Tatwawadi"
+    },
+    {
+     "c": "Chhatrapati Shahu",
+     "n": "Mahesh Manjrekar"
+    },
+    {
+     "c": "Ambaji Panth",
+     "n": "Milind Soman"
+    },
+    {
+     "c": "Shripatrao Pratinidhi",
+     "n": "Aditya Pancholi"
+    },
+    {
+     "c": "Nana Saheb",
+     "n": "Ayush Tandon"
+    },
+    {
+     "c": "Young Nana Saheb",
+     "n": "Rudra Soni"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Sanjay Leela Bhansali"
+   ],
+   "genres": [
+    "History",
+    "Romance",
+    "Drama"
+   ],
+   "id": 362045,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "Peshwa Bajirao married to Kashibai, falls in love with Mastani, a warrior princess in distress. They struggle to make their love triumph amid opposition from his conservative family.",
+   "popularity": 1.6607,
+   "poster_path": "/eXKHjELZAbF7cVd9fzYMhvSsXDI.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Eros Now Select Apple TV channel"
+    },
+    {
+     "name": "Eros Now Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/cPCFd2O8QYgEkYYZuhfkyFyv6Gn.png",
+     "name": "Eros Now Select Apple TV channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-12-18",
+   "revenue": 56000000,
+   "runtime": 158,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi",
+    "mr"
+   ],
+   "status": "Released",
+   "tagline": "The love story of a warrior",
+   "title": "Bajirao Mastani",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.236,
+   "vote_count": 329
+  },
   "movie:365045": {
    "backdrop_path": "/1PlM2EeieSZPJ9jrM5XYIJyoRRL.jpg",
    "budget": 8800000,
@@ -2681,6 +3500,212 @@
    "type": "movie",
    "vote_average": 5.943,
    "vote_count": 430
+  },
+  "movie:41245": {
+   "backdrop_path": "/d9LNlmhjihHAAP1vKCQJo57JQFX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kim Yeong-ho",
+     "n": "Sul Kyung-gu"
+    },
+    {
+     "c": "Yun Sun-im",
+     "n": "Moon So-ri"
+    },
+    {
+     "c": "Hong-ja",
+     "n": "Kim Yeo-jin"
+    },
+    {
+     "c": "Miss Lee",
+     "n": "Suh Jung"
+    },
+    {
+     "c": "Kyeong-ah",
+     "n": "Go Seo-hee"
+    },
+    {
+     "c": "Sergeant Lee",
+     "n": "Kim In-kwon"
+    },
+    {
+     "c": "Detective Kang",
+     "n": "Lee Dae-yeon"
+    },
+    {
+     "c": "Detective Song",
+     "n": "Gong Hyung-jin"
+    },
+    {
+     "c": "Park Myung-sik",
+     "n": "Kim Kyung-ik"
+    },
+    {
+     "c": "Shin Kwang-man",
+     "n": "Park Se-bum"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA 15+",
+   "date_kind": "release",
+   "director": [
+    "Lee Chang-dong"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 41245,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "In the spring of 1999, a group of old friends gather to celebrate their 20 year reunion. Among the group is Yeong-ho, a cold, unhappy man, whose demeanor puts a damper on the festivities. The seriousness of Yeong-ho's depression becomes apparent when he climbs a railroad bridge and looks like he might jump. At this crucial moment, memories of seven crucial episodes from Yeong-ho's past flood his mind.",
+   "popularity": 3.1005,
+   "poster_path": "/jPP0gFDgdXRa1YgP8Cn8arzOHI3.jpg",
+   "production_countries": [
+    "JP",
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Metrograph"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Film Movement Plus"
+    },
+    {
+     "name": "Film Movement Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/az2JJqmANqUA48IPn7Iz2E7MchD.png",
+     "name": "Metrograph",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/c8H4Jp8qInInqkPSryR80rb7jYO.png",
+     "name": "Film Movement Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zy8e5KYnkpB8qbLJUvzMnaynBSZ.png",
+     "name": "Film Movement Plus Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-01-01",
+   "revenue": 0,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "A travel back in time to find a man's lost innocence.",
+   "title": "Peppermint Candy",
+   "trailer": {
+    "key": "gBhnAwmaAXo",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.497,
+   "vote_count": 320
   },
   "movie:433945": {
    "backdrop_path": "/btjMe2wSFZKA01JdQFOusm7K6rT.jpg",
@@ -4074,6 +5099,121 @@
    "type": "movie",
    "vote_average": 5.945,
    "vote_count": 481
+  },
+  "movie:760245": {
+   "backdrop_path": "/vWr6CxlFVhkDcBjz7R5gBsCAU9I.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Junior",
+     "n": "Paul Mescal"
+    },
+    {
+     "c": "Hen",
+     "n": "Saoirse Ronan"
+    },
+    {
+     "c": "Terrence",
+     "n": "Aaron Pierre"
+    },
+    {
+     "c": "Formal Escort 1",
+     "n": "Jordan Chodziesner"
+    },
+    {
+     "c": "Formal Escort 2",
+     "n": "William Freeman"
+    },
+    {
+     "c": "Computer Technician 1",
+     "n": "Jalen Ong"
+    },
+    {
+     "c": "Computer Technician 2",
+     "n": "Patrick Williams"
+    },
+    {
+     "c": "VIP 1",
+     "n": "David Woods"
+    },
+    {
+     "c": "VIP 2",
+     "n": "Yesse Spence"
+    },
+    {
+     "c": "VIP 3",
+     "n": "Shamita Sivabalan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Garth Davis"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 760245,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Henrietta and Junior farm a secluded piece of land that has been in Junior's family for generations, but their quiet life is thrown into turmoil when an uninvited stranger shows up at their door with a startling proposal. Will they risk their relationship & personal identity for a chance to survive in a new world?",
+   "popularity": 2.7321,
+   "poster_path": "/eTPBizhkX6B9NgzPzkhVIOvwXxZ.jpg",
+   "production_countries": [
+    "AU",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-10-06",
+   "revenue": 0,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Some people are made for each other.",
+   "title": "Foe",
+   "trailer": {
+    "key": "dPt-4jQELIw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 320
   },
   "movie:800345": {
    "backdrop_path": "/nHWr40LGgyxymEhZCOA2WHATPpn.jpg",

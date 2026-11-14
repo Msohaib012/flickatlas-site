@@ -1,6 +1,6 @@
 {
  "bucket": "64",
- "count": 47,
+ "count": 56,
  "titles": {
   "movie:10064": {
    "backdrop_path": "/secc9CFi6OERSCB6RZ9yusDYlEm.jpg",
@@ -142,6 +142,120 @@
    "type": "movie",
    "vote_average": 5.3,
    "vote_count": 382
+  },
+  "movie:10164": {
+   "backdrop_path": "/2vwdoHlFhxEHLptHVly1rXXUFsj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joey O'Brien",
+     "n": "Robin Williams"
+    },
+    {
+     "c": "Larry",
+     "n": "Tim Robbins"
+    },
+    {
+     "c": "Tina",
+     "n": "Pamela Reed"
+    },
+    {
+     "c": "Joy Munchack",
+     "n": "Fran Drescher"
+    },
+    {
+     "c": "Harry Munchack",
+     "n": "Zack Norman"
+    },
+    {
+     "c": "Lila",
+     "n": "Lori Petty"
+    },
+    {
+     "c": "Donna",
+     "n": "Annabella Sciorra"
+    },
+    {
+     "c": "Little Jack Turgeon",
+     "n": "Paul Guilfoyle"
+    },
+    {
+     "c": "Big Jack Turgeon",
+     "n": "Bill Nelson"
+    },
+    {
+     "c": "Benny",
+     "n": "Eddie Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Roger Donaldson"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Crime"
+   ],
+   "id": 10164,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Joe's a car salesman with a problem—he has two days to sell 12 cars or he loses his job. This would be a difficult task at the best of times but Joe has to contend with his girlfriends (he's two-timing), a missing teenage daughter and an ex-wife.",
+   "popularity": 1.537,
+   "poster_path": "/fRwrbKVyFEZEPFmeTDea5PlUO77.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1990-05-18",
+   "revenue": 27575086,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "If you can't trust a car salesman who can you trust?",
+   "title": "Cadillac Man",
+   "trailer": {
+    "key": "n6cVm9wkmUA",
+    "name": "Classic Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.806,
+   "vote_count": 319
   },
   "movie:10264": {
    "backdrop_path": "/mJvvEgkus4COSwzyS2tRwjvHrlY.jpg",
@@ -782,6 +896,157 @@
    "vote_average": 6.538,
    "vote_count": 78
   },
+  "movie:13564": {
+   "backdrop_path": "/esKuxnXKUTLNxx8v3YmCMtorQxl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ariel Wolfe",
+     "n": "Amanda Righetti"
+    },
+    {
+     "c": "Michelle",
+     "n": "Cerina Vincent"
+    },
+    {
+     "c": "Desmond",
+     "n": "Erik Palladino"
+    },
+    {
+     "c": "Dr. Vannacutt",
+     "n": "Jeffrey Combs"
+    },
+    {
+     "c": "Samuel",
+     "n": "Andrew Pleavin"
+    },
+    {
+     "c": "Kyle",
+     "n": "Andrew-Lee Potts"
+    },
+    {
+     "c": "Norris",
+     "n": "Gil Kolirin"
+    },
+    {
+     "c": "Albino Ghost",
+     "n": "Emil Markov"
+    },
+    {
+     "c": "Harue",
+     "n": "Calita Rainford"
+    },
+    {
+     "c": "Paul",
+     "n": "Tom Riley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Víctor García"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 13564,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Eight years have passed since Sara Wolfe and Eddie Baker escaped the House on Haunted Hill. Now the kidnapped Ariel, Sara's sister, goes inside the house with a group of treasure hunters to find the statue of Baphomet, worth millions and believed to be the cause of the House's evil.",
+   "popularity": 2.3658,
+   "poster_path": "/ipBiyifbFqY0ZduO3R9OPBjc2pH.jpg",
+   "production_countries": [
+    "US",
+    "BG"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-10-03",
+   "revenue": 0,
+   "runtime": 81,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Return to House on Haunted Hill",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.447,
+   "vote_count": 339
+  },
   "movie:1397364": {
    "backdrop_path": "/baIjN7xPyw2In1CuHACTgzcsF20.jpg",
    "budget": 24500000,
@@ -1176,6 +1441,100 @@
    "vote_average": 7.262,
    "vote_count": 21
   },
+  "movie:14864": {
+   "backdrop_path": "/x3wFxF9rEpoxmsp8a80oWv5te6X.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Harry Madox",
+     "n": "Don Johnson"
+    },
+    {
+     "c": "Dolly Harshaw",
+     "n": "Virginia Madsen"
+    },
+    {
+     "c": "Gloria Harper",
+     "n": "Jennifer Connelly"
+    },
+    {
+     "c": "Lon Gulick",
+     "n": "Charles Martin Smith"
+    },
+    {
+     "c": "Frank Sutton",
+     "n": "William Sadler"
+    },
+    {
+     "c": "George Harshaw",
+     "n": "Jerry Hardin"
+    },
+    {
+     "c": "Sheriff",
+     "n": "Barry Corbin"
+    },
+    {
+     "c": "Deputy Tate",
+     "n": "Leon Rippy"
+    },
+    {
+     "c": "Julian Ward",
+     "n": "Jack Nance"
+    },
+    {
+     "c": "Deputy Buck",
+     "n": "Virgil Frye"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Dennis Hopper"
+   ],
+   "genres": [
+    "Romance",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 14864,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Upon arriving to a small town, a drifter quickly gets into trouble with the local authorities — and the local women — after he robs a bank.",
+   "popularity": 5.1204,
+   "poster_path": "/320b0P6ogWiz7MuUs8f06rUNpTC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1990-10-12",
+   "revenue": 1293976,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Sex is never safe. It’s dangerous.",
+   "title": "The Hot Spot",
+   "trailer": {
+    "key": "wdOrQxl8tjc",
+    "name": "The Hot Spot (1990) - New Trailer [Radiance #13]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.301,
+   "vote_count": 326
+  },
   "movie:1487864": {
    "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg",
    "budget": 0,
@@ -1280,6 +1639,164 @@
    "type": "movie",
    "vote_average": 5.69,
    "vote_count": 29
+  },
+  "movie:16164": {
+   "backdrop_path": "/fAiOeRNSCfxEGHuVTd7g8F3JHB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carmen Colson",
+     "n": "Diane Lane"
+    },
+    {
+     "c": "Armand 'The Blackbird' Degas",
+     "n": "Mickey Rourke"
+    },
+    {
+     "c": "Wayne Colson",
+     "n": "Thomas Jane"
+    },
+    {
+     "c": "Richie Nix",
+     "n": "Joseph Gordon-Levitt"
+    },
+    {
+     "c": "Donna",
+     "n": "Rosario Dawson"
+    },
+    {
+     "c": "Lenore",
+     "n": "Lois Smith"
+    },
+    {
+     "c": "Nelson Davies",
+     "n": "Don McManus"
+    },
+    {
+     "c": "Lionel",
+     "n": "Aldred Montoya"
+    },
+    {
+     "c": "Papa",
+     "n": "Hal Holbrook"
+    },
+    {
+     "c": "Paul Scallen / FBI Chief",
+     "n": "Tom McCamus"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Madden"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 16164,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Beautiful Carmen Colson and her ironworker husband Wayne are placed in the Federal Witness Protection program after witnessing an \"incident\". Thinking they are at last safe, they are targeted by an experienced hit man and a psychopathic young upstart killer.",
+   "popularity": 1.8044,
+   "poster_path": "/ckUhio8KhGDcvFV7g34kYjVLEEW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-11-13",
+   "revenue": 2960993,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He never met a target he couldn't take. Until today.",
+   "title": "Killshot",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 335
   },
   "movie:1633264": {
    "backdrop_path": "/cmpiLnDIdxQNFZLZZFRj1rSo7fW.jpg",
@@ -1475,6 +1992,224 @@
    "type": "movie",
    "vote_average": 6.75,
    "vote_count": 46
+  },
+  "movie:16664": {
+   "backdrop_path": "/wTWy7b1SKslcNn1GDah6S7MQa5p.jpg",
+   "budget": 1250000,
+   "cast": [
+    {
+     "c": "Yūichi Hasumi",
+     "n": "Hayato Ichihara"
+    },
+    {
+     "c": "Shūsuke Hoshino",
+     "n": "Shugo Oshinari"
+    },
+    {
+     "c": "Shiori Tsuda",
+     "n": "Yu Aoi"
+    },
+    {
+     "c": "Yōko Kuno",
+     "n": "Ayumi Ito"
+    },
+    {
+     "c": "Ikeda-senpai",
+     "n": "Issey Takahashi"
+    },
+    {
+     "c": "Shioske Terawaki",
+     "n": "Ryo Katsuji"
+    },
+    {
+     "c": "Tabito Takao",
+     "n": "Takao Osawa"
+    },
+    {
+     "c": "Masashi Tadano",
+     "n": "Tomohiro Kaku"
+    },
+    {
+     "c": "Sumika Kanzaki",
+     "n": "Kazusa Matsuda"
+    },
+    {
+     "c": "Kentarō Sasaki",
+     "n": "Takahito Hosoyamada"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Shunji Iwai"
+   ],
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 16664,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Charts the troubled teenage years of students Yūichi Hasumi and Shūsuke Hoshino, exploring the shifting and complex power dynamics of their relationship against the backdrop of Yūichi's love for the dreamy and abstract music of pop star Lily Chou-Chou.",
+   "popularity": 5.5578,
+   "poster_path": "/pLBNmJUH9JYRCRsh349PJ22WpkS.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "JustWatch TV Plus"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "AsianCrush"
+    },
+    {
+     "name": "Metrograph"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png",
+     "name": "JustWatch TV Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/oPEgKhJZjWEjCjySvwozKQyrNKi.png",
+     "name": "AsianCrush",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/az2JJqmANqUA48IPn7Iz2E7MchD.png",
+     "name": "Metrograph",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2001-10-06",
+   "revenue": 6776921,
+   "runtime": 146,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Pain can take you in prison. The ether can set you free.",
+   "title": "All About Lily Chou-Chou",
+   "trailer": {
+    "key": "Kwlh-z2R8QE",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.474,
+   "vote_count": 332
   },
   "movie:1668364": {
    "backdrop_path": "/oBter8Y5p2ZFUwWgQ1T9pulGFTJ.jpg",
@@ -2557,6 +3292,177 @@
    "vote_average": 5.868,
    "vote_count": 357
   },
+  "movie:29564": {
+   "backdrop_path": "/8ooh4u4eTqKYLwA1bVRaW5KQwB3.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Walter Weed",
+     "n": "Tom Berenger"
+    },
+    {
+     "c": "Agent Baker",
+     "n": "Clayne Crawford"
+    },
+    {
+     "c": "Lazlo Soot",
+     "n": "Tommy Flanagan"
+    },
+    {
+     "c": "Lester Tremor",
+     "n": "Maury Sterling"
+    },
+    {
+     "c": "Ariella Martinez",
+     "n": "Martha Higareda"
+    },
+    {
+     "c": "Malcolm Little",
+     "n": "Christopher Michael Holley"
+    },
+    {
+     "c": "Anthony Vejar",
+     "n": "Ernie Hudson"
+    },
+    {
+     "c": "Fritz Tremor",
+     "n": "Michael Parks"
+    },
+    {
+     "c": "Kaitlyn 'AK-47' Tremor",
+     "n": "Autumn Reeser"
+    },
+    {
+     "c": "Finbar McTeague",
+     "n": "Vinnie Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "P.J. Pesce"
+   ],
+   "genres": [
+    "Action",
+    "Comedy"
+   ],
+   "id": 29564,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Walter Weed is an unassuming desk jockey at the FBI when the Bureau uncovers a plot to assassinate him. A team of degenerate, psychotic assassins dispatched by mystery man Hal Leuco to win a huge bounty includes a resourceful beauty who has a unique method of killing her prey, a power-tool wielding psychopath and a deadly master of disguise.",
+   "popularity": 2.349,
+   "poster_path": "/4t8mSYKtaXGvaro48ci0ZMzVvbe.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tKembbxL7cYdDvFK70xBecbN0G8.png",
+     "name": "Starz Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-01-19",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Prepare for murder, mayhem & madness.",
+   "title": "Smokin' Aces 2: Assassins' Ball",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.323,
+   "vote_count": 319
+  },
   "movie:351964": {
    "backdrop_path": "/aPmag8IunegXgwDxkcdPLmOvadk.jpg",
    "budget": 0,
@@ -2715,6 +3621,75 @@
    "type": "movie",
    "vote_average": 5.964,
    "vote_count": 470
+  },
+  "movie:359364": {
+   "backdrop_path": "/c0gtBfDyOrba9e5wnFjrxn8rxQr.jpg",
+   "budget": 15483821,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Yann Arthus-Bertrand"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 359364,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A collection of stories about and images of our world, offering an immersion to the core of what it means to be human. Through these stories full of love and happiness, as well as hatred and violence, it brings us face to face with the Other, making us reflect on our lives. From stories of everyday experiences to accounts of the most unbelievable lives, these poignant encounters share a rare sincerity and underline who we are – our darker side, but also what is most noble in us, and what is universal. Our Earth is shown at its most sublime through never-before-seen aerial images accompanied by soaring music, resulting in an ode to the beauty of the world, providing a moment to draw breath and for introspection. This film is a politically engaged work which allows us to embrace the human condition and to reflect on the meaning of our existence.",
+   "popularity": 3.9277,
+   "poster_path": "/l02W63OGQKYugJrs3Uw8nA9gii4.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-09-12",
+   "revenue": 0,
+   "runtime": 191,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "zh",
+    "he",
+    "en",
+    "fr",
+    "el",
+    "it",
+    "pt",
+    "ru",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Human",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.434,
+   "vote_count": 317
   },
   "movie:370964": {
    "backdrop_path": "/68chxvkKe8Zty1MNY1cCoBAKWs1.jpg",
@@ -3065,6 +4040,157 @@
    "type": "movie",
    "vote_average": 6.113,
    "vote_count": 407
+  },
+  "movie:45964": {
+   "backdrop_path": "/3dK12SaczU7Tf8btq7K2F5HQg6F.jpg",
+   "budget": 1500000,
+   "cast": [
+    {
+     "c": "Jill Johnson",
+     "n": "Carol Kane"
+    },
+    {
+     "c": "John Clifford",
+     "n": "Charles Durning"
+    },
+    {
+     "c": "Tracy",
+     "n": "Colleen Dewhurst"
+    },
+    {
+     "c": "Curt Duncan",
+     "n": "Tony Beckley"
+    },
+    {
+     "c": "Mrs. Mandrakis",
+     "n": "Rutanya Alda"
+    },
+    {
+     "c": "Dr. Mandrakis",
+     "n": "Carmen Argenziano"
+    },
+    {
+     "c": "Nancy",
+     "n": "Kirsten Larkin"
+    },
+    {
+     "c": "Lt. Charlie Garber",
+     "n": "Ron O'Neal"
+    },
+    {
+     "c": "Houseboy",
+     "n": "Heetu"
+    },
+    {
+     "c": "Dr. Monk",
+     "n": "Rachel Roberts"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Fred Walton"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 45964,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A student babysitter has her evening disturbed when the phone rings. So begins a series of increasingly terrifying and threatening calls that lead to a shocking revelation.",
+   "popularity": 1.787,
+   "poster_path": "/mdhpKVuuNZcc9noZzYXruxeIxdJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1979-08-24",
+   "revenue": 25000000,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every babysitter's nightmare becomes real...",
+   "title": "When a Stranger Calls",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.208,
+   "vote_count": 313
   },
   "movie:476764": {
    "backdrop_path": "/kQVo5ECXrTcoMtj8hWbdiqpfPms.jpg",
@@ -3698,6 +4824,112 @@
    "type": "movie",
    "vote_average": 5.352,
    "vote_count": 401
+  },
+  "movie:572164": {
+   "backdrop_path": "/wx9dK8ke3hcC4qBZsovI1SICZl9.jpg",
+   "budget": 10892000,
+   "cast": [
+    {
+     "c": "Yong-nam",
+     "n": "Cho Jung-seok"
+    },
+    {
+     "c": "Eui-ju",
+     "n": "Yoona"
+    },
+    {
+     "c": "Hyun-ok",
+     "n": "Goh Doo-shim"
+    },
+    {
+     "c": "Jang-su",
+     "n": "Park In-hwan"
+    },
+    {
+     "c": "Jung-hyun",
+     "n": "Kim Ji-young"
+    },
+    {
+     "c": "Manager Ku",
+     "n": "Kang Ki-young"
+    },
+    {
+     "c": "Second Uncle",
+     "n": "Kim Jong-goo"
+    },
+    {
+     "c": "Third Uncle",
+     "n": "Kim Byeong-soon"
+    },
+    {
+     "c": "Second Sister",
+     "n": "Hwang Hyo-eun"
+    },
+    {
+     "c": "Third Sister",
+     "n": "Lee Bong-ryeon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Lee Sang-geun"
+   ],
+   "genres": [
+    "Action",
+    "Comedy"
+   ],
+   "id": 572164,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "At his mother's 70th birthday party, Yong-nam runs into Eui-joo, who rejected him in college. When the city is engulfed in toxic gas from a terrorist attack, the two must find a way to escape using all the techniques they learned in their college rock climbing club.",
+   "popularity": 3.5258,
+   "poster_path": "/zf16eomhCB13cwMb4iFEbBT0Tsr.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-07-31",
+   "revenue": 69501772,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "There's no way out.",
+   "title": "EXIT",
+   "trailer": {
+    "key": "Sp_Uex375YM",
+    "name": "[Exit] Main Trailer with English Subtitles",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.607,
+   "vote_count": 331
   },
   "movie:573164": {
    "backdrop_path": "/sIMyHMcbFR1jeQ8OC1Y2b93EhXN.jpg",

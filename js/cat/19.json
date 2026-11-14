@@ -1,7 +1,179 @@
 {
  "bucket": "19",
- "count": 47,
+ "count": 52,
  "titles": {
+  "movie:101519": {
+   "backdrop_path": "/mUWjBk12lY0om9iEFK8wdhxj7It.jpg",
+   "budget": 1500000,
+   "cast": [
+    {
+     "c": "Jack",
+     "n": "Simon Pegg"
+    },
+    {
+     "c": "Dr. Friedkin",
+     "n": "Paul Freeman"
+    },
+    {
+     "c": "Clair De Grunwald",
+     "n": "Clare Higgins"
+    },
+    {
+     "c": "Sangeet",
+     "n": "Amara Karan"
+    },
+    {
+     "c": "Perkins",
+     "n": "Alan Drake"
+    },
+    {
+     "c": "Disgruntled Diner",
+     "n": "Michael Feast"
+    },
+    {
+     "c": "Disgruntled Diner",
+     "n": "Mo Idriss"
+    },
+    {
+     "c": "Biggie",
+     "n": "Elliot Greene"
+    },
+    {
+     "c": "Tiny",
+     "n": "Harley Kierans"
+    },
+    {
+     "c": "Noodles",
+     "n": "Kamal Onyiukah"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Crispian Mills"
+   ],
+   "genres": [
+    "Comedy",
+    "Thriller",
+    "Horror"
+   ],
+   "id": 101519,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Jack is a children's author turned crime novelist whose detailed research into the lives of Victorian serial killers has turned him into a paranoid wreck, persecuted by the irrational fear of being murdered. When Jack is thrown a life-line by his long-suffering agent and a mysterious Hollywood executive takes a sudden and inexplicable interest in his script, what should be his big break rapidly turns into his big breakdown, as Jack is forced to confront his worst demons; among them his love life, his laundry and the origin of all fear.",
+   "popularity": 1.6978,
+   "poster_path": "/sMZyKSo8b47VW1h2zjjGUZIefV1.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-06-07",
+   "revenue": 96948,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Fantastic Fear of Everything",
+   "trailer": {
+    "key": "LQ1CGSMoqfo",
+    "name": "A Fantastic Fear Of Everything",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.663,
+   "vote_count": 329
+  },
   "movie:1143319": {
    "backdrop_path": "/pzvnnpJmCtSZMw44WYVEqldhn17.jpg",
    "budget": 0,
@@ -381,6 +553,171 @@
    "vote_average": 7.678,
    "vote_count": 481
   },
+  "movie:12619": {
+   "backdrop_path": "/b8KbYr4ssvlT2k1dLvJxcL55WOu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jody Marken",
+     "n": "Brittany Murphy"
+    },
+    {
+     "c": "Leonard Marliston",
+     "n": "Jay Mohr"
+    },
+    {
+     "c": "Sherrif Brent Marken",
+     "n": "Michael Biehn"
+    },
+    {
+     "c": "Rod Harper",
+     "n": "Jesse Bradford"
+    },
+    {
+     "c": "Marge Marken",
+     "n": "Candy Clark"
+    },
+    {
+     "c": "Kenny Ascott",
+     "n": "Gabriel Mann"
+    },
+    {
+     "c": "Deputy Mina",
+     "n": "Amanda Anka"
+    },
+    {
+     "c": "Sharon",
+     "n": "Joannah Portman"
+    },
+    {
+     "c": "Cindy",
+     "n": "Kristen Miller"
+    },
+    {
+     "c": "Stacy Twelfmann",
+     "n": "Bre Blair"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Geoffrey Wright"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 12619,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When students in the small town of Cherry Falls learn a serial killer is targeting virgins, they realize their only chance of survival is to throw a “Pop Your Cherry” party.",
+   "popularity": 1.5643,
+   "poster_path": "/s4oBLopQ0nh70RXyxIWbNjx7Zw6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-08-25",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Lose your innocence... or lose your life.",
+   "title": "Cherry Falls",
+   "trailer": {
+    "key": "PGdlArQiXFo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.399,
+   "vote_count": 338
+  },
   "movie:133919": {
    "backdrop_path": "/prQE97Ds6ElKtTuemJRCvGJFlZz.jpg",
    "budget": 150000,
@@ -546,6 +883,117 @@
    "type": "movie",
    "vote_average": 8.0,
    "vote_count": 419
+  },
+  "movie:14219": {
+   "backdrop_path": "/lQSDQZ7qL2Tiq5Guoovtv2uhjrW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Varek",
+     "n": "Jason Behr"
+    },
+    {
+     "c": "Jonas",
+     "n": "Elias Koteas"
+    },
+    {
+     "c": "Rachel Talbot",
+     "n": "Rhona Mitra"
+    },
+    {
+     "c": "Sonja",
+     "n": "Natassia Malthe"
+    },
+    {
+     "c": "Zo",
+     "n": "Kim Coates"
+    },
+    {
+     "c": "Katherine",
+     "n": "Sarah Carter"
+    },
+    {
+     "c": "Will",
+     "n": "Tom Jackson"
+    },
+    {
+     "c": "Timothy Talbot",
+     "n": "Matthew Knight"
+    },
+    {
+     "c": "Adam Kilmer",
+     "n": "Shawn Roberts"
+    },
+    {
+     "c": "Doak",
+     "n": "Lyriq Bent"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "James Isaac"
+   ],
+   "genres": [
+    "Fantasy",
+    "Action",
+    "Horror"
+   ],
+   "id": 14219,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Creatures, bound by the blood of the wolf, that can kill with curses and move at lightening speed, watching the night sky for the rise of the blood-red crescent moon. They are SKINWALKERS. They feed on our flesh and thirst for the taste of human blood. The red moon signals each pack, divided by principles, hell bent to survive an ancient prophecy.",
+   "popularity": 2.2657,
+   "poster_path": "/88YhyDVF1XYn7e7cM01UDmaGvMV.jpg",
+   "production_countries": [
+    "CA",
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-03-20",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pl",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "For them to live, we must die.",
+   "title": "Skinwalkers",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.123,
+   "vote_count": 321
   },
   "movie:1436219": {
    "backdrop_path": "/eVLXHFU2lLhvcFu2ulfY58RdcQj.jpg",
@@ -2587,6 +3035,95 @@
    "vote_average": 7.153,
    "vote_count": 499
   },
+  "movie:372519": {
+   "backdrop_path": "/v6bGT2CgGGs2oClMHMXUs1mgFY6.jpg",
+   "budget": 39307171,
+   "cast": [
+    {
+     "c": "Moisés",
+     "n": "Guilherme Winter"
+    },
+    {
+     "c": "Nefertari",
+     "n": "Camila Rodrigues"
+    },
+    {
+     "c": "Ramsés",
+     "n": "Sergio Marone"
+    },
+    {
+     "c": "Anrão",
+     "n": "Paulo Gorgulho"
+    },
+    {
+     "c": "Zípora",
+     "n": "Giselle Itié"
+    },
+    {
+     "c": "Henutmire",
+     "n": "Vera Zimmermann"
+    },
+    {
+     "c": "Joquebede",
+     "n": "Denise Del Vecchio"
+    },
+    {
+     "c": "Seti I",
+     "n": "Zé Carlos Machado"
+    },
+    {
+     "c": "Miriã",
+     "n": "Larissa Maciel"
+    },
+    {
+     "c": "Oseias/Josué",
+     "n": "Sidney Sampaio"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Alexandre Avancini"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 372519,
+   "industry": "world",
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "Follows Moses leading and conducting the Hebrew people from the slavery of Egypt to the freedom towards the Promised Land according to the Ancient Testament Bible book of the Exodus. The story told like never before is faithful to the Scriptures.",
+   "popularity": 1.9613,
+   "poster_path": "/yctfYDrHAPcJP54D2BCH9R5GTY2.jpg",
+   "production_countries": [
+    "BR",
+    "MA"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2016-01-28",
+   "revenue": 37070177,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Ten Commandments: The Movie",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 308
+  },
   "movie:431819": {
    "backdrop_path": "/jh6GJSeqyazoKfi3Lu19N1fvr7e.jpg",
    "budget": 0,
@@ -3748,6 +4285,110 @@
    "type": "movie",
    "vote_average": 6.686,
    "vote_count": 368
+  },
+  "movie:675319": {
+   "backdrop_path": "/gxr3YtExqUPCJCj9GL1FXNcX9Fl.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "David Carmichael",
+     "n": "Guy Pearce"
+    },
+    {
+     "c": "Jane",
+     "n": "Matilda Lutz"
+    },
+    {
+     "c": "Marlon Veidt",
+     "n": "Travis Fimmel"
+    },
+    {
+     "c": "Joseph Veidt",
+     "n": "Jonathan Aris"
+    },
+    {
+     "c": "Hawthorne",
+     "n": "Colin Salmon"
+    },
+    {
+     "c": "Mr Russell",
+     "n": "Jóhannes Haukur Jóhannesson"
+    },
+    {
+     "c": "George",
+     "n": "Ned Dennehy"
+    },
+    {
+     "c": "Jaden",
+     "n": "Antonia Campbell-Hughes"
+    },
+    {
+     "c": "Royale",
+     "n": "Olwen Fouéré"
+    },
+    {
+     "c": "Authoritative Woman",
+     "n": "Maggie Cronin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Andrew Baird"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 675319,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In the near future on a colony of state-of-the-art robots, a private investigator is hired by the colony's creator to bring his missing daughter home.",
+   "popularity": 1.8377,
+   "poster_path": "/fjtlMqX1QfiMvk8IgkKJR1vXzZ7.jpg",
+   "production_countries": [
+    "GB",
+    "US",
+    "XI"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-09-03",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What hides in the city of robots?",
+   "title": "Zone 414",
+   "trailer": {
+    "key": "ylduTmHyMFk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.3,
+   "vote_count": 320
   },
   "movie:919": {
    "backdrop_path": "/17s9ojb8j8QnBGCfqDUJraXLlFi.jpg",

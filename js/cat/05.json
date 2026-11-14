@@ -1,7 +1,173 @@
 {
  "bucket": "05",
- "count": 52,
+ "count": 63,
  "titles": {
+  "movie:10105": {
+   "backdrop_path": "/nTyyyUg8p5EWfze3haCzL6aKWfj.jpg",
+   "budget": 780000,
+   "cast": [
+    {
+     "c": "Corporal Nathan 'Deacon' Greer",
+     "n": "Corbin Allred"
+    },
+    {
+     "c": "Medic Steven Gould",
+     "n": "Alexander Polinsky"
+    },
+    {
+     "c": "Flight Sergeant Oberon Winley",
+     "n": "Kirby Heyborne"
+    },
+    {
+     "c": "Private Shirley 'Shirl' Kendrick",
+     "n": "Larry Bagby"
+    },
+    {
+     "c": "Staff Sergeant Gordon Gunderson",
+     "n": "Peter Holden"
+    },
+    {
+     "c": "Rudolph 'Rudi' Gertz",
+     "n": "Ethan Vincent"
+    },
+    {
+     "c": "Catherine Theary",
+     "n": "Melinda Renee"
+    },
+    {
+     "c": "Sophie Theary",
+     "n": "Ruby Chase O'Neil"
+    },
+    {
+     "c": "Radio Announcer",
+     "n": "Jeff Birk"
+    },
+    {
+     "c": "Private McKinley",
+     "n": "Benjamin Gourley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ryan Little"
+   ],
+   "genres": [
+    "War",
+    "Drama",
+    "History"
+   ],
+   "id": 10105,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Five American soldiers fighting in Europe during World War II struggle to return to Allied territory after being separated from U.S. forces during the historic Malmedy Massacre.",
+   "popularity": 2.0884,
+   "poster_path": "/A4LgmMTiRpkEzC6pxRcxE28IDov.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Angel Studios"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pusUxS9dP5VK7HkN8SLf2wnP9gm.png",
+     "name": "Angel Studios",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-09-11",
+   "revenue": 1310470,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "Trapped behind enemy lines. All they have is their hope.",
+   "title": "Saints and Soldiers",
+   "trailer": {
+    "key": "jWygHIALgLQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.347,
+   "vote_count": 327
+  },
   "movie:1043905": {
    "backdrop_path": "/yBMGM7x8lPXUlmTNfCLZvHbpJmk.jpg",
    "budget": 35954590,
@@ -384,6 +550,161 @@
    "type": "movie",
    "vote_average": 7.075,
    "vote_count": 429
+  },
+  "movie:10905": {
+   "backdrop_path": "/1iwpwlP9SafsCxMKieZVlxCjYaa.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Richard",
+     "n": "Tom Hanks"
+    },
+    {
+     "c": "Cooper",
+     "n": "Dabney Coleman"
+    },
+    {
+     "c": "Maddy",
+     "n": "Lori Singer"
+    },
+    {
+     "c": "Ross",
+     "n": "Charles Durning"
+    },
+    {
+     "c": "Paula",
+     "n": "Carrie Fisher"
+    },
+    {
+     "c": "Brown",
+     "n": "Edward Herrmann"
+    },
+    {
+     "c": "Morris",
+     "n": "Jim Belushi"
+    },
+    {
+     "c": "Virdon",
+     "n": "Irving Metzman"
+    },
+    {
+     "c": "Reese",
+     "n": "Tom Noonan"
+    },
+    {
+     "c": "Carson",
+     "n": "Gerrit Graham"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Stan Dragoti"
+   ],
+   "genres": [
+    "Action",
+    "Comedy"
+   ],
+   "id": 10905,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "VI"
+   ],
+   "original_language": "en",
+   "overview": "A man is mistaken as a spy by the CIA when he arrives at the airport with one red shoe.",
+   "popularity": 2.1801,
+   "poster_path": "/lD44uiCKnLVCKiEnB0urtqIR0nE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1985-07-18",
+   "revenue": 8645411,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Mugged, bugged, chased and seduced. Why is every one after Tom Hanks?",
+   "title": "The Man with One Red Shoe",
+   "trailer": {
+    "key": "sKUqdMHoPNQ",
+    "name": "The Man with One Red Shoe | #TBT Trailer | 20th Century FOX",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.735,
+   "vote_count": 326
   },
   "movie:11205": {
    "backdrop_path": "/bhJwUazhSk735vkZLkmrBeqDxSH.jpg",
@@ -1167,6 +1488,103 @@
    "vote_average": 7.7,
    "vote_count": 26
   },
+  "movie:12705": {
+   "backdrop_path": "/ahaPgkVmHIVMVVMtqhcvRT8QAXT.jpg",
+   "budget": 17000000,
+   "cast": [
+    {
+     "c": "Bandit",
+     "n": "Burt Reynolds"
+    },
+    {
+     "c": "Buford T. Justice / Reginald Van Justice / Gaylord Justice",
+     "n": "Jackie Gleason"
+    },
+    {
+     "c": "Cledus",
+     "n": "Jerry Reed"
+    },
+    {
+     "c": "Doc",
+     "n": "Dom DeLuise"
+    },
+    {
+     "c": "Carrie",
+     "n": "Sally Field"
+    },
+    {
+     "c": "Little Enos",
+     "n": "Paul Williams"
+    },
+    {
+     "c": "Big Enos",
+     "n": "Pat McCormick"
+    },
+    {
+     "c": "John Conn",
+     "n": "David Huddleston"
+    },
+    {
+     "c": "Junior",
+     "n": "Mike Henry"
+    },
+    {
+     "c": "Governor",
+     "n": "John Anderson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Hal Needham"
+   ],
+   "genres": [
+    "Action",
+    "Comedy"
+   ],
+   "id": 12705,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Bandit goes on another cross-country run, transporting an elephant from Florida to Texas. And, once again, Sheriff Buford T. Justice is on his tail.",
+   "popularity": 2.7897,
+   "poster_path": "/cYNZM1xdhOH6NybMcX9E1LPOl3l.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1980-08-15",
+   "revenue": 66100000,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The Bandit is back and better than ever!",
+   "title": "Smokey and the Bandit II",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.542,
+   "vote_count": 333
+  },
   "movie:13105": {
    "backdrop_path": "/zzGgdKmUSnJx6cEiW3Nfh5ruOOy.jpg",
    "budget": 0,
@@ -1801,6 +2219,126 @@
    "vote_average": 7.9,
    "vote_count": 28
   },
+  "movie:18305": {
+   "backdrop_path": "/yckQAuGfxw3mGLTpVXoXOyfF5LP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sung Chi Ho",
+     "n": "Ti Lung"
+    },
+    {
+     "c": "Sung Chi Kit",
+     "n": "Leslie Cheung Kwok-wing"
+    },
+    {
+     "c": "Lung Sei",
+     "n": "Dean Shek Tin"
+    },
+    {
+     "c": "Ken Lee",
+     "n": "Chow Yun-Fat"
+    },
+    {
+     "c": "Ko Ying Pui",
+     "n": "Guan Shan"
+    },
+    {
+     "c": "Jackie",
+     "n": "Emily Chu Bo-yee"
+    },
+    {
+     "c": "Kin",
+     "n": "Kenneth Tsang"
+    },
+    {
+     "c": "Pui's Partner",
+     "n": "Shing Fui-On"
+    },
+    {
+     "c": "Pui's Partner",
+     "n": "Lam Chung"
+    },
+    {
+     "c": "Siu Chong",
+     "n": "Lung Ming-yan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Woo"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 18305,
+   "industry": "world",
+   "origin_country": [
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "A restauranteur teams up with a police officer and his ex-con brother to avenge the death of a friend's daughter.",
+   "popularity": 3.0916,
+   "poster_path": "/e8352Dw1SeM4rNAGYDZVkQ0aenz.jpg",
+   "production_countries": [
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "Tencent Video"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png",
+     "name": "Tencent Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1987-12-17",
+   "revenue": 2904714,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn",
+    "zh",
+    "en",
+    "tl"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Better Tomorrow II",
+   "trailer": {
+    "key": "tIHqAEcjctM",
+    "name": "Official Arrow Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 338
+  },
   "movie:19405": {
    "backdrop_path": "/v69OaHOYjdihRz0o0nVUylUyraa.jpg",
    "budget": 10000000,
@@ -2392,6 +2930,118 @@
    "vote_average": 4.658,
    "vote_count": 374
   },
+  "movie:284305": {
+   "backdrop_path": "/ivPVtfSF4FVy5w349eTMsM3RPk7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Montse",
+     "n": "Macarena Gómez"
+    },
+    {
+     "c": "The Girl",
+     "n": "Nadia de Santiago"
+    },
+    {
+     "c": "Carlos",
+     "n": "Hugo Silva"
+    },
+    {
+     "c": "Padre",
+     "n": "Luis Tosar"
+    },
+    {
+     "c": "Doña Puri",
+     "n": "Gracia Olayo"
+    },
+    {
+     "c": "Montse Niña",
+     "n": "Lucía de la Fuente"
+    },
+    {
+     "c": "Elisa",
+     "n": "Carolina Bang"
+    },
+    {
+     "c": "Police Officer 1",
+     "n": "Tomás del Estal"
+    },
+    {
+     "c": "Jaime",
+     "n": "Asier Etxeandia"
+    },
+    {
+     "c": "Doña Puri's Niece",
+     "n": "Silvia Alonso"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Juanfer Andrés",
+    "Esteban Roel"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 284305,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Spain, 1950s. Montse's agoraphobia keeps her locked in a sinister apartment in Madrid and her only link to reality is the little sister she lost her youth raising. But one day, a reckless young neighbor, Carlos, falls down the stairwell and drags himself to their door. Someone has entered the shrew's nest... perhaps he'll never leave.",
+   "popularity": 0.9863,
+   "poster_path": "/7rgorbW4vCzZZHW5sEEczSjNqza.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Shudder Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-09-21",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Shrew's Nest",
+   "trailer": {
+    "key": "mSCO95qb4Ss",
+    "name": "SHREW'S NEST Trailer | Festival 2014",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.842,
+   "vote_count": 336
+  },
   "movie:29005": {
    "backdrop_path": "/zaZVjkAwPsaBTsoyJMPWqnsPOM5.jpg",
    "budget": 0,
@@ -2757,6 +3407,198 @@
    "vote_average": 6.833,
    "vote_count": 393
   },
+  "movie:360605": {
+   "backdrop_path": "/xy4kRFTxMbPeWBKcQkijJ8i1DFx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cleo",
+     "n": "Rowan Blanchard"
+    },
+    {
+     "c": "Molly",
+     "n": "Paris Berelc"
+    },
+    {
+     "c": "George",
+     "n": "Karan Brar"
+    },
+    {
+     "c": "Nikki",
+     "n": "Rachel Crow"
+    },
+    {
+     "c": "Molly's Best Friend",
+     "n": "Ashton Smiley"
+    },
+    {
+     "c": "Molly's Friend",
+     "n": "Devin Posey"
+    },
+    {
+     "c": "Mr. Perkins",
+     "n": "Alex Désert"
+    },
+    {
+     "c": "Dad",
+     "n": "Scott Reeves"
+    },
+    {
+     "c": "Coug",
+     "n": "Austin Fryberger"
+    },
+    {
+     "c": "Carter",
+     "n": "Will Meyers"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Paul Hoen"
+   ],
+   "genres": [
+    "Fantasy",
+    "Adventure",
+    "Comedy",
+    "TV Movie"
+   ],
+   "id": 360605,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Teenager Cleo's school science project goes quite awry, causing her popular older sister Molly to go invisible.",
+   "popularity": 1.829,
+   "poster_path": "/seWQvVIzb5xBjHW0Y1h4jvokxZN.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-12-10",
+   "revenue": 0,
+   "runtime": 78,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What you see is only half the story",
+   "title": "Invisible Sister",
+   "trailer": {
+    "key": "eQCvyvME6x0",
+    "name": "Invisible Sister - Morning Nightmare! - Official Disney Channel UK HD",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.697,
+   "vote_count": 320
+  },
+  "movie:444705": {
+   "backdrop_path": "/xlwFzTxkqoBm3dLkfPSZU0rWS9L.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Dave Chappelle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Stan Lathan"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 444705,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair of blistering, fresh stand-up specials. Filmed at The Palladium in Los Angeles, California, in March 2016.",
+   "popularity": 0.8972,
+   "poster_path": "/lFGP9COk4X3sBqrkUpbQ78GdnZm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2017-03-21",
+   "revenue": 0,
+   "runtime": 67,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Live at The Hollywood Palladium.",
+   "title": "Dave Chappelle: The Age of Spin",
+   "trailer": {
+    "key": "OaRBPXLgKyg",
+    "name": "Dave Chappelle | Official Trailer [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.613,
+   "vote_count": 306
+  },
   "movie:458005": {
    "backdrop_path": "/7RIYU3mMHiK0QzMP8hG6IX4Sntl.jpg",
    "budget": 0,
@@ -3082,6 +3924,160 @@
    "vote_average": 6.874,
    "vote_count": 864
   },
+  "movie:505": {
+   "backdrop_path": "/lrYxokCEeuyDdAyp7wV9xNGLK9.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Johnny Handsome",
+     "n": "Mickey Rourke"
+    },
+    {
+     "c": "Sunny Boyd",
+     "n": "Ellen Barkin"
+    },
+    {
+     "c": "Lt. A.Z. Drones",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Dr. Steven Fisher",
+     "n": "Forest Whitaker"
+    },
+    {
+     "c": "Donna McCarty",
+     "n": "Elizabeth McGovern"
+    },
+    {
+     "c": "Rafe Garrett",
+     "n": "Lance Henriksen"
+    },
+    {
+     "c": "Mikey Chalmette",
+     "n": "Scott Wilson"
+    },
+    {
+     "c": "Vic Dumask",
+     "n": "David Schramm"
+    },
+    {
+     "c": "Mr. Bonet",
+     "n": "Peter Jason"
+    },
+    {
+     "c": "Sister Luke",
+     "n": "Yvonne Bryceland"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Walter Hill"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 505,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A career criminal who has been deformed since birth is given a new face by a kindly doctor and paroled from prison. It appears that he has gone straight, but he is really planning his revenge on the man who killed his mentor and sent him to prison.",
+   "popularity": 2.1479,
+   "poster_path": "/hHilmOkEJzsDHsXBoY8fWiMuDqo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1989-09-12",
+   "revenue": 7237794,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They changed his looks, his life and his future... but they couldn't change his past .",
+   "title": "Johnny Handsome",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 307
+  },
   "movie:52505": {
    "backdrop_path": "/nCKebrEB0kTPN10NUxoHumMTsnM.jpg",
    "budget": 30000000,
@@ -3361,6 +4357,199 @@
    "type": "movie",
    "vote_average": 7.315,
    "vote_count": 429
+  },
+  "movie:620705": {
+   "backdrop_path": "/wUMDnvi1xa8iMEpRDVAXrcAtqus.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Caleb Channing",
+     "n": "Isaiah Russell-Bailey"
+    },
+    {
+     "c": "Addison",
+     "n": "Mckenna Grace"
+    },
+    {
+     "c": "Dylan",
+     "n": "Billy Barratt"
+    },
+    {
+     "c": "Borney",
+     "n": "Orson Hong"
+    },
+    {
+     "c": "Marcus",
+     "n": "Thomas Boyce"
+    },
+    {
+     "c": "Michael",
+     "n": "Kid Cudi"
+    },
+    {
+     "c": "Maria",
+     "n": "Selenis Leyva"
+    },
+    {
+     "c": "Young Caleb",
+     "n": "Hero Hunter"
+    },
+    {
+     "c": "Charlie",
+     "n": "Carson Minniear"
+    },
+    {
+     "c": "Nurse",
+     "n": "Viviana Chavez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Kyle Patrick Alvarez"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure",
+    "Family"
+   ],
+   "id": 620705,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the death of his father, a boy growing up on a lunar mining colony takes a trip to explore a legendary crater, along with his four best friends, prior to being permanently relocated to another planet.",
+   "popularity": 2.2484,
+   "poster_path": "/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-05-12",
+   "revenue": 0,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Miles from Earth, their adventure begins.",
+   "title": "Crater",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.632,
+   "vote_count": 311
+  },
+  "movie:654905": {
+   "backdrop_path": "/aT4NkQOdkycPEcXLMOuQ0ynSCcj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Leonida",
+     "n": "Fabrizio Gifuni"
+    },
+    {
+     "c": "Simonetti",
+     "n": "Lino Musella"
+    },
+    {
+     "c": "Angela",
+     "n": "Monica Piseddu"
+    },
+    {
+     "c": "Mozart",
+     "n": "Andrea Pennacchi"
+    },
+    {
+     "c": "Mattia",
+     "n": "Emanuele Linfatti"
+    },
+    {
+     "c": "Peppe",
+     "n": "Nicolò Galasso"
+    },
+    {
+     "c": "Emanuele",
+     "n": "Giacomo Colavito"
+    },
+    {
+     "c": "Teresa",
+     "n": "Giada Gagliardi"
+    },
+    {
+     "c": "Faina",
+     "n": "Gianmarco Vettori"
+    },
+    {
+     "c": "La Mastina",
+     "n": "Silvia Gallerano"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Ludovico Di Martino"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 654905,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "To rescue his daughter, an unstable Special Forces veteran unleashes his inner beast as he pursues her kidnappers — and soon becomes a suspect himself.",
+   "popularity": 0.9891,
+   "poster_path": "/4zbKISdp5UBgWY2a28dfJY8ouIK.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2020-11-27",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Beast",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.091,
+   "vote_count": 308
   },
   "movie:752505": {
    "backdrop_path": "/xX6VABuJOyZQL1ASj5U4GWJspyW.jpg",
@@ -3845,6 +5034,147 @@
    "type": "movie",
    "vote_average": 5.949,
    "vote_count": 350
+  },
+  "movie:916605": {
+   "backdrop_path": "/68t9YraLbv4BHikPmjcw7SOPJi3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bruce Cogburn",
+     "n": "Guy Pearce"
+    },
+    {
+     "c": "Officer Higgins",
+     "n": "Alice Eve"
+    },
+    {
+     "c": "Elijah Barett",
+     "n": "Jeremy Davies"
+    },
+    {
+     "c": "Dwight Tufford",
+     "n": "Alex Pettyfer"
+    },
+    {
+     "c": "Us Marshall Perez",
+     "n": "Iris Cayatte"
+    },
+    {
+     "c": "Copy Store Clerk",
+     "n": "Rachel De Fontes"
+    },
+    {
+     "c": "Woman at DCC",
+     "n": "Ana Lopes"
+    },
+    {
+     "c": "Francesca",
+     "n": "Georgia Goodman"
+    },
+    {
+     "c": "Samantha",
+     "n": "Bella Alexandras"
+    },
+    {
+     "c": "US Marshal Hopkins",
+     "n": "Gary Anthony Stennette"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Andrew Hunt"
+   ],
+   "genres": [
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 916605,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Reclusive and controversial author Bruce Cogburn is drawn out of hiding by an obsessive fan, forcing the novelist to confront a past that he thought he could escape, and to account for events set in motion by his bestseller decades earlier. Cogburn's search for who is behind the manipulation and mental torment he encounters leads to an emotional roller-coaster ride full of fear and danger, where things are not always as clear as they seem to be, and where past deeds can have dire consequences.",
+   "popularity": 2.0557,
+   "poster_path": "/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg",
+   "production_countries": [
+    "PT",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-09-23",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "What he created will destroy him.",
+   "title": "The Infernal Machine",
+   "trailer": {
+    "key": "q0vrecpxXZU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.234,
+   "vote_count": 319
   },
   "tv:105": {
    "backdrop_path": "/jvHw1zF20kYA9gbF2VprXD6uJpq.jpg",

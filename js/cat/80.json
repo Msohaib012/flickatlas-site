@@ -1,6 +1,6 @@
 {
  "bucket": "80",
- "count": 48,
+ "count": 54,
  "titles": {
   "movie:10480": {
    "backdrop_path": "/8ZquU1oL90wNowQeXaXx7xPk7vZ.jpg",
@@ -1578,6 +1578,251 @@
    "vote_average": 5.1,
    "vote_count": 362
   },
+  "movie:252680": {
+   "backdrop_path": "/xzi0mSJJU0de8sXn1d6S4ahzzr.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Allyson",
+     "n": "Sarah Drew"
+    },
+    {
+     "c": "Sean",
+     "n": "Sean Astin"
+    },
+    {
+     "c": "Sondra",
+     "n": "Patricia Heaton"
+    },
+    {
+     "c": "Izzy",
+     "n": "Andrea Logan White"
+    },
+    {
+     "c": "Marco",
+     "n": "Robert Amaya"
+    },
+    {
+     "c": "Zoe",
+     "n": "Sammi Hanratty"
+    },
+    {
+     "c": "Joey",
+     "n": "Harry Shum Jr."
+    },
+    {
+     "c": "Kevin",
+     "n": "Kevin Downes"
+    },
+    {
+     "c": "Bridgette",
+     "n": "Abbie Cobb"
+    },
+    {
+     "c": "Pastor Ray",
+     "n": "Alex Kendrick"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Andrew Erwin",
+    "Jon Erwin"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 252680,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Yearning for an evening without their kids, some friends plan a night out. But to do this, their husbands need to watch the kids. What can go wrong?",
+   "popularity": 2.0481,
+   "poster_path": "/gP97yU8YrVZY2yLxTwsicS8KuSe.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-03-25",
+   "revenue": 10429707,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What could go wrong?",
+   "title": "Moms' Night Out",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.615,
+   "vote_count": 317
+  },
+  "movie:267480": {
+   "backdrop_path": "/eozLsgdW5VyUEdPDuDaBD4VB86o.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Adi Rukun"
+    },
+    {
+     "c": "Self",
+     "n": "M.Y. Basrun"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Amir Hasan"
+    },
+    {
+     "c": "Self",
+     "n": "Inong"
+    },
+    {
+     "c": "Self",
+     "n": "Kemat"
+    },
+    {
+     "c": "Self (voice)",
+     "n": "Joshua Oppenheimer"
+    },
+    {
+     "c": "Self",
+     "n": "Amir Siahaan"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Ted Yates"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18A",
+   "date_kind": "release",
+   "director": [
+    "Joshua Oppenheimer"
+   ],
+   "genres": [
+    "History",
+    "Documentary"
+   ],
+   "id": 267480,
+   "industry": "world",
+   "origin_country": [
+    "DK",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "An Indonesian man with a communist background named Ramli was brutally murdered when the \"Communist\" purge occurred in 1965. His remaining family members lived in fear and silence until the making of this documentary. Adi, a brother of his, decided to revisit the horrific incident and visited the men who were responsible for the killings and one survivor of the purge. These meetings uncovered sadistic details of the murders and exposed raw emotions and reactions of the killers' family members about what happened in the past - much to Adi's disappointment.",
+   "popularity": 1.8835,
+   "poster_path": "/7TakQLT8gyzIMG8hX8RLTd5qROQ.jpg",
+   "production_countries": [
+    "DK",
+    "FI",
+    "ID",
+    "NO",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-09-11",
+   "revenue": 332710,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "id",
+    "jv",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Look of Silence",
+   "trailer": {
+    "key": "iUnMbG0FzdQ",
+    "name": "The Look of Silence  - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.805,
+   "vote_count": 329
+  },
   "movie:3080": {
    "backdrop_path": "/9riMLH4EOw6PZzeCDnPlIGSyiEu.jpg",
    "budget": 609000,
@@ -2276,6 +2521,186 @@
    "vote_average": 6.284,
    "vote_count": 470
   },
+  "movie:4780": {
+   "backdrop_path": "/kjIgQmRlgBI1u2YvjW7EcorzHbf.jpg",
+   "budget": 1400000,
+   "cast": [
+    {
+     "c": "Michael Courtland",
+     "n": "Cliff Robertson"
+    },
+    {
+     "c": "Elizabeth Courtland / Sandra Portinari",
+     "n": "Geneviève Bujold"
+    },
+    {
+     "c": "Robert Lasalle",
+     "n": "John Lithgow"
+    },
+    {
+     "c": "Maid",
+     "n": "Sylvia Kuumba Williams"
+    },
+    {
+     "c": "Amy Courtland",
+     "n": "Wanda Blackman"
+    },
+    {
+     "c": "Third Kidnapper",
+     "n": "J. Patrick McNamara"
+    },
+    {
+     "c": "Inspector Brie",
+     "n": "Stanley J. Reyes"
+    },
+    {
+     "c": "Farber",
+     "n": "Nick Kreiger"
+    },
+    {
+     "c": "Dr. Ellman",
+     "n": "Stocker Fontelieu"
+    },
+    {
+     "c": "Ferguson",
+     "n": "Don Hood"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Brian De Palma"
+   ],
+   "genres": [
+    "Thriller",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 4780,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A wealthy New Orleans businessman becomes obsessed with a young woman who resembles his late wife.",
+   "popularity": 2.5524,
+   "poster_path": "/a0bOKTldOJVJivmPNGBHfMYJU9x.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "ARROW"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "Arrow Video Amazon Channel"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uVhUzKH7taAxHZGrRMZ4IqIbQxe.png",
+     "name": "ARROW",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1976-08-01",
+   "revenue": 4468000,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A bizarre story of love.",
+   "title": "Obsession",
+   "trailer": {
+    "key": "oYkV1s9hM-Q",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.652,
+   "vote_count": 339
+  },
   "movie:51980": {
    "backdrop_path": "/goeGgDKGaTzpXp6jJAvDWKT7P80.jpg",
    "budget": 0,
@@ -2566,6 +2991,166 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 353
+  },
+  "movie:608980": {
+   "backdrop_path": "/3E7SmCwoSbpBn7cfp10hQjsGk2U.jpg",
+   "budget": 8232858,
+   "cast": [
+    {
+     "c": "Dora",
+     "n": "Margherita Buy"
+    },
+    {
+     "c": "Lucio",
+     "n": "Riccardo Scamarcio"
+    },
+    {
+     "c": "Monica",
+     "n": "Alba Rohrwacher"
+    },
+    {
+     "c": "Giorgio",
+     "n": "Adriano Giannini"
+    },
+    {
+     "c": "Sara",
+     "n": "Elena Lietti"
+    },
+    {
+     "c": "Andrea",
+     "n": "Alessandro Sperduti"
+    },
+    {
+     "c": "Charlotte",
+     "n": "Denise Tantucci"
+    },
+    {
+     "c": "Vittorio",
+     "n": "Nanni Moretti"
+    },
+    {
+     "c": "Giovanna",
+     "n": "Anna Bonaiuto"
+    },
+    {
+     "c": "Renato",
+     "n": "Paolo Graziosi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Nanni Moretti"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 608980,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Follows the lives of three families who live in a three-story building in a Roman neighbourhood.",
+   "popularity": 1.4839,
+   "poster_path": "/59kVQe8wrHp845gBR9TDHzNwfeQ.jpg",
+   "production_countries": [
+    "IT",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+     "name": "BFI Player",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-09-23",
+   "revenue": 3680596,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Three Floors",
+   "trailer": {
+    "key": "Y0t8M3-RqhM",
+    "name": "Three Floors (2021) | Trailer | Margherita Buy | Riccardo Scamarcio | Alba Rohrwacher",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 322
   },
   "movie:664280": {
    "backdrop_path": "/hHL4pwGzYS4njLpXhIjfc9skAQJ.jpg",
@@ -3232,6 +3817,270 @@
    "type": "movie",
    "vote_average": 5.57,
    "vote_count": 422
+  },
+  "movie:843380": {
+   "backdrop_path": "/15BnuDQ8pYRmLqPZKAk5vIhUu9J.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Max Borlund",
+     "n": "Christoph Waltz"
+    },
+    {
+     "c": "Joe Cribbens",
+     "n": "Willem Dafoe"
+    },
+    {
+     "c": "Rachel Kidd",
+     "n": "Rachel Brosnahan"
+    },
+    {
+     "c": "Martin Kidd",
+     "n": "Hamish Linklater"
+    },
+    {
+     "c": "Tiberio Vargas",
+     "n": "Benjamin Bratt"
+    },
+    {
+     "c": "English Bill",
+     "n": "Guy Burnet"
+    },
+    {
+     "c": "Elijah Jones",
+     "n": "Brandon Scott"
+    },
+    {
+     "c": "Jack Tyree",
+     "n": "Scott Peat"
+    },
+    {
+     "c": "Sergeant Poe",
+     "n": "Warren Burke"
+    },
+    {
+     "c": "Esteban Romero",
+     "n": "Luis Chávez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Walter Hill"
+   ],
+   "genres": [
+    "Western"
+   ],
+   "id": 843380,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1897, veteran bounty hunter Max Borlund is deep into Mexico where he encounters professional gambler and outlaw Joe Cribbens — a sworn enemy he sent to prison years before. Max is on a mission to find and return Rachel Kidd, the wife of a wealthy businessman, who as the story is told to Max, has been abducted by Buffalo Soldier Elijah Jones. Max is ultimately faced with a showdown to save honor.",
+   "popularity": 2.5419,
+   "poster_path": "/rJv7YTJWl3CvgMfYRyIO2M4kEzk.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-09-30",
+   "revenue": 81403,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "Vengeance for the right price.",
+   "title": "Dead for a Dollar",
+   "trailer": {
+    "key": "Nx8Gl4Yh8-g",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.817,
+   "vote_count": 325
+  },
+  "movie:926980": {
+   "backdrop_path": "/tN5Ws9NXR6N3LR2S39rHfCXrFkN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Finn Bergmann",
+     "n": "Max Schimmelpfennig"
+    },
+    {
+     "c": "Lena",
+     "n": "Lea van Acken"
+    },
+    {
+     "c": "Samira Steinke",
+     "n": "Tijan Marei"
+    },
+    {
+     "c": "Sophie Bergmann",
+     "n": "Milena Tscharntke"
+    },
+    {
+     "c": "Yvonne Bergmann",
+     "n": "Lise Risom Olsen"
+    },
+    {
+     "c": "Roman Bergmann",
+     "n": "Roman Knižka"
+    },
+    {
+     "c": "Dr Steinke",
+     "n": "Nadeshda Brennicke"
+    },
+    {
+     "c": "Grandpa Bergmann",
+     "n": "Horst Janson"
+    },
+    {
+     "c": "Anna Bergmann",
+     "n": "Caroline Hartig"
+    },
+    {
+     "c": "Eliska Novak",
+     "n": "Jeanette Spassova"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Felix Fuchssteiner",
+    "Katharina Schöde"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 926980,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "A wealthy teen and his friends attending an elite private school uncover a dark conspiracy while looking into a series of strange supernatural events.",
+   "popularity": 1.7828,
+   "poster_path": "/qBLi3Nd5JMQGMiOmmfuPgLw5SzD.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-02-09",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Privilege",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.218,
+   "vote_count": 312
   },
   "movie:94380": {
    "backdrop_path": "/yWaUueQsfojYlA7NQowbcKlj2BE.jpg",

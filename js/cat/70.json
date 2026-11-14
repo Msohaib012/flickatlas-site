@@ -1,6 +1,6 @@
 {
  "bucket": "70",
- "count": 42,
+ "count": 50,
  "titles": {
   "movie:10170": {
    "backdrop_path": "/vPdb3zCAS4nxdRkc5S2hp1zh4pQ.jpg",
@@ -119,6 +119,180 @@
    "type": "movie",
    "vote_average": 6.066,
    "vote_count": 346
+  },
+  "movie:1045770": {
+   "backdrop_path": "/aNycfeUgXk9g6NjwwHzg01YloHa.jpg",
+   "budget": 6700000,
+   "cast": [
+    {
+     "c": "Judith",
+     "n": "Anaïs Demoustier"
+    },
+    {
+     "c": "Dalí",
+     "n": "Gilles Lellouche"
+    },
+    {
+     "c": "Dalí",
+     "n": "Édouard Baer"
+    },
+    {
+     "c": "Dalí",
+     "n": "Jonathan Cohen"
+    },
+    {
+     "c": "Dalí",
+     "n": "Pio Marmaï"
+    },
+    {
+     "c": "Dalí aged",
+     "n": "Didier Flamand"
+    },
+    {
+     "c": "Jérôme",
+     "n": "Romain Duris"
+    },
+    {
+     "c": "Lucie",
+     "n": "Agnès Hurstel"
+    },
+    {
+     "c": "Josie, makeup artist",
+     "n": "Angélique Pleau"
+    },
+    {
+     "c": "José (Painting)",
+     "n": "Jérôme Niel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R 18+",
+   "date_kind": "release",
+   "director": [
+    "Quentin Dupieux"
+   ],
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Drama"
+   ],
+   "id": 1045770,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A young French journalist repeatedly meets iconic surrealist artist Salvador Dalí for a documentary project that never came to be.",
+   "popularity": 1.0614,
+   "poster_path": "/cKMiUOT5rSWt7AJOhStuBpVeIUQ.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-02-07",
+   "revenue": 3,
+   "runtime": 78,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Dalí is probably the only artist still living.",
+   "title": "Daaaaaalí!",
+   "trailer": {
+    "key": "ne0XY22ZFh4",
+    "name": "DAAAAAALÍ! | Official Trailer | In Select Theaters October 4",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.174,
+   "vote_count": 331
   },
   "movie:10770": {
    "backdrop_path": "/qviAZShx8MVNwZjk1MoFFEdLUnx.jpg",
@@ -654,6 +828,124 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 443
+  },
+  "movie:1241470": {
+   "backdrop_path": "/ySHUoK4utUOiSfCinw81H1TsV0E.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kelly",
+     "n": "Max Martini"
+    },
+    {
+     "c": "Ravi",
+     "n": "Brianna Hildebrand"
+    },
+    {
+     "c": "Rhodie",
+     "n": "LaMonica Garrett"
+    },
+    {
+     "c": "Reyes",
+     "n": "Michael Irby"
+    },
+    {
+     "c": "Anya",
+     "n": "Linda Hamilton"
+    },
+    {
+     "c": "Scars",
+     "n": "Stanley White Jr."
+    },
+    {
+     "c": "Donny",
+     "n": "Tyler Galpin"
+    },
+    {
+     "c": "Nash",
+     "n": "Linds Edwards"
+    },
+    {
+     "c": "Bull",
+     "n": "Dawson Towery"
+    },
+    {
+     "c": "Gibbs",
+     "n": "David B. Meadows"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "William Kaufman"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Horror"
+   ],
+   "id": 1241470,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Special Forces commandos on a mission are abducted mid-operation by a mysterious spacecraft. Upon waking aboard, they find themselves prey to a relentless alien race in a fight for survival.",
+   "popularity": 5.5964,
+   "poster_path": "/3YtZHtXPNG5AleisgEatEfZOT2w.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-07-25",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Earth’s deadliest soldiers just became the galaxy’s last hope.",
+   "title": "Osiris",
+   "trailer": {
+    "key": "oqlqZWv_PO4",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.136,
+   "vote_count": 335
   },
   "movie:124470": {
    "backdrop_path": "/m9xwvflfh4hpjmlSapeDx2h9RCP.jpg",
@@ -1416,6 +1708,105 @@
    "vote_average": 6.978,
    "vote_count": 496
   },
+  "movie:14170": {
+   "backdrop_path": "/amug5GrzqF3Xgz0zgaddVHNUFP6.jpg",
+   "budget": 19000000,
+   "cast": [
+    {
+     "c": "Andy Farmer",
+     "n": "Chevy Chase"
+    },
+    {
+     "c": "Elizabeth Farmer",
+     "n": "Madolyn Smith Osborne"
+    },
+    {
+     "c": "Sheriff Ledbetter",
+     "n": "Kevin O'Morrison"
+    },
+    {
+     "c": "Michael Sinclair",
+     "n": "Joseph Maher"
+    },
+    {
+     "c": "Bud Culbertson",
+     "n": "Jack Gilpin"
+    },
+    {
+     "c": "Betsy Culbertson",
+     "n": "Caris Corfman"
+    },
+    {
+     "c": "Newspaper Editor",
+     "n": "William Severs"
+    },
+    {
+     "c": "Crocker",
+     "n": "Mike Starr"
+    },
+    {
+     "c": "Mickey",
+     "n": "Glenn Plummer"
+    },
+    {
+     "c": "Old Character",
+     "n": "William Duell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "George Roy Hill"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 14170,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Sportswriter Andy Farmer moves with his schoolteacher wife Elizabeth to the country in order to write a novel in relative seclusion. Of course, seclusion is the last thing the Farmers find in the small, eccentric town, where disaster awaits them at every turn.",
+   "popularity": 1.5212,
+   "poster_path": "/i4ExIbPuAe0rAjpYcteiFx4QEfY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-06-03",
+   "revenue": 25537221,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Chevy Chase finds life in the country isn't what it's cracked up to be!",
+   "title": "Funny Farm",
+   "trailer": {
+    "key": "UVzkcK0yhUc",
+    "name": "Funny Farm - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.171,
+   "vote_count": 312
+  },
   "movie:1466670": {
    "backdrop_path": "/8VjONCVHYgS3PPDuIuzXZBDhFov.jpg",
    "budget": 0,
@@ -1594,6 +1985,191 @@
    "type": "movie",
    "vote_average": 5.969,
    "vote_count": 65
+  },
+  "movie:160070": {
+   "backdrop_path": "/53Gmnw4IEcsLiYEw7GXh8wi1xyU.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Lara Slate",
+     "n": "Mischa Barton"
+    },
+    {
+     "c": "Maddie Slate",
+     "n": "Rebecca De Mornay"
+    },
+    {
+     "c": "Janet Slate",
+     "n": "Julianne Michelle"
+    },
+    {
+     "c": "Mark Taylor",
+     "n": "Corey Sevier"
+    },
+    {
+     "c": "Detective",
+     "n": "John Diehl"
+    },
+    {
+     "c": "Jennifer Logan / Jennifer Logan's Mother",
+     "n": "Kathleen Mackey"
+    },
+    {
+     "c": "Lidia Abrams",
+     "n": "Jessica Malka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michael Taverna"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 160070,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A woman uncovers sinister secrets while investigating the apparent suicide of her sister.",
+   "popularity": 1.3429,
+   "poster_path": "/zTANZaCUwG6prdRygximOdWKV6U.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Fear Factory Amazon Channel"
+    },
+    {
+     "name": "Indie Club Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dGO3dx4MmQDXMRbROZOx8IX6vkE.png",
+     "name": "Fear Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/jjnc7RNCGfmd2Lw7MMFLRTaaWh3.png",
+     "name": "Indie Club Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-12-06",
+   "revenue": 3377891,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Some rentals are too good to be true.",
+   "title": "Apartment 1303 3D",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 3.593,
+   "vote_count": 311
   },
   "movie:16070": {
    "backdrop_path": "/sN8K7JQZkcz7Kq4Mp20Vy4mb8q9.jpg",
@@ -2069,6 +2645,117 @@
    "vote_average": 6.313,
    "vote_count": 394
   },
+  "movie:34070": {
+   "backdrop_path": "/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kalle",
+     "n": "Lars Nordh"
+    },
+    {
+     "c": "Stefan",
+     "n": "Stefan Larsson"
+    },
+    {
+     "c": "Lennart",
+     "n": "Bengt C.W. Carlsson"
+    },
+    {
+     "c": "Pelle Wigert",
+     "n": "Torbjörn Fahlström"
+    },
+    {
+     "c": "Lasse",
+     "n": "Sten Andersson"
+    },
+    {
+     "c": "The foreigner",
+     "n": "Rolando Núñez"
+    },
+    {
+     "c": "The magician",
+     "n": "Lucio Vucina"
+    },
+    {
+     "c": "The sawed man",
+     "n": "Per Jörnelius"
+    },
+    {
+     "c": "Tomas",
+     "n": "Peter Roth"
+    },
+    {
+     "c": "The speechwriter",
+     "n": "Klas-Gösta Olsson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15+",
+   "date_kind": "release",
+   "director": [
+    "Roy Andersson"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 34070,
+   "industry": "world",
+   "origin_country": [
+    "DK",
+    "SE"
+   ],
+   "original_language": "sv",
+   "overview": "A monumental traffic jam serves as the backdrop for the lives of the inhabitants of a Swedish city.",
+   "popularity": 1.5683,
+   "poster_path": "/xMZieoxiQ1hb5zraZlhzcvU7MGN.jpg",
+   "production_countries": [
+    "SE",
+    "DK",
+    "NO"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-10-06",
+   "revenue": 80334,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Songs from the Second Floor",
+   "trailer": {
+    "key": "X05M_G5mR_M",
+    "name": "Official International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.04,
+   "vote_count": 336
+  },
   "movie:366170": {
    "backdrop_path": "/s9q3uNEjqHnLDgPX78Yfaoy8p1I.jpg",
    "budget": 0,
@@ -2405,6 +3092,188 @@
    "type": "movie",
    "vote_average": 6.023,
    "vote_count": 368
+  },
+  "movie:4170": {
+   "backdrop_path": "/5t7zGnOTe9qIAuwuSE4nbs39M3h.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Ray Sheridan",
+     "n": "Kevin Kline"
+    },
+    {
+     "c": "Jorge",
+     "n": "Cesar Ramos"
+    },
+    {
+     "c": "Adriana",
+     "n": "Paulina Gaitán"
+    },
+    {
+     "c": "Veronica",
+     "n": "Alicja Bachleda-Curuś"
+    },
+    {
+     "c": "Manuelo",
+     "n": "Marco Pérez"
+    },
+    {
+     "c": "Patty Sheridan",
+     "n": "Linda Emond"
+    },
+    {
+     "c": "Alex Green",
+     "n": "Zack Ward"
+    },
+    {
+     "c": "Laura",
+     "n": "Kate del Castillo"
+    },
+    {
+     "c": "Vadim Youchenko",
+     "n": "Pasha D. Lychnikoff"
+    },
+    {
+     "c": "Lupe",
+     "n": "Natalia Traven"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Marco Kreuzpaintner"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 4170,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A Texas cop, whose own daughter might have been forced into sexual slavery, joins forces with a Mexican youth to find the boy's sister, who was abducted and forced into prostitution. Meanwhile, a Polish woman who was promised a better life in America also becomes a victim.",
+   "popularity": 1.6931,
+   "poster_path": "/x2ckiEGoYz2AomOeviEPqnhrw7Q.jpg",
+   "production_countries": [
+    "DE",
+    "US",
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-01-23",
+   "revenue": 0,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "en",
+    "es",
+    "pl"
+   ],
+   "status": "Released",
+   "tagline": "Each year, more than 1,000,000 people are trafficked across international borders... against their will.",
+   "title": "Trade",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 325
   },
   "movie:438970": {
    "backdrop_path": "/tV52jYHf2CkFzIMlrn87xs1aPM.jpg",
@@ -3031,6 +3900,140 @@
    "vote_average": 7.346,
    "vote_count": 406
   },
+  "movie:85870": {
+   "backdrop_path": "/cY7YLBjPBydrQFrJTnE1BHDSAOG.jpg",
+   "budget": 27563396,
+   "cast": [
+    {
+     "c": "Claude François",
+     "n": "Jérémie Renier"
+    },
+    {
+     "c": "Paul Lederman",
+     "n": "Benoît Magimel"
+    },
+    {
+     "c": "Chouffa François, mother of Claude",
+     "n": "Monica Scattini"
+    },
+    {
+     "c": "Josette François, sister of Claude",
+     "n": "Sabrina Seyvecou"
+    },
+    {
+     "c": "Isabelle Forêt",
+     "n": "Ana Girardot"
+    },
+    {
+     "c": "France Gall",
+     "n": "Joséphine Japy"
+    },
+    {
+     "c": "Janet Woollacot",
+     "n": "Maud Jurez"
+    },
+    {
+     "c": "Aimé François, father of Claude",
+     "n": "Marc Barbé"
+    },
+    {
+     "c": "Jean-Jacques Tilche",
+     "n": "Éric Savin"
+    },
+    {
+     "c": "Kathalyn Jones",
+     "n": "Sophie Meister"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "8",
+   "date_kind": "release",
+   "director": [
+    "Florent-Emilio Siri"
+   ],
+   "genres": [
+    "Drama",
+    "Music"
+   ],
+   "id": 85870,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A biopic of French pop star Claude Francois, most famous for co-writing the song 'My Way'. Tracing his life from his childhood in Egypt through his success in France to his untimely death in Paris in 1978.",
+   "popularity": 1.1445,
+   "poster_path": "/upwipxKFnuasyfcdLB4M32annwG.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-03-14",
+   "revenue": 29193330,
+   "runtime": 148,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "it",
+    "ar",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "My Way",
+   "trailer": {
+    "key": "EowdPk8UMCE",
+    "name": "Cloclo - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.427,
+   "vote_count": 314
+  },
   "movie:870": {
    "backdrop_path": "/cxULojvpOWYX8AUG5eJpTYS8IbX.jpg",
    "budget": 0,
@@ -3119,6 +4122,176 @@
    "type": "movie",
    "vote_average": 7.532,
    "vote_count": 387
+  },
+  "movie:893370": {
+   "backdrop_path": "/jg0xZc6S8f5OVUiTDXMYd9YOl4J.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Luis",
+     "n": "Daniel Hendler"
+    },
+    {
+     "c": "Iris",
+     "n": "Paula Silva"
+    },
+    {
+     "c": "Javier",
+     "n": "Franco Rilla"
+    },
+    {
+     "c": "Miriam",
+     "n": "Sofía González"
+    },
+    {
+     "c": "",
+     "n": "Rasjid César"
+    },
+    {
+     "c": "",
+     "n": "Anaisy Brunet"
+    },
+    {
+     "c": "",
+     "n": "Tiziano Núñez"
+    },
+    {
+     "c": "",
+     "n": "Juan Fodde"
+    },
+    {
+     "c": "",
+     "n": "Virginia Méndez"
+    },
+    {
+     "c": "",
+     "n": "Gustavo Alonso"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Gustavo Hernández"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 893370,
+   "industry": "world",
+   "origin_country": [
+    "AR",
+    "UY"
+   ],
+   "original_language": "es",
+   "overview": "A virus is unleashed and a chilling massacre runs through the streets of Montevideo.",
+   "popularity": 1.1948,
+   "poster_path": "/wjV7Cf46oiWtz9eVN07dhiwkv8i.jpg",
+   "production_countries": [
+    "AR",
+    "UY",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-04-21",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "32 seconds to live or die.",
+   "title": "Virus: 32",
+   "trailer": {
+    "key": "qqGQzBGZ0FY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 314
   },
   "movie:929170": {
    "backdrop_path": "/7RE3dqDcafLRPj3W2q7EJ3ybIm7.jpg",

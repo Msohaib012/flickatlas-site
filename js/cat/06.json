@@ -1,6 +1,6 @@
 {
  "bucket": "06",
- "count": 53,
+ "count": 62,
  "titles": {
   "movie:10606": {
    "backdrop_path": "/4wPZaKaucs4lN7V4JWwkCN8vSwp.jpg",
@@ -2175,6 +2175,103 @@
    "vote_average": 5.5,
    "vote_count": 68
   },
+  "movie:16406": {
+   "backdrop_path": "/5LpDUkULnRcWjhKPE5aFMMdlQmK.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Betsy Jobs",
+     "n": "Kirsten Dunst"
+    },
+    {
+     "c": "Arlene Lorenzo",
+     "n": "Michelle Williams"
+    },
+    {
+     "c": "President Richard M. Nixon",
+     "n": "Dan Hedaya"
+    },
+    {
+     "c": "Bob Woodward",
+     "n": "Will Ferrell"
+    },
+    {
+     "c": "Carl Bernstein",
+     "n": "Bruce McCulloch"
+    },
+    {
+     "c": "Helen Lorenzo",
+     "n": "Teri Garr"
+    },
+    {
+     "c": "Bob Haldeman",
+     "n": "Dave Foley"
+    },
+    {
+     "c": "John Dean",
+     "n": "Jim Breuer"
+    },
+    {
+     "c": "Rose Mary Woods",
+     "n": "Ana Gasteyer"
+    },
+    {
+     "c": "G. Gordon Liddy",
+     "n": "Harry Shearer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Andrew Fleming"
+   ],
+   "genres": [
+    "Comedy",
+    "Adventure"
+   ],
+   "id": 16406,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two high school girls wander off during a class trip to the White House and meet President Richard Nixon. They become the official dog walkers for Nixon's dog Checkers, and become his secret advisors during the Watergate scandal.",
+   "popularity": 2.287,
+   "poster_path": "/kiPDHHSQbAh8hrwuOan0rlWnz2T.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1999-08-04",
+   "revenue": 27500000,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He was tricky. They were better.",
+   "title": "Dick",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 315
+  },
   "movie:172106": {
    "backdrop_path": "/hUCRLTCb9eq4ZttqYYxEnUqDvsf.jpg",
    "budget": 0,
@@ -3059,6 +3156,281 @@
    "vote_average": 6.891,
    "vote_count": 474
   },
+  "movie:24106": {
+   "backdrop_path": "/ww1gZ8vVCjmtyO2zkhcsRB7v6Tf.jpg",
+   "budget": 95745,
+   "cast": [
+    {
+     "c": "Hjalmar Poelzig",
+     "n": "Boris Karloff"
+    },
+    {
+     "c": "Dr. Vitus Werdegast",
+     "n": "Bela Lugosi"
+    },
+    {
+     "c": "Peter Alison",
+     "n": "David Manners"
+    },
+    {
+     "c": "Joan Alison",
+     "n": "Julie Bishop"
+    },
+    {
+     "c": "The Majordomo",
+     "n": "Egon Brecher"
+    },
+    {
+     "c": "Thamal",
+     "n": "Harry Cording"
+    },
+    {
+     "c": "Karen",
+     "n": "Lucille Lund"
+    },
+    {
+     "c": "The Sergeant",
+     "n": "Henry Armetta"
+    },
+    {
+     "c": "The Lieutenant",
+     "n": "Albert Conti"
+    },
+    {
+     "c": "Cult Organist",
+     "n": "John Carradine"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Edgar G. Ulmer"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 24106,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After a road accident in Hungary, the American honeymooners Joan and Peter and the enigmatic Dr. Werdegast find refuge in the house of the famed architect Hjalmar Poelzig, who shares a dark past with the doctor.",
+   "popularity": 1.8051,
+   "poster_path": "/QTH3dkeDGTBRBmsY0A7STpsNN4.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1934-05-07",
+   "revenue": 236000,
+   "runtime": 65,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "hu",
+    "en",
+    "la"
+   ],
+   "status": "Released",
+   "tagline": "Things you never said before nor even dreamed of!",
+   "title": "The Black Cat",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.726,
+   "vote_count": 323
+  },
+  "movie:242606": {
+   "backdrop_path": "/u0SmCStAg5GS8Pis36RsoailrRG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jamie Mitchell",
+     "n": "Bella Thorne"
+    },
+    {
+     "c": "John Mitchell",
+     "n": "Chandler Riggs"
+    },
+    {
+     "c": "Nicole",
+     "n": "Natalie Martinez"
+    },
+    {
+     "c": "Carl Mitchell",
+     "n": "Ioan Gruffudd"
+    },
+    {
+     "c": "The Wasp",
+     "n": "Maya Eshet"
+    },
+    {
+     "c": "The Terror",
+     "n": "Matthew Willig"
+    },
+    {
+     "c": "Matt",
+     "n": "Leigh Whannell"
+    },
+    {
+     "c": "Josh",
+     "n": "Jared Abrahamson"
+    },
+    {
+     "c": "The Creator (Voice)",
+     "n": "Roger Craig Smith"
+    },
+    {
+     "c": "The Creator",
+     "n": "Christopher James Baker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Sean Carter"
+   ],
+   "genres": [
+    "Thriller",
+    "Horror",
+    "Drama"
+   ],
+   "id": 242606,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A family imprisoned by intruders is forced to play a terrifying game of \"Kill, Or Be Killed\". As the night unfolds, the game's mysterious rules become clear, and the family realizes their nightmare is being streamed live to riveted viewers all over the world, who are compelled to KEEP WATCHING... not knowing if what they're seeing is real, or staged.",
+   "popularity": 1.6322,
+   "poster_path": "/wHsHaYUbLJNSt8T8QcFgZqy7Om.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-05-04",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Kill or Be Killed",
+   "title": "Keep Watching",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.0,
+   "vote_count": 322
+  },
   "movie:34106": {
    "backdrop_path": "/As4GJO5V3SxbSDW8ZEWPnYtSZIg.jpg",
    "budget": 1640000,
@@ -3159,6 +3531,109 @@
    "type": "movie",
    "vote_average": 7.479,
    "vote_count": 473
+  },
+  "movie:355506": {
+   "backdrop_path": "/xywle3yMnKbbuUaFhDMtGo1n6aw.jpg",
+   "budget": 300000,
+   "cast": [
+    {
+     "c": "Jonah",
+     "n": "Chase Williamson"
+    },
+    {
+     "c": "Mr. Nyx",
+     "n": "Justin Welborn"
+    },
+    {
+     "c": "Lily",
+     "n": "Hannah Fierman"
+    },
+    {
+     "c": "Mac",
+     "n": "Michael Aaron Milligan"
+    },
+    {
+     "c": "Rand",
+     "n": "Hayes Mercure"
+    },
+    {
+     "c": "Elliott",
+     "n": "Randy McDowell"
+    },
+    {
+     "c": "Eva",
+     "n": "Lindsey Garrett"
+    },
+    {
+     "c": "Sheriff Boone",
+     "n": "Stephen Caudill"
+    },
+    {
+     "c": "The Addict",
+     "n": "William Mark McCullough"
+    },
+    {
+     "c": "Cllisto",
+     "n": "Krystal Badia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Gregg Bishop"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 355506,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A bachelor party becomes a savage fight for survival when the groomsmen unwittingly unleash a fabled predator upon the festivities.",
+   "popularity": 1.4658,
+   "poster_path": "/dAEodQQODOtOlhiQQTW7n1eS9ft.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2016-12-02",
+   "revenue": 0,
+   "runtime": 82,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "No man can resist her. All men should.",
+   "title": "Siren",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 313
   },
   "movie:360606": {
    "backdrop_path": "/eWCeRLTavVwPt3uOGUF1ewzwH6e.jpg",
@@ -3295,6 +3770,212 @@
    "type": "movie",
    "vote_average": 7.232,
    "vote_count": 450
+  },
+  "movie:37606": {
+   "backdrop_path": "/upZUY8Tj9RHHLKPpGKU40qQ0Y1R.jpg",
+   "budget": 33000000,
+   "cast": [
+    {
+     "c": "Valmont",
+     "n": "Colin Firth"
+    },
+    {
+     "c": "Merteuil",
+     "n": "Annette Bening"
+    },
+    {
+     "c": "Madame de Tourvel",
+     "n": "Meg Tilly"
+    },
+    {
+     "c": "Cécile",
+     "n": "Fairuza Balk"
+    },
+    {
+     "c": "Madame de Volanges",
+     "n": "Siân Phillips"
+    },
+    {
+     "c": "Gercourt",
+     "n": "Jeffrey Jones"
+    },
+    {
+     "c": "Danceny",
+     "n": "Henry Thomas"
+    },
+    {
+     "c": "Madame de Rosemonde",
+     "n": "Fabia Drake"
+    },
+    {
+     "c": "Baron",
+     "n": "T. P. McKenna"
+    },
+    {
+     "c": "Baroness",
+     "n": "Isla Blair"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Miloš Forman"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 37606,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set in Baroque France, a scheming widow and her lover make a bet regarding the corruption of a recently married woman. The lover, Valmont, bets that he can seduce her, even though she is an honorable woman. If he wins, he can have his lover to do as he will. However, in the process of seducing the married woman, Valmont falls in love.",
+   "popularity": 4.2511,
+   "poster_path": "/AuCnhQII6ZNgRDrr2N5KyDCnhnj.jpg",
+   "production_countries": [
+    "FR",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1989-12-06",
+   "revenue": 1132112,
+   "runtime": 137,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "As unpredictable as love itself.",
+   "title": "Valmont",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.719,
+   "vote_count": 318
+  },
+  "movie:401306": {
+   "backdrop_path": "/wmMP0nmUtK27U7c18qdLz7zkPtM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Pithivier",
+     "n": "Jean Lefebvre"
+    },
+    {
+     "c": "Sergent-chef Chaudard",
+     "n": "Pierre Mondy"
+    },
+    {
+     "c": "Tassin",
+     "n": "Henri Guybet"
+    },
+    {
+     "c": "Capitaine Dumont",
+     "n": "Pierre Tornade"
+    },
+    {
+     "c": "Lieutenant Duvauchel",
+     "n": "Érik Colin"
+    },
+    {
+     "c": "Colonel Blanchet",
+     "n": "Robert Lamoureux"
+    },
+    {
+     "c": "Colonel Voisin",
+     "n": "Bernard Dhéran"
+    },
+    {
+     "c": "Panadon",
+     "n": "Jacques Monod"
+    },
+    {
+     "c": "Le soldat prisonnier qui s'indigne pour les patates",
+     "n": "René Bouloc"
+    },
+    {
+     "c": "Colonel Bricard",
+     "n": "Robert Dalban"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Robert Lamoureux"
+   ],
+   "genres": [
+    "Comedy",
+    "War"
+   ],
+   "id": 401306,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "The second part of the Seventh Company adventures.",
+   "popularity": 1.2562,
+   "poster_path": "/6df3QdLZc5xCOvGekKn5gzPYNiY.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1975-12-10",
+   "revenue": 0,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cs",
+    "fr",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Seventh Company Has Been Found",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.262,
+   "vote_count": 323
   },
   "movie:500006": {
    "backdrop_path": "/w4pUYpFTywnCn40NV9XKy2Wdacv.jpg",
@@ -3565,6 +4246,125 @@
    "type": "movie",
    "vote_average": 6.012,
    "vote_count": 484
+  },
+  "movie:5206": {
+   "backdrop_path": "/tZnSELkhNmzDmRLzWWsQh74HNcW.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "The Boss of it All / Kristoffer / Svend E",
+     "n": "Jens Albinus"
+    },
+    {
+     "c": "Ravn",
+     "n": "Peter Gantzler"
+    },
+    {
+     "c": "Finnur",
+     "n": "Fridrik Thor Fridriksson"
+    },
+    {
+     "c": "Interpreter",
+     "n": "Benedikt Erlingsson"
+    },
+    {
+     "c": "Lise",
+     "n": "Iben Hjejle"
+    },
+    {
+     "c": "Nalle",
+     "n": "Henrik Prip"
+    },
+    {
+     "c": "Heidi A.",
+     "n": "Mia Lyhne"
+    },
+    {
+     "c": "Gorm",
+     "n": "Casper Christensen"
+    },
+    {
+     "c": "Mette",
+     "n": "Louise Mieritz"
+    },
+    {
+     "c": "Spencer",
+     "n": "Jean-Marc Barr"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Lars von Trier"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 5206,
+   "industry": "world",
+   "origin_country": [
+    "DK"
+   ],
+   "original_language": "da",
+   "overview": "The owner of an IT firm wants to sell his business for profit; however, when he started his firm, he invented a nonexistent president to hide behind when unpopular steps needed to be taken. When potential purchasers insist on negotiating with 'The Boss' face to face, the owner hires a failed actor to play the part.",
+   "popularity": 1.7948,
+   "poster_path": "/rwEtK0YLHLzT13uPtXyXCHoWMwR.jpg",
+   "production_countries": [
+    "DK",
+    "FR",
+    "IT",
+    "SE",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-12-08",
+   "revenue": 3111395,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "da",
+    "is",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Boss of It All",
+   "trailer": {
+    "key": "OyPBZsli7e0",
+    "name": "THE BOSS OF IT ALL",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 339
   },
   "movie:522406": {
    "backdrop_path": "/lR7qQNifkq2fNwy681lH3NtmynV.jpg",
@@ -3871,6 +4671,115 @@
    "type": "movie",
    "vote_average": 5.763,
    "vote_count": 396
+  },
+  "movie:582206": {
+   "backdrop_path": "/3eGj3Jcp7eP4yDh7LccmV6XwW6v.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Arthur Dreyfus",
+     "n": "Fabrice Luchini"
+    },
+    {
+     "c": "César Montesiho",
+     "n": "Patrick Bruel"
+    },
+    {
+     "c": "Randa Ameziane",
+     "n": "Zineb Triki"
+    },
+    {
+     "c": "Virginia, Arthur's ex",
+     "n": "Pascale Arbillot"
+    },
+    {
+     "c": "Julie Dreyfus, daughter of Arthur and Virginie",
+     "n": "Marie Narbonne"
+    },
+    {
+     "c": "Bernard Montesiho, father of César",
+     "n": "Jean-Marie Winling"
+    },
+    {
+     "c": "The priest",
+     "n": "André Marcon"
+    },
+    {
+     "c": "Doctor Cerceau",
+     "n": "Thierry Godard"
+    },
+    {
+     "c": "Lucia",
+     "n": "Martina García"
+    },
+    {
+     "c": "Maître Lansky",
+     "n": "Sébastien Pierre"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "L",
+   "date_kind": "release",
+   "director": [
+    "Matthieu Delaporte",
+    "Alexandre de La Patellière"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 582206,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Following a huge misunderstanding, two friends always decide to tackle everything to make up for lost time.",
+   "popularity": 1.8744,
+   "poster_path": "/mSAJYJbPqrmJP5eucSHtRvymMXw.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-12-04",
+   "revenue": 7201952,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Best Is Yet to Come",
+   "trailer": {
+    "key": "VFz93pHYPss",
+    "name": "The Best is Yet to Come / Le Meilleur reste à venir (2019) - Trailer (English Subs)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.814,
+   "vote_count": 317
   },
   "movie:6": {
    "backdrop_path": "/lIuseocAIWrEq8zl4EBCBH96e4z.jpg",
@@ -4795,6 +5704,205 @@
    "type": "movie",
    "vote_average": 6.859,
    "vote_count": 345
+  },
+  "movie:958006": {
+   "backdrop_path": "/bylJq7JEA87YqHMObZUnaP292T2.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Patrice",
+     "n": "Uma Thurman"
+    },
+    {
+     "c": "Reggie",
+     "n": "Joe Manganiello"
+    },
+    {
+     "c": "Gordon",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Grace",
+     "n": "Maya Hawke"
+    },
+    {
+     "c": "The Kimono",
+     "n": "Debi Mazar"
+    },
+    {
+     "c": "Anika",
+     "n": "Dree Hemingway"
+    },
+    {
+     "c": "Leslie",
+     "n": "Amy Keum"
+    },
+    {
+     "c": "Mrs. Galvinson",
+     "n": "Candy Buckley"
+    },
+    {
+     "c": "Dr. Galvinson",
+     "n": "Larry Pine"
+    },
+    {
+     "c": "Mae",
+     "n": "Jennifer Kim"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Nicol Paone"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 958006,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A hitman, his boss, an art dealer and a money-laundering scheme that accidentally turns the assassin into an overnight avant-garde sensation, one that forces her to play the art world against the underworld.",
+   "popularity": 2.1201,
+   "poster_path": "/ciEZWh4fkq394ToQBr91UDUK45O.jpg",
+   "production_countries": [
+    "US",
+    "GB",
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-09-14",
+   "revenue": 476375,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Crime is an art form.",
+   "title": "The Kill Room",
+   "trailer": {
+    "key": "ZCoMN3YUTp8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 317
   },
   "movie:977506": {
    "backdrop_path": "/czVIuIXqDPgCBHI3vLYQcRtzAo7.jpg",

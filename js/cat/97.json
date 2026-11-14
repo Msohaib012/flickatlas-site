@@ -1,6 +1,6 @@
 {
  "bucket": "97",
- "count": 36,
+ "count": 42,
  "titles": {
   "movie:10397": {
    "backdrop_path": "/oKNe6Ids29lqvG6PFc4qxlB3j1R.jpg",
@@ -624,6 +624,98 @@
    "vote_average": 6.056,
    "vote_count": 480
   },
+  "movie:14097": {
+   "backdrop_path": "/e6LS0VXLHc4JJLXnzPXX5Aslvrs.jpg",
+   "budget": 9500000,
+   "cast": [
+    {
+     "c": "Vorobey",
+     "n": "Aleksey Chadov"
+    },
+    {
+     "c": "Lyutyy",
+     "n": "Artur Smolyaninov"
+    },
+    {
+     "c": "Dzhokonda",
+     "n": "Konstantin Kryukov"
+    },
+    {
+     "c": "Chugun",
+     "n": "Ivan Kokorin"
+    },
+    {
+     "c": "Stas",
+     "n": "Artyom Mikhalkov"
+    },
+    {
+     "c": "Pinochet",
+     "n": "Soslan Fidarov"
+    },
+    {
+     "c": "Dygalo",
+     "n": "Mikhail Porechenkov"
+    },
+    {
+     "c": "Afanasiy",
+     "n": "Dmitriy Mukhamadeev"
+    },
+    {
+     "c": "Khokhol",
+     "n": "Fyodor Bondarchuk"
+    },
+    {
+     "c": "Kurbashi",
+     "n": "Amadu Mamadakov"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Fyodor Bondarchuk"
+   ],
+   "genres": [
+    "War",
+    "Drama",
+    "History"
+   ],
+   "id": 14097,
+   "industry": "world",
+   "origin_country": [
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "Russian army recruits complete training and take their posting in late 1980s Afghanistan, where the insurgents are slowly gaining the upper hand.",
+   "popularity": 1.7601,
+   "poster_path": "/yKPr5DbUZRPsdT1gOhUnTVsnplg.jpg",
+   "production_countries": [
+    "FI",
+    "RU",
+    "UA"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2005-09-19",
+   "revenue": 24000000,
+   "runtime": 139,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "They stood together while their country fell apart...",
+   "title": "9th Company",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.63,
+   "vote_count": 332
+  },
   "movie:1413097": {
    "backdrop_path": "/85BqDpCZSA5lzsRbANkchg0RFIf.jpg",
    "budget": 40000000,
@@ -837,6 +929,158 @@
    "type": "movie",
    "vote_average": 6.805,
    "vote_count": 430
+  },
+  "movie:14397": {
+   "backdrop_path": "/A4ZvbsC0o86bpgHa00iad1YCtu2.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "David Sandborn",
+     "n": "Blake Woodruff"
+    },
+    {
+     "c": "Max Truemont",
+     "n": "Josh Holloway"
+    },
+    {
+     "c": "Roxanne",
+     "n": "Sarah Wayne Callies"
+    },
+    {
+     "c": "Sydney Braverman",
+     "n": "Michael Rooker"
+    },
+    {
+     "c": "Mr. Harper",
+     "n": "Julian Christopher"
+    },
+    {
+     "c": "Catherine Sandborn",
+     "n": "Teryl Rothery"
+    },
+    {
+     "c": "Nanny",
+     "n": "Jennifer Shirley"
+    },
+    {
+     "c": "Chloe",
+     "n": "Tara Wilson"
+    },
+    {
+     "c": "Vince Delayo",
+     "n": "Joel Edgerton"
+    },
+    {
+     "c": "Whitley",
+     "n": "John Kapelos"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "date_kind": "release",
+   "director": [
+    "Stewart Hendler"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 14397,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Sinister things begin happening to kidnappers who are holding a young boy for ransom in a remote cabin.",
+   "popularity": 2.183,
+   "poster_path": "/mxs3ox33B3IWs6jMAS3EZ0TckXm.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-11-27",
+   "revenue": 5285197,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The devil's work is childs play",
+   "title": "Whisper",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.343,
+   "vote_count": 334
   },
   "movie:1550797": {
    "backdrop_path": "/tombkp3ir9tmm5v9QLnHaDZCWa7.jpg",
@@ -1681,6 +1925,106 @@
    "vote_average": 5.0,
    "vote_count": 345
   },
+  "movie:271397": {
+   "backdrop_path": "/pp6RHy8glYVte8DrSkaTyDDFHVs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sergei",
+     "n": "Hryhoriy Fesenko"
+    },
+    {
+     "c": "Anya",
+     "n": "Yana Novikova"
+    },
+    {
+     "c": "Svetka",
+     "n": "Rosa Babiy"
+    },
+    {
+     "c": "Gera",
+     "n": "Oleksandr Dsiadevych"
+    },
+    {
+     "c": "'King'",
+     "n": "Oleksandr Osadchyi"
+    },
+    {
+     "c": "Makar",
+     "n": "Ivan Tishko"
+    },
+    {
+     "c": "'Shnyr' (Flunky)",
+     "n": "Alexandr Sidelnikov"
+    },
+    {
+     "c": "Woodwork Teacher",
+     "n": "Alexander Panivan"
+    },
+    {
+     "c": "Sponsor",
+     "n": "Kyryl Koshyk"
+    },
+    {
+     "c": "",
+     "n": "Yaroslav Biletskiy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Myroslav Slaboshpytskyi"
+   ],
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 271397,
+   "industry": "world",
+   "origin_country": [
+    "UA"
+   ],
+   "original_language": "uk",
+   "overview": "Deaf-mute Sergey enters a specialized boarding school for the deaf. In navigating through the school's hierarchy, he encounters a corrupt underbelly of criminality, known as The Tribe. By participating in several robberies, he gets propelled higher into the organization, when he meets one of the Chief’s concubines Anya, and unwittingly breaks all the unwritten rules of the group.\"",
+   "popularity": 1.5742,
+   "poster_path": "/85gHJfR9aM3mRIHq6G5ateLGOeh.jpg",
+   "production_countries": [
+    "UA"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/fy6GVs6ZtKluakv0Z5nuLesmTqx.png",
+     "name": "Pijama Films",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-09-11",
+   "revenue": 215034,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "Love and hate need no translation.",
+   "title": "The Tribe",
+   "trailer": {
+    "key": "yKD0sMntjWE",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 334
+  },
   "movie:36897": {
    "backdrop_path": "/pJszL2mPl084IDSzLDPH8NqIq0r.jpg",
    "budget": 0,
@@ -1928,6 +2272,134 @@
    "type": "movie",
    "vote_average": 6.99,
    "vote_count": 437
+  },
+  "movie:4997": {
+   "backdrop_path": "/jvgbITybzUZN6upjadXa644cwMD.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "John Holmes",
+     "n": "Val Kilmer"
+    },
+    {
+     "c": "Dawn Schiller",
+     "n": "Kate Bosworth"
+    },
+    {
+     "c": "David Lind",
+     "n": "Dylan McDermott"
+    },
+    {
+     "c": "Sharon Holmes",
+     "n": "Lisa Kudrow"
+    },
+    {
+     "c": "Sally Hansen",
+     "n": "Carrie Fisher"
+    },
+    {
+     "c": "Ron Launius",
+     "n": "Josh Lucas"
+    },
+    {
+     "c": "Susan Launius",
+     "n": "Christina Applegate"
+    },
+    {
+     "c": "Sam Nico",
+     "n": "Ted Levine"
+    },
+    {
+     "c": "Billy Deverell",
+     "n": "Tim Blake Nelson"
+    },
+    {
+     "c": "Joy Miller",
+     "n": "Janeane Garofalo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "James Cox"
+   ],
+   "genres": [
+    "Crime",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 4997,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On the afternoon of July 1, 1981, Los Angeles police responded to a distress call on Wonderland Avenue and discovered a grisly quadruple homicide. The police investigation that followed uncovered two versions of the events leading up to the brutal murders - both involving legendary porn actor John Holmes.",
+   "popularity": 1.914,
+   "poster_path": "/mfG8S7D4rYeVqvTzjc3D36PAK3R.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-10-23",
+   "revenue": 2466444,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Sex, drugs, murder. Welcome to L.A.",
+   "title": "Wonderland",
+   "trailer": {
+    "key": "tIWMOSKKlgs",
+    "name": "Wonderland - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.117,
+   "vote_count": 312
   },
   "movie:502897": {
    "backdrop_path": "/lUyn54M9fNg0qPx6wulSQraqBvz.jpg",
@@ -2294,6 +2766,263 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 438
+  },
+  "movie:897": {
+   "backdrop_path": "/qDEZmaaAGhEso6kvB5kk1CROPwG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Young Apurba 'Apu' Roy",
+     "n": "Pinaki Sengupta"
+    },
+    {
+     "c": "Teenage Apurba 'Apu' Roy",
+     "n": "Smaran Ghosal"
+    },
+    {
+     "c": "Harihar Roy",
+     "n": "Kanu Bannerjee"
+    },
+    {
+     "c": "Sarbajaya Roy",
+     "n": "Karuna Banerjee"
+    },
+    {
+     "c": "Bhabataran",
+     "n": "Ramani Ranjan Sengupta"
+    },
+    {
+     "c": "Nanda Babu",
+     "n": "Charuprakash Ghosh"
+    },
+    {
+     "c": "Headmaster",
+     "n": "Subodh Ganguly"
+    },
+    {
+     "c": "Ginnima",
+     "n": "Santi Gupta"
+    },
+    {
+     "c": "Teliginni",
+     "n": "Ranibala"
+    },
+    {
+     "c": "Nirupama",
+     "n": "Sudipta Roy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Satyajit Ray"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 897,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "bn",
+   "overview": "Apu and his family have moved away from the country to live in the bustling holy city of Benares. As he progresses from wide-eyed child to intellectually curious teenager, eventually studying in Kolkata, we witness his academic and moral education, as well as the growing complexity of his relationship with his mother.",
+   "popularity": 1.3619,
+   "poster_path": "/qvR2Qs42WHwCEcuwhQnterU3gVY.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1956-10-11",
+   "revenue": 170215,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "bn",
+    "sa",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Aparajito",
+   "trailer": {
+    "key": "mgv68E_o6VM",
+    "name": "The Apu Trilogy: 2015 Restoration - Janus Films Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.8,
+   "vote_count": 310
+  },
+  "movie:8997": {
+   "backdrop_path": "/nlfjdxHeMuGhMwjyP60DdM8OIxU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Michael Griffin",
+     "n": "Christian Slater"
+    },
+    {
+     "c": "Dr. Maggie Dalton",
+     "n": "Laura Regan"
+    },
+    {
+     "c": "Det. Frank Turner",
+     "n": "Peter Facinelli"
+    },
+    {
+     "c": "Dr. William Reisner",
+     "n": "David McIlwraith"
+    },
+    {
+     "c": "Heather Dalton",
+     "n": "Jessica Harmon"
+    },
+    {
+     "c": "Det. Lisa Martinez",
+     "n": "Sarah Deakins"
+    },
+    {
+     "c": "Trophy Wife",
+     "n": "Sonya Salomaa"
+    },
+    {
+     "c": "Security Guard",
+     "n": "Stefano Giulianetti"
+    },
+    {
+     "c": "Blind Secretary",
+     "n": "Chelah Horsdal"
+    },
+    {
+     "c": "Col. Gavin Bishop",
+     "n": "William MacDonald"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Claudio Fäh"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 8997,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the mysterious death of scientist Dr. Devin Villiers, Det. Frank Turner and his partner are assigned to protect Villiers' colleague, who revealed that  a veteran soldier was subjected to an experiment with the objective of creating the ultimate national security weapon... an undetectable soldier. The experiment failed – with disastrous side effects.",
+   "popularity": 2.6104,
+   "poster_path": "/c6Ga1AUGPe3GwlpX3qDYrD9y3EZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-05-23",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There's more to terror than meets the eye.",
+   "title": "Hollow Man II",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.0,
+   "vote_count": 327
   },
   "movie:986097": {
    "backdrop_path": "/jzzpCJWkVZZwAxzzLmtYN0MBWFd.jpg",

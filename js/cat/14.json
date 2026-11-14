@@ -1,6 +1,6 @@
 {
  "bucket": "14",
- "count": 46,
+ "count": 52,
  "titles": {
   "movie:11414": {
    "backdrop_path": "/jhIdEe9oCZjxLt2Cq1KR8IbnJvj.jpg",
@@ -161,6 +161,141 @@
    "type": "movie",
    "vote_average": 7.159,
    "vote_count": 347
+  },
+  "movie:1214314": {
+   "backdrop_path": "/ay0PJQZizDXk0pzhoGX4v7K9h7A.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jake Harris",
+     "n": "Scott Adkins"
+    },
+    {
+     "c": "Robert Jackson",
+     "n": "Michael Jai White"
+    },
+    {
+     "c": "Jennifer Lomax",
+     "n": "Alexis Knapp"
+    },
+    {
+     "c": "Niesha Mansur",
+     "n": "Meena Rayann"
+    },
+    {
+     "c": "Amin Mansur",
+     "n": "Waleed Elgadi"
+    },
+    {
+     "c": "Hooper",
+     "n": "Hannah Arterton"
+    },
+    {
+     "c": "Mike Marshall",
+     "n": "Tom Berenger"
+    },
+    {
+     "c": "Kelly Harris",
+     "n": "Jill Winternitz"
+    },
+    {
+     "c": "SRT Agent Genki",
+     "n": "Cassidy Little"
+    },
+    {
+     "c": "Dunbar",
+     "n": "Aaron Toney"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "James Nunn"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 1214314,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Following the attack on the black site in Poland, Navy SEAL Jake Harris is ordered to escort terrorist suspect Amin Mansur to Washington D.C. for interrogation. Before the prisoner transfer process is complete, though, the airport is attacked by a group of heavily armed, well-trained mercenaries.",
+   "popularity": 2.7183,
+   "poster_path": "/xiLFc19JANfAZHbecqoCFpmtiUV.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-01-09",
+   "revenue": 87850934,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "One More Shot",
+   "trailer": {
+    "key": "W1kCbtjPJ2U",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.563,
+   "vote_count": 317
   },
   "movie:12614": {
    "backdrop_path": "/tcMG8GQ0m61PWIWkdJfOERrl1sJ.jpg",
@@ -1752,6 +1887,257 @@
    "vote_average": 6.636,
    "vote_count": 436
   },
+  "movie:21614": {
+   "backdrop_path": "/AkfqKaD1KqfIqytxLvWlyKJRlEi.jpg",
+   "budget": 1666000,
+   "cast": [
+    {
+     "c": "Raju",
+     "n": "Akshay Kumar"
+    },
+    {
+     "c": "Shyam",
+     "n": "Suniel Shetty"
+    },
+    {
+     "c": "Baburao Ganpatrao Apte",
+     "n": "Paresh Rawal"
+    },
+    {
+     "c": "Anuradha Shivshankar Panikar",
+     "n": "Tabu"
+    },
+    {
+     "c": "Kharak Singh",
+     "n": "Om Puri"
+    },
+    {
+     "c": "Kabira",
+     "n": "Gulshan Grover"
+    },
+    {
+     "c": "Devi Prasad",
+     "n": "Kulbhushan Kharbanda"
+    },
+    {
+     "c": "Inspector Prakash Mathur",
+     "n": "Mukesh Khanna"
+    },
+    {
+     "c": "Bank Manager",
+     "n": "Asrani"
+    },
+    {
+     "c": "Chhota Chetan",
+     "n": "Razak Khan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Priyadarshan"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 21614,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "Two tenants and a landlord, in desperate need of money, chance upon a ransom call via a cross connection. They hatch a plan to claim the ransom for themselves.",
+   "popularity": 1.7067,
+   "poster_path": "/23MKGUPT5laTStim4TaGhfgSltu.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Goldmines Play Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/8uXd8H7oaWlLBszABEvF9jIQCYx.png",
+     "name": "Goldmines Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-03-31",
+   "revenue": 4755000,
+   "runtime": 156,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Hera Pheri",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.152,
+   "vote_count": 339
+  },
+  "movie:22414": {
+   "backdrop_path": "/uuOw885XJq3i2UYi2etF8ml1d7K.jpg",
+   "budget": 22000000,
+   "cast": [
+    {
+     "c": "Suzanne Vale",
+     "n": "Meryl Streep"
+    },
+    {
+     "c": "Doris Mann",
+     "n": "Shirley MacLaine"
+    },
+    {
+     "c": "Jack Faulkner",
+     "n": "Dennis Quaid"
+    },
+    {
+     "c": "Lowell Kolchek",
+     "n": "Gene Hackman"
+    },
+    {
+     "c": "Dr. Frankenthal",
+     "n": "Richard Dreyfuss"
+    },
+    {
+     "c": "Joe Pierce",
+     "n": "Rob Reiner"
+    },
+    {
+     "c": "Grandma",
+     "n": "Mary Wickes"
+    },
+    {
+     "c": "Grandpa",
+     "n": "Conrad Bain"
+    },
+    {
+     "c": "Evelyn Ames",
+     "n": "Annette Bening"
+    },
+    {
+     "c": "Simon Asquith",
+     "n": "Simon Callow"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mike Nichols"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 22414,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A substance-addicted actress tries to look on the bright side even as she's forced to move back in with her mother to avoid unemployment.",
+   "popularity": 2.518,
+   "poster_path": "/uF7bO5UcenRgag0jpbVvKsGyfBK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1990-09-14",
+   "revenue": 39071603,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Having a wonderful time, wish I were here.",
+   "title": "Postcards from the Edge",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.63,
+   "vote_count": 311
+  },
   "movie:253414": {
    "backdrop_path": "/wldeDiuEBhYi1Q4FjSHzAQ3yS80.jpg",
    "budget": 15000000,
@@ -2282,6 +2668,123 @@
    "vote_average": 5.9,
    "vote_count": 467
   },
+  "movie:27814": {
+   "backdrop_path": "/2u0bhTWIBTbgtfDmJqrsQqydojh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Brian",
+     "n": "Rick Hearst"
+    },
+    {
+     "c": "Mike",
+     "n": "Gordon MacDonald"
+    },
+    {
+     "c": "Barbara",
+     "n": "Jennifer Lowry"
+    },
+    {
+     "c": "Aylmer (voice)",
+     "n": "John Zacherle"
+    },
+    {
+     "c": "Morris",
+     "n": "Theo Barnes"
+    },
+    {
+     "c": "Martha",
+     "n": "Lucille Saint-Peter"
+    },
+    {
+     "c": "Blonde in Hell",
+     "n": "Vicki Darnell"
+    },
+    {
+     "c": "Guy in Shower",
+     "n": "Joseph Gonzalez"
+    },
+    {
+     "c": "Night Watchman",
+     "n": "Bradlee Rhodes"
+    },
+    {
+     "c": "Toilet Victim",
+     "n": "Michael Bishop"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Frank Henenlotter"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 27814,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Brian comes under the addictive spell of a parasite with the ability to induce euphoric hallucinations in its hosts.",
+   "popularity": 1.5261,
+   "poster_path": "/nNJbQXlut92RIpcnPyoICzdJvJs.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Night Flight Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/acUxuVlP96MVPbUdxdGu0pUHTht.png",
+     "name": "Night Flight Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-04-22",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's a Headache from Hell.",
+   "title": "Brain Damage",
+   "trailer": {
+    "key": "fxMoQyVPS9k",
+    "name": "Original Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 323
+  },
   "movie:29514": {
    "backdrop_path": "/wWucXwUmJiA5iUNqegJHbcy2Mzy.jpg",
    "budget": 9000000,
@@ -2597,6 +3100,114 @@
    "type": "movie",
    "vote_average": 5.3,
    "vote_count": 383
+  },
+  "movie:31414": {
+   "backdrop_path": "/5a4Gmk2HNeefI4Rmwdmbyoy79oy.jpg",
+   "budget": 1500000,
+   "cast": [
+    {
+     "c": "Irimiás",
+     "n": "Mihály Víg"
+    },
+    {
+     "c": "Petrina",
+     "n": "Putyi Horváth"
+    },
+    {
+     "c": "Futaki",
+     "n": "Székely B. Miklós"
+    },
+    {
+     "c": "Estike",
+     "n": "Erika Bók"
+    },
+    {
+     "c": "Schmidt",
+     "n": "László feLugossy"
+    },
+    {
+     "c": "Halics",
+     "n": "Alfréd Járai"
+    },
+    {
+     "c": "Kráner",
+     "n": "János Derzsi"
+    },
+    {
+     "c": "Kránerné",
+     "n": "Irén Szajki"
+    },
+    {
+     "c": "Schmidtné",
+     "n": "Éva Almássy Albert"
+    },
+    {
+     "c": "Halicsné",
+     "n": "Erzsébet Gaál"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "date_kind": "release",
+   "director": [
+    "Béla Tarr"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 31414,
+   "industry": "world",
+   "origin_country": [
+    "HU"
+   ],
+   "original_language": "hu",
+   "overview": "Inhabitants of a small village in Hungary deal with the effects of the fall of Communism. The town's source of revenue, a factory, has closed, and the locals, who include a doctor and three couples, await a cash payment offered in the wake of the shuttering. Irimias, a villager thought to be dead, returns and, unbeknownst to the locals, is a police informant. In a scheme, he persuades the villagers to form a commune with him.",
+   "popularity": 2.5353,
+   "poster_path": "/hySy5g6xncM3U1iRsdPgYyahXM0.jpg",
+   "production_countries": [
+    "DE",
+    "HU",
+    "CH"
+   ],
+   "providers": [
+    {
+     "name": "Eternal Family"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/2IHcGZUPqxy4HhWWN57AGEIKcCW.png",
+     "name": "Eternal Family",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1994-04-28",
+   "revenue": 0,
+   "runtime": 432,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hu"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Satantango",
+   "trailer": {
+    "key": "UuyznqAILAM",
+    "name": "Official Trailer (4K Restoration)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.058,
+   "vote_count": 330
   },
   "movie:33914": {
    "backdrop_path": "/r76QpU49VuKiMhJMx3PYDXmeQ8x.jpg",
@@ -3249,6 +3860,151 @@
    "type": "movie",
    "vote_average": 6.921,
    "vote_count": 373
+  },
+  "movie:505914": {
+   "backdrop_path": "/qVcfsJjZu16fWCmR5FqG1bS4V2G.jpg",
+   "budget": 395168,
+   "cast": [
+    {
+     "c": "Milutin",
+     "n": "Sebastian Cavazza"
+    },
+    {
+     "c": "Nimani 1345",
+     "n": "Stoya"
+    },
+    {
+     "c": "Social Engineer",
+     "n": "Maruša Majer"
+    },
+    {
+     "c": "Computer",
+     "n": "Kirsty Besterman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Lazar Bodroža"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Drama",
+    "Romance"
+   ],
+   "id": 505914,
+   "industry": "world",
+   "origin_country": [
+    "RS"
+   ],
+   "original_language": "en",
+   "overview": "On a lonely mission to Alpha Centauri, Milutin is teamed up with Nimani 1345, a female cyborg designed to fulfill his every need. At first thrilled to be able to control her, Sebastian grows tired of having his desires fulfilled so easily. Longing for human intimacy, Sebastian alters Nimani's programmed responses, but in doing so he risks the mission's security — and his own life.",
+   "popularity": 1.8975,
+   "poster_path": "/aXosp6MFBxYi4m6ZmE4u1auReHc.jpg",
+   "production_countries": [
+    "RS",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-02-25",
+   "revenue": 0,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Future Is Present",
+   "title": "A.I. Rising",
+   "trailer": {
+    "key": "8FNU0sgbYEY",
+    "name": "Lionsgate Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.9,
+   "vote_count": 327
   },
   "movie:52214": {
    "backdrop_path": "/bro3aAx14EfSG5SQqL4P3mLDkfe.jpg",

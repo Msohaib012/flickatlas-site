@@ -1,7 +1,113 @@
 {
  "bucket": "68",
- "count": 42,
+ "count": 51,
  "titles": {
+  "movie:10168": {
+   "backdrop_path": "/xbYDtVWOOL84KaZjM5JnQ5QYAuX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carmine Sabatini, aka Jimmy The Toucan",
+     "n": "Marlon Brando"
+    },
+    {
+     "c": "Clark Kellogg",
+     "n": "Matthew Broderick"
+    },
+    {
+     "c": "Victor Ray",
+     "n": "Bruno Kirby"
+    },
+    {
+     "c": "Tina Sabatini",
+     "n": "Penelope Ann Miller"
+    },
+    {
+     "c": "Steve Bushak",
+     "n": "Frank Whaley"
+    },
+    {
+     "c": "Chuck Greenwald",
+     "n": "Jon Polito"
+    },
+    {
+     "c": "Dwight Armstrong",
+     "n": "Kenneth Welsh"
+    },
+    {
+     "c": "Lloyd Simpson",
+     "n": "Richard Gant"
+    },
+    {
+     "c": "Hunter",
+     "n": "Jefferson Mappin"
+    },
+    {
+     "c": "Larry London",
+     "n": "Maximilian Schell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Andrew Bergman"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 10168,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After a film student gets his belongings stolen, he meets a mobster bearing a startling resemblance to a certain cinematic godfather. Soon, he finds himself caught up in a caper involving endangered species and fine dining.",
+   "popularity": 2.0123,
+   "poster_path": "/tKeZDE3Hbne5w43k7ASFolDKroC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1990-07-27",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He was on his way to the Dean's List, but he wound up on the hit list.",
+   "title": "The Freshman",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.296,
+   "vote_count": 328
+  },
   "movie:10668": {
    "backdrop_path": "/3lFX0OVEllA09J8HRZ4w1C0Wsoe.jpg",
    "budget": 0,
@@ -210,6 +316,96 @@
    "type": "movie",
    "vote_average": 6.414,
    "vote_count": 458
+  },
+  "movie:114168": {
+   "backdrop_path": "/b7qyTKrkFDAVyAzBgVpqjvAHneH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "María del Mar",
+     "n": "Claudia Zepeda"
+    },
+    {
+     "c": "Tora",
+     "n": "Karen de la Hoya"
+    },
+    {
+     "c": "Sofía",
+     "n": "Scarlet Dergal"
+    },
+    {
+     "c": "Ana Ceci",
+     "n": "Alenka Ríos"
+    },
+    {
+     "c": "Iris",
+     "n": "Steph Bumelcrownd"
+    },
+    {
+     "c": "Diana",
+     "n": "Andrea Pedrero"
+    },
+    {
+     "c": "Andrea",
+     "n": "Kariam Castro"
+    },
+    {
+     "c": "Alejandra",
+     "n": "Denis Montes"
+    },
+    {
+     "c": "Frida",
+     "n": "Eva Luna Marenco"
+    },
+    {
+     "c": "Patricia",
+     "n": "Natalia Zurita"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Guillermo Ríos"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Romance"
+   ],
+   "id": 114168,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Something terrible is happening in class 3A at Calmecatl Junior High. No one can leave the classroom until the guilty party is found. This is the device that gives us a glimpse of the ethics, games, esthetics and eroticism of these girl-women. It is not easy to say what the subject is, there are so many: the discovery of sexuality, discrimination, chance, drugs, maternity, traditions, betrayals, power, love. A mural of a complex reality from the point of view of twenty-something women in the skin of 14 to 15 year old girls.",
+   "popularity": 1.9755,
+   "poster_path": "/jrJrgwFjAyzkZLiaU5dA8o1hcUA.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2011-03-04",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Do your parents know?",
+   "title": "Perras",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.293,
+   "vote_count": 321
   },
   "movie:11468": {
    "backdrop_path": "/mGhz7vE2EvWm6MfFqPJXDidNgAY.jpg",
@@ -2005,6 +2201,171 @@
    "vote_average": 5.8,
    "vote_count": 344
   },
+  "movie:244268": {
+   "backdrop_path": "/8Jcd5t7VBnor1INXpZox0CYZIpa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ben",
+     "n": "John Lithgow"
+    },
+    {
+     "c": "George",
+     "n": "Alfred Molina"
+    },
+    {
+     "c": "Kate",
+     "n": "Marisa Tomei"
+    },
+    {
+     "c": "Elliot",
+     "n": "Darren E. Burrows"
+    },
+    {
+     "c": "Joey",
+     "n": "Charlie Tahan"
+    },
+    {
+     "c": "Ted",
+     "n": "Cheyenne Jackson"
+    },
+    {
+     "c": "Roberto",
+     "n": "Manny Perez"
+    },
+    {
+     "c": "Mindy",
+     "n": "Christina Kirk"
+    },
+    {
+     "c": "Doreen",
+     "n": "Tank Burt"
+    },
+    {
+     "c": "Ian",
+     "n": "Christian Coulson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ira Sachs"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 244268,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After 39 years together, Ben and George finally tie the knot, but George loses his job as a result, and the newlyweds must sell their New York apartment and live apart, relying on friends and family to make ends meet.",
+   "popularity": 1.7609,
+   "poster_path": "/5nkM5aUSTMvXudUB3M0FgZ6voqD.jpg",
+   "production_countries": [
+    "US",
+    "GR",
+    "BR"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-08-22",
+   "revenue": 2262223,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Love Is Strange",
+   "trailer": {
+    "key": "FY4fkcbSfKg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 321
+  },
   "movie:25468": {
    "backdrop_path": "/r3zwnGMmRb7LaDNQluHVXAkZNoY.jpg",
    "budget": 475000,
@@ -2714,6 +3075,182 @@
    "vote_average": 7.575,
    "vote_count": 386
   },
+  "movie:366668": {
+   "backdrop_path": "/9RykqvfLhZ47ZHEmQUjyMI64zDm.jpg",
+   "budget": 75000000,
+   "cast": [
+    {
+     "c": "Marla",
+     "n": "Anya Taylor-Joy"
+    },
+    {
+     "c": "Del (voice)",
+     "n": "Jim Gaffigan"
+    },
+    {
+     "c": "Charlie",
+     "n": "Gabriel Bateman"
+    },
+    {
+     "c": "Emperor Maximus (voice)",
+     "n": "Adam Lambert"
+    },
+    {
+     "c": "Bloodbones (voice)",
+     "n": "Kenan Thompson"
+    },
+    {
+     "c": "Fairy Godmother (voice)",
+     "n": "Meghan Trainor"
+    },
+    {
+     "c": "Rex Dasher (voice)",
+     "n": "Daniel Radcliffe"
+    },
+    {
+     "c": "Valera (voice)",
+     "n": "Paloma Rodríguez"
+    },
+    {
+     "c": "Glinara (voice)",
+     "n": "Maddie Taylor"
+    },
+    {
+     "c": "Robotitron (voice)",
+     "n": "Lino DiSalvo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Lino DiSalvo"
+   ],
+   "genres": [
+    "Family",
+    "Animation",
+    "Comedy",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 366668,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Marla is forced to abandon her carefully structured life to embark on an epic journey to find her younger brother Charlie who has disappeared into the vast and wondrous animated world of Playmobil toys.",
+   "popularity": 2.9941,
+   "poster_path": "/zPQzLZnfVw9fbXyxxglyOsmQBlu.jpg",
+   "production_countries": [
+    "CA",
+    "DE",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-06-10",
+   "revenue": 16349303,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Let adventure lead you home.",
+   "title": "Playmobil: The Movie",
+   "trailer": {
+    "key": "xgyP9GG9Ecw",
+    "name": "PLAYMOBIL: THE MOVIE - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.749,
+   "vote_count": 323
+  },
   "movie:37768": {
    "backdrop_path": "/mdyeJRmLW3IPCo0e1oEmR8WBklm.jpg",
    "budget": 0,
@@ -3066,6 +3603,94 @@
    "type": "movie",
    "vote_average": 5.758,
    "vote_count": 404
+  },
+  "movie:44268": {
+   "backdrop_path": "/ga8A76kyH4MhDEeIKx4xgeY75y8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ugo Fantozzi",
+     "n": "Paolo Villaggio"
+    },
+    {
+     "c": "Pina Fantozzi",
+     "n": "Liù Bosisio"
+    },
+    {
+     "c": "Filini",
+     "n": "Gigi Reder"
+    },
+    {
+     "c": "Mariangela Fantozzi",
+     "n": "Plinio Fernando"
+    },
+    {
+     "c": "Compagna dell'antagonista",
+     "n": "Eva-Lena Lundgren"
+    },
+    {
+     "c": "Antagonista di Fantozzi",
+     "n": "Luc Merenda"
+    },
+    {
+     "c": "Canottiere Corsi",
+     "n": "Jimmy il Fenomeno"
+    },
+    {
+     "c": "uomo sull'autobus",
+     "n": "Omero Capanna"
+    },
+    {
+     "c": "Dio / Primo Narratore",
+     "n": "Michele Kalamera"
+    },
+    {
+     "c": "Adamo / Soldato Greco / Pretoriano / Cavaliere Nero / Robin Hood / Condannato alla ghigliottina / Gran Farabut Lupman Duca Modestino Balabam / Ufficiale Giapponese / Direttore Siderale",
+     "n": "Gino La Monica"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Neri Parenti"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 44268,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Superfantozzi (1986) is an Italian film from 1986. It is the fifth film in the saga of the unlucky clerk Ugo Fantozzi, played by its creator, Paolo Villaggio. In this film, Fantozzi is portrayed in a surreal historical journey, from Genesis to 1980s.",
+   "popularity": 0.7725,
+   "poster_path": "/rS6SZB9cIlVT6mxSGH9ZyEuLhhP.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1986-12-23",
+   "revenue": 0,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Super Fantozzi",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.296,
+   "vote_count": 329
   },
   "movie:476968": {
    "backdrop_path": "/uk9YSV4GT4iZ9FS5tOJCOmub8GQ.jpg",
@@ -3514,6 +4139,95 @@
    "type": "movie",
    "vote_average": 5.3,
    "vote_count": 446
+  },
+  "movie:612368": {
+   "backdrop_path": "/7I2OsWdv9rEgH7ajRLqAs9TsJWu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Pierre Jarjeau",
+     "n": "Guillaume Canet"
+    },
+    {
+     "c": "Claire Jarjeau",
+     "n": "Veerle Baetens"
+    },
+    {
+     "c": "Thomas Jarjeau",
+     "n": "Anthony Bajon"
+    },
+    {
+     "c": "Jacques Jarjeau",
+     "n": "Rufus"
+    },
+    {
+     "c": "Mehdi",
+     "n": "Samir Guesmi"
+    },
+    {
+     "c": "Emma Jarjeau",
+     "n": "Yona Kervern"
+    },
+    {
+     "c": "Rémy",
+     "n": "Solal Forte"
+    },
+    {
+     "c": "Martine Jarjeau",
+     "n": "Marie-Christine Orry"
+    },
+    {
+     "c": "Notary",
+     "n": "Emmanuel Courcol"
+    },
+    {
+     "c": "Doctor",
+     "n": "Michel Lerousseau"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Édouard Bergeon"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 612368,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Pierre is 25 when he returns from Wyoming to his fiancée and take over the family farm. Twenty years later, the farm expanded and so did the family. It's the time of happy days, at least at the beginning. The debts accumulate and Pierre is exhausted at work. Despite the love of his wife and children, he is slowly falling...",
+   "popularity": 1.2288,
+   "poster_path": "/4n4Mrn3StPtzWu8IOBII4k1T127.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2019-09-25",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "In the Name of the Land",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.178,
+   "vote_count": 325
   },
   "movie:613868": {
    "backdrop_path": "/1QrEQHXX8nqquTBam25HiMrTRTH.jpg",
@@ -4091,6 +4805,236 @@
    "vote_average": 5.46,
    "vote_count": 354
   },
+  "movie:87368": {
+   "backdrop_path": "/nc2zXyrhMGhopIUyd5uqST4PqdP.jpg",
+   "budget": 4141459,
+   "cast": [
+    {
+     "c": "Camille",
+     "n": "Louise Grinberg"
+    },
+    {
+     "c": "Julia",
+     "n": "Juliette Darche"
+    },
+    {
+     "c": "Florence",
+     "n": "Roxane Duran"
+    },
+    {
+     "c": "Flavie",
+     "n": "Esther Garrel"
+    },
+    {
+     "c": "Clémentine",
+     "n": "Yara Pilartz"
+    },
+    {
+     "c": "Mathilde",
+     "n": "Solène Rigot"
+    },
+    {
+     "c": "School Nurse",
+     "n": "Noémie Lvovsky"
+    },
+    {
+     "c": "Camille's Mother",
+     "n": "Florence Thomassin"
+    },
+    {
+     "c": "Principal",
+     "n": "Carlo Brandt"
+    },
+    {
+     "c": "Florian",
+     "n": "Frédéric Noaille"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Muriel Coulin",
+    "Delphine Coulin"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 87368,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "When Camille accidentally becomes pregnant, she encourages her friends and fellow high school classmates to follow suit. It's only a matter of time, before seventeen girls in the high school are pregnant and the town is thrown into a world of chaos.",
+   "popularity": 0.8613,
+   "poster_path": "/sej5qgyMyDnYk0Wl1gzwLH48lS0.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Strand Releasing Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ugFLagb0elt6ssH89oY85UxXd4d.png",
+     "name": "Strand Releasing Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-06-13",
+   "revenue": 201607,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "17 Girls",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.461,
+   "vote_count": 333
+  },
+  "movie:911068": {
+   "backdrop_path": "/hMlP3wwX45qlJeY8d5A9SWwUb8V.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tennyson Foss OBE",
+     "n": "Hugh Grant"
+    },
+    {
+     "c": "Duke Goolies",
+     "n": "Joe Keery"
+    },
+    {
+     "c": "Zero Fournine",
+     "n": "William Jackson Harper"
+    },
+    {
+     "c": "Snook Austin",
+     "n": "Lucy Liu"
+    },
+    {
+     "c": "Madison Madison",
+     "n": "Tracey Ullman"
+    },
+    {
+     "c": "Pyrex Flask",
+     "n": "Samson Kayo"
+    },
+    {
+     "c": "Penn Parker",
+     "n": "Stockard Channing"
+    },
+    {
+     "c": "Kathy Flowers",
+     "n": "Cristin Milioti"
+    },
+    {
+     "c": "Gemma Nerrick",
+     "n": "Diane Morgan"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Laurence Fishburne"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Josh Ruben",
+    "Jack Clough"
+   ],
+   "genres": [
+    "Comedy",
+    "Documentary"
+   ],
+   "id": 911068,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This comedic retrospective mixes archival footage and scripted sketches as it revisits all the dread — and occasional delight — that 2021 had to offer.",
+   "popularity": 2.3185,
+   "poster_path": "/qGt48Z1j4TuzPti8ZNWqqypa6w.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-12-27",
+   "revenue": 0,
+   "runtime": 60,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Death to 2021",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.984,
+   "vote_count": 322
+  },
   "movie:9568": {
    "backdrop_path": "/25pNPKtYHtZFLsJ71SC5skiXJAe.jpg",
    "budget": 700000,
@@ -4193,6 +5137,159 @@
    "type": "movie",
    "vote_average": 5.5,
    "vote_count": 348
+  },
+  "movie:9968": {
+   "backdrop_path": "/swiMDuuplzAxOw9SGCyGKNCqQxD.jpg",
+   "budget": 14000000,
+   "cast": [
+    {
+     "c": "Paul Barnell",
+     "n": "Robin Williams"
+    },
+    {
+     "c": "Margaret Barnell",
+     "n": "Holly Hunter"
+    },
+    {
+     "c": "Ted",
+     "n": "Giovanni Ribisi"
+    },
+    {
+     "c": "Gary",
+     "n": "Tim Blake Nelson"
+    },
+    {
+     "c": "Jimbo",
+     "n": "W. Earl Brown"
+    },
+    {
+     "c": "Raymond Barnell",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Tiffany",
+     "n": "Alison Lohman"
+    },
+    {
+     "c": "Avis",
+     "n": "Marina Stephenson Kerr"
+    },
+    {
+     "c": "Cam",
+     "n": "Billy Merasty"
+    },
+    {
+     "c": "Mr. Branch",
+     "n": "Ralph Alderman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Mark Mylod"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "id": 9968,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB",
+    "CA",
+    "NZ"
+   ],
+   "original_language": "en",
+   "overview": "To remedy his financial problems, a travel agent has his eye on a frozen corpse, which just happens to be sought after by two hitmen.",
+   "popularity": 1.477,
+   "poster_path": "/cdBbDH4eqN9CvRmkjkUQxszPArF.jpg",
+   "production_countries": [
+    "CA",
+    "DE",
+    "NZ",
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-10-27",
+   "revenue": 541840,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "When you need somebody, anybody will do.",
+   "title": "The Big White",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 338
   },
   "tv:1668": {
    "backdrop_path": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",

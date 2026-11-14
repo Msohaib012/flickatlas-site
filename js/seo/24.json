@@ -1,6 +1,6 @@
 {
  "bucket": "24",
- "count": 43,
+ "count": 50,
  "titles": {
   "movie:10424": {
    "d": "Jennifer Eight (1992): Crime/Drama film. Story: John Berlin, a big-city cop from LA moves to a… See cast, budget $20M, and TMDB rating 6.1/10.",
@@ -66,6 +66,69 @@
    "t": "Jennifer Eight (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1992"
   },
+  "movie:1064024": {
+   "d": "Locked In (2023): Thriller film. Story: A kindly nurse tries to unlock the secrets of a coma… See cast, TMDB rating 5.2/10, and release date 1 November 2023.",
+   "img": "https://image.tmdb.org/t/p/w780/sBY1M68pNdR30EXJnP9s5V104cF.jpg",
+   "industry": "world",
+   "k": "Locked In, Locked In movie, Locked In cast, Locked In story, Locked In box office collection, Locked In budget, Locked In review, Locked In rating, Locked In release date, Locked In trailer, Locked In Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Famke Janssen"
+     },
+     {
+      "@type": "Person",
+      "name": "Rose Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Alex Hassell"
+     },
+     {
+      "@type": "Person",
+      "name": "Finn Cole"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Friel"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 316,
+     "ratingValue": 5.2,
+     "worstRating": 0
+    },
+    "description": "Locked In (2023): Thriller film. Story: A kindly nurse tries to unlock the secrets of a coma… See cast, TMDB rating 5.2/10, and release date 1 November 2023.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nour Wazzi"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sBY1M68pNdR30EXJnP9s5V104cF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1064024",
+    "name": "Locked In",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-11-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1064024"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Locked In (2023)</h1>\n<p class=\"ssr-lead\">A kindly nurse tries to unlock the secrets of a coma patient&#x27;s injuries — and discovers the bitter rivalry, infidelity, betrayal and murder behind them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 November 2023</li><li>Runtime: 96 minutes</li><li>Director: Nour Wazzi</li><li>Genres: Thriller</li><li>TMDB rating: 5.2/10 (316 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Famke Janssen as Katherine Carter</li><li>Rose Williams as Lina Carter</li><li>Alex Hassell as Dr. Robert Lawrence</li><li>Finn Cole as Jamie Carter</li><li>Anna Friel as Nurse Nicky Mackenzie</li><li>Georgia Thorne as Young Lina</li><li>Toby Ryan as Young Jamie</li><li>Karl Collins as Neurosurgeon</li><li>Lesley Molony as Doctor</li><li>Chris Hallaways as First Arborist</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Locked In (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
   "movie:10824": {
    "d": "Candyman: Farewell to the Flesh (1995): Horror/Thriller film. Story: Annie, a young schoolteacher struggling to solve the… See cast and TMDB rating 5.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/tMZ2iT1bu4zWNVzeQ8SZ040VQfG.jpg",
@@ -129,6 +192,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Candyman: Farewell to the Flesh (1995)</h1>\n<p class=\"ssr-lead\">Annie, a young schoolteacher struggling to solve the brutal murder of her father, unwittingly summons the &quot;Candyman&quot; to New Orleans, where she learns the secret of his power, and discovers the link that connects them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 March 1995</li><li>Runtime: 95 minutes</li><li>Director: Bill Condon</li><li>Genres: Horror, Thriller</li><li>TMDB rating: 5.5/10 (444 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tony Todd as Candyman / Daniel Robitaille</li><li>Kelly Rowan as Annie Tarrant</li><li>William O&#x27;Leary as Ethan Tarrant</li><li>Bill Nunn as Reverend Ellis</li><li>David Gianopoulos as Detective Ray Levesque</li><li>Matt Clark as Honore Thibideaux</li><li>Timothy Carhart as Paul McKeever</li><li>Veronica Cartwright as Octavia Tarrant</li><li>Fay Hauser as Pam Carver</li><li>Joshua Gibran Mayweather as Matthew Ellis</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, AMC, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Candyman: Farewell to the Flesh (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1995"
+  },
+  "movie:1254624": {
+   "d": "Night Always Comes (2025): Drama/Crime film. Story: Facing eviction in a city her family can no longer… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cVqQdzqo0ymSFJqU87bIiHV8bA7.jpg",
+   "industry": "world",
+   "k": "Night Always Comes, Night Always Comes movie, Night Always Comes cast, Night Always Comes story, Night Always Comes box office collection, Night Always Comes budget, Night Always Comes review, Night Always Comes rating, Night Always Comes release date, Night Always Comes trailer, Night Always Comes Drama, Night Always Comes Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vanessa Kirby"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Jason Leigh"
+     },
+     {
+      "@type": "Person",
+      "name": "Zack Gottsagen"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephan James"
+     },
+     {
+      "@type": "Person",
+      "name": "Julia Fox"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 311,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Night Always Comes (2025): Drama/Crime film. Story: Facing eviction in a city her family can no longer… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Benjamin Caron"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cVqQdzqo0ymSFJqU87bIiHV8bA7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1254624",
+    "name": "Night Always Comes",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-08-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1254624"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Night Always Comes (2025)</h1>\n<p class=\"ssr-lead\">Facing eviction in a city her family can no longer afford, a woman plunges into a desperate and increasingly dangerous all-night search to raise $25,000.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 August 2025</li><li>Runtime: 108 minutes</li><li>Director: Benjamin Caron</li><li>Genres: Drama, Crime, Thriller</li><li>TMDB rating: 6.1/10 (311 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vanessa Kirby as Lynette</li><li>Jennifer Jason Leigh as Doreen</li><li>Zack Gottsagen as Kenny</li><li>Stephan James as Cody</li><li>Julia Fox as Gloria</li><li>Eli Roth as Blake</li><li>Randall Park as Scott</li><li>Michael Kelly as Tommy</li><li>J. Claude Deering as David</li><li>Dana Millican as Rebecca</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Night Always Comes (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:13824": {
+   "d": "Superstar (1999): Comedy/Romance film. Story: Orphan Mary Katherine Gallagher, an ugly duckling at… See cast, budget $14M, and TMDB rating 5.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/iTjl4y7ZOP79GBMAiNtqz6mpAxq.jpg",
+   "industry": "world",
+   "k": "Superstar, Superstar movie, Superstar cast, Superstar story, Superstar box office collection, Superstar budget, Superstar review, Superstar rating, Superstar release date, Superstar Comedy, Superstar Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Molly Shannon"
+     },
+     {
+      "@type": "Person",
+      "name": "Will Ferrell"
+     },
+     {
+      "@type": "Person",
+      "name": "Elaine Hendrix"
+     },
+     {
+      "@type": "Person",
+      "name": "Harland Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark McKinney"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 335,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "Superstar (1999): Comedy/Romance film. Story: Orphan Mary Katherine Gallagher, an ugly duckling at… See cast, budget $14M, and TMDB rating 5.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bruce McCulloch"
+     }
+    ],
+    "duration": "PT82M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iTjl4y7ZOP79GBMAiNtqz6mpAxq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13824",
+    "name": "Superstar",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1999-10-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13824"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Superstar (1999)</h1>\n<p class=\"ssr-lead\">Orphan Mary Katherine Gallagher, an ugly duckling at St. Monica High School, has a dream: to be kissed soulfully. She decides she can realize this dream if she becomes a superstar, so her prayers, her fantasies and her conversations with her only friend focus on achieving super-stardom.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 October 1999</li><li>Runtime: 82 minutes</li><li>Director: Bruce McCulloch</li><li>Genres: Comedy, Romance</li><li>Budget: $14M</li><li>TMDB rating: 5.3/10 (335 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Molly Shannon as Mary Katherine Gallagher</li><li>Will Ferrell as Sky Corrigan / Jesus</li><li>Elaine Hendrix as Evian</li><li>Harland Williams as Slater</li><li>Mark McKinney as Father Ritley</li><li>Glynis Johns as Grandma</li><li>Jason Blicker as Howard</li><li>Gerry Bamman as Father John</li><li>Emmy Laybourne as Helen</li><li>Jennifer Irwin as Maria</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Superstar (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1999"
   },
   "movie:13924": {
    "d": "The Adventures of André and Wally B. (1984): Family/Animation film. Story: There's nothing like a restful nap in a pleasant… See cast and TMDB rating 5.2/10.",
@@ -234,6 +425,70 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Virgin Territory (2007)</h1>\n<p class=\"ssr-lead\">In Black Death era Tuscany, as in the Decameron, ten young Florentines take refuge from the plague. But instead of telling stories, they have lusty adventures, bawdy exchanges, romance, swordplay, randy nuns, Saracen pirates, and a sexy cow.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 December 2007</li><li>Runtime: 93 minutes</li><li>Director: David Leland</li><li>Genres: Adventure, Action, Comedy, Romance</li><li>Budget: $38M</li><li>TMDB rating: 5.0/10 (392 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hayden Christensen as Lorenzo</li><li>Mischa Barton as Pampinea</li><li>Kate Groombridge as Elissa</li><li>Rosalind Halstead as Filomena</li><li>Tim Roth as Gerbino</li><li>Matthew Rhys as Count Dzerzhinsky</li><li>Ryan Cartwright as Ghino</li><li>Christopher Egan as Dioneo</li><li>Anna Galiena as The Abbess</li><li>Silvia Colloca as Sister Lisabetta</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "Virgin Territory (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
+  "movie:14424": {
+   "d": "Sex and Death 101 (2007): Comedy/Romance film. Story: A guy's life is turned around by an email, which… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sq3tSAD9YVyeSxYxoTrXug4Al1S.jpg",
+   "industry": "world",
+   "k": "Sex and Death 101, Sex and Death 101 movie, Sex and Death 101 cast, Sex and Death 101 story, Sex and Death 101 box office collection, Sex and Death 101 budget, Sex and Death 101 review, Sex and Death 101 rating, Sex and Death 101 release date, Sex and Death 101 Comedy, Sex and Death 101 Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Simon Baker"
+     },
+     {
+      "@type": "Person",
+      "name": "Winona Ryder"
+     },
+     {
+      "@type": "Person",
+      "name": "Leslie Bibb"
+     },
+     {
+      "@type": "Person",
+      "name": "Mindy Cohn"
+     },
+     {
+      "@type": "Person",
+      "name": "Julie Bowen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 325,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Sex and Death 101 (2007): Comedy/Romance film. Story: A guy's life is turned around by an email, which… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Daniel Waters"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sq3tSAD9YVyeSxYxoTrXug4Al1S.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14424",
+    "name": "Sex and Death 101",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-06-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14424"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sex and Death 101 (2007)</h1>\n<p class=\"ssr-lead\">A guy&#x27;s life is turned around by an email, which includes the names of everyone he&#x27;s had sex with and ever will have sex with. His situation gets worse when he encounters a femme fatale who targets men guilty of sex crime.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 June 2007</li><li>Runtime: 117 minutes</li><li>Director: Daniel Waters</li><li>Genres: Comedy, Romance, Drama</li><li>TMDB rating: 6.1/10 (325 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Simon Baker as Roderick Blank</li><li>Winona Ryder as Death Nell / Gillian De Raisx (#101)</li><li>Leslie Bibb as Dr. Miranda Storm</li><li>Mindy Cohn as Trixie</li><li>Julie Bowen as Fiona Wormwood (#29)</li><li>Dash Mihok as Lester</li><li>Neil Flynn as Zack</li><li>Patton Oswalt as Fred</li><li>Frances Fisher as Hope Hartlight (#80)</li><li>Robert Wisdom as Alpha</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Sex and Death 101 (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
   },
   "movie:1471224": {
@@ -685,6 +940,70 @@
    "t": "Welcome to the Jungle (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
   },
+  "movie:21724": {
+   "d": "Dance Flick (2009): Music/Comedy film. Story: Street dancer Thomas Uncles is from the wrong side of… See cast, budget $25M, and TMDB rating 5.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yTg0O6dYknEp3yPDnsI1jp4Aj8T.jpg",
+   "industry": "world",
+   "k": "Dance Flick, Dance Flick movie, Dance Flick cast, Dance Flick story, Dance Flick box office collection, Dance Flick budget, Dance Flick review, Dance Flick rating, Dance Flick release date, Dance Flick Music, Dance Flick Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shoshana Bush"
+     },
+     {
+      "@type": "Person",
+      "name": "Damon Wayans Jr."
+     },
+     {
+      "@type": "Person",
+      "name": "Essence Atkins"
+     },
+     {
+      "@type": "Person",
+      "name": "Affion Crockett"
+     },
+     {
+      "@type": "Person",
+      "name": "David Alan Grier"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 316,
+     "ratingValue": 5.0,
+     "worstRating": 0
+    },
+    "description": "Dance Flick (2009): Music/Comedy film. Story: Street dancer Thomas Uncles is from the wrong side of… See cast, budget $25M, and TMDB rating 5.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Damien Dante Wayans"
+     }
+    ],
+    "duration": "PT83M",
+    "genre": [
+     "Music",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yTg0O6dYknEp3yPDnsI1jp4Aj8T.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=21724",
+    "name": "Dance Flick",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-05-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=21724"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dance Flick (2009)</h1>\n<p class=\"ssr-lead\">Street dancer Thomas Uncles is from the wrong side of the tracks, but his bond with the beautiful Megan White might help the duo realize their dreams as they enter in the mother of all dance battles.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 May 2009</li><li>Runtime: 83 minutes</li><li>Director: Damien Dante Wayans</li><li>Genres: Music, Comedy</li><li>Budget: $25M</li><li>TMDB rating: 5.0/10 (316 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shoshana Bush as Megan</li><li>Damon Wayans Jr. as Thomas</li><li>Essence Atkins as Charity</li><li>Affion Crockett as A-Con</li><li>David Alan Grier as Sugar Bear</li><li>Shawn Wayans as Baby Daddy</li><li>Amy Sedaris as Ms. Cameltoé</li><li>Christina Murphy as Nora</li><li>Chris Elliott as Ron</li><li>Keenen Ivory Wayans as Mr. Stache</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Dance Flick (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
   "movie:24124": {
    "d": "The Burning (1981): Horror film. Story: A caretaker at a summer camp is burned when a prank… See cast, budget $1.5M, and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/hkt9cbyS3gRkiBqc9a8oukd3oXt.jpg",
@@ -876,6 +1195,70 @@
    "t": "The Overnight (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:33624": {
+   "d": "Double zéro (2004): Adventure/Comedy film. Story: Ben and Bill are the two worst, completely useless… See cast and TMDB rating 4.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vLkWOUeqIt1HBxBwXM9Rg0zGc0X.jpg",
+   "industry": "world",
+   "k": "Double zéro, Double zéro movie, Double zéro cast, Double zéro story, Double zéro box office collection, Double zéro budget, Double zéro review, Double zéro rating, Double zéro release date, Double zéro Adventure, Double zéro Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Éric Judor"
+     },
+     {
+      "@type": "Person",
+      "name": "Ramzy Bedia"
+     },
+     {
+      "@type": "Person",
+      "name": "Édouard Baer"
+     },
+     {
+      "@type": "Person",
+      "name": "Georgianna Robertson"
+     },
+     {
+      "@type": "Person",
+      "name": "François Chattot"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 321,
+     "ratingValue": 4.8,
+     "worstRating": 0
+    },
+    "description": "Double zéro (2004): Adventure/Comedy film. Story: Ben and Bill are the two worst, completely useless… See cast and TMDB rating 4.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gérard Pirès"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Adventure",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vLkWOUeqIt1HBxBwXM9Rg0zGc0X.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=33624",
+    "name": "Double zéro",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-06-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=33624"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Double zéro (2004)</h1>\n<p class=\"ssr-lead\">Ben and Bill are the two worst, completely useless agents - real losers. But who else would you send on a super-difficult top-secret mission? The French have just sold a new high-power M51 rocket to the Russians for crazy money. Unfortunately for them, the rocket was hijacked before they could get it of their hands. However, not just any fool is up to neutralizing this threat, but only the craziest and most stupid of them can cope with such a task.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 June 2004</li><li>Runtime: 90 minutes</li><li>Director: Gérard Pirès</li><li>Genres: Adventure, Comedy</li><li>TMDB rating: 4.8/10 (321 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Éric Judor as Benoît &quot;Ben&quot; Rivière</li><li>Ramzy Bedia as William &quot;Will&quot; Le Sauvage</li><li>Édouard Baer as le Mâle</li><li>Georgianna Robertson as Natty Dreads</li><li>François Chattot as Bob d&#x27;Auckland</li><li>Didier Flamand as Pierre de Franqueville</li><li>Rossy de Palma as Le Monocle</li><li>Nino Kirtadzé as Maman Mâle</li><li>François Berland as Papa Mâle</li><li>Inna Zobova as Alexandrie Bogdanova</li></ul>\n</article>",
+   "t": "Double zéro (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
+  },
   "movie:380124": {
    "d": "Boo! A Madea Halloween (2016): Comedy/Horror film. Story: Madea winds up in the middle of mayhem when she… See cast, budget $20M, and TMDB rating 5.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/2fC29LRezRnpQwnbjxXSO7dakb.jpg",
@@ -939,6 +1322,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Boo! A Madea Halloween (2016)</h1>\n<p class=\"ssr-lead\">Madea winds up in the middle of mayhem when she spends a hilarious, haunted Halloween fending off killers, paranormal poltergeists, ghosts, ghouls, and zombies while keeping a watchful eye on a group of misbehaving teens.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 October 2016</li><li>Runtime: 103 minutes</li><li>Director: Tyler Perry</li><li>Genres: Comedy, Horror</li><li>Budget: $20M</li><li>TMDB rating: 5.8/10 (444 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tyler Perry as Mabel &quot;Madea&quot; Simmons / Uncle Joe Simmons / Brian Simmons</li><li>Cassi Davis as Betty Ann &quot;Aunt Bam&quot; Murphy</li><li>Diamond White as Tiffany Simmons</li><li>Yousef Erakat as Jonathan</li><li>Bella Thorne as Rain Mathison</li><li>Liza Koshy as Aday Walker</li><li>Patrice Lovely as Hattie Mae Love</li><li>Lexy Panterra as Leah Devereaux</li><li>Andre Hall as Quinton</li><li>Brock O&#x27;Hurn as Horse</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Movie Sphere+</li><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Boo! A Madea Halloween (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
+  },
+  "movie:45324": {
+   "d": "Casino Jack (2010): Comedy/Crime film. Story: Based on a true story, a hot shot Washington DC… See cast, budget $12.5M, and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/oRRUH6ckp2nQBexR4k6XQvKKcSE.jpg",
+   "industry": "world",
+   "k": "Casino Jack, Casino Jack movie, Casino Jack cast, Casino Jack story, Casino Jack box office collection, Casino Jack budget, Casino Jack review, Casino Jack rating, Casino Jack release date, Casino Jack trailer, Casino Jack Comedy, Casino Jack Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kevin Spacey"
+     },
+     {
+      "@type": "Person",
+      "name": "Kelly Preston"
+     },
+     {
+      "@type": "Person",
+      "name": "Hannah Endicott-Douglas"
+     },
+     {
+      "@type": "Person",
+      "name": "Rachelle Lefevre"
+     },
+     {
+      "@type": "Person",
+      "name": "Barry Pepper"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 339,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Casino Jack (2010): Comedy/Crime film. Story: Based on a true story, a hot shot Washington DC… See cast, budget $12.5M, and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "George Hickenlooper"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oRRUH6ckp2nQBexR4k6XQvKKcSE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=45324",
+    "name": "Casino Jack",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-09-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=45324"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Casino Jack (2010)</h1>\n<p class=\"ssr-lead\">Based on a true story, a hot shot Washington DC lobbyist and his protégé go down hard as their schemes to peddle influence lead to corruption and murder.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 September 2010</li><li>Runtime: 108 minutes</li><li>Director: George Hickenlooper</li><li>Genres: Comedy, Crime, Drama</li><li>Budget: $12.5M</li><li>TMDB rating: 5.9/10 (339 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kevin Spacey as Jack Abramoff</li><li>Kelly Preston as Pam Abramoff</li><li>Hannah Endicott-Douglas as Sarah Abramoff</li><li>Rachelle Lefevre as Emily Miller</li><li>Barry Pepper as Michael Scanlon</li><li>Spencer Garrett as Tom DeLay</li><li>Jon Lovitz as Adam Kidan</li><li>Eric Schweig as Chief Poncho</li><li>Yannick Bisson as Oscar Carillo</li><li>Maury Chaykin as Big Tony</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Casino Jack (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
   },
   "movie:467824": {
    "d": "Illang: The Wolf Brigade (2018): Science Fiction/Action film. Story: In 2029, an elite police squad combats an… See cast and budget $16.72M.",

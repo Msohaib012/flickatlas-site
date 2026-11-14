@@ -1,6 +1,6 @@
 {
  "bucket": "76",
- "count": 39,
+ "count": 48,
  "titles": {
   "movie:1005776": {
    "backdrop_path": "/zLUeVsiJ4mKlqSI7cB7lnxCzSbb.jpg",
@@ -547,6 +547,132 @@
    "vote_average": 7.788,
    "vote_count": 382
   },
+  "movie:116776": {
+   "backdrop_path": "/mhwqI7dKEjVwhTbILHM3tZyarTD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Son Goku (voice)",
+     "n": "Masako Nozawa"
+    },
+    {
+     "c": "Bulma (voice)",
+     "n": "Hiromi Tsuru"
+    },
+    {
+     "c": "Krillin (voice)",
+     "n": "Mayumi Tanaka"
+    },
+    {
+     "c": "Master Roshi (voice)",
+     "n": "Kohei Miyauchi"
+    },
+    {
+     "c": "Tenshinhan (voice)",
+     "n": "Hirotaka Suzuoki"
+    },
+    {
+     "c": "Chaozu (voice)",
+     "n": "Hiroko Emori"
+    },
+    {
+     "c": "Yamcha (voice)",
+     "n": "Toru Furuya"
+    },
+    {
+     "c": "Upa (voice)",
+     "n": "Mitsuko Horie"
+    },
+    {
+     "c": "Bora (voice)",
+     "n": "Banjo Ginga"
+    },
+    {
+     "c": "Arale Norimaki/Lunch (voice)",
+     "n": "Mami Koyama"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Kazuhisa Takenouchi"
+   ],
+   "genres": [
+    "Action",
+    "Animation"
+   ],
+   "id": 116776,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Master Roshi has succeeded at the one mission he valued most: to train Goku and Krillin to become ultimate fighters. So, he arranges for them to test their mettle at a competition hosted by Emperor Chiaotzu. Not everyone's playing by the rules, however, as a member of the ruler's household schemes to use the Dragonballs to extort money and power from the royal.",
+   "popularity": 2.5054,
+   "poster_path": "/4uPs9rjKkGWOmc5QO4VV08YdLpV.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-07-09",
+   "revenue": 9714846,
+   "runtime": 48,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Dragon Ball: Mystical Adventure",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 319
+  },
   "movie:1242876": {
    "backdrop_path": "/smTYZM6iSRwB9BJXFkOTQ0rG1VM.jpg",
    "budget": 0,
@@ -945,6 +1071,166 @@
    "type": "movie",
    "vote_average": 5.6,
    "vote_count": 57
+  },
+  "movie:13776": {
+   "backdrop_path": "/teiop9EWCTTlQ833jrhUPKkK5fs.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Edward 'Eddie' Simmons",
+     "n": "Steve Guttenberg"
+    },
+    {
+     "c": "Laurence 'Shrevie' Schreiber",
+     "n": "Daniel Stern"
+    },
+    {
+     "c": "Robert 'Boogie' Sheftell",
+     "n": "Mickey Rourke"
+    },
+    {
+     "c": "Timothy Fenwick Jr.",
+     "n": "Kevin Bacon"
+    },
+    {
+     "c": "William 'Billy' Howard",
+     "n": "Tim Daly"
+    },
+    {
+     "c": "Beth Schreiber",
+     "n": "Ellen Barkin"
+    },
+    {
+     "c": "Modell",
+     "n": "Paul Reiser"
+    },
+    {
+     "c": "Barbara",
+     "n": "Kathryn Dowling"
+    },
+    {
+     "c": "Bagel",
+     "n": "Michael Tucker"
+    },
+    {
+     "c": "Mrs. Simmons",
+     "n": "Jessica James"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Barry Levinson"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 13776,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set in 1959, Diner shows how five young men resist their adulthood and seek refuge in their beloved Diner. The mundane, childish, and titillating details of their lives are shared. But the golden moments pass, and the men shoulder their responsibilities, leaving the Diner behind.",
+   "popularity": 1.627,
+   "poster_path": "/2vKIdZ6JkFIzcQeaHg3xtdvOyRO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1982-03-05",
+   "revenue": 14100000,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Suddenly, life was more than French fries, gravy, and girls.",
+   "title": "Diner",
+   "trailer": {
+    "key": "__Q6_27KKEc",
+    "name": "Trailer 1",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.839,
+   "vote_count": 317
   },
   "movie:1413976": {
    "backdrop_path": "/zUninC7dOHfzwcgCqQMLQjlMtiy.jpg",
@@ -1454,6 +1740,113 @@
    "vote_average": 7.019,
    "vote_count": 396
   },
+  "movie:18176": {
+   "backdrop_path": "/w1eHjUmjHFZFaZM9tSiGcrLOsuL.jpg",
+   "budget": 11500000,
+   "cast": [
+    {
+     "c": "Bobby Funke",
+     "n": "Reece Thompson"
+    },
+    {
+     "c": "Francesca Fachini",
+     "n": "Mischa Barton"
+    },
+    {
+     "c": "Principal Jared T. Kirkpatrick",
+     "n": "Bruce Willis"
+    },
+    {
+     "c": "Paul Moore",
+     "n": "Patrick Taylor"
+    },
+    {
+     "c": "Clara Diaz",
+     "n": "Melonie Díaz"
+    },
+    {
+     "c": "Marlon Piazza",
+     "n": "Luke Grimes"
+    },
+    {
+     "c": "Coach Z",
+     "n": "Michael Rapaport"
+    },
+    {
+     "c": "Nurse Platt",
+     "n": "Kathryn Morris"
+    },
+    {
+     "c": "Padre Newell",
+     "n": "Josh Pais"
+    },
+    {
+     "c": "Tad Goltz",
+     "n": "Aaron Himelstein"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Brett Simon"
+   ],
+   "genres": [
+    "Comedy",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 18176,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the theft of copies of SAT exams from a principal's office, teenage reporter Bobby Funke sets out to unmask the thief.",
+   "popularity": 1.9882,
+   "poster_path": "/vHpyczADOGI0OXLliT4k4A1stFd.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2010-02-04",
+   "revenue": 69564,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Politics, popularity, paranoia, pharmaceuticals. Are you in?",
+   "title": "Assassination of a High School President",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.781,
+   "vote_count": 340
+  },
   "movie:19576": {
    "backdrop_path": "/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
    "budget": 0,
@@ -1545,6 +1938,117 @@
    "type": "movie",
    "vote_average": 7.046,
    "vote_count": 414
+  },
+  "movie:201676": {
+   "backdrop_path": "/sCCv0SGBFygz9CJYHuz012a0vHz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Twilight Sparkle (voice)",
+     "n": "Tara Strong"
+    },
+    {
+     "c": "Applejack / Rainbow Dash (voice)",
+     "n": "Ashleigh Ball"
+    },
+    {
+     "c": "Pinkie Pie / Fluttershy (voice)",
+     "n": "Andrea Libman"
+    },
+    {
+     "c": "Rarity / Princess Luna / Vice Principal Luna / Cup Cake (voice)",
+     "n": "Tabitha St. Germain"
+    },
+    {
+     "c": "Spike (voice)",
+     "n": "Cathy Weseluck"
+    },
+    {
+     "c": "Sunset Shimmer (voice) / Twilight Sparkle  (singing voice)",
+     "n": "Rebecca Shoichet"
+    },
+    {
+     "c": "Princess Cadance (voice)",
+     "n": "Britt McKillip"
+    },
+    {
+     "c": "Snips (voice)",
+     "n": "Lee Tockar"
+    },
+    {
+     "c": "Snails (voice)",
+     "n": "Richard Ian Cox"
+    },
+    {
+     "c": "Princess Celestia / Principal Celestia / Cheerilee (voice)",
+     "n": "Nicole Oliver"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Jayson Thiessen"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy",
+    "Music"
+   ],
+   "id": 201676,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Via a magic mirror, Twilight Sparkle travels into an alternate universe in order to recover a crown that was stolen from the Crystal Empire. Upon her arrival she is horrified to learn that she has turned into a human.",
+   "popularity": 2.7246,
+   "poster_path": "/3tQM3PUDn9i2iq0HP7yLlQsQ0ya.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-06-16",
+   "revenue": 485232,
+   "runtime": 72,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The magic of friendship never changes.",
+   "title": "My Little Pony: Equestria Girls",
+   "trailer": {
+    "key": "c3hBtBibN_M",
+    "name": "MLP: Equestria Girls - Official Movie Trailer (2013)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.5,
+   "vote_count": 316
   },
   "movie:242076": {
    "backdrop_path": "/fQUNZaqJTcG7ARwNfTMlwKS6Jgl.jpg",
@@ -2132,6 +2636,184 @@
    "vote_average": 6.743,
    "vote_count": 452
   },
+  "movie:28276": {
+   "backdrop_path": "/qH9wiXnx9mU9kNGCH1exaey9CqU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Heiichiro Fukui",
+     "n": "Keiji Sada"
+    },
+    {
+     "c": "Setsuko Arita",
+     "n": "Yoshiko Kuga"
+    },
+    {
+     "c": "Keitaro Hayashi",
+     "n": "Chishū Ryū"
+    },
+    {
+     "c": "Tamiko Hayashi",
+     "n": "Kuniko Miyake"
+    },
+    {
+     "c": "Kikue Haraguchi",
+     "n": "Haruko Sugimura"
+    },
+    {
+     "c": "Minoru Hayashi",
+     "n": "Kōji Shitara"
+    },
+    {
+     "c": "Isamu Hayashi",
+     "n": "Masahiko Shimazu"
+    },
+    {
+     "c": "Midori Maruyama",
+     "n": "Kyōko Izumi"
+    },
+    {
+     "c": "Pushy Man",
+     "n": "Taiji Tonoyama"
+    },
+    {
+     "c": "Shige Okubo",
+     "n": "Toyo Takahashi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TP",
+   "date_kind": "release",
+   "director": [
+    "Yasujirō Ozu"
+   ],
+   "genres": [
+    "Comedy",
+    "Family",
+    "Drama"
+   ],
+   "id": 28276,
+   "industry": "world",
+   "origin_country": [
+    "JP",
+    "RU"
+   ],
+   "original_language": "ja",
+   "overview": "Two boys beg their parents for a television set, nagging them until all patience is lost. The parents order the boys to be quiet and the boys do exactly that--refusing to utter a word. The boys' silence ultimately puts the whole neighborhood into turmoil.",
+   "popularity": 2.1143,
+   "poster_path": "/2j8XKswxHwKVluOk3DIBNU3Vl38.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1959-05-12",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Important things are hard to say.",
+   "title": "Good Morning",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.72,
+   "vote_count": 336
+  },
   "movie:337676": {
    "backdrop_path": "/jyvbxKsmIIYTQsjOCjnRYWyUEsa.jpg",
    "budget": 9898623,
@@ -2447,6 +3129,138 @@
    "vote_average": 5.6,
    "vote_count": 399
   },
+  "movie:527776": {
+   "backdrop_path": "/704pWRU1CihHgIIKRSAZD7juXQy.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "John Harrison",
+     "n": "Alex Kendrick"
+    },
+    {
+     "c": "Olivia Brooks",
+     "n": "Priscilla C. Shirer"
+    },
+    {
+     "c": "Thomas Hill",
+     "n": "Cameron Arnett"
+    },
+    {
+     "c": "Amy Harrison",
+     "n": "Shari Rigby"
+    },
+    {
+     "c": "Hannah Scott",
+     "n": "Aryn Wright-Thompson"
+    },
+    {
+     "c": "Barbara Scott",
+     "n": "Denise Armstrong"
+    },
+    {
+     "c": "Ethan Harrison",
+     "n": "Jack Sterner"
+    },
+    {
+     "c": "Will Harrison",
+     "n": "Caleb Kendrick"
+    },
+    {
+     "c": "Jeff Baker / Basketball Player / Referee",
+     "n": "Joshua Kendrick"
+    },
+    {
+     "c": "Knight's Coach",
+     "n": "Chuck Hasty"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Alex Kendrick"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 527776,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After reluctantly agreeing to coach cross-country, high school basketball Coach John Harrison helps the least likely runner attempt the impossible in the biggest race of the year.",
+   "popularity": 2.3201,
+   "poster_path": "/rVR3uN1yPRqYBBtNFSrEKCpRhaK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Angel Studios"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-08-22",
+   "revenue": 38026103,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "What do you allow to define you?",
+   "title": "Overcomer",
+   "trailer": {
+    "key": "w7DWf7ObFNI",
+    "name": "Overcomer Trailer - Now Playing",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.711,
+   "vote_count": 313
+  },
   "movie:536176": {
    "backdrop_path": "/eVLiY6ThGcgTa19dmOa8MtPQSLH.jpg",
    "budget": 0,
@@ -2551,6 +3365,118 @@
    "type": "movie",
    "vote_average": 6.605,
    "vote_count": 375
+  },
+  "movie:566076": {
+   "backdrop_path": "/k1gni8AVfAGNmZmv7vVHAFbNRkO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Billie Holiday",
+     "n": "Andra Day"
+    },
+    {
+     "c": "Jimmy Fletcher",
+     "n": "Trevante Rhodes"
+    },
+    {
+     "c": "Harry Anslinger",
+     "n": "Garrett Hedlund"
+    },
+    {
+     "c": "Reginald Lord Devine",
+     "n": "Leslie Jordan"
+    },
+    {
+     "c": "Miss Freddy",
+     "n": "Miss Lawrence"
+    },
+    {
+     "c": "Mrs. Fletcher",
+     "n": "Adriane Lenox"
+    },
+    {
+     "c": "Tallulah Bankhead",
+     "n": "Natasha Lyonne"
+    },
+    {
+     "c": "Louis McKay",
+     "n": "Rob Morgan"
+    },
+    {
+     "c": "Roslyn",
+     "n": "Da'Vine Joy Randolph"
+    },
+    {
+     "c": "Agent Williams",
+     "n": "Evan Ross"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Lee Daniels"
+   ],
+   "genres": [
+    "Music",
+    "Drama",
+    "History"
+   ],
+   "id": 566076,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Billie Holiday spent much of her career being adored by fans. In the 1940s, the government targeted Holiday in a growing effort to racialize the war on drugs, ultimately aiming to stop her from singing her controversial ballad, \"Strange Fruit.\"",
+   "popularity": 2.0639,
+   "poster_path": "/vEzkxuE2sJcmHYjXQHM8xvR9ICH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-03-31",
+   "revenue": 0,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "en",
+    "fr",
+    "de",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Her voice would not be silenced.",
+   "title": "The United States vs. Billie Holiday",
+   "trailer": {
+    "key": "USi-ppCfxEA",
+    "name": "The United States vs. Billie Holiday - Trailer (Official) • A Hulu Original",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 324
   },
   "movie:574376": {
    "backdrop_path": "/bd6NQDFpUoqNWWJ8eBBip3SR2kP.jpg",
@@ -2931,6 +3857,121 @@
    "vote_average": 6.1,
    "vote_count": 430
   },
+  "movie:926676": {
+   "backdrop_path": "/aZQR5Np9fZjck0HM3qYs1wUgwYD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Alexei Navalny"
+    },
+    {
+     "c": "Self",
+     "n": "Yulia Navalnaya"
+    },
+    {
+     "c": "Self",
+     "n": "Daria Navalnaya"
+    },
+    {
+     "c": "Self",
+     "n": "Zakhar Navalny"
+    },
+    {
+     "c": "Self",
+     "n": "Maria Pevchikh"
+    },
+    {
+     "c": "Self",
+     "n": "Christo Grozev"
+    },
+    {
+     "c": "Self",
+     "n": "Leonid Volkov"
+    },
+    {
+     "c": "Self",
+     "n": "Kira Yarmysh"
+    },
+    {
+     "c": "Self",
+     "n": "Georgy Alburov"
+    },
+    {
+     "c": "Self",
+     "n": "Anna Biryukova"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Daniel Roher"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 926676,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follows the man who survived an assassination attempt by poisoning with a lethal nerve agent in August 2020. During his months-long recovery, he makes shocking discoveries about the attempt on his life and decides to return home.",
+   "popularity": 1.3816,
+   "poster_path": "/9FXHNsqB4Wk9p42Yh0UtDflRY1f.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-04-08",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "de",
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Poison always leaves a trail.",
+   "title": "Navalny",
+   "trailer": {
+    "key": "cPRuvKqZty0",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.304,
+   "vote_count": 313
+  },
   "movie:948276": {
    "backdrop_path": "/707thQazLJiYLBhCrZlRoV05NNL.jpg",
    "budget": 0,
@@ -3040,6 +4081,122 @@
    "type": "movie",
    "vote_average": 6.515,
    "vote_count": 498
+  },
+  "movie:9776": {
+   "backdrop_path": "/12LmdeaGGitnPIdz9XcSlCQbuJ8.jpg",
+   "budget": 35200000,
+   "cast": [
+    {
+     "c": "Mays Gilliam",
+     "n": "Chris Rock"
+    },
+    {
+     "c": "Mitch Gilliam",
+     "n": "Bernie Mac"
+    },
+    {
+     "c": "Martin Geller",
+     "n": "Dylan Baker"
+    },
+    {
+     "c": "Brian Lewis",
+     "n": "Nick Searcy"
+    },
+    {
+     "c": "Debra Lassiter",
+     "n": "Lynn Whitfield"
+    },
+    {
+     "c": "Kim",
+     "n": "Robin Givens"
+    },
+    {
+     "c": "Lisa Clark",
+     "n": "Tamala Jones"
+    },
+    {
+     "c": "Senator Bill Arnot",
+     "n": "James Rebhorn"
+    },
+    {
+     "c": "Bernard Cooper",
+     "n": "Keith David"
+    },
+    {
+     "c": "Meat Man",
+     "n": "Tracy Morgan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Chris Rock"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 9776,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a presidential candidate dies unexpectedly in the middle of the campaign, the Democratic party unexpectedly picks a Washington, D.C. alderman as his replacement.",
+   "popularity": 2.0843,
+   "poster_path": "/5itBve85q2oXmiQ3SkgCJa5Asxq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-03-28",
+   "revenue": 37788228,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The only thing white is the house.",
+   "title": "Head of State",
+   "trailer": {
+    "key": "UT6ARbhTjiU",
+    "name": "Head of State - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.561,
+   "vote_count": 330
   },
   "tv:223876": {
    "backdrop_path": "/tAIfga2OoZE2qNUCu7JOzbupCD3.jpg",

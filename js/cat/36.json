@@ -1,6 +1,6 @@
 {
  "bucket": "36",
- "count": 40,
+ "count": 44,
  "titles": {
   "movie:11536": {
    "backdrop_path": "/uCH6NY9qstOLbBTGv0rWxB1oJJH.jpg",
@@ -476,6 +476,148 @@
    "type": "movie",
    "vote_average": 4.7,
    "vote_count": 20
+  },
+  "movie:1289936": {
+   "backdrop_path": "/jvzPTf0nhsqAXodYT6ILKb99IA2.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Lady Mary",
+     "n": "Michelle Dockery"
+    },
+    {
+     "c": "Robert Crawley",
+     "n": "Hugh Bonneville"
+    },
+    {
+     "c": "Cora Crawley",
+     "n": "Elizabeth McGovern"
+    },
+    {
+     "c": "Elsie Hughes",
+     "n": "Phyllis Logan"
+    },
+    {
+     "c": "Charles Carson",
+     "n": "Jim Carter"
+    },
+    {
+     "c": "Lady Edith",
+     "n": "Laura Carmichael"
+    },
+    {
+     "c": "Anna Bates",
+     "n": "Joanne Froggatt"
+    },
+    {
+     "c": "Tom Branson",
+     "n": "Allen Leech"
+    },
+    {
+     "c": "Andy Parker",
+     "n": "Michael Fox"
+    },
+    {
+     "c": "Daisy Parker",
+     "n": "Sophie McShera"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Simon Curtis"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 1289936,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Mary finds herself at the center of a public scandal and the family faces financial strife, the entire household grapples with the threat of social disgrace. The Crawleys must embrace change as the staff prepares for a new chapter with the next generation leading Downton Abbey into the future.",
+   "popularity": 3.9879,
+   "poster_path": "/m1tLlMTCwc6oK6OjWTOI4b32wnA.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-09-10",
+   "revenue": 107929546,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The time has come to say goodbye.",
+   "title": "Downton Abbey: The Grand Finale",
+   "trailer": {
+    "key": "P_30wFRxlnA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.065,
+   "vote_count": 315
   },
   "movie:1290436": {
    "backdrop_path": "/zhnMS3Adt7w6uliwE5hpAEfhpcT.jpg",
@@ -1219,6 +1361,194 @@
    "vote_average": 7.2,
    "vote_count": 491
   },
+  "movie:16436": {
+   "backdrop_path": "/vqQnFM5AkuuPZUa6eUa3MK7bsXh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Toni Kurz",
+     "n": "Benno Fürmann"
+    },
+    {
+     "c": "Andreas Hinterstoisser",
+     "n": "Florian Lukas"
+    },
+    {
+     "c": "Luise Fellner",
+     "n": "Johanna Wokalek"
+    },
+    {
+     "c": "Edi Rainer",
+     "n": "Georg Friedrich"
+    },
+    {
+     "c": "Willy Angerer",
+     "n": "Simon Schwarz"
+    },
+    {
+     "c": "Henry Arau",
+     "n": "Ulrich Tukur"
+    },
+    {
+     "c": "Emil Landauer",
+     "n": "Erwin Steinhauer"
+    },
+    {
+     "c": "Albert von Allmen",
+     "n": "Branko Samarovski"
+    },
+    {
+     "c": "Elisabeth Landauer",
+     "n": "Petra Morzé"
+    },
+    {
+     "c": "Schlunegger",
+     "n": "Hanspeter Müller"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Philipp Stölzl"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Action",
+    "History",
+    "Thriller"
+   ],
+   "id": 16436,
+   "industry": "world",
+   "origin_country": [
+    "AT",
+    "DE",
+    "CH"
+   ],
+   "original_language": "de",
+   "overview": "North Face tells the story of two German climbers Toni Kurz and Andreas Hinterstoisser and their attempt to scale the deadly North Face of the Eiger.",
+   "popularity": 2.1363,
+   "poster_path": "/onTd66RoxdrLKUhtcS1IOwdvjCv.jpg",
+   "production_countries": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Brew"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mwGw3KrIZxnACdeojp2a5cO41hi.png",
+     "name": "Brew",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/pxmDUtLdaSCek4LUwme4h7wfsC9.png",
+     "name": "MovieMe",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-10-23",
+   "revenue": 6815056,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "fr",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "A true story",
+   "title": "North Face",
+   "trailer": {
+    "key": "7lkEfgPsOa0",
+    "name": "North Face - Official U.S. Trailer HD",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.151,
+   "vote_count": 327
+  },
   "movie:17136": {
    "backdrop_path": "/6vXnGv5ly9leE6QGBRCzrUuG2tG.jpg",
    "budget": 0,
@@ -1952,6 +2282,111 @@
    "type": "movie",
    "vote_average": 7.06,
    "vote_count": 398
+  },
+  "movie:33436": {
+   "backdrop_path": "/prLH9OrtVjTBUM5vGT0rcrtXFOj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Arthur Lespinasse",
+     "n": "Jean-Paul Belmondo"
+    },
+    {
+     "c": "Anatole",
+     "n": "Bourvil"
+    },
+    {
+     "c": "Colonnel Carol Matthews, Aka 'Le Cerveau'",
+     "n": "David Niven"
+    },
+    {
+     "c": "Frankie Scannapieco, Godfather of the Italian Mafia",
+     "n": "Eli Wallach"
+    },
+    {
+     "c": "Sofia Scannapieco, Frankie's Sister",
+     "n": "Silvia Monti"
+    },
+    {
+     "c": "Commissioner",
+     "n": "Raymond Gérôme"
+    },
+    {
+     "c": "Inspector Mazurel, Assistant to the Commissioner",
+     "n": "Fernand Guiot"
+    },
+    {
+     "c": "Inspector Pochet",
+     "n": "Jacques Balutin"
+    },
+    {
+     "c": "Inspector Dubœuf",
+     "n": "Jacques Ciron"
+    },
+    {
+     "c": "Belgian Sergeant of the Armoured Car",
+     "n": "Patrick Préjean"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Gérard Oury"
+   ],
+   "genres": [
+    "Crime",
+    "Comedy"
+   ],
+   "id": 33436,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "IT"
+   ],
+   "original_language": "fr",
+   "overview": "Arthur and Anatole are two little robbers. They want to rob money, money that will travel in a special train from Paris to Bruxelles. They don't know that other people have planned to do the same thing.",
+   "popularity": 2.3803,
+   "poster_path": "/wCtaWDaOiGPVEoo7tiPBSH7sQx9.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "France Channel Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1969-03-07",
+   "revenue": 0,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en",
+    "fr",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "The Brain has rocked the world with laughter!",
+   "title": "The Brain",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.275,
+   "vote_count": 322
   },
   "movie:42436": {
    "backdrop_path": "/u1jyuVJtNOgE5eSq4BNedf9sjg3.jpg",
@@ -3085,6 +3520,88 @@
    "type": "movie",
    "vote_average": 5.0,
    "vote_count": 382
+  },
+  "movie:89636": {
+   "backdrop_path": "/au3nAjeEjip1JWIzG8MdNtaGFF7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Son Goku (voice)",
+     "n": "Masako Nozawa"
+    },
+    {
+     "c": "Vegeta (voice)",
+     "n": "Ryo Horikawa"
+    },
+    {
+     "c": "",
+     "n": "Takeshi Kusao"
+    },
+    {
+     "c": "",
+     "n": "Toshio Furukawa"
+    },
+    {
+     "c": "",
+     "n": "Ryusei Nakao"
+    },
+    {
+     "c": "",
+     "n": "Hiromi Tsuru"
+    },
+    {
+     "c": "",
+     "n": "Naoko Watanabe"
+    },
+    {
+     "c": "",
+     "n": "Joji Yanami"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Yoshihiro Ueda"
+   ],
+   "genres": [
+    "Action",
+    "Animation",
+    "Adventure"
+   ],
+   "id": 89636,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Dr. Raichi is one of the only survivors of the Tuffles, a race that once lived on Planet Plant before the coming of the Saiyans. The Saiyans not only massacred the entire Tuffle race, but also stole their technology and conquered the planet, renaming it Planet Vegeta in honor of their king. Raichi managed to escape with a capsule and found refuge on the Dark Planet, a world at the end of the universe. His only wish is to eradicate the last remaining Saiyans.",
+   "popularity": 2.2056,
+   "poster_path": "/qPv8avE1joxywziPMd49k6yINJp.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2010-11-11",
+   "revenue": 0,
+   "runtime": 30,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Dragon Ball Z: Plan to Eradicate the Super Saiyans",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 317
   },
   "movie:896536": {
    "backdrop_path": "/yMatVGaUxw3Vi3Z0RsLetvcSYko.jpg",

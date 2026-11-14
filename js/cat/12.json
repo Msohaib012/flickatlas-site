@@ -1,7 +1,207 @@
 {
  "bucket": "12",
- "count": 40,
+ "count": 49,
  "titles": {
+  "movie:103112": {
+   "backdrop_path": "/tN7oA9zSQQICIPxBr3xS1ekFrLR.jpg",
+   "budget": 2200000,
+   "cast": [
+    {
+     "c": "Archimede Formigoni",
+     "n": "Massimo Boldi"
+    },
+    {
+     "c": "Salvatore Rondinella",
+     "n": "Vincenzo Salemme"
+    },
+    {
+     "c": "Enzo 'Figaro'",
+     "n": "Enzo Salvi"
+    },
+    {
+     "c": "Maggie Granger",
+     "n": "Daryl Hannah"
+    },
+    {
+     "c": "Ana Montez",
+     "n": "Natalia Estrada"
+    },
+    {
+     "c": "Jennifer",
+     "n": "Francesca Lodo"
+    },
+    {
+     "c": "Margherita",
+     "n": "Brigitta Boccoli"
+    },
+    {
+     "c": "Diego De La Vega",
+     "n": "Armando De Razza"
+    },
+    {
+     "c": "Mongini",
+     "n": "Federico Zanandrea"
+    },
+    {
+     "c": "Ugo",
+     "n": "Niccolò Contrino"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Carlo Vanzina"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 103112,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Two quarreling teachers vie for the same woman. In the same time the two will have to accompany a class on a trip in Spain.",
+   "popularity": 0.4965,
+   "poster_path": "/bYomOfi50vsrxfQmPeKubLO6ZhX.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2006-12-15",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Olé",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.1,
+   "vote_count": 320
+  },
+  "movie:10612": {
+   "backdrop_path": "/wY1Rn2DnmDt7QKnGSH5be3JM7u7.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Reginald Anson",
+     "n": "Hugh Grant"
+    },
+    {
+     "c": "Betty",
+     "n": "Tara Fitzgerald"
+    },
+    {
+     "c": "Morgan the Goat",
+     "n": "Colm Meaney"
+    },
+    {
+     "c": "George Garrad",
+     "n": "Ian McNeice"
+    },
+    {
+     "c": "Johnny Shellshocked",
+     "n": "Ian Hart"
+    },
+    {
+     "c": "Reverend Jones",
+     "n": "Kenneth Griffith"
+    },
+    {
+     "c": "Thomas Twp",
+     "n": "Tudor Vaughan"
+    },
+    {
+     "c": "Thomas Twp Two",
+     "n": "Hugh Vaughan"
+    },
+    {
+     "c": "Williams the Petroleum",
+     "n": "Robert Pugh"
+    },
+    {
+     "c": "Ivor",
+     "n": "Robert Blythe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Christopher Monger"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 10612,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When an English cartographer arrives in Wales to tell the residents of the Welsh village of Ffynnon Garw  that their 'mountain' is only a hill, the offended community sets out to remedy the situation.",
+   "popularity": 2.2858,
+   "poster_path": "/s96XNz6eBsYDK3A9nVyEuHdv7BG.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1995-05-12",
+   "revenue": 10904930,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "bo",
+    "cy"
+   ],
+   "status": "Released",
+   "tagline": "A romantic comedy about a town that wouldn't give up. A man who couldn't get out. And the mountain that brought them together.",
+   "title": "The Englishman Who Went Up a Hill But Came Down a Mountain",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 330
+  },
   "movie:118412": {
    "backdrop_path": "/A34inrFSAIQNatFGc8qP5kfwDmV.jpg",
    "budget": 0,
@@ -97,6 +297,189 @@
    "type": "movie",
    "vote_average": 7.311,
    "vote_count": 487
+  },
+  "movie:1190012": {
+   "backdrop_path": "/gIQ3AGPR6WAWzh70mulRDN8kd23.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Various Characters (voice)",
+     "n": "Trey Parker"
+    },
+    {
+     "c": "Various Characters (voice)",
+     "n": "Matt Stone"
+    },
+    {
+     "c": "Sharon Marsh / Shelly Marsh / Liane Cartman / Alien Liane Cartman (voice)",
+     "n": "April Stewart"
+    },
+    {
+     "c": "Kathleen Kennedy / Panderverse Mitch Murphy (voice)",
+     "n": "Kimberly Brooks"
+    },
+    {
+     "c": "Sheila Broflovski (voice)",
+     "n": "Mona Marshall"
+    },
+    {
+     "c": "Steve Black (voice)",
+     "n": "Adrien Beard"
+    },
+    {
+     "c": "Panderverse Eric Cartman (voice)",
+     "n": "Janeshia Adams-Ginyard"
+    },
+    {
+     "c": "Panderverse Stan Marsh (voice)",
+     "n": "Mo Ashley"
+    },
+    {
+     "c": "Panderverse Butters (voice)",
+     "n": "Montana Jacobowitz"
+    },
+    {
+     "c": "Panderverse Kenny McCormick (voice)",
+     "n": "Diana Lauren Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Trey Parker"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Science Fiction",
+    "TV Movie"
+   ],
+   "id": 1190012,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Cartman's deeply disturbing dreams portend the end of the life he knows and loves. Meanwhile, the adults in South Park are wrestling with their own life decisions, as the advent of AI is turning their world upside down.",
+   "popularity": 2.935,
+   "poster_path": "/18IsRVfs5MkkTcqTGlUAnka6sCh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-10-27",
+   "revenue": 0,
+   "runtime": 49,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "South Park: Joining the Panderverse",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.492,
+   "vote_count": 315
   },
   "movie:1218412": {
    "backdrop_path": "/4ybz4iMieWkfSPy9yB7yjAKxUqc.jpg",
@@ -796,6 +1179,166 @@
    "vote_average": 6.5,
    "vote_count": 26
   },
+  "movie:14012": {
+   "backdrop_path": "/8cpaUuYwSG24rOJZKyKOSdlcgY4.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Katherine \"Katy\" McLaughlin",
+     "n": "Alison Lohman"
+    },
+    {
+     "c": "Rob McLaughlin",
+     "n": "Tim McGraw"
+    },
+    {
+     "c": "Nell McLaughlin",
+     "n": "Maria Bello"
+    },
+    {
+     "c": "Howard McLaughlin",
+     "n": "Ryan Kwanten"
+    },
+    {
+     "c": "Jack",
+     "n": "Danny Pino"
+    },
+    {
+     "c": "Gus",
+     "n": "Dallas Roberts"
+    },
+    {
+     "c": "Miranda Koop",
+     "n": "Kaylee DeFer"
+    },
+    {
+     "c": "Rick Koop",
+     "n": "Jeffrey Nordling"
+    },
+    {
+     "c": "Esther Koop",
+     "n": "Dey Young"
+    },
+    {
+     "c": "Norbert Rye",
+     "n": "Nick Searcy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Michael Mayer"
+   ],
+   "genres": [
+    "Family",
+    "Drama"
+   ],
+   "id": 14012,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Katy McLaughlin desires to work on her family's mountainside horse ranch, although her father insists she finish boarding school. Katy finds a mustang in the hills near her ranch. The headstrong 16 year old then sets her mind to tame a mustang and prove to her father she can run the ranch. But when tragedy happens, it will take all the love and strength the family can muster to restore hope.",
+   "popularity": 1.9275,
+   "poster_path": "/nhJlXSmiHnlVxea5J5l3wfuATwY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-10-20",
+   "revenue": 21000000,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Flicka",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 318
+  },
   "movie:140212": {
    "backdrop_path": "/zfC6I4v7OQw5crVsl3DMA0BLgbj.jpg",
    "budget": 0,
@@ -1078,6 +1621,126 @@
    "type": "movie",
    "vote_average": 5.3,
    "vote_count": 329
+  },
+  "movie:15212": {
+   "backdrop_path": "/soXbrOOu5mo1hK1i4fPhSF76C9r.jpg",
+   "budget": 3800000,
+   "cast": [
+    {
+     "c": "Miranda Hollander",
+     "n": "Helena Mattsson"
+    },
+    {
+     "c": "Tom Hollander",
+     "n": "Ben Cross"
+    },
+    {
+     "c": "Forbes",
+     "n": "Dominic Keating"
+    },
+    {
+     "c": "Azura",
+     "n": "Marlene Favela"
+    },
+    {
+     "c": "Celeste",
+     "n": "Meagen Fay"
+    },
+    {
+     "c": "Leland Fisk",
+     "n": "Roger Cudney"
+    },
+    {
+     "c": "Dalton",
+     "n": "Mauricio Martínez"
+    },
+    {
+     "c": "Calderón",
+     "n": "Edy Arellano"
+    },
+    {
+     "c": "Rinaldo",
+     "n": "Marco Bacuzzi"
+    },
+    {
+     "c": "Collette",
+     "n": "Cynthia Francesconi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Nick Lyon"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 15212,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A scientist, Dr. Hollander, takes his niece Miranda to Mexico in an attempt to reverse the effects of the alien DNA he used to create her. However the treatment goes horribly wrong, and sets Miranda on a killing spree as she sets out to find a mate.",
+   "popularity": 2.57,
+   "poster_path": "/wPsu2NM0eUpoqycgjjnRJIwxK13.jpg",
+   "production_countries": [
+    "US",
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-10-17",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Irresistible beauty. Unstoppable instincts.",
+   "title": "Species: The Awakening",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.7,
+   "vote_count": 317
   },
   "movie:1632812": {
    "backdrop_path": "/mwfmOOWbchS1cY68zr5aFr21Hhx.jpg",
@@ -2073,6 +2736,349 @@
    "vote_average": 7.247,
    "vote_count": 381
   },
+  "movie:415312": {
+   "backdrop_path": "/emOo9AFT4aJoDcye7RrQcnOzoen.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "John Oldman",
+     "n": "David Lee Smith"
+    },
+    {
+     "c": "Carolyn",
+     "n": "Vanessa Williams"
+    },
+    {
+     "c": "Dr. Gil Parker",
+     "n": "Michael Dorn"
+    },
+    {
+     "c": "Art",
+     "n": "William Katt"
+    },
+    {
+     "c": "Philip",
+     "n": "Sterling Knight"
+    },
+    {
+     "c": "Tara",
+     "n": "Brittany Curran"
+    },
+    {
+     "c": "Second student",
+     "n": "Davi Santos"
+    },
+    {
+     "c": "First student",
+     "n": "Doug Haley"
+    },
+    {
+     "c": "Isabel",
+     "n": "Akemi Look"
+    },
+    {
+     "c": "Liko",
+     "n": "Carlos Knight"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Richard Schenkman"
+   ],
+   "genres": [
+    "Drama",
+    "Science Fiction"
+   ],
+   "id": 415312,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "14,000-year-old \"Man from Earth\" John Oldman, now teaching in northern California, realizes that not only is he finally starting to age, but four students have discovered his deepest secret, putting his life in grave danger and potentially destroying the world's most popular religion.",
+   "popularity": 2.6997,
+   "poster_path": "/krOWstmTUdfafRbXH9YAjVj2zE5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/kFk4puSITzflhhcH0dUJNId022S.png",
+     "name": "MovieSaints",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-10-13",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One must pay dearly for immortality",
+   "title": "The Man from Earth: Holocene",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.533,
+   "vote_count": 306
+  },
+  "movie:42112": {
+   "backdrop_path": "/a62YSsCwYd5EyzB5EbaeX2FmM4m.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yvon Targe",
+     "n": "Christian Patey"
+    },
+    {
+     "c": "Lucien",
+     "n": "Vincent Risterucci"
+    },
+    {
+     "c": "Grey Haired Woman",
+     "n": "Sylvie Van Den Elsen"
+    },
+    {
+     "c": "Grey Haired Woman's Father",
+     "n": "Michel Briguet"
+    },
+    {
+     "c": "Elise",
+     "n": "Caroline Lang"
+    },
+    {
+     "c": "Norbert",
+     "n": "Marc Ernest Fourneau"
+    },
+    {
+     "c": "",
+     "n": "Jean-Frédéric Ducasse"
+    },
+    {
+     "c": "",
+     "n": "Didier Baussy"
+    },
+    {
+     "c": "Yvette",
+     "n": "Jeanne Aptekman"
+    },
+    {
+     "c": "",
+     "n": "François-Marie Banier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Robert Bresson"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 42112,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A forged 500-franc note is passed from person to person and shop to shop, until it falls into the hands of a genuine innocent who doesn't see it for what it is—which will have devastating consequences on his life.",
+   "popularity": 2.3554,
+   "poster_path": "/tqt9D4TH702ZXEUKWa3e6UdFAvY.jpg",
+   "production_countries": [
+    "FR",
+    "CH"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1983-05-18",
+   "revenue": 0,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "L'Argent",
+   "trailer": {
+    "key": "jBMLpghqQj4",
+    "name": "AFS Presents: L'ARGENT",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.948,
+   "vote_count": 307
+  },
   "movie:44012": {
    "backdrop_path": "/2qL6rsvq29ueZ0ITh47Jj2F985R.jpg",
    "budget": 120000,
@@ -2214,6 +3220,213 @@
    "type": "movie",
    "vote_average": 7.37,
    "vote_count": 424
+  },
+  "movie:467012": {
+   "backdrop_path": "/5PD7GeOq9Npk7wz7QPz1MoK09Mh.jpg",
+   "budget": 120000,
+   "cast": [
+    {
+     "c": "Rini Suwono",
+     "n": "Tara Basro"
+    },
+    {
+     "c": "Bahri Suwono",
+     "n": "Bront Palarae"
+    },
+    {
+     "c": "Toni Suwono",
+     "n": "Endy Arfian"
+    },
+    {
+     "c": "Bondi Suwono",
+     "n": "Nasar Anuz"
+    },
+    {
+     "c": "Ian Suwono",
+     "n": "M. Adhiyat"
+    },
+    {
+     "c": "Mawarni Suwono",
+     "n": "Ayu Laksmi"
+    },
+    {
+     "c": "Rahma Saidah",
+     "n": "Elly D. Luthan"
+    },
+    {
+     "c": "Ustad",
+     "n": "Arswendy Bening Swara"
+    },
+    {
+     "c": "Hendra",
+     "n": "Dimas Aditya"
+    },
+    {
+     "c": "Budiman Syailendra",
+     "n": "Egi Fedly"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Joko Anwar"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 467012,
+   "industry": "world",
+   "origin_country": [
+    "ID"
+   ],
+   "original_language": "id",
+   "overview": "After dying from a strange illness that she suffered for three years, a mother returns home to pick up her children.",
+   "popularity": 2.5755,
+   "poster_path": "/k16xOaI9x5fqepxVwBwUJAozsW8.jpg",
+   "production_countries": [
+    "ID",
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-09-28",
+   "revenue": 9033726,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "id"
+   ],
+   "status": "Released",
+   "tagline": "She comes back for the last child.",
+   "title": "Satan's Slaves",
+   "trailer": {
+    "key": "mhc0d6kYmQ8",
+    "name": "Satan's Slaves - Official Trailer [HD] | A Shudder Original",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 332
   },
   "movie:489412": {
    "backdrop_path": "/rA9QYI7yTV2F2AvaqBcq1vL3MOr.jpg",
@@ -2698,6 +3911,132 @@
    "type": "movie",
    "vote_average": 6.68,
    "vote_count": 465
+  },
+  "movie:576712": {
+   "backdrop_path": "/Amp8FamnKw8jUFptKHOXRL4VseU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Lil Peep"
+    },
+    {
+     "c": "Self",
+     "n": "Lil Tracy"
+    },
+    {
+     "c": "Self",
+     "n": "GHOSTEMANE"
+    },
+    {
+     "c": "Self",
+     "n": "Killstation"
+    },
+    {
+     "c": "Self",
+     "n": "Bexey"
+    },
+    {
+     "c": "Self",
+     "n": "Juicy J"
+    },
+    {
+     "c": "Self",
+     "n": "Post Malone"
+    },
+    {
+     "c": "Self",
+     "n": "Liza Womack"
+    },
+    {
+     "c": "Self",
+     "n": "John Womack Jr."
+    },
+    {
+     "c": "Self",
+     "n": "Fish Narc"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "K-16",
+   "date_kind": "release",
+   "director": [
+    "Sebastian Jones",
+    "Ramez Silyan"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 576712,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of artist Lil Peep from his birth in Long Island and meteoric rise as a genre blending pop star & style icon, to his death due to an accidental opioid overdose in Arizona at just 21 years of age.",
+   "popularity": 3.4189,
+   "poster_path": "/wbMkjkNX8VylPVLmQ2Dp6i5iayY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-11-12",
+   "revenue": 0,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Everybody’s Everything",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.4,
+   "vote_count": 311
   },
   "movie:7012": {
    "backdrop_path": "/AfBGTLp9JtsWNUJC6rP1U1XCPCE.jpg",

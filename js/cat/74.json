@@ -1,6 +1,6 @@
 {
  "bucket": "74",
- "count": 48,
+ "count": 55,
  "titles": {
   "movie:1049574": {
    "backdrop_path": "/rSRA1p4e3laAAJflzdgtqNlx27Y.jpg",
@@ -310,6 +310,126 @@
    "type": "movie",
    "vote_average": 6.713,
    "vote_count": 497
+  },
+  "movie:1094274": {
+   "backdrop_path": "/47bsGWAEtJNWMcd3oNS7TELmi6v.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Eli",
+     "n": "Jaeden Martell"
+    },
+    {
+     "c": "Laura",
+     "n": "Rachel Zegler"
+    },
+    {
+     "c": "Danny",
+     "n": "Julian Dennison"
+    },
+    {
+     "c": "CJ",
+     "n": "Daniel Zolghadri"
+    },
+    {
+     "c": "Ash",
+     "n": "Lachlan Watson"
+    },
+    {
+     "c": "Fred Durst",
+     "n": "Fred Durst"
+    },
+    {
+     "c": "Garret",
+     "n": "Kyle Mooney"
+    },
+    {
+     "c": "Farkas",
+     "n": "Eduardo Franco"
+    },
+    {
+     "c": "Jonas",
+     "n": "Mason Gooding"
+    },
+    {
+     "c": "Soccer Chris",
+     "n": "The Kid LAROI"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Kyle Mooney"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Horror",
+    "Comedy"
+   ],
+   "id": 1094274,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two high school nobodies make the decision to crash the last major celebration before the new millennium on New Year's Eve 1999. The night becomes even crazier than they could have ever dreamed when the clock strikes midnight.",
+   "popularity": 2.4307,
+   "poster_path": "/qndubIQalyxBJI5EBNZKGXEX74q.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-12-06",
+   "revenue": 4481473,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "New Years Eve, 1999. The last party before...",
+   "title": "Y2K",
+   "trailer": {
+    "key": "Oa823lY1sTs",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.14,
+   "vote_count": 333
   },
   "movie:1127674": {
    "backdrop_path": "/xvUHdXIqRBOdjdebWPWBHTEQ6p7.jpg",
@@ -1175,6 +1295,96 @@
    "vote_average": 4.66,
    "vote_count": 25
   },
+  "movie:14174": {
+   "backdrop_path": "/A3ycWsKLNtEDKQ6Au3K81JAQ2zm.jpg",
+   "budget": 2200000,
+   "cast": [
+    {
+     "c": "Leila",
+     "n": "Lauren Lee Smith"
+    },
+    {
+     "c": "David",
+     "n": "Eric Balfour"
+    },
+    {
+     "c": "Victoria",
+     "n": "Polly Shannon"
+    },
+    {
+     "c": "Marla",
+     "n": "Kate Lynch"
+    },
+    {
+     "c": "Shy Guy",
+     "n": "Michael Facciolo"
+    },
+    {
+     "c": "Rachel",
+     "n": "Kristin Lehman"
+    },
+    {
+     "c": "Ben",
+     "n": "Ron White"
+    },
+    {
+     "c": "Victoria's Friend",
+     "n": "Mayko Nguyen"
+    },
+    {
+     "c": "Joshua",
+     "n": "Don Francks"
+    },
+    {
+     "c": "Vigorous",
+     "n": "Richard Chevolleau"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Clement Virgo"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 14174,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "Happily unattached, the sexually voracious Leila satisfies her desires with a host of rapidly changing bed partners, unconcerned about the emotional consequences. But that all changes when she meets an artist looking for a deeper commitment.",
+   "popularity": 4.4053,
+   "poster_path": "/qG2KYlTxTZbKcXJHMe1OG7aI4un.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2005-11-11",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Sex brought them together, now it could tear them apart.",
+   "title": "Lie with Me",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.219,
+   "vote_count": 333
+  },
   "movie:1432474": {
    "backdrop_path": "/xZBJj34pgaFCvAEoesIKDxVq3oe.jpg",
    "budget": 0,
@@ -1826,6 +2036,103 @@
    "vote_average": 6.8,
    "vote_count": 23
   },
+  "movie:16274": {
+   "backdrop_path": "/sG0TscXVp7817uDwdAnorbml2BA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Linda Seton",
+     "n": "Katharine Hepburn"
+    },
+    {
+     "c": "Johnny Case",
+     "n": "Cary Grant"
+    },
+    {
+     "c": "Julia Seton",
+     "n": "Doris Nolan"
+    },
+    {
+     "c": "Ned Seton",
+     "n": "Lew Ayres"
+    },
+    {
+     "c": "Nick Potter",
+     "n": "Edward Everett Horton"
+    },
+    {
+     "c": "Edward Seton",
+     "n": "Henry Kolker"
+    },
+    {
+     "c": "Laura Cram",
+     "n": "Binnie Barnes"
+    },
+    {
+     "c": "Susan Potter",
+     "n": "Jean Dixon"
+    },
+    {
+     "c": "Seton Cram",
+     "n": "Henry Daniell"
+    },
+    {
+     "c": "Churchgoer (uncredited)",
+     "n": "Edward Biby"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "George Cukor"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ],
+   "id": 16274,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Johnny Case, a freethinking financier, has finally found the girl of his dreams — Julia Seton, the spoiled daughter of a socially prominent millionaire — and she's agreed to marry him. But when Johnny plans a holiday for the two to enjoy life while they are still young, his fiancée has other plans & that is for Johnny to work in her father's bank!",
+   "popularity": 1.4765,
+   "poster_path": "/vTswoixIge9o84NLlWGaWl5lrHO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1938-05-26",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every day's a holiday... when you're in love.",
+   "title": "Holiday",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 316
+  },
   "movie:17474": {
    "backdrop_path": "/8odZHjwMWWUg2gntUjndLIb8sT0.jpg",
    "budget": 1237669,
@@ -1962,6 +2269,178 @@
    "type": "movie",
    "vote_average": 7.426,
    "vote_count": 403
+  },
+  "movie:17774": {
+   "backdrop_path": "/dteOfLObqADjRmWVenb0CDb1qVu.jpg",
+   "budget": 11000000,
+   "cast": [
+    {
+     "c": "Jacques Kristoff",
+     "n": "Jean-Claude Van Damme"
+    },
+    {
+     "c": "Mason Cole",
+     "n": "Tomas Arana"
+    },
+    {
+     "c": "Galina Konstantin",
+     "n": "Laura Harring"
+    },
+    {
+     "c": "Catherine",
+     "n": "Simona Williams"
+    },
+    {
+     "c": "Madeline Kristoff",
+     "n": "Susan Gibney"
+    },
+    {
+     "c": "Natasha",
+     "n": "Lucy Jenner"
+    },
+    {
+     "c": "Cynthia",
+     "n": "Sandra Vidal"
+    },
+    {
+     "c": "Bailey Kristoff",
+     "n": "Jessica Bowman"
+    },
+    {
+     "c": "Ethan Kristoff",
+     "n": "Kris Van Damme"
+    },
+    {
+     "c": "Bob Sterling",
+     "n": "John Bishop"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Bob Misiorowski"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 17774,
+   "industry": "world",
+   "origin_country": [
+    "AW",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "NATO operative Jacques Kristoff (Jean-Claude Van Damme) is summoned into action—on his birthday, no less—to track down Galina Konstantin (Laura Harring), who has stolen an extremely valuable and dangerous top-secret container from the Slovakian Government.  Finding Galina doesn't take long, and Jacques must wrap up the mission by returning Galina and the contraband to his superiors by train.  Things seem to be going smoothly as Jacques and Galina board the train posing as a couple, but soon all hell breaks loose.",
+   "popularity": 1.5678,
+   "poster_path": "/fdSKmy4cfFsYNNFOrQYS4hxtj6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-05-19",
+   "revenue": 297835,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "The deadliest disease ever discovered is about to be unleashed on the world.",
+   "title": "Derailed",
+   "trailer": {
+    "key": "pAdJsfL8jGE",
+    "name": "J.C.V.D - Derailed [2002] - Trailer (HD)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.2,
+   "vote_count": 324
   },
   "movie:1802674": {
    "backdrop_path": "/dK69ml1Y34MrEovK4ZyizRiWbEH.jpg",
@@ -2233,6 +2712,141 @@
    "type": "movie",
    "vote_average": 5.565,
    "vote_count": 341
+  },
+  "movie:20874": {
+   "backdrop_path": "/iN2Sez3yNI5RYAQM6ziEAnlYSms.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Vladimir Nikolaevich Mashkov - 'Uncle Vova'",
+     "n": "Stanislav Lyubshin"
+    },
+    {
+     "c": "Wef - The Wandering Chatlanian Singer",
+     "n": "Evgeni Leonov"
+    },
+    {
+     "c": "Bee - The Wandering Patsak Singer",
+     "n": "Yuriy Yakovlev"
+    },
+    {
+     "c": "Gedevan Alexandrovich Alexidze - 'Fiddler'",
+     "n": "Levan Gabriadze"
+    },
+    {
+     "c": "Kyrr - The Chatlanian-Dissident",
+     "n": "Lev Perfilov"
+    },
+    {
+     "c": "Tsan - The Desert Stage-Cart Driver",
+     "n": "Irina Shmeleva"
+    },
+    {
+     "c": "Decont - A Teleportation Officer at Alpha",
+     "n": "Olga Mashnaya"
+    },
+    {
+     "c": "Abradox - The Governor of Alpha",
+     "n": "Georgiy Daneliya"
+    },
+    {
+     "c": "woman in tunnel",
+     "n": "Aleksandra Dorokhina"
+    },
+    {
+     "c": "Mashkov's wife",
+     "n": "Galina Daneliya-Yurkova"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Georgiy Daneliya"
+   ],
+   "genres": [
+    "Comedy",
+    "Science Fiction",
+    "Adventure"
+   ],
+   "id": 20874,
+   "industry": "world",
+   "origin_country": [
+    "SU"
+   ],
+   "original_language": "ru",
+   "overview": "Two Soviet humans previously unknown to each other are transported to the planet Pluke in the Kin-dza-dza galaxy due to a chance encounter with an alien teleportation device. They must come to grips with a language barrier and Plukian social norms (not to mention the laws of space and time) if they ever hope to return to Earth.",
+   "popularity": 1.9207,
+   "poster_path": "/xmCxrS5bxXl3wadSNqxoFlM2Cqa.jpg",
+   "production_countries": [
+    "SU"
+   ],
+   "providers": [
+    {
+     "name": "Bloodstream"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "OVID"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Eternal Family"
+    },
+    {
+     "name": "Midnight Pulp"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1986-12-01",
+   "revenue": 0,
+   "runtime": 135,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "ka"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Kin-dza-dza!",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.637,
+   "vote_count": 317
   },
   "movie:2274": {
    "backdrop_path": "/lTxRQzTfGwApLoxQlRldgOIcx55.jpg",
@@ -4472,6 +5086,94 @@
    "vote_average": 5.837,
    "vote_count": 384
   },
+  "movie:53174": {
+   "backdrop_path": "/oIFtnPkM3jqbq4kGlEjhARvhIxo.jpg",
+   "budget": 5650000,
+   "cast": [
+    {
+     "c": "Henry",
+     "n": "Til Schweiger"
+    },
+    {
+     "c": "Magdalena",
+     "n": "Emma Schweiger"
+    },
+    {
+     "c": "Katharina",
+     "n": "Jasmin Gerat"
+    },
+    {
+     "c": "Tristan",
+     "n": "Samuel Finzi"
+    },
+    {
+     "c": "Christiane",
+     "n": "Sanny van Heteren"
+    },
+    {
+     "c": "Arzthelferin",
+     "n": "Birthe Wolter"
+    },
+    {
+     "c": "Agentin",
+     "n": "Friederike Kempter"
+    },
+    {
+     "c": "Polizist",
+     "n": "Sönke Möhring"
+    },
+    {
+     "c": "Patientin",
+     "n": "Katharina Thalbach"
+    },
+    {
+     "c": "Charlotte",
+     "n": "Meret Becker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Til Schweiger"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 53174,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Henry is a playboy who has no idea that he is the father of a beautiful, cute girl out of a One-night-Stand. Her mother left the daughter in front of Henry door after her husband realized after 8 years of marriage that he is not the father so their relationship now is breaking up... By the way: Kokowääh, is how a German (in this case an 8 Year old child) that has never heard the dish before - would pronounce \"Coq Au Vin\" (chicken in a wine sauce).",
+   "popularity": 1.5294,
+   "poster_path": "/s1xlGUJhPlqRa1FF6Uw73UXuEUS.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2011-02-03",
+   "revenue": 43000000,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Kokowääh",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.229,
+   "vote_count": 312
+  },
   "movie:574074": {
    "backdrop_path": "/xtj3EhrFHMrZCLTWH6LarEXAG8r.jpg",
    "budget": 0,
@@ -4685,6 +5387,109 @@
    "type": "movie",
    "vote_average": 6.673,
    "vote_count": 384
+  },
+  "movie:7974": {
+   "backdrop_path": "/A1zattcZjcWkT0bY08HsbhKrMhl.jpg",
+   "budget": 83038,
+   "cast": [
+    {
+     "c": "Iris Rukka",
+     "n": "Kati Outinen"
+    },
+    {
+     "c": "Mother",
+     "n": "Elina Salo"
+    },
+    {
+     "c": "Stepfather",
+     "n": "Esko Nikkari"
+    },
+    {
+     "c": "Aarne",
+     "n": "Vesa Vierikko"
+    },
+    {
+     "c": "Singer",
+     "n": "Reijo Taipale"
+    },
+    {
+     "c": "Brother",
+     "n": "Silu Seppälä"
+    },
+    {
+     "c": "Co-Worker",
+     "n": "Outi Mäenpää"
+    },
+    {
+     "c": "Doctor",
+     "n": "Marja Packalén"
+    },
+    {
+     "c": "Man in Bar",
+     "n": "Richard Reitinger"
+    },
+    {
+     "c": "Clerk",
+     "n": "Helka Viljanen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Aki Kaurismäki"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 7974,
+   "industry": "world",
+   "origin_country": [
+    "FI"
+   ],
+   "original_language": "fi",
+   "overview": "Iris is a shy and dowdy young woman stuck in a dead-end job at a match factory, who dreams of finding love at the local dancehall. Finding herself pregnant after a one-night stand and abandoned by the father, Iris finally decides the time has come to get even and she begins to plot her revenge.",
+   "popularity": 1.8374,
+   "poster_path": "/zHfabvr3RKEbNfksFBs2Cder91i.jpg",
+   "production_countries": [
+    "FI",
+    "SE"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1990-01-12",
+   "revenue": 0,
+   "runtime": 69,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fi"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Match Factory Girl",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.427,
+   "vote_count": 320
   },
   "movie:81774": {
    "backdrop_path": "/4cd9YihTHx1j8oRdlwEa1emKiAl.jpg",

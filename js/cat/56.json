@@ -1,6 +1,6 @@
 {
  "bucket": "56",
- "count": 42,
+ "count": 51,
  "titles": {
   "movie:1010756": {
    "backdrop_path": "/AkzGC9vQbKMHGebetpjBF4bU4VS.jpg",
@@ -146,6 +146,130 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 421
+  },
+  "movie:1094556": {
+   "backdrop_path": "/6SLyu9ygASsrOqkCpjAwtyG9PWW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Phoebe Thunderman",
+     "n": "Kira Kosarin"
+    },
+    {
+     "c": "Max Thunderman",
+     "n": "Jack Griffo"
+    },
+    {
+     "c": "Nora Thunderman",
+     "n": "Addison Riecke"
+    },
+    {
+     "c": "Billy Thunderman",
+     "n": "Diego Velazquez"
+    },
+    {
+     "c": "Chloe Thunderman",
+     "n": "Maya Le Clark"
+    },
+    {
+     "c": "Hank Thunderman",
+     "n": "Chris Tallman"
+    },
+    {
+     "c": "Barb Thunderman",
+     "n": "Rosa Blasi"
+    },
+    {
+     "c": "Dr. Colosso (voice)",
+     "n": "Dana Snyder"
+    },
+    {
+     "c": "King Crab",
+     "n": "Paul F. Tompkins"
+    },
+    {
+     "c": "Strongdor",
+     "n": "Michael Wayne Foster"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Trevor Kirschner"
+   ],
+   "genres": [
+    "Family",
+    "Science Fiction",
+    "Action",
+    "Comedy"
+   ],
+   "id": 1094556,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Twins Phoebe and Max are enjoying their superhero lifestyle, but when one 'save' goes awry, the Thundermans are sent back to Hiddenville. While Hank and Barb enjoy their return, and Billy and Nora look forward to a normal high school life, Max and Phoebe are determined to regain their superhero status.",
+   "popularity": 2.5746,
+   "poster_path": "/2J5eeroLDY0d45mVjpuGhcLZs3W.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-03-07",
+   "revenue": 0,
+   "runtime": 70,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Thundermans Return",
+   "trailer": {
+    "key": "gYA5WOFhd-Y",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.942,
+   "vote_count": 335
   },
   "movie:11056": {
    "backdrop_path": "/dO9VVu7Z2EqqgGnij7UubQfLGzA.jpg",
@@ -493,6 +617,149 @@
    "vote_average": 5.767,
    "vote_count": 488
   },
+  "movie:1160956": {
+   "backdrop_path": "/8cc4AypHsnqcCQeIIpNoh6Wrc5B.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Jackie",
+     "n": "Jackie Chan"
+    },
+    {
+     "c": "Su Xiaozhu",
+     "n": "Shi Ce"
+    },
+    {
+     "c": "David",
+     "n": "Wei Xiang"
+    },
+    {
+     "c": "Cha Kun",
+     "n": "Han Yanbo"
+    },
+    {
+     "c": "Lone Wolf",
+     "n": "Xu Juncong"
+    },
+    {
+     "c": "Harry",
+     "n": "Danny Ray"
+    },
+    {
+     "c": "James",
+     "n": "Temur Mamisashvili"
+    },
+    {
+     "c": "Garden Manager",
+     "n": "Andy Friend"
+    },
+    {
+     "c": "Female Chief",
+     "n": "Huang Yuntong"
+    },
+    {
+     "c": "Farih",
+     "n": "Ivan Ponomarenko"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Zhang Luan"
+   ],
+   "genres": [
+    "Action",
+    "Comedy"
+   ],
+   "id": 1160956,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "International action star Jackie Chan is invited to the adoption ceremony of a rare baby panda, but after an international crime syndicate attempts to kidnap the bear, Jackie has to save the bear using his stunt work skills.",
+   "popularity": 3.7707,
+   "poster_path": "/8iMPQl13q89jQhaA5nXb6UiT0t0.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Hi-YAH Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-10-01",
+   "revenue": 42238170,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ar",
+    "ka",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Panda Plan",
+   "trailer": {
+    "key": "kb1C19HGBu8",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 319
+  },
   "movie:14456": {
    "backdrop_path": "/qDlPT4EStkbQxczswCQsq23OGQ7.jpg",
    "budget": 0,
@@ -647,6 +914,100 @@
    "type": "movie",
    "vote_average": 4.887,
    "vote_count": 422
+  },
+  "movie:14556": {
+   "backdrop_path": "/fezKVCfPieamGuVcTjBDz8cqgb3.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Julien Auclert",
+     "n": "Vincent Lindon"
+    },
+    {
+     "c": "Lisa Auclert",
+     "n": "Diane Kruger"
+    },
+    {
+     "c": "Oscar",
+     "n": "Lancelot Roch"
+    },
+    {
+     "c": "Henri Pasquet",
+     "n": "Olivier Marchal"
+    },
+    {
+     "c": "Commandant Susini",
+     "n": "Hammou Graïa"
+    },
+    {
+     "c": "Mère de Julien",
+     "n": "Liliane Rovère"
+    },
+    {
+     "c": "Père de Julien",
+     "n": "Olivier Perrier"
+    },
+    {
+     "c": "Martial",
+     "n": "Moussa Maaskri"
+    },
+    {
+     "c": "Capitaine Jousseaume",
+     "n": "Rémi Martin"
+    },
+    {
+     "c": "Pascal",
+     "n": "Thierry Godard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Fred Cavayé"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 14556,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Lisa and Julien are married and lead a happy uneventful life with their son Oscar. But their life radically changes one morning, when the police comes to arrest Lisa on murder charges. She's sentenced to 20 years of prison. Convinced of his wife's innocence, Julien decides to act. How far will he be willing to go for her?",
+   "popularity": 1.0461,
+   "poster_path": "/jYqFLb9d2dfJjIix7PCKoDqdbw6.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2008-12-03",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "In a second, their life will change...",
+   "title": "Anything for Her",
+   "trailer": {
+    "key": "RBZVsLoSsDU",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.943,
+   "vote_count": 314
   },
   "movie:1554956": {
    "backdrop_path": "/tcm829PtxDSomGOEXxzO7c0sK3p.jpg",
@@ -1914,6 +2275,148 @@
    "vote_average": 7.275,
    "vote_count": 363
   },
+  "movie:255756": {
+   "backdrop_path": "/6qpPqn33a3XrsnOds4wKNinsIu5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Zhang Zili",
+     "n": "Liao Fan"
+    },
+    {
+     "c": "Wu Zhizhen",
+     "n": "Gwei Lun-Mei"
+    },
+    {
+     "c": "Liang Zhijun",
+     "n": "Wang Xuebing"
+    },
+    {
+     "c": "Rong Rong",
+     "n": "Wang Jingchun"
+    },
+    {
+     "c": "Captain Wang",
+     "n": "Yu Ailei"
+    },
+    {
+     "c": "Su Lijuan",
+     "n": "Ni Jingyang"
+    },
+    {
+     "c": "Bus Thief",
+     "n": "Wang Liang"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA15+",
+   "date_kind": "release",
+   "director": [
+    "Diao Yinan"
+   ],
+   "genres": [
+    "Drama",
+    "Crime",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 255756,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "Two former cops start investigating the series of murders that tanked their careers when the killings begin again.",
+   "popularity": 2.1311,
+   "poster_path": "/3vVcDI8r2KOcsBFwu6Kyx6ntmqp.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Hi-YAH Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mlciWnmFopns3WZGENR6ZZoNnZO.png",
+     "name": "Hi-YAH Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-06-11",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Black Coal, Thin Ice",
+   "trailer": {
+    "key": "WXm1XcjP13E",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.511,
+   "vote_count": 325
+  },
   "movie:31056": {
    "backdrop_path": "/mvPL6z8QFhmk67n6o7sNmU2J1fd.jpg",
    "budget": 0,
@@ -2027,6 +2530,201 @@
    "type": "movie",
    "vote_average": 7.78,
    "vote_count": 438
+  },
+  "movie:504056": {
+   "backdrop_path": "/5MyjGUa2piiEyNH4UcLp3YV9cwo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Henry Chen Xia",
+     "n": "Donnie Yen"
+    },
+    {
+     "c": "Miss Liang",
+     "n": "Joe Chen Chiao-en"
+    },
+    {
+     "c": "Jack Li",
+     "n": "Lok Ming-kit"
+    },
+    {
+     "c": "Kane Luo",
+     "n": "Yu Kang"
+    },
+    {
+     "c": "Bruce Guan",
+     "n": "Bruce Tong Kwan-chi"
+    },
+    {
+     "c": "Chris Guan",
+     "n": "Chris Tong Kwan-yiu"
+    },
+    {
+     "c": "Gladys Wang",
+     "n": "Gladys Li Ching-kwan"
+    },
+    {
+     "c": "Gordon Xiang",
+     "n": "Gordon Lau Chiu-kin"
+    },
+    {
+     "c": "Patrick Lin",
+     "n": "Dominic Lam Ka-wah"
+    },
+    {
+     "c": "Chief Huang",
+     "n": "Alfred Cheung Kin-ting"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Kam Ka-wai"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 504056,
+   "industry": "world",
+   "origin_country": [
+    "CN",
+    "HK"
+   ],
+   "original_language": "zh",
+   "overview": "A soldier-turned-high school teacher uses unusual methods to reach to a class of poor students, while dealing with a greedy entrepreneur and his gang of fighters as well as the government.",
+   "popularity": 4.2333,
+   "poster_path": "/z6Y6uQn2fORr7o43EggQrTsp08o.jpg",
+   "production_countries": [
+    "CN",
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hi-YAH"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hi-YAH Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/VSkdYiq9YA34Oaucl2Ga0dBL11.png",
+     "name": "Hi-YAH",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mlciWnmFopns3WZGENR6ZZoNnZO.png",
+     "name": "Hi-YAH Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-08-16",
+   "revenue": 0,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "Friend. Teacher. Protector.",
+   "title": "Big Brother",
+   "trailer": {
+    "key": "7Fm6WFrhRKs",
+    "name": "BIG BROTHER (2018) Official Trailer | Donnie Yen Action Movie",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 310
   },
   "movie:535356": {
    "backdrop_path": "/yxfWuiH3qfAiV4GSHEhXz7uC8sk.jpg",
@@ -2240,6 +2938,248 @@
    "type": "movie",
    "vote_average": 6.753,
    "vote_count": 474
+  },
+  "movie:60556": {
+   "backdrop_path": "/1fjO8ATD9nugZQ76qdWe7hBYQjs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carlo Boffa",
+     "n": "Christian De Sica"
+    },
+    {
+     "c": "Massimo Rischio",
+     "n": "Massimo Ghini"
+    },
+    {
+     "c": "Ligabue Della Chianina",
+     "n": "Giorgio Panariello"
+    },
+    {
+     "c": "Angela Ladesse",
+     "n": "Belén Rodríguez"
+    },
+    {
+     "c": "Giorgio Boffa",
+     "n": "Max Tortora"
+    },
+    {
+     "c": "Marta Boffa",
+     "n": "Serena Autieri"
+    },
+    {
+     "c": "Susanna Boffa",
+     "n": "Barbara Tabita"
+    },
+    {
+     "c": "Laura Rischio",
+     "n": "Laura Esquivel"
+    },
+    {
+     "c": "Mauro",
+     "n": "Brenno Placido"
+    },
+    {
+     "c": "Vitellozzo \"Viti\" Della Chianina",
+     "n": "Alessandro Cacelli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Neri Parenti"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 60556,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Carlo, on vacation in South Africa with his second wife Susanna meets her younger brother Giorgio.",
+   "popularity": 0.4394,
+   "poster_path": "/6ePKo8IRbu8eSnVDXvMv8w2cXkn.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2010-12-20",
+   "revenue": 19640073,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Natale in Sudafrica",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.4,
+   "vote_count": 327
+  },
+  "movie:623856": {
+   "backdrop_path": "/u6Y510S63IXrXkDHcHlQ49Fecmj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alice Hughes",
+     "n": "Meryl Streep"
+    },
+    {
+     "c": "Tyler Hughes",
+     "n": "Lucas Hedges"
+    },
+    {
+     "c": "Karen",
+     "n": "Gemma Chan"
+    },
+    {
+     "c": "Susan",
+     "n": "Dianne Wiest"
+    },
+    {
+     "c": "Roberta",
+     "n": "Candice Bergen"
+    },
+    {
+     "c": "Kelvin Krantz",
+     "n": "Daniel Algrant"
+    },
+    {
+     "c": "Dr. Mitchell",
+     "n": "John Douglas Thompson"
+    },
+    {
+     "c": "Eddie",
+     "n": "Christopher Fitzgerald"
+    },
+    {
+     "c": "Customer",
+     "n": "Mary Catherine Garrison"
+    },
+    {
+     "c": "Clovis",
+     "n": "Elna Baker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Steven Soderbergh"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 623856,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A celebrated author takes a journey with some old friends to have some fun and heal old wounds. Her nephew comes along to wrangle the ladies and finds himself involved with a young literary agent.",
+   "popularity": 2.4646,
+   "poster_path": "/4mhZqZ7nXL6Dj6PKZSseJxv1qXZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-12-10",
+   "revenue": 0,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Write your wrongs",
+   "title": "Let Them All Talk",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.597,
+   "vote_count": 315
+  },
+  "movie:64956": {
+   "backdrop_path": "/p8K8Z4yjaslJx5mTsIC5L6LJxQB.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Ian Kirby"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 64956,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Cobb, Arthur and Nash are enlisted by Cobol Engineering.",
+   "popularity": 1.216,
+   "poster_path": "/sNxqwtyHMNQwKWoFYDqcYTui5Ok.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2010-12-07",
+   "revenue": 0,
+   "runtime": 15,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Inception: The Cobol Job",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.247,
+   "vote_count": 322
   },
   "movie:733156": {
    "backdrop_path": "/cMcn5W38E5FVao1FqIZllO11nSF.jpg",
@@ -3190,6 +4130,167 @@
    "type": "movie",
    "vote_average": 5.4,
    "vote_count": 425
+  },
+  "movie:9756": {
+   "backdrop_path": "/tQ28MXaFPwELZ0n4SYEAL6sFH4y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rachel Carlson",
+     "n": "Demi Moore"
+    },
+    {
+     "c": "Brian",
+     "n": "Henry Ian Cusick"
+    },
+    {
+     "c": "Thomas Carlson",
+     "n": "Jordan El-Balawi"
+    },
+    {
+     "c": "Sharon Winton",
+     "n": "Kate Isitt"
+    },
+    {
+     "c": "Dr. Robert Freedman",
+     "n": "Nicholas Gleaves"
+    },
+    {
+     "c": "Finlay Murray",
+     "n": "James Cosmo"
+    },
+    {
+     "c": "Mary Murray",
+     "n": "Joanna Hole"
+    },
+    {
+     "c": "Morag McPherson",
+     "n": "Thérèse Bradley"
+    },
+    {
+     "c": "Angus McCulloch",
+     "n": "Hans Matheson"
+    },
+    {
+     "c": "Reverend James McMahon",
+     "n": "Mickey Wilson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Craig Rosenberg"
+   ],
+   "genres": [
+    "Thriller",
+    "Horror",
+    "Drama"
+   ],
+   "id": 9756,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Rachel Carson, a best-selling crime novelist, is devastated and filled with guilt over the accidental death of her son. Hoping that a change of scenery will help alleviate her suffering, she leaves her home in the city and moves into a vacant country house owned by a friend and begins a relationship with charming local Angus. But, just as her life is taking a turn for the better, Rachel realizes she's being romanced by a ghost, leading her to doubt her own sanity.",
+   "popularity": 1.4386,
+   "poster_path": "/c29RoGcznRr14a7fsBYbhJZAK2U.jpg",
+   "production_countries": [
+    "DE",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-01-17",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "When the darkness falls the dead will rise.",
+   "title": "Half Light",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.043,
+   "vote_count": 337
   },
   "tv:233256": {
    "backdrop_path": "/dDx7bjxtJcMwUhowCn7VhPwLEzp.jpg",

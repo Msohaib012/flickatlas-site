@@ -1,7 +1,115 @@
 {
  "bucket": "33",
- "count": 33,
+ "count": 40,
  "titles": {
+  "movie:10333": {
+   "backdrop_path": "/oqosaCWqrh3geYMksXhBaZQjwOJ.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Tom Wingo",
+     "n": "Nick Nolte"
+    },
+    {
+     "c": "Susan Lowenstein",
+     "n": "Barbra Streisand"
+    },
+    {
+     "c": "Sally Wingo",
+     "n": "Blythe Danner"
+    },
+    {
+     "c": "Lila Wingo Newbury",
+     "n": "Kate Nelligan"
+    },
+    {
+     "c": "Herbert Woodruff",
+     "n": "Jeroen Krabbé"
+    },
+    {
+     "c": "Savannah Wingo",
+     "n": "Melinda Dillon"
+    },
+    {
+     "c": "Eddie Detreville",
+     "n": "George Carlin"
+    },
+    {
+     "c": "Bernard Woodruff",
+     "n": "Jason Gould"
+    },
+    {
+     "c": "Henry Wingo",
+     "n": "Brad Sullivan"
+    },
+    {
+     "c": "Lucy Wingo",
+     "n": "Maggie Collier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Barbra Streisand"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 10333,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A troubled Southern man talks to his suicidal sister's psychiatrist about their family history and falls in love with her (and New York City) in the process.",
+   "popularity": 2.7567,
+   "poster_path": "/1AyeW3YlwfhRwLDeUCW686obceb.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1991-12-25",
+   "revenue": 135000000,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A story about the memories that haunt us, and the truth that sets us free.",
+   "title": "The Prince of Tides",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.62,
+   "vote_count": 321
+  },
   "movie:10433": {
    "backdrop_path": "/xX5St4pQuLWK9JbKHYuDnLOQSon.jpg",
    "budget": 19000000,
@@ -831,6 +939,180 @@
    "vote_average": 6.617,
    "vote_count": 145
   },
+  "movie:13633": {
+   "backdrop_path": "/yIpaahwOBk4uVUBNcHkoZdcXPCK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mick O'Brien",
+     "n": "Sean Penn"
+    },
+    {
+     "c": "Ramon Herrera",
+     "n": "Reni Santoni"
+    },
+    {
+     "c": "Gene Daniels",
+     "n": "Jim Moody"
+    },
+    {
+     "c": "Horowitz",
+     "n": "Eric Gurry"
+    },
+    {
+     "c": "Paco Moreno",
+     "n": "Esai Morales"
+    },
+    {
+     "c": "J. C. Walenski",
+     "n": "Ally Sheedy"
+    },
+    {
+     "c": "Viking Lofgren",
+     "n": "Clancy Brown"
+    },
+    {
+     "c": "Tweety",
+     "n": "Robert Lee Rush"
+    },
+    {
+     "c": "Wagner",
+     "n": "John Zenda"
+    },
+    {
+     "c": "Warden Bendix",
+     "n": "Tony Mockus Jr."
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rick Rosenthal"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 13633,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Mick O'Brien is a young Chicago street thug torn between a life of petty crime and the love of his girlfriend. But when the heist of a local drug dealer goes tragically wrong Mick is sentenced to a brutal juvenile prison where violence is a rite of passage and respect is measured in vengeance.",
+   "popularity": 3.7493,
+   "poster_path": "/5nHZ3wflOifKJMUcTCw0isKhmCv.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1983-03-25",
+   "revenue": 9190819,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There's only one person left who believes Mick O'Brien can make it... Mick O'Brien.",
+   "title": "Bad Boys",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 325
+  },
   "movie:1630433": {
    "backdrop_path": "/qbbx3NDw6FrtQSrKdxn9n72xJzO.jpg",
    "budget": 0,
@@ -1159,6 +1441,113 @@
    "type": "movie",
    "vote_average": 6.653,
    "vote_count": 395
+  },
+  "movie:21733": {
+   "backdrop_path": "/5KwIMLRVOfwVmYId7IEkhF5vssp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jackie Lung",
+     "n": "Jackie Chan"
+    },
+    {
+     "c": "Wong Fei-Hung",
+     "n": "Sammo Hung Kam-bo"
+    },
+    {
+     "c": "Tung Tak-Biao",
+     "n": "Yuen Biao"
+    },
+    {
+     "c": "Miss Yip",
+     "n": "Deanie Ip"
+    },
+    {
+     "c": "Wen Mei-Ling",
+     "n": "Pauline Yeung Bo-Ling"
+    },
+    {
+     "c": "Hua Hsien-Wu",
+     "n": "Yuen Wah"
+    },
+    {
+     "c": "Hua's Bodyguard",
+     "n": "Billy Chow Bei-lei"
+    },
+    {
+     "c": "Hua's Bodyguard",
+     "n": "Steve Lee Ka-ting"
+    },
+    {
+     "c": "Hua's Bodyguard",
+     "n": "Phillip Ko Fai"
+    },
+    {
+     "c": "Jackie's Assistant",
+     "n": "Crystal Kwok Gam-Yan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Sammo Hung Kam-bo"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 21733,
+   "industry": "world",
+   "origin_country": [
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "A hot-shot lawyer is hired by a Hong Kong chemical plant to dispose of opposition to their polluting ways. But when he falls for a beautiful woman out to stop the plant, he is torn in a conflict of interest and asks his trusty friends Samo and Biao to help out at least until they discover the true purpose of the plant.",
+   "popularity": 2.7755,
+   "poster_path": "/lt94C482UqyVlq1UdK5nvXukaw7.jpg",
+   "production_countries": [
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "Tencent Video"
+    },
+    {
+     "name": "JustWatch TV Plus"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png",
+     "name": "Tencent Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-02-11",
+   "revenue": 10983542,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn"
+   ],
+   "status": "Released",
+   "tagline": "Don't mess with these dragons!",
+   "title": "Dragons Forever",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 329
   },
   "movie:248933": {
    "backdrop_path": "/fXHT6tTLVCchwrsFkpTyqtUcsCy.jpg",
@@ -1688,6 +2077,399 @@
    "vote_average": 6.913,
    "vote_count": 410
   },
+  "movie:327833": {
+   "backdrop_path": "/y6C5I2qSvkwTmgBgSEIzpw4BtFF.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Nick Cassidy",
+     "n": "Dolph Lundgren"
+    },
+    {
+     "c": "Tony Vitayakul",
+     "n": "Tony Jaa"
+    },
+    {
+     "c": "Viktor Dragovic",
+     "n": "Ron Perlman"
+    },
+    {
+     "c": "Min",
+     "n": "Celina Jade"
+    },
+    {
+     "c": "Reed",
+     "n": "Michael Jai White"
+    },
+    {
+     "c": "Costello",
+     "n": "Peter Weller"
+    },
+    {
+     "c": "Igor",
+     "n": "Conan Stevens"
+    },
+    {
+     "c": "Senator Khat",
+     "n": "Cary-Hiroyuki Tagawa"
+    },
+    {
+     "c": "Rosa Cassidy",
+     "n": "Tasya Teles"
+    },
+    {
+     "c": "Goran",
+     "n": "Mike Dopud"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Ekachai Uekrongtham"
+   ],
+   "genres": [
+    "Thriller",
+    "Action",
+    "Drama",
+    "Crime"
+   ],
+   "id": 327833,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US",
+    "TH"
+   ],
+   "original_language": "en",
+   "overview": "After his family is killed by a Serbian gangster with international interests. NYC detective Nick goes to S.E. Asia and teams up with a Thai detective to get revenge and destroy the syndicates human trafficking network.",
+   "popularity": 1.9195,
+   "poster_path": "/dfXB4ZKQRINdrY3xXMyLUJrXQai.jpg",
+   "production_countries": [
+    "CA",
+    "TH",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Warriors and Gangsters Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tYRiW2QvjPtCbBhRVYFUyyfApVl.png",
+     "name": "Warriors and Gangsters Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-05-22",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "th",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Two Cops. One Mission. No Mercy.",
+   "title": "Skin Trade",
+   "trailer": {
+    "key": "mFJOfTk_gAY",
+    "name": "Skin Trade - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 317
+  },
+  "movie:423333": {
+   "backdrop_path": "/cv6Nn8Yt9mgFoUSievEdW9JK82A.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gail",
+     "n": "Martha Plimpton"
+    },
+    {
+     "c": "Jay",
+     "n": "Jason Isaacs"
+    },
+    {
+     "c": "Linda",
+     "n": "Ann Dowd"
+    },
+    {
+     "c": "Richard",
+     "n": "Reed Birney"
+    },
+    {
+     "c": "Judy",
+     "n": "Breeda Wool"
+    },
+    {
+     "c": "Kendra",
+     "n": "Michelle N. Carter"
+    },
+    {
+     "c": "Anthony",
+     "n": "Kagen Albright"
+    },
+    {
+     "c": "Piano Teacher",
+     "n": "Michael White"
+    },
+    {
+     "c": "Piano Student",
+     "n": "Campbell Spoor"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Fran Kranz"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 423333,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two couples meet for a painful and raw conversation in the aftermath of a violent tragedy.",
+   "popularity": 1.6839,
+   "poster_path": "/h5NjOofdHeb6VX8U4xJHq8dfNOI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JustWatch TV Plus"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png",
+     "name": "JustWatch TV Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-10-15",
+   "revenue": 131357,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Mass",
+   "trailer": {
+    "key": "WgvsfKhGdgI",
+    "name": "Official Australian Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.297,
+   "vote_count": 323
+  },
   "movie:501633": {
    "backdrop_path": "/5IseU9V6zu6T3ZQrPdTjke2WNbz.jpg",
    "budget": 0,
@@ -1966,6 +2748,112 @@
    "type": "movie",
    "vote_average": 7.759,
    "vote_count": 373
+  },
+  "movie:515333": {
+   "backdrop_path": "/xXpATYKBOKacswyO465SNu0bh8R.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Terron Forte",
+     "n": "Michael Rainey Jr."
+    },
+    {
+     "c": "Coach Gaines",
+     "n": "Josh Charles"
+    },
+    {
+     "c": "Nia",
+     "n": "Sharon Leal"
+    },
+    {
+     "c": "Vince",
+     "n": "Brian J. White"
+    },
+    {
+     "c": "Coach Curtis",
+     "n": "Corey Parker Robinson"
+    },
+    {
+     "c": "Anton",
+     "n": "Ashlee Brian"
+    },
+    {
+     "c": "Stavian",
+     "n": "Tekola Cornetet"
+    },
+    {
+     "c": "JP",
+     "n": "Ted Maritz"
+    },
+    {
+     "c": "Student",
+     "n": "Collin Blackford"
+    },
+    {
+     "c": "Coach Rob",
+     "n": "Christopher Warner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ryan Koo"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 515333,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "14-year-old basketball phenom Terron Forte has to navigate the under-the-table world of amateur athletics when he is recruited to an elite NCAA prep school.",
+   "popularity": 1.364,
+   "poster_path": "/nWUvlNxKSMdegAoY5eMOqPwMKIb.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2018-04-06",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every dream has a price.",
+   "title": "Amateur",
+   "trailer": {
+    "key": "0cQ3sBXpNtw",
+    "name": "Amateur | Official Trailer [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 323
   },
   "movie:586333": {
    "backdrop_path": "/abTnQsdz3wRHDTtYauDnTEQkwnb.jpg",
@@ -2584,6 +3472,135 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 483
+  },
+  "movie:79433": {
+   "backdrop_path": "/f3xcA9b0Hl02PNLu9DRPe6S1A7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ronal (voice)",
+     "n": "Anders Juul"
+    },
+    {
+     "c": "Alibert (voice)",
+     "n": "Hadi Ka-Koush"
+    },
+    {
+     "c": "Zandra (voice)",
+     "n": "Lærke Winther"
+    },
+    {
+     "c": "Elric (voice)",
+     "n": "Brian Lykke"
+    },
+    {
+     "c": "Volcazar (voice)",
+     "n": "Lars Mikkelsen"
+    },
+    {
+     "c": "Gundar (voice)",
+     "n": "Peter Aude"
+    },
+    {
+     "c": "Gorak (voice)",
+     "n": "Lars Bom"
+    },
+    {
+     "c": "Gu'ra Zul (voice)",
+     "n": "Jens Jacob Tychsen"
+    },
+    {
+     "c": "Oraklet (voice)",
+     "n": "Ole Thestrup"
+    },
+    {
+     "c": "Mester Florian (voice)",
+     "n": "Preben Kristensen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Kresten Vestbjerg Andersen",
+    "Thorbjørn Christoffersen",
+    "Philip Einstein Lipski"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 79433,
+   "industry": "world",
+   "origin_country": [
+    "DK"
+   ],
+   "original_language": "da",
+   "overview": "Ronal is a young barbarian with low self-esteem, the polar opposite of all the muscular barbarians in his village. He's a real wuss. However, as fate would have it, responsibility for the tribe's survival falls on Ronal's scrawny shoulders, when the evil Lord Volcazar raids the village and abducts every living barbarian with the exception of Ronal, who is forced to go on a perilous quest to save his enslaved clan and thwart Volcazar’s plot to rule the world.",
+   "popularity": 2.0637,
+   "poster_path": "/vT8m9Ji4mrUExpuIX0LGjMPHEHX.jpg",
+   "production_countries": [
+    "DK"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-09-27",
+   "revenue": 2400000,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "da"
+   ],
+   "status": "Released",
+   "tagline": "Babes, balls and muscles in 3D for the whole family",
+   "title": "Ronal the Barbarian",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 334
   },
   "tv:117933": {
    "backdrop_path": "/p2eZlGwd8OjkWpwD2hSoBiIlHBZ.jpg",

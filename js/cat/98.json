@@ -1,6 +1,6 @@
 {
  "bucket": "98",
- "count": 52,
+ "count": 64,
  "titles": {
   "movie:1061798": {
    "backdrop_path": "/gZDF8oChSplhdwTCjFR1SHwKw8s.jpg",
@@ -959,6 +959,204 @@
    "vote_average": 6.183,
    "vote_count": 383
   },
+  "movie:11698": {
+   "backdrop_path": "/eM3Kbzk9v03wJc0yoSC0QGEOU9C.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bruno Stroszek",
+     "n": "Bruno S."
+    },
+    {
+     "c": "Eva",
+     "n": "Eva Mattes"
+    },
+    {
+     "c": "Scheitz",
+     "n": "Clemens Scheitz"
+    },
+    {
+     "c": "Souteneur",
+     "n": "Wilhelm von Homburg"
+    },
+    {
+     "c": "Pimp #2",
+     "n": "Burkhard Driest"
+    },
+    {
+     "c": "Mechanic",
+     "n": "Clayton Szalpinski"
+    },
+    {
+     "c": "Mechanic's Assistant",
+     "n": "Ely Rodriguez"
+    },
+    {
+     "c": "Prison Warden",
+     "n": "Alfred Edel"
+    },
+    {
+     "c": "Bank Teller",
+     "n": "Scott McKain"
+    },
+    {
+     "c": "Pimp #3",
+     "n": "Pitt Bedewitz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Werner Herzog"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 11698,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Bruno Stroszek is released from prison and warned to stop drinking. He has few skills and fewer expectations: with a glockenspiel and an accordion, he ekes out a living as a street musician. He befriends Eva, a prostitute down on her luck and they join his neighbor, Scheitz, an elderly eccentric, when he leaves Germany to live in Wisconsin.",
+   "popularity": 1.283,
+   "poster_path": "/wDq9ytRxoVpICRcx1BvagmXhd4t.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1977-05-20",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "A Ballad",
+   "title": "Stroszek",
+   "trailer": {
+    "key": "4fM4fL5KK5k",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.294,
+   "vote_count": 320
+  },
   "movie:119698": {
    "backdrop_path": "/nAhKxK8inVjHeHAw6W2xkQjdbh5.jpg",
    "budget": 0,
@@ -1370,6 +1568,224 @@
    "vote_average": 6.153,
    "vote_count": 379
   },
+  "movie:12698": {
+   "backdrop_path": "/dFFdQgTtvL2X02xuGpDwn6SqFiL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Robert McNamara"
+    },
+    {
+     "c": "Self (uncredited)",
+     "n": "Errol Morris"
+    },
+    {
+     "c": "Self (archive footage) (uncredited)",
+     "n": "Fidel Castro"
+    },
+    {
+     "c": "Self (archive footage) (uncredited)",
+     "n": "Barry Goldwater"
+    },
+    {
+     "c": "Self (archive footage) (uncredited)",
+     "n": "John F. Kennedy"
+    },
+    {
+     "c": "Self (archive footage) (uncredited)",
+     "n": "Nikita Khrushchev"
+    },
+    {
+     "c": "Self (archive footage) (uncredited)",
+     "n": "Curtis LeMay"
+    },
+    {
+     "c": "Self (archive footage) (uncredited)",
+     "n": "Richard Nixon"
+    },
+    {
+     "c": "Self (archive footage) (uncredited)",
+     "n": "Harry Reasoner"
+    },
+    {
+     "c": "Self (voice) (archive footage) (uncredited)",
+     "n": "Franklin D. Roosevelt"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Errol Morris"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 12698,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Former corporate whiz kid Robert McNamara was the controversial Secretary of Defense in the Kennedy and Johnson administrations, during the height of the Vietnam War. Augmented by archival footage and cabinet conversation recordings, Errol Morris gives the conflicted McNamara a platform on which he attempts to confront his and the U.S. government's actions in Southeast Asia in light of the horrors of modern warfare, the end of ideology and the punitive judgment of history.",
+   "popularity": 2.0485,
+   "poster_path": "/m1dEnkrdJGBSLeAyJepuGrU9sNI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2003-12-09",
+   "revenue": 5038841,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Fog of War",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.738,
+   "vote_count": 313
+  },
+  "movie:1294698": {
+   "backdrop_path": "/kjKxmpuPIvXjDP4reWCkMaeK2Es.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Stéphanie Bertrand",
+     "n": "Léa Drucker"
+    },
+    {
+     "c": "Benoit Guérini",
+     "n": "Jonathan Turnbull"
+    },
+    {
+     "c": "Sonia Girard",
+     "n": "Mathilde Riu"
+    },
+    {
+     "c": "Alicia Mady",
+     "n": "Guslagie Malanda"
+    },
+    {
+     "c": "Jérémy",
+     "n": "Stanislas Merhar"
+    },
+    {
+     "c": "Joëlle Girard",
+     "n": "Sandra Colombo"
+    },
+    {
+     "c": "Rémi Cordier",
+     "n": "Valentin Campagne"
+    },
+    {
+     "c": "Carole Delarue",
+     "n": "Mathilde Roehrich"
+    },
+    {
+     "c": "Guillaume Girard",
+     "n": "Côme Peronnet"
+    },
+    {
+     "c": "Victor",
+     "n": "Solan Machado-Graner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "+13",
+   "date_kind": "release",
+   "director": [
+    "Dominik Moll"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 1294698,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "When Internal Affairs officer Stéphanie investigates a young man severely injured during a chaotic Paris demonstration and finds no police misconduct, the routine case hits close to home upon her discovering the victim is from her native town.",
+   "popularity": 2.3438,
+   "poster_path": "/4QL4LcsYX8mdNktst0CnyHQDRLg.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-11-19",
+   "revenue": 0,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Case 137",
+   "trailer": {
+    "key": "DRKJKfGbEjc",
+    "name": "Case 137 / Dossier 137 (2025) - Trailer (English Subs)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.887,
+   "vote_count": 311
+  },
   "movie:1373198": {
    "backdrop_path": "/b13AuahXeffKtRYij0QYb9pBuEy.jpg",
    "budget": 93,
@@ -1491,6 +1907,102 @@
    "type": "movie",
    "vote_average": 4.5,
    "vote_count": 62
+  },
+  "movie:13998": {
+   "backdrop_path": "/2fjoACGt0udEgZ7dZxFj4QzD7pw.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Margot",
+     "n": "Nicole Kidman"
+    },
+    {
+     "c": "Pauline",
+     "n": "Jennifer Jason Leigh"
+    },
+    {
+     "c": "Malcolm",
+     "n": "Jack Black"
+    },
+    {
+     "c": "Jim",
+     "n": "John Turturro"
+    },
+    {
+     "c": "Dick Koosman",
+     "n": "Ciarán Hinds"
+    },
+    {
+     "c": "Claude",
+     "n": "Zane Pais"
+    },
+    {
+     "c": "Ingrid",
+     "n": "Flora Cross"
+    },
+    {
+     "c": "Maisy Koosman",
+     "n": "Halley Feiffer"
+    },
+    {
+     "c": "Becky",
+     "n": "Ashlie Atkinson"
+    },
+    {
+     "c": "Alan",
+     "n": "Matthew Arkin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Noah Baumbach"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 13998,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Margot Zeller is a short story writer with a sharp wit and an even sharper tongue. On the eve of her estranged sister Pauline's wedding to unemployed musician/artist/depressive Malcolm at the family seaside home, Margot shows up unexpectedly to rekindle the sisterly bond and offer her own brand of support. What ensues is a nakedly honest and subversively funny look at family dynamics.",
+   "popularity": 1.6672,
+   "poster_path": "/8u9BXKSH4gmFkT0KZTqjg85z2mP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2008-02-29",
+   "revenue": 2900219,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One family. Infinite degrees of separation.",
+   "title": "Margot at the Wedding",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.796,
+   "vote_count": 338
   },
   "movie:14098": {
    "backdrop_path": "/jZu09TyQAiUaQRHa7L18eVBPzdS.jpg",
@@ -1932,6 +2444,108 @@
    "vote_average": 5.708,
    "vote_count": 36
   },
+  "movie:14698": {
+   "backdrop_path": "/pMIIOovLyyCr8W5JFOqsSO8gK1r.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Catherine Holly",
+     "n": "Elizabeth Taylor"
+    },
+    {
+     "c": "Violet Venable",
+     "n": "Katharine Hepburn"
+    },
+    {
+     "c": "Dr. Cukrowicz",
+     "n": "Montgomery Clift"
+    },
+    {
+     "c": "Lawrence Hockstader",
+     "n": "Albert Dekker"
+    },
+    {
+     "c": "Grace Holly",
+     "n": "Mercedes McCambridge"
+    },
+    {
+     "c": "George Holly",
+     "n": "Gary Raymond"
+    },
+    {
+     "c": "Miss Foxhill",
+     "n": "Mavis Villiers"
+    },
+    {
+     "c": "Nurse Benson",
+     "n": "Patricia Marmont"
+    },
+    {
+     "c": "Sister Felicity",
+     "n": "Joan Young"
+    },
+    {
+     "c": "Lucy",
+     "n": "Maria Britneva"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Joseph L. Mankiewicz"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 14698,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The only son of wealthy widow Violet Venable dies while on vacation with his cousin Catherine. What the girl saw was so horrible that she went insane; now Mrs. Venable wants Catherine lobotomized to cover up the truth.",
+   "popularity": 1.7106,
+   "poster_path": "/igma0zn9J5srRvOMDRnxyUDQXJL.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1959-12-22",
+   "revenue": 9000000,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Suddenly, last summer, Cathy knew she was being used for something evil!",
+   "title": "Suddenly, Last Summer",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 331
+  },
   "movie:1613798": {
    "backdrop_path": "/xyW8rJO3rwG2EGcTO6eaUEa8b9d.jpg",
    "budget": 0,
@@ -2337,6 +2951,124 @@
    "vote_average": 5.66,
    "vote_count": 356
   },
+  "movie:18498": {
+   "backdrop_path": "/jcnqV2LS5z3XtecPragGCPB6Ajs.jpg",
+   "budget": 5500000,
+   "cast": [
+    {
+     "c": "Jonathan Graves",
+     "n": "Peter Liapis"
+    },
+    {
+     "c": "Rebecca",
+     "n": "Lisa Pelikan"
+    },
+    {
+     "c": "Malcolm Graves",
+     "n": "Michael Des Barres"
+    },
+    {
+     "c": "Mark (Toad Boy)",
+     "n": "Ralph Seymour"
+    },
+    {
+     "c": "Anastasia",
+     "n": "Victoria Catlin"
+    },
+    {
+     "c": "Dick",
+     "n": "Keith Joe Dick"
+    },
+    {
+     "c": "Robin",
+     "n": "Charene Cathleen"
+    },
+    {
+     "c": "Wolfgang",
+     "n": "Jack Nance"
+    },
+    {
+     "c": "Grizzel",
+     "n": "Peter Risch"
+    },
+    {
+     "c": "Mike",
+     "n": "Scott Thomson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Luca Bercovici"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy"
+   ],
+   "id": 18498,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young man and his girlfriend move into the man's old mansion home, where he becomes possessed by a need to control ancient demons.",
+   "popularity": 1.6032,
+   "poster_path": "/yV8z6deULhH4oJAUj2YdhITPwfc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1985-01-18",
+   "revenue": 35000000,
+   "runtime": 81,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They'll get you in the end.",
+   "title": "Ghoulies",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.874,
+   "vote_count": 311
+  },
   "movie:18898": {
    "backdrop_path": "/zVr1ftXM5SsDex3S7LJSH7zVQBC.jpg",
    "budget": 6000000,
@@ -2471,6 +3203,109 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 387
+  },
+  "movie:18998": {
+   "backdrop_path": "/a31Z5OtHALOWIlcIoOaI2OYNFEt.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Robert G. Durant",
+     "n": "Larry Drake"
+    },
+    {
+     "c": "Peyton Westlake / Darkman",
+     "n": "Arnold Vosloo"
+    },
+    {
+     "c": "Jill Randall",
+     "n": "Kim Delaney"
+    },
+    {
+     "c": "Laurie Brinkman",
+     "n": "Renée O'Connor"
+    },
+    {
+     "c": "Dr. Alfred Hathaway",
+     "n": "Lawrence Dane"
+    },
+    {
+     "c": "Dr. David Brinkman",
+     "n": "Jesse Collins"
+    },
+    {
+     "c": "Eddie",
+     "n": "David Ferry"
+    },
+    {
+     "c": "Ivan Druganov",
+     "n": "Rod Wilson"
+    },
+    {
+     "c": "Rollo Latham",
+     "n": "Jack Langedijk"
+    },
+    {
+     "c": "Whitey",
+     "n": "Sten Eirik"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Bradford May"
+   ],
+   "genres": [
+    "Action",
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 18998,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Darkman and Durant return and they hate each other as much as ever. This time, Durant has plans to take over the city's drug trade using high-tech weaponry. Darkman must step in and try to stop Durant once and for all.",
+   "popularity": 2.1385,
+   "poster_path": "/kEQ6FWjvDnIl6sK88LCDcTwwjWr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1995-07-11",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Vengeance strikes hardest in the dark.",
+   "title": "Darkman II: The Return of Durant",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.592,
+   "vote_count": 311
   },
   "movie:19698": {
    "backdrop_path": "/y3jFTq9K46XeQzEXqo1QXpmhXmY.jpg",
@@ -2812,6 +3647,127 @@
    "vote_average": 6.985,
    "vote_count": 461
   },
+  "movie:317198": {
+   "backdrop_path": "/tzlgd1gzYxtzCfwoxT6lEls1v7s.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Monica Reeves",
+     "n": "Laura Marano"
+    },
+    {
+     "c": "Liz Morgan",
+     "n": "Leigh-Allyn Baker"
+    },
+    {
+     "c": "Pierce Peters",
+     "n": "Christian Campbell"
+    },
+    {
+     "c": "Sierra",
+     "n": "Kiana Madeira"
+    },
+    {
+     "c": "Ed",
+     "n": "Christian Paul"
+    },
+    {
+     "c": "Père de Monica",
+     "n": "Alain Goulem"
+    },
+    {
+     "c": "Kyle Timmons",
+     "n": "Jake Manley"
+    },
+    {
+     "c": "Ashley",
+     "n": "Zoé De Grand Maison"
+    },
+    {
+     "c": "Mall Cop",
+     "n": "André Bédard"
+    },
+    {
+     "c": "Impound Clerk",
+     "n": "Mike Paterson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Érik Canuel"
+   ],
+   "genres": [
+    "Comedy",
+    "Adventure",
+    "TV Movie",
+    "Family"
+   ],
+   "id": 317198,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Monica is desperate to be prom queen, but on the big night, her hair is an uncontrollable mess. Meanwhile, FBI agent Liz Morgan is on the hunt for a jewel thief who is looking for a stolen necklace, which Monica has in her possession. Soon, she and the agent chase the jewel thief, and she's whizzed on a wild adventure in the city.",
+   "popularity": 1.5389,
+   "poster_path": "/i1Vum1dbHkFVF0aqb1cNR0OSkD0.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-02-13",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The road to prom can be a big hairy mess.",
+   "title": "Bad Hair Day",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.409,
+   "vote_count": 309
+  },
   "movie:334298": {
    "backdrop_path": "/ptgoTztfxbz0qFo129FwyisORRs.jpg",
    "budget": 0,
@@ -3046,6 +4002,185 @@
    "type": "movie",
    "vote_average": 6.406,
    "vote_count": 430
+  },
+  "movie:36298": {
+   "backdrop_path": "/1ygxEyNuciVw575RSgJn5uQ0HeP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carlo Mascolo",
+     "n": "Carlo Verdone"
+    },
+    {
+     "c": "Lara Vasilescu",
+     "n": "Laura Chiatti"
+    },
+    {
+     "c": "Elisa Draghi",
+     "n": "Angela Finocchiaro"
+    },
+    {
+     "c": "Bea Mascolo",
+     "n": "Anna Bonaiuto"
+    },
+    {
+     "c": "Luigi Mascolo",
+     "n": "Marco Giallini"
+    },
+    {
+     "c": "Alberto Mascolo",
+     "n": "Sergio Fiorentini"
+    },
+    {
+     "c": "Aida",
+     "n": "Agnese Claisse"
+    },
+    {
+     "c": "Eva",
+     "n": "Tamara Di Giulio"
+    },
+    {
+     "c": "Hakira",
+     "n": "Carla Akakpo Nimata"
+    },
+    {
+     "c": "Sofia",
+     "n": "Antoinette Kapinga Mingu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Carlo Verdone"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 36298,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A priest, after spending years in humanitary missions in Africa, reunites with his family, which is in worse conditions than when he left, and above all meets a young lady who will make him doubt both himself and his faith.",
+   "popularity": 0.7858,
+   "poster_path": "/bu5KsogttEN2K5UlDeBiseD478W.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2010-01-05",
+   "revenue": 22039646,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Me, Them and Lara",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 318
+  },
+  "movie:36998": {
+   "backdrop_path": "/rQ0XmwWp9dwhnXNPlm6wN17mxoi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Harry",
+     "n": "Daniel Auteuil"
+    },
+    {
+     "c": "Georges",
+     "n": "Pascal Duquenne"
+    },
+    {
+     "c": "Julie",
+     "n": "Miou-Miou"
+    },
+    {
+     "c": "Bank manager",
+     "n": "Henri Garcin"
+    },
+    {
+     "c": "Georges' Mother",
+     "n": "Isabelle Sadoyan"
+    },
+    {
+     "c": "Fabienne, Georges's sister",
+     "n": "Fabienne Loriaux"
+    },
+    {
+     "c": "Juliette",
+     "n": "Juliette Van Dormael"
+    },
+    {
+     "c": "Snack waitress",
+     "n": "Sabrina Leurquin"
+    },
+    {
+     "c": "Dustman",
+     "n": "Dieudonné Kabongo"
+    },
+    {
+     "c": "Nathalie",
+     "n": "Michele Maes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Jaco Van Dormael"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 36998,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "An unusual and wonderful friendship develops between a busy but unhappy salesman and a resident of a mental asylum.",
+   "popularity": 1.7751,
+   "poster_path": "/cgpJTvFcd0NJyJRTKYaBoLMuqdW.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1996-05-22",
+   "revenue": 0,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "What a difference a day makes…",
+   "title": "The Eighth Day",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.333,
+   "vote_count": 327
   },
   "movie:37498": {
    "backdrop_path": "/cQrq7h8Giz6pDg1jH6kCAjLqI7m.jpg",
@@ -3642,6 +4777,169 @@
    "type": "movie",
    "vote_average": 7.4,
    "vote_count": 418
+  },
+  "movie:424998": {
+   "backdrop_path": "/4KBjtJvuK8Zg8fTDrXHfE4JpLXY.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Lee Strobel",
+     "n": "Mike Vogel"
+    },
+    {
+     "c": "Leslie Strobel",
+     "n": "Erika Christensen"
+    },
+    {
+     "c": "Dr. Roberta Waters",
+     "n": "Faye Dunaway"
+    },
+    {
+     "c": "Walter Strobel",
+     "n": "Robert Forster"
+    },
+    {
+     "c": "Joe Dubois",
+     "n": "Frankie Faison"
+    },
+    {
+     "c": "Alfie Davis",
+     "n": "L. Scott Caldwell"
+    },
+    {
+     "c": "Kenny London",
+     "n": "Mike Pniewski"
+    },
+    {
+     "c": "Dr. Alexander Metherell",
+     "n": "Tom Nowicki"
+    },
+    {
+     "c": "Dr. Gary Habermas",
+     "n": "Michael H. Cole"
+    },
+    {
+     "c": "Dr. William Craig",
+     "n": "Rus Blackwell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jon Gunn"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 424998,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Based on the true story of an award-winning investigative journalist -- and avowed atheist -- who applies his well-honed journalistic and legal skills to disprove the newfound Christian faith of his wife... with unexpected, life-altering results.",
+   "popularity": 2.6808,
+   "poster_path": "/hTKwkxMv5MCkN8vMXiEmMmAHafh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Angel Studios"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/pusUxS9dP5VK7HkN8SLf2wnP9gm.png",
+     "name": "Angel Studios",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-04-07",
+   "revenue": 18200000,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One man's journey to solve the biggest mystery of all times",
+   "title": "The Case for Christ",
+   "trailer": {
+    "key": "UTShvu7UdpI",
+    "name": "Official 30 Second Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 339
   },
   "movie:439998": {
    "backdrop_path": "/g81Zk4WryPdZ9hhHtK51ifahj4r.jpg",
@@ -4714,6 +6012,111 @@
    "type": "movie",
    "vote_average": 6.485,
    "vote_count": 448
+  },
+  "movie:787298": {
+   "backdrop_path": "/82cTBG4ly5fltYI7aA0YMzLMbjy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Monika Grabarczyk",
+     "n": "Adrianna Chlebicka"
+    },
+    {
+     "c": "Stefan 'Enzo' Tkaczyk",
+     "n": "Mateusz Banasiuk"
+    },
+    {
+     "c": "Alicja",
+     "n": "Agnieszka Żulewska"
+    },
+    {
+     "c": "Ilona",
+     "n": "Anna Smołowik"
+    },
+    {
+     "c": "Jacek Szczepański",
+     "n": "Krzysztof Czeczot"
+    },
+    {
+     "c": "Bazyli",
+     "n": "Mirosław Baka"
+    },
+    {
+     "c": "Principal",
+     "n": "Tomasz Karolak"
+    },
+    {
+     "c": "Szymon",
+     "n": "Bartłomiej Kotschedoff"
+    },
+    {
+     "c": "Andrzej",
+     "n": "Jacek Feliks Knap"
+    },
+    {
+     "c": "Ania",
+     "n": "Helena Mazur"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Filip Zylber"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 787298,
+   "industry": "world",
+   "origin_country": [
+    "PL"
+   ],
+   "original_language": "pl",
+   "overview": "A celebrity journalist and renowned womanizer starts to rethink his life choices after he falls for a mysterious model who leads a double life.",
+   "popularity": 1.4048,
+   "poster_path": "/qeRCXsOitUdtDXc5sSVgwYGTZyg.jpg",
+   "production_countries": [
+    "PL"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2021-02-11",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "pl",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Squared Love",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 339
   },
   "movie:8198": {
    "backdrop_path": "/fay6quwuE1sqGJ7R9I2PH5SNmTn.jpg",

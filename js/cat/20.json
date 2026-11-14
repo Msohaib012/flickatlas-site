@@ -1,6 +1,6 @@
 {
  "bucket": "20",
- "count": 48,
+ "count": 56,
  "titles": {
   "movie:1047020": {
    "backdrop_path": "/wy92wLmcjfEy6Gp3v0Q30gxNWrS.jpg",
@@ -457,6 +457,116 @@
    "vote_average": 6.1,
    "vote_count": 387
   },
+  "movie:12520": {
+   "backdrop_path": "/3yLMuH0Xp5gp7Wls3LfcVn6lVU9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jude",
+     "n": "Cameron Diaz"
+    },
+    {
+     "c": "Pete",
+     "n": "Ron Eldard"
+    },
+    {
+     "c": "Paulie",
+     "n": "Annabeth Gish"
+    },
+    {
+     "c": "Marc",
+     "n": "Jonathan Penner"
+    },
+    {
+     "c": "Luke",
+     "n": "Courtney B. Vance"
+    },
+    {
+     "c": "Anti-Enviroment",
+     "n": "Jason Alexander"
+    },
+    {
+     "c": "Sheriff Alice Stanley",
+     "n": "Nora Dunn"
+    },
+    {
+     "c": "Reverend Gerald Hutchens",
+     "n": "Charles Durning"
+    },
+    {
+     "c": "Heather",
+     "n": "Bryn Erin"
+    },
+    {
+     "c": "Dominant Male",
+     "n": "Mark Harmon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Stacy Title"
+   ],
+   "genres": [
+    "Comedy",
+    "Thriller",
+    "Crime",
+    "Drama"
+   ],
+   "id": 12520,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of idealistic but frustrated liberals succumb to the temptation of murdering right-wing pundits for their political beliefs.",
+   "popularity": 1.5524,
+   "poster_path": "/oIgPiiM0qD1mCo1SYG3Sd0vmKTa.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1995-09-08",
+   "revenue": 442965,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Love... Sex... Life... Death. In this house it's all on the table.",
+   "title": "The Last Supper",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.506,
+   "vote_count": 308
+  },
   "movie:12920": {
    "backdrop_path": "/5ldZJsJ4xMj4PqiYH817tW5Ccpa.jpg",
    "budget": 0,
@@ -608,6 +718,204 @@
    "type": "movie",
    "vote_average": 7.065,
    "vote_count": 457
+  },
+  "movie:13020": {
+   "backdrop_path": "/4enh5oCykgbpNiLTEYsnjZJhYVb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Narrator (voice)",
+     "n": "Peter Coyote"
+    },
+    {
+     "c": "Self",
+     "n": "John Beard"
+    },
+    {
+     "c": "Self",
+     "n": "Jim Chanos"
+    },
+    {
+     "c": "Self",
+     "n": "Dick Cheney"
+    },
+    {
+     "c": "Self",
+     "n": "Carol Coale"
+    },
+    {
+     "c": "Self",
+     "n": "Gray Davis"
+    },
+    {
+     "c": "Self",
+     "n": "Reggie Dees II"
+    },
+    {
+     "c": "Self",
+     "n": "Joseph Dunn"
+    },
+    {
+     "c": "Self",
+     "n": "Max Eberts"
+    },
+    {
+     "c": "Self",
+     "n": "Peter Elkind"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Alex Gibney"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 13020,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A documentary about the Enron corporation, its faulty and corrupt business practices, and how they led to its fall.",
+   "popularity": 2.1624,
+   "poster_path": "/zezeOElCxlPui9SFGj5ToZ4W1Nh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Dox Amazon Channel"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/t9kQOukUOI9EcnXN5vtV76HbTfO.png",
+     "name": "Dox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-04-22",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It’s just business.",
+   "title": "Enron: The Smartest Guys in the Room",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.144,
+   "vote_count": 313
   },
   "movie:1420": {
    "backdrop_path": "/lbkDfC6Xw4ZPaAKvXYnUMABOjmp.jpg",
@@ -1856,6 +2164,125 @@
    "vote_average": 6.169,
    "vote_count": 86
   },
+  "movie:16820": {
+   "backdrop_path": "/cWRwP7nBMI0c5JXNLxGpGdAX8O5.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Roland 'Rollie' Tyler",
+     "n": "Bryan Brown"
+    },
+    {
+     "c": "Leo McCarthy",
+     "n": "Brian Dennehy"
+    },
+    {
+     "c": "Kim Brandon",
+     "n": "Rachel Ticotin"
+    },
+    {
+     "c": "Liz Kennedy, Assistant DA",
+     "n": "Joanna Gleason"
+    },
+    {
+     "c": "Lt. Ray Silak, NYPD",
+     "n": "Philip Bosco"
+    },
+    {
+     "c": "Matt Neely",
+     "n": "Kevin J. O'Connor"
+    },
+    {
+     "c": "Mike Brandon, NYPD",
+     "n": "Tom Mason"
+    },
+    {
+     "c": "Desk Sergeant",
+     "n": "Caroline Yeager"
+    },
+    {
+     "c": "Mall Guard",
+     "n": "Dwayne McLean"
+    },
+    {
+     "c": "Defense Attorney",
+     "n": "Damir Andrei"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Richard Franklin"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 16820,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "F/X man Rollie Tyler is now a toymaker. Mike, the ex-husband of his girlfriend Kim, is a cop. He asks Rollie to help catch a killer. The operation goes well until some unknown man kills both the killer and Mike. Mike's boss, Silak says it was the killer who killed Mike but Rollie knows it wasn't. Obviously, Silak is involved with Mike's death, so he calls on Leo McCarthy, the cop from the last movie, who is now a P.I., for help and they discover it's not just Silak they have to worry about.",
+   "popularity": 1.7009,
+   "poster_path": "/dxfR8JnfabPi7YUg4PFsuAa7geW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1991-04-16",
+   "revenue": 21082165,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Deadly Art of Illusion",
+   "title": "F/X2",
+   "trailer": {
+    "key": "0HzhRMBuMCQ",
+    "name": "Original Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.333,
+   "vote_count": 315
+  },
   "movie:169020": {
    "backdrop_path": "/a1DCMO6NBgbXzGS2PEmDorPjZAW.jpg",
    "budget": 0,
@@ -2143,6 +2570,118 @@
    "type": "movie",
    "vote_average": 7.22,
    "vote_count": 352
+  },
+  "movie:2020": {
+   "backdrop_path": "/1tRrXYZ5pMJOW57SFTHetL6f5Ay.jpg",
+   "budget": 51000000,
+   "cast": [
+    {
+     "c": "Jimmie",
+     "n": "Chris O'Donnell"
+    },
+    {
+     "c": "Anne",
+     "n": "Renée Zellweger"
+    },
+    {
+     "c": "Marco",
+     "n": "Artie Lange"
+    },
+    {
+     "c": "Gluckman",
+     "n": "Ed Asner"
+    },
+    {
+     "c": "O'Dell",
+     "n": "Hal Holbrook"
+    },
+    {
+     "c": "Priest",
+     "n": "James Cromwell"
+    },
+    {
+     "c": "Natalie",
+     "n": "Marley Shelton"
+    },
+    {
+     "c": "Grandad",
+     "n": "Peter Ustinov"
+    },
+    {
+     "c": "Monique",
+     "n": "Katharine Towne"
+    },
+    {
+     "c": "Stacey",
+     "n": "Rebecca Cross"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Gary Sinyor"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 2020,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jimmie is seeing his single friends get married one by one. He isn't too worried until his girlfriend Anne catches the bouquet at his friend Marco's wedding. Suddenly, his wild mustang days are numbered. He finally decides to propose to her, but he sticks his foot in his mouth and botches the proposal. Being insulted by the defeatist proposal, Anne leaves town on an assignment. After she's gone, he finds out that his recently-deceased grandfather's will stipulates that he gets nothing of a multi-million dollar fortune unless he's married by 6:05pm on his 30th birthday: tomorrow! Not being able to find Anne, Jimmie begins backtracking through his past girlfriends to find a wife.",
+   "popularity": 2.2281,
+   "poster_path": "/zAF7cDx3SNqx6vjqgH2FLFM9pcm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1999-11-05",
+   "revenue": 36911617,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One thousand brides. One hundred million dollars. Jimmie Shannon is about to discover the true value of love.",
+   "title": "The Bachelor",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.149,
+   "vote_count": 338
   },
   "movie:20620": {
    "backdrop_path": "/xecEY67Z0WycRwImb8jTebOoYQ5.jpg",
@@ -2705,6 +3244,300 @@
    "vote_average": 5.936,
    "vote_count": 425
   },
+  "movie:355020": {
+   "backdrop_path": "/nhjWUf4wXsWZY9hKR1EoQOhjued.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Narrator (voice)",
+     "n": "Cissy Jones"
+    },
+    {
+     "c": "Self",
+     "n": "Bishop Agapit"
+    },
+    {
+     "c": "Self",
+     "n": "Catherine Ashton"
+    },
+    {
+     "c": "Self",
+     "n": "Serhii Averchenko"
+    },
+    {
+     "c": "Self",
+     "n": "Kristina Berdinskikh"
+    },
+    {
+     "c": "Self",
+     "n": "Pavlo Dobryanskyy"
+    },
+    {
+     "c": "Self",
+     "n": "Valery Dovgiy"
+    },
+    {
+     "c": "Self",
+     "n": "Bogdan Dubas"
+    },
+    {
+     "c": "Self",
+     "n": "Kurganskyi Eduard"
+    },
+    {
+     "c": "Self",
+     "n": "Mykhailo Havryliuk"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Evgeny Afineevsky"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 355020,
+   "industry": "world",
+   "origin_country": [
+    "UA",
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Over 93 days in Ukraine, what started as peaceful student demonstrations became a violent revolution and full-fledged civil rights movement.",
+   "popularity": 1.4335,
+   "poster_path": "/xGKMWhYsK3OxQ6ceqMnvXBfFd7G.jpg",
+   "production_countries": [
+    "GB",
+    "US",
+    "UA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2015-09-03",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru",
+    "uk"
+   ],
+   "status": "Released",
+   "tagline": "The next generation of revolution.",
+   "title": "Winter on Fire: Ukraine's Fight for Freedom",
+   "trailer": {
+    "key": "RibAQHeDia8",
+    "name": "Winter On Fire: Ukraine's Fight for Freedom | Trailer [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.873,
+   "vote_count": 332
+  },
+  "movie:400020": {
+   "backdrop_path": "/uJSuJ4eocpofYc6LjEJ7G3vgbfS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Karl Marx",
+     "n": "August Diehl"
+    },
+    {
+     "c": "Friedrich Engels",
+     "n": "Stefan Konarske"
+    },
+    {
+     "c": "Jenny von Westphalen",
+     "n": "Vicky Krieps"
+    },
+    {
+     "c": "Pierre Proudhon",
+     "n": "Olivier Gourmet"
+    },
+    {
+     "c": "Mary Burns",
+     "n": "Hannah Steele"
+    },
+    {
+     "c": "Moses Hess",
+     "n": "Rolf Kanies"
+    },
+    {
+     "c": "Karl Grün",
+     "n": "Niels-Bruno Schmidt"
+    },
+    {
+     "c": "Wilhelm Weitling",
+     "n": "Alexander Scheer"
+    },
+    {
+     "c": "Lenchen",
+     "n": "Marie Meinzenbach"
+    },
+    {
+     "c": "Arnold Ruge",
+     "n": "Hans-Uwe Bauer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Raoul Peck"
+   ],
+   "genres": [
+    "History",
+    "Drama"
+   ],
+   "id": 400020,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "26 year-old Karl Marx embarks with his wife, Jenny, on the road to exile. In 1844 in Paris, he meets Friedrich Engels, an industrialist’s son, who has been investigating the sordid birth of the British working class. Engels, the dandy, provides the last piece of the puzzle to the young Karl Marx’s new vision of the world. Together, between censorship and the police’s repression, riots and political upheavals, they will lead the labor movement during its development into a modern era.",
+   "popularity": 1.9204,
+   "poster_path": "/4VwBXiCzXKJyHfRdVBb843m23dx.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2017-03-02",
+   "revenue": 0,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Young Karl Marx",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 335
+  },
   "movie:43920": {
    "backdrop_path": "/7far1lb1wzsjtE9owzZji4YfqNU.jpg",
    "budget": 0,
@@ -3191,6 +4024,320 @@
    "type": "movie",
    "vote_average": 7.052,
    "vote_count": 363
+  },
+  "movie:57120": {
+   "backdrop_path": "/hhD6lRCScoPd0k9VWTq4kYP8ToX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Emily Tetherow",
+     "n": "Michelle Williams"
+    },
+    {
+     "c": "Stephen Meek",
+     "n": "Bruce Greenwood"
+    },
+    {
+     "c": "Soloman Tetherow",
+     "n": "Will Patton"
+    },
+    {
+     "c": "Millie Gately",
+     "n": "Zoe Kazan"
+    },
+    {
+     "c": "Thomas Gately",
+     "n": "Paul Dano"
+    },
+    {
+     "c": "Glory White",
+     "n": "Shirley Henderson"
+    },
+    {
+     "c": "William White",
+     "n": "Neal Huff"
+    },
+    {
+     "c": "Jimmy White",
+     "n": "Tommy Nelson"
+    },
+    {
+     "c": "The Indian",
+     "n": "Rod Rondeaux"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Kelly Reichardt"
+   ],
+   "genres": [
+    "Western",
+    "Drama"
+   ],
+   "id": 57120,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of settlers traveling through the Oregon High Desert in 1845 find themselves stranded in harsh conditions.",
+   "popularity": 1.234,
+   "poster_path": "/oc28NmVqLx0x8epu3Ih3LvX4zE9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JustWatch TV Plus"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Cineverse"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png",
+     "name": "JustWatch TV Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rqCIpmrCBpnL6oliak6E1mrq5DD.png",
+     "name": "Cineverse",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-04-08",
+   "revenue": 876302,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Road to Civilisation is Not Always Civilised.",
+   "title": "Meek's Cutoff",
+   "trailer": {
+    "key": "iR5o8omffT8",
+    "name": "Official Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 321
+  },
+  "movie:576920": {
+   "backdrop_path": "/n96Mu6w9yGO3MM9yuBrYlVvc6gb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Matvey",
+     "n": "Fedor Fedotov"
+    },
+    {
+     "c": "Alisa",
+     "n": "Sonia Priss"
+    },
+    {
+     "c": "Nikolai Nikolaevitch",
+     "n": "Alexei Guskov"
+    },
+    {
+     "c": "Velikiy Knyaz",
+     "n": "Yuri Kolokolnikov"
+    },
+    {
+     "c": "Severina",
+     "n": "Severija Janušauskaitė"
+    },
+    {
+     "c": "Arkadiy",
+     "n": "Kirill Zaytsev"
+    },
+    {
+     "c": "Alex",
+     "n": "Yura Borisov"
+    },
+    {
+     "c": "Margo",
+     "n": "Alexandra Revenko"
+    },
+    {
+     "c": "Petr",
+     "n": "Timofey Tribuntsev"
+    },
+    {
+     "c": "Dmitriy Mendeleev",
+     "n": "Sergey Koltakov"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Michael Lockshin"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Romance",
+    "History",
+    "Crime",
+    "Family"
+   ],
+   "id": 576920,
+   "industry": "world",
+   "origin_country": [
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "1899, the Christmas-time St.Petersburg. Ice-covered rivers and canals of the capital seethe with festive activities. On the eve of the new century those who should not be destined to meet, come together. They are people from different worlds: Matvey, the son of a lamplighter, whose only treasure is his silver-plated skates; Alice is the daughter of a high-ranking official dreaming of science. Each of them has his own difficult life-story, but having accidentally met they rush forward together in pursuit of their dreams.",
+   "popularity": 1.9297,
+   "poster_path": "/gZSlt41YjSTQE7ah03usHsvmWFs.jpg",
+   "production_countries": [
+    "RU"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2020-12-10",
+   "revenue": 7099734,
+   "runtime": 136,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "A Magical Journey Awaits You!",
+   "title": "Silver Skates",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.495,
+   "vote_count": 321
   },
   "movie:622420": {
    "backdrop_path": "/jbLhPErePs1MRwht2FvQTA9Lcc0.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "98",
- "count": 52,
+ "count": 64,
  "titles": {
   "movie:1061798": {
    "d": "Jim Queen (2026): Animation/Comedy film. Story: When Heterosis, a mysterious virus that turns gay men… See cast and TMDB rating 7.9/10.",
@@ -453,6 +453,69 @@
    "t": "The Kentucky Fried Movie (1977) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1977"
   },
+  "movie:11698": {
+   "d": "Stroszek (1977): Drama film. Story: Bruno Stroszek is released from prison and warned to… See cast, TMDB rating 7.3/10, and release date 20 May 1977.",
+   "img": "https://image.tmdb.org/t/p/w780/eM3Kbzk9v03wJc0yoSC0QGEOU9C.jpg",
+   "industry": "world",
+   "k": "Stroszek, Stroszek movie, Stroszek cast, Stroszek story, Stroszek box office collection, Stroszek budget, Stroszek review, Stroszek rating, Stroszek release date, Stroszek trailer, Stroszek Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bruno S."
+     },
+     {
+      "@type": "Person",
+      "name": "Eva Mattes"
+     },
+     {
+      "@type": "Person",
+      "name": "Clemens Scheitz"
+     },
+     {
+      "@type": "Person",
+      "name": "Wilhelm von Homburg"
+     },
+     {
+      "@type": "Person",
+      "name": "Burkhard Driest"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 320,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Stroszek (1977): Drama film. Story: Bruno Stroszek is released from prison and warned to… See cast, TMDB rating 7.3/10, and release date 20 May 1977.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Werner Herzog"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eM3Kbzk9v03wJc0yoSC0QGEOU9C.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11698",
+    "name": "Stroszek",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1977-05-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11698"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Stroszek (1977)</h1>\n<p class=\"ssr-lead\">Bruno Stroszek is released from prison and warned to stop drinking. He has few skills and fewer expectations: with a glockenspiel and an accordion, he ekes out a living as a street musician. He befriends Eva, a prostitute down on her luck and they join his neighbor, Scheitz, an elderly eccentric, when he leaves Germany to live in Wisconsin.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 May 1977</li><li>Runtime: 108 minutes</li><li>Director: Werner Herzog</li><li>Genres: Drama</li><li>TMDB rating: 7.3/10 (320 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bruno S. as Bruno Stroszek</li><li>Eva Mattes as Eva</li><li>Clemens Scheitz as Scheitz</li><li>Wilhelm von Homburg as Souteneur</li><li>Burkhard Driest as Pimp #2</li><li>Clayton Szalpinski as Mechanic</li><li>Ely Rodriguez as Mechanic&#x27;s Assistant</li><li>Alfred Edel as Prison Warden</li><li>Scott McKain as Bank Teller</li><li>Pitt Bedewitz as Pimp #3</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, Fandor, Fandor Amazon Channel, Shout! Factory Amazon Channel, Cineverse Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Stroszek (1977) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1977"
+  },
   "movie:119698": {
    "d": "The Dinosaur Project (2012): Adventure/Action film. Story: Found footage of an expedition into the Congo jungle… See cast and TMDB rating 5.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/nAhKxK8inVjHeHAw6W2xkQjdbh5.jpg",
@@ -709,6 +772,133 @@
    "t": "Dog 51 (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
   },
+  "movie:12698": {
+   "d": "The Fog of War (2003): Documentary film. Story: Former corporate whiz kid Robert McNamara was the… See cast and TMDB rating 7.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dFFdQgTtvL2X02xuGpDwn6SqFiL.jpg",
+   "industry": "world",
+   "k": "The Fog of War, The Fog of War movie, The Fog of War cast, The Fog of War story, The Fog of War box office collection, The Fog of War budget, The Fog of War review, The Fog of War rating, The Fog of War release date, The Fog of War Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Robert McNamara"
+     },
+     {
+      "@type": "Person",
+      "name": "Errol Morris"
+     },
+     {
+      "@type": "Person",
+      "name": "Fidel Castro"
+     },
+     {
+      "@type": "Person",
+      "name": "Barry Goldwater"
+     },
+     {
+      "@type": "Person",
+      "name": "John F. Kennedy"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 313,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "The Fog of War (2003): Documentary film. Story: Former corporate whiz kid Robert McNamara was the… See cast and TMDB rating 7.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Errol Morris"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dFFdQgTtvL2X02xuGpDwn6SqFiL.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12698",
+    "name": "The Fog of War",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2003-12-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12698"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Fog of War (2003)</h1>\n<p class=\"ssr-lead\">Former corporate whiz kid Robert McNamara was the controversial Secretary of Defense in the Kennedy and Johnson administrations, during the height of the Vietnam War. Augmented by archival footage and cabinet conversation recordings, Errol Morris gives the conflicted McNamara a platform on which he attempts to confront his and the U.S. government&#x27;s actions in Southeast Asia in light of the horrors of modern warfare, the end of ideology and the punitive judgment of history.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 December 2003</li><li>Runtime: 107 minutes</li><li>Director: Errol Morris</li><li>Genres: Documentary</li><li>TMDB rating: 7.7/10 (313 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert McNamara as Self</li><li>Errol Morris as Self (uncredited)</li><li>Fidel Castro as Self (archive footage) (uncredited)</li><li>Barry Goldwater as Self (archive footage) (uncredited)</li><li>John F. Kennedy as Self (archive footage) (uncredited)</li><li>Nikita Khrushchev as Self (archive footage) (uncredited)</li><li>Curtis LeMay as Self (archive footage) (uncredited)</li><li>Richard Nixon as Self (archive footage) (uncredited)</li><li>Harry Reasoner as Self (archive footage) (uncredited)</li><li>Franklin D. Roosevelt as Self (voice) (archive footage) (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Fog of War (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2003"
+  },
+  "movie:1294698": {
+   "d": "Case 137 (2025): Crime/Drama film. Story: When Internal Affairs officer Stéphanie investigates… See cast, TMDB rating 6.9/10, and release date 19 November 2025.",
+   "img": "https://image.tmdb.org/t/p/w780/kjKxmpuPIvXjDP4reWCkMaeK2Es.jpg",
+   "industry": "world",
+   "k": "Case 137, Case 137 movie, Case 137 cast, Case 137 story, Case 137 box office collection, Case 137 budget, Case 137 review, Case 137 rating, Case 137 release date, Case 137 trailer, Case 137 Crime, Case 137 Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Léa Drucker"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonathan Turnbull"
+     },
+     {
+      "@type": "Person",
+      "name": "Mathilde Riu"
+     },
+     {
+      "@type": "Person",
+      "name": "Guslagie Malanda"
+     },
+     {
+      "@type": "Person",
+      "name": "Stanislas Merhar"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 311,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Case 137 (2025): Crime/Drama film. Story: When Internal Affairs officer Stéphanie investigates… See cast, TMDB rating 6.9/10, and release date 19 November 2025.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Dominik Moll"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kjKxmpuPIvXjDP4reWCkMaeK2Es.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1294698",
+    "name": "Case 137",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-11-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1294698"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Case 137 (2025)</h1>\n<p class=\"ssr-lead\">When Internal Affairs officer Stéphanie investigates a young man severely injured during a chaotic Paris demonstration and finds no police misconduct, the routine case hits close to home upon her discovering the victim is from her native town.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 November 2025</li><li>Runtime: 115 minutes</li><li>Director: Dominik Moll</li><li>Genres: Crime, Drama</li><li>TMDB rating: 6.9/10 (311 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Léa Drucker as Stéphanie Bertrand</li><li>Jonathan Turnbull as Benoit Guérini</li><li>Mathilde Riu as Sonia Girard</li><li>Guslagie Malanda as Alicia Mady</li><li>Stanislas Merhar as Jérémy</li><li>Sandra Colombo as Joëlle Girard</li><li>Valentin Campagne as Rémi Cordier</li><li>Mathilde Roehrich as Carole Delarue</li><li>Côme Peronnet as Guillaume Girard</li><li>Solan Machado-Graner as Victor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Case 137 (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
   "movie:1373198": {
    "d": "Twisted (2026): Horror/Thriller film. Story: Two millennial scammers hit the jackpot by… See cast, budget $93, and TMDB rating 4.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/b13AuahXeffKtRYij0QYb9pBuEy.jpg",
@@ -772,6 +962,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Twisted (2026)</h1>\n<p class=\"ssr-lead\">Two millennial scammers hit the jackpot by sub-leasing luxury New York apartments they don&#x27;t own, but their lucrative scheme spirals out of control when they target a mysterious landlord who turns the scam back on them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 February 2026</li><li>Runtime: 93 minutes</li><li>Director: Darren Lynn Bousman</li><li>Genres: Horror, Thriller</li><li>Budget: $93</li><li>TMDB rating: 4.5/10 (62 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Djimon Hounsou as Dr. Kezian</li><li>Lauren LaVera as Paloma</li><li>Mia Healey as Smith</li><li>Neal McDonough as Bradshaw</li><li>Alicia Witt as Rebecca</li><li>Gina Philips as Warricker</li><li>Prof as Crace</li><li>David Call as Tad</li><li>Michael Lombardi as Greg</li><li>Renes Rivera as Lenny</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "Twisted (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:13998": {
+   "d": "Margot at the Wedding (2008): Comedy/Drama film. Story: Margot Zeller is a short story writer with a sharp… See cast, budget $10M, and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/2fjoACGt0udEgZ7dZxFj4QzD7pw.jpg",
+   "industry": "world",
+   "k": "Margot at the Wedding, Margot at the Wedding movie, Margot at the Wedding cast, Margot at the Wedding story, Margot at the Wedding box office collection, Margot at the Wedding budget, Margot at the Wedding review, Margot at the Wedding rating, Margot at the Wedding release date, Margot at the Wedding Comedy, Margot at the Wedding Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nicole Kidman"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Jason Leigh"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Black"
+     },
+     {
+      "@type": "Person",
+      "name": "John Turturro"
+     },
+     {
+      "@type": "Person",
+      "name": "Ciarán Hinds"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 338,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Margot at the Wedding (2008): Comedy/Drama film. Story: Margot Zeller is a short story writer with a sharp… See cast, budget $10M, and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Noah Baumbach"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2fjoACGt0udEgZ7dZxFj4QzD7pw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13998",
+    "name": "Margot at the Wedding",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-02-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13998"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Margot at the Wedding (2008)</h1>\n<p class=\"ssr-lead\">Margot Zeller is a short story writer with a sharp wit and an even sharper tongue. On the eve of her estranged sister Pauline&#x27;s wedding to unemployed musician/artist/depressive Malcolm at the family seaside home, Margot shows up unexpectedly to rekindle the sisterly bond and offer her own brand of support. What ensues is a nakedly honest and subversively funny look at family dynamics.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 February 2008</li><li>Runtime: 91 minutes</li><li>Director: Noah Baumbach</li><li>Genres: Comedy, Drama</li><li>Budget: $10M</li><li>TMDB rating: 5.8/10 (338 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nicole Kidman as Margot</li><li>Jennifer Jason Leigh as Pauline</li><li>Jack Black as Malcolm</li><li>John Turturro as Jim</li><li>Ciarán Hinds as Dick Koosman</li><li>Zane Pais as Claude</li><li>Flora Cross as Ingrid</li><li>Halley Feiffer as Maisy Koosman</li><li>Ashlie Atkinson as Becky</li><li>Matthew Arkin as Alan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Margot at the Wedding (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
   },
   "movie:14098": {
    "d": "100 Feet (2008): Horror film. Story: After Marnie Watson kills her abusive husband in… See cast, budget $10M, TMDB rating 5.7/10, and release date 22 July 2008.",
@@ -1026,6 +1280,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Bay (2026)</h1>\n<p class=\"ssr-lead\">Best friends Emma and Lani, attending a destination wedding in Thailand, find themselves trapped on a sinking tour boat in the heart of a tiger shark sanctuary.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 July 2026</li><li>Runtime: 87 minutes</li><li>Director: Phil Volken</li><li>Genres: Thriller, Horror</li><li>TMDB rating: 5.7/10 (36 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Francesca Eastwood as Emma</li><li>Dani Oliveros as Lani</li><li>Alexander Wraith as Mandal</li><li>Ta&#x27;imua as Ruhan</li><li>Calan Scherer as Kai</li><li>Destiny Benner as Christy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li></ul>\n</article>",
    "t": "The Bay (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:14698": {
+   "d": "Suddenly, Last Summer (1959): Thriller/Drama film. Story: The only son of wealthy widow Violet Venable dies… See cast, budget $3M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pMIIOovLyyCr8W5JFOqsSO8gK1r.jpg",
+   "industry": "world",
+   "k": "Suddenly, Last Summer, Suddenly, Last Summer movie, Suddenly, Last Summer cast, Suddenly, Last Summer story, Suddenly, Last Summer box office collection, Suddenly, Last Summer budget, Suddenly, Last Summer review, Suddenly, Last Summer rating, Suddenly, Last Summer release date, Suddenly, Last Summer Thriller, Suddenly, Last Summer Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Elizabeth Taylor"
+     },
+     {
+      "@type": "Person",
+      "name": "Katharine Hepburn"
+     },
+     {
+      "@type": "Person",
+      "name": "Montgomery Clift"
+     },
+     {
+      "@type": "Person",
+      "name": "Albert Dekker"
+     },
+     {
+      "@type": "Person",
+      "name": "Mercedes McCambridge"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 331,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Suddenly, Last Summer (1959): Thriller/Drama film. Story: The only son of wealthy widow Violet Venable dies… See cast, budget $3M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joseph L. Mankiewicz"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pMIIOovLyyCr8W5JFOqsSO8gK1r.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14698",
+    "name": "Suddenly, Last Summer",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1959-12-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14698"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Suddenly, Last Summer (1959)</h1>\n<p class=\"ssr-lead\">The only son of wealthy widow Violet Venable dies while on vacation with his cousin Catherine. What the girl saw was so horrible that she went insane; now Mrs. Venable wants Catherine lobotomized to cover up the truth.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 December 1959</li><li>Runtime: 114 minutes</li><li>Director: Joseph L. Mankiewicz</li><li>Genres: Thriller, Drama, Mystery</li><li>Budget: $3M</li><li>TMDB rating: 7.3/10 (331 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Elizabeth Taylor as Catherine Holly</li><li>Katharine Hepburn as Violet Venable</li><li>Montgomery Clift as Dr. Cukrowicz</li><li>Albert Dekker as Lawrence Hockstader</li><li>Mercedes McCambridge as Grace Holly</li><li>Gary Raymond as George Holly</li><li>Mavis Villiers as Miss Foxhill</li><li>Patricia Marmont as Nurse Benson</li><li>Joan Young as Sister Felicity</li><li>Maria Britneva as Lucy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Suddenly, Last Summer (1959) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1959"
   },
   "movie:1613798": {
    "d": "Vengeance (2026): Action/Thriller film. Story: The brutal murder of the wife of “Toro,” a military… See cast and TMDB rating 7.5/10.",
@@ -1287,6 +1605,70 @@
    "t": "The Three Kings (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2001"
   },
+  "movie:18498": {
+   "d": "Ghoulies (1985): Horror/Comedy film. Story: A young man and his girlfriend move into the man's… See cast, budget $5.5M, and TMDB rating 4.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jcnqV2LS5z3XtecPragGCPB6Ajs.jpg",
+   "industry": "world",
+   "k": "Ghoulies, Ghoulies movie, Ghoulies cast, Ghoulies story, Ghoulies box office collection, Ghoulies budget, Ghoulies review, Ghoulies rating, Ghoulies release date, Ghoulies Horror, Ghoulies Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Peter Liapis"
+     },
+     {
+      "@type": "Person",
+      "name": "Lisa Pelikan"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Des Barres"
+     },
+     {
+      "@type": "Person",
+      "name": "Ralph Seymour"
+     },
+     {
+      "@type": "Person",
+      "name": "Victoria Catlin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 311,
+     "ratingValue": 4.9,
+     "worstRating": 0
+    },
+    "description": "Ghoulies (1985): Horror/Comedy film. Story: A young man and his girlfriend move into the man's… See cast, budget $5.5M, and TMDB rating 4.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Luca Bercovici"
+     }
+    ],
+    "duration": "PT81M",
+    "genre": [
+     "Horror",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jcnqV2LS5z3XtecPragGCPB6Ajs.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=18498",
+    "name": "Ghoulies",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1985-01-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=18498"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ghoulies (1985)</h1>\n<p class=\"ssr-lead\">A young man and his girlfriend move into the man&#x27;s old mansion home, where he becomes possessed by a need to control ancient demons.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 January 1985</li><li>Runtime: 81 minutes</li><li>Director: Luca Bercovici</li><li>Genres: Horror, Comedy</li><li>Budget: $5.5M</li><li>TMDB rating: 4.9/10 (311 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Peter Liapis as Jonathan Graves</li><li>Lisa Pelikan as Rebecca</li><li>Michael Des Barres as Malcolm Graves</li><li>Ralph Seymour as Mark (Toad Boy)</li><li>Victoria Catlin as Anastasia</li><li>Keith Joe Dick as Dick</li><li>Charene Cathleen as Robin</li><li>Jack Nance as Wolfgang</li><li>Peter Risch as Grizzel</li><li>Scott Thomson as Mike</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Ghoulies (1985) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1985"
+  },
   "movie:18898": {
    "d": "Looking for Eric (2009): Drama/Comedy film. Story: Middle-aged postman and football fan Eric Bishop… See cast, budget $6M, and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/zVr1ftXM5SsDex3S7LJSH7zVQBC.jpg",
@@ -1350,6 +1732,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Looking for Eric (2009)</h1>\n<p class=\"ssr-lead\">Middle-aged postman and football fan Eric Bishop struggles with his increasingly chaotic existence, but receives some life coaching from the famously philosophical Éric Cantona.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 May 2009</li><li>Runtime: 116 minutes</li><li>Director: Ken Loach</li><li>Genres: Drama, Comedy</li><li>Budget: $6M</li><li>TMDB rating: 6.5/10 (387 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Steve Evets as Eric Bishop</li><li>Éric Cantona as Éric Cantona</li><li>Stephanie Bishop as Lily</li><li>Gerard Kearns as Ryan</li><li>Stefan Gumbs as Jess</li><li>Lucy-Jo Hudson as Sam</li><li>Cole Williams as Daisy</li><li>Dylan Williams as Daisy</li><li>Matthew McNulty as Young Eric</li><li>Laura Ainsworth as Young Lily</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC+ Amazon Channel</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
    "t": "Looking for Eric (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2009"
+  },
+  "movie:18998": {
+   "d": "Darkman II: The Return of Durant (1995): Action/Horror film. Story: Darkman and Durant return and they hate each other as… See cast and budget $4M.",
+   "img": "https://image.tmdb.org/t/p/w780/a31Z5OtHALOWIlcIoOaI2OYNFEt.jpg",
+   "industry": "world",
+   "k": "Darkman II: The Return of Durant, Darkman II: The Return of Durant movie, Darkman II: The Return of Durant cast, Darkman II: The Return of Durant story, Darkman II: The Return of Durant box office collection, Darkman II: The Return of Durant budget, Darkman II: The Return of Durant review, Darkman II: The Return of Durant rating, Darkman II: The Return of Durant release date, Darkman II: The Return of Durant Action, Darkman II: The Return of Durant Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Larry Drake"
+     },
+     {
+      "@type": "Person",
+      "name": "Arnold Vosloo"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Delaney"
+     },
+     {
+      "@type": "Person",
+      "name": "Renée O'Connor"
+     },
+     {
+      "@type": "Person",
+      "name": "Lawrence Dane"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 311,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Darkman II: The Return of Durant (1995): Action/Horror film. Story: Darkman and Durant return and they hate each other as… See cast and budget $4M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bradford May"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Action",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/a31Z5OtHALOWIlcIoOaI2OYNFEt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=18998",
+    "name": "Darkman II: The Return of Durant",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1995-07-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=18998"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Darkman II: The Return of Durant (1995)</h1>\n<p class=\"ssr-lead\">Darkman and Durant return and they hate each other as much as ever. This time, Durant has plans to take over the city&#x27;s drug trade using high-tech weaponry. Darkman must step in and try to stop Durant once and for all.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 July 1995</li><li>Runtime: 93 minutes</li><li>Director: Bradford May</li><li>Genres: Action, Horror, Science Fiction, Thriller</li><li>Budget: $4M</li><li>TMDB rating: 5.6/10 (311 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Larry Drake as Robert G. Durant</li><li>Arnold Vosloo as Peyton Westlake / Darkman</li><li>Kim Delaney as Jill Randall</li><li>Renée O&#x27;Connor as Laurie Brinkman</li><li>Lawrence Dane as Dr. Alfred Hathaway</li><li>Jesse Collins as Dr. David Brinkman</li><li>David Ferry as Eddie</li><li>Rod Wilson as Ivan Druganov</li><li>Jack Langedijk as Rollo Latham</li><li>Sten Eirik as Whitey</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Darkman II: The Return of Durant (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1995"
   },
   "movie:19698": {
    "d": "Porky's II: The Next Day (1983): Comedy film. Story: When the students of Angel Beach High decide to stage… See cast, budget $6.5M, and TMDB rating 5.7/10.",
@@ -1541,6 +1987,70 @@
    "t": "Zabriskie Point (1970) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1970"
   },
+  "movie:317198": {
+   "d": "Bad Hair Day (2015): Comedy/Adventure film. Story: Monica is desperate to be prom queen, but on the big… See cast and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tzlgd1gzYxtzCfwoxT6lEls1v7s.jpg",
+   "industry": "world",
+   "k": "Bad Hair Day, Bad Hair Day movie, Bad Hair Day cast, Bad Hair Day story, Bad Hair Day box office collection, Bad Hair Day budget, Bad Hair Day review, Bad Hair Day rating, Bad Hair Day release date, Bad Hair Day Comedy, Bad Hair Day Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Laura Marano"
+     },
+     {
+      "@type": "Person",
+      "name": "Leigh-Allyn Baker"
+     },
+     {
+      "@type": "Person",
+      "name": "Christian Campbell"
+     },
+     {
+      "@type": "Person",
+      "name": "Kiana Madeira"
+     },
+     {
+      "@type": "Person",
+      "name": "Christian Paul"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 309,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Bad Hair Day (2015): Comedy/Adventure film. Story: Monica is desperate to be prom queen, but on the big… See cast and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Érik Canuel"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Comedy",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tzlgd1gzYxtzCfwoxT6lEls1v7s.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=317198",
+    "name": "Bad Hair Day",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-02-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=317198"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bad Hair Day (2015)</h1>\n<p class=\"ssr-lead\">Monica is desperate to be prom queen, but on the big night, her hair is an uncontrollable mess. Meanwhile, FBI agent Liz Morgan is on the hunt for a jewel thief who is looking for a stolen necklace, which Monica has in her possession. Soon, she and the agent chase the jewel thief, and she&#x27;s whizzed on a wild adventure in the city.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 February 2015</li><li>Runtime: 90 minutes</li><li>Director: Érik Canuel</li><li>Genres: Comedy, Adventure, TV Movie, Family</li><li>TMDB rating: 6.4/10 (309 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Laura Marano as Monica Reeves</li><li>Leigh-Allyn Baker as Liz Morgan</li><li>Christian Campbell as Pierce Peters</li><li>Kiana Madeira as Sierra</li><li>Christian Paul as Ed</li><li>Alain Goulem as Père de Monica</li><li>Jake Manley as Kyle Timmons</li><li>Zoé De Grand Maison as Ashley</li><li>André Bédard as Mall Cop</li><li>Mike Paterson as Impound Clerk</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li><li>Buy: Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Bad Hair Day (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:334298": {
    "d": "Monster Hunt (2015): Comedy/Fantasy film. Story: Young monster kids try to make peace between the… See cast, TMDB rating 6.5/10, and release date 16 July 2015.",
    "img": "https://image.tmdb.org/t/p/w780/ptgoTztfxbz0qFo129FwyisORRs.jpg",
@@ -1668,6 +2178,133 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Don&#x27;t Think Twice (2016)</h1>\n<p class=\"ssr-lead\">An improv group deals with several crises, including the loss of their lease and one member hitting the big time.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 July 2016</li><li>Runtime: 92 minutes</li><li>Director: Mike Birbiglia</li><li>Genres: Comedy, Drama</li><li>Budget: $2.4M</li><li>TMDB rating: 6.4/10 (430 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Keegan-Michael Key as Jack</li><li>Gillian Jacobs as Samantha</li><li>Chris Gethard as Bill</li><li>Kate Micucci as Allison</li><li>Tami Sagher as Lindsay</li><li>Mike Birbiglia as Miles</li><li>Richard Masur as Lou</li><li>Sondra James as Bonnie</li><li>Richard Kline as Mr. Coughlin</li><li>Emily Skeggs as Shy Sarah</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Don't Think Twice (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
+  },
+  "movie:36298": {
+   "d": "Me, Them and Lara (2010): Comedy/Drama film. Story: A priest, after spending years in humanitary missions… See cast and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1ygxEyNuciVw575RSgJn5uQ0HeP.jpg",
+   "industry": "world",
+   "k": "Me, Them and Lara, Me, Them and Lara movie, Me, Them and Lara cast, Me, Them and Lara story, Me, Them and Lara box office collection, Me, Them and Lara budget, Me, Them and Lara review, Me, Them and Lara rating, Me, Them and Lara release date, Me, Them and Lara Comedy, Me, Them and Lara Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Carlo Verdone"
+     },
+     {
+      "@type": "Person",
+      "name": "Laura Chiatti"
+     },
+     {
+      "@type": "Person",
+      "name": "Angela Finocchiaro"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Bonaiuto"
+     },
+     {
+      "@type": "Person",
+      "name": "Marco Giallini"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 318,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Me, Them and Lara (2010): Comedy/Drama film. Story: A priest, after spending years in humanitary missions… See cast and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Carlo Verdone"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1ygxEyNuciVw575RSgJn5uQ0HeP.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=36298",
+    "name": "Me, Them and Lara",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-01-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=36298"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Me, Them and Lara (2010)</h1>\n<p class=\"ssr-lead\">A priest, after spending years in humanitary missions in Africa, reunites with his family, which is in worse conditions than when he left, and above all meets a young lady who will make him doubt both himself and his faith.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 January 2010</li><li>Runtime: 115 minutes</li><li>Director: Carlo Verdone</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 5.6/10 (318 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Carlo Verdone as Carlo Mascolo</li><li>Laura Chiatti as Lara Vasilescu</li><li>Angela Finocchiaro as Elisa Draghi</li><li>Anna Bonaiuto as Bea Mascolo</li><li>Marco Giallini as Luigi Mascolo</li><li>Sergio Fiorentini as Alberto Mascolo</li><li>Agnese Claisse as Aida</li><li>Tamara Di Giulio as Eva</li><li>Carla Akakpo Nimata as Hakira</li><li>Antoinette Kapinga Mingu as Sofia</li></ul>\n</article>",
+   "t": "Me, Them and Lara (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
+  },
+  "movie:36998": {
+   "d": "The Eighth Day (1996): Drama film. Story: An unusual and wonderful friendship develops between… See cast, TMDB rating 7.3/10, and release date 22 May 1996.",
+   "img": "https://image.tmdb.org/t/p/w780/rQ0XmwWp9dwhnXNPlm6wN17mxoi.jpg",
+   "industry": "world",
+   "k": "The Eighth Day, The Eighth Day movie, The Eighth Day cast, The Eighth Day story, The Eighth Day box office collection, The Eighth Day budget, The Eighth Day review, The Eighth Day rating, The Eighth Day release date, The Eighth Day Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Daniel Auteuil"
+     },
+     {
+      "@type": "Person",
+      "name": "Pascal Duquenne"
+     },
+     {
+      "@type": "Person",
+      "name": "Miou-Miou"
+     },
+     {
+      "@type": "Person",
+      "name": "Henri Garcin"
+     },
+     {
+      "@type": "Person",
+      "name": "Isabelle Sadoyan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 327,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "The Eighth Day (1996): Drama film. Story: An unusual and wonderful friendship develops between… See cast, TMDB rating 7.3/10, and release date 22 May 1996.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jaco Van Dormael"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rQ0XmwWp9dwhnXNPlm6wN17mxoi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=36998",
+    "name": "The Eighth Day",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1996-05-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=36998"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Eighth Day (1996)</h1>\n<p class=\"ssr-lead\">An unusual and wonderful friendship develops between a busy but unhappy salesman and a resident of a mental asylum.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 May 1996</li><li>Runtime: 118 minutes</li><li>Director: Jaco Van Dormael</li><li>Genres: Drama</li><li>TMDB rating: 7.3/10 (327 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Daniel Auteuil as Harry</li><li>Pascal Duquenne as Georges</li><li>Miou-Miou as Julie</li><li>Henri Garcin as Bank manager</li><li>Isabelle Sadoyan as Georges&#x27; Mother</li><li>Fabienne Loriaux as Fabienne, Georges&#x27;s sister</li><li>Juliette Van Dormael as Juliette</li><li>Sabrina Leurquin as Snack waitress</li><li>Dieudonné Kabongo as Dustman</li><li>Michele Maes as Nathalie</li></ul>\n</article>",
+   "t": "The Eighth Day (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1996"
   },
   "movie:37498": {
    "d": "Knock Off (1998): Action/Crime film. Story: A fashion designer and his CIA agent business partner… See cast, budget $35M, and TMDB rating 5.4/10.",
@@ -1924,6 +2561,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>One Piece Film: Strong World (2010)</h1>\n<p class=\"ssr-lead\">20 years after his escape from Impel Down, the legendary pirate Shiki, the Golden Lion, reappears causing massive upheaval to the Marines. During his long seclusion, he was able to come up with a scheme to bring the World Government to his knees. On his way to execute the plan, Shiki crosses paths with the Straw Hat Pirates and becomes so impressed with Nami&#x27;s knowledge of meteorology that he abducts her to forcedly enlist her into his crew. Luffy and the gang end up on a strange land populated with monstrous beasts as they desperately search for Shiki and Nami.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 February 2010</li><li>Runtime: 116 minutes</li><li>Director: Munehisa Sakai</li><li>Genres: Animation, Fantasy, Adventure</li><li>TMDB rating: 7.4/10 (418 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mayumi Tanaka as Monkey D. Luffy (voice)</li><li>Kazuya Nakai as Roronoa Zoro (voice)</li><li>Akemi Okamura as Nami (voice)</li><li>Kappei Yamaguchi as Usopp (voice)</li><li>Hiroaki Hirata as Sanji (voice)</li><li>Ikue Otani as Tony Tony Chopper (voice)</li><li>Yuriko Yamaguchi as Nico Robin (voice)</li><li>Kazuki Yao as Franky (voice)</li><li>Cho as Brook (voice)</li><li>Naoto Takenaka as Shiki (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "One Piece Film: Strong World (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
+  },
+  "movie:424998": {
+   "d": "The Case for Christ (2017): Drama film. Story: Based on the true story of an award-winning… See cast, budget $3M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4KBjtJvuK8Zg8fTDrXHfE4JpLXY.jpg",
+   "industry": "world",
+   "k": "The Case for Christ, The Case for Christ movie, The Case for Christ cast, The Case for Christ story, The Case for Christ box office collection, The Case for Christ budget, The Case for Christ review, The Case for Christ rating, The Case for Christ release date, The Case for Christ trailer, The Case for Christ Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mike Vogel"
+     },
+     {
+      "@type": "Person",
+      "name": "Erika Christensen"
+     },
+     {
+      "@type": "Person",
+      "name": "Faye Dunaway"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Forster"
+     },
+     {
+      "@type": "Person",
+      "name": "Frankie Faison"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 339,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "The Case for Christ (2017): Drama film. Story: Based on the true story of an award-winning… See cast, budget $3M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jon Gunn"
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4KBjtJvuK8Zg8fTDrXHfE4JpLXY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=424998",
+    "name": "The Case for Christ",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-04-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=424998"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Case for Christ (2017)</h1>\n<p class=\"ssr-lead\">Based on the true story of an award-winning investigative journalist -- and avowed atheist -- who applies his well-honed journalistic and legal skills to disprove the newfound Christian faith of his wife... with unexpected, life-altering results.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 April 2017</li><li>Runtime: 112 minutes</li><li>Director: Jon Gunn</li><li>Genres: Drama</li><li>Budget: $3M</li><li>TMDB rating: 7.0/10 (339 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mike Vogel as Lee Strobel</li><li>Erika Christensen as Leslie Strobel</li><li>Faye Dunaway as Dr. Roberta Waters</li><li>Robert Forster as Walter Strobel</li><li>Frankie Faison as Joe Dubois</li><li>L. Scott Caldwell as Alfie Davis</li><li>Mike Pniewski as Kenny London</li><li>Tom Nowicki as Dr. Alexander Metherell</li><li>Michael H. Cole as Dr. Gary Habermas</li><li>Rus Blackwell as Dr. William Craig</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Angel Studios</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Case for Christ (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
   },
   "movie:439998": {
    "d": "Omicidio all'italiana (2017): Comedy film. Story: To save his crumbling and rapidly-depopulating rural… See cast and TMDB rating 6.3/10.",
@@ -2371,6 +3071,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>EO (2022)</h1>\n<p class=\"ssr-lead\">The world is a mysterious place when seen through the eyes of an animal. EO, a grey donkey with melancholic eyes, meets good and bad people on his life’s path, experiences joy and pain, endures the wheel of fortune randomly turn his luck into disaster and his despair into unexpected bliss. But not even for a moment does he lose his innocence.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 September 2022</li><li>Runtime: 88 minutes</li><li>Director: Jerzy Skolimowski</li><li>Genres: Drama, Adventure</li><li>TMDB rating: 6.5/10 (448 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sandra Drzymalska as Kasandra</li><li>Isabelle Huppert as The Countess</li><li>Lorenzo Zurzolo as Vito</li><li>Mateusz Kościukiewicz as Mateo</li><li>Tomasz Organek as Ziom</li><li>Lolita Chammah as Dora</li><li>Agata Sasinowska as Kaja</li><li>Anna Rokita as Dorota</li><li>Michał Przybysławski as Zenek</li><li>Gloria Iradukunda as Zea</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
    "t": "EO (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:787298": {
+   "d": "Squared Love (2021): Romance/Comedy film. Story: A celebrity journalist and renowned womanizer starts… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/82cTBG4ly5fltYI7aA0YMzLMbjy.jpg",
+   "industry": "world",
+   "k": "Squared Love, Squared Love movie, Squared Love cast, Squared Love story, Squared Love box office collection, Squared Love budget, Squared Love review, Squared Love rating, Squared Love release date, Squared Love Romance, Squared Love Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Adrianna Chlebicka"
+     },
+     {
+      "@type": "Person",
+      "name": "Mateusz Banasiuk"
+     },
+     {
+      "@type": "Person",
+      "name": "Agnieszka Żulewska"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Smołowik"
+     },
+     {
+      "@type": "Person",
+      "name": "Krzysztof Czeczot"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 339,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Squared Love (2021): Romance/Comedy film. Story: A celebrity journalist and renowned womanizer starts… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Filip Zylber"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/82cTBG4ly5fltYI7aA0YMzLMbjy.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=787298",
+    "name": "Squared Love",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-02-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=787298"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Squared Love (2021)</h1>\n<p class=\"ssr-lead\">A celebrity journalist and renowned womanizer starts to rethink his life choices after he falls for a mysterious model who leads a double life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 February 2021</li><li>Runtime: 102 minutes</li><li>Director: Filip Zylber</li><li>Genres: Romance, Comedy</li><li>TMDB rating: 6.1/10 (339 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Adrianna Chlebicka as Monika Grabarczyk</li><li>Mateusz Banasiuk as Stefan &#x27;Enzo&#x27; Tkaczyk</li><li>Agnieszka Żulewska as Alicja</li><li>Anna Smołowik as Ilona</li><li>Krzysztof Czeczot as Jacek Szczepański</li><li>Mirosław Baka as Bazyli</li><li>Tomasz Karolak as Principal</li><li>Bartłomiej Kotschedoff as Szymon</li><li>Jacek Feliks Knap as Andrzej</li><li>Helena Mazur as Ania</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Squared Love (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "movie:8198": {
    "d": "The Quiet American (2002): Romance/Thriller film. Story: Cynical British journalist Fowler falls in love with… See cast, budget $30M, and TMDB rating 6.6/10.",

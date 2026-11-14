@@ -1,6 +1,6 @@
 {
  "bucket": "20",
- "count": 48,
+ "count": 56,
  "titles": {
   "movie:1047020": {
    "d": "The Last Stop in Yuma County (2024): Crime/Drama film. Story: While awaiting the next fuel truck at a… See cast and TMDB rating 6.9/10.",
@@ -194,6 +194,70 @@
    "t": "The Story of Us (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1999"
   },
+  "movie:12520": {
+   "d": "The Last Supper (1995): Comedy/Thriller film. Story: A group of idealistic but frustrated liberals succumb… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3yLMuH0Xp5gp7Wls3LfcVn6lVU9.jpg",
+   "industry": "world",
+   "k": "The Last Supper, The Last Supper movie, The Last Supper cast, The Last Supper story, The Last Supper box office collection, The Last Supper budget, The Last Supper review, The Last Supper rating, The Last Supper release date, The Last Supper Comedy, The Last Supper Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Cameron Diaz"
+     },
+     {
+      "@type": "Person",
+      "name": "Ron Eldard"
+     },
+     {
+      "@type": "Person",
+      "name": "Annabeth Gish"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonathan Penner"
+     },
+     {
+      "@type": "Person",
+      "name": "Courtney B. Vance"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 308,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "The Last Supper (1995): Comedy/Thriller film. Story: A group of idealistic but frustrated liberals succumb… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stacy Title"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Comedy",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3yLMuH0Xp5gp7Wls3LfcVn6lVU9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12520",
+    "name": "The Last Supper",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1995-09-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12520"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Last Supper (1995)</h1>\n<p class=\"ssr-lead\">A group of idealistic but frustrated liberals succumb to the temptation of murdering right-wing pundits for their political beliefs.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 September 1995</li><li>Runtime: 92 minutes</li><li>Director: Stacy Title</li><li>Genres: Comedy, Thriller, Crime, Drama</li><li>TMDB rating: 6.5/10 (308 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Cameron Diaz as Jude</li><li>Ron Eldard as Pete</li><li>Annabeth Gish as Paulie</li><li>Jonathan Penner as Marc</li><li>Courtney B. Vance as Luke</li><li>Jason Alexander as Anti-Enviroment</li><li>Nora Dunn as Sheriff Alice Stanley</li><li>Charles Durning as Reverend Gerald Hutchens</li><li>Bryn Erin as Heather</li><li>Mark Harmon as Dominant Male</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Last Supper (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1995"
+  },
   "movie:12920": {
    "d": "Dreamer: Inspired By a True Story (2005): Drama/Family film. Story: Ben Crane believes that a severely injured racehorse… See cast and TMDB rating 7.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/5ldZJsJ4xMj4PqiYH817tW5Ccpa.jpg",
@@ -256,6 +320,69 @@
    "published": "2026-11-13",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Dreamer: Inspired By a True Story (2005)</h1>\n<p class=\"ssr-lead\">Ben Crane believes that a severely injured racehorse deserves another chance. He and his daughter Cale adopt the mare and save it from being sacrificed by the owner.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 September 2005</li><li>Runtime: 106 minutes</li><li>Director: John Gatins</li><li>Genres: Drama, Family</li><li>TMDB rating: 7.1/10 (457 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kurt Russell as Ben Crane</li><li>Dakota Fanning as Cale Crane</li><li>Kris Kristofferson as Pop Crane</li><li>Elisabeth Shue as Lily</li><li>David Morse as Palmer</li><li>Freddy Rodríguez as Manolin</li><li>Luis Guzmán as Balon</li><li>Oded Fehr as Prince Sadir</li><li>Ken Howard as William Ford</li><li>Holmes Osborne as Doc Fleming</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Dreamer: Inspired By a True Story (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
+  },
+  "movie:13020": {
+   "d": "Enron: The Smartest Guys in the Room (2005): Documentary film. Story: A documentary about the Enron corporation, its faulty… See cast and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4enh5oCykgbpNiLTEYsnjZJhYVb.jpg",
+   "industry": "world",
+   "k": "Enron: The Smartest Guys in the Room, Enron: The Smartest Guys in the Room movie, Enron: The Smartest Guys in the Room cast, Enron: The Smartest Guys in the Room story, Enron: The Smartest Guys in the Room box office collection, Enron: The Smartest Guys in the Room budget, Enron: The Smartest Guys in the Room review, Enron: The Smartest Guys in the Room rating, Enron: The Smartest Guys in the Room release date, Enron: The Smartest Guys in the Room Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Peter Coyote"
+     },
+     {
+      "@type": "Person",
+      "name": "John Beard"
+     },
+     {
+      "@type": "Person",
+      "name": "Jim Chanos"
+     },
+     {
+      "@type": "Person",
+      "name": "Dick Cheney"
+     },
+     {
+      "@type": "Person",
+      "name": "Carol Coale"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 313,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Enron: The Smartest Guys in the Room (2005): Documentary film. Story: A documentary about the Enron corporation, its faulty… See cast and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alex Gibney"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4enh5oCykgbpNiLTEYsnjZJhYVb.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13020",
+    "name": "Enron: The Smartest Guys in the Room",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-04-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13020"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Enron: The Smartest Guys in the Room (2005)</h1>\n<p class=\"ssr-lead\">A documentary about the Enron corporation, its faulty and corrupt business practices, and how they led to its fall.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 April 2005</li><li>Runtime: 110 minutes</li><li>Director: Alex Gibney</li><li>Genres: Documentary</li><li>TMDB rating: 7.1/10 (313 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Peter Coyote as Self - Narrator (voice)</li><li>John Beard as Self</li><li>Jim Chanos as Self</li><li>Dick Cheney as Self</li><li>Carol Coale as Self</li><li>Gray Davis as Self</li><li>Reggie Dees II as Self</li><li>Joseph Dunn as Self</li><li>Max Eberts as Self</li><li>Peter Elkind as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, Dox Amazon Channel, Magnolia Selects Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li></ul>\n</article>",
+   "t": "Enron: The Smartest Guys in the Room (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2005"
   },
   "movie:1420": {
@@ -957,6 +1084,70 @@
    "t": "23 000 Lives (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:16820": {
+   "d": "F/X2 (1991): Action/Thriller film. Story: F/X man Rollie Tyler is now a toymaker. Mike, the… See cast, budget $18M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cWRwP7nBMI0c5JXNLxGpGdAX8O5.jpg",
+   "industry": "world",
+   "k": "F/X2, F/X2 movie, F/X2 cast, F/X2 story, F/X2 box office collection, F/X2 budget, F/X2 review, F/X2 rating, F/X2 release date, F/X2 trailer, F/X2 Action, F/X2 Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bryan Brown"
+     },
+     {
+      "@type": "Person",
+      "name": "Brian Dennehy"
+     },
+     {
+      "@type": "Person",
+      "name": "Rachel Ticotin"
+     },
+     {
+      "@type": "Person",
+      "name": "Joanna Gleason"
+     },
+     {
+      "@type": "Person",
+      "name": "Philip Bosco"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 315,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "F/X2 (1991): Action/Thriller film. Story: F/X man Rollie Tyler is now a toymaker. Mike, the… See cast, budget $18M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Richard Franklin"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cWRwP7nBMI0c5JXNLxGpGdAX8O5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=16820",
+    "name": "F/X2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1991-04-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=16820"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>F/X2 (1991)</h1>\n<p class=\"ssr-lead\">F/X man Rollie Tyler is now a toymaker. Mike, the ex-husband of his girlfriend Kim, is a cop. He asks Rollie to help catch a killer. The operation goes well until some unknown man kills both the killer and Mike. Mike&#x27;s boss, Silak says it was the killer who killed Mike but Rollie knows it wasn&#x27;t. Obviously, Silak is involved with Mike&#x27;s death, so he calls on Leo McCarthy, the cop from the last movie, who is now a P.I., for help and they discover it&#x27;s not just Silak they have to worry about.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 April 1991</li><li>Runtime: 108 minutes</li><li>Director: Richard Franklin</li><li>Genres: Action, Thriller</li><li>Budget: $18M</li><li>TMDB rating: 6.3/10 (315 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bryan Brown as Roland &#x27;Rollie&#x27; Tyler</li><li>Brian Dennehy as Leo McCarthy</li><li>Rachel Ticotin as Kim Brandon</li><li>Joanna Gleason as Liz Kennedy, Assistant DA</li><li>Philip Bosco as Lt. Ray Silak, NYPD</li><li>Kevin J. O&#x27;Connor as Matt Neely</li><li>Tom Mason as Mike Brandon, NYPD</li><li>Caroline Yeager as Desk Sergeant</li><li>Dwayne McLean as Mall Guard</li><li>Damir Andrei as Defense Attorney</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "F/X2 (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1991"
+  },
   "movie:169020": {
    "d": "Vive la France (2013): Comedy film. Story: Muzafar and Feruz are two easy going shepherds from… See cast, TMDB rating 5.2/10, and release date 20 February 2013.",
    "img": "https://image.tmdb.org/t/p/w780/a1DCMO6NBgbXzGS2PEmDorPjZAW.jpg",
@@ -1083,6 +1274,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Juliet of the Spirits (1965)</h1>\n<p class=\"ssr-lead\">Middle-aged Giulietta grows suspicious of her husband, Giorgio, when his behavior grows increasingly questionable. One night when Giorgio initiates a seance amongst his friends, Giulietta gets in touch with spirits and learns more about herself and her painful past. Slightly skeptical, but intrigued, she visits a mystic who gives her more information -- and nudges her toward the realization that her husband is indeed a philanderer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 October 1965</li><li>Runtime: 148 minutes</li><li>Director: Federico Fellini</li><li>Genres: Comedy, Drama, Fantasy</li><li>TMDB rating: 7.2/10 (352 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Giulietta Masina as Giulietta Boldrini</li><li>Sandra Milo as Suzy / Iris / Fanny</li><li>Mario Pisu as Giorgio (Giulietta&#x27;s husband)</li><li>Valentina Cortese as Valentina</li><li>Valeska Gert as Pijma</li><li>José Luis de Vilallonga as Giorgio&#x27;s friend</li><li>Friedrich von Ledebur as Medium</li><li>Caterina Boratto as Giulietta&#x27;s mother</li><li>Lou Gilbert as Grandfather</li><li>Luisa Della Noce as Adele</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, Criterion Channel, HBO Max</li><li>Rent: Amazon Video, Fandango At Home</li><li>Buy: Amazon Video, Fandango At Home</li></ul>\n</article>",
    "t": "Juliet of the Spirits (1965) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1965"
+  },
+  "movie:2020": {
+   "d": "The Bachelor (1999): Comedy/Romance film. Story: Jimmie is seeing his single friends get married one… See cast, budget $51M, and TMDB rating 5.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1tRrXYZ5pMJOW57SFTHetL6f5Ay.jpg",
+   "industry": "world",
+   "k": "The Bachelor, The Bachelor movie, The Bachelor cast, The Bachelor story, The Bachelor box office collection, The Bachelor budget, The Bachelor review, The Bachelor rating, The Bachelor release date, The Bachelor Comedy, The Bachelor Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chris O'Donnell"
+     },
+     {
+      "@type": "Person",
+      "name": "Renée Zellweger"
+     },
+     {
+      "@type": "Person",
+      "name": "Artie Lange"
+     },
+     {
+      "@type": "Person",
+      "name": "Ed Asner"
+     },
+     {
+      "@type": "Person",
+      "name": "Hal Holbrook"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 338,
+     "ratingValue": 5.1,
+     "worstRating": 0
+    },
+    "description": "The Bachelor (1999): Comedy/Romance film. Story: Jimmie is seeing his single friends get married one… See cast, budget $51M, and TMDB rating 5.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gary Sinyor"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1tRrXYZ5pMJOW57SFTHetL6f5Ay.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2020",
+    "name": "The Bachelor",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1999-11-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2020"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Bachelor (1999)</h1>\n<p class=\"ssr-lead\">Jimmie is seeing his single friends get married one by one. He isn&#x27;t too worried until his girlfriend Anne catches the bouquet at his friend Marco&#x27;s wedding. Suddenly, his wild mustang days are numbered. He finally decides to propose to her, but he sticks his foot in his mouth and botches the proposal. Being insulted by the defeatist proposal, Anne leaves town on an assignment. After she&#x27;s gone, he finds out that his recently-deceased grandfather&#x27;s will stipulates that he gets nothing of a multi-million dollar fortune unless he&#x27;s married by 6:05pm on his 30th birthday: tomorrow! Not being able to find Anne, Jimmie begins backtracking through his past girlfriends to find a wife.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 November 1999</li><li>Runtime: 101 minutes</li><li>Director: Gary Sinyor</li><li>Genres: Comedy, Romance</li><li>Budget: $51M</li><li>TMDB rating: 5.1/10 (338 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chris O&#x27;Donnell as Jimmie</li><li>Renée Zellweger as Anne</li><li>Artie Lange as Marco</li><li>Ed Asner as Gluckman</li><li>Hal Holbrook as O&#x27;Dell</li><li>James Cromwell as Priest</li><li>Marley Shelton as Natalie</li><li>Peter Ustinov as Grandad</li><li>Katharine Towne as Monique</li><li>Rebecca Cross as Stacey</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Bachelor (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1999"
   },
   "movie:20620": {
    "d": "Seconds (1966): Science Fiction/Thriller film. Story: An unhappy middle-aged banker agrees to a procedure… See cast, budget $2.5M, and TMDB rating 7.4/10.",
@@ -1410,6 +1665,133 @@
    "t": "Ma che bella sorpresa (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:355020": {
+   "d": "Winter on Fire: Ukraine's Fight for Freedom (2015): Documentary film. Story: Over 93 days in Ukraine, what started as peaceful… See cast and TMDB rating 7.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/nhjWUf4wXsWZY9hKR1EoQOhjued.jpg",
+   "industry": "world",
+   "k": "Winter on Fire: Ukraine's Fight for Freedom, Winter on Fire: Ukraine's Fight for Freedom movie, Winter on Fire: Ukraine's Fight for Freedom cast, Winter on Fire: Ukraine's Fight for Freedom story, Winter on Fire: Ukraine's Fight for Freedom box office collection, Winter on Fire: Ukraine's Fight for Freedom budget, Winter on Fire: Ukraine's Fight for Freedom review, Winter on Fire: Ukraine's Fight for Freedom rating, Winter on Fire: Ukraine's Fight for Freedom release date, Winter on Fire: Ukraine's Fight for Freedom trailer, Winter on Fire: Ukraine's Fight for Freedom Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Cissy Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Bishop Agapit"
+     },
+     {
+      "@type": "Person",
+      "name": "Catherine Ashton"
+     },
+     {
+      "@type": "Person",
+      "name": "Serhii Averchenko"
+     },
+     {
+      "@type": "Person",
+      "name": "Kristina Berdinskikh"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 332,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Winter on Fire: Ukraine's Fight for Freedom (2015): Documentary film. Story: Over 93 days in Ukraine, what started as peaceful… See cast and TMDB rating 7.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Evgeny Afineevsky"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nhjWUf4wXsWZY9hKR1EoQOhjued.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=355020",
+    "name": "Winter on Fire: Ukraine's Fight for Freedom",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-09-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=355020"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Winter on Fire: Ukraine&#x27;s Fight for Freedom (2015)</h1>\n<p class=\"ssr-lead\">Over 93 days in Ukraine, what started as peaceful student demonstrations became a violent revolution and full-fledged civil rights movement.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 September 2015</li><li>Runtime: 98 minutes</li><li>Director: Evgeny Afineevsky</li><li>Genres: Documentary</li><li>TMDB rating: 7.9/10 (332 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Cissy Jones as Self - Narrator (voice)</li><li>Bishop Agapit as Self</li><li>Catherine Ashton as Self</li><li>Serhii Averchenko as Self</li><li>Kristina Berdinskikh as Self</li><li>Pavlo Dobryanskyy as Self</li><li>Valery Dovgiy as Self</li><li>Bogdan Dubas as Self</li><li>Kurganskyi Eduard as Self</li><li>Mykhailo Havryliuk as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Winter on Fire: Ukraine's Fight for Freedom (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
+  "movie:400020": {
+   "d": "The Young Karl Marx (2017): History/Drama film. Story: 26 year-old Karl Marx embarks with his wife, Jenny… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uJSuJ4eocpofYc6LjEJ7G3vgbfS.jpg",
+   "industry": "world",
+   "k": "The Young Karl Marx, The Young Karl Marx movie, The Young Karl Marx cast, The Young Karl Marx story, The Young Karl Marx box office collection, The Young Karl Marx budget, The Young Karl Marx review, The Young Karl Marx rating, The Young Karl Marx release date, The Young Karl Marx History, The Young Karl Marx Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "August Diehl"
+     },
+     {
+      "@type": "Person",
+      "name": "Stefan Konarske"
+     },
+     {
+      "@type": "Person",
+      "name": "Vicky Krieps"
+     },
+     {
+      "@type": "Person",
+      "name": "Olivier Gourmet"
+     },
+     {
+      "@type": "Person",
+      "name": "Hannah Steele"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 335,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "The Young Karl Marx (2017): History/Drama film. Story: 26 year-old Karl Marx embarks with his wife, Jenny… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Raoul Peck"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "History",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uJSuJ4eocpofYc6LjEJ7G3vgbfS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=400020",
+    "name": "The Young Karl Marx",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-03-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=400020"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Young Karl Marx (2017)</h1>\n<p class=\"ssr-lead\">26 year-old Karl Marx embarks with his wife, Jenny, on the road to exile. In 1844 in Paris, he meets Friedrich Engels, an industrialist’s son, who has been investigating the sordid birth of the British working class. Engels, the dandy, provides the last piece of the puzzle to the young Karl Marx’s new vision of the world. Together, between censorship and the police’s repression, riots and political upheavals, they will lead the labor movement during its development into a modern era.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 March 2017</li><li>Runtime: 118 minutes</li><li>Director: Raoul Peck</li><li>Genres: History, Drama</li><li>TMDB rating: 6.8/10 (335 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>August Diehl as Karl Marx</li><li>Stefan Konarske as Friedrich Engels</li><li>Vicky Krieps as Jenny von Westphalen</li><li>Olivier Gourmet as Pierre Proudhon</li><li>Hannah Steele as Mary Burns</li><li>Rolf Kanies as Moses Hess</li><li>Niels-Bruno Schmidt as Karl Grün</li><li>Alexander Scheer as Wilhelm Weitling</li><li>Marie Meinzenbach as Lenchen</li><li>Hans-Uwe Bauer as Arnold Ruge</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Young Karl Marx (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
   "movie:43920": {
    "d": "Dog Pound (2010): Drama film. Story: Three juvenile delinquents arrive at a correctional… See cast, TMDB rating 7.2/10, and release date 24 April 2010.",
    "img": "https://image.tmdb.org/t/p/w780/7far1lb1wzsjtE9owzZji4YfqNU.jpg",
@@ -1664,6 +2046,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Radiofreccia (1998)</h1>\n<p class=\"ssr-lead\">April 24, 1993: it&#x27;s the last broadcast of Radiofreccia, an independent radio station closing after 18 years, barely one minute before coming of age. Bruno, one of its founders, begins to tell its story, the story of a group of friends—especially troubled Freccia&#x27;s—and a period of their youth in their small hometown.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 October 1998</li><li>Runtime: 112 minutes</li><li>Director: Luciano Ligabue</li><li>Genres: Drama, Music</li><li>TMDB rating: 7.1/10 (363 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Stefano Accorsi as Ivan &#x27;Freccia&#x27; Benassi</li><li>Alessio Modica as Iena</li><li>Enrico Salimbeni as Tito</li><li>Roberto Zibetti as Boris</li><li>Francesco Guccini as Adolfo</li><li>Patrizia Piccinini as Marzia</li><li>Serena Grandi as Ivan&#x27;s mother</li><li>Cristina Moglia as Cristina</li><li>Cosima Coccheri as Heroin addict</li><li>Paolo Maria Scalondro as Carlo</li></ul>\n</article>",
    "t": "Radiofreccia (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1998"
+  },
+  "movie:57120": {
+   "d": "Meek's Cutoff (2011): Western/Drama film. Story: A group of settlers traveling through the Oregon High… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hhD6lRCScoPd0k9VWTq4kYP8ToX.jpg",
+   "industry": "world",
+   "k": "Meek's Cutoff, Meek's Cutoff movie, Meek's Cutoff cast, Meek's Cutoff story, Meek's Cutoff box office collection, Meek's Cutoff budget, Meek's Cutoff review, Meek's Cutoff rating, Meek's Cutoff release date, Meek's Cutoff trailer, Meek's Cutoff Western, Meek's Cutoff Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michelle Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Bruce Greenwood"
+     },
+     {
+      "@type": "Person",
+      "name": "Will Patton"
+     },
+     {
+      "@type": "Person",
+      "name": "Zoe Kazan"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Dano"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 321,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Meek's Cutoff (2011): Western/Drama film. Story: A group of settlers traveling through the Oregon High… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kelly Reichardt"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Western",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hhD6lRCScoPd0k9VWTq4kYP8ToX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=57120",
+    "name": "Meek's Cutoff",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-04-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=57120"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Meek&#x27;s Cutoff (2011)</h1>\n<p class=\"ssr-lead\">A group of settlers traveling through the Oregon High Desert in 1845 find themselves stranded in harsh conditions.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 April 2011</li><li>Runtime: 103 minutes</li><li>Director: Kelly Reichardt</li><li>Genres: Western, Drama</li><li>TMDB rating: 6.5/10 (321 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michelle Williams as Emily Tetherow</li><li>Bruce Greenwood as Stephen Meek</li><li>Will Patton as Soloman Tetherow</li><li>Zoe Kazan as Millie Gately</li><li>Paul Dano as Thomas Gately</li><li>Shirley Henderson as Glory White</li><li>Neal Huff as William White</li><li>Tommy Nelson as Jimmy White</li><li>Rod Rondeaux as The Indian</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JustWatch TV Plus, Peacock Premium, Philo, Fandor Amazon Channel, Cineverse, Peacock Premium Plus, Cineverse Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Meek's Cutoff (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
+  "movie:576920": {
+   "d": "Silver Skates (2020): Adventure/Drama film. Story: 1899, the Christmas-time St.Petersburg. Ice-covered… See cast and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/n96Mu6w9yGO3MM9yuBrYlVvc6gb.jpg",
+   "industry": "world",
+   "k": "Silver Skates, Silver Skates movie, Silver Skates cast, Silver Skates story, Silver Skates box office collection, Silver Skates budget, Silver Skates review, Silver Skates rating, Silver Skates release date, Silver Skates Adventure, Silver Skates Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Fedor Fedotov"
+     },
+     {
+      "@type": "Person",
+      "name": "Sonia Priss"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexei Guskov"
+     },
+     {
+      "@type": "Person",
+      "name": "Yuri Kolokolnikov"
+     },
+     {
+      "@type": "Person",
+      "name": "Severija Janušauskaitė"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 321,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Silver Skates (2020): Adventure/Drama film. Story: 1899, the Christmas-time St.Petersburg. Ice-covered… See cast and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Lockshin"
+     }
+    ],
+    "duration": "PT136M",
+    "genre": [
+     "Adventure",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/n96Mu6w9yGO3MM9yuBrYlVvc6gb.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=576920",
+    "name": "Silver Skates",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-12-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=576920"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Silver Skates (2020)</h1>\n<p class=\"ssr-lead\">1899, the Christmas-time St.Petersburg. Ice-covered rivers and canals of the capital seethe with festive activities. On the eve of the new century those who should not be destined to meet, come together. They are people from different worlds: Matvey, the son of a lamplighter, whose only treasure is his silver-plated skates; Alice is the daughter of a high-ranking official dreaming of science. Each of them has his own difficult life-story, but having accidentally met they rush forward together in pursuit of their dreams.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 December 2020</li><li>Runtime: 136 minutes</li><li>Director: Michael Lockshin</li><li>Genres: Adventure, Drama, Romance, History, Crime, Family</li><li>TMDB rating: 7.5/10 (321 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Fedor Fedotov as Matvey</li><li>Sonia Priss as Alisa</li><li>Alexei Guskov as Nikolai Nikolaevitch</li><li>Yuri Kolokolnikov as Velikiy Knyaz</li><li>Severija Janušauskaitė as Severina</li><li>Kirill Zaytsev as Arkadiy</li><li>Yura Borisov as Alex</li><li>Alexandra Revenko as Margo</li><li>Timofey Tribuntsev as Petr</li><li>Sergey Koltakov as Dmitriy Mendeleev</li></ul>\n</article>",
+   "t": "Silver Skates (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
   },
   "movie:622420": {
    "d": "The Jack in the Box (2019): Horror film. Story: When a vintage Jack-in-the-box is un-earthed and… See cast and TMDB rating 5.7/10.",

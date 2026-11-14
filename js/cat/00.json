@@ -1,6 +1,6 @@
 {
  "bucket": "00",
- "count": 51,
+ "count": 56,
  "titles": {
   "movie:10900": {
    "backdrop_path": "/iExOE5nfduuD1rL1flHBhkCffxp.jpg",
@@ -1553,6 +1553,166 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 141
+  },
+  "movie:15300": {
+   "backdrop_path": "/eRR2a0tOaP6UITtQ8S3ofh8n7lX.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Jack 'Cowboy' Kelly",
+     "n": "Christian Bale"
+    },
+    {
+     "c": "Bryan Denton",
+     "n": "Bill Pullman"
+    },
+    {
+     "c": "Medda Larkson",
+     "n": "Ann-Margret"
+    },
+    {
+     "c": "Joseph Pulitzer",
+     "n": "Robert Duvall"
+    },
+    {
+     "c": "David Jacobs",
+     "n": "David Moscow"
+    },
+    {
+     "c": "Les Jacobs",
+     "n": "Luke Edwards"
+    },
+    {
+     "c": "Racetrack Higgins",
+     "n": "Max Casella"
+    },
+    {
+     "c": "Spot Conlon",
+     "n": "Gabriel Damon"
+    },
+    {
+     "c": "Crutchy",
+     "n": "Marty Belafsky"
+    },
+    {
+     "c": "Mush",
+     "n": "Aaron Lohr"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Kenny Ortega"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 15300,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A week in the life of the exploited, child newspaper sellers in turn-of-the-century New York. When their publisher, Joseph Pulitzer, tries to squeeze a little more profit out of their labours, they organize a strike, only to be confronted with the Pulitzer's hard-ball tactics.",
+   "popularity": 2.1407,
+   "poster_path": "/8ykmCMHzkRSuJucPYeqGA2ampbp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1992-04-10",
+   "revenue": 2819485,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A thousand voices. A single dream. A sing-along reality.",
+   "title": "Newsies",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 312
   },
   "movie:15600": {
    "backdrop_path": "/49rQkLwYxUK7zQP69e87MspS4E2.jpg",
@@ -3665,6 +3825,188 @@
    "vote_average": 6.2,
    "vote_count": 349
   },
+  "movie:527400": {
+   "backdrop_path": "/nfBT7RR8kYFBORhVhcCqk5T0ZiX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alice Littleton",
+     "n": "Keira Chansa"
+    },
+    {
+     "c": "Peter Littleton",
+     "n": "Jordan A. Nash"
+    },
+    {
+     "c": "Rose Littleton",
+     "n": "Angelina Jolie"
+    },
+    {
+     "c": "Jack Littleton",
+     "n": "David Oyelowo"
+    },
+    {
+     "c": "David Littleton",
+     "n": "Reece Yates"
+    },
+    {
+     "c": "Eleanor Morrow",
+     "n": "Anna Chancellor"
+    },
+    {
+     "c": "Mad Hatter",
+     "n": "Clarke Peters"
+    },
+    {
+     "c": "Charlie",
+     "n": "Michael Caine"
+    },
+    {
+     "c": "James Littleton /  CJ",
+     "n": "David Gyasi"
+    },
+    {
+     "c": "Mr. Brown",
+     "n": "Derek Jacobi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Brenda Chapman"
+   ],
+   "genres": [
+    "Fantasy",
+    "Adventure"
+   ],
+   "id": 527400,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Before Alice went to Wonderland, and before Peter became Pan, they were brother and sister. When their eldest brother dies in a tragic accident, they each seek to save their parents from their downward spirals of despair until finally they are forced to choose between home and imagination, setting the stage for their iconic journeys into Wonderland and Neverland.",
+   "popularity": 1.9177,
+   "poster_path": "/vwa0DgR2tHMouIDTJWje2k7Pp30.jpg",
+   "production_countries": [
+    "BS",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aaFIYn2NGPCo0rpLiWokbvNqNJd.png",
+     "name": "JustWatch TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-11-12",
+   "revenue": 1746860,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A story about courage, wonder, and never growing old.",
+   "title": "Come Away",
+   "trailer": {
+    "key": "FXGL3uU0lxY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.81,
+   "vote_count": 329
+  },
   "movie:553600": {
    "backdrop_path": "/f2KgbKxSgOUfHxH434pfpzWC0N1.jpg",
    "budget": 0,
@@ -4350,6 +4692,191 @@
    "vote_average": 6.0,
    "vote_count": 376
   },
+  "movie:736500": {
+   "backdrop_path": "/4Rn7vg25O6mXLYmNXYwttp1GQL0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Milann Rousseau",
+     "n": "Kev Adams"
+    },
+    {
+     "c": "Lino Vartan",
+     "n": "Gérard Depardieu"
+    },
+    {
+     "c": "Daniel Ferrand, director of “Mimosas”",
+     "n": "Antoine Duléry"
+    },
+    {
+     "c": "Simone Tournier",
+     "n": "Mylène Demongeot"
+    },
+    {
+     "c": "Claudine Valège",
+     "n": "Marthe Villalonga"
+    },
+    {
+     "c": "Sylvette Leroux",
+     "n": "Liliane Rovère"
+    },
+    {
+     "c": "Alfred de Gonzague",
+     "n": "Daniel Prévost"
+    },
+    {
+     "c": "Fleurette Jean-Marie",
+     "n": "Firmine Richard"
+    },
+    {
+     "c": "Edmond Van de Wer",
+     "n": "Jean-Luc Bideau"
+    },
+    {
+     "c": "Léontine",
+     "n": "Marianne Garcia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Thomas Gilou"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 736500,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A story of friendship between a young convict who is forced to work in a retirement home and a group of crazy old people. Together they organize their escape.",
+   "popularity": 0.9946,
+   "poster_path": "/lLrCA0MaLFZS518fkaeMUavJOGG.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2022-02-16",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Retirement Home",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.946,
+   "vote_count": 336
+  },
+  "movie:84200": {
+   "backdrop_path": "/o1Xv9blcbKSVxoXQ6kiBOL3W1Mz.jpg",
+   "budget": 850000,
+   "cast": [
+    {
+     "c": "Katie Steel",
+     "n": "Ari Graynor"
+    },
+    {
+     "c": "Lauren Powell",
+     "n": "Lauren Miller Rogen"
+    },
+    {
+     "c": "Jesse",
+     "n": "Justin Long"
+    },
+    {
+     "c": "Sean",
+     "n": "Mark Webber"
+    },
+    {
+     "c": "Adele",
+     "n": "Mimi Rogers"
+    },
+    {
+     "c": "Scott",
+     "n": "Don McManus"
+    },
+    {
+     "c": "Rachel Rodman",
+     "n": "Nia Vardalos"
+    },
+    {
+     "c": "Jerry",
+     "n": "Seth Rogen"
+    },
+    {
+     "c": "Bridgette",
+     "n": "Veronika Dash"
+    },
+    {
+     "c": "Charlie",
+     "n": "James Wolk"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jamie Travis"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 84200,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "College \"frenemies\" Lauren and Katie move in together after losing a relationship and rent control, respectively. Sharing Katie's late grandmother's apartment in New York City, the girls bicker with each other until one fateful night, when Katie's noisy bedroom activities make Lauren barge in and discover a dirty little secret. This revelation brings them closer together, and Lauren (the brains) and Katie (the talent) concoct a wildly successful business venture. As profits swell, the girls reevaluate their hopes and dreams and realize that just because someone pees in your hair in college doesn't mean she won't be your best friend 10 years later.",
+   "popularity": 1.8254,
+   "poster_path": "/9eIlVo8lvk9fmfP05JGFKlPha80.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-11-02",
+   "revenue": 1243961,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "Lose your hang-ups. Find your calling.",
+   "title": "For a Good Time, Call...",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.834,
+   "vote_count": 328
+  },
   "movie:848700": {
    "backdrop_path": "/i5HacpkXOKQ85lfbnMO3jXvAnPy.jpg",
    "budget": 7500000,
@@ -4447,6 +4974,119 @@
    "type": "movie",
    "vote_average": 7.5,
    "vote_count": 45
+  },
+  "movie:86000": {
+   "backdrop_path": "/kcIvHVTswx1I7IqrmOcQ6DiqUHv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cheol-min",
+     "n": "So Ji-sub"
+    },
+    {
+     "c": "Jung-hwa",
+     "n": "Han Hyo-joo"
+    },
+    {
+     "c": "Manager Choi",
+     "n": "Kang Shin-il"
+    },
+    {
+     "c": "Coach Bang",
+     "n": "Park Cheol-min"
+    },
+    {
+     "c": "Park Chang-soo",
+     "n": "Oh Kwang-rok"
+    },
+    {
+     "c": "Nun",
+     "n": "Kim Mi-kyung"
+    },
+    {
+     "c": "Workshop CEO",
+     "n": "Jin Goo"
+    },
+    {
+     "c": "Switching Shift Elder",
+     "n": "Jung Jae-jin"
+    },
+    {
+     "c": "Ophthalmologist",
+     "n": "Park Seong-geun"
+    },
+    {
+     "c": "Dispatched Police",
+     "n": "Kim Jung-pal"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Song Il-gon"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 86000,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A former boxer turned parking lot attendant finds hope in the love of the blind telemarketer who walks into his booth one day.",
+   "popularity": 2.5737,
+   "poster_path": "/7PaCGnjY87sc9088zxFf34Tamcz.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-10-20",
+   "revenue": 6941450,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "I see you. I hear you. I love you.",
+   "title": "Always",
+   "trailer": {
+    "key": "RhNR8iUF9Gw",
+    "name": "Always Main Trailer Eng Sub",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.806,
+   "vote_count": 324
   },
   "movie:874300": {
    "backdrop_path": "/kogLnm2OMn6iUBeZIkIywsrwl3H.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "10",
- "count": 58,
+ "count": 63,
  "titles": {
   "movie:1020910": {
    "backdrop_path": "/ABuIGbnT6uQtHULIst9DiR7pyG.jpg",
@@ -732,6 +732,216 @@
    "vote_average": 6.6,
    "vote_count": 445
   },
+  "movie:110410": {
+   "backdrop_path": "/1H7wh4VomucZUtaHDXVVUA5uNVw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Timmy Choi",
+     "n": "Louis Koo"
+    },
+    {
+     "c": "Captain Zhang Lei",
+     "n": "Sun Honglei"
+    },
+    {
+     "c": "Yang Xiaobei",
+     "n": "Huang Yi"
+    },
+    {
+     "c": "Guo Weiju",
+     "n": "Wallace Chung"
+    },
+    {
+     "c": "Senior Dumb",
+     "n": "Guo Tao"
+    },
+    {
+     "c": "Junior Dumb",
+     "n": "Li Jing"
+    },
+    {
+     "c": "Chen Shixiong",
+     "n": "Li Guangjie"
+    },
+    {
+     "c": "HaHa",
+     "n": "Hao Ping"
+    },
+    {
+     "c": "Xu Guoxiang",
+     "n": "Gao Yunxiang"
+    },
+    {
+     "c": "Lin",
+     "n": "Wang Ziyi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Johnnie To"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Crime"
+   ],
+   "id": 110410,
+   "industry": "world",
+   "origin_country": [
+    "CN",
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "A drug cartel boss is arrested in a raid and coerced into betraying his former accomplices as part of an undercover operation.",
+   "popularity": 2.5815,
+   "poster_path": "/2ndg350jismgWwag7RrDHb6zGo4.jpg",
+   "production_countries": [
+    "HK",
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Hi-YAH"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "Hi-YAH Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/VSkdYiq9YA34Oaucl2Ga0dBL11.png",
+     "name": "Hi-YAH",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mlciWnmFopns3WZGENR6ZZoNnZO.png",
+     "name": "Hi-YAH Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2012-11-15",
+   "revenue": 24676341,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "HIGH RISK HIGH RETURN.",
+   "title": "Drug War",
+   "trailer": {
+    "key": "xypwVUFuGkk",
+    "name": "New US Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 320
+  },
   "movie:11310": {
    "backdrop_path": "/kuq99XpsY2wyI0yMMNjK5pTLafY.jpg",
    "budget": 40000000,
@@ -1374,6 +1584,106 @@
    "type": "movie",
    "vote_average": 7.333,
    "vote_count": 395
+  },
+  "movie:12710": {
+   "backdrop_path": "/fH08Brcs0QmunZJ2JoyLI9e4KLe.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sadie Ratliff / Sadie Shelton",
+     "n": "Bette Midler"
+    },
+    {
+     "c": "Rose Ratliff / Rose Shelton",
+     "n": "Lily Tomlin"
+    },
+    {
+     "c": "Roone Dimmick",
+     "n": "Fred Ward"
+    },
+    {
+     "c": "Graham Sherbourne",
+     "n": "Edward Herrmann"
+    },
+    {
+     "c": "Fabio Alberici",
+     "n": "Michele Placido"
+    },
+    {
+     "c": "Chuck",
+     "n": "Daniel Gerroll"
+    },
+    {
+     "c": "Michael",
+     "n": "Barry Primus"
+    },
+    {
+     "c": "Dr. Jay Marshall",
+     "n": "Michael Gross"
+    },
+    {
+     "c": "Binky Shelton",
+     "n": "Deborah Rush"
+    },
+    {
+     "c": "Hunt Shelton",
+     "n": "Nicolas Coster"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jim Abrahams"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 12710,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the 1940s in the small town of Jupiter Hollow, two sets of identical twins are born in the same hospital on the same night. One set to a poor local family and the other to a rich family just passing through. The dizzy nurse on duty accidentally mixes the twins unbeknown to the parents. Our story flashes forward to the 1980s where the mismatched sets of twins are about to cross paths.",
+   "popularity": 1.5018,
+   "poster_path": "/dxbXbR1P44caMUKtBdq7sX6aSgw.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1988-06-10",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Mixed up at birth, two sets of twins finally meet their match.",
+   "title": "Big Business",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 316
   },
   "movie:1339210": {
    "backdrop_path": "/a7VEgrESjAnoAUgonPEDXkzol2f.jpg",
@@ -4817,6 +5127,116 @@
    "vote_average": 6.3,
    "vote_count": 421
   },
+  "movie:719410": {
+   "backdrop_path": "/rhsvTWUeH6RKXk8pQ830oBw56qb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Chang Jia-han",
+     "n": "Edward Chen"
+    },
+    {
+     "c": "Birdy Wang",
+     "n": "Tseng Jing-hua"
+    },
+    {
+     "c": "Adult Chang Jia-han",
+     "n": "Leon Dai"
+    },
+    {
+     "c": "Adult Birdy Wang",
+     "n": "Wang Shih-sian"
+    },
+    {
+     "c": "Father Oliver",
+     "n": "Fabio Grangeon"
+    },
+    {
+     "c": "Horn",
+     "n": "Barry Qu"
+    },
+    {
+     "c": "Rocky",
+     "n": "Stone Yang"
+    },
+    {
+     "c": "Phil",
+     "n": "Lance Chiu"
+    },
+    {
+     "c": "BanBan",
+     "n": "Mimi Shao"
+    },
+    {
+     "c": "Bullied Schoolboy",
+     "n": "Lin Hui-min"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Liu Kuang-Hui"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 719410,
+   "industry": "world",
+   "origin_country": [
+    "TW"
+   ],
+   "original_language": "zh",
+   "overview": "In 1987, as martial law ends in Taiwan, Jia-han and Birdy fall in love amid family pressure, homophobia and social stigma.",
+   "popularity": 2.7976,
+   "poster_path": "/ynNO5FhArEz68wRKOn4NgqVntmS.jpg",
+   "production_countries": [
+    "CA",
+    "TW",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-09-30",
+   "revenue": 0,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Who is the one linger in your heart after all these years?",
+   "title": "Your Name Engraved Herein",
+   "trailer": {
+    "key": "mzfVBg54BGw",
+    "name": "Your Name Engraved Herein | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.9,
+   "vote_count": 325
+  },
   "movie:826510": {
    "backdrop_path": "/biMJPdS7bGW7HQTQrHvXxMqOqdC.jpg",
    "budget": 40000000,
@@ -5246,6 +5666,258 @@
    "type": "movie",
    "vote_average": 6.919,
    "vote_count": 354
+  },
+  "movie:9310": {
+   "backdrop_path": "/mVwHzPqOi5QlviMSDsOy0nEyicI.jpg",
+   "budget": 17000000,
+   "cast": [
+    {
+     "c": "Martin Tweed",
+     "n": "Hugh Grant"
+    },
+    {
+     "c": "President Staton",
+     "n": "Dennis Quaid"
+    },
+    {
+     "c": "Sally Kendoo",
+     "n": "Mandy Moore"
+    },
+    {
+     "c": "Chief of Staff",
+     "n": "Willem Dafoe"
+    },
+    {
+     "c": "William Williams",
+     "n": "Chris Klein"
+    },
+    {
+     "c": "Martha Kendoo",
+     "n": "Jennifer Coolidge"
+    },
+    {
+     "c": "Omer",
+     "n": "Sam Golzari"
+    },
+    {
+     "c": "First Lady",
+     "n": "Marcia Gay Harden"
+    },
+    {
+     "c": "Chet Krogl",
+     "n": "Seth Meyers"
+    },
+    {
+     "c": "Ittles",
+     "n": "John Cho"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Paul Weitz"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 9310,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The new season of \"American Dreamz,\" the wildly popular television singing contest, has captured the country's attention, as the competition looks to be between a young Midwestern gal and a showtunes-loving young man from Orange County. Recently awakened President Staton even wants in on the craze, as he signs up for the potential explosive season finale.",
+   "popularity": 1.5362,
+   "poster_path": "/qwRbRvfJR7jjsaGfS741Tl3DRr7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-03-04",
+   "revenue": 16700000,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "Imagine a country where more people vote for a pop idol than they do for their next President.",
+   "title": "American Dreamz",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.093,
+   "vote_count": 328
+  },
+  "movie:9710": {
+   "backdrop_path": "/xRE3wbcmV77CnqTiBXcHkogbmdd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Allan Quatermain",
+     "n": "Richard Chamberlain"
+    },
+    {
+     "c": "Jesse Huston",
+     "n": "Sharon Stone"
+    },
+    {
+     "c": "Umslopogaas",
+     "n": "James Earl Jones"
+    },
+    {
+     "c": "Agon",
+     "n": "Henry Silva"
+    },
+    {
+     "c": "Swarma",
+     "n": "Robert Donner"
+    },
+    {
+     "c": "Nasta",
+     "n": "Doghmi Larbi"
+    },
+    {
+     "c": "Sorais",
+     "n": "Cassandra Peterson"
+    },
+    {
+     "c": "Robeson Quatermain",
+     "n": "Martin Rabbett"
+    },
+    {
+     "c": "Dutchman",
+     "n": "Alex Heyns"
+    },
+    {
+     "c": "Nurse",
+     "n": "Themsie Times"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Gary Nelson"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Comedy",
+    "Mystery"
+   ],
+   "id": 9710,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After his brother Robeson disappears without a trace while exploring Africa in search of a legendary 'white tribe', Allan Quatermain decides to follow in his footsteps to learn what became of him. Soon after arriving, he discovers the Lost City of Gold, controlled by the evil lord Agon, and mined by his legions of white slaves.",
+   "popularity": 3.2374,
+   "poster_path": "/fz9QrK7OF4EoQbdSO8KSPgJWiZB.jpg",
+   "production_countries": [
+    "US",
+    "IL"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1986-12-17",
+   "revenue": 3751285,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Richard Chamberlain returns in the sequel to 'King Solomon's Mines'",
+   "title": "Allan Quatermain and the Lost City of Gold",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.855,
+   "vote_count": 331
   },
   "tv:114410": {
    "backdrop_path": "/fOUKSCbZzaoQKsO39enivHnWDid.jpg",

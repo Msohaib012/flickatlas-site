@@ -1,6 +1,6 @@
 {
  "bucket": "29",
- "count": 39,
+ "count": 44,
  "titles": {
   "movie:10629": {
    "backdrop_path": "/pku59jhFJGLqrFIP0m1ITyqfQcB.jpg",
@@ -954,6 +954,198 @@
    "vote_average": 5.9,
    "vote_count": 417
   },
+  "movie:1180629": {
+   "backdrop_path": "/224f3zy21srh9WnBLFU2z3axIFA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Móglaí Bap or Naoise",
+     "n": "Móglaí Bap"
+    },
+    {
+     "c": "Mo Chara or Liam Óg",
+     "n": "Mo Chara"
+    },
+    {
+     "c": "DJ Próvai or JJ",
+     "n": "DJ Próvaí"
+    },
+    {
+     "c": "Detective Ellis",
+     "n": "Josie Walker"
+    },
+    {
+     "c": "Caitlin",
+     "n": "Fionnuala Flaherty"
+    },
+    {
+     "c": "Georgia",
+     "n": "Jessica Reynolds"
+    },
+    {
+     "c": "Doyle",
+     "n": "Adam Best"
+    },
+    {
+     "c": "Dolores",
+     "n": "Simone Kirby"
+    },
+    {
+     "c": "Arló",
+     "n": "Michael Fassbender"
+    },
+    {
+     "c": "Sean",
+     "n": "Matthew Sharpe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rich Peppiatt"
+   ],
+   "genres": [
+    "Music",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1180629,
+   "industry": "world",
+   "origin_country": [
+    "IE"
+   ],
+   "original_language": "ga",
+   "overview": "When fate brings Belfast teacher JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Óg, the needle drops on a hip-hop act like no other. Rapping in their native Irish, they lead a movement to save their mother tongue.",
+   "popularity": 2.566,
+   "poster_path": "/gEbQi5QWUg3CQ9R5dwvPBvbOX17.jpg",
+   "production_countries": [
+    "IE",
+    "GB",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-08-02",
+   "revenue": 4345446,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ga"
+   ],
+   "status": "Released",
+   "tagline": "Mind your language.",
+   "title": "Kneecap",
+   "trailer": {
+    "key": "FFYfp-hKxZQ",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.319,
+   "vote_count": 331
+  },
   "movie:123229": {
    "backdrop_path": "/uVulZOgJmNEqzdd1Q5I0OdNUkqo.jpg",
    "budget": 0,
@@ -1847,6 +2039,165 @@
    "vote_average": 5.913,
    "vote_count": 23
   },
+  "movie:157829": {
+   "backdrop_path": "/a3riLgP1Dncd0tzGPI6wrv3cHlU.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Eleanor Rigby",
+     "n": "Jessica Chastain"
+    },
+    {
+     "c": "Conor Ludlow",
+     "n": "James McAvoy"
+    },
+    {
+     "c": "Stuart",
+     "n": "Bill Hader"
+    },
+    {
+     "c": "Professor Lillian Friedman",
+     "n": "Viola Davis"
+    },
+    {
+     "c": "Mary Rigby",
+     "n": "Isabelle Huppert"
+    },
+    {
+     "c": "Spencer Ludlow",
+     "n": "Ciarán Hinds"
+    },
+    {
+     "c": "Alexis",
+     "n": "Nina Arianda"
+    },
+    {
+     "c": "Katy Rigby",
+     "n": "Jess Weixler"
+    },
+    {
+     "c": "Julian Rigby",
+     "n": "William Hurt"
+    },
+    {
+     "c": "Guy from Club",
+     "n": "Ryan Eggold"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ned Benson"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 157829,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A New York couple's relationship is tested after the loss of their child. This film is the wide-released combination of the original two :him and :her volumes that premiered at the Cannes Film Festival.",
+   "popularity": 2.0518,
+   "poster_path": "/rFBfW5RJbjgOYufLvu2DP4A71JW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2014-05-14",
+   "revenue": 1448076,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Two films. One love.",
+   "title": "The Disappearance of Eleanor Rigby: Them",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 319
+  },
   "movie:16229": {
    "backdrop_path": "/j06D4plPJNP1s0h3FKB8qwGRGpW.jpg",
    "budget": 0,
@@ -2504,6 +2855,98 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 375
+  },
+  "movie:20329": {
+   "backdrop_path": "/m4qM1XvABr1mVKWKohvHA7obLsY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "L",
+     "n": "Kenichi Matsuyama"
+    },
+    {
+     "c": "Near",
+     "n": "Narushi Fukuda"
+    },
+    {
+     "c": "Maki",
+     "n": "Mayuko Fukuda"
+    },
+    {
+     "c": "Kimihiko Nikaido",
+     "n": "Shingo Tsurumi"
+    },
+    {
+     "c": "Kimiko Kujo",
+     "n": "Youki Kudoh"
+    },
+    {
+     "c": "Dr. Koichi Matsudo",
+     "n": "Sei Hiraizumi"
+    },
+    {
+     "c": "Asao Konishi",
+     "n": "Bokuzo Masana"
+    },
+    {
+     "c": "Tamotsu Yoshizawa",
+     "n": "Yuta Kanai"
+    },
+    {
+     "c": "Hotsune Misawa",
+     "n": "Megumi Sato"
+    },
+    {
+     "c": "Shin Kagami",
+     "n": "Renji Ishibashi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Hideo Nakata"
+   ],
+   "genres": [
+    "Fantasy",
+    "Action",
+    "Thriller",
+    "Science Fiction",
+    "Mystery"
+   ],
+   "id": 20329,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "\"The human whose name is written in the Death Note shall die.\" After making the hardest decision ever, another serious case confronts L. There are only 23 days left and without his best partner Watari, L has to solve the case all by himself for the very first time.",
+   "popularity": 3.1303,
+   "poster_path": "/aTV14kh4YVXafBZtyNjQ2GrWsNh.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2008-02-07",
+   "revenue": 30231200,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "The final death note showdown!",
+   "title": "Death Note: L Change the WorLd",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 313
   },
   "movie:264729": {
    "backdrop_path": "/9SmI3VzBmZon9QjTYQBR8onBSa5.jpg",
@@ -3699,6 +4142,282 @@
    "type": "movie",
    "vote_average": 7.519,
    "vote_count": 368
+  },
+  "movie:911129": {
+   "backdrop_path": "/fY6n7AeEUnQuSKbfAF2Ftd3Z6sG.jpg",
+   "budget": 10503445,
+   "cast": [
+    {
+     "c": "Roxana",
+     "n": "Camille Rowe"
+    },
+    {
+     "c": "Pascal",
+     "n": "Sofiane Zermani"
+    },
+    {
+     "c": "Tom",
+     "n": "César Domboy"
+    },
+    {
+     "c": "Stephane",
+     "n": "Laurent Fernandez"
+    },
+    {
+     "c": "Sacha",
+     "n": "Zacharie Chasseriaud"
+    },
+    {
+     "c": "Naomi",
+     "n": "Natalie Mitson"
+    },
+    {
+     "c": "Juliette",
+     "n": "Muriel Combeau"
+    },
+    {
+     "c": "Joseph Archer",
+     "n": "Alexandre Poole"
+    },
+    {
+     "c": "Le Docteur",
+     "n": "Hassam Ghancy"
+    },
+    {
+     "c": "The Publicist",
+     "n": "Laurence Porteil"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "David M. Rosenthal"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 911129,
+   "industry": "world",
+   "origin_country": [
+    "BE",
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Roxana Aubrey decides to drop her studies and escape her life in Paris for a free diving course in the south of France. She is quickly pulled into a life that reaches new depths brought by the weight of an ocean's descent.",
+   "popularity": 1.7323,
+   "poster_path": "/96ZYNAVN5RhBJqkijYkgFjQA630.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2022-09-09",
+   "revenue": 0,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "No Limit",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.003,
+   "vote_count": 307
+  },
+  "movie:9729": {
+   "backdrop_path": "/rMXqN3gXG66W4BzX0AMbpnZN41I.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Lanny",
+     "n": "Kevin Bacon"
+    },
+    {
+     "c": "Vince",
+     "n": "Colin Firth"
+    },
+    {
+     "c": "Karen",
+     "n": "Alison Lohman"
+    },
+    {
+     "c": "Reuben",
+     "n": "David Hayman"
+    },
+    {
+     "c": "Maureen",
+     "n": "Rachel Blanchard"
+    },
+    {
+     "c": "Sally Sanmarco",
+     "n": "Maury Chaykin"
+    },
+    {
+     "c": "Bonnie",
+     "n": "Sonja Bennett"
+    },
+    {
+     "c": "Alice",
+     "n": "Kristin Adams"
+    },
+    {
+     "c": "Mrs. O'Flaherty",
+     "n": "Deborah Grover"
+    },
+    {
+     "c": "Jack Scaglia",
+     "n": "Beau Starr"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Atom Egoyan"
+   ],
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 9729,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "An ambitious reporter probes the reasons behind the sudden split of a 1950s comedy team.",
+   "popularity": 2.3777,
+   "poster_path": "/4gWQoxAmSeBaugpccnWdlg5Ov6f.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2005-10-07",
+   "revenue": 3487678,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Your best friend could be your worst enemy.",
+   "title": "Where the Truth Lies",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 330
   },
   "tv:127529": {
    "backdrop_path": "/zhsEnDNCQX5dlI2wbKzV90pV0B9.jpg",

@@ -1,7 +1,537 @@
 {
  "bucket": "73",
- "count": 55,
+ "count": 62,
  "titles": {
+  "movie:1024773": {
+   "backdrop_path": "/dp0rdbGSbZTyWumnbWspXQp87hA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Samidha",
+     "n": "Megan Suri"
+    },
+    {
+     "c": "Poorna",
+     "n": "Neeru Bajwa"
+    },
+    {
+     "c": "Tamira",
+     "n": "Mohana Krishnan"
+    },
+    {
+     "c": "Joyce",
+     "n": "Betty Gabriel"
+    },
+    {
+     "c": "Inesh",
+     "n": "Vik Sahay"
+    },
+    {
+     "c": "Russ",
+     "n": "Gage Marsh"
+    },
+    {
+     "c": "Kittie",
+     "n": "Beatrice Kitsos"
+    },
+    {
+     "c": "Older Neighbor",
+     "n": "Jamie Ives"
+    },
+    {
+     "c": "Karan",
+     "n": "Siddhartha Minhas"
+    },
+    {
+     "c": "Young Tamira",
+     "n": "Saisha Ram Muni"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Bishal Dutta"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 1024773,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Desperate to fit in at school, Sam rejects her Indian culture and family to be like everyone else. However, when a mythological demonic spirit latches onto her former best friend, she must come to terms with her heritage to defeat it.",
+   "popularity": 1.8287,
+   "poster_path": "/73gIfV8gDwkVgUrFDzt4TfZC9Zc.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-09-06",
+   "revenue": 4800000,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "You can't contain evil.",
+   "title": "It Lives Inside",
+   "trailer": {
+    "key": "FrPYOf5RmYI",
+    "name": "Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.636,
+   "vote_count": 309
+  },
+  "movie:10373": {
+   "backdrop_path": "/n31i51vwTOOUxKd1DWU2r6if0XR.jpg",
+   "budget": 2500000,
+   "cast": [
+    {
+     "c": "James Michael 'Jimmy' Cooper",
+     "n": "Phil Daniels"
+    },
+    {
+     "c": "Steph",
+     "n": "Leslie Ash"
+    },
+    {
+     "c": "Chalky",
+     "n": "Phil Davis"
+    },
+    {
+     "c": "Dave",
+     "n": "Mark Wingett"
+    },
+    {
+     "c": "Ace Face",
+     "n": "Sting"
+    },
+    {
+     "c": "Kevin",
+     "n": "Ray Winstone"
+    },
+    {
+     "c": "Peter",
+     "n": "Garry Cooper"
+    },
+    {
+     "c": "Spider",
+     "n": "Gary Shail"
+    },
+    {
+     "c": "Monkey",
+     "n": "Toyah Willcox"
+    },
+    {
+     "c": "Ferdy",
+     "n": "Trevor Laird"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Franc Roddam"
+   ],
+   "genres": [
+    "Drama",
+    "Music"
+   ],
+   "id": 10373,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Based on the 1973 rock opera album of the same name by The Who, this is the story of 60s teenager Jimmy. At work he slaves in a dead-end job. While after, he shops for tailored suits and rides his scooter as part of the London Mod scene.",
+   "popularity": 1.9563,
+   "poster_path": "/4sRR3pvrAZMG7GEvnR9XzqyHHfD.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1979-09-14",
+   "revenue": 1050000,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A Way of Life",
+   "title": "Quadrophenia",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.024,
+   "vote_count": 310
+  },
+  "movie:10473": {
+   "backdrop_path": "/oASfjqueQdR0wpeI2Q4xW2mSaZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Geoffrey",
+     "n": "Christopher Masterson"
+    },
+    {
+     "c": "Lord Osric of Crossley",
+     "n": "Harry Van Gorkum"
+    },
+    {
+     "c": "Lian",
+     "n": "Rona Figueroa"
+    },
+    {
+     "c": "Novice Monk Mansel",
+     "n": "Matt Hickey"
+    },
+    {
+     "c": "Master Kwan",
+     "n": "Henry O"
+    },
+    {
+     "c": "Roland",
+     "n": "Tom Burke"
+    },
+    {
+     "c": "Drake (voice)",
+     "n": "Robby Benson"
+    },
+    {
+     "c": "The King",
+     "n": "Ken Shorter"
+    },
+    {
+     "c": "Friar Peter",
+     "n": "John Woodnutt"
+    },
+    {
+     "c": "Lubo",
+     "n": "Lubomir Misak"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Doug Lefler"
+   ],
+   "genres": [
+    "Fantasy",
+    "Action",
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 10473,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Geoff, an orphaned stable boy, discovers Drake, the world's last living dragon, he realizes that his dream of becoming a knight in shining armor can now come true. Together, they soon face challenges that turn them into heroes. But caught up in the excitement of their new lives, Geoff and Drake fail to see the hidden dangers that surround them.",
+   "popularity": 2.7071,
+   "poster_path": "/plFfQfmr4J4ghg3v2p7oWtFKvNc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2000-08-08",
+   "revenue": 0,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "DragonHeart: A New Beginning",
+   "trailer": {
+    "key": "bTBR6tUE3fI",
+    "name": "Dragonheart: A New Beginning - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 329
+  },
+  "movie:1047373": {
+   "backdrop_path": "/3C3LTPEdkH0la3LMbCEgMXzMHlh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Frank Shaw",
+     "n": "Joel Kinnaman"
+    },
+    {
+     "c": "Ava Fremont",
+     "n": "Sandra Mae Frank"
+    },
+    {
+     "c": "Mason Lynch",
+     "n": "Mekhi Phifer"
+    },
+    {
+     "c": "Doug Slater",
+     "n": "Mark Strong"
+    },
+    {
+     "c": "Angel Flores",
+     "n": "Michael Eklund"
+    },
+    {
+     "c": "Julius Simms",
+     "n": "Anthony Grant"
+    },
+    {
+     "c": "Sal Moretti",
+     "n": "Jonathan Koensgen"
+    },
+    {
+     "c": "Pub customer",
+     "n": "Mike Parish"
+    },
+    {
+     "c": "Detective Ned",
+     "n": "Seán James Sutton"
+    },
+    {
+     "c": "The medic",
+     "n": "Djinda Kane"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Brad Anderson"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Action"
+   ],
+   "id": 1047373,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "While working a case as an interpreter, a hearing-impaired police detective must confront a group of criminals trying to eliminate a deaf murder witness in her apartment building.",
+   "popularity": 2.4796,
+   "poster_path": "/j736cRzBtEPCm0nHnpRN1prqiqj.jpg",
+   "production_countries": [
+    "US",
+    "MT"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-10-03",
+   "revenue": 322064,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [],
+   "status": "Released",
+   "tagline": "Without a sound.",
+   "title": "The Silent Hour",
+   "trailer": {
+    "key": "yIdtbHJNyHo",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.349,
+   "vote_count": 314
+  },
   "movie:1122573": {
    "backdrop_path": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
    "budget": 70000000,
@@ -1593,6 +2123,126 @@
    "type": "movie",
    "vote_average": 4.7,
    "vote_count": 28
+  },
+  "movie:16873": {
+   "backdrop_path": "/zRHVwKp1rwevnf9HRP2UVhXgdNp.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Mala (voice)",
+     "n": "Evan Rachel Wood"
+    },
+    {
+     "c": "General Hemmer (voice)",
+     "n": "Brian Cox"
+    },
+    {
+     "c": "Doron (voice)",
+     "n": "James Garner"
+    },
+    {
+     "c": "Stewart Stanton (voice)",
+     "n": "Chris Evans"
+    },
+    {
+     "c": "President Chen (voice)",
+     "n": "Danny Glover"
+    },
+    {
+     "c": "Maria Montez (voice)",
+     "n": "Amanda Peet"
+    },
+    {
+     "c": "Giddy (voice)",
+     "n": "David Cross"
+    },
+    {
+     "c": "Senn (voice)",
+     "n": "Justin Long"
+    },
+    {
+     "c": "Roven (voice)",
+     "n": "Dennis Quaid"
+    },
+    {
+     "c": "Jim Stanton (voice)",
+     "n": "Luke Wilson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Aristomenis Tsirbas"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Animation",
+    "Science Fiction"
+   ],
+   "id": 16873,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A peaceful alien planet faces annihilation, as the homeless remainder of the human race sets its eyes on Terra. Mala, a rebellious Terrian teenager, will do everything she can to stop it.",
+   "popularity": 1.9665,
+   "poster_path": "/iAcPYIsYwFqAyY7KctWkkdkJGhI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2007-09-06",
+   "revenue": 6101046,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Their world is mankind's only hope for survival.",
+   "title": "Battle for Terra",
+   "trailer": {
+    "key": "ii7qUrDZaSY",
+    "name": "Battle for Terra - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.134,
+   "vote_count": 321
   },
   "movie:18573": {
    "backdrop_path": "/dNRjBNbwQAx4v4lgv4GR0PAzqXC.jpg",
@@ -3248,6 +3898,199 @@
    "vote_average": 5.5,
    "vote_count": 419
   },
+  "movie:421473": {
+   "backdrop_path": "/ytkkEnltVidJZ6H4C74Jlo114cf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Susan Smith",
+     "n": "Emilia Clarke"
+    },
+    {
+     "c": "Mark Putnam",
+     "n": "Jack Huston"
+    },
+    {
+     "c": "Cash",
+     "n": "Johnny Knoxville"
+    },
+    {
+     "c": "Jolene",
+     "n": "Thora Birch"
+    },
+    {
+     "c": "Kathy Putnam",
+     "n": "Sophie Lowe"
+    },
+    {
+     "c": "Randy McCoy",
+     "n": "Austin Hébert"
+    },
+    {
+     "c": "Joe-Bea",
+     "n": "Karl Glusman"
+    },
+    {
+     "c": "Todd Eason",
+     "n": "Chris Mulkey"
+    },
+    {
+     "c": "Denver Rhodes",
+     "n": "Omar Benson Miller"
+    },
+    {
+     "c": "Bob Singer",
+     "n": "Kevin Dunn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Phillip Noyce"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Action"
+   ],
+   "id": 421473,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The chilling true story of a newly married FBI poster boy assigned to an Appalachian mountain town in Kentucky. There he is drawn into an illicit affair with an impoverished local woman who becomes his star informant. She sees in him her means of escape; instead, it's a ticket to disaster for both of them.",
+   "popularity": 3.0005,
+   "poster_path": "/kpZ2SfwLHjuf2HmgaFko32cPgbl.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2019-06-20",
+   "revenue": 21712,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "The devil always comes as everything you wanted",
+   "title": "Above Suspicion",
+   "trailer": {
+    "key": "6JNIyuZJjdQ",
+    "name": "Above Suspicion - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.95,
+   "vote_count": 328
+  },
   "movie:425373": {
    "backdrop_path": "/sxj8EsehEt295QcqoF7g6VzX36p.jpg",
    "budget": 0,
@@ -4513,6 +5356,94 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 413
+  },
+  "movie:89673": {
+   "backdrop_path": "/93M9ejFUVOALHLzeWMUtytxScG4.jpg",
+   "budget": 8447395,
+   "cast": [
+    {
+     "c": "Andrea",
+     "n": "Fabio De Luigi"
+    },
+    {
+     "c": "Giulia",
+     "n": "Claudia Gerini"
+    },
+    {
+     "c": "Max",
+     "n": "Filippo Timi"
+    },
+    {
+     "c": "Vanessa",
+     "n": "Giorgia Würth"
+    },
+    {
+     "c": "Juanita",
+     "n": "Virginia Raffaele"
+    },
+    {
+     "c": "Simone",
+     "n": "Alessandro Sperduti"
+    },
+    {
+     "c": "Alice",
+     "n": "Eleonora Bolla"
+    },
+    {
+     "c": "Claudio",
+     "n": "Michele Foresta"
+    },
+    {
+     "c": "Daniela",
+     "n": "Michela Andreozzi"
+    },
+    {
+     "c": "Farmacista",
+     "n": "Lillo Petrolo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Fausto Brizzi"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 89673,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Couple Andrea and Giulia, an outwardly successful couple, are having problems in the bedroom. When Giulia invites Max, an old friend from high school, to stay in the family home with their teenage son, some new attitudes begin to form.",
+   "popularity": 1.0068,
+   "poster_path": "/yte6dHoUGZQl9j4DI85YOKOi1PJ.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2012-02-10",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Love Is in the Air",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.351,
+   "vote_count": 313
   },
   "movie:8973": {
    "backdrop_path": "/xeoSaPhZ3SCizkCQaofVB9w6iZE.jpg",

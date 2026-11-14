@@ -1,6 +1,6 @@
 {
  "bucket": "31",
- "count": 52,
+ "count": 59,
  "titles": {
   "movie:101731": {
    "d": "The Magic of Belle Isle (2012): Drama/Comedy film. Story: In an effort to tap into his original talent, a… See cast and TMDB rating 7.0/10.",
@@ -952,6 +952,70 @@
    "t": "The Nutty Professor (1963) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1963"
   },
+  "movie:21531": {
+   "d": "Barking Dogs Never Bite (2000): Comedy/Crime film. Story: An idle part-time college lecturer is annoyed by the… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/I6rNAQ0wzFOtLgGuD7BLCyAih6.jpg",
+   "industry": "world",
+   "k": "Barking Dogs Never Bite, Barking Dogs Never Bite movie, Barking Dogs Never Bite cast, Barking Dogs Never Bite story, Barking Dogs Never Bite box office collection, Barking Dogs Never Bite budget, Barking Dogs Never Bite review, Barking Dogs Never Bite rating, Barking Dogs Never Bite release date, Barking Dogs Never Bite trailer, Barking Dogs Never Bite Comedy, Barking Dogs Never Bite Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lee Sung-jae"
+     },
+     {
+      "@type": "Person",
+      "name": "Bae Doona"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Ho-jung"
+     },
+     {
+      "@type": "Person",
+      "name": "Byun Hee-bong"
+     },
+     {
+      "@type": "Person",
+      "name": "Koh Soo-hee"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 328,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Barking Dogs Never Bite (2000): Comedy/Crime film. Story: An idle part-time college lecturer is annoyed by the… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bong Joon Ho"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/I6rNAQ0wzFOtLgGuD7BLCyAih6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=21531",
+    "name": "Barking Dogs Never Bite",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2000-02-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=21531"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Barking Dogs Never Bite (2000)</h1>\n<p class=\"ssr-lead\">An idle part-time college lecturer is annoyed by the yapping sound of a nearby dog. He decides to take drastic action.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 February 2000</li><li>Runtime: 110 minutes</li><li>Director: Bong Joon Ho</li><li>Genres: Comedy, Crime, Drama</li><li>TMDB rating: 6.8/10 (328 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lee Sung-jae as Go Yun-ju</li><li>Bae Doona as Park Hyeon-nam</li><li>Kim Ho-jung as Bae Eun-sil</li><li>Byun Hee-bong as Janitor</li><li>Koh Soo-hee as Yoon Jang-mi</li><li>Kim Roi-ha as Shadow Man</li><li>Kim Jin-goo as Granny</li><li>Im Sang-soo as Joon-pyo</li><li>Seong Jeong-seon as Aengbali</li><li>Jo Jae-ha as Aengbali&#x27;s Baby</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Magnolia Selects Amazon Channel, Monsters and Nightmares Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home, FlixFling</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home, FlixFling</li></ul>\n</article>",
+   "t": "Barking Dogs Never Bite (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2000"
+  },
   "movie:253331": {
    "d": "Black or White (2015): Drama film. Story: A grieving widower is drawn into a custody battle… See cast, budget $9M, and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/759wfisWoD7eJZmi1wi6Y0cW3jw.jpg",
@@ -1207,6 +1271,69 @@
    "t": "The Admiral: Roaring Currents (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:307931": {
+   "d": "The Wolfpack (2015): Documentary film. Story: Locked away from society in an apartment on the Lower… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kvb4mFFEqABFFBLPqCmDIiLktQx.jpg",
+   "industry": "world",
+   "k": "The Wolfpack, The Wolfpack movie, The Wolfpack cast, The Wolfpack story, The Wolfpack box office collection, The Wolfpack budget, The Wolfpack review, The Wolfpack rating, The Wolfpack release date, The Wolfpack Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mukunda Angulo"
+     },
+     {
+      "@type": "Person",
+      "name": "Narayana Angulo"
+     },
+     {
+      "@type": "Person",
+      "name": "Susanne Angulo"
+     },
+     {
+      "@type": "Person",
+      "name": "Bhagavan Angulo"
+     },
+     {
+      "@type": "Person",
+      "name": "Jagadisa Angulo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 330,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "The Wolfpack (2015): Documentary film. Story: Locked away from society in an apartment on the Lower… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Crystal Moselle"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kvb4mFFEqABFFBLPqCmDIiLktQx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=307931",
+    "name": "The Wolfpack",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-06-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=307931"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Wolfpack (2015)</h1>\n<p class=\"ssr-lead\">Locked away from society in an apartment on the Lower East Side of Manhattan, the Angulo brothers learn about the outside world through the films that they watch. Nicknamed ‘The Wolfpack’, the brothers spend their childhood reenacting their favorite films using elaborate home-made props and costumes. Their world is shaken up when one of the brothers escapes and everything changes.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 June 2015</li><li>Runtime: 89 minutes</li><li>Director: Crystal Moselle</li><li>Genres: Documentary</li><li>TMDB rating: 6.8/10 (330 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mukunda Angulo as Self</li><li>Narayana Angulo as Self</li><li>Susanne Angulo as Self</li><li>Bhagavan Angulo as Self</li><li>Jagadisa Angulo as Self</li><li>Krsna Angulo as Self</li><li>Oscar Angulo as Self</li><li>Visnu Angulo as Self</li><li>Chloe Pecorino as Self</li><li>Govinda Angulo as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Dox Amazon Channel, Magnolia Selects Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li></ul>\n</article>",
+   "t": "The Wolfpack (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:361931": {
    "d": "Ronaldo (2015): Documentary/History film. Story: Filmed over 14 months with unprecedented access into… See cast and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/fUO2MHIKGFfMEctfxzpFZBfjsT3.jpg",
@@ -1334,6 +1461,70 @@
    "t": "Happy End (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
+  "movie:402331": {
+   "d": "Hard Target 2 (2016): Action/Thriller film. Story: Forced into a deadly cat-and-mouse game, a disgraced… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jMLvLxu1nc26mRoJg5Hka0NJcNd.jpg",
+   "industry": "world",
+   "k": "Hard Target 2, Hard Target 2 movie, Hard Target 2 cast, Hard Target 2 story, Hard Target 2 box office collection, Hard Target 2 budget, Hard Target 2 review, Hard Target 2 rating, Hard Target 2 release date, Hard Target 2 trailer, Hard Target 2 Action, Hard Target 2 Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Scott Adkins"
+     },
+     {
+      "@type": "Person",
+      "name": "Rhona Mitra"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Knepper"
+     },
+     {
+      "@type": "Person",
+      "name": "Temuera Morrison"
+     },
+     {
+      "@type": "Person",
+      "name": "Byron Gibson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 330,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Hard Target 2 (2016): Action/Thriller film. Story: Forced into a deadly cat-and-mouse game, a disgraced… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Roel Reiné"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jMLvLxu1nc26mRoJg5Hka0NJcNd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=402331",
+    "name": "Hard Target 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-07-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=402331"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hard Target 2 (2016)</h1>\n<p class=\"ssr-lead\">Forced into a deadly cat-and-mouse game, a disgraced mixed martial arts fighter is hunted through the jungles of Southeast Asia.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 July 2016</li><li>Runtime: 104 minutes</li><li>Director: Roel Reiné</li><li>Genres: Action, Thriller</li><li>TMDB rating: 6.3/10 (330 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Scott Adkins as Wes Baylor</li><li>Rhona Mitra as Sofia</li><li>Robert Knepper as Jonah Aldrich</li><li>Temuera Morrison as Madden</li><li>Byron Gibson as Wes Trainer</li><li>Ann Truong as Tha</li><li>Adam Saunders as Esparto</li><li>Sean Keenan as Tobias Zimling</li><li>Peter Hardy as Jacob Zimling</li><li>Troy Honeysett as Jonny Sutherland</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Hard Target 2 (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
   "movie:403431": {
    "d": "Brigsby Bear (2017): Comedy/Drama film. Story: Brigsby Bear Adventures is a children's TV show… See cast, TMDB rating 7.1/10, and release date 27 July 2017.",
    "img": "https://image.tmdb.org/t/p/w780/t2wxBFRFbbUTy9eDneGN7EvzrVR.jpg",
@@ -1396,6 +1587,70 @@
    "published": "2026-11-13",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Brigsby Bear (2017)</h1>\n<p class=\"ssr-lead\">Brigsby Bear Adventures is a children&#x27;s TV show produced for an audience of one: James. When the show abruptly ends, James&#x27;s life changes forever, and he sets out to finish the story himself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 July 2017</li><li>Runtime: 97 minutes</li><li>Director: Dave McCary</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 7.1/10 (436 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kyle Mooney as James Pope</li><li>Mark Hamill as Ted Mitchum</li><li>Jorge Lendeborg Jr. as Spencer</li><li>Matt Walsh as Greg Pope</li><li>Michaela Watkins as Louise Pope</li><li>Ryan Simpkins as Aubrey Pope</li><li>Greg Kinnear as Detective Vogel</li><li>Alexa Demie as Meredith</li><li>Jane Adams as April Mitchum</li><li>Claire Danes as Emily</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Pictures Amazon Channel</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "Brigsby Bear (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
+  "movie:446131": {
+   "d": "Madame (2017): Romance/Comedy film. Story: Anne and Bob, a well-to-do American couple, have just… See cast, TMDB rating 5.9/10, and release date 17 August 2017.",
+   "img": "https://image.tmdb.org/t/p/w780/7l5sHonMX6fgHcW3MoiZI302ykA.jpg",
+   "industry": "world",
+   "k": "Madame, Madame movie, Madame cast, Madame story, Madame box office collection, Madame budget, Madame review, Madame rating, Madame release date, Madame trailer, Madame Romance, Madame Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Toni Collette"
+     },
+     {
+      "@type": "Person",
+      "name": "Harvey Keitel"
+     },
+     {
+      "@type": "Person",
+      "name": "Rossy de Palma"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Smiley"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Hughes"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 330,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Madame (2017): Romance/Comedy film. Story: Anne and Bob, a well-to-do American couple, have just… See cast, TMDB rating 5.9/10, and release date 17 August 2017.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Amanda Sthers"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7l5sHonMX6fgHcW3MoiZI302ykA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=446131",
+    "name": "Madame",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-08-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=446131"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Madame (2017)</h1>\n<p class=\"ssr-lead\">Anne and Bob, a well-to-do American couple, have just moved to a beautiful manor house in romantic Paris. To impress their sophisticated friends, they decide to host a lavish dinner party, but must disguise their maid as a noblewoman to even out the number of guests. When the maid runs off with a wealthy guest, Anne must chase her around Paris to thwart the joyous and unexpected love affair.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 August 2017</li><li>Runtime: 91 minutes</li><li>Director: Amanda Sthers</li><li>Genres: Romance, Comedy, Drama</li><li>TMDB rating: 5.9/10 (330 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Toni Collette as Anne Fredericks</li><li>Harvey Keitel as Bob Fredericks</li><li>Rossy de Palma as Maria</li><li>Michael Smiley as David Reville</li><li>Tom Hughes as Steven Fredericks</li><li>Violaine Gillibert as Hélène Bernard</li><li>Sue Cann as Mandy</li><li>Ariane Séguillon as Josiane</li><li>Beatrice Ecaterina Mujdei as Rose</li><li>Brendan Patricks as Toby</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Madame (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
   "movie:48831": {
@@ -1526,6 +1781,70 @@
    "t": "Fabrizio De André: Principe libero (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
   },
+  "movie:504631": {
+   "d": "Mermaid Down (2022): Horror/Fantasy film. Story: A mermaid is ripped from the ocean by a fishing crew… See cast and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7cQKUEcRkw2EeK7KDn8eRqS3XkC.jpg",
+   "industry": "world",
+   "k": "Mermaid Down, Mermaid Down movie, Mermaid Down cast, Mermaid Down story, Mermaid Down box office collection, Mermaid Down budget, Mermaid Down review, Mermaid Down rating, Mermaid Down release date, Mermaid Down Horror, Mermaid Down Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alexandra Bokova"
+     },
+     {
+      "@type": "Person",
+      "name": "Meggan Kaiser"
+     },
+     {
+      "@type": "Person",
+      "name": "Burt Culver"
+     },
+     {
+      "@type": "Person",
+      "name": "Michelle Gallagher"
+     },
+     {
+      "@type": "Person",
+      "name": "Shepherd Stevenson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 306,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Mermaid Down (2022): Horror/Fantasy film. Story: A mermaid is ripped from the ocean by a fishing crew… See cast and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jeffrey Grellman"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Horror",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7cQKUEcRkw2EeK7KDn8eRqS3XkC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=504631",
+    "name": "Mermaid Down",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-08-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=504631"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mermaid Down (2022)</h1>\n<p class=\"ssr-lead\">A mermaid is ripped from the ocean by a fishing crew only to be tortured and to have her tail cut off. A seemingly helpful stranger intervenes, but then locks her away in an institution for mentally disturbed young women, where no one believes she is a mermaid. With no way out, she is forced to count on her survival instincts, and fight for her life at all costs.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 August 2022</li><li>Runtime: 91 minutes</li><li>Director: Jeffrey Grellman</li><li>Genres: Horror, Fantasy, Mystery, Thriller</li><li>TMDB rating: 6.4/10 (306 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alexandra Bokova as The Mermaid</li><li>Meggan Kaiser as Ghost</li><li>Burt Culver as Dr. Beyer</li><li>Michelle Gallagher as Sandra</li><li>Shepherd Stevenson as Stanley</li><li>Phillip Andre Botello as Dr. Miller</li><li>Cara Bamford as Susan</li><li>Drew Moore as Lawrence</li><li>Eryn Rea as Charlotte</li><li>Jessica Honor Carleton as Nurse Margaret</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: VI movies and tv</li></ul>\n</article>",
+   "t": "Mermaid Down (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
   "movie:517331": {
    "d": "The Realm (2018): Thriller/Mystery film. Story: Manuel, a Spanish politician whose high-class… See cast, budget $4.55M, and TMDB rating 7.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/cLAvMhCYwRelzzOJTXuXxzMFZZV.jpg",
@@ -1588,6 +1907,121 @@
    "published": "2026-11-13",
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Realm (2018)</h1>\n<p class=\"ssr-lead\">Manuel, a Spanish politician whose high-class lifestyle is based on nefarious and illegal business threatens to break his entire party after a newspaper exposes him to the public eye. Rather than admit to any wrongdoing, he decides to sell out his whole party in an effort to avoid jail time. It&#x27;s a decision that will put many lives at risk.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 September 2018</li><li>Runtime: 132 minutes</li><li>Director: Rodrigo Sorogoyen</li><li>Genres: Thriller, Mystery, Drama</li><li>Budget: $4.55M</li><li>TMDB rating: 7.1/10 (497 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Antonio de la Torre as Manuel López-Vidal</li><li>Josep Maria Pou as Frías</li><li>Mónica López as Inés</li><li>Bárbara Lennie as Amaia Marín</li><li>Nacho Fresneda as Paco</li><li>Ana Wagener as La Ceballos</li><li>Luis Zahera as Cabrera</li><li>Francisco Reyes as Alvarado</li><li>María de Nati as Nati</li><li>David Lorente as Gallardo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The Realm (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
+  "movie:523931": {
+   "d": "Megalodon (2018): Action/Science Fiction film. Story: A military vessel on the search for an unidentified… See cast, budget $130.2k, and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3uZeqHTS18d8huhgsV8Yn9ZQR7u.jpg",
+   "industry": "world",
+   "k": "Megalodon, Megalodon movie, Megalodon cast, Megalodon story, Megalodon box office collection, Megalodon budget, Megalodon review, Megalodon rating, Megalodon release date, Megalodon trailer, Megalodon Action, Megalodon Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Madsen"
+     },
+     {
+      "@type": "Person",
+      "name": "Scott C. Roe"
+     },
+     {
+      "@type": "Person",
+      "name": "Ego Mikitas"
+     },
+     {
+      "@type": "Person",
+      "name": "Paulina Nguyen"
+     },
+     {
+      "@type": "Person",
+      "name": "Dominic Pace"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 329,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Megalodon (2018): Action/Science Fiction film. Story: A military vessel on the search for an unidentified… See cast, budget $130.2k, and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James Thomas"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Action",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3uZeqHTS18d8huhgsV8Yn9ZQR7u.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=523931",
+    "name": "Megalodon",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-08-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=523931"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Megalodon (2018)</h1>\n<p class=\"ssr-lead\">A military vessel on the search for an unidentified submersible finds themselves face to face with a giant shark, forced to use only what they have on board to defend themselves from the monstrous beast.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 August 2018</li><li>Runtime: 90 minutes</li><li>Director: James Thomas</li><li>Genres: Action, Science Fiction, Horror, TV Movie</li><li>Budget: $130.2k</li><li>TMDB rating: 5.7/10 (329 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Madsen as Admiral King</li><li>Scott C. Roe as Jameson</li><li>Ego Mikitas as Captain Ivanov</li><li>Paulina Nguyen as Cheng</li><li>Dominic Pace as Captain Streeper</li><li>Aimee Stolte as Yana Popov</li><li>Daniel Joo as Mansfield</li><li>Caroline Harris as Commander Lynch</li><li>Luke Fattorusso as Burkhead</li><li>Dimitry Rozental as Mikhail</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, Bloodstream</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Megalodon (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
+  "movie:529531": {
+   "d": "Hannah Gadsby: Nanette (2018): Comedy film. Story: The Australian comedian Hannah Gadsby is taking an… See cast and TMDB rating 7.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/n26DIR4qNozRawHix7HtTSATGGL.jpg",
+   "industry": "world",
+   "k": "Hannah Gadsby: Nanette, Hannah Gadsby: Nanette movie, Hannah Gadsby: Nanette cast, Hannah Gadsby: Nanette story, Hannah Gadsby: Nanette box office collection, Hannah Gadsby: Nanette budget, Hannah Gadsby: Nanette review, Hannah Gadsby: Nanette rating, Hannah Gadsby: Nanette release date, Hannah Gadsby: Nanette trailer, Hannah Gadsby: Nanette Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hannah Gadsby"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 310,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Hannah Gadsby: Nanette (2018): Comedy film. Story: The Australian comedian Hannah Gadsby is taking an… See cast and TMDB rating 7.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Madeleine Parry"
+     },
+     {
+      "@type": "Person",
+      "name": "Jon Olb"
+     }
+    ],
+    "duration": "PT69M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/n26DIR4qNozRawHix7HtTSATGGL.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=529531",
+    "name": "Hannah Gadsby: Nanette",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-06-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=529531"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hannah Gadsby: Nanette (2018)</h1>\n<p class=\"ssr-lead\">The Australian comedian Hannah Gadsby is taking an anti-comedy stance in her newest special.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 June 2018</li><li>Runtime: 69 minutes</li><li>Director: Madeleine Parry, Jon Olb</li><li>Genres: Comedy</li><li>TMDB rating: 7.9/10 (310 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hannah Gadsby as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Hannah Gadsby: Nanette (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
   },
   "movie:56231": {

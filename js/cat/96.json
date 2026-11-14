@@ -1,6 +1,6 @@
 {
  "bucket": "96",
- "count": 47,
+ "count": 54,
  "titles": {
   "movie:1028196": {
    "backdrop_path": "/kmLssINCNdXnIDjWkBsk6LUNSbe.jpg",
@@ -190,6 +190,169 @@
    "vote_average": 6.6,
    "vote_count": 391
   },
+  "movie:10296": {
+   "backdrop_path": "/7WpbG7uASBBX6oT9TQMxl8mtfkx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tommy Johnson",
+     "n": "Danny Dyer"
+    },
+    {
+     "c": "Rod",
+     "n": "Neil Maskell"
+    },
+    {
+     "c": "Billy Bright",
+     "n": "Frank Harper"
+    },
+    {
+     "c": "Fred",
+     "n": "Tamer Hassan"
+    },
+    {
+     "c": "Zeberdee",
+     "n": "Roland Manookian"
+    },
+    {
+     "c": "Raff",
+     "n": "Calum MacNab"
+    },
+    {
+     "c": "Bill Farrell",
+     "n": "Dudley Sutton"
+    },
+    {
+     "c": "Albert Moss",
+     "n": "John Junkin"
+    },
+    {
+     "c": "Cabbie",
+     "n": "Jamie Foreman"
+    },
+    {
+     "c": "Harris",
+     "n": "Tony Denham"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Nick Love"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 10296,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The Football Factory is more than just a study of the English obsession with football violence, it's about men looking for armies to join, wars to fight and places to belong. A forgotten culture of Anglo Saxon males fed up with being told they're not good enough and using their fists as a drug they describe as being more potent than sex and drugs put together.",
+   "popularity": 1.8359,
+   "poster_path": "/ja76eLRw7XSc1VdlNXEb8ufTIoW.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2004-05-13",
+   "revenue": 1228003,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What else you gonna do on a Saturday?",
+   "title": "The Football Factory",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 311
+  },
   "movie:1158996": {
    "backdrop_path": "/pq6IdEEXEfrcT8O1dzuqkPCUvVM.jpg",
    "budget": 0,
@@ -295,6 +458,96 @@
    "type": "movie",
    "vote_average": 7.502,
    "vote_count": 417
+  },
+  "movie:11696": {
+   "backdrop_path": "/5508isiWLDMbFerBqjUN0dAoBrT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Charles Bosquier",
+     "n": "Louis de Funès"
+    },
+    {
+     "c": "Mac Farrell",
+     "n": "Ferdy Mayne"
+    },
+    {
+     "c": "Shirley MacFarrell",
+     "n": "Martine Kelly"
+    },
+    {
+     "c": "Philippe Bosquier",
+     "n": "François Leccia"
+    },
+    {
+     "c": "Gérard Bosquier",
+     "n": "Olivier de Funès"
+    },
+    {
+     "c": "Isabelle Bosquier",
+     "n": "Claude Gensac"
+    },
+    {
+     "c": "Stéphane Michonnet",
+     "n": "Maurice Risch"
+    },
+    {
+     "c": "Croizac",
+     "n": "Jacques Dynam"
+    },
+    {
+     "c": "Rose",
+     "n": "Dominique Davray"
+    },
+    {
+     "c": "Bodybuilder Motorist",
+     "n": "Mario David"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Jean Girault"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 11696,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Monsieur Bosquier, the owner of a private school, is far from pleased when his eldest son, Philippe, fails his end of year exams. He decides to send his wayward offspring to England to improve his English. In exchange, Philippe’s host, a wealthy whisky distiller, Mac Farrel, will send his daughter, Shirley, to live with the Bosquiers in France. However, Philippe has already decided to spend the summer holidays on a yacht with his friends, so he sends a fellow student, Michonnet, to England in his place. The deception is soon discovered but things go from bad to worse when Philippe and Shirley fall in love and fly to Scotland to get married...",
+   "popularity": 1.6575,
+   "poster_path": "/73lKodrSbIqVfoeApFgLUf2SeWR.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "1967-12-01",
+   "revenue": 0,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Exchange Student",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 317
   },
   "movie:12496": {
    "backdrop_path": "/pNpQf1ZwdKLHo25jFSDisMfqXJl.jpg",
@@ -1369,6 +1622,107 @@
    "vote_average": 6.0,
    "vote_count": 21
   },
+  "movie:1596": {
+   "backdrop_path": "/fXa1d8Jkzx4UXKUmk8hpMrc42cq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Steve Kady",
+     "n": "Jeremy Sisto"
+    },
+    {
+     "c": "Courtney Lovett",
+     "n": "Charlotte Sullivan"
+    },
+    {
+     "c": "Deputy Caine",
+     "n": "Fred Durst"
+    },
+    {
+     "c": "Deputy Hecker",
+     "n": "Peter Outerbridge"
+    },
+    {
+     "c": "Sheriff Calcutt",
+     "n": "R.H. Thomson"
+    },
+    {
+     "c": "Ronald Greaver",
+     "n": "David Fox"
+    },
+    {
+     "c": "Belma Lovett",
+     "n": "Monica Parker"
+    },
+    {
+     "c": "Mayor Grateman",
+     "n": "Frank Adamson"
+    },
+    {
+     "c": "Ruby Flynn",
+     "n": "Marina Stephenson Kerr"
+    },
+    {
+     "c": "Amanda",
+     "n": "Reva Timbers"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michelle MacLaren"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 1596,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A census-taker is sent to investigate why a certain small town has had the same population -- 436 residents -- for the last 100 years.",
+   "popularity": 1.6943,
+   "poster_path": "/trEcuqgfXtIt06b7Tg1fkCnOHBY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2006-07-04",
+   "revenue": 0,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The residents of Rockwell Falls are dying for you to visit...",
+   "title": "Population 436",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.819,
+   "vote_count": 310
+  },
   "movie:1620996": {
    "backdrop_path": "/9NyHabsIT6aVdLKw7ZYsBn7Vw6R.jpg",
    "budget": 0,
@@ -2397,6 +2751,188 @@
    "vote_average": 6.8,
    "vote_count": 401
   },
+  "movie:34996": {
+   "backdrop_path": "/1ndAmeEZWX3xTAZVEphdKC3uLTc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kathleen Conklin",
+     "n": "Lili Taylor"
+    },
+    {
+     "c": "Peina",
+     "n": "Christopher Walken"
+    },
+    {
+     "c": "Casanova",
+     "n": "Annabella Sciorra"
+    },
+    {
+     "c": "Jean",
+     "n": "Edie Falco"
+    },
+    {
+     "c": "Professor",
+     "n": "Paul Calderon"
+    },
+    {
+     "c": "Black",
+     "n": "Fredro Starr"
+    },
+    {
+     "c": "Anthropology Student",
+     "n": "Kathryn Erbe"
+    },
+    {
+     "c": "Missionary",
+     "n": "Michael Imperioli"
+    },
+    {
+     "c": "Black's Friend",
+     "n": "Jamal Simmons"
+    },
+    {
+     "c": "Narrator / Priest",
+     "n": "Robert W. Castle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Abel Ferrara"
+   ],
+   "genres": [
+    "Drama",
+    "Horror"
+   ],
+   "id": 34996,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A vampiric doctoral student tries to follow the philosophy of a nocturnal comrade and control her thirst for blood.",
+   "popularity": 1.6878,
+   "poster_path": "/1Yy8H2tKQ16mffLFRfxcBHKBdyF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "ARROW"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Arrow Video Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uVhUzKH7taAxHZGrRMZ4IqIbQxe.png",
+     "name": "ARROW",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1995-10-06",
+   "revenue": 302393,
+   "runtime": 82,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The dark is their sunlight. What makes them different is what keeps them alive.",
+   "title": "The Addiction",
+   "trailer": {
+    "key": "pgydfbvmwr0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.487,
+   "vote_count": 337
+  },
   "movie:438396": {
    "backdrop_path": "/qGZe9qTuydxyJYQ60XDtEckzLR8.jpg",
    "budget": 3268650,
@@ -3105,6 +3641,521 @@
    "type": "movie",
    "vote_average": 6.976,
    "vote_count": 350
+  },
+  "movie:76696": {
+   "backdrop_path": "/yrRugvRSlou1IBxodPePd9T3vkg.jpg",
+   "budget": 11000000,
+   "cast": [
+    {
+     "c": "Mariana",
+     "n": "Pilar López de Ayala"
+    },
+    {
+     "c": "Martín",
+     "n": "Javier Drolas"
+    },
+    {
+     "c": "Ana",
+     "n": "Inés Efrón"
+    },
+    {
+     "c": "Rafa",
+     "n": "Rafael Ferro"
+    },
+    {
+     "c": "Traumatólogo",
+     "n": "Jorge Ernesto Lanata"
+    },
+    {
+     "c": "Marcela",
+     "n": "Carla Peterson"
+    },
+    {
+     "c": "Lucas",
+     "n": "Adrián Navarro"
+    },
+    {
+     "c": "Ex novia",
+     "n": "Romina Paula"
+    },
+    {
+     "c": "Ex novio",
+     "n": "Alan Pauls"
+    },
+    {
+     "c": "Psiquiatra",
+     "n": "Miguel Dedovich"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Gustavo Taretto"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 76696,
+   "industry": "world",
+   "origin_country": [
+    "AR",
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Martin is a neurotic web designer taking baby steps out of the isolation of his one-room apartment and his virtual reality. Mariana is an artist fresh out of a long relationship. They are perfect for each other, live on the same street, in opposite buildings, but they never meet. Can the movement of a modern city of three million people bring them together?",
+   "popularity": 1.6155,
+   "poster_path": "/4LkufGzat0GMRDEr88w0oHQM2CD.jpg",
+   "production_countries": [
+    "AR",
+    "DE",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2011-06-01",
+   "revenue": 2140,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "How do you find love when you don’t know where it is?",
+   "title": "Sidewalls",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.48,
+   "vote_count": 327
+  },
+  "movie:808396": {
+   "backdrop_path": "/hjyqNFHx5wIO8dqaRi0v2ix1wiR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bob Hightower",
+     "n": "Nikolaj Coster-Waldau"
+    },
+    {
+     "c": "Case Hardin",
+     "n": "Maika Monroe"
+    },
+    {
+     "c": "Cyrus",
+     "n": "Karl Glusman"
+    },
+    {
+     "c": "Maureen Bacon",
+     "n": "January Jones"
+    },
+    {
+     "c": "The Ferryman",
+     "n": "Jamie Foxx"
+    },
+    {
+     "c": "Sgt John Lee Bacon",
+     "n": "Paul Johansson"
+    },
+    {
+     "c": "Arthur Naci",
+     "n": "David Thornton"
+    },
+    {
+     "c": "Gutter",
+     "n": "Ethan Suplee"
+    },
+    {
+     "c": "Errol Grey",
+     "n": "Jonathan Tucker"
+    },
+    {
+     "c": "Granny Boy",
+     "n": "Brendan Sexton III"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Nick Cassavetes"
+   ],
+   "genres": [
+    "Thriller",
+    "Action",
+    "Crime",
+    "Horror"
+   ],
+   "id": 808396,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Vice detective Bob Hightower finds his ex-wife murdered and daughter kidnapped by a cult. Frustrated by the botched official investigations, he quits the force and infiltrates the cult to hunt down the leader with the help of the cult’s only female victim escapee, Case Hardin.",
+   "popularity": 3.0123,
+   "poster_path": "/5kiLS9nsSJxDdlYUyYGiSUt8Fi8.jpg",
+   "production_countries": [
+    "MX",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-06-22",
+   "revenue": 0,
+   "runtime": 155,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Say your prayers.",
+   "title": "God Is a Bullet",
+   "trailer": {
+    "key": "7VBB5ZcfI28",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.279,
+   "vote_count": 312
+  },
+  "movie:830896": {
+   "backdrop_path": "/drNH9o8DHvFh648LRdxAm8BMZVJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Paul Carpenter",
+     "n": "Patrick Gibson"
+    },
+    {
+     "c": "Humphrey Wells / John Wells Snr",
+     "n": "Christoph Waltz"
+    },
+    {
+     "c": "Monty Smith-Gregg",
+     "n": "Damon Herriman"
+    },
+    {
+     "c": "Sophie Pettingel",
+     "n": "Sophie Wilde"
+    },
+    {
+     "c": "Dennis Tanner",
+     "n": "Sam Neill"
+    },
+    {
+     "c": "Job Applicant",
+     "n": "Demi Harman"
+    },
+    {
+     "c": "Professor Nienke Van Spee",
+     "n": "Rachel House"
+    },
+    {
+     "c": "Countess Judy",
+     "n": "Miranda Otto"
+    },
+    {
+     "c": "Casimir Suslowicz",
+     "n": "Chris Pang"
+    },
+    {
+     "c": "Neville",
+     "n": "Arka Das"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jeffrey Walker"
+   ],
+   "genres": [
+    "Fantasy",
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 830896,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "Paul and Sophie, interns at a mysterious London firm, become steadily aware their employers Humphrey and Dennis are anything but conventional – they are disrupting the world of magic by bringing modern corporate strategy to ancient magical practices.",
+   "popularity": 1.7785,
+   "poster_path": "/49NQGuvaMWYeAD22h135tFd2Grs.jpg",
+   "production_countries": [
+    "AU",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+     "name": "MGM Plus Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2023-03-23",
+   "revenue": 0,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Portable Door",
+   "trailer": {
+    "key": "TLc8IBe1T5Q",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.461,
+   "vote_count": 308
   },
   "movie:8696": {
    "backdrop_path": "/mB23ce4CxfUwSb9Y6YY8NPLyy2E.jpg",

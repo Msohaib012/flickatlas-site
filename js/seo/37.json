@@ -1,6 +1,6 @@
 {
  "bucket": "37",
- "count": 45,
+ "count": 52,
  "titles": {
   "movie:10337": {
    "d": "Bugsy (1991): Crime/Drama film. Story: New York gangster Ben 'Bugsy' Siegel takes a brief… See cast, budget $30M, and TMDB rating 6.3/10.",
@@ -768,6 +768,70 @@
    "t": "Balan - The Boy (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:14237": {
+   "d": "Brainscan (1994): Horror/Science Fiction film. Story: A lonely teenage horror fan and video gamer plays a… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uu2AafsWp6sovE8OHYqXpudGRwU.jpg",
+   "industry": "world",
+   "k": "Brainscan, Brainscan movie, Brainscan cast, Brainscan story, Brainscan box office collection, Brainscan budget, Brainscan review, Brainscan rating, Brainscan release date, Brainscan trailer, Brainscan Horror, Brainscan Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Edward Furlong"
+     },
+     {
+      "@type": "Person",
+      "name": "Frank Langella"
+     },
+     {
+      "@type": "Person",
+      "name": "T. Ryder Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Amy Hargreaves"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamie Marsh"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 307,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Brainscan (1994): Horror/Science Fiction film. Story: A lonely teenage horror fan and video gamer plays a… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Flynn"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uu2AafsWp6sovE8OHYqXpudGRwU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14237",
+    "name": "Brainscan",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1994-04-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14237"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Brainscan (1994)</h1>\n<p class=\"ssr-lead\">A lonely teenage horror fan and video gamer plays a new immersive and hypnotic computer game where he becomes a psychopathic killer, but when he emerges, he finds that the murder has actually happened.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 April 1994</li><li>Runtime: 96 minutes</li><li>Director: John Flynn</li><li>Genres: Horror, Science Fiction</li><li>TMDB rating: 6.1/10 (307 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Edward Furlong as Michael</li><li>Frank Langella as Detective Hayden</li><li>T. Ryder Smith as The Trickster</li><li>Amy Hargreaves as Kimberly</li><li>Jamie Marsh as Kyle</li><li>Victor Ertmanis as Martin</li><li>David Hemblen as Dr. Fromberg</li><li>Vlasta Vrana as Frank</li><li>Domenico Fiore as Ken</li><li>Claire Riley as News Anchor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Brainscan (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1994"
+  },
   "movie:1575337": {
    "d": "Cosmic Princess Kaguya! (2026): Animation/Fantasy film. Story: Iroha's life gets knocked off its orbit when Kaguya… See cast and TMDB rating 8.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg",
@@ -1024,6 +1088,70 @@
    "t": "I'll Be Home for Christmas (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1998"
   },
+  "movie:17337": {
+   "d": "The Land Before Time VI: The Secret of Saurus Rock (1998): Animation/Adventure film. Story: Littlefoot's grandfather narrates the story about the… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/qIkSCWFsXGDYInpQCqtKqCsatKl.jpg",
+   "industry": "world",
+   "k": "The Land Before Time VI: The Secret of Saurus Rock, The Land Before Time VI: The Secret of Saurus Rock movie, The Land Before Time VI: The Secret of Saurus Rock cast, The Land Before Time VI: The Secret of Saurus Rock story, The Land Before Time VI: The Secret of Saurus Rock box office collection, The Land Before Time VI: The Secret of Saurus Rock budget, The Land Before Time VI: The Secret of Saurus Rock review, The Land Before Time VI: The Secret of Saurus Rock rating, The Land Before Time VI: The Secret of Saurus Rock release date, The Land Before Time VI: The Secret of Saurus Rock Animation, The Land Before Time VI: The Secret of Saurus Rock Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Thomas Dekker"
+     },
+     {
+      "@type": "Person",
+      "name": "Kenneth Mars"
+     },
+     {
+      "@type": "Person",
+      "name": "Anndi McAfee"
+     },
+     {
+      "@type": "Person",
+      "name": "Aria Noelle Curzon"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeff Bennett"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 308,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "The Land Before Time VI: The Secret of Saurus Rock (1998): Animation/Adventure film. Story: Littlefoot's grandfather narrates the story about the… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Charles Grosvenor"
+     }
+    ],
+    "duration": "PT77M",
+    "genre": [
+     "Animation",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qIkSCWFsXGDYInpQCqtKqCsatKl.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=17337",
+    "name": "The Land Before Time VI: The Secret of Saurus Rock",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1998-12-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=17337"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Land Before Time VI: The Secret of Saurus Rock (1998)</h1>\n<p class=\"ssr-lead\">Littlefoot&#x27;s grandfather narrates the story about the Lone Dinosaur that killed a Sharptooth. A giant monolith formed after the fight and if it&#x27;s destroyed, bad luck will loom over the valley.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 December 1998</li><li>Runtime: 77 minutes</li><li>Director: Charles Grosvenor</li><li>Genres: Animation, Adventure, Family</li><li>TMDB rating: 6.2/10 (308 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Thomas Dekker as Littlefoot (voice)</li><li>Kenneth Mars as Grandpa (voice)</li><li>Anndi McAfee as Cera (voice)</li><li>Aria Noelle Curzon as Ducky (voice)</li><li>Jeff Bennett as Petrie / Spike (voice)</li><li>Nancy Cartwright as Dana (voice)</li><li>Sandy Fox as Dinah (voice)</li><li>Miriam Flynn as Grandma (voice)</li><li>John Ingle as Cera&#x27;s Dad (voice)</li><li>Danny Mann as Allosaurus (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Land Before Time VI: The Secret of Saurus Rock (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1998"
+  },
   "movie:23637": {
    "d": "Ciao, Professore! (1992): Comedy film. Story: A bureaucratic snafu sends Marco Tullio Sperelli, a… See cast and TMDB rating 7.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/8feVoYD8Ps0p9qI5pmRPKXmLu52.jpg",
@@ -1150,6 +1278,69 @@
    "t": "Beyond a Reasonable Doubt (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2009"
   },
+  "movie:261037": {
+   "d": "Miss Meadows (2014): Drama film. Story: Miss Meadows is a school teacher with impeccable… See cast, budget $2M, and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/s6eh24u2kJjSiITYxvGVTS6rnev.jpg",
+   "industry": "world",
+   "k": "Miss Meadows, Miss Meadows movie, Miss Meadows cast, Miss Meadows story, Miss Meadows box office collection, Miss Meadows budget, Miss Meadows review, Miss Meadows rating, Miss Meadows release date, Miss Meadows Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Katie Holmes"
+     },
+     {
+      "@type": "Person",
+      "name": "James Badge Dale"
+     },
+     {
+      "@type": "Person",
+      "name": "Callan Mulvey"
+     },
+     {
+      "@type": "Person",
+      "name": "Mary Kay Place"
+     },
+     {
+      "@type": "Person",
+      "name": "Saidah Arrika Ekulona"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 322,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Miss Meadows (2014): Drama film. Story: Miss Meadows is a school teacher with impeccable… See cast, budget $2M, and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Karen Leigh Hopkins"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/s6eh24u2kJjSiITYxvGVTS6rnev.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=261037",
+    "name": "Miss Meadows",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-09-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=261037"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Miss Meadows (2014)</h1>\n<p class=\"ssr-lead\">Miss Meadows is a school teacher with impeccable manners and grace. However, underneath the candy-sweet exterior hides a ruthless gun-toting vigilante who takes it upon herself to right the wrongs in the world by whatever means necessary. For Miss Meadows, bad behavior is simply unforgivable.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 September 2014</li><li>Runtime: 88 minutes</li><li>Director: Karen Leigh Hopkins</li><li>Genres: Drama</li><li>Budget: $2M</li><li>TMDB rating: 5.9/10 (322 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Katie Holmes as Miss Meadows</li><li>James Badge Dale as Sheriff</li><li>Callan Mulvey as Skylar</li><li>Mary Kay Place as Mrs. Davenport</li><li>Saidah Arrika Ekulona as Doctor</li><li>James Landry Hébert as Derek Weaver</li><li>Kate Linder as Trudy Navis</li><li>Stephen Bishop as Lt. Danny</li><li>Jean Smart as Mother Meadows</li><li>Harry Zinn as Minister</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel</li><li>Rent: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Miss Meadows (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:284537": {
    "d": "Welcome to Me (2015): Comedy/Drama film. Story: A year in the life of Alice Klieg, a woman with… See cast, TMDB rating 5.9/10, and release date 1 May 2015.",
    "img": "https://image.tmdb.org/t/p/w780/dtgSkyamABSVFbZhJNl4e5SX6VL.jpg",
@@ -1212,6 +1403,134 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Welcome to Me (2015)</h1>\n<p class=\"ssr-lead\">A year in the life of Alice Klieg, a woman with Borderline personality disorder who wins the Mega Millions lottery, quits her meds and buys her own talk show.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 May 2015</li><li>Runtime: 87 minutes</li><li>Director: Shira Piven</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 5.9/10 (352 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kristen Wiig as Alice Klieg</li><li>James Marsden as Rich Ruskin</li><li>Linda Cardellini as Gina Selway</li><li>Wes Bentley as Gabe Ruskin</li><li>Jennifer Jason Leigh as Deb Moseley</li><li>Alan Tudyk as Ted Thurber</li><li>Tim Robbins as Dr. Daryl Moffet</li><li>Joan Cusack as Dawn Hurley</li><li>Thomas Mann as Rainer Ybarra</li><li>Rose Abdoo as Connie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Welcome to Me (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
+  "movie:310137": {
+   "d": "Bound to Vengeance (2015): Thriller/Horror film. Story: A young woman, Eve, fights back and manages to escape… See cast and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bR9JE8Y5YNYIBqXaDQuTaWKv5B5.jpg",
+   "industry": "world",
+   "k": "Bound to Vengeance, Bound to Vengeance movie, Bound to Vengeance cast, Bound to Vengeance story, Bound to Vengeance box office collection, Bound to Vengeance budget, Bound to Vengeance review, Bound to Vengeance rating, Bound to Vengeance release date, Bound to Vengeance Thriller, Bound to Vengeance Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tina Ivlev"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Tyson"
+     },
+     {
+      "@type": "Person",
+      "name": "Bianca Malinowski"
+     },
+     {
+      "@type": "Person",
+      "name": "Kris Kjornes"
+     },
+     {
+      "@type": "Person",
+      "name": "Dustin Quick"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 309,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Bound to Vengeance (2015): Thriller/Horror film. Story: A young woman, Eve, fights back and manages to escape… See cast and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "José Manuel Cravioto"
+     }
+    ],
+    "duration": "PT80M",
+    "genre": [
+     "Thriller",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bR9JE8Y5YNYIBqXaDQuTaWKv5B5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=310137",
+    "name": "Bound to Vengeance",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-06-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=310137"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bound to Vengeance (2015)</h1>\n<p class=\"ssr-lead\">A young woman, Eve, fights back and manages to escape a malicious abductor. However, after discovering she may not be the only victim, Eve unravels a darker truth and decides to turn the tables on her captor.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 June 2015</li><li>Runtime: 80 minutes</li><li>Director: José Manuel Cravioto</li><li>Genres: Thriller, Horror</li><li>TMDB rating: 5.6/10 (309 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tina Ivlev as Eve Pritchard</li><li>Richard Tyson as Phil</li><li>Bianca Malinowski as Lea</li><li>Kris Kjornes as Ronnie Taylor</li><li>Dustin Quick as Laura</li><li>Stephanie Charles as Nina</li><li>Ric Sarabia as Skinny Man</li><li>Nihan Gur as Katrina Garza</li><li>Keith Johnson as Fat Man</li><li>Scott Vance as Tall Man</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Sundance Now</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Bound to Vengeance (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
+  "movie:319337": {
+   "d": "13 Minutes (2015): History/Drama film. Story: The breathtaking story of a man who nearly would have… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zpFFDwv7RsWwQIRBHzUW7WGmycC.jpg",
+   "industry": "world",
+   "k": "13 Minutes, 13 Minutes movie, 13 Minutes cast, 13 Minutes story, 13 Minutes box office collection, 13 Minutes budget, 13 Minutes review, 13 Minutes rating, 13 Minutes release date, 13 Minutes trailer, 13 Minutes History, 13 Minutes Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christian Friedel"
+     },
+     {
+      "@type": "Person",
+      "name": "Katharina Schüttler"
+     },
+     {
+      "@type": "Person",
+      "name": "Burghart Klaußner"
+     },
+     {
+      "@type": "Person",
+      "name": "Johann von Bülow"
+     },
+     {
+      "@type": "Person",
+      "name": "Felix Eitner"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 322,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "13 Minutes (2015): History/Drama film. Story: The breathtaking story of a man who nearly would have… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Oliver Hirschbiegel"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "History",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zpFFDwv7RsWwQIRBHzUW7WGmycC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=319337",
+    "name": "13 Minutes",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-04-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=319337"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>13 Minutes (2015)</h1>\n<p class=\"ssr-lead\">The breathtaking story of a man who nearly would have changed the world. In 1939, when Hitler tricked millions of people at the height of his power, radical Georg Elser — disparaged as an assassin — is one of the greatest resistance fighters.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 April 2015</li><li>Runtime: 114 minutes</li><li>Director: Oliver Hirschbiegel</li><li>Genres: History, Drama</li><li>TMDB rating: 6.8/10 (322 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christian Friedel as Georg Elser</li><li>Katharina Schüttler as Elsa</li><li>Burghart Klaußner as Nebe</li><li>Johann von Bülow as Heinrich Müller</li><li>Felix Eitner as Eberle</li><li>David Zimmerschied as Josef Schurr</li><li>Rüdiger Klink as Erich</li><li>Oliver Bigalke as SA-Mann</li><li>Cornelia Köndgen as Maria Elser</li><li>Martin Maria Abram as Ludwig Elser</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "13 Minutes (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
   "movie:348537": {
@@ -1277,6 +1596,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Spanish Affair 2 (2015)</h1>\n<p class=\"ssr-lead\">Amaia after breaking up with Rafa, falls in love with a Catalonian. Koldo, her father, goes to Sevilla to persuade Rafa to go to Catalonia and take Amaia&#x27;s heart back.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 2015</li><li>Runtime: 106 minutes</li><li>Director: Emilio Martínez Lázaro</li><li>Genres: Comedy, Romance, Family</li><li>Budget: $4.5M</li><li>TMDB rating: 5.5/10 (442 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dani Rovira as Rafa</li><li>Clara Lago as Amaia</li><li>Berto Romero as Pau</li><li>Karra Elejalde as Koldo</li><li>Carmen Machi as Merche</li><li>Rosa María Sardà as Roser</li><li>Alfonso Sánchez as Curro</li><li>Alberto López as Joaquín</li><li>Belén Cuesta as Judit</li><li>Agustín Jiménez as Anselmo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Spanish Affair 2 (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
+  },
+  "movie:362637": {
+   "d": "Opposites Attract (2015): Romance/Comedy film. Story: She's a divorce lawyer, single mother and perpetually… See cast and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/Alq6OY1DspbQG0kFHWAfZC7FqJ7.jpg",
+   "industry": "world",
+   "k": "Opposites Attract, Opposites Attract movie, Opposites Attract cast, Opposites Attract story, Opposites Attract box office collection, Opposites Attract budget, Opposites Attract review, Opposites Attract rating, Opposites Attract release date, Opposites Attract Romance, Opposites Attract Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Luca Argentero"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Felberbaum"
+     },
+     {
+      "@type": "Person",
+      "name": "Giampaolo Morelli"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Safroncik"
+     },
+     {
+      "@type": "Person",
+      "name": "Tommaso Ragno"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 317,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Opposites Attract (2015): Romance/Comedy film. Story: She's a divorce lawyer, single mother and perpetually… See cast and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Max Croci"
+     }
+    ],
+    "duration": "PT85M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/Alq6OY1DspbQG0kFHWAfZC7FqJ7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=362637",
+    "name": "Opposites Attract",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-10-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=362637"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Opposites Attract (2015)</h1>\n<p class=\"ssr-lead\">She&#x27;s a divorce lawyer, single mother and perpetually at war against men, he is a couple&#x27;s therapist, single and not looking, they meet and collide in a bourgeois and romantic Rome...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 October 2015</li><li>Runtime: 85 minutes</li><li>Director: Max Croci</li><li>Genres: Romance, Comedy</li><li>TMDB rating: 5.9/10 (317 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Luca Argentero as Stefano Parisi</li><li>Sarah Felberbaum as Claudia Torrini</li><li>Giampaolo Morelli as Alessandro</li><li>Anna Safroncik as Mariasole</li><li>Tommaso Ragno as Doctor Beck</li><li>Grazia Schiavo as Carolina</li><li>Riccardo Russo as Luca</li><li>Gualtiero Burzi as Luigi Braschi</li><li>Elena Di Cioccio as Rita</li><li>Stefano Fresi as Florist</li></ul>\n</article>",
+   "t": "Opposites Attract (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
+  "movie:384737": {
+   "d": "Precious Cargo (2016): Action/Crime film. Story: After a botched heist, Eddie a murderous crime boss… See cast, budget $10.5M, and TMDB rating 5.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5yRU4YM4Vo5jYVZ6FoYlsUOrxU3.jpg",
+   "industry": "world",
+   "k": "Precious Cargo, Precious Cargo movie, Precious Cargo cast, Precious Cargo story, Precious Cargo box office collection, Precious Cargo budget, Precious Cargo review, Precious Cargo rating, Precious Cargo release date, Precious Cargo trailer, Precious Cargo Action, Precious Cargo Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bruce Willis"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark-Paul Gosselaar"
+     },
+     {
+      "@type": "Person",
+      "name": "Claire Forlani"
+     },
+     {
+      "@type": "Person",
+      "name": "Jenna B. Kelly"
+     },
+     {
+      "@type": "Person",
+      "name": "Nick Loeb"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 311,
+     "ratingValue": 5.1,
+     "worstRating": 0
+    },
+    "description": "Precious Cargo (2016): Action/Crime film. Story: After a botched heist, Eddie a murderous crime boss… See cast, budget $10.5M, and TMDB rating 5.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Max Adams"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5yRU4YM4Vo5jYVZ6FoYlsUOrxU3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=384737",
+    "name": "Precious Cargo",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-07-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=384737"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Precious Cargo (2016)</h1>\n<p class=\"ssr-lead\">After a botched heist, Eddie a murderous crime boss, hunts down the seductive thief Karen who failed him. In order to win back Eddie’s trust, Karen recruits her ex-lover and premier thief Jack to steal a cargo of rare precious gems. But when the job goes down, allegiances are betrayed and lines are crossed as Jack, Karen, and Eddie face off in a fateful showdown.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 July 2016</li><li>Runtime: 99 minutes</li><li>Director: Max Adams</li><li>Genres: Action, Crime, Thriller</li><li>Budget: $10.5M</li><li>TMDB rating: 5.1/10 (311 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bruce Willis as Eddie</li><li>Mark-Paul Gosselaar as Jack</li><li>Claire Forlani as Karen</li><li>Jenna B. Kelly as Logan</li><li>Nick Loeb as Andrew Herzberg</li><li>Daniel Bernhardt as Simon</li><li>John Brotherton as Nicholas</li><li>Lydia Hull as Jenna</li><li>Sammi Barber as Apsara</li><li>Tyler Jon Olson as Lucas</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Zee5</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Precious Cargo (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
   },
   "movie:42437": {
    "d": "Natale a Rio (2008): Comedy film. Story: Fabio is in love with his colleague Linda, but she… See cast, TMDB rating 5.1/10, and release date 19 December 2008.",

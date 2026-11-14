@@ -1,6 +1,6 @@
 {
  "bucket": "49",
- "count": 43,
+ "count": 50,
  "titles": {
   "movie:10349": {
    "backdrop_path": "/uTlZjD5uZ8C71pt4G8gt5QhhqIJ.jpg",
@@ -647,6 +647,173 @@
    "vote_average": 7.287,
    "vote_count": 370
   },
+  "movie:1232449": {
+   "backdrop_path": "/3HaqAPZ0C8n6Hd5T86U53yJlBAN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Elias",
+     "n": "Lou Goossens"
+    },
+    {
+     "c": "Alexander",
+     "n": "Marius De Saeger"
+    },
+    {
+     "c": "Luk",
+     "n": "Geert Van Rampelberg"
+    },
+    {
+     "c": "Nathalie",
+     "n": "Emilie De Roo"
+    },
+    {
+     "c": "Fred",
+     "n": "Dirk van Dijck"
+    },
+    {
+     "c": "Maxime",
+     "n": "Jul Goossens"
+    },
+    {
+     "c": "Line",
+     "n": "Ezra van Dongen"
+    },
+    {
+     "c": "Marc",
+     "n": "Olivier Englebert"
+    },
+    {
+     "c": "Ella",
+     "n": "Olga De Saeger"
+    },
+    {
+     "c": "Tony",
+     "n": "Wim Opbrouck"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Anthony Schatteman"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 1232449,
+   "industry": "world",
+   "origin_country": [
+    "BE",
+    "NL"
+   ],
+   "original_language": "nl",
+   "overview": "14-year-old Elias increasingly feels like an outsider in his village. When he meets his new neighbour of the same age, Alexander, Elias is confronted with his burgeoning sexuality.",
+   "popularity": 11.3629,
+   "poster_path": "/iGCtYxfuvXfy0BD5m6p7vKuPOxS.jpg",
+   "production_countries": [
+    "BE",
+    "NL"
+   ],
+   "providers": [
+    {
+     "name": "Strand Releasing Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ugFLagb0elt6ssH89oY85UxXd4d.png",
+     "name": "Strand Releasing Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2024-10-26",
+   "revenue": 136344,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "nl"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Young Hearts",
+   "trailer": {
+    "key": "ijaLan082S8",
+    "name": "UK Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.583,
+   "vote_count": 337
+  },
   "movie:1249": {
    "backdrop_path": "/grBVNhFI7iNB54eFfXVzbYfDSQk.jpg",
    "budget": 0,
@@ -1128,6 +1295,131 @@
    "vote_average": 6.0,
    "vote_count": 398
   },
+  "movie:14849": {
+   "backdrop_path": "/xU9m2bxxuY2QXER4k28RbbIt2Kl.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "George Lass",
+     "n": "Ellen Muth"
+    },
+    {
+     "c": "Roxy Harvey",
+     "n": "Jasmine Guy"
+    },
+    {
+     "c": "Mason",
+     "n": "Callum Blue"
+    },
+    {
+     "c": "Daisy Adair",
+     "n": "Sarah Wynter"
+    },
+    {
+     "c": "Reggie Lass",
+     "n": "Britt McKillip"
+    },
+    {
+     "c": "Delores Herbig",
+     "n": "Christine Willes"
+    },
+    {
+     "c": "Joy Lass",
+     "n": "Cynthia Stevenson"
+    },
+    {
+     "c": "Cameron Kane",
+     "n": "Henry Ian Cusick"
+    },
+    {
+     "c": "Jennifer Hardick",
+     "n": "Shenae Grimes-Beech"
+    },
+    {
+     "c": "Melange Receptionist",
+     "n": "Ferelith Young"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Stephen Herek"
+   ],
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Comedy"
+   ],
+   "id": 14849,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When George and her colleagues get a new boss whose focus is on moving souls quickly and enjoying life without consequences, the team begins to break the strict reaper rules. While her friends fall victim to their desires for money, success, and fame, George breaks another rule by revealing her true identity to her living family.",
+   "popularity": 1.6773,
+   "poster_path": "/ekzGiwleJbx0ei1R3s0ylowFKT9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "ScreenPix Apple TV channel"
+    },
+    {
+     "name": "ScreenPix Amazon Channel "
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2009-02-17",
+   "revenue": 0,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Dead Like Me: Life After Death",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 329
+  },
   "movie:1511549": {
    "backdrop_path": "/jUpuMPCQiNSYi4QxeCIGFUlPizn.jpg",
    "budget": 0,
@@ -1349,6 +1641,189 @@
    "type": "movie",
    "vote_average": 7.05,
    "vote_count": 20
+  },
+  "movie:201749": {
+   "backdrop_path": "/94NOogxgor0pIM0kgiEVZyurjHq.jpg",
+   "budget": 8200000,
+   "cast": [
+    {
+     "c": "Matthew Morgan",
+     "n": "Michael Caine"
+    },
+    {
+     "c": "Pauline Laubie",
+     "n": "Clémence Poésy"
+    },
+    {
+     "c": "Karen Morgan",
+     "n": "Gillian Anderson"
+    },
+    {
+     "c": "Miles Morgan",
+     "n": "Justin Kirk"
+    },
+    {
+     "c": "Joan Morgan",
+     "n": "Jane Alexander"
+    },
+    {
+     "c": "Stamp Collector",
+     "n": "Richard Hope"
+    },
+    {
+     "c": "Madame Léry",
+     "n": "Anne Alvaro"
+    },
+    {
+     "c": "Lucien",
+     "n": "Yannick Choirat"
+    },
+    {
+     "c": "Madme Dune",
+     "n": "Michelle Goddet"
+    },
+    {
+     "c": "Maitre D' Chez René",
+     "n": "Ian Fenelon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Sandra Nettelbeck"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 201749,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "en",
+   "overview": "A widowed professor living in Paris develops a special relationship with a younger French woman.",
+   "popularity": 1.6952,
+   "poster_path": "/i1bNPyhp5aBb6Bw8bc4ex87KVOC.jpg",
+   "production_countries": [
+    "DE",
+    "BE",
+    "US",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "AcornTV Amazon Channel"
+    },
+    {
+     "name": "Acorn TV Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7BBOk6Av1TFqWqEhxBYyTJucGuL.png",
+     "name": "AcornTV Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1MRjoHouZAWsBCdXjjkPWEDtyV0.png",
+     "name": "Acorn TV Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2013-08-22",
+   "revenue": 2967122,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "It's never too late to love life again.",
+   "title": "Mr. Morgan's Last Love",
+   "trailer": {
+    "key": "U2KZ3VCFmjM",
+    "name": "MR MORGAN'S LAST LOVE TRAILER",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.595,
+   "vote_count": 331
   },
   "movie:20649": {
    "backdrop_path": "/xhYs4yaBnDNM3utncVzLmFVpAmK.jpg",
@@ -1626,6 +2101,157 @@
    "type": "movie",
    "vote_average": 5.994,
    "vote_count": 483
+  },
+  "movie:21349": {
+   "backdrop_path": "/n03FL1Ia88Jq2nV7fz4AJE9utw0.jpg",
+   "budget": 23000000,
+   "cast": [
+    {
+     "c": "Adele August",
+     "n": "Susan Sarandon"
+    },
+    {
+     "c": "Ann August",
+     "n": "Natalie Portman"
+    },
+    {
+     "c": "Josh Spritzer",
+     "n": "Hart Bochner"
+    },
+    {
+     "c": "Lillian",
+     "n": "Eileen Ryan"
+    },
+    {
+     "c": "Ted",
+     "n": "Ray Baker"
+    },
+    {
+     "c": "Jimmy",
+     "n": "John Diehl"
+    },
+    {
+     "c": "Benny",
+     "n": "Shawn Hatosy"
+    },
+    {
+     "c": "Carol",
+     "n": "Bonnie Bedelia"
+    },
+    {
+     "c": "Hisham Badir",
+     "n": "Faran Tahir"
+    },
+    {
+     "c": "Hisham Badir (voice)",
+     "n": "Shishir Kurup"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Wayne Wang"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 21349,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Single mother Adele August is bad with money, and even worse when it comes to making decisions. Her straight-laced daughter, Ann, is a successful high school student with Ivy League aspirations. When Adele decides to pack up and move the two of them from the Midwest to Beverly Hills, Calif., to pursue her dreams of Hollywood success, Ann grows frustrated with her mother's irresponsible and impulsive ways.",
+   "popularity": 1.8521,
+   "poster_path": "/2DNtxmXkotuaJexU57geTLIPnQf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1999-11-12",
+   "revenue": 18653615,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A story of a mother who knows best... and a daughter who knows better.",
+   "title": "Anywhere but Here",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 308
   },
   "movie:2149": {
    "backdrop_path": "/vbVe8HhnR1hJ6I5k49E6cqCajYX.jpg",
@@ -1905,6 +2531,152 @@
    "type": "movie",
    "vote_average": 6.127,
    "vote_count": 451
+  },
+  "movie:25649": {
+   "backdrop_path": "/AlLN0T6Tz2ruQJMiGhNhLX0ShSd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Han-ki",
+     "n": "Cho Jae-hyun"
+    },
+    {
+     "c": "Sun-hwa",
+     "n": "Seo Won"
+    },
+    {
+     "c": "Jung-tae",
+     "n": "Kim Yun-tae"
+    },
+    {
+     "c": "Myeong-su",
+     "n": "Choi Deok-moon"
+    },
+    {
+     "c": "Hyun-ja",
+     "n": "Choi Yoon-young"
+    },
+    {
+     "c": "Min-jung",
+     "n": "Shin Yoo-jin"
+    },
+    {
+     "c": "Eun-hye",
+     "n": "Kim Jung-young"
+    },
+    {
+     "c": "Hyun-soo",
+     "n": "Namkoong Min"
+    },
+    {
+     "c": "Dal-soo",
+     "n": "Lee Han-wi"
+    },
+    {
+     "c": "Pickpocket",
+     "n": "Park Wan-kyu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Kim Ki-duk"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Romance"
+   ],
+   "id": 25649,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A pimp enforcer takes revenge on a woman who rejected his advances by tricking her into prostitution, but complications arise.",
+   "popularity": 1.4705,
+   "poster_path": "/2gI1b0kHperlUjC4EE34mKJBGI6.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "Cineverse"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rqCIpmrCBpnL6oliak6E1mrq5DD.png",
+     "name": "Cineverse",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2002-01-11",
+   "revenue": 62100,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "Trapped in a world of pleasure and pain...",
+   "title": "Bad Guy",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 312
   },
   "movie:302349": {
    "backdrop_path": "/kEY6RjklHdwJfg5Wxnu20aAc618.jpg",
@@ -2513,6 +3285,198 @@
    "vote_average": 6.077,
    "vote_count": 496
   },
+  "movie:549": {
+   "backdrop_path": "/h7vBO0meGzjW3yu0Gejx5hI09I9.jpg",
+   "budget": 3300000,
+   "cast": [
+    {
+     "c": "Jean Michel Basquiat",
+     "n": "Jeffrey Wright"
+    },
+    {
+     "c": "Rene Ricard",
+     "n": "Michael Wincott"
+    },
+    {
+     "c": "Benny Dalmau",
+     "n": "Benicio del Toro"
+    },
+    {
+     "c": "Gina Cardinale",
+     "n": "Claire Forlani"
+    },
+    {
+     "c": "Andy Warhol",
+     "n": "David Bowie"
+    },
+    {
+     "c": "Bruno Bischofberger",
+     "n": "Dennis Hopper"
+    },
+    {
+     "c": "Albert Milo",
+     "n": "Gary Oldman"
+    },
+    {
+     "c": "The Interviewer",
+     "n": "Christopher Walken"
+    },
+    {
+     "c": "The Electrician",
+     "n": "Willem Dafoe"
+    },
+    {
+     "c": "Shenge",
+     "n": "Jean-Claude La Marre"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Julian Schnabel"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 549,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The brief life of Jean Michel Basquiat, a world renowned New York street artist struggling with fame, drugs and his identity.",
+   "popularity": 2.2308,
+   "poster_path": "/gFfVhN8BbgHhMb3ZNQRAH5xc7kq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "1996-12-12",
+   "revenue": 3022292,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In 1981, a nineteen-year-old unknown graffiti writer took the New York art world by storm. The rest is art history.",
+   "title": "Basquiat",
+   "trailer": {
+    "key": "8zIsTrrYeQU",
+    "name": "Black and White Version - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 330
+  },
   "movie:613349": {
    "backdrop_path": "/70zanWt7TxBCZJCdMYhCMFDdGQr.jpg",
    "budget": 6837995,
@@ -2600,6 +3564,124 @@
    "type": "movie",
    "vote_average": 6.532,
    "vote_count": 343
+  },
+  "movie:621749": {
+   "backdrop_path": "/2mJBGDwpqLQcViV2paaeS8h8JDc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Father",
+     "n": "Matt Dillon"
+    },
+    {
+     "c": "Mimic",
+     "n": "Daphné Patakia"
+    },
+    {
+     "c": "Mother",
+     "n": "Susan Elle"
+    },
+    {
+     "c": "Daughter",
+     "n": "Sara Lee"
+    },
+    {
+     "c": "Daughter",
+     "n": "Eugena Lee"
+    },
+    {
+     "c": "Son",
+     "n": "Rowan Kay"
+    },
+    {
+     "c": "Boy on Subway",
+     "n": "Anvo Kyle Tucker"
+    },
+    {
+     "c": "Conductor",
+     "n": "Lizzy Ceniceros"
+    },
+    {
+     "c": "Flower Seller",
+     "n": "Florencia Mariotti"
+    },
+    {
+     "c": "Studio Teacher",
+     "n": "Jeffrey Raines"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Yorgos Lanthimos"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 621749,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A professional cellist has an encounter with a stranger on the subway which has unexpected and far-reaching ramifications on his life.",
+   "popularity": 1.0972,
+   "poster_path": "/gRzUDFYke2DCVxmddotNatQ5FDl.jpg",
+   "production_countries": [
+    "DE",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2020-01-30",
+   "revenue": 0,
+   "runtime": 12,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Nimic",
+   "trailer": {
+    "key": "f9WNQEFFwP8",
+    "name": "Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.598,
+   "vote_count": 328
   },
   "movie:6949": {
    "backdrop_path": "/lDeH6UkNGX2UcaOKTJ5SHtmNwbD.jpg",

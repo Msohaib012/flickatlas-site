@@ -1,7 +1,71 @@
 {
  "bucket": "26",
- "count": 47,
+ "count": 56,
  "titles": {
+  "movie:1010826": {
+   "d": "Killer Book Club (2023): Horror/Thriller film. Story: Eight horror-loving friends fight for their lives… See cast and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lEMO9pVODhiWLgJzuCaYlfJkdNz.jpg",
+   "industry": "world",
+   "k": "Killer Book Club, Killer Book Club movie, Killer Book Club cast, Killer Book Club story, Killer Book Club box office collection, Killer Book Club budget, Killer Book Club review, Killer Book Club rating, Killer Book Club release date, Killer Book Club trailer, Killer Book Club Horror, Killer Book Club Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Veki Velilla"
+     },
+     {
+      "@type": "Person",
+      "name": "Álvaro Mel"
+     },
+     {
+      "@type": "Person",
+      "name": "Priscilla Delgado"
+     },
+     {
+      "@type": "Person",
+      "name": "Iván Pellicer"
+     },
+     {
+      "@type": "Person",
+      "name": "Hamza Zaidi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 328,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Killer Book Club (2023): Horror/Thriller film. Story: Eight horror-loving friends fight for their lives… See cast and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Carlos Alonso-Ojea"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lEMO9pVODhiWLgJzuCaYlfJkdNz.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1010826",
+    "name": "Killer Book Club",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-08-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1010826"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Killer Book Club (2023)</h1>\n<p class=\"ssr-lead\">Eight horror-loving friends fight for their lives when a killer clown who seems to know the grim secret they share begins to pick them off, one by one.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 August 2023</li><li>Runtime: 89 minutes</li><li>Director: Carlos Alonso-Ojea</li><li>Genres: Horror, Thriller</li><li>TMDB rating: 5.6/10 (328 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Veki Velilla as Ángela</li><li>Álvaro Mel as Sebas Hoyos</li><li>Priscilla Delgado as Virginia</li><li>Iván Pellicer as Nando</li><li>Hamza Zaidi as Koldo</li><li>María Cerezuela as Eva</li><li>Ane Rot as Sara Pons</li><li>Carlos Alcaide as Rai</li><li>Daniel Grao as Cruzado</li><li>Carmela Lloret as Catalina</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Killer Book Club (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
   "movie:10426": {
    "d": "Friday After Next (2002): Comedy/Drama film. Story: Craig and his cousin Day-Day have finally moved out… See cast, budget $20M, and TMDB rating 6.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/bfnQPbcmPAXO2QmDONalx4vNWPB.jpg",
@@ -992,6 +1056,133 @@
    "t": "Little Giants (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1994"
   },
+  "movie:25126": {
+   "d": "Six Shooter (2004): Drama/Comedy film. Story: Overwhelmed by grief following the death of his wife… See cast, budget $200.0k, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bTYoUROtBXXDivjpHV6S0zqZYwv.jpg",
+   "industry": "world",
+   "k": "Six Shooter, Six Shooter movie, Six Shooter cast, Six Shooter story, Six Shooter box office collection, Six Shooter budget, Six Shooter review, Six Shooter rating, Six Shooter release date, Six Shooter Drama, Six Shooter Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Brendan Gleeson"
+     },
+     {
+      "@type": "Person",
+      "name": "Rúaidhrí Conroy"
+     },
+     {
+      "@type": "Person",
+      "name": "David Wilmot"
+     },
+     {
+      "@type": "Person",
+      "name": "Aisling O'Sullivan"
+     },
+     {
+      "@type": "Person",
+      "name": "Gary Lydon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 313,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Six Shooter (2004): Drama/Comedy film. Story: Overwhelmed by grief following the death of his wife… See cast, budget $200.0k, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Martin McDonagh"
+     }
+    ],
+    "duration": "PT27M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bTYoUROtBXXDivjpHV6S0zqZYwv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=25126",
+    "name": "Six Shooter",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-10-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=25126"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Six Shooter (2004)</h1>\n<p class=\"ssr-lead\">Overwhelmed by grief following the death of his wife, Donnelly shares a train carriage home with a troubled young man identified only as the &#x27;Kid&#x27;. As the Kid becomes more agitated and foul-mouthed, the journey takes on a violent and dangerous hue – for the bereaved Donnelly and for other hapless passengers on the train. Academy Award Winner: Best Live Action Short Film – 2005</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 October 2004</li><li>Runtime: 27 minutes</li><li>Director: Martin McDonagh</li><li>Genres: Drama, Comedy, Crime</li><li>Budget: $200.0k</li><li>TMDB rating: 7.1/10 (313 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Brendan Gleeson as Donnelly</li><li>Rúaidhrí Conroy as Kid</li><li>David Wilmot as Man</li><li>Aisling O&#x27;Sullivan as Woman</li><li>Gary Lydon as Chief Guard</li><li>Domhnall Gleeson as Cashier</li><li>David Murray as Doctor</li><li>Tadgh Conroy as Young Kid</li><li>David Pearse as Short Man</li><li>Ann McFarlane as Donnelly&#x27;s Wife</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: ShortsTV Amazon Channel</li></ul>\n</article>",
+   "t": "Six Shooter (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
+  },
+  "movie:283726": {
+   "d": "The New Girlfriend (2014): Drama film. Story: A young woman makes a surprising discovery about the… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/gi88gFtqxVRZPT5AIWwwKzAuzHF.jpg",
+   "industry": "world",
+   "k": "The New Girlfriend, The New Girlfriend movie, The New Girlfriend cast, The New Girlfriend story, The New Girlfriend box office collection, The New Girlfriend budget, The New Girlfriend review, The New Girlfriend rating, The New Girlfriend release date, The New Girlfriend trailer, The New Girlfriend Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Romain Duris"
+     },
+     {
+      "@type": "Person",
+      "name": "Anaïs Demoustier"
+     },
+     {
+      "@type": "Person",
+      "name": "Raphaël Personnaz"
+     },
+     {
+      "@type": "Person",
+      "name": "Isild Le Besco"
+     },
+     {
+      "@type": "Person",
+      "name": "Aurore Clément"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 330,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "The New Girlfriend (2014): Drama film. Story: A young woman makes a surprising discovery about the… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "François Ozon"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gi88gFtqxVRZPT5AIWwwKzAuzHF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=283726",
+    "name": "The New Girlfriend",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-10-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=283726"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The New Girlfriend (2014)</h1>\n<p class=\"ssr-lead\">A young woman makes a surprising discovery about the husband of her late best friend.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 October 2014</li><li>Runtime: 105 minutes</li><li>Director: François Ozon</li><li>Genres: Drama</li><li>TMDB rating: 6.1/10 (330 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Romain Duris as David / Virginia</li><li>Anaïs Demoustier as Claire</li><li>Raphaël Personnaz as Gilles</li><li>Isild Le Besco as Laura</li><li>Aurore Clément as Liz, la mère de Laura</li><li>Jean-Claude Bolle-Reddat as Robert, le père de Laura</li><li>Claudine Chatel as Nounou</li><li>Anita Gillier as Infirmière</li><li>Alex Fondja as Aide soignant</li><li>Zita Hanrot as Serveuse restaurant</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, Fandor, Fandor Amazon Channel, Cohen Media Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "The New Girlfriend (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:2926": {
    "d": "The Three Musketeers (1973): Action/Adventure film. Story: In 17th century France, young D'Artagnan wants to… See cast, budget $4.5M, and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/ljZtX8UZhGOOpQrgtcqSwPTTZJv.jpg",
@@ -1374,6 +1565,70 @@
    "t": "Shriek If You Know What I Did Last Friday the 13th (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2000"
   },
+  "movie:42726": {
+   "d": "A Man and a Woman (1966): Drama/Romance film. Story: A man and a woman meet by accident on a Sunday… See cast, TMDB rating 7.3/10, and release date 27 May 1966.",
+   "img": "https://image.tmdb.org/t/p/w780/chVgCErGuL1oUNFg6Gs7iQZGGZF.jpg",
+   "industry": "world",
+   "k": "A Man and a Woman, A Man and a Woman movie, A Man and a Woman cast, A Man and a Woman story, A Man and a Woman box office collection, A Man and a Woman budget, A Man and a Woman review, A Man and a Woman rating, A Man and a Woman release date, A Man and a Woman trailer, A Man and a Woman Drama, A Man and a Woman Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anouk Aimée"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean-Louis Trintignant"
+     },
+     {
+      "@type": "Person",
+      "name": "Pierre Barouh"
+     },
+     {
+      "@type": "Person",
+      "name": "Valérie Lagrange"
+     },
+     {
+      "@type": "Person",
+      "name": "Antoine Sire"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 324,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "A Man and a Woman (1966): Drama/Romance film. Story: A man and a woman meet by accident on a Sunday… See cast, TMDB rating 7.3/10, and release date 27 May 1966.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Claude Lelouch"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/chVgCErGuL1oUNFg6Gs7iQZGGZF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=42726",
+    "name": "A Man and a Woman",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1966-05-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=42726"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Man and a Woman (1966)</h1>\n<p class=\"ssr-lead\">A man and a woman meet by accident on a Sunday evening at their childrens&#x27; boarding school. Slowly, they reveal themselves to each other, finding that they have something deeply in common.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 May 1966</li><li>Runtime: 102 minutes</li><li>Director: Claude Lelouch</li><li>Genres: Drama, Romance</li><li>TMDB rating: 7.3/10 (324 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anouk Aimée as Anne Gauthier</li><li>Jean-Louis Trintignant as Jean-Louis Duroc</li><li>Pierre Barouh as Pierre Gauthier</li><li>Valérie Lagrange as Valérie Duroc</li><li>Antoine Sire as Antoine Duroc</li><li>Souad Amidou as Françoise Gauthier</li><li>Henri Chemin as Jean-Louis&#x27; Co-pilot</li><li>Yane Barry as Jean-Louis&#x27; Mistress</li><li>Paul Le Person as Gas Station Attendant</li><li>Simone Paris as Director of the Pension</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "A Man and a Woman (1966) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1966"
+  },
   "movie:437626": {
    "d": "Stockholm (2019): Crime/Comedy film. Story: Based on the extraordinary true story of the European… See cast, TMDB rating 5.9/10, and release date 12 April 2019.",
    "img": "https://image.tmdb.org/t/p/w780/2Enmg9KVNty2rOPNtXU8XWUHQ0a.jpg",
@@ -1501,6 +1756,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Sobibor (2018)</h1>\n<p class=\"ssr-lead\">The film is based on a real story that happened in 1943 in the Sobibor concentration camp in German-occupied Poland. The main character of the movie is the Soviet-Jewish soldier Alexander Pechersky, who at that time was serving in the Red Army as a lieutenant. In October 1943, he was captured by the Nazis and deported to the Sobibor concentration camp, where Jews were being exterminated in gas chambers. But, in just 3 weeks, Alexander was able to plan an international uprising of prisoners from Poland and Western Europe. This uprising resulted in being the only successful one throughout the war, which led to the largest escape of prisoners from a Nazi concentration camp.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 May 2018</li><li>Runtime: 110 minutes</li><li>Director: Konstantin Khabensky</li><li>Genres: War, Drama</li><li>TMDB rating: 6.5/10 (341 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Konstantin Khabensky as Alexander Pechersky</li><li>Christopher Lambert as Karl Frenzel</li><li>Michalina Olszańska as Hanna</li><li>Felice Jankell as Luca</li><li>Mariya Kozhevnikova as Selma</li><li>Dainius Kazlauskas as Leo</li><li>Philippe Reinhardt as Siegfried Greitschus</li><li>Maximilian Dirr as Johann Neumann</li><li>Mindaugas Papinigis as Berg</li><li>Wolfgang Cerny as Gustav Wagner</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Sobibor (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
+  },
+  "movie:46326": {
+   "d": "Port of Shadows (1938): Romance/Drama film. Story: Down a foggy, desolate road to the port city of Le… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/roPGP6yjxwSBXczkp54Cmo99HRb.jpg",
+   "industry": "world",
+   "k": "Port of Shadows, Port of Shadows movie, Port of Shadows cast, Port of Shadows story, Port of Shadows box office collection, Port of Shadows budget, Port of Shadows review, Port of Shadows rating, Port of Shadows release date, Port of Shadows Romance, Port of Shadows Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jean Gabin"
+     },
+     {
+      "@type": "Person",
+      "name": "Michel Simon"
+     },
+     {
+      "@type": "Person",
+      "name": "Michèle Morgan"
+     },
+     {
+      "@type": "Person",
+      "name": "Pierre Brasseur"
+     },
+     {
+      "@type": "Person",
+      "name": "Édouard Delmont"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 322,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Port of Shadows (1938): Romance/Drama film. Story: Down a foggy, desolate road to the port city of Le… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Marcel Carné"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/roPGP6yjxwSBXczkp54Cmo99HRb.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=46326",
+    "name": "Port of Shadows",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1938-05-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=46326"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Port of Shadows (1938)</h1>\n<p class=\"ssr-lead\">Down a foggy, desolate road to the port city of Le Havre travels Jean, an army deserter looking for another chance to make good on life. Fate, however, has a different plan for him, as acts of both revenge and kindness render him front-page news.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 May 1938</li><li>Runtime: 93 minutes</li><li>Director: Marcel Carné</li><li>Genres: Romance, Drama, Crime</li><li>TMDB rating: 7.4/10 (322 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean Gabin as Jean</li><li>Michel Simon as Zabel</li><li>Michèle Morgan as Nelly</li><li>Pierre Brasseur as Lucien</li><li>Édouard Delmont as Panama</li><li>Raymond Aimos as Quart Vittel</li><li>Robert Le Vigan as The Painter</li><li>René Génin as The Doctor</li><li>Jenny Burnay as A Girl</li><li>Roger Legris as Hotel Manager</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: France Channel Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Port of Shadows (1938) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1938"
   },
   "movie:479626": {
    "d": "Avicii: True Stories (2017): Music/Documentary film. Story: Documentary about the arena-packing Swedish DJ… See cast and TMDB rating 8.0/10.",
@@ -1630,6 +1949,134 @@
    "t": "Resistance (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
   },
+  "movie:5126": {
+   "d": "Martian Child (2007): Comedy/Drama film. Story: A recently-widowed science fiction writer considers… See cast, budget $27M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hAvQYr8vpK9OlJHwn4ft0ETKzRD.jpg",
+   "industry": "world",
+   "k": "Martian Child, Martian Child movie, Martian Child cast, Martian Child story, Martian Child box office collection, Martian Child budget, Martian Child review, Martian Child rating, Martian Child release date, Martian Child Comedy, Martian Child Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "John Cusack"
+     },
+     {
+      "@type": "Person",
+      "name": "Bobby Coleman"
+     },
+     {
+      "@type": "Person",
+      "name": "Amanda Peet"
+     },
+     {
+      "@type": "Person",
+      "name": "Sophie Okonedo"
+     },
+     {
+      "@type": "Person",
+      "name": "Joan Cusack"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 336,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Martian Child (2007): Comedy/Drama film. Story: A recently-widowed science fiction writer considers… See cast, budget $27M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Menno Meyjes"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hAvQYr8vpK9OlJHwn4ft0ETKzRD.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=5126",
+    "name": "Martian Child",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-11-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=5126"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Martian Child (2007)</h1>\n<p class=\"ssr-lead\">A recently-widowed science fiction writer considers whether to adopt a hyper-imaginative 6-year-old abandoned and socially-rejected boy who says he&#x27;s really from Mars.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 November 2007</li><li>Runtime: 106 minutes</li><li>Director: Menno Meyjes</li><li>Genres: Comedy, Drama</li><li>Budget: $27M</li><li>TMDB rating: 6.7/10 (336 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Cusack as David</li><li>Bobby Coleman as Dennis</li><li>Amanda Peet as Harlee</li><li>Sophie Okonedo as Sophie</li><li>Joan Cusack as Liz</li><li>Oliver Platt as Jeff</li><li>Richard Schiff as Lefkowitz</li><li>Taya Calicetto as Esther</li><li>David Kaye as Andy</li><li>Braxton Bonneville as Nicholas</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Martian Child (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
+  "movie:58626": {
+   "d": "The Hit List (2011): Action/Thriller film. Story: A disgruntled man creates a hit list with a stranger… See cast, budget $6M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dv4uPIXzgQM5LJ8MFyy1TG877nY.jpg",
+   "industry": "world",
+   "k": "The Hit List, The Hit List movie, The Hit List cast, The Hit List story, The Hit List box office collection, The Hit List budget, The Hit List review, The Hit List rating, The Hit List release date, The Hit List Action, The Hit List Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Cuba Gooding Jr."
+     },
+     {
+      "@type": "Person",
+      "name": "Cole Hauser"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonathan LaPaglia"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Papajohn"
+     },
+     {
+      "@type": "Person",
+      "name": "Drew Waters"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 307,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "The Hit List (2011): Action/Thriller film. Story: A disgruntled man creates a hit list with a stranger… See cast, budget $6M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "William Kaufman"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dv4uPIXzgQM5LJ8MFyy1TG877nY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=58626",
+    "name": "The Hit List",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-04-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=58626"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Hit List (2011)</h1>\n<p class=\"ssr-lead\">A disgruntled man creates a hit list with a stranger during a drunken night out and must then race to try to save those he marked for extermination as the bodies begin to pile up and all fingers point to him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 April 2011</li><li>Runtime: 90 minutes</li><li>Director: William Kaufman</li><li>Genres: Action, Thriller</li><li>Budget: $6M</li><li>TMDB rating: 6.0/10 (307 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Cuba Gooding Jr. as Jonas Arbor</li><li>Cole Hauser as Allan Campbell</li><li>Jonathan LaPaglia as Detective Neil McKay</li><li>Michael Papajohn as Special Agent Drake Ford</li><li>Drew Waters as Mike Dodd</li><li>Sarah Ann Schultz as Jenny Rawlins</li><li>Holt Boggs as Officer Turnkey</li><li>David E. Ornston as Detective Nic Vetter</li><li>Ginny Weirick as Sydney Campbell</li><li>Sean Cook as Brian Felzner</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: AP International South Cinema Amazon Channel</li><li>Rent: YouTube, Amazon Video</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "The Hit List (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
   "movie:728526": {
    "d": "Encounter (2021): Mystery/Thriller film. Story: A decorated Marine goes on a rescue mission to save… See cast and TMDB rating 6.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/zlj0zHo67xXoj7hvwGtaKRkSdBV.jpg",
@@ -1693,6 +2140,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Encounter (2021)</h1>\n<p class=\"ssr-lead\">A decorated Marine goes on a rescue mission to save his two young sons from an unhuman threat. As their journey takes them in increasingly dangerous directions, the boys will need to leave their childhoods behind.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 December 2021</li><li>Runtime: 108 minutes</li><li>Director: Michael Pearce</li><li>Genres: Mystery, Thriller, Drama</li><li>TMDB rating: 6.3/10 (480 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Riz Ahmed as Malik Khan</li><li>Octavia Spencer as Hattie Hayes</li><li>Lucian-River Chauhan as Jay Khan</li><li>Rory Cochrane as Shepard West</li><li>Aditya Geddada as Bobby Khan</li><li>Janina Gavankar as Piya</li><li>Misha Collins as Dylan</li><li>Keith Szarabajka as Grant</li><li>Shane McRae as Lance</li><li>Antonio Jaramillo as Raul</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
    "t": "Encounter (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
+  },
+  "movie:74726": {
+   "d": "Juan of the Dead (2011): Horror/Comedy film. Story: While Havana is full of zombies hungry for human… See cast, budget $3M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qlKK49jNOK9a3DhDbWKoB8hA5Vn.jpg",
+   "industry": "world",
+   "k": "Juan of the Dead, Juan of the Dead movie, Juan of the Dead cast, Juan of the Dead story, Juan of the Dead box office collection, Juan of the Dead budget, Juan of the Dead review, Juan of the Dead rating, Juan of the Dead release date, Juan of the Dead Horror, Juan of the Dead Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alexis Díaz de Villegas"
+     },
+     {
+      "@type": "Person",
+      "name": "Jorge Molina"
+     },
+     {
+      "@type": "Person",
+      "name": "Andros Perugorría"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrea Duro"
+     },
+     {
+      "@type": "Person",
+      "name": "Jazz Vilá"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 319,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Juan of the Dead (2011): Horror/Comedy film. Story: While Havana is full of zombies hungry for human… See cast, budget $3M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alejandro Brugués"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Horror",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qlKK49jNOK9a3DhDbWKoB8hA5Vn.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=74726",
+    "name": "Juan of the Dead",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-10-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=74726"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Juan of the Dead (2011)</h1>\n<p class=\"ssr-lead\">While Havana is full of zombies hungry for human flesh, official media reported that the disturbances are caused by dissidents paid by the United States. Panic seizes all until Juan comes to the rescue: he discovers he can kill the undead destroying his brain, and decides to start a small business under the slogan &quot;We kill your loved ones.&quot;</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 October 2011</li><li>Runtime: 96 minutes</li><li>Director: Alejandro Brugués</li><li>Genres: Horror, Comedy</li><li>Budget: $3M</li><li>TMDB rating: 6.3/10 (319 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alexis Díaz de Villegas as Juan</li><li>Jorge Molina as Lázaro</li><li>Andros Perugorría as Vladi California</li><li>Andrea Duro as Camila</li><li>Jazz Vilá as La China</li><li>Eliecer Ramírez as El Primo</li><li>Blanca Rosa Blanco as Sara</li><li>Susana Pous as Lucía</li><li>Antonio Dechent as Padre Jones</li><li>Eslinda Núñez as Berta</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Juan of the Dead (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
   },
   "movie:833326": {
    "d": "Zero Fucks Given (2022): Drama/Comedy film. Story: Cassandre, 26, is a flight attendant for a low-cost… See cast and TMDB rating 6.3/10.",
@@ -1761,6 +2272,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Zero Fucks Given (2022)</h1>\n<p class=\"ssr-lead\">Cassandre, 26, is a flight attendant for a low-cost airline. Based in Lanzarote, she’s always willing to take on extra hours and carries out her duties with robotic efficiency. On the side, she just goes with the flow and floats between Tinder, parties and lazy days. When she suddenly gets dismissed, she is forced to return home.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 March 2022</li><li>Runtime: 115 minutes</li><li>Director: Julie Lecoustre, Emmanuel Marre</li><li>Genres: Drama, Comedy</li><li>TMDB rating: 6.3/10 (474 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Adèle Exarchopoulos as Cassandre Wassels</li><li>Alexandre Perrier as Jean Wassels</li><li>Mara Taquin as Mélissa Wassels</li><li>Arthur Egloff as Arthur</li><li>Tamara Al Saadi as Dounia</li><li>David Martinez Pinon as Base Supervisor</li><li>Jean-Benoît Ugeux as L&#x27;expect Casse</li><li>Jonathan Sawdon as Le passager anglais désagréable</li><li>Gilles Alexandre Bussutil as Le recruteur vidéo</li><li>Erwan Maillot as Un steward de Wing</li></ul>\n</article>",
    "t": "Zero Fucks Given (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:9526": {
+   "d": "A Prairie Home Companion (2006): Drama/Comedy film. Story: A look at what goes on backstage during the last… See cast, budget $10M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/a207j6hwf3iHiLO8ArhLIljiC1D.jpg",
+   "industry": "world",
+   "k": "A Prairie Home Companion, A Prairie Home Companion movie, A Prairie Home Companion cast, A Prairie Home Companion story, A Prairie Home Companion box office collection, A Prairie Home Companion budget, A Prairie Home Companion review, A Prairie Home Companion rating, A Prairie Home Companion release date, A Prairie Home Companion Drama, A Prairie Home Companion Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Meryl Streep"
+     },
+     {
+      "@type": "Person",
+      "name": "Lily Tomlin"
+     },
+     {
+      "@type": "Person",
+      "name": "Lindsay Lohan"
+     },
+     {
+      "@type": "Person",
+      "name": "Garrison Keillor"
+     },
+     {
+      "@type": "Person",
+      "name": "Woody Harrelson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 331,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "A Prairie Home Companion (2006): Drama/Comedy film. Story: A look at what goes on backstage during the last… See cast, budget $10M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Robert Altman"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/a207j6hwf3iHiLO8ArhLIljiC1D.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9526",
+    "name": "A Prairie Home Companion",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-06-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9526"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Prairie Home Companion (2006)</h1>\n<p class=\"ssr-lead\">A look at what goes on backstage during the last broadcast of America&#x27;s most celebrated radio show, where singing cowboys Dusty and Lefty, a country music siren, and a host of others hold court.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 June 2006</li><li>Runtime: 105 minutes</li><li>Director: Robert Altman</li><li>Genres: Drama, Comedy, Music</li><li>Budget: $10M</li><li>TMDB rating: 6.3/10 (331 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Meryl Streep as Yolanda Johnson</li><li>Lily Tomlin as Rhonda Johnson</li><li>Lindsay Lohan as Lola Johnson</li><li>Garrison Keillor as GK</li><li>Woody Harrelson as Dusty</li><li>John C. Reilly as Lefty</li><li>Virginia Madsen as Dangerous Woman</li><li>Kevin Kline as Guy Noir</li><li>Tommy Lee Jones as Axeman</li><li>L.Q. Jones as Chuck Akers</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "A Prairie Home Companion (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
   },
   "tv:10126": {
    "d": "Taz-Mania (1991) is a Family and Animation TV series. Explore its story: The wildest teenager south of the Equator, Taz lives…, cast, and 4 seasons.",
