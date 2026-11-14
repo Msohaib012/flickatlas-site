@@ -1,6 +1,6 @@
 {
  "bucket": "52",
- "count": 27,
+ "count": 33,
  "titles": {
   "movie:10452": {
    "backdrop_path": "/h0lGYUOxXKCM1W7cgvHN1UW1TC4.jpg",
@@ -291,110 +291,6 @@
    "vote_average": 6.6,
    "vote_count": 27
   },
-  "movie:1542352": {
-   "backdrop_path": "/eaknBFnMg8fPlwlegBaPtQfhyF8.jpg",
-   "budget": 752800,
-   "cast": [
-    {
-     "c": "Praveen",
-     "n": "Ken Karunaas"
-    },
-    {
-     "c": "Kanagavalli",
-     "n": "Anishma Anilkumar"
-    },
-    {
-     "c": "Unnikrishnan",
-     "n": "Suraj Venjaramoodu"
-    },
-    {
-     "c": "Saroja",
-     "n": "Devadarshini"
-    },
-    {
-     "c": "Preshika",
-     "n": "Meenakshi Dinesh"
-    },
-    {
-     "c": "Sonal",
-     "n": "Priyanshi Yadav"
-    },
-    {
-     "c": "Guna",
-     "n": "Abison Thevarasa"
-    },
-    {
-     "c": "Babloo",
-     "n": "Sarath"
-    },
-    {
-     "c": "David",
-     "n": "Eshwar Santhanalakshmi"
-    },
-    {
-     "c": "Grace",
-     "n": "Nalini"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 13+",
-   "date_kind": "release",
-   "director": [
-    "Ken Karunaas"
-   ],
-   "genres": [
-    "Comedy",
-    "Romance",
-    "Drama"
-   ],
-   "id": 1542352,
-   "industry": "bollywood",
-   "origin_country": [
-    "IN"
-   ],
-   "original_language": "ta",
-   "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
-   "popularity": 3.1665,
-   "poster_path": "/odMKGyeC2rGuvr3Yy7S8txD0sFx.jpg",
-   "production_countries": [
-    "IN"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-03-19",
-   "revenue": 7528000,
-   "runtime": 141,
-   "source": "catalogue",
-   "spoken_languages": [
-    "ta"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Youth",
-   "trailer": null,
-   "type": "movie",
-   "vote_average": 6.897,
-   "vote_count": 29
-  },
   "movie:1595852": {
    "backdrop_path": "/98uiDns59GUw26SQSCFmuSHTki3.jpg",
    "budget": 0,
@@ -498,111 +394,6 @@
    "type": "movie",
    "vote_average": 7.328,
    "vote_count": 238
-  },
-  "movie:1621552": {
-   "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Carmona",
-     "n": "Alfonso Herrera"
-    },
-    {
-     "c": "Rosales",
-     "n": "Noé Hernández"
-    },
-    {
-     "c": "El Chapo Guzmán",
-     "n": "Hector Kotsifakis"
-    },
-    {
-     "c": "Isaura",
-     "n": "Paola Fernández"
-    },
-    {
-     "c": "Valladares",
-     "n": "Gerardo Trejoluna"
-    },
-    {
-     "c": "Lagarto",
-     "n": "Fernando Cuautle"
-    },
-    {
-     "c": "Joana",
-     "n": "Alejandra Vazquez De Leon"
-    },
-    {
-     "c": "Sapo",
-     "n": "Santiago Colores"
-    },
-    {
-     "c": "Chabela",
-     "n": "Berenice Mastretta"
-    },
-    {
-     "c": "Liz",
-     "n": "Regina Arroyo"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Chava Cartas"
-   ],
-   "genres": [
-    "Crime",
-    "Action",
-    "Thriller"
-   ],
-   "id": 1621552,
-   "industry": "world",
-   "origin_country": [
-    "MX"
-   ],
-   "original_language": "es",
-   "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
-   "popularity": 22.179,
-   "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
-   "production_countries": [
-    "MX"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-08-21",
-   "revenue": 0,
-   "runtime": 91,
-   "source": "catalogue",
-   "spoken_languages": [
-    "pt",
-    "es"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Facing El Chapo",
-   "trailer": null,
-   "type": "movie",
-   "vote_average": 8.742,
-   "vote_count": 991
   },
   "movie:1688652": {
    "backdrop_path": "/dzoqvi7eiPGODZO0CsXRLPfmVAE.jpg",
@@ -2140,6 +1931,223 @@
    "vote_average": 8.046,
    "vote_count": 1362
   },
+  "tv:237052": {
+   "backdrop_path": "/kXBr9CWrutta2PxUkbYlI9EXrC8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Detective Flore Robin",
+     "n": "Camille Razat"
+    },
+    {
+     "c": "Detective Franck Vidal",
+     "n": "Hugo Becker"
+    },
+    {
+     "c": "Félix Sabuesco",
+     "n": "Patrick Timsit"
+    },
+    {
+     "c": "Marie-Josée Andujar",
+     "n": "Mélanie Doutey"
+    },
+    {
+     "c": "Arnaud Cholet",
+     "n": "Kévin Azaïs"
+    },
+    {
+     "c": "Damien",
+     "n": "Théo Cholbi"
+    },
+    {
+     "c": "Tatiana Andujar",
+     "n": "Lola Burbail"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M18",
+   "channel": "Disney+",
+   "created_by": [
+    "Gaëlle Bellan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-08",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 237052,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Between 1995 and 2001 in southern France, a teenage girl vanishes and three young women are murdered—sparking a relentless manhunt that will haunt detective Flore Robin and the Perpignan police for years.",
+   "popularity": 3.2093,
+   "poster_path": "/282rRZ3wKntv82FPZ3qMnAsNMkV.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-08",
+     "episode_count": 6,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Lost Station Girls",
+   "trailer": {
+    "key": "Wb5g5zC00nE",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.575,
+   "vote_count": 40
+  },
+  "tv:248852": {
+   "backdrop_path": "/oGsh97JAA6LYu92B6TEswrjac8W.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kyle Turner",
+     "n": "Eric Bana"
+    },
+    {
+     "c": "Paul Souter",
+     "n": "Sam Neill"
+    },
+    {
+     "c": "Jill Bodwin",
+     "n": "Rosemarie DeWitt"
+    },
+    {
+     "c": "Naya Vasquez",
+     "n": "Lily Santiago"
+    },
+    {
+     "c": "Shane Maguire",
+     "n": "Wilson Bethel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Mark L. Smith",
+    "Elle Smith"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-17",
+   "genres": [
+    "Mystery",
+    "Drama"
+   ],
+   "id": 248852,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the vast expanse of Yosemite National Park, a woman's death draws a federal agent into lawless terrain — where nature obeys no rules but its own.",
+   "popularity": 8.5368,
+   "poster_path": "/tclYY8RGieQwkJXDxZGf505Zybr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-17",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Things happen different out here.",
+   "title": "UNTAMED",
+   "trailer": {
+    "key": "eRwV1k-abZo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.204,
+   "vote_count": 471
+  },
   "tv:252": {
    "backdrop_path": "/qji729gwCW88RpIIWidlaLTul3V.jpg",
    "budget": 0,
@@ -2359,6 +2367,681 @@
    "type": "tv",
    "vote_average": 8.063,
    "vote_count": 1163
+  },
+  "tv:255752": {
+   "backdrop_path": "/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nathan (voice)",
+     "n": "Will Forte"
+    },
+    {
+     "c": "Katherine (voice)",
+     "n": "Eliza Coupe"
+    },
+    {
+     "c": "Ben (voice)",
+     "n": "Skyler Gisondo"
+    },
+    {
+     "c": "Esther (voice)",
+     "n": "Natalie Palamides"
+    },
+    {
+     "c": "Abaddon (voice)",
+     "n": "Jimmi Simpson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Matt Roller"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-19",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 255752,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 18,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After inheriting a hotel from her late brother, a single mom moves in with his good-natured ghost — and high-maintenance guests who will never check out.",
+   "popularity": 13.4477,
+   "poster_path": "/4arTlVw8oceZDOhGv9GFrgGztUq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-19",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-10-09",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Check in and raise hell.",
+   "title": "Haunted Hotel",
+   "trailer": {
+    "key": "UxEza8wLcS0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.173,
+   "vote_count": 150
+  },
+  "tv:262352": {
+   "backdrop_path": "/7EB84rTBUmjY2tPhNpGjxnKJVeo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Julie Green",
+     "n": "Keeley Hawes"
+    },
+    {
+     "c": "Edward Green / Floran Bertrand",
+     "n": "Freddie Highmore"
+    },
+    {
+     "c": "Kayla Cross",
+     "n": "Shalom Brune-Franklin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA 15+",
+   "channel": "Prime Video",
+   "created_by": [
+    "Jack Williams",
+    "Harry Williams"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2025-07-25",
+   "genres": [
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 262352,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Secluded on a remote Greek island, retired assassin Julie has a somewhat thorny reunion with her estranged son, Edward, visiting from England. Armed with questions around new information on his paternity, Edward battles to find the right time to speak to his frustratingly distant mother. But, when the moment finally presents itself, things take a deadly turn as Julie’s dangerous past catches up with her and they are forced to flee the island and go on the run together.",
+   "popularity": 18.5143,
+   "poster_path": "/3O2UgEszp1CVbL8p9XnKkFDkbk3.jpg",
+   "production_countries": [
+    "AU",
+    "DE",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "BBC Player Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "AcornTV Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Acorn TV Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ozvOiPMMjhOMXpcUYMDK5ut6puz.png",
+     "name": "BBC Player Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-25",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-11-05",
+     "episode_count": 6,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Assassin",
+   "trailer": {
+    "key": "juUxaBE24YQ",
+    "name": "Official AMC+ Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.671,
+   "vote_count": 82
+  },
+  "tv:277752": {
+   "backdrop_path": "/jKyYbESbbsDuEF0G2a9Kg5zuttG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Milo Malart",
+     "n": "Isak Férriz"
+    },
+    {
+     "c": "Rebeca Garrido",
+     "n": "Verónica Echegui"
+    },
+    {
+     "c": "Susana Cabrera",
+     "n": "Ana Wagener"
+    },
+    {
+     "c": "Mauricio Navarro",
+     "n": "Manolo Solo"
+    },
+    {
+     "c": "",
+     "n": "Irene Montalà"
+    },
+    {
+     "c": "Héctor Guitart",
+     "n": "Marc Clotet"
+    },
+    {
+     "c": "Helena Guitart",
+     "n": "Aina Clotet"
+    },
+    {
+     "c": "Julia Valle",
+     "n": "María Adánez"
+    },
+    {
+     "c": "Hugo Malart",
+     "n": "Jordi Rico"
+    },
+    {
+     "c": "Jordi Singla",
+     "n": "Jordi Ballester"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-12-12",
+   "genres": [
+    "Crime",
+    "Mystery"
+   ],
+   "id": 277752,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "A gruesome crime has taken place in La Pedrera – Casa Milà: a burned body is found on the facade of Gaudí's iconic building. Inspector Milo Malart, previously suspended for misconduct by the Mossos d'Esquadra (Mossos of the Squadron), returns to Barcelona to find the perpetrator along with Sub-Inspector Rebeca Garrido.",
+   "popularity": 5.0388,
+   "poster_path": "/n4rguIB7Cf4h3l1IyqMo3THW5xn.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-12",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "City of Shadows",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.53,
+   "vote_count": 82
+  },
+  "tv:292652": {
+   "backdrop_path": "/xS0VjGieySrYrUWCY05QgaFlrB5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eugenio",
+     "n": "Chris Pascal"
+    },
+    {
+     "c": "Isabella",
+     "n": "Alejandra Robles Gil"
+    },
+    {
+     "c": "Fausta",
+     "n": "Claudia Ramírez"
+    },
+    {
+     "c": "Catalina",
+     "n": "Diana Bracho"
+    },
+    {
+     "c": "Fedra",
+     "n": "Valentina Buzzurro"
+    },
+    {
+     "c": "Ursula",
+     "n": "Bárbara Islas"
+    },
+    {
+     "c": "Mauricio",
+     "n": "Juan Martín Jáuregui"
+    },
+    {
+     "c": "Tomasa",
+     "n": "María Penella"
+    },
+    {
+     "c": "Pablo",
+     "n": "Francisco Pizaña"
+    },
+    {
+     "c": "Emma",
+     "n": "Arcelia Ramírez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "channel": "Las Estrellas",
+   "created_by": [
+    "Silvia Cano"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-23",
+   "genres": [
+    "Drama",
+    "Family",
+    "Comedy",
+    "Soap"
+   ],
+   "id": 292652,
+   "industry": "world",
+   "networks": [
+    "Las Estrellas"
+   ],
+   "number_of_episodes": 100,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Isabella is a sweet woman whose greatest dream is to become a mother. After the sudden death of her husband, she meets Eugenio, a generous man. Their lives take an unexpected turn when an angelic being appears, offering them the chance to become parents.",
+   "popularity": 5.1522,
+   "poster_path": "/96vEDoHQlmmQezbdrwjfdTCd1ZU.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-23",
+     "episode_count": 100,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Regalo de amor",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 20
+  },
+  "tv:298852": {
+   "backdrop_path": "/muPKymUvvBqjLCyGSacxKgjrhxN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Morgan Henderson",
+     "n": "Dominic West"
+    },
+    {
+     "c": "Carla Duval",
+     "n": "Sienna Miller"
+    },
+    {
+     "c": "Serena Byrne",
+     "n": "Phoebe Fox"
+    },
+    {
+     "c": "Nicholas Taylor",
+     "n": "James McArdle"
+    },
+    {
+     "c": "'Her Majesty' Beatrice 'Queen Bea' Ubosi",
+     "n": "Nina Sosanya"
+    },
+    {
+     "c": "St John Smallwood",
+     "n": "Pip Torrens"
+    },
+    {
+     "c": "Johnny Warren",
+     "n": "Archie Renaux"
+    },
+    {
+     "c": "Molly Giordano",
+     "n": "Emma Laird"
+    },
+    {
+     "c": "Gillian Pope",
+     "n": "Angel Coulby"
+    },
+    {
+     "c": "Eric McDaniel",
+     "n": "Patrick Fabian"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Sky Atlantic",
+   "created_by": [
+    "George Kay"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-10-02",
+   "genres": [
+    "Drama"
+   ],
+   "id": 298852,
+   "industry": "world",
+   "networks": [
+    "Sky Atlantic"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
+   "popularity": 42.3926,
+   "poster_path": "/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Hayu"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-10-02",
+     "episode_count": 8,
+     "name": "Series 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Take sides. Take everything.",
+   "title": "WAR",
+   "trailer": {
+    "key": "3pJGKhUxuNM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.4,
+   "vote_count": 30
+  },
+  "tv:299952": {
+   "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Luan Nian",
+     "n": "Jing Boran"
+    },
+    {
+     "c": "Shang Zhitao",
+     "n": "Sun Qian"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Youku",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-08-26",
+   "genres": [
+    "Drama"
+   ],
+   "id": 299952,
+   "industry": "world",
+   "networks": [
+    "Youku"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
+   "popularity": 17.8891,
+   "poster_path": "/lGFngmJWMO4HTPcI0sUGKBAFqMe.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-08-26",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Early Spring",
+   "trailer": {
+    "key": "7JsnZ47CTDg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.167,
+   "vote_count": 36
   },
   "tv:33852": {
    "backdrop_path": "/9jlwGGx9zTkEV5mnuyQXDTUMCw3.jpg",

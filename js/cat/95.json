@@ -1,6 +1,6 @@
 {
  "bucket": "95",
- "count": 22,
+ "count": 29,
  "titles": {
   "movie:10295": {
    "backdrop_path": "/sS0MhzRDPAUxT412DqAyhhs6yFY.jpg",
@@ -2272,6 +2272,792 @@
    "vote_average": 8.1,
    "vote_count": 197
   },
+  "tv:215995": {
+   "backdrop_path": "/4F7IE2OEcHsWZwIu1OvXDyiRD84.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dave Gudsen",
+     "n": "Taron Egerton"
+    },
+    {
+     "c": "Michelle Calderone",
+     "n": "Jurnee Smollett-Bell"
+    },
+    {
+     "c": "Ashley Gudsen",
+     "n": "Hannah Emily Anderson"
+    },
+    {
+     "c": "Harvey Englehart",
+     "n": "Greg Kinnear"
+    },
+    {
+     "c": "Esposito",
+     "n": "John Leguizamo"
+    },
+    {
+     "c": "Freddy Fasano",
+     "n": "Ntare Guma Mbaho Mwine"
+    },
+    {
+     "c": "Steven Burk",
+     "n": "Rafe Spall"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [
+    "Dennis Lehane"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-26",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 215995,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 9,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When an arson investigator begrudgingly teams up with a police detective, their race to stop two arsonists ignites a twisted game of secrets and suspicions.",
+   "popularity": 10.3126,
+   "poster_path": "/c6xRvQCL07MVNamjfVU2an600q9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-26",
+     "episode_count": 9,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Smoke",
+   "trailer": {
+    "key": "bdX456spjeA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.128,
+   "vote_count": 145
+  },
+  "tv:256695": {
+   "backdrop_path": "/43Tu4TnFO57R6eK6XUBFGJrazrZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mordecai / Hi Five Ghost (voice)",
+     "n": "J.G. Quintel"
+    },
+    {
+     "c": "Rigby (voice)",
+     "n": "William Salyers"
+    },
+    {
+     "c": "Pops / Benson / Muscle Man (voice)",
+     "n": "Sam Marin"
+    },
+    {
+     "c": "Skips (voice)",
+     "n": "Mark Hamill"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Cartoon Network",
+   "created_by": [
+    "J.G. Quintel"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-05-11",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 256695,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network"
+   ],
+   "number_of_episodes": 23,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Familiar duo Mordecai and Rigby navigate mundane park jobs that inevitably spiral into surreal, chaotic disasters.",
+   "popularity": 16.3939,
+   "poster_path": "/jqY3dj70ffSqKpM8XVUEToOEeLG.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-11",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Regular Show: The Lost Tapes",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 9.568,
+   "vote_count": 125
+  },
+  "tv:284495": {
+   "backdrop_path": "/fgESwlxIp0XTgjwKjdxaNQJmh2q.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Seiichirou Kondou (voice)",
+     "n": "Kent Ito"
+    },
+    {
+     "c": "Aresh Indolark (voice)",
+     "n": "Tomoaki Maeno"
+    },
+    {
+     "c": "Norbert Blanc (voice)",
+     "n": "Seiichiro Yamashita"
+    },
+    {
+     "c": "Kamil Karvada (voice)",
+     "n": "Hiroki Touchi"
+    },
+    {
+     "c": "Yurius (voice)",
+     "n": "Tomohiro Yamaguchi"
+    },
+    {
+     "c": "Yua Shiraishi (voice)",
+     "n": "Yuna Kamakura"
+    },
+    {
+     "c": "Ist (voice)",
+     "n": "Takaaki Torashima"
+    },
+    {
+     "c": "Ciro Quellbas (voice)",
+     "n": "Win Morisaki"
+    },
+    {
+     "c": "Orjef Rhoda (voice)",
+     "n": "Kazuyuki Okitsu"
+    },
+    {
+     "c": "Selio (voice)",
+     "n": "Shiori Izawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6+",
+   "channel": "AT-X",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-01-06",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 284495,
+   "industry": "world",
+   "networks": [
+    "AT-X",
+    "TOKYO MX",
+    "Sun TV",
+    "BS11",
+    "KBS Kyoto"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Seiichirou Kondou gets caught up in a summoning ritual and is transported to a parallel world called Romany Kingdom. Having worked day and night, he demands a job and joins the Royal Accounting Department. After narrowly surviving a tonic’s deadly side effects with the aid of magic, Seiichirou entrusts himself to Aresh, captain of the Third Royal Order, known as the Ice Prince.",
+   "popularity": 8.5382,
+   "poster_path": "/73Eu18rpNrKErJjSaibJhee5Nnb.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-27",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2026-01-06",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
+   "trailer": {
+    "key": "508qV6wZVco",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 48
+  },
+  "tv:290295": {
+   "backdrop_path": "/zaDTnGcq3F5LocdmHJLP3Mf0kII.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ray (voice)",
+     "n": "Nick Kroll"
+    },
+    {
+     "c": "Fawn (voice)",
+     "n": "June Diane Raphael"
+    },
+    {
+     "c": "Josh (voice)",
+     "n": "Zach Woods"
+    },
+    {
+     "c": "Penelope (voice)",
+     "n": "Sabrina Jalees"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Mark Levin",
+    "Jennifer Flackett",
+    "Andrew Goldberg",
+    "Nick Kroll"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-05-22",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 290295,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A cast of bears, raccoons, deer, foxes and a host of other horny, lovable forest critters navigate love, sexual relationships and the universal need to hook up and find a partner.",
+   "popularity": 9.0995,
+   "poster_path": "/5Pn7R2TtLka8OjsgtxAq4H2apjJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-22",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Horny by nature.",
+   "title": "Mating Season",
+   "trailer": {
+    "key": "aqCtC-ytN74",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 50
+  },
+  "tv:294095": {
+   "backdrop_path": "/j9AqsMJxuq7NEYJX4Q1vSfKb5CG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yoo Bo-na",
+     "n": "Gong Hyo-jin"
+    },
+    {
+     "c": "Kwon Tae-sung",
+     "n": "Jung Jun-won"
+    },
+    {
+     "c": "Lee Dong-jin",
+     "n": "Lee Sang-yi"
+    },
+    {
+     "c": "Kim Bong-pal",
+     "n": "Sung Dong-il"
+    },
+    {
+     "c": "Gi Yeong-do",
+     "n": "Moo Jin-sung"
+    },
+    {
+     "c": "Kwon Se-ah",
+     "n": "Lee Eun-saem"
+    },
+    {
+     "c": "Bong Tae-min",
+     "n": "Kim Nam-hee"
+    },
+    {
+     "c": "Oh Hyun-nam",
+     "n": "Ha Yully"
+    },
+    {
+     "c": "Beom Seong-hoon",
+     "n": "Choi Woo-sung"
+    },
+    {
+     "c": "Seul-gi / Sergei Volansky",
+     "n": "Shin Hyun-soo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "MBC",
+   "created_by": [
+    "Kim Eun-hee",
+    "YOON"
+   ],
+   "director": [
+    "Yoon Jong-ho"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-31",
+   "genres": [
+    "Drama",
+    "Action & Adventure",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 294095,
+   "industry": "world",
+   "networks": [
+    "MBC"
+   ],
+   "number_of_episodes": 14,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+   "popularity": 8.6133,
+   "poster_path": "/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    },
+    {
+     "name": "Kocowa"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+     "name": "Kocowa",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-31",
+     "episode_count": 14,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "The perfect housewife. The perfect double life.",
+   "title": "A Bona Fide Killer",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.391,
+   "vote_count": 23
+  },
+  "tv:299095": {
+   "backdrop_path": "/cwszYLXipVnU0NqOttHLb5TzqZA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ann Ming",
+     "n": "Sheridan Smith"
+    },
+    {
+     "c": "Charlie Ming",
+     "n": "Daniel York Loh"
+    },
+    {
+     "c": "Julie Hogg",
+     "n": "Victoria Wyant"
+    },
+    {
+     "c": "William Dunlop",
+     "n": "Jack James Ryan"
+    },
+    {
+     "c": "Gary Ming",
+     "n": "Marlowe Chan-Reeves"
+    },
+    {
+     "c": "Angela Ming",
+     "n": "Olivia Ng"
+    },
+    {
+     "c": "Matthew Hogg",
+     "n": "Jake Davies"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "ITV1",
+   "created_by": [
+    "Ann Ming",
+    "Jamie Crichton"
+   ],
+   "director": [
+    "Erik Richter Strand"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-08-31",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 299095,
+   "industry": "world",
+   "networks": [
+    "ITV1"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Ann Ming is distraught when her 22-year-old daughter Julie goes missing. The police suggest that Julie must have fled to London to reunite with Julie's estranged husband, but Ann knows that Julie would never leave 5-year-old Kevin behind.",
+   "popularity": 2.3277,
+   "poster_path": "/4GYFm59BY10qBoU73Qzs3woeUp1.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "PBS Masterpiece Amazon Channel"
+    },
+    {
+     "name": "Thirteen"
+    },
+    {
+     "name": "WETA+"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/aZASQOdPFvGnXiJ015OVGVJ9vt7.png",
+     "name": "PBS Masterpiece Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dQKjAyrGlA3HPbDs4hp8RyaXUiK.png",
+     "name": "Thirteen",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/fwzxYZXp5T57T2WaazFhzArAmYd.png",
+     "name": "WETA+",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-31",
+     "episode_count": 4,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "I Fought the Law",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.909,
+   "vote_count": 22
+  },
   "tv:32895": {
    "backdrop_path": "/suL7cJdywRnTmsT1RNjE78iJTsG.jpg",
    "budget": 0,
@@ -2449,6 +3235,104 @@
    "type": "tv",
    "vote_average": 7.869,
    "vote_count": 511
+  },
+  "tv:329395": {
+   "backdrop_path": "/i2sy8loip7UfGFCkIsjA5MHqijc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mauricio Reina",
+     "n": "Sebastián Martínez"
+    },
+    {
+     "c": "Dany",
+     "n": "Juliette Pardau"
+    },
+    {
+     "c": "Isabel Reina",
+     "n": "Hanny Vizcaino"
+    },
+    {
+     "c": "Antonio José «Toño» Perdomo",
+     "n": "Carlos Camacho"
+    },
+    {
+     "c": "Azucena Tinoco",
+     "n": "Laura de León"
+    },
+    {
+     "c": "Jorge Morales",
+     "n": "Manuel Sarmiento"
+    },
+    {
+     "c": "Catalina Vengoechea",
+     "n": "Diana Wiswell"
+    },
+    {
+     "c": "María Dolores 'Lola' Montero",
+     "n": "Juliana Galvis"
+    },
+    {
+     "c": "Milagros Victoria",
+     "n": "Alejandra Ávila"
+    },
+    {
+     "c": "Octavio Victoria",
+     "n": "Luis Eduardo Arango"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "RCN",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2026-07-20",
+   "genres": [],
+   "id": 329395,
+   "industry": "world",
+   "networks": [
+    "RCN"
+   ],
+   "number_of_episodes": 51,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CO"
+   ],
+   "original_language": "es",
+   "overview": "The story unfolds six years after the conclusion of \"Pa' quererte.\" The plot follows Mauricio and his group of friends as they face the challenges of maturity and the new versions of themselves. The protagonists must heal old wounds, overcome hardships, and adapt to the changes that time brings to their family relationships. A death shatters the friendship between Mauricio, Jorge, and Toño. The return of a past love puts Mauricio's manhood to the test; Jorge struggles with unemployment and the arrival of his ex, Catalina; and Toño becomes entangled in a forbidden romance. Octavio is separated from his family, while Elvira and Milagros bring hidden truths to light. The four friends must prove whether their bond can withstand the test of time.",
+   "popularity": 3.5253,
+   "poster_path": "/lAmwyz86k5S41ZrS036OMj9dR3P.jpg",
+   "production_countries": [],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-20",
+     "episode_count": 51,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Pa Seguirte Queriendo",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 9.186,
+   "vote_count": 43
   },
   "tv:46195": {
    "backdrop_path": "/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",

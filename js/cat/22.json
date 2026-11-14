@@ -1,6 +1,6 @@
 {
  "bucket": "22",
- "count": 23,
+ "count": 29,
  "titles": {
   "movie:11222": {
    "backdrop_path": "/h59F8NcFSlucTK7fUcndD9TB9jg.jpg",
@@ -1661,127 +1661,6 @@
    "vote_average": 7.787,
    "vote_count": 190
   },
-  "tv:196322": {
-   "backdrop_path": "/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Jason Dessen / Jason2",
-     "n": "Joel Edgerton"
-    },
-    {
-     "c": "Daniela Dessen",
-     "n": "Jennifer Connelly"
-    },
-    {
-     "c": "Dr. Amanda Lucas",
-     "n": "Alice Braga"
-    },
-    {
-     "c": "Ryan Holder",
-     "n": "Jimmi Simpson"
-    },
-    {
-     "c": "Oluko / Leighton Vance",
-     "n": "Dayo Okeniyi"
-    },
-    {
-     "c": "Charlie Dessen",
-     "n": "Oakes Fegley"
-    },
-    {
-     "c": "Butterscotch / Blair Caplan",
-     "n": "Amanda Brugel"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "A",
-   "channel": "Apple TV",
-   "created_by": [
-    "Blake Crouch"
-   ],
-   "director": [],
-   "episode_run_time": [],
-   "first_air_date": "2024-05-07",
-   "genres": [
-    "Sci-Fi & Fantasy",
-    "Drama"
-   ],
-   "id": 196322,
-   "industry": "world",
-   "networks": [
-    "Apple TV"
-   ],
-   "number_of_episodes": 19,
-   "number_of_seasons": 2,
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-   "popularity": 40.7156,
-   "poster_path": "/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "Apple TV"
-    },
-    {
-     "name": "Apple TV Amazon Channel"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
-     "name": "Apple TV",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
-     "name": "Apple TV Amazon Channel",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "revenue": 0,
-   "seasons": [
-    {
-     "air_date": "2024-05-07",
-     "episode_count": 9,
-     "name": "Season 1",
-     "season_number": 1
-    },
-    {
-     "air_date": "2026-08-27",
-     "episode_count": 10,
-     "name": "Season 2",
-     "season_number": 2
-    }
-   ],
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Returning Series",
-   "tagline": "There's no world like home.",
-   "title": "Dark Matter",
-   "trailer": {
-    "key": "g8p9o-qAdKQ",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "tv",
-   "vote_average": 7.8,
-   "vote_count": 879
-  },
   "tv:2022": {
    "backdrop_path": "/k5r2N22yTSIlLZBraf9792MK1gN.jpg",
    "budget": 0,
@@ -2147,6 +2026,837 @@
    "type": "tv",
    "vote_average": 7.4,
    "vote_count": 724
+  },
+  "tv:215522": {
+   "backdrop_path": "/trSbjzHQlCxykhGfnS0JMgsGbCC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cadence Sinclair",
+     "n": "Emily Alyn Lind"
+    },
+    {
+     "c": "Gat",
+     "n": "Shubham Maheshwari"
+    },
+    {
+     "c": "Johnny Sinclair",
+     "n": "Joseph Zada"
+    },
+    {
+     "c": "Mirren Sinclair",
+     "n": "Esther McGregor"
+    },
+    {
+     "c": "Ebon",
+     "n": "Dempsey Bryk"
+    },
+    {
+     "c": "Harris Sinclair",
+     "n": "David Morse"
+    },
+    {
+     "c": "Penny Sinclair",
+     "n": "Caitlin FitzGerald"
+    },
+    {
+     "c": "Bess Sinclair",
+     "n": "Candice King"
+    },
+    {
+     "c": "Carrie Sinclair",
+     "n": "Mamie Gummer"
+    },
+    {
+     "c": "Ed",
+     "n": "Rahul Kohli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Prime Video",
+   "created_by": [
+    "Julie Plec",
+    "Carina Adly MacKenzie"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-18",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 215522,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "One year after a mysterious accident left her with amnesia, 17-year-old Cadence returns to Beechwood, an island off Martha's Vineyard, seeking answers. As three generations of the distinguished Sinclair family gather at their private summer utopia, no one will talk about the accident – neither her childhood friends \"The Liars\" nor her first love Gat, forcing her to uncover the truth herself.",
+   "popularity": 7.4694,
+   "poster_path": "/3RQoNwSkJkh92KL2TwpMlHP5FkT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-17",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "The truth will pull you under.",
+   "title": "We Were Liars",
+   "trailer": {
+    "key": "uoMLuX42pCk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.203,
+   "vote_count": 190
+  },
+  "tv:274622": {
+   "backdrop_path": "/wpsLsjCcIf3QexYO6pCaLm9PI0Z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Okuto Nakamura (voice)",
+     "n": "Chiaki Kobayashi"
+    },
+    {
+     "c": "Aiki Hirose (voice)",
+     "n": "Yuki Sakakihara"
+    },
+    {
+     "c": "Hifumi Kawamura (voice)",
+     "n": "Fairouz Ai"
+    },
+    {
+     "c": "Sou Otogiri (voice)",
+     "n": "Takuya Eguchi"
+    },
+    {
+     "c": "Tsukasa Oomori (voice)",
+     "n": "Tsubasa Sasa"
+    },
+    {
+     "c": "Kouta Takeuchi (voice)",
+     "n": "Yukihiro Nozuyama"
+    },
+    {
+     "c": "Ryou Mukai (voice)",
+     "n": "Atsushi Tamaru"
+    },
+    {
+     "c": "Masako Okuda (voice)",
+     "n": "Yume Maihara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "channel": "Gunma TV",
+   "created_by": [
+    "Syundei"
+   ],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2026-04-02",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 274622,
+   "industry": "world",
+   "networks": [
+    "Gunma TV",
+    "TOKYO MX",
+    "BS11",
+    "Tochigi TV"
+   ],
+   "number_of_episodes": 13,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Nakamura falls for his classmate Hirose instantly, but they've never spoken. Can his bumbling attempts to say hello lead to a real connection?",
+   "popularity": 8.6088,
+   "poster_path": "/yh3OEp0PSrns1QN0jDMfiIC4TBm.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-02",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Go for It, Nakamura-kun!!",
+   "trailer": {
+    "key": "VEIrcuamXMM",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 9.3,
+   "vote_count": 97
+  },
+  "tv:275722": {
+   "backdrop_path": "/uoxufQOHw6qv49bjTQgT0SzrEVY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Vee",
+     "n": "Kenzi Richardson"
+    },
+    {
+     "c": "Sophie",
+     "n": "Jiwon Lee"
+    },
+    {
+     "c": "Britney",
+     "n": "Faith Hedley"
+    },
+    {
+     "c": "Elijah",
+     "n": "Shaun Dixon"
+    },
+    {
+     "c": "Demi",
+     "n": "Milo Maharlika"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-G",
+   "channel": "Disney Channel",
+   "created_by": [
+    "Randi Barnes"
+   ],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2025-09-12",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Comedy"
+   ],
+   "id": 275722,
+   "industry": "world",
+   "networks": [
+    "Disney Channel"
+   ],
+   "number_of_episodes": 22,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow a tween vampire girl who leaves the safety of Transylvania to attend a performing arts boarding school. Living amongst humans for the first time, she pursues her passion for music while keeping her vampire identity a secret, something that’s made more challenging when her overprotective father charges an overzealous ghost to live with her at the school.",
+   "popularity": 8.2481,
+   "poster_path": "/7TwsVRLD1rKnlIpn8pAQQo5YeY2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-12",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-10-06",
+     "episode_count": 6,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Let it all fang out.",
+   "title": "Vampirina: Teenage Vampire",
+   "trailer": {
+    "key": "A28sq3j6KAo",
+    "name": "Season 2 Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.381,
+   "vote_count": 21
+  },
+  "tv:277222": {
+   "backdrop_path": "/ab4NXe823BgxFGPPFQ17ePMCbVW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ruriko (voice)",
+     "n": "Fairouz Ai"
+    },
+    {
+     "c": "Kotaro Murata (voice)",
+     "n": "Satoshi Inomata"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-02",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 277222,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo",
+    "TV Aichi",
+    "TVQ",
+    "TV Osaka",
+    "TVh",
+    "TSC"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "To escape his tiring job, weary Murata finds escape at a nearby baseball stadium. While the games are thrilling, it’s Ruriko, the gyaru as cold as the beer she serves but secretly a sweetheart, who keeps him coming back. As her first regular, Murata discovers the warmth behind her frosty demeanor, and their hilarious, heartwarming encounters light up the ballpark and maybe even their hearts.",
+   "popularity": 7.8495,
+   "poster_path": "/jgfrsJiFJCOCRWD5OnKbKpTw92E.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-02",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Catch Me at the Ballpark!",
+   "trailer": {
+    "key": "N610gSa68mA",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 21
+  },
+  "tv:279322": {
+   "backdrop_path": "/sTtZV6qfAmrTRNnR3crivqIeAJt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ding Qi",
+     "n": "Bai Jingting"
+    },
+    {
+     "c": "An Lan",
+     "n": "Janice Man Wing-San"
+    },
+    {
+     "c": "Mo Yuanzhi",
+     "n": "Song Yang"
+    },
+    {
+     "c": "Yu Shiya",
+     "n": "Zhang Bojia"
+    },
+    {
+     "c": "Tang Xin",
+     "n": "Cao Yangmingzhu"
+    },
+    {
+     "c": "Ye Kun",
+     "n": "Han Li"
+    },
+    {
+     "c": "Han Yufei",
+     "n": "Song Jiateng"
+    },
+    {
+     "c": "Fu Jun",
+     "n": "Tian Lei"
+    },
+    {
+     "c": "Geng Zekai",
+     "n": "Xia Minghao"
+    },
+    {
+     "c": "Fang Lu",
+     "n": "Gladys Li Ching-kwan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC16",
+   "channel": "iQiyi",
+   "created_by": [
+    "Zhang Xiaomao"
+   ],
+   "director": [
+    "Liu Zhangmu"
+   ],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2025-09-17",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Crime",
+    "Action & Adventure"
+   ],
+   "id": 279322,
+   "industry": "world",
+   "networks": [
+    "iQiyi"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "In Hua'ao City, a brilliant detective with a flawless track record faces his toughest case yet when a string of seemingly perfect murders shakes the city. With no evidence, no witnesses, and a killer who vanishes without a trace, he must race against time to uncover the truth. As hidden dangers lurk in every corner, the line between hunter and hunted begins to blur.",
+   "popularity": 4.6532,
+   "poster_path": "/4ebIeyHZ9Er3qKqzrLPxrLP4ERZ.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-17",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Mobius",
+   "trailer": {
+    "key": "uwLhK38QKVM",
+    "name": "Five rewinds, fate remade. Warped time—truth?",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.4,
+   "vote_count": 28
+  },
+  "tv:285322": {
+   "backdrop_path": "/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Calvin Penney",
+     "n": "Josh Hartnett"
+    },
+    {
+     "c": "Dr. Fonda Howander",
+     "n": "Mackenzie Davis"
+    },
+    {
+     "c": "Wade Penney",
+     "n": "Charlie Heaton"
+    },
+    {
+     "c": "Mary Penney",
+     "n": "Ruby Stokes"
+    },
+    {
+     "c": "Noah Townsend",
+     "n": "Kaleb Horn"
+    },
+    {
+     "c": "Jay Penney",
+     "n": "Rohan Campbell"
+    },
+    {
+     "c": "Ruth Penney",
+     "n": "Willow Kean"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Jesse McKeown"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-10-08",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 285322,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CA",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
+   "popularity": 21.8089,
+   "poster_path": "/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+   "production_countries": [
+    "GB",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-10-08",
+     "episode_count": 6,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Something's in the water.",
+   "title": "Below",
+   "trailer": {
+    "key": "U57CNxSgoss",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.1,
+   "vote_count": 276
+  },
+  "tv:286822": {
+   "backdrop_path": "/5W4ST8DCqSUQh4itmwUJ6dVMeZs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bloom (voice)",
+     "n": "Letizia Ciampa"
+    },
+    {
+     "c": "Stella (voice)",
+     "n": "Perla Liberatori"
+    },
+    {
+     "c": "Flora (voice)",
+     "n": "Ilaria Latini"
+    },
+    {
+     "c": "Musa (voice)",
+     "n": "Gemma Donati"
+    },
+    {
+     "c": "Tecna (voice)",
+     "n": "Domitilla D'Amico"
+    },
+    {
+     "c": "Aisha (voice)",
+     "n": "Laura Lenghi"
+    },
+    {
+     "c": "Icy (voice)",
+     "n": "Tatiana Dessi"
+    },
+    {
+     "c": "Stormy (voice)",
+     "n": "Valeria Vidali"
+    },
+    {
+     "c": "Darcy (voice)",
+     "n": "Federica De Bortoli"
+    },
+    {
+     "c": "Sky (voice)",
+     "n": "Alessandro Quarta"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "Rai 2",
+   "created_by": [
+    "Iginio Straffi"
+   ],
+   "director": [
+    "Iginio Straffi"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-01",
+   "genres": [
+    "Animation",
+    "Kids",
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 286822,
+   "industry": "world",
+   "networks": [
+    "Rai 2"
+   ],
+   "number_of_episodes": 26,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "When Bloom discovers she has magic, her life takes a wild turn. At the Alfea school for fairies and witches, she meets five girls who become her best friends — and her greatest strength. Together, they’re the Winx. As dark secrets rise and powerful enemies close in, the Winx will need to unlock their true potential to protect their world — and themselves.",
+   "popularity": 7.5712,
+   "poster_path": "/oFO3GdOHzLIp3F6qrDbcC65MYUX.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-01",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Winx Club: The Magic is Back",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.917,
+   "vote_count": 24
   },
   "tv:3022": {
    "backdrop_path": "/fKpfCR3l0WukHTkI6Z2ySX1if4P.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "08",
- "count": 27,
+ "count": 31,
  "titles": {
   "movie:1206008": {
    "backdrop_path": "/9cd1zsxcOAcBW01WDOWz8EODTS0.jpg",
@@ -168,125 +168,6 @@
    "type": "movie",
    "vote_average": 5.5,
    "vote_count": 155
-  },
-  "movie:1291608": {
-   "backdrop_path": "/snYOXem8pUGOffnLbbGq4aB1pg4.jpg",
-   "budget": 24000000,
-   "cast": [
-    {
-     "c": "Hamza Ali Mazari / Jaskirat Singh Rangi",
-     "n": "Ranveer Singh"
-    },
-    {
-     "c": "Rehman Dakait",
-     "n": "Akshaye Khanna"
-    },
-    {
-     "c": "Ajay Sanyal",
-     "n": "R. Madhavan"
-    },
-    {
-     "c": "Major Iqbal",
-     "n": "Arjun Rampal"
-    },
-    {
-     "c": "SP Chaudhary Aslam",
-     "n": "Sanjay Dutt"
-    },
-    {
-     "c": "Yalina Jamali",
-     "n": "Sara Arjun"
-    },
-    {
-     "c": "Jameel Jamali",
-     "n": "Rakesh Bedi"
-    },
-    {
-     "c": "Uzair Baloch",
-     "n": "Danish Pandor"
-    },
-    {
-     "c": "Mohammad Aalam",
-     "n": "Gaurav Gera"
-    },
-    {
-     "c": "Donga",
-     "n": "Naveen Kaushik"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "A",
-   "date_kind": "release",
-   "director": [
-    "Aditya Dhar"
-   ],
-   "genres": [
-    "Action",
-    "Crime",
-    "Thriller"
-   ],
-   "id": 1291608,
-   "industry": "bollywood",
-   "origin_country": [
-    "IN"
-   ],
-   "original_language": "hi",
-   "overview": "In the early 2000s, an undercover operative infiltrates Karachi's underworld, breaking into its inner circle to dismantle a violent nexus from within.",
-   "popularity": 9.983,
-   "poster_path": "/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
-   "production_countries": [
-    "IN"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "JioHotstar"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-     "name": "JioHotstar",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2025-12-05",
-   "revenue": 136599112,
-   "runtime": 214,
-   "source": "catalogue",
-   "spoken_languages": [
-    "hi",
-    "pa",
-    "ur"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Dhurandhar",
-   "trailer": {
-    "key": "o--C7AH5SuI",
-    "name": "Watch Now [Subtitled]",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.3,
-   "vote_count": 385
   },
   "movie:1321008": {
    "backdrop_path": "/ce0RjYfcgzQeiT3PjaARWv5PVQO.jpg",
@@ -1757,102 +1638,6 @@
    "vote_average": 7.098,
    "vote_count": 496
   },
-  "movie:656908": {
-   "backdrop_path": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
-   "budget": 260000000,
-   "cast": [
-    {
-     "c": "Prince Rama / Parashurama",
-     "n": "Ranbir Kapoor"
-    },
-    {
-     "c": "Ravana",
-     "n": "Yash"
-    },
-    {
-     "c": "Sita",
-     "n": "Sai Pallavi"
-    },
-    {
-     "c": "Lakshmana",
-     "n": "Ravi Dubey"
-    },
-    {
-     "c": "King Dashrath",
-     "n": "Arun Govil"
-    },
-    {
-     "c": "Kaikeyi",
-     "n": "Lara Dutta"
-    },
-    {
-     "c": "Surpanakha",
-     "n": "Rakul Preet Singh"
-    },
-    {
-     "c": "Kaushalya",
-     "n": "Indira Krishnan"
-    },
-    {
-     "c": "Sumitra",
-     "n": "Sonal Jha"
-    },
-    {
-     "c": "Bharata",
-     "n": "Adinath Kothare"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U",
-   "date_kind": "release",
-   "director": [
-    "Nitesh Tiwari"
-   ],
-   "genres": [
-    "Fantasy",
-    "Action",
-    "Adventure"
-   ],
-   "id": 656908,
-   "industry": "bollywood",
-   "origin_country": [
-    "IN"
-   ],
-   "original_language": "hi",
-   "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
-   "popularity": 161.2852,
-   "poster_path": "/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
-   "production_countries": [
-    "IN",
-    "GB"
-   ],
-   "providers": [],
-   "providers_wtw": [],
-   "published_at": "2026-11-14",
-   "release_date": "2026-11-05",
-   "revenue": 53620991,
-   "runtime": 201,
-   "source": "catalogue",
-   "spoken_languages": [
-    "hi",
-    "sa"
-   ],
-   "status": "Released",
-   "tagline": "Our truth. Our history",
-   "title": "Ramayana: Rise of a Legend",
-   "trailer": {
-    "key": "AYkPRN874m8",
-    "name": "New Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.5,
-   "vote_count": 42
-  },
   "movie:79108": {
    "backdrop_path": "/oWaSlhlfx9woNAYP9XeqarG6JYH.jpg",
    "budget": 0,
@@ -3052,6 +2837,199 @@
    "vote_average": 6.994,
    "vote_count": 312
   },
+  "tv:244808": {
+   "backdrop_path": "/pXhc72xuESvMh8F2TvlWiQazGPB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Junnosuke Tachibana (voice)",
+     "n": "Kouhei Yanagi"
+    },
+    {
+     "c": "Nanase Katagiri (voice)",
+     "n": "Shizuka Ishigami"
+    },
+    {
+     "c": "Hinami Watarai (voice)",
+     "n": "Minori Ozawa"
+    },
+    {
+     "c": "Misaki Hotori (voice)",
+     "n": "Rie Okamoto"
+    },
+    {
+     "c": "Asane Tachibana (voice)",
+     "n": "Ako Koaki"
+    },
+    {
+     "c": "Reizeiin Touka (voice)",
+     "n": "Masumi Tazawa"
+    },
+    {
+     "c": "Rei Tadasugawa (voice)",
+     "n": "Nanami Aiba"
+    },
+    {
+     "c": "Ikuko Onabuta (voice)",
+     "n": "Nana Inoue"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "AT-X",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-07-19",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 244808,
+   "industry": "world",
+   "networks": [
+    "AT-X"
+   ],
+   "number_of_episodes": 11,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "On Seiran Island, secret society NLNS is united by Junnosuke Tachibana, who is determined to crush a law. They have found a benefactor, an unknown rich man, who offers them a secret base and cash. Their mission is to locate a mysterious girl and stop the law, keeping the SHO off their trail.",
+   "popularity": 15.4477,
+   "poster_path": "/y9kuMGKMMtNgpqcHlgZlL4geEtn.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-02",
+     "episode_count": 4,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-07-19",
+     "episode_count": 11,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "Is the Island Utopia or Dystopia?",
+   "title": "Nukitashi: The Animation",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.286,
+   "vote_count": 42
+  },
+  "tv:251608": {
+   "backdrop_path": "/sbMfwVQ7HPDNtNtHXDEa0HfNvyf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Various Characters",
+     "n": "Tom Segura"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Tom Segura"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-13",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 251608,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A collection of hilariously disturbing stories that push the boundaries of decency in ways only Tom Segura could imagine.",
+   "popularity": 5.8797,
+   "poster_path": "/fekkWALV563XGUaBiwYHdV4UBQ6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-13",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-05-24",
+     "episode_count": 6,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "For your consideration. Sorry.",
+   "title": "Bad Thoughts",
+   "trailer": {
+    "key": "rrCciU8nD98",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.9,
+   "vote_count": 47
+  },
   "tv:2808": {
    "backdrop_path": "/gbmN2y9Dqm6XKEev1kd8GkGLLn.jpg",
    "budget": 0,
@@ -3225,6 +3203,436 @@
    "type": "tv",
    "vote_average": 7.368,
    "vote_count": 307
+  },
+  "tv:288908": {
+   "backdrop_path": "/fTuJl55toLMr80xz22Ajk89ALOm.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2025-08-12",
+   "genres": [
+    "Reality"
+   ],
+   "id": 288908,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Twenty-five athletes, most retired, compete to win 30M yen to launch their second career. Can they overcome tough physical and psychological challenges?",
+   "popularity": 0.9865,
+   "poster_path": "/umOuqHcG94ZLanTYryUx3ZutIzq.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-12",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Final Draft",
+   "trailer": {
+    "key": "3A1EQWiA_gw",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 25
+  },
+  "tv:292108": {
+   "backdrop_path": "/deUtNgB5zf7uyAzH7BbkRHF2S80.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Linda",
+     "n": "Diane Morgan"
+    },
+    {
+     "c": "Sue",
+     "n": "Sue Johnston"
+    },
+    {
+     "c": "Michael",
+     "n": "Paul Ready"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "BBC One",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    29
+   ],
+   "first_air_date": "2026-07-17",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 292108,
+   "industry": "world",
+   "networks": [
+    "BBC One"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "It’s Sue’s worst nightmare - an overly attentive, socially inept, second-hand robot carer. But maybe this droid has its uses...",
+   "popularity": 4.3814,
+   "poster_path": "/rgg7vCZ9HIdT4vYGxOvg84L7ngF.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+     "name": "Sky Go",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-17",
+     "episode_count": 6,
+     "name": "Series 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Ann Droid",
+   "trailer": {
+    "key": "-t3Nw6Z0yd4",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.781,
+   "vote_count": 32
+  },
+  "tv:293608": {
+   "backdrop_path": "/6yyKOxjQgb0C3I43T6qyXbieHni.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hong Geum-bo",
+     "n": "Park Shin-hye"
+    },
+    {
+     "c": "Shin Jeong-wu",
+     "n": "Go Kyung-pyo"
+    },
+    {
+     "c": "Ko Bok-hee",
+     "n": "Ha Yoon-kyung"
+    },
+    {
+     "c": "Albert Oh",
+     "n": "Cho Han-gyeol"
+    },
+    {
+     "c": "Hong Jang-mi",
+     "n": "YUNA"
+    },
+    {
+     "c": "Kang Pil-beom",
+     "n": "Lee Duck-hwa"
+    },
+    {
+     "c": "Oh Deok-gyu",
+     "n": "Kim Hyeong-mook"
+    },
+    {
+     "c": "Yun Jae-beom",
+     "n": "Kim Won-hae"
+    },
+    {
+     "c": "Kang No-ra",
+     "n": "Choi Ji-su"
+    },
+    {
+     "c": "Cha Jeong-il",
+     "n": "Im Cheol-soo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG13",
+   "channel": "tvN",
+   "created_by": [
+    "Moon Hyun-Kyeong"
+   ],
+   "director": [
+    "Park Seon-ho"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-17",
+   "genres": [
+    "Crime",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 293608,
+   "industry": "world",
+   "networks": [
+    "tvN"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A retro office comedy depicting the chaotic events that unfold in the late 1990s when Sammo Hung, a 30-year-old elite securities supervisor who only cares about work, goes undercover as a 20-year-old high school graduate employee at a securities firm where suspicious money flows are detected.",
+   "popularity": 6.9054,
+   "poster_path": "/bZr3i8yczHGDzyqZQ9oOArEEVON.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-17",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Undercover Miss Hong",
+   "trailer": {
+    "key": "ggrP-QrbkNM",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.359,
+   "vote_count": 39
+  },
+  "tv:293808": {
+   "backdrop_path": "/maxJ6oaC3tgO0lUiudLCLN4FPS8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Babalwa Godongwana",
+     "n": "Lerato Mvelase"
+    },
+    {
+     "c": "Zweli Ncube",
+     "n": "Sphamandla Dhludhlu"
+    },
+    {
+     "c": "Tebza Nyembezi",
+     "n": "S'Dumo Mtshali"
+    },
+    {
+     "c": "Lungile Godongwana",
+     "n": "Bonko Khoza"
+    },
+    {
+     "c": "Zachariah Kunene",
+     "n": "Desmond Dube"
+    },
+    {
+     "c": "Razor Gumede",
+     "n": "Jabulani Mthembu"
+    },
+    {
+     "c": "Kat Modise",
+     "n": "Mduduzi Mabaso"
+    },
+    {
+     "c": "Nelisa Kunene",
+     "n": "Natasha Thahane"
+    },
+    {
+     "c": "James Radebe",
+     "n": "Pheello Kotelo"
+    },
+    {
+     "c": "Thobeka Radebe",
+     "n": "Clementine Mosimane"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Sydney Dire",
+    "Akin Omotoso",
+    "Steven Pillemer"
+   ],
+   "director": [],
+   "episode_run_time": [
+    53,
+    40
+   ],
+   "first_air_date": "2025-07-31",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 293808,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "ZA"
+   ],
+   "original_language": "zu",
+   "overview": "Desperate to pay for her daughter's life-saving surgery, devout ex-cop Babalwa turns to an unholy savior to help her stage a daring heist.",
+   "popularity": 2.5286,
+   "poster_path": "/1XFP7vl4KDAuCNOdtq8lFm5LeSW.jpg",
+   "production_countries": [
+    "ZA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-31",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zu"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Marked",
+   "trailer": {
+    "key": "lW2QZxPmuus",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.8,
+   "vote_count": 20
   },
   "tv:32608": {
    "backdrop_path": "/vBk9KQW01pJJfn3wAL2MJgTMch1.jpg",

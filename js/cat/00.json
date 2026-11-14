@@ -1,6 +1,6 @@
 {
  "bucket": "00",
- "count": 27,
+ "count": 34,
  "titles": {
   "movie:12600": {
    "backdrop_path": "/lnwNzJdU4gMlgoQlaT8HgSI2OpD.jpg",
@@ -616,125 +616,6 @@
    "type": "movie",
    "vote_average": 6.446,
    "vote_count": 83
-  },
-  "movie:1376400": {
-   "backdrop_path": "/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Serena",
-     "n": "Matilda Lutz"
-    },
-    {
-     "c": "Dr. Woodward",
-     "n": "Gary Anthony Stennette"
-    },
-    {
-     "c": "Dr. Callan",
-     "n": "Elena Sanz"
-    },
-    {
-     "c": "Molly",
-     "n": "Andrea Scott Méndez"
-    },
-    {
-     "c": "Bernice",
-     "n": "Isabella Marie Egizi"
-    },
-    {
-     "c": "Lance",
-     "n": "Sam Lucas Smith"
-    },
-    {
-     "c": "Bradley",
-     "n": "Gregg Sulkin"
-    },
-    {
-     "c": "Lady Lash",
-     "n": "Melina Matthews"
-    },
-    {
-     "c": "Mr. Rossmore",
-     "n": "William Miller"
-    },
-    {
-     "c": "Tonya",
-     "n": "Lex Salvador"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Ángel Gómez Hernández"
-   ],
-   "genres": [
-    "Horror",
-    "Thriller"
-   ],
-   "id": 1376400,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Tenants at Paradiso Palms apartments fight a deadly spider invasion while the cunning building manager might be their only hope for survival.",
-   "popularity": 51.7648,
-   "poster_path": "/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "Lionsgate Play Apple TV Channel"
-    },
-    {
-     "name": "Lionsgate Play Amazon Channel"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
-     "name": "Lionsgate Play Apple TV Channel",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
-     "name": "Lionsgate Play Amazon Channel",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-09-24",
-   "revenue": 1312982,
-   "runtime": 80,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "Skin will crawl.",
-   "title": "Crawlers",
-   "trailer": {
-    "key": "4DowjB87tRE",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 6.095,
-   "vote_count": 58
   },
   "movie:1390300": {
    "backdrop_path": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
@@ -2942,6 +2823,991 @@
    "type": "tv",
    "vote_average": 8.244,
    "vote_count": 2513
+  },
+  "tv:223300": {
+   "backdrop_path": "/dHCr5HgldBavJPzAYFYmM0rEdQo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fiona Nolan",
+     "n": "Lena Headey"
+    },
+    {
+     "c": "Constance Van Ness",
+     "n": "Gillian Anderson"
+    },
+    {
+     "c": "Elias Teller",
+     "n": "Nick Robinson"
+    },
+    {
+     "c": "Dahlia Teller",
+     "n": "Diana Silvers"
+    },
+    {
+     "c": "Trisha Van Ness",
+     "n": "Aisling Franciosi"
+    },
+    {
+     "c": "Garret Van Ness",
+     "n": "Lucas Till"
+    },
+    {
+     "c": "Albert Mason",
+     "n": "Lamar Johnson"
+    },
+    {
+     "c": "Lilla Bell",
+     "n": "Natalia del Riego"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Kurt Sutter"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-12-04",
+   "genres": [
+    "Drama",
+    "Western"
+   ],
+   "id": 223300,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 7,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1850s Washington, two families led by powerful matriarchs — one wealthy, one poor but deeply loyal — battle for supremacy on the lawless frontier.",
+   "popularity": 5.2643,
+   "poster_path": "/rQRzdfc0IlyiwM5HdzHdSYag9FG.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-04",
+     "episode_count": 7,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "A tale of two families.",
+   "title": "The Abandons",
+   "trailer": {
+    "key": "UtZ1qya0X2M",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.908,
+   "vote_count": 131
+  },
+  "tv:243200": {
+   "backdrop_path": "/jeua3sqZS9JQkOIBToLm6rvNUn9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Antón",
+     "n": "Luis Zahera"
+    },
+    {
+     "c": "Uxía",
+     "n": "Lucía Caraballo"
+    },
+    {
+     "c": "Sabela",
+     "n": "Carmen Ruiz"
+    },
+    {
+     "c": "Vicente",
+     "n": "Antonio Durán 'Morris'"
+    },
+    {
+     "c": "Miguel",
+     "n": "Nuno Gallego"
+    },
+    {
+     "c": "Nuno",
+     "n": "Darío Loureiro"
+    },
+    {
+     "c": "Bernardo",
+     "n": "Adrián Viador"
+    },
+    {
+     "c": "Toñín",
+     "n": "Sergio Abelaira"
+    },
+    {
+     "c": "",
+     "n": "Álvaro Mel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Víctor García León"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-03",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 243200,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 9,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Cash-strapped vet Antón takes a job at a fancy pet store, going from treating rural farm animals to peddling premium treats for pampered pooches.",
+   "popularity": 4.3435,
+   "poster_path": "/UgYg7GY6LYQnGhCmt1PQ7OhwEU.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-03",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2027-01-01",
+     "episode_count": 1,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Old Dog, New Tricks",
+   "trailer": {
+    "key": "UQI8Ac7OJEA",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.742,
+   "vote_count": 64
+  },
+  "tv:252000": {
+   "backdrop_path": "/6ZrfmfAtOy19UzXorO0t7RdRSJw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Zoë Boehm",
+     "n": "Emma Thompson"
+    },
+    {
+     "c": "Sarah Trafford",
+     "n": "Ruth Wilson"
+    },
+    {
+     "c": "Hamza Malik",
+     "n": "Adeel Akhtar"
+    },
+    {
+     "c": "C",
+     "n": "Darren Boyd"
+    },
+    {
+     "c": "Downey",
+     "n": "Nathan Stewart-Jarrett"
+    },
+    {
+     "c": "Amos Crane",
+     "n": "Fehinti Balogun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-29",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 252000,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When a child goes missing in the aftermath of a house explosion, a concerned neighbor teams up with a private investigator to find them. As secrets unravel and a military conspiracy emerges, all hell is unleashed on South Oxford's sleepy suburbs.",
+   "popularity": 7.0901,
+   "poster_path": "/pjmQbrJ3FesJobbqCnUwBCtfcvH.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-29",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Curiosity kills.",
+   "title": "Down Cemetery Road",
+   "trailer": {
+    "key": "0unUwpCfRg0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.813,
+   "vote_count": 120
+  },
+  "tv:262700": {
+   "backdrop_path": "/kCqOvdTazSJYorYTZMJUrbzcdxW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Oguri Cap (voice)",
+     "n": "Tomoyo Takayanagi"
+    },
+    {
+     "c": "Bellno Light (voice)",
+     "n": "Momoko Seto"
+    },
+    {
+     "c": "Jo Kitahara (voice)",
+     "n": "Katsuyuki Konishi"
+    },
+    {
+     "c": "Ginjirou Musaka (voice)",
+     "n": "Hochu Otsuka"
+    },
+    {
+     "c": "Fujimasa March (voice)",
+     "n": "Mariya Ise"
+    },
+    {
+     "c": "Norn Ace (voice)",
+     "n": "Ayano Shibuya"
+    },
+    {
+     "c": "Rudy Lemono (voice)",
+     "n": "You Taichi"
+    },
+    {
+     "c": "Mini the Lady (voice)",
+     "n": "Shiori Izawa"
+    },
+    {
+     "c": "Tamamo Cross (voice)",
+     "n": "Naomi Ohzora"
+    },
+    {
+     "c": "Symboli Rudolf (voice)",
+     "n": "Azusa Tadokoro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "channel": "MBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-04-06",
+   "genres": [
+    "Animation",
+    "Drama"
+   ],
+   "id": 262700,
+   "industry": "world",
+   "networks": [
+    "MBS",
+    "TBS",
+    "CBC",
+    "Tulip Television",
+    "SBC",
+    "BSN",
+    "tys",
+    "NBC",
+    "HBC",
+    "RKK",
+    "i-Television",
+    "SBS",
+    "IBC",
+    "BSS",
+    "MRO",
+    "OBS",
+    "TUF",
+    "RSK",
+    "TUY",
+    "tbc",
+    "RKB",
+    "KUTV",
+    "RBC",
+    "UTY",
+    "RCC",
+    "MRT",
+    "ATV",
+    "MBC"
+   ],
+   "number_of_episodes": 23,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Unbeknownst to those around her, the staggering potential of this ashen-haired “Beast” will soon catapult her to the national stage—and down the path of a legend.",
+   "popularity": 9.2276,
+   "poster_path": "/ncq5uKIcifVITPIYT2G1KpUPMoW.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Rakuten Viki"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-06",
+     "episode_count": 23,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Umamusume: Cinderella Gray",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.545,
+   "vote_count": 22
+  },
+  "tv:270600": {
+   "backdrop_path": "/ya1HVt01QYG6KLQr9SHvbI1LT5c.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Samira Fisher",
+     "n": "Keke Palmer"
+    },
+    {
+     "c": "Rob Fisher",
+     "n": "Jack Whitehall"
+    },
+    {
+     "c": "Lynn Gardner",
+     "n": "Julia Duffy"
+    },
+    {
+     "c": "Dana Richards",
+     "n": "Paula Pell"
+    },
+    {
+     "c": "Tod Mann",
+     "n": "Mark Proksch"
+    },
+    {
+     "c": "Naveen Varma",
+     "n": "Kapil Talwalkar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Peacock",
+   "created_by": [
+    "Celeste Hughey"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2026-02-08",
+   "genres": [
+    "Comedy",
+    "Mystery"
+   ],
+   "id": 270600,
+   "industry": "world",
+   "networks": [
+    "Peacock"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set in present-day suburbia, a young couple returns to the husband's childhood home. Their world is upended when new neighbors move in across the street, bringing old secrets of the cul-de-sac to light, and new deadly threats shatter the illusion of their quiet little neighborhood.",
+   "popularity": 5.322,
+   "poster_path": "/q1Ere9Lash2d6aOMStkRHfsixZC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-08",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Every cul-de-sac has a dead end.",
+   "title": "The 'Burbs",
+   "trailer": {
+    "key": "HS-w5BqRB-I",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.345,
+   "vote_count": 84
+  },
+  "tv:280100": {
+   "backdrop_path": "/s2GQUEJApbOVZL3vASbm5FWGdYN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hua Yong",
+     "n": "Huang Xing"
+    },
+    {
+     "c": "Sheng Shaoyou",
+     "n": "Qiu Dingjie"
+    },
+    {
+     "c": "Gao Tu",
+     "n": "Li Peien"
+    },
+    {
+     "c": "Shen Wenlang",
+     "n": "Jiang Heng"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18+",
+   "channel": "GagaOOLala",
+   "created_by": [
+    "Nong Jian"
+   ],
+   "director": [
+    "Nong Jian"
+   ],
+   "episode_run_time": [
+    49
+   ],
+   "first_air_date": "2025-07-12",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 280100,
+   "industry": "world",
+   "networks": [
+    "GagaOOLala"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TW"
+   ],
+   "original_language": "zh",
+   "overview": "When an arrogant Alpha infiltrates a rival’s company and falls for a seemingly delicate Omega, he’s pulled into a dangerous game that challenges everything he knows.",
+   "popularity": 6.8396,
+   "poster_path": "/fKmsS7HRGvhSNiLysVIj1zoBHnt.jpg",
+   "production_countries": [
+    "CN",
+    "TW"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-12",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "It's a prey or a trap.",
+   "title": "ABO Desire",
+   "trailer": {
+    "key": "fD-HeYuD_kw",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.441,
+   "vote_count": 34
+  },
+  "tv:309400": {
+   "backdrop_path": "/7AYZX0hQDeS6qUSVL0iOMjCDBUc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lovisa Hassan",
+     "n": "Lola Zackow"
+    },
+    {
+     "c": "Christian",
+     "n": "Jonas Karlsson"
+    },
+    {
+     "c": "Elin",
+     "n": "Aliette Opheim"
+    },
+    {
+     "c": "Saga",
+     "n": "Gizem Erdogan"
+    },
+    {
+     "c": "Isak",
+     "n": "Silas Strand"
+    },
+    {
+     "c": "Janus",
+     "n": "Jens Hultén"
+    },
+    {
+     "c": "Hugo",
+     "n": "Malte Gårdinger"
+    },
+    {
+     "c": "Linda",
+     "n": "Frida Argento"
+    },
+    {
+     "c": "Johannes",
+     "n": "Jörgen Thorsson"
+    },
+    {
+     "c": "Moa",
+     "n": "Siham Shurafa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "Prime Video",
+   "created_by": [
+    "Brynja Björk"
+   ],
+   "director": [
+    "Henrik Georgsson"
+   ],
+   "episode_run_time": [
+    44
+   ],
+   "first_air_date": "2026-01-30",
+   "genres": [
+    "Drama"
+   ],
+   "id": 309400,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "SE"
+   ],
+   "original_language": "sv",
+   "overview": "An insomnia epidemic plunges Stockholm into chaos. A prime minister manages the crisis while protecting his son, a nurse fights to save her infected partner, and a teenager protects her neighbor amid the spreading disease.",
+   "popularity": 2.6359,
+   "poster_path": "/iPzZhv4SiG29e5mWduWIsetEz2N.jpg",
+   "production_countries": [
+    "US",
+    "IS",
+    "SE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-30",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "sv"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Vaka",
+   "trailer": {
+    "key": "fgpC24T-S6Y",
+    "name": "Vaka - Officiell Trailer | Prime Video Sverige",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.5,
+   "vote_count": 24
+  },
+  "tv:310800": {
+   "backdrop_path": "/dWSR0GpWsgnLZCEe6bGZZIzw8YP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Han Seol-ah",
+     "n": "Park Min-young"
+    },
+    {
+     "c": "Cha Woo-seok",
+     "n": "Wi Ha-jun"
+    },
+    {
+     "c": "Baek Jun-beom",
+     "n": "Kim Jung-hyun"
+    },
+    {
+     "c": "Do Eun-hyeok",
+     "n": "Han Jun-woo"
+    },
+    {
+     "c": "Kong Ju-yeong",
+     "n": "Kong Seong-ha"
+    },
+    {
+     "c": "Pyo Seong-il",
+     "n": "Hong Gi-jun"
+    },
+    {
+     "c": "Kim Seon-ae",
+     "n": "Kim Keum-soon"
+    },
+    {
+     "c": "Yoon Seung-jae",
+     "n": "Ha Seok-jin"
+    },
+    {
+     "c": "Choi Young-ho",
+     "n": "Yoon Jong-hoon"
+    },
+    {
+     "c": "Ha Eun-gyeom",
+     "n": "Jung Eui-jae"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15+",
+   "channel": "tvN",
+   "created_by": [
+    "Lee Young"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-02",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 310800,
+   "industry": "world",
+   "networks": [
+    "tvN"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
+   "popularity": 4.9397,
+   "poster_path": "/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-02",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko",
+    "hi"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Siren's Kiss",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.429,
+   "vote_count": 49
   },
   "tv:4500": {
    "backdrop_path": "/XuJi5lKkYLCFpJprfSUZveRof7.jpg",

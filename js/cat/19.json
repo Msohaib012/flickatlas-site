@@ -1,6 +1,6 @@
 {
  "bucket": "19",
- "count": 24,
+ "count": 33,
  "titles": {
   "movie:1168719": {
    "backdrop_path": "/iOIc1rD53iF5D5y5pVGEs8uUTVc.jpg",
@@ -268,116 +268,6 @@
    "type": "movie",
    "vote_average": 7.678,
    "vote_count": 481
-  },
-  "movie:1327819": {
-   "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-   "budget": 150000000,
-   "cast": [
-    {
-     "c": "Mabel (voice)",
-     "n": "Piper Curda"
-    },
-    {
-     "c": "King George (voice)",
-     "n": "Bobby Moynihan"
-    },
-    {
-     "c": "Mayor Jerry Generazzo (voice)",
-     "n": "Jon Hamm"
-    },
-    {
-     "c": "Dr. Sam (voice)",
-     "n": "Kathy Najimy"
-    },
-    {
-     "c": "Insect King (voice)",
-     "n": "Dave Franco"
-    },
-    {
-     "c": "Loaf (voice)",
-     "n": "Eduardo Franco"
-    },
-    {
-     "c": "Nisha (voice)",
-     "n": "Aparna Nancherla"
-    },
-    {
-     "c": "Tom Lizard (voice)",
-     "n": "Tom Law"
-    },
-    {
-     "c": "Conner (voice)",
-     "n": "Sam Richardson"
-    },
-    {
-     "c": "Ellen (voice)",
-     "n": "Melissa Villaseñor"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 7+",
-   "date_kind": "release",
-   "director": [
-    "Daniel Chong"
-   ],
-   "genres": [
-    "Animation",
-    "Adventure",
-    "Comedy",
-    "Family",
-    "Science Fiction"
-   ],
-   "id": 1327819,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
-   "popularity": 25.9122,
-   "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "JioHotstar"
-    },
-    {
-     "name": "Disney Plus"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-     "name": "JioHotstar",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-03-06",
-   "revenue": 389685783,
-   "runtime": 104,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "Act natural.",
-   "title": "Hoppers",
-   "trailer": {
-    "key": "PypDSyIRRSs",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 8.12,
-   "vote_count": 2528
   },
   "movie:1436219": {
    "backdrop_path": "/eVLXHFU2lLhvcFu2ulfY58RdcQj.jpg",
@@ -1134,93 +1024,6 @@
    "type": "movie",
    "vote_average": 7.462,
    "vote_count": 487
-  },
-  "movie:1616419": {
-   "backdrop_path": "/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Léonard Landry",
-     "n": "Laurent Lafitte"
-    },
-    {
-     "c": "Noé",
-     "n": "Anthony Bajon"
-    },
-    {
-     "c": "Iris Saint Didier",
-     "n": "Mélanie Laurent"
-    },
-    {
-     "c": "Anne Lamarck",
-     "n": "Carole Bouquet"
-    },
-    {
-     "c": "L'homme de main",
-     "n": "Gwendal Kerdelhue"
-    },
-    {
-     "c": "Visiteur tribunal",
-     "n": "Antoine Signac"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Tristan Séguéla"
-   ],
-   "genres": [
-    "Thriller",
-    "Drama"
-   ],
-   "id": 1616419,
-   "industry": "world",
-   "origin_country": [
-    "FR"
-   ],
-   "original_language": "fr",
-   "overview": "After a courtroom overdose lands him in rehab, a lawyer has one week to save his career and prepare for his own trial, with the help of a dogged intern.",
-   "popularity": 41.9852,
-   "poster_path": "/rVkMvD7CpBueGmNIz2uVgluhTjS.jpg",
-   "production_countries": [
-    "FR"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-09-11",
-   "revenue": 0,
-   "runtime": 121,
-   "source": "catalogue",
-   "spoken_languages": [
-    "fr"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "The Good Lawyer",
-   "trailer": null,
-   "type": "movie",
-   "vote_average": 6.721,
-   "vote_count": 34
   },
   "movie:1637319": {
    "backdrop_path": "/w9NnNrq1aOu9hXhhUyMhQMts1oM.jpg",
@@ -2741,6 +2544,1124 @@
    "vote_average": 7.617,
    "vote_count": 501
   },
+  "tv:224819": {
+   "backdrop_path": "/mrofWp3zypeH2Et5YuvwfMFe0ZK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sim Hongrang",
+     "n": "Lee Jae-wook"
+    },
+    {
+     "c": "Sim Jae-yi",
+     "n": "Cho Bo-ah"
+    },
+    {
+     "c": "Sim Mu-jin",
+     "n": "Jung Ga-ram"
+    },
+    {
+     "c": "Min Yeon-ui",
+     "n": "Uhm Ji-won"
+    },
+    {
+     "c": "Sim Yeol-guk",
+     "n": "Park Byung-eun"
+    },
+    {
+     "c": "Grand Prince Hanpyeong",
+     "n": "Kim Jae-uck"
+    },
+    {
+     "c": "Bang Ji Ryun",
+     "n": "Park Myung-hoon"
+    },
+    {
+     "c": "Cho Bang Suk",
+     "n": "Jo Jae-yun"
+    },
+    {
+     "c": "Choi Ju-yeol",
+     "n": "김인하"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Kim Hong-sun",
+    "Kim Jin-a"
+   ],
+   "director": [
+    "Kim Hong-sun"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-16",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 224819,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 11,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "When a long-missing heir returns with lost memories, love and suspicion entwine. Is he truly Hongrang, or a stranger disturbing hearts and family ties?",
+   "popularity": 4.6143,
+   "poster_path": "/mWGil4jL1jaCoZkZuaNThh0aoVC.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-16",
+     "episode_count": 11,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Dear Hongrang",
+   "trailer": {
+    "key": "BfCrKi-ifl4",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.4,
+   "vote_count": 64
+  },
+  "tv:233219": {
+   "backdrop_path": "/6Ohfk6UG6BstEQbwqJ0JHSjHl3O.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kim Eui-gyeom",
+     "n": "Lee Jung-ha"
+    },
+    {
+     "c": "Kang Yoon-ki",
+     "n": "Kim Do-wan"
+    },
+    {
+     "c": "Kim Seok-tae",
+     "n": "Kim Sang-ho"
+    },
+    {
+     "c": "Myeong Da-bin",
+     "n": "Kim Joo-ryoung"
+    },
+    {
+     "c": "Nam Seung-Sik",
+     "n": "Shin Jun-seop"
+    },
+    {
+     "c": "Sung-Wook",
+     "n": "Lee Chan-hyeong"
+    },
+    {
+     "c": "Lee Ki-Yoon",
+     "n": "Shin Jae-whi"
+    },
+    {
+     "c": "Kim Seung-joon",
+     "n": "Lim Sung-kyun"
+    },
+    {
+     "c": "Lee Geol-jae",
+     "n": "Yuk Jun-seo"
+    },
+    {
+     "c": "Choi Ki-soo",
+     "n": "Yoo Hee-je"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "wavve",
+   "created_by": [],
+   "director": [
+    "Lee Seong-tae"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-30",
+   "genres": [
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 233219,
+   "industry": "world",
+   "networks": [
+    "wavve"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A former model student, pushed by domestic abuse and bullying, joins a group that stands up to school violence and defends its victims.",
+   "popularity": 8.3031,
+   "poster_path": "/uWK4QcYrLGITRNDvhLelm66j4Er.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-30",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "ONE: High School Heroes",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.093,
+   "vote_count": 75
+  },
+  "tv:245219": {
+   "backdrop_path": "/ksxQyZAU2fX1n9OOcGqgttmJg0O.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "James Garfield",
+     "n": "Michael Shannon"
+    },
+    {
+     "c": "Charles Guiteau",
+     "n": "Matthew Macfadyen"
+    },
+    {
+     "c": "Chester A. Arthur",
+     "n": "Nick Offerman"
+    },
+    {
+     "c": "Roscoe Conkling",
+     "n": "Shea Whigham"
+    },
+    {
+     "c": "James Blaine",
+     "n": "Bradley Whitford"
+    },
+    {
+     "c": "Crete Garfield",
+     "n": "Betty Gilpin"
+    },
+    {
+     "c": "Irvin Garfield",
+     "n": "Alfie Tempest"
+    },
+    {
+     "c": "Abram Garfield",
+     "n": "Anders Grundberg"
+    },
+    {
+     "c": "Jim Garfield Jr.",
+     "n": "Dylan Hughes"
+    },
+    {
+     "c": "Harry Garfield",
+     "n": "Jack Alldridge"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Mike Makowsky"
+   ],
+   "director": [],
+   "episode_run_time": [
+    53
+   ],
+   "first_air_date": "2025-11-06",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 245219,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of James Garfield, who rose from obscurity to become America's 20th President — and Charles Guiteau, the man who assassinated him.",
+   "popularity": 5.02,
+   "poster_path": "/d9w6mjuFkVTaMyuIc9Y3deNDHvw.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-06",
+     "episode_count": 4,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Death by Lightning",
+   "trailer": {
+    "key": "6jopqrSojQE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.235,
+   "vote_count": 113
+  },
+  "tv:247619": {
+   "backdrop_path": "/vG1nIg9epHFzjqOlyiOlWkeKlXw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Benny Scanlon",
+     "n": "Benito Skinner"
+    },
+    {
+     "c": "Carmen Neil",
+     "n": "Wally Baram"
+    },
+    {
+     "c": "Grace Scanlon",
+     "n": "Mary Beth Barone"
+    },
+    {
+     "c": "Peter Whitney",
+     "n": "Adam DiMarco"
+    },
+    {
+     "c": "Miles Hari",
+     "n": "Rish Shah"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Prime Video",
+   "created_by": [
+    "Benito Skinner"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-15",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 247619,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow the chaotic collegiate journey of Benny, a closeted former football player and homecoming king, as he becomes fast friends with Carmen, an outsider on a mission to fit in at college at all costs.",
+   "popularity": 9.6137,
+   "poster_path": "/9g5QRUSPBK4ABLzhO9D8ooir6tS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-15",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2027-02-17",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "College. Come as you aren't.",
+   "title": "Overcompensating",
+   "trailer": {
+    "key": "LSli17bsonk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.2,
+   "vote_count": 133
+  },
+  "tv:255719": {
+   "backdrop_path": "/iyPxER0i2XPPhK92kHmd7BAF7v0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Merteuil",
+     "n": "Anamaria Vartolomei"
+    },
+    {
+     "c": "Rosemonde",
+     "n": "Diane Kruger"
+    },
+    {
+     "c": "Valmont",
+     "n": "Vincent Lacoste"
+    },
+    {
+     "c": "Gercourt",
+     "n": "Lucas Bravo"
+    },
+    {
+     "c": "Madame de Tourvel",
+     "n": "Noée Abita"
+    },
+    {
+     "c": "Louis de Germain",
+     "n": "Julien de Saint Jean"
+    },
+    {
+     "c": "Cécile de Volanges",
+     "n": "Fantine Harduin"
+    },
+    {
+     "c": "Chevalier Danceny",
+     "n": "Samuel Kircher"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R21",
+   "channel": "HBO Max",
+   "created_by": [
+    "Jean-Baptiste Delafon"
+   ],
+   "director": [
+    "Jessica Palud"
+   ],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2025-11-14",
+   "genres": [
+    "Drama"
+   ],
+   "id": 255719,
+   "industry": "world",
+   "networks": [
+    "HBO Max"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Marquise de Merteuil, betrayed by Valmont, embarks on a daring journey to become Paris' leading courtesan.",
+   "popularity": 4.2474,
+   "poster_path": "/vknbnvegsTrzjqa8fsPyXN4wCHI.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-14",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Seduction",
+   "trailer": {
+    "key": "yZ8ckZRoXwo",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.4,
+   "vote_count": 24
+  },
+  "tv:257519": {
+   "backdrop_path": "/vk7AdYfhmCuWsRrTPMg7Yif8AAt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shah Latif",
+     "n": "Riz Ahmed"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [
+    "Riz Ahmed"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-25",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 257519,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Shah Latif is a struggling actor on the cusp of landing the role of a lifetime, only to find himself thrust into a full blown existential crisis and trippy conspiracy thriller all at the same time.",
+   "popularity": 7.6217,
+   "poster_path": "/gX9zWmUnrjCZEPpultvvFtSUb93.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-25",
+     "episode_count": 6,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ur"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Bait",
+   "trailer": {
+    "key": "FpAhwL91HyA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.598,
+   "vote_count": 51
+  },
+  "tv:259819": {
+   "backdrop_path": "/nTDL4UmMLDBCeMtYh8F1LZtgmLV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Keiji (voice)",
+     "n": "Kenta Miyake"
+    },
+    {
+     "c": "Elizabeth (voice)",
+     "n": "Mariko Honda"
+    },
+    {
+     "c": "Sarah (voice)",
+     "n": "Hikaru Tono"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Adult Swim",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-15",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Comedy"
+   ],
+   "id": 259819,
+   "industry": "world",
+   "networks": [
+    "Adult Swim"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Keiji is more than just an ordinary rooster—he's humanity's greatest defender! His opponents may be ten stories tall, but nothing is bigger than his stout heart and his fearsome battle cry—Kokekokko!",
+   "popularity": 7.61,
+   "poster_path": "/iCtbr0sIdaKZjhQH3Wr7hW6A1IU.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Adult Swim"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-15",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "One cock to save the world.",
+   "title": "Rooster Fighter",
+   "trailer": {
+    "key": "ICDmiq2bW8M",
+    "name": "Official Anime Trailer #2 (English Dub)",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.767,
+   "vote_count": 88
+  },
+  "tv:283019": {
+   "backdrop_path": "/3IuD8QJImHbQMlP5T9B5vpWMJtA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Prem",
+     "n": "Natnicha Pratipnatsiri"
+    },
+    {
+     "c": "Pat",
+     "n": "Jayna Angelina Stevens"
+    },
+    {
+     "c": "Bow",
+     "n": "Thanthip Thaweesinthanat"
+    },
+    {
+     "c": "Sita",
+     "n": "Renée Veronica"
+    },
+    {
+     "c": "Tan",
+     "n": "Weerapat Ounsa-ard"
+    },
+    {
+     "c": "Nam",
+     "n": "Evarin Atichaichaowakit"
+    },
+    {
+     "c": "Thawat",
+     "n": "Khomkrit Duangsuwan"
+    },
+    {
+     "c": "Ticha",
+     "n": "Pathsitar Phengkong"
+    },
+    {
+     "c": "Wut",
+     "n": "Thanut Jiraratchakit"
+    },
+    {
+     "c": "Non",
+     "n": "Boomb Chatdanai"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "ONE 31",
+   "created_by": [
+    "MeeNam"
+   ],
+   "director": [
+    "Natthaphon Phatcharachayanon"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-20",
+   "genres": [
+    "Drama"
+   ],
+   "id": 283019,
+   "industry": "world",
+   "networks": [
+    "ONE 31"
+   ],
+   "number_of_episodes": 11,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "Dr. Prem, a flawless heart surgeon, faces chaos when her wedding is ruined by actress Pat. What begins as resentment soon turns into unexpected attraction after a fateful kiss reveals deeper feelings between them.",
+   "popularity": 2.1396,
+   "poster_path": "/ibGgOrHEPNcVBHdOkijk0bf8ax1.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-20",
+     "episode_count": 11,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Poisonous Love",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.952,
+   "vote_count": 21
+  },
+  "tv:289219": {
+   "backdrop_path": "/cvvj1RXGmmAZ1FZr6CrUu8LgQm5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maul (voice)",
+     "n": "Sam Witwer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "Disney+",
+   "created_by": [
+    "Dave Filoni"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-06",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 289219,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the Clone Wars, Maul plots to rebuild his criminal syndicate on a planet untouched by the Empire.",
+   "popularity": 11.2025,
+   "poster_path": "/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-06",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Let us have our revenge.",
+   "title": "Star Wars: Maul - Shadow Lord",
+   "trailer": {
+    "key": "DkVepshZhGc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.524,
+   "vote_count": 254
+  },
+  "tv:290019": {
+   "backdrop_path": "/sLLcDWhWCTWPn6hJgLcVtk9dhr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maki Maehara (voice)",
+     "n": "Haruki Ishiya"
+    },
+    {
+     "c": "Umi Asanagi (voice)",
+     "n": "Manaka Iwami"
+    },
+    {
+     "c": "Yū Amami (voice)",
+     "n": "Sayumi Suzushiro"
+    },
+    {
+     "c": "Nina Nitta (voice)",
+     "n": "Ikumi Hasegawa"
+    },
+    {
+     "c": "Masaki Maehara (voice)",
+     "n": "Yuhko Kaida"
+    },
+    {
+     "c": "Sora Asanagi (voice)",
+     "n": "Shizuka Itoh"
+    },
+    {
+     "c": "Miki Yagisawa (voice)",
+     "n": "Minami Tsuda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [
+    "Hideki Tachibana"
+   ],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-04-07",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 290019,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Maki Maehara, the class outcast, finally makes his first friend: Umi Asanagi, the second-prettiest girl in class and the center of everyone’s attention. He’s convinced she’s out of his league, but as their unlikely friendship grows, Maki starts to wonder…could there be more than just friendship between them?",
+   "popularity": 7.1468,
+   "poster_path": "/giE27J6RyPMob0fUFxrCQuCs8k1.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-07",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "I Made Friends with the Second Prettiest Girl in My Class",
+   "trailer": {
+    "key": "3mTUxCIyJhA",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.182,
+   "vote_count": 66
+  },
   "tv:2919": {
    "backdrop_path": "/jwFJrUXj0SEAVpZsgvRUBi5trLL.jpg",
    "budget": 0,
@@ -2901,6 +3822,87 @@
    "type": "tv",
    "vote_average": 7.506,
    "vote_count": 623
+  },
+  "tv:302919": {
+   "backdrop_path": "/qheCyer8rj7B8tJC1anXlCFNrlf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Taylor Swift"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Disney+",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-12-12",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 302919,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A behind-the-scenes docuseries event chronicling the development, impact, and inner workings that created the phenomenon that was Taylor Swift | The Eras Tour, as well as providing an intimate look at Taylor's life as her tour made headlines and thrilled fans around the world. The series also spotlights performers, family members, and friends — including Gracie Abrams, Sabrina Carpenter, Ed Sheeran, and Florence Welch — offering never-before-seen insight into what it took to create a phenomenon.",
+   "popularity": 3.0699,
+   "poster_path": "/8qEyRXQMC3L77fjY924qcoxaaVs.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-12",
+     "episode_count": 6,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The End of an Era",
+   "trailer": {
+    "key": "BLIOMW1FAmg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.6,
+   "vote_count": 56
   },
   "tv:4419": {
    "backdrop_path": "/njEGYHyq58q94ZPJlSGs6bGrepv.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "17",
- "count": 35,
+ "count": 39,
  "titles": {
   "movie:10217": {
    "backdrop_path": "/7zRAZFZ4xVMyoLEvCb4Au41uvny.jpg",
@@ -868,111 +868,6 @@
    "type": "movie",
    "vote_average": 6.569,
    "vote_count": 108
-  },
-  "movie:1433117": {
-   "backdrop_path": "/e5IdZ1OEWMYxTeu51tI67gXvfpn.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Karasaami",
-     "n": "Dhanush"
-    },
-    {
-     "c": "Kasi Maayan",
-     "n": "Karunas"
-    },
-    {
-     "c": "Muthu Selvan",
-     "n": "Jayaram"
-    },
-    {
-     "c": "Kanthasaami",
-     "n": "K. S. Ravikumar"
-    },
-    {
-     "c": "Bharathan",
-     "n": "Suraj Venjaramoodu"
-    },
-    {
-     "c": "Selli",
-     "n": "Mamitha Baiju"
-    },
-    {
-     "c": "Kangayya",
-     "n": "M. S. Bhaskar"
-    },
-    {
-     "c": "Murugesan",
-     "n": "Prithvi Pandiarajan"
-    },
-    {
-     "c": "Dhanam",
-     "n": "Sreeja Ravi"
-    },
-    {
-     "c": "Chittarkottai Manager",
-     "n": "Dhanesh Koliyat"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 16+",
-   "date_kind": "release",
-   "director": [
-    "Vignesh Raja"
-   ],
-   "genres": [
-    "Crime",
-    "Drama",
-    "Thriller",
-    "Action"
-   ],
-   "id": 1433117,
-   "industry": "bollywood",
-   "origin_country": [
-    "IN"
-   ],
-   "original_language": "ta",
-   "overview": "A thief tries to go straight, but when predatory banks trap his father in debt, he returns to crime — with a determined cop closing in on his trail.",
-   "popularity": 4.0329,
-   "poster_path": "/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
-   "production_countries": [
-    "IN"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-04-30",
-   "revenue": 0,
-   "runtime": 161,
-   "source": "catalogue",
-   "spoken_languages": [
-    "ta"
-   ],
-   "status": "Released",
-   "tagline": "Sometimes, staying dangerous is the only way to stay alive.",
-   "title": "Kara",
-   "trailer": null,
-   "type": "movie",
-   "vote_average": 6.0,
-   "vote_count": 38
   },
   "movie:1477317": {
    "backdrop_path": "/wQOhbCP6H8bO5ddlXDZT207orew.jpg",
@@ -2830,6 +2725,128 @@
    "vote_average": 6.8,
    "vote_count": 1000
   },
+  "tv:153217": {
+   "backdrop_path": "/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kihachi Sakamoto (voice)",
+     "n": "Yuma Uchida"
+    },
+    {
+     "c": "Inako Momokawa (voice)",
+     "n": "Sora Amamiya"
+    },
+    {
+     "c": "Yosuke Mizoe (voice)",
+     "n": "Koki Uchiyama"
+    },
+    {
+     "c": "Seiroku Sakamoto (voice)",
+     "n": "Daisuke Ono"
+    },
+    {
+     "c": "Kengo Kuga (voice)",
+     "n": "Shunsuke Takeuchi"
+    },
+    {
+     "c": "Noriko Momokawa (voice)",
+     "n": "Minako Kotobuki"
+    },
+    {
+     "c": "Suzu Harashima (voice)",
+     "n": "You Taichi"
+    },
+    {
+     "c": "Kate Okura (voice)",
+     "n": "Natsumi Kawaida"
+    },
+    {
+     "c": "Yajiro Yagura (voice)",
+     "n": "Kazuki Ura"
+    },
+    {
+     "c": "Izo Masubuchi (voice)",
+     "n": "Daisuke Hirakawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-07-05",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 153217,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 13,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In an alternate past, an unlikely duo team up to look for a missing catalog that could bring electricity to the smoke-filled streets of Kyoto.",
+   "popularity": 12.5623,
+   "poster_path": "/yDTcX4l5D3OFeYGsQVI5Jqxx1D7.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-05",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "Chasing an unseen light!",
+   "title": "Sparks of Tomorrow",
+   "trailer": {
+    "key": "i5m_SuiaLOQ",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.329,
+   "vote_count": 35
+  },
   "tv:2317": {
    "backdrop_path": "/9dTbuwQy6WoVNy9hqBAuwR1MoUU.jpg",
    "budget": 0,
@@ -2982,6 +2999,209 @@
    "type": "tv",
    "vote_average": 7.64,
    "vote_count": 1208
+  },
+  "tv:254017": {
+   "backdrop_path": "/8anbNuU3e5PAvpfa8r26aZG7ubP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yaiba Kurogane (voice)",
+     "n": "Minami Takayama"
+    },
+    {
+     "c": "Sayaka Mine (voice)",
+     "n": "Manaka Iwami"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Nippon TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-04-05",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Comedy"
+   ],
+   "id": 254017,
+   "industry": "world",
+   "networks": [
+    "Nippon TV",
+    "YTV"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Yaiba's journey to becoming a true samurai takes him from his home in the forest to a bustling city full of rivals, friends and ancient powers.",
+   "popularity": 15.8544,
+   "poster_path": "/cxD3FQP4hDU5hSABwdQCvGrrnz6.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-05",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "YAIBA: Samurai Legend",
+   "trailer": {
+    "key": "vanJ-gn2dQc",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.1,
+   "vote_count": 26
+  },
+  "tv:256317": {
+   "backdrop_path": "/hPluvztO5rqRWC02SUJ7Iob7xWh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mark Meachum",
+     "n": "Jensen Ackles"
+    },
+    {
+     "c": "Amber Oliveras",
+     "n": "Jessica Camacho"
+    },
+    {
+     "c": "Nathan Blythe",
+     "n": "Eric Dane"
+    },
+    {
+     "c": "Evan Shepherd",
+     "n": "Violett Beane"
+    },
+    {
+     "c": "Lucas Finau",
+     "n": "Uli Latukefu"
+    },
+    {
+     "c": "Keyonte Bell",
+     "n": "Elliot Knight"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [
+    "Derek Haas"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-25",
+   "genres": [
+    "Crime",
+    "Mystery"
+   ],
+   "id": 256317,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 13,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When an officer with the Department of Homeland Security is murdered in broad daylight, LAPD detective Mark Meachum is recruited to a secret task force, alongside undercover agents from all branches of law enforcement, to investigate. But the hunt for the killer soon uncovers a plot far more sinister than anyone could have imagined, kicking off a race against time to save a city of millions.",
+   "popularity": 11.1492,
+   "poster_path": "/gcSNS5cy1iOmYawIdJCzoc873rQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-25",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Every second counts.",
+   "title": "Countdown",
+   "trailer": {
+    "key": "t72R6wZ0zQ8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.253,
+   "vote_count": 158
   },
   "tv:2617": {
    "backdrop_path": "/aUSTj1kif2dqt65POwHrcyjhXRg.jpg",
@@ -3147,6 +3367,257 @@
    "type": "tv",
    "vote_average": 7.8,
    "vote_count": 481
+  },
+  "tv:286617": {
+   "backdrop_path": "/8oPvHyKO9wjs8ZDyDlq270r3OKu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Leo Struthers",
+     "n": "Alan Cumming"
+    },
+    {
+     "c": "Clive Goss",
+     "n": "David Morrissey"
+    },
+    {
+     "c": "Stephanie Dale",
+     "n": "Elizabeth Berrington"
+    },
+    {
+     "c": "Marie Goss",
+     "n": "Pooky Quesnel"
+    },
+    {
+     "c": "Zee Malone",
+     "n": "Iz Hesketh"
+    },
+    {
+     "c": "Melba",
+     "n": "Paul Rhys"
+    },
+    {
+     "c": "George Goss",
+     "n": "Jackson Connor"
+    },
+    {
+     "c": "Saul Goss",
+     "n": "Joseph William Evans"
+    },
+    {
+     "c": "Judy Khumalo",
+     "n": "Luyanda Unati Lewis-Nyawo"
+    },
+    {
+     "c": "Mikey Driscoll",
+     "n": "Gabriel Clark"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "channel": "Channel 4",
+   "created_by": [
+    "Russell T Davies"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-05-31",
+   "genres": [
+    "Drama"
+   ],
+   "id": 286617,
+   "industry": "world",
+   "networks": [
+    "Channel 4"
+   ],
+   "number_of_episodes": 5,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "An ordinary Manchester suburb becomes a minefield of lies and violence when Leo gives neighbour Clive his spare key.",
+   "popularity": 5.6423,
+   "poster_path": "/61xHU81jszBYRsxJAMjKiSd5jgb.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/adymMNlhhLlJl5xccRCrsh3OehD.png",
+     "name": "Starz Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/h25xjouKmiSmFiiqw0aDXbxGZo7.png",
+     "name": "Starz",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tKembbxL7cYdDvFK70xBecbN0G8.png",
+     "name": "Starz Roku Premium Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-31",
+     "episode_count": 5,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Love thy neighbour. Judge thy neighbour.",
+   "title": "Tip Toe",
+   "trailer": {
+    "key": "SWIR5sGTVjM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.944,
+   "vote_count": 54
+  },
+  "tv:291617": {
+   "backdrop_path": "/yNTACyQl0WxxCOfn6OcZ7e73LXE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Pei Jia",
+     "n": "Chen Yesheng"
+    },
+    {
+     "c": "Su Yi",
+     "n": "Huang Xiao"
+    },
+    {
+     "c": "Yi Wei",
+     "n": "Shao Hongfei"
+    },
+    {
+     "c": "Su Bai",
+     "n": "Wei Mingjia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "GagaOOLala",
+   "created_by": [],
+   "director": [
+    "寧元元",
+    "Li Xi"
+   ],
+   "episode_run_time": [
+    30
+   ],
+   "first_air_date": "2025-05-24",
+   "genres": [
+    "Drama"
+   ],
+   "id": 291617,
+   "industry": "world",
+   "networks": [
+    "GagaOOLala"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "SG",
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "After a scandal, Pei Jia restarts his career—only to fall for his rookie co-star while fighting to protect both their futures.",
+   "popularity": 1.8448,
+   "poster_path": "/ibWqrt2SYWxLoIhtYNpwsQqUMlV.jpg",
+   "production_countries": [],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-24",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "You are not just the person I want to protect, you are the whole world in my eyes.",
+   "title": "The Sparkle in Your Eye",
+   "trailer": {
+    "key": "aDtd1DGemP0",
+    "name": "Singapore BL series \"The Sparkle In Your Eye\" trailer! Premiere on May. 24 on GagaOOLala!",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.69,
+   "vote_count": 21
   },
   "tv:31917": {
    "backdrop_path": "/6NuvpA24GbWrnkKsYrNyr2RiRbp.jpg",

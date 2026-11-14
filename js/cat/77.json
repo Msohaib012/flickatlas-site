@@ -1,6 +1,6 @@
 {
  "bucket": "77",
- "count": 24,
+ "count": 26,
  "titles": {
   "movie:10077": {
    "backdrop_path": "/cdR9ESJzcocgVphpwO5AYZRwrWg.jpg",
@@ -994,106 +994,6 @@
    "vote_average": 6.983,
    "vote_count": 441
   },
-  "movie:1235877": {
-   "backdrop_path": "/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Thalapathy Vetri Kondan 'Vetri'",
-     "n": "Vijay"
-    },
-    {
-     "c": "Kayal",
-     "n": "Pooja Hegde"
-    },
-    {
-     "c": "John Himler / Amrish Poojari",
-     "n": "Bobby Deol"
-    },
-    {
-     "c": "Vijayalakshmi 'Viji'",
-     "n": "Mamitha Baiju"
-    },
-    {
-     "c": "Sheela Rani",
-     "n": "Priyamani"
-    },
-    {
-     "c": "Roja Rangasamy",
-     "n": "Prakash Raj"
-    },
-    {
-     "c": "Srikanth",
-     "n": "Gautham Vasudev Menon"
-    },
-    {
-     "c": "Kaleel",
-     "n": "Narain"
-    },
-    {
-     "c": "CM Arivudai Nambi",
-     "n": "Nassar"
-    },
-    {
-     "c": "Velu",
-     "n": "Sunil Varma"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "A",
-   "date_kind": "release",
-   "director": [
-    "H. Vinoth"
-   ],
-   "genres": [
-    "Action",
-    "Drama"
-   ],
-   "id": 1235877,
-   "industry": "bollywood",
-   "origin_country": [
-    "IN"
-   ],
-   "original_language": "ta",
-   "overview": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
-   "popularity": 7.5546,
-   "poster_path": "/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
-   "production_countries": [
-    "IN"
-   ],
-   "providers": [
-    {
-     "name": "Zee5"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
-     "name": "Zee5",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-07-23",
-   "revenue": 0,
-   "runtime": 183,
-   "source": "catalogue",
-   "spoken_languages": [
-    "ta"
-   ],
-   "status": "Released",
-   "tagline": "The Torch Bearer of Democracy",
-   "title": "Jana Nayagan",
-   "trailer": null,
-   "type": "movie",
-   "vote_average": 4.963,
-   "vote_count": 27
-  },
   "movie:1430077": {
    "backdrop_path": "/1FYdbchGR8WTNlneJ3Pvol5hbGE.jpg",
    "budget": 5000000,
@@ -1312,114 +1212,6 @@
    "type": "movie",
    "vote_average": 7.07,
    "vote_count": 79
-  },
-  "movie:1541477": {
-   "backdrop_path": "/9uU3523A14KJ90Jr8pQx0NGGIgb.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Simone",
-     "n": "Elio Germano"
-    },
-    {
-     "c": "Lucia",
-     "n": "Maria Chiara Giannetta"
-    },
-    {
-     "c": "",
-     "n": "Lidia Vitale"
-    },
-    {
-     "c": "",
-     "n": "Anna Bonaiuto"
-    },
-    {
-     "c": "",
-     "n": "Diop Virginia"
-    },
-    {
-     "c": "",
-     "n": "Francesca De Martini"
-    },
-    {
-     "c": "",
-     "n": "Caterina Guzzanti"
-    },
-    {
-     "c": "",
-     "n": "Sofia Luchetti"
-    },
-    {
-     "c": "",
-     "n": "Filippo Nigro"
-    },
-    {
-     "c": "",
-     "n": "Bianca Mastromonaco"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Daniele Luchetti"
-   ],
-   "genres": [
-    "Drama",
-    "Comedy"
-   ],
-   "id": 1541477,
-   "industry": "world",
-   "origin_country": [
-    "IT"
-   ],
-   "original_language": "it",
-   "overview": "A couple faces the difficult path to adoption, determined to become parents despite their complex vulnerabilities.",
-   "popularity": 12.4842,
-   "poster_path": "/4Gw8ukw5aAUP1uzNtYZ0CNTUy5A.jpg",
-   "production_countries": [
-    "IT"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-29",
-   "revenue": 0,
-   "runtime": 107,
-   "source": "catalogue",
-   "spoken_languages": [
-    "it",
-    "de"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "You, Me, Us",
-   "trailer": {
-    "key": "XjUt3Fv_f-Y",
-    "name": "Official Trailer [Subtitled]",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 6.028,
-   "vote_count": 53
   },
   "movie:1542877": {
    "backdrop_path": "/9y9HMou5hBGhRm8u9LvlEgEjDLv.jpg",
@@ -2837,6 +2629,457 @@
    "vote_average": 7.981,
    "vote_count": 156
   },
+  "tv:220377": {
+   "backdrop_path": "/cyfyZvzxnnqRp8UjPSIwlHv6pWe.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hasan Balaban Aga",
+     "n": "Can Yaman"
+    },
+    {
+     "c": "Gloria",
+     "n": "Greta Ferro"
+    },
+    {
+     "c": "Marco Benedetti di Vicenza / Mete",
+     "n": "Will Kemp"
+    },
+    {
+     "c": "Gunther",
+     "n": "Magnus Samuelsson"
+    },
+    {
+     "c": "Guido",
+     "n": "Slavko Sobin"
+    },
+    {
+     "c": "Yedder",
+     "n": "Haluk Piyes"
+    },
+    {
+     "c": "Elda",
+     "n": "Madalena Aragão"
+    },
+    {
+     "c": "Father Angelo",
+     "n": "David Streames"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18+",
+   "channel": "GAİN",
+   "created_by": [],
+   "director": [
+    "Uluç Bayraktar"
+   ],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2025-04-02",
+   "genres": [
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 220377,
+   "industry": "world",
+   "networks": [
+    "GAİN"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TR"
+   ],
+   "original_language": "tr",
+   "overview": "Balaban, a soldier in the Janissary army, settles in Moena in northern Italy after the Battle of Vienna in 1683 and fights for the rights of the local people.",
+   "popularity": 4.6388,
+   "poster_path": "/sUJ6hzDvznBJDrfHMuQm8Qm183F.jpg",
+   "production_countries": [
+    "TR"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Spectrum On Demand"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-02",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "tr"
+   ],
+   "status": "Ended",
+   "tagline": "He has to fight for the right to love.",
+   "title": "El-Turk",
+   "trailer": {
+    "key": "YMXVVXhdpCw",
+    "name": "Official First Trailer [English Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 36
+  },
+  "tv:262277": {
+   "backdrop_path": "/8mmNYxz1OrgmPxQAe2HYsthVPWc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Detective Superintendent, Anti-Terrorist Branch",
+     "n": "Doug McKenna"
+    },
+    {
+     "c": "Self - Prime Minister 1997 - 2007",
+     "n": "Tony Blair"
+    },
+    {
+     "c": "Self - Deputy Assistant Commissioner, Head of Anti-Terrorist Branch",
+     "n": "Peter Clarke"
+    },
+    {
+     "c": "Self - M15 Inspector General 2002 - 2007",
+     "n": "Eliza Manningham-Buller"
+    },
+    {
+     "c": "Self - London Underground Attack Survivor",
+     "n": "Dan Biddle"
+    },
+    {
+     "c": "Self - Principal Forensics Investigator",
+     "n": "Cliff Todd"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-01",
+   "genres": [
+    "Documentary",
+    "Crime"
+   ],
+   "id": 262277,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Insider accounts and never-seen-before footage tell the story of the 7/7 bombings on London's transport network in 2005 — and its explosive aftermath.",
+   "popularity": 1.899,
+   "poster_path": "/rJGFiBuLAr8wZRL4u6esqeZivNm.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-01",
+     "episode_count": 4,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Attack on London: Hunting the 7/7 Bombers",
+   "trailer": {
+    "key": "0LcKrmSNElE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 27
+  },
+  "tv:262377": {
+   "backdrop_path": "/38H5MJX53fSi8W03YiMStLBmj6D.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Keiichiro Nagumo (voice)",
+     "n": "Junichi Suwabe"
+    },
+    {
+     "c": "Mashiro (voice)",
+     "n": "Kana Hanazawa"
+    },
+    {
+     "c": "Taro Nezu (voice)",
+     "n": "Kengo Kawanishi"
+    },
+    {
+     "c": "Cheerful Old Man / Nipple-Tasting Man / Cross Chest Hair Man / Man Who Likes Ropes (voice)",
+     "n": "Tomokazu Sugita"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "channel": "AT-X",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-07-01",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 262377,
+   "industry": "world",
+   "networks": [
+    "AT-X"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Once a legendary detective, Nagumo Keiichiro now stumbles through middle age baffled by smartphones and modern life. His quiet decline gets disrupted when Mashiro, a bold high school girl, bursts into his office demanding to become his apprentice. Though he’s rusty and set in his ways, her relentless enthusiasm drags him back into detective work. Now the gap-bridging detective duo is on the case!",
+   "popularity": 5.651,
+   "poster_path": "/hv51RYVvaCrKJKuwFEWm17V0QaD.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-01",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Detectives These Days Are Crazy!",
+   "trailer": {
+    "key": "joAkZeNg9Qk",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.955,
+   "vote_count": 22
+  },
+  "tv:273977": {
+   "backdrop_path": "/uLYp6qxGNzDlDtBOAlDbfcf4QgO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sarah Kim",
+     "n": "Shin Hae-sun"
+    },
+    {
+     "c": "Park Mu-gyeong",
+     "n": "Lee Jun-hyuk"
+    },
+    {
+     "c": "Jeong Yeo-jin",
+     "n": "Park Bo-kyung"
+    },
+    {
+     "c": "Woo Hyo-eun",
+     "n": "Jung Da-bin"
+    },
+    {
+     "c": "Hyun Jae-hyun",
+     "n": "Shin Hyeon-seung"
+    },
+    {
+     "c": "Choi Chae-u",
+     "n": "Bae Jong-ok"
+    },
+    {
+     "c": "Kang Ji-hwon",
+     "n": "Kim Jae-won"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Kim Jin-min",
+    "Chu Song-yeon"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2026-02-13",
+   "genres": [
+    "Crime",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 273977,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A body found in the middle of town. A luxe label on the rise. A detective tests every stitch of a woman's story that keeps changing. What really happened?",
+   "popularity": 5.6295,
+   "poster_path": "/8hZqZB4DAC1Ebzbk80zc0H80SNa.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-13",
+     "episode_count": 8,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko",
+    "hi"
+   ],
+   "status": "Ended",
+   "tagline": "Even broken lives leave beautiful traces.",
+   "title": "The Art of Sarah",
+   "trailer": {
+    "key": "aPNZNcBIWNw",
+    "name": "레이디 두아 | 공식 예고편 | 넷플릭스",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.553,
+   "vote_count": 103
+  },
   "tv:2777": {
    "backdrop_path": "/fVO7r9tAnauny8DAqbetlQ1tVtu.jpg",
    "budget": 0,
@@ -2983,6 +3226,109 @@
    "vote_average": 7.5,
    "vote_count": 386
   },
+  "tv:278577": {
+   "backdrop_path": "/kiEtIq7Up7vpbAYvPTJPKHiJE1t.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lin Yusen",
+     "n": "Song Weilong"
+    },
+    {
+     "c": "Nie Xiguang",
+     "n": "Zhao Jinmai"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG13",
+   "channel": "Tencent Video",
+   "created_by": [
+    "Gu Man"
+   ],
+   "director": [
+    "Chen Zhoufei"
+   ],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2025-12-22",
+   "genres": [
+    "Drama"
+   ],
+   "id": 278577,
+   "industry": "world",
+   "networks": [
+    "Tencent Video"
+   ],
+   "number_of_episodes": 36,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "Her heart was anchored in an unrequited love, while the one who truly saw her from the beginning waited in the wings. A tale of a fateful first encounter that changes everything—and a second chance at a love that was always meant to be.",
+   "popularity": 35.5281,
+   "poster_path": "/cFBlFzOwh4C8wpuR4sYBIitvNiw.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Tencent Video"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png",
+     "name": "Tencent Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-22",
+     "episode_count": 36,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "Trapped in my love, yearning for your heart to turn to me.",
+   "title": "Shine on Me",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.5,
+   "vote_count": 35
+  },
   "tv:85077": {
    "backdrop_path": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
    "budget": 0,
@@ -3127,132 +3473,6 @@
    "type": "tv",
    "vote_average": 8.8,
    "vote_count": 1054
-  },
-  "tv:96677": {
-   "backdrop_path": "/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Assane Diop",
-     "n": "Omar Sy"
-    },
-    {
-     "c": "Claire Laurent",
-     "n": "Ludivine Sagnier"
-    },
-    {
-     "c": "Benjamin Férel",
-     "n": "Antoine Gouy"
-    },
-    {
-     "c": "Youssef Guédira",
-     "n": "Soufiane Guerrab"
-    },
-    {
-     "c": "Sofia Belkacem",
-     "n": "Shirine Boutella"
-    },
-    {
-     "c": "Raoul Diop",
-     "n": "Théo Christine"
-    },
-    {
-     "c": "Adèle Kapoor",
-     "n": "Laïka Blanc-Francard"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 16+",
-   "channel": "Netflix",
-   "created_by": [
-    "George Kay",
-    "François Uzan",
-    "Marie Roussin",
-    "Florent Meyer",
-    "Tigran Rosine"
-   ],
-   "director": [],
-   "episode_run_time": [],
-   "first_air_date": "2021-01-08",
-   "genres": [
-    "Crime",
-    "Drama",
-    "Mystery"
-   ],
-   "id": 96677,
-   "industry": "world",
-   "networks": [
-    "Netflix"
-   ],
-   "number_of_episodes": 25,
-   "number_of_seasons": 3,
-   "origin_country": [
-    "FR"
-   ],
-   "original_language": "fr",
-   "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
-   "popularity": 95.9402,
-   "poster_path": "/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
-   "production_countries": [
-    "FR"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "revenue": 0,
-   "seasons": [
-    {
-     "air_date": "2021-01-08",
-     "episode_count": 10,
-     "name": "Season 1",
-     "season_number": 1
-    },
-    {
-     "air_date": "2023-10-05",
-     "episode_count": 7,
-     "name": "Part 3",
-     "season_number": 2
-    },
-    {
-     "air_date": "2026-10-23",
-     "episode_count": 8,
-     "name": "Part 4",
-     "season_number": 3
-    }
-   ],
-   "source": "catalogue",
-   "spoken_languages": [
-    "fr"
-   ],
-   "status": "Returning Series",
-   "tagline": "Two Lupins. One too many.",
-   "title": "Lupin",
-   "trailer": {
-    "key": "ga0iTWXCGa0",
-    "name": "Official Trailer [Dubbed]",
-    "site": "YouTube"
-   },
-   "type": "tv",
-   "vote_average": 7.679,
-   "vote_count": 2794
   }
  }
 }

@@ -1,6 +1,6 @@
 {
  "bucket": "04",
- "count": 27,
+ "count": 35,
  "titles": {
   "movie:1128204": {
    "backdrop_path": "/4ZeaWA6DzFVOjWTi70b9ZAaQktf.jpg",
@@ -2866,6 +2866,103 @@
    "vote_average": 6.809,
    "vote_count": 162
   },
+  "tv:250504": {
+   "backdrop_path": "/ylW0m5UztyyL4YFu8EC6usUHLF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Agatha 'Aggie' Wiggs",
+     "n": "Claire Danes"
+    },
+    {
+     "c": "Nile Jarvis",
+     "n": "Matthew Rhys"
+    },
+    {
+     "c": "Nina Jarvis",
+     "n": "Brittany Snow"
+    },
+    {
+     "c": "Shelley Morris",
+     "n": "Natalie Morales"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Gabe Rotter"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-11-13",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 250504,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
+   "popularity": 10.3224,
+   "poster_path": "/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-13",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Pain needs a partner.",
+   "title": "The Beast in Me",
+   "trailer": {
+    "key": "8iNHGKcP0cM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.053,
+   "vote_count": 339
+  },
   "tv:2604": {
    "backdrop_path": "/plF7qKlXww8zwoNnXsSP6ifQpUt.jpg",
    "budget": 0,
@@ -3005,6 +3102,882 @@
    "type": "tv",
    "vote_average": 8.349,
    "vote_count": 528
+  },
+  "tv:278604": {
+   "backdrop_path": "/4QwxPBOohSQX3nPFN6pb6uBosMd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yuri (voice)",
+     "n": "Chika Anzai"
+    },
+    {
+     "c": "Setsu (voice)",
+     "n": "Ikumi Hasegawa"
+    },
+    {
+     "c": "SQ (voice)",
+     "n": "Akari Kito"
+    },
+    {
+     "c": "Racio (voice)",
+     "n": "Hiroki Nanami"
+    },
+    {
+     "c": "Jina (voice)",
+     "n": "Asami Seto"
+    },
+    {
+     "c": "Shigemichi (voice)",
+     "n": "Tomokazu Seki"
+    },
+    {
+     "c": "Stella (voice)",
+     "n": "Saori Hayami"
+    },
+    {
+     "c": "Yuriko (voice)",
+     "n": "Aoi Yuki"
+    },
+    {
+     "c": "Comet (voice)",
+     "n": "Ayane Sakura"
+    },
+    {
+     "c": "Chipie (voice)",
+     "n": "Yuichi Nakamura"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12+",
+   "channel": "Gunma TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-12",
+   "genres": [
+    "Animation",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 278604,
+   "industry": "world",
+   "networks": [
+    "Gunma TV",
+    "TOKYO MX",
+    "BS11",
+    "Tochigi TV"
+   ],
+   "number_of_episodes": 21,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "When a shapeshifting enemy known as Gnosia infiltrates a lone spaceship, the crew has only one way to survive: identify the imposter each day and put them into cryo-sleep. But for Yuri, the day never ends. Trapped in a time loop, she relives the first day of the crisis over and over. To escape, Yuri must uncover the truth behind Gnosia and the time loop itself—before it’s too late.",
+   "popularity": 9.5757,
+   "poster_path": "/dlQHZqADmu6mEsNUo2eA4FffAMt.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-12",
+     "episode_count": 21,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "Who is the Gnosia?",
+   "title": "GNOSIA",
+   "trailer": {
+    "key": "DQLzK0nx2FU",
+    "name": "GNOSIA | 2ND COUR OFFICIAL TRAILER",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 22
+  },
+  "tv:278704": {
+   "backdrop_path": "/7GbHu1X9lvk47YoKMpq3w8bZg5C.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Amate Yuzuriha (voice)",
+     "n": "Tomoyo Kurosawa"
+    },
+    {
+     "c": "Nyaan (voice)",
+     "n": "Yui Ishikawa"
+    },
+    {
+     "c": "Shuji Itō (voice)",
+     "n": "Shimba Tsuchiya"
+    },
+    {
+     "c": "Challia Bull (voice)",
+     "n": "Shinji Kawada"
+    },
+    {
+     "c": "Xavier Olivette (voice)",
+     "n": "Seiichiro Yamashita"
+    },
+    {
+     "c": "Comoli Harcourt (voice)",
+     "n": "Akane Fujita"
+    },
+    {
+     "c": "Rassit (voice)",
+     "n": "Saya Hirose"
+    },
+    {
+     "c": "Osillo (voice)",
+     "n": "Genta Nakamura"
+    },
+    {
+     "c": "Sepha (voice)",
+     "n": "Risa Watanabe"
+    },
+    {
+     "c": "Haro / Tamaki Yuzuriha (voice)",
+     "n": "Rie Kugimiya"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Nippon TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2025-04-09",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 278704,
+   "industry": "world",
+   "networks": [
+    "Nippon TV",
+    "YTV",
+    "FBS",
+    "Chukyo TV",
+    "RNB",
+    "HTV",
+    "FCT",
+    "STV",
+    "KNB",
+    "YBS",
+    "KTK",
+    "NKT",
+    "RAB",
+    "TVI",
+    "MMT",
+    "ABS",
+    "JRT",
+    "TOS",
+    "YBC",
+    "UMK TV Miyazaki",
+    "TSB",
+    "TeNY",
+    "RNC",
+    "NIB",
+    "KKT",
+    "Daiichi-TV",
+    "FBC",
+    "RKC",
+    "KYT",
+    "KRY"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "High-school student Amate Yuzuriha lives peacefully in a space colony floating in outer space. But when she meets a war refugee named Nyaan, Amate is drawn into the illegal mobile suit dueling sport known as Clan Battle.",
+   "popularity": 17.7839,
+   "poster_path": "/jb5d4vqHmKSQh9rB2T394e3z5To.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-09",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Mobile Suit Gundam GQuuuuuuX",
+   "trailer": {
+    "key": "SiqYgJXp_Kc",
+    "name": "Special Announcement Trailer (EN Dub)",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.245,
+   "vote_count": 51
+  },
+  "tv:281004": {
+   "backdrop_path": "/9MEzfTNfnTvCLHXfRu7a5TSJCsx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yoon Suk-hoon",
+     "n": "Lee Jin-uk"
+    },
+    {
+     "c": "Kang Hyo-min / Kang Hyo-Ju",
+     "n": "Jung Chae-yeon"
+    },
+    {
+     "c": "Lee Jin-woo",
+     "n": "Lee Hak-ju"
+    },
+    {
+     "c": "Hyo Min-jung",
+     "n": "Jeon Hye-bin"
+    },
+    {
+     "c": "Han Seong-chan",
+     "n": "Kang Sang-jun"
+    },
+    {
+     "c": "Ji Kook-hyun",
+     "n": "Kim Kang-min"
+    },
+    {
+     "c": "Choi Ho-yeon",
+     "n": "Lee Ju-yeon"
+    },
+    {
+     "c": "Oh Sang-chul",
+     "n": "Pyo Jae-gyeom"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "JTBC",
+   "created_by": [
+    "Kim Jae-hong"
+   ],
+   "director": [
+    "Kim Jae-hong"
+   ],
+   "episode_run_time": [
+    71
+   ],
+   "first_air_date": "2025-08-02",
+   "genres": [
+    "Drama"
+   ],
+   "id": 281004,
+   "industry": "world",
+   "networks": [
+    "JTBC"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A young, rookie lawyer with a strong sense of justice joins a top law firm — navigating the complex legal world under a cold, demanding mentor.",
+   "popularity": 7.4331,
+   "poster_path": "/nN6mZZxJBPZXBjLxnjgpnoRvswk.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-02",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Beyond the Bar",
+   "trailer": {
+    "key": "8o8uHnAFwcA",
+    "name": "Official Clip [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.086,
+   "vote_count": 76
+  },
+  "tv:283304": {
+   "backdrop_path": "/fBieUo3SdItUrXZE16YxbpjwXIe.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Charles Ingalls",
+     "n": "Luke Bracey"
+    },
+    {
+     "c": "Caroline Ingalls",
+     "n": "Crosby Fitzgerald"
+    },
+    {
+     "c": "Laura Ingalls",
+     "n": "Alice Halsey"
+    },
+    {
+     "c": "Mary Ingalls",
+     "n": "Skywalker Hughes"
+    },
+    {
+     "c": "Caleb",
+     "n": "Kowen Cadorath"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "Netflix",
+   "created_by": [
+    "Rebecca Sonnenshine"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-09",
+   "genres": [
+    "Drama",
+    "Western",
+    "Family"
+   ],
+   "id": 283304,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The close-knit Ingalls family builds a new life on the Western frontier, where the joys of nature and the struggle for survival are deeply intertwined.",
+   "popularity": 9.7766,
+   "poster_path": "/oWUGSadxC9vQPOCeHDDVfDezmQC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-09",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Adventure awaits.",
+   "title": "Little House on the Prairie",
+   "trailer": {
+    "key": "jSds4Oi83Eg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.7,
+   "vote_count": 117
+  },
+  "tv:285404": {
+   "backdrop_path": "/9mZlvYlGA4jblCvAvOpinrgn6hr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Paula Sanders",
+     "n": "Tatiana Maslany"
+    },
+    {
+     "c": "Karl Hendricks",
+     "n": "Jake Johnson"
+    },
+    {
+     "c": "Detective Sofia Gonzalez",
+     "n": "Dolly de Leon"
+    },
+    {
+     "c": "Mallory",
+     "n": "Jessy Hodges"
+    },
+    {
+     "c": "Detective Baxter",
+     "n": "Jon Michael Hill"
+    },
+    {
+     "c": "Rudy",
+     "n": "Charlie Hall"
+    },
+    {
+     "c": "Geri",
+     "n": "Kiarra Hamagami Goldberg"
+    },
+    {
+     "c": "Hazel",
+     "n": "Nola Wallace"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [
+    "David Rosen"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-05-19",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 285404,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A newly divorced mom falls down a dangerous rabbit hole of blackmail, murder, and youth soccer.",
+   "popularity": 9.8341,
+   "poster_path": "/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-19",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Cam boys. Blackmail. Divorce. Soccer practice.",
+   "title": "Maximum Pleasure Guaranteed",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.782,
+   "vote_count": 94
+  },
+  "tv:286404": {
+   "backdrop_path": "/kxR0LaIF27D6RiyeSdTx0LHRmGA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Iana Magnolia (voice)",
+     "n": "Yoshino Aoyama"
+    },
+    {
+     "c": "Konoha Magnolia (voice)",
+     "n": "Mao Ichimichi"
+    },
+    {
+     "c": "Sol Nemophyra (voice)",
+     "n": "Shohei Komatsu"
+    },
+    {
+     "c": "Ginoford Dandelion (voice)",
+     "n": "Makoto Furukawa"
+    },
+    {
+     "c": "Yomi Blacksarana (voice)",
+     "n": "Shunichi Toki"
+    },
+    {
+     "c": "Cheneau Clematis (voice)",
+     "n": "Arthur Lounsbery"
+    },
+    {
+     "c": "Mika (voice)",
+     "n": "Atsushi Tamaru"
+    },
+    {
+     "c": "Yamato Hydrangea (voice)",
+     "n": "Tomoaki Maeno"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-09",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 286404,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Konoha Satou’s dark fictional past becomes her reality when she’s reincarnated as Iana Magnolia, the villainess of her own adolescent fantasy. Now as a role she meticulously designed to be despicable, remembering every last detail is now a matter of life and death. Will she be able to rewrite her character’s fate into something peaceful?",
+   "popularity": 4.4762,
+   "poster_path": "/yrAx1DmfnZjTs2NKsljqd60Kg9X.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-03",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-10-09",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Dark History of the Reincarnated Villainess",
+   "trailer": {
+    "key": "x-bzBbBHap8",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 25
+  },
+  "tv:291904": {
+   "backdrop_path": "/xkhniKa1PGj78h3T9xDuV9jG8ZB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gumball Watterson (voice)",
+     "n": "Alkaio Thiele"
+    },
+    {
+     "c": "Darwin Watterson (voice)",
+     "n": "Hero Hunter"
+    },
+    {
+     "c": "Anais Watterson (voice)",
+     "n": "Kinza Khan"
+    },
+    {
+     "c": "Nicole Watterson (voice)",
+     "n": "Teresa Gallagher"
+    },
+    {
+     "c": "Richard Watterson (voice)",
+     "n": "Dan Russell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Cartoon Network",
+   "created_by": [
+    "Ben Bocquelet"
+   ],
+   "director": [],
+   "episode_run_time": [
+    12
+   ],
+   "first_air_date": "2025-10-06",
+   "genres": [
+    "Animation",
+    "Family",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 291904,
+   "industry": "world",
+   "networks": [
+    "Cartoon Network"
+   ],
+   "number_of_episodes": 40,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Welcome back to Elmore, where the laws of reality are a joke, and family life is anything but ordinary. Whether he's battling an evil fast-food empire, facing off against a sentient AI in love with his mom, or trying to stop Banana Joe from wearing pants — Gumball Watterson drags his brother Darwin, sister Anais, and the rest of the town of Elmore along for the ride. With even wilder stories, bigger twists, and surreal humor, the show is so amazing that they had to rename it!",
+   "popularity": 10.7551,
+   "poster_path": "/wG6tRzXB8lTE03i7NaqwO04z5Oy.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Discovery+ Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/52htht83nlt2aAobIug88TeiWvO.png",
+     "name": "Discovery+ Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-06",
+     "episode_count": 20,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2025-12-22",
+     "episode_count": 20,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ay",
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Wonderfully Weird World of Gumball",
+   "trailer": {
+    "key": "KKoY9eIx6Qw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.578,
+   "vote_count": 116
   },
   "tv:46004": {
    "backdrop_path": "/lyam6zw2aNwSM6h6sn0wTLgygj6.jpg",

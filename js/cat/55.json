@@ -1,6 +1,6 @@
 {
  "bucket": "55",
- "count": 25,
+ "count": 34,
  "titles": {
   "movie:1010755": {
    "backdrop_path": "/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
@@ -704,203 +704,6 @@
    "vote_average": 6.4,
    "vote_count": 468
   },
-  "movie:1561955": {
-   "backdrop_path": "/7cQjb8cRbRjF5tM5gOCnqsvC0iT.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Stephen",
-     "n": "Gomathi Shankar"
-    },
-    {
-     "c": "Seema",
-     "n": "Smruthi Venkat"
-    },
-    {
-     "c": "Michael Thangadurai",
-     "n": "Michael Thangadurai"
-    },
-    {
-     "c": "Stephen's Mom",
-     "n": "Vijayashree"
-    },
-    {
-     "c": "Stephen's Dad",
-     "n": "Kuberan"
-    },
-    {
-     "c": "Krithika",
-     "n": "Shrisha"
-    },
-    {
-     "c": "Mary",
-     "n": "Harija"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 16+",
-   "date_kind": "release",
-   "director": [
-    "Mithun"
-   ],
-   "genres": [
-    "Thriller",
-    "Mystery"
-   ],
-   "id": 1561955,
-   "industry": "bollywood",
-   "origin_country": [
-    "IN"
-   ],
-   "original_language": "ta",
-   "overview": "A psychiatrist evaluating a self-confessed serial killer unravels a twisted web of trauma, deceit, and psychological manipulation—only to question if the killer is truly guilty or just another victim in a larger, darker game.",
-   "popularity": 1.8296,
-   "poster_path": "/yUURUJzeSTc47T2VeNw7nZwZ8VJ.jpg",
-   "production_countries": [
-    "IN"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2025-12-05",
-   "revenue": 0,
-   "runtime": 124,
-   "source": "catalogue",
-   "spoken_languages": [
-    "ta"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Stephen",
-   "trailer": null,
-   "type": "movie",
-   "vote_average": 6.6,
-   "vote_count": 25
-  },
-  "movie:1571955": {
-   "backdrop_path": "/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Carla Mencía",
-     "n": "Laia Costa"
-    },
-    {
-     "c": "Pedro",
-     "n": "Karra Elejalde"
-    },
-    {
-     "c": "Ernesto",
-     "n": "Luis Zahera"
-    },
-    {
-     "c": "Tomás",
-     "n": "Tamar Novas"
-    },
-    {
-     "c": "Raúl",
-     "n": "Álvaro Cervantes"
-    },
-    {
-     "c": "Luis",
-     "n": "Lluís Homar"
-    },
-    {
-     "c": "Lola",
-     "n": "Luz Valdenebro"
-    },
-    {
-     "c": "Pablo",
-     "n": "Víctor Duplá"
-    },
-    {
-     "c": "Turrientes",
-     "n": "Jorge Cabrera"
-    },
-    {
-     "c": "Lucía",
-     "n": "Mónica Miranda"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Daniel Sánchez Arévalo"
-   ],
-   "genres": [
-    "Thriller",
-    "Drama",
-    "Crime"
-   ],
-   "id": 1571955,
-   "industry": "world",
-   "origin_country": [
-    "ES"
-   ],
-   "original_language": "es",
-   "overview": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
-   "popularity": 77.3642,
-   "poster_path": "/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
-   "production_countries": [
-    "ES"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-30",
-   "revenue": 0,
-   "runtime": 122,
-   "source": "catalogue",
-   "spoken_languages": [
-    "es",
-    "pt"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Collision Course",
-   "trailer": {
-    "key": "8hVLhaK619k",
-    "name": "Official Trailer [Subtitled]",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 6.348,
-   "vote_count": 102
-  },
   "movie:1659155": {
    "backdrop_path": "/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
    "budget": 0,
@@ -1354,116 +1157,6 @@
    "type": "movie",
    "vote_average": 7.405,
    "vote_count": 37
-  },
-  "movie:1813355": {
-   "backdrop_path": "/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Neekani",
-     "n": "Kiawentiio"
-    },
-    {
-     "c": "Kino",
-     "n": "Isabel DeRoy-Olson"
-    },
-    {
-     "c": "Maneese",
-     "n": "Michael Podemski"
-    },
-    {
-     "c": "Mitig",
-     "n": "Zahn McClarnon"
-    },
-    {
-     "c": "Sesqui",
-     "n": "MorningStar Angeline"
-    },
-    {
-     "c": "Apto",
-     "n": "Brandon Oakes"
-    },
-    {
-     "c": "Miko",
-     "n": "Jennifer Podemski"
-    },
-    {
-     "c": "Priest",
-     "n": "Eric Trask"
-    },
-    {
-     "c": "",
-     "n": "Thosh Collins"
-    },
-    {
-     "c": "Nebowist",
-     "n": "Brenda Odjick"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Tazbah Chavez"
-   ],
-   "genres": [
-    "Drama",
-    "Horror",
-    "Mystery"
-   ],
-   "id": 1813355,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-   "popularity": 281.7544,
-   "poster_path": "/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "JioHotstar"
-    },
-    {
-     "name": "HBO Max Amazon Channel"
-    },
-    {
-     "name": "HBO Max"
-    },
-    {
-     "name": "Now TV Cinema"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-     "name": "JioHotstar",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-31",
-   "revenue": 0,
-   "runtime": 30,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "A Story of Derry",
-   "trailer": null,
-   "type": "movie",
-   "vote_average": 6.698,
-   "vote_count": 116
   },
   "movie:255": {
    "backdrop_path": "/42pH01hfjrpuKvplFjkLQYOlbmO.jpg",
@@ -3065,6 +2758,510 @@
    "vote_average": 7.124,
    "vote_count": 315
   },
+  "tv:235355": {
+   "backdrop_path": "/A4X2JVnABZeZpMAWcI0eBHvLYAl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Oh Yi-young",
+     "n": "Go Youn-jung"
+    },
+    {
+     "c": "Pyo Nam-kyung",
+     "n": "Shin Sia"
+    },
+    {
+     "c": "Um Jae-il",
+     "n": "Kang You-seok"
+    },
+    {
+     "c": "Kim Sa-bi",
+     "n": "Han Ye-ji"
+    },
+    {
+     "c": "Ku Do-won",
+     "n": "Jung Jun-won"
+    },
+    {
+     "c": "Seo Jung-min",
+     "n": "Lee Bong-ryeon"
+    },
+    {
+     "c": "Ki Eun-mi",
+     "n": "Lee Do-hye"
+    },
+    {
+     "c": "Cha Da-hye",
+     "n": "Hong Na-hyeon"
+    },
+    {
+     "c": "",
+     "n": "Ham Eun-jung"
+    },
+    {
+     "c": "",
+     "n": "Cha Seo-won"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "tvN",
+   "created_by": [
+    "Shin Won-ho",
+    "Lee Woo-jung"
+   ],
+   "director": [
+    "Lee Min-soo"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-12",
+   "genres": [
+    "Drama"
+   ],
+   "id": 235355,
+   "industry": "world",
+   "networks": [
+    "tvN"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "First-year OBGYN residents at Yulje Medical Center navigate the chaos of their work and personal lives, all in their quest to become exceptional doctors.",
+   "popularity": 8.2086,
+   "poster_path": "/bB5Tu1Rzq6guKsMhV59aszN9c0a.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-21",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-04-12",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "The doctors of tomorrow and their unpredictable journey.",
+   "title": "Resident Playbook",
+   "trailer": {
+    "key": "NWqm_D9wEhM",
+    "name": "Official Clip [EN SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 71
+  },
+  "tv:258055": {
+   "backdrop_path": "/vtVEwuQ93jfUMB4ooEbdzv2Ktt5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Meg Raspberry (voice)",
+     "n": "Yoshino Aoyama"
+    },
+    {
+     "c": "Faust (voice)",
+     "n": "Yoshiko Sakakibara"
+    },
+    {
+     "c": "Carbuncle (voice)",
+     "n": "Miharu Hanai"
+    },
+    {
+     "c": "White-Owl (voice)",
+     "n": "Aina Suzuki"
+    },
+    {
+     "c": "Fine Cavendish (voice)",
+     "n": "Rumi Okubo"
+    },
+    {
+     "c": "Sophie Hayter (voice)",
+     "n": "Hina Youmiya"
+    },
+    {
+     "c": "Mysterious Girl (voice)",
+     "n": "Atsumi Tanezaki"
+    },
+    {
+     "c": "Inori (voice)",
+     "n": "Shizuka Itoh"
+    },
+    {
+     "c": "Eldora (voice)",
+     "n": "Yoko Hikasa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "AT-X",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-04-01",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 258055,
+   "industry": "world",
+   "networks": [
+    "AT-X"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Meg Raspberry is just an apprentice witch celebrating her 17th birthday. That is, until Faust, her magic teacher and Perennial Witch of the Seven Sages, suddenly reveals she is going to die. To stop the Death Sentence curse, Meg must create the Seed of Life using tears of joy from 1,000 people. Join Meg on her travels as she collects the happy tears from everyone she meets to gain eternal life!",
+   "popularity": 6.3004,
+   "poster_path": "/5Gr2mDFSGHhiEYrNfP6vbYtuNrT.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-01",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Once Upon a Witch's Death",
+   "trailer": {
+    "key": "0lkvDeo6wI8",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.2,
+   "vote_count": 20
+  },
+  "tv:260555": {
+   "backdrop_path": "/b5M1ZUxYT3v5cRVKMpw6tKIYo89.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Do Hyeon-joong",
+     "n": "Lee Jun-young"
+    },
+    {
+     "c": "Lee Mi-ran",
+     "n": "Jung Eun-ji"
+    },
+    {
+     "c": "Rosa",
+     "n": "Lee Mi-do"
+    },
+    {
+     "c": "Lee Ji Ran [Mi Ran's sister]",
+     "n": "Lee Da-eun"
+    },
+    {
+     "c": "Lim Seong-im",
+     "n": "Park Seong-yeon"
+    },
+    {
+     "c": "Alex",
+     "n": "Lee Seung-ryong"
+    },
+    {
+     "c": "Park Dool-hee",
+     "n": "Hong Yun-hwa"
+    },
+    {
+     "c": "Yeom Jun-seok",
+     "n": "Jung Wook-jin"
+    },
+    {
+     "c": "Kim Ye-jin",
+     "n": "Nam Kyu-hee"
+    },
+    {
+     "c": "Kang Dan",
+     "n": "Lee Sang-jin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "KBS2",
+   "created_by": [
+    "Park Jun Su"
+   ],
+   "director": [
+    "Park Jun-soo",
+    "Choi Yeon-su"
+   ],
+   "episode_run_time": [
+    70
+   ],
+   "first_air_date": "2025-04-30",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 260555,
+   "industry": "world",
+   "networks": [
+    "KBS2"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Do Hyeon-joong, a health-obsessed gym manager, helps his members transform their lives while balancing the struggles of self-employment, and forms a passionate connection with Lee Mi-ran, a travel agency manager who loves food.",
+   "popularity": 2.3683,
+   "poster_path": "/rzGKRiBSPVd5RsEhMB0GGWYd654.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-30",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Pump Up the Healthy Love",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 25
+  },
+  "tv:271855": {
+   "backdrop_path": "/1AA5xIVt1PTrbLxCCBxRyvjdpqO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sandokan",
+     "n": "Can Yaman"
+    },
+    {
+     "c": "Lady Marianne Guillonk",
+     "n": "Alanah Bloor"
+    },
+    {
+     "c": "Yanez de Gomera",
+     "n": "Alessandro Preziosi"
+    },
+    {
+     "c": "Lord James Brooke",
+     "n": "Ed Westwick"
+    },
+    {
+     "c": "Sani",
+     "n": "Madeleine Price"
+    },
+    {
+     "c": "Lord Guillonk",
+     "n": "Owen Teale"
+    },
+    {
+     "c": "Sergeant Murray",
+     "n": "John Hannah"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18+",
+   "channel": "Telecinco",
+   "created_by": [
+    "Davide Lantieri",
+    "Scott Rosenbaum",
+    "Alessandro Sermoneta"
+   ],
+   "director": [],
+   "episode_run_time": [
+    50,
+    60
+   ],
+   "first_air_date": "2025-12-01",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "War & Politics"
+   ],
+   "id": 271855,
+   "industry": "world",
+   "networks": [
+    "Telecinco",
+    "Rai 1",
+    "Mediaset Infinity"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "en",
+   "overview": "Sandokan is a Malaysian pirate who, along with his friend Yanez and their crew, attacks the British forces from his island of Mompracem. During his adventures, he falls in love with Lady Marianna Guillonk, an English-Italian aristocrat.",
+   "popularity": 22.5498,
+   "poster_path": "/knEfDIVlJpoYAFQYlbOr78uDIqq.jpg",
+   "production_countries": [
+    "IT",
+    "FR",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-01",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "pt"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Sandokan",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 79
+  },
   "tv:2755": {
    "backdrop_path": "/xYnYBGtDsuduzIznvVKeLnpEtXt.jpg",
    "budget": 0,
@@ -3211,6 +3408,914 @@
    "type": "tv",
    "vote_average": 7.151,
    "vote_count": 209
+  },
+  "tv:281555": {
+   "backdrop_path": "/aQiLb3L29b7qnnHyZ8EqM6hQzp6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "The Priest",
+     "n": "Gustaf Skarsgård"
+    },
+    {
+     "c": "Roope",
+     "n": "Jaakko Ohtonen"
+    },
+    {
+     "c": "Madam Sjödahl",
+     "n": "Pernilla August"
+    },
+    {
+     "c": "Brahe",
+     "n": "Magnus Krepper"
+    },
+    {
+     "c": "Brita Kajsa",
+     "n": "Ane Dahl Torp"
+    },
+    {
+     "c": "Lindmark",
+     "n": "Jonas Karlsson"
+    },
+    {
+     "c": "Lorens",
+     "n": "Gusten Wickberg"
+    },
+    {
+     "c": "Maria",
+     "n": "Tyra Wingren"
+    },
+    {
+     "c": "Matti Aho",
+     "n": "Tobias Zilliacus"
+    },
+    {
+     "c": "Michelsson",
+     "n": "Anton Sehlstedt"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M18",
+   "channel": "Disney+",
+   "created_by": [
+    "Jesper Harrie"
+   ],
+   "director": [
+    "Trygve Allister Diesen"
+   ],
+   "episode_run_time": [
+    49
+   ],
+   "first_air_date": "2025-10-15",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 281555,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "SE"
+   ],
+   "original_language": "sv",
+   "overview": "In Northern Sweden, 1852, a new pastor and his family arrive in Kengis, a village riddled with disorder.",
+   "popularity": 2.7677,
+   "poster_path": "/71dqddtGqtCWLJApvZuznxvIzvj.jpg",
+   "production_countries": [
+    "SE"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-15",
+     "episode_count": 6,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "sv"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "To Cook a Bear",
+   "trailer": {
+    "key": "cHrBrhDezc4",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 31
+  },
+  "tv:286255": {
+   "backdrop_path": "/gPP88D6A4QDnMXESHBZUILG20yQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ann Forsyte",
+     "n": "Francesca Annis"
+    },
+    {
+     "c": "Irene",
+     "n": "Millie Gibson"
+    },
+    {
+     "c": "June Forsyte",
+     "n": "Justine Emma Moore"
+    },
+    {
+     "c": "Joe Byrne",
+     "n": "Dexter Seaton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "channel": "5",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-20",
+   "genres": [
+    "Drama"
+   ],
+   "id": 286255,
+   "industry": "world",
+   "networks": [
+    "5"
+   ],
+   "number_of_episodes": 13,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Chronicles the lives of four generations of an upper-class family of stockbrokers, set against the backdrop of a rapidly evolving late-Victorian world.",
+   "popularity": 8.4548,
+   "poster_path": "/vpLmjeJJMIJfxCSNEDfedIV4Q8.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "PBS"
+    },
+    {
+     "name": "PBS Masterpiece Amazon Channel"
+    },
+    {
+     "name": "Thirteen"
+    },
+    {
+     "name": "WETA+"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/kwKCUFjKjq1GlZeIjImBV62IypB.png",
+     "name": "PBS",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/aZASQOdPFvGnXiJ015OVGVJ9vt7.png",
+     "name": "PBS Masterpiece Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dQKjAyrGlA3HPbDs4hp8RyaXUiK.png",
+     "name": "Thirteen",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/fwzxYZXp5T57T2WaazFhzArAmYd.png",
+     "name": "WETA+",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-20",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-10-22",
+     "episode_count": 6,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "",
+     "episode_count": 1,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Forsytes",
+   "trailer": {
+    "key": "aUP6dAyyGVM",
+    "name": "The Forsytes Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.635,
+   "vote_count": 37
+  },
+  "tv:287355": {
+   "backdrop_path": "/xYtMLZ76qJiVDLWMYr3m4jjM39n.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alison Brooks",
+     "n": "Rose Ayling-Ellis"
+    },
+    {
+     "c": "Liam Barlow",
+     "n": "Kieron Moore"
+    },
+    {
+     "c": "DS Ashleigh Francis",
+     "n": "Charlotte Ritchie"
+    },
+    {
+     "c": "DI James Marsh",
+     "n": "Andrew Buchan"
+    },
+    {
+     "c": "Braden Moore",
+     "n": "Joe Absolom"
+    },
+    {
+     "c": "DC Ben Lawford",
+     "n": "Nathan Armarkwei-Laryea"
+    },
+    {
+     "c": "Eithan Lewis",
+     "n": "Rolf Choutan"
+    },
+    {
+     "c": "Julie Brooks",
+     "n": "Fifi Garfield"
+    },
+    {
+     "c": "Helen Redman",
+     "n": "Beth Goddard"
+    },
+    {
+     "c": "Joseph Holhurst",
+     "n": "Andrew Scarborough"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "channel": "ITV1",
+   "created_by": [
+    "Catherine Moulton"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-18",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 287355,
+   "industry": "world",
+   "networks": [
+    "ITV1"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A deaf catering worker who is struggling to make ends meet is called upon by a police detective superintendent to lip-read the conversations of criminals.",
+   "popularity": 4.0566,
+   "poster_path": "/6IR1HJeu301r01DbYLthuhXZ4j9.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-18",
+     "episode_count": 6,
+     "name": "Series 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Code of Silence",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.67,
+   "vote_count": 47
+  },
+  "tv:288055": {
+   "backdrop_path": "/pBeromoLUKlw7TNjus5glQnJTD9.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Disney+",
+   "created_by": [
+    "Dave Filoni"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-04",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+   ],
+   "id": 288055,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two outlaws must navigate the galaxy's dangerous underworld as they chart their destinies.",
+   "popularity": 6.6314,
+   "poster_path": "/qv1hagzp08cDJF6C04LyJVhcI1x.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-04",
+     "episode_count": 6,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Return to a galaxy outside the law.",
+   "title": "Star Wars: Tales of the Underworld",
+   "trailer": {
+    "key": "GkywNANueew",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.218,
+   "vote_count": 140
+  },
+  "tv:299555": {
+   "backdrop_path": "/q5DjMk4rmZuTWRBkXRpjYKQX9ZQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Denji (voice)",
+     "n": "Kikunosuke Toya"
+    },
+    {
+     "c": "Makima (voice)",
+     "n": "Tomori Kusunoki"
+    },
+    {
+     "c": "Aki Hayakawa (voice)",
+     "n": "Shogo Sakata"
+    },
+    {
+     "c": "Power (voice)",
+     "n": "Fairouz Ai"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ABEMA Anime Channel 2",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-05",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 299555,
+   "industry": "world",
+   "networks": [
+    "ABEMA Anime Channel 2"
+   ],
+   "number_of_episodes": 2,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "The two-part compilation, Part I and Part II, re-edits and condenses the key moments from the first season of the Chainsaw Man anime. This compilation revisits Denji's journey, from his humble beginnings as a debt-ridden devil hunter to his transformation into the Chainsaw Man.\n\nIn addition to the re-edited material, the compilation includes newly animated segments titled Chainsaw Days. These segments adapt bonus chapters from the original manga.",
+   "popularity": 4.0397,
+   "poster_path": "/1ErNyXf0hm9HeQXjHRz1X0hffpe.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-05",
+     "episode_count": 5,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-09-05",
+     "episode_count": 2,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Chainsaw Man - The Compilation",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 9.172,
+   "vote_count": 102
+  },
+  "tv:315755": {
+   "backdrop_path": "/ln16CvrAqvnFJOSDXIxlP3G6TBx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Philip Westh",
+     "n": "Magnus Fjeldsted Bach"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    41
+   ],
+   "first_air_date": "2026-03-05",
+   "genres": [
+    "Documentary",
+    "Crime"
+   ],
+   "id": 315755,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "DK"
+   ],
+   "original_language": "da",
+   "overview": "A Danish town feared a serial criminal for eight years. When caught, Amanda, Nichlas and Kiri discovered the perpetrator was their close friend who'd committed assaults, kidnappings and murder while spending time with them.",
+   "popularity": 1.4938,
+   "poster_path": "/e1iNUL5IY6RDQwzMdkXPKW9e1g1.jpg",
+   "production_countries": [
+    "DK"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-05",
+     "episode_count": 3,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "da"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "A Friend, a Murderer",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.1,
+   "vote_count": 24
+  },
+  "tv:322055": {
+   "backdrop_path": "/feISh3qoREwIPWbSaLqqumbmh7m.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lee Chae-ha",
+     "n": "Park Si-woo"
+    },
+    {
+     "c": "Ju Tae-seon",
+     "n": "Kim Yoon-sik"
+    },
+    {
+     "c": "Tak Seong-woong",
+     "n": "Kim Jung-tae"
+    },
+    {
+     "c": "Song Ha-neul",
+     "n": "Cho Min-gyu"
+    },
+    {
+     "c": "Oh Ja-hyun",
+     "n": "Seo Han-gyeol"
+    },
+    {
+     "c": "Hong Seong-ho",
+     "n": "Kim Nak-kyun"
+    },
+    {
+     "c": "Han Su-jin",
+     "n": "Lee Ga-kyung"
+    },
+    {
+     "c": "Yoon Gyu-ho",
+     "n": "Seol Jun-su"
+    },
+    {
+     "c": "Ju Tae-seon (Young)",
+     "n": "Kim Do-min"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "19",
+   "channel": "wavve",
+   "created_by": [
+    "Hebok"
+   ],
+   "director": [
+    "Yang Kyeong-hui"
+   ],
+   "episode_run_time": [
+    30
+   ],
+   "first_air_date": "2026-06-25",
+   "genres": [
+    "Mystery",
+    "Crime",
+    "Drama"
+   ],
+   "id": 322055,
+   "industry": "world",
+   "networks": [
+    "wavve"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A victim’s son and a killer’s son reunite as a prosecutor and investigator, fighting systemic corruption while becoming each other's salvation.",
+   "popularity": 6.6001,
+   "poster_path": "/lK6DrnFecG0AsA8O5UqEYOrOArd.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-25",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Chasing the same truth with different beliefs.",
+   "title": "The Prosecutor's Proposal",
+   "trailer": {
+    "key": "xapCq6U68Uw",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.912,
+   "vote_count": 34
+  },
+  "tv:325755": {
+   "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Karen van der Made",
+     "n": "Loes Haverkort"
+    },
+    {
+     "c": "Ivo Smit",
+     "n": "Remko Vrijdag"
+    },
+    {
+     "c": "Babette Struyck",
+     "n": "Noortje Herlaar"
+    },
+    {
+     "c": "Evert Struyck",
+     "n": "Edwin Jonker"
+    },
+    {
+     "c": "Hanneke Lemstra",
+     "n": "Rifka Lodeizen"
+    },
+    {
+     "c": "Simon de Jager",
+     "n": "Matthijs van de Sande Bakhuyzen"
+    },
+    {
+     "c": "Patricia de Jager",
+     "n": "Charlie Dagelet"
+    },
+    {
+     "c": "Michel van der Made / Michel Brouwers",
+     "n": "Teun Luijkx"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Dorien Goertzen"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-09-10",
+   "genres": [
+    "Drama"
+   ],
+   "id": 325755,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 7,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "NL"
+   ],
+   "original_language": "nl",
+   "overview": "When one of their own is killed in a house fire, four picture-perfect couples are forced to question everything they thought they knew about each other.",
+   "popularity": 7.5262,
+   "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+   "production_countries": [
+    "NL"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-09-10",
+     "episode_count": 7,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "nl"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Perfect Lie",
+   "trailer": {
+    "key": "FnwySGfFTdc",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.35,
+   "vote_count": 40
   },
   "tv:4455": {
    "backdrop_path": "/hYAFCCbfhYdSdKxnlNqVadzg7dk.jpg",

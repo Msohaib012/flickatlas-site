@@ -1,6 +1,6 @@
 {
  "bucket": "78",
- "count": 20,
+ "count": 28,
  "titles": {
   "movie:114478": {
    "backdrop_path": "/sFfD1TvTUzmzWFpSm7GnYrKcWJH.jpg",
@@ -439,122 +439,6 @@
    "type": "movie",
    "vote_average": 7.364,
    "vote_count": 165
-  },
-  "movie:1381078": {
-   "backdrop_path": "/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Maya",
-     "n": "Margaret Qualley"
-    },
-    {
-     "c": "Charlie",
-     "n": "Gabriel Basso"
-    },
-    {
-     "c": "Felix",
-     "n": "Aaron Pierre"
-    },
-    {
-     "c": "Jason",
-     "n": "Patrick Schwarzenegger"
-    },
-    {
-     "c": "Ruth",
-     "n": "Catherine Keener"
-    },
-    {
-     "c": "Kali",
-     "n": "Tamara Lawrance"
-    },
-    {
-     "c": "Kerry",
-     "n": "Corey Johnson"
-    },
-    {
-     "c": "Colin",
-     "n": "Michael Shelford"
-    },
-    {
-     "c": "Matt",
-     "n": "Adam Woodward"
-    },
-    {
-     "c": "Armenian Family Member",
-     "n": "Gayané Kaligian"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Rachel Morrison"
-   ],
-   "genres": [
-    "Romance",
-    "Drama"
-   ],
-   "id": 1381078,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
-   "popularity": 27.1787,
-   "poster_path": "/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "Amazon Prime Video"
-    },
-    {
-     "name": "Amazon Prime Video with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-     "name": "Amazon Prime Video",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-     "name": "Amazon Prime Video with Ads",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-07",
-   "revenue": 0,
-   "runtime": 109,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en",
-    "pt",
-    "es",
-    "fr"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Love of Your Life",
-   "trailer": {
-    "key": "HzGx48E64Xg",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 6.684,
-   "vote_count": 226
   },
   "movie:1401778": {
    "backdrop_path": "/vOV4Qy3g791OTzEndiSGoJwuI2M.jpg",
@@ -1534,6 +1418,1027 @@
    "type": "tv",
    "vote_average": 7.582,
    "vote_count": 423
+  },
+  "tv:198178": {
+   "backdrop_path": "/ldz9THIHaV4orMsUrPT1nlQF51T.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Simon Williams",
+     "n": "Yahya Abdul-Mateen II"
+    },
+    {
+     "c": "Agent Cleary",
+     "n": "Arian Moayed"
+    },
+    {
+     "c": "Janelle Jackson",
+     "n": "X Mayo"
+    },
+    {
+     "c": "Trevor Slattery",
+     "n": "Ben Kingsley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Disney+",
+   "created_by": [
+    "Andrew Guest",
+    "Destin Daniel Cretton"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-27",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 198178,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Simon and Trevor, two actors at opposite ends of their careers, chase life-changing roles.",
+   "popularity": 10.8978,
+   "poster_path": "/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-26",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "He was born to play this role, but the spotlight reveals everything.",
+   "title": "Wonder Man",
+   "trailer": {
+    "key": "wHuWmjXsReU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.089,
+   "vote_count": 403
+  },
+  "tv:211178": {
+   "backdrop_path": "/m8BuLCx997QVljT0wdss62QaRre.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eliza Van Lew",
+     "n": "Mary-Louise Parker"
+    },
+    {
+     "c": "Elizabeth Van Lew",
+     "n": "Daisy Head"
+    },
+    {
+     "c": "Mary Jane Richards",
+     "n": "Amethyst Davis"
+    },
+    {
+     "c": "Isham Worthy",
+     "n": "Ben Vereen"
+    },
+    {
+     "c": "Stokely Reeves",
+     "n": "Paul Anderson"
+    },
+    {
+     "c": "Thomas McNiven",
+     "n": "Christopher McDonald"
+    },
+    {
+     "c": "Clara Parish",
+     "n": "Hannah James"
+    },
+    {
+     "c": "Jericho Bowser",
+     "n": "Ian Duff"
+    },
+    {
+     "c": "Bully Lumpkin",
+     "n": "Robert Knepper"
+    },
+    {
+     "c": "Talulah",
+     "n": "Catherine Garton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "19",
+   "channel": "Prime Video",
+   "created_by": [
+    "Roland Joffé",
+    "Darrell Fetty",
+    "Leslie Greif",
+    "John Sayles"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-02-26",
+   "genres": [
+    "Drama",
+    "War & Politics",
+    "Action & Adventure"
+   ],
+   "id": 211178,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The untold true story of four brave women who served as key espionage agents and turned the tide of the American Civil War in favor of the North, risking life and liberty to help win the war and preserve democracy. A Richmond Socialite and her daughter, a formerly enslaved African-American, and a courtesan build the first successful female spy ring.",
+   "popularity": 4.6745,
+   "poster_path": "/wE5jZDeQuiulaAtjeaEq0y8tpey.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-26",
+     "episode_count": 8,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Gray House",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 4.4,
+   "vote_count": 20
+  },
+  "tv:262878": {
+   "backdrop_path": "/c8bp3lqchYLY7Y14uBXRmCPukUo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cecilie",
+     "n": "Marie Bach Hansen"
+    },
+    {
+     "c": "Angel",
+     "n": "Excel Busano"
+    },
+    {
+     "c": "Katarina",
+     "n": "Danica Ćurčić"
+    },
+    {
+     "c": "Aicha",
+     "n": "Sara Fanta Traore"
+    },
+    {
+     "c": "Mike",
+     "n": "Simon Sears"
+    },
+    {
+     "c": "Rasmus",
+     "n": "Lars Ranthe"
+    },
+    {
+     "c": "Viggo",
+     "n": "Lukas Zuperka"
+    },
+    {
+     "c": "Oscar",
+     "n": "Frode Emil Bilde Rønsholt"
+    },
+    {
+     "c": "Ruby",
+     "n": "Donna Levkovski"
+    },
+    {
+     "c": "Kim",
+     "n": "Gel Andersen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M18",
+   "channel": "Netflix",
+   "created_by": [
+    "Ingeborg Topsøe"
+   ],
+   "director": [
+    "Per Fly"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-15",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 262878,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "DK"
+   ],
+   "original_language": "da",
+   "overview": "When a neighbor's au pair vanishes from her wealthy suburb, Cecilie seeks answers — and unravels secrets that shatter her seemingly perfect world.",
+   "popularity": 4.7632,
+   "poster_path": "/f4Rg6k74gDWsjLOpOvSQU9WUodx.jpg",
+   "production_countries": [
+    "DK"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-15",
+     "episode_count": 6,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "da",
+    "tl",
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Secrets We Keep",
+   "trailer": {
+    "key": "kKGq8MIJNj4",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.637,
+   "vote_count": 135
+  },
+  "tv:278178": {
+   "backdrop_path": "/yOna5ZGXrvWO2HdOCKcahx2sCDN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "David Burroughs",
+     "n": "Sam Worthington"
+    },
+    {
+     "c": "Rachel Mills",
+     "n": "Britt Lower"
+    },
+    {
+     "c": "Max Williams",
+     "n": "Chi McBride"
+    },
+    {
+     "c": "Sarah Greer",
+     "n": "Logan Browning"
+    },
+    {
+     "c": "Cheryl Dreason",
+     "n": "Erin Richards"
+    },
+    {
+     "c": "Adam Mackenzie",
+     "n": "Jonathan Tucker"
+    },
+    {
+     "c": "Hayden Payne",
+     "n": "Milo Ventimiglia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Robert Hull"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-06-18",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 278178,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Wrongfully imprisoned for murdering his own son, a father sets out on a desperate rescue mission after learning the boy may still be alive.",
+   "popularity": 21.7102,
+   "poster_path": "/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-18",
+     "episode_count": 8,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Find the boy. Find the truth.",
+   "title": "I Will Find You",
+   "trailer": {
+    "key": "mObRUsA7dPY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 569
+  },
+  "tv:280078": {
+   "backdrop_path": "/qWT1hKlqF5rivsDqDxuV0jyGbyD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "流锋芒 / 樊凌霄 (voice)",
+     "n": "Shujun Lv"
+    },
+    {
+     "c": "谷灵 (voice)",
+     "n": "Ge Zirui"
+    },
+    {
+     "c": "段烨 (voice)",
+     "n": "Zhang Pei"
+    },
+    {
+     "c": "月彤 (voice)",
+     "n": "王小豫"
+    },
+    {
+     "c": "程曦 (voice)",
+     "n": "Zhimao"
+    },
+    {
+     "c": "白涟素 (voice)",
+     "n": "Chong Chong"
+    },
+    {
+     "c": "白檀殊 (voice)",
+     "n": "苏翼"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "bilibili",
+   "created_by": [
+    "Mo"
+   ],
+   "director": [
+    "Ziliang Lao"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-01",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Comedy"
+   ],
+   "id": 280078,
+   "industry": "world",
+   "networks": [
+    "bilibili"
+   ],
+   "number_of_episodes": 13,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "Fan Lingxiao, a spiritual pet master with exceptional talents, was plotted against during the Level-A sect promotion competition and was devoured by Kun, his own spiritual pet. When he opened his eyes again, he found himself reincarnated into a young man named “Liu Fengmang” and was imprisoned in the White Mansion’s dungeon. Meanwhile, his own sect, Lingxiao Pavilion, was in a perilous state. To uncover the truth of being devoured by Kun and revitalize his sect, Fan Lingxiao, accompanied by his existing spiritual pets, embarked on a brand-new adventure journey with Gu Ling, Cheng Xi, and Yue Tong.",
+   "popularity": 5.9467,
+   "poster_path": "/kJD5I0pvRCNhMvLTfI1rZHciCEf.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-11",
+     "episode_count": 11,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-05-01",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The All-Devouring Whale: Homecoming",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.226,
+   "vote_count": 53
+  },
+  "tv:285278": {
+   "backdrop_path": "/ilTl0g138RAgM1TEeCaPKl1FxSh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maeng Se-na",
+     "n": "Sooyoung Choi"
+    },
+    {
+     "c": "Do Ra-ik",
+     "n": "Kim Jae-young"
+    },
+    {
+     "c": "Hong Hye-joo",
+     "n": "Choi Hee-jin"
+    },
+    {
+     "c": "Park Chung-jae",
+     "n": "Kim Hyun-jin"
+    },
+    {
+     "c": "Gwak Byeong-gyun",
+     "n": "Jeong Jae-kwang"
+    },
+    {
+     "c": "Choi Jae-hee",
+     "n": "Park Jeong-woo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "ENA",
+   "created_by": [
+    "Kwan-Young Lee",
+    "Kim Da-rim"
+   ],
+   "director": [
+    "Lee Gwang-young"
+   ],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2025-12-22",
+   "genres": [
+    "Mystery",
+    "Drama",
+    "Crime",
+    "Comedy"
+   ],
+   "id": 285278,
+   "industry": "world",
+   "networks": [
+    "ENA"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Maeng Se-na, a top star criminal lawyer who has been a fangirl for fifteen years, tries to prove her favorite idol’s innocence, who is suspected of murder.",
+   "popularity": 4.4802,
+   "poster_path": "/ii3CB9QwIEwClqt7MgRoe188BbO.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Channel K Amazon Channel"
+    },
+    {
+     "name": "Rakuten Viki"
+    },
+    {
+     "name": "OnDemandKorea"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Kocowa Amazon Channel"
+    },
+    {
+     "name": "Kocowa"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/5kfv4d43mQ3cLxUnu2GuHVongrC.png",
+     "name": "Channel K Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-22",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Idol I",
+   "trailer": {
+    "key": "AEDsXd_1Z7c",
+    "name": "Idol I (2025) Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.797,
+   "vote_count": 32
+  },
+  "tv:287978": {
+   "backdrop_path": "/caabnbe4QJ5ZvJipH4cssFkbzwc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eddy",
+     "n": "Alexandre Kominek"
+    },
+    {
+     "c": "Lucie",
+     "n": "Laurence Arné"
+    },
+    {
+     "c": "Tiphaine",
+     "n": "Leslie Medina"
+    },
+    {
+     "c": "Viviane",
+     "n": "Joséphine de Meaux"
+    },
+    {
+     "c": "Pablo",
+     "n": "Yannik Landrein"
+    },
+    {
+     "c": "Nora",
+     "n": "Sabrina Ouazani"
+    },
+    {
+     "c": "Bérangère",
+     "n": "Bérangère McNeese"
+    },
+    {
+     "c": "Gilbert",
+     "n": "Gustave Kervern"
+    },
+    {
+     "c": "Fabien",
+     "n": "Fred Testot"
+    },
+    {
+     "c": "Florian",
+     "n": "Jean-Claude Muaka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Netflix",
+   "created_by": [
+    "François Uzan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-23",
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 287978,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Eddy, a math genius and small-time crook, avoids jail-time by going undercover as a teacher. His mission: to identify the kid of a major criminal.",
+   "popularity": 4.3479,
+   "poster_path": "/ieFwnQWpI1XYIiYMTFMYNH3ny09.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-23",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Flunked",
+   "trailer": {
+    "key": "rYu_r5SeX8Q",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.756,
+   "vote_count": 45
+  },
+  "tv:295778": {
+   "backdrop_path": "/qkxgja3V0eSjQYX8oLKidRVJ2Md.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "John 'J.D.' Dorian",
+     "n": "Zach Braff"
+    },
+    {
+     "c": "Christopher Turk",
+     "n": "Donald Faison"
+    },
+    {
+     "c": "Elliot Reid",
+     "n": "Sarah Chalke"
+    },
+    {
+     "c": "Dr. Sam Tosh",
+     "n": "Ava Bunn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ABC",
+   "created_by": [
+    "Bill Lawrence"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-02-25",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 295778,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 20,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
+   "popularity": 28.8515,
+   "poster_path": "/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-25",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-09-30",
+     "episode_count": 11,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "Co-operation.",
+   "title": "Scrubs",
+   "trailer": {
+    "key": "YY4__ZDJCnA",
+    "name": "Scrubs | Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 127
+  },
+  "tv:299778": {
+   "backdrop_path": "/toXYTAj4hcTS94UJKJEdwZyiGZi.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-11-08",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 299778,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Six studios and seven directors adapt the early works of Tatsuki Fujimoto, the mastermind behind \"Chainsaw Man,\" into an anime anthology. Each episode is an anime adaptation of a short story he drew from ages seventeen to twenty-six, including the first manga he ever submitted for competition. Watch as vivid tales of young love, chaos, madness, and the bonds between people unfold in each episode.",
+   "popularity": 10.1165,
+   "poster_path": "/rVBxMx1IrBdxbxbBuOWK8kiurMB.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-08",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "Eight captivating short stories crafted by Tatsuki Fujimoto during his teenage and early adult years, between the ages of 17 and 26.",
+   "title": "Tatsuki Fujimoto 17-26",
+   "trailer": {
+    "key": "NRxLpXAqWiw",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.8,
+   "vote_count": 116
   },
   "tv:37678": {
    "backdrop_path": "/x8pSFa3BXyVpkjHyn7YxmLyhjoh.jpg",

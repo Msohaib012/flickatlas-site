@@ -1,117 +1,7 @@
 {
  "bucket": "57",
- "count": 32,
+ "count": 37,
  "titles": {
-  "movie:1007757": {
-   "backdrop_path": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
-   "budget": 7,
-   "cast": [
-    {
-     "c": "Ollie (voice)",
-     "n": "Michael B. Jordan"
-    },
-    {
-     "c": "Ivy (voice)",
-     "n": "Juno Temple"
-    },
-    {
-     "c": "Boogle / Firewolf (voice)",
-     "n": "Tracy Morgan"
-    },
-    {
-     "c": "Caloo (voice)",
-     "n": "Cedric the Entertainer"
-    },
-    {
-     "c": "Calli (voice)",
-     "n": "Justina Machado"
-    },
-    {
-     "c": "Lodd (voice)",
-     "n": "Nate Torrence"
-    },
-    {
-     "c": "Young Ollie (voice)",
-     "n": "Camden Brooks"
-    },
-    {
-     "c": "Grandma / Mrs. Dung Beetle (voice)",
-     "n": "Táta Vega"
-    },
-    {
-     "c": "Violet (voice)",
-     "n": "Ambika Mod"
-    },
-    {
-     "c": "Lily (voice)",
-     "n": "Lolly Adefope"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 7+",
-   "date_kind": "release",
-   "director": [
-    "Nathan Greno"
-   ],
-   "genres": [
-    "Adventure",
-    "Animation",
-    "Family",
-    "Fantasy"
-   ],
-   "id": 1007757,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
-   "popularity": 26.7452,
-   "poster_path": "/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
-   "production_countries": [
-    "US",
-    "ES"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-05-01",
-   "revenue": 7,
-   "runtime": 102,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "Transform your destiny.",
-   "title": "Swapped",
-   "trailer": {
-    "key": "glgmAwRDP8s",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 8.833,
-   "vote_count": 2300
-  },
   "movie:11157": {
    "backdrop_path": "/vHRxxSB9oiZvRyBlLAs3KZkM6T.jpg",
    "budget": 20000000,
@@ -2863,6 +2753,457 @@
    "vote_average": 7.634,
    "vote_count": 534
   },
+  "tv:218557": {
+   "backdrop_path": "/ebaW4MeaKlWYSABcPlA5zFHGtKb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Enzo Tortora",
+     "n": "Fabrizio Gifuni"
+    },
+    {
+     "c": "Giovanni Pandico",
+     "n": "Lino Musella"
+    },
+    {
+     "c": "Francesca Scopelliti",
+     "n": "Romana Maggiora Vergano"
+    },
+    {
+     "c": "Anna Tortora",
+     "n": "Barbora Bobuľová"
+    },
+    {
+     "c": "Giorgio Fontana",
+     "n": "Alessandro Preziosi"
+    },
+    {
+     "c": "Diego Marmo",
+     "n": "Fausto Russo Alesi"
+    },
+    {
+     "c": "Silvia Tortora",
+     "n": "Carlotta Gamba"
+    },
+    {
+     "c": "Pasquale Barra",
+     "n": "Massimiliano Rossi"
+    },
+    {
+     "c": "Raffaele Cutolo",
+     "n": "Gianfranco Gallo"
+    },
+    {
+     "c": "Prof. Dall'Ora",
+     "n": "Paolo Pierobon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "HBO Max",
+   "created_by": [
+    "Marco Bellocchio"
+   ],
+   "director": [],
+   "episode_run_time": [
+    70
+   ],
+   "first_air_date": "2026-02-20",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 218557,
+   "industry": "world",
+   "networks": [
+    "HBO Max"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "IT",
+    "FR"
+   ],
+   "original_language": "it",
+   "overview": "In the early '80s, Enzo Tortora is one of the most beloved figures on Italian television. But in the midst of Italy's war against organized crime, Enzo's life is upended when he's falsely connected to the notorious Camorra criminal ring.",
+   "popularity": 2.9235,
+   "poster_path": "/4A49Sw7HfwPC9EqIZAehtitGJqZ.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-20",
+     "episode_count": 6,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Ended",
+   "tagline": "Guilty until proven innocent",
+   "title": "Portobello",
+   "trailer": {
+    "key": "elyhbtZjeWM",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.739,
+   "vote_count": 44
+  },
+  "tv:295357": {
+   "backdrop_path": "/mVH9xKyA0ETdejTrCLKQI0mGJay.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kenshiro (voice)",
+     "n": "Shunsuke Takeuchi"
+    },
+    {
+     "c": "Bat (voice)",
+     "n": "Daiki Yamashita"
+    },
+    {
+     "c": "Rin (voice)",
+     "n": "Mao Ichimichi"
+    },
+    {
+     "c": "Jagi (voice)",
+     "n": "Wataru Takagi"
+    },
+    {
+     "c": "Toki (voice)",
+     "n": "Tsuguo Mogami"
+    },
+    {
+     "c": "Raoh (voice)",
+     "n": "Taiten Kusunoki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-11",
+   "genres": [
+    "Action & Adventure",
+    "Animation"
+   ],
+   "id": 295357,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX",
+    "BS11"
+   ],
+   "number_of_episodes": 14,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In the year 199X, the world was engulfed in nuclear fire!! Yet...humanity somehow survived!! A lone man with seven scars on his chest emerges. His name is Kenshiro, heir to Hokuto Shinken. In a world where only the strong survive, Kenshiro forges a path with his iron fists!",
+   "popularity": 7.8627,
+   "poster_path": "/fVJfKk7MkRlw90FWeLdduOeTxcp.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-11",
+     "episode_count": 14,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Fist of the North Star: HOKUTO NO KEN",
+   "trailer": {
+    "key": "nxgSFfKTGBo",
+    "name": "PV第1弾｜1st trailer! [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.219,
+   "vote_count": 32
+  },
+  "tv:297557": {
+   "backdrop_path": "/tR8AoRgTCLS0y0iI1Eou8vZylfq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Spica Virgo (voice)",
+     "n": "Kaede Hondo"
+    },
+    {
+     "c": "Claude Sirius (voice)",
+     "n": "Nobunaga Shimazaki"
+    },
+    {
+     "c": "Aria Aquarius (voice)",
+     "n": "Fuka Izumi"
+    },
+    {
+     "c": "Hana Sasorijo (voice)",
+     "n": "Miho Wataya"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-04-12",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 297557,
+   "industry": "world",
+   "networks": [
+    "TBS",
+    "CBC"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Spica Virgo dreams of joining a magical academy, but there’s one problem: She can’t use magic! With no mentor or connections, her chances seem slim—until a mysterious talking black cat appears. A powerful mage cursed into feline form, he agrees to teach her in exchange for help breaking the spell. As their secret pact begins, Spica steps into a world of magic, mystery, and unexpected surprises.",
+   "popularity": 9.9568,
+   "poster_path": "/e850NPQg3a4ZJDWE2EmxmjGa6Ab.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-12",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Classroom of a Black Cat and a Witch",
+   "trailer": {
+    "key": "97lYICAGNmE",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 21
+  },
+  "tv:305357": {
+   "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Deborah Wayne",
+     "n": "Maleah Joi Moon"
+    },
+    {
+     "c": "Rashida",
+     "n": "Alijah Kai"
+    },
+    {
+     "c": "Shaquille",
+     "n": "Cornell Young IV"
+    },
+    {
+     "c": "Amir",
+     "n": "Jordan Aaron Hall"
+    },
+    {
+     "c": "Hazel",
+     "n": "Kennedi Reece"
+    },
+    {
+     "c": "Kojo",
+     "n": "Chibuikem Uche"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Netflix",
+   "created_by": [
+    "Felicia Pride"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-09-24",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 305357,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Deborah Wayne enters her freshman year at her parents' HBCU alma mater and finds their shadow difficult to escape. She sets out to build her own legacy – while having the time of her life – alongside a whole new generation of Hillman’s best and brightest.",
+   "popularity": 8.9347,
+   "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-09-24",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "The new class just enrolled.",
+   "title": "A Different World",
+   "trailer": {
+    "key": "W8jMEXwErvk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 25
+  },
   "tv:30957": {
    "backdrop_path": "/mSkisNewxu55Ivar5EubhcIuoqn.jpg",
    "budget": 0,
@@ -3261,6 +3602,276 @@
    "type": "tv",
    "vote_average": 6.9,
    "vote_count": 171
+  },
+  "tv:312557": {
+   "backdrop_path": "/4LbceO1PH5nTAPd3E9aoqKnkOh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Salvo",
+     "n": "Ciro Minopoli"
+    },
+    {
+     "c": "",
+     "n": "Nicole Malaj"
+    },
+    {
+     "c": "Benny",
+     "n": "Gaia Garavaglia"
+    },
+    {
+     "c": "",
+     "n": "Michele Rosiello"
+    },
+    {
+     "c": "",
+     "n": "Cristiana Capotondi"
+    },
+    {
+     "c": "",
+     "n": "Irene Maiorino"
+    },
+    {
+     "c": "",
+     "n": "Massimiliano Gallo"
+    },
+    {
+     "c": "",
+     "n": "Giulio Brizzi"
+    },
+    {
+     "c": "Vincenzo",
+     "n": "Biagio Venditti"
+    },
+    {
+     "c": "Padre Vincenzo",
+     "n": "Andrea Giannini"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    46,
+    48,
+    56
+   ],
+   "first_air_date": "2026-09-22",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 312557,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "At Minerva Military High School, teens navigate discipline, rivalry and family pressure as a young cadet searches for answers about his missing friend.",
+   "popularity": 9.6263,
+   "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-09-22",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Minerva Academy",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.544,
+   "vote_count": 34
+  },
+  "tv:332657": {
+   "backdrop_path": "/Agx8RmlBBDJrlH9MyUOd5JYYZPS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Coach Lowe",
+     "n": "Rico Ball"
+    },
+    {
+     "c": "Lt. Jeff Gibson",
+     "n": "Clark Moore"
+    },
+    {
+     "c": "Detective Finley",
+     "n": "Cuyle Carvin"
+    },
+    {
+     "c": "Mason James",
+     "n": "Christopher Livingstone"
+    },
+    {
+     "c": "Paul",
+     "n": "Josef Cannon"
+    },
+    {
+     "c": "Thugger",
+     "n": "Bibby Bankz"
+    },
+    {
+     "c": "Ms. Douglas",
+     "n": "Mia Hunt"
+    },
+    {
+     "c": "Tory Martin",
+     "n": "Nicky Buggs"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "Paramount+",
+   "created_by": [
+    "Mark E. Swinton"
+   ],
+   "director": [
+    "Mark E. Swinton",
+    "Tyler Perry"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-09-16",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 332657,
+   "industry": "world",
+   "networks": [
+    "Paramount+"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Citizens combat urban violence until a bus driver and student's murders by thugs spark outrage, leading authorities to hunt the culprits captured on video.",
+   "popularity": 3.6792,
+   "poster_path": "/yfP9A3IaKE00U1ap1y7wAoZRzeC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-09-16",
+     "episode_count": 4,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Route 187",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.786,
+   "vote_count": 21
   },
   "tv:4057": {
    "backdrop_path": "/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",

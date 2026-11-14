@@ -1,6 +1,6 @@
 {
  "bucket": "24",
- "count": 18,
+ "count": 29,
  "titles": {
   "movie:10424": {
    "backdrop_path": "/dAWlWircXrlnMjsVZSyb7vgMlIo.jpg",
@@ -107,137 +107,6 @@
    "type": "movie",
    "vote_average": 6.081,
    "vote_count": 437
-  },
-  "movie:1058424": {
-   "backdrop_path": "/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
-   "budget": 46000000,
-   "cast": [
-    {
-     "c": "Go Bum-seok",
-     "n": "Hwang Jung-min"
-    },
-    {
-     "c": "Go Sung-ki",
-     "n": "Zo In-sung"
-    },
-    {
-     "c": "Lim Sung-ae",
-     "n": "Hoyeon"
-    },
-    {
-     "c": "J'aur",
-     "n": "Alicia Vikander"
-    },
-    {
-     "c": "Ma'veyyo",
-     "n": "Michael Fassbender"
-    },
-    {
-     "c": "Ai'dovor",
-     "n": "Taylor Russell"
-    },
-    {
-     "c": "Va'migere",
-     "n": "Cameron Britton"
-    },
-    {
-     "c": "Nak-yeon",
-     "n": "Lee Sang-hee"
-    },
-    {
-     "c": "Yang-bae",
-     "n": "Um Mun-suk"
-    },
-    {
-     "c": "Hae-sul",
-     "n": "Im Hyun-sik"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "A",
-   "date_kind": "release",
-   "director": [
-    "Na Hong-jin"
-   ],
-   "genres": [
-    "Science Fiction",
-    "Mystery",
-    "Action"
-   ],
-   "id": 1058424,
-   "industry": "world",
-   "origin_country": [
-    "KR"
-   ],
-   "original_language": "ko",
-   "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-   "popularity": 297.9163,
-   "poster_path": "/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-   "production_countries": [
-    "KR"
-   ],
-   "providers": [],
-   "providers_wtw": [
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "US"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "US"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
-     "name": "Fandango At Home",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
-     "name": "Fandango At Home",
-     "region": "US"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-23",
-   "revenue": 49456866,
-   "runtime": 157,
-   "source": "catalogue",
-   "spoken_languages": [
-    "ko"
-   ],
-   "status": "Released",
-   "tagline": "Is this how it ends?",
-   "title": "Hope",
-   "trailer": {
-    "key": "OFaJzL83y0Q",
-    "name": "Official English Trailer [Dubbed]",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 6.756,
-   "vote_count": 631
   },
   "movie:10824": {
    "backdrop_path": "/tMZ2iT1bu4zWNVzeQ8SZ040VQfG.jpg",
@@ -1826,6 +1695,126 @@
    "vote_average": 7.6,
    "vote_count": 2957
   },
+  "tv:211224": {
+   "backdrop_path": "/dNkHc3JWBJmCIADYIxYt07eTnvi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Park Seok-cheol",
+     "n": "Lee Dong-wook"
+    },
+    {
+     "c": "Kang Mi-yeong",
+     "n": "Lee Sung-kyung"
+    },
+    {
+     "c": "Park Seok-hee",
+     "n": "Ryu Hye-young"
+    },
+    {
+     "c": "Park Seok-kyung",
+     "n": "Oh Na-ra"
+    },
+    {
+     "c": "",
+     "n": "Park Hoon"
+    },
+    {
+     "c": "",
+     "n": "Cheon Ho-jin"
+    },
+    {
+     "c": "",
+     "n": "Park Myung-shin"
+    },
+    {
+     "c": "",
+     "n": "Park Won-sang"
+    },
+    {
+     "c": "",
+     "n": "Han Jae-yeong"
+    },
+    {
+     "c": "Yun Byeong Su [Detective]",
+     "n": "Kim Do-yoon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "JTBC",
+   "created_by": [
+    "Kim Woon-kyeong",
+    "Hyo-seok Kim"
+   ],
+   "director": [],
+   "episode_run_time": [
+    70
+   ],
+   "first_air_date": "2025-07-18",
+   "genres": [
+    "Drama",
+    "Family"
+   ],
+   "id": 211224,
+   "industry": "world",
+   "networks": [
+    "JTBC"
+   ],
+   "number_of_episodes": 14,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Seok-cheol, the eldest son in a family of three generations of gangsters, navigates the tumultuous ups and downs of life with tears and laughter, all to protect his family, career, and love.",
+   "popularity": 4.5627,
+   "poster_path": "/mVOKlZ6Ix5OfXHsyuaQp4nEDE6n.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-18",
+     "episode_count": 14,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "I met you when I had no dreams or hopes",
+   "title": "The Nice Guy",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.5,
+   "vote_count": 20
+  },
   "tv:2224": {
    "backdrop_path": "/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
    "budget": 0,
@@ -2151,6 +2140,1301 @@
    "type": "tv",
    "vote_average": 6.426,
    "vote_count": 677
+  },
+  "tv:243224": {
+   "backdrop_path": "/tOpyQG9MAnFN4YiDgyk5NnCGa7X.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Han Li",
+     "n": "Yang Yang"
+    },
+    {
+     "c": "Nangong Wan",
+     "n": "Jin Chen"
+    },
+    {
+     "c": "Wang Chan",
+     "n": "Wang Duo"
+    },
+    {
+     "c": "Chen Qiaoqian",
+     "n": "Zhao Xiaotang"
+    },
+    {
+     "c": "Mo Caihuan",
+     "n": "Zhao Qing"
+    },
+    {
+     "c": "Dong Xuan’er",
+     "n": "Jin Jiayue"
+    },
+    {
+     "c": "Xin Ruyin",
+     "n": "Rong Zixi"
+    },
+    {
+     "c": "Xiao Cui’er",
+     "n": "Zhang Waner"
+    },
+    {
+     "c": "Zhang Tie",
+     "n": "Hu Yuxuan"
+    },
+    {
+     "c": "Liu Jing",
+     "n": "Zhang Xiang"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "Youku",
+   "created_by": [
+    "Ding Lingtao"
+   ],
+   "director": [
+    "Yang Yang"
+   ],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2025-07-27",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 243224,
+   "industry": "world",
+   "networks": [
+    "Youku"
+   ],
+   "number_of_episodes": 30,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "Han Li, an ordinary, poor boy from a mountain village, joins a small martial arts sect by chance. Despite his mediocre talent, he eventually cultivates himself into an immortal through hard work and careful planning.",
+   "popularity": 9.8769,
+   "poster_path": "/ai85JTmuWhxHSdTsVeTqewGBAa3.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-27",
+     "episode_count": 30,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Immortal Ascension",
+   "trailer": {
+    "key": "g8D8WmI11m4",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.676,
+   "vote_count": 37
+  },
+  "tv:256624": {
+   "backdrop_path": "/8M0rS9KsWACnua82zmlVOjUGKXD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Guy Anatole",
+     "n": "Nicholas Denton"
+    },
+    {
+     "c": "Doris",
+     "n": "Céline Buckens"
+    },
+    {
+     "c": "Olive Marie Farington",
+     "n": "Maisie Richardson-Sellers"
+    },
+    {
+     "c": "Jasper",
+     "n": "William Fichtner"
+    },
+    {
+     "c": "Helen",
+     "n": "Elizabeth McGovern"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "AMC",
+   "created_by": [
+    "John Lee Hancock"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-19",
+   "genres": [
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 256624,
+   "industry": "world",
+   "networks": [
+    "AMC"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Guy Anatole joins the clandestine world of the Talamasca, an international spy agency for the immortal universe, as he searches for answers to his family's own part in the supernatural world.",
+   "popularity": 6.3987,
+   "poster_path": "/qmmHl3EiFKuDLTVYHGwlV9UhtNw.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-19",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "We're watching.",
+   "title": "Talamasca: The Secret Order",
+   "trailer": {
+    "key": "_ARTcQh2P8o",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.742,
+   "vote_count": 120
+  },
+  "tv:256924": {
+   "backdrop_path": "/fAajTNXueNHK60gC2nGsNW4dBoz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Presenter (voice)",
+     "n": "Bertie Carvel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TP",
+   "channel": "BBC One",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    50
+   ],
+   "first_air_date": "2025-05-25",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 256924,
+   "industry": "world",
+   "networks": [
+    "BBC One"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Each episode tells the dramatic story of an individual dinosaur whose remains are currently being unearthed by world-leading dinosaur hunters. As the dinosaurs' bones emerge from the ground, their prehistoric stories are brought to life with state-of-the-art visual effects - making each episode a gripping dinosaur drama based on the very latest evidence.",
+   "popularity": 3.3049,
+   "poster_path": "/9Z2t1iExz3fw54JPA9j3CyQp6Pv.jpg",
+   "production_countries": [
+    "GB",
+    "FR",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "BBC Select Apple Tv channel"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/wrSjTgv3jPOTCCYYYGS7XFzS5DH.png",
+     "name": "BBC Select Apple Tv channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-08",
+     "episode_count": 13,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-05-25",
+     "episode_count": 6,
+     "name": "Series 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Walking with Dinosaurs",
+   "trailer": {
+    "key": "VAVp_1-Aqc8",
+    "name": "Walking With Dinosaurs Official Trailer (2025) | BBC Earth",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.1,
+   "vote_count": 31
+  },
+  "tv:275224": {
+   "backdrop_path": "/a5BYpkrmhSdHiGrW5IU30PgKAmR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Roberto Gutiérrez",
+     "n": "Darío Barassi"
+    },
+    {
+     "c": "Tte. Rubén Torcoletti",
+     "n": "Yayo Guridi"
+    },
+    {
+     "c": "Sgto. Valeria Ventura",
+     "n": "Juliana Savioli"
+    },
+    {
+     "c": "Comisario Capote",
+     "n": "Abián Vainstein"
+    },
+    {
+     "c": "Ernesto Gutiérrez",
+     "n": "Mario Alarcón"
+    },
+    {
+     "c": "Soledad Zotto",
+     "n": "Paula Ransenberg"
+    },
+    {
+     "c": "Matilda",
+     "n": "Anahí Martella"
+    },
+    {
+     "c": "Boris",
+     "n": "Marcos Woinsky"
+    },
+    {
+     "c": "Chakal 1",
+     "n": "Víctor López"
+    },
+    {
+     "c": "Chakal 2",
+     "n": "Robi Surra"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Disney+",
+   "created_by": [],
+   "director": [
+    "Jesús Braceras"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-08-26",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 275224,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "AR"
+   ],
+   "original_language": "es",
+   "overview": "Deputy Commissioner Gutierrez competes with the CIA to solve the murder of the Russian Ambassador with his unique style.",
+   "popularity": 2.7474,
+   "poster_path": "/7zT7FbS0mwJdjKoPPX7xOhySlNN.jpg",
+   "production_countries": [
+    "AR"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-08-26",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "es",
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "My Name Is Gutierrez",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 9.378,
+   "vote_count": 45
+  },
+  "tv:278624": {
+   "backdrop_path": "/mKrhRPB7rMvy0bIU1l1NYhgh1eI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Luciana 'Lucky' Armstrong",
+     "n": "Anya Taylor-Joy"
+    },
+    {
+     "c": "Priscilla Masterson",
+     "n": "Annette Bening"
+    },
+    {
+     "c": "Harris Dutch",
+     "n": "Clifton Collins Jr."
+    },
+    {
+     "c": "Agent Billie Rand",
+     "n": "Aunjanue Ellis-Taylor"
+    },
+    {
+     "c": "John Armstrong",
+     "n": "Timothy Olyphant"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [
+    "Jonathan Tropper"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-14",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 278624,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 7,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+   "popularity": 15.7717,
+   "poster_path": "/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-14",
+     "episode_count": 7,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Wish her luck.",
+   "title": "Lucky",
+   "trailer": {
+    "key": "GAbT5qCTXR8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.329,
+   "vote_count": 319
+  },
+  "tv:289324": {
+   "backdrop_path": "/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lah Kara (voice)",
+     "n": "Chinatsu Akasaki"
+    },
+    {
+     "c": "Ethan (voice)",
+     "n": "Hiromu Mineta"
+    },
+    {
+     "c": "Lah Zhima (voice)",
+     "n": "Shin-ichiro Miki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Hulu",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-08-05",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 289324,
+   "industry": "world",
+   "networks": [
+    "Hulu",
+    "Disney+"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP",
+    "US"
+   ],
+   "original_language": "ja",
+   "overview": "Kara and her ragtag Jedi crew seek out to find worthy Jedi to fight against an increasingly powerful warlord.",
+   "popularity": 8.7995,
+   "poster_path": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-08-05",
+     "episode_count": 8,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "Trust in the Force.",
+   "title": "Star Wars: Visions Presents - The Ninth Jedi",
+   "trailer": {
+    "key": "Hsc2ZAn9vLA",
+    "name": "English Dub Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 43
+  },
+  "tv:289424": {
+   "backdrop_path": "/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hwang Dong-man",
+     "n": "Koo Kyo-hwan"
+    },
+    {
+     "c": "Byeon Eun-a",
+     "n": "Go Youn-jung"
+    },
+    {
+     "c": "Park Kyeong-se",
+     "n": "Oh Jung-se"
+    },
+    {
+     "c": "Ko Hye-jin",
+     "n": "Kang Mal-geum"
+    },
+    {
+     "c": "Hwang Jin-man",
+     "n": "Park Hae-joon"
+    },
+    {
+     "c": "Oh Jeong-hee",
+     "n": "Bae Jong-ok"
+    },
+    {
+     "c": "Jang Mi-ran",
+     "n": "Han Seon-hwa"
+    },
+    {
+     "c": "Choi Dong-hyeon",
+     "n": "Choi Won-young"
+    },
+    {
+     "c": "Park Yeong-soo",
+     "n": "Jeon Bae-soo"
+    },
+    {
+     "c": "Lee Jun-hwan",
+     "n": "Sim Hee-seop"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "JTBC",
+   "created_by": [
+    "Park Hae-young",
+    "Cha Yeong-hun"
+   ],
+   "director": [
+    "Cha Yeong-hun"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-18",
+   "genres": [
+    "Drama"
+   ],
+   "id": 289424,
+   "industry": "world",
+   "networks": [
+    "JTBC"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "An aspiring director hits rock bottom after 20 years chasing his debut — until he meets an overwhelmed producer who helps him rediscover his self-worth.",
+   "popularity": 8.1136,
+   "poster_path": "/nfCOKDJHo3yOtiPP37LBcelrYs2.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-18",
+     "episode_count": 12,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Everyone is pretending to be okay… but no one really is.",
+   "title": "We Are All Trying Here",
+   "trailer": {
+    "key": "2W9wOtwEWE8",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.5,
+   "vote_count": 73
+  },
+  "tv:297424": {
+   "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sun Tae-hyung",
+     "n": "Bae In-hyuk"
+    },
+    {
+     "c": "Woo Hyeon-jin",
+     "n": "Roh Jeong-eui"
+    },
+    {
+     "c": "Park Yun-seong",
+     "n": "Park Seo-ham"
+    },
+    {
+     "c": "Jo Mu-saeng",
+     "n": "Ku Sung-hwan"
+    },
+    {
+     "c": "Baek Se-yeon",
+     "n": "Choi Gyu-ri"
+    },
+    {
+     "c": "Kim Hee-jun",
+     "n": "Oh Hyun-joong"
+    },
+    {
+     "c": "Sun Woo-Joo",
+     "n": "Park Yoo-ho"
+    },
+    {
+     "c": "Kim So-hee",
+     "n": "Cheon Yi-seul"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "tvN",
+   "created_by": [
+    "Jung Yeo Jin",
+    "Lee Hyeon Seok"
+   ],
+   "director": [
+    "Lee Hyun-suk"
+   ],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2026-02-04",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 297424,
+   "industry": "world",
+   "networks": [
+    "tvN"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
+   "popularity": 4.6242,
+   "poster_path": "/d0ZW2r5L8Ma50gvkvSY7BZSE6fb.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-04",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "We met not by chance, but by the universe.",
+   "title": "Our Universe",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 84
+  },
+  "tv:303724": {
+   "backdrop_path": "/2yZZ41uw1xe4wDtMwZ8EVWSeUgK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "'Vicky' Phawika Ratchanon",
+     "n": "Natsiya Prommart"
+    },
+    {
+     "c": "'Than' Thara Krahan",
+     "n": "Pattarawadee Laosa"
+    },
+    {
+     "c": "Bawornthat",
+     "n": "Boy Surat Rungputtikul"
+    },
+    {
+     "c": "Pete",
+     "n": "Thanut Jiraratchakit"
+    },
+    {
+     "c": "Phakphum",
+     "n": "Trin Settachoke"
+    },
+    {
+     "c": "Burin",
+     "n": "Athiwad Sanidwong Na Ayoodthayaa"
+    },
+    {
+     "c": "X",
+     "n": "Phatthara Cheaujamporn"
+    },
+    {
+     "c": "Ken",
+     "n": "Paythai Ploymeeka"
+    },
+    {
+     "c": "Thara's Father",
+     "n": "Weerachai Hattakovit"
+    },
+    {
+     "c": "Thara's Mother",
+     "n": "Khwanruedi Klomklom"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "MONOMAX",
+   "created_by": [],
+   "director": [
+    "Suttasit Dechintaranarak"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-02-12",
+   "genres": [
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 303724,
+   "industry": "world",
+   "networks": [
+    "MONOMAX"
+   ],
+   "number_of_episodes": 7,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "After the attempted attack on a senior police officer, the Special Crime Suppression Unit launches a training camp to identify elite female officers. Among them is Captain Thara, a well-known officer who grows close to Vicky, unaware that Vicky is the daughter of the senior officer linked to her father’s death 19 years ago.",
+   "popularity": 2.1453,
+   "poster_path": "/ZQF0aHaxScOWRfAHzSWXTnyoVv.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-12",
+     "episode_count": 7,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Ended",
+   "tagline": "Love that should not be Loved...",
+   "title": "Heart Code",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 9.107,
+   "vote_count": 28
+  },
+  "tv:307624": {
+   "backdrop_path": "/16pflahAoYrX0fEYR44qab9OX65.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "He Chusan",
+     "n": "He Changxi"
+    },
+    {
+     "c": "Xia Liuyi",
+     "n": "He Yanzhao"
+    },
+    {
+     "c": "Lu Guangming",
+     "n": "Zhang Mingbo"
+    },
+    {
+     "c": "Xie Jiahua",
+     "n": "Matthew Han"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R 18+",
+   "channel": "GagaOOLala",
+   "created_by": [],
+   "director": [
+    "An You"
+   ],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2026-03-13",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Action & Adventure"
+   ],
+   "id": 307624,
+   "industry": "world",
+   "networks": [
+    "GagaOOLala"
+   ],
+   "number_of_episodes": 9,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN",
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
+   "popularity": 3.7346,
+   "poster_path": "/87poJu88dlaReAe67HD6TUec1Cr.jpg",
+   "production_countries": [
+    "CN",
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-13",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn"
+   ],
+   "status": "Ended",
+   "tagline": "If there's no way out, I'll fight my way out with you.",
+   "title": "Sammy's Children's Day",
+   "trailer": {
+    "key": "yU5X6gKqKiY",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.87,
+   "vote_count": 23
+  },
+  "tv:310024": {
+   "backdrop_path": "/5T4ij5RgI7y5UHNgI2scH8BU5J9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lee Woo-gyeom",
+     "n": "Ryeoun"
+    },
+    {
+     "c": "Park Han-jun",
+     "n": "Sung Dong-il"
+    },
+    {
+     "c": "Cha Yi-yeon",
+     "n": "Keum Sae-rok"
+    },
+    {
+     "c": "Jo Woo-cheol",
+     "n": "Shin Seung-hwan"
+    },
+    {
+     "c": "Kim Jae-hee",
+     "n": "Lee Na-ra"
+    },
+    {
+     "c": "Park Min-seo",
+     "n": "Yoon Chae-na"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Disney+",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    50
+   ],
+   "first_air_date": "2026-02-04",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 310024,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A former medical school dropout claiming to be able to cure terminal illnesses is sentenced to death for the murder of 17 people. Is he a monstrous killer, or a savior holding the cure for humanity?",
+   "popularity": 5.0458,
+   "poster_path": "/bDoAdJLEAiCRj8B0QRAz2wt2xfv.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Channel K Amazon Channel"
+    },
+    {
+     "name": "Kocowa Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5kfv4d43mQ3cLxUnu2GuHVongrC.png",
+     "name": "Channel K Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-04",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Hope is on death row.",
+   "title": "Bloody Flower",
+   "trailer": {
+    "key": "Kn97CaTWPzc",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.25,
+   "vote_count": 22
   },
   "tv:31724": {
    "backdrop_path": "/5hS2OIuZSKGkR8R5l3bY5zh04Ce.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "90",
- "count": 25,
+ "count": 28,
  "titles": {
   "movie:10390": {
    "backdrop_path": "/jYg7oXQUB3yW6WHYVXn5ltXfcpa.jpg",
@@ -357,127 +357,6 @@
    "type": "movie",
    "vote_average": 6.758,
    "vote_count": 473
-  },
-  "movie:1168190": {
-   "backdrop_path": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
-   "budget": 78500000,
-   "cast": [
-    {
-     "c": "James Hale",
-     "n": "Dave Bautista"
-    },
-    {
-     "c": "Jonny Hale",
-     "n": "Jason Momoa"
-    },
-    {
-     "c": "Governor Peter Mahoe",
-     "n": "Temuera Morrison"
-    },
-    {
-     "c": "Valentina",
-     "n": "Morena Baccarin"
-    },
-    {
-     "c": "Leila Hale",
-     "n": "Roimata Fox"
-    },
-    {
-     "c": "Haunani Palakiko",
-     "n": "Frankie Adams"
-    },
-    {
-     "c": "Marcus Robichaux",
-     "n": "Claes Bang"
-    },
-    {
-     "c": "Pika",
-     "n": "Jacob Batalon"
-    },
-    {
-     "c": "Lani",
-     "n": "Maia Kealoha"
-    },
-    {
-     "c": "Detective Rennert",
-     "n": "Stephen Root"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Ángel Manuel Soto"
-   ],
-   "genres": [
-    "Action",
-    "Comedy",
-    "Crime",
-    "Mystery"
-   ],
-   "id": 1168190,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
-   "popularity": 17.0207,
-   "poster_path": "/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
-   "production_countries": [
-    "US",
-    "CA"
-   ],
-   "providers": [
-    {
-     "name": "Amazon Prime Video"
-    },
-    {
-     "name": "Amazon Prime Video with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-     "name": "Amazon Prime Video",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-     "name": "Amazon Prime Video with Ads",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-01-28",
-   "revenue": 89000000,
-   "runtime": 125,
-   "source": "catalogue",
-   "spoken_languages": [
-    "zh",
-    "en",
-    "fr",
-    "ja",
-    "pt",
-    "es"
-   ],
-   "status": "Released",
-   "tagline": "They fight like brothers. They wreck like legends.",
-   "title": "The Wrecking Crew",
-   "trailer": {
-    "key": "v8R0xDczERo",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.076,
-   "vote_count": 1355
   },
   "movie:1254590": {
    "backdrop_path": "/iF0gpj1HFRCi7VcWnJTg90ApYBW.jpg",
@@ -2131,6 +2010,245 @@
    "vote_average": 6.106,
    "vote_count": 458
   },
+  "tv:156390": {
+   "backdrop_path": "/vapoYt08nte9AnFPSGADNau8C6I.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "George Washington 'Wash' Black",
+     "n": "Ernest Kingsley Junior"
+    },
+    {
+     "c": "Medwin Harris",
+     "n": "Sterling K. Brown"
+    },
+    {
+     "c": "Tanna Goff",
+     "n": "Iola Evans"
+    },
+    {
+     "c": "William 'Billy' McGee",
+     "n": "Edward Bluemel"
+    },
+    {
+     "c": "Miss Angie",
+     "n": "Sharon Duncan-Brewster"
+    },
+    {
+     "c": "Young George Washington 'Wash' Black",
+     "n": "Eddie Karanja"
+    },
+    {
+     "c": "Christopher 'Titch' Wilde",
+     "n": "Tom Ellis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Hulu",
+   "created_by": [
+    "Selwyn Seyfu Hinds"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-23",
+   "genres": [
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 156390,
+   "industry": "world",
+   "networks": [
+    "Hulu"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "11-year-old George Washington \"Wash\" Black embarks on a globe-trotting journey of identity after fleeing a Barbados sugar plantation aboard a flying machine in the company of his master’s eccentric inventor brother.",
+   "popularity": 3.7651,
+   "poster_path": "/oJfZI4pXQQBQutHT15y0evJNGZv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-23",
+     "episode_count": 8,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Journey beyond  your wildest dreams.",
+   "title": "Washington Black",
+   "trailer": {
+    "key": "0ImlSbn43MU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.0,
+   "vote_count": 57
+  },
+  "tv:196890": {
+   "backdrop_path": "/2c3PCbxVgWen5HrYsaukUmfu4J9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "KaʻIana",
+     "n": "Jason Momoa"
+    },
+    {
+     "c": "Kaʻahumanu",
+     "n": "Luciane Buchanan"
+    },
+    {
+     "c": "Kūpuohi",
+     "n": "Te Ao o Hinepehinga"
+    },
+    {
+     "c": "Keoua",
+     "n": "Cliff Curtis"
+    },
+    {
+     "c": "King Kamehameha",
+     "n": "Kaina Makua"
+    },
+    {
+     "c": "Moku",
+     "n": "Moses Goods"
+    },
+    {
+     "c": "Nāhi",
+     "n": "Siua Ikaleʻo"
+    },
+    {
+     "c": "Prince Kūpule",
+     "n": "Brandon Finn"
+    },
+    {
+     "c": "Heke",
+     "n": "Mainei Kinimaka"
+    },
+    {
+     "c": "Nāmake",
+     "n": "Te Kohe Tuhaka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [
+    "Thomas Pa'a Sibbett",
+    "Jason Momoa"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-31",
+   "genres": [
+    "Drama"
+   ],
+   "id": 196890,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 9,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "With Hawaii's four kingdoms divided by war, the ferocious warrior Kaʻiana embarks on an epic mission to unite his people—as an existential threat approaches their shores.",
+   "popularity": 8.7295,
+   "poster_path": "/8Mckh3qJRTzXTQNZtpb133RHmO4.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-31",
+     "episode_count": 9,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Divided islands. War on the horizon.",
+   "title": "Chief of War",
+   "trailer": {
+    "key": "owdGcwufWK8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.376,
+   "vote_count": 279
+  },
   "tv:2190": {
    "backdrop_path": "/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
    "budget": 0,
@@ -2836,6 +2954,411 @@
    "vote_average": 8.2,
    "vote_count": 1736
   },
+  "tv:258190": {
+   "backdrop_path": "/yufA0LfNVYYFApA07cgs3V45yJK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "John",
+     "n": "Andrew Lincoln"
+    },
+    {
+     "c": "Tommy",
+     "n": "Ewen Bremner"
+    },
+    {
+     "c": "Rebecca",
+     "n": "Eve Myles"
+    },
+    {
+     "c": "Fiona",
+     "n": "Indira Varma"
+    },
+    {
+     "c": "Cameron",
+     "n": "Samuel Bottomley"
+    },
+    {
+     "c": "Catriona",
+     "n": "Lois Chimimba"
+    },
+    {
+     "c": "Violet",
+     "n": "Amara Atwal"
+    },
+    {
+     "c": "Harry",
+     "n": "Dhilan Miller"
+    },
+    {
+     "c": "Harry",
+     "n": "Rohan Miller"
+    },
+    {
+     "c": "Malky",
+     "n": "Sanjeev Kohli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "ITV1",
+   "created_by": [
+    "David Ireland"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-14",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 258190,
+   "industry": "world",
+   "networks": [
+    "ITV1"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A man in the midst of a mid-life crisis moves his family to a remote Scottish village, only to find himself entangled in a dangerous friendship with a sinister neighbour.",
+   "popularity": 3.1357,
+   "poster_path": "/oguBhjxw7hwwCyq2G4ujFRy6kbX.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "ITVX"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-14",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Look out for your neighbours.",
+   "title": "Coldwater",
+   "trailer": {
+    "key": "dD34hEV7meI",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.8,
+   "vote_count": 24
+  },
+  "tv:276390": {
+   "backdrop_path": "/ah4aO09mZF2B3H5SQkBgFBR7t73.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Leonel Carranza Quintana",
+     "n": "Fernando Colunga"
+    },
+    {
+     "c": "Alba Palacios Salvatierra",
+     "n": "Livia Brito Pestana"
+    },
+    {
+     "c": "Sebastián Peñaloza Galván",
+     "n": "Daniel Elbittar"
+    },
+    {
+     "c": "Atocha Carranza Quintana",
+     "n": "Ana Belena"
+    },
+    {
+     "c": "Covadonga de los Reyes",
+     "n": "Blanca Guerra"
+    },
+    {
+     "c": "Amapola Talavera",
+     "n": "Catherine Siachoque"
+    },
+    {
+     "c": "Leticia Galván",
+     "n": "Julieta Egurrola"
+    },
+    {
+     "c": "Jovita",
+     "n": "Patricia Reyes Spíndola"
+    },
+    {
+     "c": "Prudencia Morales",
+     "n": "María Rojo"
+    },
+    {
+     "c": "Doroteo Talavera",
+     "n": "Salvador Sánchez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "Las Estrellas",
+   "created_by": [
+    "Juan Osorio Ortiz"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-07",
+   "genres": [
+    "Soap",
+    "Drama",
+    "Comedy",
+    "Action & Adventure"
+   ],
+   "id": 276390,
+   "industry": "world",
+   "networks": [
+    "Las Estrellas"
+   ],
+   "number_of_episodes": 80,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "The telenovela revolves around Leonel Carranza (Fernando Colunga), a man who lives in Villa Escarlata and owns the Montoro estate. His routine changes completely when his wife and best friend disappear together, leaving him so angry and disillusioned that he thinks they're dead, which could have serious consequences for him in the future.",
+   "popularity": 7.2581,
+   "poster_path": "/lSPRgElD3bCqqgR8upkz3trilkI.jpg",
+   "production_countries": [],
+   "providers": [
+    {
+     "name": "ViX Premium Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+     "name": "ViX Premium Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-07",
+     "episode_count": 80,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Amanecer",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 24
+  },
+  "tv:288590": {
+   "backdrop_path": "/esmoeVNjHb4SAXRQJpkSoPX4nFB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cecil Glo Alphasta (voice)",
+     "n": "Yusuke Kobayashi"
+    },
+    {
+     "c": "Bertia Ibil Noches (voice)",
+     "n": "Miyu Tomita"
+    },
+    {
+     "c": "Heronia Inderon (voice)",
+     "n": "Yume Miyamoto"
+    },
+    {
+     "c": "Shawn Turquoin Alphasta (voice)",
+     "n": "Ayumu Murase"
+    },
+    {
+     "c": "Joanna Curtswarren (voice)",
+     "n": "Ayaka Ohashi"
+    },
+    {
+     "c": "Nelt Krum (voice)",
+     "n": "Shun Horie"
+    },
+    {
+     "c": "Silica Lunea (voice)",
+     "n": "Iori Saeki"
+    },
+    {
+     "c": "Charles Raonel (voice)",
+     "n": "Yusuke Shirai"
+    },
+    {
+     "c": "Anne Kogares (voice)",
+     "n": "Aya Uchida"
+    },
+    {
+     "c": "Vald Norgins (voice)",
+     "n": "Hidenori Takahashi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-04-06",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 288590,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Bertia is reincarnated into her favorite otome game—not as the heroine, but as the villainess engaged to the perfect Crown Prince Cecil! Fully aware that her role is to sabotage his future romance, she’s determined to bloom as a wicked flower and wither away according to the story. But no matter how hard she tries to scheme, her “evil” plans only make her more endearing!",
+   "popularity": 6.2311,
+   "poster_path": "/xlpYhXiyX52t6Dtg1fFN0CqLbK4.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-06",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+   "trailer": {
+    "key": "r6RkeRy4B4c",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 28
+  },
   "tv:35790": {
    "backdrop_path": "/w6a3S1E5p3UfFcP3jkieXlAY5mz.jpg",
    "budget": 0,
@@ -3209,198 +3732,6 @@
    "type": "tv",
    "vote_average": 7.108,
    "vote_count": 300
-  },
-  "tv:45790": {
-   "backdrop_path": "/l2gc2dPRUPe3bAfYCRTjc6uAMmB.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Johnny Joestar (voice)",
-     "n": "Shogo Sakata"
-    },
-    {
-     "c": "Gyro Zeppeli (voice)",
-     "n": "Yohei Azakami"
-    },
-    {
-     "c": "Diego Brando (voice)",
-     "n": "Kaito Ishikawa"
-    },
-    {
-     "c": "Steven Steel (voice)",
-     "n": "Kenta Miyake"
-    },
-    {
-     "c": "Funny Valentine (voice)",
-     "n": "Tomokazu Sugita"
-    },
-    {
-     "c": "Lucy Steel (voice)",
-     "n": "Rie Takahashi"
-    },
-    {
-     "c": "Mountain Tim (voice)",
-     "n": "Tomoaki Maeno"
-    },
-    {
-     "c": "Sand Man (voice)",
-     "n": "Masaaki Mizunaka"
-    },
-    {
-     "c": "Pocoloco (voice)",
-     "n": "Kenichirou Matsuda"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "A",
-   "channel": "Netflix",
-   "created_by": [],
-   "director": [],
-   "episode_run_time": [
-    24
-   ],
-   "first_air_date": "2012-10-06",
-   "genres": [
-    "Animation",
-    "Action & Adventure",
-    "Sci-Fi & Fantasy"
-   ],
-   "id": 45790,
-   "industry": "world",
-   "networks": [
-    "Netflix",
-    "TOKYO MX",
-    "BS11"
-   ],
-   "number_of_episodes": 202,
-   "number_of_seasons": 6,
-   "origin_country": [
-    "JP"
-   ],
-   "original_language": "ja",
-   "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
-   "popularity": 85.1428,
-   "poster_path": "/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
-   "production_countries": [
-    "JP"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Crunchyroll"
-    },
-    {
-     "name": "Sony Liv"
-    },
-    {
-     "name": "Crunchyroll Amazon Channel"
-    },
-    {
-     "name": "Amazon Prime Video"
-    },
-    {
-     "name": "Hulu"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    },
-    {
-     "name": "Amazon Prime Video with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
-     "name": "Crunchyroll",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
-     "name": "Sony Liv",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
-     "name": "Crunchyroll Amazon Channel",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "revenue": 0,
-   "seasons": [
-    {
-     "air_date": "2017-09-20",
-     "episode_count": 7,
-     "name": "Specials",
-     "season_number": 0
-    },
-    {
-     "air_date": "2012-10-06",
-     "episode_count": 26,
-     "name": "Phantom Blood & Battle Tendency",
-     "season_number": 1
-    },
-    {
-     "air_date": "2014-04-05",
-     "episode_count": 48,
-     "name": "Stardust Crusaders",
-     "season_number": 2
-    },
-    {
-     "air_date": "2016-04-02",
-     "episode_count": 39,
-     "name": "Diamond Is Unbreakable",
-     "season_number": 3
-    },
-    {
-     "air_date": "2018-10-06",
-     "episode_count": 39,
-     "name": "Golden Wind",
-     "season_number": 4
-    },
-    {
-     "air_date": "2022-01-08",
-     "episode_count": 38,
-     "name": "STONE OCEAN",
-     "season_number": 5
-    },
-    {
-     "air_date": "2026-03-19",
-     "episode_count": 12,
-     "name": "STEEL BALL RUN",
-     "season_number": 6
-    }
-   ],
-   "source": "catalogue",
-   "spoken_languages": [
-    "ja"
-   ],
-   "status": "Returning Series",
-   "tagline": "",
-   "title": "JoJo's Bizarre Adventure",
-   "trailer": {
-    "key": "fOvrr5izejw",
-    "name": "Official English Short Trailer",
-    "site": "YouTube"
-   },
-   "type": "tv",
-   "vote_average": 8.557,
-   "vote_count": 1710
   },
   "tv:71790": {
    "backdrop_path": "/7j4ug9B6JXVeh5HhQjjPScrdj4Z.jpg",

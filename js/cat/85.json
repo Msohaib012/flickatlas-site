@@ -1,6 +1,6 @@
 {
  "bucket": "85",
- "count": 26,
+ "count": 34,
  "titles": {
   "movie:12185": {
    "backdrop_path": "/yucBYHGAMaTu2HsxM2k9JWRxSlj.jpg",
@@ -2351,29 +2351,17 @@
    "vote_average": 8.227,
    "vote_count": 1695
   },
-  "tv:225385": {
-   "backdrop_path": "/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
+  "tv:235685": {
+   "backdrop_path": "/eebiQ5JEaZeVyyxZK1kS9wCoBpb.jpg",
    "budget": 0,
    "cast": [
     {
-     "c": "Helen Webb",
-     "n": "Keira Knightley"
+     "c": "Merlin",
+     "n": "Tom Sharp"
     },
     {
-     "c": "Sam Young",
-     "n": "Ben Whishaw"
-    },
-    {
-     "c": "Mrs. Reed",
-     "n": "Sarah Lancashire"
-    },
-    {
-     "c": "Wallace",
-     "n": "Andrew Buchan"
-    },
-    {
-     "c": "Williams",
-     "n": "Ella Lily Hyland"
+     "c": "Charis",
+     "n": "Rose Reid"
     }
    ],
    "catalogue": true,
@@ -2381,35 +2369,294 @@
    "categories": [
     "catalogue"
    ],
-   "certification": "A",
-   "channel": "Netflix",
+   "certification": "TV-14",
+   "channel": "DailyWire+",
    "created_by": [
-    "Joe Barton"
+    "Jeremy Boreing"
    ],
    "director": [],
    "episode_run_time": [],
-   "first_air_date": "2024-12-05",
+   "first_air_date": "2026-01-22",
    "genres": [
+    "Sci-Fi & Fantasy",
     "Action & Adventure",
-    "Mystery",
+    "Drama"
+   ],
+   "id": 235685,
+   "industry": "world",
+   "networks": [
+    "DailyWire+"
+   ],
+   "number_of_episodes": 7,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Merlin, the immortal son of the bard Taliesin and Atlantean Princess Charis, is followed through his tragic upbringing, descent into madness, and shocking disappearance, leading to the legend that surrounds him. Set before King Arthur's birth, Merlin, assumed dead or a myth, reemerges in sub-Roman Britain to unite the fractured kingdoms under threat from Saxon invaders.",
+   "popularity": 14.9954,
+   "poster_path": "/wXfTsO7pqAqo94f0AHaas9rjBNh.jpg",
+   "production_countries": [
+    "HU",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2023-10-12",
+     "episode_count": 25,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2026-01-22",
+     "episode_count": 7,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Pendragon Cycle: Rise of the Merlin",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.809,
+   "vote_count": 97
+  },
+  "tv:239385": {
+   "backdrop_path": "/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Park Tae-jung",
+     "n": "Ji Chang-wook"
+    },
+    {
+     "c": "Ahn Yo-han",
+     "n": "Doh Kyung-soo"
+    },
+    {
+     "c": "Baek Do-kyeong",
+     "n": "Lee Kwang-soo"
+    },
+    {
+     "c": "Noh Eun-bi",
+     "n": "Jo Yoon-soo"
+    },
+    {
+     "c": "Jeong Su",
+     "n": "Jung Heon"
+    },
+    {
+     "c": "Noh Yong-sik",
+     "n": "Kim Jong-soo"
+    },
+    {
+     "c": "Yeo Deok-su",
+     "n": "Yang Dong-geun"
+    },
+    {
+     "c": "Sports Car Driver",
+     "n": "Lee Jong-hyun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Disney+",
+   "created_by": [
+    "Oh Sang-ho"
+   ],
+   "director": [],
+   "episode_run_time": [
+    50
+   ],
+   "first_air_date": "2025-11-05",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 239385,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Taejoong's life is torn apart when he's framed for a heinous crime and imprisoned. Discovering it was all orchestrated by someone on the outside, he embarks on a rage-fueled quest for revenge.",
+   "popularity": 8.1938,
+   "poster_path": "/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-05",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Manipulated",
+   "trailer": {
+    "key": "cXPDFkuLfhs",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.413,
+   "vote_count": 155
+  },
+  "tv:246485": {
+   "backdrop_path": "/rmIQiFYnTDttJMehqkw2GEaO18Y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Arcangela Baladro",
+     "n": "Arcelia Ramírez"
+    },
+    {
+     "c": "Serafina Baladro",
+     "n": "Paulina Gaitán"
+    },
+    {
+     "c": "Captain Bedoya",
+     "n": "Joaquín Cosío"
+    },
+    {
+     "c": "La Calavera",
+     "n": "Mauricio Isaac"
+    },
+    {
+     "c": "Simón Corona",
+     "n": "Alfonso Herrera"
+    },
+    {
+     "c": "Eulalia Baladro",
+     "n": "Leticia Huijara"
+    },
+    {
+     "c": "Teófilo Pinto",
+     "n": "Carlos Aragón"
+    },
+    {
+     "c": "Aurora",
+     "n": "Sonia Couoh"
+    },
+    {
+     "c": "Blanca",
+     "n": "Yessica Borroto Perryman"
+    },
+    {
+     "c": "María del Carmen",
+     "n": "Sofía Espinosa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "19",
+   "channel": "Netflix",
+   "created_by": [
+    "Luis Estrada"
+   ],
+   "director": [],
+   "episode_run_time": [
+    70
+   ],
+   "first_air_date": "2025-09-10",
+   "genres": [
+    "Drama",
     "Crime"
    ],
-   "id": 225385,
+   "id": 246485,
    "industry": "world",
    "networks": [
     "Netflix"
    ],
-   "number_of_episodes": 12,
-   "number_of_seasons": 2,
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
    "origin_country": [
-    "GB"
+    "MX"
    ],
-   "original_language": "en",
-   "overview": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
-   "popularity": 78.4116,
-   "poster_path": "/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
+   "original_language": "es",
+   "overview": "The story of the Baladro sisters, known as “Las Poquianchis”, who built a brothel empire and became merciless killers in 1960s Mexico.",
+   "popularity": 3.926,
+   "poster_path": "/29VlRRFkGiFJFRZJBrYGPF2Ypz9.jpg",
    "production_countries": [
-    "GB"
+    "MX"
    ],
    "providers": [
     {
@@ -2431,33 +2678,175 @@
    "revenue": 0,
    "seasons": [
     {
-     "air_date": "2024-12-05",
+     "air_date": "2025-09-10",
+     "episode_count": 6,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Dead Girls",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.388,
+   "vote_count": 94
+  },
+  "tv:256585": {
+   "backdrop_path": "/dpzEk18UsxCB8ZeHOlg6D3oAtff.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jess",
+     "n": "Diane Kruger"
+    },
+    {
+     "c": "Liz",
+     "n": "Jo Joyner"
+    },
+    {
+     "c": "Charlotte",
+     "n": "Shelley Conn"
+    },
+    {
+     "c": "Mel",
+     "n": "Emily Taaffe"
+    },
+    {
+     "c": "Frankie",
+     "n": "Jax James"
+    },
+    {
+     "c": "Andrew",
+     "n": "Patrick Baladi"
+    },
+    {
+     "c": "Rob",
+     "n": "Stephen Campbell Moore"
+    },
+    {
+     "c": "Ed",
+     "n": "JJ Feild"
+    },
+    {
+     "c": "DC Rustin",
+     "n": "Robert Gilbert"
+    },
+    {
+     "c": "Nick",
+     "n": "Ben Bailey Smith"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "channel": "Paramount+",
+   "created_by": [
+    "Ruth Fowler"
+   ],
+   "director": [],
+   "episode_run_time": [
+    50
+   ],
+   "first_air_date": "2025-05-22",
+   "genres": [
+    "Drama"
+   ],
+   "id": 256585,
+   "industry": "world",
+   "networks": [
+    "Paramount+"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When Jess takes her baby to hospital with an unexplained head injury, her close friend, A&E doctor Liz, makes the excruciating decision to call social services, igniting an explosive chain of events.",
+   "popularity": 3.0098,
+   "poster_path": "/aQJZBIEWw91O9MbpUOBRcd5JvJl.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-22",
      "episode_count": 6,
      "name": "Season 1",
      "season_number": 1
-    },
-    {
-     "air_date": "2026-11-05",
-     "episode_count": 6,
-     "name": "Season 2",
-     "season_number": 2
     }
    ],
    "source": "catalogue",
    "spoken_languages": [
     "en"
    ],
-   "status": "Returning Series",
+   "status": "Ended",
    "tagline": "",
-   "title": "Black Doves",
+   "title": "Little Disasters",
    "trailer": {
-    "key": "shzJzjVscno",
-    "name": "Official Trailer #2",
+    "key": "zJ0swZr6-tg",
+    "name": "Official Trailer",
     "site": "YouTube"
    },
    "type": "tv",
-   "vote_average": 7.049,
-   "vote_count": 488
+   "vote_average": 7.034,
+   "vote_count": 29
   },
   "tv:2685": {
    "backdrop_path": "/vIeMoVqSqhEr2AaG9feqKBjeb8z.jpg",
@@ -2642,6 +3031,438 @@
    "type": "tv",
    "vote_average": 6.759,
    "vote_count": 380
+  },
+  "tv:271885": {
+   "backdrop_path": "/7uVNWsjnmkvqpeqWHq5qpLBv3wd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jo Eun-su",
+     "n": "Jeon So-nee"
+    },
+    {
+     "c": "Jo Hui-su",
+     "n": "Lee You-mi"
+    },
+    {
+     "c": "Noh Jin-pyo",
+     "n": "Jang Seung-jo"
+    },
+    {
+     "c": "Chen Shaobo",
+     "n": "Lee Mu-saeng"
+    },
+    {
+     "c": "Cho Eun-hyuk",
+     "n": "Lee Hyun-jun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Lee Jeong-lim"
+   ],
+   "director": [],
+   "episode_run_time": [
+    62
+   ],
+   "first_air_date": "2025-11-07",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 271885,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "When two women plot to end an abusive marriage through murder, an unexpected visitor arrives — threatening to shatter everything they've carefully planned.",
+   "popularity": 3.8157,
+   "poster_path": "/3ciqsMz21p8xp5udriFjRGM5OYs.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-06",
+     "episode_count": 8,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Two desperate souls. One desperate choice.",
+   "title": "As You Stood By",
+   "trailer": {
+    "key": "ZYflvue1yIE",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.3,
+   "vote_count": 112
+  },
+  "tv:277685": {
+   "backdrop_path": "/g0gQOWjCBYUUYVw1dlN6Fg60CzY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Paul Reubens"
+    },
+    {
+     "c": "Self",
+     "n": "Cassandra Peterson"
+    },
+    {
+     "c": "Self",
+     "n": "Debi Mazar"
+    },
+    {
+     "c": "Self",
+     "n": "David Arquette"
+    },
+    {
+     "c": "Self",
+     "n": "Natasha Lyonne"
+    },
+    {
+     "c": "Self",
+     "n": "Lynne Marie Stewart"
+    },
+    {
+     "c": "Self",
+     "n": "Tracy Newman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "HBO",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-23",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 277685,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 2,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A kaleidoscopic portrait told in two parts tracing the life of the imaginative artist.",
+   "popularity": 3.4494,
+   "poster_path": "/245axX0GN2QQE8KwXGKEvAVl1YP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-23",
+     "episode_count": 2,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "I know you are, but what am I?",
+   "title": "Pee-wee as Himself",
+   "trailer": {
+    "key": "jVx74C-RGDw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.932,
+   "vote_count": 37
+  },
+  "tv:289485": {
+   "backdrop_path": "/gMBrBUxPlDuCyQXBPxURl4Fbs9y.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Erik Powers"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-29",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 289485,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 15,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "From Monday Night RAW to WrestleMania, this series goes backstage with WWE Superstars and staff as they bring the company's biggest spectacles to life.",
+   "popularity": 6.0014,
+   "poster_path": "/fe6XV69u32zacyCuGOYxr5pAT8z.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-29",
+     "episode_count": 5,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-01-20",
+     "episode_count": 5,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "2026-07-21",
+     "episode_count": 5,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "It's more real than you think.",
+   "title": "WWE: Unreal",
+   "trailer": {
+    "key": "FfE8LC_FVLA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 38
+  },
+  "tv:296285": {
+   "backdrop_path": "/n4B2dVVScH4L4Scvy7mTboYcfGQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Helena Martín Ruano",
+     "n": "Ana Garcés"
+    },
+    {
+     "c": "Dani",
+     "n": "Tomy Aguilera"
+    },
+    {
+     "c": "Celia Baselga",
+     "n": "Victoria Kantch"
+    },
+    {
+     "c": "Maca",
+     "n": "Berta Castañé"
+    },
+    {
+     "c": "Pablo Ribó",
+     "n": "Manel Duarte"
+    },
+    {
+     "c": "Sofía Castaño",
+     "n": "Ada Molina"
+    },
+    {
+     "c": "Jaén",
+     "n": "Alex Mola"
+    },
+    {
+     "c": "Alicia Ribó",
+     "n": "Cande Méndez"
+    },
+    {
+     "c": "Laura Mendoza",
+     "n": "Laura Simón"
+    },
+    {
+     "c": "Oliver Parera",
+     "n": "Jan Buxaderas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Ramón Campos",
+    "David Orea",
+    "Javier Chacártegui",
+    "Jon de la Cuesta"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-06-19",
+   "genres": [
+    "Crime",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 296285,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Oasis is the most luxurious holiday resort in the country — a paradise reserved for the wealthiest families, featuring private beaches, VIP facilities, and impenetrable security. The perfect place to spend the best summer of your life. But everything falls apart when the police storm the resort to investigate a mysterious disappearance. In such an exclusive place, everyone is a suspect — and no one can leave until the culprit is found.",
+   "popularity": 8.1922,
+   "poster_path": "/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-19",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "There are summers that change everything. And places designed to escape—even from the truth.",
+   "title": "Oasis",
+   "trailer": {
+    "key": "PQ0DS3oyWUE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.528,
+   "vote_count": 53
   },
   "tv:2985": {
    "backdrop_path": "/rY4HsR1MLlddyrotCDskeC4ROXb.jpg",
@@ -2991,6 +3812,128 @@
    "type": "tv",
    "vote_average": 7.664,
    "vote_count": 228
+  },
+  "tv:336785": {
+   "backdrop_path": "/4YP7E7UMfkZ3eKtBHpuJXs5XEyw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alix Bauer",
+     "n": "Jesusa Ochoa"
+    },
+    {
+     "c": "Paulina Rubio",
+     "n": "Michelle Pellicer"
+    },
+    {
+     "c": "Mariana Garza",
+     "n": "Sol Wainer"
+    },
+    {
+     "c": "Erik Rubín",
+     "n": "Luis de la Rosa"
+    },
+    {
+     "c": "Benny Ibarra",
+     "n": "Sebastián Poza"
+    },
+    {
+     "c": "Diego Schoening",
+     "n": "Íker Sánchez Solano"
+    },
+    {
+     "c": "Luis de Llano",
+     "n": "Osvaldo Benavides"
+    },
+    {
+     "c": "Sasha Sokol",
+     "n": "Macarena García"
+    },
+    {
+     "c": "Thalia",
+     "n": "Clara Dalmao"
+    },
+    {
+     "c": "Edith Marquez",
+     "n": "Andrea Chaparro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "Atresplayer",
+   "created_by": [
+    "Humberto Hinojosa"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-10-10",
+   "genres": [
+    "Drama"
+   ],
+   "id": 336785,
+   "industry": "world",
+   "networks": [
+    "Atresplayer"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Timbiriche, a huge musical phenomenon of the 80s, portrays the complex lives of its young members: fame, conflicts, addictions, and lineup changes. Despite everything, friendships and rivalries persist, revealing the true story.",
+   "popularity": 6.4766,
+   "poster_path": "/rCrH5mqwdPp1U3zemyh0nFNKphs.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "VIX "
+    },
+    {
+     "name": "ViX Premium Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ieJ55scAVrvboTpeJcZa3JlLIrS.png",
+     "name": "VIX ",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+     "name": "ViX Premium Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-10-10",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Timbiriche",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.435,
+   "vote_count": 23
   },
   "tv:39185": {
    "backdrop_path": "/wR5x19DbeD2FiwU2fbYvXVtx1we.jpg",

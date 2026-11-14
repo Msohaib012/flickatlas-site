@@ -1,6 +1,6 @@
 {
  "bucket": "84",
- "count": 30,
+ "count": 40,
  "titles": {
   "movie:10384": {
    "backdrop_path": "/przsU4aiGsdlDkCp5uV8kq8gbLe.jpg",
@@ -3235,6 +3235,208 @@
    "vote_average": 6.299,
    "vote_count": 458
   },
+  "tv:207484": {
+   "backdrop_path": "/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ellen MacKenzie",
+     "n": "Harriet Slater"
+    },
+    {
+     "c": "Brian Fraser",
+     "n": "Jamie Roy"
+    },
+    {
+     "c": "Julia Moriston Beauchamp",
+     "n": "Hermione Corfield"
+    },
+    {
+     "c": "Henry Beauchamp",
+     "n": "Jeremy Irvine"
+    },
+    {
+     "c": "Lord Lovat (Simon Fraser)",
+     "n": "Tony Curran"
+    },
+    {
+     "c": "Colum MacKenzie",
+     "n": "Séamus McLean Ross"
+    },
+    {
+     "c": "Dougal MacKenzie",
+     "n": "Sam Retford"
+    },
+    {
+     "c": "Murtagh Fitzgibbons Fraser",
+     "n": "Rory Alexander"
+    },
+    {
+     "c": "Ned Gowan",
+     "n": "Conor MacNeill"
+    },
+    {
+     "c": "Uncle Malcolm 'Mac' Grant",
+     "n": "Simon Merrells"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "STARZ",
+   "created_by": [
+    "Matthew B. Roberts"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-08-08",
+   "genres": [
+    "Drama"
+   ],
+   "id": 207484,
+   "industry": "world",
+   "networks": [
+    "STARZ"
+   ],
+   "number_of_episodes": 20,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "From the battlefields of World War I to the rugged Highlands of 18th century Scotland, two fated couples must defy the forces that seek to tear them apart, unfolding in surprising and unforeseen ways in this romantic saga that unfolds across time.",
+   "popularity": 25.0599,
+   "poster_path": "/1pGBdq4ssO2p5H2WFMlADH6pwZ6.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/adymMNlhhLlJl5xccRCrsh3OehD.png",
+     "name": "Starz Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/h25xjouKmiSmFiiqw0aDXbxGZo7.png",
+     "name": "Starz",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tKembbxL7cYdDvFK70xBecbN0G8.png",
+     "name": "Starz Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-01",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-08-08",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-09-18",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Outlander: Blood of My Blood",
+   "trailer": {
+    "key": "9hvjJEXoIhs",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.72,
+   "vote_count": 127
+  },
   "tv:2284": {
    "backdrop_path": "/6xqMp5UfKUlYPSjwJ6jzRFxG5qR.jpg",
    "budget": 0,
@@ -3453,6 +3655,133 @@
    "vote_average": 7.947,
    "vote_count": 245
   },
+  "tv:238084": {
+   "backdrop_path": "/2jiEkTXR7oiQNDfdday8AM9J5qF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Park Gyu-jin",
+     "n": "Park Yoon-ho"
+    },
+    {
+     "c": "Lee Do",
+     "n": "Kim Nam-gil"
+    },
+    {
+     "c": "Moon Baek",
+     "n": "Kim Young-kwang"
+    },
+    {
+     "c": "Teenage Moon Baek",
+     "n": "Moon Seong-hyun"
+    },
+    {
+     "c": "Koo Jeong-man",
+     "n": "Park Hoon"
+    },
+    {
+     "c": "Oh Gyeong-suk",
+     "n": "Kil Hae-yeon"
+    },
+    {
+     "c": "Cho Hyeon-sik",
+     "n": "Kim Won-hae"
+    },
+    {
+     "c": "Yoo Jeong-tae",
+     "n": "Woo Ji-hyun"
+    },
+    {
+     "c": "Yoon Won-cheol",
+     "n": "Jung Woong-in"
+    },
+    {
+     "c": "Captain Joo",
+     "n": "Cho Han-chul"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Kwon Oh-seung"
+   ],
+   "director": [
+    "Kwon Oh-seung"
+   ],
+   "episode_run_time": [
+    47
+   ],
+   "first_air_date": "2025-07-25",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Crime"
+   ],
+   "id": 238084,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "As illegal firearms flood into a gun-free South Korea, a resolute cop and a mysterious partner join forces to stop the chaos from sweeping the nation.",
+   "popularity": 6.9008,
+   "poster_path": "/9eDF8Z4iFFCmQROiuej54rSK9LT.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-25",
+     "episode_count": 10,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ku",
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "What if everyone had guns?",
+   "title": "Trigger",
+   "trailer": {
+    "key": "2JUx8MqpRuM",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.092,
+   "vote_count": 114
+  },
   "tv:2384": {
    "backdrop_path": "/6QRnGINFJQ4iWQQeELnqgzqyYsN.jpg",
    "budget": 0,
@@ -3592,29 +3921,13 @@
    "vote_average": 7.536,
    "vote_count": 1487
   },
-  "tv:30984": {
-   "backdrop_path": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+  "tv:246984": {
+   "backdrop_path": "/jSR36f1YBdXuOYr81RNRZB7ygC1.jpg",
    "budget": 0,
    "cast": [
     {
-     "c": "Ichigo Kurosaki (voice)",
-     "n": "Masakazu Morita"
-    },
-    {
-     "c": "Rukia Kuchiki (voice)",
-     "n": "Fumiko Orikasa"
-    },
-    {
-     "c": "Yasutora Sado (voice)",
-     "n": "Hiroki Yasumoto"
-    },
-    {
-     "c": "Orihime Inoue (voice)",
-     "n": "Yuki Matsuoka"
-    },
-    {
-     "c": "Uryu Ishida (voice)",
-     "n": "Noriaki Sugiyama"
+     "c": "Self - Narrator",
+     "n": "David Attenborough"
     }
    ],
    "catalogue": true,
@@ -3622,60 +3935,144 @@
    "categories": [
     "catalogue"
    ],
-   "certification": "U",
-   "channel": "TV Tokyo",
+   "certification": "L",
+   "channel": "BBC One",
    "created_by": [],
    "director": [],
    "episode_run_time": [
-    24
+    57
    ],
-   "first_air_date": "2004-10-05",
+   "first_air_date": "2025-08-03",
    "genres": [
-    "Action & Adventure",
-    "Animation",
-    "Sci-Fi & Fantasy"
+    "Documentary"
    ],
-   "id": 30984,
+   "id": 246984,
    "industry": "world",
    "networks": [
-    "TV Tokyo",
-    "TV Aichi",
-    "TVQ",
-    "TV Osaka",
-    "TVh",
-    "TSC",
-    "BS TV Tokyo"
+    "BBC One"
    ],
-   "number_of_episodes": 416,
-   "number_of_seasons": 2,
+   "number_of_episodes": 5,
+   "number_of_seasons": 1,
    "origin_country": [
-    "JP"
+    "GB"
    ],
-   "original_language": "ja",
-   "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-   "popularity": 124.4779,
-   "poster_path": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+   "original_language": "en",
+   "overview": "A journey like no other, full of risk and reward. David Attenborough tells stories of dedication, ingenuity and sacrifice as animals embark on an epic challenge – being a parent.",
+   "popularity": 2.4983,
+   "poster_path": "/o9fvGhqyGRN3Jt9XxodGQJG7kHZ.jpg",
    "production_countries": [
-    "JP"
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Discovery+ Amazon Channel"
+    },
+    {
+     "name": "PBS Documentaries Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/52htht83nlt2aAobIug88TeiWvO.png",
+     "name": "Discovery+ Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-03",
+     "episode_count": 5,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Parenthood",
+   "trailer": {
+    "key": "1Zih03wq0kA",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 24
+  },
+  "tv:247784": {
+   "backdrop_path": "/pfEqosKFlJUvYgrO0XiJAiCzMFy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Danielle Simms",
+     "n": "Willa Fitzgerald"
+    },
+    {
+     "c": "Xander Phillips",
+     "n": "Colin Woodell"
+    },
+    {
+     "c": "Tom Cole",
+     "n": "Jack Bannon"
+    },
+    {
+     "c": "Sam Elijah",
+     "n": "Jessie T. Usher"
+    },
+    {
+     "c": "Harper Simms",
+     "n": "Jessy Yates"
+    },
+    {
+     "c": "Sophie Chan",
+     "n": "Chelsea Muirhead"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Zoe Robyn"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-03",
+   "genres": [
+    "Drama"
+   ],
+   "id": 247784,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of ER residents navigate medical crises and personal drama amid a divisive allegation at their Miami hospital.",
+   "popularity": 13.7887,
+   "poster_path": "/uGKTDr8ruc4IHGsEZ8wSQZpy2eN.jpg",
+   "production_countries": [
+    "US"
    ],
    "providers": [
     {
      "name": "Netflix"
     },
     {
-     "name": "Crunchyroll"
-    },
-    {
-     "name": "Sony Liv"
-    },
-    {
-     "name": "Crunchyroll Amazon Channel"
-    },
-    {
-     "name": "Hulu"
-    },
-    {
-     "name": "Disney Plus"
+     "name": "Netflix Standard with Ads"
     }
    ],
    "providers_wtw": [
@@ -3684,23 +4081,229 @@
      "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
      "name": "Netflix",
      "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-03",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Life can change in a heartbeat.",
+   "title": "PULSE",
+   "trailer": {
+    "key": "aPRjGdNmDCI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.477,
+   "vote_count": 110
+  },
+  "tv:272484": {
+   "backdrop_path": "/xk1FjT0j5YraC0CQgtq7AGQxT0j.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fu Yixiao",
+     "n": "Li Qin"
     },
     {
-     "kind": "flatrate",
-     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
-     "name": "Crunchyroll",
-     "region": "IN"
+     "c": "Feng Suige",
+     "n": "Chen Zheyuan"
     },
     {
-     "kind": "flatrate",
-     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
-     "name": "Sony Liv",
-     "region": "IN"
+     "c": "Feng Xiyang",
+     "n": "Xia Meng"
     },
     {
+     "c": "Xia Jingshi",
+     "n": "Chen Heyi"
+    },
+    {
+     "c": "Murong Yao",
+     "n": "Zuo Ye"
+    },
+    {
+     "c": "Xia Jingyan",
+     "n": "Qin Tianyu"
+    },
+    {
+     "c": "Lu Ke",
+     "n": "Wang Ziteng"
+    },
+    {
+     "c": "Yun Fang",
+     "n": "Tian Guangyu"
+    },
+    {
+     "c": "Ling Xueying",
+     "n": "Xin Kaili"
+    },
+    {
+     "c": "Ning Fei",
+     "n": "Zhang Chenglang"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "iQiyi",
+   "created_by": [],
+   "director": [
+    "Francis Nam",
+    "Gu Zhiwei",
+    "Grammy Chu",
+    "Chu Yui-bun"
+   ],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2025-10-02",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 272484,
+   "industry": "world",
+   "networks": [
+    "iQiyi"
+   ],
+   "number_of_episodes": 38,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "After losing her memory in battle, skilled archer Fu Yixiao is taken in by a noble family and unexpectedly reunited with her former enemy, Prince Feng Suige—the man she once struck with an arrow. As they face the dangers of Yujing together, trust replaces suspicion and a deep bond begins to form. Caught in a web of past betrayals and political intrigue, the two must confront their shared history while fighting for survival, freedom, and each other.",
+   "popularity": 10.4455,
+   "poster_path": "/8F97uO5i7mZ29n447TK2cj24B4L.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-02",
+     "episode_count": 38,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Fated Hearts",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 9.0,
+   "vote_count": 32
+  },
+  "tv:279884": {
+   "backdrop_path": "/gHPr19knxIUckVn2r11Jjb4WvjM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Rafael Nadal"
+    },
+    {
+     "c": "Self",
+     "n": "Carlos Moyá"
+    },
+    {
+     "c": "Self",
+     "n": "Toni Nadal"
+    },
+    {
+     "c": "Self",
+     "n": "Rafael Maymó"
+    },
+    {
+     "c": "Self",
+     "n": "Sebastian Nadal"
+    },
+    {
+     "c": "Self",
+     "n": "Ana María Parera"
+    },
+    {
+     "c": "Self",
+     "n": "John McEnroe"
+    },
+    {
+     "c": "Self",
+     "n": "Jon Wertheim"
+    },
+    {
+     "c": "Self",
+     "n": "Christopher Clarey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-05-29",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 279884,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "RAFA retraces Nadal's remarkable journey with cinematic scope, combining testimonies from those who know him best—on and off the court—with unseen moments that reveal what lies behind the legend.",
+   "popularity": 3.652,
+   "poster_path": "/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
+   "production_countries": [
+    "US",
+    "ES",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
      "kind": "flatrate",
-     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
-     "name": "Crunchyroll Amazon Channel",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
      "region": "IN"
     }
    ],
@@ -3708,22 +4311,238 @@
    "revenue": 0,
    "seasons": [
     {
-     "air_date": "2004-12-18",
+     "air_date": "2026-05-29",
      "episode_count": 4,
-     "name": "Specials",
-     "season_number": 0
-    },
-    {
-     "air_date": "2004-10-05",
-     "episode_count": 366,
-     "name": "Bleach",
+     "name": "Miniseries",
      "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en",
+    "fr"
+   ],
+   "status": "Ended",
+   "tagline": "Every ending has a beginning.",
+   "title": "Rafa",
+   "trailer": {
+    "key": "tQ31ScZSYFQ",
+    "name": "Rafa | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.4,
+   "vote_count": 47
+  },
+  "tv:285084": {
+   "backdrop_path": "/xM1ZNOa7NshPXcCPmy2R1Ui66Th.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Jaclyn Gallucci"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-03-31",
+   "genres": [
+    "Documentary",
+    "Crime"
+   ],
+   "id": 285084,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This tense true-crime series examines the hunt for the Long Island serial killer through the perspective of his victims, their loved ones and the police.",
+   "popularity": 4.6608,
+   "poster_path": "/vWTep5omXCxFtf5hlUc8VlmFI0u.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
     },
     {
-     "air_date": "2022-10-11",
-     "episode_count": 50,
-     "name": "Thousand-Year Blood War",
-     "season_number": 2
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-03-31",
+     "episode_count": 3,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Gone Girls: The Long Island Serial Killer",
+   "trailer": {
+    "key": "eb4qwCfbKrk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.255,
+   "vote_count": 49
+  },
+  "tv:286984": {
+   "backdrop_path": "/xmw3Ozf1wFslq9F9H2SWaDIYlKT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alec Ygret (voice)",
+     "n": "Shuichiro Umeda"
+    },
+    {
+     "c": "Yorha Eisentz (voice)",
+     "n": "Yurika Kubo"
+    },
+    {
+     "c": "Clasia Annerose (voice)",
+     "n": "Masumi Tazawa"
+    },
+    {
+     "c": "Ornest Rain (voice)",
+     "n": "Masaaki Mizunaka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "HTB",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-04",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 286984,
+   "industry": "world",
+   "networks": [
+    "HTB",
+    "tv asahi",
+    "Nagoya TV",
+    "KBC",
+    "ABC TV",
+    "NCC",
+    "OAB",
+    "ABA",
+    "Niigata Television Network 21",
+    "khb",
+    "KFB",
+    "HOME",
+    "KSB",
+    "Kagoshima Broadcasting",
+    "Iwate Asahi TV",
+    "Akita Asahi Broadcasting",
+    "Yamagata Television System",
+    "Shizuoka Asahi TV",
+    "Asahi Broadcasting Nagano",
+    "Hokuriku Asahi Broadcasting",
+    "Ehime Asahi TV",
+    "Yamaguchi Asahi Broadcasting",
+    "Kumamoto Asahi Broadcasting",
+    "Ryu-Q Asahi Broadcasting"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Once a loyal court magician supporting the crown prince from behind the scenes, Alec Ygret is cast aside and exiled for only knowing support magic. But just as he hits rock bottom, he reunites with Yorha Eisentz, a former comrade from the legendary party Lasting Period. Invited to rejoin the team that once made history, Alec returns to dungeon exploration—and begins a new chapter in his life!",
+   "popularity": 4.8214,
+   "poster_path": "/tmGjjRN9dRFzybRLSecgxNo46IE.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-04",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
     }
    ],
    "source": "catalogue",
@@ -3732,15 +4551,431 @@
    ],
    "status": "Ended",
    "tagline": "",
-   "title": "Bleach",
+   "title": "The Banished Court Magician Aims to Become the Strongest",
    "trailer": {
-    "key": "0c4IoCA5fY0",
+    "key": "eC8KnmEfBOY",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.914,
+   "vote_count": 29
+  },
+  "tv:291084": {
+   "backdrop_path": "/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr. Martin Best",
+     "n": "Josh Charles"
+    },
+    {
+     "c": "Louisa Glasson",
+     "n": "Abigail Spencer"
+    },
+    {
+     "c": "Sheriff Mark Mylow",
+     "n": "Josh Segarra"
+    },
+    {
+     "c": "Elaine Denham",
+     "n": "Cree"
+    },
+    {
+     "c": "Aunt Joan",
+     "n": "Annie Potts"
+    },
+    {
+     "c": "Greg Garrison",
+     "n": "Stephen Spinella"
+    },
+    {
+     "c": "George Brady",
+     "n": "Jason Veasey"
+    },
+    {
+     "c": "Eden Montgomery",
+     "n": "Eliza Coupe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "FOX",
+   "created_by": [
+    "Liz Tuccillo"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2026-01-04",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 291084,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 20,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Martin Best is a brilliant surgeon who abruptly leaves his illustrious career in Boston to become the general practitioner in a quaint East Coast fishing village where he spent summers as a child. Unfortunately, Martin's blunt and borderline rude bedside manner rubs the quirky, needy locals the wrong way, and he quickly alienates the town, even though he's all they’ve got.",
+   "popularity": 22.3916,
+   "poster_path": "/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "FOX One Amazon Channel"
+    },
+    {
+     "name": "FOX One"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/b3KR9gzy7QkvLNyNzUROavLpsrq.png",
+     "name": "FOX One Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4ZP1ns91pBkc90BOGmLBFKWeta1.png",
+     "name": "FOX One",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-04",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-09-20",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Small town doctor. Big time issues.",
+   "title": "Best Medicine",
+   "trailer": {
+    "key": "8zxy5q5L2NI",
     "name": "Official Trailer",
     "site": "YouTube"
    },
    "type": "tv",
-   "vote_average": 8.35,
-   "vote_count": 2341
+   "vote_average": 7.086,
+   "vote_count": 35
+  },
+  "tv:303084": {
+   "backdrop_path": "/8RUoesAKJIQjTZffFuVpd7QR1CS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Zhen Xin / Fang Zhi",
+     "n": "Ollie"
+    },
+    {
+     "c": "Zhang Zhun / Gao Zhun",
+     "n": "Li Shuyuan"
+    },
+    {
+     "c": "Wu Rong / Zou Yun",
+     "n": "Yao Wang"
+    },
+    {
+     "c": "Chen Zhengsen",
+     "n": "Li Dong"
+    },
+    {
+     "c": "Feng Yunting",
+     "n": "Bai Yiru"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15+",
+   "channel": "Viki",
+   "created_by": [
+    "Tong Zi",
+    "Liu Junhao"
+   ],
+   "director": [
+    "Liu Junhao"
+   ],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2026-06-26",
+   "genres": [
+    "Drama"
+   ],
+   "id": 303084,
+   "industry": "world",
+   "networks": [
+    "Viki",
+    "GagaOOLala"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "Filming a daring romance movie, an award-winning actor and an ambitious newcomer lose track of where acting ends and their real desire begins.",
+   "popularity": 4.4572,
+   "poster_path": "/aO2R6lWasqv9BsE7qpquDxE68TD.jpg",
+   "production_countries": [
+    "CN",
+    "SG"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-26",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "Defy the world, hold on forever.",
+   "title": "Deep In",
+   "trailer": {
+    "key": "HBwTZENixTE",
+    "name": "Deep In - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.913,
+   "vote_count": 23
+  },
+  "tv:314784": {
+   "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yeo Eui-ju",
+     "n": "Kim Hyang-gi"
+    },
+    {
+     "c": "Ga Woo-soo",
+     "n": "Cha Hak-yeon"
+    },
+    {
+     "c": "No Da-ju",
+     "n": "Kim Jae-hyun"
+    },
+    {
+     "c": "Jeong Gi-jeon",
+     "n": "DEMIAN"
+    },
+    {
+     "c": "Yoon Dong-ju",
+     "n": "Kim Dong-kyu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Coupang Play",
+   "created_by": [
+    "Lee Min-joo"
+   ],
+   "director": [
+    "Lee Tae-gon",
+    "Kim Jun-hyung"
+   ],
+   "episode_run_time": [
+    40
+   ],
+   "first_air_date": "2026-04-17",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 314784,
+   "industry": "world",
+   "networks": [
+    "Coupang Play"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
+   "popularity": 6.7426,
+   "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+   "production_countries": [
+    "KR",
+    "SG"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2026-04-17",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Absolute Value of Romance",
+   "trailer": {
+    "key": "XzqfAg0ZNHg",
+    "name": "Absolute Value of Romance | Official Trailer | Amazon Prime",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.8,
+   "vote_count": 50
   },
   "tv:484": {
    "backdrop_path": "/eciikZDLyEBQanGh3zpGNuYHtQ3.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "41",
- "count": 28,
+ "count": 32,
  "titles": {
   "movie:10741": {
    "backdrop_path": "/3ivhTBoGtSRcxqsTdXHHkYFLxO2.jpg",
@@ -1157,240 +1157,6 @@
    "type": "movie",
    "vote_average": 6.031,
    "vote_count": 179
-  },
-  "movie:1375441": {
-   "backdrop_path": "/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
-   "budget": 14500000,
-   "cast": [
-    {
-     "c": "Chris Hansen",
-     "n": "Robert Pattinson"
-    },
-    {
-     "c": "Andie Bender",
-     "n": "Merritt Wever"
-    },
-    {
-     "c": "Dan Plum",
-     "n": "Skyler Gisondo"
-    },
-    {
-     "c": "Xavier Von Erck",
-     "n": "Matthew Maher"
-    },
-    {
-     "c": "Del",
-     "n": "Phoebe Bridgers"
-    },
-    {
-     "c": "Frag",
-     "n": "Victor Brunette"
-    },
-    {
-     "c": "Cortland Gunn",
-     "n": "Bokeem Woodbine"
-    },
-    {
-     "c": "Michael Chachere",
-     "n": "Michael Chachere"
-    },
-    {
-     "c": "Bill Conradt",
-     "n": "Alex Winter"
-    },
-    {
-     "c": "MarriedAndLookingForFun31313",
-     "n": "Tony Revolori"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "A",
-   "date_kind": "release",
-   "director": [
-    "Lance Oppenheim"
-   ],
-   "genres": [
-    "Thriller",
-    "Drama",
-    "Crime"
-   ],
-   "id": 1375441,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
-   "popularity": 64.4186,
-   "poster_path": "/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [],
-   "providers_wtw": [
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "US"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "US"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
-     "name": "Fandango At Home",
-     "region": "US"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
-     "name": "Plex",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
-     "name": "Fandango At Home",
-     "region": "US"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-09-25",
-   "revenue": 57695024,
-   "runtime": 110,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "Are you ready to make television history?",
-   "title": "Primetime",
-   "trailer": {
-    "key": "C0NZa01qTRU",
-    "name": "Official Trailer 2",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 6.786,
-   "vote_count": 423
-  },
-  "movie:1422041": {
-   "backdrop_path": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-   "budget": 11100000,
-   "cast": [
-    {
-     "c": "Sebastián",
-     "n": "Guitarricadelafuente"
-    },
-    {
-     "c": "Rafael",
-     "n": "Miguel Bernardeau"
-    },
-    {
-     "c": "Alberto",
-     "n": "Carlos González"
-    },
-    {
-     "c": "Carlos",
-     "n": "Milo Quifes"
-    },
-    {
-     "c": "Teresa",
-     "n": "Lola Dueñas"
-    },
-    {
-     "c": "Nené Romero",
-     "n": "Penélope Cruz"
-    },
-    {
-     "c": "Isabelle Durand",
-     "n": "Glenn Close"
-    },
-    {
-     "c": "Juan Pablo",
-     "n": "Julio Torres"
-    },
-    {
-     "c": "Goyita",
-     "n": "Yenesi"
-    },
-    {
-     "c": "Riccardo",
-     "n": "Lorenzo Zurzolo"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Javier Ambrossi",
-    "Javier Calvo"
-   ],
-   "genres": [
-    "Drama",
-    "War"
-   ],
-   "id": 1422041,
-   "industry": "world",
-   "origin_country": [
-    "ES"
-   ],
-   "original_language": "es",
-   "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
-   "popularity": 125.4415,
-   "poster_path": "/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
-   "production_countries": [
-    "ES",
-    "FR"
-   ],
-   "providers": [],
-   "providers_wtw": [],
-   "published_at": "2026-11-14",
-   "release_date": "2026-09-25",
-   "revenue": 43754436,
-   "runtime": 159,
-   "source": "catalogue",
-   "spoken_languages": [
-    "es",
-    "en",
-    "it"
-   ],
-   "status": "Released",
-   "tagline": "Love leaves a legacy.",
-   "title": "La Bola Negra",
-   "trailer": {
-    "key": "lBVxKt0gKDY",
-    "name": "Official Trailer [Subtitled]",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 8.0,
-   "vote_count": 218
   },
   "movie:1454741": {
    "backdrop_path": "/lALfCsv7YMNrqpWzIaxjS81JKOm.jpg",
@@ -3726,6 +3492,673 @@
    "type": "tv",
    "vote_average": 7.881,
    "vote_count": 461
+  },
+  "tv:224941": {
+   "backdrop_path": "/iftYIh1OjJb99EOTHIrDcx59zWb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sam Cooper",
+     "n": "Alfred Molina"
+    },
+    {
+     "c": "Judy Daniels",
+     "n": "Alfre Woodard"
+    },
+    {
+     "c": "Wally Baker",
+     "n": "Denis O'Hare"
+    },
+    {
+     "c": "Art Daniels",
+     "n": "Clarke Peters"
+    },
+    {
+     "c": "Paz Navarro",
+     "n": "Carlos Miranda"
+    },
+    {
+     "c": "Claire Cooper",
+     "n": "Jena Malone"
+    },
+    {
+     "c": "Blaine Shaw",
+     "n": "Seth Numrich"
+    },
+    {
+     "c": "Anneliese Shaw",
+     "n": "Alice Kremelberg"
+    },
+    {
+     "c": "Renee Joyce",
+     "n": "Geena Davis"
+    },
+    {
+     "c": "Hank Williams",
+     "n": "Eric Edelstein"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Jeffrey Addiss",
+    "Will Matthews"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-05-21",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Mystery"
+   ],
+   "id": 224941,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a seemingly perfect retirement community, a crew of unlikely heroes must stop an otherworldly threat from stealing the one thing they don't have: time.",
+   "popularity": 12.0732,
+   "poster_path": "/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-21",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "The Boroughs",
+   "trailer": {
+    "key": "PsvUvqXoTpE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.146,
+   "vote_count": 308
+  },
+  "tv:253941": {
+   "backdrop_path": "/qtMVO0McAXN4IV30SMFAVmXraBL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ned Sampson",
+     "n": "Domhnall Gleeson"
+    },
+    {
+     "c": "Esmeralda Grand",
+     "n": "Sabrina Impacciatore"
+    },
+    {
+     "c": "Mare Pritti",
+     "n": "Chelsea Frei"
+    },
+    {
+     "c": "Detrick Moore",
+     "n": "Melvin Gregg"
+    },
+    {
+     "c": "Adelola Olofin",
+     "n": "Gbemisola Ikumelo"
+    },
+    {
+     "c": "Adam Cooper",
+     "n": "Alex Edelman"
+    },
+    {
+     "c": "Nicole Lee",
+     "n": "Ramona Young"
+    },
+    {
+     "c": "Ken Davies",
+     "n": "Tim Key"
+    },
+    {
+     "c": "Oscar Martinez",
+     "n": "Oscar Nuñez"
+    },
+    {
+     "c": "Travis Bienlien",
+     "n": "Eric Rahill"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Peacock",
+   "created_by": [
+    "Michael Koman",
+    "Greg Daniels"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-04",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 253941,
+   "industry": "world",
+   "networks": [
+    "Peacock"
+   ],
+   "number_of_episodes": 20,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The documentary crew that immortalized Dunder Mifflin's Scranton branch is in search of a new subject when they discover a historic Toledo newspaper, The Truth Teller, and the eager publisher trying to revive it.",
+   "popularity": 11.7425,
+   "poster_path": "/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-04",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-09-09",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Finally some good news.",
+   "title": "The Paper",
+   "trailer": {
+    "key": "c5v4LJJkvUU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.2,
+   "vote_count": 114
+  },
+  "tv:271341": {
+   "backdrop_path": "/kCGEMdUNape6tfMIY7V3T0CuvMh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tawan Rawee Chokprasertsap",
+     "n": "Sirilak Kwong"
+    },
+    {
+     "c": "Ayla Sasina Ruengkunakorn",
+     "n": "Kornnaphat Sethratanapong"
+    },
+    {
+     "c": "Khaotu",
+     "n": "Marilyn Kate Gardner"
+    },
+    {
+     "c": "Nana",
+     "n": "Thanchanok Yutthasarnsiri"
+    },
+    {
+     "c": "Chanya",
+     "n": "Nisachon Tuamsoongnuen"
+    },
+    {
+     "c": "Typhoon",
+     "n": "Paswitch Boorananut"
+    },
+    {
+     "c": "Yam",
+     "n": "Thidarut Pruethong"
+    },
+    {
+     "c": "Pete",
+     "n": "Peerakrit Phacharaboonyakiat"
+    },
+    {
+     "c": "Mek",
+     "n": "Krittakan Prasitpanit"
+    },
+    {
+     "c": "Songklot",
+     "n": "Apinun Prasertwattanakul"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R21",
+   "channel": "Channel 3",
+   "created_by": [],
+   "director": [
+    "Saratswadee Wongsomphet"
+   ],
+   "episode_run_time": [
+    47
+   ],
+   "first_air_date": "2025-07-18",
+   "genres": [
+    "Action & Adventure"
+   ],
+   "id": 271341,
+   "industry": "world",
+   "networks": [
+    "Channel 3"
+   ],
+   "number_of_episodes": 14,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "A bodyguard's assignment to protect a former schoolmate — now a famous performer — deepens as unexpected feelings ignite between them.",
+   "popularity": 5.716,
+   "poster_path": "/joNJjuUNKM1ko6qTwhNDPsydbZr.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-18",
+     "episode_count": 14,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Only You",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.44,
+   "vote_count": 25
+  },
+  "tv:274741": {
+   "backdrop_path": "/2hefpQz2FYVzQHuAx9SilJV73fU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Philia Adenauer (voice)",
+     "n": "Yui Ishikawa"
+    },
+    {
+     "c": "Mia Adenauer (voice)",
+     "n": "Kaede Hondo"
+    },
+    {
+     "c": "Oswald Parnacorta (voice)",
+     "n": "Takuya Sato"
+    },
+    {
+     "c": "Julius Ziltonia (voice)",
+     "n": "Kohei Amasaki"
+    },
+    {
+     "c": "Reinhard Parnacorta (voice)",
+     "n": "Shinnosuke Tachibana"
+    },
+    {
+     "c": "Rina (voice)",
+     "n": "Sora Tokui"
+    },
+    {
+     "c": "Leonardo (voice)",
+     "n": "Ken Narita"
+    },
+    {
+     "c": "Himari (voice)",
+     "n": "Kanna Nakamura"
+    },
+    {
+     "c": "Grace (voice)",
+     "n": "Shu Uchida"
+    },
+    {
+     "c": "Fernando (voice)",
+     "n": "Kazuyuki Okitsu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-04-10",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 274741,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Philia Adenauer hails from a family renowned for producing Saints for generations in the Kingdom of Girtonia. Saints fight to protect humankind from monsters, and Philia underwent rigorous education and training to earn her title. After her fiancé, Julius, breaks off their engagement, Philia is sold to the kingdom of Parnacorta for resources. Will her homeland survive without her?!?",
+   "popularity": 22.3602,
+   "poster_path": "/dBvBEN0uC7nnNtPjpmxVQcjO97y.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-10",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.845,
+   "vote_count": 29
+  },
+  "tv:279041": {
+   "backdrop_path": "/wCBgNbukU0eaTCdJrtX4wMpjfgx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jiang Mu",
+     "n": "Yu Shuxin"
+    },
+    {
+     "c": "Jin Zhao",
+     "n": "He Yu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "iQiyi",
+   "created_by": [],
+   "director": [
+    "Yu Chung-chung",
+    "Zhao Xiaolei",
+    "Ma Ming",
+    "Xu Ling Ling"
+   ],
+   "episode_run_time": [
+    40
+   ],
+   "first_air_date": "2025-12-12",
+   "genres": [
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 279041,
+   "industry": "world",
+   "networks": [
+    "iQiyi"
+   ],
+   "number_of_episodes": 29,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "After her parents' divorce, Jiang Mu reunites with her adopted brother Jin Chao, now a hardened young man living a dangerous life in Thailand. Despite their growing distance, Jiang Mu's unwavering love helps bridge the gap between them, leading to a journey of healing and redemption as they fight to rebuild their bond and face their struggles together.",
+   "popularity": 11.2848,
+   "poster_path": "/x1pblSVT4xtiZMN0sjn0ql5NMuA.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-12",
+     "episode_count": 29,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Speed and Love",
+   "trailer": {
+    "key": "IuyK7HKyHiE",
+    "name": "Trailer [English Subtitles]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.4,
+   "vote_count": 52
+  },
+  "tv:281041": {
+   "backdrop_path": "/cUPmAiNaqcJqqPaALBq5fOhSp7i.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Elena Blanco",
+     "n": "Nerea Barros"
+    },
+    {
+     "c": "Chesca",
+     "n": "Lucía Martín Abello"
+    },
+    {
+     "c": "Zárate",
+     "n": "Ignacio Montes"
+    },
+    {
+     "c": "Mariajo",
+     "n": "Mona Martínez"
+    },
+    {
+     "c": "Orduño",
+     "n": "Vicente Romero Sánchez"
+    },
+    {
+     "c": "Buendía",
+     "n": "Francesc Garrido"
+    },
+    {
+     "c": "Rentero",
+     "n": "Ginés García Millán"
+    },
+    {
+     "c": "Caracas",
+     "n": "Daniel Ibáñez"
+    },
+    {
+     "c": "Rocío Narváez",
+     "n": "Nuria González"
+    },
+    {
+     "c": "Jaúregui",
+     "n": "Óscar de la Fuente"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "channel": "Disney+",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-12",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 281041,
+   "industry": "world",
+   "networks": [
+    "Disney+",
+    "Atresplayer"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Months after the events of The Purple Network, the hunt is not over yet. Following Lucas's death, Elena Blanco has disappeared. Only Mariajo knows where she is, but she keeps it a secret, even from the rest of the team. The fight against The Network has taken too much of a toll on her, and in a desperate attempt to get her life back on track, she has left the BAC.",
+   "popularity": 2.7126,
+   "poster_path": "/v0dOqOT7XlHcPEoZ99lYz1D235D.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-12",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "La nena",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.6,
+   "vote_count": 27
   },
   "tv:341": {
    "backdrop_path": "/tMZZ8W30TtGRcydsxrtXcL3j7YT.jpg",

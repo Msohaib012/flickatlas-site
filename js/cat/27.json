@@ -1,116 +1,7 @@
 {
  "bucket": "27",
- "count": 19,
+ "count": 23,
  "titles": {
-  "movie:1108427": {
-   "backdrop_path": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-   "budget": 250000000,
-   "cast": [
-    {
-     "c": "Moana",
-     "n": "Catherine Lagaʻaia"
-    },
-    {
-     "c": "Maui",
-     "n": "Dwayne Johnson"
-    },
-    {
-     "c": "Gramma Tala",
-     "n": "Rena Owen"
-    },
-    {
-     "c": "Chief Tui",
-     "n": "John Tui"
-    },
-    {
-     "c": "Sina",
-     "n": "Frankie Adams"
-    },
-    {
-     "c": "Tamatoa (voice)",
-     "n": "Jemaine Clement"
-    },
-    {
-     "c": "Moana (4 years old)",
-     "n": "Emma Puahi-Shapazian"
-    },
-    {
-     "c": "Moana (8 years old)",
-     "n": "Amaya Masoli"
-    },
-    {
-     "c": "Village Fisherman",
-     "n": "Sam Puefua"
-    },
-    {
-     "c": "Coconut Farmer",
-     "n": "Sione Milford"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 7+",
-   "date_kind": "release",
-   "director": [
-    "Thomas Kail"
-   ],
-   "genres": [
-    "Family",
-    "Fantasy",
-    "Comedy",
-    "Adventure"
-   ],
-   "id": 1108427,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-   "popularity": 54.0602,
-   "poster_path": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "JioHotstar"
-    },
-    {
-     "name": "Disney Plus"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-     "name": "JioHotstar",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-07-10",
-   "revenue": 323701468,
-   "runtime": 115,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "The ocean chose her for a reason.",
-   "title": "Moana",
-   "trailer": {
-    "key": "EEz5xbzYPKI",
-    "name": "Final Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.4,
-   "vote_count": 1051
-  },
   "movie:1266127": {
    "backdrop_path": "/lE9CIX0NqKppnwopQdnabID6hZ1.jpg",
    "budget": 14000000,
@@ -1843,6 +1734,637 @@
    "type": "tv",
    "vote_average": 7.3,
    "vote_count": 643
+  },
+  "tv:245827": {
+   "backdrop_path": "/uj4wyiZPmZNRJBjThtqNrZvHN9w.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr Joel 'Laz' Lazarus",
+     "n": "Sam Claflin"
+    },
+    {
+     "c": "Doctor Lazarus 'Dr L'",
+     "n": "Bill Nighy"
+    },
+    {
+     "c": "Jenna Lazarus",
+     "n": "Alexandra Roach"
+    },
+    {
+     "c": "Seth McGovern",
+     "n": "David Fynn"
+    },
+    {
+     "c": "Bella",
+     "n": "Karla Crome"
+    },
+    {
+     "c": "Sutton Lazarus",
+     "n": "Eloise Little"
+    },
+    {
+     "c": "Aidan",
+     "n": "Curtis Tennant"
+    },
+    {
+     "c": "Detective Alison Brown",
+     "n": "Kate Ashfield"
+    },
+    {
+     "c": "Young Lazarus",
+     "n": "Ewan Horrocks"
+    },
+    {
+     "c": "Sam Olsen",
+     "n": "Edward Hogg"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M18",
+   "channel": "Prime Video",
+   "created_by": [
+    "Harlan Coben",
+    "Daniel Brocklehurst"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-22",
+   "genres": [
+    "Mystery"
+   ],
+   "id": 245827,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Forensic psychiatrist Dr Joel 'Laz' Lazarus is forced to confront long-buried demons after his father Dr L dies in suspicious circumstances. At first assured his dad's death is a suicide, Laz is soon sucked into a world of murderous conspiracy, and a race to find the killer, by strange visions of people he knows to be dead.",
+   "popularity": 6.3023,
+   "poster_path": "/lxUlUBGnYJNxqOwc3baBdLpa3Lx.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-22",
+     "episode_count": 6,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The truth never dies.",
+   "title": "Harlan Coben's Lazarus",
+   "trailer": {
+    "key": "MjP-63ZG74I",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.275,
+   "vote_count": 91
+  },
+  "tv:246027": {
+   "backdrop_path": "/qLUqBpWFvags0yOPVBsH1pxt3SA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Valeria",
+     "n": "Tessa Ía"
+    },
+    {
+     "c": "Gabriela",
+     "n": "Natasha Dupeyrón"
+    },
+    {
+     "c": "Leo",
+     "n": "Emiliano Zurita"
+    },
+    {
+     "c": "Samuel",
+     "n": "Juan Manuel Bernal"
+    },
+    {
+     "c": "Moishe",
+     "n": "Flavio Medina"
+    },
+    {
+     "c": "Carlos",
+     "n": "Gustavo Bassani"
+    },
+    {
+     "c": "Isaac",
+     "n": "Alexander Varela Pavlov"
+    },
+    {
+     "c": "Sara",
+     "n": "Caro Darman"
+    },
+    {
+     "c": "Self - Shabban Meyer",
+     "n": "André Jacobs"
+    },
+    {
+     "c": "Raquel",
+     "n": "Mariana di Girolamo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Tamara Trottner",
+    "María Camila Arias"
+   ],
+   "director": [
+    "Samuel Kishi",
+    "Lucía Puenzo",
+    "Nicolás Puenzo"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-15",
+   "genres": [
+    "Drama"
+   ],
+   "id": 246027,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 5,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "A mother faces stigma and a painful separation when her husband takes their children abroad, forever changing her life.",
+   "popularity": 2.5361,
+   "poster_path": "/zZjZNhYWwRgyyJyYqBpU02uV4ja.jpg",
+   "production_countries": [
+    "FR",
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-15",
+     "episode_count": 5,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "No One Saw Us Leave",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.1,
+   "vote_count": 38
+  },
+  "tv:287527": {
+   "backdrop_path": "/uCndE341njionskk1pK9SbHqwZh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Aunt Lydia Clements",
+     "n": "Ann Dowd"
+    },
+    {
+     "c": "Agnes MacKenzie",
+     "n": "Chase Infiniti"
+    },
+    {
+     "c": "Daisy",
+     "n": "Lucy Halliday"
+    },
+    {
+     "c": "Shunammite Hayes",
+     "n": "Rowan Blanchard"
+    },
+    {
+     "c": "Becka Grove",
+     "n": "Mattea Conforti"
+    },
+    {
+     "c": "Aunt Vidala",
+     "n": "Mabel Li"
+    },
+    {
+     "c": "Paula MacKenzie",
+     "n": "Amy Seimetz"
+    },
+    {
+     "c": "Garth Chapin",
+     "n": "Brad Alexander"
+    },
+    {
+     "c": "Aunt Gabbana",
+     "n": "Zarrin Darnell-Martin"
+    },
+    {
+     "c": "Aunt Estee",
+     "n": "Eva Foote"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Hulu",
+   "created_by": [
+    "Bruce Miller"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-08",
+   "genres": [
+    "Drama"
+   ],
+   "id": 287527,
+   "industry": "world",
+   "networks": [
+    "Hulu"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Growing up in Gilead is all they have ever known. As a new generation of young women grapple with the bleak future that awaits them, they will be forced to search for allies, new and old, to help in their fight for freedom.",
+   "popularity": 10.5455,
+   "poster_path": "/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-08",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Witness a defiant coming of age story.",
+   "title": "The Testaments",
+   "trailer": {
+    "key": "KpWyxrPqkeA",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.226,
+   "vote_count": 246
+  },
+  "tv:300727": {
+   "backdrop_path": "/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Park Hae-kang",
+     "n": "Ji Sung"
+    },
+    {
+     "c": "Kang Ha-ri",
+     "n": "Ha Yoon-kyung"
+    },
+    {
+     "c": "Jang Sook-jin",
+     "n": "Moon So-ri"
+    },
+    {
+     "c": "Lee Chung-won",
+     "n": "Park Byung-eun"
+    },
+    {
+     "c": "Gyeong-nam",
+     "n": "Jung Soon-won"
+    },
+    {
+     "c": "Je-gil",
+     "n": "Hwang Hee"
+    },
+    {
+     "c": "Big Guy",
+     "n": "Kim Kyu-won"
+    },
+    {
+     "c": "Hwang In-sik (Lizard)",
+     "n": "Kim Won-hae"
+    },
+    {
+     "c": "Choi Young-jae",
+     "n": "Jung Seung-kil"
+    },
+    {
+     "c": "Kang Ha-jeong",
+     "n": "Ryu Hyun-kyung"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "JTBC",
+   "created_by": [
+    "Kim Yun-young"
+   ],
+   "director": [
+    "조용원"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-11",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Crime"
+   ],
+   "id": 300727,
+   "industry": "world",
+   "networks": [
+    "JTBC"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Desperate for cash, a former gang boss teams up with an aspiring lawyer to steal an apartment complex's reserve fund — only to uncover deep corruption.",
+   "popularity": 7.9444,
+   "poster_path": "/qFxbrHvNq5tn9SCBq3aKPgaGfyO.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-11",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "In This Apartment, Trust Is the Rarest Resident.",
+   "title": "The Apartment Job",
+   "trailer": {
+    "key": "aovCC9XFVew",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.467,
+   "vote_count": 45
+  },
+  "tv:335227": {
+   "backdrop_path": "/339M5JkUc4DeXBGoK2lp9QZ3Y5e.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sarah Díaz",
+     "n": "Fernanda Castillo"
+    },
+    {
+     "c": "Sargento Peña",
+     "n": "Luis Fernando Peña"
+    },
+    {
+     "c": "Gerardo",
+     "n": "Armando Hernández"
+    },
+    {
+     "c": "Wendy",
+     "n": "Tiaré Scanda"
+    },
+    {
+     "c": "Brenda Argüelles",
+     "n": "Farah Justiniani"
+    },
+    {
+     "c": "Directora Ruth",
+     "n": "Azalia Ortiz"
+    },
+    {
+     "c": "Cristina Lemus",
+     "n": "Lilith Curiel"
+    },
+    {
+     "c": "Wendy",
+     "n": "Valentina Garcia"
+    },
+    {
+     "c": "Profesor Alba",
+     "n": "Alfonso Borbolla"
+    },
+    {
+     "c": "Archibaldo Pérez",
+     "n": "Diego Bernal"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-10-02",
+   "genres": [
+    "Action & Adventure",
+    "Comedy"
+   ],
+   "id": 335227,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX",
+    "US"
+   ],
+   "original_language": "es",
+   "overview": "One cold night, misfit Archie gets bitten by a zombie and after briefly considering ending his life, he decides he's going to figure out what the hell is happening to his body. So, with the help of his only friend and his lifelong crush, Archie sets out to find a cure before he turns into a full-blown monster and kills everyone.",
+   "popularity": 6.7475,
+   "poster_path": "/1HehlJEDVfHf9nt36Ygq8apTWQD.jpg",
+   "production_countries": [
+    "MX",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-10-02",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "I Would Rather Die",
+   "trailer": {
+    "key": "ojteM2SYB88",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.117,
+   "vote_count": 30
   },
   "tv:41727": {
    "backdrop_path": "/mo9bfYdewzmHxnaeURB2jRPvGuX.jpg",

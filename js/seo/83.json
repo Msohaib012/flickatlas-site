@@ -1,6 +1,6 @@
 {
  "bucket": "83",
- "count": 22,
+ "count": 25,
  "titles": {
   "movie:1101383": {
    "d": "The End of Oak Street (2026): Science Fiction/Mystery film. Story: After a mysterious cosmic event rips Oak Street from… See cast and budget $80M.",
@@ -704,55 +704,6 @@
    "t": "I Call Him Dog (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
-  "movie:1798383": {
-   "d": "Wolves Up Close with Bertie Gregory (2026): Documentary film. Story: Reconnecting with a pack of wolves he has followed… See cast and TMDB rating 6.9/10.",
-   "img": "https://image.tmdb.org/t/p/w780/nQiSQg10DvoaXLFeqkPSDGv6vF7.jpg",
-   "industry": "world",
-   "k": "Wolves Up Close with Bertie Gregory, Wolves Up Close with Bertie Gregory movie, Wolves Up Close with Bertie Gregory cast, Wolves Up Close with Bertie Gregory story, Wolves Up Close with Bertie Gregory box office collection, Wolves Up Close with Bertie Gregory budget, Wolves Up Close with Bertie Gregory review, Wolves Up Close with Bertie Gregory rating, Wolves Up Close with Bertie Gregory release date, Wolves Up Close with Bertie Gregory trailer, Wolves Up Close with Bertie Gregory Documentary, international movies, FlickAtlas",
-   "ld": {
-    "@context": "https://schema.org",
-    "@type": "Movie",
-    "actor": [
-     {
-      "@type": "Person",
-      "name": "Bertie Gregory"
-     },
-     {
-      "@type": "Person",
-      "name": "Albert 'Butch' Saunders"
-     },
-     {
-      "@type": "Person",
-      "name": "Mike Reimer"
-     }
-    ],
-    "aggregateRating": {
-     "@type": "AggregateRating",
-     "bestRating": 10,
-     "ratingCount": 47,
-     "ratingValue": 6.9,
-     "worstRating": 0
-    },
-    "description": "Wolves Up Close with Bertie Gregory (2026): Documentary film. Story: Reconnecting with a pack of wolves he has followed… See cast and TMDB rating 6.9/10.",
-    "duration": "PT44M",
-    "genre": [
-     "Documentary"
-    ],
-    "image": "https://image.tmdb.org/t/p/w780/nQiSQg10DvoaXLFeqkPSDGv6vF7.jpg",
-    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1798383",
-    "name": "Wolves Up Close with Bertie Gregory",
-    "releasedEvent": {
-     "@type": "PublicationEvent",
-     "startDate": "2026-11-06"
-    },
-    "url": "https://flickatlas.co.uk/movie?id=1798383"
-   },
-   "modified": "",
-   "published": "2026-11-14",
-   "ssr": "<article class=\"ssr-facts\">\n<h1>Wolves Up Close with Bertie Gregory (2026)</h1>\n<p class=\"ssr-lead\">Reconnecting with a pack of wolves he has followed for seven years, Bertie sets out to capture one of the Arctic&#x27;s most dangerous and rarely filmed hunts: wolves taking on a bull moose, prey roughly ten times their size. Led by Kona, a striking white breeding male, the pack faces a critical winter as dwindling food supplies, an encroaching rival wolf and an aging leader threaten its survival.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li><li>Runtime: 44 minutes</li><li>Genres: Documentary</li><li>TMDB rating: 6.9/10 (47 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bertie Gregory as Self - Host</li><li>Albert &#x27;Butch&#x27; Saunders as Self</li><li>Mike Reimer as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus, Hulu, fuboTV</li></ul>\n</article>",
-   "t": "Wolves Up Close with Bertie Gregory (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-   "year": "2026"
-  },
   "movie:21683": {
    "d": "Batman: Mystery of the Batwoman (2003): Fantasy/Animation film. Story: As if the Penguin wasn't enough to contend with, a… See cast and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/kaYyrF2iPVtGN3f4eKI0AqHtVNc.jpg",
@@ -1200,6 +1151,226 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Archer (2009)</h1>\n<p class=\"ssr-lead\">Smart-mouthed superspy Sterling Archer and his dysfunctional team of secret agents turn dangerous missions into messy misadventures around the globe.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 17 September 2009</li><li>Seasons: 14 · Episodes: 140</li><li>Created by: Adam Reed</li><li>Genres: Comedy, Action &amp; Adventure, Animation</li><li>TMDB rating: 7.9/10 (1520 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>H. Jon Benjamin as Sterling Archer (voice)</li><li>Judy Greer as Cheryl &#x27;Cherlene&#x27; Tunt (voice)</li><li>Amber Nash as Pam Poovey (voice)</li><li>Chris Parnell as Cyril Figgis (voice)</li><li>Aisha Tyler as Lana Kane (voice)</li><li>Lucky Yates as Dr. Krieger (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Archer (2009) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2009"
+  },
+  "tv:225383": {
+   "d": "Étoile (2025) is a Comedy and Drama TV series. Explore its story: In an ambitious gambit to save their storied…, cast, 1 season, and 8 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/7MuTFS9bT8p5e8gucHFM4m0E9u.jpg",
+   "industry": "world",
+   "k": "Étoile, Étoile TV series, Étoile cast, Étoile story, Étoile seasons, Étoile episodes, Étoile season 1, Étoile 8 episodes, Étoile first air date, Étoile trailer, Étoile Comedy, Étoile Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Luke Kirby"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlotte Gainsbourg"
+     },
+     {
+      "@type": "Person",
+      "name": "Lou de Laâge"
+     },
+     {
+      "@type": "Person",
+      "name": "Gideon Glick"
+     },
+     {
+      "@type": "Person",
+      "name": "David Alvarez"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 40,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Étoile (2025) is a Comedy and Drama TV series. Explore its story: In an ambitious gambit to save their storied…, cast, 1 season, and 8 episodes.",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7MuTFS9bT8p5e8gucHFM4m0E9u.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=225383",
+    "name": "Étoile",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 1,
+    "startDate": "2025-04-24",
+    "url": "https://flickatlas.co.uk/show?id=225383"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Étoile (2025)</h1>\n<p class=\"ssr-lead\">In an ambitious gambit to save their storied institutions, two world-renowned ballet companies in New York City and Paris swap their most talented stars.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 24 April 2025</li><li>Seasons: 1 · Episodes: 8</li><li>Created by: Amy Sherman-Palladino, Daniel Palladino</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 7.3/10 (40 votes)</li><li>Status: Canceled</li></ul>\n<h2>Top cast</h2>\n<ul><li>Luke Kirby as Jack McMillan</li><li>Charlotte Gainsbourg as Geneviève Lavigne</li><li>Lou de Laâge as Cheyenne Toussaint</li><li>Gideon Glick as Tobias Bell</li><li>David Alvarez as Gael Rodriguez</li><li>Ivan du Pontavice as Gabin</li><li>Taïs Vinolo as Mishi Duplessis</li><li>David Haig as Nicholas</li><li>LaMay Zhang as Susu</li><li>Simon Callow as Crispin Shamblee</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Étoile (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:241883": {
+   "d": "The Gardener (2025) is a Crime and Drama TV series. Explore its story: Elmer's mother used his lack of feelings to turn him…, cast, 1 season, and 6 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/mhRhipgo5ACKcoHMCOaD6a7h8gs.jpg",
+   "industry": "world",
+   "k": "The Gardener, The Gardener TV series, The Gardener cast, The Gardener story, The Gardener seasons, The Gardener episodes, The Gardener season 1, The Gardener 6 episodes, The Gardener first air date, The Gardener trailer, The Gardener Crime, The Gardener Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Álvaro Rico"
+     },
+     {
+      "@type": "Person",
+      "name": "Cecilia Suárez"
+     },
+     {
+      "@type": "Person",
+      "name": "Catalina Sopelana"
+     },
+     {
+      "@type": "Person",
+      "name": "María Vázquez"
+     },
+     {
+      "@type": "Person",
+      "name": "Francis Lorenzo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 147,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "The Gardener (2025) is a Crime and Drama TV series. Explore its story: Elmer's mother used his lack of feelings to turn him…, cast, 1 season, and 6 episodes.",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mhRhipgo5ACKcoHMCOaD6a7h8gs.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=241883",
+    "name": "The Gardener",
+    "numberOfEpisodes": 6,
+    "numberOfSeasons": 1,
+    "startDate": "2025-04-11",
+    "url": "https://flickatlas.co.uk/show?id=241883"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Gardener (2025)</h1>\n<p class=\"ssr-lead\">Elmer&#x27;s mother used his lack of feelings to turn him into a hitman. But when he falls for his next victim, their cover as calm local gardeners wavers.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 11 April 2025</li><li>Seasons: 1 · Episodes: 6</li><li>Created by: Miguel Sáez Carral</li><li>Genres: Crime, Drama</li><li>TMDB rating: 6.8/10 (147 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Álvaro Rico as Elmer</li><li>Cecilia Suárez as La China Jurado</li><li>Catalina Sopelana as Violeta</li><li>María Vázquez as Detective Carrera</li><li>Francis Lorenzo as Torres</li><li>Emma Suárez as Sabela Costeira</li><li>Isabel Garrido as Catuxa</li><li>Candela Solé as Lua</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Gardener (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:286183": {
+   "d": "Hollywood Arts (2026) is a Comedy and Drama TV series. Explore its story: Class is in session at Hollywood Arts!, cast, 1 season, and 12 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/2wjP481Z3G6NlXoUFutN5vcnqzC.jpg",
+   "industry": "world",
+   "k": "Hollywood Arts, Hollywood Arts TV series, Hollywood Arts cast, Hollywood Arts story, Hollywood Arts seasons, Hollywood Arts episodes, Hollywood Arts season 1, Hollywood Arts 12 episodes, Hollywood Arts first air date, Hollywood Arts trailer, Hollywood Arts Comedy, Hollywood Arts Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Daniella Monet"
+     },
+     {
+      "@type": "Person",
+      "name": "Alyssa Miles"
+     },
+     {
+      "@type": "Person",
+      "name": "Emmy Liu-Wang"
+     },
+     {
+      "@type": "Person",
+      "name": "Peyton Jackson"
+     },
+     {
+      "@type": "Person",
+      "name": "Erika Swayze"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 21,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Hollywood Arts (2026) is a Comedy and Drama TV series. Explore its story: Class is in session at Hollywood Arts!, cast, 1 season, and 12 episodes.",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2wjP481Z3G6NlXoUFutN5vcnqzC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=286183",
+    "name": "Hollywood Arts",
+    "numberOfEpisodes": 12,
+    "numberOfSeasons": 1,
+    "startDate": "2026-10-15",
+    "url": "https://flickatlas.co.uk/show?id=286183"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hollywood Arts (2026)</h1>\n<p class=\"ssr-lead\">Class is in session at Hollywood Arts! Self-proclaimed icon Trina Vega returns to steer gifted teens toward stardom, status and hilarious havoc.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 15 October 2026</li><li>Seasons: 1 · Episodes: 12</li><li>Genres: Comedy, Drama, Family</li><li>TMDB rating: 6.9/10 (21 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Daniella Monet as Trina Vega</li><li>Alyssa Miles as Emmy Ward</li><li>Emmy Liu-Wang as Pepper</li><li>Peyton Jackson as Qwest</li><li>Erika Swayze as Jen Z</li><li>Martin Kamm as Oscar Ward</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Hollywood Arts (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:295483": {
+   "d": "The Villainess Is Adored by the Prince of the Neighbor Kingdom (2026) is an Animation and Comedy TV series.",
+   "img": "https://image.tmdb.org/t/p/w780/6vaxQIDlAGtELnfyBMC9toTYMuX.jpg",
+   "industry": "world",
+   "k": "The Villainess Is Adored by the Prince of the Neighbor Kingdom, The Villainess Is Adored by the Prince of the Neighbor Kingdom TV series, The Villainess Is Adored by the Prince of the Neighbor Kingdom cast, The Villainess Is Adored by the Prince of the Neighbor Kingdom story, The Villainess Is Adored by the Prince of the Neighbor Kingdom seasons, The Villainess Is Adored by the Prince of the Neighbor Kingdom episodes, The Villainess Is Adored by the Prince of the Neighbor Kingdom season 1, The Villainess Is Adored by the Prince of the Neighbor Kingdom 12 episodes, The Villainess Is Adored by the Prince of the Neighbor Kingdom first air date, The Villainess Is Adored by the Prince of the Neighbor Kingdom trailer, The Villainess Is Adored by the Prince of the Neighbor Kingdom Animation, The Villainess Is Adored by the Prince of the Neighbor Kingdom Comedy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mai Fuchigami"
+     },
+     {
+      "@type": "Person",
+      "name": "Yuuichirou Umehara"
+     },
+     {
+      "@type": "Person",
+      "name": "Takuya Sato"
+     },
+     {
+      "@type": "Person",
+      "name": "Yumiri Hanamori"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 22,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "The Villainess Is Adored by the Prince of the Neighbor Kingdom (2026) is an Animation and Comedy TV series.",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6vaxQIDlAGtELnfyBMC9toTYMuX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=295483",
+    "name": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
+    "numberOfEpisodes": 12,
+    "numberOfSeasons": 1,
+    "startDate": "2026-01-11",
+    "url": "https://flickatlas.co.uk/show?id=295483"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Villainess Is Adored by the Prince of the Neighbor Kingdom (2026)</h1>\n<p class=\"ssr-lead\">Tiararose Lapis Clamentile is set to marry Hartknights, crown prince of Lapis Lazuli—until she suddenly remembers her past life and realizes she’s been reincarnated into her favorite game, The Ring of Lapis Lazuli, as the doomed villainess! But just as she’s about to lose hope, the crown prince of Aquasteed proposes instead. Could this unexpected turn finally lead to a happy ending of her own?</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 11 January 2026</li><li>Seasons: 1 · Episodes: 12</li><li>Genres: Animation, Comedy, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 7.0/10 (22 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mai Fuchigami as Tiararose (voice)</li><li>Yuuichirou Umehara as Aquasteed (voice)</li><li>Takuya Sato as Hartknights (voice)</li><li>Yumiri Hanamori as Akari (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll, Sony Liv, Crunchyroll Amazon Channel</li></ul>\n</article>",
+   "t": "The Villainess Is Adored by the Prince of the Neighbor Kingdom (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
   },
   "tv:30983": {
    "d": "Detective Conan (1996) is an Animation and Crime TV series. Explore its story: The son of a world famous mystery writer, Jimmy Kudo…, cast, and 1 season.",

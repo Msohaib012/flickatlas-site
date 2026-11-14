@@ -1,6 +1,6 @@
 {
  "bucket": "07",
- "count": 21,
+ "count": 28,
  "titles": {
   "movie:10407": {
    "backdrop_path": "/yUUIrkbDObGN6f77QkeDBV9Fsb.jpg",
@@ -1912,6 +1912,261 @@
    "vote_average": 7.593,
    "vote_count": 2778
   },
+  "tv:217407": {
+   "backdrop_path": "/taa2aoX0ZBZiydrmc4p3IBtmJz0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yu Natsume (voice)",
+     "n": "Kikunosuke Toya"
+    },
+    {
+     "c": "Himari Inuzuka (voice)",
+     "n": "Sayumi Suzushiro"
+    },
+    {
+     "c": "Rion Enomoto (voice)",
+     "n": "Yuka Nukui"
+    },
+    {
+     "c": "Shinji Makishima (voice)",
+     "n": "Ko Bonkobara"
+    },
+    {
+     "c": "Hibari Inuzuka (voice)",
+     "n": "Masaaki Mizunaka"
+    },
+    {
+     "c": "Sakura Natsume (voice)",
+     "n": "Hisako Kanemoto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2025-04-04",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 217407,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Childhood BFFs Himari and Yu’s vow of friendship hits turbulence when Yu reunites with his first crush in high school. Himari, who’s never known the fuzzy warmth of a crush, now must confront her feelings. Their shared dreams and peaceful days as a twosome gardening club are tested in this tale of love, flowers, and growing pains!",
+   "popularity": 8.355,
+   "poster_path": "/nAooVCW6PIfISHegaIwtQOZLBOC.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-04",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Can a Boy-Girl Friendship Survive?",
+   "trailer": {
+    "key": "YLswpaA5ON0",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.9,
+   "vote_count": 21
+  },
+  "tv:249907": {
+   "backdrop_path": "/k8uBEraJWZf9o7oJbaVHrECwvjC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Xylo Forbartz (voice)",
+     "n": "Yohei Azakami"
+    },
+    {
+     "c": "Teoritta (voice)",
+     "n": "Mayu Iizuka"
+    },
+    {
+     "c": "Patouche Kivia (voice)",
+     "n": "Shizuka Ishigami"
+    },
+    {
+     "c": "Dotta Luzlas (voice)",
+     "n": "Shun Horie"
+    },
+    {
+     "c": "Venetim Leopold (voice)",
+     "n": "Shunichi Toki"
+    },
+    {
+     "c": "Norgayu Senridge (voice)",
+     "n": "Yoji Ueda"
+    },
+    {
+     "c": "Tatsuya (voice)",
+     "n": "Yoshitsugu Matsuoka"
+    },
+    {
+     "c": "Tsav (voice)",
+     "n": "Jun Fukushima"
+    },
+    {
+     "c": "Jace Pertilact (voice)",
+     "n": "Shoya Chiba"
+    },
+    {
+     "c": "Neely (voice)",
+     "n": "Yoko Hikasa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-01-03",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 249907,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In a world where heroism is a punishment, Xylo Forbartz, a condemned goddess killer, battles endless hordes of monstrous abominations as part of Penal Hero Unit 9004. Death is no escape, only a cycle of resurrection and relentless combat. But when Xylo encounters a mysterious new goddess, their unlikely alliance sparks a rebellion that could shatter the chains of eternal punishment.",
+   "popularity": 7.9161,
+   "poster_path": "/kzyNxTZFcWjkYJU9T9aJ8vXTAFN.jpg",
+   "production_countries": [
+    "JP",
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-03",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Sentenced to Be a Hero",
+   "trailer": {
+    "key": "B5qZX2kh-7w",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.222,
+   "vote_count": 133
+  },
   "tv:250307": {
    "backdrop_path": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
    "budget": 0,
@@ -2060,6 +2315,220 @@
    "vote_average": 8.722,
    "vote_count": 1055
   },
+  "tv:252107": {
+   "backdrop_path": "/rhJAGhOvkR8270bdXSSCzQSPY1a.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Chief Designer",
+     "n": "Rhys Ifans"
+    },
+    {
+     "c": "Lyudmilla Raskova",
+     "n": "Anna Maxwell Martin"
+    },
+    {
+     "c": "Irina Morozova",
+     "n": "Agnes O'Casey"
+    },
+    {
+     "c": "Anastasia Belikova",
+     "n": "Alice Englert"
+    },
+    {
+     "c": "Sasha Polivanov",
+     "n": "Solly McLeod"
+    },
+    {
+     "c": "Valya Mironov",
+     "n": "Adam Nagaitis"
+    },
+    {
+     "c": "Tanya Mironova",
+     "n": "Ruby Ashbourne Serkis"
+    },
+    {
+     "c": "Sergei Nikilov",
+     "n": "Josef Davies"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [
+    "Ben Nedivi",
+    "Matt Wolpert",
+    "Ronald D. Moore"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-05-28",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "War & Politics"
+   ],
+   "id": 252107,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Step into a thrilling chapter inspired by For All Mankind. Same alt-history universe. Different perspective: the Soviet Union's. Go behind the Iron Curtain with the cosmonauts, engineers, and intelligence officers who risked it all in the race for the Moon.",
+   "popularity": 10.5482,
+   "poster_path": "/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-28",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "In the race for glory, every secret has gravity.",
+   "title": "Star City",
+   "trailer": {
+    "key": "V-yAMs307W4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.531,
+   "vote_count": 97
+  },
+  "tv:271607": {
+   "backdrop_path": "/dl3pdT1NZiqRM4aDBwsD2TtO8x9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rintaro Tsumugi (voice)",
+     "n": "Yoshinori Nakayama"
+    },
+    {
+     "c": "Kaoruko Waguri (voice)",
+     "n": "Honoka Inoue"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Gunma TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-07-06",
+   "genres": [
+    "Animation",
+    "Drama"
+   ],
+   "id": 271607,
+   "industry": "world",
+   "networks": [
+    "Gunma TV",
+    "TOKYO MX",
+    "BS11",
+    "Tochigi TV"
+   ],
+   "number_of_episodes": 13,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "When the intimidating Rintaro meets the open-minded Kaoruko, the unlikely duo grows closer. The issue? Their neighboring high schools hate each other.",
+   "popularity": 15.8286,
+   "poster_path": "/g1sYAQt0OeCxzyfagSEqxUlsLnt.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-06",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Fragrant Flower Blooms with Dignity",
+   "trailer": {
+    "key": "1FcVJxxPWh4",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.701,
+   "vote_count": 286
+  },
   "tv:273207": {
    "backdrop_path": "/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
    "budget": 0,
@@ -2172,6 +2641,358 @@
    "type": "tv",
    "vote_average": 7.986,
    "vote_count": 243
+  },
+  "tv:285807": {
+   "backdrop_path": "/pxnJeLSBdUikUOrWdNgrK1HQy2u.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Isaiah Stiles",
+     "n": "Matthew Law"
+    },
+    {
+     "c": "Coltrane Wilder",
+     "n": "Y'lan Noel"
+    },
+    {
+     "c": "Ebony Wilder",
+     "n": "Cleopatra Coleman"
+    },
+    {
+     "c": "Darren 'Stro' Stroman",
+     "n": "Tre Hale"
+    },
+    {
+     "c": "Dave Cerullo",
+     "n": "Domenick Lombardozzi"
+    },
+    {
+     "c": "Yvette Cruz",
+     "n": "Ariana Guerra"
+    },
+    {
+     "c": "Chris Choi",
+     "n": "Jonnie Park"
+    },
+    {
+     "c": "Candace Stiles",
+     "n": "Gabrielle Dennis"
+    },
+    {
+     "c": "James Sealey",
+     "n": "Michael Potts"
+    },
+    {
+     "c": "Charlie",
+     "n": "Sophina Brown"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Courtney Kemp Agboh",
+    "Tani Marole"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-05-14",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Crime"
+   ],
+   "id": 285807,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 9,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A relentless LAPD cop becomes obsessed with taking down the master thief behind a string of daring heists — and only one can come out on top.",
+   "popularity": 9.511,
+   "poster_path": "/NY7ZwSMw5PjoJdK2CObqiTj7Bm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-14",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2027-11-19",
+     "episode_count": 1,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Nemesis",
+   "trailer": {
+    "key": "M9nc3simqAE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 124
+  },
+  "tv:300507": {
+   "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Teagan Tao",
+     "n": "Miku Martineau"
+    },
+    {
+     "c": "Ella Emerson-Tao",
+     "n": "Jessica Paré"
+    },
+    {
+     "c": "Josh Regis",
+     "n": "Samuel Braun"
+    },
+    {
+     "c": "Cam Dillinger",
+     "n": "Kyle Clark"
+    },
+    {
+     "c": "Coach Matt Hayden",
+     "n": "Thomas Cadrot"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Netflix",
+   "created_by": [
+    "Vivian Lin"
+   ],
+   "director": [],
+   "episode_run_time": [
+    368,
+    46
+   ],
+   "first_air_date": "2026-09-10",
+   "genres": [
+    "Drama"
+   ],
+   "id": 300507,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "After a family scandal, teen rower Teagan Tao moves to a small town and joins an elite prep school's all-boys crew, sparking rivalry and attraction.",
+   "popularity": 12.1753,
+   "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-09-10",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Crew Girl",
+   "trailer": {
+    "key": "Xs5qsfqp-tA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 73
+  },
+  "tv:301507": {
+   "backdrop_path": "/3vuBfAuAltIR6UdANUQ1lLXOeia.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shane Hollander",
+     "n": "Hudson Williams"
+    },
+    {
+     "c": "Ilya Rozanov",
+     "n": "Connor Storrie"
+    },
+    {
+     "c": "Scott Hunter",
+     "n": "François Arnaud"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Crave",
+   "created_by": [
+    "Jacob Tierney"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-11-28",
+   "genres": [
+    "Drama"
+   ],
+   "id": 301507,
+   "industry": "world",
+   "networks": [
+    "Crave"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
+   "popularity": 18.837,
+   "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-28",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Heated Rivalry",
+   "trailer": {
+    "key": "ADi1iextoUM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.7,
+   "vote_count": 650
   },
   "tv:33907": {
    "backdrop_path": "/1wgqpYNtQDn7TDkyQ2jsIAqxorW.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "43",
- "count": 14,
+ "count": 20,
  "titles": {
   "movie:1213243": {
    "backdrop_path": "/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
@@ -1647,6 +1647,745 @@
    "type": "tv",
    "vote_average": 7.205,
    "vote_count": 193
+  },
+  "tv:247043": {
+   "backdrop_path": "/tW80eVy19UxCp9WZrmLiztdthSE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Aasmaan Singh",
+     "n": "Lakshya"
+    },
+    {
+     "c": "Ajay Talvar",
+     "n": "Bobby Deol"
+    },
+    {
+     "c": "Karishma Talvar",
+     "n": "Sahher Bambba"
+    },
+    {
+     "c": "Parvez",
+     "n": "Raghav Juyal"
+    },
+    {
+     "c": "Neeta",
+     "n": "Mona Singh"
+    },
+    {
+     "c": "Avtaar Singh",
+     "n": "Manoj Pahwa"
+    },
+    {
+     "c": "Sanya Ahmed",
+     "n": "Anya Singh"
+    },
+    {
+     "c": "Freddy Sodawallah",
+     "n": "Manish Chaudhary"
+    },
+    {
+     "c": "Jaraj Saxena",
+     "n": "Rajat Bedi"
+    },
+    {
+     "c": "Himself",
+     "n": "Shah Rukh Khan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Aryan Khan",
+    "Bilal Siddiqi",
+    "Manav Chauhan"
+   ],
+   "director": [
+    "Aryan Khan"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-18",
+   "genres": [
+    "Comedy",
+    "Action & Adventure"
+   ],
+   "id": 247043,
+   "industry": "bollywood",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 7,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "An ambitious outsider and his friends navigate the chaotic, larger-than-life, yet uncertain world of Bollywood.",
+   "popularity": 4.7522,
+   "poster_path": "/6QFnXFx5XJAp0SxMd9g23cbti4m.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-18",
+     "episode_count": 7,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "hi"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Ba***ds of Bollywood",
+   "trailer": {
+    "key": "dOZTeEG3yBQ",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.93,
+   "vote_count": 57
+  },
+  "tv:276643": {
+   "backdrop_path": "/fFJigkZ4QoI0MFO1ZN3tKSn2Xnl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Evie",
+     "n": "Aimee Lou Wood"
+    },
+    {
+     "c": "Noa",
+     "n": "Nabhaan Rizwan"
+    },
+    {
+     "c": "Suz",
+     "n": "Suranne Jones"
+    },
+    {
+     "c": "Josh",
+     "n": "Adam Long"
+    },
+    {
+     "c": "Izzie",
+     "n": "Liv Hill"
+    },
+    {
+     "c": "Callum",
+     "n": "Owen Cooper"
+    },
+    {
+     "c": "Dominic",
+     "n": "Ralph Davis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "channel": "BBC Three",
+   "created_by": [
+    "Aimee Lou Wood",
+    "Ralph Davis"
+   ],
+   "director": [],
+   "episode_run_time": [
+    30
+   ],
+   "first_air_date": "2025-10-07",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 276643,
+   "industry": "world",
+   "networks": [
+    "BBC Three"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Friday night. 7pm. Film Club Week 198. Evie hasn't left the house in six months after a 'wobble', and Film Club is her escape. A weekly chance to create a world of wonder, deck the garage out in whatever the movie calls for and spend a few uninterrupted hours with Noa - her best friend and one of the few mates who still shows up. But tonight, things are different. Noa's got big news. A dream job is taking him across the other side of the country, which means that all of this is ending.",
+   "popularity": 2.4231,
+   "poster_path": "/5koeXuj7klU2vfVEbLqYUfd0gqK.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-06",
+     "episode_count": 6,
+     "name": "Series 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "Film Club",
+   "trailer": {
+    "key": "S2RttLOjReo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.339,
+   "vote_count": 31
+  },
+  "tv:278043": {
+   "backdrop_path": "/5p423VlhPXf7681XyZCL4khIJLl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Miyu Suzuki (voice)",
+     "n": "Sayumi Suzushiro"
+    },
+    {
+     "c": "Yuusuke Tani (voice)",
+     "n": "Shogo Sakata"
+    },
+    {
+     "c": "Manami Watanabe (voice)",
+     "n": "Yuna Taniguchi"
+    },
+    {
+     "c": "Aoi Sato (voice)",
+     "n": "Konatsu Hirabayashi"
+    },
+    {
+     "c": "Kentaro Yamada (voice)",
+     "n": "Anji Iwata"
+    },
+    {
+     "c": "Shino Azuma (voice)",
+     "n": "Miyuri Shimabukuro"
+    },
+    {
+     "c": "Shuuji Taira (voice)",
+     "n": "Wataru Katoh"
+    },
+    {
+     "c": "Natsumi Nishi (voice)",
+     "n": "Cocoro Omori"
+    },
+    {
+     "c": "Rikako Honda (voice)",
+     "n": "Tomori Kusunoki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG13",
+   "channel": "MBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-01-11",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 278043,
+   "industry": "world",
+   "networks": [
+    "MBS",
+    "TBS",
+    "CBC",
+    "Tulip Television",
+    "SBC",
+    "BSN",
+    "tys",
+    "NBC",
+    "HBC",
+    "RKK",
+    "i-Television",
+    "SBS",
+    "IBC",
+    "BSS",
+    "MRO",
+    "OBS",
+    "TUF",
+    "RSK",
+    "TUY",
+    "tbc",
+    "RKB",
+    "KUTV",
+    "RBC",
+    "UTY",
+    "RCC",
+    "MRT",
+    "ATV",
+    "MBC"
+   ],
+   "number_of_episodes": 25,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Suzuki's a high school girl in love, but the guy she's fallen for is nothing like her! While she's cheerful, outgoing, and always trying to fit in, her classmate Yusuke Tani is stoic, quiet, and doesn't seem to care what people think of him. Will Suzuki be able to overcome her anxieties and ask him out, or will she discover that opposites really don't attract?",
+   "popularity": 15.0676,
+   "poster_path": "/9hRuMU33DBz4z1vaYBRqLLuFFbQ.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-11",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "You and I Are Polar Opposites",
+   "trailer": {
+    "key": "tCs7mtzrjpE",
+    "name": "Dub Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.642,
+   "vote_count": 106
+  },
+  "tv:285743": {
+   "backdrop_path": "/jucumj4K3r6zbJgzPJYeptEn4ya.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shio Minamo (voice)",
+     "n": "Rin Kusumi"
+    },
+    {
+     "c": "Akari Hiodoshi (voice)",
+     "n": "Yu Serizawa"
+    },
+    {
+     "c": "Runa Tsukimi (voice)",
+     "n": "Sae Hiratsuka"
+    },
+    {
+     "c": "Yonosuke Sakai (voice)",
+     "n": "Takehiro Urao"
+    },
+    {
+     "c": "Haru Hinata (voice)",
+     "n": "Yuuki Yamamoto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15+",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-06",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 285743,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo",
+    "TV Aichi",
+    "TVQ",
+    "TV Osaka",
+    "TVh",
+    "TSC"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "High school freshman Sakai Yonosuke, aka Eiyu, is obsessed with rom-coms, especially ones about childhood friends. But even though he has two childhood friends of his own—Shio and Akari—he's sadly given up on romance becoming a reality. Little does he know, both girls have the hots for him! A humorous will-they-or-won't-they rom-com about friendship, love, and first crushes!",
+   "popularity": 5.0884,
+   "poster_path": "/ljWgNmcXKmj1t6fXYxVFvdqNJeP.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-06",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "You Can't Be in a Rom-Com with Your Childhood Friends!",
+   "trailer": {
+    "key": "c6q0M0UINbU",
+    "name": "You can't be in a rom-com with your childhood friend! | PV 1 (English subs)",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.075,
+   "vote_count": 20
+  },
+  "tv:296243": {
+   "backdrop_path": "/dnB98op1crXpolR1PXg61jW4ej3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Aylin",
+     "n": "Lilith Curiel"
+    },
+    {
+     "c": "Raúl",
+     "n": "Gerardo Taracena"
+    },
+    {
+     "c": "Ezequiel",
+     "n": "Harold Torres"
+    },
+    {
+     "c": "Vero",
+     "n": "Erica Lynn Cunanan"
+    },
+    {
+     "c": "Miseria",
+     "n": "Lizeth Selene"
+    },
+    {
+     "c": "Walter",
+     "n": "Roberto Aguilar"
+    },
+    {
+     "c": "Hernán",
+     "n": "Juan Daniel Garcia Treviño"
+    },
+    {
+     "c": "Ale Skin",
+     "n": "Luis Curiel"
+    },
+    {
+     "c": "Gordo Sanchez",
+     "n": "Hugo Albores"
+    },
+    {
+     "c": "",
+     "n": "Yalitza Aparicio"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC16",
+   "channel": "Prime Video",
+   "created_by": [
+    "Daniel Burman"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-31",
+   "genres": [
+    "Mystery",
+    "Drama"
+   ],
+   "id": 296243,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 7,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Aylín, a teenager from a working-class neighborhood, discovers her supernatural abilities: when she eats soil, she has visions that help her find missing people. Together with her brother and friends, she learns to master this new power. As her skills strengthen, she becomes a heroine fighting against the violence and injustice plaguing her neighborhood.",
+   "popularity": 2.3803,
+   "poster_path": "/nL8b75uzqtQliip7R3smUXI8wAd.jpg",
+   "production_countries": [
+    "UY",
+    "ES",
+    "AR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-31",
+     "episode_count": 7,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Unburied",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.3,
+   "vote_count": 21
+  },
+  "tv:303143": {
+   "backdrop_path": "/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shin Seo-ri / Kang Dan-sim",
+     "n": "Im Ji-yeon"
+    },
+    {
+     "c": "Cha Se-gye / Yi Hyeon",
+     "n": "Heo Nam-jun"
+    },
+    {
+     "c": "Choi Mun-do / King An-jeong",
+     "n": "Jang Seung-jo"
+    },
+    {
+     "c": "Bae Gwang-nam",
+     "n": "Kim Min-seok"
+    },
+    {
+     "c": "Yoon Ji-hyo",
+     "n": "Lee Se-hee"
+    },
+    {
+     "c": "Son Jae-han",
+     "n": "Yoon Byung-hee"
+    },
+    {
+     "c": "Cha Dal-su",
+     "n": "Yun Ju-sang"
+    },
+    {
+     "c": "Mo Tae-hee",
+     "n": "Chae Seo-an"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "SBS",
+   "created_by": [
+    "Kang Hyun-joo"
+   ],
+   "director": [
+    "Han Tae-seob"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-05-08",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 303143,
+   "industry": "world",
+   "networks": [
+    "SBS"
+   ],
+   "number_of_episodes": 14,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A Joseon-era villain doomed to die opens her eyes in modern-day Seoul — where a ruthless chaebol heir may be her last chance to rewrite her fate.",
+   "popularity": 14.1563,
+   "poster_path": "/rYLQbyIvbEd0lF84iXrx7CbPcBB.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-08",
+     "episode_count": 14,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "The Villainess Meets a New World.",
+   "title": "My Royal Nemesis",
+   "trailer": {
+    "key": "efj9rk9mCeo",
+    "name": "Final Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.7,
+   "vote_count": 117
   },
   "tv:57243": {
    "backdrop_path": "/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "65",
- "count": 20,
+ "count": 24,
  "titles": {
   "movie:1001865": {
    "backdrop_path": "/wMNY6tU9WOUeAMRfqbCYwceOl9u.jpg",
@@ -260,113 +260,6 @@
    "vote_average": 5.851,
    "vote_count": 451
   },
-  "movie:1057265": {
-   "backdrop_path": "/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
-   "budget": 36500000,
-   "cast": [
-    {
-     "c": "Peddi Pehelwan",
-     "n": "Ram Charan"
-    },
-    {
-     "c": "Achiyyamma",
-     "n": "Janhvi Kapoor"
-    },
-    {
-     "c": "Gournaidu",
-     "n": "Shiva Rajkumar"
-    },
-    {
-     "c": "Appalasoori",
-     "n": "Jagapati Babu"
-    },
-    {
-     "c": "Ram Bujji",
-     "n": "Divyendu Sharma"
-    },
-    {
-     "c": "Kiran Singh Baiswal",
-     "n": "Boman Irani"
-    },
-    {
-     "c": "Ranadheer Sisodia",
-     "n": "Ravi Kishan"
-    },
-    {
-     "c": "Subhadra Rao",
-     "n": "Rao Ramesh"
-    },
-    {
-     "c": "Villager",
-     "n": "Upendra Limaye"
-    },
-    {
-     "c": "Ammathalli",
-     "n": "John Vijay"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 16+",
-   "date_kind": "release",
-   "director": [
-    "Buchi Babu Sana"
-   ],
-   "genres": [
-    "Action",
-    "Drama"
-   ],
-   "id": 1057265,
-   "industry": "bollywood",
-   "origin_country": [
-    "IN"
-   ],
-   "original_language": "te",
-   "overview": "In a village that doesn't officially exist, a laborer's unmatched athletic talent becomes his weapon to fight for his people's right to be recognized.",
-   "popularity": 4.878,
-   "poster_path": "/vPWDScBQcgtuCMBWuSut0aYeDAT.jpg",
-   "production_countries": [
-    "IN"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-06-04",
-   "revenue": 35700000,
-   "runtime": 189,
-   "source": "catalogue",
-   "spoken_languages": [
-    "te"
-   ],
-   "status": "Released",
-   "tagline": "Hurt. Bruised. But not beaten.",
-   "title": "Peddi",
-   "trailer": {
-    "key": "AdEE5xFQelY",
-    "name": "Peddi Official Trailer (Telugu) | Ram Charan | Janhvi Kapoor | A R Rahman | Buchi Babu Sana",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 5.6,
-   "vote_count": 74
-  },
   "movie:10765": {
    "backdrop_path": "/bMWO0HQwfIe85CmXbWSI8Q6cCC2.jpg",
    "budget": 15000000,
@@ -485,120 +378,6 @@
    "type": "movie",
    "vote_average": 5.956,
    "vote_count": 439
-  },
-  "movie:1148365": {
-   "backdrop_path": "/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Sean",
-     "n": "John Cena"
-    },
-    {
-     "c": "Aimee",
-     "n": "Jessica Biel"
-    },
-    {
-     "c": "Ted",
-     "n": "Arturo Castro"
-    },
-    {
-     "c": "Crosby",
-     "n": "Sam Richardson"
-    },
-    {
-     "c": "Charmaine",
-     "n": "Teyonah Parris"
-    },
-    {
-     "c": "Helen",
-     "n": "Danai Gurira"
-    },
-    {
-     "c": "Robbie",
-     "n": "Golshifteh Farahani"
-    },
-    {
-     "c": "Mosier",
-     "n": "Corey Stoll"
-    },
-    {
-     "c": "Falko",
-     "n": "Daniel Bernhardt"
-    },
-    {
-     "c": "Mustafa",
-     "n": "Randeep Hooda"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 16+",
-   "date_kind": "release",
-   "director": [
-    "Sam Hargrave"
-   ],
-   "genres": [
-    "Action",
-    "Comedy",
-    "Adventure"
-   ],
-   "id": 1148365,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
-   "popularity": 67.7588,
-   "poster_path": "/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "Apple TV"
-    },
-    {
-     "name": "Apple TV Amazon Channel"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
-     "name": "Apple TV",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
-     "name": "Apple TV Amazon Channel",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-05",
-   "revenue": 0,
-   "runtime": 127,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "Save the world, bring your friends.",
-   "title": "Matchbox the Movie",
-   "trailer": {
-    "key": "7xfqITrMDcI",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.536,
-   "vote_count": 629
   },
   "movie:12165": {
    "backdrop_path": "/7BSSLv4MvBjEmercZIolaOUR42q.jpg",
@@ -2130,6 +1909,106 @@
    "vote_average": 8.297,
    "vote_count": 9847
   },
+  "tv:236565": {
+   "backdrop_path": "/lkzrT7Vpnd2OZ2bpKXjWsb9KFc0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Arel (voice)",
+     "n": "Kensho Ono"
+    },
+    {
+     "c": "Reiner (voice)",
+     "n": "Saori Hayami"
+    },
+    {
+     "c": "Lilia (voice)",
+     "n": "Sumire Uesaka"
+    },
+    {
+     "c": "Kufa (voice)",
+     "n": "Rumi Okubo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-01",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 236565,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In this world a goddess bestows each person with a class and skills that will determine one's life direction. Despite being born the son of a Sword Princess and an Archmage, Arel has not received a class or skills. So, Arel must rely on his own grit, determination and natural talents to pursue and achieve greatness—becoming a new kind of hero. A hero without a class!",
+   "popularity": 4.8609,
+   "poster_path": "/wEJKnnOIl8PhVhkgghMiMRTc5tL.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HiDive"
+    },
+    {
+     "name": "Hidive Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-01",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Hero Without a Class: Who Even Needs Skills?!",
+   "trailer": {
+    "key": "qByGD57XLxY",
+    "name": "Dub Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.2,
+   "vote_count": 36
+  },
   "tv:258165": {
    "backdrop_path": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
    "budget": 0,
@@ -2225,6 +2104,610 @@
    "type": "tv",
    "vote_average": 7.806,
    "vote_count": 157
+  },
+  "tv:259265": {
+   "backdrop_path": "/tsatObfXdVBtYmHkjdBEKzKzyNB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rachel Harkin",
+     "n": "Camila Morrone"
+    },
+    {
+     "c": "Nicky Cunningham",
+     "n": "Adam DiMarco"
+    },
+    {
+     "c": "Portia",
+     "n": "Gus Birney"
+    },
+    {
+     "c": "Jules",
+     "n": "Jeff Wilbusch"
+    },
+    {
+     "c": "Nell",
+     "n": "Karla Crome"
+    },
+    {
+     "c": "Victoria",
+     "n": "Jennifer Jason Leigh"
+    },
+    {
+     "c": "Boris",
+     "n": "Ted Levine"
+    },
+    {
+     "c": "Jude",
+     "n": "Sawyer Fraser"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Haley Z. Boston"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-26",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 259265,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A bride has a feeling that something horrifying will happen at her wedding — and the closer to the altar she gets, the worse it becomes.",
+   "popularity": 8.2277,
+   "poster_path": "/tuj37DlqEqib8sTO4h3nHJeTAJ2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-26",
+     "episode_count": 8,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Are you sure he's the one?",
+   "title": "Something Very Bad Is Going to Happen",
+   "trailer": {
+    "key": "vMc_pWm7G7o",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.582,
+   "vote_count": 232
+  },
+  "tv:272265": {
+   "backdrop_path": "/tdUxBzgtMeEbFa9hgbrq4PIT6mU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fran Sharp",
+     "n": "Eve Myles"
+    },
+    {
+     "c": "Ria Powell",
+     "n": "Gabrielle Creevy"
+    },
+    {
+     "c": "Lee Mace",
+     "n": "Sion Daniel Young"
+    },
+    {
+     "c": "Richard Abbott",
+     "n": "Emun Elliott"
+    },
+    {
+     "c": "Sharla",
+     "n": "Bethan Mary-James"
+    },
+    {
+     "c": "Simon Sharp",
+     "n": "Julian Lewis Jones"
+    },
+    {
+     "c": "Mike Rice",
+     "n": "Joseph Ollman"
+    },
+    {
+     "c": "Derek Abbott",
+     "n": "Clive Russell"
+    },
+    {
+     "c": "Helen",
+     "n": "Catherine Ayers"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18+",
+   "channel": "BBC One",
+   "created_by": [
+    "Matthew Barry"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2025-09-01",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 272265,
+   "industry": "world",
+   "networks": [
+    "BBC One"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When a cleaner is hired by a wealthy businesswoman, her life changes forever as their initial friendship threatens to become a manipulative, psychological game of cat and mouse.",
+   "popularity": 2.9599,
+   "poster_path": "/amPFS0P9eZSgu23mmNTZS8cpnHF.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-01",
+     "episode_count": 4,
+     "name": "Series 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Don't let her in.",
+   "title": "The Guest",
+   "trailer": {
+    "key": "mhvkrFAczoE",
+    "name": "The Guest | TV Series | Official Trailer | Coming this Friday",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.76,
+   "vote_count": 25
+  },
+  "tv:277665": {
+   "backdrop_path": "/wu36nyFmJVZOHjV2MNhFMmmA8ja.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Anne Shirley (voice)",
+     "n": "Honoka Inoue"
+    },
+    {
+     "c": "Marilla Cuthbert (voice)",
+     "n": "Aya Nakamura"
+    },
+    {
+     "c": "Gilbert Blythe (voice)",
+     "n": "Naoya Miyase"
+    },
+    {
+     "c": "Diana Barry (voice)",
+     "n": "Yume Miyamoto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "channel": "NHK Educational TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-04-05",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Family"
+   ],
+   "id": 277665,
+   "industry": "world",
+   "networks": [
+    "NHK Educational TV"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Anne Shirley, an orphan, is fostered by farmer Matthew Cuthbert and his sister Marilla, who were expecting a boy to be sent them to help with their farm work. They accept Anne, who quickly endears herself to them and to the local villagers.",
+   "popularity": 20.6997,
+   "poster_path": "/ttSQg44aZMwcwotm4cBAzsh5KcB.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-04",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Anne Shirley",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 41
+  },
+  "tv:278165": {
+   "backdrop_path": "/cXCqkzOZ3vAgaskIBwDR2zTkH0M.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Thee",
+     "n": "Naravit Lertratkosum"
+    },
+    {
+     "c": "Peach",
+     "n": "Phuwin Tangsakyuen"
+    },
+    {
+     "c": "Rome",
+     "n": "Jakrapatr Kaewpanpong"
+    },
+    {
+     "c": "Mok",
+     "n": "Supha Sangaworawong"
+    },
+    {
+     "c": "Tawan",
+     "n": "Tanapon Sukumpantanasan"
+    },
+    {
+     "c": "Aran",
+     "n": "Pongsapak Udomphoch"
+    },
+    {
+     "c": "Plub",
+     "n": "Pattraphus Borattasuwan"
+    },
+    {
+     "c": "Touch",
+     "n": "Teeradech Vitheepanich"
+    },
+    {
+     "c": "Note",
+     "n": "Chayakorn Jutamas"
+    },
+    {
+     "c": "Nuch",
+     "n": "Tachakorn Boonlupyanun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "น 13+",
+   "channel": "GMM 25",
+   "created_by": [],
+   "director": [
+    "Nuttapong Mongkolsawas"
+   ],
+   "episode_run_time": [
+    65
+   ],
+   "first_air_date": "2025-11-15",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 278165,
+   "industry": "world",
+   "networks": [
+    "GMM 25"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "An introverted photographer's life changes when a former mafia boss hires him for love advice, only to end up falling for him instead.",
+   "popularity": 5.2966,
+   "poster_path": "/vq13Nvh0mMUAWGVA9TB9JnvoO5M.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-08",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-11-15",
+     "episode_count": 10,
+     "name": "Me and Thee",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Me and Thee",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 9.2,
+   "vote_count": 31
+  },
+  "tv:299365": {
+   "backdrop_path": "/nxOsQE8UrifZpQ9hcZ7xjMHEbmn.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hwang Jun-hyeon / Kang Yong-ho",
+     "n": "Lee Jun-young"
+    },
+    {
+     "c": "Kang Yong-ho",
+     "n": "Son Hyun-joo"
+    },
+    {
+     "c": "Kang Bang-geul",
+     "n": "Lee Ju-myoung"
+    },
+    {
+     "c": "Kang Jae-kyung",
+     "n": "Jeon Hye-jin"
+    },
+    {
+     "c": "Kang Jae-seong",
+     "n": "Jin Goo"
+    },
+    {
+     "c": "Cho Seon-hee",
+     "n": "Yun Yoo-sun"
+    },
+    {
+     "c": "Park Bong-gi",
+     "n": "Lee Sung-wook"
+    },
+    {
+     "c": "Lee Sang-jae",
+     "n": "Kim Jong-tae"
+    },
+    {
+     "c": "Secretary Yeo",
+     "n": "Park Cheon"
+    },
+    {
+     "c": "Na Byeong-mo",
+     "n": "Jeong Jae-seong"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "JTBC",
+   "created_by": [
+    "San Kyung",
+    "Kim Soon-ok",
+    "Hyun Ji-min"
+   ],
+   "director": [
+    "Christine Ko"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-05-30",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 299365,
+   "industry": "world",
+   "networks": [
+    "JTBC"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "After a powerful conglomerate chairman is betrayed by his children and wakes up in the body of a young soccer player, he uses his business genius and athletic physique to seek ultimate revenge against his family.",
+   "popularity": 6.667,
+   "poster_path": "/kPHv37XVpyWCsae3gtHujw1wPyW.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-30",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Starting over from the bottom of my own company.",
+   "title": "Reborn Rookie",
+   "trailer": {
+    "key": "C1Dipc12CtY",
+    "name": "[New Employee Chairman Kang] A parachute intern has arrived 🪂 but with a side of Chairman 💥 | Tea...",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.286,
+   "vote_count": 28
   },
   "tv:33765": {
    "backdrop_path": "/gOyIKp7adMCzFrYjc5rxmt2PNhi.jpg",

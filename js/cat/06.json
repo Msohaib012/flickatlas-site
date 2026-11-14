@@ -1,6 +1,6 @@
 {
  "bucket": "06",
- "count": 32,
+ "count": 37,
  "titles": {
   "movie:10606": {
    "backdrop_path": "/4wPZaKaucs4lN7V4JWwkCN8vSwp.jpg",
@@ -858,123 +858,6 @@
    "type": "movie",
    "vote_average": 5.599,
    "vote_count": 136
-  },
-  "movie:1340206": {
-   "backdrop_path": "/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
-   "budget": 7000000,
-   "cast": [
-    {
-     "c": "Niki White",
-     "n": "Leo Woodall"
-    },
-    {
-     "c": "Harry Horowitz",
-     "n": "Dustin Hoffman"
-    },
-    {
-     "c": "Uri",
-     "n": "Lior Raz"
-    },
-    {
-     "c": "Ruthie",
-     "n": "Havana Rose Liu"
-    },
-    {
-     "c": "Marla",
-     "n": "Tovah Feldshuh"
-    },
-    {
-     "c": "Yoni",
-     "n": "Gil Cohen"
-    },
-    {
-     "c": "Benny",
-     "n": "Nissan Sakira"
-    },
-    {
-     "c": "Mansion Homeowner",
-     "n": "Alisen Richmond-Peck"
-    },
-    {
-     "c": "Ellyn",
-     "n": "Ellyn Jameson"
-    },
-    {
-     "c": "Studio Manager",
-     "n": "Tim Blair"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Daniel Roher"
-   ],
-   "genres": [
-    "Crime",
-    "Thriller"
-   ],
-   "id": 1340206,
-   "industry": "world",
-   "origin_country": [
-    "CA",
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
-   "popularity": 13.1903,
-   "poster_path": "/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
-   "production_countries": [
-    "CA",
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "Paramount Plus Premium"
-    },
-    {
-     "name": "Paramount Plus Essential"
-    },
-    {
-     "name": "Paramount+ Amazon Channel"
-    },
-    {
-     "name": "Paramount+ Roku Premium Channel"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-05-29",
-   "revenue": 13505364,
-   "runtime": 108,
-   "source": "catalogue",
-   "spoken_languages": [
-    "he",
-    "en",
-    "ko"
-   ],
-   "status": "Released",
-   "tagline": "Everybody has one hidden talent.",
-   "title": "Tuner",
-   "trailer": {
-    "key": "XiehvETTjTQ",
-    "name": "TUNER Trailer 4K (2026) | Leo Woodall, Havana Rose Liu, Dustin Hoffman, Jean Reno | Crime, Thriller",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.555,
-   "vote_count": 672
   },
   "movie:1366906": {
    "backdrop_path": "/1pI2Crm9YjSDbH75NZaW8FrYjs9.jpg",
@@ -3849,6 +3732,667 @@
    "type": "tv",
    "vote_average": 6.9,
    "vote_count": 151
+  },
+  "tv:281006": {
+   "backdrop_path": "/xMgfvjhKwuFTyoXNpa8UVV74rek.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Han Beom-woo",
+     "n": "Kang Ha-neul"
+    },
+    {
+     "c": "Mo Yeon-ju",
+     "n": "Go Min-si"
+    },
+    {
+     "c": "Jin Myung-sook",
+     "n": "Kim Shin-rock"
+    },
+    {
+     "c": "Shin Choon-seung",
+     "n": "Yoo Su-bin"
+    },
+    {
+     "c": "Han Sun-woo",
+     "n": "Bae Na-ra"
+    },
+    {
+     "c": "Jang Young-hye",
+     "n": "Hong Hwa-yeon"
+    },
+    {
+     "c": "Lee Yu-jin",
+     "n": "Bae Yu-ram"
+    },
+    {
+     "c": "Han Yeo-ul",
+     "n": "Oh Min-ae"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "ENA",
+   "created_by": [
+    "Park Dan-hee",
+    "Han Jun-hee",
+    "Jung Su-yoon"
+   ],
+   "director": [
+    "Park Dan-hee"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-12",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 281006,
+   "industry": "world",
+   "networks": [
+    "ENA"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Driven to claim top culinary honors, an arrogant heir meets a low-profile but stubborn chef whose recipes astonish him — sparking an unlikely romance.",
+   "popularity": 4.7337,
+   "poster_path": "/eJLFeRmxssjQgV1wmtgdKwzYLEC.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-06",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-05-12",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Tastefully Yours",
+   "trailer": {
+    "key": "yKBesOo3PMg",
+    "name": "Official Clip [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.3,
+   "vote_count": 77
+  },
+  "tv:282606": {
+   "backdrop_path": "/pfq6LJ2XgmALbsqgfRkVLdWcqHS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Suárez",
+     "n": "Álvaro Morte"
+    },
+    {
+     "c": "Carrillo",
+     "n": "Eduard Fernández"
+    },
+    {
+     "c": "Gutiérrez Mellado",
+     "n": "Manolo Solo"
+    },
+    {
+     "c": "Tejero",
+     "n": "David Lorente"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Raúl Arévalo"
+    },
+    {
+     "c": "Martín Villa",
+     "n": "Antonio Casares"
+    },
+    {
+     "c": "Carrascal",
+     "n": "Roberto Chapu"
+    },
+    {
+     "c": "Ballesteros",
+     "n": "Antonio Esquinas"
+    },
+    {
+     "c": "González",
+     "n": "Juan Ignacio Fernández"
+    },
+    {
+     "c": "Guerra",
+     "n": "Samuel López"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "Movistar Plus",
+   "created_by": [
+    "Javier Cercas"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43,
+    53
+   ],
+   "first_air_date": "2025-11-20",
+   "genres": [
+    "Drama",
+    "War & Politics"
+   ],
+   "id": 282606,
+   "industry": "world",
+   "networks": [
+    "Movistar Plus"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "FR",
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Madrid, Spain, February 23, 1981. A group of Civil Guards storm into the Congress of Deputies and terrorize those present by firing shots into the air. Only three men remain unmoved: Prime Minister Adolfo Suárez; Vice President Manuel Gutiérrez Mellado; and Santiago Carrillo, leader of the Communist Party.",
+   "popularity": 2.609,
+   "poster_path": "/scY4Pt273NuYlZtlAkm8LKqOKGA.jpg",
+   "production_countries": [
+    "ES",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-20",
+     "episode_count": 4,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Anatomy of a Moment",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.281,
+   "vote_count": 32
+  },
+  "tv:291506": {
+   "backdrop_path": "/oGORe3yzIPBueHVHroSmsaMVKDi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nicky Dardano",
+     "n": "Dan Levy"
+    },
+    {
+     "c": "Linda Dardano",
+     "n": "Laurie Metcalf"
+    },
+    {
+     "c": "Morgan Dardano",
+     "n": "Taylor Ortega"
+    },
+    {
+     "c": "Natalie",
+     "n": "Abby Quinn"
+    },
+    {
+     "c": "Max",
+     "n": "Jack Innanen"
+    },
+    {
+     "c": "Yusuf",
+     "n": "Boran Kuzum"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Dan Levy",
+    "Rachel Sennott"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-09",
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 291506,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Blackmailed into working for some very dangerous people, two deeply incapable siblings become the most disorganized duo in organized crime.",
+   "popularity": 7.0838,
+   "poster_path": "/mgXTCQ86lV3oudr2KXXO5zGEqIb.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-09",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "tr"
+   ],
+   "status": "Returning Series",
+   "tagline": "Partners in disorganized crime.",
+   "title": "Big Mistakes",
+   "trailer": {
+    "key": "tTGeLuCs97Q",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.7,
+   "vote_count": 66
+  },
+  "tv:296206": {
+   "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Manager Kim",
+     "n": "So Ji-sub"
+    },
+    {
+     "c": "Seong Han-su",
+     "n": "Choi Dae-hoon"
+    },
+    {
+     "c": "Park Jin-cheol",
+     "n": "Yoon Kyung-ho"
+    },
+    {
+     "c": "Ju Gang-chan",
+     "n": "Joo Sang-wook"
+    },
+    {
+     "c": "Jung Sang-a",
+     "n": "Son Na-eun"
+    },
+    {
+     "c": "Kim Min-ji",
+     "n": "Seo Su-min"
+    },
+    {
+     "c": "Im Ho-won",
+     "n": "Park Jin-woo"
+    },
+    {
+     "c": "Kang Guk-cheol (Mole Cricket)",
+     "n": "Won Hyun-jun"
+    },
+    {
+     "c": "",
+     "n": "Uhm Hyun-kyung"
+    },
+    {
+     "c": "",
+     "n": "Ham Eun-jung"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "SBS",
+   "created_by": [
+    "Nam Dae-joong",
+    "Lee Sung-young",
+    "Lee So-eun"
+   ],
+   "director": [
+    "Lee Sung-young",
+    "Lee So-eun"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-06-26",
+   "genres": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+   ],
+   "id": 296206,
+   "industry": "world",
+   "networks": [
+    "SBS"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+   "popularity": 19.3538,
+   "poster_path": "/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-12",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2026-06-26",
+     "episode_count": 10,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Daughter missing, past unleashed.",
+   "title": "Agent Kim Reactivated",
+   "trailer": {
+    "key": "k5IDEniQNEk",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.392,
+   "vote_count": 226
+  },
+  "tv:297306": {
+   "backdrop_path": "/b0mZzFVmHwudFgI4uLvxvRnLPUV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Carmen Aristegui"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M18",
+   "channel": "",
+   "created_by": [],
+   "director": [
+    "Matías Gueilburt"
+   ],
+   "episode_run_time": [
+    179
+   ],
+   "first_air_date": "2025-08-14",
+   "genres": [
+    "Documentary",
+    "Crime"
+   ],
+   "id": 297306,
+   "industry": "world",
+   "networks": [],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "AR"
+   ],
+   "original_language": "es",
+   "overview": "A docuseries that reveals the decades of abuse and deception of Father Marcial Maciel, the infamous leader of the Legionaries of Christ.",
+   "popularity": 0.6439,
+   "poster_path": "/tCc4SPjMtFGIT6KWlG6XqgzKOSd.jpg",
+   "production_countries": [
+    "AR",
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-14",
+     "episode_count": 4,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Marcial Maciel: The Wolf of God",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.6,
+   "vote_count": 27
+  },
+  "tv:314006": {
+   "backdrop_path": "/iY96OP57eKDmsIRkUWwQnPZxLUu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr. Andrés Ferrara",
+     "n": "Juan Pablo Medina"
+    },
+    {
+     "c": "Dra. Ximena Franco",
+     "n": "Gabriela de la Garza"
+    },
+    {
+     "c": "Dra. Julia Jasso",
+     "n": "Stephanie Cayo"
+    },
+    {
+     "c": "Dr. Marco Santamaría",
+     "n": "Iván Sánchez"
+    },
+    {
+     "c": "Dra. Alba Granados",
+     "n": "Macarena García"
+    },
+    {
+     "c": "Dr. Ricardo Quintana",
+     "n": "Martín Saracho"
+    },
+    {
+     "c": "Dra. Elisa Gaona",
+     "n": "Nicolasa Ortíz Monasterio"
+    },
+    {
+     "c": "Dr. José Ramos",
+     "n": "José Ramón Barreto"
+    },
+    {
+     "c": "Carolina Ferrara",
+     "n": "Valentina Buzzurro"
+    },
+    {
+     "c": "Dr. Lorenzo Torres",
+     "n": "Giuseppe Gamba"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [
+    "Francisco Franco Alba",
+    "Andres Lopez Pacha",
+    "Harold Ariza Cortes"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-04",
+   "genres": [
+    "Drama"
+   ],
+   "id": 314006,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 40,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "After an attack wipes 12 years of memories, a brilliant doctor must relearn his past, navigate tangled romances and a looming scandal over a new medication.",
+   "popularity": 5.3121,
+   "poster_path": "/pG7oNCHSjuajUFXpqjJ76fac5J7.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-04",
+     "episode_count": 40,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "DOC",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 9.3,
+   "vote_count": 29
   },
   "tv:37606": {
    "backdrop_path": "/gmO3aezFgDcrhcymhNSJLGZ3CT.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "37",
- "count": 25,
+ "count": 28,
  "titles": {
   "movie:10337": {
    "backdrop_path": "/t353Hj5sFXWQFriVzB1GiT3TSlm.jpg",
@@ -407,104 +407,6 @@
    "vote_average": 5.9,
    "vote_count": 85
   },
-  "movie:1263337": {
-   "backdrop_path": "/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
-   "budget": 82000000,
-   "cast": [
-    {
-     "c": "James Belmont",
-     "n": "Brad Pitt"
-    },
-    {
-     "c": "Watkins",
-     "n": "J.K. Simmons"
-    },
-    {
-     "c": "Amber",
-     "n": "Anna Lambe"
-    },
-    {
-     "c": "Military Soldier",
-     "n": "Justin Melnick"
-    },
-    {
-     "c": "Military Soldier",
-     "n": "Shaun DeZern"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 16+",
-   "date_kind": "release",
-   "director": [
-    "David Ayer"
-   ],
-   "genres": [
-    "Adventure",
-    "Thriller"
-   ],
-   "id": 1263337,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-   "popularity": 558.5362,
-   "poster_path": "/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [],
-   "providers_wtw": [
-    {
-     "kind": "rent",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
-     "name": "Zee5",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "IN"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-09-25",
-   "revenue": 188966885,
-   "runtime": 101,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "Survival depends on their bond.",
-   "title": "Heart of the Beast",
-   "trailer": {
-    "key": "UkMuGKqAux4",
-    "name": "New International Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.539,
-   "vote_count": 731
-  },
   "movie:1272837": {
    "backdrop_path": "/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
    "budget": 63000000,
@@ -772,212 +674,6 @@
    "vote_average": 7.4,
    "vote_count": 32
   },
-  "movie:1368337": {
-   "backdrop_path": "/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
-   "budget": 250000000,
-   "cast": [
-    {
-     "c": "Odysseus",
-     "n": "Matt Damon"
-    },
-    {
-     "c": "Telemachus",
-     "n": "Tom Holland"
-    },
-    {
-     "c": "Penelope",
-     "n": "Anne Hathaway"
-    },
-    {
-     "c": "Antinous",
-     "n": "Robert Pattinson"
-    },
-    {
-     "c": "Eurylochus",
-     "n": "Himesh Patel"
-    },
-    {
-     "c": "Calypso",
-     "n": "Charlize Theron"
-    },
-    {
-     "c": "Eumaeus",
-     "n": "John Leguizamo"
-    },
-    {
-     "c": "Bard",
-     "n": "Travis Scott"
-    },
-    {
-     "c": "Polybus",
-     "n": "Corey Hawkins"
-    },
-    {
-     "c": "Leodes",
-     "n": "Jarreth J. Merz"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "A",
-   "date_kind": "release",
-   "director": [
-    "Christopher Nolan"
-   ],
-   "genres": [
-    "Adventure",
-    "Action",
-    "Fantasy"
-   ],
-   "id": 1368337,
-   "industry": "world",
-   "origin_country": [
-    "GB",
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-   "popularity": 452.6652,
-   "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-   "production_countries": [
-    "GB",
-    "US"
-   ],
-   "providers": [],
-   "providers_wtw": [],
-   "published_at": "2026-11-14",
-   "release_date": "2026-07-17",
-   "revenue": 1804356298,
-   "runtime": 173,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "Defy the gods.",
-   "title": "The Odyssey",
-   "trailer": {
-    "key": "AyIZ9tiiN8I",
-    "name": "Official Countdown Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 8.0,
-   "vote_count": 4765
-  },
-  "movie:1377237": {
-   "backdrop_path": "/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
-   "budget": 45000000,
-   "cast": [
-    {
-     "c": "Hank Malone",
-     "n": "Alan Ritchson"
-    },
-    {
-     "c": "Ben Bishop",
-     "n": "Owen Wilson"
-    },
-    {
-     "c": "Damian Zaldivar",
-     "n": "Rodrigo Santoro"
-    },
-    {
-     "c": "Kate Baker",
-     "n": "Leila George"
-    },
-    {
-     "c": "Dr. Ainsley",
-     "n": "Kate Box"
-    },
-    {
-     "c": "Nurse Julie",
-     "n": "Peta Sergeant"
-    },
-    {
-     "c": "Donna Zaldivar",
-     "n": "Cecilia Toussaint"
-    },
-    {
-     "c": "Monica",
-     "n": "Geraldine Hakewill"
-    },
-    {
-     "c": "Luke",
-     "n": "Goran D. Kleut"
-    },
-    {
-     "c": "Ellie Baker",
-     "n": "Scarlett Crabtree"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "A",
-   "date_kind": "release",
-   "director": [
-    "Scott Waugh"
-   ],
-   "genres": [
-    "Action",
-    "Comedy",
-    "Thriller"
-   ],
-   "id": 1377237,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
-   "popularity": 54.4302,
-   "poster_path": "/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg",
-   "production_countries": [
-    "US",
-    "AU",
-    "GB"
-   ],
-   "providers": [
-    {
-     "name": "Angel Studios"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-09-25",
-   "revenue": 18094381,
-   "runtime": 98,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en",
-    "pt",
-    "es",
-    "fr"
-   ],
-   "status": "Released",
-   "tagline": "Next-day delivery isn't an option.",
-   "title": "Runner",
-   "trailer": {
-    "key": "B6Z9MM1LhEA",
-    "name": "UK Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 8.206,
-   "vote_count": 838
-  },
   "movie:1378537": {
    "backdrop_path": "/nTkQBI8ldvPByIkxsemGxtKlr8E.jpg",
    "budget": 8766456,
@@ -1088,135 +784,6 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 28
-  },
-  "movie:1400837": {
-   "backdrop_path": "/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-   "budget": 18000000,
-   "cast": [
-    {
-     "c": "Ursula Martin / Other Mommy",
-     "n": "Jessica Chastain"
-    },
-    {
-     "c": "Isabela \"Bela\" Martin",
-     "n": "Arabella Olivia Clark"
-    },
-    {
-     "c": "Russell \"Russ\" Martin",
-     "n": "Jay Duplass"
-    },
-    {
-     "c": "Ruth Martin",
-     "n": "Karen Allen"
-    },
-    {
-     "c": "Frank",
-     "n": "Arian Moayed"
-    },
-    {
-     "c": "Kelvin",
-     "n": "Sean Kaufman"
-    },
-    {
-     "c": "Lois Anthony",
-     "n": "Dichen Lachman"
-    },
-    {
-     "c": "Brian",
-     "n": "Adam Silver"
-    },
-    {
-     "c": "Ruiss",
-     "n": "Alec Secăreanu"
-    },
-    {
-     "c": "Little Girl",
-     "n": "Millie Wood"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Rob Savage"
-   ],
-   "genres": [
-    "Horror"
-   ],
-   "id": 1400837,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-   "popularity": 253.1723,
-   "poster_path": "/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [],
-   "providers_wtw": [
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "US"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "US"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
-     "name": "Fandango At Home",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
-     "name": "Fandango At Home",
-     "region": "US"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-07",
-   "revenue": 115955701,
-   "runtime": 93,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "Your mommy won't save you.",
-   "title": "Other Mommy",
-   "trailer": {
-    "key": "-mnTITqqiT0",
-    "name": "Official Trailer 2",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 6.158,
-   "vote_count": 335
   },
   "movie:1410937": {
    "backdrop_path": "/cb4b4K3E2jBGaSjkuIkZHJHmoWG.jpg",
@@ -2759,6 +2326,130 @@
    "vote_average": 8.3,
    "vote_count": 368
   },
+  "tv:217837": {
+   "backdrop_path": "/ke3Ctn0jZru8oys8wAsY5oDIDX4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ning",
+     "n": "Janistar Phomphadungcheep"
+    },
+    {
+     "c": "Jean",
+     "n": "Sittichok Pueakpoolpol"
+    },
+    {
+     "c": "Non",
+     "n": "Chawarin Perdpiriyawong"
+    },
+    {
+     "c": "San",
+     "n": "Pruk Panich"
+    },
+    {
+     "c": "Viroj",
+     "n": "Sukollawat Kanarot"
+    },
+    {
+     "c": "Kanjana",
+     "n": "Piyathida Mittiraroch"
+    },
+    {
+     "c": "Muk",
+     "n": "Apichaya Phanichtrakool"
+    },
+    {
+     "c": "Phu",
+     "n": "Chaikamon Sermsongwittaya"
+    },
+    {
+     "c": "Thorn",
+     "n": "Kornthas Rujeerattanavorapan"
+    },
+    {
+     "c": "Thi",
+     "n": "Pharinyakorn Khansawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [
+    "Nathawat Piyanonpong"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-31",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 217837,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "When an apocalyptic virus that turns people into zombies ravages a city, a group of students take shelter in a school and fight to survive.",
+   "popularity": 5.8981,
+   "poster_path": "/zLLmQNnHdx5KAKZpIxL4pdy4Qb7.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-31",
+     "episode_count": 7,
+     "name": "Chapter 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 1,
+     "name": "Chapter 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Returning Series",
+   "tagline": "Awakening night.",
+   "title": "Zomvivor",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.381,
+   "vote_count": 21
+  },
   "tv:226637": {
    "backdrop_path": "/yVP12H81dwaay5B7GVqgO893q2c.jpg",
    "budget": 0,
@@ -2890,6 +2581,722 @@
    "type": "tv",
    "vote_average": 8.258,
    "vote_count": 712
+  },
+  "tv:248937": {
+   "backdrop_path": "/mPsf0GVm115YOrNn0EyLnqPRpcv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Abigail Dalton",
+     "n": "Suranne Jones"
+    },
+    {
+     "c": "Vivienne Toussaint",
+     "n": "Julie Delpy"
+    },
+    {
+     "c": "Matheo Lewis",
+     "n": "Corey Mylchreest"
+    },
+    {
+     "c": "Dr Alex Anderson",
+     "n": "Ashley Thomas"
+    },
+    {
+     "c": "John Shagan",
+     "n": "Martin McCann"
+    },
+    {
+     "c": "Sylvie Anderson",
+     "n": "Isobel Akuwudike"
+    },
+    {
+     "c": "Ayesha",
+     "n": "Hiftu Quasem"
+    },
+    {
+     "c": "Saskia Morgan",
+     "n": "Sophie Robertson"
+    },
+    {
+     "c": "Kofi Adomako",
+     "n": "Lucian Msamati"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Matt Charman"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-08-21",
+   "genres": [
+    "Drama",
+    "War & Politics"
+   ],
+   "id": 248937,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 5,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When the British prime minister's husband is kidnapped and the French president starts receiving threats, both leaders must face an impossible choice.",
+   "popularity": 5.4392,
+   "poster_path": "/ghcxxmSLByYyFLAL8TNWmAel1Ym.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-21",
+     "episode_count": 5,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Ended",
+   "tagline": "I will not negotiate. I will not be held...",
+   "title": "Hostage",
+   "trailer": {
+    "key": "q20_wbeiVG8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.746,
+   "vote_count": 126
+  },
+  "tv:259837": {
+   "backdrop_path": "/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eun Chae-ni",
+     "n": "Park Eun-bin"
+    },
+    {
+     "c": "Lee Un-jeong",
+     "n": "Cha Eun-woo"
+    },
+    {
+     "c": "Son Gyeong-hun",
+     "n": "Choi Dae-hoon"
+    },
+    {
+     "c": "Kang Ro-bin",
+     "n": "Im Sung-jae"
+    },
+    {
+     "c": "Kim Jeon-bok",
+     "n": "Kim Hae-sook"
+    },
+    {
+     "c": "Ha Won-do",
+     "n": "Son Hyun-joo"
+    },
+    {
+     "c": "Seok Ju-ran",
+     "n": "Jung Yi-seo"
+    },
+    {
+     "c": "Seok Ho-ran",
+     "n": "Choi Yoon-ji"
+    },
+    {
+     "c": "Kim Pal-ho",
+     "n": "Bae Na-ra"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Kang Eun-kyung",
+    "Yoo In-sik",
+    "Huh Dah-joong"
+   ],
+   "director": [
+    "Yoo In-sik"
+   ],
+   "episode_run_time": [
+    80
+   ],
+   "first_air_date": "2026-05-15",
+   "genres": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 259837,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
+   "popularity": 14.8244,
+   "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-15",
+     "episode_count": 8,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Zero skills. Maximum chaos.",
+   "title": "The WONDERfools",
+   "trailer": {
+    "key": "rVoc4WQVMCc",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.744,
+   "vote_count": 289
+  },
+  "tv:274737": {
+   "backdrop_path": "/ztUSVExmR0NlyIwTVdh9qKK0HEY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Liam Sera Banfield (voice)",
+     "n": "Natsuki Hanae"
+    },
+    {
+     "c": "Amagi (voice)",
+     "n": "Reina Ueda"
+    },
+    {
+     "c": "Guide (voice)",
+     "n": "Takehito Koyasu"
+    },
+    {
+     "c": "Christiana Leta Rosebreia (voice)",
+     "n": "Mikako Komatsu"
+    },
+    {
+     "c": "Nias Carlin (voice)",
+     "n": "Ayana Taketatsu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "HTB",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-04-06",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 274737,
+   "industry": "world",
+   "networks": [
+    "HTB",
+    "tv asahi",
+    "Nagoya TV",
+    "KBC",
+    "ABC TV",
+    "NCC",
+    "OAB",
+    "ABA",
+    "Niigata Television Network 21",
+    "khb",
+    "KFB",
+    "HOME",
+    "KSB",
+    "Kagoshima Broadcasting",
+    "Iwate Asahi TV",
+    "Akita Asahi Broadcasting",
+    "Yamagata Television System",
+    "Shizuoka Asahi TV",
+    "Asahi Broadcasting Nagano",
+    "Hokuriku Asahi Broadcasting",
+    "Ehime Asahi TV",
+    "Yamaguchi Asahi Broadcasting",
+    "Kumamoto Asahi Broadcasting",
+    "Ryu-Q Asahi Broadcasting"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "After a life of honesty left him betrayed, Liam is reborn into a vast interstellar empire with one goal: be the galaxy’s worst evil lord. But no matter how hard he tries to be a tyrant, his “wicked” plans keep backfiring into peace, prosperity, and adoring fans. Galactic chaos, magic, and mecha await in this hilariously misconstructed tale of a villain who can’t help but to impress.",
+   "popularity": 7.0066,
+   "poster_path": "/lSXLjmpTKRqKfjzCz0YXdvm7o4z.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-06",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "I will become an “Evil lord” and live as I please!",
+   "title": "I'm the Evil Lord of an Intergalactic Empire!",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.111,
+   "vote_count": 27
+  },
+  "tv:286537": {
+   "backdrop_path": "/d6q9efNWUDL6yTgMFbZ3MULXlkL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr. Bernd Hausner",
+     "n": "Justus von Dohnányi"
+    },
+    {
+     "c": "Sven Lebert",
+     "n": "Nils Strunk"
+    },
+    {
+     "c": "Inger Brøgger",
+     "n": "Karen-Lise Mynster"
+    },
+    {
+     "c": "Niels Jensen",
+     "n": "David Dencik"
+    },
+    {
+     "c": "Per Juhl",
+     "n": "Lars Brygmann"
+    },
+    {
+     "c": "Olga Garovic",
+     "n": "Dia Jovanovic"
+    },
+    {
+     "c": "René Kilchberger",
+     "n": "Philippe Graber"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "channel": "ZDF",
+   "created_by": [
+    "Jan Schomburg"
+   ],
+   "director": [
+    "Dustin Loose",
+    "Kaspar Munk"
+   ],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2025-04-13",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 286537,
+   "industry": "world",
+   "networks": [
+    "ZDF",
+    "DR1"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "DK",
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "The cum-ex scandal has caused 146 billion euros in losses in several countries. Inspired by true events, two women from Germany and Denmark are trying to put an end to it.",
+   "popularity": 3.1555,
+   "poster_path": "/eqUhktvv8y52DqXM3EC1C9MW7iY.jpg",
+   "production_countries": [
+    "DE",
+    "DK",
+    "AT",
+    "NO",
+    "SE",
+    "FI",
+    "IS",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-13",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "da",
+    "en",
+    "de"
+   ],
+   "status": "Ended",
+   "tagline": "The biggest tax heist in European history.",
+   "title": "Other People's Money",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.9,
+   "vote_count": 20
+  },
+  "tv:289237": {
+   "backdrop_path": "/xGXYYfFLYWo4v9OjLbEj87Lcsnn.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maurizio (voice)",
+     "n": "Lillo Petrolo"
+    },
+    {
+     "c": "Claudia (voice)",
+     "n": "Pilar Fogliati"
+    },
+    {
+     "c": "Luca (voice)",
+     "n": "Luca Ravenna"
+    },
+    {
+     "c": "Leonardo da Vinci (voice)",
+     "n": "Edoardo Ferrario"
+    },
+    {
+     "c": "John Lumano (voice)",
+     "n": "Daniele Tinti"
+    },
+    {
+     "c": "Marco (voice)",
+     "n": "Stefano Rapone"
+    },
+    {
+     "c": "Noemi Ciambell (voice)",
+     "n": "Michela Giraud"
+    },
+    {
+     "c": "Tricerita (voice)",
+     "n": "Yoko Yamada"
+    },
+    {
+     "c": "Gerri il tuttofare (voice) / Pippo Perobbi (voice) / guardia dell'igiene #2 (voice) / Maurizio giovane (voice)",
+     "n": "Salvo Di Paola"
+    },
+    {
+     "c": "Larry Tucano (voice)",
+     "n": "Pietro Sermonti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "Prime Video",
+   "created_by": [
+    "Nicolò Cuccì",
+    "Salvo Di Paola"
+   ],
+   "director": [
+    "Nicolò Cuccì",
+    "Salvo Di Paola"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-03",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 289237,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Il Baracchino, once the coolest comedy club around, is now a drunken, cockroach-infested dive...and it could soon become a Doner Kebab! But Claudia, an aspiring art director, wants to save it: she puts together a ragtag line-up of comedians for an evening that could change everything. Too bad the biggest obstacle is Maurizio, the gruff unicorn owner of the place.",
+   "popularity": 1.19,
+   "poster_path": "/tzs8ZioGsoBqXQeMy9VHRZvWMY9.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-03",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Ended",
+   "tagline": "An unmissable series on stand-up comedy and the beauty of believing in a choral mission.",
+   "title": "Il Baracchino",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.1,
+   "vote_count": 20
+  },
+  "tv:296437": {
+   "backdrop_path": "/pEhFkDyRMpUZr1lwmmPFVGzdgNl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dias (voice)",
+     "n": "Kenichirou Matsuda"
+    },
+    {
+     "c": "Alna (voice)",
+     "n": "Shion Wakayama"
+    },
+    {
+     "c": "",
+     "n": "Taito Ban"
+    },
+    {
+     "c": "",
+     "n": "Miku Ito"
+    },
+    {
+     "c": "",
+     "n": "Haruka Shiraishi"
+    },
+    {
+     "c": "",
+     "n": "Jun Fukuyama"
+    },
+    {
+     "c": "",
+     "n": "Rikuya Yasuda"
+    },
+    {
+     "c": "",
+     "n": "Maria Abo"
+    },
+    {
+     "c": "",
+     "n": "Kujira"
+    },
+    {
+     "c": "",
+     "n": "Yoko Hikasa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2026-07-10",
+   "genres": [
+    "Comedy",
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 296437,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "The war is over, and hero Dias is finally rewarded with land of his own—only to discover it's a barren frontier with no people, no villages, and no sign of civilization. With nothing but endless grassland ahead of him, Dias sets out to build a domain from the ground up. But after meeting Alna, a mysterious girl with a blue horn, his lonely frontier is about to spring to life.",
+   "popularity": 7.3264,
+   "poster_path": "/vHTHQZy3JhgoVMkbXlOot5gOUzZ.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-10",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Frontier Lord Begins with Zero Subjects",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.481,
+   "vote_count": 26
   },
   "tv:3137": {
    "backdrop_path": "/ymdCZck7hy7EDxUTR4Uq1MisfyX.jpg",

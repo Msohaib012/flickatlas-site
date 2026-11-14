@@ -1,6 +1,6 @@
 {
  "bucket": "35",
- "count": 25,
+ "count": 30,
  "titles": {
   "movie:10935": {
    "d": "Heaven's Gate (1980): Drama/Western film. Story: Harvard graduate James Averill serves as the sheriff… See cast, budget $44M, and TMDB rating 6.7/10.",
@@ -905,70 +905,6 @@
    "t": "Love Lasts Three Years (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
   },
-  "movie:858035": {
-   "d": "Klara and the Sun (2026): Science Fiction/Drama film. Story: When Klara, an Artificial Friend who wants nothing… See cast, budget $20M, and TMDB rating 6.1/10.",
-   "img": "https://image.tmdb.org/t/p/w780/2Zk5jRXUlrfkU3RsutMPMHey1Y.jpg",
-   "industry": "world",
-   "k": "Klara and the Sun, Klara and the Sun movie, Klara and the Sun cast, Klara and the Sun story, Klara and the Sun box office collection, Klara and the Sun budget, Klara and the Sun review, Klara and the Sun rating, Klara and the Sun release date, Klara and the Sun trailer, Klara and the Sun Science Fiction, Klara and the Sun Drama, international movies, FlickAtlas",
-   "ld": {
-    "@context": "https://schema.org",
-    "@type": "Movie",
-    "actor": [
-     {
-      "@type": "Person",
-      "name": "Jenna Ortega"
-     },
-     {
-      "@type": "Person",
-      "name": "Mia Tharia"
-     },
-     {
-      "@type": "Person",
-      "name": "Amy Adams"
-     },
-     {
-      "@type": "Person",
-      "name": "Natasha Lyonne"
-     },
-     {
-      "@type": "Person",
-      "name": "Aran Murphy"
-     }
-    ],
-    "aggregateRating": {
-     "@type": "AggregateRating",
-     "bestRating": 10,
-     "ratingCount": 32,
-     "ratingValue": 6.1,
-     "worstRating": 0
-    },
-    "description": "Klara and the Sun (2026): Science Fiction/Drama film. Story: When Klara, an Artificial Friend who wants nothing… See cast, budget $20M, and TMDB rating 6.1/10.",
-    "director": [
-     {
-      "@type": "Person",
-      "name": "Taika Waititi"
-     }
-    ],
-    "duration": "PT116M",
-    "genre": [
-     "Science Fiction",
-     "Drama"
-    ],
-    "image": "https://image.tmdb.org/t/p/w780/2Zk5jRXUlrfkU3RsutMPMHey1Y.jpg",
-    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=858035",
-    "name": "Klara and the Sun",
-    "releasedEvent": {
-     "@type": "PublicationEvent",
-     "startDate": "2026-10-21"
-    },
-    "url": "https://flickatlas.co.uk/movie?id=858035"
-   },
-   "modified": "",
-   "published": "2026-11-14",
-   "ssr": "<article class=\"ssr-facts\">\n<h1>Klara and the Sun (2026)</h1>\n<p class=\"ssr-lead\">When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother and they&#x27;ve suffered great loss, but Klara&#x27;s innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie&#x27;s complicated world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 October 2026</li><li>Runtime: 116 minutes</li><li>Director: Taika Waititi</li><li>Genres: Science Fiction, Drama</li><li>Budget: $20M</li><li>TMDB rating: 6.1/10 (32 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jenna Ortega as Klara</li><li>Mia Tharia as Josie</li><li>Amy Adams as Chrissie</li><li>Natasha Lyonne as Manager</li><li>Aran Murphy as Rick</li><li>Rachel House as Melania</li><li>Steve Buscemi as Capaldi</li><li>Davida McKenzie as Simone</li><li>Harry Greenwood</li><li>Anastasiia Aksiuta as AF-1</li></ul>\n</article>",
-   "t": "Klara and the Sun (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-   "year": "2026"
-  },
   "movie:859235": {
    "d": "Coup de chance (2023): Romance/Drama film. Story: Fanny and Jean have everything of an ideal couple… See cast, budget $12M, and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/xSIJy4vPKpo2uw6q7HNBhIvQaj6.jpg",
@@ -1247,6 +1183,62 @@
    "t": "The Good Wife (2009) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2009"
   },
+  "tv:204135": {
+   "d": "Dragon Striker (2026) is an Animation and Sci-Fi & Fantasy TV series. Explore its story: In a world where sports and magic combine, farm boy… and cast.",
+   "img": "https://image.tmdb.org/t/p/w780/hoLPJjPfYdEWJXG1y7OCgOeipaF.jpg",
+   "industry": "world",
+   "k": "Dragon Striker, Dragon Striker TV series, Dragon Striker cast, Dragon Striker story, Dragon Striker seasons, Dragon Striker episodes, Dragon Striker season 2, Dragon Striker 11 episodes, Dragon Striker first air date, Dragon Striker trailer, Dragon Striker Animation, Dragon Striker Sci-Fi & Fantasy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Akshay Kumar"
+     },
+     {
+      "@type": "Person",
+      "name": "Rebecca LaChance"
+     },
+     {
+      "@type": "Person",
+      "name": "Yeukayi Ushe"
+     },
+     {
+      "@type": "Person",
+      "name": "Waylon Jacobs"
+     },
+     {
+      "@type": "Person",
+      "name": "Evanna Lynch"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 24,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Dragon Striker (2026) is an Animation and Sci-Fi & Fantasy TV series. Explore its story: In a world where sports and magic combine, farm boy… and cast.",
+    "genre": [
+     "Animation",
+     "Sci-Fi & Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hoLPJjPfYdEWJXG1y7OCgOeipaF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=204135",
+    "name": "Dragon Striker",
+    "numberOfEpisodes": 11,
+    "numberOfSeasons": 2,
+    "startDate": "2026-06-09",
+    "url": "https://flickatlas.co.uk/show?id=204135"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dragon Striker (2026)</h1>\n<p class=\"ssr-lead\">In a world where sports and magic combine, farm boy Key discovers his ultrapowerful natural talent and learns he could be the legendary Dragon Striker.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 9 June 2026</li><li>Seasons: 2 · Episodes: 11</li><li>Created by: Sylvain Dos Santos, Charles Lefebvre</li><li>Genres: Animation, Sci-Fi &amp; Fantasy, Family, Action &amp; Adventure</li><li>TMDB rating: 7.9/10 (24 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Akshay Kumar as Key (voice)</li><li>Rebecca LaChance as Ssyelle (voice)</li><li>Yeukayi Ushe as Milo (voice)</li><li>Waylon Jacobs as Odward (voice)</li><li>Evanna Lynch as Ameline (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Dragon Striker (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
   "tv:236235": {
    "d": "The Gentlemen (2024) is a Comedy and Drama TV series. Explore its story: When aristocratic Eddie inherits the family estate…, cast, 3 seasons, and 16 episodes.",
    "img": "https://image.tmdb.org/t/p/w780/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
@@ -1354,6 +1346,270 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Clannad (2007)</h1>\n<p class=\"ssr-lead\">Tomoya Okazaki is a third year high school student resentful of his life. His mother passed away from a car accident when he was younger, causing his father to resort to alcohol and cigarettes. This results in fights between the two until Tomoya&#x27;s shoulder is injured in a fight. Since then, Tomoya has had distant relationships with his father, causing him to become a delinquent over time. While on a walk to school, he meets a strange girl named Nagisa Furukawa who is a year older, but is repeating due to illness. Due to this, she is often alone as most of her friends have moved on. The two begin hanging out and slowly, as time goes by, Tomoya finds his life shifting in a new direction.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 5 October 2007</li><li>Seasons: 2 · Episodes: 44</li><li>Genres: Animation, Comedy, Drama, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 8.3/10 (500 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yuichi Nakamura as Tomoya Okazaki (voice)</li><li>Mai Nakahara as Nagisa Furukawa (voice)</li><li>Ryotaro Okiayu as Akio Furukawa (voice)</li><li>Kikuko Inoue as Sanae Furukawa (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HiDive, Hidive Amazon Channel</li><li>Buy: Amazon Video, Google Play Movies, Fandango At Home</li></ul>\n</article>",
    "t": "Clannad (2007) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2007"
+  },
+  "tv:252135": {
+   "d": "The Resurrected (2025) is a Crime and Drama TV series. Explore its story: Two grieving mothers resurrect a scam ringleader to…, cast, 1 season, and 9 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/h8sF926rL0b7zdMSWjo9rYiy3Lk.jpg",
+   "industry": "world",
+   "k": "The Resurrected, The Resurrected TV series, The Resurrected cast, The Resurrected story, The Resurrected seasons, The Resurrected episodes, The Resurrected season 1, The Resurrected 9 episodes, The Resurrected first air date, The Resurrected trailer, The Resurrected Crime, The Resurrected Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shu Qi"
+     },
+     {
+      "@type": "Person",
+      "name": "Angelica Lee Sin-jie"
+     },
+     {
+      "@type": "Person",
+      "name": "Fu Meng-po"
+     },
+     {
+      "@type": "Person",
+      "name": "Chung Hsin-ling"
+     },
+     {
+      "@type": "Person",
+      "name": "Alyssa Chia Ching-Wen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 33,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "The Resurrected (2025) is a Crime and Drama TV series. Explore its story: Two grieving mothers resurrect a scam ringleader to…, cast, 1 season, and 9 episodes.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Leste Chen"
+     },
+     {
+      "@type": "Person",
+      "name": "Hsu Chao-jen"
+     }
+    ],
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/h8sF926rL0b7zdMSWjo9rYiy3Lk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=252135",
+    "name": "The Resurrected",
+    "numberOfEpisodes": 9,
+    "numberOfSeasons": 1,
+    "startDate": "2025-10-09",
+    "url": "https://flickatlas.co.uk/show?id=252135"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Resurrected (2025)</h1>\n<p class=\"ssr-lead\">Two grieving mothers resurrect a scam ringleader to avenge their daughters — but as painful truths emerge, justice slips from their reach.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 9 October 2025</li><li>Seasons: 1 · Episodes: 9</li><li>Created by: Leste Chen, Hsu Chao-jen</li><li>Director: Leste Chen, Hsu Chao-jen</li><li>Genres: Crime, Drama, Mystery</li><li>TMDB rating: 7.7/10 (33 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shu Qi as Wang Hui-chun</li><li>Angelica Lee Sin-jie as Chao Ching</li><li>Fu Meng-po as Chang Shih-kai</li><li>Chung Hsin-ling as Chang Chia-feng</li><li>Alyssa Chia Ching-Wen as Huang I-chen</li><li>Caitlin Fang as Hsin-yi</li><li>Suri Lin as An-chi</li><li>Chu-Ping Liu as Christina Chang</li><li>Vivi Chen as Jin-jin</li><li>Rexen Cheng as Sun Kuo-chiang</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Resurrected (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:278635": {
+   "d": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! (2025) is an Animation and Action & Adventure TV series.",
+   "img": "https://image.tmdb.org/t/p/w780/vnTrREtP0qBSmZHEEZR515FAXXB.jpg",
+   "industry": "world",
+   "k": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!, My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! TV series, My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! cast, My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! story, My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! seasons, My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! episodes, My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! season 1, My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! trailer, My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! Animation, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nina Tamaki"
+     },
+     {
+      "@type": "Person",
+      "name": "Ikumi Hasegawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Shiori Izawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Yuko Natsuyoshi"
+     },
+     {
+      "@type": "Person",
+      "name": "Ayumi Mano"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 106,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! (2025) is an Animation and Action & Adventure TV series.",
+    "genre": [
+     "Animation",
+     "Action & Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vnTrREtP0qBSmZHEEZR515FAXXB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=278635",
+    "name": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+    "numberOfEpisodes": 12,
+    "numberOfSeasons": 1,
+    "startDate": "2025-10-03",
+    "url": "https://flickatlas.co.uk/show?id=278635"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I&#x27;m Out for Revenge! (2025)</h1>\n<p class=\"ssr-lead\">God created nine races in the ancient times. Humans were the weakest, most ridiculed race among them. Light, a human boy, was fortunate enough to be invited to join a party of all nine races called the &quot;Assembly of the Races.&quot; He was happy being a member for a while, but that was a short dream. His hopes were only to be betrayed by his fellow members at the largest, most heinous dungeon &quot;Abyss.&quot; After surviving by himself at the bottom of Abyss, Light learns the true meaning of his gift &quot;Unlimited Gacha.&quot; Light will rise from the worst despair to build his own empire of the strongest players.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 3 October 2025</li><li>Seasons: 1 · Episodes: 12</li><li>Genres: Animation, Action &amp; Adventure, Sci-Fi &amp; Fantasy, Drama</li><li>TMDB rating: 8.2/10 (106 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nina Tamaki as Light (voice)</li><li>Ikumi Hasegawa as Mei (voice)</li><li>Shiori Izawa as Aoyuki (voice)</li><li>Yuko Natsuyoshi as Nemumu (voice)</li><li>Ayumi Mano as Ellie (voice)</li><li>Hana Hishikawa as Nazuna (voice)</li><li>Katsuya Miyamoto as Gold (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:292035": {
+   "d": "Revenged Love (2025) is a Drama and Action & Adventure TV series. Explore its story: After Wu Suo-wei's girlfriend dumps him, he decides…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/aKvbFRFOzbaMB59575O5vUVaFyr.jpg",
+   "industry": "world",
+   "k": "Revenged Love, Revenged Love TV series, Revenged Love cast, Revenged Love story, Revenged Love seasons, Revenged Love episodes, Revenged Love season 1, Revenged Love 24 episodes, Revenged Love first air date, Revenged Love trailer, Revenged Love Drama, Revenged Love Action & Adventure, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Zi Yu"
+     },
+     {
+      "@type": "Person",
+      "name": "Tian Xuning"
+     },
+     {
+      "@type": "Person",
+      "name": "Liu Xuancheng"
+     },
+     {
+      "@type": "Person",
+      "name": "Zhan Xuan"
+     },
+     {
+      "@type": "Person",
+      "name": "Liu Jun"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 80,
+     "ratingValue": 8.3,
+     "worstRating": 0
+    },
+    "description": "Revenged Love (2025) is a Drama and Action & Adventure TV series. Explore its story: After Wu Suo-wei's girlfriend dumps him, he decides…, cast, and 1 season.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gong Yushi"
+     }
+    ],
+    "genre": [
+     "Drama",
+     "Action & Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aKvbFRFOzbaMB59575O5vUVaFyr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=292035",
+    "name": "Revenged Love",
+    "numberOfEpisodes": 24,
+    "numberOfSeasons": 1,
+    "startDate": "2025-06-16",
+    "url": "https://flickatlas.co.uk/show?id=292035"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Revenged Love (2025)</h1>\n<p class=\"ssr-lead\">After Wu Suo-wei&#x27;s girlfriend dumps him, he decides to get revenge by seducing her new boyfriend, Chi Cheng! It started as a game, but falling in love was never part of the plan.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 16 June 2025</li><li>Seasons: 1 · Episodes: 24</li><li>Director: Gong Yushi</li><li>Genres: Drama, Action &amp; Adventure</li><li>TMDB rating: 8.3/10 (80 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Zi Yu as Wu Suowei</li><li>Tian Xuning as Chi Cheng</li><li>Liu Xuancheng as Jiang Xiaoshuai</li><li>Zhan Xuan as Guo Chengyu</li><li>Liu Jun as Wang Shuo</li><li>Wang Shuo as Wang Zhen</li><li>Sun Qianyu as Yue Yue</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Rakuten Viki</li></ul>\n</article>",
+   "t": "Revenged Love (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:310935": {
+   "d": "Girl from Nowhere: The Reset (2026) is a Drama and Mystery TV series. Explore its story: In a new universe, the mysterious Nanno poses as a… and cast.",
+   "img": "https://image.tmdb.org/t/p/w780/pJert4hRVNzagvtFr3vTYnpgBMH.jpg",
+   "industry": "world",
+   "k": "Girl from Nowhere: The Reset, Girl from Nowhere: The Reset TV series, Girl from Nowhere: The Reset cast, Girl from Nowhere: The Reset story, Girl from Nowhere: The Reset seasons, Girl from Nowhere: The Reset episodes, Girl from Nowhere: The Reset season 1, Girl from Nowhere: The Reset 6 episodes, Girl from Nowhere: The Reset first air date, Girl from Nowhere: The Reset Drama, Girl from Nowhere: The Reset Mystery, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Becky Armstrong"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 67,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Girl from Nowhere: The Reset (2026) is a Drama and Mystery TV series. Explore its story: In a new universe, the mysterious Nanno poses as a… and cast.",
+    "genre": [
+     "Drama",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pJert4hRVNzagvtFr3vTYnpgBMH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=310935",
+    "name": "Girl from Nowhere: The Reset",
+    "numberOfEpisodes": 6,
+    "numberOfSeasons": 1,
+    "startDate": "2026-03-07",
+    "url": "https://flickatlas.co.uk/show?id=310935"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Girl from Nowhere: The Reset (2026)</h1>\n<p class=\"ssr-lead\">In a new universe, the mysterious Nanno poses as a transfer student, exposing cruelty by turning power, guilt and desire against those who abuse them.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 7 March 2026</li><li>Seasons: 1 · Episodes: 6</li><li>Genres: Drama, Mystery</li><li>TMDB rating: 7.7/10 (67 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Becky Armstrong as Nanno</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Girl from Nowhere: The Reset (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:328735": {
+   "d": "The Idaho Murders: College Nightmare (2026) is a Documentary and Crime TV series. Explore its story: Through bodycam footage, texts and interviews with….",
+   "img": "https://image.tmdb.org/t/p/w780/1BosXOwTUudCrE77ayEJSROW8sL.jpg",
+   "industry": "world",
+   "k": "The Idaho Murders: College Nightmare, The Idaho Murders: College Nightmare TV series, The Idaho Murders: College Nightmare cast, The Idaho Murders: College Nightmare story, The Idaho Murders: College Nightmare seasons, The Idaho Murders: College Nightmare episodes, The Idaho Murders: College Nightmare season 1, The Idaho Murders: College Nightmare 3 episodes, The Idaho Murders: College Nightmare first air date, The Idaho Murders: College Nightmare trailer, The Idaho Murders: College Nightmare Documentary, The Idaho Murders: College Nightmare Crime, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 38,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "The Idaho Murders: College Nightmare (2026) is a Documentary and Crime TV series. Explore its story: Through bodycam footage, texts and interviews with….",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Skye Borgman"
+     }
+    ],
+    "genre": [
+     "Documentary",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1BosXOwTUudCrE77ayEJSROW8sL.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=328735",
+    "name": "The Idaho Murders: College Nightmare",
+    "numberOfEpisodes": 3,
+    "numberOfSeasons": 1,
+    "startDate": "2026-07-29",
+    "url": "https://flickatlas.co.uk/show?id=328735"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Idaho Murders: College Nightmare (2026)</h1>\n<p class=\"ssr-lead\">Through bodycam footage, texts and interviews with loved ones, this documentary investigates the horrifying murder of four University of Idaho students.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 29 July 2026</li><li>Seasons: 1 · Episodes: 3</li><li>Director: Skye Borgman</li><li>Genres: Documentary, Crime</li><li>TMDB rating: 6.8/10 (38 votes)</li><li>Status: Ended</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Idaho Murders: College Nightmare (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
   },
   "tv:50035": {
    "d": "Clarence (2014) is an Animation and Comedy TV series. Explore its story: In a world of noise, Clarence is a jar of sunshine…, cast, 3 seasons, and 129 episodes.",

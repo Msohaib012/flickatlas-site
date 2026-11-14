@@ -1,6 +1,6 @@
 {
  "bucket": "47",
- "count": 15,
+ "count": 19,
  "titles": {
   "movie:1020047": {
    "backdrop_path": "/tJJ737CJujLXw1GlUYd7K4AH3eB.jpg",
@@ -1414,6 +1414,559 @@
    "type": "tv",
    "vote_average": 7.993,
    "vote_count": 2234
+  },
+  "tv:225647": {
+   "backdrop_path": "/7a78G7fisRp9N9upjyX5b3GNRNI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cameron Cope",
+     "n": "Miles Heizer"
+    },
+    {
+     "c": "Sgt. Liam Robert Sullivan",
+     "n": "Max Parker"
+    },
+    {
+     "c": "Barbara Cope",
+     "n": "Vera Farmiga"
+    },
+    {
+     "c": "Ray McCaffey",
+     "n": "Liam Oh"
+    },
+    {
+     "c": "Staff Sgt. Marcus McKinnon",
+     "n": "Cedrick Cooper"
+    },
+    {
+     "c": "Capt. Denise Fajardo",
+     "n": "Ana Ayora"
+    },
+    {
+     "c": "Thaddeus Beau Sterling Hicks",
+     "n": "Angus O'Brien"
+    },
+    {
+     "c": "Nicholas Slovacek",
+     "n": "Kieron Moore"
+    },
+    {
+     "c": "Isaiah Nash",
+     "n": "Dominic Goodman"
+    },
+    {
+     "c": "Sgt. Cary Wayne Howitt",
+     "n": "Nicholas Logan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Andy Parker"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-09",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "War & Politics"
+   ],
+   "id": 225647,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After impulsively joining the U.S. Marine Corps, a bullied teen finds new purpose — and unexpected brotherhood — with his motley team of fellow recruits.",
+   "popularity": 6.3995,
+   "poster_path": "/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-09",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Growing up has its obstacles.",
+   "title": "Boots",
+   "trailer": {
+    "key": "2mjN2f5tu2s",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.936,
+   "vote_count": 249
+  },
+  "tv:244447": {
+   "backdrop_path": "/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sophie O’Neill",
+     "n": "Brittany Snow"
+    },
+    {
+     "c": "Margo Banks",
+     "n": "Malin Akerman"
+    },
+    {
+     "c": "Jed Banks",
+     "n": "Dermot Mulroney"
+    },
+    {
+     "c": "Callie Baskin",
+     "n": "Jaime Ray Newman"
+    },
+    {
+     "c": "Brad Thompson",
+     "n": "George Ferrier"
+    },
+    {
+     "c": "Graham O’Neill",
+     "n": "Evan Jonigkeit"
+    },
+    {
+     "c": "Lincoln Trout",
+     "n": "Alex Fitzalan"
+    },
+    {
+     "c": "Callie",
+     "n": "Jaime Ray Newman"
+    },
+    {
+     "c": "Deputy Walter Flynn",
+     "n": "Hunter Emery"
+    },
+    {
+     "c": "Sheriff's Deputy",
+     "n": "Steve D'Avria"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Rebecca Perry Cutter"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-21",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 244447,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Sophie trades New England for East Texas and falls into a wealthy socialite's magnetic orbit — where a clique of housewives hide deadly secrets.",
+   "popularity": 11.8341,
+   "poster_path": "/knR0tDKgFwsUMxe0MqZSWQYhwpL.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-21",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-11-26",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Someone's going down.",
+   "title": "The Hunting Wives",
+   "trailer": {
+    "key": "uZvZfqiAhdQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.9,
+   "vote_count": 117
+  },
+  "tv:272947": {
+   "backdrop_path": "/rTtg4ENjDclbvYP0w5nygSaCEYN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "DI Mick Palmer",
+     "n": "Stephen Moyer"
+    },
+    {
+     "c": "PC Shazia Malik",
+     "n": "Nina Singh"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "Acorn TV",
+   "created_by": [
+    "Dan Gaster",
+    "Will Ing",
+    "Paul Powell"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2025-06-09",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 272947,
+   "industry": "world",
+   "networks": [
+    "Acorn TV"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the Metropolitan Police's smallest department, the Heritage Crime Unit, an art-loving detective tackles cases connected to the world of art, antiques, collectibles and cultural heritage.",
+   "popularity": 4.1857,
+   "poster_path": "/kKMbkJfbK2TdAvEcnydGoC9PqUj.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Acorn TV"
+    },
+    {
+     "name": "AcornTV Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Acorn TV Apple TV channel"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3aWmgZsNAqdOt8ClxIFT4pnmHrM.png",
+     "name": "Acorn TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7BBOk6Av1TFqWqEhxBYyTJucGuL.png",
+     "name": "AcornTV Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1MRjoHouZAWsBCdXjjkPWEDtyV0.png",
+     "name": "Acorn TV Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-12-07",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-06-09",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Art Detectives",
+   "trailer": {
+    "key": "0SlIrMdndWw",
+    "name": "Art Detectives Starring Stephen Moyer | Official Trailer | Acorn TV",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.8,
+   "vote_count": 28
+  },
+  "tv:273247": {
+   "backdrop_path": "/xz9YhlTE5gdr1mrQkY01vDvQF59.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lee Raybon",
+     "n": "Ethan Hawke"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "FX",
+   "created_by": [
+    "Sterlin Harjo"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-23",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 273247,
+   "industry": "world",
+   "networks": [
+    "FX"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow the gritty exploits of citizen journalist Lee Raybon, a self-proclaimed Tulsa \"truthstorian\" whose obsession with the truth is always getting him into trouble.",
+   "popularity": 25.0441,
+   "poster_path": "/jgfHT7oLJtBDlRABiTTEp2AEret.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png",
+     "name": "FXNow",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-23",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-10-14",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Unearthing lies is a dirty business.",
+   "title": "The Lowdown",
+   "trailer": {
+    "key": "cE9bq37W3Qo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.953,
+   "vote_count": 86
   },
   "tv:2947": {
    "backdrop_path": "/vKaDMLbdLrThldFj9Vavo6suTS2.jpg",

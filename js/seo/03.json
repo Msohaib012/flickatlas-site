@@ -1,139 +1,7 @@
 {
  "bucket": "03",
- "count": 24,
+ "count": 32,
  "titles": {
-  "movie:1081003": {
-   "d": "Supergirl (2026): Action/Adventure film. Story: When an unexpected and ruthless adversary strikes too… See cast, budget $175M, and TMDB rating 6.6/10.",
-   "img": "https://image.tmdb.org/t/p/w780/heZQmyNvkH236ha2M3JckdUQQqb.jpg",
-   "industry": "world",
-   "k": "Supergirl, Supergirl movie, Supergirl cast, Supergirl story, Supergirl box office collection, Supergirl budget, Supergirl review, Supergirl rating, Supergirl release date, Supergirl trailer, Supergirl Action, Supergirl Adventure, international movies, FlickAtlas",
-   "ld": {
-    "@context": "https://schema.org",
-    "@type": "Movie",
-    "actor": [
-     {
-      "@type": "Person",
-      "name": "Milly Alcock"
-     },
-     {
-      "@type": "Person",
-      "name": "Eve Ridley"
-     },
-     {
-      "@type": "Person",
-      "name": "Matthias Schoenaerts"
-     },
-     {
-      "@type": "Person",
-      "name": "Jason Momoa"
-     },
-     {
-      "@type": "Person",
-      "name": "David Krumholtz"
-     }
-    ],
-    "aggregateRating": {
-     "@type": "AggregateRating",
-     "bestRating": 10,
-     "ratingCount": 2727,
-     "ratingValue": 6.6,
-     "worstRating": 0
-    },
-    "description": "Supergirl (2026): Action/Adventure film. Story: When an unexpected and ruthless adversary strikes too… See cast, budget $175M, and TMDB rating 6.6/10.",
-    "director": [
-     {
-      "@type": "Person",
-      "name": "Craig Gillespie"
-     }
-    ],
-    "duration": "PT108M",
-    "genre": [
-     "Action",
-     "Adventure"
-    ],
-    "image": "https://image.tmdb.org/t/p/w780/heZQmyNvkH236ha2M3JckdUQQqb.jpg",
-    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1081003",
-    "name": "Supergirl",
-    "releasedEvent": {
-     "@type": "PublicationEvent",
-     "startDate": "2026-06-26"
-    },
-    "url": "https://flickatlas.co.uk/movie?id=1081003"
-   },
-   "modified": "",
-   "published": "2026-11-14",
-   "ssr": "<article class=\"ssr-facts\">\n<h1>Supergirl (2026)</h1>\n<p class=\"ssr-lead\">When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 June 2026</li><li>Runtime: 108 minutes</li><li>Director: Craig Gillespie</li><li>Genres: Action, Adventure, Science Fiction</li><li>Budget: $175M</li><li>TMDB rating: 6.6/10 (2727 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Milly Alcock as Supergirl</li><li>Eve Ridley as Ruthye</li><li>Matthias Schoenaerts as Krem</li><li>Jason Momoa as Lobo</li><li>David Krumholtz as Zor-El</li><li>Emily Beecham as Alura In-Ze</li><li>David Corenswet as Superman</li><li>Kadiff Kirwan as Bomar Vran</li><li>Thalissa Teixeira as Mareck Vran</li><li>Ferdinand Kingsley as Elias Knoll</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
-   "t": "Supergirl (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-   "year": "2026"
-  },
-  "movie:1195803": {
-   "d": "Wicker (2026): Romance/Fantasy film. Story: On the outskirts of a village by the sea, lives a… See cast, budget $10M, and TMDB rating 7.5/10.",
-   "img": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
-   "industry": "world",
-   "k": "Wicker, Wicker movie, Wicker cast, Wicker story, Wicker box office collection, Wicker budget, Wicker review, Wicker rating, Wicker release date, Wicker trailer, Wicker Romance, Wicker Fantasy, international movies, FlickAtlas",
-   "ld": {
-    "@context": "https://schema.org",
-    "@type": "Movie",
-    "actor": [
-     {
-      "@type": "Person",
-      "name": "Olivia Colman"
-     },
-     {
-      "@type": "Person",
-      "name": "Alexander Skarsgård"
-     },
-     {
-      "@type": "Person",
-      "name": "Peter Dinklage"
-     },
-     {
-      "@type": "Person",
-      "name": "Elizabeth Debicki"
-     },
-     {
-      "@type": "Person",
-      "name": "Marli Siu"
-     }
-    ],
-    "aggregateRating": {
-     "@type": "AggregateRating",
-     "bestRating": 10,
-     "ratingCount": 50,
-     "ratingValue": 7.5,
-     "worstRating": 0
-    },
-    "description": "Wicker (2026): Romance/Fantasy film. Story: On the outskirts of a village by the sea, lives a… See cast, budget $10M, and TMDB rating 7.5/10.",
-    "director": [
-     {
-      "@type": "Person",
-      "name": "Eleanor Wilson"
-     },
-     {
-      "@type": "Person",
-      "name": "Alex Huston Fischer"
-     }
-    ],
-    "duration": "PT105M",
-    "genre": [
-     "Romance",
-     "Fantasy"
-    ],
-    "image": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
-    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1195803",
-    "name": "Wicker",
-    "releasedEvent": {
-     "@type": "PublicationEvent",
-     "startDate": "2026-10-21"
-    },
-    "url": "https://flickatlas.co.uk/movie?id=1195803"
-   },
-   "modified": "",
-   "published": "2026-11-14",
-   "ssr": "<article class=\"ssr-facts\">\n<h1>Wicker (2026)</h1>\n<p class=\"ssr-lead\">On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 October 2026</li><li>Runtime: 105 minutes</li><li>Director: Eleanor Wilson, Alex Huston Fischer</li><li>Genres: Romance, Fantasy, Comedy</li><li>Budget: $10M</li><li>TMDB rating: 7.5/10 (50 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Olivia Colman as The Fisherwoman</li><li>Alexander Skarsgård as The Wicker Husband</li><li>Peter Dinklage as The Basketmaker</li><li>Elizabeth Debicki as The Tailor’s Wife</li><li>Marli Siu as The Bottlewasher’s Wife</li><li>Nabhaan Rizwan as The Tailor</li><li>Richard E. Grant as The Doctor</li><li>Phil Daniels as The Butcher</li><li>Kiell Smith-Bynoe as The Innkeeper</li><li>Emily Lloyd-Saini as The Innkeeper’s Wife</li></ul>\n</article>",
-   "t": "Wicker (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-   "year": "2026"
-  },
   "movie:1235303": {
    "d": "Baise-en-ville (2026): Comedy film. Story: Sprite, a 20-year-old young adult, returns to Chelles… See cast and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/1v1tmwxXwqnayMOCWo03aH6nNEZ.jpg",
@@ -388,70 +256,6 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Hedwig and the Angry Inch (2001)</h1>\n<p class=\"ssr-lead\">Raised a boy in East Berlin, Hedwig undergoes a personal transformation in order to emigrate to the U.S., where she reinvents herself as an &#x27;internationally ignored&#x27; but divinely talented rock diva, inhabiting a &#x27;beautiful gender of one&#x27;.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 August 2001</li><li>Runtime: 95 minutes</li><li>Director: John Cameron Mitchell</li><li>Genres: Comedy, Music, Drama</li><li>Budget: $6M</li><li>TMDB rating: 7.5/10 (451 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Cameron Mitchell as Hedwig</li><li>Miriam Shor as Yitzhak</li><li>Stephen Trask as Skszp</li><li>Theodore Liscinski as Jacek</li><li>Rob Campbell as Krzysztof</li><li>Michael Aronov as Schlatko</li><li>Andrea Martin as Phyllis Stein</li><li>Ben Mayer-Goodman as Hansel - 6 years old</li><li>Alberta Watson as Hansel&#x27;s Mom</li><li>Gene Pyrz as Hansel&#x27;s Dad</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Hedwig and the Angry Inch (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2001"
-  },
-  "movie:1437703": {
-   "d": "Flies (2026): Drama/Comedy film. Story: Olga lives a strictly regulated life without… See cast, TMDB rating 7.4/10, and release date 1 July 2026.",
-   "img": "https://image.tmdb.org/t/p/w780/dlVvlYfvpD05KYbKFxEUvskvWWd.jpg",
-   "industry": "world",
-   "k": "Flies, Flies movie, Flies cast, Flies story, Flies box office collection, Flies budget, Flies review, Flies rating, Flies release date, Flies trailer, Flies Drama, Flies Comedy, international movies, FlickAtlas",
-   "ld": {
-    "@context": "https://schema.org",
-    "@type": "Movie",
-    "actor": [
-     {
-      "@type": "Person",
-      "name": "Bastián Escobar"
-     },
-     {
-      "@type": "Person",
-      "name": "Teresa Sánchez"
-     },
-     {
-      "@type": "Person",
-      "name": "Hugo Ramírez"
-     },
-     {
-      "@type": "Person",
-      "name": "Enrique Arreola"
-     },
-     {
-      "@type": "Person",
-      "name": "Liam Rivera"
-     }
-    ],
-    "aggregateRating": {
-     "@type": "AggregateRating",
-     "bestRating": 10,
-     "ratingCount": 25,
-     "ratingValue": 7.4,
-     "worstRating": 0
-    },
-    "description": "Flies (2026): Drama/Comedy film. Story: Olga lives a strictly regulated life without… See cast, TMDB rating 7.4/10, and release date 1 July 2026.",
-    "director": [
-     {
-      "@type": "Person",
-      "name": "Fernando Eimbcke"
-     }
-    ],
-    "duration": "PT101M",
-    "genre": [
-     "Drama",
-     "Comedy"
-    ],
-    "image": "https://image.tmdb.org/t/p/w780/dlVvlYfvpD05KYbKFxEUvskvWWd.jpg",
-    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1437703",
-    "name": "Flies",
-    "releasedEvent": {
-     "@type": "PublicationEvent",
-     "startDate": "2026-07-01"
-    },
-    "url": "https://flickatlas.co.uk/movie?id=1437703"
-   },
-   "modified": "",
-   "published": "2026-11-14",
-   "ssr": "<article class=\"ssr-facts\">\n<h1>Flies (2026)</h1>\n<p class=\"ssr-lead\">Olga lives a strictly regulated life without attachments in a vast apartment block. When out of financial necessity she rents a room in her apartment to a man who also sneaks-in his nine-year-old son, an unlikely bond forms. Her carefully controlled world begins to shift, and their lives become intertwined against her will.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 July 2026</li><li>Runtime: 101 minutes</li><li>Director: Fernando Eimbcke</li><li>Genres: Drama, Comedy</li><li>TMDB rating: 7.4/10 (25 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bastián Escobar as Cristian</li><li>Teresa Sánchez as Olga</li><li>Hugo Ramírez as Tulio</li><li>Enrique Arreola as Isaac</li><li>Liam Rivera as Niño en maquinita</li><li>Evelyn Velazquez as Guardia enojona</li><li>Paco Peralta as Guardia del hospital</li><li>Luis Santamaria as Guardia acceso servicio</li><li>Janeth Cruz as Guardia de las uñas</li><li>Manuel Carrillo as Anciano pelota</li></ul>\n</article>",
-   "t": "Flies (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-   "year": "2026"
   },
   "movie:1596303": {
    "d": "The Last First: Winter K2 (2026): Documentary film. Story: A historic race to become the first to summit K2 in… See cast and TMDB rating 6.3/10.",
@@ -1198,6 +1002,72 @@
    "t": "Marvel's Agents of S.H.I.E.L.D. (2013) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2013"
   },
+  "tv:213703": {
+   "d": "Agent from Above (2026) is a Drama and Action & Adventure TV series. Explore its story: Bound by a deity's pact, Han Chieh fights demons on… and cast.",
+   "img": "https://image.tmdb.org/t/p/w780/w1DjULItqmTGKnavi5hAtOGMogA.jpg",
+   "industry": "world",
+   "k": "Agent from Above, Agent from Above TV series, Agent from Above cast, Agent from Above story, Agent from Above seasons, Agent from Above episodes, Agent from Above season 1, Agent from Above 8 episodes, Agent from Above first air date, Agent from Above Drama, Agent from Above Action & Adventure, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kai Ko"
+     },
+     {
+      "@type": "Person",
+      "name": "Buffy Chen"
+     },
+     {
+      "@type": "Person",
+      "name": "Edison Wang"
+     },
+     {
+      "@type": "Person",
+      "name": "Simon Hsueh"
+     },
+     {
+      "@type": "Person",
+      "name": "Johnny Yang"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 34,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Agent from Above (2026) is a Drama and Action & Adventure TV series. Explore its story: Bound by a deity's pact, Han Chieh fights demons on… and cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Donnie Lai"
+     },
+     {
+      "@type": "Person",
+      "name": "Wei-Chieh Kuan"
+     }
+    ],
+    "genre": [
+     "Drama",
+     "Action & Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/w1DjULItqmTGKnavi5hAtOGMogA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=213703",
+    "name": "Agent from Above",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 1,
+    "startDate": "2026-04-02",
+    "url": "https://flickatlas.co.uk/show?id=213703"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Agent from Above (2026)</h1>\n<p class=\"ssr-lead\">Bound by a deity&#x27;s pact, Han Chieh fights demons on Earth. When he uncovers an old enemy&#x27;s plan for a second invasion, he must fight to save humanity.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 2 April 2026</li><li>Seasons: 1 · Episodes: 8</li><li>Created by: Xing Zi</li><li>Director: Donnie Lai, Wei-Chieh Kuan</li><li>Genres: Drama, Action &amp; Adventure, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 7.4/10 (34 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kai Ko as Han Chieh</li><li>Buffy Chen as Yeh Tzu</li><li>Edison Wang as Nezha (Third Crown Prince)</li><li>Simon Hsueh as Wu Tien Chi</li><li>Johnny Yang as Chang Min</li><li>Chen Yi-wen as Chen Chi Sha</li><li>Lin He-hsuan as Wang Hsiao Ming</li><li>Leon Dai as Demon King of Sixth Heaven</li><li>David Chao as Chao</li><li>Tzu-Chien Kuo as Shen Lung Crown Prince</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Agent from Above (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
   "tv:2303": {
    "d": "Hawaii Five-O (1969) is an Action & Adventure and Drama TV series. Explore its story: Hawaii Five-O is an American police procedural drama… and cast.",
    "img": "https://image.tmdb.org/t/p/w780/9as2hYKrhbKWj4ePtFMftQfEsEX.jpg",
@@ -1253,6 +1123,522 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Hawaii Five-O (1969)</h1>\n<p class=\"ssr-lead\">Hawaii Five-O is an American police procedural drama series produced by CBS Productions and Leonard Freeman. Set in Hawaii, the show originally aired for 12 seasons from 1968 to 1980, and continues in reruns. Jack Lord portrayed Detective Lieutenant Steve McGarrett, the head of a special state police task force which was based on an actual unit that existed under martial law in the 1940s. The theme music composed by Morton Stevens became especially popular. Many episodes would end with McGarrett instructing his subordinate to &quot;Book &#x27;em, Danno!&quot;, sometimes specifying a charge such as &quot;murder one&quot;.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 4 June 1969</li><li>Seasons: 12 · Episodes: 284</li><li>Created by: Leonard Freeman</li><li>Genres: Action &amp; Adventure, Drama</li><li>TMDB rating: 7.2/10 (169 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jack Lord as Det. Steve McGarrett</li><li>Herman Wedemeyer as Duke</li><li>William Smith as Det. James &#x27;Kimo&#x27; Carew</li><li>Richard Denning as Governor</li><li>Sharon Farrell as Lori Wilson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Paramount Plus Premium, Paramount Plus Essential, Paramount Plus Apple TV channel, Paramount+ Amazon Channel, Paramount+ Roku Premium Channel</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, Fandango At Home</li></ul>\n</article>",
    "t": "Hawaii Five-O (1969) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "1969"
+  },
+  "tv:231003": {
+   "d": "Lazarus (2025) is a Sci-Fi & Fantasy and Action & Adventure TV series. Explore its story: In 2052, a Nobel Prize-winning neuroscientist…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/fgcSUbheJ2nml1g7y5QNvR4s16d.jpg",
+   "industry": "world",
+   "k": "Lazarus, Lazarus TV series, Lazarus cast, Lazarus story, Lazarus seasons, Lazarus episodes, Lazarus season 1, Lazarus 13 episodes, Lazarus first air date, Lazarus trailer, Lazarus Sci-Fi & Fantasy, Lazarus Action & Adventure, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mamoru Miyano"
+     },
+     {
+      "@type": "Person",
+      "name": "Makoto Furukawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Maaya Uchida"
+     },
+     {
+      "@type": "Person",
+      "name": "Yuma Uchida"
+     },
+     {
+      "@type": "Person",
+      "name": "Manaka Iwami"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 144,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Lazarus (2025) is a Sci-Fi & Fantasy and Action & Adventure TV series. Explore its story: In 2052, a Nobel Prize-winning neuroscientist…, cast, and 1 season.",
+    "genre": [
+     "Sci-Fi & Fantasy",
+     "Action & Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fgcSUbheJ2nml1g7y5QNvR4s16d.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=231003",
+    "name": "Lazarus",
+    "numberOfEpisodes": 13,
+    "numberOfSeasons": 1,
+    "startDate": "2025-04-06",
+    "url": "https://flickatlas.co.uk/show?id=231003"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Lazarus (2025)</h1>\n<p class=\"ssr-lead\">In 2052, a Nobel Prize-winning neuroscientist develops a drug called Hapna — a cure-all that has the unexpected side-effect of causing death three years later. In response to this threat, a special force of agents—nicknamed &quot;Lazarus&quot;— is assembled to take on the malevolent Skinner.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 6 April 2025</li><li>Seasons: 1 · Episodes: 13</li><li>Created by: Shinichiro Watanabe</li><li>Genres: Sci-Fi &amp; Fantasy, Action &amp; Adventure, Animation</li><li>TMDB rating: 7.5/10 (144 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mamoru Miyano as Axel (voice)</li><li>Makoto Furukawa as Doug (voice)</li><li>Maaya Uchida as Christine (voice)</li><li>Yuma Uchida as Leland (voice)</li><li>Manaka Iwami as Eleina (voice)</li><li>Megumi Hayashibara as Hersch (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, Adult Swim, HBO Max</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, Fandango At Home</li></ul>\n</article>",
+   "t": "Lazarus (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:245703": {
+   "d": "Dept. Q (2025) is a Drama and Crime TV series. Explore its story: A brash but brilliant cop becomes head of a new…, cast, 2 seasons, and 10 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/9AJVsScC6M81MmGZTnxghN9NZe9.jpg",
+   "industry": "world",
+   "k": "Dept. Q, Dept. Q TV series, Dept. Q cast, Dept. Q story, Dept. Q seasons, Dept. Q episodes, Dept. Q season 2, Dept. Q 10 episodes, Dept. Q first air date, Dept. Q trailer, Dept. Q Drama, Dept. Q Crime, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Matthew Goode"
+     },
+     {
+      "@type": "Person",
+      "name": "Chloe Pirrie"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamie Sives"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexej Manvelov"
+     },
+     {
+      "@type": "Person",
+      "name": "Leah Byrne"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 529,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Dept. Q (2025) is a Drama and Crime TV series. Explore its story: A brash but brilliant cop becomes head of a new…, cast, 2 seasons, and 10 episodes.",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9AJVsScC6M81MmGZTnxghN9NZe9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=245703",
+    "name": "Dept. Q",
+    "numberOfEpisodes": 10,
+    "numberOfSeasons": 2,
+    "startDate": "2025-05-29",
+    "url": "https://flickatlas.co.uk/show?id=245703"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dept. Q (2025)</h1>\n<p class=\"ssr-lead\">A brash but brilliant cop becomes head of a new police department, where he leads an unlikely team of misfits in solving Edinburgh&#x27;s cold cases.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 29 May 2025</li><li>Seasons: 2 · Episodes: 10</li><li>Created by: Scott Frank, Chandni Lakhani</li><li>Genres: Drama, Crime, Mystery</li><li>TMDB rating: 7.9/10 (529 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Matthew Goode as DCI Carl Morck</li><li>Chloe Pirrie as Merritt Lingard</li><li>Jamie Sives as DCI James Hardy</li><li>Alexej Manvelov as Akram Salim</li><li>Leah Byrne as DC Rose Dickson</li><li>Kelly Macdonald as Dr Rachel Irving</li><li>Aaron McVeigh as Jasper Stewart</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Dept. Q (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:250203": {
+   "d": "Brothers (2026) is a Comedy TV series. Explore its story: Hollywood actors Matthew McConaughey and Woody…, cast, 1 season, 8 episodes, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+   "industry": "world",
+   "k": "Brothers, Brothers TV series, Brothers cast, Brothers story, Brothers seasons, Brothers episodes, Brothers season 1, Brothers 8 episodes, Brothers first air date, Brothers trailer, Brothers Comedy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Matthew McConaughey"
+     },
+     {
+      "@type": "Person",
+      "name": "Woody Harrelson"
+     },
+     {
+      "@type": "Person",
+      "name": "Natalie Martinez"
+     },
+     {
+      "@type": "Person",
+      "name": "Brittany Ishibashi"
+     },
+     {
+      "@type": "Person",
+      "name": "Nolan Almeida"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 33,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Brothers (2026) is a Comedy TV series. Explore its story: Hollywood actors Matthew McConaughey and Woody…, cast, 1 season, 8 episodes, and TMDB rating 6.7/10.",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=250203",
+    "name": "Brothers",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 1,
+    "startDate": "2026-09-22",
+    "url": "https://flickatlas.co.uk/show?id=250203"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Brothers (2026)</h1>\n<p class=\"ssr-lead\">Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 22 September 2026</li><li>Seasons: 1 · Episodes: 8</li><li>Created by: Matthew McConaughey, Woody Harrelson, David West Read, Lee Eisenberg</li><li>Genres: Comedy</li><li>TMDB rating: 6.7/10 (33 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Matthew McConaughey as Matthew McConaughey</li><li>Woody Harrelson as Woody Harrelson</li><li>Natalie Martinez as Valentina</li><li>Brittany Ishibashi as Joy</li><li>Nolan Almeida as Wyatt</li><li>Ella Grace Helton as Clara</li><li>Noah Carganilla as River</li><li>Highdee Kuan as Olive</li><li>Oona Yaffe as Kai</li><li>Holland Taylor as Ma Mac</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Apple TV, Apple TV Amazon Channel</li></ul>\n</article>",
+   "t": "Brothers (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:270603": {
+   "d": "The Exiled Heavy Knight Knows How to Game the System (2026) is an Animation and Action & Adventure TV series.",
+   "img": "https://image.tmdb.org/t/p/w780/rQmzx7qyoK5YiXJHnv0jdgVlKyl.jpg",
+   "industry": "world",
+   "k": "The Exiled Heavy Knight Knows How to Game the System, The Exiled Heavy Knight Knows How to Game the System TV series, The Exiled Heavy Knight Knows How to Game the System cast, The Exiled Heavy Knight Knows How to Game the System story, The Exiled Heavy Knight Knows How to Game the System seasons, The Exiled Heavy Knight Knows How to Game the System episodes, The Exiled Heavy Knight Knows How to Game the System season 1, The Exiled Heavy Knight Knows How to Game the System 26 episodes, The Exiled Heavy Knight Knows How to Game the System first air date, The Exiled Heavy Knight Knows How to Game the System trailer, The Exiled Heavy Knight Knows How to Game the System Animation, The Exiled Heavy Knight Knows How to Game the System Action & Adventure, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Takeo Otsuka"
+     },
+     {
+      "@type": "Person",
+      "name": "Shion Wakayama"
+     },
+     {
+      "@type": "Person",
+      "name": "Natsuko Abe"
+     },
+     {
+      "@type": "Person",
+      "name": "Kentaro Tone"
+     },
+     {
+      "@type": "Person",
+      "name": "Katsumi Fukuhara"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 39,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "The Exiled Heavy Knight Knows How to Game the System (2026) is an Animation and Action & Adventure TV series.",
+    "genre": [
+     "Animation",
+     "Action & Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rQmzx7qyoK5YiXJHnv0jdgVlKyl.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=270603",
+    "name": "The Exiled Heavy Knight Knows How to Game the System",
+    "numberOfEpisodes": 26,
+    "numberOfSeasons": 1,
+    "startDate": "2026-07-03",
+    "url": "https://flickatlas.co.uk/show?id=270603"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Exiled Heavy Knight Knows How to Game the System (2026)</h1>\n<p class=\"ssr-lead\">Born into a prestigious family of master swordsmen, Elymas Edvaughn&#x27;s future shatters when he awakens the so-called &quot;defective&quot; Heavy Knight class. Disowned and cast out, he regains memories of another life—and realizes this world mirrors a VR game he once mastered. Armed with knowledge no one else possesses, he sets out to rewrite his fate and prove the strength of the &quot;weakest&quot; class.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 3 July 2026</li><li>Seasons: 1 · Episodes: 26</li><li>Genres: Animation, Action &amp; Adventure, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 8.2/10 (39 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Takeo Otsuka as Elma Edvan (voice)</li><li>Shion Wakayama as Luce Rubis (voice)</li><li>Natsuko Abe as Maris Edvan (voice)</li><li>Kentaro Tone as Isaac Edvan (voice)</li><li>Katsumi Fukuhara as Klein (voice)</li><li>Miyuri Shimabukuro as Reese (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Crunchyroll, Crunchyroll Amazon Channel, Anime Times Amazon Channel</li></ul>\n</article>",
+   "t": "The Exiled Heavy Knight Knows How to Game the System (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:271003": {
+   "d": "Yandere Dark Elf: She Chased Me All the Way from Another World! (2025) is an Animation and Comedy TV series.",
+   "img": "https://image.tmdb.org/t/p/w780/goz9KqwTKy8pCW2iOycBLMBtJ0y.jpg",
+   "industry": "world",
+   "k": "Yandere Dark Elf: She Chased Me All the Way from Another World!, Yandere Dark Elf: She Chased Me All the Way from Another World! TV series, Yandere Dark Elf: She Chased Me All the Way from Another World! cast, Yandere Dark Elf: She Chased Me All the Way from Another World! story, Yandere Dark Elf: She Chased Me All the Way from Another World! seasons, Yandere Dark Elf: She Chased Me All the Way from Another World! episodes, Yandere Dark Elf: She Chased Me All the Way from Another World! season 1, Yandere Dark Elf: She Chased Me All the Way from Another World! 12 episodes, Yandere Dark Elf: She Chased Me All the Way from Another World! first air date, Yandere Dark Elf: She Chased Me All the Way from Another World! trailer, Yandere Dark Elf: She Chased Me All the Way from Another World! Animation, Yandere Dark Elf: She Chased Me All the Way from Another World! Comedy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rie Kawamura"
+     },
+     {
+      "@type": "Person",
+      "name": "Minami Takahashi"
+     },
+     {
+      "@type": "Person",
+      "name": "Kyouka Maruyama"
+     },
+     {
+      "@type": "Person",
+      "name": "Hinako Takahashi"
+     },
+     {
+      "@type": "Person",
+      "name": "Ayumi Mano"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 25,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Yandere Dark Elf: She Chased Me All the Way from Another World! (2025) is an Animation and Comedy TV series.",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/goz9KqwTKy8pCW2iOycBLMBtJ0y.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=271003",
+    "name": "Yandere Dark Elf: She Chased Me All the Way from Another World!",
+    "numberOfEpisodes": 12,
+    "numberOfSeasons": 1,
+    "startDate": "2025-04-07",
+    "url": "https://flickatlas.co.uk/show?id=271003"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Yandere Dark Elf: She Chased Me All the Way from Another World! (2025)</h1>\n<p class=\"ssr-lead\">Hinata did it. He got reincarnated into another world, took up the mantle of Hero, and slew the dreaded Demon Lord alongside his party of fellow adventurers. As his reward, he’s returned to Earth to resume a normal life. Or it would be if it wasn’t for the fact that his dark elf companion Mariabelle decided to travel to Earth to come and live with him! Now she uses her arcane talents to ward off any potential romantic rivals and capture Hinata’s affection.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 7 April 2025</li><li>Seasons: 1 · Episodes: 12</li><li>Genres: Animation, Comedy, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 6.2/10 (25 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rie Kawamura as Hinata Sunohara (voice)</li><li>Minami Takahashi as Mariabelle (voice)</li><li>Kyouka Maruyama as Sakura Mochida (voice)</li><li>Hinako Takahashi as Cecile (voice)</li><li>Ayumi Mano as Mei (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Anime Times Amazon Channel</li></ul>\n</article>",
+   "t": "Yandere Dark Elf: She Chased Me All the Way from Another World! (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:306603": {
+   "d": "Gone (2026) is a Crime and Drama TV series. Explore its story: When a headmaster's wife goes missing, suspicion…, cast, 1 season, and 6 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/c43frTJmf5SkVT7AZ2RTnxNqDRF.jpg",
+   "industry": "world",
+   "k": "Gone, Gone TV series, Gone cast, Gone story, Gone seasons, Gone episodes, Gone season 1, Gone 6 episodes, Gone first air date, Gone trailer, Gone Crime, Gone Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Eve Myles"
+     },
+     {
+      "@type": "Person",
+      "name": "Emma Appleton"
+     },
+     {
+      "@type": "Person",
+      "name": "Billy Barratt"
+     },
+     {
+      "@type": "Person",
+      "name": "Rupert Evans"
+     },
+     {
+      "@type": "Person",
+      "name": "David Morrissey"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 32,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Gone (2026) is a Crime and Drama TV series. Explore its story: When a headmaster's wife goes missing, suspicion…, cast, 1 season, and 6 episodes.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Richard Laxton"
+     }
+    ],
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/c43frTJmf5SkVT7AZ2RTnxNqDRF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=306603",
+    "name": "Gone",
+    "numberOfEpisodes": 6,
+    "numberOfSeasons": 1,
+    "startDate": "2026-03-08",
+    "url": "https://flickatlas.co.uk/show?id=306603"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Gone (2026)</h1>\n<p class=\"ssr-lead\">When a headmaster&#x27;s wife goes missing, suspicion falls on him. Is he hiding something, or is there more to this case than meets the eye?</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 8 March 2026</li><li>Seasons: 1 · Episodes: 6</li><li>Created by: George Kay</li><li>Director: Richard Laxton</li><li>Genres: Crime, Drama</li><li>TMDB rating: 6.6/10 (32 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eve Myles as DS Annie Cassidy</li><li>Emma Appleton as Alana Polly</li><li>Billy Barratt as Dylan Sedgwick</li><li>Rupert Evans as Rory Bowman</li><li>David Morrissey as Michael Polly</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Britbox Apple TV channel, BritBox, BritBox Amazon Channel</li></ul>\n</article>",
+   "t": "Gone (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:318203": {
+   "d": "Alice and Steve (2026) is a Comedy and Drama TV series. Explore its story: Alice is devastated when her best friend Steve starts…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/1mN5cydNUFqd7MHfOwhcHZzLnvT.jpg",
+   "industry": "world",
+   "k": "Alice and Steve, Alice and Steve TV series, Alice and Steve cast, Alice and Steve story, Alice and Steve seasons, Alice and Steve episodes, Alice and Steve season 1, Alice and Steve 6 episodes, Alice and Steve first air date, Alice and Steve trailer, Alice and Steve Comedy, Alice and Steve Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nicola Walker"
+     },
+     {
+      "@type": "Person",
+      "name": "Jemaine Clement"
+     },
+     {
+      "@type": "Person",
+      "name": "Joel Fry"
+     },
+     {
+      "@type": "Person",
+      "name": "Yali Topol Margalith"
+     },
+     {
+      "@type": "Person",
+      "name": "Tyrese Eaton-Dyce"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 22,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Alice and Steve (2026) is a Comedy and Drama TV series. Explore its story: Alice is devastated when her best friend Steve starts…, cast, and 1 season.",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1mN5cydNUFqd7MHfOwhcHZzLnvT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=318203",
+    "name": "Alice and Steve",
+    "numberOfEpisodes": 6,
+    "numberOfSeasons": 1,
+    "startDate": "2026-06-08",
+    "url": "https://flickatlas.co.uk/show?id=318203"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Alice and Steve (2026)</h1>\n<p class=\"ssr-lead\">Alice is devastated when her best friend Steve starts dating her 26-year-old daughter Izzy. She&#x27;s going to lose her best friend and her daughter in one fell swoop. Alice tries everything she can to end the relationship. Unfortunately for her, Steve&#x27;s more than ready for the attack, and what begins as a perfect friendship, devolves into an all-out feud.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 8 June 2026</li><li>Seasons: 1 · Episodes: 6</li><li>Created by: Sophie Goodhart</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 6.3/10 (22 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nicola Walker as Alice</li><li>Jemaine Clement as Steve</li><li>Joel Fry as Daniel</li><li>Yali Topol Margalith as Izzy</li><li>Tyrese Eaton-Dyce as Dom</li><li>Eilidh Fisher as Rome</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Alice and Steve (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:318503": {
+   "d": "Peaky Blinders: The Immortal Man Podcast (2026) is a Talk TV series. Explore its story: Creators, special guests and stars — including…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/hjkPZoUDluo2jrEt9KCMBmlNua.jpg",
+   "industry": "world",
+   "k": "Peaky Blinders: The Immortal Man Podcast, Peaky Blinders: The Immortal Man Podcast TV series, Peaky Blinders: The Immortal Man Podcast cast, Peaky Blinders: The Immortal Man Podcast story, Peaky Blinders: The Immortal Man Podcast seasons, Peaky Blinders: The Immortal Man Podcast episodes, Peaky Blinders: The Immortal Man Podcast season 1, Peaky Blinders: The Immortal Man Podcast 6 episodes, Peaky Blinders: The Immortal Man Podcast first air date, Peaky Blinders: The Immortal Man Podcast Talk, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Edith Bowman"
+     },
+     {
+      "@type": "Person",
+      "name": "Packy Lee"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 29,
+     "ratingValue": 9.0,
+     "worstRating": 0
+    },
+    "description": "Peaky Blinders: The Immortal Man Podcast (2026) is a Talk TV series. Explore its story: Creators, special guests and stars — including…, cast, and 1 season.",
+    "genre": [
+     "Talk"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hjkPZoUDluo2jrEt9KCMBmlNua.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=318503",
+    "name": "Peaky Blinders: The Immortal Man Podcast",
+    "numberOfEpisodes": 6,
+    "numberOfSeasons": 1,
+    "startDate": "2026-03-06",
+    "url": "https://flickatlas.co.uk/show?id=318503"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Peaky Blinders: The Immortal Man Podcast (2026)</h1>\n<p class=\"ssr-lead\">Creators, special guests and stars — including Cillian Murphy — unpack the &quot;Peaky Blinders&quot; saga in this official companion podcast for the new film.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 6 March 2026</li><li>Seasons: 1 · Episodes: 6</li><li>Genres: Talk</li><li>TMDB rating: 9.0/10 (29 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Edith Bowman as Self - Host</li><li>Packy Lee as Self - Host</li></ul>\n</article>",
+   "t": "Peaky Blinders: The Immortal Man Podcast (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:322803": {
+   "d": "Outlast: The Jungle (2026) is a Reality TV series. Explore its story: On a remote tropical island, 16 players must survive…, cast, 1 season, and 8 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/vOQUiJ8sokhHTUzaH8VO0fDsEXk.jpg",
+   "industry": "world",
+   "k": "Outlast: The Jungle, Outlast: The Jungle TV series, Outlast: The Jungle cast, Outlast: The Jungle story, Outlast: The Jungle seasons, Outlast: The Jungle episodes, Outlast: The Jungle season 1, Outlast: The Jungle 8 episodes, Outlast: The Jungle first air date, Outlast: The Jungle trailer, Outlast: The Jungle Reality, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 20,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Outlast: The Jungle (2026) is a Reality TV series. Explore its story: On a remote tropical island, 16 players must survive…, cast, 1 season, and 8 episodes.",
+    "genre": [
+     "Reality"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vOQUiJ8sokhHTUzaH8VO0fDsEXk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=322803",
+    "name": "Outlast: The Jungle",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 1,
+    "startDate": "2026-06-10",
+    "url": "https://flickatlas.co.uk/show?id=322803"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Outlast: The Jungle (2026)</h1>\n<p class=\"ssr-lead\">On a remote tropical island, 16 players must survive the elements, outmaneuver rivals and remain part of a team for a chance to win a $1 million prize.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 10 June 2026</li><li>Seasons: 1 · Episodes: 8</li><li>Genres: Reality</li><li>TMDB rating: 7.2/10 (20 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Outlast: The Jungle (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:323903": {
+   "d": "The Terror: Devil in Silver (2026) is a Drama TV series. Explore its story: Wrongfully committed to New Hyde Psychiatric…, cast, 1 season, and 6 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/dIOCCTC3hd2zhTh0qeEDE4Gf3oO.jpg",
+   "industry": "world",
+   "k": "The Terror: Devil in Silver, The Terror: Devil in Silver TV series, The Terror: Devil in Silver cast, The Terror: Devil in Silver story, The Terror: Devil in Silver seasons, The Terror: Devil in Silver episodes, The Terror: Devil in Silver season 1, The Terror: Devil in Silver 6 episodes, The Terror: Devil in Silver first air date, The Terror: Devil in Silver trailer, The Terror: Devil in Silver Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dan Stevens"
+     },
+     {
+      "@type": "Person",
+      "name": "Judith Light"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 41,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "The Terror: Devil in Silver (2026) is a Drama TV series. Explore its story: Wrongfully committed to New Hyde Psychiatric…, cast, 1 season, and 6 episodes.",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dIOCCTC3hd2zhTh0qeEDE4Gf3oO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=323903",
+    "name": "The Terror: Devil in Silver",
+    "numberOfEpisodes": 6,
+    "numberOfSeasons": 1,
+    "startDate": "2026-05-07",
+    "url": "https://flickatlas.co.uk/show?id=323903"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Terror: Devil in Silver (2026)</h1>\n<p class=\"ssr-lead\">Wrongfully committed to New Hyde Psychiatric Hospital, one man faces secretive doctors, dangerous patients, and something even worse …</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 7 May 2026</li><li>Seasons: 1 · Episodes: 6</li><li>Created by: Victor LaValle</li><li>Genres: Drama</li><li>TMDB rating: 6.7/10 (41 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dan Stevens as Pepper</li><li>Judith Light as Dorry</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, AMC, Shudder, Spectrum On Demand</li><li>Buy: Amazon Video, Fandango At Home</li></ul>\n</article>",
+   "t": "The Terror: Devil in Silver (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
   },
   "tv:4303": {
    "d": "Superman: The Animated Series (1996) is an Animation and Action & Adventure TV series. Explore its story: Superman, an incredibly powerful alien from the….",

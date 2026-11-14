@@ -1,6 +1,6 @@
 {
  "bucket": "40",
- "count": 30,
+ "count": 38,
  "titles": {
   "movie:1224440": {
    "backdrop_path": "/oJPOVGHKzC0lBFjIE7Z4uvKuARl.jpg",
@@ -292,100 +292,6 @@
    "vote_average": 6.0,
    "vote_count": 22
   },
-  "movie:1400940": {
-   "backdrop_path": "/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
-   "budget": 44000000,
-   "cast": [
-    {
-     "c": "Matt Hagen / Clayface",
-     "n": "Tom Rhys Harries"
-    },
-    {
-     "c": "Caitlyn Corr",
-     "n": "Naomi Ackie"
-    },
-    {
-     "c": "Frank Fitzpatrick",
-     "n": "Eddie Marsan"
-    },
-    {
-     "c": "John Borrelli",
-     "n": "Max Minghella"
-    },
-    {
-     "c": "Markos Szabo",
-     "n": "David Dencik"
-    },
-    {
-     "c": "Rosie",
-     "n": "Francesca Corney"
-    },
-    {
-     "c": "Theresa",
-     "n": "Ruby Sear"
-    },
-    {
-     "c": "Bones",
-     "n": "Wil Coban"
-    },
-    {
-     "c": "Corey Bowery",
-     "n": "Joshua James"
-    },
-    {
-     "c": "Patches",
-     "n": "Jake Curran"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "A",
-   "date_kind": "release",
-   "director": [
-    "James Watkins"
-   ],
-   "genres": [
-    "Horror",
-    "Thriller",
-    "Science Fiction"
-   ],
-   "id": 1400940,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-   "popularity": 76.3197,
-   "poster_path": "/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [],
-   "providers_wtw": [],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-23",
-   "revenue": 112306814,
-   "runtime": 109,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "Look fear in the face.",
-   "title": "Clayface",
-   "trailer": {
-    "key": "f7jlCqdtwdM",
-    "name": "The Plane",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.4,
-   "vote_count": 434
-  },
   "movie:1492640": {
    "backdrop_path": "/XohTvvPXiGhUKhiQSvmoMTnj2z.jpg",
    "budget": 0,
@@ -580,115 +486,6 @@
    "trailer": null,
    "type": "movie",
    "vote_average": 6.6,
-   "vote_count": 24
-  },
-  "movie:1654940": {
-   "backdrop_path": "/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Yui Katakura",
-     "n": "Ko Shibasaki"
-    },
-    {
-     "c": "Sena",
-     "n": "Eiji Akaso"
-    },
-    {
-     "c": "Masami Ikuyama",
-     "n": "Michitaka Tsutsui"
-    },
-    {
-     "c": "Mizuho Maruyama",
-     "n": "Naomi Nishida"
-    },
-    {
-     "c": "Nachi",
-     "n": "Yui Narumi"
-    },
-    {
-     "c": "Kiriya",
-     "n": "Ryubi Miyase"
-    },
-    {
-     "c": "Doctor",
-     "n": "Koen Kondo"
-    },
-    {
-     "c": "Sena's Mother",
-     "n": "Mari Hamada"
-    },
-    {
-     "c": "Yui's Mother",
-     "n": "Yōko Moriguchi"
-    },
-    {
-     "c": "",
-     "n": "Ichika Osaki"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "PG-13",
-   "date_kind": "release",
-   "director": [
-    "Hiroki Kazama"
-   ],
-   "genres": [
-    "Romance",
-    "Drama",
-    "Comedy"
-   ],
-   "id": 1654940,
-   "industry": "world",
-   "origin_country": [
-    "JP"
-   ],
-   "original_language": "ja",
-   "overview": "Given a year to live, frugal 40-year-old Yui finally lets herself spend: \"buying\" nightclub host Sena. What begins as a contract takes an unexpected turn.",
-   "popularity": 38.2757,
-   "poster_path": "/fez7kLyGzpowduJapTFZZ1feCS0.jpg",
-   "production_countries": [
-    "JP"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-11-05",
-   "revenue": 0,
-   "runtime": 109,
-   "source": "catalogue",
-   "spoken_languages": [
-    "ja",
-    "pt"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "One Year to Live, Buy a Man",
-   "trailer": {
-    "key": "WH-RRKQGdJ8",
-    "name": "Official Trailer [Subtitled]",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.396,
    "vote_count": 24
   },
   "movie:1684240": {
@@ -2143,6 +1940,122 @@
    "vote_average": 7.4,
    "vote_count": 693
   },
+  "tv:203740": {
+   "backdrop_path": "/lA7PhetuTDbW5euHB7VtPAYwrH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jacob 'Jack' Shadow (voice)",
+     "n": "Chiaki Kobayashi"
+    },
+    {
+     "c": "Phil Ashe (voice)",
+     "n": "Yuto Uemura"
+    },
+    {
+     "c": "Osma (voice)",
+     "n": "Kousuke Takaguchi"
+    },
+    {
+     "c": "Duan (voice)",
+     "n": "Satoshi Yamaguchi"
+    },
+    {
+     "c": "Inanna Zinger (voice)",
+     "n": "Arisa Kori"
+    },
+    {
+     "c": "Zowan (voice)",
+     "n": "Yuka Terasaki"
+    },
+    {
+     "c": "Eric Baker (voice)",
+     "n": "Yu Kobayashi"
+    },
+    {
+     "c": "Georg Landry (voice)",
+     "n": "Katsunori Okai"
+    },
+    {
+     "c": "Rhys Rochelle (voice)",
+     "n": "Misaki Yamada"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-10",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 203740,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 18,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "After rebel forces attack Earth, a carefree heir becomes the prime suspect and joins a special military unit to find the true mastermind on the Moon.",
+   "popularity": 6.7037,
+   "poster_path": "/mqok8du6LvnaigAJo5omAq1BPye.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-10",
+     "episode_count": 18,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Moonrise",
+   "trailer": {
+    "key": "e1Y9KkuL2DQ",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.083,
+   "vote_count": 30
+  },
   "tv:2140": {
    "backdrop_path": "/zPyVcPi5vFjjHbZsYYbbIG1I0oL.jpg",
    "budget": 0,
@@ -2550,6 +2463,126 @@
    "vote_average": 8.156,
    "vote_count": 905
   },
+  "tv:240740": {
+   "backdrop_path": "/oHnlulBoE3XbI3HIYWY0dZfh5RH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kay Scarpetta",
+     "n": "Nicole Kidman"
+    },
+    {
+     "c": "Dorothy",
+     "n": "Jamie Lee Curtis"
+    },
+    {
+     "c": "Pete Marino",
+     "n": "Bobby Cannavale"
+    },
+    {
+     "c": "Benton Wesley",
+     "n": "Simon Baker"
+    },
+    {
+     "c": "Past Kay Scarpetta",
+     "n": "Rosy McEwen"
+    },
+    {
+     "c": "Past Pete Marino",
+     "n": "Jake Cannavale"
+    },
+    {
+     "c": "Past Bentony Wesley",
+     "n": "Hunter Parrish"
+    },
+    {
+     "c": "Lucy Farinelli-Watson",
+     "n": "Ariana DeBose"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [
+    "Elizabeth Sarnoff"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-11",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 240740,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Renowned forensic pathologist Dr. Kay Scarpetta returns to her position as Virginia's Chief Medical Examiner, where she investigates a haunting murder with eerie reminders from her first big case decades ago. In 1998, Scarpetta works alongside Detective Pete Marino and FBI Agent Benton Wesley as they investigate a series of brutal stranglings. Based on the best-selling novels by Patricia Cornwell.",
+   "popularity": 13.0514,
+   "poster_path": "/zvkcHCJUPqv7R9ukaiDNkm75jy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-11",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "She's a voice for the voiceless.",
+   "title": "Scarpetta",
+   "trailer": {
+    "key": "RSpvGC0_XLM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.44,
+   "vote_count": 166
+  },
   "tv:2440": {
    "backdrop_path": "/nvm6q6p0y7CdRG1JQuGzWLdV7p7.jpg",
    "budget": 0,
@@ -2795,6 +2828,116 @@
    "vote_average": 7.443,
    "vote_count": 210
   },
+  "tv:252640": {
+   "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Zang Hai",
+     "n": "Xiao Zhan"
+    },
+    {
+     "c": "Xiang Antu",
+     "n": "Zhang Jingyi"
+    },
+    {
+     "c": "Zhuang Zhixing",
+     "n": "Zhou Qi"
+    },
+    {
+     "c": "Zhuang Luyin",
+     "n": "Huang Jue"
+    },
+    {
+     "c": "Mingyu Suti",
+     "n": "Yu Nan"
+    },
+    {
+     "c": "Zhao Shangxian",
+     "n": "Michelle Chen"
+    },
+    {
+     "c": "The Emperor",
+     "n": "Zhang Guoqiang"
+    },
+    {
+     "c": "Prince Yongrong",
+     "n": "Qiao Zhenyu"
+    },
+    {
+     "c": "Zhao Bingwen",
+     "n": "Tian Xiaojie"
+    },
+    {
+     "c": "Chu Huaiming",
+     "n": "Sha Baoliang"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CCTV-8",
+   "created_by": [
+    "Kennedy Xu"
+   ],
+   "director": [
+    "Xiaolong Zheng",
+    "Cao Yiwen"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-18",
+   "genres": [
+    "Drama"
+   ],
+   "id": 252640,
+   "industry": "world",
+   "networks": [
+    "CCTV-8",
+    "Youku"
+   ],
+   "number_of_episodes": 40,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
+   "popularity": 9.6076,
+   "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-18",
+     "episode_count": 40,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Legend of Zang Hai",
+   "trailer": {
+    "key": "R4L7Cjvpq9A",
+    "name": "【Official Trailer】Legend of Zang Hai: First trailer!🔥 | Xiao Zhan \\ Zhang Jingyi | YOUKU",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.0,
+   "vote_count": 72
+  },
   "tv:273240": {
    "backdrop_path": "/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
    "budget": 0,
@@ -2908,6 +3051,708 @@
    "type": "tv",
    "vote_average": 8.8,
    "vote_count": 912
+  },
+  "tv:277640": {
+   "backdrop_path": "/pSFJys8tIv7mll6Fv1LqMbrWxLt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "Tom Hiddleston"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "National Geographic",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-22",
+   "genres": [
+    "Documentary",
+    "Drama"
+   ],
+   "id": 277640,
+   "industry": "world",
+   "networks": [
+    "National Geographic"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A historical exploration about the eruption of Vesuvius in 79 A.D. and the preserved Roman city it left behind.",
+   "popularity": 5.0127,
+   "poster_path": "/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-22",
+     "episode_count": 3,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Pompeii: Out of Time with Tom Hiddleston",
+   "trailer": {
+    "key": "7k52aJRs3gA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.371,
+   "vote_count": 35
+  },
+  "tv:282440": {
+   "backdrop_path": "/1b2OYNA3Ikq9BBwk6If8As89bge.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Profeta Moraes",
+     "n": "André Lamoglia"
+    },
+    {
+     "c": "Búfalo",
+     "n": "Xamã"
+    },
+    {
+     "c": "Mirna",
+     "n": "Mel Maia"
+    },
+    {
+     "c": "Susana",
+     "n": "Giullia Buscacio"
+    },
+    {
+     "c": "Leila",
+     "n": "Juliana Paes"
+    },
+    {
+     "c": "Galego",
+     "n": "Chico Diaz"
+    },
+    {
+     "c": "Esqueleto",
+     "n": "Ruan Aguiar"
+    },
+    {
+     "c": "Sombra",
+     "n": "Igor Fernandez"
+    },
+    {
+     "c": "Santiago",
+     "n": "Henrique Barreira"
+    },
+    {
+     "c": "Nélio",
+     "n": "Adriano Garib"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Heitor Dhalia"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-29",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 282440,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "A young man aspires to rise through the ranks of Rio's gambling underworld — unaware of the dangerous game of betrayal, lust and blood that awaits him.",
+   "popularity": 4.6339,
+   "poster_path": "/2TqtXFRt1sE6ifbaq8PO7bzA8Ai.jpg",
+   "production_countries": [
+    "BR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-29",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Rulers of Fortune",
+   "trailer": {
+    "key": "y1E-jSD_T5k",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.217,
+   "vote_count": 69
+  },
+  "tv:286840": {
+   "backdrop_path": "/5nWLwHIX9nAgsreSY6MaAc39gm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bob Adams",
+     "n": "Nicholas Blatt"
+    },
+    {
+     "c": "Lee Wenham",
+     "n": "Λουκ Φίλποτ"
+    },
+    {
+     "c": "Ray Betson",
+     "n": "Tuncay Gunes"
+    },
+    {
+     "c": "Self -   Robber",
+     "n": "Lee Wenham"
+    },
+    {
+     "c": "Self - The Diamond Heist Mastermind (archive footage)",
+     "n": "Ray Betson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Jesse Vile"
+   ],
+   "director": [
+    "Jesse Vile"
+   ],
+   "episode_run_time": [
+    47
+   ],
+   "first_air_date": "2025-04-16",
+   "genres": [
+    "Documentary",
+    "Crime"
+   ],
+   "id": 286840,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "This stranger-than-fiction crime caper follows the attempted robbery of a precious gem, told by the gangsters who did it and the police on their tail.",
+   "popularity": 1.7649,
+   "poster_path": "/yhbwLnjKzTqTNEIrf88e2MI0Xyi.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-16",
+     "episode_count": 3,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Diamond Heist",
+   "trailer": {
+    "key": "dYu1SPrakXA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.8,
+   "vote_count": 25
+  },
+  "tv:296140": {
+   "backdrop_path": "/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kang Ha-gi",
+     "n": "Kang Hoon"
+    },
+    {
+     "c": "Nam Da-reum",
+     "n": "Kim Hye-jun"
+    },
+    {
+     "c": "Lee Chan",
+     "n": "Cha Woo-min"
+    },
+    {
+     "c": "Yoon Choi",
+     "n": "YUNA"
+    },
+    {
+     "c": "Roy",
+     "n": "Chun Woo-jin"
+    },
+    {
+     "c": "Hyeok",
+     "n": "Yoon Hyun-suk"
+    },
+    {
+     "c": "Tae-oh",
+     "n": "Baekseung"
+    },
+    {
+     "c": "Ji-nu",
+     "n": "Jung Hyun-min"
+    },
+    {
+     "c": "Park Mi-mi",
+     "n": "Jiho"
+    },
+    {
+     "c": "Lee Seul-ah",
+     "n": "Kim Ah-young"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "tvN",
+   "created_by": [
+    "Seong Eun"
+   ],
+   "director": [
+    "박지현"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-08-03",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 296140,
+   "industry": "world",
+   "networks": [
+    "tvN"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+   "popularity": 7.9958,
+   "poster_path": "/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-08-03",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Who is your bias?",
+   "title": "My Bias, My Boss",
+   "trailer": {
+    "key": "L248dmHg8YA",
+    "name": "OFFICIAL TRAILER [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.3,
+   "vote_count": 22
+  },
+  "tv:297640": {
+   "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joo In-ah",
+     "n": "Shin Hae-sun"
+    },
+    {
+     "c": "Noh Ki-jun",
+     "n": "Gong Myoung"
+    },
+    {
+     "c": "Jeon Jae-yeol",
+     "n": "Kim Jae-uck"
+    },
+    {
+     "c": "Park Ah-jung",
+     "n": "Hong Hwa-yeon"
+    },
+    {
+     "c": "Mu Kwang-il",
+     "n": "Oh Dae-hwan"
+    },
+    {
+     "c": "Cha Seong-tae",
+     "n": "Jang In-sub"
+    },
+    {
+     "c": "Pyeon Hae-young",
+     "n": "Park Joo-hee"
+    },
+    {
+     "c": "Baek Hyun-kyu",
+     "n": "Lee Gwang-hee"
+    },
+    {
+     "c": "Yoon Da-ye",
+     "n": "Sim Su-bin"
+    },
+    {
+     "c": "Seong Du-gi",
+     "n": "Bae Jae-sung"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "tvN",
+   "created_by": [
+    "Yang Hui-seung"
+   ],
+   "director": [
+    "Lee Soo-hyun"
+   ],
+   "episode_run_time": [
+    65
+   ],
+   "first_air_date": "2026-04-25",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 297640,
+   "industry": "world",
+   "networks": [
+    "tvN"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
+   "popularity": 8.8064,
+   "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-25",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "A thrilling and intimate audit romance.",
+   "title": "Filing for Love",
+   "trailer": {
+    "key": "CyhwlmMkktc",
+    "name": "Filing For Love (2026) Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 36
+  },
+  "tv:302540": {
+   "backdrop_path": "/pXdkJvhBcPf8oEj831ASMkLPXKT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Wolf (voice)",
+     "n": "Michael Godere"
+    },
+    {
+     "c": "Snake (voice)",
+     "n": "Chris Diamantopoulos"
+    },
+    {
+     "c": "Shark (voice)",
+     "n": "Ezekiel Ajeigbe"
+    },
+    {
+     "c": "Piranha (voice)",
+     "n": "Raul Ceballos"
+    },
+    {
+     "c": "Tarantula/Webs (voice)",
+     "n": "Mallory Low"
+    },
+    {
+     "c": "Tiffany Fluffit (voice)",
+     "n": "Zehra Fazal"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "channel": "Netflix",
+   "created_by": [
+    "Katherine Nolfi",
+    "Ben Glass",
+    "Shane Lynch",
+    "Elizabeth Chun",
+    "Kyel White",
+    "Bret Haaland",
+    "Christo Stamboliev"
+   ],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2025-11-06",
+   "genres": [
+    "Animation",
+    "Crime",
+    "Comedy",
+    "Family"
+   ],
+   "id": 302540,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 19,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "How did the Bad Guys break into the bad guy business in the first place? Find out in this hilarious prequel series set before the hit films.",
+   "popularity": 9.7116,
+   "poster_path": "/1F19BFivPc2N3sXJ4461cWsrK33.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-06",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-04-02",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "The Bad Guys are back!",
+   "title": "The Bad Guys: The Series",
+   "trailer": {
+    "key": "o6HXxD6CcLg",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.0,
+   "vote_count": 41
   },
   "tv:39340": {
    "backdrop_path": "/u04AvxFIDgL9JSd9xoVNK3BoBEd.jpg",
@@ -4149,6 +4994,142 @@
    "type": "tv",
    "vote_average": 8.3,
    "vote_count": 1202
+  },
+  "tv:8840": {
+   "backdrop_path": "/a0gOfhPiVGjS55HX9aIXInMVXc5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maduka 'Duke' Kilroy",
+     "n": "Howard Charles"
+    },
+    {
+     "c": "Kingsley Marshall",
+     "n": "Nicholas Pinnock"
+    },
+    {
+     "c": "Joy Marshall",
+     "n": "Deborah Ayorinde"
+    },
+    {
+     "c": "Ezekiel 'Zeek' Marshall",
+     "n": "Charles Babalola"
+    },
+    {
+     "c": "Cebella 'Cece' Marshall",
+     "n": "Anita-Joy Uwajeh"
+    },
+    {
+     "c": "Kim Harper",
+     "n": "Tahirah Sharif"
+    },
+    {
+     "c": "Justin 'Jay' Hall",
+     "n": "Tyler Conti"
+    },
+    {
+     "c": "Gary 'Gazzer' Kilroy",
+     "n": "Richard Pepple"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "STARZ",
+   "created_by": [
+    "Daniel Fajemisin-Duncan",
+    "Marlon Smith"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-31",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 8840,
+   "industry": "world",
+   "networks": [
+    "STARZ"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A disgraced, formerly incarcerated boxing champion returns to London to seek vengeance against the crime syndicate he thinks betrayed him.",
+   "popularity": 3.9108,
+   "poster_path": "/wUqUxv3ZhF1spAx4HLxhP1NUK8G.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-31",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Fightland",
+   "trailer": {
+    "key": "9L1jj4ALxCE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 4.8,
+   "vote_count": 20
   },
   "tv:93740": {
    "backdrop_path": "/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",

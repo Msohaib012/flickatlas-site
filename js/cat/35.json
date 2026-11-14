@@ -1,6 +1,6 @@
 {
  "bucket": "35",
- "count": 25,
+ "count": 30,
  "titles": {
   "movie:10935": {
    "backdrop_path": "/v0DsJiF7LAeJtqFObQfq3eU6rag.jpg",
@@ -1781,101 +1781,6 @@
    "vote_average": 5.744,
    "vote_count": 440
   },
-  "movie:858035": {
-   "backdrop_path": "/2Zk5jRXUlrfkU3RsutMPMHey1Y.jpg",
-   "budget": 20000000,
-   "cast": [
-    {
-     "c": "Klara",
-     "n": "Jenna Ortega"
-    },
-    {
-     "c": "Josie",
-     "n": "Mia Tharia"
-    },
-    {
-     "c": "Chrissie",
-     "n": "Amy Adams"
-    },
-    {
-     "c": "Manager",
-     "n": "Natasha Lyonne"
-    },
-    {
-     "c": "Rick",
-     "n": "Aran Murphy"
-    },
-    {
-     "c": "Melania",
-     "n": "Rachel House"
-    },
-    {
-     "c": "Capaldi",
-     "n": "Steve Buscemi"
-    },
-    {
-     "c": "Simone",
-     "n": "Davida McKenzie"
-    },
-    {
-     "c": "",
-     "n": "Harry Greenwood"
-    },
-    {
-     "c": "AF-1",
-     "n": "Anastasiia Aksiuta"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "PG-13",
-   "date_kind": "release",
-   "director": [
-    "Taika Waititi"
-   ],
-   "genres": [
-    "Science Fiction",
-    "Drama"
-   ],
-   "id": 858035,
-   "industry": "world",
-   "origin_country": [
-    "US",
-    "GB"
-   ],
-   "original_language": "en",
-   "overview": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother and they've suffered great loss, but Klara's innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie's complicated world.",
-   "popularity": 27.1429,
-   "poster_path": "/xqovj2p6HRsgHxN81qYAYF4StgM.jpg",
-   "production_countries": [
-    "GB",
-    "US"
-   ],
-   "providers": [],
-   "providers_wtw": [],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-21",
-   "revenue": 1691141,
-   "runtime": 116,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "Meet the future of friendship.",
-   "title": "Klara and the Sun",
-   "trailer": {
-    "key": "wixzainceAE",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 6.094,
-   "vote_count": 32
-  },
   "movie:859235": {
    "backdrop_path": "/xSIJy4vPKpo2uw6q7HNBhIvQaj6.jpg",
    "budget": 12000000,
@@ -2660,6 +2565,135 @@
    "vote_average": 7.626,
    "vote_count": 722
   },
+  "tv:204135": {
+   "backdrop_path": "/hoLPJjPfYdEWJXG1y7OCgOeipaF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Key (voice)",
+     "n": "Akshay Kumar"
+    },
+    {
+     "c": "Ssyelle (voice)",
+     "n": "Rebecca LaChance"
+    },
+    {
+     "c": "Milo (voice)",
+     "n": "Yeukayi Ushe"
+    },
+    {
+     "c": "Odward (voice)",
+     "n": "Waylon Jacobs"
+    },
+    {
+     "c": "Ameline (voice)",
+     "n": "Evanna Lynch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-Y7",
+   "channel": "Disney XD",
+   "created_by": [
+    "Sylvain Dos Santos",
+    "Charles Lefebvre"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-06-09",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Family",
+    "Action & Adventure"
+   ],
+   "id": 204135,
+   "industry": "world",
+   "networks": [
+    "Disney XD"
+   ],
+   "number_of_episodes": 11,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a world where sports and magic combine, farm boy Key discovers his ultrapowerful natural talent and learns he could be the legendary Dragon Striker.",
+   "popularity": 5.8875,
+   "poster_path": "/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
+   "production_countries": [
+    "FR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "DisneyNOW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-13",
+     "episode_count": 11,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2026-06-09",
+     "episode_count": 11,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Dragon Striker",
+   "trailer": {
+    "key": "qVeikhEKaY0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 24
+  },
   "tv:236235": {
    "backdrop_path": "/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
    "budget": 0,
@@ -2917,6 +2951,517 @@
    "type": "tv",
    "vote_average": 8.3,
    "vote_count": 500
+  },
+  "tv:252135": {
+   "backdrop_path": "/h8sF926rL0b7zdMSWjo9rYiy3Lk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Wang Hui-chun",
+     "n": "Shu Qi"
+    },
+    {
+     "c": "Chao Ching",
+     "n": "Angelica Lee Sin-jie"
+    },
+    {
+     "c": "Chang Shih-kai",
+     "n": "Fu Meng-po"
+    },
+    {
+     "c": "Chang Chia-feng",
+     "n": "Chung Hsin-ling"
+    },
+    {
+     "c": "Huang I-chen",
+     "n": "Alyssa Chia Ching-Wen"
+    },
+    {
+     "c": "Hsin-yi",
+     "n": "Caitlin Fang"
+    },
+    {
+     "c": "An-chi",
+     "n": "Suri Lin"
+    },
+    {
+     "c": "Christina Chang",
+     "n": "Chu-Ping Liu"
+    },
+    {
+     "c": "Jin-jin",
+     "n": "Vivi Chen"
+    },
+    {
+     "c": "Sun Kuo-chiang",
+     "n": "Rexen Cheng"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "Netflix",
+   "created_by": [
+    "Leste Chen",
+    "Hsu Chao-jen"
+   ],
+   "director": [
+    "Leste Chen",
+    "Hsu Chao-jen"
+   ],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2025-10-09",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 252135,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 9,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TW"
+   ],
+   "original_language": "zh",
+   "overview": "Two grieving mothers resurrect a scam ringleader to avenge their daughters — but as painful truths emerge, justice slips from their reach.",
+   "popularity": 3.5485,
+   "poster_path": "/l1bJ4lSl2pSMpCFpIhhKeT7N34a.jpg",
+   "production_countries": [
+    "TW"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-09",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "th",
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Resurrected",
+   "trailer": {
+    "key": "82x6TW-q_Zg",
+    "name": "The Resurrected | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 33
+  },
+  "tv:278635": {
+   "backdrop_path": "/vnTrREtP0qBSmZHEEZR515FAXXB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Light (voice)",
+     "n": "Nina Tamaki"
+    },
+    {
+     "c": "Mei (voice)",
+     "n": "Ikumi Hasegawa"
+    },
+    {
+     "c": "Aoyuki (voice)",
+     "n": "Shiori Izawa"
+    },
+    {
+     "c": "Nemumu (voice)",
+     "n": "Yuko Natsuyoshi"
+    },
+    {
+     "c": "Ellie (voice)",
+     "n": "Ayumi Mano"
+    },
+    {
+     "c": "Nazuna (voice)",
+     "n": "Hana Hishikawa"
+    },
+    {
+     "c": "Gold (voice)",
+     "n": "Katsuya Miyamoto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-03",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 278635,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "God created nine races in the ancient times. Humans were the weakest, most ridiculed race among them. Light, a human boy, was fortunate enough to be invited to join a party of all nine races called the \"Assembly of the Races.\" He was happy being a member for a while, but that was a short dream. His hopes were only to be betrayed by his fellow members at the largest, most heinous dungeon \"Abyss.\" After surviving by himself at the bottom of Abyss, Light learns the true meaning of his gift \"Unlimited Gacha.\" Light will rise from the worst despair to build his own empire of the strongest players.",
+   "popularity": 9.4204,
+   "poster_path": "/8hhOcbDKJZvOD67N8GT0kdjNjd9.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HiDive"
+    },
+    {
+     "name": "Hidive Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-03",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+   "trailer": {
+    "key": "jhHKXEaXO6A",
+    "name": "Dub Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 106
+  },
+  "tv:292035": {
+   "backdrop_path": "/aKvbFRFOzbaMB59575O5vUVaFyr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Wu Suowei",
+     "n": "Zi Yu"
+    },
+    {
+     "c": "Chi Cheng",
+     "n": "Tian Xuning"
+    },
+    {
+     "c": "Jiang Xiaoshuai",
+     "n": "Liu Xuancheng"
+    },
+    {
+     "c": "Guo Chengyu",
+     "n": "Zhan Xuan"
+    },
+    {
+     "c": "Wang Shuo",
+     "n": "Liu Jun"
+    },
+    {
+     "c": "Wang Zhen",
+     "n": "Wang Shuo"
+    },
+    {
+     "c": "Yue Yue",
+     "n": "Sun Qianyu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "Viki",
+   "created_by": [],
+   "director": [
+    "Gong Yushi"
+   ],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2025-06-16",
+   "genres": [
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 292035,
+   "industry": "world",
+   "networks": [
+    "Viki"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "After Wu Suo-wei's girlfriend dumps him, he decides to get revenge by seducing her new boyfriend, Chi Cheng! It started as a game, but falling in love was never part of the plan.",
+   "popularity": 9.0316,
+   "poster_path": "/kJTSJ6X9zjL4nYM8Oje21sTuoOZ.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-16",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "Is it rivalry or love?",
+   "title": "Revenged Love",
+   "trailer": {
+    "key": "4qmLHpHAyOA",
+    "name": "Official Trailer [English Subtitles]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.344,
+   "vote_count": 80
+  },
+  "tv:310935": {
+   "backdrop_path": "/pJert4hRVNzagvtFr3vTYnpgBMH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nanno",
+     "n": "Becky Armstrong"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "ONE 31",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-07",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 310935,
+   "industry": "world",
+   "networks": [
+    "ONE 31"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "In a new universe, the mysterious Nanno poses as a transfer student, exposing cruelty by turning power, guilt and desire against those who abuse them.",
+   "popularity": 5.6787,
+   "poster_path": "/683nTrAK1DSgiuI9vfn4BbJLobT.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-07",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Ended",
+   "tagline": "It's time for a reckoning.",
+   "title": "Girl from Nowhere: The Reset",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.687,
+   "vote_count": 67
+  },
+  "tv:328735": {
+   "backdrop_path": "/1BosXOwTUudCrE77ayEJSROW8sL.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [
+    "Skye Borgman"
+   ],
+   "episode_run_time": [
+    44
+   ],
+   "first_air_date": "2026-07-29",
+   "genres": [
+    "Documentary",
+    "Crime"
+   ],
+   "id": 328735,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Through bodycam footage, texts and interviews with loved ones, this documentary investigates the horrifying murder of four University of Idaho students.",
+   "popularity": 4.7979,
+   "poster_path": "/2Fjgxlv2ishFAaYYZLa6jccswbq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-29",
+     "episode_count": 3,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Idaho Murders: College Nightmare",
+   "trailer": {
+    "key": "OrUb7JYjAk8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.8,
+   "vote_count": 38
   },
   "tv:50035": {
    "backdrop_path": "/1kTVbczFhMDA2dyJO4GvoMwWu38.jpg",

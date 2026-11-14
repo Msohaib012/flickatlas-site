@@ -1,6 +1,6 @@
 {
  "bucket": "79",
- "count": 17,
+ "count": 23,
  "titles": {
   "movie:1000879": {
    "backdrop_path": "/r0txRSBp0N7zPPP64Pnz9jr2xC7.jpg",
@@ -235,142 +235,6 @@
    "type": "movie",
    "vote_average": 5.569,
    "vote_count": 436
-  },
-  "movie:1275779": {
-   "backdrop_path": "/1e0KDRYKRPHiVNj8yQKYuU2jVyQ.jpg",
-   "budget": 115000000,
-   "cast": [
-    {
-     "c": "Margaret Fairchild",
-     "n": "Emily Blunt"
-    },
-    {
-     "c": "Dr. Daniel Kellner",
-     "n": "Josh O'Connor"
-    },
-    {
-     "c": "Noah Scanlon",
-     "n": "Colin Firth"
-    },
-    {
-     "c": "Jane Blakenship",
-     "n": "Eve Hewson"
-    },
-    {
-     "c": "Hugo Wakefield",
-     "n": "Colman Domingo"
-    },
-    {
-     "c": "Jackson",
-     "n": "Wyatt Russell"
-    },
-    {
-     "c": "Casper Boyd",
-     "n": "Henry Lloyd-Hughes"
-    },
-    {
-     "c": "Sister Maura",
-     "n": "Elizabeth Marvel"
-    },
-    {
-     "c": "Serena",
-     "n": "Hettienne Park"
-    },
-    {
-     "c": "Santiago",
-     "n": "Tommy Martinez"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 13+",
-   "date_kind": "release",
-   "director": [
-    "Steven Spielberg"
-   ],
-   "genres": [
-    "Science Fiction",
-    "Thriller"
-   ],
-   "id": 1275779,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-   "popularity": 47.4245,
-   "poster_path": "/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "JioHotstar"
-    },
-    {
-     "name": "Peacock Premium"
-    },
-    {
-     "name": "Peacock Premium Plus"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-     "name": "JioHotstar",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
-     "name": "Zee5",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "IN"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-06-12",
-   "revenue": 244633645,
-   "runtime": 146,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en",
-    "ru",
-    "ko"
-   ],
-   "status": "Released",
-   "tagline": "We deserve to know.",
-   "title": "Disclosure Day",
-   "trailer": {
-    "key": "icDuEHSxE-w",
-    "name": "Final Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.41,
-   "vote_count": 4012
   },
   "movie:1321179": {
    "backdrop_path": "/1s1r4OOdnU8VX2inALVTA2q94uY.jpg",
@@ -1533,6 +1397,136 @@
    "vote_average": 8.103,
    "vote_count": 3254
   },
+  "tv:117879": {
+   "backdrop_path": "/rdIZOzYMcG0GZhgzQ1oBmWlsjNd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Akiteru Oboshi (voice)",
+     "n": "Haruki Ishiya"
+    },
+    {
+     "c": "Iroha Kohinata (voice)",
+     "n": "Sayumi Suzushiro"
+    },
+    {
+     "c": "Mashiro Tsukinomori (voice)",
+     "n": "Tomori Kusunoki"
+    },
+    {
+     "c": "Ozuma Kohinata (voice)",
+     "n": "Soma Saito"
+    },
+    {
+     "c": "Sumire Kageishi (voice)",
+     "n": "Kana Hanazawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "HTB",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2025-10-04",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 117879,
+   "industry": "world",
+   "networks": [
+    "HTB",
+    "tv asahi",
+    "Nagoya TV",
+    "KBC",
+    "ABC TV",
+    "NCC",
+    "OAB",
+    "ABA",
+    "Niigata Television Network 21",
+    "khb",
+    "KFB",
+    "HOME",
+    "KSB",
+    "Kagoshima Broadcasting",
+    "Iwate Asahi TV",
+    "Akita Asahi Broadcasting",
+    "Yamagata Television System",
+    "Shizuoka Asahi TV",
+    "Asahi Broadcasting Nagano",
+    "Hokuriku Asahi Broadcasting",
+    "Ehime Asahi TV",
+    "Yamaguchi Asahi Broadcasting",
+    "Kumamoto Asahi Broadcasting",
+    "Ryu-Q Asahi Broadcasting"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "For high schooler Akiteru Oboshi, the whole youthful experience thing—like fun, friendships, and even having a girlfriend—is a complete waste of time. So when his best friend’s sister, Iroha Kohinata, keeps teasing him, Akiteru naturally finds it annoying. She practically lives in his room, she’s always on his bed, she’s just a raging storm of clinginess! Why is she only annoying around him?!",
+   "popularity": 4.7869,
+   "poster_path": "/iPpRAPMo3uPDyKppmHpsGuAeqpP.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-04",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "My Friend's Little Sister Has It In for Me!",
+   "trailer": {
+    "key": "pYLZTwXCZyo",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.276,
+   "vote_count": 29
+  },
   "tv:18779": {
    "backdrop_path": "/fEYf9tJpex1MMKX7i65kbltZYnR.jpg",
    "budget": 0,
@@ -1818,6 +1812,704 @@
    "type": "tv",
    "vote_average": 8.3,
    "vote_count": 153
+  },
+  "tv:221079": {
+   "backdrop_path": "/pzxIAuKHqQqCFOxh2ALmHUgXkOD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Frank Remnick",
+     "n": "Jason Clarke"
+    },
+    {
+     "c": "Sidney Scofield",
+     "n": "Haley Bennett"
+    },
+    {
+     "c": "Havlock",
+     "n": "Dominic Cooper"
+    },
+    {
+     "c": "Sarah Remnick",
+     "n": "Simone Kessell"
+    },
+    {
+     "c": "Hutch",
+     "n": "Dallas Goldtooth"
+    },
+    {
+     "c": "Luke Remnick",
+     "n": "Tait Blum"
+    },
+    {
+     "c": "Jacqueline Bradford",
+     "n": "Alfre Woodard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [
+    "Jon Bokenkamp",
+    "Richard D'Ovidio"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-09",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 221079,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a prison transport plane crashes in the remote Alaskan wilderness—freeing dozens of violent inmates—the region's lone marshal must protect the town he's vowed to keep safe.",
+   "popularity": 11.4242,
+   "poster_path": "/4S2gS1mECZ5wDRBVAZE6KWmJHI3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-09",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "600,000 square miles. Nowhere to hide.",
+   "title": "The Last Frontier",
+   "trailer": {
+    "key": "Y_O7puXja-E",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.2,
+   "vote_count": 244
+  },
+  "tv:233079": {
+   "backdrop_path": "/lkmGrZXASDPwXyWf4p8GG83dw5N.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Saoirse",
+     "n": "Roisin Gallagher"
+    },
+    {
+     "c": "Robyn",
+     "n": "Sinéad Keenan"
+    },
+    {
+     "c": "Dara",
+     "n": "Caoilfhionn Dunne"
+    },
+    {
+     "c": "Liam",
+     "n": "Darragh Hand"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Lisa McGee"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-02-12",
+   "genres": [
+    "Mystery",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 233079,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Three lifelong pals embark on a chaotic quest to solve the mystery of their old friend's suspicious death and keep their own dark secret under wraps.",
+   "popularity": 6.3831,
+   "poster_path": "/6lFI03QZgXwGZLKtzUw4L8ZnyBv.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-12",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "How to Get to Heaven from Belfast",
+   "trailer": {
+    "key": "6flC0y-2iFw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.051,
+   "vote_count": 98
+  },
+  "tv:255779": {
+   "backdrop_path": "/vx4UhH0RKQOG5etc2qVikStLFqG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yumeko",
+     "n": "Miku Martineau"
+    },
+    {
+     "c": "Ryan",
+     "n": "Ayo Solanke"
+    },
+    {
+     "c": "Mary",
+     "n": "Eve Edwards"
+    },
+    {
+     "c": "Kira",
+     "n": "Clara Alexandrova"
+    },
+    {
+     "c": "Michael",
+     "n": "Hunter Cardinal"
+    },
+    {
+     "c": "Riri",
+     "n": "Anwen O'Driscoll"
+    },
+    {
+     "c": "Dori",
+     "n": "Aviva Mongillo"
+    },
+    {
+     "c": "Suki",
+     "n": "Ryan Sutherland"
+    },
+    {
+     "c": "Chad",
+     "n": "Dorian Giordano"
+    },
+    {
+     "c": "Becky",
+     "n": "Alex Hook"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Simon Barry"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-15",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 255779,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "At a private school where gambling determines social status, a skillful new student with a mysterious past is shaking things up — and betting on revenge.",
+   "popularity": 5.5854,
+   "poster_path": "/e3ENTAEDEO949khpVkJWgcWnwGG.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-15",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Bet",
+   "trailer": {
+    "key": "R7xl9QjtNDc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.729,
+   "vote_count": 107
+  },
+  "tv:274479": {
+   "backdrop_path": "/bolAZI95VNE12KH3zAUwMv2o6CD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "DI Thomas Lynley",
+     "n": "Leo Suter"
+    },
+    {
+     "c": "DS Barbara Havers",
+     "n": "Sofia Barclay"
+    },
+    {
+     "c": "DCI Brian Nies",
+     "n": "Daniel Mays"
+    },
+    {
+     "c": "DC Tony Bekele",
+     "n": "Michael Workéyè"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "channel": "BritBox",
+   "created_by": [
+    "Steve Thompson"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-04",
+   "genres": [
+    "Crime",
+    "Mystery"
+   ],
+   "id": 274479,
+   "industry": "world",
+   "networks": [
+    "BritBox"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Tommy Lynley, an aristocratic detective, and Barbara Havers, a working-class maverick sergeant, share little in common; except a passion for justice. His intellect and her instincts make them an unlikely but formidable team.",
+   "popularity": 3.2626,
+   "poster_path": "/nBwCKjg3CNonSWMmE7VghNc4qBm.jpg",
+   "production_countries": [
+    "GB",
+    "US",
+    "IE"
+   ],
+   "providers": [
+    {
+     "name": "BBC Player Amazon Channel"
+    },
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ozvOiPMMjhOMXpcUYMDK5ut6puz.png",
+     "name": "BBC Player Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-04",
+     "episode_count": 4,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Lynley",
+   "trailer": {
+    "key": "cvTiXqTvwVg",
+    "name": "Lynley | BritBox Original Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.847,
+   "vote_count": 36
+  },
+  "tv:274979": {
+   "backdrop_path": "/kuvIwh28N9iGsJak8Q8fx3ABKer.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Clara Merlo",
+     "n": "Catalina Sopelana"
+    },
+    {
+     "c": "Marta Peña",
+     "n": "Itziar Ituño"
+    },
+    {
+     "c": "Miguel Ferrer",
+     "n": "Álex García"
+    },
+    {
+     "c": "Rafael",
+     "n": "Ivan Massagué"
+    },
+    {
+     "c": "Gabriel",
+     "n": "Tomás del Estal"
+    },
+    {
+     "c": "Juan",
+     "n": "Alfons Nieto"
+    },
+    {
+     "c": "María Díaz",
+     "n": "Valèria Sorolla"
+    },
+    {
+     "c": "Paco Díaz",
+     "n": "Jorge Cabrera"
+    },
+    {
+     "c": "Silvia Luna",
+     "n": "Irene Rojo"
+    },
+    {
+     "c": "Monica",
+     "n": "Alicia Armenteros"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Javier Castillo",
+    "Jesús Mesas Silva",
+    "Javier Andrés Roig"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-11-14",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 274979,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Hoping to learn more about her heart donor, a young doctor arrives in a mountain town where decades of mysterious tragedies plague the small community.",
+   "popularity": 3.9884,
+   "poster_path": "/tsY3Kl793m2sXTMkQTajz0EOqCl.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-14",
+     "episode_count": 6,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "te"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Crystal Cuckoo",
+   "trailer": {
+    "key": "4EHtcpgZM2E",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.5,
+   "vote_count": 95
+  },
+  "tv:296579": {
+   "backdrop_path": "/9f2CFQumW7kz9ARzxpkCH4o2JrO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Courteney Potter",
+     "n": "Jenn Lyon"
+    },
+    {
+     "c": "Boone E. Potter",
+     "n": "Taran Killam"
+    },
+    {
+     "c": "Steven Vaughn",
+     "n": "Ryan Pinkston"
+    },
+    {
+     "c": "Dimarcus",
+     "n": "Jarrett Austin Brown"
+    },
+    {
+     "c": "Krystal",
+     "n": "Anissa Borrego"
+    },
+    {
+     "c": "Madonna",
+     "n": "Arianna Davis"
+    },
+    {
+     "c": "Peaches",
+     "n": "Taylor Dunbar"
+    },
+    {
+     "c": "Sally",
+     "n": "Georgie Murphy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NBC",
+   "created_by": [
+    "Liz Astrof",
+    "Jeff Astrof"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-11-07",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 296579,
+   "industry": "world",
+   "networks": [
+    "NBC"
+   ],
+   "number_of_episodes": 13,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Courteney Potter is determined to rally her newly recruited junior college cheer squad to win her record-breaking 15th championship and improve their lives along the way.",
+   "popularity": 3.7805,
+   "poster_path": "/yb9x05LNrgs06QjAYZE7A4UvSuj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-07",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "They can. They will. They might.",
+   "title": "Stumble",
+   "trailer": {
+    "key": "H9bs-6A5yAc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.143,
+   "vote_count": 21
   },
   "tv:76479": {
    "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "30",
- "count": 24,
+ "count": 34,
  "titles": {
   "movie:1024530": {
    "backdrop_path": "/navvd9bBMuBYbQzKaWKifCw6wsU.jpg",
@@ -171,114 +171,6 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 459
-  },
-  "movie:1122030": {
-   "backdrop_path": "/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
-   "budget": 10500000,
-   "cast": [
-    {
-     "c": "Sita",
-     "n": "Alia Bhatt"
-    },
-    {
-     "c": "Durga",
-     "n": "Sharvari"
-    },
-    {
-     "c": "Fateh Singh Lakhawat / Major Zarrar Khan",
-     "n": "Bobby Deol"
-    },
-    {
-     "c": "Vikrant Kaul",
-     "n": "Anil Kapoor"
-    },
-    {
-     "c": "Dr. John Verghese",
-     "n": "Dibyendu Bhattacharya"
-    },
-    {
-     "c": "Janaki Kaul",
-     "n": "Dia Mirza"
-    },
-    {
-     "c": "Kabir Dhaliwal",
-     "n": "Hrithik Roshan"
-    },
-    {
-     "c": "Susan Cherian",
-     "n": "Shubhi Mehta"
-    },
-    {
-     "c": "Dr. Preeti",
-     "n": "Pavleen Gujral"
-    },
-    {
-     "c": "General Sodhi",
-     "n": "Pranay Narayan"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 16+",
-   "date_kind": "release",
-   "director": [
-    "Shiv Rawail"
-   ],
-   "genres": [
-    "Action",
-    "Thriller"
-   ],
-   "id": 1122030,
-   "industry": "bollywood",
-   "origin_country": [
-    "IN"
-   ],
-   "original_language": "hi",
-   "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
-   "popularity": 5.4753,
-   "poster_path": "/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
-   "production_countries": [
-    "IN"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-07-03",
-   "revenue": 1856084,
-   "runtime": 141,
-   "source": "catalogue",
-   "spoken_languages": [
-    "hi",
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Alpha",
-   "trailer": {
-    "key": "YP1uSAggr6Y",
-    "name": "Official Trailer [ENG SUB]",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 5.167,
-   "vote_count": 36
   },
   "movie:11330": {
    "backdrop_path": "/mRqM7jaTPCdzRELR5sjOMgiDDwo.jpg",
@@ -476,101 +368,6 @@
    "type": "movie",
    "vote_average": 7.173,
    "vote_count": 468
-  },
-  "movie:1154730": {
-   "backdrop_path": "/dZVZkmzHLnobFszwYZ9DybvhUHW.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Toni",
-     "n": "Colas Quignard"
-    },
-    {
-     "c": "Madame Mercier",
-     "n": "Antonia Buresi"
-    },
-    {
-     "c": "James",
-     "n": "Mitia Capellier-Audat"
-    },
-    {
-     "c": "Suzanne",
-     "n": "Suzanne Gerin"
-    },
-    {
-     "c": "Angela",
-     "n": "Hadya Fofana"
-    },
-    {
-     "c": "Amaury",
-     "n": "Rouge Isaac"
-    },
-    {
-     "c": "Constance",
-     "n": "Lou-Ann Le Glorennec"
-    },
-    {
-     "c": "Chamathka",
-     "n": "Chamathka Warahena"
-    },
-    {
-     "c": "Cherazade",
-     "n": "Cherazade Hammedi"
-    },
-    {
-     "c": "Étienne",
-     "n": "Camille Ménard-Harnish"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "15",
-   "date_kind": "release",
-   "director": [
-    "Marine Atlan"
-   ],
-   "genres": [
-    "Drama"
-   ],
-   "id": 1154730,
-   "industry": "world",
-   "origin_country": [
-    "FR"
-   ],
-   "original_language": "fr",
-   "overview": "Amid the ancient ruins of Pompeii, a group of French teenagers on a class trip to Naples grapple with anxiety and exhilaration ahead of their high school graduation.",
-   "popularity": 5.9262,
-   "poster_path": "/y6AkOgTEPM9nTJUOeyvHqlf6Bgp.jpg",
-   "production_countries": [
-    "FR",
-    "IT"
-   ],
-   "providers": [],
-   "providers_wtw": [],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-21",
-   "revenue": 0,
-   "runtime": 145,
-   "source": "catalogue",
-   "spoken_languages": [
-    "fr",
-    "it",
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "La Gradiva",
-   "trailer": {
-    "key": "5yY6V9MbEoE",
-    "name": "Official Trailer [Subtitled]",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.404,
-   "vote_count": 47
   },
   "movie:11830": {
    "backdrop_path": "/oq8HM9TOSbH54Xy0OBJGzYrtUC7.jpg",
@@ -1263,129 +1060,6 @@
    "type": "movie",
    "vote_average": 7.056,
    "vote_count": 45
-  },
-  "movie:1657630": {
-   "backdrop_path": "/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Rojas",
-     "n": "Claudio Cataño"
-    },
-    {
-     "c": "Díaz",
-     "n": "Alejandro Buitrago"
-    },
-    {
-     "c": "Doc",
-     "n": "Hector Sánchez"
-    },
-    {
-     "c": "Pardo",
-     "n": "Andrea Olaya"
-    },
-    {
-     "c": "Excomulgado",
-     "n": "Quique Sanmartin"
-    },
-    {
-     "c": "Jackson",
-     "n": "Jaisson Jeack"
-    },
-    {
-     "c": "Matías",
-     "n": "Carlos Mariño"
-    },
-    {
-     "c": "Castillo",
-     "n": "Andres Londono"
-    },
-    {
-     "c": "Capitán",
-     "n": "Salvador Bridges"
-    },
-    {
-     "c": "",
-     "n": "Sebastian Velasquez"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "NR",
-   "date_kind": "release",
-   "director": [
-    "Jaime Osorio Márquez"
-   ],
-   "genres": [
-    "Horror",
-    "Action",
-    "War",
-    "Fantasy",
-    "Thriller"
-   ],
-   "id": 1657630,
-   "industry": "world",
-   "origin_country": [
-    "CO"
-   ],
-   "original_language": "es",
-   "overview": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
-   "popularity": 111.873,
-   "poster_path": "/AhP971WogMHbF5iKJPKi6e6oaya.jpg",
-   "production_countries": [
-    "CO"
-   ],
-   "providers": [
-    {
-     "name": "Amazon Prime Video"
-    },
-    {
-     "name": "Amazon Prime Video with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-     "name": "Amazon Prime Video",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-     "name": "Amazon Prime Video with Ads",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-29",
-   "revenue": 0,
-   "runtime": 96,
-   "source": "catalogue",
-   "spoken_languages": [
-    "es",
-    "ur"
-   ],
-   "status": "Released",
-   "tagline": "Old sins. New blood.",
-   "title": "The Awakening",
-   "trailer": {
-    "key": "hj6Cer6bJUI",
-    "name": "Official Trailer [Subtitled]",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 6.536,
-   "vote_count": 124
   },
   "movie:1679730": {
    "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
@@ -2444,6 +2118,342 @@
    "vote_average": 6.5,
    "vote_count": 165
   },
+  "tv:223530": {
+   "backdrop_path": "/rXtSdCGmG07zjAg5h7GR1v52ogX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nahla Ake",
+     "n": "Holly Hunter"
+    },
+    {
+     "c": "Caleb Mir",
+     "n": "Sandro Rosta"
+    },
+    {
+     "c": "Jay-Den Kraag",
+     "n": "Karim Diane"
+    },
+    {
+     "c": "Series Acclimation Mil 'Sam'",
+     "n": "Kerrice Brooks"
+    },
+    {
+     "c": "Darem Reymi",
+     "n": "George Hawkins"
+    },
+    {
+     "c": "Genesis Lythe",
+     "n": "Bella Shepard"
+    },
+    {
+     "c": "Tarima Sadal",
+     "n": "Zoë Steiner"
+    },
+    {
+     "c": "Lura Thok",
+     "n": "Gina Yashere"
+    },
+    {
+     "c": "The Doctor",
+     "n": "Robert Picardo"
+    },
+    {
+     "c": "Jett Reno",
+     "n": "Tig Notaro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Paramount+",
+   "created_by": [
+    "Gaia Violo"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-15",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 223530,
+   "industry": "world",
+   "networks": [
+    "Paramount+"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young group of cadets come together to pursue a common dream of hope and optimism. Under the watchful and demanding eyes of their instructors, they will discover what it takes to become Starfleet officers as they navigate blossoming friendships, explosive rivalries, first loves and a new enemy that threatens both the Academy and the Federation itself.",
+   "popularity": 10.2658,
+   "poster_path": "/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-15",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Step into your future.",
+   "title": "Star Trek: Starfleet Academy",
+   "trailer": {
+    "key": "rHDDzcyNWGs",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.4,
+   "vote_count": 261
+  },
+  "tv:232230": {
+   "backdrop_path": "/gdvUUqWutEulHSB4JBoWWnbsLo6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Klein Moretti (voice)",
+     "n": "Yang Kaiqi"
+    },
+    {
+     "c": "Dunn Smith (voice)",
+     "n": "Lei Wu"
+    },
+    {
+     "c": "Leonard Mitchell (voice)",
+     "n": "Titus Jin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Tencent Video",
+   "created_by": [
+    "Cuttlefish That Loves Diving"
+   ],
+   "director": [
+    "Gideon Liu"
+   ],
+   "episode_run_time": [
+    35
+   ],
+   "first_air_date": "2025-06-28",
+   "genres": [
+    "Animation",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 232230,
+   "industry": "world",
+   "networks": [
+    "Tencent Video"
+   ],
+   "number_of_episodes": 13,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "In a Victorian world of steam, dreadnoughts, and occult horrors, Zhou Mingrui awakens as Klein Moretti. He walks a razor’s edge between light and darkness, entangled with warring Churches. This is the legend of unlimited potential…and unspeakable danger.",
+   "popularity": 15.5728,
+   "poster_path": "/c8fHePq3yTn3WvZd4hupkHwsjm5.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-28",
+     "episode_count": 20,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-06-28",
+     "episode_count": 13,
+     "name": "Season 1: The Clown",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Returning Series",
+   "tagline": "Awaken from the mysteries, praise the fool's legend!",
+   "title": "Lord of Mysteries",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.657,
+   "vote_count": 185
+  },
+  "tv:235930": {
+   "backdrop_path": "/zPO7RC0T1kA79cH3zBXPVNUL1Ge.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Adi Shankar"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-03",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 235930,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In this epic battle of good vs. evil, the lines are blurry as hell. But a devilishly handsome demon hunter could be the world's best hope for salvation.",
+   "popularity": 20.6413,
+   "poster_path": "/mX9tqfpjqwreONJHhap7SnSSowe.jpg",
+   "production_countries": [
+    "JP",
+    "KR",
+    "US",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-03",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-05-12",
+     "episode_count": 8,
+     "name": "Devil May Cry 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Demon hunter for hire.",
+   "title": "Devil May Cry",
+   "trailer": {
+    "key": "OlEqHXRrcpc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.19,
+   "vote_count": 500
+  },
   "tv:2530": {
    "backdrop_path": "/6sdfL7enLoMUnyMcNKyETQ68dn3.jpg",
    "budget": 0,
@@ -2614,6 +2624,232 @@
    "type": "tv",
    "vote_average": 6.9,
    "vote_count": 468
+  },
+  "tv:258230": {
+   "backdrop_path": "/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ian Ridley",
+     "n": "Patrick Brammall"
+    },
+    {
+     "c": "Sarah Reid",
+     "n": "Chloe Jean Lourdes"
+    },
+    {
+     "c": "Henry Reid",
+     "n": "Brendan Cowell"
+    },
+    {
+     "c": "Jenna Reid",
+     "n": "Maxine Peake"
+    },
+    {
+     "c": "Donald Reid",
+     "n": "Daniel Henshall"
+    },
+    {
+     "c": "Debbie Mcguire",
+     "n": "Jessica Wren"
+    },
+    {
+     "c": "Isabel 'Izzy' Pena",
+     "n": "Zahra Newman"
+    },
+    {
+     "c": "Ben Sizemore",
+     "n": "James Saunders"
+    },
+    {
+     "c": "Polly Foster",
+     "n": "Taylor Ferguson"
+    },
+    {
+     "c": "Lydia Boyd",
+     "n": "Carolyn Bock"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-09-09",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 258230,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When emergency dispatcher Ian Ridley receives a frantic call from a teenager he believes could be his long-missing daughter, he stops at nothing to find her.",
+   "popularity": 11.5518,
+   "poster_path": "/vozJZjHv0Yyv4PjoOxF5tVMUGFI.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-09-09",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "He's waited years for the truth to call.",
+   "title": "Last Seen",
+   "trailer": {
+    "key": "M8nHySkLb64",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.594,
+   "vote_count": 69
+  },
+  "tv:263330": {
+   "backdrop_path": "/rcwfBh8gPBL4sKUEPqu0lEKreha.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yuki (voice)",
+     "n": "Chiyuki Miura"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-01-07",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Mystery"
+   ],
+   "id": 263330,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Yuki plays death games for a living, but when she wakes in a mansion with five other women, can she survive a new lethal maze of locked rooms and traps?",
+   "popularity": 8.9773,
+   "poster_path": "/vaNWEpgnmrzEiqapkRkCHiMB42i.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-07",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "This is a story about a deranged world.",
+   "title": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.895,
+   "vote_count": 43
   },
   "tv:2730": {
    "backdrop_path": "/5tGYbT3irV4ZuO7M65HewlVT6fx.jpg",
@@ -2802,6 +3038,908 @@
    "type": "tv",
    "vote_average": 7.935,
    "vote_count": 270
+  },
+  "tv:292130": {
+   "backdrop_path": "/yvToMgv3CHs7T4yQe9EPsMgEXG3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Martin Scorsese"
+    },
+    {
+     "c": "Self - Interviewer (voice) (uncredited)",
+     "n": "Rebecca Miller"
+    },
+    {
+     "c": "Self",
+     "n": "Robert De Niro"
+    },
+    {
+     "c": "Self",
+     "n": "Thelma Schoonmaker"
+    },
+    {
+     "c": "Self",
+     "n": "Steven Spielberg"
+    },
+    {
+     "c": "Self",
+     "n": "Paul Schrader"
+    },
+    {
+     "c": "Self",
+     "n": "Brian De Palma"
+    },
+    {
+     "c": "Self",
+     "n": "Jay Cocks"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-16",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 292130,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 5,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Explore the many lives of Martin Scorsese through intimate interviews with the man himself, access to his private archives, plus conversations with Robert De Niro, Leonardo DiCaprio, Margot Robbie, Daniel Day-Lewis, Steven Spielberg, and more.",
+   "popularity": 4.7467,
+   "poster_path": "/atok9lbfro3hZxGTlaJZWN0BWRM.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-16",
+     "episode_count": 5,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The story behind the storyteller.",
+   "title": "Mr. Scorsese",
+   "trailer": {
+    "key": "tWoKsiFr4Q8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 35
+  },
+  "tv:293130": {
+   "backdrop_path": "/gyOlQ01A0CoSF8a5WTdBW6dMpCc.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Netflix",
+   "created_by": [
+    "Jamie Crawford"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-19",
+   "genres": [
+    "Documentary",
+    "Crime"
+   ],
+   "id": 293130,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 2,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Who killed Nora Dalmasso? In this true-crime series, family and journalists share the untold story of her murder and the media storm that followed.",
+   "popularity": 1.6488,
+   "poster_path": "/ja6BP5xleodB50Gv8sl59TRHAC1.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-19",
+     "episode_count": 2,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Many Deaths of Nora Dalmasso",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.0,
+   "vote_count": 20
+  },
+  "tv:293530": {
+   "backdrop_path": "/zuVqYUqXH4GDDbpG48nuQc03k16.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Choi Kang",
+     "n": "Yoon Kye-sang"
+    },
+    {
+     "c": "Kwak Byeong-nam",
+     "n": "Jin Sun-kyu"
+    },
+    {
+     "c": "Jeong Nam-yeon",
+     "n": "Kim Ji-hyun"
+    },
+    {
+     "c": "Lee Yong-hee",
+     "n": "Ko Kyu-pil"
+    },
+    {
+     "c": "Park Jeong-hwan",
+     "n": "Lee Jung-ha"
+    },
+    {
+     "c": "Choi Kang's wife",
+     "n": "Son Ji-yoon"
+    },
+    {
+     "c": "Oh Choon-Bae",
+     "n": "Jeong Seok-yong"
+    },
+    {
+     "c": "Oh Choon-Bae's wife",
+     "n": "Lee Ji-hyeon"
+    },
+    {
+     "c": "Kim Min-Seo",
+     "n": "Shin Ye-seo"
+    },
+    {
+     "c": "Team leader",
+     "n": "Lee Ju-won"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "ENA",
+   "created_by": [
+    "Jo woong"
+   ],
+   "director": [
+    "Cho Woong"
+   ],
+   "episode_run_time": [
+    70
+   ],
+   "first_air_date": "2025-11-17",
+   "genres": [
+    "Mystery",
+    "Action & Adventure",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 293530,
+   "industry": "world",
+   "networks": [
+    "ENA"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "It tells the thrilling and humorous story of a reserve special forces unit that comes together not to protect the country or promote world peace but to safeguard their families and neighborhood.",
+   "popularity": 3.4594,
+   "poster_path": "/nRsILLyQNGBUwEGr5mHMyT05JGO.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-17",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Heroes aren’t born—sometimes, they live next door",
+   "title": "Heroes Next Door",
+   "trailer": {
+    "key": "i6zX77_7cyM",
+    "name": "UDT: 우리 동네 특공대 | 메인 예고편 | 쿠팡플레이 | 쿠팡",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.2,
+   "vote_count": 21
+  },
+  "tv:303630": {
+   "backdrop_path": "/f9BMWxAWzFqXtqayrAyNbDFg9cK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Michael Price",
+     "n": "Mike Colter"
+    },
+    {
+     "c": "Olivia Siffre",
+     "n": "Rachel Keller"
+    },
+    {
+     "c": "Christy Palladino",
+     "n": "Ella Stiller"
+    },
+    {
+     "c": "Vikram Malhotra",
+     "n": "Nik Dodani"
+    },
+    {
+     "c": "Natalia Boutella",
+     "n": "Busy Philipps"
+    },
+    {
+     "c": "Nichole E. Ferebee",
+     "n": "Renée Elise Goldsberry"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "Robert King",
+    "Michelle King"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-10-08",
+   "genres": [
+    "Drama"
+   ],
+   "id": 303630,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 7,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A scrappy lawyer takes on a powerful tech giant in a high-stakes legal battle, navigating the cutthroat world of Silicon Valley while fighting for justice and the little guy's rights.",
+   "popularity": 19.7171,
+   "poster_path": "/70AhJpOqU2oKyQF2paJA764CSje.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-10-08",
+     "episode_count": 11,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Cupertino",
+   "trailer": {
+    "key": "GMQXI9SP7T0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.72,
+   "vote_count": 25
+  },
+  "tv:304530": {
+   "backdrop_path": "/z0HHrV0t1NsnrHJK6dbkJbIu2Nb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Homer Simpson (voice)",
+     "n": "Dan Castellaneta"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "YouTube",
+   "created_by": [],
+   "director": [
+    "Daniel Lacy"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-11-01",
+   "genres": [
+    "Comedy",
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 304530,
+   "industry": "world",
+   "networks": [
+    "YouTube",
+    "Disney+"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Springfield and Fortnite universes converge. Chaos ensues as Homer sets out to transform the world, wielding a powerful alien energy.",
+   "popularity": 4.7574,
+   "poster_path": "/lr3gn5BN80kc2vkmTOlPuHZlLP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-01",
+     "episode_count": 4,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Fortnite Battle Royale has crashed into Springfield!",
+   "title": "Fortnite x The Simpsons",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.196,
+   "vote_count": 51
+  },
+  "tv:306630": {
+   "backdrop_path": "/hYBtbqNGijJRRmoSxLhp6rq44bC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dean",
+     "n": "Jakrapatr Kaewpanpong"
+    },
+    {
+     "c": "Moth",
+     "n": "Supha Sangaworawong"
+    },
+    {
+     "c": "Ten",
+     "n": "Tinnasit Isarapongporn"
+    },
+    {
+     "c": "Pun",
+     "n": "Thanachai Sakchaicharoenkul"
+    },
+    {
+     "c": "Ohm",
+     "n": "Napat Patcharachavalit"
+    },
+    {
+     "c": "Boom",
+     "n": "Panachkorn Rueksiriaree"
+    },
+    {
+     "c": "Hun",
+     "n": "Phudtripart Bhudthonamochai"
+    },
+    {
+     "c": "Jo",
+     "n": "Kirati Puangmalee"
+    },
+    {
+     "c": "Mes",
+     "n": "Rapheephong Thapsuwan"
+    },
+    {
+     "c": "Duen",
+     "n": "Thishar Thurachon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "น 13+",
+   "channel": "GMM 25",
+   "created_by": [],
+   "director": [
+    "Sasinan Pattana"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-08-29",
+   "genres": [
+    "Drama"
+   ],
+   "id": 306630,
+   "industry": "world",
+   "networks": [
+    "GMM 25"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "When a carefree playboy meets the one man who refuses to fall for his charm, his competitive ego turns into an obsession he can't resist.",
+   "popularity": 5.8996,
+   "poster_path": "/gTvfipRjEdRzbn09CbI7XRj6cmg.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-08-29",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Ended",
+   "tagline": "One is a lonely man. The other… can't stand people.",
+   "title": "You Maniac",
+   "trailer": {
+    "key": "qzwvncmhcY4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 9.5,
+   "vote_count": 43
+  },
+  "tv:316830": {
+   "backdrop_path": "/x0zAZmhH4Pbo6PctR5WzWoJ7SAV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Persephone Lancaster",
+     "n": "Ryann Bailey"
+    },
+    {
+     "c": "Adam Boyce, Duke of Kielder",
+     "n": "Jake Stormoen"
+    },
+    {
+     "c": "Harry Windover",
+     "n": "Toby-Alexander Smith"
+    },
+    {
+     "c": "Athena Lancaster",
+     "n": "Catherine Hannay"
+    },
+    {
+     "c": "Dowager Duchess of Kielder",
+     "n": "Charlotte Hemmings"
+    },
+    {
+     "c": "John Handley",
+     "n": "Stevie Raine"
+    },
+    {
+     "c": "Artemis Lancaster",
+     "n": "Eva Cambers"
+    },
+    {
+     "c": "Daphne Lancaster",
+     "n": "Willow Bell"
+    },
+    {
+     "c": "Richard Lancaster",
+     "n": "Will Kemp"
+    },
+    {
+     "c": "Linus Lancaster",
+     "n": "Rocco Padden"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Prime Video",
+   "created_by": [
+    "Sarah M. Eden"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-01",
+   "genres": [
+    "Drama"
+   ],
+   "id": 316830,
+   "industry": "world",
+   "networks": [
+    "Prime Video",
+    "Fandango"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "To save her family, Persephone marries a cold, distant duke - never expecting to awaken a love that could change them both forever.",
+   "popularity": 9.8801,
+   "poster_path": "/tJsS5oFvcKsJ3NdlTbuG7nyCDIK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Angel Studios"
+    },
+    {
+     "name": "UP Faith & Family Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Passionflix Amazon Channel"
+    },
+    {
+     "name": "UP Faith & Family Amazon Channel "
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pusUxS9dP5VK7HkN8SLf2wnP9gm.png",
+     "name": "Angel Studios",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/j7y1nRXVZIqco9GgZv5cv7CpFSG.png",
+     "name": "UP Faith & Family Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qwAX5rtMm8JVnbGFASKhmRY8hXp.png",
+     "name": "Passionflix Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/okzVQmpdFwtSRTvkIUr8vSSWNCj.png",
+     "name": "UP Faith & Family Amazon Channel ",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-01",
+     "episode_count": 4,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Seeking Persephone",
+   "trailer": {
+    "key": "KeaCxpmP2pw",
+    "name": "Seeking Persephone | Romance Movie Trailer | Sarah M. Eden | Ryann Bailey | Jake Stormoen",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.952,
+   "vote_count": 21
+  },
+  "tv:322430": {
+   "backdrop_path": "/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joyce Gomora",
+     "n": "Gugu Gumede"
+    },
+    {
+     "c": "Jonasi Gomora",
+     "n": "S'Dumo Mtshali"
+    },
+    {
+     "c": "Matipa Nkosi",
+     "n": "Kwanele Mthethwa"
+    },
+    {
+     "c": "Magesh Gomora",
+     "n": "Kenneth Nkosi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Akin Omotoso"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-06-12",
+   "genres": [
+    "Drama",
+    "Soap"
+   ],
+   "id": 322430,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 22,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "ZA"
+   ],
+   "original_language": "zu",
+   "overview": "Social media darling, Joyce, is the picture of marital perfection — until her cheating husband's conquests ignite a scandalous emotional meltdown.",
+   "popularity": 11.9248,
+   "poster_path": "/vamznpYBCI9n7VhrI3mxuzff7XP.jpg",
+   "production_countries": [
+    "ZA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-12",
+     "episode_count": 22,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "tn",
+    "zu"
+   ],
+   "status": "Returning Series",
+   "tagline": "He chose betrayal, she chose revenge.",
+   "title": "The Polygamist",
+   "trailer": {
+    "key": "KBJllQVRuAA",
+    "name": "Official Trailer (Joyce)",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.811,
+   "vote_count": 220
   },
   "tv:4630": {
    "backdrop_path": "/jlruzecsif3tkCSoHlUaPR01O7U.jpg",

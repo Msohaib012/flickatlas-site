@@ -1,6 +1,6 @@
 {
  "bucket": "51",
- "count": 21,
+ "count": 27,
  "titles": {
   "movie:10951": {
    "backdrop_path": "/3OAB1xYywss9szLG34YzHkC00Wk.jpg",
@@ -1728,137 +1728,6 @@
    "vote_average": 6.045,
    "vote_count": 444
   },
-  "tv:119051": {
-   "backdrop_path": "/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Wednesday Addams",
-     "n": "Jenna Ortega"
-    },
-    {
-     "c": "Barry Dort",
-     "n": "Steve Buscemi"
-    },
-    {
-     "c": "Enid Sinclair",
-     "n": "Emma Myers"
-    },
-    {
-     "c": "Tyler Galpin",
-     "n": "Hunter Doohan"
-    },
-    {
-     "c": "Bianca Barclay",
-     "n": "Joy Sunday"
-    },
-    {
-     "c": "Eugene Ottinger",
-     "n": "Moosa Mostafa"
-    },
-    {
-     "c": "Ajax Petropolus",
-     "n": "Georgie Farmer"
-    },
-    {
-     "c": "Pugsley Addams",
-     "n": "Isaac Ordonez"
-    },
-    {
-     "c": "Slurp / Isaac Night",
-     "n": "Owen Painter"
-    },
-    {
-     "c": "Isadora Capri",
-     "n": "Billie Piper"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 16+",
-   "channel": "Netflix",
-   "created_by": [
-    "Miles Millar",
-    "Alfred Gough"
-   ],
-   "director": [],
-   "episode_run_time": [],
-   "first_air_date": "2022-11-23",
-   "genres": [
-    "Sci-Fi & Fantasy",
-    "Mystery",
-    "Comedy"
-   ],
-   "id": 119051,
-   "industry": "world",
-   "networks": [
-    "Netflix"
-   ],
-   "number_of_episodes": 16,
-   "number_of_seasons": 3,
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates twisted mysteries while making new friends — and foes — at Nevermore Academy.",
-   "popularity": 49.4612,
-   "poster_path": "/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "revenue": 0,
-   "seasons": [
-    {
-     "air_date": "2022-11-23",
-     "episode_count": 8,
-     "name": "Season 1",
-     "season_number": 1
-    },
-    {
-     "air_date": "2025-08-06",
-     "episode_count": 8,
-     "name": "Season 2",
-     "season_number": 2
-    },
-    {
-     "air_date": "",
-     "episode_count": 0,
-     "name": "Season 3",
-     "season_number": 3
-    }
-   ],
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Returning Series",
-   "tagline": "The wait has been torture.",
-   "title": "Wednesday",
-   "trailer": null,
-   "type": "tv",
-   "vote_average": 8.324,
-   "vote_count": 10968
-  },
   "tv:2251": {
    "backdrop_path": "/8Y8vn9feCVUoJRXpWK6xno5VrUz.jpg",
    "budget": 0,
@@ -2045,6 +1914,125 @@
    "type": "tv",
    "vote_average": 7.3,
    "vote_count": 188
+  },
+  "tv:249551": {
+   "backdrop_path": "/lMdOqInVxIvEapJjxAvOoHc7tl5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nero",
+     "n": "Pio Marmaï"
+    },
+    {
+     "c": "Hortense",
+     "n": "Alice Isaaz"
+    },
+    {
+     "c": "Horace",
+     "n": "Olivier Gourmet"
+    },
+    {
+     "c": "Nicolas de Rochemort",
+     "n": "Louis-Do de Lencquesaing"
+    },
+    {
+     "c": "Perla (Nero's Daughter)",
+     "n": "Lili-Rose Carlier Taboury"
+    },
+    {
+     "c": "La Borgne",
+     "n": "Camille Razat"
+    },
+    {
+     "c": "Lothar",
+     "n": "Yann Gaël"
+    },
+    {
+     "c": "Le Prince",
+     "n": "Max Baissette de Malglaive"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Allan Mauduit",
+    "Jean-Patrick Benes",
+    "Martin Douaire"
+   ],
+   "director": [
+    "Allan Mauduit"
+   ],
+   "episode_run_time": [
+    61
+   ],
+   "first_air_date": "2025-10-08",
+   "genres": [
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 249551,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "France, 1504. A ruthless assassin goes on the run with his estranged daughter in his quest to protect her from deadly enemies and evil forces.",
+   "popularity": 3.9522,
+   "poster_path": "/cgzHLXOEILDwvj19tggt3ZLsfTF.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-08",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Néro the Assassin",
+   "trailer": {
+    "key": "B5Na9Ehd0QU",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.672,
+   "vote_count": 87
   },
   "tv:251": {
    "backdrop_path": "/5QWdGKrPWJQ3WcafuYA2PXL6uQG.jpg",
@@ -2250,6 +2238,659 @@
    "type": "tv",
    "vote_average": 7.5,
    "vote_count": 272
+  },
+  "tv:252751": {
+   "backdrop_path": "/2HuHGBzavbM7YTizGabBGpP0Spv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Leanne",
+     "n": "Leanne Morgan"
+    },
+    {
+     "c": "Carol",
+     "n": "Kristen Johnston"
+    },
+    {
+     "c": "Mama Margaret",
+     "n": "Celia Weston"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Chuck Lorre",
+    "Leanne Morgan",
+    "Susan McMartin"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-31",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 252751,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 26,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When her husband leaves her for another woman, a resilient Southern mom starts over with the support of her loving, but unfiltered family.",
+   "popularity": 7.7321,
+   "poster_path": "/ttfk34wnKFTKK4LkoRR4dCV9u5n.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-31",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-08-27",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Leanne",
+   "trailer": {
+    "key": "XHFFXU8-q7g",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.808,
+   "vote_count": 26
+  },
+  "tv:255251": {
+   "backdrop_path": "/cxVywdc4vqU1dCG19FSg4t9nQgL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self (archive footage)",
+     "n": "Sean Combs"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-12-02",
+   "genres": [
+    "Documentary",
+    "Crime"
+   ],
+   "id": 255251,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A revealing look at Sean 'Diddy' Combs' journey from music mogul to high-profile sexual offender, featuring footage and insider accounts that expose both his groundbreaking success with Bad Boy Entertainment and the troubling shadows behind his empire.",
+   "popularity": 4.3724,
+   "poster_path": "/zvozYQ1idmnkF0ugfTud82lpNIJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-02",
+     "episode_count": 4,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Who is the real Sean Combs?",
+   "title": "Sean Combs: The Reckoning",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 88
+  },
+  "tv:271051": {
+   "backdrop_path": "/9uigyTXv7OZKeyEm0ZNMxTc6IW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jules Maigret",
+     "n": "Benjamin Wainwright"
+    },
+    {
+     "c": "Louise Maigret",
+     "n": "Stefanie Martini"
+    },
+    {
+     "c": "Lucas",
+     "n": "Kerrie Hayes"
+    },
+    {
+     "c": "Mathilde Kernavel",
+     "n": "Nathalie Armin"
+    },
+    {
+     "c": "Moers",
+     "n": "James Northcote"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16+",
+   "channel": "PBS",
+   "created_by": [
+    "Georges Simenon"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-05",
+   "genres": [
+    "Mystery",
+    "Crime",
+    "Drama"
+   ],
+   "id": 271051,
+   "industry": "world",
+   "networks": [
+    "PBS"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jules Maigret is a rising star in the Police Judiciaire, relentless in his investigations, with an uncanny ability to get under the skin of the criminals he is chasing and a matchless knowledge of Paris and its inhabitants",
+   "popularity": 6.3472,
+   "poster_path": "/j4Ns1AoYHkMJfFhH0wqYnipu3uI.jpg",
+   "production_countries": [
+    "GB",
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "PBS"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/kwKCUFjKjq1GlZeIjImBV62IypB.png",
+     "name": "PBS",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-05",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-10-18",
+     "episode_count": 6,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Maigret",
+   "trailer": {
+    "key": "-CDw5X9vQcw",
+    "name": "Maigret Preview",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.3,
+   "vote_count": 20
+  },
+  "tv:301551": {
+   "backdrop_path": "/s489338xSwM8VFzq1NwAuvkxTTV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Jesse Huerta"
+    },
+    {
+     "c": "Self",
+     "n": "Joy Huerta"
+    },
+    {
+     "c": "Self",
+     "n": "Juan Luis Guerra"
+    },
+    {
+     "c": "Self",
+     "n": "Luis Fonsi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "HBO Max",
+   "created_by": [
+    "Joy Huerta",
+    "Jesse Huerta"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-25",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 301551,
+   "industry": "world",
+   "networks": [
+    "HBO Max"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "AR"
+   ],
+   "original_language": "es",
+   "overview": "Jesse & Joy reveal the most intimate side of their story and the conflicts that shaped their identity and their music.",
+   "popularity": 0.8805,
+   "poster_path": "/yaMGBUFQVRvVvtMZVQ5MG1jluKR.jpg",
+   "production_countries": [
+    "AR"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-25",
+     "episode_count": 4,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Jesse & Joy: What We Never Said Before",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.7,
+   "vote_count": 20
+  },
+  "tv:302051": {
+   "backdrop_path": "/ttcHr50V6A4JNKUlkIhhLsX9c04.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Luck \"Lock\" Franzen (voice)",
+     "n": "Gakuto Kajiwara"
+    },
+    {
+     "c": "Eric Imgard Mendirival (voice)",
+     "n": "Toshiyuki Morikawa"
+    },
+    {
+     "c": "Goran Morton (voice)",
+     "n": "Tsuyoshi Koyama"
+    },
+    {
+     "c": "(voice)",
+     "n": "Yui Ishikawa"
+    },
+    {
+     "c": "(voice)",
+     "n": "Mayu Sagara"
+    },
+    {
+     "c": "(voice)",
+     "n": "Mao Ichimichi"
+    },
+    {
+     "c": "(voice)",
+     "n": "Yurie Kozakai"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [
+    "Hiroyuki Kambe"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-06",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 302051,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Luck, an S-rank mage in the hero's party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as \"Lock,\" an F-rank adventurer forging a future in a world that moved on without him.",
+   "popularity": 8.9907,
+   "poster_path": "/4LaPshxWTFcBhc5ib8xOfYeD9tH.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-06",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "I Became a Legend After My 10 Year-Long Last Stand",
+   "trailer": {
+    "key": "ZKZWJ7L5860",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.84,
+   "vote_count": 25
+  },
+  "tv:303351": {
+   "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Thomas Berg",
+     "n": "Jakob Oftebro"
+    },
+    {
+     "c": "Alfred Berg",
+     "n": "Peter Andersson"
+    },
+    {
+     "c": "Natalie Eklund",
+     "n": "Electra Hallman"
+    },
+    {
+     "c": "John-Jo Persson",
+     "n": "Alexander Abdallah"
+    },
+    {
+     "c": "Max Abrahamsson",
+     "n": "Henrik Norlén"
+    },
+    {
+     "c": "Charlotte Berg",
+     "n": "Lisette Pagler"
+    },
+    {
+     "c": "Peter Johansson",
+     "n": "Magnus Krepper"
+    },
+    {
+     "c": "Rebecca Björklund",
+     "n": "Irina Björklund"
+    },
+    {
+     "c": "Lucas Lind",
+     "n": "Anders Mossling"
+    },
+    {
+     "c": "",
+     "n": "Anna Maria Käll"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "George Kay"
+   ],
+   "director": [
+    "Kristoffer Nyholm"
+   ],
+   "episode_run_time": [
+    48
+   ],
+   "first_air_date": "2026-08-20",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 303351,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 5,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "SE"
+   ],
+   "original_language": "sv",
+   "overview": "Following the brutal murder of two police officers, a tenacious detective reluctantly joins forces with his estranged ex-cop father to catch the killer.",
+   "popularity": 8.0021,
+   "poster_path": "/wSdrhB8NuTYuSsqbfiQA7izOYhw.jpg",
+   "production_countries": [
+    "GB",
+    "SE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-08-20",
+     "episode_count": 5,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "sv"
+   ],
+   "status": "Returning Series",
+   "tagline": "Loyalty demands a heavy price.",
+   "title": "Blood Sacrifice",
+   "trailer": {
+    "key": "YjgT9NMq3ww",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.7,
+   "vote_count": 70
   },
   "tv:31251": {
    "backdrop_path": "/jpR7mT5nFAzWSGPseLpfFisoUtN.jpg",

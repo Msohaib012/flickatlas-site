@@ -1,6 +1,6 @@
 {
  "bucket": "97",
- "count": 20,
+ "count": 28,
  "titles": {
   "movie:1043197": {
    "backdrop_path": "/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
@@ -1716,6 +1716,939 @@
    "type": "tv",
    "vote_average": 8.029,
    "vote_count": 190
+  },
+  "tv:249597": {
+   "backdrop_path": "/e9HhOb3o22t89lnpN511GzZE0Fp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Harry Hole",
+     "n": "Tobias Santelmann"
+    },
+    {
+     "c": "Tom Waaler",
+     "n": "Joel Kinnaman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Jo Nesbø"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-26",
+   "genres": [
+    "Mystery",
+    "Crime",
+    "Drama"
+   ],
+   "id": 249597,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 9,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "NO",
+    "GB",
+    "US"
+   ],
+   "original_language": "no",
+   "overview": "When a series of ritualistic murders hits Oslo, a gifted detective must navigate a puzzle of patterns, corruption and his own demons to catch the killer.",
+   "popularity": 9.9783,
+   "poster_path": "/j61dmzEq4aRWJZk5tPyjzpHj8T2.jpg",
+   "production_countries": [
+    "GB",
+    "US",
+    "NO"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-26",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "no"
+   ],
+   "status": "Returning Series",
+   "tagline": "Not every evil hides inside the dark.",
+   "title": "Detective Hole",
+   "trailer": {
+    "key": "QozBsgrEjnE",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 142
+  },
+  "tv:251597": {
+   "backdrop_path": "/9RsIDovYbf80cJUZwJ4H8ZQbKOc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gabriel Book",
+     "n": "Mark Gatiss"
+    },
+    {
+     "c": "Trottie Book",
+     "n": "Polly Walker"
+    },
+    {
+     "c": "Inspector Bliss",
+     "n": "Elliot Levey"
+    },
+    {
+     "c": "Nora",
+     "n": "Buket Komur"
+    },
+    {
+     "c": "Jack",
+     "n": "Connor Finch"
+    },
+    {
+     "c": "Colonel Winters",
+     "n": "Rupert Graves"
+    },
+    {
+     "c": "Sergeant Morris",
+     "n": "Blake Harrison"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "U&Alibi",
+   "created_by": [
+    "Mark Gatiss"
+   ],
+   "director": [],
+   "episode_run_time": [
+    52
+   ],
+   "first_air_date": "2025-07-16",
+   "genres": [
+    "Crime",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 251597,
+   "industry": "world",
+   "networks": [
+    "U&Alibi"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Gabriel Book, proprietor of an antiquarian bookshop, relies on his vast collection to unravel baffling cases. He nurtures a group of lovable yet troubled individuals, providing informal protection and guidance.",
+   "popularity": 10.1489,
+   "poster_path": "/9StiB7RgLunR7EcMM3i6C9yCUou.jpg",
+   "production_countries": [
+    "GB",
+    "BE"
+   ],
+   "providers": [
+    {
+     "name": "PBS Masterpiece Amazon Channel"
+    },
+    {
+     "name": "Thirteen"
+    },
+    {
+     "name": "WETA+"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/aZASQOdPFvGnXiJ015OVGVJ9vt7.png",
+     "name": "PBS Masterpiece Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dQKjAyrGlA3HPbDs4hp8RyaXUiK.png",
+     "name": "Thirteen",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/fwzxYZXp5T57T2WaazFhzArAmYd.png",
+     "name": "WETA+",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-16",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-08-26",
+     "episode_count": 6,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Bookish",
+   "trailer": {
+    "key": "4e-bz9ZEDpg",
+    "name": "Bookish Official Trailer | U&Alibi",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.198,
+   "vote_count": 53
+  },
+  "tv:254897": {
+   "backdrop_path": "/8Pa1IbBJ1FKbNeLagFZ23hjRCw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "John Chapel",
+     "n": "Timothy Spall"
+    },
+    {
+     "c": "Janie Mallowan",
+     "n": "Gwyneth Keyworth"
+    },
+    {
+     "c": "DCI Barry Clarke",
+     "n": "Steffan Rhodri"
+    },
+    {
+     "c": "Helen Baxter",
+     "n": "Alexandria Riley"
+    },
+    {
+     "c": "Yvonne Mallowan",
+     "n": "Melanie Walters"
+    },
+    {
+     "c": "DC Evan Chaudhry",
+     "n": "Rithvik Andugula"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "BBC One",
+   "created_by": [
+    "Paul Doolan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-25",
+   "genres": [
+    "Mystery",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 254897,
+   "industry": "world",
+   "networks": [
+    "BBC One"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Thrown together by the murder of John's neighbour, John and Janie are an odd, yet hilarious duo with opposing instincts. Every week, they get to the bottom of gripping murders, with various stunning Welsh locations providing a backdrop to their investigations.",
+   "popularity": 6.1647,
+   "poster_path": "/vFRBR439sIshJenXDM0TqxyULyl.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "BBC Player Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ozvOiPMMjhOMXpcUYMDK5ut6puz.png",
+     "name": "BBC Player Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-25",
+     "episode_count": 6,
+     "name": "Series 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-05-17",
+     "episode_count": 6,
+     "name": "Series 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Death Valley",
+   "trailer": {
+    "key": "WLXkjfa2DmU",
+    "name": "Death Valley | BritBox Original Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.6,
+   "vote_count": 44
+  },
+  "tv:258897": {
+   "backdrop_path": "/er7u5SqXKvN6WSwszBDOw7pYF1X.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Janalice",
+     "n": "Domithila Catete"
+    },
+    {
+     "c": "Preá",
+     "n": "Lucas Galvino"
+    },
+    {
+     "c": "Mariangel",
+     "n": "Marleyda Soto"
+    },
+    {
+     "c": "Pedro",
+     "n": "Bruno Goya"
+    },
+    {
+     "c": "Ramiro",
+     "n": "Ricardo Teodoro"
+    },
+    {
+     "c": "Leo",
+     "n": "Wesley Guimarães"
+    },
+    {
+     "c": "Amadeu",
+     "n": "Sandro Guerra"
+    },
+    {
+     "c": "Guilherme",
+     "n": "Lucas Carvalho"
+    },
+    {
+     "c": "Gigante",
+     "n": "David Santos"
+    },
+    {
+     "c": "Daiane",
+     "n": "Fátima Macedo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R21",
+   "channel": "Netflix",
+   "created_by": [
+    "Bráulio Mantovani",
+    "Fernando Garrido"
+   ],
+   "director": [
+    "Quico Meirelles",
+    "Fernando Meirelles"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-08-20",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Crime"
+   ],
+   "id": 258897,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "When a teen is kidnapped by a sex trafficking ring, a river pirate and a fierce mother embark on separate quests to find her — until their paths cross.",
+   "popularity": 1.7578,
+   "poster_path": "/2heNhOUKqZDeUNPuxX2R4YJuSky.jpg",
+   "production_countries": [
+    "BR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-20",
+     "episode_count": 4,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Rivers of Fate",
+   "trailer": {
+    "key": "ZSAx12d3Rho",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.6,
+   "vote_count": 29
+  },
+  "tv:283297": {
+   "backdrop_path": "/nOWU1NSYQEOXRXcdfZbtJshwRGK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Annie Jacobson",
+     "n": "Ella Rubin"
+    },
+    {
+     "c": "Ramona Campbell",
+     "n": "Amélie Hoeferle"
+    },
+    {
+     "c": "Oona",
+     "n": "Bo Bragason"
+    },
+    {
+     "c": "Ellis",
+     "n": "Jacob Whiteduck-Lavoie"
+    },
+    {
+     "c": "Rory",
+     "n": "Daniel Quinn-Toye"
+    },
+    {
+     "c": "Connor Jacobson",
+     "n": "Keen Ruffalo"
+    },
+    {
+     "c": "Maple",
+     "n": "Mabel Strachan"
+    },
+    {
+     "c": "Sully",
+     "n": "Nikko Angelo Hinayo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [
+    "Megan Park"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-08-05",
+   "genres": [
+    "Mystery",
+    "Drama"
+   ],
+   "id": 283297,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
+   "popularity": 15.5281,
+   "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-08-05",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Uncover the secrets.",
+   "title": "Sterling Point",
+   "trailer": {
+    "key": "bwwF3TuJQME",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.034,
+   "vote_count": 190
+  },
+  "tv:293697": {
+   "backdrop_path": "/rep8uV9N7jSYpxpxH7glSP6qOmp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yukiya Asagi (voice)",
+     "n": "Kaito Ishikawa"
+    },
+    {
+     "c": "Miku Sakura (voice)",
+     "n": "Miku Ito"
+    },
+    {
+     "c": "Wakana Asagi (voice)",
+     "n": "Wakana Maruoka"
+    },
+    {
+     "c": "Masaru Shinonome (voice)",
+     "n": "Takehito Koyasu"
+    },
+    {
+     "c": "Hinako Hanaba (voice)",
+     "n": "Yui Ogura"
+    },
+    {
+     "c": "Natsuki Moegi (voice)",
+     "n": "Kaede Hondo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [
+    "Azuma Tani"
+   ],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-04-14",
+   "genres": [
+    "Comedy",
+    "Animation"
+   ],
+   "id": 293697,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Childhood friends Yukiya and Miku share everything…except their feelings. Ever since sixth grade, they've played a \"love game\": they take turns saying \"I love you\" and whoever gets flustered first loses. Now in high school, their hearts are closer than ever—but will they finally find the courage to confess?",
+   "popularity": 6.0771,
+   "poster_path": "/fUl0cRLINKHxZlwABmoWQkoEs0r.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-14",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "I Want to End This Love Game",
+   "trailer": {
+    "key": "oGJrnyjDbsA",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 27
+  },
+  "tv:304597": {
+   "backdrop_path": "/paQMPDcFDbuHT5noXwJsmIflHYN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Zerocalcare (voice)",
+     "n": "Zerocalcare"
+    },
+    {
+     "c": "Armadillo (voice)",
+     "n": "Valerio Mastandrea"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Zerocalcare"
+   ],
+   "director": [
+    "Zerocalcare"
+   ],
+   "episode_run_time": [
+    290
+   ],
+   "first_air_date": "2026-05-27",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Crime"
+   ],
+   "id": 304597,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "When his friend Wild Boar lands himself in hot water with organized crime, Zero and the gang unite to save him while barely coping with their own lives.",
+   "popularity": 4.264,
+   "poster_path": "/ezu9oAG68yRoFRsx5qzb1yt5MMJ.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-27",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "My 2 Cents",
+   "trailer": {
+    "key": "LsGrKuPe1tQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.349,
+   "vote_count": 156
+  },
+  "tv:312697": {
+   "backdrop_path": "/1zjKBLSiJlQN2RXPvsdRz24iCHd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Temporary Assistant",
+     "n": "Anthony Norman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Prime Video",
+   "created_by": [
+    "Gene Stupnitsky",
+    "Lee Eisenberg"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-20",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 312697,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Anthony, a real temp, is hired at Rockin' Grandma's Hot Sauce (a fake company) for its annual retreat - the final one for the company's CEO Doug before retirement. Doug's son Dougie Jr. struggles to prove his leadership abilities while a polished private-equity team courts the company for acquisition.",
+   "popularity": 5.9183,
+   "poster_path": "/3CRKP1KJvloaUB89eDOAdFv3Tok.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-20",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Welcome to the retreat.",
+   "title": "Jury Duty Presents: Company Retreat",
+   "trailer": {
+    "key": "K4q_0DtugOA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.433,
+   "vote_count": 30
   },
   "tv:39297": {
    "backdrop_path": "/m6APcUIeNdFormiiKsGaG8Hdu49.jpg",

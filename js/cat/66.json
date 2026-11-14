@@ -1,6 +1,6 @@
 {
  "bucket": "66",
- "count": 15,
+ "count": 23,
  "titles": {
   "movie:1107166": {
    "backdrop_path": "/gOcgmSwbCFW7h1rmEqMvYPzvjh7.jpg",
@@ -257,149 +257,6 @@
    "type": "movie",
    "vote_average": 7.817,
    "vote_count": 290
-  },
-  "movie:1368166": {
-   "backdrop_path": "/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
-   "budget": 35000000,
-   "cast": [
-    {
-     "c": "Millie Calloway",
-     "n": "Sydney Sweeney"
-    },
-    {
-     "c": "Nina Winchester",
-     "n": "Amanda Seyfried"
-    },
-    {
-     "c": "Andrew Winchester",
-     "n": "Brandon Sklenar"
-    },
-    {
-     "c": "Enzo",
-     "n": "Michele Morrone"
-    },
-    {
-     "c": "Cece Winchester",
-     "n": "Indiana Elle"
-    },
-    {
-     "c": "Pam",
-     "n": "Sarah Cooper"
-    },
-    {
-     "c": "Mrs. Winchester",
-     "n": "Elizabeth Perkins"
-    },
-    {
-     "c": "Suzanne",
-     "n": "Amanda Joy Erickson"
-    },
-    {
-     "c": "Jilliane",
-     "n": "Megan Ferguson"
-    },
-    {
-     "c": "Patrice",
-     "n": "Ellen Tamaki"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "A",
-   "date_kind": "release",
-   "director": [
-    "Paul Feig"
-   ],
-   "genres": [
-    "Mystery",
-    "Thriller"
-   ],
-   "id": 1368166,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
-   "popularity": 23.737,
-   "poster_path": "/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "Amazon Prime Video"
-    },
-    {
-     "name": "Amazon Prime Video with Ads"
-    },
-    {
-     "name": "HBO Max Amazon Channel"
-    },
-    {
-     "name": "Starz Amazon Channel"
-    },
-    {
-     "name": "HBO Max"
-    },
-    {
-     "name": "Starz Apple TV channel"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-     "name": "Amazon Prime Video",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-     "name": "Amazon Prime Video with Ads",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "IN"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-01-01",
-   "revenue": 400483145,
-   "runtime": 131,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "Discover what lies behind closed doors.",
-   "title": "The Housemaid",
-   "trailer": {
-    "key": "BqWH0KDqm3U",
-    "name": "Final Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.234,
-   "vote_count": 3360
   },
   "movie:1428766": {
    "backdrop_path": "/8oBOvMTnzsKlalLzOq02qlASGe8.jpg",
@@ -1387,6 +1244,137 @@
    "vote_average": 8.5,
    "vote_count": 218
   },
+  "tv:127366": {
+   "backdrop_path": "/e5Q92kKUdRbKBHnNkqQB845bwCY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sam Fisher (voice)",
+     "n": "Liev Schreiber"
+    },
+    {
+     "c": "Zinnia McKenna (voice)",
+     "n": "Kirby Howell-Baptiste"
+    },
+    {
+     "c": "Freya Niemeyer (voice)",
+     "n": "Bella Dayne"
+    },
+    {
+     "c": "Anna Grimsdóttir (voice)",
+     "n": "Janet Varney"
+    },
+    {
+     "c": "Diana Shetland (voice)",
+     "n": "Kari Wahlgren"
+    },
+    {
+     "c": "Charlie Shetland (voice)",
+     "n": "Aleks Le"
+    },
+    {
+     "c": "Douglas Shetland (voice)",
+     "n": "Kiff VandenHeuvel"
+    },
+    {
+     "c": "Thunder (voice)",
+     "n": "Joel Oulette"
+    },
+    {
+     "c": "Jo Ahn (voice)",
+     "n": "Helen Hong"
+    },
+    {
+     "c": "Reza \"Gunther\" Karimi (voice)",
+     "n": "Navid Negahban"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Derek Kolstad"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-14",
+   "genres": [
+    "Animation",
+    "Action & Adventure"
+   ],
+   "id": 127366,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "FR",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the shadowy world of espionage, Sam Fisher is a rumor and a legend. Pulled back into action, he must help a new recruit unravel a global conspiracy.",
+   "popularity": 4.7836,
+   "poster_path": "/38XJlQAYMcPjgqVhBO8VjkufSEx.jpg",
+   "production_countries": [
+    "FR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-14",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "pl"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Splinter Cell: Deathwatch",
+   "trailer": {
+    "key": "4A9iFjaKeMk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.786,
+   "vote_count": 91
+  },
   "tv:194766": {
    "backdrop_path": "/jCQV3rHNbgHKo3N4G6CARbVEjPV.jpg",
    "budget": 0,
@@ -1518,6 +1506,140 @@
    "vote_average": 8.1,
    "vote_count": 1162
   },
+  "tv:212766": {
+   "backdrop_path": "/u9p6IIYllP8gwZB2URx08jIYdvZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kyle (voice)",
+     "n": "Yuma Uchida"
+    },
+    {
+     "c": "Seran (voice)",
+     "n": "Hiro Shimono"
+    },
+    {
+     "c": "Lize (voice)",
+     "n": "Fairouz Ai"
+    },
+    {
+     "c": "Urza (voice)",
+     "n": "Asami Seto"
+    },
+    {
+     "c": "Sildonia (voice)",
+     "n": "Minami Takahashi"
+    },
+    {
+     "c": "Zentos (voice)",
+     "n": "Hiroki Yasumoto"
+    },
+    {
+     "c": "Milena (voice)",
+     "n": "Kaori Maeda"
+    },
+    {
+     "c": "Gō (voice)",
+     "n": "Rie Hikisaka"
+    },
+    {
+     "c": "Miranda (voice)",
+     "n": "Riho Sugiyama"
+    },
+    {
+     "c": "Gazas (voice)",
+     "n": "Tetsu Inada"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ABC TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-07-03",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 212766,
+   "industry": "world",
+   "networks": [
+    "ABC TV"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "After a brutal war, magic swordsman Kyle defeats the Demon King but is left dying. A crimson crystal sends him four years into the past to his once-destroyed hometown where he finds his lost loved ones alive. Armed with future knowledge, Kyle vows to prevent the coming tragedy and rewrite fate.",
+   "popularity": 10.3778,
+   "poster_path": "/dmZ74VyWi3I8ZqJ1m3Fmcc1etgp.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-08",
+     "episode_count": 19,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-07-03",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "New Saga",
+   "trailer": {
+    "key": "BaomnapVQ-0",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.129,
+   "vote_count": 35
+  },
   "tv:222766": {
    "backdrop_path": "/enVrO8TRkdT8dmYXTfI4sEjR5Kp.jpg",
    "budget": 0,
@@ -1637,6 +1759,738 @@
    "type": "tv",
    "vote_average": 8.2,
    "vote_count": 1416
+  },
+  "tv:232766": {
+   "backdrop_path": "/fWJjsS2Tr2dlpYuw3o7Lifvgkru.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nam Gi-jun",
+     "n": "So Ji-sub"
+    },
+    {
+     "c": "Lee Joo-woon",
+     "n": "Huh Joon-ho"
+    },
+    {
+     "c": "Gu Jun-mo",
+     "n": "Gong Myoung"
+    },
+    {
+     "c": "Lee Geum-son",
+     "n": "Choo Young-woo"
+    },
+    {
+     "c": "Koo Bong-san",
+     "n": "Ahn Kil-kang"
+    },
+    {
+     "c": "Choi Seong-chul",
+     "n": "Cho Han-chul"
+    },
+    {
+     "c": "Nam Gi-seok",
+     "n": "Lee Jun-hyuk"
+    },
+    {
+     "c": "Cha Young-do",
+     "n": "Cha Seung-won"
+    },
+    {
+     "c": "Sim Seong-won",
+     "n": "Lee Beom-soo"
+    },
+    {
+     "c": "Cheon Hae-beom",
+     "n": "Jung Gun-joo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [
+    "Choi Sung-eun"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-06",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Crime"
+   ],
+   "id": 232766,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 7,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "After severing ties with his gang, a former gangster returns to uncover the truth behind his brother's death — embarking on a relentless path of revenge.",
+   "popularity": 6.6348,
+   "poster_path": "/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-06",
+     "episode_count": 7,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "He is back.",
+   "title": "Mercy for None",
+   "trailer": {
+    "key": "ZG5oMij_26s",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 207
+  },
+  "tv:272466": {
+   "backdrop_path": "/f6wPBGmukimVnVNOyLRmHLCjMb0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Béatrice Lasserre",
+     "n": "Isabelle Adjani"
+    },
+    {
+     "c": "Alba",
+     "n": "Ava Baya"
+    },
+    {
+     "c": "Lucie",
+     "n": "Louise Coldefy"
+    },
+    {
+     "c": "Mathieu Lasserre",
+     "n": "Guillaume Gouix"
+    },
+    {
+     "c": "Arnaud Lasserre",
+     "n": "Thibault de Montalembert"
+    },
+    {
+     "c": "Manon Lasserre",
+     "n": "Claire Romain"
+    },
+    {
+     "c": "Jacques Bonnand",
+     "n": "Nicolas Vaude"
+    },
+    {
+     "c": "Valentin",
+     "n": "Simon Ehrlacher"
+    },
+    {
+     "c": "Catherine",
+     "n": "Muriel Combeau"
+    },
+    {
+     "c": "Léo",
+     "n": "Max Harter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Nils-Antoine Sambuc"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-09",
+   "genres": [
+    "Crime",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 272466,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "On the run from her troubled past, a young mother is accused of killing her new boss at a flower farm just before discovering he's actually her father.",
+   "popularity": 3.4985,
+   "poster_path": "/qRpM05HzTidQFJLKnoXlvqAVcrr.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-09",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Under a Dark Sun",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.7,
+   "vote_count": 38
+  },
+  "tv:273866": {
+   "backdrop_path": "/ff6y85mMOnsLPcgUS0q3zX1N7WO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mary Bennet",
+     "n": "Ella Bruccoleri"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "BBC One",
+   "created_by": [
+    "Janice Hadlow"
+   ],
+   "director": [],
+   "episode_run_time": [
+    30
+   ],
+   "first_air_date": "2026-03-15",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 273866,
+   "industry": "world",
+   "networks": [
+    "BBC One"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Mary isn't your typical period drama heroine. She is awkward, anxious, preachy, full of facts, a terrible singer, overlooked by her mother and seemingly destined to an empty dance card for the rest of her life… until Mary takes matters into her own hands.",
+   "popularity": 15.4511,
+   "poster_path": "/esU4D2XSA7hNHC8G2bmMkvX5g5H.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eZeWGG6DDIi4Kmu1z9RfTeZtqZX.png",
+     "name": "BritBox",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dneArfNvYnCY0LQwDs6n0wVLpPh.png",
+     "name": "BritBox Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2026-03-15",
+     "episode_count": 10,
+     "name": "Series 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Other Bennet Sister",
+   "trailer": {
+    "key": "BvVJ7qku5Gw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 55
+  },
+  "tv:285166": {
+   "backdrop_path": "/1nt43fq7CKbqAJAospEo63vYXBV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Orun Dula (voice)",
+     "n": "Takeo Otsuka"
+    },
+    {
+     "c": "Sophia Clodel (voice)",
+     "n": "Hina Tachibana"
+    },
+    {
+     "c": "Selma Clodel (voice)",
+     "n": "Saori Onishi"
+    },
+    {
+     "c": "Logan Hayward (voice)",
+     "n": "You Taichi"
+    },
+    {
+     "c": "Caroline Inglaud (voice)",
+     "n": "Manaka Iwami"
+    },
+    {
+     "c": "Oliver Cardiff (voice)",
+     "n": "Yoshiki Nakajima"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-04",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 285166,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Betrayed by his childhood friend and cast out of the Hero Party, Orhun Dura—once their loyal Enchanter—is branded by his former comrades as “a jack-of-all-trades but a master of none.” Alone, he sets out to forge a new path as a solo adventurer. His journey sparks explosive battles, deadly rivals, and unexpected allies—and he’ll rise to shatter every expectation. The ultimate solo comeback begins!",
+   "popularity": 8.3541,
+   "poster_path": "/qRvICaz6LJXz96DaYcpTjQf6QN8.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-04",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Jack-of-All-Trades, Party of None",
+   "trailer": {
+    "key": "dLDimMasKBM",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.536,
+   "vote_count": 69
+  },
+  "tv:287366": {
+   "backdrop_path": "/gx94TGPbZFtbtnAh6dRGFDR5qYL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "Taylor Lewan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC16",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-23",
+   "genres": [
+    "Reality"
+   ],
+   "id": 287366,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Netflix reality stars duke it out in hair-raising physical challenges and scheme to avoid elimination to win $250K in this adventurous competition show.",
+   "popularity": 1.4269,
+   "poster_path": "/wuSaLjPrTagk892fEywXHA6i8Xu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-23",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "Battle Camp",
+   "trailer": {
+    "key": "VTwbSZvmhX0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.6,
+   "vote_count": 20
+  },
+  "tv:294766": {
+   "backdrop_path": "/nNbp5vPlcDb76epGpHQwtEtKfuz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Chiharu (voice)",
+     "n": "Momoka Terasawa"
+    },
+    {
+     "c": "Makina (voice)",
+     "n": "Anna Nagase"
+    },
+    {
+     "c": "Ryoko (voice)",
+     "n": "Mikako Komatsu"
+    },
+    {
+     "c": "Akane (voice)",
+     "n": "Hisako Kanemoto"
+    },
+    {
+     "c": "Kanata (voice)",
+     "n": "Makoto Koichi"
+    },
+    {
+     "c": "Kurt (voice)",
+     "n": "Koki Uchiyama"
+    },
+    {
+     "c": "Max (voice)",
+     "n": "Yoshitaka Yamaya"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "YouTube",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    4
+   ],
+   "first_air_date": "2025-07-03",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 294766,
+   "industry": "world",
+   "networks": [
+    "YouTube",
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Arrested for reckless space driving, super human Chiharu and cyborg Makina are sentenced to clean the Milky☆Subway—an old interplanetary train. Easy enough, right? Wrong. When the train suddenly takes off, they are thrown into a high-speed space-train spectacle packed with chaos, no plans, and zero strategy. Just pure momentum!",
+   "popularity": 4.6015,
+   "poster_path": "/uRQalzrXA5OTI6dDDi4eqrpIzbN.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-03",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "Misfits of the galaxy, all aboard!",
+   "title": "Milky☆Subway: The Galactic Limited Express",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.5,
+   "vote_count": 20
+  },
+  "tv:295366": {
+   "backdrop_path": "/h4wBD8Lrq8hSAxd4fRgbIDTzDLJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yoki (voice)",
+     "n": "Kohei Amasaki"
+    },
+    {
+     "c": "Cecilia (voice)",
+     "n": "Kana Hanazawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-06",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 295366,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 13,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Yoki was once a human but reincarnated into a demon. He now holds a middling position serving the Demon King tasked with taking down the hero party. But when he finally faces them, Yoki thinks... \"No way… she's perfect.\"\n\nOf all things, he fell in love at first sight with Cecilia, the priest of the hero party! Her serious gaze, her every little gesture, everything about her is too cute! She's an angel! And so, Yoki made up his mind that he would confess his feelings to her.",
+   "popularity": 6.9147,
+   "poster_path": "/lUIuuvxthqaK4euFHTNIsRmdf3s.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-06",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "There Was a Cute Girl in the Hero's Party, So I Tried Confessing to Her",
+   "trailer": {
+    "key": "sO0zDHxjjxA",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.185,
+   "vote_count": 27
   },
   "tv:48866": {
    "backdrop_path": "/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",

@@ -1,71 +1,7 @@
 {
  "bucket": "44",
- "count": 23,
+ "count": 33,
  "titles": {
-  "movie:1084244": {
-   "d": "Toy Story 5 (2026): Animation/Family film. Story: When Bonnie receives a Lilypad tablet as a gift and… See cast, budget $250M, and TMDB rating 8.3/10.",
-   "img": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-   "industry": "world",
-   "k": "Toy Story 5, Toy Story 5 movie, Toy Story 5 cast, Toy Story 5 story, Toy Story 5 box office collection, Toy Story 5 budget, Toy Story 5 review, Toy Story 5 rating, Toy Story 5 release date, Toy Story 5 trailer, Toy Story 5 Animation, Toy Story 5 Family, international movies, FlickAtlas",
-   "ld": {
-    "@context": "https://schema.org",
-    "@type": "Movie",
-    "actor": [
-     {
-      "@type": "Person",
-      "name": "Joan Cusack"
-     },
-     {
-      "@type": "Person",
-      "name": "Tom Hanks"
-     },
-     {
-      "@type": "Person",
-      "name": "Tim Allen"
-     },
-     {
-      "@type": "Person",
-      "name": "Conan O'Brien"
-     },
-     {
-      "@type": "Person",
-      "name": "Scarlett Spears"
-     }
-    ],
-    "aggregateRating": {
-     "@type": "AggregateRating",
-     "bestRating": 10,
-     "ratingCount": 2871,
-     "ratingValue": 8.3,
-     "worstRating": 0
-    },
-    "description": "Toy Story 5 (2026): Animation/Family film. Story: When Bonnie receives a Lilypad tablet as a gift and… See cast, budget $250M, and TMDB rating 8.3/10.",
-    "director": [
-     {
-      "@type": "Person",
-      "name": "Andrew Stanton"
-     }
-    ],
-    "duration": "PT102M",
-    "genre": [
-     "Animation",
-     "Family"
-    ],
-    "image": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1084244",
-    "name": "Toy Story 5",
-    "releasedEvent": {
-     "@type": "PublicationEvent",
-     "startDate": "2026-06-19"
-    },
-    "url": "https://flickatlas.co.uk/movie?id=1084244"
-   },
-   "modified": "",
-   "published": "2026-11-14",
-   "ssr": "<article class=\"ssr-facts\">\n<h1>Toy Story 5 (2026)</h1>\n<p class=\"ssr-lead\">When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang&#x27;s jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 June 2026</li><li>Runtime: 102 minutes</li><li>Director: Andrew Stanton</li><li>Genres: Animation, Family, Comedy, Adventure</li><li>Budget: $250M</li><li>TMDB rating: 8.3/10 (2871 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joan Cusack as Jessie (voice)</li><li>Tom Hanks as Woody (voice)</li><li>Tim Allen as Buzz Lightyear (voice)</li><li>Conan O&#x27;Brien as Smarty Pants (voice)</li><li>Scarlett Spears as Bonnie (voice)</li><li>Greta Lee as Lilypad (voice)</li><li>Shelby Rabara as Snappy (voice)</li><li>Mykal-Michelle Harris as Blaze (voice)</li><li>Craig Robinson as Atlas (voice)</li><li>Jay Hernandez as Bonnie’s Dad (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
-   "t": "Toy Story 5 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-   "year": "2026"
-  },
   "movie:10944": {
    "d": "In the Cut (2003): Drama/Mystery film. Story: A New York City writing professor, Frannie Avery, has… See cast, budget $12M, and TMDB rating 5.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/e1hIGr5HTAPPiHNs7fMlW2JMSPl.jpg",
@@ -1082,6 +1018,621 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>My Happy Marriage (2023)</h1>\n<p class=\"ssr-lead\">Miyo&#x27;s abusive family deems her worthless – but together with her powerful husband-to-be, her true self and hidden powers slowly begin to shine.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 5 July 2023</li><li>Seasons: 1 · Episodes: 25</li><li>Genres: Animation, Drama, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 8.3/10 (263 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Reina Ueda as Miyo Saimori (voice)</li><li>Kaito Ishikawa as Kiyoka Kudo (voice)</li><li>Hiro Shimono as Yoshito Godo (voice)</li><li>Ryohei Kimura as Arata Tsuruki / Arata Usuba (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "My Happy Marriage (2023) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2023"
+  },
+  "tv:229544": {
+   "d": "Among Us (2026) is an Animation and Comedy TV series. Explore its story: Eccentric, monochromatic crewmates of a ship…, cast, 1 season, and 10 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/zoa11EvyuasC3j7PmH1QGftrSvf.jpg",
+   "industry": "world",
+   "k": "Among Us, Among Us TV series, Among Us cast, Among Us story, Among Us seasons, Among Us episodes, Among Us season 1, Among Us 10 episodes, Among Us first air date, Among Us trailer, Among Us Animation, Among Us Comedy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Yvette Nicole Brown"
+     },
+     {
+      "@type": "Person",
+      "name": "Dan Stevens"
+     },
+     {
+      "@type": "Person",
+      "name": "Kimiko Glenn"
+     },
+     {
+      "@type": "Person",
+      "name": "Liv Hewson"
+     },
+     {
+      "@type": "Person",
+      "name": "Ashley Johnson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 214,
+     "ratingValue": 9.0,
+     "worstRating": 0
+    },
+    "description": "Among Us (2026) is an Animation and Comedy TV series. Explore its story: Eccentric, monochromatic crewmates of a ship…, cast, 1 season, and 10 episodes.",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zoa11EvyuasC3j7PmH1QGftrSvf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=229544",
+    "name": "Among Us",
+    "numberOfEpisodes": 10,
+    "numberOfSeasons": 1,
+    "startDate": "2026-06-05",
+    "url": "https://flickatlas.co.uk/show?id=229544"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Among Us (2026)</h1>\n<p class=\"ssr-lead\">Eccentric, monochromatic crewmates of a ship transporting junk across the galaxy must root out an Impostor in their midst before they fall victim to its villainous designs.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 5 June 2026</li><li>Seasons: 1 · Episodes: 10</li><li>Created by: Owen Dennis</li><li>Genres: Animation, Comedy, Mystery, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 9.0/10 (214 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yvette Nicole Brown as Orange (voice)</li><li>Dan Stevens as Blue (voice)</li><li>Kimiko Glenn as Cyan (voice)</li><li>Liv Hewson as Black (voice)</li><li>Ashley Johnson as Purple (voice)</li><li>Wayne Knight as Lime (voice)</li><li>Phil LaMarr as Brown (voice)</li><li>Randall Park as Red (voice)</li><li>Debra Wilson as Yellow (voice)</li><li>Elijah Wood as Green (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Paramount Plus Premium, Paramount Plus Essential, Paramount Plus Apple TV channel, Paramount+ Amazon Channel, Paramount+ Roku Premium Channel</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Among Us (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:244244": {
+   "d": "Run Away (2026) is a Drama and Mystery TV series. Explore its story: A desperate father searching for his runaway daughter…, cast, 1 season, and 8 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/1jBYTcOuiPNJsTcfYk66bbVLSBz.jpg",
+   "industry": "world",
+   "k": "Run Away, Run Away TV series, Run Away cast, Run Away story, Run Away seasons, Run Away episodes, Run Away season 1, Run Away 8 episodes, Run Away first air date, Run Away trailer, Run Away Drama, Run Away Mystery, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "James Nesbitt"
+     },
+     {
+      "@type": "Person",
+      "name": "Alfred Enoch"
+     },
+     {
+      "@type": "Person",
+      "name": "Minnie Driver"
+     },
+     {
+      "@type": "Person",
+      "name": "Ruth Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Ellie de Lange"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 180,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Run Away (2026) is a Drama and Mystery TV series. Explore its story: A desperate father searching for his runaway daughter…, cast, 1 season, and 8 episodes.",
+    "genre": [
+     "Drama",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1jBYTcOuiPNJsTcfYk66bbVLSBz.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=244244",
+    "name": "Run Away",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 1,
+    "startDate": "2026-01-01",
+    "url": "https://flickatlas.co.uk/show?id=244244"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Run Away (2026)</h1>\n<p class=\"ssr-lead\">A desperate father searching for his runaway daughter gets caught up in a murder case — and stumbles upon secrets which could destroy his family for good.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 1 January 2026</li><li>Seasons: 1 · Episodes: 8</li><li>Created by: Harlan Coben</li><li>Genres: Drama, Mystery</li><li>TMDB rating: 6.7/10 (180 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>James Nesbitt as Simon Greene</li><li>Alfred Enoch as Isaac Fagbenle</li><li>Minnie Driver as Ingrid Greene</li><li>Ruth Jones as Elena Ravenscroft</li><li>Ellie de Lange as Paige Greene</li><li>Lucian Msamati as Cornelius Faber</li><li>Amy Gledhill as Ruby Todd</li><li>Annette Badland as Lou</li><li>Jon Pointing as Ash</li><li>Maeve Courtier-Lilley as Dee Dee</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Run Away (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:254544": {
+   "d": "The Waterfront (2025) is a Drama and Crime TV series. Explore its story: A prominent North Carolina fishing family wades into…, cast, 1 season, and 8 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/kootCU91JSYiQZwkJgHgyb4tz9m.jpg",
+   "industry": "world",
+   "k": "The Waterfront, The Waterfront TV series, The Waterfront cast, The Waterfront story, The Waterfront seasons, The Waterfront episodes, The Waterfront season 1, The Waterfront 8 episodes, The Waterfront first air date, The Waterfront trailer, The Waterfront Drama, The Waterfront Crime, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Holt McCallany"
+     },
+     {
+      "@type": "Person",
+      "name": "Melissa Benoist"
+     },
+     {
+      "@type": "Person",
+      "name": "Jake Weary"
+     },
+     {
+      "@type": "Person",
+      "name": "Rafael L. Silva"
+     },
+     {
+      "@type": "Person",
+      "name": "Humberly González"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 104,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Waterfront (2025) is a Drama and Crime TV series. Explore its story: A prominent North Carolina fishing family wades into…, cast, 1 season, and 8 episodes.",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kootCU91JSYiQZwkJgHgyb4tz9m.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=254544",
+    "name": "The Waterfront",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 1,
+    "startDate": "2025-06-19",
+    "url": "https://flickatlas.co.uk/show?id=254544"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Waterfront (2025)</h1>\n<p class=\"ssr-lead\">A prominent North Carolina fishing family wades into treacherous waters to keep their crumbling business empire afloat.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 19 June 2025</li><li>Seasons: 1 · Episodes: 8</li><li>Created by: Kevin Williamson</li><li>Genres: Drama, Crime</li><li>TMDB rating: 7.1/10 (104 votes)</li><li>Status: Canceled</li></ul>\n<h2>Top cast</h2>\n<ul><li>Holt McCallany as Harlan Buckley</li><li>Melissa Benoist as Bree Buckley</li><li>Jake Weary as Cane Buckley</li><li>Rafael L. Silva as Shawn Wilson</li><li>Humberly González as Jenna Tate</li><li>Danielle Campbell as Peyton Buckley</li><li>Brady Hepner as Diller Hopkins</li><li>Maria Bello as Mae Buckley</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Waterfront (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:270444": {
+   "d": "Lead Children (2026) is a Drama and War & Politics TV series. Explore its story: When a young doctor discovers that children living…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/ra12F3J3uVe112FEqBGmQapW2Bu.jpg",
+   "industry": "world",
+   "k": "Lead Children, Lead Children TV series, Lead Children cast, Lead Children story, Lead Children seasons, Lead Children episodes, Lead Children season 1, Lead Children 6 episodes, Lead Children first air date, Lead Children trailer, Lead Children Drama, Lead Children War & Politics, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Joanna Kulig"
+     },
+     {
+      "@type": "Person",
+      "name": "Agata Kulesza"
+     },
+     {
+      "@type": "Person",
+      "name": "Kinga Preis"
+     },
+     {
+      "@type": "Person",
+      "name": "Michał Żurawski"
+     },
+     {
+      "@type": "Person",
+      "name": "Marian Dziędziel"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 63,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Lead Children (2026) is a Drama and War & Politics TV series. Explore its story: When a young doctor discovers that children living…, cast, and 1 season.",
+    "genre": [
+     "Drama",
+     "War & Politics"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ra12F3J3uVe112FEqBGmQapW2Bu.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=270444",
+    "name": "Lead Children",
+    "numberOfEpisodes": 6,
+    "numberOfSeasons": 1,
+    "startDate": "2026-02-11",
+    "url": "https://flickatlas.co.uk/show?id=270444"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Lead Children (2026)</h1>\n<p class=\"ssr-lead\">When a young doctor discovers that children living near a smelting plant suffer from lead poisoning, she risks her career and safety to save them.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 11 February 2026</li><li>Seasons: 1 · Episodes: 6</li><li>Genres: Drama, War &amp; Politics</li><li>TMDB rating: 7.8/10 (63 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joanna Kulig as Jolanta Wadowska-Król</li><li>Agata Kulesza as Professor Berger</li><li>Kinga Preis as Wiesia Wilczek</li><li>Michał Żurawski as Hubert Niedziela</li><li>Marian Dziędziel as Jerzy Ziętek</li><li>Sebastian Pawlak as Zbyszek Król</li><li>Zbigniew Zamachowski as Zdzisław Grudzień</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Lead Children (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:281044": {
+   "d": "Solo Camping for Two (2025) is an Animation and Comedy TV series. Explore its story: Gen Kinokura just wanted to enjoy his peaceful solo…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/lPpKeKWD0dfHB8ZakfEavurVZ1T.jpg",
+   "industry": "world",
+   "k": "Solo Camping for Two, Solo Camping for Two TV series, Solo Camping for Two cast, Solo Camping for Two story, Solo Camping for Two seasons, Solo Camping for Two episodes, Solo Camping for Two season 1, Solo Camping for Two 24 episodes, Solo Camping for Two first air date, Solo Camping for Two trailer, Solo Camping for Two Animation, Solo Camping for Two Comedy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Daiki Hamano"
+     },
+     {
+      "@type": "Person",
+      "name": "Mizuki Niizaki"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 22,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Solo Camping for Two (2025) is an Animation and Comedy TV series. Explore its story: Gen Kinokura just wanted to enjoy his peaceful solo…, cast, and 1 season.",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lPpKeKWD0dfHB8ZakfEavurVZ1T.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=281044",
+    "name": "Solo Camping for Two",
+    "numberOfEpisodes": 24,
+    "numberOfSeasons": 1,
+    "startDate": "2025-07-11",
+    "url": "https://flickatlas.co.uk/show?id=281044"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Solo Camping for Two (2025)</h1>\n<p class=\"ssr-lead\">Gen Kinokura just wanted to enjoy his peaceful solo camping trips—no distractions, no problems. Enter Shizuku Kusano, a clueless but enthusiastic newbie who crashes his campsite (literally). Now, this bothered outdoorsman is stuck teaching her the ropes. Laughs, mishaps, and heartwarming moments await this duo-camp adventure under the stars!</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 11 July 2025</li><li>Seasons: 1 · Episodes: 24</li><li>Genres: Animation, Comedy</li><li>TMDB rating: 7.5/10 (22 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Daiki Hamano as Gen Kinokura (voice)</li><li>Mizuki Niizaki as Shizuku Kusano (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll, Sony Liv, Crunchyroll Amazon Channel</li></ul>\n</article>",
+   "t": "Solo Camping for Two (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:284644": {
+   "d": "My Status as an Assassin Obviously Exceeds the Hero's (2025) is an Animation and Action & Adventure TV series.",
+   "img": "https://image.tmdb.org/t/p/w780/k0aoy0vcLxpI8d6USLMM2qzhwsb.jpg",
+   "industry": "world",
+   "k": "My Status as an Assassin Obviously Exceeds the Hero's, My Status as an Assassin Obviously Exceeds the Hero's TV series, My Status as an Assassin Obviously Exceeds the Hero's cast, My Status as an Assassin Obviously Exceeds the Hero's story, My Status as an Assassin Obviously Exceeds the Hero's seasons, My Status as an Assassin Obviously Exceeds the Hero's episodes, My Status as an Assassin Obviously Exceeds the Hero's season 1, My Status as an Assassin Obviously Exceeds the Hero's 12 episodes, My Status as an Assassin Obviously Exceeds the Hero's first air date, My Status as an Assassin Obviously Exceeds the Hero's trailer, My Status as an Assassin Obviously Exceeds the Hero's Animation, My Status as an Assassin Obviously Exceeds the Hero's Action & Adventure, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Takeo Otsuka"
+     },
+     {
+      "@type": "Person",
+      "name": "Saku Mizuno"
+     },
+     {
+      "@type": "Person",
+      "name": "Junichi Suwabe"
+     },
+     {
+      "@type": "Person",
+      "name": "Sanae Kobayashi"
+     },
+     {
+      "@type": "Person",
+      "name": "Konomi Tamura"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 60,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "My Status as an Assassin Obviously Exceeds the Hero's (2025) is an Animation and Action & Adventure TV series.",
+    "genre": [
+     "Animation",
+     "Action & Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/k0aoy0vcLxpI8d6USLMM2qzhwsb.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=284644",
+    "name": "My Status as an Assassin Obviously Exceeds the Hero's",
+    "numberOfEpisodes": 12,
+    "numberOfSeasons": 1,
+    "startDate": "2025-10-07",
+    "url": "https://flickatlas.co.uk/show?id=284644"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>My Status as an Assassin Obviously Exceeds the Hero&#x27;s (2025)</h1>\n<p class=\"ssr-lead\">Akira Oda and his high school classmates are summoned to another world! While the other students are granted cheat abilities through the summoning, Akira merely gains the abilities of a mediocre &quot;assassin.&quot; However, his status soon surpasses &quot;hero,&quot; the strongest profession. After Akira becomes suspicious of the King behind the summoning, he is falsely framed for a crime and forced to flee.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 7 October 2025</li><li>Seasons: 1 · Episodes: 12</li><li>Genres: Animation, Action &amp; Adventure, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 7.0/10 (60 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Takeo Otsuka as Akira Oda (voice)</li><li>Saku Mizuno as Amelia Rosequartz (voice)</li><li>Junichi Suwabe as Saran Mithray (voice)</li><li>Sanae Kobayashi as Yoru (voice)</li><li>Konomi Tamura as Lia Lagoon (voice)</li><li>Takeshi Kusao as Crow (voice)</li><li>Sumire Morohoshi as Latticenail (voice)</li><li>Azumi Waki as Kirika Rosequartz (voice)</li><li>Shun Horie as Aulum Trace (voice)</li><li>Koki Uchiyama as Mahiro Abe (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll, Crunchyroll Amazon Channel</li></ul>\n</article>",
+   "t": "My Status as an Assassin Obviously Exceeds the Hero's (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:284744": {
+   "d": "Pro Bono (2025) is a Comedy and Drama TV series. Explore its story: When a respected judge's world falls apart overnight…, cast, 1 season, and 12 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/dxLxJVZQQ77S8K52myee4sJskxc.jpg",
+   "industry": "world",
+   "k": "Pro Bono, Pro Bono TV series, Pro Bono cast, Pro Bono story, Pro Bono seasons, Pro Bono episodes, Pro Bono season 1, Pro Bono 12 episodes, Pro Bono first air date, Pro Bono trailer, Pro Bono Comedy, Pro Bono Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jung Kyung-ho"
+     },
+     {
+      "@type": "Person",
+      "name": "So Joo-yeon"
+     },
+     {
+      "@type": "Person",
+      "name": "Lee You-young"
+     },
+     {
+      "@type": "Person",
+      "name": "Yoon Na-moo"
+     },
+     {
+      "@type": "Person",
+      "name": "Kang Hyung-suk"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 42,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "Pro Bono (2025) is a Comedy and Drama TV series. Explore its story: When a respected judge's world falls apart overnight…, cast, 1 season, and 12 episodes.",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dxLxJVZQQ77S8K52myee4sJskxc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=284744",
+    "name": "Pro Bono",
+    "numberOfEpisodes": 12,
+    "numberOfSeasons": 1,
+    "startDate": "2025-12-06",
+    "url": "https://flickatlas.co.uk/show?id=284744"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pro Bono (2025)</h1>\n<p class=\"ssr-lead\">When a respected judge&#x27;s world falls apart overnight, he joins a top law firm&#x27;s pro bono team — where hope and purpose wait in humble, unexpected places.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 6 December 2025</li><li>Seasons: 1 · Episodes: 12</li><li>Created by: Kim Seong-yoon, Baek Sang-hoon, Moon Yoo-seok</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 8.2/10 (42 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jung Kyung-ho as Kang Da-wit</li><li>So Joo-yeon as Park Gi-ppeum</li><li>Lee You-young as Oh Jeong-in</li><li>Yoon Na-moo as Jang Yeong-sil</li><li>Kang Hyung-suk as Hwang Jun-u</li><li>Seo Hye-won as Yoo Nan-hui</li><li>Jang Se-hyuk as Kang Min-ha</li><li>Choi Dae-hoon as Woo Myeong-hun</li><li>Kim Kap-soo as Oh Gyoo-jang</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Pro Bono (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:292144": {
+   "d": "Ball Boy Tactics (2025) is a Drama TV series. Explore its story: A quiet ex-gymnast and a playful basketball star fall…, cast, 1 season, and 8 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/hXiVeUUAWWxebEL7dj8nC6geuJj.jpg",
+   "industry": "world",
+   "k": "Ball Boy Tactics, Ball Boy Tactics TV series, Ball Boy Tactics cast, Ball Boy Tactics story, Ball Boy Tactics seasons, Ball Boy Tactics episodes, Ball Boy Tactics season 1, Ball Boy Tactics 8 episodes, Ball Boy Tactics first air date, Ball Boy Tactics Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Choi Jae-hyeok"
+     },
+     {
+      "@type": "Person",
+      "name": "Yeom Min-hyeok"
+     },
+     {
+      "@type": "Person",
+      "name": "Choi Rak-yeong"
+     },
+     {
+      "@type": "Person",
+      "name": "Kwak Geon-hee"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 26,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Ball Boy Tactics (2025) is a Drama TV series. Explore its story: A quiet ex-gymnast and a playful basketball star fall…, cast, 1 season, and 8 episodes.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kim Eun-hye"
+     }
+    ],
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hXiVeUUAWWxebEL7dj8nC6geuJj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=292144",
+    "name": "Ball Boy Tactics",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 1,
+    "startDate": "2025-06-05",
+    "url": "https://flickatlas.co.uk/show?id=292144"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ball Boy Tactics (2025)</h1>\n<p class=\"ssr-lead\">A quiet ex-gymnast and a playful basketball star fall into a slow-burning romance where every glance and touch speaks louder than words.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 5 June 2025</li><li>Seasons: 1 · Episodes: 8</li><li>Created by: Ji Seung-hyun</li><li>Director: Kim Eun-hye</li><li>Genres: Drama</li><li>TMDB rating: 7.7/10 (26 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Choi Jae-hyeok as Kwon Jung-woo</li><li>Yeom Min-hyeok as Han Ji-won</li><li>Choi Rak-yeong as Byeon Seung-jin</li><li>Kwak Geon-hee as Yang Eun-oh</li></ul>\n</article>",
+   "t": "Ball Boy Tactics (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:301944": {
+   "d": "Marriage Toxin (2026) is an Animation and Action & Adventure TV series. Explore its story: For centuries, the deadly arts have been perfected by… and cast.",
+   "img": "https://image.tmdb.org/t/p/w780/edyP3Y3j5M1aponwAtDEUtTlPIA.jpg",
+   "industry": "world",
+   "k": "Marriage Toxin, Marriage Toxin TV series, Marriage Toxin cast, Marriage Toxin story, Marriage Toxin seasons, Marriage Toxin episodes, Marriage Toxin season 2, Marriage Toxin 13 episodes, Marriage Toxin first air date, Marriage Toxin trailer, Marriage Toxin Animation, Marriage Toxin Action & Adventure, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Haruki Ishiya"
+     },
+     {
+      "@type": "Person",
+      "name": "Shion Wakayama"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Nagase"
+     },
+     {
+      "@type": "Person",
+      "name": "Mariya Ise"
+     },
+     {
+      "@type": "Person",
+      "name": "Asaki Yuikawa"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 54,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Marriage Toxin (2026) is an Animation and Action & Adventure TV series. Explore its story: For centuries, the deadly arts have been perfected by… and cast.",
+    "genre": [
+     "Animation",
+     "Action & Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/edyP3Y3j5M1aponwAtDEUtTlPIA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=301944",
+    "name": "Marriage Toxin",
+    "numberOfEpisodes": 13,
+    "numberOfSeasons": 2,
+    "startDate": "2026-04-07",
+    "url": "https://flickatlas.co.uk/show?id=301944"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Marriage Toxin (2026)</h1>\n<p class=\"ssr-lead\">For centuries, the deadly arts have been perfected by Masters, and Five Great Families hold the greatest power and influence. Hikaru Gero, an heir to the Gero family, lives in the underworld as an elite assassin. When his sister is pressured to produce an heir, Hikaru asks Mei Kinosaki, a brilliant marriage swindler, to find him a bride. The most challenging mission of his life begins!</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 7 April 2026</li><li>Seasons: 2 · Episodes: 13</li><li>Genres: Animation, Action &amp; Adventure, Comedy</li><li>TMDB rating: 7.4/10 (54 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Haruki Ishiya as Hikaru Gero (voice)</li><li>Shion Wakayama as Mei Kinosaki (voice)</li><li>Anna Nagase as Kyoko Himekawa (voice)</li><li>Mariya Ise as Shizuku Ushio (voice)</li><li>Asaki Yuikawa as Shiori Ureshino (voice)</li><li>Soma Saito as Genya Naruko (voice)</li><li>Hinano Shirahama as Kimie Arashiyama (voice)</li><li>Shimba Tsuchiya as Piichi Nakagawa (voice)</li><li>Haruka Shiraishi as Akari Gero (voice)</li><li>Isamu Yusen as Toshiki Hanamaki (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll, Crunchyroll Amazon Channel</li></ul>\n</article>",
+   "t": "Marriage Toxin (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:305644": {
+   "d": "Four Hands, Two Sonatas (2026) is a Drama TV series. Explore its story: When two young pianists from completely different…, cast, 1 season, and 12 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
+   "industry": "world",
+   "k": "Four Hands, Two Sonatas, Four Hands, Two Sonatas TV series, Four Hands, Two Sonatas cast, Four Hands, Two Sonatas story, Four Hands, Two Sonatas seasons, Four Hands, Two Sonatas episodes, Four Hands, Two Sonatas season 1, Four Hands, Two Sonatas 12 episodes, Four Hands, Two Sonatas first air date, Four Hands, Two Sonatas trailer, Four Hands, Two Sonatas Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Song Kang"
+     },
+     {
+      "@type": "Person",
+      "name": "Lee Jun-young"
+     },
+     {
+      "@type": "Person",
+      "name": "Jang Gyu-ri"
+     },
+     {
+      "@type": "Person",
+      "name": "Yoon Se-a"
+     },
+     {
+      "@type": "Person",
+      "name": "Jung Jin-young"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 67,
+     "ratingValue": 9.2,
+     "worstRating": 0
+    },
+    "description": "Four Hands, Two Sonatas (2026) is a Drama TV series. Explore its story: When two young pianists from completely different…, cast, 1 season, and 12 episodes.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Park Hyeon-seok"
+     }
+    ],
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=305644",
+    "name": "Four Hands, Two Sonatas",
+    "numberOfEpisodes": 12,
+    "numberOfSeasons": 1,
+    "startDate": "2026-08-29",
+    "url": "https://flickatlas.co.uk/show?id=305644"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Four Hands, Two Sonatas (2026)</h1>\n<p class=\"ssr-lead\">When two young pianists from completely different worlds meet at an elite music high school, the melodies of their lives become intimately intertwined.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 29 August 2026</li><li>Seasons: 1 · Episodes: 12</li><li>Created by: Shin Yi-won</li><li>Director: Park Hyeon-seok</li><li>Genres: Drama</li><li>TMDB rating: 9.2/10 (67 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Song Kang as Kang Pi-o</li><li>Lee Jun-young as Choi Jeong-yo</li><li>Jang Gyu-ri as Hong Jae-in</li><li>Yoon Se-a as Kang Ji-hye</li><li>Jung Jin-young as Kang Seung-woon</li><li>Seo Jae-hee as Yoon Sun-joo</li><li>Seong No-jin as Choi Ki-taek</li><li>Lee Myeong-ro as Cho Hyun-cheol</li><li>Min Kim as Boss Kim</li><li>Kim Hye-hwa as Han Hyun-jung</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Four Hands, Two Sonatas (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:316544": {
+   "d": "Ronaldinho: The One and Only (2026) is a Documentary TV series. Explore its story: This series follows the life and career of Brazilian…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/eBna9nTSwL89wsR3fmA5AVDxzxR.jpg",
+   "industry": "world",
+   "k": "Ronaldinho: The One and Only, Ronaldinho: The One and Only TV series, Ronaldinho: The One and Only cast, Ronaldinho: The One and Only story, Ronaldinho: The One and Only seasons, Ronaldinho: The One and Only episodes, Ronaldinho: The One and Only season 1, Ronaldinho: The One and Only 3 episodes, Ronaldinho: The One and Only first air date, Ronaldinho: The One and Only trailer, Ronaldinho: The One and Only Documentary, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ronaldinho"
+     },
+     {
+      "@type": "Person",
+      "name": "Ronaldo"
+     },
+     {
+      "@type": "Person",
+      "name": "Galvão Bueno"
+     },
+     {
+      "@type": "Person",
+      "name": "Lionel Messi"
+     },
+     {
+      "@type": "Person",
+      "name": "Carles Puyol"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 57,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Ronaldinho: The One and Only (2026) is a Documentary TV series. Explore its story: This series follows the life and career of Brazilian…, cast, and 1 season.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Luis Ara"
+     }
+    ],
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eBna9nTSwL89wsR3fmA5AVDxzxR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=316544",
+    "name": "Ronaldinho: The One and Only",
+    "numberOfEpisodes": 3,
+    "numberOfSeasons": 1,
+    "startDate": "2026-04-16",
+    "url": "https://flickatlas.co.uk/show?id=316544"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ronaldinho: The One and Only (2026)</h1>\n<p class=\"ssr-lead\">This series follows the life and career of Brazilian soccer star Ronaldinho, tracing his journey from young prodigy to global sports icon.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 16 April 2026</li><li>Seasons: 1 · Episodes: 3</li><li>Director: Luis Ara</li><li>Genres: Documentary</li><li>TMDB rating: 7.4/10 (57 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ronaldinho as Self</li><li>Ronaldo as Self</li><li>Galvão Bueno as Self</li><li>Lionel Messi as Self</li><li>Carles Puyol as Self</li><li>Roberto Carlos as Self</li><li>Neymar as Self</li><li>Anderson Luís de Souza as Self</li><li>Roberto de Assis as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Ronaldinho: The One and Only (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
   },
   "tv:42444": {
    "d": "Saint Seiya (1986) is an Animation and Drama TV series. Explore its story: Ages ago, the goddess Athena was served by fighters…, cast, and 1 season.",

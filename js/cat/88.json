@@ -1,6 +1,6 @@
 {
  "bucket": "88",
- "count": 25,
+ "count": 34,
  "titles": {
   "movie:1088": {
    "backdrop_path": "/dLJ6qwEXg2AglBSClRV5iVYZI1b.jpg",
@@ -996,113 +996,6 @@
    "type": "movie",
    "vote_average": 7.81,
    "vote_count": 21
-  },
-  "movie:1570488": {
-   "backdrop_path": "/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Sander",
-     "n": "Dennis Quaid"
-    },
-    {
-     "c": "Hunter",
-     "n": "Milo Ventimiglia"
-    },
-    {
-     "c": "Ello",
-     "n": "Brooke Lena Johnson"
-    },
-    {
-     "c": "Juliana",
-     "n": "Kathleen Rose Perkins"
-    },
-    {
-     "c": "Lucille",
-     "n": "Jennifer Tilly"
-    },
-    {
-     "c": "Winstead (voice)",
-     "n": "Thomas Haden Church"
-    },
-    {
-     "c": "Claire",
-     "n": "Mary Steenburgen"
-    },
-    {
-     "c": "Sean",
-     "n": "Ethan Loomis"
-    },
-    {
-     "c": "Nurse Miller",
-     "n": "Marissa Jaret Winokur"
-    },
-    {
-     "c": "Mrs. O'Brien",
-     "n": "Cathryn Michon"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "PG-13",
-   "date_kind": "release",
-   "director": [
-    "Cathryn Michon"
-   ],
-   "genres": [
-    "Comedy",
-    "Drama"
-   ],
-   "id": 1570488,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
-   "popularity": 95.905,
-   "poster_path": "/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-11-04",
-   "revenue": 0,
-   "runtime": 102,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "Sit. Stay. Love.",
-   "title": "A Dog's Perfect Christmas",
-   "trailer": {
-    "key": "L18ih13Bf-U",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.123,
-   "vote_count": 53
   },
   "movie:30588": {
    "backdrop_path": "/pXAudXOkmQSiI6sFQyEfkibQxZp.jpg",
@@ -2841,6 +2734,1101 @@
    "type": "tv",
    "vote_average": 8.059,
    "vote_count": 6269
+  },
+  "tv:241388": {
+   "backdrop_path": "/cWO5NDkKqpOuwxu4vFc4PtL8aNF.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Disney+",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-08-01",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 241388,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow the adventures of brave Wakandan warriors throughout history in this globe-trotting adventure, where they must carry out dangerous missions to retrieve Vibranium artifacts from the enemies of Wakanda. They are the Hatut Zaraze and this is their story.",
+   "popularity": 6.8283,
+   "poster_path": "/yuOfb1MgnaGPa4guzV0n1IFYVGN.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-01",
+     "episode_count": 4,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Every mission shapes a legacy.",
+   "title": "Eyes of Wakanda",
+   "trailer": {
+    "key": "ODHh6oe4MlE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.234,
+   "vote_count": 216
+  },
+  "tv:250988": {
+   "backdrop_path": "/1ELIdCCzB1afeO0KQh2lvUaOxjd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Arthur Guinness",
+     "n": "Anthony Boyle"
+    },
+    {
+     "c": "Edward Guinness",
+     "n": "Louis Partridge"
+    },
+    {
+     "c": "Anne Guinness",
+     "n": "Emily Fairn"
+    },
+    {
+     "c": "Benjamin Guinness",
+     "n": "Fionn O'Shea"
+    },
+    {
+     "c": "Sean Rafferty",
+     "n": "James Norton"
+    },
+    {
+     "c": "Ellen Cochrane",
+     "n": "Niamh McCormack"
+    },
+    {
+     "c": "Patrick Cochrane",
+     "n": "Seamus O'Hara"
+    },
+    {
+     "c": "Byron Hughes",
+     "n": "Jack Gleeson"
+    },
+    {
+     "c": "Agnes Guinness",
+     "n": "Dervla Kirwan"
+    },
+    {
+     "c": "John Potter",
+     "n": "Michael McElhatton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Steven Knight"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-25",
+   "genres": [
+    "Drama"
+   ],
+   "id": 250988,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Dublin, 1868. The Guinness family patriarch is dead, and his four children — each with dark secrets to hide — hold the brewery's fate in their hands.",
+   "popularity": 6.3217,
+   "poster_path": "/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-25",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ga",
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Trouble is brewing.",
+   "title": "House of Guinness",
+   "trailer": {
+    "key": "2mH396WCN0U",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.533,
+   "vote_count": 168
+  },
+  "tv:262388": {
+   "backdrop_path": "/wqjhAWmqHrIIn4PdchGCuEgPksw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Etta Tiger Jonze",
+     "n": "Shannon Gisela"
+    },
+    {
+     "c": "Lovely",
+     "n": "Brittany Adebumola"
+    },
+    {
+     "c": "Stanley",
+     "n": "Dylan Jackson"
+    },
+    {
+     "c": "Elias Perez",
+     "n": "Alberto Guerra"
+    },
+    {
+     "c": "Tim Kincaid",
+     "n": "Cary Elwes"
+    },
+    {
+     "c": "Mateo Rojas",
+     "n": "Maurice Compte"
+    },
+    {
+     "c": "Samuel Rojas",
+     "n": "Gerardo Celasco"
+    },
+    {
+     "c": "Caroline Carver",
+     "n": "Marta Milans"
+    },
+    {
+     "c": "Stanley",
+     "n": "Rylan Jackson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Peacock",
+   "created_by": [
+    "Bill Dubuque",
+    "Karen Campbell"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-05-07",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 262388,
+   "industry": "world",
+   "networks": [
+    "Peacock"
+   ],
+   "number_of_episodes": 9,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Restless in the Florida Keys, Etta Tiger Jonze dreams of a life in Miami's glittering, sub-tropical kingdom. When her family's drug-running business shatters in tragedy, however, Etta embarks on a dangerous journey through Miami's neon-lit underbelly that will define who she is and what she's ultimately capable of.",
+   "popularity": 10.2714,
+   "poster_path": "/szRt55O3qiw1qCSbDyrQOI2tcaI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-07",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Killers aren't born. They're made.",
+   "title": "M.I.A.",
+   "trailer": {
+    "key": "6QZfHbpEUpI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.328,
+   "vote_count": 122
+  },
+  "tv:275388": {
+   "backdrop_path": "/w8NsengOrWLapYBVutr52gwWMio.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lejla",
+     "n": "Leonie Vincent"
+    },
+    {
+     "c": "Valter",
+     "n": "Johan Hedenberg"
+    },
+    {
+     "c": "Tomas",
+     "n": "Johan Rheborg"
+    },
+    {
+     "c": "Jorun",
+     "n": "Ia Langhammer"
+    },
+    {
+     "c": "Kristina",
+     "n": "Cecilia Nilsson"
+    },
+    {
+     "c": "Björn",
+     "n": "Emil Almén"
+    },
+    {
+     "c": "Aino",
+     "n": "Emma Broomé"
+    },
+    {
+     "c": "Martin",
+     "n": "Oscar Töringe"
+    },
+    {
+     "c": "Isla",
+     "n": "Bianca Lynxén"
+    },
+    {
+     "c": "Young Lejla",
+     "n": "Seraphine Krystek"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R21",
+   "channel": "Netflix",
+   "created_by": [
+    "Camilla Läckberg"
+   ],
+   "director": [
+    "Lisa Farzaneh",
+    "Henrik Björn"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-15",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 275388,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "SE"
+   ],
+   "original_language": "sv",
+   "overview": "When her friend's daughter goes missing, criminologist Lejla joins the search — and must confront the haunting trauma of her own childhood abduction.",
+   "popularity": 3.9965,
+   "poster_path": "/yn4PIMnXJ42lObinYtmIvQ9lVtm.jpg",
+   "production_countries": [
+    "SE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-15",
+     "episode_count": 6,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "sv"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Glass Dome",
+   "trailer": {
+    "key": "s4Pg5xhcYy4",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.908,
+   "vote_count": 168
+  },
+  "tv:279388": {
+   "backdrop_path": "/yiUZ8Ck86FF3obLztVvSQqeBi0Y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fan Changyu",
+     "n": "Tian Xiwei"
+    },
+    {
+     "c": "Xie Zheng",
+     "n": "Zhang Linghe"
+    },
+    {
+     "c": "Yu Qianqian",
+     "n": "Kong Xue'er"
+    },
+    {
+     "c": "Qi Min",
+     "n": "Deng Kai"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG13",
+   "channel": "iQiyi",
+   "created_by": [
+    "Tuan Zi Lai Xi"
+   ],
+   "director": [
+    "Zeng Qingjie"
+   ],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2026-03-06",
+   "genres": [
+    "Drama",
+    "Action & Adventure",
+    "War & Politics"
+   ],
+   "id": 279388,
+   "industry": "world",
+   "networks": [
+    "iQiyi",
+    "Tencent Video"
+   ],
+   "number_of_episodes": 40,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "This drama follows Fan Changyu, a butcher’s daughter, and Xie Zheng, a fallen noble seeking revenge. Their fake marriage turns into true love, but war tears them apart. Determined, Fan Changyu wields her butcher’s knife on the battlefield, searching for justice and her husband. Meanwhile, Xie Zheng reclaims his title, fighting to protect his country and love. Reunited in battle, they stand together, defying fate, uncovering the truth, and returning home without forgetting their vows.",
+   "popularity": 27.074,
+   "poster_path": "/g2CSCJuWm7IcpuRjxySQvZcJYnp.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Tencent Video"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png",
+     "name": "Tencent Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-06",
+     "episode_count": 40,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Pursuit of Jade",
+   "trailer": {
+    "key": "_ftwQZjmgqU",
+    "name": "War-torn hearts, love eternal. [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.167,
+   "vote_count": 99
+  },
+  "tv:280888": {
+   "backdrop_path": "/50ycQZGBRwVjVk0ZrERJRls2Wto.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rafael Salazar",
+     "n": "Álvaro Morte"
+    },
+    {
+     "c": "Antonio",
+     "n": "Hovik Keuchkerian"
+    },
+    {
+     "c": "Isabel",
+     "n": "Kiti Mánver"
+    },
+    {
+     "c": "Marta",
+     "n": "Zoé Arnao"
+    },
+    {
+     "c": "Lupe",
+     "n": "Nonna Cardoner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Agustín Martínez"
+   ],
+   "director": [],
+   "episode_run_time": [
+    52
+   ],
+   "first_air_date": "2025-08-29",
+   "genres": [
+    "Mystery",
+    "Crime",
+    "Drama"
+   ],
+   "id": 280888,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "When the disappearance of two teen girls shocks a quiet coastal town, a bereft grandmother risks everything to uncover the truth and seek revenge.",
+   "popularity": 2.0766,
+   "poster_path": "/bnERtXWzPaTRZfa0iEtvygiOrPP.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-29",
+     "episode_count": 3,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Two Graves",
+   "trailer": {
+    "key": "Bna-KqjxIWY",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.515,
+   "vote_count": 100
+  },
+  "tv:284488": {
+   "backdrop_path": "/oi7QPnDzNlITQethm9VagdSYC9R.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Aiwarin",
+     "n": "Punyapat Wangpongsathaporn"
+    },
+    {
+     "c": "Maevika",
+     "n": "Saranphat Pedersen"
+    },
+    {
+     "c": "G Jirana",
+     "n": "Ladapa Thongkham"
+    },
+    {
+     "c": "Yam Yolada",
+     "n": "Jiratchaya Kittavornsakul"
+    },
+    {
+     "c": "Rachen",
+     "n": "Akalavut Mankalasut"
+    },
+    {
+     "c": "Nuttakorn",
+     "n": "Nithi Smuthkochorn"
+    },
+    {
+     "c": "Attawit",
+     "n": "Nuttanan Khunwat"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "19",
+   "channel": "ONE 31",
+   "created_by": [],
+   "director": [
+    "Kritsada Techanilobon"
+   ],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2025-07-26",
+   "genres": [
+    "Drama"
+   ],
+   "id": 284488,
+   "industry": "world",
+   "networks": [
+    "ONE 31"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "Two business heiresses—Aiwarin and Maevika—from a hotel empire and from a department store dynasty, respectively, compete for a national Duty-Free bid. From the moment they meet, an undeniable attraction sparks.",
+   "popularity": 2.4652,
+   "poster_path": "/jstn8gZWCd5jcxosC2lnZ5nebcu.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-26",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Harmony Secret",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 21
+  },
+  "tv:285788": {
+   "backdrop_path": "/hPYlTczDtllJfU0SY3sA96s7Uy6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tanzaburo Tojima (voice)",
+     "n": "Katsuyuki Konishi"
+    },
+    {
+     "c": "Yuriko Okada (voice)",
+     "n": "Ai Kayano"
+    },
+    {
+     "c": "Ichiyo Shimamura (voice)",
+     "n": "Kenichi Suzumura"
+    },
+    {
+     "c": "Mitsuba Shimamura (voice)",
+     "n": "Soma Saito"
+    },
+    {
+     "c": "Yukarisu (voice)",
+     "n": "Fairouz Ai"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Gunma TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2025-10-05",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy"
+   ],
+   "id": 285788,
+   "industry": "world",
+   "networks": [
+    "Gunma TV",
+    "TOKYO MX",
+    "BS11",
+    "Tochigi TV"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Even after turning 40 years old, Tojima Tanzaburo still seriously wants to be a Kamen Rider. Just when it seems like his dream may never come true, he gets caught up in a series of infamous Shocker-inspired robberies... Shibata Yokusaru, the author of Air Master and 81 Diver, presents a story about adults who love Kamen Rider a little too much, and start playing pretend... for real!",
+   "popularity": 7.6549,
+   "poster_path": "/oDHsngq989H1jY2ZsLB5KRUVIb.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-05",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Tojima Wants to Be a Kamen Rider",
+   "trailer": {
+    "key": "i-Y-Fqt8swo",
+    "name": "Official Trailer 2 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.537,
+   "vote_count": 27
+  },
+  "tv:286788": {
+   "backdrop_path": "/yGCt11S62nIIY1GtBB0oNmuRaH1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Viet Thanh Nguyen"
+    },
+    {
+     "c": "Self",
+     "n": "Lien-Hang Nguyen"
+    },
+    {
+     "c": "Self",
+     "n": "Fredrik Logevall"
+    },
+    {
+     "c": "Self",
+     "n": "Dr. Roseann “Chic” Canfora"
+    },
+    {
+     "c": "Self",
+     "n": "John Negroponte"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Richard Nixon"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Robert McNamara"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Lyndon B. Johnson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-30",
+   "genres": [
+    "Documentary",
+    "War & Politics"
+   ],
+   "id": 286788,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 5,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This thought-provoking documentary series examines the harrowing consequences of the Vietnam War, from the Gulf of Tonkin incident to the fall of Saigon.",
+   "popularity": 2.3728,
+   "poster_path": "/pwyhia2REWLVv3UmY9Cc5N7Gtfx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-30",
+     "episode_count": 5,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Turning Point: The Vietnam War",
+   "trailer": {
+    "key": "G7LounlxPdA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.2,
+   "vote_count": 29
+  },
+  "tv:325188": {
+   "backdrop_path": "/68DV2CjqHpH8PsO76Ssrv4T47os.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [
+    "Cynthia Childs"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-01",
+   "genres": [
+    "Crime",
+    "Documentary"
+   ],
+   "id": 325188,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This intense documentary series details true stories of neighbors gone bad, from heinous fraud schemes to senseless acts of violent retribution.",
+   "popularity": 3.8725,
+   "poster_path": "/1WarGMl1xR0l7ut72putZcgrCJS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-01",
+     "episode_count": 4,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Worst Neighbor Ever",
+   "trailer": {
+    "key": "W20YAjAtDnc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.108,
+   "vote_count": 37
   },
   "tv:4588": {
    "backdrop_path": "/en3zftWPQb5Ue6aA8W88RQbtqzd.jpg",

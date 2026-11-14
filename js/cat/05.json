@@ -1,6 +1,6 @@
 {
  "bucket": "05",
- "count": 25,
+ "count": 37,
  "titles": {
   "movie:1069905": {
    "backdrop_path": "/wR9D9hQvCVBux16NauY4b7letdU.jpg",
@@ -1073,101 +1073,6 @@
    "vote_average": 6.071,
    "vote_count": 84
   },
-  "movie:1567605": {
-   "backdrop_path": "/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
-   "budget": 38000000,
-   "cast": [
-    {
-     "c": "Ebenezer Scrooge",
-     "n": "Johnny Depp"
-    },
-    {
-     "c": "Bob Cratchit",
-     "n": "Rupert Grint"
-    },
-    {
-     "c": "Clara",
-     "n": "Daisy Ridley"
-    },
-    {
-     "c": "Ghost of Christmas Present",
-     "n": "Tramell Tillman"
-    },
-    {
-     "c": "Jacob Marley",
-     "n": "Ian McKellen"
-    },
-    {
-     "c": "Ghost of Christmas Past",
-     "n": "Andrea Riseborough"
-    },
-    {
-     "c": "Fred",
-     "n": "Sam Claflin"
-    },
-    {
-     "c": "Young Ebenezer",
-     "n": "Arthur Conti"
-    },
-    {
-     "c": "Emily Cratchit",
-     "n": "Charlie Murphy"
-    },
-    {
-     "c": "Ghost of Christmas Future",
-     "n": "Robert Strange"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "PG-13",
-   "date_kind": "release",
-   "director": [
-    "Ti West"
-   ],
-   "genres": [
-    "Fantasy",
-    "Comedy"
-   ],
-   "id": 1567605,
-   "industry": "world",
-   "origin_country": [
-    "US",
-    "GB"
-   ],
-   "original_language": "en",
-   "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-   "popularity": 88.2848,
-   "poster_path": "/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-   "production_countries": [
-    "US",
-    "GB"
-   ],
-   "providers": [],
-   "providers_wtw": [],
-   "published_at": "2026-11-14",
-   "release_date": "2026-11-11",
-   "revenue": 1500000,
-   "runtime": 115,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "Before he was Scrooge, he was…",
-   "title": "Ebenezer",
-   "trailer": {
-    "key": "l_Ozo1xUgbU",
-    "name": "Official Trailer 2",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.9,
-   "vote_count": 37
-  },
   "movie:1602705": {
    "backdrop_path": "/3RaVf9MWpB74kK8AtPJ7DJmfZNA.jpg",
    "budget": 0,
@@ -2005,6 +1910,110 @@
    "vote_average": 7.3,
    "vote_count": 2225
   },
+  "tv:138505": {
+   "backdrop_path": "/lxQMxqao3vs2ehxESrkQU6acU86.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kamala Khan (voice)",
+     "n": "Iman Vellani"
+    },
+    {
+     "c": "Blade Knight (voice)",
+     "n": "Todd Williams"
+    },
+    {
+     "c": "Alexei Shostakov / Red Guardian (voice)",
+     "n": "David Harbour"
+    },
+    {
+     "c": "Shang-Chi (voice)",
+     "n": "Simu Liu"
+    },
+    {
+     "c": "Katy Chen (voice)",
+     "n": "Awkwafina"
+    },
+    {
+     "c": "Wanda Maximoff / The Red Queen (voice)",
+     "n": "Elizabeth Olsen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Disney+",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-24",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Animation",
+    "Action & Adventure"
+   ],
+   "id": 138505,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the Avengers are overtaken by a zombie plague, a desperate group of survivors discover the key to bringing an end to the super-powered undead, racing across a dystopian landscape and risking life and limb to save their world.",
+   "popularity": 12.5548,
+   "poster_path": "/mwKj9ERGFXsWot0nXgQ5yMQf9I7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-24",
+     "episode_count": 4,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Who will save us from our heroes?",
+   "title": "Marvel Zombies",
+   "trailer": {
+    "key": "8VEmp_Ycjws",
+    "name": "Streaming Sept. 24",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.271,
+   "vote_count": 441
+  },
   "tv:1405": {
    "backdrop_path": "/nS5ZSmrX92lu1GYAlXZye1mkDfd.jpg",
    "budget": 0,
@@ -2350,6 +2359,145 @@
    "vote_average": 8.128,
    "vote_count": 2979
   },
+  "tv:228305": {
+   "backdrop_path": "/hEE8TV5jLQZQnpPN4QmYZ1lCJNq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tom Brandis",
+     "n": "Mark Ruffalo"
+    },
+    {
+     "c": "Robbie Prendergrast",
+     "n": "Tom Pelphrey"
+    },
+    {
+     "c": "Maeve Prendergrast",
+     "n": "Emilia Jones"
+    },
+    {
+     "c": "Anthony Grasso",
+     "n": "Fabien Frankel"
+    },
+    {
+     "c": "Aleah Clinton",
+     "n": "Thuso Mbedu"
+    },
+    {
+     "c": "Cliff Broward",
+     "n": "Raúl Castillo"
+    },
+    {
+     "c": "Perry 'Dizzy' Dorazo",
+     "n": "Jamie McShane"
+    },
+    {
+     "c": "Elizabeth 'Lizzie' Stover",
+     "n": "Alison Oliver"
+    },
+    {
+     "c": "Jayson Wilkes",
+     "n": "Sam Keeley"
+    },
+    {
+     "c": "Sara",
+     "n": "Phoebe Fox"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "HBO",
+   "created_by": [
+    "Brad Ingelsby"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-07",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 228305,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 7,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
+   "popularity": 19.0807,
+   "poster_path": "/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-07",
+     "episode_count": 7,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Every force has its equal.",
+   "title": "Task",
+   "trailer": {
+    "key": "irkyXKTmY8M",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.002,
+   "vote_count": 420
+  },
   "tv:2405": {
    "backdrop_path": "/yjmemOZIkskkY5fKRlI8VTvCESB.jpg",
    "budget": 0,
@@ -2464,6 +2612,1293 @@
    "type": "tv",
    "vote_average": 7.3,
    "vote_count": 671
+  },
+  "tv:241405": {
+   "backdrop_path": "/bVgcsQddGZ71kTXGrFJOn1fDEZj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Molly Kochan",
+     "n": "Michelle Williams"
+    },
+    {
+     "c": "Nikki Boyer",
+     "n": "Jenny Slate"
+    },
+    {
+     "c": "Steve",
+     "n": "Jay Duplass"
+    },
+    {
+     "c": "Noah",
+     "n": "Kelvin Yu"
+    },
+    {
+     "c": "Dr. Pankowitz",
+     "n": "David Rasche"
+    },
+    {
+     "c": "Sonya",
+     "n": "Esco Jouléy"
+    },
+    {
+     "c": "Neighbor Guy",
+     "n": "Rob Delaney"
+    },
+    {
+     "c": "Gail",
+     "n": "Sissy Spacek"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Hulu",
+   "created_by": [
+    "Kim Rosenstock",
+    "Elizabeth Meriwether"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-04",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 241405,
+   "industry": "world",
+   "networks": [
+    "Hulu"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After Molly Kochan receives a diagnosis of Stage IV metastatic breast cancer, she leaves her husband and explores the full breadth and complexity of her sexual desires for the first time in her life.",
+   "popularity": 15.656,
+   "poster_path": "/xaKb3cTh8mT6fgLSXuqo4JoS0dU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-04",
+     "episode_count": 8,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Come as you are.",
+   "title": "Dying for Sex",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.429,
+   "vote_count": 141
+  },
+  "tv:250505": {
+   "backdrop_path": "/eVEbRtSOrczWlYnVmwM195AnX86.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lady Eileen 'Bundle' Brent",
+     "n": "Mia McKenna-Bruce"
+    },
+    {
+     "c": "Jimmy Thesiger",
+     "n": "Edward Bluemel"
+    },
+    {
+     "c": "Superintendent Battle",
+     "n": "Martin Freeman"
+    },
+    {
+     "c": "Lady Caterham",
+     "n": "Helena Bonham Carter"
+    },
+    {
+     "c": "Bill Eversleigh",
+     "n": "Hughie O'Donnell"
+    },
+    {
+     "c": "George Lomax",
+     "n": "Alex Macqueen"
+    },
+    {
+     "c": "Lady Maria Coote",
+     "n": "Dorothy Atkinson"
+    },
+    {
+     "c": "Sir Oswald Coote",
+     "n": "Mark Lewis Jones"
+    },
+    {
+     "c": "Rupert 'Pongo' Bateman",
+     "n": "Tim Preston"
+    },
+    {
+     "c": "Loraine Wade",
+     "n": "Ella-Rae Smith"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "Netflix",
+   "created_by": [
+    "Chris Chibnall"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-15",
+   "genres": [
+    "Mystery",
+    "Crime",
+    "Drama"
+   ],
+   "id": 250505,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "England, 1925. At a lavish country house party, a practical joke appears to have gone horribly, murderously wrong. It will be up to the unlikeliest of sleuths—the fizzingly inquisitive Lady Eileen 'Bundle' Brent—to unravel a chilling plot that will change her life, cracking wide open the country house mystery.",
+   "popularity": 8.1285,
+   "poster_path": "/3uRQi9HDEAGSadoKee1UHoFCaU9.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-15",
+     "episode_count": 3,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "When the clocks strike, murder follows.",
+   "title": "Agatha Christie's Seven Dials",
+   "trailer": {
+    "key": "LD16F92LHIY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.245,
+   "vote_count": 249
+  },
+  "tv:252105": {
+   "backdrop_path": "/zOcEo3oQf9KDPPxZueNhReN6TBr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gilius Thunderhead (voice)",
+     "n": "Matthew Rhys"
+    },
+    {
+     "c": "Hampton Squib (voice)",
+     "n": "Danny Pudi"
+    },
+    {
+     "c": "Tyris Flare (voice)",
+     "n": "Lisa Gilroy"
+    },
+    {
+     "c": "Ax Battler (voice)",
+     "n": "Liam McIntyre"
+    },
+    {
+     "c": "Chronos 'Evil' Lait (voice)",
+     "n": "Carl Tart"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Paramount+",
+   "created_by": [
+    "Mike McMahan",
+    "Joe Chandler"
+   ],
+   "director": [],
+   "episode_run_time": [
+    20
+   ],
+   "first_air_date": "2026-09-16",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 252105,
+   "industry": "world",
+   "networks": [
+    "Paramount+"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Legendary warriors Ax Battler, Tyris Flare, and Gilius Thunderhead reunite to save Yuria from the evil giant Death Adder, who just won't seem to stay dead. Their quest is complicated by Hampton Squib, an inexperienced and wildly underprepared adventurer whose dream of heroism far exceeds his abilities. Forced to work together despite their flaws, they must find a way to stop Death Adder once and for all.",
+   "popularity": 7.5278,
+   "poster_path": "/toEwR5VTFzHmxW1pX1HjtTXH6QH.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-09-16",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Golden Axe",
+   "trailer": {
+    "key": "sStbBtfGaLA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.846,
+   "vote_count": 26
+  },
+  "tv:259405": {
+   "backdrop_path": "/hOMZxshNfGgnrrJ2BsD74If6BQP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lucky Luke",
+     "n": "Alban Lenoir"
+    },
+    {
+     "c": "Louise Willow",
+     "n": "Billie Blain"
+    },
+    {
+     "c": "Charlie Willow",
+     "n": "Alice Taglioni"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "channel": "Disney+",
+   "created_by": [
+    "Thomas Mansuy",
+    "Mathieu Leblanc"
+   ],
+   "director": [
+    "Benjamin Rocher"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-23",
+   "genres": [
+    "Comedy",
+    "Western"
+   ],
+   "id": 259405,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Lucky Luke, the legendary lone cowboy, must team up with Louise, a fearless young woman searching for her missing mother. Together, they face the dangers of the Wild West, ally with old enemies like the Daltons or Billy the Kid - and learn to get along. This quest may reveal a far greater threat and lead Luke back to the origins of his legend.",
+   "popularity": 3.5233,
+   "poster_path": "/bmJkUhtQ3kkHZK7nucm1JZHW9nC.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-23",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Ended",
+   "tagline": "The most famous lone cowboy will be forced to team up...",
+   "title": "Lucky Luke",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.2,
+   "vote_count": 33
+  },
+  "tv:271605": {
+   "backdrop_path": "/iKYPleY1z2YpO2OBkuUEWICwo5D.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Scarlet El Vandimion (voice)",
+     "n": "Asami Seto"
+    },
+    {
+     "c": "Julius von Pallistan (voice)",
+     "n": "Wataru Katoh"
+    },
+    {
+     "c": "Leonardo El Vandimion (voice)",
+     "n": "Shoya Ishige"
+    },
+    {
+     "c": "Nanaka (voice)",
+     "n": "Miyu Tomita"
+    },
+    {
+     "c": "Sigurd Forgrave (voice)",
+     "n": "Kazuki Ura"
+    },
+    {
+     "c": "Kyle von Pallistan (voice)",
+     "n": "Taito Ban"
+    },
+    {
+     "c": "Terenezza Hopkins (voice)",
+     "n": "Ai Kakuma"
+    },
+    {
+     "c": "Rosalia Ley Madeleine (voice)",
+     "n": "Sally Amaki"
+    },
+    {
+     "c": "Godwin Bene Carmine (voice)",
+     "n": "Hiroshi Yanaka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Gunma TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-10-04",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 271605,
+   "industry": "world",
+   "networks": [
+    "Gunma TV",
+    "TOKYO MX",
+    "BS11",
+    "Tochigi TV"
+   ],
+   "number_of_episodes": 13,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In the middle of a ball, Scarlet's fiancé, Kyle, suddenly calls off their engagement. She's falsely accused of being a bully and people unfairly call her a \"Villainess.\" The aristocrats and noble families all denounce her. For years, she had to put up with his abuse and idiocy, but she can't take anymore of it! At her wit's end, she asks for one last favor; to give him a good fist in the face. So begins Scarlet's story of revenge against Kyle and his cronies! A fantasy about an elegant yet rebellious fighter, who doesn't let anyone take advantage of her!!",
+   "popularity": 5.576,
+   "poster_path": "/6WUSl1NP5I66IGiI6n9BwOzZTbY.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-04",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "May I Ask for One Final Thing?",
+   "trailer": {
+    "key": "hXQi1-eyBVg",
+    "name": "Official Trailer 2 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.551,
+   "vote_count": 59
+  },
+  "tv:281005": {
+   "backdrop_path": "/duXUA6kzqCa56MNfUqoJQa6c6Gg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lee Kyeong-do",
+     "n": "Park Seo-jun"
+    },
+    {
+     "c": "Seo Ji-woo",
+     "n": "Won Ji-an"
+    },
+    {
+     "c": "Seo Ji-yeon",
+     "n": "EL"
+    },
+    {
+     "c": "Park Se-young",
+     "n": "Lee Zoo-young"
+    },
+    {
+     "c": "Cha Woo-sik",
+     "n": "Kang Ki-doong"
+    },
+    {
+     "c": "Lee Jeong-min",
+     "n": "Cho Min-guk"
+    },
+    {
+     "c": "Jin Han-kyeong",
+     "n": "Kang Mal-geum"
+    },
+    {
+     "c": "Kim Du-jin",
+     "n": "Han Eun-seong"
+    },
+    {
+     "c": "Ma Seong-cheol",
+     "n": "Lee Joong-hyun"
+    },
+    {
+     "c": "Jang Hwan-gyeong",
+     "n": "Nam Gi-ae"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "JTBC",
+   "created_by": [
+    "Im Hyeon-wook"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2025-12-06",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 281005,
+   "industry": "world",
+   "networks": [
+    "JTBC"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "In their twenties, Lee Kyeong-do and Seo Ji-woo part ways after two passionate relationships. A decade later, they meet again as a reporter who covers an adultery scandal and the wife of the man at the center of that scandal. Reuniting in their late thirties, their youth has passed, but their love remains vivid. Kyeong-do now strives to prove to her and to himself that he still loves her.",
+   "popularity": 4.1315,
+   "poster_path": "/k9xPcIsxXbc1Xuf45K0FU8yM2m5.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-06",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko",
+    "hi"
+   ],
+   "status": "Ended",
+   "tagline": "They meet again—on the edge of truth, betrayal, and fate",
+   "title": "Surely Tomorrow",
+   "trailer": {
+    "key": "dVoO8wLcAB8",
+    "name": "Surely Tomorrow: Teaser | Prime Video",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.786,
+   "vote_count": 35
+  },
+  "tv:283705": {
+   "backdrop_path": "/jTF9GUoGHW1mpNSCz1kgLJUYsoo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Toto (voice)",
+     "n": "Shunsuke Takeuchi"
+    },
+    {
+     "c": "Ciel (voice)",
+     "n": "Iori Saeki"
+    },
+    {
+     "c": "Anemone (voice)",
+     "n": "Hitomi Ueda"
+    },
+    {
+     "c": "Goa-chan (voice)",
+     "n": "Haruka Shiraishi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-07-12",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 283705,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX",
+    "Sun TV"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "The hero Toto has talent, but his shyness has prevented him from forming a party. As he languishes in the town of origins, three beautiful women—Ciel, Anemone, and Goa—invite Toto to join their party out of the blue. Toto gears up to begin the journey, but unbeknownst to him, all three women are plotting to kill him for their own reasons!",
+   "popularity": 4.3334,
+   "poster_path": "/xgfSkXh8UOCPhVBN7nGtaoe89YJ.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-12",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Shy Hero and the Assassin Princesses",
+   "trailer": {
+    "key": "xn1Uc6kTFw4",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.405,
+   "vote_count": 21
+  },
+  "tv:283905": {
+   "backdrop_path": "/krbKWrBEOjPdUmp1CGRgRVnLsrs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Botan Kamiina (voice)",
+     "n": "Sayumi Suzushiro"
+    },
+    {
+     "c": "Ibuki Tonami (voice)",
+     "n": "Yoshino Aoyama"
+    },
+    {
+     "c": "Kanade Gujō (voice)",
+     "n": "Minako Kotobuki"
+    },
+    {
+     "c": "Akane Yusa (voice)",
+     "n": "Yurina Amami"
+    },
+    {
+     "c": "Yaeka Kitamori (voice)",
+     "n": "Miyu Tomita"
+    },
+    {
+     "c": "Chang Chin-Lan (voice)",
+     "n": "Maki Kawase"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Gunma TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-04-11",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 283905,
+   "industry": "world",
+   "networks": [
+    "Gunma TV",
+    "TOKYO MX",
+    "Teletama",
+    "BS11",
+    "Tochigi TV"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "New university life, new dormmates…and a whole new world of drinks! Botan Kamiina takes her first sip of alcohol after spotting the quiet dorm leader, Ibuki Tonami, enjoying a highball alone. From shochu to whisky, Botan shares the joy of drinking with friends, while Ibuki slowly learns that some pleasures are better when shared.",
+   "popularity": 5.9617,
+   "poster_path": "/bYwXdvv8o2csyVXDRmSgeWIij0f.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-11",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Botan Kamiina Fully Blossoms When Drunk",
+   "trailer": {
+    "key": "OvDSB0XhYpQ",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 25
+  },
+  "tv:284605": {
+   "backdrop_path": "/sxzodKyKvW2sXjI9awYFjo2ePNz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kieran Elliott",
+     "n": "Charlie Vickers"
+    },
+    {
+     "c": "Mia Chang",
+     "n": "Yerin Ha"
+    },
+    {
+     "c": "Verity Elliott",
+     "n": "Robyn Malcolm"
+    },
+    {
+     "c": "Trish",
+     "n": "Catherine McClements"
+    },
+    {
+     "c": "Brian",
+     "n": "Damien Garvey"
+    },
+    {
+     "c": "Detective Senior Sergeant Sue Pendlebury",
+     "n": "Miriama Smith"
+    },
+    {
+     "c": "Teenage Kieran",
+     "n": "Ned Morgan"
+    },
+    {
+     "c": "Gabby",
+     "n": "Eloise Rothfield"
+    },
+    {
+     "c": "Detective Alex Dan",
+     "n": "Johnny Carr"
+    },
+    {
+     "c": "Ash",
+     "n": "George Mason"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Tony Ayres",
+    "Jane Harper"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-06",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 284605,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "Fifteen years ago, the loss of three young people tore this sleepy seaside town apart. Now, the mysterious death of a young woman dredges up the past.",
+   "popularity": 4.5398,
+   "poster_path": "/y0izOA23nYoCtR1Ft08GLi6lOQX.jpg",
+   "production_countries": [
+    "AU"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-06",
+     "episode_count": 6,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Secrets don't die with the dead.",
+   "title": "The Survivors",
+   "trailer": {
+    "key": "c69c1P-EURg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.552,
+   "vote_count": 106
+  },
+  "tv:298505": {
+   "backdrop_path": "/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Briar Roberts",
+     "n": "Malina Weissman"
+    },
+    {
+     "c": "Jake",
+     "n": "Malachi Barton"
+    },
+    {
+     "c": "Sasha Baptiste",
+     "n": "Jordan Leftwich"
+    },
+    {
+     "c": "Tegan Kimball",
+     "n": "Ora Duplass"
+    },
+    {
+     "c": "Ollie",
+     "n": "Louis Thresher"
+    },
+    {
+     "c": "Miss Graves",
+     "n": "Tiffani Thiessen"
+    },
+    {
+     "c": "Mr. Cole",
+     "n": "Devon Sawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Freeform",
+   "created_by": [
+    "Tim Federle"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-10-01",
+   "genres": [
+    "Mystery",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 298505,
+   "industry": "world",
+   "networks": [
+    "Freeform"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A coven protects their magic school from a dark fate.",
+   "popularity": 18.0187,
+   "poster_path": "/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-10-01",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Coven Academy",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.4,
+   "vote_count": 51
+  },
+  "tv:303405": {
+   "backdrop_path": "/m2px7CZWxArlG8Lyld1XKIkD5aA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Taiza Kujo",
+     "n": "Yuya Yagira"
+    },
+    {
+     "c": "Shinji Karasuma",
+     "n": "Hokuto Matsumura"
+    },
+    {
+     "c": "Hitomi Yakushimae",
+     "n": "Elaiza Ikeda"
+    },
+    {
+     "c": "Kengo Mibu",
+     "n": "Keita Machida"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    40
+   ],
+   "first_air_date": "2026-04-02",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 303405,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "From thugs to yakuza, Taiza Kujo wields the law to defend society's worst. Fellow lawyer, Karasuma doubts his ethics but joins him in facing the abyss.",
+   "popularity": 4.7185,
+   "poster_path": "/jgmYNLdKLNBN5p2vPKuqlpLfeDS.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-02",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Sins of Kujo",
+   "trailer": {
+    "key": "7rVBPPvqPzc",
+    "name": "Sins of Kujo | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.609,
+   "vote_count": 23
   },
   "tv:37305": {
    "backdrop_path": "/yOkNYWCOWLh3HFtUlo3QT1g5pHG.jpg",

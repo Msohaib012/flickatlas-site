@@ -1,6 +1,6 @@
 {
  "bucket": "63",
- "count": 30,
+ "count": 33,
  "titles": {
   "movie:10063": {
    "backdrop_path": "/81kbwVTU6Im3zcSnK0Pp2oP4piN.jpg",
@@ -124,119 +124,6 @@
    "type": "movie",
    "vote_average": 5.493,
    "vote_count": 447
-  },
-  "movie:1032863": {
-   "backdrop_path": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Olive Smith",
-     "n": "Lili Reinhart"
-    },
-    {
-     "c": "Dr. Adam Carlsen",
-     "n": "Tom Bateman"
-    },
-    {
-     "c": "Anh Pham",
-     "n": "Rachel Marsh"
-    },
-    {
-     "c": "Malcolm Browne",
-     "n": "Jaboukie Young-White"
-    },
-    {
-     "c": "Jeremy Langley",
-     "n": "Nicholas Duvernay"
-    },
-    {
-     "c": "Dr. Thomas Benton",
-     "n": "Arty Froushan"
-    },
-    {
-     "c": "Dr. Juliet Aslan",
-     "n": "Jeananne Goossen"
-    },
-    {
-     "c": "Dr. Eugene Fastuca",
-     "n": "Aladeen Tawfeek"
-    },
-    {
-     "c": "McConnell",
-     "n": "Kenny Wong"
-    },
-    {
-     "c": "Dr. Hargrave",
-     "n": "Daniel Brochu"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Claire Scanlon"
-   ],
-   "genres": [
-    "Romance",
-    "Comedy"
-   ],
-   "id": 1032863,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-   "popularity": 21.5011,
-   "poster_path": "/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "Amazon Prime Video"
-    },
-    {
-     "name": "Amazon Prime Video with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-     "name": "Amazon Prime Video",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-     "name": "Amazon Prime Video with Ads",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-09-23",
-   "revenue": 0,
-   "runtime": 112,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "Fake dating. Real chemistry.",
-   "title": "The Love Hypothesis",
-   "trailer": {
-    "key": "xwdamnfS6IM",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.852,
-   "vote_count": 738
   },
   "movie:10763": {
    "backdrop_path": "/zf2eFbIgNvg4qRa8bUsHkw2JkSE.jpg",
@@ -400,273 +287,6 @@
    "type": "movie",
    "vote_average": 5.665,
    "vote_count": 471
-  },
-  "movie:1212763": {
-   "backdrop_path": "/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
-   "budget": 20000000,
-   "cast": [
-    {
-     "c": "Alice",
-     "n": "Souheila Yacoub"
-    },
-    {
-     "c": "Susan",
-     "n": "Tandi Wright"
-    },
-    {
-     "c": "Joseph",
-     "n": "Hunter Doohan"
-    },
-    {
-     "c": "Thya",
-     "n": "Luciane Buchanan"
-    },
-    {
-     "c": "Edgar",
-     "n": "Erroll Shand"
-    },
-    {
-     "c": "Polly",
-     "n": "Maude Davey"
-    },
-    {
-     "c": "Will",
-     "n": "George Pullar"
-    },
-    {
-     "c": "Jessica",
-     "n": "Greta van den Brink"
-    },
-    {
-     "c": "Jared",
-     "n": "Keanu Karim"
-    },
-    {
-     "c": "Leo",
-     "n": "Victory Ndukwe"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "A",
-   "date_kind": "release",
-   "director": [
-    "Sébastien Vaniček"
-   ],
-   "genres": [
-    "Horror"
-   ],
-   "id": 1212763,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-   "popularity": 21.0052,
-   "poster_path": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "HBO Max Amazon Channel"
-    },
-    {
-     "name": "HBO Max"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
-     "name": "Zee5",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "IN"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-07-10",
-   "revenue": 71491178,
-   "runtime": 110,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en",
-    "fr"
-   ],
-   "status": "Released",
-   "tagline": "Every family has its demons.",
-   "title": "Evil Dead Burn",
-   "trailer": {
-    "key": "RddZObTlmA8",
-    "name": "Tickets on Sale",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.567,
-   "vote_count": 1947
-  },
-  "movie:1226863": {
-   "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-   "budget": 110000000,
-   "cast": [
-    {
-     "c": "Mario (voice)",
-     "n": "Chris Pratt"
-    },
-    {
-     "c": "Luigi (voice)",
-     "n": "Charlie Day"
-    },
-    {
-     "c": "Princess Peach (voice)",
-     "n": "Anya Taylor-Joy"
-    },
-    {
-     "c": "Bowser (voice)",
-     "n": "Jack Black"
-    },
-    {
-     "c": "Toad (voice)",
-     "n": "Keegan-Michael Key"
-    },
-    {
-     "c": "Bowser Junior (voice)",
-     "n": "Benny Safdie"
-    },
-    {
-     "c": "Yoshi (voice)",
-     "n": "Donald Glover"
-    },
-    {
-     "c": "Fox McCloud (voice)",
-     "n": "Glen Powell"
-    },
-    {
-     "c": "Rosalina (voice)",
-     "n": "Brie Larson"
-    },
-    {
-     "c": "Wart (voice)",
-     "n": "Luis Guzmán"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "PG",
-   "date_kind": "release",
-   "director": [
-    "Aaron Horvath",
-    "Michael Jelenic"
-   ],
-   "genres": [
-    "Family",
-    "Comedy",
-    "Adventure",
-    "Fantasy",
-    "Animation"
-   ],
-   "id": 1226863,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
-   "popularity": 31.9389,
-   "poster_path": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-   "production_countries": [
-    "JP",
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "JioHotstar"
-    },
-    {
-     "name": "Peacock Premium"
-    },
-    {
-     "name": "Peacock Premium Plus"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-     "name": "JioHotstar",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "IN"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-04-01",
-   "revenue": 1012203331,
-   "runtime": 98,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "The galaxy awaits.",
-   "title": "The Super Mario Galaxy Movie",
-   "trailer": {
-    "key": "En5QZmL5R1s",
-    "name": "Final Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 8.18,
-   "vote_count": 3980
   },
   "movie:1356963": {
    "backdrop_path": "/utpd4H566GFpw6hjufRxEuoSIIg.jpg",
@@ -1427,129 +1047,6 @@
    "type": "movie",
    "vote_average": 8.2,
    "vote_count": 116
-  },
-  "movie:1465063": {
-   "backdrop_path": "/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
-   "budget": 80000000,
-   "cast": [
-    {
-     "c": "Jo (voice)",
-     "n": "H.E.R."
-    },
-    {
-     "c": "Raissa (voice)",
-     "n": "Liza Soberano"
-    },
-    {
-     "c": "Raww (voice)",
-     "n": "Dave Franco"
-    },
-    {
-     "c": "Batiba (voice)",
-     "n": "Jenny Slate"
-    },
-    {
-     "c": "Bungi Tiyanak (voice)",
-     "n": "Manny Jacinto"
-    },
-    {
-     "c": "Manang (voice)",
-     "n": "Lea Salonga"
-    },
-    {
-     "c": "Lola (voice)",
-     "n": "Dolly de Leon"
-    },
-    {
-     "c": "Datu (voice)",
-     "n": "Jo Koy"
-    },
-    {
-     "c": "King Truffle Wuffle (voice)",
-     "n": "Ronny Chieng"
-    },
-    {
-     "c": "Prince Mermahn (voice)",
-     "n": "Kevin McCann"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U",
-   "date_kind": "release",
-   "director": [
-    "Januel Mercado",
-    "Joel Crawford"
-   ],
-   "genres": [
-    "Animation",
-    "Adventure",
-    "Fantasy",
-    "Comedy",
-    "Family"
-   ],
-   "id": 1465063,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-   "popularity": 71.7142,
-   "poster_path": "/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [],
-   "providers_wtw": [
-    {
-     "kind": "rent",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
-     "name": "Zee5",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "IN"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-09-25",
-   "revenue": 77366134,
-   "runtime": 109,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en",
-    "tl"
-   ],
-   "status": "Released",
-   "tagline": "No memory left behind.",
-   "title": "Forgotten Island",
-   "trailer": {
-    "key": "PhgY8cOJiQA",
-    "name": "Get Tickets",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.994,
-   "vote_count": 252
   },
   "movie:1497463": {
    "backdrop_path": "/liVDJBzSplrboMCykKydhaaR215.jpg",
@@ -2630,160 +2127,6 @@
    "vote_average": 6.763,
    "vote_count": 492
   },
-  "movie:687163": {
-   "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-   "budget": 200000000,
-   "cast": [
-    {
-     "c": "Ryland Grace",
-     "n": "Ryan Gosling"
-    },
-    {
-     "c": "Eva Stratt",
-     "n": "Sandra Hüller"
-    },
-    {
-     "c": "Rocky (voice)",
-     "n": "James Ortiz"
-    },
-    {
-     "c": "Carl",
-     "n": "Lionel Boyce"
-    },
-    {
-     "c": "Olesya Ilyukhina",
-     "n": "Milana Vayntrub"
-    },
-    {
-     "c": "Yao",
-     "n": "Ken Leung"
-    },
-    {
-     "c": "Mary (voice)",
-     "n": "Priya Kansara"
-    },
-    {
-     "c": "Dr. Browne",
-     "n": "Mia Soteriou"
-    },
-    {
-     "c": "Olivia",
-     "n": "Annelle Olaleye"
-    },
-    {
-     "c": "Rekha",
-     "n": "Maya Eva Hosein"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 13+",
-   "date_kind": "release",
-   "director": [
-    "Phil Lord",
-    "Christopher Miller"
-   ],
-   "genres": [
-    "Science Fiction",
-    "Adventure"
-   ],
-   "id": 687163,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-   "popularity": 457.0377,
-   "poster_path": "/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "Amazon Prime Video"
-    },
-    {
-     "name": "Amazon Prime Video with Ads"
-    },
-    {
-     "name": "fuboTV"
-    },
-    {
-     "name": "MGM+ Amazon Channel"
-    },
-    {
-     "name": "Philo"
-    },
-    {
-     "name": "MGM Plus Roku Premium Channel"
-    },
-    {
-     "name": "MGM Plus"
-    },
-    {
-     "name": "MGM Plus Amazon Channel"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-     "name": "Amazon Prime Video",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-     "name": "Amazon Prime Video with Ads",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "IN"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-03-26",
-   "revenue": 684639091,
-   "runtime": 157,
-   "source": "catalogue",
-   "spoken_languages": [
-    "zh",
-    "en",
-    "ja",
-    "ru",
-    "es"
-   ],
-   "status": "Released",
-   "tagline": "Believe in the Hail Mary.",
-   "title": "Project Hail Mary",
-   "trailer": {
-    "key": "NKYea63tQmI",
-    "name": "Final Sneak Peak",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 8.625,
-   "vote_count": 8855
-  },
   "movie:9263": {
    "backdrop_path": "/ic529Vlnxmp2ArVSYr5vBLoNFEK.jpg",
    "budget": 12000000,
@@ -3309,6 +2652,966 @@
    "type": "tv",
    "vote_average": 7.293,
    "vote_count": 452
+  },
+  "tv:224263": {
+   "backdrop_path": "/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eleven (voice)",
+     "n": "Brooklyn Davey Norstedt"
+    },
+    {
+     "c": "Max (voice)",
+     "n": "Jolie Hoang-Rappaport"
+    },
+    {
+     "c": "Mike (voice)",
+     "n": "Luca Diaz"
+    },
+    {
+     "c": "Lucas (voice)",
+     "n": "Elisha Williams"
+    },
+    {
+     "c": "Dustin (voice)",
+     "n": "Braxton Quinney"
+    },
+    {
+     "c": "Will (voice)",
+     "n": "Benjamin Plessala"
+    },
+    {
+     "c": "Nikki (voice)",
+     "n": "Odessa A'zion"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "Netflix",
+   "created_by": [
+    "Eric Robles",
+    "Jennifer Muro"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-23",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Mystery",
+    "Action & Adventure"
+   ],
+   "id": 224263,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 18,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Winter. Hawkins. 1985. Welcome back to a town crawling with secrets, where beloved heroes are facing fresh mysteries... and an all-new breed of strange.",
+   "popularity": 15.2979,
+   "poster_path": "/xyVpiSZNA2fYJUuuagkqiSHJqjr.jpg",
+   "production_countries": [
+    "US",
+    "AU"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-23",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-09-17",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "A new adventure awaits.",
+   "title": "Stranger Things: Tales from '85",
+   "trailer": {
+    "key": "kajCUhg36R0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.523,
+   "vote_count": 132
+  },
+  "tv:250463": {
+   "backdrop_path": "/c7hvVM7wky5XdsnWSdAOGrQbaaC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joo Ga-ram",
+     "n": "Yoon Kye-sang"
+    },
+    {
+     "c": "Bae Yi-ji",
+     "n": "Im Se-mi"
+    },
+    {
+     "c": "Yoon Seong-joon",
+     "n": "Kim Yo-han"
+    },
+    {
+     "c": "Kang Jung-hyo",
+     "n": "Kil Hae-yeon"
+    },
+    {
+     "c": "Seung Jong-man",
+     "n": "Kim Min-sang"
+    },
+    {
+     "c": "Na Gyu-won",
+     "n": "Jang Hyuk-jin"
+    },
+    {
+     "c": "Jeon Nak-gyeon",
+     "n": "Lee Sung-wook"
+    },
+    {
+     "c": "Bang Heung-nam",
+     "n": "Jung Soon-won"
+    },
+    {
+     "c": "Seo Woo-jin",
+     "n": "Park Jung-yeon"
+    },
+    {
+     "c": "Oh Young-gwang",
+     "n": "Kim E-jun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "SBS",
+   "created_by": [],
+   "director": [
+    "Jang Young-seok"
+   ],
+   "episode_run_time": [
+    70
+   ],
+   "first_air_date": "2025-07-25",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 250463,
+   "industry": "world",
+   "networks": [
+    "SBS"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A disgraced former rugby star returns as a coach to his high school’s struggling team, where he reunites with his ex-girlfriend and helps the determined captain lead the team to redemption.",
+   "popularity": 3.9385,
+   "poster_path": "/qgh3m9Oh3CoqVBuWkiMIgVgFwI1.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-25",
+     "episode_count": 12,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Winning Try",
+   "trailer": {
+    "key": "B9zPCvSacD0",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.559,
+   "vote_count": 34
+  },
+  "tv:258063": {
+   "backdrop_path": "/dW8Gpg3XhumcGUOGC2lVepM9rHy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ryu Narutaki",
+     "n": "Hayato Isomura"
+    },
+    {
+     "c": "Johan Hwang",
+     "n": "TAECYEON"
+    },
+    {
+     "c": "Shinonome Sumiko",
+     "n": "Ai Hashimoto"
+    },
+    {
+     "c": "Hwang Su-a",
+     "n": "Lee Jae-yi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [
+    "Shunki Hashizume"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-05-14",
+   "genres": [
+    "Drama"
+   ],
+   "id": 258063,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In a moment of despair, Ryu Narutaki finds himself saved by Korean boxer Johan Hwang. As their wounded souls draw closer, their fates cruelly intertwine.",
+   "popularity": 5.0886,
+   "poster_path": "/koWJdCFLPLI2VSWQhssoF91k5al.jpg",
+   "production_countries": [
+    "JP",
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-14",
+     "episode_count": 8,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Soul Mate",
+   "trailer": {
+    "key": "nxTFq_KCVmQ",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.4,
+   "vote_count": 28
+  },
+  "tv:260463": {
+   "backdrop_path": "/qc30hdrxHQgN5wiopU4bkRZow5L.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yuru (voice)",
+     "n": "Kensho Ono"
+    },
+    {
+     "c": "Asa (voice)",
+     "n": "Yume Miyamoto"
+    },
+    {
+     "c": "Dera (voice)",
+     "n": "Yuichi Nakamura"
+    },
+    {
+     "c": "Gabu-chan (voice)",
+     "n": "Misaki Kuno"
+    },
+    {
+     "c": "Left (voice)",
+     "n": "Takako Honda"
+    },
+    {
+     "c": "Right (voice)",
+     "n": "Rikiya Koyama"
+    },
+    {
+     "c": "Hana (voice)",
+     "n": "Miyuri Shimabukuro"
+    },
+    {
+     "c": "Jin (voice)",
+     "n": "Junichi Suwabe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Gunma TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-04-04",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 260463,
+   "industry": "world",
+   "networks": [
+    "Gunma TV",
+    "TOKYO MX",
+    "BS11",
+    "Tochigi TV"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Yuru, a young hunter, lives in a small village deep in the mountains, hunting wild game and leading a humble life with Asa, his younger twin sister. Their peaceful lives are torn apart when a dragon’s roar echoes across the sky. What secrets lurk within their village? What fate awaits them?",
+   "popularity": 12.27,
+   "poster_path": "/vIE1llfr1lcmzlsV4xn8vhgtlQN.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-04",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Daemons of the Shadow Realm",
+   "trailer": {
+    "key": "NYFJqJGvUHE",
+    "name": "Dub Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.232,
+   "vote_count": 97
+  },
+  "tv:261663": {
+   "backdrop_path": "/ftVwJEKXCgCKGCb75e3MXwEBWBV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Su Muyu",
+     "n": "Gong Jun"
+    },
+    {
+     "c": "Mu Yumo",
+     "n": "Peng Xiaoran"
+    },
+    {
+     "c": "Su Changhe",
+     "n": "Chang Huasen"
+    },
+    {
+     "c": "Bai Hehuai",
+     "n": "Yang Yutong"
+    },
+    {
+     "c": "Mu Xuewei",
+     "n": "Kong Xue'er"
+    },
+    {
+     "c": "Tang Lianyue",
+     "n": "Shawn Zhang"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "Youku",
+   "created_by": [
+    "Munan Zhou"
+   ],
+   "director": [
+    "Yin Tao"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-20",
+   "genres": [
+    "Drama",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 261663,
+   "industry": "world",
+   "networks": [
+    "Youku"
+   ],
+   "number_of_episodes": 38,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "Blood River is the realm's most feared assassin guild, jointly run by the Su, Mu, and Xie clans. They can strike royals in court and crush great sects in the wild. When the patriarch is poisoned on a mission, the three clans vie for the top seat. Su Muyu leads the Spider-Shadow unit and shields the dying leader on the road to a cure. He clashes with elder Su Zhe and old friend Su Changhe, and meets master healer Bai Hehuai. After brutal power struggles, Su Changhe becomes new patriarch and Su Muyu heads the Su clan. They launch the \"Other Shore Plan\" to drag Blood River out of the shadow and forge a new destiny, free from being anyone's blade.",
+   "popularity": 11.4773,
+   "poster_path": "/7MK3BcOJRClIskl6HvOjf1pyglB.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-20",
+     "episode_count": 38,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Blood River",
+   "trailer": {
+    "key": "5hM5e4LWFg4",
+    "name": "【Official Trailer】Blood River: A new Blood River is here. ❤️‍🔥| YOUKU",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.1,
+   "vote_count": 32
+  },
+  "tv:289763": {
+   "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kang Si-woo",
+     "n": "Seo In-guk"
+    },
+    {
+     "c": "Cha Ji-yoon",
+     "n": "Park Ji-hyun"
+    },
+    {
+     "c": "Yoon No-ah",
+     "n": "Kang Mi-na"
+    },
+    {
+     "c": "Lee Jae-in",
+     "n": "Won Gyu-bin"
+    },
+    {
+     "c": "Cho Ga-eul",
+     "n": "Choi Kyung-hoon"
+    },
+    {
+     "c": "Koo Seung-jun",
+     "n": "Han Tae-ha"
+    },
+    {
+     "c": "Han Woo-jin",
+     "n": "Kim Jung-young"
+    },
+    {
+     "c": "Jeon Gi-tae",
+     "n": "Kang Ki-doong"
+    },
+    {
+     "c": "Shin Na-ri",
+     "n": "Lee Jae-yi"
+    },
+    {
+     "c": "Kim Yeong-jin",
+     "n": "Han Jae-hoon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "tvN",
+   "created_by": [
+    "McQueen Studio"
+   ],
+   "director": [
+    "Cho Eun-sol"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-06-22",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 289763,
+   "industry": "world",
+   "networks": [
+    "tvN"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
+   "popularity": 8.9521,
+   "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-22",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "I found the perfect partner for both work and love!",
+   "title": "See You at Work Tomorrow!",
+   "trailer": {
+    "key": "kBGgK8F3CSU",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.801,
+   "vote_count": 88
+  },
+  "tv:302063": {
+   "backdrop_path": "/otEKvJA72Pue5RDgVrBqdOqgAd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Adil Koçari",
+     "n": "Ulaş Tuna Astepe"
+    },
+    {
+     "c": "Esme Furtuna",
+     "n": "Deniz Baysal"
+    },
+    {
+     "c": "Eleni Miryano / Aleyna Koçari",
+     "n": "Ava Yaman"
+    },
+    {
+     "c": "Oruç Furtuna",
+     "n": "Burak Yörük"
+    },
+    {
+     "c": "İsmail \"İso\" Furtuna",
+     "n": "Erdem Şanlı"
+    },
+    {
+     "c": "Fadime Koçari",
+     "n": "Zeynep Atılgan"
+    },
+    {
+     "c": "Zarife Furtuna",
+     "n": "Yeşim Ceren Bozoğlu"
+    },
+    {
+     "c": "Hicran Cezbeli",
+     "n": "Burcu Cavrar"
+    },
+    {
+     "c": "Şerif Furtuna",
+     "n": "Aytek Şayan"
+    },
+    {
+     "c": "Emine Konak",
+     "n": "Seda Soysal"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "7+",
+   "channel": "TRT 1",
+   "created_by": [
+    "Nehir Erdem",
+    "Ayse Ferda Eryilmaz"
+   ],
+   "director": [],
+   "episode_run_time": [
+    140
+   ],
+   "first_air_date": "2025-10-10",
+   "genres": [
+    "Drama",
+    "Family",
+    "Soap"
+   ],
+   "id": 302063,
+   "industry": "world",
+   "networks": [
+    "TRT 1"
+   ],
+   "number_of_episodes": 40,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "TR"
+   ],
+   "original_language": "tr",
+   "overview": "In a land where people are accustomed to battling fierce waves and constant storms, the story of a woman who stands tall on her feet, with all her emotional strength, resilience and endurance, and a man who is passionate about his \"love\" and who competes with the storms of the Black Sea and struggles with its waves, comes to the screens with an effective script... The ups and downs of the mountains, the sea and the human soul are told through the eyes of a stranger who finds himself in the middle of the endless war between two mortal enemies.",
+   "popularity": 22.6365,
+   "poster_path": "/uHIOTJXN9nNTc51WyunL43Fvge3.jpg",
+   "production_countries": [
+    "TR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-10",
+     "episode_count": 31,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-10-02",
+     "episode_count": 9,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "tr"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "This Sea Will Overflow",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.4,
+   "vote_count": 30
+  },
+  "tv:309163": {
+   "backdrop_path": "/7837uc8fhaREbOVnqIwXrFu335o.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Takuya Seo (voice)",
+     "n": "Shou Komura"
+    },
+    {
+     "c": "Kei Amane (voice)",
+     "n": "Konomi Inagaki"
+    },
+    {
+     "c": "Kotoko Ijichi (voice)",
+     "n": "Yu Serizawa"
+    },
+    {
+     "c": "Genichirō Ijichi (voice)",
+     "n": "Jun Kasama"
+    },
+    {
+     "c": "Sayu Amamiya (voice)",
+     "n": "Konomi Kohara"
+    },
+    {
+     "c": "Kakeru Ijichi (voice)",
+     "n": "Atsumi Tanezaki"
+    },
+    {
+     "c": "Hibiki Ijichi (voice)",
+     "n": "Emiri Kato"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "HTB",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-04-08",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 309163,
+   "industry": "world",
+   "networks": [
+    "HTB",
+    "tv asahi",
+    "Nagoya TV",
+    "KBC",
+    "ABC TV",
+    "NCC",
+    "OAB",
+    "ABA",
+    "Niigata Television Network 21",
+    "khb",
+    "KFB",
+    "HOME",
+    "KSB",
+    "Kagoshima Broadcasting",
+    "Iwate Asahi TV",
+    "Akita Asahi Broadcasting",
+    "Yamagata Television System",
+    "Shizuoka Asahi TV",
+    "Asahi Broadcasting Nagano",
+    "Hokuriku Asahi Broadcasting",
+    "Ehime Asahi TV",
+    "Yamaguchi Asahi Broadcasting",
+    "Kumamoto Asahi Broadcasting",
+    "Ryu-Q Asahi Broadcasting"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Takuya Seo is a quiet otaku who keeps a low profile at school—until two gals from his class start talking to him. The cool but scatterbrained Kei Amane and the cheerful, energetic Kotoko Ijichi couldn’t be more different, but the three soon bond over anime, games, and shared fandom. But one question remains: do nice gals who hang out with otaku really exist?!",
+   "popularity": 6.1719,
+   "poster_path": "/bFVMNqlziHY4O41A5J3C382oXZc.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-08",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Gals Can't Be Kind to Otaku!?",
+   "trailer": {
+    "key": "FQwlxIgp0ME",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.671,
+   "vote_count": 41
   },
   "tv:3763": {
    "backdrop_path": "/e1mgahsZE1t1lXzuDIvaZY24lSN.jpg",

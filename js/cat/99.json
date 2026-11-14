@@ -1,6 +1,6 @@
 {
  "bucket": "99",
- "count": 14,
+ "count": 17,
  "titles": {
   "movie:109099": {
    "backdrop_path": "/sL5D4VGH63JoTSgABiQZgsQvQ1V.jpg",
@@ -1607,6 +1607,341 @@
    "type": "tv",
    "vote_average": 8.475,
    "vote_count": 28174
+  },
+  "tv:262899": {
+   "backdrop_path": "/eDB1CCNcxnFANadgiWyFlzaqvK6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sally Wright",
+     "n": "Nikki Amuka-Bird"
+    },
+    {
+     "c": "John Wright",
+     "n": "Daniel Rigby"
+    },
+    {
+     "c": "Rose Wright",
+     "n": "Gemma Jones"
+    },
+    {
+     "c": "Gray Wright",
+     "n": "John Simm"
+    },
+    {
+     "c": "Georgia Wright",
+     "n": "Zoë Tapper"
+    },
+    {
+     "c": "Emily Wright",
+     "n": "Ruby Ashbourne Serkis"
+    },
+    {
+     "c": "DCI Hector Morgan",
+     "n": "Harry Lloyd"
+    },
+    {
+     "c": "DC Kat Jones",
+     "n": "Liz Kingsman"
+    },
+    {
+     "c": "Reuben Maguire",
+     "n": "Percelle Ascott"
+    },
+    {
+     "c": "Laura Johnstone",
+     "n": "Rakhee Thakrar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "U&Alibi",
+   "created_by": [
+    "Chris Lang"
+   ],
+   "director": [
+    "Tom Vaughan"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-23",
+   "genres": [
+    "Crime",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 262899,
+   "industry": "world",
+   "networks": [
+    "U&Alibi"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Explosive events unfold after Wright family patriarch Jack is discovered dead from a supposed suicide, leaving his immediate family utterly devastated.",
+   "popularity": 3.6119,
+   "poster_path": "/yWo8QNGADcVRFiWFn0vDE8u9BQS.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-23",
+     "episode_count": 6,
+     "name": "Series 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "I, Jack Wright",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 5.382,
+   "vote_count": 34
+  },
+  "tv:295999": {
+   "backdrop_path": "/c72O2edMsD5QrbEGijBURiZIxk8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mao (voice)",
+     "n": "Yuki Kaji"
+    },
+    {
+     "c": "Nanoka Kiba (voice)",
+     "n": "Natsumi Kawaida"
+    },
+    {
+     "c": "Hyakka (voice)",
+     "n": "Hiro Shimono"
+    },
+    {
+     "c": "Kamon (voice)",
+     "n": "Toshiyuki Toyonaga"
+    },
+    {
+     "c": "",
+     "n": "Momoka Terasawa"
+    },
+    {
+     "c": "",
+     "n": "Kazuyuki Okitsu"
+    },
+    {
+     "c": "",
+     "n": "Motoko Kumai"
+    },
+    {
+     "c": "",
+     "n": "Yoko Hikasa"
+    },
+    {
+     "c": "",
+     "n": "Risa Shimizu"
+    },
+    {
+     "c": "",
+     "n": "Reina Ueda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "NHK G",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2026-04-04",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Mystery"
+   ],
+   "id": 295999,
+   "industry": "world",
+   "networks": [
+    "NHK G"
+   ],
+   "number_of_episodes": 26,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Eight years ago, Nanoka Kiba was saved from the wreckage of a fatal accident at Gogyō Town Shopping Center. Drawn to the abandoned passage of storefronts on her walk home from school in present day, she becomes inexplicably transported to Japan's Taishō period where she meets the mysterious Mao, a fellow traveler whose arrival at a ghost-inhabited village is simultaneous with hers. Together, they investigate the bizarre events that begin to occur around them, and Nanoka soon pieces together her broken memories of the accident and how she and Mao may have something more sinister in common.",
+   "popularity": 15.5474,
+   "poster_path": "/kdti4Dm7XPV0Os2Jjzd188AWTQ3.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-04",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "MAO",
+   "trailer": {
+    "key": "vd6uTLm4xqs",
+    "name": "Official Anime Trailer | Mao | VIZ",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.6,
+   "vote_count": 29
+  },
+  "tv:300999": {
+   "backdrop_path": "/oS4ZzG1c4xZtZRrJipNqXs1b17Z.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-07",
+   "genres": [
+    "Documentary",
+    "Mystery"
+   ],
+   "id": 300999,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 5,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Paranormal encounters from the viewpoint of those who lived them are detailed through immersive reenactments and present-day interviews.",
+   "popularity": 6.7622,
+   "poster_path": "/8XK4kBkP7QVIPnl6dFfdPSCICs6.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-07",
+     "episode_count": 5,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "True Haunting",
+   "trailer": {
+    "key": "_lAFnILF2BY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.382,
+   "vote_count": 38
   },
   "tv:34899": {
    "backdrop_path": "/gn8k4ztPnrURIIocMOYdWCFknKJ.jpg",

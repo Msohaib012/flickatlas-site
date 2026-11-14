@@ -1,6 +1,6 @@
 {
  "bucket": "10",
- "count": 21,
+ "count": 32,
  "titles": {
   "movie:10210": {
    "backdrop_path": "/y8F8UE7U0rELJKmWzeucpevxVBN.jpg",
@@ -470,115 +470,6 @@
    "type": "movie",
    "vote_average": 6.212,
    "vote_count": 474
-  },
-  "movie:1228710": {
-   "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg",
-   "budget": 165000000,
-   "cast": [
-    {
-     "c": "The Mandalorian",
-     "n": "Pedro Pascal"
-    },
-    {
-     "c": "Rotta (voice)",
-     "n": "Jeremy Allen White"
-    },
-    {
-     "c": "Colonel Ward",
-     "n": "Sigourney Weaver"
-    },
-    {
-     "c": "The Mandalorian Suit Performer",
-     "n": "Brendan Wayne"
-    },
-    {
-     "c": "The Mandalorian Stunt Performer",
-     "n": "Lateef Crowder"
-    },
-    {
-     "c": "Zeb Orrelios (voice)",
-     "n": "Steve Blum"
-    },
-    {
-     "c": "Lord Janu",
-     "n": "Jonny Coyne"
-    },
-    {
-     "c": "Hogsbreth",
-     "n": "Matthew Willig"
-    },
-    {
-     "c": "Hugo Durant (voice)",
-     "n": "Martin Scorsese"
-    },
-    {
-     "c": "Commander Baro",
-     "n": "Hemky Madera"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 16+",
-   "date_kind": "release",
-   "director": [
-    "Jon Favreau"
-   ],
-   "genres": [
-    "Action",
-    "Adventure",
-    "Science Fiction"
-   ],
-   "id": 1228710,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-   "popularity": 27.4432,
-   "poster_path": "/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "JioHotstar"
-    },
-    {
-     "name": "Disney Plus"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-     "name": "JioHotstar",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-05-22",
-   "revenue": 345166617,
-   "runtime": 132,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en",
-    "ay"
-   ],
-   "status": "Released",
-   "tagline": "If you're searching for new adventure, \"this is the way.\"",
-   "title": "The Mandalorian and Grogu",
-   "trailer": {
-    "key": "uwild1rw7Aw",
-    "name": "Final Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.454,
-   "vote_count": 1991
   },
   "movie:1339210": {
    "backdrop_path": "/a7VEgrESjAnoAUgonPEDXkzol2f.jpg",
@@ -2114,6 +2005,110 @@
    "vote_average": 7.525,
    "vote_count": 1276
   },
+  "tv:209110": {
+   "backdrop_path": "/kgqzwaOzgkaAj12XLYxgK5wB7XA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ahn Yun-su",
+     "n": "Jeon Do-yeon"
+    },
+    {
+     "c": "Mo-eun / Kang So-hae",
+     "n": "Kim Go-eun"
+    },
+    {
+     "c": "Baek Dong-hun",
+     "n": "Park Hae-soo"
+    },
+    {
+     "c": "Jang Jeong-gu",
+     "n": "Jin Sun-kyu"
+    },
+    {
+     "c": "Jin Young-in",
+     "n": "Choi Young-jun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Kwon Jong-kwan",
+    "Lee Jung-hyo"
+   ],
+   "director": [
+    "Lee Jung-hyo"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-12-05",
+   "genres": [
+    "Mystery",
+    "Drama"
+   ],
+   "id": 209110,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Accused of killing her husband, a woman is offered a way out by a mysterious stranger: in exchange for a confession in her place, she must commit murder.",
+   "popularity": 5.8807,
+   "poster_path": "/gPb8k63HrpvTxHc9yKWZEBR4Kml.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-05",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Price of Confession",
+   "trailer": {
+    "key": "Iz8ZW-H2FUg",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.027,
+   "vote_count": 91
+  },
   "tv:21510": {
    "backdrop_path": "/aUyweq31etaay92oF4crwdDcnoT.jpg",
    "budget": 0,
@@ -2248,6 +2243,357 @@
    "type": "tv",
    "vote_average": 8.206,
    "vote_count": 1640
+  },
+  "tv:217810": {
+   "backdrop_path": "/r1uscUpxBMMTzDwzVlbjoRBSNeE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Prince Khanin Assavadevathin",
+     "n": "Chawarin Perdpiriyawong"
+    },
+    {
+     "c": "Charan Phithakthewa",
+     "n": "Pruk Panich"
+    },
+    {
+     "c": "Paytai Ronawee",
+     "n": "Thanakrit Chiamchunya"
+    },
+    {
+     "c": "Prince Ramil Bhuchongpisut",
+     "n": "Karn Kritsanaphan"
+    },
+    {
+     "c": "Calvin",
+     "n": "Siraphop Manithikhun"
+    },
+    {
+     "c": "Jay",
+     "n": "Radchapon Phornpinit"
+    },
+    {
+     "c": "Chakri",
+     "n": "Tanawat Cheawaram"
+    },
+    {
+     "c": "Princess Ava Davichmetha",
+     "n": "Charintip Rungthanakiat"
+    },
+    {
+     "c": "Wethis",
+     "n": "Witsarut Himmarat"
+    },
+    {
+     "c": "Thatdanai Keerakul",
+     "n": "Saksit Tangthong"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R21",
+   "channel": "ONE 31",
+   "created_by": [
+    "CEO"
+   ],
+   "director": [
+    "Kittipat Jampa"
+   ],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2025-05-03",
+   "genres": [
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 217810,
+   "industry": "world",
+   "networks": [
+    "ONE 31"
+   ],
+   "number_of_episodes": 14,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "When a reluctant heir is called to compete in a tournament to decide the next king, the royal guard sent to escort him soon becomes his forbidden desire.",
+   "popularity": 6.6166,
+   "poster_path": "/x1eBmHCpaOfUqTeiXr2d344WA6x.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "iQIYI"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-01",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-05-03",
+     "episode_count": 14,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Ended",
+   "tagline": "Who Will Be The Next Prince?",
+   "title": "The Next Prince",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.4,
+   "vote_count": 29
+  },
+  "tv:255810": {
+   "backdrop_path": "/iEjU67GabiX3ZGdIXYUNAOWugzq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "",
+     "n": "Cecilia Suárez"
+    },
+    {
+     "c": "",
+     "n": "Juan Pablo Medina"
+    },
+    {
+     "c": "",
+     "n": "Martiño Rivas"
+    },
+    {
+     "c": "",
+     "n": "Marimar Vega"
+    },
+    {
+     "c": "",
+     "n": "Benny Emmanuel"
+    },
+    {
+     "c": "",
+     "n": "Loreto Peralta"
+    },
+    {
+     "c": "",
+     "n": "Michelle Rodriguez"
+    },
+    {
+     "c": "",
+     "n": "Alfredo Gatica"
+    },
+    {
+     "c": "",
+     "n": "Germán Bracco"
+    },
+    {
+     "c": "",
+     "n": "Gerardo Trejoluna"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Manolo Caro"
+   ],
+   "director": [
+    "Manolo Caro"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-14",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 255810,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "An ambitious but overlooked teacher wants to be head of a prestigious school, but must climb a slippery ladder of lies and corruption to reach the top.",
+   "popularity": 2.3977,
+   "poster_path": "/2JmN7WTN18re8XzejsKM2bEX1nv.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-14",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "Morality is just a game.",
+   "title": "Snakes and Ladders",
+   "trailer": {
+    "key": "OSQG1zNG4po",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 26
+  },
+  "tv:259710": {
+   "backdrop_path": "/brugu6L6cGP7I0G1EH7id46brj2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yoon Yi-rang",
+     "n": "Park Min-young"
+    },
+    {
+     "c": "James",
+     "n": "Park Hee-soon"
+    },
+    {
+     "c": "Myung Gu-ho",
+     "n": "Joo Jong-hyuk"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "TV Chosun",
+   "created_by": [],
+   "director": [
+    "Nam Ki-hoon"
+   ],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2025-09-06",
+   "genres": [
+    "Crime",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 259710,
+   "industry": "world",
+   "networks": [
+    "TV Chosun"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Three con artists with different backgrounds, team up for a daring and adventurous scheme of revenge against the villains of this era.",
+   "popularity": 8.8251,
+   "poster_path": "/wUCmw1B6MBRiN6TUSbssKHuJnV0.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-06",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Step into the world of Confidence Queen.",
+   "title": "Confidence Queen",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.682,
+   "vote_count": 44
   },
   "tv:2710": {
    "backdrop_path": "/u2K2hyUSds4KzOegsC8Eon9oNf2.jpg",
@@ -2478,6 +2824,905 @@
    "type": "tv",
    "vote_average": 8.2,
    "vote_count": 1463
+  },
+  "tv:274810": {
+   "backdrop_path": "/vDpjG0xmgZ4fJhFW0ZHx0Hzclk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hinako Yaotose (voice)",
+     "n": "Reina Ueda"
+    },
+    {
+     "c": "Shiori Oumi (voice)",
+     "n": "Yui Ishikawa"
+    },
+    {
+     "c": "Miko Yashiro (voice)",
+     "n": "Fairouz Ai"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12+",
+   "channel": "AT-X",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-10-02",
+   "genres": [
+    "Animation",
+    "Drama"
+   ],
+   "id": 274810,
+   "industry": "world",
+   "networks": [
+    "AT-X"
+   ],
+   "number_of_episodes": 13,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Hinako lives alone by the sea, quietly drifting through life after losing her family years ago. One day, a mermaid named Shiori saves her from a monster and says she’s come to eat her—just not yet. Until then, Shiori will stay by her side and keep her safe. In that moment, a deep hope swells in Hinako: Maybe this girl can finally grant her the ending she’s been waiting for.",
+   "popularity": 5.6481,
+   "poster_path": "/fTO574Z96XsmOWLXXoqWRg6agXm.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-02",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "I've come to devour you.",
+   "title": "This Monster Wants to Eat Me",
+   "trailer": {
+    "key": "r0ChTLKErk4",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 23
+  },
+  "tv:280110": {
+   "backdrop_path": "/baZ0pGbBGjCBhIqsFyOSTpJyUnQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Koichi Haimawari (voice)",
+     "n": "Shuichiro Umeda"
+    },
+    {
+     "c": "Pop☆Step (voice)",
+     "n": "Ikumi Hasegawa"
+    },
+    {
+     "c": "Knuckleduster (voice)",
+     "n": "Yasuhiro Mamiya"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-04-07",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 280110,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX",
+    "BS Nippon TV"
+   ],
+   "number_of_episodes": 26,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "After a life-changing incident, timid college student Koichi Haimawari accepts an offer from revered vigilante Knuckleduster to train as his protégé.",
+   "popularity": 17.8436,
+   "poster_path": "/iv0cXt6uJGlTryWZNQMGyum4Pme.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-07",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "My Hero Academia: Vigilantes",
+   "trailer": {
+    "key": "9zdRwFdPqxE",
+    "name": "Official Trailer 2 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.701,
+   "vote_count": 97
+  },
+  "tv:281010": {
+   "backdrop_path": "/p98XiePTvNrXegxyKc6n46UJD85.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shin I-rang",
+     "n": "Yoo Yeon-seok"
+    },
+    {
+     "c": "Han Na-hyun",
+     "n": "Esom"
+    },
+    {
+     "c": "Yoon Bong-su",
+     "n": "Jun Seok-ho"
+    },
+    {
+     "c": "Yang Do-kyung",
+     "n": "Kim Kyung-nam"
+    },
+    {
+     "c": "Yang Byung-il",
+     "n": "Choi Gwang-il"
+    },
+    {
+     "c": "Park Gyeong-hwa",
+     "n": "Kim Mi-kyung"
+    },
+    {
+     "c": "Shin Sa-rang",
+     "n": "Son Yeo-eun"
+    },
+    {
+     "c": "Priest Matthew",
+     "n": "Jung Seung-kil"
+    },
+    {
+     "c": "Kim Hyun-woo",
+     "n": "Yeon Je-hyung"
+    },
+    {
+     "c": "Han Na-hyun (teen)",
+     "n": "Hwang Hyun-jung"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "SBS",
+   "created_by": [
+    "Shin Joong-hoon",
+    "Kang Chul-kyu"
+   ],
+   "director": [
+    "Shin Joong-hoon"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-13",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Mystery",
+    "Comedy"
+   ],
+   "id": 281010,
+   "industry": "world",
+   "networks": [
+    "SBS"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A timid lawyer who suddenly gains the ability to see ghosts teams up with a cold, elite attorney, and together they take on supernatural clients whose unfinished business reveals buried truths.",
+   "popularity": 6.3832,
+   "poster_path": "/afLKnB1yzh28YbpbB5Z5xragMf.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Rakuten Viki"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Kocowa Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-13",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "A Lawyer with the God",
+   "title": "Phantom Lawyer",
+   "trailer": {
+    "key": "e5IptmsWYHE",
+    "name": "Phantom Lawyer (2026) Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 31
+  },
+  "tv:282810": {
+   "backdrop_path": "/l3qDk8o59jgLfO5HBAJKpCwMAld.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lee Han-young",
+     "n": "Ji Sung"
+    },
+    {
+     "c": "Kim Jin-ah",
+     "n": "Won Jin-ah"
+    },
+    {
+     "c": "Kang Shin-jin",
+     "n": "Park Hee-soon"
+    },
+    {
+     "c": "Song Na-yeon",
+     "n": "Baek Jin-hee"
+    },
+    {
+     "c": "Yoo Se-hee",
+     "n": "Oh Se-young"
+    },
+    {
+     "c": "Park Cheol-wu",
+     "n": "Hwang Hee"
+    },
+    {
+     "c": "Seok Jeong-ho",
+     "n": "Tae Won-seok"
+    },
+    {
+     "c": "Gwak Sun-won",
+     "n": "Park Geon-il"
+    },
+    {
+     "c": "Kim Jung-kyun",
+     "n": "Han Su-ho"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC16",
+   "channel": "MBC",
+   "created_by": [
+    "Lee Jae-jin"
+   ],
+   "director": [
+    "Lee Jae-jin"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-02",
+   "genres": [
+    "Crime",
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 282810,
+   "industry": "world",
+   "networks": [
+    "MBC"
+   ],
+   "number_of_episodes": 14,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "The return of corrupt judge Lee Han-young, who was a slave to a large law firm, to the past 10 years ago. He makes new choices to punish evil and implement justice.",
+   "popularity": 8.7353,
+   "poster_path": "/xWYVlBIWrpdiGnSRfLgZIxf2V11.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-02",
+     "episode_count": 14,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Judge Returns",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 25
+  },
+  "tv:297010": {
+   "backdrop_path": "/1jpNFnYT7eT4P86yD6qUGqnNlQp.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-29",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 297010,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 2,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A viral joke about storming a secretive US Air Force base sparks a meme-fueled media frenzy and puts the military on alert in this bizarre true story.",
+   "popularity": 1.4669,
+   "poster_path": "/6HTpeTo7oW1UaHY5SziVUdh0u9H.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-29",
+     "episode_count": 2,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Trainwreck: Storm Area 51",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.1,
+   "vote_count": 21
+  },
+  "tv:297710": {
+   "backdrop_path": "/3YXRu9tLvpAfaNYuNswaBDpSALU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hioki Asahi",
+     "n": "Kodai Fujimoto"
+    },
+    {
+     "c": "Watarai Tsukasa",
+     "n": "Hideyoshi Kan"
+    },
+    {
+     "c": "Naoya Morisaki",
+     "n": "Masaya Sakuragi"
+    },
+    {
+     "c": "Nakasato Haruki",
+     "n": "Ayuta Fukuda"
+    },
+    {
+     "c": "Hayato Hotta",
+     "n": "Kairi Shimizu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "Viki",
+   "created_by": [],
+   "director": [
+    "Takehiro Shindo",
+    "Hirokazu Fujisawa",
+    "Takuya Hasegawa",
+    "Goro Yasumi"
+   ],
+   "episode_run_time": [
+    30
+   ],
+   "first_air_date": "2025-10-19",
+   "genres": [
+    "Drama"
+   ],
+   "id": 297710,
+   "industry": "world",
+   "networks": [
+    "Viki",
+    "ABC TV"
+   ],
+   "number_of_episodes": 20,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "An awkward teen joins a group of popular classmates on a school trip, sparking an unexpected romance with the most popular and charming boy in school.",
+   "popularity": 8.0343,
+   "poster_path": "/hlgLNj2vg7XHixFpg2EJRf9JIsZ.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-28",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-10-19",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-10-18",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "School Trip: Joined a Group I'm Not Close To",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.5,
+   "vote_count": 24
+  },
+  "tv:298610": {
+   "backdrop_path": "/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cheon Yeo-ri",
+     "n": "Park Eun-bin"
+    },
+    {
+     "c": "Ma Gang-uk",
+     "n": "Yang Se-jong"
+    },
+    {
+     "c": "Kang Min-hwan",
+     "n": "Ong Seong-wu"
+    },
+    {
+     "c": "Cheon Ha-ri",
+     "n": "Jo Hye-joo"
+    },
+    {
+     "c": "Ok Gye-hui",
+     "n": "Baek Ji-won"
+    },
+    {
+     "c": "Ko Pil-dong",
+     "n": "Lee Chang-hoon"
+    },
+    {
+     "c": "Son Hyeong-min",
+     "n": "Kim Min-ho"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "tvN",
+   "created_by": [
+    "Hwang In-ho"
+   ],
+   "director": [
+    "Lee Min-soo"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-18",
+   "genres": [
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 298610,
+   "industry": "world",
+   "networks": [
+    "tvN"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
+   "popularity": 10.7955,
+   "poster_path": "/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-20",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2026-07-18",
+     "episode_count": 12,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "A chaebol heiress who sees ghosts.",
+   "title": "Spooky in Love",
+   "trailer": {
+    "key": "gFvycajlifg",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.685,
+   "vote_count": 111
+  },
+  "tv:315610": {
+   "backdrop_path": "/xVdm4eAmypUH7gwGYqPARLKSaSb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Filip Raczyński",
+     "n": "Ignacy Liss"
+    },
+    {
+     "c": "Tosia",
+     "n": "Alicja Lewczuk"
+    },
+    {
+     "c": "Kiki",
+     "n": "Maria Sobocińska"
+    },
+    {
+     "c": "Olek",
+     "n": "Kamil Studnicki"
+    },
+    {
+     "c": "Neighbor",
+     "n": "Maja Ostaszewska"
+    },
+    {
+     "c": "Paweł",
+     "n": "Mateusz Więcławek"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "HBO Max",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    40
+   ],
+   "first_air_date": "2026-06-12",
+   "genres": [
+    "Drama"
+   ],
+   "id": 315610,
+   "industry": "world",
+   "networks": [
+    "HBO Max"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "PL"
+   ],
+   "original_language": "pl",
+   "overview": "When his carefree life is upended by an unexpected family tragedy, Filip is forced to grow up or risk losing all that he has left.",
+   "popularity": 4.272,
+   "poster_path": "/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
+   "production_countries": [
+    "PL"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-12",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "pl"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Proud",
+   "trailer": {
+    "key": "GQSqWAWa0m8",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.2,
+   "vote_count": 57
   },
   "tv:31910": {
    "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",

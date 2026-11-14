@@ -1,71 +1,7 @@
 {
  "bucket": "62",
- "count": 26,
+ "count": 33,
  "titles": {
-  "movie:1176962": {
-   "d": "Rose (2026): Drama/History film. Story: In the early 17th century, a soldier arrives at an… See cast, TMDB rating 7.6/10, and release date 17 April 2026.",
-   "img": "https://image.tmdb.org/t/p/w780/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
-   "industry": "world",
-   "k": "Rose, Rose movie, Rose cast, Rose story, Rose box office collection, Rose budget, Rose review, Rose rating, Rose release date, Rose trailer, Rose Drama, Rose History, international movies, FlickAtlas",
-   "ld": {
-    "@context": "https://schema.org",
-    "@type": "Movie",
-    "actor": [
-     {
-      "@type": "Person",
-      "name": "Sandra Hüller"
-     },
-     {
-      "@type": "Person",
-      "name": "Caro Braun"
-     },
-     {
-      "@type": "Person",
-      "name": "Marisa Growaldt"
-     },
-     {
-      "@type": "Person",
-      "name": "Robert Gwisdek"
-     },
-     {
-      "@type": "Person",
-      "name": "Godehard Giese"
-     }
-    ],
-    "aggregateRating": {
-     "@type": "AggregateRating",
-     "bestRating": 10,
-     "ratingCount": 66,
-     "ratingValue": 7.6,
-     "worstRating": 0
-    },
-    "description": "Rose (2026): Drama/History film. Story: In the early 17th century, a soldier arrives at an… See cast, TMDB rating 7.6/10, and release date 17 April 2026.",
-    "director": [
-     {
-      "@type": "Person",
-      "name": "Markus Schleinzer"
-     }
-    ],
-    "duration": "PT94M",
-    "genre": [
-     "Drama",
-     "History"
-    ],
-    "image": "https://image.tmdb.org/t/p/w780/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
-    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1176962",
-    "name": "Rose",
-    "releasedEvent": {
-     "@type": "PublicationEvent",
-     "startDate": "2026-04-17"
-    },
-    "url": "https://flickatlas.co.uk/movie?id=1176962"
-   },
-   "modified": "",
-   "published": "2026-11-14",
-   "ssr": "<article class=\"ssr-facts\">\n<h1>Rose (2026)</h1>\n<p class=\"ssr-lead\">In the early 17th century, a soldier arrives at an isolated Protestant village in Germany claiming to be the heir to an abandoned farmstead. Even though he proves to be a good man, the villagers’ suspicions about his identity grow and they force a reckoning.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 April 2026</li><li>Runtime: 94 minutes</li><li>Director: Markus Schleinzer</li><li>Genres: Drama, History, War</li><li>TMDB rating: 7.6/10 (66 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sandra Hüller as Rose</li><li>Caro Braun as Suzanna</li><li>Marisa Growaldt as The Narrator (voice)</li><li>Robert Gwisdek as The Bailiff</li><li>Godehard Giese as The Large-Scale Farmer</li><li>Maria Dragus as His Wife</li><li>Larisa Faber as His Deceased Wife</li><li>Annalisa Hohl as His Daughter</li><li>Ruby De Quero as His Daughter</li><li>Enni Kräker as His Daughter</li></ul>\n</article>",
-   "t": "Rose (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-   "year": "2026"
-  },
   "movie:1207162": {
    "d": "Rise of the Conqueror (2026): History/Action film. Story: In the 14th-century, as the Silk Road crumbles and… See cast, budget $30M, and TMDB rating 6.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/9gWrxuOJeArUbvnqrZALSjhPv9Y.jpg",
@@ -262,70 +198,6 @@
    "t": "Mononoke the Movie: Chapter III - The Curse of the Serpent (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
-  "movie:1408162": {
-   "d": "Vishwanath & Sons (2026): Drama/Romance film. Story: A celebrated Olympian shooter travels to America… See cast and TMDB rating 7.0/10.",
-   "img": "https://image.tmdb.org/t/p/w780/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
-   "industry": "bollywood",
-   "k": "Vishwanath & Sons, Vishwanath & Sons movie, Vishwanath & Sons cast, Vishwanath & Sons story, Vishwanath & Sons box office collection, Vishwanath & Sons budget, Vishwanath & Sons review, Vishwanath & Sons rating, Vishwanath & Sons release date, Vishwanath & Sons Drama, Vishwanath & Sons Romance, Indian movies, FlickAtlas",
-   "ld": {
-    "@context": "https://schema.org",
-    "@type": "Movie",
-    "actor": [
-     {
-      "@type": "Person",
-      "name": "Suriya"
-     },
-     {
-      "@type": "Person",
-      "name": "Mamitha Baiju"
-     },
-     {
-      "@type": "Person",
-      "name": "Radhika Sarathkumar"
-     },
-     {
-      "@type": "Person",
-      "name": "Raveena Tandon"
-     },
-     {
-      "@type": "Person",
-      "name": "Sunil"
-     }
-    ],
-    "aggregateRating": {
-     "@type": "AggregateRating",
-     "bestRating": 10,
-     "ratingCount": 43,
-     "ratingValue": 7.0,
-     "worstRating": 0
-    },
-    "description": "Vishwanath & Sons (2026): Drama/Romance film. Story: A celebrated Olympian shooter travels to America… See cast and TMDB rating 7.0/10.",
-    "director": [
-     {
-      "@type": "Person",
-      "name": "Venky Atluri"
-     }
-    ],
-    "duration": "PT161M",
-    "genre": [
-     "Drama",
-     "Romance"
-    ],
-    "image": "https://image.tmdb.org/t/p/w780/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
-    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1408162",
-    "name": "Vishwanath & Sons",
-    "releasedEvent": {
-     "@type": "PublicationEvent",
-     "startDate": "2026-08-14"
-    },
-    "url": "https://flickatlas.co.uk/movie?id=1408162"
-   },
-   "modified": "",
-   "published": "2026-11-14",
-   "ssr": "<article class=\"ssr-facts\">\n<h1>Vishwanath &amp; Sons (2026)</h1>\n<p class=\"ssr-lead\">A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 August 2026</li><li>Runtime: 161 minutes</li><li>Director: Venky Atluri</li><li>Genres: Drama, Romance, Comedy</li><li>TMDB rating: 7.0/10 (43 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Suriya as Sanjay &#x27;Sanju&#x27; Vishwanath</li><li>Mamitha Baiju as Madanakameshwari &#x27;Maddy Jay&#x27; Jothilingam</li><li>Radhika Sarathkumar as Nirmala Devi</li><li>Raveena Tandon as Anjali Devi</li><li>Sunil as Ramu</li><li>Harika as Sireesha Ramalingam</li><li>Nassar as Ramanadhan</li><li>Harsha Chemudu as Kishore</li><li>Bhavani Sre as Meghana</li><li>V.J. Pappu as Prakash</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
-   "t": "Vishwanath & Sons (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-   "year": "2026"
-  },
   "movie:1422562": {
    "d": "The Moment (2026): Music/Comedy film. Story: A rising pop sensation navigates fame and industry… See cast, budget $4M, and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/lQUsfSUcai6ZOHQHgobSlF0IDUV.jpg",
@@ -515,70 +387,6 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Madame (2026)</h1>\n<p class=\"ssr-lead\">To make ends meet, Laura takes a job working for Souria in a grand mansion in Paris’s Golden Triangle. Installed there by her lover, a wealthy Saudi prince, Souria lives in anticipation of his visits. As Laura struggles to adjust to this world of excessive luxury and constant surveillance, a fragile bond begins to form between the two women. But Laura senses that Souria is in danger, and that this gilded cage may be closing in on them both.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 July 2026</li><li>Runtime: 87 minutes</li><li>Director: Hélène Rosselet-Ruiz</li><li>Genres: Drama</li><li>TMDB rating: 6.8/10 (26 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Malou Khebizi as Laura</li><li>Soundos Mosbah as Souria</li><li>Ziad Bakri as Emre</li><li>Kassem Al Khoja as Monsieur</li><li>Julie Dumet as Yasmine</li><li>Ethelle Gonzalez Lardued as Inès</li><li>Sofiane Soch as Mehdi</li><li>Nolan Masraf as Amin</li><li>Anouar Kardellas as Anouar</li><li>Mohamed-Lamine Cissé as Mohamedlamine</li></ul>\n</article>",
    "t": "Madame (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-   "year": "2026"
-  },
-  "movie:1503762": {
-   "d": "Sense and Sensibility (2026): Drama/Romance film. Story: A charming, witty, and deeply relatable story of love… See cast, budget $25M, and TMDB rating 7.2/10.",
-   "img": "https://image.tmdb.org/t/p/w780/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
-   "industry": "world",
-   "k": "Sense and Sensibility, Sense and Sensibility movie, Sense and Sensibility cast, Sense and Sensibility story, Sense and Sensibility box office collection, Sense and Sensibility budget, Sense and Sensibility review, Sense and Sensibility rating, Sense and Sensibility release date, Sense and Sensibility trailer, Sense and Sensibility Drama, Sense and Sensibility Romance, international movies, FlickAtlas",
-   "ld": {
-    "@context": "https://schema.org",
-    "@type": "Movie",
-    "actor": [
-     {
-      "@type": "Person",
-      "name": "Daisy Edgar-Jones"
-     },
-     {
-      "@type": "Person",
-      "name": "Esmé Creed-Miles"
-     },
-     {
-      "@type": "Person",
-      "name": "Caitríona Balfe"
-     },
-     {
-      "@type": "Person",
-      "name": "Frank Dillane"
-     },
-     {
-      "@type": "Person",
-      "name": "Herbert Nordrum"
-     }
-    ],
-    "aggregateRating": {
-     "@type": "AggregateRating",
-     "bestRating": 10,
-     "ratingCount": 165,
-     "ratingValue": 7.2,
-     "worstRating": 0
-    },
-    "description": "Sense and Sensibility (2026): Drama/Romance film. Story: A charming, witty, and deeply relatable story of love… See cast, budget $25M, and TMDB rating 7.2/10.",
-    "director": [
-     {
-      "@type": "Person",
-      "name": "Georgia Oakley"
-     }
-    ],
-    "duration": "PT132M",
-    "genre": [
-     "Drama",
-     "Romance"
-    ],
-    "image": "https://image.tmdb.org/t/p/w780/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
-    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1503762",
-    "name": "Sense and Sensibility",
-    "releasedEvent": {
-     "@type": "PublicationEvent",
-     "startDate": "2026-09-23"
-    },
-    "url": "https://flickatlas.co.uk/movie?id=1503762"
-   },
-   "modified": "",
-   "published": "2026-11-14",
-   "ssr": "<article class=\"ssr-facts\">\n<h1>Sense and Sensibility (2026)</h1>\n<p class=\"ssr-lead\">A charming, witty, and deeply relatable story of love and sisterhood.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 September 2026</li><li>Runtime: 132 minutes</li><li>Director: Georgia Oakley</li><li>Genres: Drama, Romance</li><li>Budget: $25M</li><li>TMDB rating: 7.2/10 (165 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Daisy Edgar-Jones as Elinor Dashwood</li><li>Esmé Creed-Miles as Marianne Dashwood</li><li>Caitríona Balfe as Mrs. Dashwood</li><li>Frank Dillane as John Willoughby</li><li>Herbert Nordrum as Colonel Brandon</li><li>George MacKay as Edward Ferrars</li><li>Fiona Shaw as Mrs. Jennings</li><li>Bodhi Rae Breathnach as Margaret Dashwood</li><li>Stacy Martin as Fanny Dashwood</li><li>Tom Brooke as John Dashwood</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
-   "t": "Sense and Sensibility (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
   "movie:1589762": {
@@ -1398,62 +1206,6 @@
    "t": "Night Court (1984) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "1984"
   },
-  "tv:213562": {
-   "d": "Crystal Lake (2026) is a Drama and Mystery TV series. Explore its story: Single mother Pam Voorhees has been unable to shake…, cast, 1 season, and 8 episodes.",
-   "img": "https://image.tmdb.org/t/p/w780/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
-   "industry": "world",
-   "k": "Crystal Lake, Crystal Lake TV series, Crystal Lake cast, Crystal Lake story, Crystal Lake seasons, Crystal Lake episodes, Crystal Lake season 1, Crystal Lake 8 episodes, Crystal Lake first air date, Crystal Lake trailer, Crystal Lake Drama, Crystal Lake Mystery, World Cinema TV series, FlickAtlas",
-   "ld": {
-    "@context": "https://schema.org",
-    "@type": "TVSeries",
-    "actor": [
-     {
-      "@type": "Person",
-      "name": "Linda Cardellini"
-     },
-     {
-      "@type": "Person",
-      "name": "William Catlett"
-     },
-     {
-      "@type": "Person",
-      "name": "Gwendolyn Sundstrom"
-     },
-     {
-      "@type": "Person",
-      "name": "Cameron Scoggins"
-     },
-     {
-      "@type": "Person",
-      "name": "Devin Kessler"
-     }
-    ],
-    "aggregateRating": {
-     "@type": "AggregateRating",
-     "bestRating": 10,
-     "ratingCount": 356,
-     "ratingValue": 8.6,
-     "worstRating": 0
-    },
-    "description": "Crystal Lake (2026) is a Drama and Mystery TV series. Explore its story: Single mother Pam Voorhees has been unable to shake…, cast, 1 season, and 8 episodes.",
-    "genre": [
-     "Drama",
-     "Mystery"
-    ],
-    "image": "https://image.tmdb.org/t/p/w780/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
-    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=213562",
-    "name": "Crystal Lake",
-    "numberOfEpisodes": 8,
-    "numberOfSeasons": 1,
-    "startDate": "2026-10-15",
-    "url": "https://flickatlas.co.uk/show?id=213562"
-   },
-   "modified": "",
-   "published": "2026-11-14",
-   "ssr": "<article class=\"ssr-facts\">\n<h1>Crystal Lake (2026)</h1>\n<p class=\"ssr-lead\">Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam&#x27;s door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 15 October 2026</li><li>Seasons: 1 · Episodes: 8</li><li>Created by: Brad Caleb Kane</li><li>Genres: Drama, Mystery</li><li>TMDB rating: 8.6/10 (356 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Linda Cardellini as Pamela Voorhees</li><li>William Catlett as Levon Brooks</li><li>Gwendolyn Sundstrom as Grace Snell</li><li>Cameron Scoggins as Dorf</li><li>Devin Kessler as Briana Brooks</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Peacock Premium, Peacock Premium Plus</li></ul>\n</article>",
-   "t": "Crystal Lake (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
-   "year": "2026"
-  },
   "tv:21762": {
    "d": "Parenthood (2010) is a Drama TV series. Explore its story: The trials and tribulations of the very large…, cast, 6 seasons, and 103 episodes.",
    "img": "https://image.tmdb.org/t/p/w780/72zLfNDaL8JpfLDwmQ2b8DPbeHc.jpg",
@@ -1508,6 +1260,604 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Parenthood (2010)</h1>\n<p class=\"ssr-lead\">The trials and tribulations of the very large, colorful and imperfect Braverman family.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 2 March 2010</li><li>Seasons: 6 · Episodes: 103</li><li>Created by: Jason Katims</li><li>Genres: Drama</li><li>TMDB rating: 7.5/10 (196 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Peter Krause as Adam Braverman</li><li>Lauren Graham as Sarah Braverman</li><li>Dax Shepard as Crosby Braverman</li><li>Erika Christensen as Julia Braverman-Graham</li><li>Monica Potter as Kristina Braverman</li><li>Sam Jaeger as Joel Graham</li><li>Joy Bryant as Jasmine Trussell</li><li>Mae Whitman as Amber Holt</li><li>Miles Heizer as Drew Holt</li><li>Max Burkholder as Max Braverman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
    "t": "Parenthood (2010) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2010"
+  },
+  "tv:226362": {
+   "d": "The Eternaut (2025) is a Drama and Action & Adventure TV series. Explore its story: After a devastating toxic snowfall kills millions…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/yMjGzK7L4gwzpQNNtFKDeG79upo.jpg",
+   "industry": "world",
+   "k": "The Eternaut, The Eternaut TV series, The Eternaut cast, The Eternaut story, The Eternaut seasons, The Eternaut episodes, The Eternaut season 1, The Eternaut 6 episodes, The Eternaut first air date, The Eternaut trailer, The Eternaut Drama, The Eternaut Action & Adventure, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ricardo Darín"
+     },
+     {
+      "@type": "Person",
+      "name": "Carla Peterson"
+     },
+     {
+      "@type": "Person",
+      "name": "César Troncoso"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrea Pietra"
+     },
+     {
+      "@type": "Person",
+      "name": "Ariel Staltari"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 596,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "The Eternaut (2025) is a Drama and Action & Adventure TV series. Explore its story: After a devastating toxic snowfall kills millions…, cast, and 1 season.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bruno Stagnaro"
+     }
+    ],
+    "genre": [
+     "Drama",
+     "Action & Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yMjGzK7L4gwzpQNNtFKDeG79upo.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=226362",
+    "name": "The Eternaut",
+    "numberOfEpisodes": 6,
+    "numberOfSeasons": 1,
+    "startDate": "2025-04-30",
+    "url": "https://flickatlas.co.uk/show?id=226362"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Eternaut (2025)</h1>\n<p class=\"ssr-lead\">After a devastating toxic snowfall kills millions, Juan Salvo and a group of survivors in Buenos Aires must resist an invisible threat from another world.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 30 April 2025</li><li>Seasons: 1 · Episodes: 6</li><li>Created by: Bruno Stagnaro</li><li>Director: Bruno Stagnaro</li><li>Genres: Drama, Action &amp; Adventure, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 7.4/10 (596 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ricardo Darín as Juan Salvo</li><li>Carla Peterson as Elena</li><li>César Troncoso as Alfredo Favalli</li><li>Andrea Pietra as Ana</li><li>Ariel Staltari as Omar</li><li>Marcelo Subiotto as Lucas</li><li>Orianna Cárdenas as Inga</li><li>Dante Mastropierro as Maquinista</li><li>Jorge Sesán as Maquinista</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Eternaut (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:231462": {
+   "d": "Low Life (2025) is a Crime and Drama TV series. Explore its story: A dangerous story of rough people obsessed with…, cast, 1 season, and 11 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/zDWTCC9uCDHPijLBqyzsplmg1Ch.jpg",
+   "industry": "world",
+   "k": "Low Life, Low Life TV series, Low Life cast, Low Life story, Low Life seasons, Low Life episodes, Low Life season 1, Low Life 11 episodes, Low Life first air date, Low Life trailer, Low Life Crime, Low Life Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ryu Seung-ryong"
+     },
+     {
+      "@type": "Person",
+      "name": "Yang Se-jong"
+     },
+     {
+      "@type": "Person",
+      "name": "Im Soo-jung"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Eui-sung"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Seung-oh"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 20,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Low Life (2025) is a Crime and Drama TV series. Explore its story: A dangerous story of rough people obsessed with…, cast, 1 season, and 11 episodes.",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zDWTCC9uCDHPijLBqyzsplmg1Ch.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=231462",
+    "name": "Low Life",
+    "numberOfEpisodes": 11,
+    "numberOfSeasons": 1,
+    "startDate": "2025-07-16",
+    "url": "https://flickatlas.co.uk/show?id=231462"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Low Life (2025)</h1>\n<p class=\"ssr-lead\">A dangerous story of rough people obsessed with shameless greed who gather together with their own greed and logic to find underwater artifacts off the coast of Shinan.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 16 July 2025</li><li>Seasons: 1 · Episodes: 11</li><li>Created by: Kang Yun-sung</li><li>Genres: Crime, Drama</li><li>TMDB rating: 7.0/10 (20 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ryu Seung-ryong as Oh Gwan-seok</li><li>Yang Se-jong as Oh Hee-dong</li><li>Im Soo-jung as Yang Jung-sook</li><li>Kim Eui-sung</li><li>Kim Seung-oh</li><li>Kim Jong-soo</li><li>Lee Dong-hwi</li><li>U-KNOW Yunho</li><li>Kim Min</li><li>Jang Kwang</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus, Hulu</li></ul>\n</article>",
+   "t": "Low Life (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:246862": {
+   "d": "New PANTY & STOCKING with GARTERBELT (2025) is an Animation and Comedy TV series. Explore its story: On the brink between Heaven and Hell lies the town of….",
+   "img": "https://image.tmdb.org/t/p/w780/gy5b64sYb2xsyEESVInfeBE1jcC.jpg",
+   "industry": "world",
+   "k": "New PANTY & STOCKING with GARTERBELT, New PANTY & STOCKING with GARTERBELT TV series, New PANTY & STOCKING with GARTERBELT cast, New PANTY & STOCKING with GARTERBELT story, New PANTY & STOCKING with GARTERBELT seasons, New PANTY & STOCKING with GARTERBELT episodes, New PANTY & STOCKING with GARTERBELT season 1, New PANTY & STOCKING with GARTERBELT 30 episodes, New PANTY & STOCKING with GARTERBELT first air date, New PANTY & STOCKING with GARTERBELT Animation, New PANTY & STOCKING with GARTERBELT Comedy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Arisa Ogasawara"
+     },
+     {
+      "@type": "Person",
+      "name": "Mariya Ise"
+     },
+     {
+      "@type": "Person",
+      "name": "Koji Ishii"
+     },
+     {
+      "@type": "Person",
+      "name": "Hiroyuki Yoshino"
+     },
+     {
+      "@type": "Person",
+      "name": "Takashi Nakamura"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 40,
+     "ratingValue": 8.6,
+     "worstRating": 0
+    },
+    "description": "New PANTY & STOCKING with GARTERBELT (2025) is an Animation and Comedy TV series. Explore its story: On the brink between Heaven and Hell lies the town of….",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gy5b64sYb2xsyEESVInfeBE1jcC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=246862",
+    "name": "New PANTY & STOCKING with GARTERBELT",
+    "numberOfEpisodes": 30,
+    "numberOfSeasons": 1,
+    "startDate": "2025-07-10",
+    "url": "https://flickatlas.co.uk/show?id=246862"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>New PANTY &amp; STOCKING with GARTERBELT (2025)</h1>\n<p class=\"ssr-lead\">On the brink between Heaven and Hell lies the town of Daten City, where sinister spirits known as &quot;Ghosts&quot; feast upon humanity.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 10 July 2025</li><li>Seasons: 1 · Episodes: 30</li><li>Genres: Animation, Comedy, Action &amp; Adventure, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 8.6/10 (40 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Arisa Ogasawara as Panty Anarchy (voice)</li><li>Mariya Ise as Stocking Anarchy (voice)</li><li>Koji Ishii as Garterbelt (voice)</li><li>Hiroyuki Yoshino as Brief (voice)</li><li>Takashi Nakamura as Chuck (voice)</li><li>Yuka Komatsu as Scanty (voice)</li><li>Akeno Watanabe as Kneesocks (voice)</li><li>Yuko Natsuyoshi as Fastener (voice)</li><li>Junya Enoki as Polyester (voice)</li><li>Yuto Uemura as Polyurethane (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "New PANTY & STOCKING with GARTERBELT (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:247662": {
+   "d": "Hotel Costiera (2025) is an Action & Adventure and Drama TV series. Explore its story: Shortly after Daniel, or DD as everybody knows him…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/xmFV4Rc10kFTInBUsYVjyendz1s.jpg",
+   "industry": "world",
+   "k": "Hotel Costiera, Hotel Costiera TV series, Hotel Costiera cast, Hotel Costiera story, Hotel Costiera seasons, Hotel Costiera episodes, Hotel Costiera season 1, Hotel Costiera 6 episodes, Hotel Costiera first air date, Hotel Costiera trailer, Hotel Costiera Action & Adventure, Hotel Costiera Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jesse Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Jordan Alexandra"
+     },
+     {
+      "@type": "Person",
+      "name": "Alejandra Onieva"
+     },
+     {
+      "@type": "Person",
+      "name": "Maria Chiara Giannetta"
+     },
+     {
+      "@type": "Person",
+      "name": "Antonio Gerardi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 42,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Hotel Costiera (2025) is an Action & Adventure and Drama TV series. Explore its story: Shortly after Daniel, or DD as everybody knows him…, cast, and 1 season.",
+    "genre": [
+     "Action & Adventure",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xmFV4Rc10kFTInBUsYVjyendz1s.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=247662",
+    "name": "Hotel Costiera",
+    "numberOfEpisodes": 6,
+    "numberOfSeasons": 1,
+    "startDate": "2025-09-24",
+    "url": "https://flickatlas.co.uk/show?id=247662"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hotel Costiera (2025)</h1>\n<p class=\"ssr-lead\">Shortly after Daniel, or DD as everybody knows him, starts working at the hotel, one of the owner’s daughters disappears. He must do whatever it takes to find her and bring her home while still solving the ever-changing problems of the exclusive hotel guests.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 24 September 2025</li><li>Seasons: 1 · Episodes: 6</li><li>Created by: Elena Bucaccio, Francesco Arlanch</li><li>Genres: Action &amp; Adventure, Drama</li><li>TMDB rating: 7.2/10 (42 votes)</li><li>Status: Canceled</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jesse Williams as Daniel De Luca</li><li>Jordan Alexandra as Genny</li><li>Alejandra Onieva as Sheryl</li><li>Maria Chiara Giannetta as Adele</li><li>Antonio Gerardi as Bigné</li><li>Tommaso Ragno as Augusto</li><li>Amanda Campana as Alice</li><li>Pierpaolo Spollon as Bruno</li><li>Sam Haygarth as Tancredi</li><li>Jean-Hugues Anglade as Laurent</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Hotel Costiera (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:258462": {
+   "d": "In the Mud (2025) is a Crime and Drama TV series. Explore its story: Five female prisoners forge a unique bond after a…, cast, 2 seasons, and 16 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/bxPELhUZNgbFUN31EZTBC99wOHD.jpg",
+   "industry": "world",
+   "k": "In the Mud, In the Mud TV series, In the Mud cast, In the Mud story, In the Mud seasons, In the Mud episodes, In the Mud season 2, In the Mud 16 episodes, In the Mud first air date, In the Mud Crime, In the Mud Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "China Suárez"
+     },
+     {
+      "@type": "Person",
+      "name": "Eugenia Suárez"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 144,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "In the Mud (2025) is a Crime and Drama TV series. Explore its story: Five female prisoners forge a unique bond after a…, cast, 2 seasons, and 16 episodes.",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bxPELhUZNgbFUN31EZTBC99wOHD.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=258462",
+    "name": "In the Mud",
+    "numberOfEpisodes": 16,
+    "numberOfSeasons": 2,
+    "startDate": "2025-08-14",
+    "url": "https://flickatlas.co.uk/show?id=258462"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>In the Mud (2025)</h1>\n<p class=\"ssr-lead\">Five female prisoners forge a unique bond after a deadly accident... until corruption and turf wars within a ruthless prison threaten to destroy them.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 14 August 2025</li><li>Seasons: 2 · Episodes: 16</li><li>Created by: Sebastián Ortega</li><li>Genres: Crime, Drama</li><li>TMDB rating: 7.6/10 (144 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>China Suárez as Nicole García</li><li>Eugenia Suárez</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "In the Mud (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:262262": {
+   "d": "Under Salt Marsh (2026) is a Crime and Mystery TV series. Explore its story: Morfa Halen is a tight-knit Welsh town precariously…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/eV31zFSUF534xmpBEkHINkmsSnG.jpg",
+   "industry": "world",
+   "k": "Under Salt Marsh, Under Salt Marsh TV series, Under Salt Marsh cast, Under Salt Marsh story, Under Salt Marsh seasons, Under Salt Marsh episodes, Under Salt Marsh season 1, Under Salt Marsh 6 episodes, Under Salt Marsh first air date, Under Salt Marsh trailer, Under Salt Marsh Crime, Under Salt Marsh Mystery, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kelly Reilly"
+     },
+     {
+      "@type": "Person",
+      "name": "Rafe Spall"
+     },
+     {
+      "@type": "Person",
+      "name": "Naomi Yang"
+     },
+     {
+      "@type": "Person",
+      "name": "Harry Lawtey"
+     },
+     {
+      "@type": "Person",
+      "name": "Dino Fetscher"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 68,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Under Salt Marsh (2026) is a Crime and Mystery TV series. Explore its story: Morfa Halen is a tight-knit Welsh town precariously…, cast, and 1 season.",
+    "genre": [
+     "Crime",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eV31zFSUF534xmpBEkHINkmsSnG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=262262",
+    "name": "Under Salt Marsh",
+    "numberOfEpisodes": 6,
+    "numberOfSeasons": 1,
+    "startDate": "2026-01-30",
+    "url": "https://flickatlas.co.uk/show?id=262262"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Under Salt Marsh (2026)</h1>\n<p class=\"ssr-lead\">Morfa Halen is a tight-knit Welsh town precariously nestled between towering mountains and a fast-encroaching sea that threatens its very existence. As a once-in-a-generation storm begins to gather far out at sea, former detective turned teacher Jackie Ellis discovers the body of her 8-year-old pupil, Cefin, seemingly drowned. The discovery sends shockwaves through the community, reviving the ghost of an unsolved cold case that rocked the town three years prior - the disappearance of Jackie’s niece, Nessa, which cost her career.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 30 January 2026</li><li>Seasons: 1 · Episodes: 6</li><li>Created by: Claire Oakley</li><li>Genres: Crime, Mystery</li><li>TMDB rating: 6.6/10 (68 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kelly Reilly as Jackie Ellis</li><li>Rafe Spall as Eric Bull</li><li>Naomi Yang as Jess Deng</li><li>Harry Lawtey as Dylan Rees</li><li>Dino Fetscher as Gareth Morgan</li><li>Dinita Gohil as Nisha Jones</li><li>Kimberley Nixon as Shell Hill</li><li>Julian Lewis Jones as Osian Northam</li><li>Jonathan Pryce as Solomon Bevan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Under Salt Marsh (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:282662": {
+   "d": "With You, Our Love Will Make It Through (2025) is an Animation and Drama TV series. Explore its story: When high schooler Mari runs late for school, she….",
+   "img": "https://image.tmdb.org/t/p/w780/tYJ52HBbMcb50umgJHq0TmYtWKf.jpg",
+   "industry": "world",
+   "k": "With You, Our Love Will Make It Through, With You, Our Love Will Make It Through TV series, With You, Our Love Will Make It Through cast, With You, Our Love Will Make It Through story, With You, Our Love Will Make It Through seasons, With You, Our Love Will Make It Through episodes, With You, Our Love Will Make It Through season 1, With You, Our Love Will Make It Through 12 episodes, With You, Our Love Will Make It Through first air date, With You, Our Love Will Make It Through trailer, With You, Our Love Will Make It Through Animation, With You, Our Love Will Make It Through Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Manaka Iwami"
+     },
+     {
+      "@type": "Person",
+      "name": "Takuya Eguchi"
+     },
+     {
+      "@type": "Person",
+      "name": "Koutaro Nishiyama"
+     },
+     {
+      "@type": "Person",
+      "name": "Ai Kakuma"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 37,
+     "ratingValue": 8.6,
+     "worstRating": 0
+    },
+    "description": "With You, Our Love Will Make It Through (2025) is an Animation and Drama TV series. Explore its story: When high schooler Mari runs late for school, she….",
+    "genre": [
+     "Animation",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tYJ52HBbMcb50umgJHq0TmYtWKf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=282662",
+    "name": "With You, Our Love Will Make It Through",
+    "numberOfEpisodes": 12,
+    "numberOfSeasons": 1,
+    "startDate": "2025-10-14",
+    "url": "https://flickatlas.co.uk/show?id=282662"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>With You, Our Love Will Make It Through (2025)</h1>\n<p class=\"ssr-lead\">When high schooler Mari runs late for school, she never expects to fall for Tsunagu—a gentle, sensitive, beastfolk! In a world where beastfolk are segregated behind walls, Mari and Tsunagu show their differences are truly bridges. Can their love overcome the divide between beastfolk and humanity?</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 14 October 2025</li><li>Seasons: 1 · Episodes: 12</li><li>Genres: Animation, Drama, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 8.6/10 (37 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Manaka Iwami as Mari Asaka (voice)</li><li>Takuya Eguchi as Tsunagu Hidaka (voice)</li><li>Koutaro Nishiyama as Yukihiro Aida (voice)</li><li>Ai Kakuma as Kisara (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll, Crunchyroll Amazon Channel</li></ul>\n</article>",
+   "t": "With You, Our Love Will Make It Through (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:292462": {
+   "d": "Tyler Perry's Divorced Sistas (2025) is a Drama TV series. Explore its story: Five friends - Rasheda, Geneva, Naomi, Tiffany, and…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/42kBhsVAasbFWDavwQgZujiBHKy.jpg",
+   "industry": "world",
+   "k": "Tyler Perry's Divorced Sistas, Tyler Perry's Divorced Sistas TV series, Tyler Perry's Divorced Sistas cast, Tyler Perry's Divorced Sistas story, Tyler Perry's Divorced Sistas seasons, Tyler Perry's Divorced Sistas episodes, Tyler Perry's Divorced Sistas season 1, Tyler Perry's Divorced Sistas 16 episodes, Tyler Perry's Divorced Sistas first air date, Tyler Perry's Divorced Sistas trailer, Tyler Perry's Divorced Sistas Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "LeToya Luckett"
+     },
+     {
+      "@type": "Person",
+      "name": "Khadeen Indréa"
+     },
+     {
+      "@type": "Person",
+      "name": "Porscha Coleman"
+     },
+     {
+      "@type": "Person",
+      "name": "Briana Price"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Sears"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 22,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "Tyler Perry's Divorced Sistas (2025) is a Drama TV series. Explore its story: Five friends - Rasheda, Geneva, Naomi, Tiffany, and…, cast, and 1 season.",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/42kBhsVAasbFWDavwQgZujiBHKy.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=292462",
+    "name": "Tyler Perry's Divorced Sistas",
+    "numberOfEpisodes": 16,
+    "numberOfSeasons": 1,
+    "startDate": "2025-06-10",
+    "url": "https://flickatlas.co.uk/show?id=292462"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Tyler Perry&#x27;s Divorced Sistas (2025)</h1>\n<p class=\"ssr-lead\">Five friends - Rasheda, Geneva, Naomi, Tiffany, and Bridgette - support each other through divorce, marriage, dating, healing, and friendship struggles while their loyalty and sisterhood bonds are tested.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 10 June 2025</li><li>Seasons: 1 · Episodes: 16</li><li>Created by: Tyler Perry</li><li>Genres: Drama</li><li>TMDB rating: 8.0/10 (22 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>LeToya Luckett</li><li>Khadeen Indréa</li><li>Porscha Coleman</li><li>Briana Price</li><li>Jennifer Sears</li><li>RonReaco Lee</li><li>Donovan Christie Jr.</li><li>Robert Christopher Riley</li><li>DeVon Franklin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Paramount Plus Premium, Paramount Plus Essential, Paramount Plus Apple TV channel, Paramount+ Amazon Channel, Paramount+ Roku Premium Channel</li></ul>\n</article>",
+   "t": "Tyler Perry's Divorced Sistas (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:302162": {
+   "d": "Song of the Samurai - Chapter: Youthful Days in Edo (2026) is an Action & Adventure TV series.",
+   "img": "https://image.tmdb.org/t/p/w780/pdenjEfBr6m3mlbWofJS0pAEQkf.jpg",
+   "industry": "world",
+   "k": "Song of the Samurai - Chapter: Youthful Days in Edo, Song of the Samurai - Chapter: Youthful Days in Edo TV series, Song of the Samurai - Chapter: Youthful Days in Edo cast, Song of the Samurai - Chapter: Youthful Days in Edo story, Song of the Samurai - Chapter: Youthful Days in Edo seasons, Song of the Samurai - Chapter: Youthful Days in Edo episodes, Song of the Samurai - Chapter: Youthful Days in Edo season 1, Song of the Samurai - Chapter: Youthful Days in Edo 2 episodes, Song of the Samurai - Chapter: Youthful Days in Edo first air date, Song of the Samurai - Chapter: Youthful Days in Edo Action & Adventure, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Yuki Yamada"
+     },
+     {
+      "@type": "Person",
+      "name": "Nobuyuki Suzuki"
+     },
+     {
+      "@type": "Person",
+      "name": "Aoi Nakamura"
+     },
+     {
+      "@type": "Person",
+      "name": "Kanata Hosoda"
+     },
+     {
+      "@type": "Person",
+      "name": "Shuhei Uesugi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 27,
+     "ratingValue": 9.2,
+     "worstRating": 0
+    },
+    "description": "Song of the Samurai - Chapter: Youthful Days in Edo (2026) is an Action & Adventure TV series.",
+    "genre": [
+     "Action & Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pdenjEfBr6m3mlbWofJS0pAEQkf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=302162",
+    "name": "Song of the Samurai - Chapter: Youthful Days in Edo",
+    "numberOfEpisodes": 2,
+    "numberOfSeasons": 1,
+    "startDate": "2026-03-26",
+    "url": "https://flickatlas.co.uk/show?id=302162"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Song of the Samurai - Chapter: Youthful Days in Edo (2026)</h1>\n<p class=\"ssr-lead\">A live-action adaptation that translates this deep legacy to the screen. Set in Kyoto at the end of the Edo period, the story depicts the intense and passionate lives of the Shinsengumi - the iconic samurai force that defended Kyoto in the final years of Japan&#x27;s shogunate - through spectacular action and a bold interpretation based on historical facts. The story follows street brawler Toshizo Hijikata (Yuki Yamada), who finds a new kind of family in Isami Kondo and Soji Okita. Hijikata and his comrades in the Shinsengumi forge a bond of loyalty - tested by betrayal, illness, and war - as they fight not only their enemies but their own ideals.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 26 March 2026</li><li>Seasons: 1 · Episodes: 2</li><li>Genres: Action &amp; Adventure</li><li>TMDB rating: 9.2/10 (27 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yuki Yamada as Toshizo Hijikata</li><li>Nobuyuki Suzuki as Isamu Kondo</li><li>Aoi Nakamura as Keisuke Yamanami</li><li>Kanata Hosoda as Souji Okita</li><li>Shuhei Uesugi as Shinpachi Nagakura</li><li>Kisetsu Fujiwara as Hajime Saitou</li><li>Yosuke Sugino as Eisaburou Abiru</li><li>Shuntaro Yanagi as Sanosuke Harada</li><li>Shuto Miyazaki as Heisuke Toudou</li><li>Ryôji Nakamura as Genzaburou Inoue</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Song of the Samurai - Chapter: Youthful Days in Edo (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:306762": {
+   "d": "Love Through a Prism (2026) is an Animation and Drama TV series. Explore its story: In early 1900s London, a young Japanese woman enrolls…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/7mfU2mO1t4d43mBsm4Z3Q2grGy6.jpg",
+   "industry": "world",
+   "k": "Love Through a Prism, Love Through a Prism TV series, Love Through a Prism cast, Love Through a Prism story, Love Through a Prism seasons, Love Through a Prism episodes, Love Through a Prism season 1, Love Through a Prism 20 episodes, Love Through a Prism first air date, Love Through a Prism trailer, Love Through a Prism Animation, Love Through a Prism Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Atsumi Tanezaki"
+     },
+     {
+      "@type": "Person",
+      "name": "Koki Uchiyama"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 59,
+     "ratingValue": 9.0,
+     "worstRating": 0
+    },
+    "description": "Love Through a Prism (2026) is an Animation and Drama TV series. Explore its story: In early 1900s London, a young Japanese woman enrolls…, cast, and 1 season.",
+    "genre": [
+     "Animation",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7mfU2mO1t4d43mBsm4Z3Q2grGy6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=306762",
+    "name": "Love Through a Prism",
+    "numberOfEpisodes": 20,
+    "numberOfSeasons": 1,
+    "startDate": "2026-01-15",
+    "url": "https://flickatlas.co.uk/show?id=306762"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Love Through a Prism (2026)</h1>\n<p class=\"ssr-lead\">In early 1900s London, a young Japanese woman enrolls in a famous art school, only to be surprised when rivalry with a gifted classmate becomes romance.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 15 January 2026</li><li>Seasons: 1 · Episodes: 20</li><li>Genres: Animation, Drama</li><li>TMDB rating: 9.0/10 (59 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Atsumi Tanezaki as Lili Ichijoin (voice)</li><li>Koki Uchiyama as Kit Church (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Love Through a Prism (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:318262": {
+   "d": "Should I Marry a Murderer? (2026) is a Documentary and Crime TV series. Explore its story: In 2020, pathologist Caroline Muirhead's fiancé…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/A1DSMj6VQcvvJmNNBTSSLqQ5bzF.jpg",
+   "industry": "world",
+   "k": "Should I Marry a Murderer?, Should I Marry a Murderer? TV series, Should I Marry a Murderer? cast, Should I Marry a Murderer? story, Should I Marry a Murderer? seasons, Should I Marry a Murderer? episodes, Should I Marry a Murderer? season 1, Should I Marry a Murderer? 3 episodes, Should I Marry a Murderer? first air date, Should I Marry a Murderer? trailer, Should I Marry a Murderer? Documentary, Should I Marry a Murderer? Crime, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Caroline Muirhead"
+     },
+     {
+      "@type": "Person",
+      "name": "Sandy McKellar"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephen Muirhead"
+     },
+     {
+      "@type": "Person",
+      "name": "Margaret Muirhead"
+     },
+     {
+      "@type": "Person",
+      "name": "Ninon Noiret"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 40,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Should I Marry a Murderer? (2026) is a Documentary and Crime TV series. Explore its story: In 2020, pathologist Caroline Muirhead's fiancé…, cast, and 1 season.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Josh Allott"
+     }
+    ],
+    "genre": [
+     "Documentary",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/A1DSMj6VQcvvJmNNBTSSLqQ5bzF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=318262",
+    "name": "Should I Marry a Murderer?",
+    "numberOfEpisodes": 3,
+    "numberOfSeasons": 1,
+    "startDate": "2026-04-29",
+    "url": "https://flickatlas.co.uk/show?id=318262"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Should I Marry a Murderer? (2026)</h1>\n<p class=\"ssr-lead\">In 2020, pathologist Caroline Muirhead&#x27;s fiancé, Scottish farmer Alexander &#x27;Sandy&#x27; McKellar, confessed to her that he and his twin brother Robert had killed cyclist Tony Parsons in a 2017 hit-and-run on the A82 near Bridge of Orchy and buried the body on the Auch Estate.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 29 April 2026</li><li>Seasons: 1 · Episodes: 3</li><li>Created by: Josh Allott</li><li>Director: Josh Allott</li><li>Genres: Documentary, Crime</li><li>TMDB rating: 6.7/10 (40 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Caroline Muirhead as Self</li><li>Sandy McKellar as Self (archive footage)</li><li>Stephen Muirhead as Self – Caroline&#x27;s Father</li><li>Margaret Muirhead as Self – Caroline&#x27;s Mother</li><li>Ninon Noiret as Caroline Muirhead</li><li>James Crouch as Sandy McKellar</li><li>Robert McKellar as Self (archive footage)</li><li>Tony Parsons as Self (archive footage)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Should I Marry a Murderer? (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
   },
   "tv:562": {
    "d": "The Ellen DeGeneres Show (2003) is a Comedy and Talk TV series. Explore its story: The Ellen DeGeneres Show, often shortened to just…, cast, and 19 seasons.",

@@ -1,6 +1,6 @@
 {
  "bucket": "86",
- "count": 28,
+ "count": 38,
  "titles": {
   "movie:11986": {
    "d": "Betty Blue (1986): Drama/Romance film. Story: A lackadaisical handyman and aspiring novelist tries… See cast, TMDB rating 7.2/10, and release date 9 April 1986.",
@@ -1198,6 +1198,58 @@
    "t": "Weeds (2005) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2005"
   },
+  "tv:223386": {
+   "d": "Man on Fire (2026) is an Action & Adventure and Crime TV series. Explore its story: Haunted by his past and hunted by his enemies, a…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/dMCfHJRnAZfKoPTjYyZk2QCL8au.jpg",
+   "industry": "world",
+   "k": "Man on Fire, Man on Fire TV series, Man on Fire cast, Man on Fire story, Man on Fire seasons, Man on Fire episodes, Man on Fire season 1, Man on Fire 7 episodes, Man on Fire first air date, Man on Fire trailer, Man on Fire Action & Adventure, Man on Fire Crime, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Yahya Abdul-Mateen II"
+     },
+     {
+      "@type": "Person",
+      "name": "Billie Boullet"
+     },
+     {
+      "@type": "Person",
+      "name": "Scoot McNairy"
+     },
+     {
+      "@type": "Person",
+      "name": "Alice Braga"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 228,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Man on Fire (2026) is an Action & Adventure and Crime TV series. Explore its story: Haunted by his past and hunted by his enemies, a…, cast, and 1 season.",
+    "genre": [
+     "Action & Adventure",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dMCfHJRnAZfKoPTjYyZk2QCL8au.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=223386",
+    "name": "Man on Fire",
+    "numberOfEpisodes": 7,
+    "numberOfSeasons": 1,
+    "startDate": "2026-04-30",
+    "url": "https://flickatlas.co.uk/show?id=223386"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Man on Fire (2026)</h1>\n<p class=\"ssr-lead\">Haunted by his past and hunted by his enemies, a Special Forces veteran fights to keep a teenage girl alive on the deadly streets of Rio de Janeiro.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 30 April 2026</li><li>Seasons: 1 · Episodes: 7</li><li>Created by: Kyle Killen</li><li>Genres: Action &amp; Adventure, Crime</li><li>TMDB rating: 7.4/10 (228 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yahya Abdul-Mateen II as John Creasy</li><li>Billie Boullet as Poe Rayburn</li><li>Scoot McNairy as Henry Tappan</li><li>Alice Braga as Valeria Melo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Man on Fire (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
   "tv:2286": {
    "d": "The Real Ghostbusters (1986) is an Action & Adventure and Animation TV series. Explore its story: The continuing adventures of paranormal investigators….",
    "img": "https://image.tmdb.org/t/p/w780/vA0rSXM1gwpiefyJamQBvMbIb4B.jpg",
@@ -1254,6 +1306,349 @@
    "t": "The Real Ghostbusters (1986) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "1986"
   },
+  "tv:233686": {
+   "d": "Karma (2025) is a Crime and Drama TV series. Explore its story: A fateful accident intertwines six lives in a…, cast, 1 season, and 6 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/66X23qG4RPk7XPDQCFFHHCage3M.jpg",
+   "industry": "world",
+   "k": "Karma, Karma TV series, Karma cast, Karma story, Karma seasons, Karma episodes, Karma season 1, Karma 6 episodes, Karma first air date, Karma trailer, Karma Crime, Karma Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Park Hae-soo"
+     },
+     {
+      "@type": "Person",
+      "name": "Shin Min-a"
+     },
+     {
+      "@type": "Person",
+      "name": "Lee Hee-jun"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Sung-kyun"
+     },
+     {
+      "@type": "Person",
+      "name": "Lee Kwang-soo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 123,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Karma (2025) is a Crime and Drama TV series. Explore its story: A fateful accident intertwines six lives in a…, cast, 1 season, and 6 episodes.",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/66X23qG4RPk7XPDQCFFHHCage3M.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=233686",
+    "name": "Karma",
+    "numberOfEpisodes": 6,
+    "numberOfSeasons": 1,
+    "startDate": "2025-04-04",
+    "url": "https://flickatlas.co.uk/show?id=233686"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Karma (2025)</h1>\n<p class=\"ssr-lead\">A fateful accident intertwines six lives in a thrilling tale of karma and crime, where each must face their own dark truths and connections.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 4 April 2025</li><li>Seasons: 1 · Episodes: 6</li><li>Created by: Lee Il-hyung</li><li>Genres: Crime, Drama</li><li>TMDB rating: 7.6/10 (123 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Park Hae-soo as Kim Beon-jun</li><li>Shin Min-a as Lee Joo-yeon</li><li>Lee Hee-jun as Park Jae-yeong</li><li>Kim Sung-kyun as Jang Gil-ryong</li><li>Lee Kwang-soo as Han Sang-hoon</li><li>Gong Seung-yeon as Lee Yoo-jeong</li><li>Choi Hong-il as Park Dong-sik</li><li>Park Ho-san as Hwang Cheol-mok</li><li>Lee Seo-jun as Baek Ji-hun</li><li>Bae Yoon-gyu as [Teen] Park Jae-yeong</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Karma (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:240686": {
+   "d": "Legend of the Female General (2025) is a Drama TV series. Explore its story: A female general with a gentle appearance but a…, cast, 1 season, and 36 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/mwiG510fVcOrzWUSDSV7B5tRMrb.jpg",
+   "industry": "world",
+   "k": "Legend of the Female General, Legend of the Female General TV series, Legend of the Female General cast, Legend of the Female General story, Legend of the Female General seasons, Legend of the Female General episodes, Legend of the Female General season 1, Legend of the Female General 36 episodes, Legend of the Female General first air date, Legend of the Female General Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Zhou Ye"
+     },
+     {
+      "@type": "Person",
+      "name": "Cheng Lei"
+     },
+     {
+      "@type": "Person",
+      "name": "Zhang Kangle"
+     },
+     {
+      "@type": "Person",
+      "name": "Zhang Miaoyi"
+     },
+     {
+      "@type": "Person",
+      "name": "Li Qing"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 44,
+     "ratingValue": 8.3,
+     "worstRating": 0
+    },
+    "description": "Legend of the Female General (2025) is a Drama TV series. Explore its story: A female general with a gentle appearance but a…, cast, 1 season, and 36 episodes.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jeffrey Chiang Ka-Chun"
+     }
+    ],
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mwiG510fVcOrzWUSDSV7B5tRMrb.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=240686",
+    "name": "Legend of the Female General",
+    "numberOfEpisodes": 36,
+    "numberOfSeasons": 1,
+    "startDate": "2025-08-06",
+    "url": "https://flickatlas.co.uk/show?id=240686"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Legend of the Female General (2025)</h1>\n<p class=\"ssr-lead\">A female general with a gentle appearance but a strong inner spirit, and a male general with a cold exterior and internal but with stronger martial prowess. The two join forces to combat deceit, assist the weak, and eliminate external threats.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 6 August 2025</li><li>Seasons: 1 · Episodes: 36</li><li>Created by: Qian Shan Cha Ke</li><li>Director: Jeffrey Chiang Ka-Chun</li><li>Genres: Drama</li><li>TMDB rating: 8.3/10 (44 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Zhou Ye as He Yan</li><li>Cheng Lei as Xiao Jue</li><li>Zhang Kangle as Chu Zhao</li><li>Zhang Miaoyi as Song Taotao</li><li>Li Qing as Cheng Lisu</li><li>Bai Shu as He Rufei</li><li>Rao Jiadi as Ying Xiang</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Tencent Video</li></ul>\n</article>",
+   "t": "Legend of the Female General (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:246386": {
+   "d": "All Her Fault (2025) is a Mystery and Crime TV series. Explore its story: In Chicago, Marissa Irvine arrives at 14 Arthur…, cast, 1 season, and 8 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/uv0LVwNM8mZcwhCa5pd6FJxvKDz.jpg",
+   "industry": "world",
+   "k": "All Her Fault, All Her Fault TV series, All Her Fault cast, All Her Fault story, All Her Fault seasons, All Her Fault episodes, All Her Fault season 1, All Her Fault 8 episodes, All Her Fault first air date, All Her Fault trailer, All Her Fault Mystery, All Her Fault Crime, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sarah Snook"
+     },
+     {
+      "@type": "Person",
+      "name": "Jake Lacy"
+     },
+     {
+      "@type": "Person",
+      "name": "Sophia Lillis"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Peña"
+     },
+     {
+      "@type": "Person",
+      "name": "Dakota Fanning"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 362,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "All Her Fault (2025) is a Mystery and Crime TV series. Explore its story: In Chicago, Marissa Irvine arrives at 14 Arthur…, cast, 1 season, and 8 episodes.",
+    "genre": [
+     "Mystery",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uv0LVwNM8mZcwhCa5pd6FJxvKDz.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=246386",
+    "name": "All Her Fault",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 1,
+    "startDate": "2025-11-07",
+    "url": "https://flickatlas.co.uk/show?id=246386"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>All Her Fault (2025)</h1>\n<p class=\"ssr-lead\">In Chicago, Marissa Irvine arrives at 14 Arthur Avenue, expecting to pick up her young son Milo from his first playdate with a boy at his new school. But the woman who answers the door isn&#x27;t a mother she recognizes. She isn&#x27;t the nanny. She doesn&#x27;t have Milo. And so begins every parent&#x27;s worst nightmare.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 7 November 2025</li><li>Seasons: 1 · Episodes: 8</li><li>Created by: Megan Gallagher</li><li>Genres: Mystery, Crime</li><li>TMDB rating: 8.0/10 (362 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sarah Snook as Marissa Irvine</li><li>Jake Lacy as Peter Irvine</li><li>Sophia Lillis as Carrie Finch</li><li>Michael Peña as Detective Alcaras</li><li>Dakota Fanning as Jenny Kaminski</li><li>Abby Elliott as Lia Irvine</li><li>Jay Ellis as Colin Dobbs</li><li>Duke McCloud as Milo Irvine</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "All Her Fault (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:249586": {
+   "d": "Amsterdam Empire (2025) is a Drama and Crime TV series. Explore its story: When Jack's affair comes to light, his wife Betty…, cast, 1 season, and 7 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/2sORBXHcWuh000pKAl93bsMmf76.jpg",
+   "industry": "world",
+   "k": "Amsterdam Empire, Amsterdam Empire TV series, Amsterdam Empire cast, Amsterdam Empire story, Amsterdam Empire seasons, Amsterdam Empire episodes, Amsterdam Empire season 1, Amsterdam Empire 7 episodes, Amsterdam Empire first air date, Amsterdam Empire trailer, Amsterdam Empire Drama, Amsterdam Empire Crime, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Famke Janssen"
+     },
+     {
+      "@type": "Person",
+      "name": "Jacob Derwig"
+     },
+     {
+      "@type": "Person",
+      "name": "Elise Schaap"
+     },
+     {
+      "@type": "Person",
+      "name": "Jade Olieberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Yannick van de Velde"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 47,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Amsterdam Empire (2025) is a Drama and Crime TV series. Explore its story: When Jack's affair comes to light, his wife Betty…, cast, 1 season, and 7 episodes.",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2sORBXHcWuh000pKAl93bsMmf76.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=249586",
+    "name": "Amsterdam Empire",
+    "numberOfEpisodes": 7,
+    "numberOfSeasons": 1,
+    "startDate": "2025-10-30",
+    "url": "https://flickatlas.co.uk/show?id=249586"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Amsterdam Empire (2025)</h1>\n<p class=\"ssr-lead\">When Jack&#x27;s affair comes to light, his wife Betty hatches a bitter plan to strip him of the thing he loves most: The Jackal, his coffeeshop empire.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 30 October 2025</li><li>Seasons: 1 · Episodes: 7</li><li>Created by: Bart Uytdenhouwen, Nico Moolenaar, Piet Matthys</li><li>Genres: Drama, Crime</li><li>TMDB rating: 6.3/10 (47 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Famke Janssen as Betty Jonkers</li><li>Jacob Derwig as Jack van Doorn</li><li>Elise Schaap as Marjolein Hofman</li><li>Jade Olieberg as Katja van Doorn</li><li>Yannick van de Velde as Erik Ketels</li><li>Jesse Mensah as Patrick van Doorn</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Amsterdam Empire (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:259486": {
+   "d": "The Haunted Palace (2025) is a Sci-Fi & Fantasy and Drama TV series. Explore its story: In a world of folklore and mysticism, a vengeful…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/dSNOb8E64mGUJJ51VJXlE0cnEtU.jpg",
+   "industry": "world",
+   "k": "The Haunted Palace, The Haunted Palace TV series, The Haunted Palace cast, The Haunted Palace story, The Haunted Palace seasons, The Haunted Palace episodes, The Haunted Palace season 1, The Haunted Palace 16 episodes, The Haunted Palace first air date, The Haunted Palace Sci-Fi & Fantasy, The Haunted Palace Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Yook Sung-jae"
+     },
+     {
+      "@type": "Person",
+      "name": "Bona"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Ji-hoon"
+     },
+     {
+      "@type": "Person",
+      "name": "Kil Hae-yeon"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Sang-ho"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 36,
+     "ratingValue": 8.1,
+     "worstRating": 0
+    },
+    "description": "The Haunted Palace (2025) is a Sci-Fi & Fantasy and Drama TV series. Explore its story: In a world of folklore and mysticism, a vengeful…, cast, and 1 season.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Yun Seong-sik"
+     }
+    ],
+    "genre": [
+     "Sci-Fi & Fantasy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dSNOb8E64mGUJJ51VJXlE0cnEtU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=259486",
+    "name": "The Haunted Palace",
+    "numberOfEpisodes": 16,
+    "numberOfSeasons": 1,
+    "startDate": "2025-04-18",
+    "url": "https://flickatlas.co.uk/show?id=259486"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Haunted Palace (2025)</h1>\n<p class=\"ssr-lead\">In a world of folklore and mysticism, a vengeful spirit and a devoted shaman cross paths, sparking a journey of love and redemption</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 18 April 2025</li><li>Seasons: 1 · Episodes: 16</li><li>Created by: Yoon Soo-Jung</li><li>Director: Yun Seong-sik</li><li>Genres: Sci-Fi &amp; Fantasy, Drama</li><li>TMDB rating: 8.1/10 (36 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yook Sung-jae as Yoon-gab/Gang Cheol</li><li>Bona as Yeo-ri</li><li>Kim Ji-hoon as Lee Seong</li><li>Kil Hae-yeon as Nub-deok</li><li>Kim Sang-ho as Poong-san</li><li>Shin Seul-ki as Choi In-seon</li><li>Son Byung-ho as Kim Bong-in</li><li>Han So-eun as The Queen</li><li>Ahn Nae-sang as Choi Won-woo</li><li>Kim In-kwon as Kim Eung-soon</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Rakuten Viki</li></ul>\n</article>",
+   "t": "The Haunted Palace (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:259886": {
+   "d": "The War Between the Land and the Sea (2025) is a Sci-Fi & Fantasy and Drama TV series. Explore its story: When a fearsome and ancient species emerges from the….",
+   "img": "https://image.tmdb.org/t/p/w780/9OUDNZjZOgJiFTjXfOtUBy90FUH.jpg",
+   "industry": "world",
+   "k": "The War Between the Land and the Sea, The War Between the Land and the Sea TV series, The War Between the Land and the Sea cast, The War Between the Land and the Sea story, The War Between the Land and the Sea seasons, The War Between the Land and the Sea episodes, The War Between the Land and the Sea season 1, The War Between the Land and the Sea 5 episodes, The War Between the Land and the Sea first air date, The War Between the Land and the Sea trailer, The War Between the Land and the Sea Sci-Fi & Fantasy, The War Between the Land and the Sea Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Russell Tovey"
+     },
+     {
+      "@type": "Person",
+      "name": "Gugu Mbatha-Raw"
+     },
+     {
+      "@type": "Person",
+      "name": "Jemma Redgrave"
+     },
+     {
+      "@type": "Person",
+      "name": "Ruth Madeley"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 209,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "The War Between the Land and the Sea (2025) is a Sci-Fi & Fantasy and Drama TV series. Explore its story: When a fearsome and ancient species emerges from the….",
+    "genre": [
+     "Sci-Fi & Fantasy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9OUDNZjZOgJiFTjXfOtUBy90FUH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=259886",
+    "name": "The War Between the Land and the Sea",
+    "numberOfEpisodes": 5,
+    "numberOfSeasons": 1,
+    "startDate": "2025-12-07",
+    "url": "https://flickatlas.co.uk/show?id=259886"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The War Between the Land and the Sea (2025)</h1>\n<p class=\"ssr-lead\">When a fearsome and ancient species emerges from the ocean, dramatically revealing themselves to humanity, an international crisis is triggered. With the entire population at risk, UNIT step into action as the land and sea wage war.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 7 December 2025</li><li>Seasons: 1 · Episodes: 5</li><li>Created by: Russell T Davies</li><li>Genres: Sci-Fi &amp; Fantasy, Drama</li><li>TMDB rating: 7.6/10 (209 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Russell Tovey as Barclay Pierre-Dupont</li><li>Gugu Mbatha-Raw as Salt</li><li>Jemma Redgrave as Kate Lethbridge-Stewart</li><li>Ruth Madeley as Shirley Bingham</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sky Go</li><li>Buy: Apple TV Store, Amazon Video</li></ul>\n</article>",
+   "t": "The War Between the Land and the Sea (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
   "tv:2686": {
    "d": "Three's Company (1977) is a Comedy TV series. Explore its story: When two single girls, Janet and Chrissy, need a…, cast, 8 seasons, and 171 episodes.",
    "img": "https://image.tmdb.org/t/p/w780/4ubxzr6wNZElImE3EOUsjxvVjYw.jpg",
@@ -1308,6 +1703,180 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Three&#x27;s Company (1977)</h1>\n<p class=\"ssr-lead\">When two single girls, Janet and Chrissy, need a roommate to share their Santa Monica apartment, they decide to offer a room to Jack, a man they find passed out in the bathtub after the going-away party for their last roommate. However, hijinks ensure when Jack must pretend to be gay in order to throw off the scent of the trio&#x27;s conservative landlady.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 15 March 1977</li><li>Seasons: 8 · Episodes: 171</li><li>Created by: Johnnie Mortimer, Brian Cooke</li><li>Genres: Comedy</li><li>TMDB rating: 7.6/10 (201 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Ritter as Jack Tripper</li><li>Joyce DeWitt as Janet Wood</li><li>Priscilla Barnes as Terri Alden</li><li>Don Knotts as Ralph Furley</li><li>Richard Kline as Larry Dallas</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Peacock Premium, Philo, YouTube TV, Peacock Premium Plus</li><li>Buy: Fandango At Home</li></ul>\n</article>",
    "t": "Three's Company (1977) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "1977"
+  },
+  "tv:272586": {
+   "d": "Land of Sin (2026) is a Drama and Crime TV series. Explore its story: When a teenager goes missing, a detective with…, cast, 1 season, and 5 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/rlTfXiGnDhj8CMm7FK6KW8XFAKA.jpg",
+   "industry": "world",
+   "k": "Land of Sin, Land of Sin TV series, Land of Sin cast, Land of Sin story, Land of Sin seasons, Land of Sin episodes, Land of Sin season 1, Land of Sin 5 episodes, Land of Sin first air date, Land of Sin Drama, Land of Sin Crime, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Krista Kosonen"
+     },
+     {
+      "@type": "Person",
+      "name": "Mohammed Nour Oklah"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Gantman"
+     },
+     {
+      "@type": "Person",
+      "name": "Lisa Lindgren"
+     },
+     {
+      "@type": "Person",
+      "name": "Ceasar Matijasevic"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 78,
+     "ratingValue": 5.4,
+     "worstRating": 0
+    },
+    "description": "Land of Sin (2026) is a Drama and Crime TV series. Explore its story: When a teenager goes missing, a detective with…, cast, 1 season, and 5 episodes.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peter Grönlund"
+     }
+    ],
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rlTfXiGnDhj8CMm7FK6KW8XFAKA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=272586",
+    "name": "Land of Sin",
+    "numberOfEpisodes": 5,
+    "numberOfSeasons": 1,
+    "startDate": "2026-01-02",
+    "url": "https://flickatlas.co.uk/show?id=272586"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Land of Sin (2026)</h1>\n<p class=\"ssr-lead\">When a teenager goes missing, a detective with personal ties to the case joins a tense investigation that reveals fierce loyalties and old family feuds.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 2 January 2026</li><li>Seasons: 1 · Episodes: 5</li><li>Created by: Peter Grönlund</li><li>Director: Peter Grönlund</li><li>Genres: Drama, Crime, Mystery</li><li>TMDB rating: 5.4/10 (78 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Krista Kosonen as Dani</li><li>Mohammed Nour Oklah as Malik</li><li>Peter Gantman as Elis</li><li>Lisa Lindgren</li><li>Ceasar Matijasevic</li><li>Alexander Persson</li><li>William Jannert as Jon</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Land of Sin (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:289486": {
+   "d": "Cold Case: The Tylenol Murders (2025) is a Documentary and Crime TV series. Explore its story: Who really laced Tylenol with cyanide? This…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/AixpLrWdahG1wNnNwyXUNSKum5Z.jpg",
+   "industry": "world",
+   "k": "Cold Case: The Tylenol Murders, Cold Case: The Tylenol Murders TV series, Cold Case: The Tylenol Murders cast, Cold Case: The Tylenol Murders story, Cold Case: The Tylenol Murders seasons, Cold Case: The Tylenol Murders episodes, Cold Case: The Tylenol Murders season 1, Cold Case: The Tylenol Murders 3 episodes, Cold Case: The Tylenol Murders first air date, Cold Case: The Tylenol Murders trailer, Cold Case: The Tylenol Murders Documentary, Cold Case: The Tylenol Murders Crime, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jeff Flock"
+     },
+     {
+      "@type": "Person",
+      "name": "James Lewis"
+     },
+     {
+      "@type": "Person",
+      "name": "Michelle Rosen"
+     },
+     {
+      "@type": "Person",
+      "name": "Tyrone Fahner"
+     },
+     {
+      "@type": "Person",
+      "name": "Mary Kellerman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 38,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Cold Case: The Tylenol Murders (2025) is a Documentary and Crime TV series. Explore its story: Who really laced Tylenol with cyanide? This…, cast, and 1 season.",
+    "genre": [
+     "Documentary",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/AixpLrWdahG1wNnNwyXUNSKum5Z.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=289486",
+    "name": "Cold Case: The Tylenol Murders",
+    "numberOfEpisodes": 3,
+    "numberOfSeasons": 1,
+    "startDate": "2025-05-26",
+    "url": "https://flickatlas.co.uk/show?id=289486"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cold Case: The Tylenol Murders (2025)</h1>\n<p class=\"ssr-lead\">Who really laced Tylenol with cyanide? This true-crime series examines alarming theories behind the unsolved killings — and tracks down a key suspect.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 26 May 2025</li><li>Seasons: 1 · Episodes: 3</li><li>Created by: Yotam Guendelman, Ari Pines</li><li>Genres: Documentary, Crime</li><li>TMDB rating: 6.8/10 (38 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jeff Flock as Self - Reporter, CNN</li><li>James Lewis as Self - Tylenol Murder Suspect</li><li>Michelle Rosen as Self - Daughter of Victim</li><li>Tyrone Fahner as Self - Illinois Attorney General</li><li>Mary Kellerman as Self - Tylenol Poisoning Victim</li><li>Richard Brzeczek as Self - Superintendent - Chicago Police</li><li>Gardiner Harris as Self - Author, No More Tears: The Dark Secrets of Johnson &amp; Johnson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Cold Case: The Tylenol Murders (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:296286": {
+   "d": "Smoking Behind the Supermarket with You (2026) is an Animation and Comedy TV series. Explore its story: Sasaki is an overworked salaryman drifting through….",
+   "img": "https://image.tmdb.org/t/p/w780/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
+   "industry": "world",
+   "k": "Smoking Behind the Supermarket with You, Smoking Behind the Supermarket with You TV series, Smoking Behind the Supermarket with You cast, Smoking Behind the Supermarket with You story, Smoking Behind the Supermarket with You seasons, Smoking Behind the Supermarket with You episodes, Smoking Behind the Supermarket with You season 1, Smoking Behind the Supermarket with You 12 episodes, Smoking Behind the Supermarket with You first air date, Smoking Behind the Supermarket with You trailer, Smoking Behind the Supermarket with You Animation, Smoking Behind the Supermarket with You Comedy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Takuya Sato"
+     },
+     {
+      "@type": "Person",
+      "name": "Seena Hoshiki"
+     },
+     {
+      "@type": "Person",
+      "name": "Toa Yukinari"
+     },
+     {
+      "@type": "Person",
+      "name": "Megumi Toyoguchi"
+     },
+     {
+      "@type": "Person",
+      "name": "Rikuya Yasuda"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 86,
+     "ratingValue": 8.4,
+     "worstRating": 0
+    },
+    "description": "Smoking Behind the Supermarket with You (2026) is an Animation and Comedy TV series. Explore its story: Sasaki is an overworked salaryman drifting through….",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=296286",
+    "name": "Smoking Behind the Supermarket with You",
+    "numberOfEpisodes": 12,
+    "numberOfSeasons": 1,
+    "startDate": "2026-07-09",
+    "url": "https://flickatlas.co.uk/show?id=296286"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Smoking Behind the Supermarket with You (2026)</h1>\n<p class=\"ssr-lead\">Sasaki is an overworked salaryman drifting through the corporate grind, sustained by cigarettes and the cheerful service and smile of Yamada, the clerk at his favorite supermarket. But one night after a grueling shift, he arrives late to find Yamada nowhere to be seen. With nowhere left to smoke, his spirits sink—until a pierced young woman calls out to him: “You can smoke here.”</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 9 July 2026</li><li>Seasons: 1 · Episodes: 12</li><li>Genres: Animation, Comedy</li><li>TMDB rating: 8.4/10 (86 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Takuya Sato as Sasaki (voice)</li><li>Seena Hoshiki as Yamada (voice)</li><li>Toa Yukinari as Gotō (voice)</li><li>Megumi Toyoguchi as Ōno (voice)</li><li>Rikuya Yasuda as Obata (voice)</li><li>Yoko Hikasa as Maezawa (voice)</li><li>Shinya Takahashi as Suzuki (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Crunchyroll, Sony Liv, Crunchyroll Amazon Channel</li></ul>\n</article>",
+   "t": "Smoking Behind the Supermarket with You (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
   },
   "tv:4386": {
    "d": "Baywatch (1989) is an Action & Adventure and Drama TV series. Explore its story: Join the Baywatch lifeguards on their thrilling…, cast, and 11 seasons.",

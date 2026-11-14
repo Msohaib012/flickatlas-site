@@ -1,6 +1,6 @@
 {
  "bucket": "48",
- "count": 23,
+ "count": 28,
  "titles": {
   "movie:1088548": {
    "backdrop_path": "/ppLv2F7dhvI3wxaEoOP1E0OyBPP.jpg",
@@ -2041,116 +2041,6 @@
    "vote_average": 7.189,
    "vote_count": 446
   },
-  "tv:105248": {
-   "backdrop_path": "/bknKZO7DWVYKeByuJMnGI46PFZg.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "D (voice)",
-     "n": "Koki Uchiyama"
-    },
-    {
-     "c": "Roman (voice)",
-     "n": "Momoka Terasawa"
-    },
-    {
-     "c": "Talia (voice)",
-     "n": "Akari Kito"
-    },
-    {
-     "c": "Weak (voice)",
-     "n": "Kentaro Tone"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "A",
-   "channel": "Netflix",
-   "created_by": [
-    "Rafał Jaki",
-    "Bartosz Sztybor"
-   ],
-   "director": [],
-   "episode_run_time": [],
-   "first_air_date": "2022-09-13",
-   "genres": [
-    "Animation",
-    "Action & Adventure",
-    "Sci-Fi & Fantasy",
-    "Crime"
-   ],
-   "id": 105248,
-   "industry": "world",
-   "networks": [
-    "Netflix"
-   ],
-   "number_of_episodes": 20,
-   "number_of_seasons": 2,
-   "origin_country": [
-    "JP",
-    "PL",
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
-   "popularity": 55.7668,
-   "poster_path": "/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-   "production_countries": [
-    "JP",
-    "PL",
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "revenue": 0,
-   "seasons": [
-    {
-     "air_date": "2022-09-13",
-     "episode_count": 10,
-     "name": "Cyberpunk: Edgerunners",
-     "season_number": 1
-    },
-    {
-     "air_date": "2026-10-20",
-     "episode_count": 10,
-     "name": "Cyberpunk: Edgerunners 2",
-     "season_number": 2
-    }
-   ],
-   "source": "catalogue",
-   "spoken_languages": [
-    "ja"
-   ],
-   "status": "Returning Series",
-   "tagline": "New legends. Same Night City.",
-   "title": "Cyberpunk: Edgerunners",
-   "trailer": {
-    "key": "JtqIas3bYhg",
-    "name": "Official NSFW Trailer [Subtitled]",
-    "site": "YouTube"
-   },
-   "type": "tv",
-   "vote_average": 8.504,
-   "vote_count": 2149
-  },
   "tv:1848": {
    "backdrop_path": "/gPLVnGRW1lXb8wBauIG41kQkoCX.jpg",
    "budget": 0,
@@ -2353,6 +2243,725 @@
    "type": "tv",
    "vote_average": 8.0,
    "vote_count": 562
+  },
+  "tv:243248": {
+   "backdrop_path": "/4A5TEvk99fCg8WSgImYJ6dqqe8Y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jeong Yi-shin",
+     "n": "Go Hyun-jung"
+    },
+    {
+     "c": "Cha Su-yeol",
+     "n": "Jang Dong-yoon"
+    },
+    {
+     "c": "Joong-ho",
+     "n": "Cho Seong-ha"
+    },
+    {
+     "c": "Na-hee",
+     "n": "EL"
+    },
+    {
+     "c": "Lee Jung-yeon",
+     "n": "Kim Bo-ra"
+    },
+    {
+     "c": "Jung Hyeon Nam [I Sin's father]",
+     "n": "Lee Hwang-eui"
+    },
+    {
+     "c": "Bae Seong Gyu [Detective]",
+     "n": "Kim Min-ho"
+    },
+    {
+     "c": "Choi Hyeok [Detective]",
+     "n": "Kim Tae-jeong"
+    },
+    {
+     "c": "Son Ji An [Detective]",
+     "n": "Park Wan-Hyeong"
+    },
+    {
+     "c": "Seo A Ra [Jung Yeon's friend]",
+     "n": "Han Dong-hee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "19",
+   "channel": "SBS",
+   "created_by": [
+    "Byun Young-joo"
+   ],
+   "director": [
+    "Byun Young-joo"
+   ],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2025-09-05",
+   "genres": [
+    "Crime",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 243248,
+   "industry": "world",
+   "networks": [
+    "SBS"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Cha Su-yeol, a police officer who has long despised his mother, the notorious 'Mantis' serial killer, must reluctantly turn to her for help when a copycat killer emerges.",
+   "popularity": 3.564,
+   "poster_path": "/29Pam3iZucDggLvWM5F4uIkqwQ.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Rakuten Viki"
+    },
+    {
+     "name": "OnDemandKorea"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Kocowa Amazon Channel"
+    },
+    {
+     "name": "Kocowa"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-05",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Queen Mantis",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.2,
+   "vote_count": 31
+  },
+  "tv:245648": {
+   "backdrop_path": "/cyqKNRLFKCN9Y28ln38hLMESGEj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Max",
+     "n": "Pau Simon"
+    },
+    {
+     "c": "Asia",
+     "n": "Alícia Falcó"
+    },
+    {
+     "c": "Minerva",
+     "n": "Miren Ibarguren"
+    },
+    {
+     "c": "Guillermo",
+     "n": "Joaquín Furriel"
+    },
+    {
+     "c": "Frida",
+     "n": "Natalia Verbeke"
+    },
+    {
+     "c": "Rafa",
+     "n": "Carlos Santos"
+    },
+    {
+     "c": "Victoria",
+     "n": "Montse Guallar"
+    },
+    {
+     "c": "Mimi",
+     "n": "Agustina Bisio"
+    },
+    {
+     "c": "Ciro",
+     "n": "Álex Villazán"
+    },
+    {
+     "c": "Julia Baldini",
+     "n": "Alicia Fernández"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Álex Pina",
+    "Esther Martínez Lobato"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-19",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 245648,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "When a group of billionaires takes shelter in a luxury bunker, an old feud between two families resurfaces amid an unprecedented global conflict.",
+   "popularity": 7.2514,
+   "poster_path": "/hNVb60dPG34wYjazGgFolJhqfxp.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-19",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "Billionaires' Bunker",
+   "trailer": {
+    "key": "Ar68A3Kr-UM",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.4,
+   "vote_count": 176
+  },
+  "tv:258348": {
+   "backdrop_path": "/5nmg2cEZxA09VyDvioAuqd5jOW0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alicia (voice)",
+     "n": "Haruka Shiraishi"
+    },
+    {
+     "c": "Clen (voice)",
+     "n": "Mutsumi Tamura"
+    },
+    {
+     "c": "Clevatess (voice)",
+     "n": "Yuichi Nakamura"
+    },
+    {
+     "c": "Luna (voice)",
+     "n": "Saya Aizawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "AT-X",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-02",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 258348,
+   "industry": "world",
+   "networks": [
+    "AT-X"
+   ],
+   "number_of_episodes": 25,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "One of the Lords of Dark Beasts, Clevatess’s reign shatters when he revives a hero he personally slayed and adopts an orphaned humanoid baby—the last hope to save a dying world. Now bound together, what fate awaits this unlikely trio?",
+   "popularity": 10.33,
+   "poster_path": "/8D13BxQUrtU6ORMpl8loY6Pukq7.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-02",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-07-08",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Clevatess",
+   "trailer": {
+    "key": "ew3ZwDbUAtA",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 117
+  },
+  "tv:262848": {
+   "backdrop_path": "/vmQOnDaNuzRznzRAUg8GcwIsXV1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rosie",
+     "n": "Molly Windsor"
+    },
+    {
+     "c": "Adam",
+     "n": "Asa Butterfield"
+    },
+    {
+     "c": "Sam",
+     "n": "Fra Fee"
+    },
+    {
+     "c": "Mrs Phillips",
+     "n": "Siobhan Finneran"
+    },
+    {
+     "c": "Mr Phillips",
+     "n": "Christopher Eccleston"
+    },
+    {
+     "c": "Anthony",
+     "n": "Rory Wilmot"
+    },
+    {
+     "c": "Grace",
+     "n": "Olivia Pickering"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Julie Gearey"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-21",
+   "genres": [
+    "Drama"
+   ],
+   "id": 262848,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When a young mother from a sheltered cult crosses paths with a mysterious stranger, she embarks on a risky affair that awakens desires and dark secrets.",
+   "popularity": 6.3221,
+   "poster_path": "/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-21",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Unchosen",
+   "trailer": {
+    "key": "ahMnT9f2uDM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.6,
+   "vote_count": 88
+  },
+  "tv:280048": {
+   "backdrop_path": "/sHxfd9h3FngkYDDStLVrREESegy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ellen (voice)",
+     "n": "Seria Fukagawa"
+    },
+    {
+     "c": "Rovel (voice)",
+     "n": "Kazuyuki Okitsu"
+    },
+    {
+     "c": "Origin (voice)",
+     "n": "Mai Nakahara"
+    },
+    {
+     "c": "Rovel (Voice 2)",
+     "n": "Misato Matsuoka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-05",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 280048,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Ellen, an 8-year-old girl and half-spirit, once lived as a scientist in modern-day Japan. Now she's been reincarnated into a new family: Rovel, her father and the kingdom's legendary hero, and Origin, her mother and the queen of spirits. On top of that, Ellen herself has the power to manipulate chemical elements! But are Ellen's powers enough to protect their family's happiness?",
+   "popularity": 4.441,
+   "poster_path": "/6JMQ3DJMudsCgErn21Bv0NchmE6.jpg",
+   "production_countries": [
+    "JP",
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-05",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Dad Is a Hero, Mom Is a Spirit, I'm a Reincarnator",
+   "trailer": {
+    "key": "2_3PCLR17Rw",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.1,
+   "vote_count": 22
+  },
+  "tv:280948": {
+   "backdrop_path": "/nRxbtO6OchyepUL2Zr4dpMZsdsX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yoon Bom",
+     "n": "Lee Ju-bin"
+    },
+    {
+     "c": "Seon Jae-gyu",
+     "n": "Ahn Bo-hyun"
+    },
+    {
+     "c": "Choi Yi-joon",
+     "n": "Cha Seo-won"
+    },
+    {
+     "c": "Seon Han-gyeol",
+     "n": "Cho Jun-young"
+    },
+    {
+     "c": "Choi Se-jin",
+     "n": "Lee Jae-in"
+    },
+    {
+     "c": "Jeong Nan-hee",
+     "n": "Na Young-hee"
+    },
+    {
+     "c": "Yoon Jeong-ki",
+     "n": "Cho Seung-yeon"
+    },
+    {
+     "c": "Oh Seong-tae",
+     "n": "Im Su-hyung"
+    },
+    {
+     "c": "Seo Hye-sook",
+     "n": "Jin Kyung"
+    },
+    {
+     "c": "Jeong Jin-hyeok",
+     "n": "Bae Jung-nam"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "tvN",
+   "created_by": [
+    "Kim A-jung"
+   ],
+   "director": [
+    "Park Won-gook"
+   ],
+   "episode_run_time": [
+    65
+   ],
+   "first_air_date": "2026-01-05",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 280948,
+   "industry": "world",
+   "networks": [
+    "tvN"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "After moving to a quiet rural town to heal from past heartbreak, a withdrawn teacher slowly rediscovers warmth and joy through her unexpected connection with a rough-around-the-edges but kindhearted local man.",
+   "popularity": 7.909,
+   "poster_path": "/50e9qtv8rKmcayAQSgB9P9XELpQ.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-05",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko",
+    "hi"
+   ],
+   "status": "Ended",
+   "tagline": "Spring didn't just arrive — it rewrote her story.",
+   "title": "Spring Fever",
+   "trailer": {
+    "key": "IgyahanUcOk",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.112,
+   "vote_count": 76
   },
   "tv:46648": {
    "backdrop_path": "/v8YFr8BbU9qsO8PYIulzTeM6Qk.jpg",

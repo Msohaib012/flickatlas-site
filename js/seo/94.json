@@ -1,6 +1,6 @@
 {
  "bucket": "94",
- "count": 25,
+ "count": 36,
  "titles": {
   "movie:10994": {
    "d": "White Oleander (2002): Drama film. Story: A teenager journeys through a series of foster homes… See cast, budget $16M, and TMDB rating 7.0/10.",
@@ -1211,6 +1211,45 @@
    "t": "The SpongeBob Movie: Search for SquarePants (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "tv:157194": {
+   "d": "Pole to Pole with Will Smith (2026) is a Documentary TV series. Explore its story: Inspired by his late mentor, Will Smith spends 100…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/dF5w4FpM62F4wygVUJMiDhAGwX8.jpg",
+   "industry": "world",
+   "k": "Pole to Pole with Will Smith, Pole to Pole with Will Smith TV series, Pole to Pole with Will Smith cast, Pole to Pole with Will Smith story, Pole to Pole with Will Smith seasons, Pole to Pole with Will Smith episodes, Pole to Pole with Will Smith season 1, Pole to Pole with Will Smith 7 episodes, Pole to Pole with Will Smith first air date, Pole to Pole with Will Smith trailer, Pole to Pole with Will Smith Documentary, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Will Smith"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 37,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Pole to Pole with Will Smith (2026) is a Documentary TV series. Explore its story: Inspired by his late mentor, Will Smith spends 100…, cast, and 1 season.",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dF5w4FpM62F4wygVUJMiDhAGwX8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=157194",
+    "name": "Pole to Pole with Will Smith",
+    "numberOfEpisodes": 7,
+    "numberOfSeasons": 1,
+    "startDate": "2026-01-13",
+    "url": "https://flickatlas.co.uk/show?id=157194"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pole to Pole with Will Smith (2026)</h1>\n<p class=\"ssr-lead\">Inspired by his late mentor, Will Smith spends 100 days facing extreme challenges, venturing from pole to pole with scientists, explorers and experts.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 13 January 2026</li><li>Seasons: 1 · Episodes: 7</li><li>Genres: Documentary</li><li>TMDB rating: 7.1/10 (37 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Will Smith as Self - Host</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Pole to Pole with Will Smith (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
   "tv:194": {
    "d": "NYPD Blue (1993) is a Drama TV series. Explore its story: Police drama set in New York City, exploring the…, cast, 12 seasons, and 261 episodes.",
    "img": "https://image.tmdb.org/t/p/w780/uGGmIOPc2QLNF4t3Ro46wRcYr3t.jpg",
@@ -1265,6 +1304,559 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>NYPD Blue (1993)</h1>\n<p class=\"ssr-lead\">Police drama set in New York City, exploring the internal and external struggles of the fictional 15th precinct of Manhattan. Each episode typically intertwined several plots involving an ensemble cast.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 21 September 1993</li><li>Seasons: 12 · Episodes: 261</li><li>Created by: David Milch, Steven Bochco</li><li>Genres: Drama</li><li>TMDB rating: 7.1/10 (188 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dennis Franz as Andy Sipowicz</li><li>Mark-Paul Gosselaar as John Clark Jr.</li><li>Henry Simmons as Baldwin Jones</li><li>Gordon Clapp as Greg Medavoy</li><li>Bill Brochtrup as John Irvin</li><li>Jacqueline Obradors as Rita Ortiz</li><li>Currie Graham as Thomas Bale</li><li>Bonnie Somerville as Laura Murphy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "NYPD Blue (1993) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "1993"
+  },
+  "tv:206494": {
+   "d": "Million-Follower Detective (2026) is a Mystery and Crime TV series. Explore its story: In this crime thriller, Detective Chen Chia-jen races… and cast.",
+   "img": "https://image.tmdb.org/t/p/w780/sMMEQPPe2xwwnF1JgUVNJ1jCV1V.jpg",
+   "industry": "world",
+   "k": "Million-Follower Detective, Million-Follower Detective TV series, Million-Follower Detective cast, Million-Follower Detective story, Million-Follower Detective seasons, Million-Follower Detective episodes, Million-Follower Detective season 1, Million-Follower Detective 8 episodes, Million-Follower Detective first air date, Million-Follower Detective Mystery, Million-Follower Detective Crime, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ekin Cheng Yee-kin"
+     },
+     {
+      "@type": "Person",
+      "name": "Shou Lou"
+     },
+     {
+      "@type": "Person",
+      "name": "Patty Lee"
+     },
+     {
+      "@type": "Person",
+      "name": "Edison Wang"
+     },
+     {
+      "@type": "Person",
+      "name": "Lee Lee-zen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 21,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Million-Follower Detective (2026) is a Mystery and Crime TV series. Explore its story: In this crime thriller, Detective Chen Chia-jen races… and cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Shaun Su"
+     }
+    ],
+    "genre": [
+     "Mystery",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sMMEQPPe2xwwnF1JgUVNJ1jCV1V.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=206494",
+    "name": "Million-Follower Detective",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 1,
+    "startDate": "2026-02-12",
+    "url": "https://flickatlas.co.uk/show?id=206494"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Million-Follower Detective (2026)</h1>\n<p class=\"ssr-lead\">In this crime thriller, Detective Chen Chia-jen races to unmask Baba the Witch, the viral tarot reader who accurately predicts the deaths of influencers.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 12 February 2026</li><li>Seasons: 1 · Episodes: 8</li><li>Director: Shaun Su</li><li>Genres: Mystery, Crime</li><li>TMDB rating: 7.9/10 (21 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ekin Cheng Yee-kin as Chia-Jen Chen</li><li>Shou Lou as Ting-Yu Lin</li><li>Patty Lee as Hsin-Ping Li</li><li>Edison Wang as Ta-Fu Kuo</li><li>Lee Lee-zen as Chen-Wei He</li><li>Buffy Chen as Yu-Chieh Chen</li><li>Chloe Xiang as Ting-En Li</li><li>Kent Tsai as Meng-Yen Wei</li><li>Zhan Huai-yun as Chih-Ping Kao</li><li>Isaac Yang as Yan-Hua Liu</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Million-Follower Detective (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:248394": {
+   "d": "FOREVER (2025) is a Drama TV series. Explore its story: Reunited as teens, childhood friends Keisha and…, cast, 2 seasons, 8 episodes, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lhbT6Kmv8yi4QJzyshTRCdoNhfV.jpg",
+   "industry": "world",
+   "k": "FOREVER, FOREVER TV series, FOREVER cast, FOREVER story, FOREVER seasons, FOREVER episodes, FOREVER season 2, FOREVER 8 episodes, FOREVER first air date, FOREVER trailer, FOREVER Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lovie Simone"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Cooper Jr."
+     },
+     {
+      "@type": "Person",
+      "name": "Xosha Roquemore"
+     },
+     {
+      "@type": "Person",
+      "name": "Marvin L. Winans III"
+     },
+     {
+      "@type": "Person",
+      "name": "Wood Harris"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 55,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "FOREVER (2025) is a Drama TV series. Explore its story: Reunited as teens, childhood friends Keisha and…, cast, 2 seasons, 8 episodes, and TMDB rating 6.7/10.",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lhbT6Kmv8yi4QJzyshTRCdoNhfV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=248394",
+    "name": "FOREVER",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 2,
+    "startDate": "2025-05-08",
+    "url": "https://flickatlas.co.uk/show?id=248394"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>FOREVER (2025)</h1>\n<p class=\"ssr-lead\">Reunited as teens, childhood friends Keisha and Justin fall deeply in love, experiencing the joy and heartache of a first romance that will change their lives forever.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 8 May 2025</li><li>Seasons: 2 · Episodes: 8</li><li>Created by: Mara Brock Akil</li><li>Genres: Drama</li><li>TMDB rating: 6.7/10 (55 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lovie Simone as Keisha Clark</li><li>Michael Cooper Jr. as Justin Edwards</li><li>Xosha Roquemore as Shelly Clark</li><li>Marvin L. Winans III as Jaden Edwards</li><li>Wood Harris as Eric Edwards</li><li>Karen Pittman as Dawn Edwards</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "FOREVER (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:256694": {
+   "d": "Adventure Time: Side Quests (2026) is an Animation and Action & Adventure TV series. Explore its story: Young hero Finn and his magical dog best friend Jake….",
+   "img": "https://image.tmdb.org/t/p/w780/l75H7ymGd96jPWdIjvOXW0qvEM4.jpg",
+   "industry": "world",
+   "k": "Adventure Time: Side Quests, Adventure Time: Side Quests TV series, Adventure Time: Side Quests cast, Adventure Time: Side Quests story, Adventure Time: Side Quests seasons, Adventure Time: Side Quests episodes, Adventure Time: Side Quests season 2, Adventure Time: Side Quests 40 episodes, Adventure Time: Side Quests first air date, Adventure Time: Side Quests trailer, Adventure Time: Side Quests Animation, Adventure Time: Side Quests Action & Adventure, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "John DiMaggio"
+     },
+     {
+      "@type": "Person",
+      "name": "Sasha Knight"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 30,
+     "ratingValue": 8.9,
+     "worstRating": 0
+    },
+    "description": "Adventure Time: Side Quests (2026) is an Animation and Action & Adventure TV series. Explore its story: Young hero Finn and his magical dog best friend Jake….",
+    "genre": [
+     "Animation",
+     "Action & Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/l75H7ymGd96jPWdIjvOXW0qvEM4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=256694",
+    "name": "Adventure Time: Side Quests",
+    "numberOfEpisodes": 40,
+    "numberOfSeasons": 2,
+    "startDate": "2026-06-29",
+    "url": "https://flickatlas.co.uk/show?id=256694"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Adventure Time: Side Quests (2026)</h1>\n<p class=\"ssr-lead\">Young hero Finn and his magical dog best friend Jake embark on adventures across the fantastical land of Ooo — partying with cloud people and punching evil in the butt along the way.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 29 June 2026</li><li>Seasons: 2 · Episodes: 40</li><li>Genres: Animation, Action &amp; Adventure, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 8.9/10 (30 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>John DiMaggio as Jake (voice)</li><li>Sasha Knight as Finn (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus, Hulu</li></ul>\n</article>",
+   "t": "Adventure Time: Side Quests (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:257994": {
+   "d": "Half Man (2026) is a Drama TV series. Explore its story: When Niall's estranged 'brother' Ruben shows up at…, cast, 1 season, and 6 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/voRcBEjydt5dJNgXuqtobIsZIbJ.jpg",
+   "industry": "world",
+   "k": "Half Man, Half Man TV series, Half Man cast, Half Man story, Half Man seasons, Half Man episodes, Half Man season 1, Half Man 6 episodes, Half Man first air date, Half Man trailer, Half Man Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Richard Gadd"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamie Bell"
+     },
+     {
+      "@type": "Person",
+      "name": "Neve McIntosh"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 160,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "Half Man (2026) is a Drama TV series. Explore its story: When Niall's estranged 'brother' Ruben shows up at…, cast, 1 season, and 6 episodes.",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/voRcBEjydt5dJNgXuqtobIsZIbJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=257994",
+    "name": "Half Man",
+    "numberOfEpisodes": 6,
+    "numberOfSeasons": 1,
+    "startDate": "2026-04-28",
+    "url": "https://flickatlas.co.uk/show?id=257994"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Half Man (2026)</h1>\n<p class=\"ssr-lead\">When Niall&#x27;s estranged &#x27;brother&#x27; Ruben shows up at his wedding, it leads to an explosion of violence that catapults us back through their lives.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 28 April 2026</li><li>Seasons: 1 · Episodes: 6</li><li>Created by: Richard Gadd</li><li>Genres: Drama</li><li>TMDB rating: 8.0/10 (160 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Richard Gadd as Ruben</li><li>Jamie Bell as Niall</li><li>Neve McIntosh as Lori</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li></ul>\n</article>",
+   "t": "Half Man (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:262594": {
+   "d": "Long Way Home (2025) is a Documentary TV series. Explore its story: Best friends Ewan McGregor and Charley Boorman gear…, cast, 1 season, and 10 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/4h1hvQ5ejTBtsceNP4KfZ4sBmoC.jpg",
+   "industry": "world",
+   "k": "Long Way Home, Long Way Home TV series, Long Way Home cast, Long Way Home story, Long Way Home seasons, Long Way Home episodes, Long Way Home season 1, Long Way Home 10 episodes, Long Way Home first air date, Long Way Home trailer, Long Way Home Documentary, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ewan McGregor"
+     },
+     {
+      "@type": "Person",
+      "name": "Charley Boorman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 24,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Long Way Home (2025) is a Documentary TV series. Explore its story: Best friends Ewan McGregor and Charley Boorman gear…, cast, 1 season, and 10 episodes.",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4h1hvQ5ejTBtsceNP4KfZ4sBmoC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=262594",
+    "name": "Long Way Home",
+    "numberOfEpisodes": 10,
+    "numberOfSeasons": 1,
+    "startDate": "2025-05-09",
+    "url": "https://flickatlas.co.uk/show?id=262594"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Long Way Home (2025)</h1>\n<p class=\"ssr-lead\">Best friends Ewan McGregor and Charley Boorman gear up for their fourth Long Way series—this time going from Ewan&#x27;s home in Scotland to Charley&#x27;s in England. They&#x27;ll take the scenic route, of course, through 17 European countries on cranky old bikes.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 9 May 2025</li><li>Seasons: 1 · Episodes: 10</li><li>Created by: David Alexanian, Charley Boorman, Russ Malkin, Ewan McGregor</li><li>Genres: Documentary</li><li>TMDB rating: 7.9/10 (24 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ewan McGregor as Self</li><li>Charley Boorman as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Apple TV, Apple TV Amazon Channel</li></ul>\n</article>",
+   "t": "Long Way Home (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:298994": {
+   "d": "The Villager of Level 999 (2026) is an Animation and Action & Adventure TV series. Explore its story: In Earthclear, everyone is born into a fixed role….",
+   "img": "https://image.tmdb.org/t/p/w780/ydWwc4NOeDb7t8pcR3tf6n12rLB.jpg",
+   "industry": "world",
+   "k": "The Villager of Level 999, The Villager of Level 999 TV series, The Villager of Level 999 cast, The Villager of Level 999 story, The Villager of Level 999 seasons, The Villager of Level 999 episodes, The Villager of Level 999 season 1, The Villager of Level 999 12 episodes, The Villager of Level 999 first air date, The Villager of Level 999 trailer, The Villager of Level 999 Animation, The Villager of Level 999 Action & Adventure, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Satoshi Inomata"
+     },
+     {
+      "@type": "Person",
+      "name": "Nao Toyama"
+     },
+     {
+      "@type": "Person",
+      "name": "Hiroya Egashira"
+     },
+     {
+      "@type": "Person",
+      "name": "Manaka Iwami"
+     },
+     {
+      "@type": "Person",
+      "name": "Nobunaga Shimazaki"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 23,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "The Villager of Level 999 (2026) is an Animation and Action & Adventure TV series. Explore its story: In Earthclear, everyone is born into a fixed role….",
+    "genre": [
+     "Animation",
+     "Action & Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ydWwc4NOeDb7t8pcR3tf6n12rLB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=298994",
+    "name": "The Villager of Level 999",
+    "numberOfEpisodes": 12,
+    "numberOfSeasons": 1,
+    "startDate": "2026-07-02",
+    "url": "https://flickatlas.co.uk/show?id=298994"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Villager of Level 999 (2026)</h1>\n<p class=\"ssr-lead\">In Earthclear, everyone is born into a fixed role, and villagers are the weakest of all. Most never rise above Level 5—except Koji Kagami, who is Level...999?! On a monster hunt, he meets Alice, the Demon King&#x27;s daughter, and discovers they share an impossible dream: coexistence between humans and demons. In a world destined for conflict, they charge into battle to defy fate and shatter the rules.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 2 July 2026</li><li>Seasons: 1 · Episodes: 12</li><li>Genres: Animation, Action &amp; Adventure, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 6.5/10 (23 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Satoshi Inomata as Kouji Kagami (voice)</li><li>Nao Toyama as Alice (voice)</li><li>Hiroya Egashira as Takako Bilda (voice)</li><li>Manaka Iwami as Krull Hekisaldoria (voice)</li><li>Nobunaga Shimazaki as Rex (voice)</li><li>Aoi Koga as Tina (voice)</li><li>Lynn as Paruna (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll, Crunchyroll Amazon Channel</li></ul>\n</article>",
+   "t": "The Villager of Level 999 (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:300894": {
+   "d": "Kurukshetra: The Great War of Mahabharata (2025) is an Action & Adventure and Drama TV series. Explore its story: An epic 18-day battle unfolds through the….",
+   "img": "https://image.tmdb.org/t/p/w780/u39VepT8l7cgDy9nsXG76t4av9n.jpg",
+   "industry": "bollywood",
+   "k": "Kurukshetra: The Great War of Mahabharata, Kurukshetra: The Great War of Mahabharata TV series, Kurukshetra: The Great War of Mahabharata cast, Kurukshetra: The Great War of Mahabharata story, Kurukshetra: The Great War of Mahabharata seasons, Kurukshetra: The Great War of Mahabharata episodes, Kurukshetra: The Great War of Mahabharata season 1, Kurukshetra: The Great War of Mahabharata 18 episodes, Kurukshetra: The Great War of Mahabharata first air date, Kurukshetra: The Great War of Mahabharata Action & Adventure, Kurukshetra: The Great War of Mahabharata Drama, Bollywood TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vinod Sharma"
+     },
+     {
+      "@type": "Person",
+      "name": "Sahil Vaid"
+     },
+     {
+      "@type": "Person",
+      "name": "Saumya Daan"
+     },
+     {
+      "@type": "Person",
+      "name": "Anamaya Verma"
+     },
+     {
+      "@type": "Person",
+      "name": "Manoj Pandey"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 35,
+     "ratingValue": 8.1,
+     "worstRating": 0
+    },
+    "description": "Kurukshetra: The Great War of Mahabharata (2025) is an Action & Adventure and Drama TV series. Explore its story: An epic 18-day battle unfolds through the….",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ujaan Ganguly"
+     }
+    ],
+    "genre": [
+     "Action & Adventure",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/u39VepT8l7cgDy9nsXG76t4av9n.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=300894",
+    "name": "Kurukshetra: The Great War of Mahabharata",
+    "numberOfEpisodes": 18,
+    "numberOfSeasons": 1,
+    "startDate": "2025-10-10",
+    "url": "https://flickatlas.co.uk/show?id=300894"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Kurukshetra: The Great War of Mahabharata (2025)</h1>\n<p class=\"ssr-lead\">An epic 18-day battle unfolds through the perspectives of 18 warriors, revealing their inner struggles and ethical challenges during a war between brothers.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 10 October 2025</li><li>Seasons: 1 · Episodes: 18</li><li>Created by: Anu Sikka</li><li>Director: Ujaan Ganguly</li><li>Genres: Action &amp; Adventure, Drama, Animation, War &amp; Politics</li><li>TMDB rating: 8.1/10 (35 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vinod Sharma as Sanjay - Narrator (voice)</li><li>Sahil Vaid as Krishn (voice)</li><li>Saumya Daan as Arjun (voice)</li><li>Anamaya Verma as Yudhisthir (voice)</li><li>Manoj Pandey as Bheem (voice)</li><li>Neha Gargawa as Kunti (voice)</li><li>Pawan Kalra as Duryodhan (voice)</li><li>Krutarth Trive as Karn (voice)</li><li>Vinod Kulkarni as Shakuni (voice)</li><li>Nand Kishore Pandey as Bhishm (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Kurukshetra: The Great War of Mahabharata (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:316294": {
+   "d": "Payback (2026) is a Drama and Crime TV series. Explore its story: A grieving debt collector enters the entertainment…, cast, 1 season, and 10 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/4L9sftGH7oQ1bpB0aQHERwyfDVd.jpg",
+   "industry": "world",
+   "k": "Payback, Payback TV series, Payback cast, Payback story, Payback seasons, Payback episodes, Payback season 1, Payback 10 episodes, Payback first air date, Payback Drama, Payback Crime, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Thanakorn Wichanukhor"
+     },
+     {
+      "@type": "Person",
+      "name": "Jarukit Kaewmoonrueang"
+     },
+     {
+      "@type": "Person",
+      "name": "Paramee Thesdaroon"
+     },
+     {
+      "@type": "Person",
+      "name": "Chaikamon Sermsongwittaya"
+     },
+     {
+      "@type": "Person",
+      "name": "Thanawat Shinawatra"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 27,
+     "ratingValue": 8.9,
+     "worstRating": 0
+    },
+    "description": "Payback (2026) is a Drama and Crime TV series. Explore its story: A grieving debt collector enters the entertainment…, cast, 1 season, and 10 episodes.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Pongchaiphat Sethanand"
+     }
+    ],
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4L9sftGH7oQ1bpB0aQHERwyfDVd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=316294",
+    "name": "Payback",
+    "numberOfEpisodes": 10,
+    "numberOfSeasons": 1,
+    "startDate": "2026-05-30",
+    "url": "https://flickatlas.co.uk/show?id=316294"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Payback (2026)</h1>\n<p class=\"ssr-lead\">A grieving debt collector enters the entertainment world for revenge, only to fall into a dangerous attraction with a powerful executive.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 30 May 2026</li><li>Seasons: 1 · Episodes: 10</li><li>Created by: samK</li><li>Director: Pongchaiphat Sethanand</li><li>Genres: Drama, Crime, Action &amp; Adventure</li><li>TMDB rating: 8.9/10 (27 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Thanakorn Wichanukhor as Sun</li><li>Jarukit Kaewmoonrueang as Jay</li><li>Paramee Thesdaroon as Sky</li><li>Chaikamon Sermsongwittaya as Pakin</li><li>Thanawat Shinawatra as Bank</li><li>Jirapat Uttamanan as Kajorn</li><li>Klot Atthaseri as Songphon</li><li>Suttida Kasemsant Na Ayutthaya as Pavinee</li><li>Gandhi​ Wasuvitchayagit as Jo</li><li>Yasaka Chaisorn as Suchat</li></ul>\n</article>",
+   "t": "Payback (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:321594": {
+   "d": "Futuro desierto (2026) is a Drama TV series. Explore its story: A robotics engineer moves with his family to Mexico…, cast, 1 season, and 6 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/wjg2I9SPAuRQV7cCVIjgQK62Hqi.jpg",
+   "industry": "world",
+   "k": "Futuro desierto, Futuro desierto TV series, Futuro desierto cast, Futuro desierto story, Futuro desierto seasons, Futuro desierto episodes, Futuro desierto season 1, Futuro desierto 6 episodes, Futuro desierto first air date, Futuro desierto Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "José María Yázpik"
+     },
+     {
+      "@type": "Person",
+      "name": "Àstrid Bergès-Frisbey"
+     },
+     {
+      "@type": "Person",
+      "name": "Juan Carlos Remolina"
+     },
+     {
+      "@type": "Person",
+      "name": "Karla Souza"
+     },
+     {
+      "@type": "Person",
+      "name": "Isabel Aerenlund"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 22,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Futuro desierto (2026) is a Drama TV series. Explore its story: A robotics engineer moves with his family to Mexico…, cast, 1 season, and 6 episodes.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Juan Pablo Pires"
+     }
+    ],
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wjg2I9SPAuRQV7cCVIjgQK62Hqi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=321594",
+    "name": "Futuro desierto",
+    "numberOfEpisodes": 6,
+    "numberOfSeasons": 1,
+    "startDate": "2026-05-22",
+    "url": "https://flickatlas.co.uk/show?id=321594"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Futuro desierto (2026)</h1>\n<p class=\"ssr-lead\">A robotics engineer moves with his family to Mexico to secretly test humanoid androids, investigating the emotional dilemmas and clashes between humans and artificial beings.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 22 May 2026</li><li>Seasons: 1 · Episodes: 6</li><li>Director: Juan Pablo Pires</li><li>Genres: Drama</li><li>TMDB rating: 7.9/10 (22 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>José María Yázpik as Alex</li><li>Àstrid Bergès-Frisbey as Maria</li><li>Juan Carlos Remolina as Mikka</li><li>Karla Souza as Sara Alcala</li><li>Isabel Aerenlund as Himari Miller</li><li>Ilse Salas as Gloria</li><li>Andrés Parra as Frank</li><li>Natasha Dupeyrón as Anya</li><li>Harding Junior as Roy</li><li>Horacio García Rojas as Martin</li></ul>\n</article>",
+   "t": "Futuro desierto (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:329394": {
+   "d": "My Daughter's Father (2026) is a Drama TV series. Explore its story: Follows Julieta who, during her graduation party…, cast, 1 season, and 10 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/aQFeADnhJimn635owevcpwyaUAG.jpg",
+   "industry": "world",
+   "k": "My Daughter's Father, My Daughter's Father TV series, My Daughter's Father cast, My Daughter's Father story, My Daughter's Father seasons, My Daughter's Father episodes, My Daughter's Father season 1, My Daughter's Father 10 episodes, My Daughter's Father first air date, My Daughter's Father Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Manolo Cardona"
+     },
+     {
+      "@type": "Person",
+      "name": "Erik Hayser"
+     },
+     {
+      "@type": "Person",
+      "name": "Paola Nuñez"
+     },
+     {
+      "@type": "Person",
+      "name": "Azul Guaita"
+     },
+     {
+      "@type": "Person",
+      "name": "Sebastián Dante"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 64,
+     "ratingValue": 9.1,
+     "worstRating": 0
+    },
+    "description": "My Daughter's Father (2026) is a Drama TV series. Explore its story: Follows Julieta who, during her graduation party…, cast, 1 season, and 10 episodes.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Roberto Stopello"
+     }
+    ],
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aQFeADnhJimn635owevcpwyaUAG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=329394",
+    "name": "My Daughter's Father",
+    "numberOfEpisodes": 10,
+    "numberOfSeasons": 1,
+    "startDate": "2026-07-22",
+    "url": "https://flickatlas.co.uk/show?id=329394"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>My Daughter&#x27;s Father (2026)</h1>\n<p class=\"ssr-lead\">Follows Julieta who, during her graduation party suffers a life-threatening health crisis that forces her mother, Maca, to face secrets from the past.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 22 July 2026</li><li>Seasons: 1 · Episodes: 10</li><li>Created by: Roberto Stopello</li><li>Director: Roberto Stopello</li><li>Genres: Drama</li><li>TMDB rating: 9.1/10 (64 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Manolo Cardona as Papá de los hermanos de Julieta/esposo de Macarena</li><li>Erik Hayser as Esposo de Yolanda/Papa de las hermanas de Julieta</li><li>Paola Nuñez as Yolanda</li><li>Azul Guaita as Julieta</li><li>Sebastián Dante as Gustavo</li><li>Emilio Osorio as Bernado</li><li>Pamela Moreno as Victoria</li><li>Romina Poza as Maria</li><li>Alejandro Cuétara as Dr. Christian Jiménez</li><li>Silvia Navarro as Macarena</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "My Daughter's Father (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
   },
   "tv:35894": {
    "d": "Zatch Bell! (2003) is an Animation and Comedy TV series. Explore its story: Takamine Kiyomaro, a depressed…, cast, 1 season, and 150 episodes.",

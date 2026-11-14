@@ -1,6 +1,6 @@
 {
  "bucket": "18",
- "count": 29,
+ "count": 36,
  "titles": {
   "movie:10118": {
    "backdrop_path": "/53dMoCCdlUnU1ldPDpLr5fheZbG.jpg",
@@ -489,133 +489,6 @@
    "type": "movie",
    "vote_average": 5.6,
    "vote_count": 440
-  },
-  "movie:1290418": {
-   "backdrop_path": "/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Meg",
-     "n": "Deborah Ann Woll"
-    },
-    {
-     "c": "Marks",
-     "n": "Jeffrey Donovan"
-    },
-    {
-     "c": "Joni",
-     "n": "Gretchen Corbett"
-    },
-    {
-     "c": "Lenny",
-     "n": "Jack Doolan"
-    },
-    {
-     "c": "Ian",
-     "n": "Will Hochman"
-    },
-    {
-     "c": "Fran",
-     "n": "Dana Millican"
-    },
-    {
-     "c": "Daniel",
-     "n": "Phillip Andre Botello"
-    },
-    {
-     "c": "Frank",
-     "n": "Don Keith Opper"
-    },
-    {
-     "c": "Lou Bishop",
-     "n": "Carl W. Crudup"
-    },
-    {
-     "c": "Katie",
-     "n": "Danika Golombek"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Jordan Downey"
-   ],
-   "genres": [
-    "Horror",
-    "Thriller",
-    "Mystery"
-   ],
-   "id": 1290418,
-   "industry": "world",
-   "origin_country": [
-    "GB"
-   ],
-   "original_language": "en",
-   "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
-   "popularity": 28.4536,
-   "poster_path": "/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
-   "production_countries": [
-    "US",
-    "GB"
-   ],
-   "providers": [
-    {
-     "name": "AMC Plus Apple TV channel"
-    },
-    {
-     "name": "AMC+ Amazon Channel"
-    },
-    {
-     "name": "Shudder"
-    },
-    {
-     "name": "Shudder Amazon Channel"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
-     "name": "AMC Plus Apple TV channel",
-     "region": "US"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
-     "name": "AMC+ Amazon Channel",
-     "region": "US"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
-     "name": "Shudder",
-     "region": "US"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-09-24",
-   "revenue": 459579,
-   "runtime": 111,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "You can't bury the past forever.",
-   "title": "The Cycle",
-   "trailer": {
-    "key": "m8vcBN8uza8",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 6.899,
-   "vote_count": 153
   },
   "movie:1307118": {
    "backdrop_path": "/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
@@ -3193,49 +3066,29 @@
    "vote_average": 7.696,
    "vote_count": 271
   },
-  "tv:247718": {
-   "backdrop_path": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+  "tv:245318": {
+   "backdrop_path": "/r1lGjwTRF0RGYFHzvt3SupArmRy.jpg",
    "budget": 0,
    "cast": [
     {
-     "c": "Harry Da Souza",
-     "n": "Tom Hardy"
+     "c": "Margo",
+     "n": "Elle Fanning"
     },
     {
-     "c": "Conrad Harrigan",
-     "n": "Pierce Brosnan"
+     "c": "Shyanne",
+     "n": "Michelle Pfeiffer"
     },
     {
-     "c": "Kevin Harrigan",
-     "n": "Paddy Considine"
+     "c": "Jinx",
+     "n": "Nick Offerman"
     },
     {
-     "c": "Jan Da Souza",
-     "n": "Joanne Froggatt"
+     "c": "Kenny",
+     "n": "Greg Kinnear"
     },
     {
-     "c": "Isabella 'Bella' Harrigan",
-     "n": "Lara Pulver"
-    },
-    {
-     "c": "Eddie Harrigan",
-     "n": "Anson Boon"
-    },
-    {
-     "c": "Seraphina Harrigan",
-     "n": "Mandeep Dhillon"
-    },
-    {
-     "c": "Zosia",
-     "n": "Jasmine Jobson"
-    },
-    {
-     "c": "Gina Da Souza",
-     "n": "Teddie Allen"
-    },
-    {
-     "c": "Paul",
-     "n": "Emmett J. Scanlan"
+     "c": "Susie",
+     "n": "Thaddea Graham"
     }
    ],
    "catalogue": true,
@@ -3244,35 +3097,649 @@
     "catalogue"
    ],
    "certification": "A",
-   "channel": "Paramount+",
+   "channel": "Apple TV",
    "created_by": [
-    "Ronan Bennett"
+    "David E. Kelley"
    ],
    "director": [],
    "episode_run_time": [],
-   "first_air_date": "2025-03-30",
+   "first_air_date": "2026-04-14",
    "genres": [
-    "Crime",
-    "Drama"
+    "Drama",
+    "Comedy"
    ],
-   "id": 247718,
+   "id": 245318,
    "industry": "world",
    "networks": [
-    "Paramount+",
-    "Paramount+"
+    "Apple TV"
    ],
-   "number_of_episodes": 20,
-   "number_of_seasons": 2,
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
    "origin_country": [
-    "GB",
     "US"
    ],
    "original_language": "en",
-   "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-   "popularity": 359.6873,
-   "poster_path": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+   "overview": "The daughter of a former Hooter's waitress and an ex-pro wrestler, Margo is a recent college dropout and aspiring writer. Faced with a new baby, mounting pile of bills, and dwindling number of ways to pay them, Margo must find a way forward.",
+   "popularity": 10.9523,
+   "poster_path": "/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
    "production_countries": [
-    "US",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-14",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Everyone's got a side hustle.",
+   "title": "Margo's Got Money Troubles",
+   "trailer": {
+    "key": "AjI52haEerU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.863,
+   "vote_count": 211
+  },
+  "tv:272118": {
+   "backdrop_path": "/1rxLKPOIHdJ9aFUwmzQ9gagZkUc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Midori Nagumo (voice)",
+     "n": "Mikako Komatsu"
+    },
+    {
+     "c": "Niikura (voice)",
+     "n": "Aki Toyosaki"
+    },
+    {
+     "c": "Wako Izumi (voice)",
+     "n": "Yui Ishikawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-07",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 272118,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 13,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "This town, is not just a normal town. There's laughter, love and emotional moments. An unpredictable ordinary life presented by the residents! Exciting stuffs come one after another. Welcome to CITY.",
+   "popularity": 20.8781,
+   "poster_path": "/nmW8UEvhbSR5ANmfnC0hSG7lS88.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-07",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "CITY THE ANIMATION",
+   "trailer": {
+    "key": "KOrWLfojABk",
+    "name": "On Blu-ray",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.4,
+   "vote_count": 33
+  },
+  "tv:272418": {
+   "backdrop_path": "/uoIOfRNmu47P2fET2KnrYHt3TH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Robert 'Rob' of Locksley",
+     "n": "Jack Patten"
+    },
+    {
+     "c": "Marian",
+     "n": "Lauren McQueen"
+    },
+    {
+     "c": "Priscilla of Nottingham",
+     "n": "Lydia Peckham"
+    },
+    {
+     "c": "Little John",
+     "n": "Marcus Fraser"
+    },
+    {
+     "c": "Ralph Miller",
+     "n": "Erica Ford"
+    },
+    {
+     "c": "Will",
+     "n": "Henry Rowley"
+    },
+    {
+     "c": "Friar Tuck",
+     "n": "Angus Castle-Doughty"
+    },
+    {
+     "c": "Earl of Huntingdon",
+     "n": "Steven Waddington"
+    },
+    {
+     "c": "Eleanor of Aquitaine",
+     "n": "Connie Nielsen"
+    },
+    {
+     "c": "Sheriff of Nottingham",
+     "n": "Sean Bean"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "MGM+",
+   "created_by": [
+    "Jonathan English",
+    "John Glenn"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-11-02",
+   "genres": [
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 272418,
+   "industry": "world",
+   "networks": [
+    "MGM+"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A modern reimagining of the classic tale. After the Norman invasion of England, Rob, a Saxon forester’s son, and Marian, a Norman lord’s daughter, fall in love and unite to fight for justice, challenge corruption, and restore peace to the land.",
+   "popularity": 9.1198,
+   "poster_path": "/3teWChNzKJdbfen46IdeKTygdZa.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-02",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Robin Hood",
+   "trailer": {
+    "key": "SDfWMSNQEJc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.489,
+   "vote_count": 177
+  },
+  "tv:273418": {
+   "backdrop_path": "/nZcF5itd412f50krz3WLWDDcB7o.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ahn Ju-hyeong",
+     "n": "Lee Jong-suk"
+    },
+    {
+     "c": "Kang Hee-ji",
+     "n": "Mun Ka-young"
+    },
+    {
+     "c": "Jo Chang-won",
+     "n": "Kang You-seok"
+    },
+    {
+     "c": "Bae Moon-jeong",
+     "n": "Ryu Hye-young"
+    },
+    {
+     "c": "Ha Sang-ki",
+     "n": "Im Sung-jae"
+    },
+    {
+     "c": "Kim Hyeong-min",
+     "n": "Yeom Hye-ran"
+    },
+    {
+     "c": "Seong Yu Deok",
+     "n": "Lee Seo-hwan"
+    },
+    {
+     "c": "Kim Ryu Jin",
+     "n": "Kim Ji-hyun"
+    },
+    {
+     "c": "Na Gyeong Min",
+     "n": "Park Hyoung-soo"
+    },
+    {
+     "c": "Kang Jeong Yun",
+     "n": "Jeong Hye-young"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC16",
+   "channel": "tvN",
+   "created_by": [
+    "Park Seung-woo"
+   ],
+   "director": [
+    "Park Seung-woo"
+   ],
+   "episode_run_time": [
+    70
+   ],
+   "first_air_date": "2025-07-05",
+   "genres": [
+    "Drama"
+   ],
+   "id": 273418,
+   "industry": "world",
+   "networks": [
+    "tvN"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.",
+   "popularity": 4.7052,
+   "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-05",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Law and the City",
+   "trailer": {
+    "key": "N2dj8kzEn_A",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 41
+  },
+  "tv:283818": {
+   "backdrop_path": "/5EzzCBJXWU7lpi8rPrhHDC4KkWj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sae Iwata (voice)",
+     "n": "Minori Fujidera"
+    },
+    {
+     "c": "Koki Kamishiro (voice)",
+     "n": "Yuki Ono"
+    },
+    {
+     "c": "Hisui Onodera (voice)",
+     "n": "Hina Youmiya"
+    },
+    {
+     "c": "Yota Ayukawa (voice)",
+     "n": "Taito Ban"
+    },
+    {
+     "c": "Mio Kagawa (voice)",
+     "n": "Mutsumi Tamura"
+    },
+    {
+     "c": "Yushin Izawa (voice)",
+     "n": "Ryota Osaka"
+    },
+    {
+     "c": "Subaru Kamishiro (voice)",
+     "n": "Haruka Shiraishi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "channel": "MBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-10-02",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 283818,
+   "industry": "world",
+   "networks": [
+    "MBS",
+    "TBS",
+    "CBC",
+    "Tulip Television",
+    "SBC",
+    "BSN",
+    "tys",
+    "NBC",
+    "HBC",
+    "RKK",
+    "i-Television",
+    "SBS",
+    "IBC",
+    "BSS",
+    "MRO",
+    "OBS",
+    "TUF",
+    "RSK",
+    "TUY",
+    "tbc",
+    "RKB",
+    "KUTV",
+    "RBC",
+    "UTY",
+    "RCC",
+    "MRT",
+    "ATV",
+    "MBC"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Sae Iwata, a slightly tougher-than-average girl, falls for the gentle smile of Koki Kamishiro, a delicate boy, back in elementary school. By the time they enter junior high school, Koki has grown into a charming and popular teen who now feels out of reach. When they are assigned to the sports festival committee together, Sae’s long-hidden first love begins to stir once more.",
+   "popularity": 16.5554,
+   "poster_path": "/tMCyjS1Qif5VhmRakSJpF0TzdQj.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-02",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "A Star Brighter than the Sun",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 20
+  },
+  "tv:285418": {
+   "backdrop_path": "/iEISXRsDv8Q2PA6i9cAQd2DH9bN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alex",
+     "n": "Sharon Horgan"
+    },
+    {
+     "c": "Patrick",
+     "n": "Rupert Friend"
+    },
+    {
+     "c": "Sam",
+     "n": "Sharlene Whyte"
+    },
+    {
+     "c": "Ruarí",
+     "n": "Aran Murphy"
+    },
+    {
+     "c": "Frank",
+     "n": "Robbie Gee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "HBO Max",
+   "created_by": [
+    "Sharon Horgan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-09-21",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 285418,
+   "industry": "world",
+   "networks": [
+    "HBO Max"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A 50-year-old divorcee searches for sex and love whilst juggling caring for her ailing parents and parenting her should-be grown up son.",
+   "popularity": 12.5784,
+   "poster_path": "/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
+   "production_countries": [
     "GB"
    ],
    "providers": [
@@ -3280,31 +3747,10 @@
      "name": "JioHotstar"
     },
     {
-     "name": "fuboTV"
+     "name": "HBO Max Amazon Channel"
     },
     {
-     "name": "Paramount Plus Premium"
-    },
-    {
-     "name": "Paramount Plus Essential"
-    },
-    {
-     "name": "Paramount Plus Apple TV channel"
-    },
-    {
-     "name": "Paramount+ Amazon Channel"
-    },
-    {
-     "name": "Paramount+ Roku Premium Channel"
-    },
-    {
-     "name": "Spectrum On Demand"
-    },
-    {
-     "name": "Paramount Plus"
-    },
-    {
-     "name": "Paramount Plus Basic with Ads"
+     "name": "HBO Max"
     }
    ],
    "providers_wtw": [
@@ -3319,34 +3765,376 @@
    "revenue": 0,
    "seasons": [
     {
-     "air_date": "2025-03-30",
-     "episode_count": 10,
+     "air_date": "2026-09-21",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Not wasted yet.",
+   "title": "Youth",
+   "trailer": {
+    "key": "XwuDMSlErkk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.683,
+   "vote_count": 30
+  },
+  "tv:285818": {
+   "backdrop_path": "/mCJWUo6Np2y5daruzt7fhh5TiIA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kanan Takakiyo (voice)",
+     "n": "Aoi Koga"
+    },
+    {
+     "c": "Yōji Kyōgi (voice)",
+     "n": "Seiichiro Yamashita"
+    },
+    {
+     "c": "Jeanne (voice)",
+     "n": "Sayumi Suzushiro"
+    },
+    {
+     "c": "Ami (voice)",
+     "n": "Maki Kawase"
+    },
+    {
+     "c": "Nadeko Masurao (voice)",
+     "n": "Ayaka Nanase"
+    },
+    {
+     "c": "Milch Zebul (voice)",
+     "n": "Fuka Izumi"
+    },
+    {
+     "c": "Miel Zebul (voice)",
+     "n": "Hikaru Tono"
+    },
+    {
+     "c": "Lilim Zebul (voice)",
+     "n": "Yoshino Nanjo"
+    },
+    {
+     "c": "Beelzebub (voice)",
+     "n": "Takaya Kuroda"
+    },
+    {
+     "c": "Yuriko Yurino (voice)",
+     "n": "Yui Ogura"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-04-05",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 285818,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX",
+    "BS11"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Kanan the “Gourmet Devil” has descended upon the human world with one goal: to gorge herself on youthful souls. Her first target is high schooler Youji Kyougi—except her plan backfires horribly! Instead of her meal, he’s now her…boyfriend?! Even though she’s lived for thousands of years, Kanan has never known love! Can a devil survive the dangers of dates, hand-holding, and her very first romance?",
+   "popularity": 14.9253,
+   "poster_path": "/dtHxVfPw44U1FqODiIu3LTC2x0x.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-05",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Mistress Kanan Is Devilishly Easy",
+   "trailer": {
+    "key": "y6whkkkv6kU",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.1,
+   "vote_count": 20
+  },
+  "tv:306118": {
+   "backdrop_path": "/wuHqvkUVc5jVbeVnTw37Oe8ikC7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mercan Yıldırım",
+     "n": "İlsu Demirci"
+    },
+    {
+     "c": "Ateş Karahan / Tahir Aslan",
+     "n": "Emin Günenç"
+    },
+    {
+     "c": "Eylül Karahan / Eylül Aslan",
+     "n": "Aleyna Çalışkan"
+    },
+    {
+     "c": "Hazar Bozbey",
+     "n": "Serdar Yıldırım"
+    },
+    {
+     "c": "Cemal Ahlatli",
+     "n": "Çagri Baylan"
+    },
+    {
+     "c": "Demet Keseroglu",
+     "n": "Ilayda Karatas"
+    },
+    {
+     "c": "Müzeyyen Taner",
+     "n": "Pervin Mert"
+    },
+    {
+     "c": "Asli Taner",
+     "n": "Ezgi Dalgiç"
+    },
+    {
+     "c": "Nermin Yildirim",
+     "n": "Işıl Mete"
+    },
+    {
+     "c": "Burak",
+     "n": "Volkan Yildirim"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "YouTube",
+   "created_by": [
+    "Oguzhan Denizhan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-11-21",
+   "genres": [
+    "Drama",
+    "Family"
+   ],
+   "id": 306118,
+   "industry": "world",
+   "networks": [
+    "YouTube",
+    "Kanal 7"
+   ],
+   "number_of_episodes": 168,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "TR"
+   ],
+   "original_language": "tr",
+   "overview": "Set against the picturesque landscapes of Turkey, Arafta unravels a tale of love forged in the flames of vengeance. Ateş, a man haunted by childhood scars and consumed by rage, returns to destroy the family that shattered his life years ago. His weapon is not a sword, but a marriage: 187 days with Mercan, the daughter of his enemy.",
+   "popularity": 20.4592,
+   "poster_path": "/4yYZoYgeNshoS2aODwUvCXIa8yn.jpg",
+   "production_countries": [
+    "TR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-21",
+     "episode_count": 100,
      "name": "Season 1",
      "season_number": 1
     },
     {
-     "air_date": "2026-09-18",
-     "episode_count": 10,
+     "air_date": "2026-07-23",
+     "episode_count": 68,
      "name": "Season 2",
      "season_number": 2
     }
    ],
    "source": "catalogue",
    "spoken_languages": [
-    "af",
-    "en"
+    "tr"
    ],
    "status": "Returning Series",
-   "tagline": "Chaos reigns.",
-   "title": "MobLand",
+   "tagline": "",
+   "title": "Arafta (Bound By Fate)",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 9.1,
+   "vote_count": 27
+  },
+  "tv:318918": {
+   "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Luffy (voice)",
+     "n": "Iñaki Godoy"
+    },
+    {
+     "c": "Nami (voice)",
+     "n": "Emily Rudd"
+    },
+    {
+     "c": "Zoro (voice)",
+     "n": "Mackenyu Maeda"
+    },
+    {
+     "c": "Usopp",
+     "n": "Jacob Gibson"
+    },
+    {
+     "c": "Sanji (voice)",
+     "n": "Taz Skylar"
+    },
+    {
+     "c": "Chopper (voice)",
+     "n": "Mikaela Hoover"
+    },
+    {
+     "c": "Buggy the Clown (voice)",
+     "n": "Jeff Ward"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-09-29",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Family"
+   ],
+   "id": 318918,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 2,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Straw Hats hit the high seas in a two-part LEGO special! Join Luffy, Nami, Usopp and the crew on their epic journey, fully reimagined brick by brick.",
+   "popularity": 7.0215,
+   "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-09-29",
+     "episode_count": 2,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Pirates assemble.",
+   "title": "LEGO ONE PIECE",
    "trailer": {
-    "key": "qKGgw7Ob5f4",
+    "key": "5Z8oBbmkgXo",
     "name": "Official Trailer",
     "site": "YouTube"
    },
    "type": "tv",
-   "vote_average": 8.649,
-   "vote_count": 1232
+   "vote_average": 7.9,
+   "vote_count": 22
   },
   "tv:4018": {
    "backdrop_path": "/5TpptGoxVVght2n6oz8QJklmSTu.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "31",
- "count": 26,
+ "count": 34,
  "titles": {
   "movie:101731": {
    "backdrop_path": "/fM4TVNg27IBCYAz8FUiLefWck1p.jpg",
@@ -2522,147 +2522,6 @@
    "vote_average": 5.956,
    "vote_count": 439
   },
-  "movie:980431": {
-   "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Aang (voice)",
-     "n": "Eric Nam"
-    },
-    {
-     "c": "Tagah (voice)",
-     "n": "Dave Bautista"
-    },
-    {
-     "c": "Katara (voice)",
-     "n": "Jessica Matten"
-    },
-    {
-     "c": "Sokka (voice)",
-     "n": "Román Zaragoza"
-    },
-    {
-     "c": "Zuko (voice)",
-     "n": "Steven Yeun"
-    },
-    {
-     "c": "Toph (voice)",
-     "n": "Dionne Quan"
-    },
-    {
-     "c": "Appa / Momo (voice)",
-     "n": "Dee Bradley Baker"
-    },
-    {
-     "c": "Avatar Sonam (voice)",
-     "n": "Freida Pinto"
-    },
-    {
-     "c": "Avatar Xian (voice)",
-     "n": "Ke Huy Quan"
-    },
-    {
-     "c": "Gorillavark (voice)",
-     "n": "Taika Waititi"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "PG",
-   "date_kind": "release",
-   "director": [
-    "Lauren Montgomery"
-   ],
-   "genres": [
-    "Animation",
-    "Adventure",
-    "Fantasy",
-    "Action"
-   ],
-   "id": 980431,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-   "popularity": 47.826,
-   "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-   "production_countries": [
-    "US",
-    "KR",
-    "AU"
-   ],
-   "providers": [
-    {
-     "name": "Amazon Prime Video"
-    },
-    {
-     "name": "Amazon Prime Video with Ads"
-    },
-    {
-     "name": "Paramount Plus Premium"
-    },
-    {
-     "name": "Paramount Plus Essential"
-    },
-    {
-     "name": "Paramount+ Amazon Channel"
-    },
-    {
-     "name": "Paramount+ Roku Premium Channel"
-    },
-    {
-     "name": "Paramount Plus"
-    },
-    {
-     "name": "Paramount Plus Basic with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-     "name": "Amazon Prime Video",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-     "name": "Amazon Prime Video with Ads",
-     "region": "IN"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-07-24",
-   "revenue": 0,
-   "runtime": 99,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "The legacy reawakens.",
-   "title": "Avatar Aang: The Last Airbender",
-   "trailer": {
-    "key": "7b20GRFZBFE",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 8.996,
-   "vote_count": 1441
-  },
   "tv:1431": {
    "backdrop_path": "/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
    "budget": 0,
@@ -2946,6 +2805,901 @@
    "vote_average": 7.595,
    "vote_count": 1451
   },
+  "tv:247831": {
+   "backdrop_path": "/m8s8Fp7fITnPzaftmVcsQYR5mMm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rea Thomas",
+     "n": "Vaani Kapoor"
+    },
+    {
+     "c": "Vikram Singh",
+     "n": "Vaibhav Raj Gupta"
+    },
+    {
+     "c": "Ananya Bhardwaj",
+     "n": "Surveen Chawla"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Gopi Puthran"
+   ],
+   "director": [
+    "Gopi Puthran",
+    "Manan Rawat"
+   ],
+   "episode_run_time": [
+    40
+   ],
+   "first_air_date": "2025-07-25",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 247831,
+   "industry": "bollywood",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "When a series of ritualistic murders shakes a small town, a detective and an ex-cop must investigate a mystery with deep ties to their pasts.",
+   "popularity": 2.243,
+   "poster_path": "/tg16aWs58I5PleUQDmvsXPV7zfQ.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-25",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Ended",
+   "tagline": "Mol Chukana Padega",
+   "title": "Mandala Murders",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.156,
+   "vote_count": 32
+  },
+  "tv:259731": {
+   "backdrop_path": "/n4hJLZmBG8kZccNn7bNgBDsVQ6a.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Anna Andrews",
+     "n": "Tessa Thompson"
+    },
+    {
+     "c": "Det. Jack Harper",
+     "n": "Jon Bernthal"
+    },
+    {
+     "c": "Richard Jones",
+     "n": "Pablo Schreiber"
+    },
+    {
+     "c": "Zoe Harper",
+     "n": "Marin Ireland"
+    },
+    {
+     "c": "Priya 'Boston' Patel",
+     "n": "Sunita Mani"
+    },
+    {
+     "c": "Lexy Jones",
+     "n": "Rebecca Rittenhouse"
+    },
+    {
+     "c": "Clyde Duffie",
+     "n": "Chris Bauer"
+    },
+    {
+     "c": "Helen Wang",
+     "n": "Poppy Liu"
+    },
+    {
+     "c": "Alice Andrews",
+     "n": "Crystal R. Fox"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "William Oldroyd"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-08",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 259731,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two estranged spouses — one a detective, the other a news reporter — vie to solve a murder in which each believes the other is a prime suspect.",
+   "popularity": 14.5609,
+   "poster_path": "/cDSXLVQLkCSBIpBx3UW04TsfZ5c.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-08",
+     "episode_count": 6,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Two sides. One killer secret.",
+   "title": "HIS & HERS",
+   "trailer": {
+    "key": "8_szlvBLll0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.279,
+   "vote_count": 575
+  },
+  "tv:277831": {
+   "backdrop_path": "/46jbcYRNrVHfWITLTTlbjOdP6nI.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "HBO",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-08-03",
+   "genres": [
+    "Documentary",
+    "Crime"
+   ],
+   "id": 277831,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 5,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1991, four teenage girls were brutally murdered at a frozen yogurt shop in Austin, Texas. What happened that night forever shook the Austin community and continues to mystify the police and haunt the families left in the wake of unthinkable loss.",
+   "popularity": 4.1255,
+   "poster_path": "/r25wcu2RZcWzq6GtR8MPD7i25OS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-03",
+     "episode_count": 5,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Who killed these girls?",
+   "title": "The Yogurt Shop Murders",
+   "trailer": {
+    "key": "3AP_vaXoI40",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.75,
+   "vote_count": 32
+  },
+  "tv:278331": {
+   "backdrop_path": "/xPFmxUuZnmYAlpoO5QI9AdYegxt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cha Seon-chaek / K",
+     "n": "Seohyun"
+    },
+    {
+     "c": "Prince Kyungsung / Lee Beon",
+     "n": "TAECYEON"
+    },
+    {
+     "c": "Cho Eun-ae",
+     "n": "Kwon Han-sol"
+    },
+    {
+     "c": "Jeong Su-gyeom",
+     "n": "Seo Bum-jun"
+    },
+    {
+     "c": "Do Hwa-seon",
+     "n": "Chi Hae-won"
+    },
+    {
+     "c": "Prince Seonghyeon",
+     "n": "Lee Tae-seon"
+    },
+    {
+     "c": "Cha Ho-yeol",
+     "n": "Seo Hyun-chul"
+    },
+    {
+     "c": "Yoon Deok-jeong",
+     "n": "Yun Yoo-sun"
+    },
+    {
+     "c": "Cha Jang-ho",
+     "n": "Lee Sang-un"
+    },
+    {
+     "c": "Cha Du-ho",
+     "n": "Kim Shin-bi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA 15+",
+   "channel": "KBS2",
+   "created_by": [
+    "全善英"
+   ],
+   "director": [
+    "Lee Woong-hee"
+   ],
+   "episode_run_time": [
+    61
+   ],
+   "first_air_date": "2025-06-11",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 278331,
+   "industry": "world",
+   "networks": [
+    "KBS2"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Reincarnated as a minor character in a novel, Cha Seon-taek unexpectedly spends a night with Prince Kyungsung, sparking an intense and unexpected romance.",
+   "popularity": 4.371,
+   "poster_path": "/dlR9GzrDjioALN9W4RMFfjYyIXF.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-11",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The First Night with the Duke",
+   "trailer": {
+    "key": "aV4Y4Bav_eE",
+    "name": "Exclusive Trailer for 'The First Night with the Duke' | Coming to Viki on June 11",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 36
+  },
+  "tv:287231": {
+   "backdrop_path": "/qI2pX6IWQojvh2kaLv6M233Iwqb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alice Monroe",
+     "n": "Kaley Cuoco"
+    },
+    {
+     "c": "Tom Parker",
+     "n": "Sam Claflin"
+    },
+    {
+     "c": "Hélène Lando",
+     "n": "Karin Viard"
+    },
+    {
+     "c": "Alex Durand",
+     "n": "Matthias Schweighöfer"
+    },
+    {
+     "c": "Gaspard Drax",
+     "n": "Simon Abkarian"
+    },
+    {
+     "c": "Mira Mazraoui",
+     "n": "Dar Zuzovsky"
+    },
+    {
+     "c": "Saïd Kachar",
+     "n": "Olivier Sa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "channel": "MGM+",
+   "created_by": [
+    "David Hilton",
+    "Preston Thompson"
+   ],
+   "director": [],
+   "episode_run_time": [
+    41
+   ],
+   "first_air_date": "2026-02-01",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 287231,
+   "industry": "world",
+   "networks": [
+    "MGM+"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a romantic getaway to Paris takes a dark turn with the sudden disappearance of her boyfriend Tom aboard a train to the south of France, Alice is plunged into a web of intrigue and danger, uncovering shocking secrets about the man she thought she knew.",
+   "popularity": 5.268,
+   "poster_path": "/6Htrg4SobTHu9aYaYLGZaNLJvLX.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-01",
+     "episode_count": 4,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Vanished",
+   "trailer": {
+    "key": "_gySJIb3umg",
+    "name": "Vanished (MGM+ 2026 Series) Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.688,
+   "vote_count": 80
+  },
+  "tv:290231": {
+   "backdrop_path": "/qYnIUgr4zUECcpT9MZGNcdgS5bu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "",
+     "n": "Diego Klein"
+    },
+    {
+     "c": "",
+     "n": "Ana Gonzalez Bello"
+    },
+    {
+     "c": "",
+     "n": "Martha Reyes Arias"
+    },
+    {
+     "c": "",
+     "n": "Paola Fernández"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M18",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-01",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 290231,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Two colleagues from vastly different backgrounds initially despise each other. He is a privileged \"nepo baby,\" while she is a determined worker who has earned everything through her efforts. Their competitive spirit leads to unexpected sparks and, eventually, deeper affection.",
+   "popularity": 2.176,
+   "poster_path": "/qNSFDLDaMhEvDTzOr1FOYeXopQz.jpg",
+   "production_countries": [],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-01",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Love from 9 to 5",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 20
+  },
+  "tv:291431": {
+   "backdrop_path": "/76BNYD6gBrZPWH4axZH8rEpeyLW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "Claudia Winkleman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "BBC One",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-08",
+   "genres": [
+    "Reality"
+   ],
+   "id": 291431,
+   "industry": "world",
+   "networks": [
+    "BBC One"
+   ],
+   "number_of_episodes": 19,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "An all-star cast play the ultimate game of deceit and betrayal.",
+   "popularity": 13.2824,
+   "poster_path": "/uziPOqxQotCE9g0wBgDvHCOvRhP.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-10-01",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-10-08",
+     "episode_count": 9,
+     "name": "Series 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-10-01",
+     "episode_count": 10,
+     "name": "Series 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Celebrity Traitors",
+   "trailer": {
+    "key": "4H1zx-HKQj0",
+    "name": "The Celebrity Traitors - Series 2 | Official Trailer - BBC",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 36
+  },
+  "tv:300131": {
+   "backdrop_path": "/jOxZVOYxghHw6ofH1QFG6ZQUt2V.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Juzo Ogami (voice)",
+     "n": "Yuko Sanpei"
+    },
+    {
+     "c": "Juzo Ogami (voice)",
+     "n": "Shunsuke Takeuchi"
+    },
+    {
+     "c": "Kotatsu Nekota (voice)",
+     "n": "Shuichiro Umeda"
+    },
+    {
+     "c": "Noren Mitsuoka (voice)",
+     "n": "Fuka Izumi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-11",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy"
+   ],
+   "id": 300131,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo",
+    "TV Aichi",
+    "TVQ",
+    "TV Osaka",
+    "TVh",
+    "TSC"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Legendary hitman Juzo Ogami has never failed an assignment. But after a mission, he’s stung by a mysterious wasp and wakes up in the body of a 13-year-old boy! And to make things even weirder, he receives a bizarre new order: infiltrate a middle school. Now the once-feared assassin must balance the chaos of school life with his deadly work, all while searching for a way to regain his adult body!",
+   "popularity": 7.9995,
+   "poster_path": "/lqly2Kha1aFu2lJ3e82ZxllEjBj.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Rakuten Viki"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-11",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "KILL BLUE",
+   "trailer": {
+    "key": "5SvzWmg1c14",
+    "name": "Main Trailer set to premiere in April 2026! [english subtitles]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.837,
+   "vote_count": 52
+  },
   "tv:331": {
    "backdrop_path": "/9kuUPHz99Oojm6GG7mawtIjv4lv.jpg",
    "budget": 0,
@@ -3213,6 +3967,127 @@
    "type": "tv",
    "vote_average": 5.4,
    "vote_count": 151
+  },
+  "tv:333631": {
+   "backdrop_path": "/eH8dA6pqku0uWlaqAvbCB79i86f.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Clara Barbosa / Hermana María Teresa de la Eucaristía",
+     "n": "Carolina Kopelioff"
+    },
+    {
+     "c": "Priora Cecilia",
+     "n": "Lorena Vega"
+    },
+    {
+     "c": "Estela Bruzos",
+     "n": "Valeria Lois"
+    },
+    {
+     "c": "Nicolás Barbosa",
+     "n": "Tomás Wicz"
+    },
+    {
+     "c": "Julián Barbosa",
+     "n": "Lautaro Bettoni"
+    },
+    {
+     "c": "Martina Robles",
+     "n": "Julieta Zylberberg"
+    },
+    {
+     "c": "Soledad / Hermana Lucrecia del Calvario",
+     "n": "Rocío Hernández"
+    },
+    {
+     "c": "Madre Aurora",
+     "n": "Rita Cortese"
+    },
+    {
+     "c": "Obispo",
+     "n": "Luis Ziembrowski"
+    },
+    {
+     "c": "Carolina",
+     "n": "Evitta Luna"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M18",
+   "channel": "TNT Latin America",
+   "created_by": [
+    "Paula Hernández",
+    "Jazmín Stuart"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-09-18",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 333631,
+   "industry": "world",
+   "networks": [
+    "TNT Latin America"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "AR"
+   ],
+   "original_language": "es",
+   "overview": "An Argentine dramatic television miniseries co-produced by TNT and FLOW. It follows the life of a nun who, after fifteen years, manages to escape from a cloistered convent where she was a victim of psychological abuse and held against her will. Starring Carolina Kopelioff, Lorena Vega, Rita Cortese, and Julieta Zylberberg.",
+   "popularity": 4.7056,
+   "poster_path": "/iQpdPJ2SSWHGdeCV7n5GGt95g4I.jpg",
+   "production_countries": [
+    "AR"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-09-18",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Captive",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.022,
+   "vote_count": 23
   },
   "tv:65931": {
    "backdrop_path": "/79lc4Rocfnn9RIv1YlHC0jeBsqf.jpg",

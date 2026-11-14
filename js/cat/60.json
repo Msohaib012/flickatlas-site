@@ -1,6 +1,6 @@
 {
  "bucket": "60",
- "count": 31,
+ "count": 41,
  "titles": {
   "movie:1086260": {
    "backdrop_path": "/3C01kAcKGR6FwsUUSOvJ8N82pqr.jpg",
@@ -3883,6 +3883,102 @@
    "vote_average": 7.8,
    "vote_count": 854
   },
+  "tv:219760": {
+   "backdrop_path": "/m3m2wPu9Irw397jagBKFJrcobpx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ben Edwards",
+     "n": "Taylor Kitsch"
+    },
+    {
+     "c": "Raife Hastings",
+     "n": "Tom Hopper"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [
+    "Jack Carr",
+    "David DiGilio"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-08-27",
+   "genres": [
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 219760,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 7,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Before The Terminal List, Navy SEAL Ben Edwards finds himself entangled in the black operations side of the CIA. The deeper Ben goes into the 'gray', the harder it will become to not give himself over to his darker impulses. Every man has two wolves inside him – light and dark – fighting for control. Which wolf will Ben Edwards feed?",
+   "popularity": 23.3435,
+   "poster_path": "/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-27",
+     "episode_count": 7,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "An origin story.",
+   "title": "The Terminal List: Dark Wolf",
+   "trailer": {
+    "key": "pelvo5TBD-M",
+    "name": "Agents",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.692,
+   "vote_count": 312
+  },
   "tv:243360": {
    "backdrop_path": "/9HQnJdzu92M81huqyT9jQQyaU6P.jpg",
    "budget": 0,
@@ -4023,6 +4119,1083 @@
    "type": "tv",
    "vote_average": 7.806,
    "vote_count": 160
+  },
+  "tv:253960": {
+   "backdrop_path": "/tDjLCYMaJK27PEZHiAtCYujXdRo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kenji Okamoto",
+     "n": "Shun Oguri"
+    },
+    {
+     "c": "Kyoko Kono",
+     "n": "Yu Aoi"
+    },
+    {
+     "c": "Kaho",
+     "n": "Suzu Hirose"
+    },
+    {
+     "c": "Fujita",
+     "n": "Kento Hayashi"
+    },
+    {
+     "c": "Human Vapor",
+     "n": "UTA"
+    },
+    {
+     "c": "Yasutoshi Mori",
+     "n": "Yutaka Takenouchi"
+    },
+    {
+     "c": "Yoshita",
+     "n": "Motoki Kobayashi"
+    },
+    {
+     "c": "Mamoru Sakamoto",
+     "n": "Pierre Taki"
+    },
+    {
+     "c": "",
+     "n": "Haruka Imou"
+    },
+    {
+     "c": "Child Kyoko",
+     "n": "Yuna Saito"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Yeon Sang-ho",
+    "Ryu Yong-jae"
+   ],
+   "director": [
+    "Shinzo Katayama"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-02",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Crime"
+   ],
+   "id": 253960,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP",
+    "KR"
+   ],
+   "original_language": "ja",
+   "overview": "A death on live TV. A culprit who turns to gas. Behind it, a secret project that used and discarded the vulnerable. One detective pursues the dark truth.",
+   "popularity": 9.1358,
+   "poster_path": "/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg",
+   "production_countries": [
+    "KR",
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-02",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "You won't see it coming. You won't survive it.",
+   "title": "Human Vapor",
+   "trailer": {
+    "key": "7xe6dRKVAb8",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.286,
+   "vote_count": 77
+  },
+  "tv:269160": {
+   "backdrop_path": "/djAGltv1bVw625yYku4CyA42gq0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rosalie",
+     "n": "Rebecca Marder"
+    },
+    {
+     "c": "Sofia",
+     "n": "Naidra Ayadi"
+    },
+    {
+     "c": "Kim",
+     "n": "Zoé Marchal"
+    },
+    {
+     "c": "Chloé",
+     "n": "Pascale Arbillot"
+    },
+    {
+     "c": "Victor Castel",
+     "n": "Jonathan Cohen"
+    },
+    {
+     "c": "Alex",
+     "n": "Tya Deslauriers"
+    },
+    {
+     "c": "Michel Marionnaud",
+     "n": "François Damiens"
+    },
+    {
+     "c": "",
+     "n": "Brahim Koutari"
+    },
+    {
+     "c": "",
+     "n": "Lucas Mortier"
+    },
+    {
+     "c": "Malik",
+     "n": "Sami Outalbali"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "Netflix",
+   "created_by": [
+    "Olivier Rosemberg",
+    "Carine Prevot"
+   ],
+   "director": [
+    "Olivier Rosemberg"
+   ],
+   "episode_run_time": [
+    52
+   ],
+   "first_air_date": "2026-02-05",
+   "genres": [
+    "Comedy",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 269160,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "When life pushes them to the brink, five desperate friends decide the only way out is to form a gang, swipe some guns and start holding up banks.",
+   "popularity": 2.9923,
+   "poster_path": "/hu9DpdDLU7W0nqmsAJPmWKDeRjT.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-05",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Cash Queens",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.211,
+   "vote_count": 38
+  },
+  "tv:273160": {
+   "backdrop_path": "/cX6dzeKsBTTXHoG3uQUuhQbqyvq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cooper Madsen",
+     "n": "Evan Peters"
+    },
+    {
+     "c": "Antonio / The Assassin",
+     "n": "Anthony Ramos"
+    },
+    {
+     "c": "Jeremy",
+     "n": "Jeremy Pope"
+    },
+    {
+     "c": "Byron Forst / The Corporation",
+     "n": "Ashton Kutcher"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "FX",
+   "created_by": [
+    "Matthew Hodgson",
+    "Ryan Murphy"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-21",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 273160,
+   "industry": "world",
+   "networks": [
+    "FX",
+    "Hulu"
+   ],
+   "number_of_episodes": 11,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The world of high fashion turns dark when international supermodels begin dying in gruesome and mysterious ways. FBI Agents Cooper Madsen and Jordan Bennett are sent to Paris to uncover the truth. As they delve deeper into the case, they uncover a sexually transmitted virus that transforms ordinary people into visions of physical perfection, but with terrifying consequences.",
+   "popularity": 10.807,
+   "poster_path": "/l6mtso50nTSvhYc3tc7xB7cYHmg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-21",
+     "episode_count": 11,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "One shot makes you hot.",
+   "title": "The Beauty",
+   "trailer": {
+    "key": "5bDmmK15CNY",
+    "name": "Oﬃcial Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.651,
+   "vote_count": 195
+  },
+  "tv:279060": {
+   "backdrop_path": "/tb5AiSdpH5rP9Zf3YMUjZkKIUxn.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Chespirito",
+     "n": "Pablo Cruz Guerrero"
+    },
+    {
+     "c": "Graciela Fernández",
+     "n": "Paulina Dávila"
+    },
+    {
+     "c": "Margarita Ruiz (Florinda Meza)",
+     "n": "Bárbara López"
+    },
+    {
+     "c": "Rubén Aguirre",
+     "n": "Arturo Barba"
+    },
+    {
+     "c": "Marcos Barragán (Carlos Villagran)",
+     "n": "Juan Lecanda"
+    },
+    {
+     "c": "Ramón Valdés",
+     "n": "Miguel Islas"
+    },
+    {
+     "c": "Angelines Fernández",
+     "n": "Andrea Noli"
+    },
+    {
+     "c": "Maria Antonieta de las Nieves",
+     "n": "Paola Montes De Oca"
+    },
+    {
+     "c": "Edgar Vivar",
+     "n": "Eugenio Bartilotti"
+    },
+    {
+     "c": "Horacio Gómez Bolaños",
+     "n": "Jorge Luis Moreno"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Max",
+   "created_by": [
+    "Roberto Gómez Fernández"
+   ],
+   "director": [],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2025-06-05",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 279060,
+   "industry": "world",
+   "networks": [
+    "Max",
+    "HBO Max"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Miniseries that follow the life and career of Mexican actor, comedian and producer Roberto Gómez Bolaños, known for being the creator of El Chavo del 8, El Chapulín Colorado and Chespirito.",
+   "popularity": 5.4007,
+   "poster_path": "/mwsuIxLL84wfJGWhN7oOrFfpZ6d.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-03",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-06-05",
+     "episode_count": 8,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Chespirito: Not Really on Purpose",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.995,
+   "vote_count": 476
+  },
+  "tv:286360": {
+   "backdrop_path": "/oBJ6dZ6A1tY1O94RmWnJkkQVbLz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Heo Mun-oh",
+     "n": "Choi Min-sik"
+    },
+    {
+     "c": "Lee Kang",
+     "n": "Choi Hyun-wook"
+    },
+    {
+     "c": "Kim Su-hun",
+     "n": "Huh Joon-ho"
+    },
+    {
+     "c": "Ahn Eun-joo",
+     "n": "Kim Yun-jin"
+    },
+    {
+     "c": "Jo Hyeon-suk",
+     "n": "Jin Kyung"
+    },
+    {
+     "c": "Kim Se-yun",
+     "n": "Lee Jin-woo"
+    },
+    {
+     "c": "Seon Min-hee",
+     "n": "Han Ji-eun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Kim Kyu-tae",
+    "Jang Myung-woo"
+   ],
+   "director": [],
+   "episode_run_time": [
+    63
+   ],
+   "first_air_date": "2026-06-26",
+   "genres": [
+    "Mystery",
+    "Drama"
+   ],
+   "id": 286360,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A literature professor discovers a student's talent and offers him writing lessons — but as he sinks into the story, their sessions spiral into chaos.",
+   "popularity": 5.3032,
+   "poster_path": "/paRFCxAJRZOypfgnzYLo6KH5jjO.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-26",
+     "episode_count": 6,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "The story with a twisted ending.",
+   "title": "Notes from the Last Row",
+   "trailer": {
+    "key": "yEMHh3mRjv4",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 53
+  },
+  "tv:289560": {
+   "backdrop_path": "/faxI8ewOUkQRy4z4vwP6kci8Ilk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Colin Glass",
+     "n": "Tom Ellis"
+    },
+    {
+     "c": "Bill Goodman",
+     "n": "Nick Gehlfuss"
+    },
+    {
+     "c": "Gina Gosian",
+     "n": "Natalee Linez"
+    },
+    {
+     "c": "DCOS Nikki Reynard",
+     "n": "Necar Zadegan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "Dick Wolf",
+    "David Hudgins",
+    "Nicole Perlman",
+    "David Chasteen",
+    "Warren Leight"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2026-02-23",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 289560,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 22,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When by-the-book FBI Special Agent Bill Goodman is loaned out to a clandestine CIA/FBI task force, he finds himself teamed up with secretive and roguish CIA case officer Colin Glass. Together they work covert operations in New York, uncovering international plots, terrorist cells, and geopolitical secrets.",
+   "popularity": 33.3591,
+   "poster_path": "/fEXauqIabKrMPQ2lVTHKdrkrR4Z.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-23",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-10-05",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Two agents. One mission. Two methods.",
+   "title": "CIA",
+   "trailer": {
+    "key": "4kOSs4ybDF0",
+    "name": "CIA: Season 2 - Premiere Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.392,
+   "vote_count": 139
+  },
+  "tv:290160": {
+   "backdrop_path": "/z0Ic9Thd5tBfXb1rZyhMyVZV4Cw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Misa Kanbe",
+     "n": "Fuka Koshiba"
+    },
+    {
+     "c": "Wataru Suzuki",
+     "n": "Takeru Satoh"
+    },
+    {
+     "c": "Reina Esaka",
+     "n": "Sei Shiraishi"
+    },
+    {
+     "c": "Tomoya Hirano",
+     "n": "You Yokoyama"
+    },
+    {
+     "c": "Yuriko Sumiyoshi",
+     "n": "Tomoko Tabata"
+    },
+    {
+     "c": "Miku Suzuki",
+     "n": "Reina Kurosaki"
+    },
+    {
+     "c": "Seiya Koizumi",
+     "n": "Taiko Katono"
+    },
+    {
+     "c": "Yuto Tanabe",
+     "n": "Ryuya Shimekake"
+    },
+    {
+     "c": "Shigeo Kanbe",
+     "n": "Kanji Tsuda"
+    },
+    {
+     "c": "Tomita [Misa's Boss]",
+     "n": "Shin Shimizu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC16",
+   "channel": "Prime Video",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-27",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 290160,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Misa has been a supporting character all her life, blindly trusting her best friend and husband. When she discovers their affair, the betrayal results in her death. Waking up ten years in the past, Misa vows to become the main character of her own story. She plans to ruin her betrayers by making them marry each other, but after meeting her director at work, starts to consider who she truly is.",
+   "popularity": 4.9191,
+   "poster_path": "/mxBKb1DEqzhUUHh9EI1H7ZVErRD.jpg",
+   "production_countries": [
+    "JP",
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-27",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Marry My Husband: Japan",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 44
+  },
+  "tv:303460": {
+   "backdrop_path": "/8nKINQCBmp3uvA393G8VIc6wOub.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hibiki Manabe (voice)",
+     "n": "Hisako Kanemoto"
+    },
+    {
+     "c": "Emalia (voice)",
+     "n": "Shizuka Itoh"
+    },
+    {
+     "c": "Claude (voice)",
+     "n": "Kenta Miyake"
+    },
+    {
+     "c": "Lilian (voice)",
+     "n": "Lamalfa Michelle Tateyama"
+    },
+    {
+     "c": "Sapo-chan (voice)",
+     "n": "Yukari Tamura"
+    },
+    {
+     "c": "Vene (voice)",
+     "n": "Yukina Shuto"
+    },
+    {
+     "c": "Ivel (voice)",
+     "n": "Yoko Hikasa"
+    },
+    {
+     "c": "Steelia (voice)",
+     "n": "Sora Tokui"
+    },
+    {
+     "c": "Shushin (voice)",
+     "n": "Kazuyuki Okitsu"
+    },
+    {
+     "c": "Majin (voice)",
+     "n": "Akiho Suzumoto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [
+    "Makoto Hoshino"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-04",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 303460,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "High schooler Hibiki is transported to a monster-filled fantasy world, where he possesses only non-combat skills. However, through key encounters, he discovers hidden powers and embarks on an epic adventure.",
+   "popularity": 6.5562,
+   "poster_path": "/87ZIlbgDSVMCN9ThYHjxJIhAyg9.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-04",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Strongest Job Is Apparently Not a Hero or a Sage, But an Appraiser (Provisional)!",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 27
+  },
+  "tv:320760": {
+   "backdrop_path": "/RUkgsqD4YbEKKq77eFgJjeH89n.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nazlı",
+     "n": "Melis Sezen"
+    },
+    {
+     "c": "Funda",
+     "n": "Elçin Sangu"
+    },
+    {
+     "c": "İlker",
+     "n": "Ozan Dolunay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Tuğba Doğan"
+   ],
+   "director": [
+    "Mert Baykal"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-09-17",
+   "genres": [
+    "Drama"
+   ],
+   "id": 320760,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TR"
+   ],
+   "original_language": "tr",
+   "overview": "After giving birth, painter Funda put her career on hold to focus on her child. Ready to return to painting, she finally finds the nanny she has been searching for: Nazlı. But the mysterious and increasingly unsettling woman soon begins to disrupt the seemingly peaceful lives of Funda and her husband İlker. What begins as a simple employment arrangement develops into a dangerous psychological game in which desire, secrets and loyalty are put to the test.",
+   "popularity": 9.7252,
+   "poster_path": "/pxXO2VE0vMnzXhUw9GQRAUFFPN6.jpg",
+   "production_countries": [
+    "TR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-09-17",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "tr"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Not a Stranger",
+   "trailer": {
+    "key": "ODIk9yGmpQI",
+    "name": "Not a Stranger | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.984,
+   "vote_count": 63
   },
   "tv:46260": {
    "backdrop_path": "/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",

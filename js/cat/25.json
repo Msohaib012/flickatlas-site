@@ -1,6 +1,6 @@
 {
  "bucket": "25",
- "count": 26,
+ "count": 28,
  "titles": {
   "movie:1261825": {
    "backdrop_path": "/haAekI7zBtffqILr90DkviTe9fk.jpg",
@@ -698,207 +698,6 @@
    "type": "movie",
    "vote_average": 4.9,
    "vote_count": 483
-  },
-  "movie:1437925": {
-   "backdrop_path": "/bcH6CmYcHuPnAQXUhW0Rr5hFuvc.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Jean Moulin",
-     "n": "Gilles Lellouche"
-    },
-    {
-     "c": "Klaus Barbie",
-     "n": "Lars Eidinger"
-    },
-    {
-     "c": "Comtesse De Forez",
-     "n": "Louise Bourgoin"
-    },
-    {
-     "c": "Aubrac",
-     "n": "Marcin Czarnik"
-    },
-    {
-     "c": "Alain",
-     "n": "Max Warburton"
-    },
-    {
-     "c": "Martin",
-     "n": "Félix Lefebvre"
-    },
-    {
-     "c": "Colette",
-     "n": "Hortense de Gromard"
-    },
-    {
-     "c": "Aubry / Thomas",
-     "n": "Théo Costa-Marini"
-    },
-    {
-     "c": "Mathilde",
-     "n": "Izabella Caussanel"
-    },
-    {
-     "c": "Moog",
-     "n": "Pierre Nisse"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "15",
-   "date_kind": "release",
-   "director": [
-    "László Nemes"
-   ],
-   "genres": [
-    "History",
-    "Drama",
-    "War"
-   ],
-   "id": 1437925,
-   "industry": "world",
-   "origin_country": [
-    "FR"
-   ],
-   "original_language": "fr",
-   "overview": "In June 1943, Jean Moulin, leader of the French Resistance, is arrested while attempting to reunite the forces of the \"Armée Secrète.\" Interrogated by Klaus Barbie, the head of the Gestapo in Lyon, Moulin is drawn into a relentless confrontation.",
-   "popularity": 4.3885,
-   "poster_path": "/f3yopLJXRBcPvgkfRji1jloDrxd.jpg",
-   "production_countries": [
-    "FR",
-    "BE",
-    "US"
-   ],
-   "providers": [],
-   "providers_wtw": [],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-28",
-   "revenue": 0,
-   "runtime": 130,
-   "source": "catalogue",
-   "spoken_languages": [
-    "de",
-    "fr"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Moulin",
-   "trailer": null,
-   "type": "movie",
-   "vote_average": 6.277,
-   "vote_count": 47
-  },
-  "movie:1483525": {
-   "backdrop_path": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Mi-ok",
-     "n": "Jeon Do-yeon"
-    },
-    {
-     "c": "Ho-seok",
-     "n": "Sul Kyung-gu"
-    },
-    {
-     "c": "Sang-woo",
-     "n": "Zo In-sung"
-    },
-    {
-     "c": "Ye-ji",
-     "n": "Cho Yeo-jeong"
-    },
-    {
-     "c": "Young Mi-ok",
-     "n": "Jo Yuri"
-    },
-    {
-     "c": "Young Ho-seok",
-     "n": "Choi Min"
-    },
-    {
-     "c": "Cheol",
-     "n": "Jeong Seop"
-    },
-    {
-     "c": "Min-sik",
-     "n": "Kang Chang-gwon"
-    },
-    {
-     "c": "Jeong-dae",
-     "n": "Jeon Woon-jong"
-    },
-    {
-     "c": "Director of Photography",
-     "n": "Lee Ju-hwan"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Lee Chang-dong"
-   ],
-   "genres": [
-    "Drama"
-   ],
-   "id": 1483525,
-   "industry": "world",
-   "origin_country": [
-    "KR"
-   ],
-   "original_language": "ko",
-   "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
-   "popularity": 46.3574,
-   "poster_path": "/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
-   "production_countries": [
-    "KR",
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-30",
-   "revenue": 0,
-   "runtime": 165,
-   "source": "catalogue",
-   "spoken_languages": [
-    "ko",
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Possible Love",
-   "trailer": {
-    "key": "zd3qXH9qN70",
-    "name": "Official Trailer [Subtitled]",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.536,
-   "vote_count": 69
   },
   "movie:1510325": {
    "backdrop_path": "/ccQ9abrYHA0aDmaZGqZ1zDaaUem.jpg",
@@ -2908,6 +2707,391 @@
    "type": "tv",
    "vote_average": 7.26,
    "vote_count": 868
+  },
+  "tv:258025": {
+   "backdrop_path": "/jpxN1QHRSG660Ql62EHZvZzeaCA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Park Seong-a",
+     "n": "Cho Yi-hyun"
+    },
+    {
+     "c": "Bae Gyeon-u",
+     "n": "Choo Young-woo"
+    },
+    {
+     "c": "Pyo Ji-ho",
+     "n": "Cha Kang-yoon"
+    },
+    {
+     "c": "Yeom-hwa",
+     "n": "Choo Ja-hyun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "tvN",
+   "created_by": [
+    "Kim Yong-wan"
+   ],
+   "director": [],
+   "episode_run_time": [
+    63
+   ],
+   "first_air_date": "2025-06-23",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 258025,
+   "industry": "world",
+   "networks": [
+    "tvN"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A teenage shaman determined to change fate sets out to save a mysterious boy destined to die. As danger looms, their fated encounter sparks a powerful first love that defies darkness and reclaims hope.",
+   "popularity": 6.7579,
+   "poster_path": "/kL42DhVhqjO3NxlB0oNg2Z4TAWP.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-23",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Protect first love 'human talisman' cheek-to-cheek romance.",
+   "title": "Head Over Heels",
+   "trailer": {
+    "key": "BCN3rBLSJQk",
+    "name": "Head Over Heels | Official Trailer | Amazon Prime",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.667,
+   "vote_count": 120
+  },
+  "tv:284725": {
+   "backdrop_path": "/nApVs1jPXXXBc7Ge2PnaFpBfCVW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "AJ Pascarelli",
+     "n": "Ella Hunt"
+    },
+    {
+     "c": "Josh Teitelbaum",
+     "n": "Jack Martin"
+    },
+    {
+     "c": "Abhinaya 'Abby' Chilukuri",
+     "n": "Avantika"
+    },
+    {
+     "c": "Davis Beau Bradley Barrett III",
+     "n": "Will Angus"
+    },
+    {
+     "c": "Kel Washington",
+     "n": "Nicholas Duvernay"
+    },
+    {
+     "c": "Bill Gibson",
+     "n": "Jay Ellis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Hulu",
+   "created_by": [
+    "Mindy Kaling"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-06-02",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 284725,
+   "industry": "world",
+   "networks": [
+    "Hulu"
+   ],
+   "number_of_episodes": 9,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow five work-obsessed twenty-somethings striving for professional success and, if they have time, personal happiness in Manhattan's most glamorous neighborhood, Murray Hill.",
+   "popularity": 10.2486,
+   "poster_path": "/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-02",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "Not Suitable for Work",
+   "trailer": {
+    "key": "X0oFLuUR-qQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.64,
+   "vote_count": 82
+  },
+  "tv:292225": {
+   "backdrop_path": "/4urheTChPXhLb7xPqi3tP4wk3C9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "Alba Carrillo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-13",
+   "genres": [
+    "Reality"
+   ],
+   "id": 292225,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "A group of flirty Spanish singles expect sun, parties and steamy hookups, but they quickly learn that winning €100,000 requires giving up sex completely.",
+   "popularity": 1.7942,
+   "poster_path": "/AqySBQJa936efV2Slv6kfQSOCQF.jpg",
+   "production_countries": [],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-13",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Too Hot to Handle: Spain",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.4,
+   "vote_count": 27
+  },
+  "tv:311025": {
+   "backdrop_path": "/8jRoZr0vcPPIpB4GN5lfuwek8Go.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Xie Xinxu / Gu Yanqing",
+     "n": "Cui Yuxin"
+    },
+    {
+     "c": "Wu Nongyu",
+     "n": "Fang Jin"
+    },
+    {
+     "c": "Wu Siyuan",
+     "n": "Wang Yijun"
+    },
+    {
+     "c": "Li Xiang",
+     "n": "Gao Weiman"
+    },
+    {
+     "c": "Lin Juan",
+     "n": "Wu Fei"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "Youku",
+   "created_by": [],
+   "director": [
+    "Chen Jiajie"
+   ],
+   "episode_run_time": [
+    19
+   ],
+   "first_air_date": "2026-01-22",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 311025,
+   "industry": "world",
+   "networks": [
+    "Youku"
+   ],
+   "number_of_episodes": 40,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "In 2051, bioengineering student Wu Nongyu and sociopath Xie Xinxu are drawn together by a mysterious genetic attraction. As their relationship grows, they must confront their pasts and navigate love, trust, and redemption while racing to find a way to break the powerful bond that threatens to control their lives.",
+   "popularity": 3.2504,
+   "poster_path": "/1TSoSk8LVHKYhqEXh6mpRz0pBrq.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-22",
+     "episode_count": 40,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Affinity",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.06,
+   "vote_count": 25
   },
   "tv:50825": {
    "backdrop_path": "/jHkeqXYUU4khZEig88AFLMUOmep.jpg",

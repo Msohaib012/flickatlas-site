@@ -1,6 +1,6 @@
 {
  "bucket": "80",
- "count": 25,
+ "count": 35,
  "titles": {
   "movie:10480": {
    "backdrop_path": "/8ZquU1oL90wNowQeXaXx7xPk7vZ.jpg",
@@ -1872,6 +1872,1055 @@
    "vote_average": 6.5,
    "vote_count": 399
   },
+  "tv:219080": {
+   "backdrop_path": "/7K7wbQIpkzif4fMhDHsCweXFS42.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jester (voice)",
+     "n": "Laura Bailey"
+    },
+    {
+     "c": "Mollymauk (voice)",
+     "n": "Taliesin Jaffe"
+    },
+    {
+     "c": "Caleb (voice)",
+     "n": "Liam O'Brien"
+    },
+    {
+     "c": "Beau (voice)",
+     "n": "Marisha Ray"
+    },
+    {
+     "c": "Nott the Brave (voice)",
+     "n": "Sam Riegel"
+    },
+    {
+     "c": "Fjord (voice)",
+     "n": "Travis Willingham"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-11-19",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 219080,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a powerful arcane relic known as 'The Beacon' falls into nefarious hands, a group of fugitives and outcasts, bound by secrets and scars, must learn to work together to save the realm and stop reality as they know it from unraveling.",
+   "popularity": 10.202,
+   "poster_path": "/qJTZanXDiJKABLNGRM9LmSg8YT7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-19",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-11-18",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Returning Series",
+   "tagline": "When the world needed heroes, they got Nein.",
+   "title": "The Mighty Nein",
+   "trailer": {
+    "key": "Ri2wNyvSpiY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 147
+  },
+  "tv:231280": {
+   "backdrop_path": "/8l1BN0IIjHmRyW0oDfUfs3F6F4N.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yun Dong-ju",
+     "n": "Park Bo-gum"
+    },
+    {
+     "c": "Ji Han-na",
+     "n": "Kim So-hyun"
+    },
+    {
+     "c": "Min Joo-young",
+     "n": "Oh Jung-se"
+    },
+    {
+     "c": "Kim Jong-hyeon",
+     "n": "Lee Sang-yi"
+    },
+    {
+     "c": "Ko Man-sik",
+     "n": "Heo Sung-tae"
+    },
+    {
+     "c": "Shin Jae-hong",
+     "n": "Tae Won-seok"
+    },
+    {
+     "c": "Hwang Kyeong-cheol",
+     "n": "Seo Hyun-chul"
+    },
+    {
+     "c": "Oh Jong-gu",
+     "n": "Jeong Man-sik"
+    },
+    {
+     "c": "Kim Geum-nam",
+     "n": "Park Chul-min"
+    },
+    {
+     "c": "Jung Mi-ja",
+     "n": "Jung Seo-yeon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC16",
+   "channel": "JTBC",
+   "created_by": [
+    "Sim Na-yeon",
+    "Lee Dae-il"
+   ],
+   "director": [],
+   "episode_run_time": [
+    69
+   ],
+   "first_air_date": "2025-05-31",
+   "genres": [
+    "Crime",
+    "Comedy",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 231280,
+   "industry": "world",
+   "networks": [
+    "JTBC"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Olympic medalists join the police force through a special recruitment program, trading medals for badges as they tackle violent crimes and injustices with their athletic skills.",
+   "popularity": 9.0717,
+   "poster_path": "/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-31",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "A different purpose with the same heart of gold.",
+   "title": "Good Boy",
+   "trailer": {
+    "key": "kWT5jZrXxhg",
+    "name": "GOOD BOY - Official Trailer | Prime Video India",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.649,
+   "vote_count": 202
+  },
+  "tv:261980": {
+   "backdrop_path": "/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yoo Mi-ji / Yoo Mi-rae",
+     "n": "Park Bo-young"
+    },
+    {
+     "c": "Lee Ho-su",
+     "n": "Jinyoung"
+    },
+    {
+     "c": "Han Se-jin",
+     "n": "Ryu Kyung-soo"
+    },
+    {
+     "c": "Kim Ok-hee",
+     "n": "Jang Young-nam"
+    },
+    {
+     "c": "Yeom Bun-hong",
+     "n": "Kim Sun-young"
+    },
+    {
+     "c": "Kim Ro-sa",
+     "n": "Won Mi-kyung"
+    },
+    {
+     "c": "Kang Wol-oon",
+     "n": "Cha Mi-kyung"
+    },
+    {
+     "c": "Lee Choong-gu",
+     "n": "Im Cheol-soo"
+    },
+    {
+     "c": "Teen Yoo Mi-ji / Yoo Mi-rae",
+     "n": "Lee Jae-in"
+    },
+    {
+     "c": "Teen Lee Ho-su",
+     "n": "Park Yoon-ho"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "tvN",
+   "created_by": [],
+   "director": [
+    "Park Shin-woo"
+   ],
+   "episode_run_time": [
+    79
+   ],
+   "first_air_date": "2025-05-24",
+   "genres": [
+    "Drama"
+   ],
+   "id": 261980,
+   "industry": "world",
+   "networks": [
+    "tvN"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Twin sisters, whose similarities end with their looks, swap identities amid personal struggles — embarking on a journey to rediscover love and life.",
+   "popularity": 6.8932,
+   "poster_path": "/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-24",
+     "episode_count": 12,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Our Unwritten Seoul",
+   "trailer": {
+    "key": "lsDGSricQ60",
+    "name": "Official Clip [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.4,
+   "vote_count": 104
+  },
+  "tv:262280": {
+   "backdrop_path": "/4CtOMphAmfHJ6cztlAYjkdStkHP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Guy",
+     "n": "Tom Burke"
+    },
+    {
+     "c": "Don",
+     "n": "Steve Coogan"
+    },
+    {
+     "c": "Kate",
+     "n": "Hayley Squires"
+    },
+    {
+     "c": "Bailey",
+     "n": "Aml Ameen"
+    },
+    {
+     "c": "Erin",
+     "n": "Jasmine Blackborow"
+    },
+    {
+     "c": "Carter",
+     "n": "Tom Hughes"
+    },
+    {
+     "c": "Blake",
+     "n": "Douglas Hodge"
+    },
+    {
+     "c": "Mylonas",
+     "n": "Gerald Kyd"
+    },
+    {
+     "c": "Sophie",
+     "n": "Charlotte Ritchie"
+    },
+    {
+     "c": "Aziz",
+     "n": "Kem Hassan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Neil Forsyth"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-05-07",
+   "genres": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+   ],
+   "id": 262280,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "As drugs flood the streets of '90s Britain, a team of civil servants is thrust undercover to topple the gangs behind it.",
+   "popularity": 8.3813,
+   "poster_path": "/eYYTgBtsvvA3fC1feyvoqv0G9Gl.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-07",
+     "episode_count": 6,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Legends",
+   "trailer": {
+    "key": "VL1wuCh8IV4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.591,
+   "vote_count": 132
+  },
+  "tv:276880": {
+   "backdrop_path": "/5AYXcPhbtPe6i1MPnutPhCV6qNd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Takane Takamine (voice)",
+     "n": "Yurika Kubo"
+    },
+    {
+     "c": "Koushi Shirota (voice)",
+     "n": "Daisuke Kasuya"
+    },
+    {
+     "c": "Ellie Evergreen (voice)",
+     "n": "Sumire Uesaka"
+    },
+    {
+     "c": "Rurika Kurosaki (voice)",
+     "n": "Miyu Tomita"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "AT-X",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-04-02",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 276880,
+   "industry": "world",
+   "networks": [
+    "AT-X"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Student council president Takane Takamine is a popular star student. On the other hand, Koushi Shirota doesn't have many friends. That all changes when Koushi accidentally discovers Takane's ability to go back in time and alter past actions just by changing her lingerie. After some pestering, Koushi agrees to help Takane and be her closet, by having spare lingerie on hand.",
+   "popularity": 2.8364,
+   "poster_path": "/aN4X9QSECSfh5p8S3HtTiWRKJla.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-02",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Please Put Them On, Takamine-san",
+   "trailer": {
+    "key": "0J5aJF1rl_E",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.503,
+   "vote_count": 176
+  },
+  "tv:280880": {
+   "backdrop_path": "/xWTgLbS1HLr2sqwZH9sD6zO16Jj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tina",
+     "n": "Claudia Salas"
+    },
+    {
+     "c": "Rosa",
+     "n": "Ana Torrent"
+    },
+    {
+     "c": "Raquel",
+     "n": "Maribel Verdú"
+    },
+    {
+     "c": "Patricia",
+     "n": "Carmen Maura"
+    },
+    {
+     "c": "Charo",
+     "n": "María León"
+    },
+    {
+     "c": "India Mendoza",
+     "n": "Cecilia Suárez"
+    },
+    {
+     "c": "Carla",
+     "n": "Ana Mena"
+    },
+    {
+     "c": "Elisa",
+     "n": "Clara Sans"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "HBO Max",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-11",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 280880,
+   "industry": "world",
+   "networks": [
+    "HBO Max"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Five women face extreme situations that will unleash their rage.",
+   "popularity": 8.4597,
+   "poster_path": "/mOiSt0rlRXZobcGzVHLH60kKswo.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-11",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-10-09",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Rage (Furia)",
+   "trailer": {
+    "key": "XZCV_pKSqLk",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.516,
+   "vote_count": 32
+  },
+  "tv:283880": {
+   "backdrop_path": "/cOIxZ2CyoNlR0T9lTDlelK28tWn.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kouyou Kotesashi (voice)",
+     "n": "Rikuya Yasuda"
+    },
+    {
+     "c": "Aroma Kusunoki (voice)",
+     "n": "Hina Suguta"
+    },
+    {
+     "c": "Aoba Kitahara (voice)",
+     "n": "Yu Serizawa"
+    },
+    {
+     "c": "Izumi Sumiyoshi (voice)",
+     "n": "Saya Aizawa"
+    },
+    {
+     "c": "Chiyo Sayamagaoka (voice)",
+     "n": "Manatsu Murakami"
+    },
+    {
+     "c": "Miyuki Hongou (voice)",
+     "n": "Ruriko Aoki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2025-10-06",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 283880,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Kouyou Kotesashi, a sports doctor with massage skills, enrolls at Seiwa University Affiliated High School to secure a scholarship. He works as a live-in dorm manager, managing the school's talented female athletes and managing their well-being through intense training and massage therapy.",
+   "popularity": 7.348,
+   "poster_path": "/qTlVmoB4lcPcZaxUKF63Hqu2gUg.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-06",
+     "episode_count": 12,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-10-06",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Hands off: Sawaranaide Kotesashi-kun",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 35
+  },
+  "tv:295780": {
+   "backdrop_path": "/6Fbrrf2jaYJ8s3nnnuhhvvDjTZN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Various Characters",
+     "n": "Larry David"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "HBO",
+   "created_by": [
+    "Larry David",
+    "Jeff Schaffer"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-06-26",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 295780,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 7,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An improvised, comedic approach to major events in American history in celebration of the 250th anniversary of the founding of the United States.",
+   "popularity": 7.1183,
+   "poster_path": "/eA8lwlHAuFQrZzek25xgGZCgImu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-26",
+     "episode_count": 7,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "He can tell a lie.",
+   "title": "Life, Larry and the Pursuit of Unhappiness: An Almost History of America",
+   "trailer": {
+    "key": "Sp7P5JmKvLI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.5,
+   "vote_count": 29
+  },
+  "tv:300480": {
+   "backdrop_path": "/auLT0EPtqtt5MwryoC2MoAG595F.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gus (voice)",
+     "n": "Ricky Gervais"
+    },
+    {
+     "c": "Ponce (voice)",
+     "n": "Tom Basden"
+    },
+    {
+     "c": "Fang (voice)",
+     "n": "Andrew Brooke"
+    },
+    {
+     "c": "Puke (voice)",
+     "n": "David Earl"
+    },
+    {
+     "c": "Lara (voice)",
+     "n": "Kerry Godliman"
+    },
+    {
+     "c": "Kitten (voice)",
+     "n": "Jo Hartley"
+    },
+    {
+     "c": "Olive (voice)",
+     "n": "Diane Morgan"
+    },
+    {
+     "c": "Drug Dealer (voice)",
+     "n": "Tony Way"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Ricky Gervais"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-08-07",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 300480,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Outrageous misadventures run wild as feral cats cause chaos on the streets in this no-holds-barred animated comedy from Ricky Gervais.",
+   "popularity": 7.4573,
+   "poster_path": "/jhee1jS4AGZ7C5mZoN2czLt4BKk.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-08-07",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Nine lives, zero fucks.",
+   "title": "Ricky Gervais Alley Cats",
+   "trailer": {
+    "key": "aIkRFKsoOiM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 78
+  },
   "tv:30980": {
    "backdrop_path": "/73uQJImy9J9w93zFEh8JtdQVOQR.jpg",
    "budget": 0,
@@ -1998,6 +3047,114 @@
    "type": "tv",
    "vote_average": 7.5,
    "vote_count": 203
+  },
+  "tv:318880": {
+   "backdrop_path": "/v5DsZ3fnWSGfcIzt8twiFWz2JbL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Hulk Hogan"
+    },
+    {
+     "c": "Self",
+     "n": "Linda Hogan"
+    },
+    {
+     "c": "Self",
+     "n": "Jimmy Hart"
+    },
+    {
+     "c": "Self",
+     "n": "Jesse Ventura"
+    },
+    {
+     "c": "Self",
+     "n": "Nick Hogan"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Vince McMahon"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Gene Okerlund"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [
+    "Bryan Storkel"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-22",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 318880,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Before he was Hulk Hogan, he was Terry Bollea. Uncover the man behind the legend in this unfiltered documentary featuring his very last interview.",
+   "popularity": 3.6501,
+   "poster_path": "/pdEEOQystKjHtC71RV6yRobY8bk.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-22",
+     "episode_count": 4,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Hulk Hogan: Real American",
+   "trailer": {
+    "key": "OpfhIXAv7CE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 38
   },
   "tv:33880": {
    "backdrop_path": "/bauKfP3CX5JPAXpmveOlPG1pngC.jpg",

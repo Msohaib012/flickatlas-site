@@ -1,6 +1,6 @@
 {
  "bucket": "05",
- "count": 25,
+ "count": 37,
  "titles": {
   "movie:1069905": {
    "d": "Jay Kelly (2025): Drama/Comedy film. Story: Famous movie actor Jay Kelly embarks on a journey of… See cast and TMDB rating 6.1/10.",
@@ -514,70 +514,6 @@
    "t": "F Valentine's Day (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
-  "movie:1567605": {
-   "d": "Ebenezer (2026): Fantasy/Comedy film. Story: An elderly miser embarks on a supernatural journey… See cast, budget $38M, and TMDB rating 7.9/10.",
-   "img": "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
-   "industry": "world",
-   "k": "Ebenezer, Ebenezer movie, Ebenezer cast, Ebenezer story, Ebenezer box office collection, Ebenezer budget, Ebenezer review, Ebenezer rating, Ebenezer release date, Ebenezer trailer, Ebenezer Fantasy, Ebenezer Comedy, international movies, FlickAtlas",
-   "ld": {
-    "@context": "https://schema.org",
-    "@type": "Movie",
-    "actor": [
-     {
-      "@type": "Person",
-      "name": "Johnny Depp"
-     },
-     {
-      "@type": "Person",
-      "name": "Rupert Grint"
-     },
-     {
-      "@type": "Person",
-      "name": "Daisy Ridley"
-     },
-     {
-      "@type": "Person",
-      "name": "Tramell Tillman"
-     },
-     {
-      "@type": "Person",
-      "name": "Ian McKellen"
-     }
-    ],
-    "aggregateRating": {
-     "@type": "AggregateRating",
-     "bestRating": 10,
-     "ratingCount": 37,
-     "ratingValue": 7.9,
-     "worstRating": 0
-    },
-    "description": "Ebenezer (2026): Fantasy/Comedy film. Story: An elderly miser embarks on a supernatural journey… See cast, budget $38M, and TMDB rating 7.9/10.",
-    "director": [
-     {
-      "@type": "Person",
-      "name": "Ti West"
-     }
-    ],
-    "duration": "PT115M",
-    "genre": [
-     "Fantasy",
-     "Comedy"
-    ],
-    "image": "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
-    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1567605",
-    "name": "Ebenezer",
-    "releasedEvent": {
-     "@type": "PublicationEvent",
-     "startDate": "2026-11-11"
-    },
-    "url": "https://flickatlas.co.uk/movie?id=1567605"
-   },
-   "modified": "",
-   "published": "2026-11-14",
-   "ssr": "<article class=\"ssr-facts\">\n<h1>Ebenezer (2026)</h1>\n<p class=\"ssr-lead\">An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 November 2026</li><li>Runtime: 115 minutes</li><li>Director: Ti West</li><li>Genres: Fantasy, Comedy</li><li>Budget: $38M</li><li>TMDB rating: 7.9/10 (37 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Johnny Depp as Ebenezer Scrooge</li><li>Rupert Grint as Bob Cratchit</li><li>Daisy Ridley as Clara</li><li>Tramell Tillman as Ghost of Christmas Present</li><li>Ian McKellen as Jacob Marley</li><li>Andrea Riseborough as Ghost of Christmas Past</li><li>Sam Claflin as Fred</li><li>Arthur Conti as Young Ebenezer</li><li>Charlie Murphy as Emily Cratchit</li><li>Robert Strange as Ghost of Christmas Future</li></ul>\n</article>",
-   "t": "Ebenezer (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-   "year": "2026"
-  },
   "movie:1602705": {
    "d": "A Letter to My Youth (2026): Drama film. Story: A rebellious teen and a reserved caretaker form an… See cast and TMDB rating 7.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/3RaVf9MWpB74kK8AtPJ7DJmfZNA.jpg",
@@ -949,6 +885,62 @@
    "t": "Sex and the City (1998) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "1998"
   },
+  "tv:138505": {
+   "d": "Marvel Zombies (2025) is a Sci-Fi & Fantasy and Animation TV series. Explore its story: After the Avengers are overtaken by a zombie plague… and cast.",
+   "img": "https://image.tmdb.org/t/p/w780/lxQMxqao3vs2ehxESrkQU6acU86.jpg",
+   "industry": "world",
+   "k": "Marvel Zombies, Marvel Zombies TV series, Marvel Zombies cast, Marvel Zombies story, Marvel Zombies seasons, Marvel Zombies episodes, Marvel Zombies season 1, Marvel Zombies 4 episodes, Marvel Zombies first air date, Marvel Zombies trailer, Marvel Zombies Sci-Fi & Fantasy, Marvel Zombies Animation, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Iman Vellani"
+     },
+     {
+      "@type": "Person",
+      "name": "Todd Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "David Harbour"
+     },
+     {
+      "@type": "Person",
+      "name": "Simu Liu"
+     },
+     {
+      "@type": "Person",
+      "name": "Awkwafina"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 441,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Marvel Zombies (2025) is a Sci-Fi & Fantasy and Animation TV series. Explore its story: After the Avengers are overtaken by a zombie plague… and cast.",
+    "genre": [
+     "Sci-Fi & Fantasy",
+     "Animation"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lxQMxqao3vs2ehxESrkQU6acU86.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=138505",
+    "name": "Marvel Zombies",
+    "numberOfEpisodes": 4,
+    "numberOfSeasons": 1,
+    "startDate": "2025-09-24",
+    "url": "https://flickatlas.co.uk/show?id=138505"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Marvel Zombies (2025)</h1>\n<p class=\"ssr-lead\">After the Avengers are overtaken by a zombie plague, a desperate group of survivors discover the key to bringing an end to the super-powered undead, racing across a dystopian landscape and risking life and limb to save their world.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 24 September 2025</li><li>Seasons: 1 · Episodes: 4</li><li>Genres: Sci-Fi &amp; Fantasy, Animation, Action &amp; Adventure</li><li>TMDB rating: 7.3/10 (441 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Iman Vellani as Kamala Khan (voice)</li><li>Todd Williams as Blade Knight (voice)</li><li>David Harbour as Alexei Shostakov / Red Guardian (voice)</li><li>Simu Liu as Shang-Chi (voice)</li><li>Awkwafina as Katy Chen (voice)</li><li>Elizabeth Olsen as Wanda Maximoff / The Red Queen (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Marvel Zombies (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
   "tv:1405": {
    "d": "Dexter (2006) is a Crime and Drama TV series. Explore its story: Dexter Morgan, a blood spatter pattern analyst for…, cast, 8 seasons, and 96 episodes.",
    "img": "https://image.tmdb.org/t/p/w780/nS5ZSmrX92lu1GYAlXZye1mkDfd.jpg",
@@ -1057,6 +1049,62 @@
    "t": "Fringe (2008) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2008"
   },
+  "tv:228305": {
+   "d": "Task (2025) is a Crime and Drama TV series. Explore its story: In the working-class suburbs of Philadelphia, an FBI…, cast, 2 seasons, and 7 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/hEE8TV5jLQZQnpPN4QmYZ1lCJNq.jpg",
+   "industry": "world",
+   "k": "Task, Task TV series, Task cast, Task story, Task seasons, Task episodes, Task season 2, Task 7 episodes, Task first air date, Task trailer, Task Crime, Task Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mark Ruffalo"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Pelphrey"
+     },
+     {
+      "@type": "Person",
+      "name": "Emilia Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Fabien Frankel"
+     },
+     {
+      "@type": "Person",
+      "name": "Thuso Mbedu"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 420,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Task (2025) is a Crime and Drama TV series. Explore its story: In the working-class suburbs of Philadelphia, an FBI…, cast, 2 seasons, and 7 episodes.",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hEE8TV5jLQZQnpPN4QmYZ1lCJNq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=228305",
+    "name": "Task",
+    "numberOfEpisodes": 7,
+    "numberOfSeasons": 2,
+    "startDate": "2025-09-07",
+    "url": "https://flickatlas.co.uk/show?id=228305"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Task (2025)</h1>\n<p class=\"ssr-lead\">In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 7 September 2025</li><li>Seasons: 2 · Episodes: 7</li><li>Created by: Brad Ingelsby</li><li>Genres: Crime, Drama</li><li>TMDB rating: 7.0/10 (420 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mark Ruffalo as Tom Brandis</li><li>Tom Pelphrey as Robbie Prendergrast</li><li>Emilia Jones as Maeve Prendergrast</li><li>Fabien Frankel as Anthony Grasso</li><li>Thuso Mbedu as Aleah Clinton</li><li>Raúl Castillo as Cliff Broward</li><li>Jamie McShane as Perry &#x27;Dizzy&#x27; Dorazo</li><li>Alison Oliver as Elizabeth &#x27;Lizzie&#x27; Stover</li><li>Sam Keeley as Jayson Wilkes</li><li>Phoebe Fox as Sara</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Task (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
   "tv:2405": {
    "d": "Johnny Bravo (1997) is an Animation and Comedy TV series. Explore its story: Johnny Bravo tells the story of a biceps-bulging…, cast, and 4 seasons.",
    "img": "https://image.tmdb.org/t/p/w780/yjmemOZIkskkY5fKRlI8VTvCESB.jpg",
@@ -1108,6 +1156,612 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Johnny Bravo (1997)</h1>\n<p class=\"ssr-lead\">Johnny Bravo tells the story of a biceps-bulging, karate-chopping free spirit who believes he is a gift from God to the women of the earth. Unfortunately for Johnny, everyone else sees him as a narcissistic Mama&#x27;s boy with big muscles and even bigger hair. In short, he is the quintessential guy who &#x27;just doesn&#x27;t get it.&#x27; No matter what he does, or where he finds himself, he always winds up being his own worst enemy.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 7 July 1997</li><li>Seasons: 4 · Episodes: 181</li><li>Created by: Van Partible</li><li>Genres: Animation, Comedy, Family</li><li>TMDB rating: 7.3/10 (671 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jeff Bennett as Johnny Bravo (voice)</li><li>Brenda Vaccaro as Bunny Bravo (voice)</li><li>Mae Whitman as Little Suzy (voice)</li><li>Tom Kenny as Carl Chryniszzswics (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: CN Rewind Amazon Channel</li></ul>\n</article>",
    "t": "Johnny Bravo (1997) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "1997"
+  },
+  "tv:241405": {
+   "d": "Dying for Sex (2025) is a Drama and Comedy TV series. Explore its story: After Molly Kochan receives a diagnosis of Stage IV…, cast, 1 season, and 8 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/bVgcsQddGZ71kTXGrFJOn1fDEZj.jpg",
+   "industry": "world",
+   "k": "Dying for Sex, Dying for Sex TV series, Dying for Sex cast, Dying for Sex story, Dying for Sex seasons, Dying for Sex episodes, Dying for Sex season 1, Dying for Sex 8 episodes, Dying for Sex first air date, Dying for Sex Drama, Dying for Sex Comedy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michelle Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Jenny Slate"
+     },
+     {
+      "@type": "Person",
+      "name": "Jay Duplass"
+     },
+     {
+      "@type": "Person",
+      "name": "Kelvin Yu"
+     },
+     {
+      "@type": "Person",
+      "name": "David Rasche"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 141,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Dying for Sex (2025) is a Drama and Comedy TV series. Explore its story: After Molly Kochan receives a diagnosis of Stage IV…, cast, 1 season, and 8 episodes.",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bVgcsQddGZ71kTXGrFJOn1fDEZj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=241405",
+    "name": "Dying for Sex",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 1,
+    "startDate": "2025-04-04",
+    "url": "https://flickatlas.co.uk/show?id=241405"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dying for Sex (2025)</h1>\n<p class=\"ssr-lead\">After Molly Kochan receives a diagnosis of Stage IV metastatic breast cancer, she leaves her husband and explores the full breadth and complexity of her sexual desires for the first time in her life.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 4 April 2025</li><li>Seasons: 1 · Episodes: 8</li><li>Created by: Kim Rosenstock, Elizabeth Meriwether</li><li>Genres: Drama, Comedy</li><li>TMDB rating: 6.4/10 (141 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michelle Williams as Molly Kochan</li><li>Jenny Slate as Nikki Boyer</li><li>Jay Duplass as Steve</li><li>Kelvin Yu as Noah</li><li>David Rasche as Dr. Pankowitz</li><li>Esco Jouléy as Sonya</li><li>Rob Delaney as Neighbor Guy</li><li>Sissy Spacek as Gail</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Dying for Sex (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:250505": {
+   "d": "Agatha Christie's Seven Dials (2026) is a Mystery and Crime TV series. Explore its story: England, 1925. At a lavish country house party, a… and cast.",
+   "img": "https://image.tmdb.org/t/p/w780/eVEbRtSOrczWlYnVmwM195AnX86.jpg",
+   "industry": "world",
+   "k": "Agatha Christie's Seven Dials, Agatha Christie's Seven Dials TV series, Agatha Christie's Seven Dials cast, Agatha Christie's Seven Dials story, Agatha Christie's Seven Dials seasons, Agatha Christie's Seven Dials episodes, Agatha Christie's Seven Dials season 1, Agatha Christie's Seven Dials 3 episodes, Agatha Christie's Seven Dials first air date, Agatha Christie's Seven Dials trailer, Agatha Christie's Seven Dials Mystery, Agatha Christie's Seven Dials Crime, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mia McKenna-Bruce"
+     },
+     {
+      "@type": "Person",
+      "name": "Edward Bluemel"
+     },
+     {
+      "@type": "Person",
+      "name": "Martin Freeman"
+     },
+     {
+      "@type": "Person",
+      "name": "Helena Bonham Carter"
+     },
+     {
+      "@type": "Person",
+      "name": "Hughie O'Donnell"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 249,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Agatha Christie's Seven Dials (2026) is a Mystery and Crime TV series. Explore its story: England, 1925. At a lavish country house party, a… and cast.",
+    "genre": [
+     "Mystery",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eVEbRtSOrczWlYnVmwM195AnX86.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=250505",
+    "name": "Agatha Christie's Seven Dials",
+    "numberOfEpisodes": 3,
+    "numberOfSeasons": 1,
+    "startDate": "2026-01-15",
+    "url": "https://flickatlas.co.uk/show?id=250505"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Agatha Christie&#x27;s Seven Dials (2026)</h1>\n<p class=\"ssr-lead\">England, 1925. At a lavish country house party, a practical joke appears to have gone horribly, murderously wrong. It will be up to the unlikeliest of sleuths—the fizzingly inquisitive Lady Eileen &#x27;Bundle&#x27; Brent—to unravel a chilling plot that will change her life, cracking wide open the country house mystery.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 15 January 2026</li><li>Seasons: 1 · Episodes: 3</li><li>Created by: Chris Chibnall</li><li>Genres: Mystery, Crime, Drama</li><li>TMDB rating: 6.2/10 (249 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mia McKenna-Bruce as Lady Eileen &#x27;Bundle&#x27; Brent</li><li>Edward Bluemel as Jimmy Thesiger</li><li>Martin Freeman as Superintendent Battle</li><li>Helena Bonham Carter as Lady Caterham</li><li>Hughie O&#x27;Donnell as Bill Eversleigh</li><li>Alex Macqueen as George Lomax</li><li>Dorothy Atkinson as Lady Maria Coote</li><li>Mark Lewis Jones as Sir Oswald Coote</li><li>Tim Preston as Rupert &#x27;Pongo&#x27; Bateman</li><li>Ella-Rae Smith as Loraine Wade</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Agatha Christie's Seven Dials (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:252105": {
+   "d": "Golden Axe (2026) is an Animation and Sci-Fi & Fantasy TV series. Explore its story: Legendary warriors Ax Battler, Tyris Flare, and…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/zOcEo3oQf9KDPPxZueNhReN6TBr.jpg",
+   "industry": "world",
+   "k": "Golden Axe, Golden Axe TV series, Golden Axe cast, Golden Axe story, Golden Axe seasons, Golden Axe episodes, Golden Axe season 1, Golden Axe 10 episodes, Golden Axe first air date, Golden Axe trailer, Golden Axe Animation, Golden Axe Sci-Fi & Fantasy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Matthew Rhys"
+     },
+     {
+      "@type": "Person",
+      "name": "Danny Pudi"
+     },
+     {
+      "@type": "Person",
+      "name": "Lisa Gilroy"
+     },
+     {
+      "@type": "Person",
+      "name": "Liam McIntyre"
+     },
+     {
+      "@type": "Person",
+      "name": "Carl Tart"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 26,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Golden Axe (2026) is an Animation and Sci-Fi & Fantasy TV series. Explore its story: Legendary warriors Ax Battler, Tyris Flare, and…, cast, and 1 season.",
+    "genre": [
+     "Animation",
+     "Sci-Fi & Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zOcEo3oQf9KDPPxZueNhReN6TBr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=252105",
+    "name": "Golden Axe",
+    "numberOfEpisodes": 10,
+    "numberOfSeasons": 1,
+    "startDate": "2026-09-16",
+    "url": "https://flickatlas.co.uk/show?id=252105"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Golden Axe (2026)</h1>\n<p class=\"ssr-lead\">Legendary warriors Ax Battler, Tyris Flare, and Gilius Thunderhead reunite to save Yuria from the evil giant Death Adder, who just won&#x27;t seem to stay dead. Their quest is complicated by Hampton Squib, an inexperienced and wildly underprepared adventurer whose dream of heroism far exceeds his abilities. Forced to work together despite their flaws, they must find a way to stop Death Adder once and for all.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 16 September 2026</li><li>Seasons: 1 · Episodes: 10</li><li>Created by: Mike McMahan, Joe Chandler</li><li>Genres: Animation, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 7.8/10 (26 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Matthew Rhys as Gilius Thunderhead (voice)</li><li>Danny Pudi as Hampton Squib (voice)</li><li>Lisa Gilroy as Tyris Flare (voice)</li><li>Liam McIntyre as Ax Battler (voice)</li><li>Carl Tart as Chronos &#x27;Evil&#x27; Lait (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Paramount Plus Premium, Paramount Plus Essential, Paramount Plus Apple TV channel, Paramount+ Amazon Channel, Paramount+ Roku Premium Channel</li></ul>\n</article>",
+   "t": "Golden Axe (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:259405": {
+   "d": "Lucky Luke (2026) is a Comedy and Western TV series. Explore its story: Lucky Luke, the legendary lone cowboy, must team up…, cast, 1 season, and 8 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/hOMZxshNfGgnrrJ2BsD74If6BQP.jpg",
+   "industry": "world",
+   "k": "Lucky Luke, Lucky Luke TV series, Lucky Luke cast, Lucky Luke story, Lucky Luke seasons, Lucky Luke episodes, Lucky Luke season 1, Lucky Luke 8 episodes, Lucky Luke first air date, Lucky Luke Comedy, Lucky Luke Western, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alban Lenoir"
+     },
+     {
+      "@type": "Person",
+      "name": "Billie Blain"
+     },
+     {
+      "@type": "Person",
+      "name": "Alice Taglioni"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 33,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Lucky Luke (2026) is a Comedy and Western TV series. Explore its story: Lucky Luke, the legendary lone cowboy, must team up…, cast, 1 season, and 8 episodes.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Benjamin Rocher"
+     }
+    ],
+    "genre": [
+     "Comedy",
+     "Western"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hOMZxshNfGgnrrJ2BsD74If6BQP.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=259405",
+    "name": "Lucky Luke",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 1,
+    "startDate": "2026-03-23",
+    "url": "https://flickatlas.co.uk/show?id=259405"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Lucky Luke (2026)</h1>\n<p class=\"ssr-lead\">Lucky Luke, the legendary lone cowboy, must team up with Louise, a fearless young woman searching for her missing mother. Together, they face the dangers of the Wild West, ally with old enemies like the Daltons or Billy the Kid - and learn to get along. This quest may reveal a far greater threat and lead Luke back to the origins of his legend.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 23 March 2026</li><li>Seasons: 1 · Episodes: 8</li><li>Created by: Thomas Mansuy, Mathieu Leblanc</li><li>Director: Benjamin Rocher</li><li>Genres: Comedy, Western</li><li>TMDB rating: 6.2/10 (33 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alban Lenoir as Lucky Luke</li><li>Billie Blain as Louise Willow</li><li>Alice Taglioni as Charlie Willow</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li></ul>\n</article>",
+   "t": "Lucky Luke (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:271605": {
+   "d": "May I Ask for One Final Thing? (2025) is an Animation and Comedy TV series. Explore its story: In the middle of a ball, Scarlet's fiancé, Kyle… and cast.",
+   "img": "https://image.tmdb.org/t/p/w780/iKYPleY1z2YpO2OBkuUEWICwo5D.jpg",
+   "industry": "world",
+   "k": "May I Ask for One Final Thing?, May I Ask for One Final Thing? TV series, May I Ask for One Final Thing? cast, May I Ask for One Final Thing? story, May I Ask for One Final Thing? seasons, May I Ask for One Final Thing? episodes, May I Ask for One Final Thing? season 1, May I Ask for One Final Thing? 13 episodes, May I Ask for One Final Thing? first air date, May I Ask for One Final Thing? trailer, May I Ask for One Final Thing? Animation, May I Ask for One Final Thing? Comedy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Asami Seto"
+     },
+     {
+      "@type": "Person",
+      "name": "Wataru Katoh"
+     },
+     {
+      "@type": "Person",
+      "name": "Shoya Ishige"
+     },
+     {
+      "@type": "Person",
+      "name": "Miyu Tomita"
+     },
+     {
+      "@type": "Person",
+      "name": "Kazuki Ura"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 59,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "May I Ask for One Final Thing? (2025) is an Animation and Comedy TV series. Explore its story: In the middle of a ball, Scarlet's fiancé, Kyle… and cast.",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iKYPleY1z2YpO2OBkuUEWICwo5D.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=271605",
+    "name": "May I Ask for One Final Thing?",
+    "numberOfEpisodes": 13,
+    "numberOfSeasons": 1,
+    "startDate": "2025-10-04",
+    "url": "https://flickatlas.co.uk/show?id=271605"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>May I Ask for One Final Thing? (2025)</h1>\n<p class=\"ssr-lead\">In the middle of a ball, Scarlet&#x27;s fiancé, Kyle, suddenly calls off their engagement. She&#x27;s falsely accused of being a bully and people unfairly call her a &quot;Villainess.&quot; The aristocrats and noble families all denounce her. For years, she had to put up with his abuse and idiocy, but she can&#x27;t take anymore of it! At her wit&#x27;s end, she asks for one last favor; to give him a good fist in the face. So begins Scarlet&#x27;s story of revenge against Kyle and his cronies! A fantasy about an elegant yet rebellious fighter, who doesn&#x27;t let anyone take advantage of her!!</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 4 October 2025</li><li>Seasons: 1 · Episodes: 13</li><li>Genres: Animation, Comedy, Drama, Action &amp; Adventure, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 7.6/10 (59 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Asami Seto as Scarlet El Vandimion (voice)</li><li>Wataru Katoh as Julius von Pallistan (voice)</li><li>Shoya Ishige as Leonardo El Vandimion (voice)</li><li>Miyu Tomita as Nanaka (voice)</li><li>Kazuki Ura as Sigurd Forgrave (voice)</li><li>Taito Ban as Kyle von Pallistan (voice)</li><li>Ai Kakuma as Terenezza Hopkins (voice)</li><li>Sally Amaki as Rosalia Ley Madeleine (voice)</li><li>Hiroshi Yanaka as Godwin Bene Carmine (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll, Crunchyroll Amazon Channel</li></ul>\n</article>",
+   "t": "May I Ask for One Final Thing? (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:281005": {
+   "d": "Surely Tomorrow (2025) is a Comedy and Drama TV series. Explore its story: In their twenties, Lee Kyeong-do and Seo Ji-woo part…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/duXUA6kzqCa56MNfUqoJQa6c6Gg.jpg",
+   "industry": "world",
+   "k": "Surely Tomorrow, Surely Tomorrow TV series, Surely Tomorrow cast, Surely Tomorrow story, Surely Tomorrow seasons, Surely Tomorrow episodes, Surely Tomorrow season 1, Surely Tomorrow 12 episodes, Surely Tomorrow first air date, Surely Tomorrow trailer, Surely Tomorrow Comedy, Surely Tomorrow Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Park Seo-jun"
+     },
+     {
+      "@type": "Person",
+      "name": "Won Ji-an"
+     },
+     {
+      "@type": "Person",
+      "name": "EL"
+     },
+     {
+      "@type": "Person",
+      "name": "Lee Zoo-young"
+     },
+     {
+      "@type": "Person",
+      "name": "Kang Ki-doong"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 35,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Surely Tomorrow (2025) is a Comedy and Drama TV series. Explore its story: In their twenties, Lee Kyeong-do and Seo Ji-woo part…, cast, and 1 season.",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/duXUA6kzqCa56MNfUqoJQa6c6Gg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=281005",
+    "name": "Surely Tomorrow",
+    "numberOfEpisodes": 12,
+    "numberOfSeasons": 1,
+    "startDate": "2025-12-06",
+    "url": "https://flickatlas.co.uk/show?id=281005"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Surely Tomorrow (2025)</h1>\n<p class=\"ssr-lead\">In their twenties, Lee Kyeong-do and Seo Ji-woo part ways after two passionate relationships. A decade later, they meet again as a reporter who covers an adultery scandal and the wife of the man at the center of that scandal. Reuniting in their late thirties, their youth has passed, but their love remains vivid. Kyeong-do now strives to prove to her and to himself that he still loves her.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 6 December 2025</li><li>Seasons: 1 · Episodes: 12</li><li>Created by: Im Hyeon-wook</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 7.8/10 (35 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Park Seo-jun as Lee Kyeong-do</li><li>Won Ji-an as Seo Ji-woo</li><li>EL as Seo Ji-yeon</li><li>Lee Zoo-young as Park Se-young</li><li>Kang Ki-doong as Cha Woo-sik</li><li>Cho Min-guk as Lee Jeong-min</li><li>Kang Mal-geum as Jin Han-kyeong</li><li>Han Eun-seong as Kim Du-jin</li><li>Lee Joong-hyun as Ma Seong-cheol</li><li>Nam Gi-ae as Jang Hwan-gyeong</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Surely Tomorrow (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:283705": {
+   "d": "The Shy Hero and the Assassin Princesses (2025) is an Animation and Comedy TV series. Explore its story: The hero Toto has talent, but his shyness has….",
+   "img": "https://image.tmdb.org/t/p/w780/jTF9GUoGHW1mpNSCz1kgLJUYsoo.jpg",
+   "industry": "world",
+   "k": "The Shy Hero and the Assassin Princesses, The Shy Hero and the Assassin Princesses TV series, The Shy Hero and the Assassin Princesses cast, The Shy Hero and the Assassin Princesses story, The Shy Hero and the Assassin Princesses seasons, The Shy Hero and the Assassin Princesses episodes, The Shy Hero and the Assassin Princesses season 1, The Shy Hero and the Assassin Princesses 12 episodes, The Shy Hero and the Assassin Princesses first air date, The Shy Hero and the Assassin Princesses trailer, The Shy Hero and the Assassin Princesses Animation, The Shy Hero and the Assassin Princesses Comedy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shunsuke Takeuchi"
+     },
+     {
+      "@type": "Person",
+      "name": "Iori Saeki"
+     },
+     {
+      "@type": "Person",
+      "name": "Hitomi Ueda"
+     },
+     {
+      "@type": "Person",
+      "name": "Haruka Shiraishi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 21,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "The Shy Hero and the Assassin Princesses (2025) is an Animation and Comedy TV series. Explore its story: The hero Toto has talent, but his shyness has….",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jTF9GUoGHW1mpNSCz1kgLJUYsoo.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=283705",
+    "name": "The Shy Hero and the Assassin Princesses",
+    "numberOfEpisodes": 12,
+    "numberOfSeasons": 1,
+    "startDate": "2025-07-12",
+    "url": "https://flickatlas.co.uk/show?id=283705"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Shy Hero and the Assassin Princesses (2025)</h1>\n<p class=\"ssr-lead\">The hero Toto has talent, but his shyness has prevented him from forming a party. As he languishes in the town of origins, three beautiful women—Ciel, Anemone, and Goa—invite Toto to join their party out of the blue. Toto gears up to begin the journey, but unbeknownst to him, all three women are plotting to kill him for their own reasons!</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 12 July 2025</li><li>Seasons: 1 · Episodes: 12</li><li>Genres: Animation, Comedy, Action &amp; Adventure, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 6.4/10 (21 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shunsuke Takeuchi as Toto (voice)</li><li>Iori Saeki as Ciel (voice)</li><li>Hitomi Ueda as Anemone (voice)</li><li>Haruka Shiraishi as Goa-chan (voice)</li></ul>\n</article>",
+   "t": "The Shy Hero and the Assassin Princesses (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:283905": {
+   "d": "Botan Kamiina Fully Blossoms When Drunk (2026) is an Animation and Comedy TV series. Explore its story: New university life, new dormmates…and a whole new….",
+   "img": "https://image.tmdb.org/t/p/w780/krbKWrBEOjPdUmp1CGRgRVnLsrs.jpg",
+   "industry": "world",
+   "k": "Botan Kamiina Fully Blossoms When Drunk, Botan Kamiina Fully Blossoms When Drunk TV series, Botan Kamiina Fully Blossoms When Drunk cast, Botan Kamiina Fully Blossoms When Drunk story, Botan Kamiina Fully Blossoms When Drunk seasons, Botan Kamiina Fully Blossoms When Drunk episodes, Botan Kamiina Fully Blossoms When Drunk season 1, Botan Kamiina Fully Blossoms When Drunk 12 episodes, Botan Kamiina Fully Blossoms When Drunk first air date, Botan Kamiina Fully Blossoms When Drunk trailer, Botan Kamiina Fully Blossoms When Drunk Animation, Botan Kamiina Fully Blossoms When Drunk Comedy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sayumi Suzushiro"
+     },
+     {
+      "@type": "Person",
+      "name": "Yoshino Aoyama"
+     },
+     {
+      "@type": "Person",
+      "name": "Minako Kotobuki"
+     },
+     {
+      "@type": "Person",
+      "name": "Yurina Amami"
+     },
+     {
+      "@type": "Person",
+      "name": "Miyu Tomita"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 25,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Botan Kamiina Fully Blossoms When Drunk (2026) is an Animation and Comedy TV series. Explore its story: New university life, new dormmates…and a whole new….",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/krbKWrBEOjPdUmp1CGRgRVnLsrs.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=283905",
+    "name": "Botan Kamiina Fully Blossoms When Drunk",
+    "numberOfEpisodes": 12,
+    "numberOfSeasons": 1,
+    "startDate": "2026-04-11",
+    "url": "https://flickatlas.co.uk/show?id=283905"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Botan Kamiina Fully Blossoms When Drunk (2026)</h1>\n<p class=\"ssr-lead\">New university life, new dormmates…and a whole new world of drinks! Botan Kamiina takes her first sip of alcohol after spotting the quiet dorm leader, Ibuki Tonami, enjoying a highball alone. From shochu to whisky, Botan shares the joy of drinking with friends, while Ibuki slowly learns that some pleasures are better when shared.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 11 April 2026</li><li>Seasons: 1 · Episodes: 12</li><li>Genres: Animation, Comedy, Drama</li><li>TMDB rating: 7.6/10 (25 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sayumi Suzushiro as Botan Kamiina (voice)</li><li>Yoshino Aoyama as Ibuki Tonami (voice)</li><li>Minako Kotobuki as Kanade Gujō (voice)</li><li>Yurina Amami as Akane Yusa (voice)</li><li>Miyu Tomita as Yaeka Kitamori (voice)</li><li>Maki Kawase as Chang Chin-Lan (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll, Crunchyroll Amazon Channel</li></ul>\n</article>",
+   "t": "Botan Kamiina Fully Blossoms When Drunk (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:284605": {
+   "d": "The Survivors (2025) is a Drama and Mystery TV series. Explore its story: Fifteen years ago, the loss of three young people…, cast, 1 season, and 6 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/sxzodKyKvW2sXjI9awYFjo2ePNz.jpg",
+   "industry": "world",
+   "k": "The Survivors, The Survivors TV series, The Survivors cast, The Survivors story, The Survivors seasons, The Survivors episodes, The Survivors season 1, The Survivors 6 episodes, The Survivors first air date, The Survivors trailer, The Survivors Drama, The Survivors Mystery, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Charlie Vickers"
+     },
+     {
+      "@type": "Person",
+      "name": "Yerin Ha"
+     },
+     {
+      "@type": "Person",
+      "name": "Robyn Malcolm"
+     },
+     {
+      "@type": "Person",
+      "name": "Catherine McClements"
+     },
+     {
+      "@type": "Person",
+      "name": "Damien Garvey"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 106,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "The Survivors (2025) is a Drama and Mystery TV series. Explore its story: Fifteen years ago, the loss of three young people…, cast, 1 season, and 6 episodes.",
+    "genre": [
+     "Drama",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sxzodKyKvW2sXjI9awYFjo2ePNz.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=284605",
+    "name": "The Survivors",
+    "numberOfEpisodes": 6,
+    "numberOfSeasons": 1,
+    "startDate": "2025-06-06",
+    "url": "https://flickatlas.co.uk/show?id=284605"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Survivors (2025)</h1>\n<p class=\"ssr-lead\">Fifteen years ago, the loss of three young people tore this sleepy seaside town apart. Now, the mysterious death of a young woman dredges up the past.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 6 June 2025</li><li>Seasons: 1 · Episodes: 6</li><li>Created by: Tony Ayres, Jane Harper</li><li>Genres: Drama, Mystery</li><li>TMDB rating: 6.6/10 (106 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Charlie Vickers as Kieran Elliott</li><li>Yerin Ha as Mia Chang</li><li>Robyn Malcolm as Verity Elliott</li><li>Catherine McClements as Trish</li><li>Damien Garvey as Brian</li><li>Miriama Smith as Detective Senior Sergeant Sue Pendlebury</li><li>Ned Morgan as Teenage Kieran</li><li>Eloise Rothfield as Gabby</li><li>Johnny Carr as Detective Alex Dan</li><li>George Mason as Ash</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Survivors (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:298505": {
+   "d": "Coven Academy (2026) is a Mystery and Drama TV series. Explore its story: A coven protects their magic school from a dark fate, cast, 1 season, and 10 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
+   "industry": "world",
+   "k": "Coven Academy, Coven Academy TV series, Coven Academy cast, Coven Academy story, Coven Academy seasons, Coven Academy episodes, Coven Academy season 1, Coven Academy 10 episodes, Coven Academy first air date, Coven Academy Mystery, Coven Academy Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Malina Weissman"
+     },
+     {
+      "@type": "Person",
+      "name": "Malachi Barton"
+     },
+     {
+      "@type": "Person",
+      "name": "Jordan Leftwich"
+     },
+     {
+      "@type": "Person",
+      "name": "Ora Duplass"
+     },
+     {
+      "@type": "Person",
+      "name": "Louis Thresher"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 51,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Coven Academy (2026) is a Mystery and Drama TV series. Explore its story: A coven protects their magic school from a dark fate, cast, 1 season, and 10 episodes.",
+    "genre": [
+     "Mystery",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=298505",
+    "name": "Coven Academy",
+    "numberOfEpisodes": 10,
+    "numberOfSeasons": 1,
+    "startDate": "2026-10-01",
+    "url": "https://flickatlas.co.uk/show?id=298505"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Coven Academy (2026)</h1>\n<p class=\"ssr-lead\">A coven protects their magic school from a dark fate.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 1 October 2026</li><li>Seasons: 1 · Episodes: 10</li><li>Created by: Tim Federle</li><li>Genres: Mystery, Drama, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 7.4/10 (51 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Malina Weissman as Briar Roberts</li><li>Malachi Barton as Jake</li><li>Jordan Leftwich as Sasha Baptiste</li><li>Ora Duplass as Tegan Kimball</li><li>Louis Thresher as Ollie</li><li>Tiffani Thiessen as Miss Graves</li><li>Devon Sawa as Mr. Cole</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus, Hulu, fuboTV</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Coven Academy (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:303405": {
+   "d": "Sins of Kujo (2026) is a Crime and Drama TV series. Explore its story: From thugs to yakuza, Taiza Kujo wields the law to…, cast, 1 season, and 10 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/m2px7CZWxArlG8Lyld1XKIkD5aA.jpg",
+   "industry": "world",
+   "k": "Sins of Kujo, Sins of Kujo TV series, Sins of Kujo cast, Sins of Kujo story, Sins of Kujo seasons, Sins of Kujo episodes, Sins of Kujo season 1, Sins of Kujo 10 episodes, Sins of Kujo first air date, Sins of Kujo trailer, Sins of Kujo Crime, Sins of Kujo Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Yuya Yagira"
+     },
+     {
+      "@type": "Person",
+      "name": "Hokuto Matsumura"
+     },
+     {
+      "@type": "Person",
+      "name": "Elaiza Ikeda"
+     },
+     {
+      "@type": "Person",
+      "name": "Keita Machida"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 23,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Sins of Kujo (2026) is a Crime and Drama TV series. Explore its story: From thugs to yakuza, Taiza Kujo wields the law to…, cast, 1 season, and 10 episodes.",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/m2px7CZWxArlG8Lyld1XKIkD5aA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=303405",
+    "name": "Sins of Kujo",
+    "numberOfEpisodes": 10,
+    "numberOfSeasons": 1,
+    "startDate": "2026-04-02",
+    "url": "https://flickatlas.co.uk/show?id=303405"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sins of Kujo (2026)</h1>\n<p class=\"ssr-lead\">From thugs to yakuza, Taiza Kujo wields the law to defend society&#x27;s worst. Fellow lawyer, Karasuma doubts his ethics but joins him in facing the abyss.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 2 April 2026</li><li>Seasons: 1 · Episodes: 10</li><li>Genres: Crime, Drama</li><li>TMDB rating: 7.6/10 (23 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yuya Yagira as Taiza Kujo</li><li>Hokuto Matsumura as Shinji Karasuma</li><li>Elaiza Ikeda as Hitomi Yakushimae</li><li>Keita Machida as Kengo Mibu</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Sins of Kujo (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
   },
   "tv:37305": {
    "d": "Soul Eater (2008) is an Animation and Action & Adventure TV series. Explore its story: Set in the Shinigami technical school for weapon…, cast, and 1 season.",

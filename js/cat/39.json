@@ -1,121 +1,7 @@
 {
  "bucket": "39",
- "count": 25,
+ "count": 31,
  "titles": {
-  "movie:1234139": {
-   "backdrop_path": "/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
-   "budget": 26289250,
-   "cast": [
-    {
-     "c": "Muthuvel 'Tiger' Pandian",
-     "n": "Rajinikanth"
-    },
-    {
-     "c": "Bodhi Kalpak",
-     "n": "S. J. Suryah"
-    },
-    {
-     "c": "Dileep",
-     "n": "Suraj Venjaramoodu"
-    },
-    {
-     "c": "Vijayalakshmi 'Viji' Pandian",
-     "n": "Ramya Krishnan"
-    },
-    {
-     "c": "Kantha Kalpak",
-     "n": "Vidya Balan"
-    },
-    {
-     "c": "Moorthi",
-     "n": "Namo Narayana"
-    },
-    {
-     "c": "Vimal",
-     "n": "Yogi Babu"
-    },
-    {
-     "c": "Swetha Pandian",
-     "n": "Mirnaa"
-    },
-    {
-     "c": "Rithvik 'Rithu' Pandian",
-     "n": "Rithvik"
-    },
-    {
-     "c": "Sharva Kalpak",
-     "n": "Hakkim Shajahan"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 16+",
-   "date_kind": "release",
-   "director": [
-    "Nelson"
-   ],
-   "genres": [
-    "Action",
-    "Comedy",
-    "Drama"
-   ],
-   "id": 1234139,
-   "industry": "bollywood",
-   "origin_country": [
-    "IN"
-   ],
-   "original_language": "ta",
-   "overview": "When a dangerous syndicate threatens his family, retired jailer Tiger Muthuvel Pandian goes undercover as a driver to battle enemies from the shadows.",
-   "popularity": 52.0228,
-   "poster_path": "/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
-   "production_countries": [
-    "IN"
-   ],
-   "providers": [
-    {
-     "name": "Amazon Prime Video"
-    },
-    {
-     "name": "Amazon Prime Video with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-     "name": "Amazon Prime Video",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-     "name": "Amazon Prime Video with Ads",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-15",
-   "revenue": 85115348,
-   "runtime": 163,
-   "source": "catalogue",
-   "spoken_languages": [
-    "ta"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Jailer 2",
-   "trailer": {
-    "key": "3vkHWYL2JmA",
-    "name": "Official Prime Video Trailer [ENG SUB]",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 8.0,
-   "vote_count": 32
-  },
   "movie:1437939": {
    "backdrop_path": "/4dN9kXTNqvssrbF81viFoPnW2pt.jpg",
    "budget": 0,
@@ -204,99 +90,6 @@
    "type": "movie",
    "vote_average": 5.315,
    "vote_count": 65
-  },
-  "movie:1585239": {
-   "backdrop_path": "/AjrgF2JZb8WAeIFTvUjJK6VA2CG.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Peter",
-     "n": "Jordan Firstman"
-    },
-    {
-     "c": "Arlo",
-     "n": "Reggie Absolom"
-    },
-    {
-     "c": "Sophie",
-     "n": "Cara Delevingne"
-    },
-    {
-     "c": "Oscar",
-     "n": "Diego Calva"
-    },
-    {
-     "c": "Edison",
-     "n": "Kirby Howell-Baptiste"
-    },
-    {
-     "c": "Evelyn",
-     "n": "Colleen Camp"
-    },
-    {
-     "c": "Lydia Chestworth",
-     "n": "Vicki Pepperdine"
-    },
-    {
-     "c": "Devon",
-     "n": "Nigil Whyte"
-    },
-    {
-     "c": "Nicky",
-     "n": "Eldar Isgandarov"
-    },
-    {
-     "c": "Saffron",
-     "n": "Saturn Risin9"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Jordan Firstman"
-   ],
-   "genres": [
-    "Comedy",
-    "Drama"
-   ],
-   "id": 1585239,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
-   "popularity": 9.2284,
-   "poster_path": "/o1qMU0ZB5XDX8IXJFFu3AkhOqjh.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [],
-   "providers_wtw": [],
-   "published_at": "2026-11-14",
-   "release_date": "2026-11-04",
-   "revenue": 403475,
-   "runtime": 122,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Club Kid",
-   "trailer": {
-    "key": "guKEdb_iRXw",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.886,
-   "vote_count": 22
   },
   "movie:160139": {
    "backdrop_path": "/rX0EqXVwtTUhVb8Va4WPMiUmHWg.jpg",
@@ -1268,120 +1061,6 @@
    "vote_average": 7.923,
    "vote_count": 447
   },
-  "movie:454639": {
-   "backdrop_path": "/5MUMB3aPEPEQPCIAaygXFUTWE9Y.jpg",
-   "budget": 200000000,
-   "cast": [
-    {
-     "c": "Adam / He-Man",
-     "n": "Nicholas Galitzine"
-    },
-    {
-     "c": "Teela",
-     "n": "Camila Mendes"
-    },
-    {
-     "c": "Evil-Lyn",
-     "n": "Alison Brie"
-    },
-    {
-     "c": "King Randor",
-     "n": "James Purefoy"
-    },
-    {
-     "c": "The Sorceress",
-     "n": "Morena Baccarin"
-    },
-    {
-     "c": "Fisto",
-     "n": "Jóhannes Haukur Jóhannesson"
-    },
-    {
-     "c": "Queen Marlena",
-     "n": "Charlotte Riley"
-    },
-    {
-     "c": "Roboto (voice)",
-     "n": "Kristen Wiig"
-    },
-    {
-     "c": "Skeletor",
-     "n": "Jared Leto"
-    },
-    {
-     "c": "Duncan",
-     "n": "Idris Elba"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 16+",
-   "date_kind": "release",
-   "director": [
-    "Travis Knight"
-   ],
-   "genres": [
-    "Action",
-    "Fantasy",
-    "Science Fiction"
-   ],
-   "id": 454639,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-   "popularity": 22.3696,
-   "poster_path": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "Amazon Prime Video"
-    },
-    {
-     "name": "Amazon Prime Video with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-     "name": "Amazon Prime Video",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-     "name": "Amazon Prime Video with Ads",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-06-05",
-   "revenue": 113763426,
-   "runtime": 141,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "Legends aren't born, they're forged.",
-   "title": "Masters of the Universe",
-   "trailer": {
-    "key": "rJSmz-zhDxE",
-    "name": "Official Final Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.1,
-   "vote_count": 2345
-  },
   "movie:726139": {
    "backdrop_path": "/cIBp7rip1kZLSD7BQrEE4UXs6aq.jpg",
    "budget": 14750000,
@@ -2057,6 +1736,131 @@
    "vote_average": 6.4,
    "vote_count": 457
   },
+  "tv:157239": {
+   "backdrop_path": "/sVxit4vKQZnrHejeQupBYadP22g.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Wendy",
+     "n": "Sydney Chandler"
+    },
+    {
+     "c": "Joe DiMaggio Hermit",
+     "n": "Alex Lawther"
+    },
+    {
+     "c": "Dame Sylvia",
+     "n": "Essie Davis"
+    },
+    {
+     "c": "Boy Kavalier",
+     "n": "Samuel Blenkin"
+    },
+    {
+     "c": "Kumi Morrow",
+     "n": "Babou Ceesay"
+    },
+    {
+     "c": "Slightly",
+     "n": "Adarsh Gourav"
+    },
+    {
+     "c": "Curly",
+     "n": "Erana James"
+    },
+    {
+     "c": "Nibs",
+     "n": "Lily Newmark"
+    },
+    {
+     "c": "Smee",
+     "n": "Jonathan Ajayi"
+    },
+    {
+     "c": "Arthur Sylvia",
+     "n": "David Rysdahl"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "FX",
+   "created_by": [
+    "Noah Hawley"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-08-12",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 157239,
+   "industry": "world",
+   "networks": [
+    "FX",
+    "Hulu"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When the mysterious deep space research vessel USCSS Maginot crash-lands on Earth, Wendy and a ragtag group of tactical soldiers make a fateful discovery that puts them face-to-face with the planet's greatest threat.",
+   "popularity": 15.4252,
+   "poster_path": "/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-12",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "We were safer in space.",
+   "title": "Alien: Earth",
+   "trailer": {
+    "key": "ZbsiKjVAV28",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.29,
+   "vote_count": 1206
+  },
   "tv:1639": {
    "backdrop_path": "/zoetbPF7jYY0jjY5js3x6r1QjSW.jpg",
    "budget": 0,
@@ -2401,6 +2205,122 @@
    "vote_average": 6.528,
    "vote_count": 413
   },
+  "tv:238339": {
+   "backdrop_path": "/yBs2GWjwUcDPYKw5iWxZIrROBfp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dorrigo Evans",
+     "n": "Jacob Elordi"
+    },
+    {
+     "c": "Dorrigo Evans 1980s",
+     "n": "Ciarán Hinds"
+    },
+    {
+     "c": "Amy Mulvaney",
+     "n": "Odessa Young"
+    },
+    {
+     "c": "Ella Evans",
+     "n": "Olivia DeJonge"
+    },
+    {
+     "c": "Ella Evans 1980s",
+     "n": "Heather Mitchell"
+    },
+    {
+     "c": "Major Nakamura",
+     "n": "Show Kasamatsu"
+    },
+    {
+     "c": "Keith Mulvaney",
+     "n": "Simon Baker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "Prime Video",
+   "created_by": [
+    "Shaun Grant",
+    "Justin Kurzel"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-18",
+   "genres": [
+    "Drama",
+    "War & Politics"
+   ],
+   "id": 238339,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 5,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "Dorrigo Evans, an Australian surgeon on the Burma Railway during WWII, is haunted by his time as a POW, as well as a forbidden affair he had with his uncle's wife prior to the war.",
+   "popularity": 4.6447,
+   "poster_path": "/g0QMGxXtoNnMXz4QN2U05ijvqBe.jpg",
+   "production_countries": [
+    "AU"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-18",
+     "episode_count": 5,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Narrow Road to the Deep North",
+   "trailer": {
+    "key": "fgmHbkTZVRg",
+    "name": "The Narrow Road To The Deep North trailer | BBC",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.18,
+   "vote_count": 50
+  },
   "tv:249039": {
    "backdrop_path": "/efbDkbMBPcHAfnsvJ9SXCdHgMBw.jpg",
    "budget": 0,
@@ -2512,6 +2432,851 @@
    "type": "tv",
    "vote_average": 6.947,
    "vote_count": 244
+  },
+  "tv:252739": {
+   "backdrop_path": "/ex8tr0HjFIsOWf968DuJwTKAZjg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Thup",
+     "n": "Krittin Kitjaruwannakul"
+    },
+    {
+     "c": "Singha",
+     "n": "Naret Promphaopun"
+    },
+    {
+     "c": "Sey",
+     "n": "Kiettisak Vatanavitsakul"
+    },
+    {
+     "c": "Darin",
+     "n": "Supakorn Saokhor"
+    },
+    {
+     "c": "Mek",
+     "n": "Asre Wattanayakul"
+    },
+    {
+     "c": "King",
+     "n": "Phachara Thanakulwuttiporn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M18",
+   "channel": "ONE 31",
+   "created_by": [
+    "MTRD.S"
+   ],
+   "director": [
+    "Nopachai Jayanama"
+   ],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2025-10-31",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Action & Adventure"
+   ],
+   "id": 252739,
+   "industry": "world",
+   "networks": [
+    "ONE 31"
+   ],
+   "number_of_episodes": 13,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "A gifted young man and a rational detective investigate brutal forest murders, uncovering ancient beliefs and dangers that defy all logic.",
+   "popularity": 3.8711,
+   "poster_path": "/6oJfgHENTx0WOoXrzfOvIJDpwpd.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-09",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-10-31",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Ended",
+   "tagline": "The serial murder case of 7 victims.",
+   "title": "Goddess Bless You from Death",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.286,
+   "vote_count": 28
+  },
+  "tv:277439": {
+   "backdrop_path": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Anna Bowden",
+     "n": "Amy Adams"
+    },
+    {
+     "c": "Maximiliano 'Max' Cady",
+     "n": "Javier Bardem"
+    },
+    {
+     "c": "Tom Bowden",
+     "n": "Patrick Wilson"
+    },
+    {
+     "c": "Zack Bowden",
+     "n": "Joe Anders"
+    },
+    {
+     "c": "Natalie Bowden",
+     "n": "Lily Collias"
+    },
+    {
+     "c": "Nevaeh Valentine",
+     "n": "Malia Pyles"
+    },
+    {
+     "c": "Noa Toussaint",
+     "n": "CCH Pounder"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [
+    "Nick Antosca"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-06-04",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 277439,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
+   "popularity": 18.1552,
+   "poster_path": "/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-04",
+     "episode_count": 10,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Do you feel safe?",
+   "title": "Cape Fear",
+   "trailer": {
+    "key": "FZ3sN5E-mBU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.133,
+   "vote_count": 211
+  },
+  "tv:285739": {
+   "backdrop_path": "/fqWXGP79tEMAyLKW0wkJLbKSP61.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "M",
+     "n": "Rachel Weisz"
+    },
+    {
+     "c": "Vladimir",
+     "n": "Leo Woodall"
+    },
+    {
+     "c": "Cynthia",
+     "n": "Jessica Henwick"
+    },
+    {
+     "c": "Sid",
+     "n": "Ellen Robertson"
+    },
+    {
+     "c": "John",
+     "n": "John Slattery"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Julia May Jonas"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-05",
+   "genres": [
+    "Drama"
+   ],
+   "id": 285739,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When an English professor becomes obsessed with a handsome new colleague, her already complicated marriage and career are thrown into total chaos.",
+   "popularity": 5.2877,
+   "poster_path": "/j02VBIGVIk2OTwTUZ1YzyzcONAy.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-05",
+     "episode_count": 8,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "A girl needs a muse.",
+   "title": "Vladimir",
+   "trailer": {
+    "key": "pLeJ0CysmN8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.7,
+   "vote_count": 111
+  },
+  "tv:291339": {
+   "backdrop_path": "/llrSuUkFiR6EjDnh79dq8HEeziF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Angelo Doyle",
+     "n": "Patrick Dempsey"
+    },
+    {
+     "c": "Joe Ferrera",
+     "n": "Richard Harmon"
+    },
+    {
+     "c": "Maria Kahn",
+     "n": "Odeya Rush"
+    },
+    {
+     "c": "Dave Woods",
+     "n": "Peter Gadiot"
+    },
+    {
+     "c": "Jeff Kahn",
+     "n": "Daniel David Stewart"
+    },
+    {
+     "c": "Dutch Forlanni",
+     "n": "Michael Imperioli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "FOX",
+   "created_by": [
+    "Ed Whitmore",
+    "Tracey Malone"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-25",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 291339,
+   "industry": "world",
+   "networks": [
+    "FOX"
+   ],
+   "number_of_episodes": 11,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Angelo Doyle lives two totally separate lives — fearsome NYC hitman and sleepy upstate Cooperstown photocopier salesman and father. Both of them are threatened when he is diagnosed with Alzheimer's, a disease he already lost his older brother to.",
+   "popularity": 15.23,
+   "poster_path": "/3kpXrWW6gmlngwgSa52IhBpjPuz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FOX One Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/b3KR9gzy7QkvLNyNzUROavLpsrq.png",
+     "name": "FOX One Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-25",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2027-02-01",
+     "episode_count": 1,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "A fading mind. A violent past.",
+   "title": "Memory of a Killer",
+   "trailer": {
+    "key": "TdenhFzKenM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 93
+  },
+  "tv:299939": {
+   "backdrop_path": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lizzie Borden",
+     "n": "Ella Beatty"
+    },
+    {
+     "c": "Bridget Sullivan",
+     "n": "Vicky Krieps"
+    },
+    {
+     "c": "Andrew Borden",
+     "n": "Charlie Hunnam"
+    },
+    {
+     "c": "Abby Borden",
+     "n": "Rebecca Hall"
+    },
+    {
+     "c": "Emma Borden",
+     "n": "Billie Lourd"
+    },
+    {
+     "c": "Nance O'Neil",
+     "n": "Jessica Barden"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Ian Brennan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-09-17",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 299939,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+   "popularity": 22.7599,
+   "poster_path": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-09-17",
+     "episode_count": 8,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Monster: The Lizzie Borden Story",
+   "trailer": {
+    "key": "gYTzF1vna40",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.055,
+   "vote_count": 255
+  },
+  "tv:310239": {
+   "backdrop_path": "/kpEjZVusnBo9JcSTnfZtQlgbxu3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kemal Basmacı",
+     "n": "Selahattin Paşalı"
+    },
+    {
+     "c": "Füsun",
+     "n": "Eylül Lize Kandemir"
+    },
+    {
+     "c": "Sibel",
+     "n": "Oya Unustası"
+    },
+    {
+     "c": "",
+     "n": "Tilbe Saran"
+    },
+    {
+     "c": "",
+     "n": "Bülent Emin Yarar"
+    },
+    {
+     "c": "",
+     "n": "Gülçin Kültür Şahin"
+    },
+    {
+     "c": "",
+     "n": "Zeynep Dinsel"
+    },
+    {
+     "c": "",
+     "n": "Tolga İskit"
+    },
+    {
+     "c": "",
+     "n": "Onur Ünsal"
+    },
+    {
+     "c": "",
+     "n": "Ercan Kesal"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [
+    "Zeynep Günay Tan"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-02-13",
+   "genres": [
+    "Drama"
+   ],
+   "id": 310239,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 9,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TR"
+   ],
+   "original_language": "tr",
+   "overview": "In 1970s Istanbul, a man's forbidden love for a shop-girl evolves into a lifelong journey of obsession and longing.",
+   "popularity": 6.1752,
+   "poster_path": "/gdDPQ5vs7HdhoqUqV0DOgqUPcXU.jpg",
+   "production_countries": [
+    "TR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-13",
+     "episode_count": 9,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "tr"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Museum of Innocence",
+   "trailer": {
+    "key": "vyX2652ALn0",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.905,
+   "vote_count": 42
+  },
+  "tv:315939": {
+   "backdrop_path": "/7FXAqtErb0KGyxJdHRyNFuIhUD9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gabriel 'Gabo' Moretti",
+     "n": "Mariano González"
+    },
+    {
+     "c": "Ricardo 'Ricky' Flores",
+     "n": "Juan David Penagos"
+    },
+    {
+     "c": "André 'Dedé' Duarte",
+     "n": "Luan Brum"
+    },
+    {
+     "c": "Gael",
+     "n": "Emiliano González"
+    },
+    {
+     "c": "Benjamín",
+     "n": "Massimo Pomponio"
+    },
+    {
+     "c": "Tomás",
+     "n": "Fausti Bo"
+    },
+    {
+     "c": "Vito",
+     "n": "Santiago Stieben"
+    },
+    {
+     "c": "Joaco",
+     "n": "Javier Eloy Bonanno"
+    },
+    {
+     "c": "Zoe",
+     "n": "Paulina Vetrano"
+    },
+    {
+     "c": "Francisco",
+     "n": "Nicolás Pauls"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Disney+",
+   "created_by": [],
+   "director": [
+    "Sebastián Pivotto"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-18",
+   "genres": [
+    "Drama"
+   ],
+   "id": 315939,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 20,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "AR"
+   ],
+   "original_language": "es",
+   "overview": "After six years of success in European soccer, Gabo, Dedé, and Ricky decide to visit IAD, the Academic Sports Institute, which saw them grow up, and surprise them. But they are the ones who get the surprise: the IAD is not as it used to be and the Golden Hawks, the soccer team they were part of, is aimless, unmotivated, and on the verge of being relegates. Now they must restore the IAD’s glory and the pride of being an Hawk: a new chapter begins, full of passion and plenty of soccer!",
+   "popularity": 2.5649,
+   "poster_path": "/noguKCrUu1SqLlA5Ktrbl7W8op.jpg",
+   "production_countries": [
+    "AR"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-17",
+     "episode_count": 20,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "O11CE: New Generation",
+   "trailer": {
+    "key": "0bRZJA9j8sA",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 9.065,
+   "vote_count": 31
   },
   "tv:4239": {
    "backdrop_path": "/y6nEgbjMUpYLnVUwZDzX95wH5Vj.jpg",

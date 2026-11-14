@@ -1,112 +1,7 @@
 {
  "bucket": "53",
- "count": 17,
+ "count": 20,
  "titles": {
-  "movie:1022453": {
-   "backdrop_path": "/kCwmLYy9ZMto1eMH8BI9KcVVIH2.jpg",
-   "budget": 50000000,
-   "cast": [
-    {
-     "c": "Raju \"Rajasaab\" / Joker",
-     "n": "Prabhas"
-    },
-    {
-     "c": "Pekamedala Kanakaraju",
-     "n": "Sanjay Dutt"
-    },
-    {
-     "c": "Gangamma",
-     "n": "Zarina Wahab"
-    },
-    {
-     "c": "Bessy",
-     "n": "Nidhhi Agerwal"
-    },
-    {
-     "c": "Bhairavi",
-     "n": "Malavika Mohanan"
-    },
-    {
-     "c": "Anitha",
-     "n": "Riddhi Kumar"
-    },
-    {
-     "c": "Dr. Padmabhushan",
-     "n": "Boman Irani"
-    },
-    {
-     "c": "Ganagaraju",
-     "n": "Samuthirakani"
-    },
-    {
-     "c": "Mangalam Babai",
-     "n": "VTV Ganesh"
-    },
-    {
-     "c": "Bessy's Aide",
-     "n": "Saptagiri"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 16+",
-   "date_kind": "release",
-   "director": [
-    "Maruthi Dasari"
-   ],
-   "genres": [
-    "Fantasy",
-    "Horror",
-    "Comedy"
-   ],
-   "id": 1022453,
-   "industry": "bollywood",
-   "origin_country": [
-    "IN"
-   ],
-   "original_language": "te",
-   "overview": "Seeking his lost grandfather, a young man enters a haunted mansion and awakens a family curse powerful enough to upend both his life and reality.",
-   "popularity": 2.9761,
-   "poster_path": "/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg",
-   "production_countries": [
-    "IN"
-   ],
-   "providers": [
-    {
-     "name": "Hulu"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
-     "name": "Hulu",
-     "region": "US"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-01-08",
-   "revenue": 21000000,
-   "runtime": 186,
-   "source": "catalogue",
-   "spoken_languages": [
-    "te"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "The Rajasaab",
-   "trailer": {
-    "key": "YFZMBqyXkqQ",
-    "name": "The RajaSaab Glimpse",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 4.8,
-   "vote_count": 37
-  },
   "movie:10253": {
    "backdrop_path": "/5WWqrUIGrCb1QvZtYVaSfZgUG8n.jpg",
    "budget": 32000000,
@@ -1083,86 +978,6 @@
    "type": "movie",
    "vote_average": 6.345,
    "vote_count": 42
-  },
-  "movie:1583853": {
-   "backdrop_path": "/uIztlFaiWBy0tOLPPmJtFeINliV.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Giulia Cecchettin",
-     "n": "Sabrina Martina"
-    },
-    {
-     "c": "Gino Cecchettin",
-     "n": "Filippo Timi"
-    },
-    {
-     "c": "Elena Cecchettin",
-     "n": "Tecla Bossi"
-    },
-    {
-     "c": "Davide Cecchettin",
-     "n": "Tommaso Allione"
-    },
-    {
-     "c": "",
-     "n": "Massimo Scola"
-    },
-    {
-     "c": "",
-     "n": "Carmen Lorenzo"
-    },
-    {
-     "c": "",
-     "n": "Marianna Caporali"
-    },
-    {
-     "c": "",
-     "n": "Filippo Sottoriva"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "",
-   "date_kind": "release",
-   "director": [
-    "Paola Randi"
-   ],
-   "genres": [
-    "Drama"
-   ],
-   "id": 1583853,
-   "industry": "world",
-   "origin_country": [
-    "IT"
-   ],
-   "original_language": "it",
-   "overview": "It follows the tragic life of Giulia Cecchettin, starting from the private pain of her father, Gino Cecchettin, and culminating in a cinematic story that stems from the book of the victim's father, entitled Dear Giulia.",
-   "popularity": 3.0299,
-   "poster_path": "/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
-   "production_countries": [
-    "IT"
-   ],
-   "providers": [],
-   "providers_wtw": [],
-   "published_at": "2026-11-14",
-   "release_date": "2026-11-05",
-   "revenue": 0,
-   "runtime": 107,
-   "source": "catalogue",
-   "spoken_languages": [
-    "it"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Se domani non torno",
-   "trailer": null,
-   "type": "movie",
-   "vote_average": 7.34,
-   "vote_count": 25
   },
   "movie:39053": {
    "backdrop_path": "/tZP2xJaUgCFByVMDYHyEOJiCSX6.jpg",
@@ -2288,6 +2103,617 @@
    "type": "tv",
    "vote_average": 8.0,
    "vote_count": 1600
+  },
+  "tv:254953": {
+   "backdrop_path": "/mhZAT8ktiNi7YwuL50kmumsau69.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Greg Russo",
+     "n": "Steve Carell"
+    },
+    {
+     "c": "Katie Russo",
+     "n": "Charly Clive"
+    },
+    {
+     "c": "Dylan Shepard",
+     "n": "Danielle Deadwyler"
+    },
+    {
+     "c": "Archie Bates",
+     "n": "Phil Dunster"
+    },
+    {
+     "c": "Walter Mann",
+     "n": "John C. McGinley"
+    },
+    {
+     "c": "Sunny Salewski",
+     "n": "Lauren Tsai"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "HBO",
+   "created_by": [
+    "Bill Lawrence",
+    "Matt Tarses"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-08",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 254953,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On a college campus, an author navigates a complicated relationship with his daughter.",
+   "popularity": 9.3061,
+   "poster_path": "/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-08",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "He's here to learn.",
+   "title": "Rooster",
+   "trailer": {
+    "key": "L00r5BGgP64",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.384,
+   "vote_count": 147
+  },
+  "tv:262453": {
+   "backdrop_path": "/bo2DaVKFagKsodUk6GWMov9vxV1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Athanasia de Alger Obelia (voice)",
+     "n": "Tao Dian"
+    },
+    {
+     "c": "Claude de Alger Obelia (voice)",
+     "n": "Zhao Lu"
+    },
+    {
+     "c": "Lucas (voice)",
+     "n": "Ma Zhengyang"
+    },
+    {
+     "c": "Young Lucas (voice)",
+     "n": "Zhang Qi"
+    },
+    {
+     "c": "Felix Robane (voice)",
+     "n": "Sun Ye"
+    },
+    {
+     "c": "Lilian York (voice)",
+     "n": "Xu Hui"
+    },
+    {
+     "c": "Jennette Margarita (voice)",
+     "n": "Chen Yiwen"
+    },
+    {
+     "c": "Ijekiel Alpheus (voice)",
+     "n": "Yang Chaoran"
+    },
+    {
+     "c": "Young Ijekiel (voice)",
+     "n": "Mu Xueting"
+    },
+    {
+     "c": "Anastacius (voice)",
+     "n": "Zhang Pei"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "channel": "iQiyi",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    21
+   ],
+   "first_air_date": "2025-09-28",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 262453,
+   "industry": "world",
+   "networks": [
+    "iQiyi"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "When a woman wakes up as Athanasia, the ill-fated princess from the novel The Lovely Princess, she's gotta rewrite this tragedy or face execution—by her own father! She may be trapped, but she's got her wits and the doomed girl's memories to help her with a plot twist of survival. But when her escape plan fails, she has to charm her way into not being executed again.",
+   "popularity": 6.0068,
+   "poster_path": "/wOOkVZQTmTGXBJ0VPeP02YZl84m.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-25",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-09-28",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Fated Magical Princess: Who Made Me a Princess",
+   "trailer": {
+    "key": "AOhuwqZptjk",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.5,
+   "vote_count": 44
+  },
+  "tv:271053": {
+   "backdrop_path": "/52h1FHwHLVG7oafzHTAJkmUKNMu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maia Simsbury",
+     "n": "Rachel Sennott"
+    },
+    {
+     "c": "Tallulah Stiel",
+     "n": "Odessa A'zion"
+    },
+    {
+     "c": "Alani Marcus",
+     "n": "True Whitaker"
+    },
+    {
+     "c": "Charlie Cohen",
+     "n": "Jordan Firstman"
+    },
+    {
+     "c": "Dylan",
+     "n": "Josh Hutcherson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "HBO",
+   "created_by": [
+    "Rachel Sennott"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-11-02",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 271053,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A codependent friend group navigates life and love in Los Angeles. With aspirations of becoming a talent manager, Maia is stalled out as an assistant while living with her boyfriend...until her longtime best friend and frenzied influencer Tallulah returns.",
+   "popularity": 7.8508,
+   "poster_path": "/6xrLXEQABvoVwGka9KDDAOt4lFs.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-02",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "It's sink or swim.",
+   "title": "I Love LA",
+   "trailer": {
+    "key": "DnBAmvw_Yow",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.5,
+   "vote_count": 56
+  },
+  "tv:276253": {
+   "backdrop_path": "/sIiQObaCB7CrS1uum8R1HTPSlKR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Zenos (voice)",
+     "n": "Shogo Sakata"
+    },
+    {
+     "c": "Lily (voice)",
+     "n": "Miharu Hanai"
+    },
+    {
+     "c": "Carmilla (voice)",
+     "n": "Yoko Hikasa"
+    },
+    {
+     "c": "Lynga (voice)",
+     "n": "Mashiro Hitaka"
+    },
+    {
+     "c": "Zophia (voice)",
+     "n": "Anna Nagase"
+    },
+    {
+     "c": "Aston (voice)",
+     "n": "Masaaki Mizunaka"
+    },
+    {
+     "c": "Loewe (voice)",
+     "n": "Sayaka Kikuchi"
+    },
+    {
+     "c": "Zonde (voice)",
+     "n": "Taku Yashiro"
+    },
+    {
+     "c": "Krishna (voice)",
+     "n": "Yuki Nakashima"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-04-03",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 276253,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX",
+    "BS11"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Banished as \"useless,\" Zenos, a self-taught healer from the slums, turns despair into defiance and opens a secret clinic in the city's shadows. With unlicensed, unmatched magic, he cures, comforts, and rights wrongs, quietly becoming a legend. But as his power grows, even the royal palace takes notice. Can he buck the odds and heal a world that cast him aside?",
+   "popularity": 7.9944,
+   "poster_path": "/3RqQ6WNHaIyHJByEiRYTpbGCsms.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-03",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Brilliant Healer's New Life in the Shadows",
+   "trailer": {
+    "key": "XjwJfrxXpDk",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 84
+  },
+  "tv:283853": {
+   "backdrop_path": "/wZewK73NjgQ0IdZFGSt7t1yQjC7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Adèle Charki",
+     "n": "Manon Bresch"
+    },
+    {
+     "c": "Édouard Galzain",
+     "n": "Melvil Poupaud"
+    },
+    {
+     "c": "Marina",
+     "n": "Nina Zem"
+    },
+    {
+     "c": "Esther de Louvey",
+     "n": "Anne Azoulay"
+    },
+    {
+     "c": "Amal Petmani",
+     "n": "Zar Amir Ebrahimi"
+    },
+    {
+     "c": "Yan /Yaz",
+     "n": "Sandor Funtek"
+    },
+    {
+     "c": "Mark Pépo",
+     "n": "Joseph Olivennes"
+    },
+    {
+     "c": "Reem Petmani",
+     "n": "Stephanie Atala"
+    },
+    {
+     "c": "Shadia",
+     "n": "Nadia Benzakour"
+    },
+    {
+     "c": "Déborah Sérour",
+     "n": "Eva Huault"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R21",
+   "channel": "HBO Max",
+   "created_by": [
+    "Marie Monge",
+    "Vladimir de Fontenay"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-27",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 283853,
+   "industry": "world",
+   "networks": [
+    "HBO Max"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Hoping for a last chance at redemption, a young inmate takes a job inside a luxury Parisian hotel rife with ruthless ambition and betrayal.",
+   "popularity": 4.4031,
+   "poster_path": "/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-27",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Returning Series",
+   "tagline": "In a world of luxury, power is the only currency.",
+   "title": "Privileges",
+   "trailer": {
+    "key": "ITtpzp_njNM",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.2,
+   "vote_count": 36
   },
   "tv:44953": {
    "backdrop_path": "/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",

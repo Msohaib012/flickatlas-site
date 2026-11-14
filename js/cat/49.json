@@ -1,6 +1,6 @@
 {
  "bucket": "49",
- "count": 25,
+ "count": 32,
  "titles": {
   "movie:10349": {
    "backdrop_path": "/uTlZjD5uZ8C71pt4G8gt5QhhqIJ.jpg",
@@ -943,108 +943,6 @@
    "type": "movie",
    "vote_average": 7.05,
    "vote_count": 20
-  },
-  "movie:1789549": {
-   "backdrop_path": "/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Marlene Frischmann",
-     "n": "Jeanne Goursaud"
-    },
-    {
-     "c": "Timo",
-     "n": "Edin Hasanović"
-    },
-    {
-     "c": "Hans",
-     "n": "Heiner Lauterbach"
-    },
-    {
-     "c": "Theo Frischmann",
-     "n": "Levin Wopp"
-    },
-    {
-     "c": "Sofia",
-     "n": "Sogol Faghani"
-    },
-    {
-     "c": "",
-     "n": "Enzo Brumm"
-    },
-    {
-     "c": "",
-     "n": "Berit Künnecke"
-    },
-    {
-     "c": "Jenny",
-     "n": "Amal Keller"
-    },
-    {
-     "c": "",
-     "n": "Bastian Reiber"
-    },
-    {
-     "c": "Arthur",
-     "n": "Paul Henrich"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Vanessa Jopp"
-   ],
-   "genres": [
-    "Comedy"
-   ],
-   "id": 1789549,
-   "industry": "world",
-   "origin_country": [
-    "DE"
-   ],
-   "original_language": "de",
-   "overview": "Single mother Marlene Frischmann organizes a birthday party for her son Theo at her brother's chic country villa, which quickly spirals into family drama, world-view quarrels, and chaos.",
-   "popularity": 10.6985,
-   "poster_path": "/jqGFILLsEDwsLteNDQextojsYFV.jpg",
-   "production_countries": [
-    "DE"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-30",
-   "revenue": 0,
-   "runtime": 86,
-   "source": "catalogue",
-   "spoken_languages": [
-    "de"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "The Birthday​ Gift​",
-   "trailer": null,
-   "type": "movie",
-   "vote_average": 6.263,
-   "vote_count": 38
   },
   "movie:209249": {
    "backdrop_path": "/5YnUQ5oRXjQcxuqwn76NoIxwRV2.jpg",
@@ -2758,6 +2656,871 @@
    "type": "tv",
    "vote_average": 7.608,
    "vote_count": 497
+  },
+  "tv:226749": {
+   "backdrop_path": "/7vonjNjQ272lz0rJYM31K8V7b2m.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Vikram Chamberlin",
+     "n": "Callum McGowan"
+    },
+    {
+     "c": "Charlie Cornwall",
+     "n": "Jessica Green"
+    },
+    {
+     "c": "Lysa Pascal",
+     "n": "Olivia Morris"
+    },
+    {
+     "c": "Connor Green",
+     "n": "Bluey Robinson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "TNT",
+   "created_by": [
+    "Dean Devlin",
+    "John Rogers"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-25",
+   "genres": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 226749,
+   "industry": "world",
+   "networks": [
+    "TNT"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A Librarian from the past time travels to the present and finds himself stuck here. When he returns to his castle, which is now a museum, he inadvertently releases magic across the continent. He is given a new team to help him clean up the mess he made, forming a new team of Librarians.",
+   "popularity": 8.1196,
+   "poster_path": "/w2PhnfYgY1yjxnUc1M4Jp5CjXvD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-25",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-08-02",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "A brand new adventure begins.",
+   "title": "The Librarians: The Next Chapter",
+   "trailer": {
+    "key": "EF7iDtf-ukk",
+    "name": "Launches May 25 on TNT",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.6,
+   "vote_count": 57
+  },
+  "tv:260249": {
+   "backdrop_path": "/bLcF9mcinphgFlXEfk7RkCSfqCv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Miguel",
+     "n": "Eugenio Derbez"
+    },
+    {
+     "c": "Huerta",
+     "n": "Pedro Alonso"
+    },
+    {
+     "c": "Andrea Portillo",
+     "n": "Karla Gaytán"
+    },
+    {
+     "c": "Carlos Huerta",
+     "n": "Íker Sánchez Solano"
+    },
+    {
+     "c": "Agente MP",
+     "n": "Sergio Gava"
+    },
+    {
+     "c": "Joaquín Portillo",
+     "n": "Héctor Jiménez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-09-11",
+   "genres": [
+    "Drama"
+   ],
+   "id": 260249,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX",
+    "US"
+   ],
+   "original_language": "es",
+   "overview": "A teenager and her father struggle for justice after she is sexually assaulted by the scion of a successful businessman. Not only will the father and daughter have to navigate a failed judicial system, but they must also contend with a wealthy adversary bent on using all his power to protect his son.",
+   "popularity": 6.6619,
+   "poster_path": "/3k5HpocqX4grgmqCecT2OdYMyT0.jpg",
+   "production_countries": [
+    "MX",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ViX Premium Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-09-10",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Trial",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 9.032,
+   "vote_count": 94
+  },
+  "tv:271649": {
+   "backdrop_path": "/uuwWD26VZBezCrGb0FxJidwWaEw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ruri Tanigawa (voice)",
+     "n": "Miyari Nemoto"
+    },
+    {
+     "c": "Nagi Arato (voice)",
+     "n": "Asami Seto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "AT-X",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-07-06",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 271649,
+   "industry": "world",
+   "networks": [
+    "AT-X"
+   ],
+   "number_of_episodes": 13,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "High schooler Ruri Tanigawa loves shiny things. She loves them so much that she heads into the mountains to search for crystals herself—where she unexpectedly meets Nagi Arato, a graduate student studying mineralogy. As the pair start collecting minerals together, Ruri begins developing a genuine appreciation for science and the beauty of the natural world.",
+   "popularity": 7.3396,
+   "poster_path": "/gHI3fkZMR05PeiB1SN0JADZKfdj.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-10",
+     "episode_count": 13,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-07-06",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Ruri Rocks",
+   "trailer": {
+    "key": "OMwjT1llsuk",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.429,
+   "vote_count": 35
+  },
+  "tv:276349": {
+   "backdrop_path": "/sHXIR3lAWZFIm1h70OFAFcdBXmN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tsuyoshi ‌Yano (voice)",
+     "n": "Kohei Amasaki"
+    },
+    {
+     "c": "Kiyoko ‌Yoshida (voice)",
+     "n": "Yuka Nukui"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12+",
+   "channel": "Nippon TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2025-10-01",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 276349,
+   "industry": "world",
+   "networks": [
+    "Nippon TV"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Kiyoko Yoshida is an overanxious class representative who can’t help but worry about Tsuyoshi Yano, who sits beside her. Tsuyoshi comes to school covered in bruises, and as Kiyoko tends to him day after day, the two draw closer. Where will Kiyoko’s feelings take her? Will Tsuyoshi’s life ever be normal?",
+   "popularity": 6.0394,
+   "poster_path": "/kExjEL79wXEn8v4nk8iQp9s9T53.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-01",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Yano-kun's Ordinary Days",
+   "trailer": {
+    "key": "2YeM39SNgUY",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 31
+  },
+  "tv:280049": {
+   "backdrop_path": "/gf62V8UBVBMFPpD9yI0UFvkFvq2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Allen (voice)",
+     "n": "Mutsumi Tamura"
+    },
+    {
+     "c": "Krena (voice)",
+     "n": "Mayu Iizuka"
+    },
+    {
+     "c": "Dogora (voice)",
+     "n": "Tasuku Hatanaka"
+    },
+    {
+     "c": "Nina (voice)",
+     "n": "Mizuki Ohyagi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-10",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 280049,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 25,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Kenichi Yamada, a single, 35-year-old businessman, has spent the majority of his adult life playing every MMORPG to hit the market. Tired of the constant cycle of repetitive, newbie-centric gameplay, he is immediately drawn in by the promise of a new game that, on top of being never-ending, offers up a \"Hell Mode\"—a difficulty level that makes it nigh impossible to level up but also promises uncapped growth potential. Upon selecting the newly released Summoner class, Kenichi finds himself reborn as Allen, an infant in a serf family, with nothing but his wits and old memories to guide him.",
+   "popularity": 10.8754,
+   "poster_path": "/9m8MgXfAHbR4ELxrsQR8w0b5NQM.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "HiDive"
+    },
+    {
+     "name": "Hidive Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1743zXk6Hn0afaarNtp6bXVMlsT.png",
+     "name": "HiDive",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/63UDiSB2rJAEUaxUXTNZbGNnjRm.png",
+     "name": "Hidive Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-10",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-07-04",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
+   "trailer": {
+    "key": "ew2-tQrejEY",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.528,
+   "vote_count": 36
+  },
+  "tv:296549": {
+   "backdrop_path": "/7LJanibhktWlXdhvxg0fsEhyB8Y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Bob Harper"
+    },
+    {
+     "c": "Self",
+     "n": "Alison Sweeney"
+    },
+    {
+     "c": "Self",
+     "n": "Rob Huizenga"
+    },
+    {
+     "c": "Self",
+     "n": "J.D. Roth"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Caroline Rhea"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Jillian Michaels"
+    },
+    {
+     "c": "Self",
+     "n": "Aubrey Gordon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [
+    "Skye Borgman"
+   ],
+   "episode_run_time": [
+    40
+   ],
+   "first_air_date": "2025-08-15",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 296549,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Takes an inside look at the making of the hit reality TV competition, exploring the good, the bad, and the complicated. Featuring interviews with former contestants, trainers, producers, and health professionals, the documentary examines the show's approach to transformation, the support systems in place, and the unique challenges of filming reality television.",
+   "popularity": 2.2191,
+   "poster_path": "/bxf5rfk5f0qYf3aH7vgh5zwh5Y7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-15",
+     "episode_count": 3,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Fit for TV: The Reality of the Biggest Loser",
+   "trailer": {
+    "key": "AQGCPZ2VC0c",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.9,
+   "vote_count": 28
+  },
+  "tv:304849": {
+   "backdrop_path": "/AiH3pDVAxt485WzCaBjRQHcP599.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "",
+     "n": "Fernando Burlando"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-11-13",
+   "genres": [
+    "Documentary",
+    "Crime"
+   ],
+   "id": 304849,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "This documentary series explores the case of Fernando Báez Sosa, whose fatal beating by a group of young men was caught on video, shocking Argentina.",
+   "popularity": 1.2623,
+   "poster_path": "/pHZcekriNgOd3WhqvHxyZ2cAl36.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-13",
+     "episode_count": 3,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "50 Seconds: The Fernando Báez Sosa Case",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 21
+  },
+  "tv:312949": {
+   "backdrop_path": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yaniko 'Yani-Neko' Satō (voice)",
+     "n": "Yuko Natsuyoshi"
+    },
+    {
+     "c": "Masuko 'Yaku-Neko' Koshijimaru (voice)",
+     "n": "Misato Matsuoka"
+    },
+    {
+     "c": "Yurufuwa＊Tenshi 'Hame-Neko' Hameko (voice)",
+     "n": "Yurie Funato"
+    },
+    {
+     "c": "Kaoruko 'Kansai-Neko' Nishi (voice)",
+     "n": "Ayaka Shimizu"
+    },
+    {
+     "c": "Aruko 'Al-Neko' Sakai (voice)",
+     "n": "Shiori Izawa"
+    },
+    {
+     "c": "Tatsurō Ochinpo (voice)",
+     "n": "Riko Akechi"
+    },
+    {
+     "c": "Landlord (voice)",
+     "n": "Tetsu Inada"
+    },
+    {
+     "c": "Imoko (voice)",
+     "n": "Rina Honnizumi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-07-03",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 312949,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow, she must rethink her future.",
+   "popularity": 19.66,
+   "poster_path": "/m7AnmAtTDC5qfEp3BcLSSJerBzM.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-22",
+     "episode_count": 22,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2026-07-03",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Chainsmoker Cat",
+   "trailer": {
+    "key": "KYGgyQtSAdI",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 98
   },
   "tv:4349": {
    "backdrop_path": "/1SUer2UeRe4LFxil6LJo60KoQrX.jpg",

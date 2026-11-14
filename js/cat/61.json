@@ -1,6 +1,6 @@
 {
  "bucket": "61",
- "count": 19,
+ "count": 24,
  "titles": {
   "movie:1212461": {
    "backdrop_path": "/77aCeoWOA5toCWk67lTAzrfW92Y.jpg",
@@ -2326,6 +2326,473 @@
    "vote_average": 7.717,
    "vote_count": 256
   },
+  "tv:241361": {
+   "backdrop_path": "/hBjWLnOO8rwHmFbpA88QR0tAG5e.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jessica Salmon",
+     "n": "Megan Stalter"
+    },
+    {
+     "c": "Felix Remen",
+     "n": "Will Sharpe"
+    },
+    {
+     "c": "Jonno Ratigan",
+     "n": "Richard E. Grant"
+    },
+    {
+     "c": "Simon Remen",
+     "n": "Stephen Fry"
+    },
+    {
+     "c": "Kim Keith Independence",
+     "n": "Janicza Bravo"
+    },
+    {
+     "c": "Zev",
+     "n": "Michael Zegen"
+    },
+    {
+     "c": "Dottie",
+     "n": "Rhea Perlman"
+    },
+    {
+     "c": "Lois Salmon",
+     "n": "Rita Wilson"
+    },
+    {
+     "c": "Boss Gibbons",
+     "n": "Leo Reich"
+    },
+    {
+     "c": "Polly",
+     "n": "Adèle Exarchopoulos"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Lena Dunham",
+    "Luis Felber"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-10",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 241361,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a heartbroken New Yorker moves to London hoping for a love story, she falls for an indie musician who's anything but the typical romantic hero.",
+   "popularity": 6.1478,
+   "poster_path": "/rCLrhHqN26gS4eNrM27hY8XJXOt.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-10",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "A super low-key love story.",
+   "title": "Too Much",
+   "trailer": {
+    "key": "HcrbR6EXynM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.731,
+   "vote_count": 39
+  },
+  "tv:246461": {
+   "backdrop_path": "/uZf1hJBTwcOVX0GSAm7BRuWEuEm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sherlock Holmes",
+     "n": "David Thewlis"
+    },
+    {
+     "c": "Amelia Rojas",
+     "n": "Blu Hunt"
+    },
+    {
+     "c": "Mr. Halligan",
+     "n": "Ardal O'Hanlon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "The CW",
+   "created_by": [
+    "Brendan Foley"
+   ],
+   "director": [
+    "Bryn Higgins"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-16",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 246461,
+   "industry": "world",
+   "networks": [
+    "The CW",
+    "discovery+"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Sherlock Holmes faces a sinister case risking friends' lives. American Amelia joins, seeking her father after her mother's murder. Despite differences, they solve a conspiracy and her mother's case.",
+   "popularity": 9.6121,
+   "poster_path": "/ifh5NNMzUEqErsHmeKjjGblbOav.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-16",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Sherlock & Daughter",
+   "trailer": {
+    "key": "msq__qmRe04",
+    "name": "Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.824,
+   "vote_count": 71
+  },
+  "tv:255661": {
+   "backdrop_path": "/8mmDLb108DoFZlE8sfc64TRqLvm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sherlock Holmes",
+     "n": "Hero Fiennes Tiffin"
+    },
+    {
+     "c": "James Moriarty",
+     "n": "Dónal Finn"
+    },
+    {
+     "c": "Princess Gulun Shou'an",
+     "n": "Zine Tseng"
+    },
+    {
+     "c": "Cordelia Holmes",
+     "n": "Natascha McElhone"
+    },
+    {
+     "c": "Mycroft Holmes",
+     "n": "Max Irons"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Prime Video",
+   "created_by": [
+    "Matthew Parkhill"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-04",
+   "genres": [
+    "Action & Adventure",
+    "Mystery"
+   ],
+   "id": 255661,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 11,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Sherlock Holmes is a disgraced young man, raw and unfiltered, when he finds himself wrapped up in a murder case that threatens his liberty. His first ever case unravels a globe-trotting conspiracy that changes his life forever.",
+   "popularity": 17.4029,
+   "poster_path": "/h3s0Cd2JppeWA4UjTuSRauL52P7.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-04",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 3,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "en",
+    "fr",
+    "tr"
+   ],
+   "status": "Returning Series",
+   "tagline": "Think fast. Fight faster.",
+   "title": "Young Sherlock",
+   "trailer": {
+    "key": "rXMrTALO2ME",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 340
+  },
+  "tv:269161": {
+   "backdrop_path": "/zRPfRuLq1eCyEvlsKhl1k96lRw9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Naël",
+     "n": "Rudgy Pajany"
+    },
+    {
+     "c": "Alex Croquet",
+     "n": "Jonathan Zaccaï"
+    },
+    {
+     "c": "CAC 40",
+     "n": "Rémy Laquittant"
+    },
+    {
+     "c": "Kingsley Lafleur",
+     "n": "Rodney Dijon"
+    },
+    {
+     "c": "Kylian Lafleur",
+     "n": "Djody Grimeau"
+    },
+    {
+     "c": "Sherkhan",
+     "n": "Patrick Trieste"
+    },
+    {
+     "c": "",
+     "n": "William Paul-Joseph"
+    },
+    {
+     "c": "",
+     "n": "Evan Lienafa"
+    },
+    {
+     "c": "Annabelle",
+     "n": "Ambre Bozza"
+    },
+    {
+     "c": "",
+     "n": "Souane Rosamont"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R21",
+   "channel": "Netflix",
+   "created_by": [
+    "Éric Rochant",
+    "Capucine Rochant"
+   ],
+   "director": [
+    "Jimmy Laporal-Trésor",
+    "Mathilde Vallet"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-09",
+   "genres": [
+    "Drama"
+   ],
+   "id": 269161,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Following the death of their mother, their pillar of strength and their anchor, eleven siblings aged 7 to 23 try to stay united in the face of adversity. But for some of them, drug trafficking seems to be the only way to survive. A decision far from being unanimously accepted, and one that severely tests the strength of their family bonds.",
+   "popularity": 3.7812,
+   "poster_path": "/bbU23S58nbHK3PkIpbbprRFTVGl.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-09",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "Bandi",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.667,
+   "vote_count": 54
+  },
   "tv:276161": {
    "backdrop_path": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
    "budget": 0,
@@ -2428,6 +2895,144 @@
    "type": "tv",
    "vote_average": 9.4,
    "vote_count": 1018
+  },
+  "tv:281161": {
+   "backdrop_path": "/wThJAr5CYaLXH5qNhleCfbNrNSE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Noah Ararat (voice)",
+     "n": "Karin Nanami"
+    },
+    {
+     "c": "Zoey (voice)",
+     "n": "Saki Miyashita"
+    },
+    {
+     "c": "Shirley Grantz (voice)",
+     "n": "Iori Saeki"
+    },
+    {
+     "c": "Evelyn (voice)",
+     "n": "Yui Ishikawa"
+    },
+    {
+     "c": "Gigi (voice)",
+     "n": "Misaki Watada"
+    },
+    {
+     "c": "Alichey (voice)",
+     "n": "Azusa Tachibana"
+    },
+    {
+     "c": "Gilbert Ararat (voice)",
+     "n": "Shin-ichiro Miki"
+    },
+    {
+     "c": "Albert Ararat (voice)",
+     "n": "Koji Yusa"
+    },
+    {
+     "c": "Oscar Ararat (voice)",
+     "n": "Kengo Kawanishi"
+    },
+    {
+     "c": "Queen (voice)",
+     "n": "Nana Mizuki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [
+    "Michio Fukuda"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-08",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 281161,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Noa’s past life as a young adult villager was nothing to write home about. But now he’s reborn as the 13th prince of an empire! His stats screen reveal that he’ll grow stronger proportionately to the number of people serving under him. To gain ultimate power, he’ll do whatever it takes to make sure that those who serve him shall serve him for life!",
+   "popularity": 6.2722,
+   "poster_path": "/zaZpbXyvH4M2Y6ICDuMtvVQyHwd.jpg",
+   "production_countries": [
+    "JP",
+    "TW"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-08",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
+   "trailer": {
+    "key": "E0Tf5DDzbCk",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 36
   },
   "tv:46261": {
    "backdrop_path": "/bifZUqMGfI2WdPMLKQAiTsJbwCj.jpg",

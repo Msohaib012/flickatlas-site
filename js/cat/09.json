@@ -1,6 +1,6 @@
 {
  "bucket": "09",
- "count": 28,
+ "count": 34,
  "titles": {
   "movie:1002109": {
    "backdrop_path": "/h7VBwwztl4it7BSA6HsJR41nC37.jpg",
@@ -200,115 +200,6 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 466
-  },
-  "movie:1265609": {
-   "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
-   "budget": 80000000,
-   "cast": [
-    {
-     "c": "81",
-     "n": "Alan Ritchson"
-    },
-    {
-     "c": "7",
-     "n": "Stephan James"
-    },
-    {
-     "c": "15",
-     "n": "Blake Richardson"
-    },
-    {
-     "c": "Sheridan",
-     "n": "Dennis Quaid"
-    },
-    {
-     "c": "Torres",
-     "n": "Esai Morales"
-    },
-    {
-     "c": "Squad Leader",
-     "n": "Jai Courtney"
-    },
-    {
-     "c": "44",
-     "n": "Alex King"
-    },
-    {
-     "c": "60",
-     "n": "Keiynan Lonsdale"
-    },
-    {
-     "c": "109",
-     "n": "Jack Patten"
-    },
-    {
-     "c": "23",
-     "n": "James Beaufort"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 16+",
-   "date_kind": "release",
-   "director": [
-    "Patrick Hughes"
-   ],
-   "genres": [
-    "Action",
-    "Science Fiction",
-    "Thriller"
-   ],
-   "id": 1265609,
-   "industry": "world",
-   "origin_country": [
-    "AU"
-   ],
-   "original_language": "en",
-   "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
-   "popularity": 28.3229,
-   "poster_path": "/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
-   "production_countries": [
-    "AU",
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-02-12",
-   "revenue": 0,
-   "runtime": 110,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "All grit. No quit.",
-   "title": "War Machine",
-   "trailer": {
-    "key": "AFuE1LRxm80",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.517,
-   "vote_count": 2725
   },
   "movie:1268609": {
    "backdrop_path": "/atWzbjlDkfbkh4mdY3uuiF9vr3r.jpg",
@@ -2611,49 +2502,426 @@
    "vote_average": 8.676,
    "vote_count": 564
   },
-  "tv:259909": {
-   "backdrop_path": "/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+  "tv:241609": {
+   "backdrop_path": "/e0mloha4ZQfLVZj0nsUtU7AoRs4.jpg",
    "budget": 0,
    "cast": [
     {
-     "c": "Dexter Morgan",
-     "n": "Michael C. Hall"
+     "c": "Andrew 'Coop' Cooper",
+     "n": "Jon Hamm"
     },
     {
-     "c": "Charley Brown",
-     "n": "Uma Thurman"
+     "c": "Mel Cooper",
+     "n": "Amanda Peet"
     },
     {
-     "c": "Harrison Morgan",
-     "n": "Jack Alcott"
+     "c": "Samantha 'Sam' Levitt",
+     "n": "Olivia Munn"
     },
     {
-     "c": "The Five Borough Killer",
-     "n": "Dan Stevens"
+     "c": "Barney Choi",
+     "n": "Hoon Lee"
     },
     {
-     "c": "Captain Mixon",
-     "n": "Bokeem Woodbine"
+     "c": "Nick Brandes",
+     "n": "Mark Tallman"
     },
     {
-     "c": "Blessing Kamara",
-     "n": "Ntare Guma Mbaho Mwine"
+     "c": "Allison 'Ali' Cooper",
+     "n": "Lena Hall"
     },
     {
-     "c": "Claudette Wallace",
-     "n": "Kadia Saraf"
+     "c": "Elena Benitez",
+     "n": "Aimee Carrero"
     },
     {
-     "c": "Melvin Oliva",
-     "n": "Dominic Fumusa"
+     "c": "Grace Choi",
+     "n": "Eunice Bae"
     },
     {
-     "c": "Joseph Quinn",
-     "n": "Desmond Harrington"
+     "c": "Tori Cooper",
+     "n": "Isabel Gravitt"
     },
     {
-     "c": "Fiona Mixon",
-     "n": "Nona Parker Johnson"
+     "c": "Hunter Cooper",
+     "n": "Donovan Colan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [
+    "Jonathan Tropper"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-10",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 241609,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 19,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a financial titan suddenly finds himself divorced and jobless, he starts robbing his wealthy neighbors to stay afloat. Stealing from his own social circle strangely exhilarates him—but he gradually gets tangled in a deadly web.",
+   "popularity": 19.1164,
+   "poster_path": "/lcp63INKEsVHUly9eayx7gEEOcG.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-10",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-04-02",
+     "episode_count": 10,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Is it a crime to want more?",
+   "title": "Your Friends & Neighbors",
+   "trailer": {
+    "key": "iVRFMd6dEOE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.748,
+   "vote_count": 369
+  },
+  "tv:271609": {
+   "backdrop_path": "/iKalNKa27eSiNgqGvDn55Q8fNjI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Heli (voice)",
+     "n": "Kikunosuke Toya"
+    },
+    {
+     "c": "Jaan (voice)",
+     "n": "Hiroto Shimizu"
+    },
+    {
+     "c": "Jino (voice)",
+     "n": "Shugo Nakamura"
+    },
+    {
+     "c": "Solon (voice)",
+     "n": "Jin Ogasawara"
+    },
+    {
+     "c": "Shion (voice)",
+     "n": "Shunichi Toki"
+    },
+    {
+     "c": "Jakah (voice)",
+     "n": "Yuto Uemura"
+    },
+    {
+     "c": "Noa (voice)",
+     "n": "Chiaki Kobayashi"
+    },
+    {
+     "c": "Sooha (voice)",
+     "n": "Fuka Izumi"
+    },
+    {
+     "c": "Khan (voice)",
+     "n": "Taihi Kimura"
+    },
+    {
+     "c": "Najak (voice)",
+     "n": "Hayato Dojima"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "channel": "Gunma TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-10",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 271609,
+   "industry": "world",
+   "networks": [
+    "Gunma TV",
+    "TOKYO MX",
+    "BS11",
+    "Tochigi TV"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In the seaside city of Riverfield stands Decelis Academy, home to seven mysterious boys sharing the same secret: They're vampires, hiding their murky pasts. When Sooha, a female student who hates vampires, transfers to the academy, the boys find themselves irresistibly drawn to her. As strange events shake the city, old sins and buried secrets resurface, and their world begins to fracture.",
+   "popularity": 6.3505,
+   "poster_path": "/fjlIqhx3ar0x4CLdanM2xw7aVUO.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-10",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "DARK MOON: THE BLOOD ALTAR",
+   "trailer": {
+    "key": "knWebSSmDSA",
+    "name": "Official Trailer 2 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.3,
+   "vote_count": 52
+  },
+  "tv:278009": {
+   "backdrop_path": "/tiDVZL3INFjGTbcGhRnLnmmNtKE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Osman",
+     "n": "Engin Akyürek"
+    },
+    {
+     "c": "Nihal",
+     "n": "Aslı Enver"
+    },
+    {
+     "c": "",
+     "n": "Dolunay Soysert"
+    },
+    {
+     "c": "",
+     "n": "İsmail Demirci"
+    },
+    {
+     "c": "",
+     "n": "Serkan Altunorak"
+    },
+    {
+     "c": "",
+     "n": "Taro Emir Tekin"
+    },
+    {
+     "c": "",
+     "n": "Zeynep Oymak"
+    },
+    {
+     "c": "",
+     "n": "Ahmet Utlu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M18",
+   "channel": "Netflix",
+   "created_by": [
+    "Meriç Acemi"
+   ],
+   "director": [
+    "Uluç Bayraktar"
+   ],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2025-10-10",
+   "genres": [
+    "Drama"
+   ],
+   "id": 278009,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TR"
+   ],
+   "original_language": "tr",
+   "overview": "Nihal's affluent life comes under threat when a self-made tycoon with an eye for money — and an even sharper one for love — shakes up Istanbul's elite.",
+   "popularity": 4.6387,
+   "poster_path": "/eblsywmEMgaSLp9kVA1mnbCc6Sp.jpg",
+   "production_countries": [
+    "TR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-10",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "tr"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Old Money",
+   "trailer": {
+    "key": "gYEEsC0I7Xc",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.339,
+   "vote_count": 31
+  },
+  "tv:286709": {
+   "backdrop_path": "/tT2MwxaST3Fx1Dg4u9v82sDrIu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eamon Sweeney",
+     "n": "J.K. Simmons"
+    },
+    {
+     "c": "Glenn Keenan",
+     "n": "Titus Welliver"
+    },
+    {
+     "c": "James 'Jimmy' Roarke",
+     "n": "Tom Brittney"
+    },
+    {
+     "c": "Mickey Flanagan",
+     "n": "Stanley Morgan"
+    },
+    {
+     "c": "Bridget Walsh",
+     "n": "Sarah Bolger"
+    },
+    {
+     "c": "Agent Birdie Polk",
+     "n": "Jessica Frances Dukes"
+    },
+    {
+     "c": "John Gotti",
+     "n": "Hamish Allan-Headley"
+    },
+    {
+     "c": "Eddie Breen",
+     "n": "Vincent Walsh"
+    },
+    {
+     "c": "Brendan Cahill",
+     "n": "Allen Leech"
+    },
+    {
+     "c": "Erin Malone",
+     "n": "Hilary McCormack"
     }
    ],
    "catalogue": true,
@@ -2662,34 +2930,325 @@
     "catalogue"
    ],
    "certification": "TV-MA",
-   "channel": "Paramount+ with Showtime",
+   "channel": "MGM+",
    "created_by": [
-    "Clyde Phillips"
+    "Chris Brancato",
+    "Michael Panes"
    ],
    "director": [],
    "episode_run_time": [],
-   "first_air_date": "2025-07-13",
+   "first_air_date": "2026-07-12",
    "genres": [
-    "Crime",
     "Drama",
-    "Mystery"
+    "Crime"
    ],
-   "id": 259909,
+   "id": 286709,
    "industry": "world",
    "networks": [
-    "Paramount+ with Showtime"
+    "MGM+"
    ],
-   "number_of_episodes": 20,
-   "number_of_seasons": 2,
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
    "origin_country": [
     "US"
    ],
    "original_language": "en",
-   "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-   "popularity": 85.7771,
-   "poster_path": "/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+   "overview": "As the Javits Center construction project ignites a battle for profit in early 1980s Hell's Kitchen, a generational rift threatens the uneasy peace between violent Irish gang the Westies and the Mafia, and draws FBI heat.",
+   "popularity": 8.2372,
+   "poster_path": "/6nNxw6SsbEtSpktVEGdoYDqPH7C.jpg",
    "production_countries": [
     "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+     "name": "MGM Plus Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-12",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "F*ck those guys.",
+   "title": "The Westies",
+   "trailer": {
+    "key": "FxE1kOCS5js",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.43,
+   "vote_count": 50
+  },
+  "tv:287009": {
+   "backdrop_path": "/7KpvkMnbRsyrAlnrZpbnEWC42AE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Do Ji-ui",
+     "n": "Lee Jae-wook"
+    },
+    {
+     "c": "Yuk Ha-ri",
+     "n": "Shin Ye-eun"
+    },
+    {
+     "c": "Hyeon Chi-yeon",
+     "n": "Hong Min-gi"
+    },
+    {
+     "c": "Um Jung-seon",
+     "n": "Lee Soo-kyung"
+    },
+    {
+     "c": "Yong Ju-cheon",
+     "n": "Kim Yoon-woo"
+    },
+    {
+     "c": "Hwang Shin-hye",
+     "n": "Joo In-young"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "ENA",
+   "created_by": [
+    "Kim Ji-soo"
+   ],
+   "director": [],
+   "episode_run_time": [
+    67
+   ],
+   "first_air_date": "2026-06-01",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 287009,
+   "industry": "world",
+   "networks": [
+    "ENA"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "In South Korea, military service is mandatory for all men. But a select few—like privileged medical students—can serve as public health doctors instead. This is the story of those privileged few. Do Ji-ui, a plastic surgeon, is assigned to Pyeondong-do, an isolated island no one wants to go to. From the very first day, ominous signs begin to appear. Can he survive a full year on this hellish island and make it out alive—or will the island break him before he can hold the line?",
+   "popularity": 6.2835,
+   "poster_path": "/zwEYhe03vN1rbjF8Bsf9Dng0W8e.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-01",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "An Anxious Doctor, An Empathetic Nurse.",
+   "title": "Doctor on the Edge",
+   "trailer": {
+    "key": "z0KOkYokloM",
+    "name": "Main Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.16,
+   "vote_count": 25
+  },
+  "tv:295509": {
+   "backdrop_path": "/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kang Sung-jae",
+     "n": "Park Ji-hoon"
+    },
+    {
+     "c": "Park Jae-young",
+     "n": "Yoon Kyung-ho"
+    },
+    {
+     "c": "Cho Ye-rin",
+     "n": "Han Dong-hee"
+    },
+    {
+     "c": "Yoon Dong-hyun",
+     "n": "Lee Hong-nae"
+    },
+    {
+     "c": "Hwang Seok-ho",
+     "n": "Lee Sang-yi"
+    },
+    {
+     "c": "Baek Chun-ik",
+     "n": "Jung Woong-in"
+    },
+    {
+     "c": "Kim Kwan-chul / Bitter Kwanchul",
+     "n": "Kang Ha-kyung"
+    },
+    {
+     "c": "Tak Mun-ik / Sweet Munik",
+     "n": "Lim Ji-ho"
+    },
+    {
+     "c": "Joo Sang-wook / Sour Sangwook",
+     "n": "Kang Jun-kyu"
+    },
+    {
+     "c": "Cha Seung-woo / Spicy Seungwoo",
+     "n": "Lee Sang-jun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "tvN",
+   "created_by": [
+    "Choi Ryong"
+   ],
+   "director": [
+    "Cho Nam-hyung"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-05-11",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 295509,
+   "industry": "world",
+   "networks": [
+    "tvN"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
+   "popularity": 7.204,
+   "poster_path": "/nmYgPJiZebWUtL6D72D0Qp9ce0H.jpg",
+   "production_countries": [
+    "KR"
    ],
    "providers": [
     {
@@ -2699,25 +3258,7 @@
      "name": "Amazon Prime Video with Ads"
     },
     {
-     "name": "fuboTV"
-    },
-    {
-     "name": "Paramount Plus Premium"
-    },
-    {
-     "name": "Paramount Plus Apple TV channel"
-    },
-    {
-     "name": "Paramount+ Amazon Channel"
-    },
-    {
-     "name": "Paramount+ Roku Premium Channel"
-    },
-    {
-     "name": "Paramount Plus"
-    },
-    {
-     "name": "Paramount Plus Basic with Ads"
+     "name": "Rakuten Viki"
     }
    ],
    "providers_wtw": [
@@ -2738,39 +3279,233 @@
    "revenue": 0,
    "seasons": [
     {
-     "air_date": "2026-02-17",
-     "episode_count": 3,
-     "name": "Specials",
-     "season_number": 0
-    },
-    {
-     "air_date": "2025-07-13",
-     "episode_count": 10,
+     "air_date": "2026-05-11",
+     "episode_count": 12,
      "name": "Season 1",
      "season_number": 1
-    },
-    {
-     "air_date": "2026-11-01",
-     "episode_count": 10,
-     "name": "Season 2",
-     "season_number": 2
     }
    ],
    "source": "catalogue",
    "spoken_languages": [
-    "en"
+    "ko"
    ],
-   "status": "Returning Series",
-   "tagline": "Back and sharper than ever.",
-   "title": "Dexter: Resurrection",
+   "status": "Ended",
+   "tagline": "In the game of life, we all face countless quests of choice.",
+   "title": "The Legend of Kitchen Soldier",
    "trailer": {
-    "key": "84o1Q6fB20k",
-    "name": "Official Trailer",
+    "key": "vw9QdFU2Ckc",
+    "name": "Main Trailer [Subtitled]",
     "site": "YouTube"
    },
    "type": "tv",
-   "vote_average": 8.552,
-   "vote_count": 753
+   "vote_average": 8.5,
+   "vote_count": 27
+  },
+  "tv:296009": {
+   "backdrop_path": "/zzLRrEtJPyqMAgCbpTiokRilGTd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kang Du-jun",
+     "n": "Choi Jin-hyuk"
+    },
+    {
+     "c": "Jang Hee-won",
+     "n": "Oh Yeon-seo"
+    },
+    {
+     "c": "Cha Min-wook",
+     "n": "Hong Jong-hyun"
+    },
+    {
+     "c": "Hwang Mi-ran",
+     "n": "Kim Da-som"
+    },
+    {
+     "c": "Kang Chan-gil",
+     "n": "Son Byung-ho"
+    },
+    {
+     "c": "Han Sook-hee",
+     "n": "Kim Sun-kyung"
+    },
+    {
+     "c": "Han Jeong-eum",
+     "n": "Baek Eun-hye"
+    },
+    {
+     "c": "Lee Seon-jeong",
+     "n": "Kim Soo-jin"
+    },
+    {
+     "c": "Secretary Go",
+     "n": "Kim Ki-doo"
+    },
+    {
+     "c": "Bang Soon-hee",
+     "n": "Jung Soo-young"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "Channel A",
+   "created_by": [],
+   "director": [
+    "Kim Jin-sung"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-17",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Drama"
+   ],
+   "id": 296009,
+   "industry": "world",
+   "networks": [
+    "Channel A"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A man and a woman who swore off marriage find their carefully controlled lives overturned after a one-night mistake forces them into an unexpected, reverse romance neither planned nor wanted.",
+   "popularity": 4.2355,
+   "poster_path": "/6lnM7PecwSEyYjrWr2nQzmmZaDU.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-17",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Positively Yours",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.8,
+   "vote_count": 34
+  },
+  "tv:320909": {
+   "backdrop_path": "/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Satoko Kirigaya (voice)",
+     "n": "Lynn"
+    },
+    {
+     "c": "Shinpei Goto (voice)",
+     "n": "Koki Uchiyama"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M18",
+   "channel": "Fuji TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2026-10-09",
+   "genres": [
+    "Animation",
+    "Drama"
+   ],
+   "id": 320909,
+   "industry": "world",
+   "networks": [
+    "Fuji TV"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Satoko Kirigaya has everything a noblewoman could want—except time. With her life running out, she’s determined to marry well and make her father proud. But when a ruthless assassin kidnaps her, she makes a desperate offer: “Marry me, and we’ll have it all.” Shinpei Goto accepts, only to become dangerously obsessed. Now Satoko must choose between duty and a love that could consume them both.",
+   "popularity": 31.8856,
+   "poster_path": "/954dt0dTqoUhIW0EvMFZ0KvVQmk.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-10-09",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Firefly Wedding",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 9.104,
+   "vote_count": 24
   },
   "tv:32209": {
    "backdrop_path": "/9kGfwwA0N0KOen7oTBGSVoQsXLz.jpg",

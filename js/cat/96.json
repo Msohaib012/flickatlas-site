@@ -1,6 +1,6 @@
 {
  "bucket": "96",
- "count": 28,
+ "count": 33,
  "titles": {
   "movie:12596": {
    "backdrop_path": "/9nFpMbSWebfdGlAxFyPHn9eyIvY.jpg",
@@ -690,120 +690,6 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 81
-  },
-  "movie:1507696": {
-   "backdrop_path": "/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Roberto",
-     "n": "Carlos Alcaide"
-    },
-    {
-     "c": "Marina",
-     "n": "Julia Martínez"
-    },
-    {
-     "c": "Pritchenko",
-     "n": "José María Yázpik"
-    },
-    {
-     "c": "Castro",
-     "n": "Mónica López"
-    },
-    {
-     "c": "Comillas",
-     "n": "Tamara Casellas"
-    },
-    {
-     "c": "Lucía",
-     "n": "Berta Vázquez"
-    },
-    {
-     "c": "Core",
-     "n": "Santiago Vaca Narvaja"
-    },
-    {
-     "c": "Comandante De Luna",
-     "n": "Mario Mayo"
-    },
-    {
-     "c": "González-Escalona",
-     "n": "Javier Godino"
-    },
-    {
-     "c": "Guzmán",
-     "n": "Pedro Hernández"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Carles Torrens"
-   ],
-   "genres": [
-    "Action",
-    "Thriller",
-    "Horror"
-   ],
-   "id": 1507696,
-   "industry": "world",
-   "origin_country": [
-    "ES"
-   ],
-   "original_language": "es",
-   "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
-   "popularity": 275.185,
-   "poster_path": "/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
-   "production_countries": [
-    "ES"
-   ],
-   "providers": [
-    {
-     "name": "Amazon Prime Video"
-    },
-    {
-     "name": "Amazon Prime Video with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-     "name": "Amazon Prime Video",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-     "name": "Amazon Prime Video with Ads",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-09",
-   "revenue": 0,
-   "runtime": 96,
-   "source": "catalogue",
-   "spoken_languages": [
-    "es"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Apocalypse Z: New World",
-   "trailer": {
-    "key": "BIEzwpyawtw",
-    "name": "Official Trailer [Subtitled]",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 6.197,
-   "vote_count": 203
   },
   "movie:1558796": {
    "backdrop_path": "/bfJ2MvS4wixkQ7tQX0a87q1XYlE.jpg",
@@ -2238,6 +2124,654 @@
    "type": "tv",
    "vote_average": 7.446,
    "vote_count": 1035
+  },
+  "tv:223896": {
+   "backdrop_path": "/6pDBlGPXWhQJ5aIrKVNbIph1y75.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Song Woo-yeon / \"Baby Blue Finger\"",
+     "n": "Park Ji-hu"
+    },
+    {
+     "c": "Nam Gi-jeong / \"Red Finger\"",
+     "n": "Cho Jun-young"
+    },
+    {
+     "c": "Koo Seon-ho / \"Blue Finger\"",
+     "n": "Choi Bo-min"
+    },
+    {
+     "c": "Nam Geu-rin / \"Mint Finger\"",
+     "n": "Park You-na"
+    },
+    {
+     "c": "Hwang Bun-hong / \"Pink Finger\"",
+     "n": "Kwon So-hyun"
+    },
+    {
+     "c": "Ko Taeng-ja / \"Black Finger\"",
+     "n": "Kim Seul-gi"
+    },
+    {
+     "c": "Jang Dong-geon / \"Brown Finger\"",
+     "n": "Im Cheol-soo"
+    },
+    {
+     "c": "Kwon Hyeok / \"Khaki Finger\"",
+     "n": "Lee Jin-hyuk"
+    },
+    {
+     "c": "Byeon Tae-seon",
+     "n": "Cha Woo-min"
+    },
+    {
+     "c": "Ahn Ye-rim",
+     "n": "Kang Hye-won"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "channel": "TVING",
+   "created_by": [
+    "Lee Cheol-ha",
+    "Kwon Yi-ji"
+   ],
+   "director": [
+    "Lee Cheol-ha"
+   ],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2025-10-29",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 223896,
+   "industry": "world",
+   "networks": [
+    "TVING"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "About an ordinary high school sophomore, Song Woo-yeon, who joins a drawing club called Spirit Fingers and paints the story of finding her own color, personality, and dream.",
+   "popularity": 4.1939,
+   "poster_path": "/sKme4yZ2Ih9OiiOuAY51Q65iuwk.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-29",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Spirit Fingers",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.5,
+   "vote_count": 27
+  },
+  "tv:278196": {
+   "backdrop_path": "/fhkZqCjCE8GIxyqfKfknIQBmdns.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yoshiki Tsujinaka (voice)",
+     "n": "Chiaki Kobayashi"
+    },
+    {
+     "c": "Hikaru Indo (voice)",
+     "n": "Shuichiro Umeda"
+    },
+    {
+     "c": "Tanaka (voice)",
+     "n": "Chikahiro Kobayashi"
+    },
+    {
+     "c": "Rie Kurebayashi (voice)",
+     "n": "Wakana Kowaka"
+    },
+    {
+     "c": "Asako Yamagishi (voice)",
+     "n": "Yumiri Hanamori"
+    },
+    {
+     "c": "Yuta Maki (voice)",
+     "n": "Yoshiki Nakajima"
+    },
+    {
+     "c": "Yuki Tadokoro (voice)",
+     "n": "Shion Wakayama"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Nippon TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-07-06",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 278196,
+   "industry": "world",
+   "networks": [
+    "Nippon TV"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Six months ago, Hikaru vanished for a week. Now, as his best friend Yoshiki senses something amiss and confronts him, the harrowing truth emerges.",
+   "popularity": 12.0595,
+   "poster_path": "/x0wiTO87UMiVCUe24nKaHlp7AIc.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-06",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Summer Hikaru Died",
+   "trailer": {
+    "key": "sFaO07LwAVg",
+    "name": "Official Trailer 2 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 137
+  },
+  "tv:283396": {
+   "backdrop_path": "/geL62Uzk5yTplLxlNWQoHdLr2UF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self (archive footage)",
+     "n": "Juan Gabriel"
+    },
+    {
+     "c": "Self",
+     "n": "Olga Breeskin"
+    },
+    {
+     "c": "Self  (archive footage)",
+     "n": "Pati Chapoy"
+    },
+    {
+     "c": "Self  (archive footage)",
+     "n": "María Luisa Arcaraz Genesta"
+    },
+    {
+     "c": "Self  (archive footage)",
+     "n": "Daniela Romo"
+    },
+    {
+     "c": "Self  (archive footage)",
+     "n": "Rocío Dúrcal"
+    },
+    {
+     "c": "Self  (archive footage)",
+     "n": "Isela Vega"
+    },
+    {
+     "c": "Self  (archive footage)",
+     "n": "Ana Gabriel"
+    },
+    {
+     "c": "Self  (archive footage)",
+     "n": "Etta Jones"
+    },
+    {
+     "c": "Self  (archive footage)",
+     "n": "María Félix"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-30",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 283396,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Rare videos and exclusive interviews reveal the genius, sacrifices and duality between the public and private lives of iconic singer-songwriter Juan Gabriel.",
+   "popularity": 1.732,
+   "poster_path": "/mHj6BA1TWnNRy8OnEkbBiRSYZH9.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-29",
+     "episode_count": 4,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Juan Gabriel: I Must, I Can, I Will",
+   "trailer": {
+    "key": "jleilf5sDzE",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.6,
+   "vote_count": 39
+  },
+  "tv:291496": {
+   "backdrop_path": "/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jang Tae-ha",
+     "n": "Jung Hae-in"
+    },
+    {
+     "c": "Go Eun-sae",
+     "n": "Ahn Ha-young"
+    },
+    {
+     "c": "Baek Sang-gil",
+     "n": "Heo Sung-tae"
+    },
+    {
+     "c": "Go Yeon-hong",
+     "n": "Kim Yeong-ok"
+    },
+    {
+     "c": "Hong Do-yeop",
+     "n": "Jeon Bae-soo"
+    },
+    {
+     "c": "Do Jeong-hwa",
+     "n": "Seo Jeong-yeon"
+    },
+    {
+     "c": "Paeng Hee-ja",
+     "n": "Jang Hye-jin"
+    },
+    {
+     "c": "Cho Maeng-suk",
+     "n": "Cha Chung-hwa"
+    },
+    {
+     "c": "Na Geum-hyang",
+     "n": "Kim Mi-hwa"
+    },
+    {
+     "c": "Min Su-ji",
+     "n": "Choi Yu-ju"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Kim Jang-han",
+    "Mo Ji-hye"
+   ],
+   "director": [
+    "Kim Jang-han"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-08-07",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 291496,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
+   "popularity": 20.0098,
+   "poster_path": "/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-08-07",
+     "episode_count": 12,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "No past. No proof. He's my only clue!",
+   "title": "Our Sticky Love",
+   "trailer": {
+    "key": "Wndx_3B0lgc",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.711,
+   "vote_count": 135
+  },
+  "tv:302696": {
+   "backdrop_path": "/qyj4vs8223qaaWRoa5V37NMKTYt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rumi (voice)",
+     "n": "Arden Cho"
+    },
+    {
+     "c": "Mira (voice)",
+     "n": "May Hong"
+    },
+    {
+     "c": "Zoey (voice)",
+     "n": "Ji-young Yoo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    3
+   ],
+   "first_air_date": "2025-10-08",
+   "genres": [
+    "Animation"
+   ],
+   "id": 302696,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 7,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Some of the smash film's hottest hits come to life as lyric videos in a line-up featuring \"How It's Done,\" \"Golden,\" \"Soda Pop,\" \"Takedown\" and \"Free.\"",
+   "popularity": 1.6532,
+   "poster_path": "/dTqYRhRzKayrCcDVqIS3bXOiRR5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-08",
+     "episode_count": 7,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Happy Honmoon!",
+   "title": "KPop Demon Hunters Lyric Videos",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 9.152,
+   "vote_count": 145
+  },
+  "tv:321596": {
+   "backdrop_path": "/v2sqiw5PYHAxniOlKUdc7AGLOBF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "James Rodríguez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-05-21",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 321596,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CO"
+   ],
+   "original_language": "es",
+   "overview": "James Rodríguez, Colombia's legendary No. 10, shares details of his journey to football's elite and the game's biggest stage.",
+   "popularity": 2.0442,
+   "poster_path": "/be7cg7V1R8QcfRI5N1pAMwJo62r.jpg",
+   "production_countries": [
+    "CO"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-21",
+     "episode_count": 3,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "James.",
+   "trailer": {
+    "key": "giXFfkrorXs",
+    "name": "James Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 24
   },
   "tv:4396": {
    "backdrop_path": "/fi2vspZ6xuHZF1kU8wVXmYzYCMi.jpg",

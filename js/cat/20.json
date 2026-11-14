@@ -1,6 +1,6 @@
 {
  "bucket": "20",
- "count": 25,
+ "count": 34,
  "titles": {
   "movie:11620": {
    "backdrop_path": "/cEdyAF813pgjsYzGqpDFjJgTzbs.jpg",
@@ -328,128 +328,6 @@
    "type": "movie",
    "vote_average": 7.065,
    "vote_count": 457
-  },
-  "movie:1367220": {
-   "backdrop_path": "/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Karuppuswamy / Saravanan",
-     "n": "Suriya"
-    },
-    {
-     "c": "Preethi",
-     "n": "Trisha Krishnan"
-    },
-    {
-     "c": "Baby Kannan 'BK' / Usilampatti Karuppaiah Gandhi 'UKG'",
-     "n": "RJ Balaji"
-    },
-    {
-     "c": "Mattancherry Sukumaran",
-     "n": "Indrans"
-    },
-    {
-     "c": "Binu Sukumaran",
-     "n": "Anagha Maya Ravi"
-    },
-    {
-     "c": "Vasanthi",
-     "n": "Swasika"
-    },
-    {
-     "c": "Kanmani",
-     "n": "Sshivada"
-    },
-    {
-     "c": "Chief Metropolitan Magistrate M.D. Rajanayagam",
-     "n": "Natarajan Subramaniam"
-    },
-    {
-     "c": "Gowri",
-     "n": "Supreet"
-    },
-    {
-     "c": "Shanmugam aka Peiyi",
-     "n": "Poobalam Pragatheeswaran"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 13+",
-   "date_kind": "release",
-   "director": [
-    "RJ Balaji"
-   ],
-   "genres": [
-    "Action",
-    "Fantasy"
-   ],
-   "id": 1367220,
-   "industry": "bollywood",
-   "origin_country": [
-    "IN"
-   ],
-   "original_language": "ta",
-   "overview": "In a world where justice falters, guardian deity Vettai Karuppu takes the guise of a lawyer to battle a corrupt legal system preying on the powerless.",
-   "popularity": 5.4335,
-   "poster_path": "/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
-   "production_countries": [
-    "IN"
-   ],
-   "providers": [
-    {
-     "name": "Amazon Prime Video"
-    },
-    {
-     "name": "Amazon Prime Video with Ads"
-    },
-    {
-     "name": "fuboTV"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-     "name": "Amazon Prime Video",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-     "name": "Amazon Prime Video with Ads",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-05-15",
-   "revenue": 39080459,
-   "runtime": 152,
-   "source": "catalogue",
-   "spoken_languages": [
-    "ta"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Karuppu",
-   "trailer": {
-    "key": "vH0Q5t_JUng",
-    "name": "Official Trailer (Telugu)",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 6.4,
-   "vote_count": 37
   },
   "movie:1420": {
    "backdrop_path": "/lbkDfC6Xw4ZPaAKvXYnUMABOjmp.jpg",
@@ -2868,6 +2746,1128 @@
    "type": "tv",
    "vote_average": 8.3,
    "vote_count": 2763
+  },
+  "tv:250220": {
+   "backdrop_path": "/gQTjztsHxB7swHm6Dy2h8blukEi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lindy McMichael Littlejohn",
+     "n": "Elizabeth Banks"
+    },
+    {
+     "c": "Les Littlejohn",
+     "n": "Matthew Macfadyen"
+    },
+    {
+     "c": "Vivienne",
+     "n": "Zoe Lister-Jones"
+    },
+    {
+     "c": "Lulu Littlejohn",
+     "n": "Sofia Rosinsky"
+    },
+    {
+     "c": "Richard Paul Wear",
+     "n": "O-T Fagbenle"
+    },
+    {
+     "c": "Terry Leyland",
+     "n": "Sian Clifford"
+    },
+    {
+     "c": "Martin Mucklowe",
+     "n": "Aasif Mandvi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Peacock",
+   "created_by": [
+    "Jennifer Ames",
+    "Steve Turner"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-09",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 250220,
+   "industry": "world",
+   "networks": [
+    "Peacock"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lindy and Les, a married writer and scientist, are forced to re-evaluate the power balances in their relationship after a freak accident shrinks Lindy down to 6 inches tall.",
+   "popularity": 6.0255,
+   "poster_path": "/99SkFAS3S3iOtnplwH0byFUMiHK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-09",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "A love story with one little problem.",
+   "title": "The Miniature Wife",
+   "trailer": {
+    "key": "6BnQ7WqkkmE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.042,
+   "vote_count": 48
+  },
+  "tv:254420": {
+   "backdrop_path": "/truh4rtTUdRVYGeT0n17dxvdv41.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Elle Woods",
+     "n": "Lexi Minetree"
+    },
+    {
+     "c": "Eva Woods",
+     "n": "June Diane Raphael"
+    },
+    {
+     "c": "Wyatt Woods",
+     "n": "Tom Everett Scott"
+    },
+    {
+     "c": "Liz",
+     "n": "Gabrielle Policano"
+    },
+    {
+     "c": "Miles",
+     "n": "Jacob Moskovitz"
+    },
+    {
+     "c": "Kimberly",
+     "n": "Chandler Kinney"
+    },
+    {
+     "c": "Dustin",
+     "n": "Zac Looker"
+    },
+    {
+     "c": "Donna",
+     "n": "Amy Pietz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Prime Video",
+   "created_by": [
+    "Laura Kittrell",
+    "Caroline Dries"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-01",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 254420,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Before Elle Woods was a fish-out-of-water at Harvard, we meet her in 1995 in the tumultuous waters of high school where she encounters tricky friendships, forbidden romance, and questionable fashion choices. In this unexpected chapter of her adolescence, we learn about the experiences that shaped Elle into the iconic young woman we've come to know and love.",
+   "popularity": 12.1185,
+   "poster_path": "/dpH7Lyrs7z7MlTGgfeibryGnWAv.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-01",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Law school was hard. High school was harder.",
+   "title": "Elle",
+   "trailer": {
+    "key": "6KsT3K5ynrU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 101
+  },
+  "tv:256920": {
+   "backdrop_path": "/vNqDJzm7AR95NpLzDn85dEL84vv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Xu Yan / Qiao Yan",
+     "n": "Zhao Lusi"
+    },
+    {
+     "c": "Shen Haoming",
+     "n": "William Chan"
+    },
+    {
+     "c": "Qiao Lin",
+     "n": "Wan Peng"
+    },
+    {
+     "c": "Lin Tao",
+     "n": "Guan Zijing"
+    },
+    {
+     "c": "Sun Siwei",
+     "n": "Wang Yiyao"
+    },
+    {
+     "c": "Fang Lei",
+     "n": "Zhong Yating"
+    },
+    {
+     "c": "Yu Yiming",
+     "n": "Tang Xiaotian"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "Tencent Video",
+   "created_by": [
+    "Zhang Yueran"
+   ],
+   "director": [
+    "Chen Chang"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-26",
+   "genres": [
+    "Drama"
+   ],
+   "id": 256920,
+   "industry": "world",
+   "networks": [
+    "Tencent Video"
+   ],
+   "number_of_episodes": 32,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "Renowned anchor Xu Yan and urban elite Shen Haoming appear to be the perfect couple but struggle to fit into each other’s social circles due to their differing backgrounds. When conflict arises, Xu Yan leaves, prompting Shen Haoming to realize his deep love for her and attempt to win her back. On their journey, they face challenges, shed their facades, and rediscover their true selves.",
+   "popularity": 8.19,
+   "poster_path": "/iH8J36LMEYdvOlYvbBcYCK0ckpp.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Tencent Video"
+    },
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png",
+     "name": "Tencent Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-26",
+     "episode_count": 32,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "Love is born in lies and withers in lies.",
+   "title": "Love's Ambition",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 20
+  },
+  "tv:262920": {
+   "backdrop_path": "/n9YnfHabjCNwCHUXfT6DPxzFa3e.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tea",
+     "n": "Clara Dessau"
+    },
+    {
+     "c": "Ashley",
+     "n": "Maria Cordsen"
+    },
+    {
+     "c": "Miran",
+     "n": "Afshin Firouzi"
+    },
+    {
+     "c": "Folke",
+     "n": "Nicolas Bro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-27",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 262920,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "DK"
+   ],
+   "original_language": "da",
+   "overview": "A young agent goes undercover to befriend a drug smuggler's wife. But the closer she gets to her target, the more complicated her mission becomes.",
+   "popularity": 3.8098,
+   "poster_path": "/ugreFeu0Ng7wnfX6ZRNoQa2sbxX.jpg",
+   "production_countries": [
+    "DK"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-27",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "da"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Asset",
+   "trailer": {
+    "key": "_avz4qkXDms",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.2,
+   "vote_count": 91
+  },
+  "tv:270420": {
+   "backdrop_path": "/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eun-ho",
+     "n": "Kim Hye-yoon"
+    },
+    {
+     "c": "Kang Si-yeol",
+     "n": "Lomon"
+    },
+    {
+     "c": "Geum-ho",
+     "n": "Lee Si-woo"
+    },
+    {
+     "c": "Hyun Woo-seok",
+     "n": "Jang Dong-ju"
+    },
+    {
+     "c": "Jang Do-cheol",
+     "n": "Kim Tae-woo"
+    },
+    {
+     "c": "Lee Yoon",
+     "n": "Choi Seung-yoon"
+    },
+    {
+     "c": "Park Yong-gil",
+     "n": "In Gyo-jin"
+    },
+    {
+     "c": "Hyeon Sang-cheol",
+     "n": "Lee Seung-joon"
+    },
+    {
+     "c": "Hong Yeon-su",
+     "n": "Hong Soo-hyun"
+    },
+    {
+     "c": "Lord Pagun",
+     "n": "Ju Jin-mo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "SBS",
+   "created_by": [
+    "Kim Jeong-kwon"
+   ],
+   "director": [
+    "Kim Jeong-kwon"
+   ],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2026-01-16",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 270420,
+   "industry": "world",
+   "networks": [
+    "SBS"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Imbued with the power to grant wishes, a cynical nine-tailed fox's life takes a turn when she encounters a soccer player — altering both of their fates.",
+   "popularity": 5.2067,
+   "poster_path": "/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-16",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "A gumiho who never wanted to be human… until love found her.",
+   "title": "No Tail to Tell",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.952,
+   "vote_count": 52
+  },
+  "tv:287420": {
+   "backdrop_path": "/dLLaM5iTsCX6OS1Go35C5aBm0t0.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG13",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    51
+   ],
+   "first_air_date": "2025-04-23",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 287420,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "The untold stories and human tragedy behind Latin America's deadliest air disaster are investigated in this three-part documentary series.",
+   "popularity": 0.5974,
+   "poster_path": "/ak2sGzsY9REXEgzSGW5lebRmboP.jpg",
+   "production_countries": [
+    "BR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-23",
+     "episode_count": 3,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "A Tragedy Foretold: Flight 3054",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 21
+  },
+  "tv:287620": {
+   "backdrop_path": "/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Stuart Bloom / Alternate Stuart Bloom",
+     "n": "Kevin Sussman"
+    },
+    {
+     "c": "Denise / Alternate Denise",
+     "n": "Lauren Lapkus"
+    },
+    {
+     "c": "Bert Kibbler",
+     "n": "Brian Posehn"
+    },
+    {
+     "c": "Barry Kripke",
+     "n": "John Ross Bowie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "HBO Max",
+   "created_by": [
+    "Chuck Lorre",
+    "Zak Penn",
+    "Bill Prady"
+   ],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-07-23",
+   "genres": [
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 287620,
+   "industry": "world",
+   "networks": [
+    "HBO Max"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+   "popularity": 14.3943,
+   "poster_path": "/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-23",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Every universe needs a hero. We got Stuart.",
+   "title": "Stuart Fails to Save the Universe",
+   "trailer": {
+    "key": "_blrWb1yZiY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.219,
+   "vote_count": 253
+  },
+  "tv:290720": {
+   "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Basil",
+     "n": "Jose Coronado"
+    },
+    {
+     "c": "Adela Figueora",
+     "n": "María Valverde"
+    },
+    {
+     "c": "Foxá",
+     "n": "Martiño Rivas"
+    },
+    {
+     "c": "Raquel Auslander",
+     "n": "Maribel Verdú"
+    },
+    {
+     "c": "Fonseca",
+     "n": "Gonzalo de Castro"
+    },
+    {
+     "c": "Vicky",
+     "n": "Cristina Kovani"
+    },
+    {
+     "c": "Toni",
+     "n": "José Condessa"
+    },
+    {
+     "c": "Seruya",
+     "n": "Pepón Nieto"
+    },
+    {
+     "c": "Gerard",
+     "n": "Daniel Holguín"
+    },
+    {
+     "c": "Señor Klemmer",
+     "n": "Michael Stobbe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    57
+   ],
+   "first_air_date": "2026-09-25",
+   "genres": [
+    "Crime",
+    "Mystery"
+   ],
+   "id": 290720,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "In the spring of 1959, a retired actor, who previously played Sherlock Holmes, must investigate a murder at a small hotel on a tiny island near Mallorca.",
+   "popularity": 5.9854,
+   "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-09-25",
+     "episode_count": 4,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Final Problem",
+   "trailer": {
+    "key": "yLeja7kWgmU",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.058,
+   "vote_count": 52
+  },
+  "tv:296520": {
+   "backdrop_path": "/kgWPwLlDW6Ay8f4jvwybZKA0L9A.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "DC Ben Cooper",
+     "n": "Robert James-Collier"
+    },
+    {
+     "c": "DC Diane Fry",
+     "n": "Mandip Gill"
+    },
+    {
+     "c": "Isobel Cooper",
+     "n": "Charlotte Bradley"
+    },
+    {
+     "c": "DI Paul Hitchens",
+     "n": "Lorcan Cranitch"
+    },
+    {
+     "c": "DS Todd Eland",
+     "n": "Barry O'Connor"
+    },
+    {
+     "c": "Tracy Garnett",
+     "n": "Niamh McCann"
+    },
+    {
+     "c": "Dr Juliana Taylor",
+     "n": "Clara Simpson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "5",
+   "created_by": [
+    "Caroline Ip",
+    "Ben Court"
+   ],
+   "director": [],
+   "episode_run_time": [
+    90
+   ],
+   "first_air_date": "2025-11-18",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 296520,
+   "industry": "world",
+   "networks": [
+    "5"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Set in the mystery-shrouded Peak District, the series follows two mismatched young detectives: affable local Ben Cooper and guarded newcomer Diane Fry. Thrown together to investigate a string of mysterious deaths they must learn to work together to get results. As their personal lives begin to intertwine, a unique friendship begins to form... but it won't always be easy.",
+   "popularity": 5.3353,
+   "poster_path": "/frDntanA2DMcNppQYBY5NfHmMM2.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/r5LXOt96llVEmgwAQeheJuxUaMR.png",
+     "name": "Britbox Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eZeWGG6DDIi4Kmu1z9RfTeZtqZX.png",
+     "name": "BritBox",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dneArfNvYnCY0LQwDs6n0wVLpPh.png",
+     "name": "BritBox Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-18",
+     "episode_count": 4,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Two detectives, two methods, one truth.",
+   "title": "Cooper & Fry",
+   "trailer": {
+    "key": "CYF_DLNAl2A",
+    "name": "Cooper & Fry | Teaser Trailer | Channel 5",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.609,
+   "vote_count": 23
+  },
+  "tv:304820": {
+   "backdrop_path": "/yczDaFhOEmNe0omdvGpYLu050dg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maria Annovazzi (voice)",
+     "n": "Yu Serizawa"
+    },
+    {
+     "c": "Renato di Rubini (voice)",
+     "n": "Atsushi Tamaru"
+    },
+    {
+     "c": "Aida Ametis (voice)",
+     "n": "Saori Hayami"
+    },
+    {
+     "c": "Placido di Rubini (voice)",
+     "n": "Shuichiro Umeda"
+    },
+    {
+     "c": "Raimondo Cigata (voice)",
+     "n": "Taku Yashiro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "",
+   "created_by": [],
+   "director": [
+    "Akira Oguro"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-02",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 304820,
+   "industry": "world",
+   "networks": [],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Born into a legendary ducal family, martial prodigy Maria “Mimi” Annovazzi loses her claim as heir and is suddenly ordered to marry into prestige. With no options left in her homeland, she transfers to a neighboring kingdom—only to be publicly dumped at graduation by a prince she’s never met over an engagement she didn’t even know she had! Will Maria be doomed to the life of a spinster?!",
+   "popularity": 7.5828,
+   "poster_path": "/rPXtyRafus1WNEULCoiYJXCclbZ.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-02",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Always a Catch!",
+   "trailer": {
+    "key": "OO64yLPY04Q",
+    "name": "Always a Catch! | Official Main Trailer 2 | English Sub",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.2,
+   "vote_count": 24
   },
   "tv:4620": {
    "backdrop_path": "/8MQeyFsWrp2ILjbumtxrinmk7t4.jpg",

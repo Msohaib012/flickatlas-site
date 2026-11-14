@@ -1,145 +1,7 @@
 {
  "bucket": "72",
- "count": 18,
+ "count": 22,
  "titles": {
-  "movie:1315772": {
-   "backdrop_path": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-   "budget": 85000000,
-   "cast": [
-    {
-     "c": "The Minions (voice)",
-     "n": "Pierre Coffin"
-    },
-    {
-     "c": "Goomi (voice)",
-     "n": "Trey Parker"
-    },
-    {
-     "c": "Max (voice)",
-     "n": "Christoph Waltz"
-    },
-    {
-     "c": "Olivia (voice)",
-     "n": "Allison Janney"
-    },
-    {
-     "c": "Dort (voice)",
-     "n": "Jesse Eisenberg"
-    },
-    {
-     "c": "Frank / Elwood (voice)",
-     "n": "Jeff Bridges"
-    },
-    {
-     "c": "Debbie (voice)",
-     "n": "Zoey Deutch"
-    },
-    {
-     "c": "Phillips (voice)",
-     "n": "Bobby Moynihan"
-    },
-    {
-     "c": "Howard (voice)",
-     "n": "Phil LaMarr"
-    },
-    {
-     "c": "George Lucas (voice)",
-     "n": "George Lucas"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 7+",
-   "date_kind": "release",
-   "director": [
-    "Pierre Coffin"
-   ],
-   "genres": [
-    "Adventure",
-    "Animation",
-    "Comedy",
-    "Family",
-    "Fantasy"
-   ],
-   "id": 1315772,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-   "popularity": 47.2579,
-   "poster_path": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "JioHotstar"
-    },
-    {
-     "name": "Peacock Premium"
-    },
-    {
-     "name": "Peacock Premium Plus"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-     "name": "JioHotstar",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
-     "name": "Zee5",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "IN"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-07-01",
-   "revenue": 526259745,
-   "runtime": 90,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en",
-    "es"
-   ],
-   "status": "Released",
-   "tagline": "Hollywood has a monster problem.",
-   "title": "Minions & Monsters",
-   "trailer": {
-    "key": "V-O-uBaHk3c",
-    "name": "Final Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.531,
-   "vote_count": 1393
-  },
   "movie:1317672": {
    "backdrop_path": "/ohUhHOqW8cM59Ay5UjqplLzJbH3.jpg",
    "budget": 0,
@@ -255,99 +117,6 @@
    "type": "movie",
    "vote_average": 6.106,
    "vote_count": 343
-  },
-  "movie:1765072": {
-   "backdrop_path": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
-   "budget": 7000000,
-   "cast": [
-    {
-     "c": "Self",
-     "n": "Elizabeth Holmes"
-    },
-    {
-     "c": "Self",
-     "n": "Nathan Fielder"
-    },
-    {
-     "c": "Self",
-     "n": "Billy Evans"
-    },
-    {
-     "c": "Self / Elizabeth Holmes",
-     "n": "Amanda Seyfried"
-    },
-    {
-     "c": "Billy Evans",
-     "n": "Christopher Abbott"
-    },
-    {
-     "c": "Self",
-     "n": "Lance Oppenheim"
-    },
-    {
-     "c": "Self",
-     "n": "Christian Rasmus Holmes IV"
-    },
-    {
-     "c": "Self",
-     "n": "Noel Anne Holmes"
-    },
-    {
-     "c": "A24 Executive",
-     "n": "Gary Wilmes"
-    },
-    {
-     "c": "A24 Executive",
-     "n": "Phillip Andre Botello"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Nathan Fielder",
-    "Lance Oppenheim"
-   ],
-   "genres": [
-    "Documentary"
-   ],
-   "id": 1765072,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-   "popularity": 58.5192,
-   "poster_path": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [],
-   "providers_wtw": [],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-16",
-   "revenue": 79581466,
-   "runtime": 175,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "See it to believe it.",
-   "title": "You Can See Everything",
-   "trailer": {
-    "key": "IEx8D1Wb__U",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 8.868,
-   "vote_count": 114
   },
   "movie:219572": {
    "backdrop_path": "/7hJxwdm2OSE4Umsta7rYIxDaymU.jpg",
@@ -1577,37 +1346,17 @@
    "vote_average": 8.2,
    "vote_count": 1897
   },
-  "tv:253372": {
-   "backdrop_path": "/wWleS7DxsoGCkOPisNf8OZ2udiD.jpg",
+  "tv:224372": {
+   "backdrop_path": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
    "budget": 0,
    "cast": [
     {
-     "c": "Tim Jamieson",
-     "n": "Ben Barnes"
+     "c": "Ser Duncan 'Dunk' the Tall",
+     "n": "Peter Claffey"
     },
     {
-     "c": "Luke Ellis",
-     "n": "Joe Freeman"
-    },
-    {
-     "c": "Kalisha",
-     "n": "Simone Miller"
-    },
-    {
-     "c": "Nick Wilholm",
-     "n": "Fionn Laird"
-    },
-    {
-     "c": "Wendy Gullickson",
-     "n": "Hannah Galway"
-    },
-    {
-     "c": "Hendricks",
-     "n": "Robert Joy"
-    },
-    {
-     "c": "Ms. Sigsby",
-     "n": "Mary-Louise Parker"
+     "c": "Egg",
+     "n": "Dexter Sol Ansell"
     }
    ],
    "catalogue": true,
@@ -1616,129 +1365,66 @@
     "catalogue"
    ],
    "certification": "TV-MA",
-   "channel": "MGM+",
+   "channel": "HBO",
    "created_by": [
-    "Benjamin Cavell"
+    "George R.R. Martin",
+    "Ira Parker"
    ],
    "director": [],
-   "episode_run_time": [
-    58
-   ],
-   "first_air_date": "2025-07-13",
+   "episode_run_time": [],
+   "first_air_date": "2026-01-18",
    "genres": [
-    "Mystery",
-    "Sci-Fi & Fantasy"
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
    ],
-   "id": 253372,
+   "id": 224372,
    "industry": "world",
    "networks": [
-    "MGM+"
+    "HBO"
    ],
-   "number_of_episodes": 16,
-   "number_of_seasons": 2,
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
    "origin_country": [
     "US"
    ],
    "original_language": "en",
-   "overview": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
-   "popularity": 42.0113,
-   "poster_path": "/4MwXkOAMd9ObxdacasPFM32n9dZ.jpg",
+   "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
+   "popularity": 20.6655,
+   "poster_path": "/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg",
    "production_countries": [
     "US"
    ],
    "providers": [
     {
-     "name": "Amazon Prime Video"
+     "name": "JioHotstar"
     },
     {
-     "name": "fuboTV"
+     "name": "HBO Max Amazon Channel"
     },
     {
-     "name": "MGM+ Amazon Channel"
+     "name": "HBO Max"
     },
     {
-     "name": "Philo"
-    },
-    {
-     "name": "MGM Plus Roku Premium Channel"
-    },
-    {
-     "name": "MGM Plus"
-    },
-    {
-     "name": "Spectrum On Demand"
-    },
-    {
-     "name": "Amazon Prime Video with Ads"
-    },
-    {
-     "name": "MGM Plus Amazon Channel"
+     "name": "Now TV"
     }
    ],
    "providers_wtw": [
     {
      "kind": "flatrate",
-     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-     "name": "Amazon Prime Video",
-     "region": "US"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
-     "name": "fuboTV",
-     "region": "US"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
-     "name": "MGM+ Amazon Channel",
-     "region": "US"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
-     "name": "Philo",
-     "region": "US"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
-     "name": "MGM Plus Roku Premium Channel",
-     "region": "US"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
-     "name": "MGM Plus",
-     "region": "US"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
-     "name": "Spectrum On Demand",
-     "region": "US"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-     "name": "Amazon Prime Video with Ads",
-     "region": "US"
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
     }
    ],
    "published_at": "2026-11-14",
    "revenue": 0,
    "seasons": [
     {
-     "air_date": "2025-07-13",
-     "episode_count": 8,
+     "air_date": "2026-01-18",
+     "episode_count": 6,
      "name": "Season 1",
      "season_number": 1
-    },
-    {
-     "air_date": "2026-11-08",
-     "episode_count": 8,
-     "name": "Season 2",
-     "season_number": 2
     }
    ],
    "source": "catalogue",
@@ -1746,16 +1432,613 @@
     "en"
    ],
    "status": "Returning Series",
-   "tagline": "",
-   "title": "The Institute",
+   "tagline": "A tall tale that became legend.",
+   "title": "A Knight of the Seven Kingdoms",
    "trailer": {
-    "key": "1BcvAdfyL5Y",
+    "key": "sItUCKJQLTU",
+    "name": "Official Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.42,
+   "vote_count": 1280
+  },
+  "tv:241372": {
+   "backdrop_path": "/dnEljhBkw53ra7tEl2JNKGrI0wk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ciara Wyse",
+     "n": "Dove Cameron"
+    },
+    {
+     "c": "Oliver Kennedy",
+     "n": "Avan Jogia"
+    },
+    {
+     "c": "Karl Connelly",
+     "n": "Dorian Missick"
+    },
+    {
+     "c": "Lee Reardon",
+     "n": "Karla Souza"
+    },
+    {
+     "c": "Young Oliver",
+     "n": "Kingston Rumi Southwick"
+    },
+    {
+     "c": "Dan Troxler",
+     "n": "Patch Darragh"
+    },
+    {
+     "c": "Jane Miller",
+     "n": "Kira Guloien"
+    },
+    {
+     "c": "Shyla",
+     "n": "Megan Peta Hill"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Prime Video",
+   "created_by": [
+    "Lisa Zwerling",
+    "Karyn Usher"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-02-18",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 241372,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When an unidentified body is found in a luxury apartment linked to Oliver Kennedy and his girlfriend Ciara Wyse, Detectives Lee Reardon and Karl Connolly reconstruct the couple's deadly romance across the past 56 days.",
+   "popularity": 15.6368,
+   "poster_path": "/sdJLbucggwGj8NdX0UN2zt1Vwmn.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-18",
+     "episode_count": 8,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Do you live secrets?",
+   "title": "56 Days",
+   "trailer": {
+    "key": "P5EhHeF99wg",
     "name": "Official Trailer",
     "site": "YouTube"
    },
    "type": "tv",
-   "vote_average": 7.5,
-   "vote_count": 224
+   "vote_average": 7.4,
+   "vote_count": 249
+  },
+  "tv:270572": {
+   "backdrop_path": "/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ralph",
+     "n": "Winston Sawyers"
+    },
+    {
+     "c": "Nicholas \"Piggy\"",
+     "n": "David McKenna"
+    },
+    {
+     "c": "Jack Merridew",
+     "n": "Lox Pratt"
+    },
+    {
+     "c": "Simon Camborne",
+     "n": "Ike Talbut"
+    },
+    {
+     "c": "Roger",
+     "n": "Thomas Connor"
+    },
+    {
+     "c": "Maurice",
+     "n": "Cornelius Brandreth"
+    },
+    {
+     "c": "Eric",
+     "n": "Cassius Flemyng"
+    },
+    {
+     "c": "Sam",
+     "n": "Noah Flemyng"
+    },
+    {
+     "c": "Frankie",
+     "n": "Harrison Metcalf"
+    },
+    {
+     "c": "Robert",
+     "n": "Rafael de Belligny"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "BBC One",
+   "created_by": [
+    "Jack Thorne"
+   ],
+   "director": [],
+   "episode_run_time": [
+    58
+   ],
+   "first_air_date": "2026-02-08",
+   "genres": [
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 270572,
+   "industry": "world",
+   "networks": [
+    "BBC One"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "After a plane crash, a group of schoolboys find themselves stranded on a tropical island without adults. Ralph is elected leader and, with the help of the intelligent Piggy, strives to maintain order and civilization. Jack, responsible for the signal fire, becomes increasingly focused on hunting and power struggles. This leads to tensions within the group, gradually pushing the boys from hope and structure into chaos and tragedy.",
+   "popularity": 8.8567,
+   "poster_path": "/zD50ejpus5rNidj6CBr4Ml59KOL.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-28",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2026-02-08",
+     "episode_count": 4,
+     "name": "Series 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Lord of the Flies",
+   "trailer": {
+    "key": "ujupEUFDm3E",
+    "name": "Official Netflix Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.557,
+   "vote_count": 140
+  },
+  "tv:276472": {
+   "backdrop_path": "/gtxt1avGOgu3nhYGqWQWFPHSpKc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yeon Tae-oh",
+     "n": "Jinyoung"
+    },
+    {
+     "c": "Mo Eun-ah",
+     "n": "Kim Min-ju"
+    },
+    {
+     "c": "Bae Seong-chan",
+     "n": "Shin Jae-ha"
+    },
+    {
+     "c": "Im A-sol",
+     "n": "Park Se-hyun"
+    },
+    {
+     "c": "Mo Seon-gyoo",
+     "n": "Kim Tae-hun"
+    },
+    {
+     "c": "Park So-Hyeon",
+     "n": "Kim Ji-hyun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "JTBC",
+   "created_by": [
+    "Lee Suk-yeon"
+   ],
+   "director": [
+    "Kim Yoon-jin"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-06",
+   "genres": [
+    "Drama"
+   ],
+   "id": 276472,
+   "industry": "world",
+   "networks": [
+    "JTBC"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A man and a woman whose lives are shaped by loss and time drift apart in youth and reunite a decade later, discovering that the bond they once shared remains a guiding light through love, grief, and growing up.",
+   "popularity": 4.1283,
+   "poster_path": "/tVOq3YkCTnbrycnXHmth9f6qYs7.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-06",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Still Shining",
+   "trailer": {
+    "key": "A9PqGqv3FBw",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 27
+  },
+  "tv:294972": {
+   "backdrop_path": "/wVUfr3dOG1cHn9HwHS1Fv6FPTuf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mica",
+     "n": "Malena Pichot"
+    },
+    {
+     "c": "Maru",
+     "n": "Pilar Gamboa"
+    },
+    {
+     "c": "Paola",
+     "n": "María Fernanda Callejón"
+    },
+    {
+     "c": "Maggie",
+     "n": "Mónica Antonópulos"
+    },
+    {
+     "c": "Rocio",
+     "n": "Minerva Casero"
+    },
+    {
+     "c": "Antonella",
+     "n": "Agustina Tremari"
+    },
+    {
+     "c": "Pia",
+     "n": "Paula Grinszpan"
+    },
+    {
+     "c": "Pablo",
+     "n": "Alan Sabbagh"
+    },
+    {
+     "c": "Mecha",
+     "n": "Marina Bellati"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "SAM 16",
+   "channel": "TNT Latin America",
+   "created_by": [
+    "Malena Pichot"
+   ],
+   "director": [
+    "Pablo E. Bossi",
+    "Constanza Novick",
+    "Nano Garay Santalo"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-27",
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 294972,
+   "industry": "world",
+   "networks": [
+    "TNT Latin America"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "AR"
+   ],
+   "original_language": "es",
+   "overview": "A former pair of thieves must dust off their old seduction tricks when blackmail threatens to expose their dirty laundry.",
+   "popularity": 2.6971,
+   "poster_path": "/h71jvjjaJOzYeOCMJutkMh3TbhO.jpg",
+   "production_countries": [
+    "AR"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-27",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "Wh*res and Hustlers",
+   "title": "Black Widows: Wh*res & Hustlers",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 35
+  },
+  "tv:303072": {
+   "backdrop_path": "/ytLYh9lWn7MItdcuIqA50pnIkeC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Salvo",
+     "n": "Salvatore Ficarra"
+    },
+    {
+     "c": "Valentino",
+     "n": "Valentino Picone"
+    },
+    {
+     "c": "Claudia",
+     "n": "Katia Follesa"
+    },
+    {
+     "c": "Maria Teresa",
+     "n": "Barbara Tabita"
+    },
+    {
+     "c": "Presidente del Consiglio",
+     "n": "Max Tortora"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG13",
+   "channel": "Netflix",
+   "created_by": [
+    "Salvatore Ficarra",
+    "Valentino Picone"
+   ],
+   "director": [
+    "Salvatore Ficarra",
+    "Valentino Picone"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-12-05",
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 303072,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 5,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "With Christmas around the corner, two blundering Sicilian friends working in Milan discover a dumpster that transports them to their families in seconds.",
+   "popularity": 2.2166,
+   "poster_path": "/mTI2Jvwj9i47GHldFirzsOdsBjq.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-05",
+     "episode_count": 5,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Sicily Express",
+   "trailer": {
+    "key": "GOP8lyKCV8U",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.989,
+   "vote_count": 46
   },
   "tv:3172": {
    "backdrop_path": "/2iYitemZYaZUcmSo0l2p3WHvj5J.jpg",
@@ -1936,6 +2219,94 @@
    "type": "tv",
    "vote_average": 7.492,
    "vote_count": 363
+  },
+  "tv:320472": {
+   "backdrop_path": "/wTehSVPfmzggbLIAH9UBvrHxjzC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Kylie Minogue"
+    },
+    {
+     "c": "Self",
+     "n": "Dannii Minogue"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M18",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    61
+   ],
+   "first_air_date": "2026-05-20",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 320472,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A look at the life of Australian pop star Kylie Minogue, who opens her personal archives and reflects on a career in which she has sold 80 million records and reinvented herself, and by extension pop, several times. Home movies, personal photographs and new interviews reveal the picture, as Kylie addresses how she’s faced public scrutiny, personal loss and illness.",
+   "popularity": 3.2085,
+   "poster_path": "/89qQzMmXD5r0UOOxH6ob8U6T8ei.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-20",
+     "episode_count": 3,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Closer than ever before.",
+   "title": "Kylie",
+   "trailer": {
+    "key": "k-358jALXlA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.625,
+   "vote_count": 24
   },
   "tv:3772": {
    "backdrop_path": "/2XFBqLWmMem1nImSPCnPVOXH1MF.jpg",

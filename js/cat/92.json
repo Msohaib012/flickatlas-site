@@ -1,6 +1,6 @@
 {
  "bucket": "92",
- "count": 25,
+ "count": 30,
  "titles": {
   "movie:1008392": {
    "backdrop_path": "/iHSE8lEkPFHHPqaCv6Eh2aUfe6q.jpg",
@@ -1023,114 +1023,6 @@
    "type": "movie",
    "vote_average": 6.497,
    "vote_count": 167
-  },
-  "movie:1515692": {
-   "backdrop_path": "/5sBnZMT1aJ6cBvehKOzOOLdI6bz.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Bathvachalam 'Baththa'",
-     "n": "Vijay Sethupathi"
-    },
-    {
-     "c": "Sabari",
-     "n": "Sai Prithviraj"
-    },
-    {
-     "c": "Kannima",
-     "n": "Lijomol Jose"
-    },
-    {
-     "c": "Thenmozhi 'Thenu'",
-     "n": "Sahasra Sree"
-    },
-    {
-     "c": "Selvi",
-     "n": "Santhy Balachandran"
-    },
-    {
-     "c": "Jyoti",
-     "n": "Arjun Chidambaram"
-    },
-    {
-     "c": "Thirunavukarasu",
-     "n": "Hari Krishnan"
-    },
-    {
-     "c": "Konda",
-     "n": "Ajay Ghosh"
-    },
-    {
-     "c": "Konda's wife",
-     "n": "Deepa Venkat"
-    },
-    {
-     "c": "Jayanthi",
-     "n": "Ramya Pandian"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 13+",
-   "date_kind": "release",
-   "director": [
-    "Balaji Tharaneetharan"
-   ],
-   "genres": [
-    "Drama",
-    "Comedy",
-    "Action"
-   ],
-   "id": 1515692,
-   "industry": "bollywood",
-   "origin_country": [
-    "IN"
-   ],
-   "original_language": "ta",
-   "overview": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two.",
-   "popularity": 14.8469,
-   "poster_path": "/7wHBYs8HHmTGe4nXLpMEAoDSK2o.jpg",
-   "production_countries": [
-    "IN"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-01",
-   "revenue": 0,
-   "runtime": 159,
-   "source": "catalogue",
-   "spoken_languages": [
-    "ta"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Baththa",
-   "trailer": {
-    "key": "SQp3Li13tw0",
-    "name": "Official Trailer [Subtitled]",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 8.0,
-   "vote_count": 20
   },
   "movie:1665092": {
    "backdrop_path": "/tKHaRVudYbGlO78UrjkWUtguB8N.jpg",
@@ -2772,6 +2664,728 @@
    "type": "tv",
    "vote_average": 8.6,
    "vote_count": 392
+  },
+  "tv:246992": {
+   "backdrop_path": "/nFOufr0IvCtMLyTleHOrtyj0htv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Michaela Kell",
+     "n": "Julianne Moore"
+    },
+    {
+     "c": "Devon DeWitt",
+     "n": "Meghann Fahy"
+    },
+    {
+     "c": "Simone DeWitt",
+     "n": "Milly Alcock"
+    },
+    {
+     "c": "Peter Kell",
+     "n": "Kevin Bacon"
+    },
+    {
+     "c": "Ethan Corbin II",
+     "n": "Glenn Howerton"
+    },
+    {
+     "c": "Bruce DeWitt",
+     "n": "Bill Camp"
+    },
+    {
+     "c": "Jose",
+     "n": "Felix Solis"
+    },
+    {
+     "c": "Raymond",
+     "n": "Josh Segarra"
+    },
+    {
+     "c": "Missy",
+     "n": "Britne Oldford"
+    },
+    {
+     "c": "Jordan/Morgan",
+     "n": "Trevor F. Salter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Molly Smith Metzler"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-22",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 246992,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 5,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Worried about her sister's too-close relationship with her billionaire boss, a scrappy everywoman seeks answers at a lavish seaside estate.",
+   "popularity": 5.2106,
+   "poster_path": "/mezbwX9gFWTXl0XiicS5ZMcdXVx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-22",
+     "episode_count": 5,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Not all songs are sweet.",
+   "title": "Sirens",
+   "trailer": {
+    "key": "nxSpZ9khchU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.619,
+   "vote_count": 214
+  },
+  "tv:254492": {
+   "backdrop_path": "/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ashiya Mizuki (voice)",
+     "n": "Aya Yamane"
+    },
+    {
+     "c": "Sano Izumi (voice)",
+     "n": "Taku Yashiro"
+    },
+    {
+     "c": "Nakatsu Shuichi (voice)",
+     "n": "Kikunosuke Toya"
+    },
+    {
+     "c": "Taiki Kayashima (voice)",
+     "n": "Koki Uchiyama"
+    },
+    {
+     "c": "Minami Nanba (voice)",
+     "n": "Yuuichirou Umehara"
+    },
+    {
+     "c": "Senri Nakao (voice)",
+     "n": "Reiji Kawashima"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-04",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 254492,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 25,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Mizuki Ashiya is on a mission: disguise herself as a boy and enroll in a male boarding school to meet her idol, high jump star Izumi Sano. But after successfully infiltrating the school, she discovers he’s suddenly quit the sport! Now Mizuki must dodge suspicion, protect her cover, and somehow reach the boy she came all this way for—all while surviving the chaos of an all-boys dorm!",
+   "popularity": 24.2901,
+   "poster_path": "/hZU0HRRGm9l4iRpUL98cMUogkge.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-04",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-07-02",
+     "episode_count": 13,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Hana-Kimi",
+   "trailer": {
+    "key": "9feK5OU8LnM",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.943,
+   "vote_count": 35
+  },
+  "tv:257992": {
+   "backdrop_path": "/oitb5QFxxhjYzb0KK4zoooO0LSX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Franck",
+     "n": "Benoît Magimel"
+    },
+    {
+     "c": "Krystel",
+     "n": "Mélanie Laurent"
+    },
+    {
+     "c": "Xavier",
+     "n": "Damien Bonnard"
+    },
+    {
+     "c": "Gilles",
+     "n": "Manuel Guillot"
+    },
+    {
+     "c": "Simon",
+     "n": "Cédric Appietto"
+    },
+    {
+     "c": "Leo",
+     "n": "Frédéric Maranber"
+    },
+    {
+     "c": "",
+     "n": "Angelyna Danabe Mignot"
+    },
+    {
+     "c": "",
+     "n": "Paul Beaurepaire"
+    },
+    {
+     "c": "",
+     "n": "Yann Goven"
+    },
+    {
+     "c": "Estelle",
+     "n": "Sarah Pachoud"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [
+    "Cédric Anger"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-04",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 257992,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "When friends on a hunting trip get into a deadly clash with other hunters, they vow to keep it a secret. But as paranoia sets in—and a ruthless gang seeks revenge—the friends must confront their morality, families, and savage instincts.",
+   "popularity": 5.9951,
+   "poster_path": "/ipf1giXcXX50ylcmDBtDcXHMTaa.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-04",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Ended",
+   "tagline": "The most dangerous enemy is the one you can't see.",
+   "title": "The Hunt",
+   "trailer": {
+    "key": "Uobdx84anoc",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 37
+  },
+  "tv:260592": {
+   "backdrop_path": "/to5eI3AWbT4spz1K58mIK5HQRbD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Percy Fraser",
+     "n": "Sadie Soverall"
+    },
+    {
+     "c": "Sam Florek",
+     "n": "Matt Cornett"
+    },
+    {
+     "c": "Chantal",
+     "n": "Aurora Perrineau"
+    },
+    {
+     "c": "Delilah",
+     "n": "Abigail Cowen"
+    },
+    {
+     "c": "Charlie",
+     "n": "Michael Bradway"
+    },
+    {
+     "c": "Jordie",
+     "n": "Joseph Chiu"
+    },
+    {
+     "c": "Sue Florek",
+     "n": "Elisha Cuthbert"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Prime Video",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-06-10",
+   "genres": [
+    "Drama"
+   ],
+   "id": 260592,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Six summers to fall in love. One moment to fall apart. A week to get it right. A fun, sweeping, romantic story that asks the question, what if your first love actually was your soulmate?",
+   "popularity": 10.9082,
+   "poster_path": "/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-10",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Years passed. Their story never did.",
+   "title": "Every Year After",
+   "trailer": {
+    "key": "F5SpqQ8dNa8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.167,
+   "vote_count": 108
+  },
+  "tv:297492": {
+   "backdrop_path": "/fjBULwisk7UjLkQYMDNdemCEYM6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jeremías",
+     "n": "Andrés Parra"
+    },
+    {
+     "c": "León",
+     "n": "Jose Restrepo"
+    },
+    {
+     "c": "Indira",
+     "n": "Carolina Gómez"
+    },
+    {
+     "c": "Elena",
+     "n": "Camila Jurado"
+    },
+    {
+     "c": "Samuel",
+     "n": "Jorge Enrique Abello"
+    },
+    {
+     "c": "Carmenza",
+     "n": "Consuelo Luzardo"
+    },
+    {
+     "c": "Nidia",
+     "n": "Valentina Acosta"
+    },
+    {
+     "c": "Vidal",
+     "n": "César Mora"
+    },
+    {
+     "c": "Diego",
+     "n": "Héctor García"
+    },
+    {
+     "c": "Inés",
+     "n": "Victoria Hernández"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "Netflix",
+   "created_by": [
+    "Carlos Moreno"
+   ],
+   "director": [
+    "Carlos Moreno",
+    "Claudia Fernanda Pedraza Olaya"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-12-04",
+   "genres": [
+    "Drama"
+   ],
+   "id": 297492,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CO"
+   ],
+   "original_language": "es",
+   "overview": "León and Jeremías' friendship, bonded by literature, shatters when one of them commits an unforgivable act of violence in Bogotá.",
+   "popularity": 2.2354,
+   "poster_path": "/taJXF98U9rhkYO0wUxfJjeAoyWt.jpg",
+   "production_countries": [
+    "CO"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-04",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Fugue State 1986",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.04,
+   "vote_count": 25
+  },
+  "tv:316992": {
+   "backdrop_path": "/xVN8rq2VM9cvFmM0grv1AFnhO6d.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Presenter",
+     "n": "Tom Hanks"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "Sky History",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    44
+   ],
+   "first_air_date": "2026-05-25",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 316992,
+   "industry": "world",
+   "networks": [
+    "Sky History"
+   ],
+   "number_of_episodes": 20,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Explores WWII from Germany's invasion of Poland through the atomic age, examining pivotal battles, wartime leaders like Churchill and Roosevelt, and the human cost of total war.",
+   "popularity": 13.5316,
+   "poster_path": "/MPN0glmZV3JnZfmXtKF32SRhDD.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "HISTORY Vault Apple TV channel"
+    },
+    {
+     "name": "HISTORY Vault Amazon Channel"
+    },
+    {
+     "name": "History"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    },
+    {
+     "name": "HistoryPlay Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/5BTLYTpmxk4esX7qkNstcjpczJO.png",
+     "name": "HISTORY Vault Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3JjNZuoqjepX0LrRAIHXpuKTblR.png",
+     "name": "HISTORY Vault Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4cHhgsNAxu15DEut0ZBmc8lK0Zt.png",
+     "name": "History",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-25",
+     "episode_count": 20,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "World War II with Tom Hanks",
+   "trailer": {
+    "key": "DcjqVbXGnHY",
+    "name": "World War II with Tom Hanks | Trailer 3",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.36,
+   "vote_count": 43
   },
   "tv:32692": {
    "backdrop_path": "/goDtZCB5pFIuuSfYDvApe6iXTID.jpg",

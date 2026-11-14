@@ -1,6 +1,6 @@
 {
  "bucket": "54",
- "count": 28,
+ "count": 36,
  "titles": {
   "movie:1015154": {
    "backdrop_path": "/i0YlPmyAfjxWJczVqK0MP88XKU4.jpg",
@@ -412,173 +412,6 @@
    "vote_average": 7.5,
    "vote_count": 457
   },
-  "movie:1198654": {
-   "backdrop_path": "/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Maria",
-     "n": "Saoirse Ronan"
-    },
-    {
-     "c": "Danny",
-     "n": "Eddie Waller"
-    },
-    {
-     "c": "Pauline",
-     "n": "Nia Brown"
-    },
-    {
-     "c": "Sam",
-     "n": "Jacob Anderson"
-    },
-    {
-     "c": "Sylvia",
-     "n": "Rakie Ayola"
-    },
-    {
-     "c": "Josh",
-     "n": "Robert Emms"
-    },
-    {
-     "c": "Frank",
-     "n": "Sean Gilder"
-    },
-    {
-     "c": "PC Williams",
-     "n": "Kerry Howard"
-    },
-    {
-     "c": "Khaliya's Mum",
-     "n": "Jaye Jacobs"
-    },
-    {
-     "c": "Carys's Mum",
-     "n": "Joanna van Kampen"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Jonatan Etzler"
-   ],
-   "genres": [
-    "Comedy",
-    "Thriller"
-   ],
-   "id": 1198654,
-   "industry": "world",
-   "origin_country": [
-    "GB"
-   ],
-   "original_language": "en",
-   "overview": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will turn a blind eye to the most outrageous events to preserve harmony and their sense of safety.",
-   "popularity": 13.1702,
-   "poster_path": "/vGUAC8EOizemwwbWk9JbFrhpVz4.jpg",
-   "production_countries": [
-    "GB",
-    "US"
-   ],
-   "providers": [],
-   "providers_wtw": [
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "US"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "US"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/aaFIYn2NGPCo0rpLiWokbvNqNJd.png",
-     "name": "JustWatch TV Store",
-     "region": "US"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
-     "name": "Google Play Movies",
-     "region": "US"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
-     "name": "YouTube",
-     "region": "US"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
-     "name": "Fandango At Home",
-     "region": "US"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
-     "name": "Plex",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
-     "name": "Google Play Movies",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
-     "name": "YouTube",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
-     "name": "Fandango At Home",
-     "region": "US"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-09-10",
-   "revenue": 0,
-   "runtime": 100,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "It only takes one.",
-   "title": "Bad Apples",
-   "trailer": {
-    "key": "4nhu80EmVQE",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 6.922,
-   "vote_count": 167
-  },
   "movie:1356454": {
    "backdrop_path": "/vaYQhikryKYPOs86rULXIACOCYi.jpg",
    "budget": 0,
@@ -979,110 +812,6 @@
    "type": "movie",
    "vote_average": 7.276,
    "vote_count": 449
-  },
-  "movie:1473354": {
-   "backdrop_path": "/6Zn4PaLwLHFJ2bw7s6B10fHiuAD.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Prabhendhu 'Indu' N. Namboothiri",
-     "n": "Nivin Pauly"
-    },
-    {
-     "c": "'Delulu' Maya Mathew Manjooran",
-     "n": "Riya Shibu"
-    },
-    {
-     "c": "Saadhya",
-     "n": "Preity Mukhundhan"
-    },
-    {
-     "c": "Roopesh 'Rupa' Namboothiri",
-     "n": "Aju Varghese"
-    },
-    {
-     "c": "Prahladan Namboothiri",
-     "n": "Janardhanan"
-    },
-    {
-     "c": "Deepankuran 'Deepu' N. Namboothiri",
-     "n": "Madhu Warrier"
-    },
-    {
-     "c": "Neelakandan Namboothiri",
-     "n": "Raghunath Paleri"
-    },
-    {
-     "c": "Faisal",
-     "n": "Anand Ekarshi"
-    },
-    {
-     "c": "Vinod Mathew Manjooran",
-     "n": "Vineeth Radhakrishnan"
-    },
-    {
-     "c": "Annie Mathew",
-     "n": "Methil Devika"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U",
-   "date_kind": "release",
-   "director": [
-    "Akhil Sathyan"
-   ],
-   "genres": [
-    "Comedy",
-    "Family"
-   ],
-   "id": 1473354,
-   "industry": "bollywood",
-   "origin_country": [
-    "IN"
-   ],
-   "original_language": "ml",
-   "overview": "An atheist priest's life is upended after performing an exorcism, bonding with a charming spirit who helps him pursue music and heal his past.",
-   "popularity": 1.6346,
-   "poster_path": "/ri3Lpt8OkvixST0EIsBDZJmB5l.jpg",
-   "production_countries": [
-    "IN"
-   ],
-   "providers": [
-    {
-     "name": "JioHotstar"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-     "name": "JioHotstar",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2025-12-25",
-   "revenue": 0,
-   "runtime": 147,
-   "source": "catalogue",
-   "spoken_languages": [
-    "ml"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Sarvam Maya",
-   "trailer": {
-    "key": "xXvE6_8lOoM",
-    "name": "Sarvam Maya | Trailer | Nivin Pauly | Aju Varghese | Riya Shibu | Jan 30 | JioHotstar",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.857,
-   "vote_count": 42
   },
   "movie:14854": {
    "backdrop_path": "/yR10dIRDAuRfRUxQ2azF4GSwJNb.jpg",
@@ -3191,6 +2920,1169 @@
    "type": "tv",
    "vote_average": 7.9,
    "vote_count": 294
+  },
+  "tv:241554": {
+   "backdrop_path": "/if4r7bXrDH50GhNwCo3Bz8F2LOg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Murderbot",
+     "n": "Alexander Skarsgård"
+    },
+    {
+     "c": "Mensah",
+     "n": "Noma Dumezweni"
+    },
+    {
+     "c": "Gurathin",
+     "n": "David Dastmalchian"
+    },
+    {
+     "c": "Pin Lee",
+     "n": "Sabrina Wu"
+    },
+    {
+     "c": "Ratthi",
+     "n": "Akshay Khanna"
+    },
+    {
+     "c": "Bharadwaj",
+     "n": "Tamara Podemski"
+    },
+    {
+     "c": "Arada",
+     "n": "Tattiawna Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [
+    "Chris Weitz",
+    "Paul Weitz"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-15",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 241554,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a high-tech future, a rogue security robot secretly gains free will. To stay hidden, it reluctantly joins a new mission protecting scientists on a dangerous planet... even though it just wants to binge soap operas.",
+   "popularity": 17.1445,
+   "poster_path": "/mIKfKo2uDk3itzAPYIcSeYr4KtF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-15",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Built to destroy. Forced to connect.",
+   "title": "Murderbot",
+   "trailer": {
+    "key": "vEioDeOiqEs",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.304,
+   "vote_count": 569
+  },
+  "tv:243954": {
+   "backdrop_path": "/gPoncjnCliOiWRVW2ASyrocqQpM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Zac Torres",
+     "n": "Michael Cimino"
+    },
+    {
+     "c": "Logan Maddox",
+     "n": "Ryan Phillippe"
+    },
+    {
+     "c": "Samantha Torres",
+     "n": "Nathalie Kelley"
+    },
+    {
+     "c": "Christian Maddox",
+     "n": "Deacon Phillippe"
+    },
+    {
+     "c": "Caitlyn Torres",
+     "n": "Melissa Collazo"
+    },
+    {
+     "c": "Marcel Crawford",
+     "n": "Nicolas Cantu"
+    },
+    {
+     "c": "Curtis Young",
+     "n": "Uriah Shelton"
+    },
+    {
+     "c": "Alicia Whitaker",
+     "n": "Mia Healey"
+    },
+    {
+     "c": "Harris Bowers",
+     "n": "Josh MacQueen"
+    },
+    {
+     "c": "Ray Young",
+     "n": "Drake Rodger"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG13",
+   "channel": "Prime Video",
+   "created_by": [
+    "John A. Norris"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-20",
+   "genres": [
+    "Drama"
+   ],
+   "id": 243954,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After moving to Ironwood, siblings Caitlyn and Zac Torres are drawn into a thrilling car culture where street racing reigns and high school status is all about your ride. Haunted by their father's dark past, they join forces with loner Curtis and outcast Marcel to rebuild his legendary car.",
+   "popularity": 4.5135,
+   "poster_path": "/jglGmYMPEiHD7tVncvif7WtCOBJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Motorvision TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-20",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "Motorheads",
+   "trailer": {
+    "key": "kW-hafmct8Y",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.4,
+   "vote_count": 104
+  },
+  "tv:249054": {
+   "backdrop_path": "/2h4rN6HWyvZLyGsfNNzJyQFsfG5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sosuke Fujiwara",
+     "n": "Shun Oguri"
+    },
+    {
+     "c": "Lee Hana",
+     "n": "Han Hyo-joo"
+    },
+    {
+     "c": "Hiroshi 'Hiro' Takada",
+     "n": "Jin Akanishi"
+    },
+    {
+     "c": "Irene",
+     "n": "Yuri Nakamura"
+    },
+    {
+     "c": "Takashi Fujiwara",
+     "n": "Ryo Narita"
+    },
+    {
+     "c": "Motomi Kawamura",
+     "n": "Ayumi Ito"
+    },
+    {
+     "c": "Sumiko Yamaoka",
+     "n": "Shima Ise"
+    },
+    {
+     "c": "Wataru Shimizu",
+     "n": "Keiichiro Azuma"
+    },
+    {
+     "c": "",
+     "n": "Koya Fukuda"
+    },
+    {
+     "c": "Nako Ueno",
+     "n": "Shiori Akita"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Sho Tsukikawa"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-16",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 249054,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR",
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A brilliant chocolatier who's afraid of making eye contact meets an heir who can't touch others — but somehow, they're immune to each other.",
+   "popularity": 3.7844,
+   "poster_path": "/tl95sLfjzDwXJs8zZuq6Wnb1WC0.jpg",
+   "production_countries": [
+    "JP",
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-16",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "It might be time for life's sweetest romance.",
+   "title": "Romantics Anonymous",
+   "trailer": {
+    "key": "0FAm86H2IY4",
+    "name": "Romantics Anonymous | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 35
+  },
+  "tv:249854": {
+   "backdrop_path": "/dcGqAXOXEBKwg6Dz2CMgiZL8TaU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Satsuki 'Satchan' Amamiya (voice)",
+     "n": "Haruna Mikawa"
+    },
+    {
+     "c": "An Kiriyama (voice)",
+     "n": "Aoi Koga"
+    },
+    {
+     "c": "Sakurako Shikishima (voice)",
+     "n": "Hikaru Tono"
+    },
+    {
+     "c": "Haruno Akiyama (voice)",
+     "n": "Reina Ueda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "channel": "Gunma TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-13",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 249854,
+   "industry": "world",
+   "networks": [
+    "Gunma TV",
+    "TOKYO MX",
+    "BS11",
+    "Tochigi TV"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Satsuki Amamiya was feeling down due to the graduation of the high school Photography Club’s president. However, her best friend and fellow member An Kiriyama encourages Satsuki to dedicate herself to the newly merged Cinephoto Club. Join Satsuki and An as they set out to track down a missing camera, meet new faces, and capture stunning photos and videos along the way.",
+   "popularity": 11.843,
+   "poster_path": "/lXsY3KHZptNv7MhMrUYXWjamh7m.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-03-30",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-04-13",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "mono",
+   "trailer": {
+    "key": "h1bhNuUIUpI",
+    "name": "Official English Dub Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 20
+  },
+  "tv:259854": {
+   "backdrop_path": "/dEb1ucFAW6UNGmjY1Dz4vmY6BP8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eviana Marlow",
+     "n": "Elsa Pataky"
+    },
+    {
+     "c": "Tomás Marlow",
+     "n": "Eusebio Poncela"
+    },
+    {
+     "c": "Norman Graf",
+     "n": "Hovik Keuchkerian"
+    },
+    {
+     "c": "César Graf",
+     "n": "Luis Tosar"
+    },
+    {
+     "c": "Cecilio Rodríguez",
+     "n": "Maxi Iglesias"
+    },
+    {
+     "c": "Teresa Polan",
+     "n": "Miriam Giovanelli"
+    },
+    {
+     "c": "Enrique Polan",
+     "n": "Enrique Arce"
+    },
+    {
+     "c": "Ana Morantes",
+     "n": "Juana Acosta"
+    },
+    {
+     "c": "Fariba Sayyid",
+     "n": "Fariba Sheikhan"
+    },
+    {
+     "c": "Héctor Castro",
+     "n": "Raúl Prieto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "SkyShowtime",
+   "created_by": [
+    "Sergio Cánovas",
+    "Javier Naya",
+    "Álex Meriweather"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-05",
+   "genres": [
+    "Crime",
+    "Mystery"
+   ],
+   "id": 259854,
+   "industry": "world",
+   "networks": [
+    "SkyShowtime"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Matices tells the story of a renowned and charismatic psychiatrist who gathers six of his patients together at a remote winery to complete their treatment with his famous method, which has achieved a very high cure rate among the most complex and difficult-to-manage patients. After an unusual ceremonial tasting, an unexpected turn of events occurs with a fateful ending. Following the arrival of an astute police inspector who takes over the case, the truth is uncovered about the doctor and his patients’ traumas.",
+   "popularity": 3.0231,
+   "poster_path": "/zVGHIanX3LxAclHoPHqCuShKEKI.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-05",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Shades",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.7,
+   "vote_count": 21
+  },
+  "tv:283354": {
+   "backdrop_path": "/fHfHUP0kwV6wFWsnDe6jL7V9M5X.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC16",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    70
+   ],
+   "first_air_date": "2025-08-27",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 283354,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Twenty years after Hurricane Katrina, survivors reflect on the disastrous storm that forever changed their lives and the systemic inequities it exposed.",
+   "popularity": 2.7576,
+   "poster_path": "/f16yvVS9QJf1x0dxx1bPE7cnKKR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-27",
+     "episode_count": 3,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Katrina: Come Hell and High Water",
+   "trailer": {
+    "key": "2gyBK3UMT34",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.6,
+   "vote_count": 22
+  },
+  "tv:286654": {
+   "backdrop_path": "/hFcs8B7W2cVotyktZA9eAeYFhFc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Max",
+     "n": "Calam Lynch"
+    },
+    {
+     "c": "Byron",
+     "n": "Ellis Howard"
+    },
+    {
+     "c": "Mommar Joe",
+     "n": "Hannah Walters"
+    },
+    {
+     "c": "Lisa",
+     "n": "Laura Haddock"
+    },
+    {
+     "c": "Steve",
+     "n": "Michael Socha"
+    },
+    {
+     "c": "Lady Die",
+     "n": "Laquarn Lewis"
+    },
+    {
+     "c": "Sasha",
+     "n": "Hannah Jones"
+    },
+    {
+     "c": "Dirty Damian",
+     "n": "Adam Ali"
+    },
+    {
+     "c": "Sticky Nikki",
+     "n": "Alex Thomas-Smith"
+    },
+    {
+     "c": "Liam",
+     "n": "Jake Dunn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "BBC Three",
+   "created_by": [
+    "Paris Lees"
+   ],
+   "director": [
+    "Brian Welsh"
+   ],
+   "episode_run_time": [
+    48
+   ],
+   "first_air_date": "2025-06-03",
+   "genres": [
+    "Drama"
+   ],
+   "id": 286654,
+   "industry": "world",
+   "networks": [
+    "BBC Three"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "To find yourself, sometimes you need to lose yourself. It's Y2K, and Byron's flirting with discovery and destruction, love and anarchy. Inspired by Paris Lees's raw, riotous memoir.",
+   "popularity": 2.4047,
+   "poster_path": "/ycHMy83cCswVyqYEOBQAH2feKzT.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-03",
+     "episode_count": 8,
+     "name": "Series  1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "What It Feels Like for a Girl",
+   "trailer": {
+    "key": "dQYATRlTKJ4",
+    "name": "What It Feels Like For A Girl - Trailer | BBC",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 4.8,
+   "vote_count": 20
+  },
+  "tv:300054": {
+   "backdrop_path": "/1M8uW8o6fdDaa3zqmBD2UUKu0VZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Baki Hanma (voice)",
+     "n": "Nobunaga Shimazaki"
+    },
+    {
+     "c": "Miyamoto Musashi (voice)",
+     "n": "Naoya Uchida"
+    },
+    {
+     "c": "",
+     "n": "Akio Otsuka"
+    },
+    {
+     "c": "",
+     "n": "Takuya Eguchi"
+    },
+    {
+     "c": "",
+     "n": "Kenta Miyake"
+    },
+    {
+     "c": "",
+     "n": "Rikiya Koyama"
+    },
+    {
+     "c": "",
+     "n": "Takayuki Sugo"
+    },
+    {
+     "c": "",
+     "n": "Bin Shimada"
+    },
+    {
+     "c": "",
+     "n": "Yoshihisa Kawahara"
+    },
+    {
+     "c": "",
+     "n": "Tatsuhisa Suzuki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-02-26",
+   "genres": [
+    "Animation",
+    "Action & Adventure"
+   ],
+   "id": 300054,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 25,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Baki and the strongest Underground Arena fighters face a threat of historical proportions: the resurrected Musashi Miyamoto, Japan's greatest samurai.",
+   "popularity": 14.8882,
+   "poster_path": "/frtzbwANetYd0M4zdrZ5gx0E89q.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-26",
+     "episode_count": 25,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "BAKI-DOU: The Invincible Samurai",
+   "trailer": {
+    "key": "zE7h_WizFlk",
+    "name": "Main Trailer English Dub",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 9.092,
+   "vote_count": 109
+  },
+  "tv:300954": {
+   "backdrop_path": "/lfTUwBiSyCVcvBPAMzSOYGUgr2c.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kang Tae-ju",
+     "n": "Namkoong Min"
+    },
+    {
+     "c": "Ko Se-yun",
+     "n": "Lee Seol"
+    },
+    {
+     "c": "Noh Man-hui",
+     "n": "Kim Dae-myung"
+    },
+    {
+     "c": "Kim Gyeon-gae",
+     "n": "Lee Sang-hee"
+    },
+    {
+     "c": "Ko Dong-chan",
+     "n": "Jang Kwang"
+    },
+    {
+     "c": "Choi Sook-yeong",
+     "n": "Oh Min-ae"
+    },
+    {
+     "c": "Yoo Jeong-won",
+     "n": "Cha Mi-kyung"
+    },
+    {
+     "c": "Kang Tae-yeong",
+     "n": "Kwon Hyuk"
+    },
+    {
+     "c": "Choi Chi-woong",
+     "n": "Woo Ji-hyun"
+    },
+    {
+     "c": "Cha Myeong-hee",
+     "n": "Jo Yoon-seo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "KBS2",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-04",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 300954,
+   "industry": "world",
+   "networks": [
+    "KBS2"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Taeju and Seyun are on the verge of divorce. But when a drunken comment from Taeju gets Seyun kidnapped, everything changes. Even worse, he's now the prime suspect. Forced to go on the run, Taeju must rescue his wife on his own. To save her, he pushes himself to the absolute limit.",
+   "popularity": 4.5532,
+   "poster_path": "/z74qJEf1MRsEEIKFgbeyBAHmJXg.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-04",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "The end of their marriage is only the beginning",
+   "title": "The Husband",
+   "trailer": {
+    "key": "U6jpcKxFC8g",
+    "name": "Main Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.7,
+   "vote_count": 27
+  },
+  "tv:314554": {
+   "backdrop_path": "/44cpdAd87SSmOVew1Y4LsEWjqPf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ephtal (voice)",
+     "n": "Shuichiro Umeda"
+    },
+    {
+     "c": "Anastasia (voice)",
+     "n": "Reo Osanai"
+    },
+    {
+     "c": "Maria (voice)",
+     "n": "Haruka Shiraishi"
+    },
+    {
+     "c": "Iria (voice)",
+     "n": "Emiri Kato"
+    },
+    {
+     "c": "Fraser (voice)",
+     "n": "Daisuke Hirakawa"
+    },
+    {
+     "c": "Joachim (voice)",
+     "n": "Kentaro Ito"
+    },
+    {
+     "c": "Duke of Alcott (voice)",
+     "n": "Naomi Kusumi"
+    },
+    {
+     "c": "Edwards (voice)",
+     "n": "Masaya Fukunishi"
+    },
+    {
+     "c": "Moria (voice)",
+     "n": "Tsuyoshi Koyama"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-02",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 314554,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "The great sage Ephtal dies in despair after failing to reach the peak of magic—but 400 years later, he’s reborn with all his memories and power intact! In a world where magic has decayed and ancient spells are treated as miracles, Ephtal storms into a prestigious magic academy to reclaim the true art of sorcery. As his power shakes the world, long-forgotten legends begin to awaken!",
+   "popularity": 8.375,
+   "poster_path": "/p4TE3kK2iyuADfDYIRDTxjahdNa.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-02",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.022,
+   "vote_count": 23
   },
   "tv:31654": {
    "backdrop_path": "/naP3oYVX0vSxpx0HjUkdeKbkfiA.jpg",

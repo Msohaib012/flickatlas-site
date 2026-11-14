@@ -1,6 +1,6 @@
 {
  "bucket": "01",
- "count": 25,
+ "count": 36,
  "titles": {
   "movie:1013601": {
    "d": "The Alto Knights (2025): Crime/Drama film. Story: Two of New York's most notorious organized crime… See cast, budget $45M, and TMDB rating 6.2/10.",
@@ -1210,6 +1210,485 @@
    "t": "Agatha All Along (2024) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2024"
   },
+  "tv:231001": {
+   "d": "Carême (2025) is a Drama and Mystery TV series. Explore its story: Witness the rise of the world's first celebrity chef…, cast, 1 season, and 8 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/7vUmiPhYSgduTvGfRMZ4SdyTWKl.jpg",
+   "industry": "world",
+   "k": "Carême, Carême TV series, Carême cast, Carême story, Carême seasons, Carême episodes, Carême season 1, Carême 8 episodes, Carême first air date, Carême trailer, Carême Drama, Carême Mystery, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Benjamin Voisin"
+     },
+     {
+      "@type": "Person",
+      "name": "Jérémie Renier"
+     },
+     {
+      "@type": "Person",
+      "name": "Lyna Khoudri"
+     },
+     {
+      "@type": "Person",
+      "name": "Sigrid Bouaziz"
+     },
+     {
+      "@type": "Person",
+      "name": "Alice Da Luz Gomes"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 45,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Carême (2025) is a Drama and Mystery TV series. Explore its story: Witness the rise of the world's first celebrity chef…, cast, 1 season, and 8 episodes.",
+    "genre": [
+     "Drama",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7vUmiPhYSgduTvGfRMZ4SdyTWKl.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=231001",
+    "name": "Carême",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 1,
+    "startDate": "2025-04-30",
+    "url": "https://flickatlas.co.uk/show?id=231001"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Carême (2025)</h1>\n<p class=\"ssr-lead\">Witness the rise of the world&#x27;s first celebrity chef, Antonin Carême, and his descent into espionage in Napoleon-era France—where manipulation is king. With his gifts for gastronomy and seduction, he becomes the perfect weapon in a fight for power.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 30 April 2025</li><li>Seasons: 1 · Episodes: 8</li><li>Created by: Davide Serino, Ian Kelly</li><li>Genres: Drama, Mystery, War &amp; Politics</li><li>TMDB rating: 7.4/10 (45 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Benjamin Voisin as Antonin Carême</li><li>Jérémie Renier as Charles-Maurice de Talleyrand-Périgord</li><li>Lyna Khoudri as Henriette Mahy de Chitenay</li><li>Sigrid Bouaziz as Catherine Grand</li><li>Alice Da Luz Gomes as Agathe</li><li>Pablo Cobo as Charles De Flahaut</li><li>Micha Lescot as Joseph Fouché</li><li>Juliette Armanet as Germaine De Stael</li><li>Arthur Mazet as Louis Bonaparte</li><li>Lily Taïeb as Hortense de Beauharnais</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Apple TV, Apple TV Amazon Channel</li></ul>\n</article>",
+   "t": "Carême (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:254701": {
+   "d": "Atomic (2025) is an Action & Adventure and Drama TV series. Explore its story: When the path of free-spirited drug smuggler Max…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/1PMrsy2oeuVPEhefvOwJnHbDNCT.jpg",
+   "industry": "world",
+   "k": "Atomic, Atomic TV series, Atomic cast, Atomic story, Atomic seasons, Atomic episodes, Atomic season 1, Atomic 5 episodes, Atomic first air date, Atomic trailer, Atomic Action & Adventure, Atomic Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alfie Allen"
+     },
+     {
+      "@type": "Person",
+      "name": "Shazad Latif"
+     },
+     {
+      "@type": "Person",
+      "name": "Samira Wiley"
+     },
+     {
+      "@type": "Person",
+      "name": "Avital Lvova"
+     },
+     {
+      "@type": "Person",
+      "name": "Stuart Martin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 38,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Atomic (2025) is an Action & Adventure and Drama TV series. Explore its story: When the path of free-spirited drug smuggler Max…, cast, and 1 season.",
+    "genre": [
+     "Action & Adventure",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1PMrsy2oeuVPEhefvOwJnHbDNCT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=254701",
+    "name": "Atomic",
+    "numberOfEpisodes": 5,
+    "numberOfSeasons": 1,
+    "startDate": "2025-08-28",
+    "url": "https://flickatlas.co.uk/show?id=254701"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Atomic (2025)</h1>\n<p class=\"ssr-lead\">When the path of free-spirited drug smuggler Max collides with JJ, an enigmatic outsider on the run, an unlikely friendship is formed. They&#x27;re swept into a chaotic, high-stakes mission they never signed up for, trafficking highly enriched uranium across North Africa and the Middle East, with the CIA, MI6, and a global web of opposing forces closing in fast.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 28 August 2025</li><li>Seasons: 1 · Episodes: 5</li><li>Created by: Gregory Burke, Alfie Allen, Shazad Latif, Samira Wiley</li><li>Genres: Action &amp; Adventure, Drama</li><li>TMDB rating: 5.9/10 (38 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alfie Allen as Max</li><li>Shazad Latif as JJ / Mohammed</li><li>Samira Wiley as Cassie Elliott</li><li>Avital Lvova as Oksana Shirokova</li><li>Stuart Martin as Rab Mackintosh</li><li>Franklin Vírgüez as Antonio Alam</li><li>Charlie Murphy as Laetitia</li><li>Brian Gleeson as Mark Ellis</li><li>Vahid Gold as Khaled Awad</li><li>Akin Gazi as Sayed Ahman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu</li></ul>\n</article>",
+   "t": "Atomic (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:258901": {
+   "d": "SANDA (2025) is an Animation and Action & Adventure TV series. Explore its story: In near-future Japan with ultra-low birthrates…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/ybdN4cyWBlfgamgYca2XwYL2Kqn.jpg",
+   "industry": "world",
+   "k": "SANDA, SANDA TV series, SANDA cast, SANDA story, SANDA seasons, SANDA episodes, SANDA season 1, SANDA 12 episodes, SANDA first air date, SANDA Animation, SANDA Action & Adventure, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ayumu Murase"
+     },
+     {
+      "@type": "Person",
+      "name": "Hiroki Touchi"
+     },
+     {
+      "@type": "Person",
+      "name": "Umeka Shoji"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Nagase"
+     },
+     {
+      "@type": "Person",
+      "name": "Yuuki Shin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 45,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "SANDA (2025) is an Animation and Action & Adventure TV series. Explore its story: In near-future Japan with ultra-low birthrates…, cast, and 1 season.",
+    "genre": [
+     "Animation",
+     "Action & Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ybdN4cyWBlfgamgYca2XwYL2Kqn.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=258901",
+    "name": "SANDA",
+    "numberOfEpisodes": 12,
+    "numberOfSeasons": 1,
+    "startDate": "2025-10-04",
+    "url": "https://flickatlas.co.uk/show?id=258901"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>SANDA (2025)</h1>\n<p class=\"ssr-lead\">In near-future Japan with ultra-low birthrates, children are treasured but monitored. Santa is banned as dangerous. One snowy December 25th, middle-schooler Kazushige Sanda, descendant of Santa, is attacked by classmate Fuyumura who wants him to find her missing friend, Ono. &quot;Santa, please find my friend.&quot; To protect children from adults, Sanda decides to become Santa and fight the adults.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 4 October 2025</li><li>Seasons: 1 · Episodes: 12</li><li>Genres: Animation, Action &amp; Adventure, Mystery</li><li>TMDB rating: 7.6/10 (45 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ayumu Murase as Kazushige Sanda (voice)</li><li>Hiroki Touchi as Santa Claus (voice)</li><li>Umeka Shoji as Shiori Fuyumura (voice)</li><li>Anna Nagase as Ichie Ono (voice)</li><li>Yuuki Shin as Hitoshi Amaya (voice)</li><li>Misato Matsuoka as Nico Kazao (voice)</li><li>Toshihiko Seki as Hifumi Ōshibu (voice)</li><li>Hiroaki Hirata as Saburō Yagiuda (voice)</li><li>Masako Nozawa as Toyo Tetsudome (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "SANDA (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:279601": {
+   "d": "Man vs Baby (2025) is a Comedy and Family TV series. Explore its story: As Christmas approaches, a blundering-all-the-way dad…, cast, 1 season, and 4 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/lSffVt0etoSLyl2hsTREdJ1CnQ1.jpg",
+   "industry": "world",
+   "k": "Man vs Baby, Man vs Baby TV series, Man vs Baby cast, Man vs Baby story, Man vs Baby seasons, Man vs Baby episodes, Man vs Baby season 1, Man vs Baby 4 episodes, Man vs Baby first air date, Man vs Baby trailer, Man vs Baby Comedy, Man vs Baby Family, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rowan Atkinson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 248,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Man vs Baby (2025) is a Comedy and Family TV series. Explore its story: As Christmas approaches, a blundering-all-the-way dad…, cast, 1 season, and 4 episodes.",
+    "genre": [
+     "Comedy",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lSffVt0etoSLyl2hsTREdJ1CnQ1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=279601",
+    "name": "Man vs Baby",
+    "numberOfEpisodes": 4,
+    "numberOfSeasons": 1,
+    "startDate": "2025-12-11",
+    "url": "https://flickatlas.co.uk/show?id=279601"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Man vs Baby (2025)</h1>\n<p class=\"ssr-lead\">As Christmas approaches, a blundering-all-the-way dad juggles housesitting a posh London penthouse with an unexpected pickle: caring for a lost baby.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 11 December 2025</li><li>Seasons: 1 · Episodes: 4</li><li>Created by: Rowan Atkinson, William Davies</li><li>Genres: Comedy, Family</li><li>TMDB rating: 6.8/10 (248 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rowan Atkinson as Trevor Bingley</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Man vs Baby (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:281401": {
+   "d": "Finding Her Edge (2026) is a Drama TV series. Explore its story: A former ice dancer returns to the rink with an…, cast, 1 season, and 8 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/3aeYYriPQN7886in9bIGKnbC5eQ.jpg",
+   "industry": "world",
+   "k": "Finding Her Edge, Finding Her Edge TV series, Finding Her Edge cast, Finding Her Edge story, Finding Her Edge seasons, Finding Her Edge episodes, Finding Her Edge season 1, Finding Her Edge 8 episodes, Finding Her Edge first air date, Finding Her Edge trailer, Finding Her Edge Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Madelyn Keys"
+     },
+     {
+      "@type": "Person",
+      "name": "Alice Malakhov"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexandra Beaton"
+     },
+     {
+      "@type": "Person",
+      "name": "Harmon Walsh"
+     },
+     {
+      "@type": "Person",
+      "name": "Cale Ambrozic"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 84,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Finding Her Edge (2026) is a Drama TV series. Explore its story: A former ice dancer returns to the rink with an…, cast, 1 season, and 8 episodes.",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3aeYYriPQN7886in9bIGKnbC5eQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=281401",
+    "name": "Finding Her Edge",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 1,
+    "startDate": "2026-01-22",
+    "url": "https://flickatlas.co.uk/show?id=281401"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Finding Her Edge (2026)</h1>\n<p class=\"ssr-lead\">A former ice dancer returns to the rink with an exciting new partner while holding onto feelings for her old one — her first love.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 22 January 2026</li><li>Seasons: 1 · Episodes: 8</li><li>Genres: Drama</li><li>TMDB rating: 7.6/10 (84 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Madelyn Keys as Adriana Russo</li><li>Alice Malakhov as Maria Russo</li><li>Alexandra Beaton as Elise Russo</li><li>Harmon Walsh as Will Russo</li><li>Cale Ambrozic as Brayden Elliot</li><li>Olly Atkins as Freddie O&#x27;Connell</li><li>Meredith Forlenza as Camille St-Denis</li><li>Niko Ceci as Charlie Monroe</li><li>Millie Davis as Riley Monroe</li><li>Yona Epstein-Roth as JJ Harmon</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Finding Her Edge (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:285801": {
+   "d": "Suspicious Minds (2025) is an Action & Adventure and Crime TV series. Explore its story: Amber, a brilliant thief, arrives on Isla Esperanza… and cast.",
+   "img": "https://image.tmdb.org/t/p/w780/fDZD0VDgFpgSa8X94kaOELx6Xqe.jpg",
+   "industry": "world",
+   "k": "Suspicious Minds, Suspicious Minds TV series, Suspicious Minds cast, Suspicious Minds story, Suspicious Minds seasons, Suspicious Minds episodes, Suspicious Minds season 1, Suspicious Minds 6 episodes, Suspicious Minds first air date, Suspicious Minds trailer, Suspicious Minds Action & Adventure, Suspicious Minds Crime, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Silvia Alonso"
+     },
+     {
+      "@type": "Person",
+      "name": "Álex González"
+     },
+     {
+      "@type": "Person",
+      "name": "Asier Etxeandia"
+     },
+     {
+      "@type": "Person",
+      "name": "Antonio Pagudo"
+     },
+     {
+      "@type": "Person",
+      "name": "Olga Hueso"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 28,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Suspicious Minds (2025) is an Action & Adventure and Crime TV series. Explore its story: Amber, a brilliant thief, arrives on Isla Esperanza… and cast.",
+    "genre": [
+     "Action & Adventure",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fDZD0VDgFpgSa8X94kaOELx6Xqe.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=285801",
+    "name": "Suspicious Minds",
+    "numberOfEpisodes": 6,
+    "numberOfSeasons": 1,
+    "startDate": "2025-06-13",
+    "url": "https://flickatlas.co.uk/show?id=285801"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Suspicious Minds (2025)</h1>\n<p class=\"ssr-lead\">Amber, a brilliant thief, arrives on Isla Esperanza with the aim of stealing the valuable Tiara of Santa Águeda, but her plan is complicated by the unexpected reappearance of Rui, her former partner who did not hesitate to betray her in the past. Now, the hardest thing will be to trust each other and accept that love may be the biggest treasure of their lives.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 13 June 2025</li><li>Seasons: 1 · Episodes: 6</li><li>Created by: Verónica Marzá, Pablo Roa, Fernando Sancristóbal</li><li>Genres: Action &amp; Adventure, Crime, Drama</li><li>TMDB rating: 7.1/10 (28 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Silvia Alonso as Amber</li><li>Álex González as Rui</li><li>Asier Etxeandia as Emilio Villegas</li><li>Antonio Pagudo as Julio</li><li>Olga Hueso as Pilar</li><li>Albert Baró as Javito</li><li>Alicia Jaziz Zapién as Lucía</li><li>Jan Buxaderas as Jaume</li><li>Eduardo Gómez as Edgar</li><li>Cumelén Sanz as Saveria</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus, Hulu</li></ul>\n</article>",
+   "t": "Suspicious Minds (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:286801": {
+   "d": "Monster: The Ed Gein Story (2025) is a Crime and Drama TV series. Explore its story: The shocking true-life tale of Ed Gein, the infamous…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/cm2oUAPiTE1ERoYYOzzgloQw4YZ.jpg",
+   "industry": "world",
+   "k": "Monster: The Ed Gein Story, Monster: The Ed Gein Story TV series, Monster: The Ed Gein Story cast, Monster: The Ed Gein Story story, Monster: The Ed Gein Story seasons, Monster: The Ed Gein Story episodes, Monster: The Ed Gein Story season 1, Monster: The Ed Gein Story 8 episodes, Monster: The Ed Gein Story first air date, Monster: The Ed Gein Story trailer, Monster: The Ed Gein Story Crime, Monster: The Ed Gein Story Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Charlie Hunnam"
+     },
+     {
+      "@type": "Person",
+      "name": "Suzanna Son"
+     },
+     {
+      "@type": "Person",
+      "name": "Vicky Krieps"
+     },
+     {
+      "@type": "Person",
+      "name": "Laurie Metcalf"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 609,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Monster: The Ed Gein Story (2025) is a Crime and Drama TV series. Explore its story: The shocking true-life tale of Ed Gein, the infamous…, cast, and 1 season.",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cm2oUAPiTE1ERoYYOzzgloQw4YZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=286801",
+    "name": "Monster: The Ed Gein Story",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 1,
+    "startDate": "2025-10-03",
+    "url": "https://flickatlas.co.uk/show?id=286801"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Monster: The Ed Gein Story (2025)</h1>\n<p class=\"ssr-lead\">The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood&#x27;s most iconic on-screen killers.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 3 October 2025</li><li>Seasons: 1 · Episodes: 8</li><li>Created by: Ian Brennan</li><li>Genres: Crime, Drama</li><li>TMDB rating: 7.3/10 (609 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Charlie Hunnam as Ed Gein</li><li>Suzanna Son as Adeline Watkins</li><li>Vicky Krieps as Ilse Koch</li><li>Laurie Metcalf as Augusta Gein</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Monster: The Ed Gein Story (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:301001": {
+   "d": "Mrs Playmen (2025) is a Drama TV series. Explore its story: Betrayed by her husband, a woman must step up and run…, cast, 1 season, and 7 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/rk93UkcE9kw6cHiaYFcWQvNUuuq.jpg",
+   "industry": "world",
+   "k": "Mrs Playmen, Mrs Playmen TV series, Mrs Playmen cast, Mrs Playmen story, Mrs Playmen seasons, Mrs Playmen episodes, Mrs Playmen season 1, Mrs Playmen 7 episodes, Mrs Playmen first air date, Mrs Playmen trailer, Mrs Playmen Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Carolina Crescentini"
+     },
+     {
+      "@type": "Person",
+      "name": "Filippo Nigro"
+     },
+     {
+      "@type": "Person",
+      "name": "Giuseppe Maggio"
+     },
+     {
+      "@type": "Person",
+      "name": "Francesca Colucci"
+     },
+     {
+      "@type": "Person",
+      "name": "Domenico Diele"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 37,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Mrs Playmen (2025) is a Drama TV series. Explore its story: Betrayed by her husband, a woman must step up and run…, cast, 1 season, and 7 episodes.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Riccardo Donna"
+     }
+    ],
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rk93UkcE9kw6cHiaYFcWQvNUuuq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=301001",
+    "name": "Mrs Playmen",
+    "numberOfEpisodes": 7,
+    "numberOfSeasons": 1,
+    "startDate": "2025-11-12",
+    "url": "https://flickatlas.co.uk/show?id=301001"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mrs Playmen (2025)</h1>\n<p class=\"ssr-lead\">Betrayed by her husband, a woman must step up and run an erotic magazine that becomes a symbol of empowerment in &#x27;70s Rome. Inspired by true events.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 12 November 2025</li><li>Seasons: 1 · Episodes: 7</li><li>Created by: Mario Ruggeri, Eleonora Cimpanelli, Chiara Laudani, Sergio Leszczynski, Alessandro Sermoneta</li><li>Director: Riccardo Donna</li><li>Genres: Drama</li><li>TMDB rating: 7.1/10 (37 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Carolina Crescentini as Adelina Tattilo</li><li>Filippo Nigro as Chartroux</li><li>Giuseppe Maggio as Luigi Poggi</li><li>Francesca Colucci as Elsa</li><li>Domenico Diele as Andrea De Cesari</li><li>Francesco Colella as Saro Balsamo</li><li>Lidia Vitale as Lella</li><li>Giampiero Judica as Don Rocco</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Mrs Playmen (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:314501": {
+   "d": "Wolf: Die Killing (2026) is a Drama TV series. Explore its story: Lobo Rosales, a former detective, becomes a guardian…, cast, 1 season, and 70 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/u02HWY6r5DvGfq82jefpQabletf.jpg",
+   "industry": "world",
+   "k": "Wolf: Die Killing, Wolf: Die Killing TV series, Wolf: Die Killing cast, Wolf: Die Killing story, Wolf: Die Killing seasons, Wolf: Die Killing episodes, Wolf: Die Killing season 1, Wolf: Die Killing 70 episodes, Wolf: Die Killing first air date, Wolf: Die Killing Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Arap Bethke"
+     },
+     {
+      "@type": "Person",
+      "name": "Fátima Molina"
+     },
+     {
+      "@type": "Person",
+      "name": "Alejandro de la Madrid"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 45,
+     "ratingValue": 8.9,
+     "worstRating": 0
+    },
+    "description": "Wolf: Die Killing (2026) is a Drama TV series. Explore its story: Lobo Rosales, a former detective, becomes a guardian…, cast, 1 season, and 70 episodes.",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/u02HWY6r5DvGfq82jefpQabletf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=314501",
+    "name": "Wolf: Die Killing",
+    "numberOfEpisodes": 70,
+    "numberOfSeasons": 1,
+    "startDate": "2026-02-17",
+    "url": "https://flickatlas.co.uk/show?id=314501"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wolf: Die Killing (2026)</h1>\n<p class=\"ssr-lead\">Lobo Rosales, a former detective, becomes a guardian to the daughter of a woman he once loved. He must flee with young Renata when he discovers that she holds the key to a hidden fortune that many criminals are willing to kill to find.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 17 February 2026</li><li>Seasons: 1 · Episodes: 70</li><li>Created by: Indira Páez</li><li>Genres: Drama</li><li>TMDB rating: 8.9/10 (45 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Arap Bethke as Damián Rosales &#x27;Lobo&#x27;</li><li>Fátima Molina as Antonia Lazo</li><li>Alejandro de la Madrid as Hernando Cruz</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, Peacock Premium, YouTube TV, Spectrum On Demand, Peacock Premium Plus</li></ul>\n</article>",
+   "t": "Wolf: Die Killing (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
   "tv:33001": {
    "d": "Haven (2010) is a Drama and Sci-Fi & Fantasy TV series. Explore its story: FBI agent Audrey Parker arrives in the small town of…, cast, and 5 seasons.",
    "img": "https://image.tmdb.org/t/p/w780/jg3iq5KFCVrYHVZrPLqznKW2Fz0.jpg",
@@ -1257,6 +1736,116 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Haven (2010)</h1>\n<p class=\"ssr-lead\">FBI agent Audrey Parker arrives in the small town of Haven, Maine to solve a murder and soon discovers the town&#x27;s many secrets—which also hold the key to unlocking the mysteries of her lost past.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 9 July 2010</li><li>Seasons: 5 · Episodes: 78</li><li>Created by: Jim Dunn, Sam Ernst</li><li>Genres: Drama, Sci-Fi &amp; Fantasy, Mystery</li><li>TMDB rating: 7.5/10 (523 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Emily Rose as Audrey Parker</li><li>Lucas Bryant as Nathan Wournos</li><li>Eric Balfour as Duke Crocker</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Movie Sphere+</li></ul>\n</article>",
    "t": "Haven (2010) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2010"
+  },
+  "tv:332401": {
+   "d": "City of Blood (2026) is a Mystery TV series. Explore its story: Berlin — a city-state on the brink. While a…, cast, 1 season, and 8 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/icPBB9V5IX1hggtNs1fvskP2lsi.jpg",
+   "industry": "world",
+   "k": "City of Blood, City of Blood TV series, City of Blood cast, City of Blood story, City of Blood seasons, City of Blood episodes, City of Blood season 1, City of Blood 8 episodes, City of Blood first air date, City of Blood trailer, City of Blood Mystery, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lea Drinda"
+     },
+     {
+      "@type": "Person",
+      "name": "Soma Pysall"
+     },
+     {
+      "@type": "Person",
+      "name": "Franz Hartwig"
+     },
+     {
+      "@type": "Person",
+      "name": "David Schütter"
+     },
+     {
+      "@type": "Person",
+      "name": "Mouataz Alshaltouh"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 28,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "City of Blood (2026) is a Mystery TV series. Explore its story: Berlin — a city-state on the brink. While a…, cast, 1 season, and 8 episodes.",
+    "genre": [
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/icPBB9V5IX1hggtNs1fvskP2lsi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=332401",
+    "name": "City of Blood",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 1,
+    "startDate": "2026-09-16",
+    "url": "https://flickatlas.co.uk/show?id=332401"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>City of Blood (2026)</h1>\n<p class=\"ssr-lead\">Berlin — a city-state on the brink. While a privileged few live beneath a climate-controlled dome, those outside struggle to survive in a world ravaged by heat, corruption, and crime. After years apart, sisters Bea and Phoebe are reunited and uncover a dark secret: Vampires are determined to seize political power — and blood has become the city&#x27;s new currency.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 16 September 2026</li><li>Seasons: 1 · Episodes: 8</li><li>Created by: Philipp Kadelbach, Елена Любарская</li><li>Genres: Mystery</li><li>TMDB rating: 6.1/10 (28 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lea Drinda as Bea Hoffmann</li><li>Soma Pysall as Phoebe Kaya</li><li>Franz Hartwig as Johan Moderson</li><li>David Schütter as Oliver Lawal</li><li>Mouataz Alshaltouh as Yassin</li><li>Jördis Triebel as Laura Hoffmann</li><li>Jenny Schily as Szen</li><li>Lars Eidinger as Zeno Gennardi</li><li>Melika Foroutan as Farah Lawal</li><li>Dagmar Manzel as Hilda Klein</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus, Hulu</li></ul>\n</article>",
+   "t": "City of Blood (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:333101": {
+   "d": "Treasure Island (2026) is an Action & Adventure TV series. Explore its story: Young Jim Hawkins and his mother Bess come into…, cast, 1 season, and 6 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/grC6bTUTeVvjZ2orztjItUxM4yy.jpg",
+   "industry": "world",
+   "k": "Treasure Island, Treasure Island TV series, Treasure Island cast, Treasure Island story, Treasure Island seasons, Treasure Island episodes, Treasure Island season 1, Treasure Island 6 episodes, Treasure Island first air date, Treasure Island trailer, Treasure Island Action & Adventure, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "David Oyelowo"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Sweet"
+     },
+     {
+      "@type": "Person",
+      "name": "Tomer Capone"
+     },
+     {
+      "@type": "Person",
+      "name": "Craige Els"
+     },
+     {
+      "@type": "Person",
+      "name": "Neil Pendleton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 45,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Treasure Island (2026) is an Action & Adventure TV series. Explore its story: Young Jim Hawkins and his mother Bess come into…, cast, 1 season, and 6 episodes.",
+    "genre": [
+     "Action & Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/grC6bTUTeVvjZ2orztjItUxM4yy.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=333101",
+    "name": "Treasure Island",
+    "numberOfEpisodes": 6,
+    "numberOfSeasons": 1,
+    "startDate": "2026-10-11",
+    "url": "https://flickatlas.co.uk/show?id=333101"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Treasure Island (2026)</h1>\n<p class=\"ssr-lead\">Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 11 October 2026</li><li>Seasons: 1 · Episodes: 6</li><li>Created by: Robert Murphy</li><li>Genres: Action &amp; Adventure</li><li>TMDB rating: 6.7/10 (45 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Oyelowo as Long John Silver</li><li>Tom Sweet as Jim Hawkins</li><li>Tomer Capone as Billy Bones</li><li>Craige Els as Mr. Arrow</li><li>Neil Pendleton as Mr. Cameron</li><li>George Frost as Meg Monahan</li><li>Mayen Mehta as Mr. Khan</li><li>Tadhg Murphy as Mr. Baker</li><li>Tristan Sturrock as Captain Smollett</li><li>Jack Huston as Aaron Graham</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, MGM+ Amazon Channel, Philo, MGM Plus</li></ul>\n</article>",
+   "t": "Treasure Island (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
   },
   "tv:43901": {
    "d": "Longmire (2012) is a Western and Crime TV series. Explore its story: A Wyoming sheriff rebuilds his life and career…, cast, 6 seasons, and 63 episodes.",

@@ -1,6 +1,6 @@
 {
  "bucket": "26",
- "count": 24,
+ "count": 35,
  "titles": {
   "movie:10426": {
    "backdrop_path": "/bfnQPbcmPAXO2QmDONalx4vNWPB.jpg",
@@ -784,120 +784,6 @@
    "type": "movie",
    "vote_average": 6.792,
    "vote_count": 276
-  },
-  "movie:1561726": {
-   "backdrop_path": "/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Roger",
-     "n": "Stanley Tucci"
-    },
-    {
-     "c": "Chiara",
-     "n": "Simona Tabasco"
-    },
-    {
-     "c": "Jay",
-     "n": "Victor Belmondo"
-    },
-    {
-     "c": "",
-     "n": "Eliott Margueron"
-    },
-    {
-     "c": "Professor",
-     "n": "Barbara Lo Gaglio"
-    },
-    {
-     "c": "French Spook Officer",
-     "n": "Etienne Guillou-Kervern"
-    },
-    {
-     "c": "Bruno's Bodyguard",
-     "n": "Srbo Markovic"
-    },
-    {
-     "c": "TV Reporter",
-     "n": "Julia Messina"
-    },
-    {
-     "c": "Bruno",
-     "n": "Mark Ivanir"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Thomas Vincent"
-   ],
-   "genres": [
-    "Action",
-    "Thriller"
-   ],
-   "id": 1561726,
-   "industry": "world",
-   "origin_country": [
-    "FR",
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
-   "popularity": 41.4335,
-   "poster_path": "/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-   "production_countries": [
-    "FR",
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "Amazon Prime Video"
-    },
-    {
-     "name": "Amazon Prime Video with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-     "name": "Amazon Prime Video",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-     "name": "Amazon Prime Video with Ads",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-16",
-   "revenue": 0,
-   "runtime": 110,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en",
-    "fr",
-    "it",
-    "de"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Masterplan",
-   "trailer": {
-    "key": "gc0t8AfMP6k",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 6.763,
-   "vote_count": 244
   },
   "movie:1684226": {
    "backdrop_path": "/es6wAAA72qIKGecMggiRZNQK0fa.jpg",
@@ -1895,6 +1781,385 @@
    "vote_average": 6.983,
    "vote_count": 270
   },
+  "tv:223326": {
+   "backdrop_path": "/wyCQovekJ10HnmqCE3lPNaoGDde.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Seo Munju",
+     "n": "Gianna Jun"
+    },
+    {
+     "c": "Paik Sanho",
+     "n": "Gang Dong-won"
+    },
+    {
+     "c": "Lim Okseon",
+     "n": "Lee Mi-sook"
+    },
+    {
+     "c": "Jang Junik",
+     "n": "Park Hae-joon"
+    },
+    {
+     "c": "Jang Jun-sang",
+     "n": "Oh Jung-se"
+    },
+    {
+     "c": "Yeo Mi-ji",
+     "n": "Lee Sang-hee"
+    },
+    {
+     "c": "Park Chang-hee",
+     "n": "Joo Jong-hyuk"
+    },
+    {
+     "c": "Father Yang",
+     "n": "Park In-hwan"
+    },
+    {
+     "c": "Hwa Rim",
+     "n": "Jung Young-sook"
+    },
+    {
+     "c": "Ethan",
+     "n": "Christopher Gorham"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "Hulu",
+   "created_by": [],
+   "director": [
+    "Kim Hee-won"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-10",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 223326,
+   "industry": "world",
+   "networks": [
+    "Hulu",
+    "Disney+"
+   ],
+   "number_of_episodes": 9,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR",
+    "US"
+   ],
+   "original_language": "ko",
+   "overview": "Seo Munju, a highly accomplished diplomat and former ambassador to the United Nations, and Sanho, an international special agent shrouded in a veil of secrets, race to uncover the truth behind an attack that threatens the future stability of the Korean peninsula.",
+   "popularity": 6.2755,
+   "poster_path": "/cCSOw482P0el3ioDnZEDhggrQoj.jpg",
+   "production_countries": [
+    "KR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-10",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Who can you trust? What will you protect?",
+   "title": "Tempest",
+   "trailer": {
+    "key": "YEz4SuMI1-Q",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.605,
+   "vote_count": 86
+  },
+  "tv:230926": {
+   "backdrop_path": "/nipbnsKUPLeylYhYdW0DwMtSmFt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jang Siyul",
+     "n": "Rowoon"
+    },
+    {
+     "c": "Choi Eun",
+     "n": "Shin Ye-eun"
+    },
+    {
+     "c": "Jung-chun",
+     "n": "Park Seo-ham"
+    },
+    {
+     "c": "Mudeok",
+     "n": "Park Ji-hwan"
+    },
+    {
+     "c": "",
+     "n": "Jeon Bae-soo"
+    },
+    {
+     "c": "",
+     "n": "Choi Won-young"
+    },
+    {
+     "c": "",
+     "n": "Choi Gwi-hwa"
+    },
+    {
+     "c": "Malbok",
+     "n": "Ahn Seung-gyun"
+    },
+    {
+     "c": "Jung-Bok",
+     "n": "Kim Cheol-yun"
+    },
+    {
+     "c": "Seom Seom [Eun's aide]",
+     "n": "Cho Yu-jin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "Disney+",
+   "created_by": [
+    "Chun Sung-il"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-26",
+   "genres": [
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 230926,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 9,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "The fates of a man with a hidden past, a wise and just woman, and an upright man intertwine.",
+   "popularity": 3.3051,
+   "poster_path": "/gj1Qde71tlF5ylNCfOHuanWw48J.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-26",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Murky Stream",
+   "trailer": {
+    "key": "vfA3eoYWDPQ",
+    "name": "Teaser Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.855,
+   "vote_count": 31
+  },
+  "tv:239826": {
+   "backdrop_path": "/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Detective Renée Ballard",
+     "n": "Maggie Q"
+    },
+    {
+     "c": "Samira Parker",
+     "n": "Courtney Taylor"
+    },
+    {
+     "c": "Thomas Laffont",
+     "n": "John Carroll Lynch"
+    },
+    {
+     "c": "Ted Rawls",
+     "n": "Michael Mosley"
+    },
+    {
+     "c": "Colleen Hatteras",
+     "n": "Rebecca Field"
+    },
+    {
+     "c": "Martina Castro",
+     "n": "Victoria Moroles"
+    },
+    {
+     "c": "Tutu",
+     "n": "Amy Hill"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Prime Video",
+   "created_by": [
+    "Kendall Sherwood"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-09",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 239826,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Detective Renée Ballard plunges into a web of murder and corruption as she hunts a ruthless serial killer and uncovers a sinister police conspiracy that threatens everything she stands for. With her own demons nipping at her heels, Ballard must outwit both criminals and colleagues to bring long-overdue justice to the victims and their families.",
+   "popularity": 9.6056,
+   "poster_path": "/vHQGu6ducKC7JcDU6lqWyx7tWW5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-09",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "She's the last chance for lost hopes.",
+   "title": "Ballard",
+   "trailer": {
+    "key": "9nKRJGXgK0Q",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.248,
+   "vote_count": 210
+  },
   "tv:2426": {
    "backdrop_path": "/38g8BjnbRpxdTER5guYi6ANWsjk.jpg",
    "budget": 0,
@@ -2053,6 +2318,1069 @@
    "type": "tv",
    "vote_average": 7.842,
    "vote_count": 1048
+  },
+  "tv:246026": {
+   "backdrop_path": "/onha1ViNuO04qLSSASx7hZC6TD3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Beto",
+     "n": "Manuel Masalva"
+    },
+    {
+     "c": "Gloria",
+     "n": "Mayra Hermosillo"
+    },
+    {
+     "c": "Crisanto Navarro",
+     "n": "Hector Kotsifakis"
+    },
+    {
+     "c": "Padre Murphy",
+     "n": "Sebastian Roché"
+    },
+    {
+     "c": "Nico",
+     "n": "Harold Torres"
+    },
+    {
+     "c": "Camila",
+     "n": "Regina Nava"
+    },
+    {
+     "c": "Archi",
+     "n": "Andrew Leland Rogers"
+    },
+    {
+     "c": "",
+     "n": "Dagoberto Gama"
+    },
+    {
+     "c": "",
+     "n": "Gerardo Trejoluna"
+    },
+    {
+     "c": "",
+     "n": "Paulina Dávila"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-09",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 246026,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX",
+    "US"
+   ],
+   "original_language": "es",
+   "overview": "A top Mexican police unit hunts down fleeing U.S. fugitives as a nefarious scheme unfolds within their force.",
+   "popularity": 4.5853,
+   "poster_path": "/whbIGlMfi4gvJD2kyZ1PUtzURnn.jpg",
+   "production_countries": [
+    "MX",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-09",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Gringo Hunters",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.576,
+   "vote_count": 33
+  },
+  "tv:248226": {
+   "backdrop_path": "/5ZgPQjEsJqCwRtx6vsBBISxn389.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ed McCusker",
+     "n": "Connor Swindells"
+    },
+    {
+     "c": "Dick Marquise",
+     "n": "Patrick J. Adams"
+    },
+    {
+     "c": "Harry Bell",
+     "n": "Tony Curran"
+    },
+    {
+     "c": "Tom Thurman",
+     "n": "Eddie Marsan"
+    },
+    {
+     "c": "Moira Shearer",
+     "n": "Phyllis Logan"
+    },
+    {
+     "c": "June McCusker",
+     "n": "Lauren Lyle"
+    },
+    {
+     "c": "Kathryn Turman",
+     "n": "Merritt Wever"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "BBC One",
+   "created_by": [
+    "Jonathan Lee"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-18",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 248226,
+   "industry": "world",
+   "networks": [
+    "BBC One"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "On December 21, 1988, Pan Am Flight 103 exploded over the small Scottish town of Lockerbie, killing 270 people. What followed was the largest murder investigation in the history of Scottish policing, into the deadliest act of terrorism on British soil.",
+   "popularity": 5.0856,
+   "poster_path": "/jWMG8htFNfc4eeu9UcPszql3Xa6.jpg",
+   "production_countries": [
+    "DE",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-18",
+     "episode_count": 6,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Bombing of Pan Am 103",
+   "trailer": {
+    "key": "5fYWCkoDSeU",
+    "name": "Official Netflix Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.297,
+   "vote_count": 64
+  },
+  "tv:256226": {
+   "backdrop_path": "/iDnZoZvv220H6pigUWt3BlfPdxQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Baek Ah-jin",
+     "n": "Kim You-jung"
+    },
+    {
+     "c": "Yoon Joon-seo",
+     "n": "Kim Young-dae"
+    },
+    {
+     "c": "Kim Jae-oh",
+     "n": "Kim Do-hoon"
+    },
+    {
+     "c": "Lim Le-na",
+     "n": "Lee Yul-eum"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "TVING",
+   "created_by": [
+    "Ban Ji-woon"
+   ],
+   "director": [
+    "Lee Eung-bok",
+    "Park So-hyun"
+   ],
+   "episode_run_time": [
+    64
+   ],
+   "first_air_date": "2025-11-06",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 256226,
+   "industry": "world",
+   "networks": [
+    "TVING"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Behind a beautiful face hides a cruel nature—Baek Ah-jin, who sees through and manipulates others' hearts. After stepping on the sacrifices of many to reach the top, everything begins to change the moment she arrives there. A woman wearing a mask to escape hell and climb to the highest place. And the story of the Xs being brutally crushed by her.",
+   "popularity": 22.7838,
+   "poster_path": "/j2w2PZ5JHEv0HUXwrhsToYiTP4r.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Rakuten Viki"
+    },
+    {
+     "name": "CJ ENM Selects Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-06",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ny",
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "\"X\" Marks Her Next Victim.",
+   "title": "Dear X",
+   "trailer": {
+    "key": "4_s3l_jrEmM",
+    "name": "Dear X | Official Trailer | November 6 on #HBOMaxAsia",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.7,
+   "vote_count": 135
+  },
+  "tv:291926": {
+   "backdrop_path": "/2qe5IhZFWccV5r6lo6pB2R0fPUo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "David Sconce"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "HBO",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-01",
+   "genres": [
+    "Documentary",
+    "Crime"
+   ],
+   "id": 291926,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A trusted family-owned funeral home hides behind a façade of decency and propriety to take advantage of loved ones at their most vulnerable moments.",
+   "popularity": 2.1467,
+   "poster_path": "/vhJ3FFCtL5I3FKJmJ75WL5xdQgy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-01",
+     "episode_count": 3,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Death can make you a killing.",
+   "title": "The Mortician",
+   "trailer": {
+    "key": "H3PpoGH_Xlg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.1,
+   "vote_count": 27
+  },
+  "tv:294726": {
+   "backdrop_path": "/bx26v6trU13B2VfzSMfpMJe7OGb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Amy’s Mother",
+     "n": "Iva Bradley"
+    },
+    {
+     "c": "Self - Amy’s Father",
+     "n": "Ron Bradley"
+    },
+    {
+     "c": "Self - Amy’s Brother",
+     "n": "Brad Bradley"
+    },
+    {
+     "c": "Self - Special Agent FBI",
+     "n": "Erin Sheridan"
+    },
+    {
+     "c": "Self - Amy’s Childhood Friend",
+     "n": "Erin Cullather"
+    },
+    {
+     "c": "Self - Amy’s Friend",
+     "n": "Sarah Luck"
+    },
+    {
+     "c": "Self - Eyewitness",
+     "n": "David Carmichael"
+    },
+    {
+     "c": "Self - Cruise Director",
+     "n": "Kirk Detweiler"
+    },
+    {
+     "c": "Self - Harbor Police Chief, Curaçao",
+     "n": "Adtzere Mentar"
+    },
+    {
+     "c": "Self - Alister Douglas’ Daughter",
+     "n": "Amica Douglas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [
+    "Phil Lott",
+    "Ari Mark"
+   ],
+   "episode_run_time": [
+    49
+   ],
+   "first_air_date": "2025-07-16",
+   "genres": [
+    "Documentary",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 294726,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This true-crime series investigates the 1998 disappearance of a 23-year-old woman from a Caribbean cruise and her family's tireless search for answers.",
+   "popularity": 1.9504,
+   "poster_path": "/bS7hWmAGEFXbgSYyKqX0uapxWO7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-16",
+     "episode_count": 3,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Have you seen Amy?",
+   "title": "Amy Bradley Is Missing",
+   "trailer": {
+    "key": "8gKRbFpJRhQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.9,
+   "vote_count": 55
+  },
+  "tv:297826": {
+   "backdrop_path": "/irM3WhxOorkklhx5To9cfG2ktM6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Suh Joo-heon (voice)",
+     "n": "Hwang Chang-yung"
+    },
+    {
+     "c": "Irene Holton (voice)",
+     "n": "Lee Yu-ri"
+    },
+    {
+     "c": "Kwon Tae-joon (voice)",
+     "n": "Min Eung-sik"
+    },
+    {
+     "c": "Jae-Ha Yoo (voice)",
+     "n": "Shim Kyu-hyuck"
+    },
+    {
+     "c": "Julian Miller (japanse)",
+     "n": "Koseki Kogure"
+    },
+    {
+     "c": "Goriki Ryoga (voice)",
+     "n": "Yoshimasa Hosoya"
+    },
+    {
+     "c": "Irene Holton (voice)",
+     "n": "Saori Hayami"
+    },
+    {
+     "c": "Yanagi Kotaro (voice)",
+     "n": "Miyu Irino"
+    },
+    {
+     "c": "Ogawara Taisei (voice)",
+     "n": "Junichi Suwabe"
+    },
+    {
+     "c": "Kureha Noboru (voice)",
+     "n": "Nobuhiko Okamoto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Fuji TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-09",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 297826,
+   "industry": "world",
+   "networks": [
+    "Fuji TV"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Chaos ensues overnight when mysterious tombs suddenly surface, filled with divine relics granting overwhelming power, triggering a global power struggle to claim them for dominion. Among the havoc, a raider, Jooheon Suh, is betrayed and left for dead until a second chance brings him back years before the relics. Fueled by fury and future knowledge, he sets out to raid each tomb before they arise.",
+   "popularity": 12.5385,
+   "poster_path": "/xDW6cor12UD0b2IqboQWnrIn0UO.jpg",
+   "production_countries": [
+    "KR",
+    "JP",
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-09",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Anime",
+   "title": "Tomb Raider King",
+   "trailer": {
+    "key": "vwQY5heVraU",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.97,
+   "vote_count": 50
+  },
+  "tv:298026": {
+   "backdrop_path": "/t1lGQIFl5lAwxJ6yWtuONYJcWFL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Roland Wimbledon (voice)",
+     "n": "Chen Zhangtaikang"
+    },
+    {
+     "c": "Anna (voice)",
+     "n": "Qiao Su"
+    },
+    {
+     "c": "Barov (voice)",
+     "n": "Guo Zhengjian"
+    },
+    {
+     "c": "Carter Lannis (voice)",
+     "n": "Lu Lifeng"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "channel": "iQiyi",
+   "created_by": [],
+   "director": [
+    "Sun Meng"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-03",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 298026,
+   "industry": "world",
+   "networks": [
+    "iQiyi"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "Roland, a modern man reborn as a prince in the dangerous Border Town, rescues the witches Anna and Nana Pine from the Church. Harnessing their extraordinary powers, he fuses magic and technology to craft weapons, armies, and steam engines to defend his people. As the Demon Moon rises and conspiracies close in on his family, Roland must lead a revolution to protect his allies and reshape the world.",
+   "popularity": 4.7756,
+   "poster_path": "/ygXvdkB7Ue9ELUUlQe7wFh5fdJa.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-03",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Release that Witch",
+   "trailer": {
+    "key": "S4P2Mr_Cwys",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 21
+  },
+  "tv:300126": {
+   "backdrop_path": "/Ag6VnSAb1g02YWHYxYFKRUiBtnc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kanzaki Nao (voice)",
+     "n": "Saya Hitomi"
+    },
+    {
+     "c": "Akiyama Shinichi (voice)",
+     "n": "Takeo Otsuka"
+    },
+    {
+     "c": "Reronira (voice)",
+     "n": "Kazuhiro Nakaya"
+    },
+    {
+     "c": "Fujisawa Kazuo (voice)",
+     "n": "Nobuo Tobita"
+    },
+    {
+     "c": "Tanimura Mitsuo (voice)",
+     "n": "Yoji Ueda"
+    },
+    {
+     "c": "Eda Teruyuki (voice)",
+     "n": "Yasutaka Tomioka"
+    },
+    {
+     "c": "Kikuzawa Takahiro (voice)",
+     "n": "Shoya Ishige"
+    },
+    {
+     "c": "Kitamura Hiroto (voice)",
+     "n": "Ryosuke Asano"
+    },
+    {
+     "c": "Sato Tetsuzo (voice)",
+     "n": "Taro Kiuchi"
+    },
+    {
+     "c": "Tamura Makiko (voice)",
+     "n": "Riko Akechi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-04-07",
+   "genres": [
+    "Animation",
+    "Drama"
+   ],
+   "id": 300126,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo",
+    "TV Aichi",
+    "TVQ",
+    "TV Osaka",
+    "TVh",
+    "TSC"
+   ],
+   "number_of_episodes": 26,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "When Nao Kanzaki receives a strange letter and a suitcase containing 100 million yen, she learns that she has been selected to participate in the LIAR GAME. In this high-stakes psychological battle, lies, deception, and betrayal reign supreme. Naïve and honest, Nao turns to Shinichi Akiyama, a brilliant former con artist, to survive the twisted game. In a game built on lies, can honesty prevail?",
+   "popularity": 17.7117,
+   "poster_path": "/w8yyntTxZlDlZ2TR8kb4C92pmcO.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-07",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "Trust. Doubt.",
+   "title": "LIAR GAME",
+   "trailer": {
+    "key": "EAUcBiCydRc",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.25,
+   "vote_count": 24
+  },
+  "tv:301626": {
+   "backdrop_path": "/1erQOjm3PZP6PNVRIuxdNmesCBu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Charles Darnay",
+     "n": "François Civil"
+    },
+    {
+     "c": "Lucie Manette",
+     "n": "Mirren Mack"
+    },
+    {
+     "c": "Sydney Carton",
+     "n": "Kit Harington"
+    },
+    {
+     "c": "Hester Lorry",
+     "n": "Sharon Duncan-Brewster"
+    },
+    {
+     "c": "Alexandre Manette",
+     "n": "Guillaume Gallienne"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "MGM+",
+   "created_by": [
+    "Daniel West"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-09-06",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 301626,
+   "industry": "world",
+   "networks": [
+    "MGM+"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A pair of lookalikes, one a former French aristocrat and the other an alcoholic English lawyer, fall in love with the same woman amidst the turmoil of the French Revolution.",
+   "popularity": 5.9775,
+   "poster_path": "/ht3OVVRBTrTeVtUVQiKSekjIFVH.jpg",
+   "production_countries": [
+    "GB",
+    "FR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+     "name": "MGM Plus Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-09-06",
+     "episode_count": 4,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "A Tale of Two Cities",
+   "trailer": {
+    "key": "pf4sOGLOV9Y",
+    "name": "MGM+ Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.35,
+   "vote_count": 20
   },
   "tv:30826": {
    "backdrop_path": "/ho48HnguL11niYrqMETtP8A6SWY.jpg",

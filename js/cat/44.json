@@ -1,117 +1,7 @@
 {
  "bucket": "44",
- "count": 23,
+ "count": 33,
  "titles": {
-  "movie:1084244": {
-   "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-   "budget": 250000000,
-   "cast": [
-    {
-     "c": "Jessie (voice)",
-     "n": "Joan Cusack"
-    },
-    {
-     "c": "Woody (voice)",
-     "n": "Tom Hanks"
-    },
-    {
-     "c": "Buzz Lightyear (voice)",
-     "n": "Tim Allen"
-    },
-    {
-     "c": "Smarty Pants (voice)",
-     "n": "Conan O'Brien"
-    },
-    {
-     "c": "Bonnie (voice)",
-     "n": "Scarlett Spears"
-    },
-    {
-     "c": "Lilypad (voice)",
-     "n": "Greta Lee"
-    },
-    {
-     "c": "Snappy (voice)",
-     "n": "Shelby Rabara"
-    },
-    {
-     "c": "Blaze (voice)",
-     "n": "Mykal-Michelle Harris"
-    },
-    {
-     "c": "Atlas (voice)",
-     "n": "Craig Robinson"
-    },
-    {
-     "c": "Bonnie’s Dad (voice)",
-     "n": "Jay Hernandez"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U",
-   "date_kind": "release",
-   "director": [
-    "Andrew Stanton"
-   ],
-   "genres": [
-    "Animation",
-    "Family",
-    "Comedy",
-    "Adventure"
-   ],
-   "id": 1084244,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-   "popularity": 65.0797,
-   "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "JioHotstar"
-    },
-    {
-     "name": "Disney Plus"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-     "name": "JioHotstar",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-06-19",
-   "revenue": 1148032461,
-   "runtime": 102,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en",
-    "es"
-   ],
-   "status": "Released",
-   "tagline": "It's on.",
-   "title": "Toy Story 5",
-   "trailer": {
-    "key": "QftAW9TTmuQ",
-    "name": "Final Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 8.254,
-   "vote_count": 2871
-  },
   "movie:10944": {
    "backdrop_path": "/e1hIGr5HTAPPiHNs7fMlW2JMSPl.jpg",
    "budget": 12000000,
@@ -2131,6 +2021,1363 @@
    "type": "tv",
    "vote_average": 8.276,
    "vote_count": 263
+  },
+  "tv:229544": {
+   "backdrop_path": "/zoa11EvyuasC3j7PmH1QGftrSvf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Orange (voice)",
+     "n": "Yvette Nicole Brown"
+    },
+    {
+     "c": "Blue (voice)",
+     "n": "Dan Stevens"
+    },
+    {
+     "c": "Cyan (voice)",
+     "n": "Kimiko Glenn"
+    },
+    {
+     "c": "Black (voice)",
+     "n": "Liv Hewson"
+    },
+    {
+     "c": "Purple (voice)",
+     "n": "Ashley Johnson"
+    },
+    {
+     "c": "Lime (voice)",
+     "n": "Wayne Knight"
+    },
+    {
+     "c": "Brown (voice)",
+     "n": "Phil LaMarr"
+    },
+    {
+     "c": "Red (voice)",
+     "n": "Randall Park"
+    },
+    {
+     "c": "Yellow (voice)",
+     "n": "Debra Wilson"
+    },
+    {
+     "c": "Green (voice)",
+     "n": "Elijah Wood"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Paramount+",
+   "created_by": [
+    "Owen Dennis"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-06-05",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 229544,
+   "industry": "world",
+   "networks": [
+    "Paramount+"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Eccentric, monochromatic crewmates of a ship transporting junk across the galaxy must root out an Impostor in their midst before they fall victim to its villainous designs.",
+   "popularity": 9.9391,
+   "poster_path": "/ourBbG4B1dAjfFUCzuUYEZpR101.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-05",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Don't trust anyone.",
+   "title": "Among Us",
+   "trailer": {
+    "key": "sxIxOZnkPoc",
+    "name": "SGF Launch Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 9.002,
+   "vote_count": 214
+  },
+  "tv:244244": {
+   "backdrop_path": "/1jBYTcOuiPNJsTcfYk66bbVLSBz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Simon Greene",
+     "n": "James Nesbitt"
+    },
+    {
+     "c": "Isaac Fagbenle",
+     "n": "Alfred Enoch"
+    },
+    {
+     "c": "Ingrid Greene",
+     "n": "Minnie Driver"
+    },
+    {
+     "c": "Elena Ravenscroft",
+     "n": "Ruth Jones"
+    },
+    {
+     "c": "Paige Greene",
+     "n": "Ellie de Lange"
+    },
+    {
+     "c": "Cornelius Faber",
+     "n": "Lucian Msamati"
+    },
+    {
+     "c": "Ruby Todd",
+     "n": "Amy Gledhill"
+    },
+    {
+     "c": "Lou",
+     "n": "Annette Badland"
+    },
+    {
+     "c": "Ash",
+     "n": "Jon Pointing"
+    },
+    {
+     "c": "Dee Dee",
+     "n": "Maeve Courtier-Lilley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Harlan Coben"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-01",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 244244,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A desperate father searching for his runaway daughter gets caught up in a murder case — and stumbles upon secrets which could destroy his family for good.",
+   "popularity": 6.714,
+   "poster_path": "/frKxKytEHIA2vXg4RAz14Sc0UmS.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-01",
+     "episode_count": 8,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "How far will you go to bring her back?",
+   "title": "Run Away",
+   "trailer": {
+    "key": "-qSZJD2CrQY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.664,
+   "vote_count": 180
+  },
+  "tv:254544": {
+   "backdrop_path": "/kootCU91JSYiQZwkJgHgyb4tz9m.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Harlan Buckley",
+     "n": "Holt McCallany"
+    },
+    {
+     "c": "Bree Buckley",
+     "n": "Melissa Benoist"
+    },
+    {
+     "c": "Cane Buckley",
+     "n": "Jake Weary"
+    },
+    {
+     "c": "Shawn Wilson",
+     "n": "Rafael L. Silva"
+    },
+    {
+     "c": "Jenna Tate",
+     "n": "Humberly González"
+    },
+    {
+     "c": "Peyton Buckley",
+     "n": "Danielle Campbell"
+    },
+    {
+     "c": "Diller Hopkins",
+     "n": "Brady Hepner"
+    },
+    {
+     "c": "Mae Buckley",
+     "n": "Maria Bello"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Kevin Williamson"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-19",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 254544,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A prominent North Carolina fishing family wades into treacherous waters to keep their crumbling business empire afloat.",
+   "popularity": 5.7126,
+   "poster_path": "/uRzJaOysinMti88BGuu8m8shVCp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-19",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "There's blood in the water.",
+   "title": "The Waterfront",
+   "trailer": {
+    "key": "vE-oYo1hIEs",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.149,
+   "vote_count": 104
+  },
+  "tv:270444": {
+   "backdrop_path": "/ra12F3J3uVe112FEqBGmQapW2Bu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jolanta Wadowska-Król",
+     "n": "Joanna Kulig"
+    },
+    {
+     "c": "Professor Berger",
+     "n": "Agata Kulesza"
+    },
+    {
+     "c": "Wiesia Wilczek",
+     "n": "Kinga Preis"
+    },
+    {
+     "c": "Hubert Niedziela",
+     "n": "Michał Żurawski"
+    },
+    {
+     "c": "Jerzy Ziętek",
+     "n": "Marian Dziędziel"
+    },
+    {
+     "c": "Zbyszek Król",
+     "n": "Sebastian Pawlak"
+    },
+    {
+     "c": "Zdzisław Grudzień",
+     "n": "Zbigniew Zamachowski"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-02-11",
+   "genres": [
+    "Drama",
+    "War & Politics"
+   ],
+   "id": 270444,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "PL"
+   ],
+   "original_language": "pl",
+   "overview": "When a young doctor discovers that children living near a smelting plant suffer from lead poisoning, she risks her career and safety to save them.",
+   "popularity": 2.9473,
+   "poster_path": "/eIAI754ushBJyiLrBXNDvWplqJH.jpg",
+   "production_countries": [
+    "PL"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-11",
+     "episode_count": 6,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "pl"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Lead Children",
+   "trailer": {
+    "key": "phN7tqYaa08",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.754,
+   "vote_count": 63
+  },
+  "tv:281044": {
+   "backdrop_path": "/lPpKeKWD0dfHB8ZakfEavurVZ1T.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gen Kinokura (voice)",
+     "n": "Daiki Hamano"
+    },
+    {
+     "c": "Shizuku Kusano (voice)",
+     "n": "Mizuki Niizaki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-07-11",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 281044,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Gen Kinokura just wanted to enjoy his peaceful solo camping trips—no distractions, no problems. Enter Shizuku Kusano, a clueless but enthusiastic newbie who crashes his campsite (literally). Now, this bothered outdoorsman is stuck teaching her the ropes. Laughs, mishaps, and heartwarming moments await this duo-camp adventure under the stars!",
+   "popularity": 10.0066,
+   "poster_path": "/r1UVwYCQ4q02T40bdnRgTFLkOXc.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-11",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Solo Camping for Two",
+   "trailer": {
+    "key": "s7aK_ckCCbU",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 22
+  },
+  "tv:284644": {
+   "backdrop_path": "/k0aoy0vcLxpI8d6USLMM2qzhwsb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Akira Oda (voice)",
+     "n": "Takeo Otsuka"
+    },
+    {
+     "c": "Amelia Rosequartz (voice)",
+     "n": "Saku Mizuno"
+    },
+    {
+     "c": "Saran Mithray (voice)",
+     "n": "Junichi Suwabe"
+    },
+    {
+     "c": "Yoru (voice)",
+     "n": "Sanae Kobayashi"
+    },
+    {
+     "c": "Lia Lagoon (voice)",
+     "n": "Konomi Tamura"
+    },
+    {
+     "c": "Crow (voice)",
+     "n": "Takeshi Kusao"
+    },
+    {
+     "c": "Latticenail (voice)",
+     "n": "Sumire Morohoshi"
+    },
+    {
+     "c": "Kirika Rosequartz (voice)",
+     "n": "Azumi Waki"
+    },
+    {
+     "c": "Aulum Trace (voice)",
+     "n": "Shun Horie"
+    },
+    {
+     "c": "Mahiro Abe (voice)",
+     "n": "Koki Uchiyama"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-07",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 284644,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Akira Oda and his high school classmates are summoned to another world! While the other students are granted cheat abilities through the summoning, Akira merely gains the abilities of a mediocre \"assassin.\" However, his status soon surpasses \"hero,\" the strongest profession. After Akira becomes suspicious of the King behind the summoning, he is falsely framed for a crime and forced to flee.",
+   "popularity": 5.429,
+   "poster_path": "/oQk3aXYEa4TMd9rAYgzDpAYTU8P.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-07",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "My Status as an Assassin Obviously Exceeds the Hero's",
+   "trailer": {
+    "key": "gZQjg_YLxPw",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.0,
+   "vote_count": 60
+  },
+  "tv:284744": {
+   "backdrop_path": "/dxLxJVZQQ77S8K52myee4sJskxc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kang Da-wit",
+     "n": "Jung Kyung-ho"
+    },
+    {
+     "c": "Park Gi-ppeum",
+     "n": "So Joo-yeon"
+    },
+    {
+     "c": "Oh Jeong-in",
+     "n": "Lee You-young"
+    },
+    {
+     "c": "Jang Yeong-sil",
+     "n": "Yoon Na-moo"
+    },
+    {
+     "c": "Hwang Jun-u",
+     "n": "Kang Hyung-suk"
+    },
+    {
+     "c": "Yoo Nan-hui",
+     "n": "Seo Hye-won"
+    },
+    {
+     "c": "Kang Min-ha",
+     "n": "Jang Se-hyuk"
+    },
+    {
+     "c": "Woo Myeong-hun",
+     "n": "Choi Dae-hoon"
+    },
+    {
+     "c": "Oh Gyoo-jang",
+     "n": "Kim Kap-soo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "tvN",
+   "created_by": [
+    "Kim Seong-yoon",
+    "Baek Sang-hoon",
+    "Moon Yoo-seok"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-12-06",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 284744,
+   "industry": "world",
+   "networks": [
+    "tvN"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "When a respected judge's world falls apart overnight, he joins a top law firm's pro bono team — where hope and purpose wait in humble, unexpected places.",
+   "popularity": 5.1998,
+   "poster_path": "/8wovOkYH4CBH45jH1zzkyOMDMSb.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-06",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Pro Bono",
+   "trailer": {
+    "key": "dKp_5h7o5BU",
+    "name": "Official Clip [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.238,
+   "vote_count": 42
+  },
+  "tv:292144": {
+   "backdrop_path": "/hXiVeUUAWWxebEL7dj8nC6geuJj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kwon Jung-woo",
+     "n": "Choi Jae-hyeok"
+    },
+    {
+     "c": "Han Ji-won",
+     "n": "Yeom Min-hyeok"
+    },
+    {
+     "c": "Byeon Seung-jin",
+     "n": "Choi Rak-yeong"
+    },
+    {
+     "c": "Yang Eun-oh",
+     "n": "Kwak Geon-hee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "19",
+   "channel": "Heavenly",
+   "created_by": [
+    "Ji Seung-hyun"
+   ],
+   "director": [
+    "Kim Eun-hye"
+   ],
+   "episode_run_time": [
+    30
+   ],
+   "first_air_date": "2025-06-05",
+   "genres": [
+    "Drama"
+   ],
+   "id": 292144,
+   "industry": "world",
+   "networks": [
+    "Heavenly"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A quiet ex-gymnast and a playful basketball star fall into a slow-burning romance where every glance and touch speaks louder than words.",
+   "popularity": 2.3367,
+   "poster_path": "/A7SrIG3PnTCd2PeZawdgxqpxrUY.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-05",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Off the court and into our hearts, will these two stick the landing of their college romance?",
+   "title": "Ball Boy Tactics",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.654,
+   "vote_count": 26
+  },
+  "tv:301944": {
+   "backdrop_path": "/edyP3Y3j5M1aponwAtDEUtTlPIA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hikaru Gero (voice)",
+     "n": "Haruki Ishiya"
+    },
+    {
+     "c": "Mei Kinosaki (voice)",
+     "n": "Shion Wakayama"
+    },
+    {
+     "c": "Kyoko Himekawa (voice)",
+     "n": "Anna Nagase"
+    },
+    {
+     "c": "Shizuku Ushio (voice)",
+     "n": "Mariya Ise"
+    },
+    {
+     "c": "Shiori Ureshino (voice)",
+     "n": "Asaki Yuikawa"
+    },
+    {
+     "c": "Genya Naruko (voice)",
+     "n": "Soma Saito"
+    },
+    {
+     "c": "Kimie Arashiyama (voice)",
+     "n": "Hinano Shirahama"
+    },
+    {
+     "c": "Piichi Nakagawa (voice)",
+     "n": "Shimba Tsuchiya"
+    },
+    {
+     "c": "Akari Gero (voice)",
+     "n": "Haruka Shiraishi"
+    },
+    {
+     "c": "Toshiki Hanamaki (voice)",
+     "n": "Isamu Yusen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Fuji TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-04-07",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy"
+   ],
+   "id": 301944,
+   "industry": "world",
+   "networks": [
+    "Fuji TV",
+    "Tokai Television Broadcasting",
+    "Kansai TV",
+    "Fukui TV",
+    "Hokkaido Cultural Broadcasting",
+    "Iwate Menkoi Television",
+    "Sendai Television",
+    "SAGA TV",
+    "Ishikawa TV",
+    "TNC",
+    "OHK",
+    "Kochi Sun Sun Broadcasting",
+    "Television Shin Hiroshima System",
+    "TV Shizuoka",
+    "NST",
+    "NBS",
+    "Sakuranbo TV",
+    "TSK",
+    "Ehime Broadcasting",
+    "KTS",
+    "Fukushima TV",
+    "AKT",
+    "Toyama Television",
+    "TV Kumamoto",
+    "Okinawa Television Broadcasting",
+    "KTN"
+   ],
+   "number_of_episodes": 13,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "For centuries, the deadly arts have been perfected by Masters, and Five Great Families hold the greatest power and influence. Hikaru Gero, an heir to the Gero family, lives in the underworld as an elite assassin. When his sister is pressured to produce an heir, Hikaru asks Mei Kinosaki, a brilliant marriage swindler, to find him a bride. The most challenging mission of his life begins!",
+   "popularity": 25.3098,
+   "poster_path": "/2b1akkaoutSo3xbykjAKnEb92Rs.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-07",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Marriage Toxin",
+   "trailer": {
+    "key": "t0Ruh2QBpqg",
+    "name": "Second Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.4,
+   "vote_count": 54
+  },
+  "tv:305644": {
+   "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kang Pi-o",
+     "n": "Song Kang"
+    },
+    {
+     "c": "Choi Jeong-yo",
+     "n": "Lee Jun-young"
+    },
+    {
+     "c": "Hong Jae-in",
+     "n": "Jang Gyu-ri"
+    },
+    {
+     "c": "Kang Ji-hye",
+     "n": "Yoon Se-a"
+    },
+    {
+     "c": "Kang Seung-woon",
+     "n": "Jung Jin-young"
+    },
+    {
+     "c": "Yoon Sun-joo",
+     "n": "Seo Jae-hee"
+    },
+    {
+     "c": "Choi Ki-taek",
+     "n": "Seong No-jin"
+    },
+    {
+     "c": "Cho Hyun-cheol",
+     "n": "Lee Myeong-ro"
+    },
+    {
+     "c": "Boss Kim",
+     "n": "Min Kim"
+    },
+    {
+     "c": "Han Hyun-jung",
+     "n": "Kim Hye-hwa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "tvN",
+   "created_by": [
+    "Shin Yi-won"
+   ],
+   "director": [
+    "Park Hyeon-seok"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-08-29",
+   "genres": [
+    "Drama"
+   ],
+   "id": 305644,
+   "industry": "world",
+   "networks": [
+    "tvN"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "When two young pianists from completely different worlds meet at an elite music high school, the melodies of their lives become intimately intertwined.",
+   "popularity": 9.6167,
+   "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-08-29",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Two geniuses, one piano - and dissonance that resonates.",
+   "title": "Four Hands, Two Sonatas",
+   "trailer": {
+    "key": "KapADxhCvvM",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 9.209,
+   "vote_count": 67
+  },
+  "tv:316544": {
+   "backdrop_path": "/eBna9nTSwL89wsR3fmA5AVDxzxR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Ronaldinho"
+    },
+    {
+     "c": "Self",
+     "n": "Ronaldo"
+    },
+    {
+     "c": "Self",
+     "n": "Galvão Bueno"
+    },
+    {
+     "c": "Self",
+     "n": "Lionel Messi"
+    },
+    {
+     "c": "Self",
+     "n": "Carles Puyol"
+    },
+    {
+     "c": "Self",
+     "n": "Roberto Carlos"
+    },
+    {
+     "c": "Self",
+     "n": "Neymar"
+    },
+    {
+     "c": "Self",
+     "n": "Anderson Luís de Souza"
+    },
+    {
+     "c": "Self",
+     "n": "Roberto de Assis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [
+    "Luis Ara"
+   ],
+   "episode_run_time": [
+    55
+   ],
+   "first_air_date": "2026-04-16",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 316544,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "This series follows the life and career of Brazilian soccer star Ronaldinho, tracing his journey from young prodigy to global sports icon.",
+   "popularity": 2.9577,
+   "poster_path": "/rgZrU9ETwzpfNAgzSKJv9Zy4LEi.jpg",
+   "production_countries": [
+    "BR",
+    "US",
+    "UY"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-16",
+     "episode_count": 3,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Ronaldinho: The One and Only",
+   "trailer": {
+    "key": "8BJc-L19h0E",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.4,
+   "vote_count": 57
   },
   "tv:42444": {
    "backdrop_path": "/xqi7xzgzed2TyVuoXBmm6neYGee.jpg",

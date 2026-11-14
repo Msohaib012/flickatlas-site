@@ -1,6 +1,6 @@
 {
  "bucket": "89",
- "count": 24,
+ "count": 29,
  "titles": {
   "movie:10389": {
    "backdrop_path": "/fEurvklilb04BbyYZM2FtumpyQB.jpg",
@@ -400,119 +400,6 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 394
-  },
-  "movie:1294189": {
-   "backdrop_path": "/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Ryan 'Fang' Flanagan",
-     "n": "Liam Neeson"
-    },
-    {
-     "c": "Tara",
-     "n": "Marisa Tomei"
-    },
-    {
-     "c": "Tanker",
-     "n": "Ving Rhames"
-    },
-    {
-     "c": "Munch",
-     "n": "Marcus Thomas"
-    },
-    {
-     "c": "Major Walter Pope",
-     "n": "Michael Chiklis"
-    },
-    {
-     "c": "Major James Tilton",
-     "n": "Maurice Marvel Meredith"
-    },
-    {
-     "c": "Todd",
-     "n": "Brett Tucker"
-    },
-    {
-     "c": "Wiz",
-     "n": "Ryan Morgan"
-    },
-    {
-     "c": "Laura Coates",
-     "n": "Laura Coates"
-    },
-    {
-     "c": "Ernie",
-     "n": "Geoff Morrell"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Mark Vanselow"
-   ],
-   "genres": [
-    "Action",
-    "Thriller"
-   ],
-   "id": 1294189,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
-   "popularity": 145.5223,
-   "poster_path": "/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-   "production_countries": [
-    "AU"
-   ],
-   "providers": [
-    {
-     "name": "Amazon Prime Video"
-    },
-    {
-     "name": "Amazon Prime Video with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-     "name": "Amazon Prime Video",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-     "name": "Amazon Prime Video with Ads",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-29",
-   "revenue": 0,
-   "runtime": 99,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "The Mongoose",
-   "trailer": {
-    "key": "aHrMFtt40_Q",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 6.238,
-   "vote_count": 151
   },
   "movie:13189": {
    "backdrop_path": "/1WQ4bHXzS7DpGppkS2PcpFvpY7T.jpg",
@@ -2103,17 +1990,37 @@
    "vote_average": 8.5,
    "vote_count": 2389
   },
-  "tv:1489": {
-   "backdrop_path": "/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
+  "tv:228689": {
+   "backdrop_path": "/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
    "budget": 0,
    "cast": [
     {
-     "c": "Self - Host",
-     "n": "Jimmy Kimmel"
+     "c": "Genie / Iblis",
+     "n": "Kim Woo-bin"
     },
     {
-     "c": "Self",
-     "n": "Guillermo Rodriguez"
+     "c": "Ki Ga-young",
+     "n": "Suzy"
+    },
+    {
+     "c": "Lee Mi-joo",
+     "n": "Ahn Eun-jin"
+    },
+    {
+     "c": "Ryu Su-hyeon / Ejlael",
+     "n": "Steve Sanghyun Noh"
+    },
+    {
+     "c": "Sade / Sayyid",
+     "n": "Ko Kyu-pil"
+    },
+    {
+     "c": "Choi Min-ji",
+     "n": "Lee Zoo-young"
+    },
+    {
+     "c": "Oh Pan-geum",
+     "n": "Kim Mi-kyung"
     }
    ],
    "catalogue": true,
@@ -2121,230 +2028,83 @@
    "categories": [
     "catalogue"
    ],
-   "certification": "A",
-   "channel": "ABC",
-   "created_by": [],
-   "director": [],
-   "episode_run_time": [],
-   "first_air_date": "2003-01-26",
-   "genres": [
-    "Talk",
-    "Comedy"
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Lee Byeong-heon",
+    "Kim Eun-sook"
    ],
-   "id": 1489,
+   "director": [
+    "An Gil-ho",
+    "Lee Byeong-heon"
+   ],
+   "episode_run_time": [
+    58
+   ],
+   "first_air_date": "2025-10-03",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 228689,
    "industry": "world",
    "networks": [
-    "ABC"
+    "Netflix"
    ],
-   "number_of_episodes": 3377,
-   "number_of_seasons": 25,
+   "number_of_episodes": 13,
+   "number_of_seasons": 1,
    "origin_country": [
-    "US"
+    "KR"
    ],
-   "original_language": "en",
-   "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
-   "popularity": 104.0777,
-   "poster_path": "/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
+   "original_language": "ko",
+   "overview": "After a thousand years, a quirky genie returns to grant wishes to a woman born without feelings. Can his magic bring love and wonder to her world?",
+   "popularity": 9.0974,
+   "poster_path": "/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
    "production_countries": [
-    "US"
+    "KR"
    ],
    "providers": [
     {
-     "name": "Hulu"
+     "name": "Netflix"
     },
     {
-     "name": "fuboTV"
+     "name": "Netflix Standard with Ads"
     }
    ],
    "providers_wtw": [
     {
      "kind": "flatrate",
-     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
-     "name": "Hulu",
-     "region": "US"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
-     "name": "fuboTV",
-     "region": "US"
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
     }
    ],
    "published_at": "2026-11-14",
    "revenue": 0,
    "seasons": [
     {
-     "air_date": "2010-06-23",
-     "episode_count": 74,
-     "name": "Specials",
-     "season_number": 0
-    },
-    {
-     "air_date": "2003-01-26",
-     "episode_count": 189,
+     "air_date": "2025-10-03",
+     "episode_count": 13,
      "name": "Season 1",
      "season_number": 1
-    },
-    {
-     "air_date": "2004-01-26",
-     "episode_count": 18,
-     "name": "Season 2",
-     "season_number": 2
-    },
-    {
-     "air_date": "2005-01-10",
-     "episode_count": 178,
-     "name": "Season 3",
-     "season_number": 3
-    },
-    {
-     "air_date": "2006-01-03",
-     "episode_count": 189,
-     "name": "Season 4",
-     "season_number": 4
-    },
-    {
-     "air_date": "2007-01-02",
-     "episode_count": 154,
-     "name": "Season 5",
-     "season_number": 5
-    },
-    {
-     "air_date": "2008-01-02",
-     "episode_count": 172,
-     "name": "Season 6",
-     "season_number": 6
-    },
-    {
-     "air_date": "2009-01-06",
-     "episode_count": 171,
-     "name": "Season 7",
-     "season_number": 7
-    },
-    {
-     "air_date": "2010-01-05",
-     "episode_count": 176,
-     "name": "Season 8",
-     "season_number": 8
-    },
-    {
-     "air_date": "2011-01-03",
-     "episode_count": 168,
-     "name": "Season 9",
-     "season_number": 9
-    },
-    {
-     "air_date": "2012-01-03",
-     "episode_count": 166,
-     "name": "Season 10",
-     "season_number": 10
-    },
-    {
-     "air_date": "2013-01-08",
-     "episode_count": 171,
-     "name": "Season 11",
-     "season_number": 11
-    },
-    {
-     "air_date": "2014-01-06",
-     "episode_count": 169,
-     "name": "Season 12",
-     "season_number": 12
-    },
-    {
-     "air_date": "2015-01-05",
-     "episode_count": 152,
-     "name": "Season 13",
-     "season_number": 13
-    },
-    {
-     "air_date": "2016-01-04",
-     "episode_count": 16,
-     "name": "Season 14",
-     "season_number": 14
-    },
-    {
-     "air_date": "2017-01-09",
-     "episode_count": 15,
-     "name": "Season 15",
-     "season_number": 15
-    },
-    {
-     "air_date": "2018-01-08",
-     "episode_count": 32,
-     "name": "Season 16",
-     "season_number": 16
-    },
-    {
-     "air_date": "2019-01-07",
-     "episode_count": 171,
-     "name": "Season 17",
-     "season_number": 17
-    },
-    {
-     "air_date": "2020-01-06",
-     "episode_count": 120,
-     "name": "Season 18",
-     "season_number": 18
-    },
-    {
-     "air_date": "2020-09-21",
-     "episode_count": 185,
-     "name": "Season 19",
-     "season_number": 19
-    },
-    {
-     "air_date": "2021-09-20",
-     "episode_count": 167,
-     "name": "Season 20",
-     "season_number": 20
-    },
-    {
-     "air_date": "2022-09-19",
-     "episode_count": 104,
-     "name": "Season 21",
-     "season_number": 21
-    },
-    {
-     "air_date": "2023-10-02",
-     "episode_count": 145,
-     "name": "Season 22",
-     "season_number": 22
-    },
-    {
-     "air_date": "2024-09-03",
-     "episode_count": 157,
-     "name": "Season 23",
-     "season_number": 23
-    },
-    {
-     "air_date": "2025-09-02",
-     "episode_count": 157,
-     "name": "Season 24",
-     "season_number": 24
-    },
-    {
-     "air_date": "2026-09-08",
-     "episode_count": 35,
-     "name": "Season 25",
-     "season_number": 25
     }
    ],
    "source": "catalogue",
    "spoken_languages": [
-    "en"
+    "ko"
    ],
-   "status": "Returning Series",
-   "tagline": "",
-   "title": "Jimmy Kimmel Live!",
+   "status": "Ended",
+   "tagline": "Come now, to corruption!",
+   "title": "Genie, Make a Wish",
    "trailer": {
-    "key": "2kqZi3RoA5I",
-    "name": "Political Promo",
+    "key": "PaZIDBqhVSk",
+    "name": "Official Trailer [ENG SUB]",
     "site": "YouTube"
    },
    "type": "tv",
-   "vote_average": 5.3,
-   "vote_count": 226
+   "vote_average": 7.942,
+   "vote_count": 147
   },
   "tv:2289": {
    "backdrop_path": "/bcVUkIKsnLozS5Yl8DnZ7nac3GM.jpg",
@@ -2609,6 +2369,731 @@
    "type": "tv",
    "vote_average": 7.011,
    "vote_count": 273
+  },
+  "tv:254389": {
+   "backdrop_path": "/1SC2gbJA5zZ2x3YGMtlqbr3bIzk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lee Hae-sook",
+     "n": "Kim Hye-ja"
+    },
+    {
+     "c": "Ko Nak-joon",
+     "n": "Son Suk-ku"
+    },
+    {
+     "c": "Som-i",
+     "n": "Han Ji-min"
+    },
+    {
+     "c": "Lee Young-ae",
+     "n": "Lee Jung-eun"
+    },
+    {
+     "c": "Center Director",
+     "n": "Cheon Ho-jin"
+    },
+    {
+     "c": "Pastor",
+     "n": "Ryu Deok-hwan"
+    },
+    {
+     "c": "Soulless",
+     "n": "Jeong Ji-an"
+    },
+    {
+     "c": "Mandu",
+     "n": "Yoo Hyeon-soo"
+    },
+    {
+     "c": "Sonya",
+     "n": "Choi Hee-jin"
+    },
+    {
+     "c": "Park Jong Gu [Nak Jun's mother]",
+     "n": "Joo Min-kyung"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "JTBC",
+   "created_by": [
+    "Kim Sok-yun",
+    "Lee Nam-kyu",
+    "Kim Soo-jin"
+   ],
+   "director": [
+    "Kim Sok-yun"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-19",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 254389,
+   "industry": "world",
+   "networks": [
+    "JTBC"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "After life's ups and downs, a loving couple separated by death reunites in heaven — only to discover he's in his thirties while she's in her eighties.",
+   "popularity": 3.548,
+   "poster_path": "/pQ3fDmgQ9GbmntzPY6vOOttSi6J.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-19",
+     "episode_count": 12,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Heavenly Ever After",
+   "trailer": {
+    "key": "Lan1w7YQaeE",
+    "name": "Official Clip [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.5,
+   "vote_count": 89
+  },
+  "tv:271889": {
+   "backdrop_path": "/k46AmUVAj6BCIBu074uLuvi1w70.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ko Young-rye",
+     "n": "Kim Da-mi"
+    },
+    {
+     "c": "Seo Jong-hee",
+     "n": "Shin Ye-eun"
+    },
+    {
+     "c": "Han Jae-pil",
+     "n": "Heo Nam-jun"
+    },
+    {
+     "c": "Ma Sang-cheol",
+     "n": "Lee Won-jeong"
+    },
+    {
+     "c": "Ko Young-sik",
+     "n": "Jeon Seong-woo"
+    },
+    {
+     "c": "Choi Jeong-bun",
+     "n": "Park Ye-ni"
+    },
+    {
+     "c": "Lim Ho-sook",
+     "n": "Jung Bo-min"
+    },
+    {
+     "c": "Kwon Hae-ja",
+     "n": "Lee Min-ji"
+    },
+    {
+     "c": "Han Ki-bok",
+     "n": "Yoon Je-moon"
+    },
+    {
+     "c": "Seong Man-ok",
+     "n": "Kim Ji-hyun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "JTBC",
+   "created_by": [],
+   "director": [
+    "Kim Sang-ho"
+   ],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2025-09-13",
+   "genres": [
+    "Drama"
+   ],
+   "id": 271889,
+   "industry": "world",
+   "networks": [
+    "JTBC"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A heartbreaking first love story of a man who was destined to be the fate of two women who were bus guides in the 1980s, and a melodrama-comedy of shining youths who were destined to be brilliant.",
+   "popularity": 2.9226,
+   "poster_path": "/iGHE2Wk0dhRRGnZghMorr07FTHt.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-13",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "A Hundred Memories",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 22
+  },
+  "tv:279989": {
+   "backdrop_path": "/hyODXbjqZeGS2WMCw0nkcMiGTdO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marie (voice)",
+     "n": "Rena Motomura"
+    },
+    {
+     "c": "Kyros (voice)",
+     "n": "Daiki Hamano"
+    },
+    {
+     "c": "Anastasia (voice)",
+     "n": "Minami Tanaka"
+    },
+    {
+     "c": "Louisphon (voice)",
+     "n": "Ryohei Kimura"
+    },
+    {
+     "c": "Mio (voice)",
+     "n": "Yoko Hikasa"
+    },
+    {
+     "c": "Ryu Ryu (voice)",
+     "n": "Sayaka Ohara"
+    },
+    {
+     "c": "Toppo (voice)",
+     "n": "Tetsuya Kakihara"
+    },
+    {
+     "c": "Thomas (voice)",
+     "n": "Tatsuyuki Kobayashi"
+    },
+    {
+     "c": "Tunica (voice)",
+     "n": "Yuuka Aisaka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "MBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-05",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 279989,
+   "industry": "world",
+   "networks": [
+    "MBS",
+    "TBS",
+    "CBC"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Marie, the second daughter of a poor baron’s household, is treated like a servant by her parents. Even at Marie’s birthday party, her beautiful elder sister, Anastasia, is the star. Outside, Marie bumps into Count Kyuros Granado, who falls for her at first sight. Yet, due to a misunderstanding, the Count proposes to Anastasia. After a tragic accident, Marie must marry the count instead!",
+   "popularity": 4.8094,
+   "poster_path": "/o7oX9Ap3Rvgt3225mvuIBvk7vlW.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-05",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Betrothed to My Sister's Ex",
+   "trailer": {
+    "key": "WjbLhMyN--Y",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 32
+  },
+  "tv:288589": {
+   "backdrop_path": "/zwdmHsZIbFu9Bia6EvXMbG1lBBt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Van Nei Fertio (voice)",
+     "n": "Yumi Uchiyama"
+    },
+    {
+     "c": "Till (voice)",
+     "n": "Mao Ichimichi"
+    },
+    {
+     "c": "Khamsin (voice)",
+     "n": "Mariya Ise"
+    },
+    {
+     "c": "Panamera Karla Kaien (voice)",
+     "n": "Yoko Hikasa"
+    },
+    {
+     "c": "Arut Ann Ferdinand (voice)",
+     "n": "Shion Wakayama"
+    },
+    {
+     "c": "Esparda (voice)",
+     "n": "Kenyu Horiuchi"
+    },
+    {
+     "c": "Dee (voice)",
+     "n": "Chikahiro Kobayashi"
+    },
+    {
+     "c": "Ortho Sheet (voice)",
+     "n": "Makoto Furukawa"
+    },
+    {
+     "c": "Purriel (voice)",
+     "n": "Wakana Kuramochi"
+    },
+    {
+     "c": "Xara (voice)",
+     "n": "Gen Sato"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-01-10",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 288589,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX",
+    "BS11"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Reborn as a marquis’ fourth son, Van was once hailed as a genius prodigy until he’s exiled to a nameless frontier village for possessing Production Magic, a useless type of magic in this world.\n\nBut when he uses his “useless” power to craft weapons, tools, and wonders beyond imagination, the village begins to thrive! What began as exile is now the start of a new life and a world-changing adventure!",
+   "popularity": 5.3684,
+   "poster_path": "/2ctXv1LyyVad5VLToS1t2ZqSCQa.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-10",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Easygoing Territory Defense by the Optimistic Lord",
+   "trailer": {
+    "key": "-lgT3jToqOI",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 48
+  },
+  "tv:293489": {
+   "backdrop_path": "/o2BUR8LQAVu7oRp76v7jH7ZWpOk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yuzu Shinonome (voice)",
+     "n": "Saori Hayami"
+    },
+    {
+     "c": "Reiya Kiryuin (voice)",
+     "n": "Yuuichirou Umehara"
+    },
+    {
+     "c": "Karin Shinonome (voice)",
+     "n": "Manaka Iwami"
+    },
+    {
+     "c": "Yota Kogetsu (voice)",
+     "n": "Ryota Osaka"
+    },
+    {
+     "c": "Toko (voice)",
+     "n": "Sayaka Senbongi"
+    },
+    {
+     "c": "Toukichi Nekota (voice)",
+     "n": "Natsuki Hanae"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "channel": "Gunma TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-05",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 293489,
+   "industry": "world",
+   "networks": [
+    "Gunma TV",
+    "TOKYO MX",
+    "BS11",
+    "Tochigi TV"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In a world where humans and ayakashi–supernatural beings–coexist, being chosen as an ayakashi’s bride is the ultimate honor. Yuzu, an ordinary schoolgirl, has been overlooked her whole life, eclipsed by the shadow of her sister Karin, a chosen bride. Just when Yuzu has had enough, she unexpectedly captures the heart of Reiya, a dashing ogre from a powerful clan who claims Yuzu as his own.",
+   "popularity": 7.057,
+   "poster_path": "/oZHzniVRilau9vY7mOe36smC09T.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-05",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Ogre's Bride",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.3,
+   "vote_count": 57
+  },
+  "tv:295089": {
+   "backdrop_path": "/lRDqXZ4LCFl7Rd8fVQ43AhKhtI5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Izabela Łęcka",
+     "n": "Sandra Drzymalska"
+    },
+    {
+     "c": "Stanisław Wokulski",
+     "n": "Tomasz Schuchardt"
+    },
+    {
+     "c": "Ignacy Rzecki",
+     "n": "Dariusz Chojnacki"
+    },
+    {
+     "c": "Tomasz Łęcki",
+     "n": "Jacek Braciak"
+    },
+    {
+     "c": "Panna Florentyna",
+     "n": "Julia Wyszyńska"
+    },
+    {
+     "c": "Kazimiera Wąsowska",
+     "n": "Magdalena Cielecka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    390
+   ],
+   "first_air_date": "2026-09-16",
+   "genres": [
+    "Drama"
+   ],
+   "id": 295089,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "PL"
+   ],
+   "original_language": "pl",
+   "overview": "When Stanisław falls in love with the aristocratic Izabela, he dedicates his entire life to winning her over.",
+   "popularity": 4.4881,
+   "poster_path": "/zJSceCJMF7C6AtdRycZjNjavCT.jpg",
+   "production_countries": [
+    "PL"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-09-16",
+     "episode_count": 6,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pl"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Doll",
+   "trailer": {
+    "key": "OwYFO5kmHbU",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.667,
+   "vote_count": 27
   },
   "tv:4589": {
    "backdrop_path": "/q9yVRPakPnsIngnXwjW7F9GVcnD.jpg",

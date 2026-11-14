@@ -1,6 +1,6 @@
 {
  "bucket": "33",
- "count": 18,
+ "count": 20,
  "titles": {
   "movie:1202033": {
    "backdrop_path": "/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
@@ -889,114 +889,6 @@
    "vote_average": 6.7,
    "vote_count": 483
   },
-  "movie:83533": {
-   "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
-   "budget": 350000000,
-   "cast": [
-    {
-     "c": "Jake",
-     "n": "Sam Worthington"
-    },
-    {
-     "c": "Neytiri",
-     "n": "Zoe Saldaña"
-    },
-    {
-     "c": "Kiri",
-     "n": "Sigourney Weaver"
-    },
-    {
-     "c": "Quaritch",
-     "n": "Stephen Lang"
-    },
-    {
-     "c": "Varang",
-     "n": "Oona Chaplin"
-    },
-    {
-     "c": "Spider",
-     "n": "Jack Champion"
-    },
-    {
-     "c": "Ronal",
-     "n": "Kate Winslet"
-    },
-    {
-     "c": "Tonowari",
-     "n": "Cliff Curtis"
-    },
-    {
-     "c": "Norm",
-     "n": "Joel David Moore"
-    },
-    {
-     "c": "Mo'at",
-     "n": "CCH Pounder"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 16+",
-   "date_kind": "release",
-   "director": [
-    "James Cameron"
-   ],
-   "genres": [
-    "Science Fiction",
-    "Adventure",
-    "Fantasy"
-   ],
-   "id": 83533,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-   "popularity": 41.8392,
-   "poster_path": "/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "JioHotstar"
-    },
-    {
-     "name": "Disney Plus"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-     "name": "JioHotstar",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2025-12-19",
-   "revenue": 1485999890,
-   "runtime": 198,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "The world of Pandora will change forever.",
-   "title": "Avatar: Fire and Ash",
-   "trailer": {
-    "key": "Ma1x7ikpid8",
-    "name": "New Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.641,
-   "vote_count": 4684
-  },
   "tv:117933": {
    "backdrop_path": "/p2eZlGwd8OjkWpwD2hSoBiIlHBZ.jpg",
    "budget": 0,
@@ -1426,29 +1318,49 @@
    "vote_average": 7.023,
    "vote_count": 2492
   },
-  "tv:284833": {
-   "backdrop_path": "/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+  "tv:233833": {
+   "backdrop_path": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
    "budget": 0,
    "cast": [
     {
-     "c": "Pavi (voice)",
-     "n": "Saheli Khan"
+     "c": "Song Ha-ran",
+     "n": "Lee Sung-kyung"
     },
     {
-     "c": "Nisha (voice)",
-     "n": "Aishwarya 'Aishu' Devan"
+     "c": "Sunwoo Chan",
+     "n": "Chae Jong-hyeop"
     },
     {
-     "c": "Jae (voice)",
-     "n": "Major Curda"
+     "c": "Song Ha-yeong",
+     "n": "Han Ji-hyeon"
     },
     {
-     "c": "Karthik (voice)",
-     "n": "Akshay Khanna"
+     "c": "Yeon Tae-seok",
+     "n": "Kwon Hyuk"
     },
     {
-     "c": "Agam (voice)",
-     "n": "Sakina Jaffrey"
+     "c": "Song Ha-dam",
+     "n": "Oh Ye-ju"
+    },
+    {
+     "c": "Cha Yu-gyeom",
+     "n": "Kim Tae-young"
+    },
+    {
+     "c": "Kim Na-na",
+     "n": "Lee Mi-sook"
+    },
+    {
+     "c": "Park Man-jae",
+     "n": "Kang Seok-woo"
+    },
+    {
+     "c": "Sunwoo Seok",
+     "n": "Jung Hae-kyun"
+    },
+    {
+     "c": "Kim Seon",
+     "n": "Kang Ae-sim"
     }
    ],
    "catalogue": true,
@@ -1456,61 +1368,47 @@
    "categories": [
     "catalogue"
    ],
-   "certification": "TV-PG",
-   "channel": "Paramount+",
+   "certification": "PG13",
+   "channel": "MBC",
    "created_by": [
-    "Michael Dante DiMartino",
-    "Bryan Konietzko"
+    "Jo Sung-hee"
    ],
-   "director": [],
-   "episode_run_time": [
-    22
+   "director": [
+    "Jung Sang-hee",
+    "Park Seon-ho"
    ],
-   "first_air_date": "2026-10-09",
+   "episode_run_time": [],
+   "first_air_date": "2026-02-20",
    "genres": [
-    "Animation",
-    "Action & Adventure",
-    "Sci-Fi & Fantasy",
-    "Family"
+    "Mystery",
+    "Drama"
    ],
-   "id": 284833,
+   "id": 233833,
    "industry": "world",
    "networks": [
-    "Paramount+"
+    "MBC"
    ],
-   "number_of_episodes": 26,
-   "number_of_seasons": 2,
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
    "origin_country": [
-    "US"
+    "KR"
    ],
-   "original_language": "en",
-   "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
-   "popularity": 51.275,
-   "poster_path": "/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
+   "original_language": "ko",
+   "overview": "Chan lives every day like it is summer vacation. Haran is trapped in a lonely winter. When their forgotten past reunites them, Chan is determined to gift her another spring. Through laughter and tears, they face winter together and reach their spring in this heartwarming romance.",
+   "popularity": 7.1145,
+   "poster_path": "/35UAIEtQQsjVl38GVPvbqc00pcJ.jpg",
    "production_countries": [
-    "US"
+    "KR"
    ],
    "providers": [
     {
      "name": "JioHotstar"
     },
     {
-     "name": "Paramount Plus Premium"
+     "name": "Disney Plus"
     },
     {
-     "name": "Paramount Plus Essential"
-    },
-    {
-     "name": "Paramount Plus Apple TV channel"
-    },
-    {
-     "name": "Paramount+ Amazon Channel"
-    },
-    {
-     "name": "Paramount Plus"
-    },
-    {
-     "name": "Paramount Plus Basic with Ads"
+     "name": "Hulu"
     }
    ],
    "providers_wtw": [
@@ -1525,33 +1423,408 @@
    "revenue": 0,
    "seasons": [
     {
-     "air_date": "2026-10-09",
-     "episode_count": 13,
-     "name": "Book One: Survival",
+     "air_date": "2026-02-20",
+     "episode_count": 12,
+     "name": "Season 1",
      "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Some seasons change you forever.",
+   "title": "In Your Radiant Season",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 41
+  },
+  "tv:248833": {
+   "backdrop_path": "/oyr8vPGD66eNqruV3LjoI72UNxl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Charlie Cooper",
+     "n": "William Lipton"
     },
     {
-     "air_date": "2027-05-21",
-     "episode_count": 13,
-     "name": "Book Two: Discovery",
-     "season_number": 2
+     "c": "Neil Crosby",
+     "n": "Axel Ellis"
+    },
+    {
+     "c": "Topher Park",
+     "n": "Jeremy Yun"
+    },
+    {
+     "c": "Bez Willis",
+     "n": "Zendé Murdock"
+    },
+    {
+     "c": "Wyatt Wysong",
+     "n": "Jesse Golliher"
+    },
+    {
+     "c": "Sophia Kinney",
+     "n": "Lilah Pate"
+    },
+    {
+     "c": "Pete Antuna",
+     "n": "Maximo Salas"
+    },
+    {
+     "c": "Amanda",
+     "n": "Kelley Pereira"
+    },
+    {
+     "c": "Ruthie Bender",
+     "n": "Marley Aliah"
+    },
+    {
+     "c": "Catesby",
+     "n": "Mark Wystrach"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Prime Video",
+   "created_by": [
+    "Jonas Pate"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-01",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Family"
+   ],
+   "id": 248833,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow a tight-knit group of young adults from all walks of life who come together to form a rock band the summer after graduating from high school. Set against the backdrop of Wilmington, North Carolina, The Runarounds must choose between succumbing to the pressures of real life or risking everything to become the greatest band of all time.",
+   "popularity": 3.9975,
+   "poster_path": "/653V492dSynzQcSDPubzZLJAjkf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-01",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
     }
    ],
    "source": "catalogue",
    "spoken_languages": [
     "en"
    ],
-   "status": "Returning Series",
-   "tagline": "New legends will rise.",
-   "title": "Avatar: Seven Havens",
+   "status": "Canceled",
+   "tagline": "Dream big.",
+   "title": "The Runarounds",
    "trailer": {
-    "key": "nhdh962_ee0",
+    "key": "-CWi5_hU_-o",
     "name": "Official Trailer",
     "site": "YouTube"
    },
    "type": "tv",
-   "vote_average": 8.879,
-   "vote_count": 198
+   "vote_average": 8.1,
+   "vote_count": 36
+  },
+  "tv:285933": {
+   "backdrop_path": "/ynU47aomjOY3bHw4liU1NTkaROW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Arisu Yamabuki (voice)",
+     "n": "Rikuya Yasuda"
+    },
+    {
+     "c": "Rikka Inohana (voice)",
+     "n": "Momoko Seto"
+    },
+    {
+     "c": "Nene Himekawa (voice)",
+     "n": "Rumi Okubo"
+    },
+    {
+     "c": "Iko Kirino (voice)",
+     "n": "Sayumi Suzushiro"
+    },
+    {
+     "c": "Shinobu Uzuki (voice)",
+     "n": "Miku Ito"
+    },
+    {
+     "c": "Lemon Ando (voice)",
+     "n": "Kana Hanazawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12+",
+   "channel": "Fuji TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-01-06",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 285933,
+   "industry": "world",
+   "networks": [
+    "Fuji TV",
+    "Tokai Television Broadcasting",
+    "Kansai TV",
+    "Fukui TV",
+    "Hokkaido Cultural Broadcasting",
+    "Iwate Menkoi Television",
+    "Sendai Television",
+    "SAGA TV",
+    "Ishikawa TV",
+    "TNC",
+    "OHK",
+    "Kochi Sun Sun Broadcasting",
+    "Television Shin Hiroshima System",
+    "TV Shizuoka",
+    "NST",
+    "NBS",
+    "Sakuranbo TV",
+    "TSK",
+    "Ehime Broadcasting",
+    "KTS",
+    "Fukushima TV",
+    "AKT",
+    "Toyama Television",
+    "TV Kumamoto",
+    "Okinawa Television Broadcasting",
+    "KTN"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Arisu Yamabuki is heir to a powerful conglomerate, and seeks perfection. After Apollo, the host of Midnight Heart Tune, vanishes, Arisu joins the Fuurin High broadcasting club. There, he meets four girls and promises to make their vocal dreams come true!",
+   "popularity": 5.762,
+   "poster_path": "/af58wkrH7fiO7HtH1uysxmUR882.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-06",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Tune In to the Midnight Heart",
+   "trailer": {
+    "key": "wHxKlcFROtk",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 21
+  },
+  "tv:331033": {
+   "backdrop_path": "/oaRWutbj0UiJej6xIYB3p8wwP9V.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Belén",
+     "n": "Margarita Rosa de Francisco"
+    },
+    {
+     "c": "Zoé",
+     "n": "Macarena Achaga"
+    },
+    {
+     "c": "Matias",
+     "n": "Diego Klein"
+    },
+    {
+     "c": "Ikal",
+     "n": "Christian Vazquez"
+    },
+    {
+     "c": "Juan",
+     "n": "Juan Pablo Castañeda"
+    },
+    {
+     "c": "",
+     "n": "Ana Belén Aguilar"
+    },
+    {
+     "c": "",
+     "n": "Armando Espitia"
+    },
+    {
+     "c": "",
+     "n": "Leonardo Daniel"
+    },
+    {
+     "c": "",
+     "n": "Jorge Caballero"
+    },
+    {
+     "c": "Sugey",
+     "n": "Mayra Sérbulo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "HBO Max",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-09-07",
+   "genres": [
+    "Drama",
+    "Soap"
+   ],
+   "id": 331033,
+   "industry": "world",
+   "networks": [
+    "HBO Max"
+   ],
+   "number_of_episodes": 39,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX",
+    "US"
+   ],
+   "original_language": "es",
+   "overview": "When business magnate Miguel Ángel dies in a mysterious crash, his daughter Zoé and estranged wife Belén fight for control of his company.",
+   "popularity": 8.772,
+   "poster_path": "/ue1kLkkh9AbhnEs1sfY0Jo2f6Fy.jpg",
+   "production_countries": [
+    "US",
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-09-07",
+     "episode_count": 39,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Collision",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 20
   },
   "tv:46533": {
    "backdrop_path": "/7RrcmIQ7e37M3vMkUNAKCEA6uEy.jpg",

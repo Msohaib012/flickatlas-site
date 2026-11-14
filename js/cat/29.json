@@ -1,6 +1,6 @@
 {
  "bucket": "29",
- "count": 22,
+ "count": 25,
  "titles": {
   "movie:10729": {
    "backdrop_path": "/fVKTOZwkLer18dG3piAzSPWFlY5.jpg",
@@ -1049,113 +1049,6 @@
    "type": "movie",
    "vote_average": 5.913,
    "vote_count": 23
-  },
-  "movie:1515729": {
-   "backdrop_path": "/xsoKAonKy1zk5XoQoUG1dUXDCKH.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Rajaraman",
-     "n": "Arjun Sarja"
-    },
-    {
-     "c": "Neelaveni",
-     "n": "Abhirami"
-    },
-    {
-     "c": "Nila",
-     "n": "Preity Mukhundhan"
-    },
-    {
-     "c": "Ilango",
-     "n": "Vivek Prasanna"
-    },
-    {
-     "c": "Varun Dhayalan",
-     "n": "John Kokken"
-    },
-    {
-     "c": "Abraham",
-     "n": "Arjun Chidambaram"
-    },
-    {
-     "c": "Kirupakaran",
-     "n": "Pawan"
-    },
-    {
-     "c": "Arunagiri",
-     "n": "Dhileban"
-    },
-    {
-     "c": "Toby",
-     "n": "Vinod Sagar"
-    },
-    {
-     "c": "Siva",
-     "n": "Bala Hasan"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 16+",
-   "date_kind": "release",
-   "director": [
-    "Subash K Raj"
-   ],
-   "genres": [
-    "Action",
-    "Thriller"
-   ],
-   "id": 1515729,
-   "industry": "bollywood",
-   "origin_country": [
-    "IN"
-   ],
-   "original_language": "ta",
-   "overview": "A seemingly ordinary family must unleash their hidden martial arts skills when they clash with a ruthless criminal gang tied to corruption and violence.",
-   "popularity": 7.3698,
-   "poster_path": "/lpsUpXieodUhN6DlK9ZDnjkysLk.jpg",
-   "production_countries": [
-    "IN"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-05-28",
-   "revenue": 798851,
-   "runtime": 143,
-   "source": "catalogue",
-   "spoken_languages": [
-    "ta"
-   ],
-   "status": "Released",
-   "tagline": "Blood bound. Battle ready.",
-   "title": "Blast",
-   "trailer": {
-    "key": "aM5OLvxFBO4",
-    "name": "Official Trailer [ENG SUB]",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.8,
-   "vote_count": 80
   },
   "movie:1641629": {
    "backdrop_path": "/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
@@ -2477,6 +2370,511 @@
    "type": "tv",
    "vote_average": 7.4,
    "vote_count": 884
+  },
+  "tv:262929": {
+   "backdrop_path": "/cSTqAOPhuApXcAzn2SoBo2Ffral.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yachiyo (voice)",
+     "n": "Saho Shirasu"
+    },
+    {
+     "c": "Ponko (voice)",
+     "n": "Sumire Morohoshi"
+    },
+    {
+     "c": "Doorman Robot (voice)",
+     "n": "Hiroki Touchi"
+    },
+    {
+     "c": "Environment Checker Robot (voice)",
+     "n": "Shin-ichiro Miki"
+    },
+    {
+     "c": "The Owner (voice)",
+     "n": "Hiroyuki Kinoshita"
+    },
+    {
+     "c": "Bumbuku (voice)",
+     "n": "Cho"
+    },
+    {
+     "c": "Mami (voice)",
+     "n": "Takako Honda"
+    },
+    {
+     "c": "Fuguri (voice)",
+     "n": "Mutsumi Tamura"
+    },
+    {
+     "c": "Mujina (voice)",
+     "n": "Yoshiko Sakakibara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Nippon TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    23
+   ],
+   "first_air_date": "2025-04-09",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 262929,
+   "industry": "world",
+   "networks": [
+    "Nippon TV"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Following the collapse of civilization, one storied hotel stands among the ruins of Tokyo’s Ginza district. Overrun by nature, this lone hotel continues to defy humanity’s collapse. Current guests: zero. Check-ins scheduled today: zero. Yesterday’s website traffic: zero. Enter with caution in this story of survival and mystery in a world where the memory of humanity begins to fade.",
+   "popularity": 6.1161,
+   "poster_path": "/nyoCfoSrHRsrgholvTOqZug0zSN.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-09",
+     "episode_count": 12,
+     "name": "A True Hotel Is Always Storied",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Apocalypse Hotel",
+   "trailer": {
+    "key": "epz8n8a2Zik",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 28
+  },
+  "tv:284029": {
+   "backdrop_path": "/u02TXrpVxJXxbh9odWbrqbymPKC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nekoryu (voice)",
+     "n": "Takehito Koyasu"
+    },
+    {
+     "c": "Mamanyan (voice)",
+     "n": "Kikuko Inoue"
+    },
+    {
+     "c": "Shirotae (voice)",
+     "n": "Fuka Izumi"
+    },
+    {
+     "c": "Kurobane (voice)",
+     "n": "Show Hayami"
+    },
+    {
+     "c": "Haibuchi (voice)",
+     "n": "Noriaki Sugiyama"
+    },
+    {
+     "c": "Chikuro (voice)",
+     "n": "Maki Kawase"
+    },
+    {
+     "c": "Kurotama (voice)",
+     "n": "Shinnosuke Tokudome"
+    },
+    {
+     "c": "(voice)",
+     "n": "Atsumi Tanezaki"
+    },
+    {
+     "c": "(voice)",
+     "n": "Chika Anzai"
+    },
+    {
+     "c": "(voice)",
+     "n": "Junya Enoki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [
+    "Oh Jin-koo"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-04",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 284029,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "An orphan since hatched, a lone dragon named “Uncle Wings” is taken in by a family of magic-wielding cats and raised as one of their own. As Uncle Wings grows, he becomes the cats’ protector, determined to keep them safe from humans. But as he watches the cats connect with humans using their magic, Uncle Wings slowly starts to warm up to humans in this heartfelt, bittersweet tale.",
+   "popularity": 5.7013,
+   "poster_path": "/yZ116ytKSsar7EaeDMWyDBbaUQH.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-04",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Cat and the Dragon",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.06,
+   "vote_count": 25
+  },
+  "tv:293629": {
+   "backdrop_path": "/wKILy6ADkaCIbfnam27jWWwlzx9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gai (voice)",
+     "n": "Hiiro Ishibashi"
+    },
+    {
+     "c": "Kaito Uesugi (voice)",
+     "n": "Junya Enoki"
+    },
+    {
+     "c": "Musashi Hojo (voice)",
+     "n": "Ayumu Murase"
+    },
+    {
+     "c": "Yamato Hojo (voice)",
+     "n": "Shunsuke Takeuchi"
+    },
+    {
+     "c": "Shion Ishida (voice)",
+     "n": "Kentaro Kumagai"
+    },
+    {
+     "c": "Ryusei Oda (voice)",
+     "n": "Toshiki Masuda"
+    },
+    {
+     "c": "Mirei Aragaki (voice)",
+     "n": "Lynn"
+    },
+    {
+     "c": "Ramaga (voice)",
+     "n": "Katsuyuki Konishi"
+    },
+    {
+     "c": "Sasuke (voice)",
+     "n": "Takuya Sato"
+    },
+    {
+     "c": "Saizo (voice)",
+     "n": "Kohsuke Toriumi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-01-06",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 293629,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "The Demon World once plunged the Human World into terror. With the seal broken and hordes of Demon Soldiers launching an invasion, five young warriors rushed to humanity's rescue. They were called the Samurai Troopers, and now their battle begins anew!",
+   "popularity": 7.4572,
+   "poster_path": "/lwByWzKRGP3iLsEoUTblWPLmpyS.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-06",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Yoroi-Shinden Samurai Troopers",
+   "trailer": {
+    "key": "vFrZl8cUKDM",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 21
+  },
+  "tv:300529": {
+   "backdrop_path": "/hZvPXP2jtZ7oSu0pSeOB3bB8fhJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kazuko Hosoki",
+     "n": "Erika Toda"
+    },
+    {
+     "c": "Minori Uozumi",
+     "n": "Sairi Ito"
+    },
+    {
+     "c": "Masaya Hotta",
+     "n": "Toma Ikuta"
+    },
+    {
+     "c": "Chiyoko Shimakura",
+     "n": "Toko Miura"
+    },
+    {
+     "c": "Masataka Yasunaga",
+     "n": "Renji Ishibashi"
+    },
+    {
+     "c": "Sojiro Takiguchi",
+     "n": "Tetta Sugimoto"
+    },
+    {
+     "c": "Mine Hosoki",
+     "n": "Yasuko Tomita"
+    },
+    {
+     "c": "Hisao Hosoki",
+     "n": "Gaku Hosokawa"
+    },
+    {
+     "c": "Akiko Hosoki",
+     "n": "Erika Shumoto"
+    },
+    {
+     "c": "Sachiko Hosoki",
+     "n": "Miho Kanazawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    55
+   ],
+   "first_air_date": "2026-04-27",
+   "genres": [
+    "Drama"
+   ],
+   "id": 300529,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 9,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "As Japan's most famous fortune teller, Kazuko Hosoki ruled TV and bestseller lists, but who was she behind rumors of spiritual scams and underworld ties?",
+   "popularity": 6.0943,
+   "poster_path": "/fRgQ7noEDUoP6w2EEQlQgvnrpiy.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-27",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "A queen of fortune… or a master of deception?",
+   "title": "Straight to Hell",
+   "trailer": {
+    "key": "_3fBbn3sgLw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.931,
+   "vote_count": 29
   },
   "tv:4229": {
    "backdrop_path": "/yqKI437ohJAF9EQYkPYH0PTBDEt.jpg",

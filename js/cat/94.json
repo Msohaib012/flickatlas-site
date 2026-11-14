@@ -1,6 +1,6 @@
 {
  "bucket": "94",
- "count": 25,
+ "count": 36,
  "titles": {
   "movie:10994": {
    "backdrop_path": "/yB252zjuN70KFyOUY7MFTfqGa1C.jpg",
@@ -2661,6 +2661,94 @@
    "vote_average": 6.8,
    "vote_count": 366
   },
+  "tv:157194": {
+   "backdrop_path": "/dF5w4FpM62F4wygVUJMiDhAGwX8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "Will Smith"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "National Geographic",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    40
+   ],
+   "first_air_date": "2026-01-13",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 157194,
+   "industry": "world",
+   "networks": [
+    "National Geographic"
+   ],
+   "number_of_episodes": 7,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Inspired by his late mentor, Will Smith spends 100 days facing extreme challenges, venturing from pole to pole with scientists, explorers and experts.",
+   "popularity": 3.7106,
+   "poster_path": "/hJjBRMOKvA0BZanm5pHgO0t04qj.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-13",
+     "episode_count": 7,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Pole to Pole with Will Smith",
+   "trailer": {
+    "key": "-JDWGfL7EEY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.1,
+   "vote_count": 37
+  },
   "tv:194": {
    "backdrop_path": "/uGGmIOPc2QLNF4t3Ro46wRcYr3t.jpg",
    "budget": 0,
@@ -2846,6 +2934,1114 @@
    "type": "tv",
    "vote_average": 7.08,
    "vote_count": 188
+  },
+  "tv:206494": {
+   "backdrop_path": "/sMMEQPPe2xwwnF1JgUVNJ1jCV1V.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Chia-Jen Chen",
+     "n": "Ekin Cheng Yee-kin"
+    },
+    {
+     "c": "Ting-Yu Lin",
+     "n": "Shou Lou"
+    },
+    {
+     "c": "Hsin-Ping Li",
+     "n": "Patty Lee"
+    },
+    {
+     "c": "Ta-Fu Kuo",
+     "n": "Edison Wang"
+    },
+    {
+     "c": "Chen-Wei He",
+     "n": "Lee Lee-zen"
+    },
+    {
+     "c": "Yu-Chieh Chen",
+     "n": "Buffy Chen"
+    },
+    {
+     "c": "Ting-En Li",
+     "n": "Chloe Xiang"
+    },
+    {
+     "c": "Meng-Yen Wei",
+     "n": "Kent Tsai"
+    },
+    {
+     "c": "Chih-Ping Kao",
+     "n": "Zhan Huai-yun"
+    },
+    {
+     "c": "Yan-Hua Liu",
+     "n": "Isaac Yang"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC16",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [
+    "Shaun Su"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-02-12",
+   "genres": [
+    "Mystery",
+    "Crime"
+   ],
+   "id": 206494,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TW"
+   ],
+   "original_language": "zh",
+   "overview": "In this crime thriller, Detective Chen Chia-jen races to unmask Baba the Witch, the viral tarot reader who accurately predicts the deaths of influencers.",
+   "popularity": 3.2612,
+   "poster_path": "/4y4GeGlsbV1643PQLAmQoCeIOBK.jpg",
+   "production_countries": [
+    "TW"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-12",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Million-Follower Detective",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 21
+  },
+  "tv:248394": {
+   "backdrop_path": "/lhbT6Kmv8yi4QJzyshTRCdoNhfV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Keisha Clark",
+     "n": "Lovie Simone"
+    },
+    {
+     "c": "Justin Edwards",
+     "n": "Michael Cooper Jr."
+    },
+    {
+     "c": "Shelly Clark",
+     "n": "Xosha Roquemore"
+    },
+    {
+     "c": "Jaden Edwards",
+     "n": "Marvin L. Winans III"
+    },
+    {
+     "c": "Eric Edwards",
+     "n": "Wood Harris"
+    },
+    {
+     "c": "Dawn Edwards",
+     "n": "Karen Pittman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Netflix",
+   "created_by": [
+    "Mara Brock Akil"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-08",
+   "genres": [
+    "Drama"
+   ],
+   "id": 248394,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Reunited as teens, childhood friends Keisha and Justin fall deeply in love, experiencing the joy and heartache of a first romance that will change their lives forever.",
+   "popularity": 5.8694,
+   "poster_path": "/twlp0YMmuKmn4cKAInAL3zde59W.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-08",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "FOREVER",
+   "trailer": {
+    "key": "Dqg3pzQH8Ew",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.745,
+   "vote_count": 55
+  },
+  "tv:256694": {
+   "backdrop_path": "/l75H7ymGd96jPWdIjvOXW0qvEM4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jake (voice)",
+     "n": "John DiMaggio"
+    },
+    {
+     "c": "Finn (voice)",
+     "n": "Sasha Knight"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Hulu",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-06-29",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 256694,
+   "industry": "world",
+   "networks": [
+    "Hulu",
+    "Disney+"
+   ],
+   "number_of_episodes": 40,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Young hero Finn and his magical dog best friend Jake embark on adventures across the fantastical land of Ooo — partying with cloud people and punching evil in the butt along the way.",
+   "popularity": 13.6777,
+   "poster_path": "/9CzcOB5J2ld2mIRMzHIwYGYx1Cn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-29",
+     "episode_count": 20,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-10-02",
+     "episode_count": 20,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Adventure Time: Side Quests",
+   "trailer": {
+    "key": "OEznILDuGj4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.9,
+   "vote_count": 30
+  },
+  "tv:257994": {
+   "backdrop_path": "/voRcBEjydt5dJNgXuqtobIsZIbJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ruben",
+     "n": "Richard Gadd"
+    },
+    {
+     "c": "Niall",
+     "n": "Jamie Bell"
+    },
+    {
+     "c": "Lori",
+     "n": "Neve McIntosh"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "BBC One",
+   "created_by": [
+    "Richard Gadd"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-28",
+   "genres": [
+    "Drama"
+   ],
+   "id": 257994,
+   "industry": "world",
+   "networks": [
+    "BBC One"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When Niall's estranged 'brother' Ruben shows up at his wedding, it leads to an explosion of violence that catapults us back through their lives.",
+   "popularity": 7.1066,
+   "poster_path": "/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-28",
+     "episode_count": 6,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Some bonds may break you.",
+   "title": "Half Man",
+   "trailer": {
+    "key": "egkRy1U94tA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.975,
+   "vote_count": 160
+  },
+  "tv:262594": {
+   "backdrop_path": "/4h1hvQ5ejTBtsceNP4KfZ4sBmoC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Ewan McGregor"
+    },
+    {
+     "c": "Self",
+     "n": "Charley Boorman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Apple TV",
+   "created_by": [
+    "David Alexanian",
+    "Charley Boorman",
+    "Russ Malkin",
+    "Ewan McGregor"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-09",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 262594,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Best friends Ewan McGregor and Charley Boorman gear up for their fourth Long Way series—this time going from Ewan's home in Scotland to Charley's in England. They'll take the scenic route, of course, through 17 European countries on cranky old bikes.",
+   "popularity": 3.2043,
+   "poster_path": "/1RwUnfSIChKVfsrS69ZMN51RhRA.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-09",
+     "episode_count": 10,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "17 countries. Another epic adventure.",
+   "title": "Long Way Home",
+   "trailer": {
+    "key": "gyu1UAtbwAo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 24
+  },
+  "tv:298994": {
+   "backdrop_path": "/ydWwc4NOeDb7t8pcR3tf6n12rLB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kouji Kagami (voice)",
+     "n": "Satoshi Inomata"
+    },
+    {
+     "c": "Alice (voice)",
+     "n": "Nao Toyama"
+    },
+    {
+     "c": "Takako Bilda (voice)",
+     "n": "Hiroya Egashira"
+    },
+    {
+     "c": "Krull Hekisaldoria (voice)",
+     "n": "Manaka Iwami"
+    },
+    {
+     "c": "Rex (voice)",
+     "n": "Nobunaga Shimazaki"
+    },
+    {
+     "c": "Tina (voice)",
+     "n": "Aoi Koga"
+    },
+    {
+     "c": "Paruna (voice)",
+     "n": "Lynn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-02",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 298994,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In Earthclear, everyone is born into a fixed role, and villagers are the weakest of all. Most never rise above Level 5—except Koji Kagami, who is Level...999?! On a monster hunt, he meets Alice, the Demon King's daughter, and discovers they share an impossible dream: coexistence between humans and demons. In a world destined for conflict, they charge into battle to defy fate and shatter the rules.",
+   "popularity": 8.0839,
+   "poster_path": "/pXnQuQyt7LUb62ZF9J6vDAcymIW.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-02",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Villager of Level 999",
+   "trailer": {
+    "key": "nKRzpby_5tU",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.457,
+   "vote_count": 23
+  },
+  "tv:300894": {
+   "backdrop_path": "/u39VepT8l7cgDy9nsXG76t4av9n.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sanjay - Narrator (voice)",
+     "n": "Vinod Sharma"
+    },
+    {
+     "c": "Krishn (voice)",
+     "n": "Sahil Vaid"
+    },
+    {
+     "c": "Arjun (voice)",
+     "n": "Saumya Daan"
+    },
+    {
+     "c": "Yudhisthir (voice)",
+     "n": "Anamaya Verma"
+    },
+    {
+     "c": "Bheem (voice)",
+     "n": "Manoj Pandey"
+    },
+    {
+     "c": "Kunti (voice)",
+     "n": "Neha Gargawa"
+    },
+    {
+     "c": "Duryodhan (voice)",
+     "n": "Pawan Kalra"
+    },
+    {
+     "c": "Karn (voice)",
+     "n": "Krutarth Trive"
+    },
+    {
+     "c": "Shakuni (voice)",
+     "n": "Vinod Kulkarni"
+    },
+    {
+     "c": "Bhishm (voice)",
+     "n": "Nand Kishore Pandey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Netflix",
+   "created_by": [
+    "Anu Sikka"
+   ],
+   "director": [
+    "Ujaan Ganguly"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-10",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Animation",
+    "War & Politics"
+   ],
+   "id": 300894,
+   "industry": "bollywood",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 18,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "An epic 18-day battle unfolds through the perspectives of 18 warriors, revealing their inner struggles and ethical challenges during a war between brothers.",
+   "popularity": 4.2099,
+   "poster_path": "/xbafLh6kWkWf87dqHdoHFDWGot9.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-10",
+     "episode_count": 18,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi",
+    "te"
+   ],
+   "status": "Ended",
+   "tagline": "Mahabharata’s Battlefield Knew No Friends or Enemies — Only Dharma and Destiny",
+   "title": "Kurukshetra: The Great War of Mahabharata",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 35
+  },
+  "tv:316294": {
+   "backdrop_path": "/4L9sftGH7oQ1bpB0aQHERwyfDVd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sun",
+     "n": "Thanakorn Wichanukhor"
+    },
+    {
+     "c": "Jay",
+     "n": "Jarukit Kaewmoonrueang"
+    },
+    {
+     "c": "Sky",
+     "n": "Paramee Thesdaroon"
+    },
+    {
+     "c": "Pakin",
+     "n": "Chaikamon Sermsongwittaya"
+    },
+    {
+     "c": "Bank",
+     "n": "Thanawat Shinawatra"
+    },
+    {
+     "c": "Kajorn",
+     "n": "Jirapat Uttamanan"
+    },
+    {
+     "c": "Songphon",
+     "n": "Klot Atthaseri"
+    },
+    {
+     "c": "Pavinee",
+     "n": "Suttida Kasemsant Na Ayutthaya"
+    },
+    {
+     "c": "Jo",
+     "n": "Gandhi​ Wasuvitchayagit"
+    },
+    {
+     "c": "Suchat",
+     "n": "Yasaka Chaisorn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "น 18+",
+   "channel": "ONE 31",
+   "created_by": [
+    "samK"
+   ],
+   "director": [
+    "Pongchaiphat Sethanand"
+   ],
+   "episode_run_time": [
+    70
+   ],
+   "first_air_date": "2026-05-30",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Action & Adventure"
+   ],
+   "id": 316294,
+   "industry": "world",
+   "networks": [
+    "ONE 31"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "A grieving debt collector enters the entertainment world for revenge, only to fall into a dangerous attraction with a powerful executive.",
+   "popularity": 6.0451,
+   "poster_path": "/616HQHGVqEh0ZbQIRdyjIBQfqhU.jpg",
+   "production_countries": [
+    "TH",
+    "JP",
+    "KR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-30",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Payback",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.926,
+   "vote_count": 27
+  },
+  "tv:321594": {
+   "backdrop_path": "/wjg2I9SPAuRQV7cCVIjgQK62Hqi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alex",
+     "n": "José María Yázpik"
+    },
+    {
+     "c": "Maria",
+     "n": "Àstrid Bergès-Frisbey"
+    },
+    {
+     "c": "Mikka",
+     "n": "Juan Carlos Remolina"
+    },
+    {
+     "c": "Sara Alcala",
+     "n": "Karla Souza"
+    },
+    {
+     "c": "Himari Miller",
+     "n": "Isabel Aerenlund"
+    },
+    {
+     "c": "Gloria",
+     "n": "Ilse Salas"
+    },
+    {
+     "c": "Frank",
+     "n": "Andrés Parra"
+    },
+    {
+     "c": "Anya",
+     "n": "Natasha Dupeyrón"
+    },
+    {
+     "c": "Roy",
+     "n": "Harding Junior"
+    },
+    {
+     "c": "Martin",
+     "n": "Horacio García Rojas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [
+    "Juan Pablo Pires"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-05-22",
+   "genres": [
+    "Drama"
+   ],
+   "id": 321594,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "A robotics engineer moves with his family to Mexico to secretly test humanoid androids, investigating the emotional dilemmas and clashes between humans and artificial beings.",
+   "popularity": 2.1082,
+   "poster_path": "/seLCeeCuoK6vba3SRXdmaUkb5mL.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-22",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Futuro desierto",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 22
+  },
+  "tv:329394": {
+   "backdrop_path": "/aQFeADnhJimn635owevcpwyaUAG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Papá de los hermanos de Julieta/esposo de Macarena",
+     "n": "Manolo Cardona"
+    },
+    {
+     "c": "Esposo de Yolanda/Papa de las hermanas de Julieta",
+     "n": "Erik Hayser"
+    },
+    {
+     "c": "Yolanda",
+     "n": "Paola Nuñez"
+    },
+    {
+     "c": "Julieta",
+     "n": "Azul Guaita"
+    },
+    {
+     "c": "Gustavo",
+     "n": "Sebastián Dante"
+    },
+    {
+     "c": "Bernado",
+     "n": "Emilio Osorio"
+    },
+    {
+     "c": "Victoria",
+     "n": "Pamela Moreno"
+    },
+    {
+     "c": "Maria",
+     "n": "Romina Poza"
+    },
+    {
+     "c": "Dr. Christian Jiménez",
+     "n": "Alejandro Cuétara"
+    },
+    {
+     "c": "Macarena",
+     "n": "Silvia Navarro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "19",
+   "channel": "Netflix",
+   "created_by": [
+    "Roberto Stopello"
+   ],
+   "director": [
+    "Roberto Stopello"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-22",
+   "genres": [
+    "Drama"
+   ],
+   "id": 329394,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Follows Julieta who, during her graduation party suffers a life-threatening health crisis that forces her mother, Maca, to face secrets from the past.",
+   "popularity": 4.4996,
+   "poster_path": "/wUUS9lwm82R8nlYMIaijt8dQbIz.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-22",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "My Daughter's Father",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 9.1,
+   "vote_count": 64
   },
   "tv:35894": {
    "backdrop_path": "/n4MfPSRk5PzHeVrm43NHam8oH5d.jpg",

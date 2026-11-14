@@ -1,6 +1,6 @@
 {
  "bucket": "32",
- "count": 24,
+ "count": 28,
  "titles": {
   "movie:10032": {
    "backdrop_path": "/xm7dypK8AlW3LdVtjmwgMzez4or.jpg",
@@ -921,126 +921,6 @@
    "type": "movie",
    "vote_average": 7.6,
    "vote_count": 133
-  },
-  "movie:1479832": {
-   "backdrop_path": "/v7kqufGRDotShPCw53SM7m8t6oc.jpg",
-   "budget": 2646327,
-   "cast": [
-    {
-     "c": "Devadas",
-     "n": "Lokesh Kanagaraj"
-    },
-    {
-     "c": "Chandra",
-     "n": "Wamiqa Gabbi"
-    },
-    {
-     "c": "Parvathi",
-     "n": "Sanjana Krishnamoorthy"
-    },
-    {
-     "c": "Kitty",
-     "n": "Avinash Raghudevan"
-    },
-    {
-     "c": "Karuppan",
-     "n": "Jawahar Sakthi"
-    },
-    {
-     "c": "Chunnilal",
-     "n": "Sharath Ravi"
-    },
-    {
-     "c": "Sendhooran",
-     "n": "Kasthoori Raja"
-    },
-    {
-     "c": "Arasu",
-     "n": "Thalaivasal Vijay"
-    },
-    {
-     "c": "Sebastian",
-     "n": "Pranav Teophine"
-    },
-    {
-     "c": "Ashraf",
-     "n": "Balaji Devi Prasad"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "A",
-   "date_kind": "release",
-   "director": [
-    "Arun Matheswaran"
-   ],
-   "genres": [
-    "Romance",
-    "Action",
-    "Drama"
-   ],
-   "id": 1479832,
-   "industry": "bollywood",
-   "origin_country": [
-    "IN"
-   ],
-   "original_language": "ta",
-   "overview": "From avenging his mother’s murder to battling police corruption, Das becomes a fugitive after a deadly heist. Amid a trail of bloodshed and loss, he frees Chandra from a life of exploitation, and she gives him a reason to seek a life beyond violence.",
-   "popularity": 4.0903,
-   "poster_path": "/k9AwqfQ9wYtaGew8oZh6GBouvO2.jpg",
-   "production_countries": [
-    "IN"
-   ],
-   "providers": [
-    {
-     "name": "Sony Liv"
-    },
-    {
-     "name": "Sun Nxt"
-    },
-    {
-     "name": "Sonyliv Amazon Channel"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
-     "name": "Sony Liv",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
-     "name": "Sun Nxt",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
-     "name": "Sonyliv Amazon Channel",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-08-07",
-   "revenue": 10585310,
-   "runtime": 142,
-   "source": "catalogue",
-   "spoken_languages": [
-    "ta",
-    "hi"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "DC",
-   "trailer": null,
-   "type": "movie",
-   "vote_average": 7.7,
-   "vote_count": 33
   },
   "movie:1662432": {
    "backdrop_path": "/3S2YwyacgPspDSHbUhnApjEx2Wp.jpg",
@@ -2469,6 +2349,574 @@
    "type": "tv",
    "vote_average": 8.264,
    "vote_count": 694
+  },
+  "tv:247732": {
+   "backdrop_path": "/ub0xUWZUBoAwy1eBG1uwi9ikaVg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tony DiNozzo",
+     "n": "Michael Weatherly"
+    },
+    {
+     "c": "Ziva David",
+     "n": "Cote De Pablo"
+    },
+    {
+     "c": "Tali",
+     "n": "Isla Gie"
+    },
+    {
+     "c": "Claudette",
+     "n": "Amita Suman"
+    },
+    {
+     "c": "Boris",
+     "n": "Maximilian Osinski"
+    },
+    {
+     "c": "Martine",
+     "n": "Nassima Benchicou"
+    },
+    {
+     "c": "Jonah",
+     "n": "Julian Ovenden"
+    },
+    {
+     "c": "Sophie",
+     "n": "Lara Rossi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Paramount+",
+   "created_by": [
+    "John McNamara"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-04",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Crime"
+   ],
+   "id": 247732,
+   "industry": "world",
+   "networks": [
+    "Paramount+"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When his security company is attacked, Tony and Ziva must go on the run across Europe, try to figure out who is after them and maybe even learn to trust each other again so that they can finally have their unconventional happily ever after.",
+   "popularity": 6.2796,
+   "poster_path": "/zNIANQsAs2kbxbzbTTe5dTBzhKe.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-04",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "",
+   "title": "NCIS: Tony & Ziva",
+   "trailer": {
+    "key": "wSawZVeaKao",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.835,
+   "vote_count": 100
+  },
+  "tv:272432": {
+   "backdrop_path": "/eFcPBI0tEnFRiJaNHQ74ZcSNQCg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Zhang Yi'ang",
+     "n": "Wang Xiao"
+    },
+    {
+     "c": "Li Qian",
+     "n": "Tian Xiwei"
+    },
+    {
+     "c": "Zhou Rong",
+     "n": "Wang Chuanjun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "channel": "Jiangsu Television",
+   "created_by": [],
+   "director": [
+    "Liu Haibo"
+   ],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2026-05-04",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Crime",
+    "Comedy"
+   ],
+   "id": 272432,
+   "industry": "world",
+   "networks": [
+    "Jiangsu Television",
+    "Dragon Television",
+    "iQiyi",
+    "Migu Video"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "Zhang Yi'ang, a veteran detective, is sent to Sanjiangkou to investigate a case but soon finds himself caught in a web of crime and corruption. While pursuing a powerful criminal network, he unexpectedly receives help from a group of bungling thieves, who inadvertently aid his mission to unravel the truth behind a murder.",
+   "popularity": 6.9466,
+   "poster_path": "/3t7xGceBAsSzWMuDdUpa6xS0x7p.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-04",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Born with Luck",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 21
+  },
+  "tv:280632": {
+   "backdrop_path": "/sSWGSIBUWtv7b6UctGlYkqAPJIq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yu Wanyin / Wang Cuihua",
+     "n": "Wang Churan"
+    },
+    {
+     "c": "Xiahou Dan / Zhang San",
+     "n": "Cheng Lei"
+    },
+    {
+     "c": "Xiahou Po",
+     "n": "Tang Xiaotian"
+    },
+    {
+     "c": "Xie Yong'er",
+     "n": "Hu Yixuan"
+    },
+    {
+     "c": "Consort Shu",
+     "n": "Dong Siyi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "iQiyi",
+   "created_by": [],
+   "director": [
+    "Wang Li",
+    "Liu Haibo"
+   ],
+   "episode_run_time": [
+    40
+   ],
+   "first_air_date": "2026-02-06",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Comedy"
+   ],
+   "id": 280632,
+   "industry": "world",
+   "networks": [
+    "iQiyi"
+   ],
+   "number_of_episodes": 32,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "Rookie office worker Wang Cuihua is suddenly pulled into the world of a novel, where she meets Xiahou Dan, a powerful king hiding his true identity. Both outsiders to this world, they join forces to survive a twisted fate, facing political intrigue, ancient prophecies, and life-or-death choices. As they fight to change their destiny, a powerful bond forms, one that could reshape the future of the kingdom.",
+   "popularity": 12.5918,
+   "poster_path": "/fZdsMwqzOPu6UroxZD78yA1zqKR.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-06",
+     "episode_count": 32,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "How Are You",
+   "title": "How Dare You!?",
+   "trailer": {
+    "key": "dpt09n7MUAw",
+    "name": "Trailer: Demon Consort👑Wang Churan VS The Mad King Cheng Lei |How dare you!?成何体统| iQIYI |Stay tuned",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.867,
+   "vote_count": 30
+  },
+  "tv:290232": {
+   "backdrop_path": "/9eHQh4Ji4wWksUSln264LZt3NfL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Pino",
+     "n": "Luis Alberti"
+    },
+    {
+     "c": "Teresa",
+     "n": "Fátima Molina"
+    },
+    {
+     "c": "Guadalupe/Lupe",
+     "n": "Yoshira Escárrega"
+    },
+    {
+     "c": "Rodrigo",
+     "n": "Humberto Busto"
+    },
+    {
+     "c": "Margarita",
+     "n": "Leidi Gutiérrez"
+    },
+    {
+     "c": "ROSALÍO",
+     "n": "Fernando Cuautle"
+    },
+    {
+     "c": "Felipe",
+     "n": "Yago Andreu Sandoval"
+    },
+    {
+     "c": "Bárbara",
+     "n": "Rafaella López"
+    },
+    {
+     "c": "Salvador",
+     "n": "Ian Andrade"
+    },
+    {
+     "c": "Toño",
+     "n": "Damian Vergara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC16",
+   "channel": "Netflix",
+   "created_by": [
+    "Ernesto Contreras"
+   ],
+   "director": [
+    "Alejandro Zuno",
+    "Alba Gil"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-08",
+   "genres": [
+    "Drama"
+   ],
+   "id": 290232,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "10-year-old Miguel stumbles upon a terrifying secret involving a boy trapped in a hole near his home.",
+   "popularity": 3.3665,
+   "poster_path": "/ydUCCsKWNkGFecRPKHViWi0lppz.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-08",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "I'm Not Afraid",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.764,
+   "vote_count": 55
+  },
+  "tv:292532": {
+   "backdrop_path": "/jccQakK5TaHYzi7IA0pPDEskl7P.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Pelé",
+     "n": "Lucas Agrícola"
+    },
+    {
+     "c": "João Saldanha",
+     "n": "Rodrigo Santoro"
+    },
+    {
+     "c": "Zagallo",
+     "n": "Bruno Mazzeo"
+    },
+    {
+     "c": "Eusébio Teixeira",
+     "n": "Marcelo Adnet"
+    },
+    {
+     "c": "Tostão",
+     "n": "Ravel Andrade"
+    },
+    {
+     "c": "Félix",
+     "n": "Hugo Haddad"
+    },
+    {
+     "c": "Paulo Cézar Caju",
+     "n": "Maicon Rodrigues"
+    },
+    {
+     "c": "Rivelino",
+     "n": "Daniel Blanco"
+    },
+    {
+     "c": "Gérson",
+     "n": "Fillipe Soutto"
+    },
+    {
+     "c": "Jairzinho",
+     "n": "Gui Ferraz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Naná Xavier",
+    "Rafael Dornellas"
+   ],
+   "director": [
+    "Pedro Morelli",
+    "Paulo Morelli"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-05-29",
+   "genres": [
+    "Drama"
+   ],
+   "id": 292532,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 5,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "In 1970, the Brazilian national team took the field with big dreams and an even bigger challenge: to become the first three-time world champions.",
+   "popularity": 4.5598,
+   "poster_path": "/u6PBGDVs0CZJsq8IpWI5C4u0eyl.jpg",
+   "production_countries": [
+    "BR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-29",
+     "episode_count": 5,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Brazil '70: The Third Star",
+   "trailer": {
+    "key": "EzOpCMbRP-s",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.3,
+   "vote_count": 22
   },
   "tv:31132": {
    "backdrop_path": "/bhF63Jd90gRYyTHd4y5GCGA2vX6.jpg",

@@ -784,110 +784,6 @@
    "vote_average": 5.969,
    "vote_count": 753
   },
-  "movie:1561687": {
-   "backdrop_path": "/5MaWBfAxdlbsqDpq8mjCBNVoLM3.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Shenba",
-     "n": "Priyanka Arul Mohan"
-    },
-    {
-     "c": "Mani",
-     "n": "Rishikanth"
-    },
-    {
-     "c": "Yeon-Ok",
-     "n": "Park Hye-jin"
-    },
-    {
-     "c": "Heo Jun-jae",
-     "n": "Baek Si-hun"
-    },
-    {
-     "c": "Min-seok",
-     "n": "Jang Jae-hyeon"
-    },
-    {
-     "c": "Han-sol",
-     "n": "Kim So-ri"
-    },
-    {
-     "c": "Sung-hun",
-     "n": "Jo Ha-ram"
-    },
-    {
-     "c": "Woo-jin",
-     "n": "Kim Rok"
-    },
-    {
-     "c": "Shenba's Father",
-     "n": "Thirunavukkarasu"
-    },
-    {
-     "c": "Saamy",
-     "n": "Jenson Dhivakar"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 13+",
-   "date_kind": "release",
-   "director": [
-    "Ra. Karthik"
-   ],
-   "genres": [
-    "Drama"
-   ],
-   "id": 1561687,
-   "industry": "bollywood",
-   "origin_country": [
-    "IN"
-   ],
-   "original_language": "ta",
-   "overview": "A woman from a small town in Tamil Nadu moves to South Korea — a place she always dreamed of — but struggles to find her footing in a foreign land.",
-   "popularity": 1.9286,
-   "poster_path": "/n6gCKjagOFsU4arFngUq2QqR1jv.jpg",
-   "production_countries": [
-    "IN"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-03-12",
-   "revenue": 0,
-   "runtime": 113,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en",
-    "ko",
-    "ta"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Made in Korea",
-   "trailer": null,
-   "type": "movie",
-   "vote_average": 7.1,
-   "vote_count": 46
-  },
   "movie:1659087": {
    "backdrop_path": "/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
    "budget": 0,
@@ -2142,6 +2038,110 @@
    "type": "tv",
    "vote_average": 7.3,
    "vote_count": 629
+  },
+  "tv:314587": {
+   "backdrop_path": "/7zWL90DAqtQxwC8PFTe2LiCk5TN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Renato",
+     "n": "Sebastián Rulli"
+    },
+    {
+     "c": "Paloma",
+     "n": "Alejandra Barros"
+    },
+    {
+     "c": "Bárbara",
+     "n": "Ela Velden"
+    },
+    {
+     "c": "Gustavo",
+     "n": "Arturo Peniche"
+    },
+    {
+     "c": "Georgina Rodríguez",
+     "n": "Martha Julia"
+    },
+    {
+     "c": "Porfirio",
+     "n": "Marco Treviño"
+    },
+    {
+     "c": "Consuelo",
+     "n": "Ana Bertha Espín"
+    },
+    {
+     "c": "Luis Ernesto",
+     "n": "Edward Castillo"
+    },
+    {
+     "c": "Lupita",
+     "n": "Cassandra Iturralde"
+    },
+    {
+     "c": "Santiago",
+     "n": "Nicolás Pous"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "Las Estrellas",
+   "created_by": [
+    "Carmen Armendáriz"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-02",
+   "genres": [
+    "Drama",
+    "Soap"
+   ],
+   "id": 314587,
+   "industry": "world",
+   "networks": [
+    "Las Estrellas",
+    "TVP VOD"
+   ],
+   "number_of_episodes": 53,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Paloma, married to a wealthy plantation owner, falls for Renato, a young man brought to manage the estate. Renato’s success and Paloma’s daughter’s love for him create a rift between mother and daughter, turning them into rivals.",
+   "popularity": 3.1779,
+   "poster_path": "/cZVOZl7Xx2G1BdKC1Apx2GxobcO.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-02",
+     "episode_count": 53,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Mi rival",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 9.1,
+   "vote_count": 36
   },
   "tv:387": {
    "backdrop_path": "/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",

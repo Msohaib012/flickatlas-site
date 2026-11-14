@@ -1,6 +1,6 @@
 {
  "bucket": "59",
- "count": 24,
+ "count": 30,
  "titles": {
   "movie:104859": {
    "backdrop_path": "/hozr6lmxzdEAwADSINd4YQjmTg6.jpg",
@@ -2695,6 +2695,130 @@
    "vote_average": 6.725,
    "vote_count": 473
   },
+  "tv:113959": {
+   "backdrop_path": "/8UuyKCIaX0MqcECmcgPxFCANkq4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jim Ellis",
+     "n": "Josh Holloway"
+    },
+    {
+     "c": "Nina Hayes",
+     "n": "Rachel Hilson"
+    },
+    {
+     "c": "Awan",
+     "n": "Asivak Koostachin"
+    },
+    {
+     "c": "Genesis Saxton",
+     "n": "Sydney Elisabeth"
+    },
+    {
+     "c": "Royce Saxton",
+     "n": "Benjamin Charles Watson"
+    },
+    {
+     "c": "Izzy Reyna",
+     "n": "Camille Guaty"
+    },
+    {
+     "c": "Luna Reyna",
+     "n": "Adriana Aluna Martinez"
+    },
+    {
+     "c": "Nathan Abbott",
+     "n": "Greg Grunberg"
+    },
+    {
+     "c": "Ezra Saxton",
+     "n": "Keith David"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Max",
+   "created_by": [
+    "J.J. Abrams",
+    "LaToya Morgan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-15",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 113959,
+   "industry": "world",
+   "networks": [
+    "Max"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1972, the first Black female FBI agent heads to the Southwest and recruits a gutsy getaway driver in a bold effort to take down a growing crime syndicate.",
+   "popularity": 7.4685,
+   "poster_path": "/wYBsKEFU0qHdhSI9QtQjL8HELMn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-15",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Everyone needs an inside man.",
+   "title": "Duster",
+   "trailer": {
+    "key": "ih01iblDuHg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.5,
+   "vote_count": 92
+  },
   "tv:1759": {
    "backdrop_path": "/wWXFRPABf2D0eFjYNXNM0JhmTZF.jpg",
    "budget": 0,
@@ -2993,6 +3117,501 @@
    "vote_average": 7.046,
    "vote_count": 358
   },
+  "tv:240459": {
+   "backdrop_path": "/c78kbj781ddvmSn5mgLWFQbC7di.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ashur",
+     "n": "Nick E. Tarabay"
+    },
+    {
+     "c": "Korris",
+     "n": "Graham McTavish"
+    },
+    {
+     "c": "Achillia",
+     "n": "Tenika Davis"
+    },
+    {
+     "c": "Hilara",
+     "n": "Jamaica Vaughan"
+    },
+    {
+     "c": "Messia",
+     "n": "Ivana Baquero"
+    },
+    {
+     "c": "Tarchon",
+     "n": "Jordi Webber"
+    },
+    {
+     "c": "Cossutia",
+     "n": "Claudia Black"
+    },
+    {
+     "c": "Viridia",
+     "n": "India Shaw-Smith"
+    },
+    {
+     "c": "Satyrus",
+     "n": "Leigh Gill"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "STARZ",
+   "created_by": [
+    "Steven S. DeKnight"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-12-05",
+   "genres": [
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 240459,
+   "industry": "world",
+   "networks": [
+    "STARZ"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a world where he survived the events of Spartacus, Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
+   "popularity": 19.5669,
+   "poster_path": "/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/adymMNlhhLlJl5xccRCrsh3OehD.png",
+     "name": "Starz Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-05",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "His fate has changed.",
+   "title": "Spartacus: House of Ashur",
+   "trailer": {
+    "key": "sHl32450smA",
+    "name": "Official Green Band Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 353
+  },
+  "tv:255859": {
+   "backdrop_path": "/znwchNfU5Vr2RNbxnI2iVIxVeMD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alex Dempsey",
+     "n": "Mae Martin"
+    },
+    {
+     "c": "Laura Redman",
+     "n": "Sarah Gadon"
+    },
+    {
+     "c": "Leila",
+     "n": "Alyvia Alyn Lind"
+    },
+    {
+     "c": "Abbie",
+     "n": "Sydney Topliffe"
+    },
+    {
+     "c": "Evelyn Wade",
+     "n": "Toni Collette"
+    },
+    {
+     "c": "Mule",
+     "n": "Tricia Black"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Mae Martin"
+   ],
+   "director": [],
+   "episode_run_time": [
+    44
+   ],
+   "first_air_date": "2025-09-25",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 255859,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
+   "popularity": 7.1992,
+   "poster_path": "/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-25",
+     "episode_count": 8,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "We think you'll be very happy here.",
+   "title": "Wayward",
+   "trailer": {
+    "key": "2kSNuohhKyc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.144,
+   "vote_count": 195
+  },
+  "tv:272059": {
+   "backdrop_path": "/4b0oKiGtlwX19b0y6tQQC1ea0o5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Wang Nuonuo (voice), Pomelo (voice)",
+     "n": "Nie Xiying"
+    },
+    {
+     "c": "Lin Ling (voice) / Nice (voice)",
+     "n": "Gu Jiangshan"
+    },
+    {
+     "c": "E-Soul (voice)",
+     "n": "Yang Kaiqi"
+    },
+    {
+     "c": "Ahu (voice)",
+     "n": "Zhang Fuzheng"
+    },
+    {
+     "c": "Lucky Cyan (voice)",
+     "n": "Zhao Shuang"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "bilibili",
+   "created_by": [
+    "Li Haoling"
+   ],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-04-06",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 272059,
+   "industry": "world",
+   "networks": [
+    "bilibili"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "In a world full of brilliant heroes, it’s the trust of fans that turns heroes into superheroes. If a hero loses the people’s trust, they lose their special abilities. Trust value is collected, quantified, and used to determine a hero’s ranking, displayed on their wrist. Every two years, the top heroes go to a tournament to fight, determine new trust values, and earn their rankings.",
+   "popularity": 10.4073,
+   "poster_path": "/7ynNG9lYS9HIR8cYMgawO19VPkg.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-06",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "TO BE HERO X",
+   "trailer": {
+    "key": "gSo_Tdtuct4",
+    "name": "Behind the Scenes Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.564,
+   "vote_count": 148
+  },
+  "tv:288659": {
+   "backdrop_path": "/lQcUbt8Rs0TcmIhsVGpoEeqWHwE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hinagiku Kayo (voice)",
+     "n": "Yuka Nukui"
+    },
+    {
+     "c": "Sakura Himedaka (voice)",
+     "n": "Yoshino Aoyama"
+    },
+    {
+     "c": "Ruri Hazakura (voice)",
+     "n": "Sumire Uesaka"
+    },
+    {
+     "c": "Ayame Hazakura (voice)",
+     "n": "Ranko Baba"
+    },
+    {
+     "c": "Nadeshiko Iwaizuki (voice)",
+     "n": "Hime Sawada"
+    },
+    {
+     "c": "Rindo Azami (voice)",
+     "n": "Taku Yashiro"
+    },
+    {
+     "c": "Rosei Kantsubaki (voice)",
+     "n": "Shogo Sakata"
+    },
+    {
+     "c": "Itecho Kangetsu (voice)",
+     "n": "Satoshi Hino"
+    },
+    {
+     "c": "Kobai Yukiyanagi (voice)",
+     "n": "Kana Hanazawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Gunma TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-03-29",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 288659,
+   "industry": "world",
+   "networks": [
+    "Gunma TV",
+    "TOKYO MX",
+    "BS11",
+    "Tochigi TV"
+   ],
+   "number_of_episodes": 14,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "When the Agent of Spring, Hinagiku Kayo, is abducted, spring itself vanishes—plunging the world into unending winter. Refusing to give up, her devoted guard, Sakura Himedaka, searches for her for years. When Hinagiku suddenly returns, the two set out to restore the lost season, face the past that tore them apart, and reclaim the warmth they refuse to lose again.",
+   "popularity": 10.8628,
+   "poster_path": "/dlWRXxIuTLC5zd44itmWuXQp89v.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-29",
+     "episode_count": 14,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Agents of the Four Seasons Dance of Spring",
+   "trailer": {
+    "key": "xveG681mDnI",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.2,
+   "vote_count": 28
+  },
   "tv:312359": {
    "backdrop_path": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
    "budget": 0,
@@ -3143,6 +3762,121 @@
    "type": "tv",
    "vote_average": 9.628,
    "vote_count": 414
+  },
+  "tv:321559": {
+   "backdrop_path": "/xiCfjMXdxVXxizYSgDNH84BZcbt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Seo Yi-do / Heo Dong-jin",
+     "n": "Kim Seung-beom"
+    },
+    {
+     "c": "Chu Tae-jeong",
+     "n": "Kim Kyung-min"
+    },
+    {
+     "c": "Heo Dong-hwa",
+     "n": "Lee Jung-ho"
+    },
+    {
+     "c": "Kang Cheol-jin",
+     "n": "Lee Seung-noh"
+    },
+    {
+     "c": "Choi Mu-geon",
+     "n": "Donghyun Baek"
+    },
+    {
+     "c": "Kentaro",
+     "n": "Takuya Terada"
+    },
+    {
+     "c": "Sung Jin-woo",
+     "n": "Im Jeong-gyu"
+    },
+    {
+     "c": "Hyun Yi",
+     "n": "Lee Jae-jun"
+    },
+    {
+     "c": "Chu Dae-seok",
+     "n": "Ju Jeong-hyeon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "wavve",
+   "created_by": [
+    "Son Tae-gyum",
+    "Jeong Min-seong"
+   ],
+   "director": [
+    "Son Tae-gyum"
+   ],
+   "episode_run_time": [
+    30
+   ],
+   "first_air_date": "2026-06-05",
+   "genres": [
+    "Drama",
+    "Action & Adventure"
+   ],
+   "id": 321559,
+   "industry": "world",
+   "networks": [
+    "wavve"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "While hiding a kidnapped target, a contract killer’s cover unravels when he falls for the detective hunting the truth.",
+   "popularity": 5.8688,
+   "poster_path": "/cEHiM6ndDgfcwVUo5u7LyY9CZUU.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-05",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "A fatal romance blooming amid heart-stopping tension",
+   "title": "The Lie We Lived In",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 21
   },
   "tv:60059": {
    "backdrop_path": "/rfxryDIv8huejujg4JueDJx8zCz.jpg",

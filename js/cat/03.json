@@ -1,229 +1,7 @@
 {
  "bucket": "03",
- "count": 24,
+ "count": 32,
  "titles": {
-  "movie:1081003": {
-   "backdrop_path": "/heZQmyNvkH236ha2M3JckdUQQqb.jpg",
-   "budget": 175000000,
-   "cast": [
-    {
-     "c": "Supergirl",
-     "n": "Milly Alcock"
-    },
-    {
-     "c": "Ruthye",
-     "n": "Eve Ridley"
-    },
-    {
-     "c": "Krem",
-     "n": "Matthias Schoenaerts"
-    },
-    {
-     "c": "Lobo",
-     "n": "Jason Momoa"
-    },
-    {
-     "c": "Zor-El",
-     "n": "David Krumholtz"
-    },
-    {
-     "c": "Alura In-Ze",
-     "n": "Emily Beecham"
-    },
-    {
-     "c": "Superman",
-     "n": "David Corenswet"
-    },
-    {
-     "c": "Bomar Vran",
-     "n": "Kadiff Kirwan"
-    },
-    {
-     "c": "Mareck Vran",
-     "n": "Thalissa Teixeira"
-    },
-    {
-     "c": "Elias Knoll",
-     "n": "Ferdinand Kingsley"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 16+",
-   "date_kind": "release",
-   "director": [
-    "Craig Gillespie"
-   ],
-   "genres": [
-    "Action",
-    "Adventure",
-    "Science Fiction"
-   ],
-   "id": 1081003,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-   "popularity": 28.2796,
-   "poster_path": "/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "HBO Max Amazon Channel"
-    },
-    {
-     "name": "HBO Max"
-    },
-    {
-     "name": "Sky Go"
-    },
-    {
-     "name": "Now TV Cinema"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "rent",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "IN"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-06-26",
-   "revenue": 126466532,
-   "runtime": 108,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "Truth. Justice. Whatever.",
-   "title": "Supergirl",
-   "trailer": {
-    "key": "rbLyjarG_bU",
-    "name": "Official American Sign Language Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 6.6,
-   "vote_count": 2727
-  },
-  "movie:1195803": {
-   "backdrop_path": "/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
-   "budget": 10000000,
-   "cast": [
-    {
-     "c": "The Fisherwoman",
-     "n": "Olivia Colman"
-    },
-    {
-     "c": "The Wicker Husband",
-     "n": "Alexander Skarsgård"
-    },
-    {
-     "c": "The Basketmaker",
-     "n": "Peter Dinklage"
-    },
-    {
-     "c": "The Tailor’s Wife",
-     "n": "Elizabeth Debicki"
-    },
-    {
-     "c": "The Bottlewasher’s Wife",
-     "n": "Marli Siu"
-    },
-    {
-     "c": "The Tailor",
-     "n": "Nabhaan Rizwan"
-    },
-    {
-     "c": "The Doctor",
-     "n": "Richard E. Grant"
-    },
-    {
-     "c": "The Butcher",
-     "n": "Phil Daniels"
-    },
-    {
-     "c": "The Innkeeper",
-     "n": "Kiell Smith-Bynoe"
-    },
-    {
-     "c": "The Innkeeper’s Wife",
-     "n": "Emily Lloyd-Saini"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Eleanor Wilson",
-    "Alex Huston Fischer"
-   ],
-   "genres": [
-    "Romance",
-    "Fantasy",
-    "Comedy"
-   ],
-   "id": 1195803,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-   "popularity": 48.9922,
-   "poster_path": "/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
-   "production_countries": [
-    "GB",
-    "US"
-   ],
-   "providers": [],
-   "providers_wtw": [],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-21",
-   "revenue": 30059278,
-   "runtime": 105,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "Marriage material.",
-   "title": "Wicker",
-   "trailer": {
-    "key": "kA9NfV4pM_Q",
-    "name": "Final Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.5,
-   "vote_count": 50
-  },
   "movie:1235303": {
    "backdrop_path": "/1v1tmwxXwqnayMOCWo03aH6nNEZ.jpg",
    "budget": 0,
@@ -719,99 +497,6 @@
    "type": "movie",
    "vote_average": 7.5,
    "vote_count": 451
-  },
-  "movie:1437703": {
-   "backdrop_path": "/dlVvlYfvpD05KYbKFxEUvskvWWd.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Cristian",
-     "n": "Bastián Escobar"
-    },
-    {
-     "c": "Olga",
-     "n": "Teresa Sánchez"
-    },
-    {
-     "c": "Tulio",
-     "n": "Hugo Ramírez"
-    },
-    {
-     "c": "Isaac",
-     "n": "Enrique Arreola"
-    },
-    {
-     "c": "Niño en maquinita",
-     "n": "Liam Rivera"
-    },
-    {
-     "c": "Guardia enojona",
-     "n": "Evelyn Velazquez"
-    },
-    {
-     "c": "Guardia del hospital",
-     "n": "Paco Peralta"
-    },
-    {
-     "c": "Guardia acceso servicio",
-     "n": "Luis Santamaria"
-    },
-    {
-     "c": "Guardia de las uñas",
-     "n": "Janeth Cruz"
-    },
-    {
-     "c": "Anciano pelota",
-     "n": "Manuel Carrillo"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "6",
-   "date_kind": "release",
-   "director": [
-    "Fernando Eimbcke"
-   ],
-   "genres": [
-    "Drama",
-    "Comedy"
-   ],
-   "id": 1437703,
-   "industry": "world",
-   "origin_country": [
-    "MX"
-   ],
-   "original_language": "es",
-   "overview": "Olga lives a strictly regulated life without attachments in a vast apartment block. When out of financial necessity she rents a room in her apartment to a man who also sneaks-in his nine-year-old son, an unlikely bond forms. Her carefully controlled world begins to shift, and their lives become intertwined against her will.",
-   "popularity": 2.5961,
-   "poster_path": "/8msXampT9kNOyyKaWkfGZ0bZIzR.jpg",
-   "production_countries": [
-    "MX"
-   ],
-   "providers": [],
-   "providers_wtw": [],
-   "published_at": "2026-11-14",
-   "release_date": "2026-07-01",
-   "revenue": 0,
-   "runtime": 101,
-   "source": "catalogue",
-   "spoken_languages": [
-    "es"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Flies",
-   "trailer": {
-    "key": "wtuCOy5ZW6A",
-    "name": "Official Trailer [Subtitled]",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.44,
-   "vote_count": 25
   },
   "movie:1596303": {
    "backdrop_path": "/bZDG7ypci7shzYp7jCOW4d1UC8w.jpg",
@@ -2258,6 +1943,130 @@
    "vote_average": 7.485,
    "vote_count": 3948
   },
+  "tv:213703": {
+   "backdrop_path": "/w1DjULItqmTGKnavi5hAtOGMogA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Han Chieh",
+     "n": "Kai Ko"
+    },
+    {
+     "c": "Yeh Tzu",
+     "n": "Buffy Chen"
+    },
+    {
+     "c": "Nezha (Third Crown Prince)",
+     "n": "Edison Wang"
+    },
+    {
+     "c": "Wu Tien Chi",
+     "n": "Simon Hsueh"
+    },
+    {
+     "c": "Chang Min",
+     "n": "Johnny Yang"
+    },
+    {
+     "c": "Chen Chi Sha",
+     "n": "Chen Yi-wen"
+    },
+    {
+     "c": "Wang Hsiao Ming",
+     "n": "Lin He-hsuan"
+    },
+    {
+     "c": "Demon King of Sixth Heaven",
+     "n": "Leon Dai"
+    },
+    {
+     "c": "Chao",
+     "n": "David Chao"
+    },
+    {
+     "c": "Shen Lung Crown Prince",
+     "n": "Tzu-Chien Kuo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M18",
+   "channel": "Netflix",
+   "created_by": [
+    "Xing Zi"
+   ],
+   "director": [
+    "Donnie Lai",
+    "Wei-Chieh Kuan"
+   ],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2026-04-02",
+   "genres": [
+    "Drama",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 213703,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TW"
+   ],
+   "original_language": "zh",
+   "overview": "Bound by a deity's pact, Han Chieh fights demons on Earth. When he uncovers an old enemy's plan for a second invasion, he must fight to save humanity.",
+   "popularity": 4.51,
+   "poster_path": "/ShizRVGvyFCmGqv7tFA0hxzQ8E.jpg",
+   "production_countries": [
+    "TW",
+    "SG"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-02",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Agent from Above",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.4,
+   "vote_count": 34
+  },
   "tv:2303": {
    "backdrop_path": "/9as2hYKrhbKWj4ePtFMftQfEsEX.jpg",
    "budget": 0,
@@ -2485,6 +2294,1207 @@
    "type": "tv",
    "vote_average": 7.207,
    "vote_count": 169
+  },
+  "tv:231003": {
+   "backdrop_path": "/fgcSUbheJ2nml1g7y5QNvR4s16d.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Axel (voice)",
+     "n": "Mamoru Miyano"
+    },
+    {
+     "c": "Doug (voice)",
+     "n": "Makoto Furukawa"
+    },
+    {
+     "c": "Christine (voice)",
+     "n": "Maaya Uchida"
+    },
+    {
+     "c": "Leland (voice)",
+     "n": "Yuma Uchida"
+    },
+    {
+     "c": "Eleina (voice)",
+     "n": "Manaka Iwami"
+    },
+    {
+     "c": "Hersch (voice)",
+     "n": "Megumi Hayashibara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Adult Swim",
+   "created_by": [
+    "Shinichiro Watanabe"
+   ],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2025-04-06",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Animation"
+   ],
+   "id": 231003,
+   "industry": "world",
+   "networks": [
+    "Adult Swim",
+    "TV Tokyo",
+    "TV Aichi",
+    "TVQ",
+    "TV Osaka",
+    "TVh",
+    "TSC"
+   ],
+   "number_of_episodes": 13,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 2052, a Nobel Prize-winning neuroscientist develops a drug called Hapna — a cure-all that has the unexpected side-effect of causing death three years later. In response to this threat, a special force of agents—nicknamed \"Lazarus\"— is assembled to take on the malevolent Skinner.",
+   "popularity": 17.4984,
+   "poster_path": "/8ViqUWPWh6aPZGQA57FMRVmaXZ1.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Adult Swim"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lEboSJfLzmtWaoLsms0jYBxYqka.png",
+     "name": "Adult Swim",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-06",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "Getting out of prison was easy. Now he has to save the world.",
+   "title": "Lazarus",
+   "trailer": {
+    "key": "LpG8vtFMkD0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 144
+  },
+  "tv:245703": {
+   "backdrop_path": "/9AJVsScC6M81MmGZTnxghN9NZe9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "DCI Carl Morck",
+     "n": "Matthew Goode"
+    },
+    {
+     "c": "Merritt Lingard",
+     "n": "Chloe Pirrie"
+    },
+    {
+     "c": "DCI James Hardy",
+     "n": "Jamie Sives"
+    },
+    {
+     "c": "Akram Salim",
+     "n": "Alexej Manvelov"
+    },
+    {
+     "c": "DC Rose Dickson",
+     "n": "Leah Byrne"
+    },
+    {
+     "c": "Dr Rachel Irving",
+     "n": "Kelly Macdonald"
+    },
+    {
+     "c": "Jasper Stewart",
+     "n": "Aaron McVeigh"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Scott Frank",
+    "Chandni Lakhani"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-29",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 245703,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A brash but brilliant cop becomes head of a new police department, where he leads an unlikely team of misfits in solving Edinburgh's cold cases.",
+   "popularity": 10.4719,
+   "poster_path": "/8WdxigrmISyE84bxViHDX2hTI4T.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-29",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 1,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Not all causes are lost.",
+   "title": "Dept. Q",
+   "trailer": {
+    "key": "72hK6FUmm8o",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.862,
+   "vote_count": 529
+  },
+  "tv:250203": {
+   "backdrop_path": "/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Matthew McConaughey",
+     "n": "Matthew McConaughey"
+    },
+    {
+     "c": "Woody Harrelson",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Valentina",
+     "n": "Natalie Martinez"
+    },
+    {
+     "c": "Joy",
+     "n": "Brittany Ishibashi"
+    },
+    {
+     "c": "Wyatt",
+     "n": "Nolan Almeida"
+    },
+    {
+     "c": "Clara",
+     "n": "Ella Grace Helton"
+    },
+    {
+     "c": "River",
+     "n": "Noah Carganilla"
+    },
+    {
+     "c": "Olive",
+     "n": "Highdee Kuan"
+    },
+    {
+     "c": "Kai",
+     "n": "Oona Yaffe"
+    },
+    {
+     "c": "Ma Mac",
+     "n": "Holland Taylor"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [
+    "Matthew McConaughey",
+    "Woody Harrelson",
+    "David West Read",
+    "Lee Eisenberg"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-09-22",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 250203,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
+   "popularity": 17.0777,
+   "poster_path": "/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-09-22",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Friends. And family?",
+   "title": "Brothers",
+   "trailer": {
+    "key": "fIKFnzIcfcA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.727,
+   "vote_count": 33
+  },
+  "tv:270603": {
+   "backdrop_path": "/rQmzx7qyoK5YiXJHnv0jdgVlKyl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Elma Edvan (voice)",
+     "n": "Takeo Otsuka"
+    },
+    {
+     "c": "Luce Rubis (voice)",
+     "n": "Shion Wakayama"
+    },
+    {
+     "c": "Maris Edvan (voice)",
+     "n": "Natsuko Abe"
+    },
+    {
+     "c": "Isaac Edvan (voice)",
+     "n": "Kentaro Tone"
+    },
+    {
+     "c": "Klein (voice)",
+     "n": "Katsumi Fukuhara"
+    },
+    {
+     "c": "Reese (voice)",
+     "n": "Miyuri Shimabukuro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "MBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-03",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 270603,
+   "industry": "world",
+   "networks": [
+    "MBS",
+    "TBS",
+    "Tulip Television",
+    "SBC",
+    "BSN",
+    "tys",
+    "NBC",
+    "HBC",
+    "RKK",
+    "i-Television",
+    "SBS",
+    "IBC",
+    "BSS",
+    "MRO",
+    "OBS",
+    "TUF",
+    "RSK",
+    "TUY",
+    "tbc",
+    "RKB",
+    "KUTV",
+    "RBC",
+    "UTY",
+    "RCC",
+    "MRT",
+    "ATV",
+    "MBC",
+    "CBC"
+   ],
+   "number_of_episodes": 26,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Born into a prestigious family of master swordsmen, Elymas Edvaughn's future shatters when he awakens the so-called \"defective\" Heavy Knight class. Disowned and cast out, he regains memories of another life—and realizes this world mirrors a VR game he once mastered. Armed with knowledge no one else possesses, he sets out to rewrite his fate and prove the strength of the \"weakest\" class.",
+   "popularity": 21.0818,
+   "poster_path": "/bADzMfofNWYdxLnlqNuMkO6du34.jpg",
+   "production_countries": [
+    "JP",
+    "TW"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-03",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Exiled Heavy Knight Knows How to Game the System",
+   "trailer": {
+    "key": "mcZRE6a2XgU",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 39
+  },
+  "tv:271003": {
+   "backdrop_path": "/goz9KqwTKy8pCW2iOycBLMBtJ0y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hinata Sunohara (voice)",
+     "n": "Rie Kawamura"
+    },
+    {
+     "c": "Mariabelle (voice)",
+     "n": "Minami Takahashi"
+    },
+    {
+     "c": "Sakura Mochida (voice)",
+     "n": "Kyouka Maruyama"
+    },
+    {
+     "c": "Cecile (voice)",
+     "n": "Hinako Takahashi"
+    },
+    {
+     "c": "Mei (voice)",
+     "n": "Ayumi Mano"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    12
+   ],
+   "first_air_date": "2025-04-07",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 271003,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX",
+    "BS11"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Hinata did it. He got reincarnated into another world, took up the mantle of Hero, and slew the dreaded Demon Lord alongside his party of fellow adventurers. As his reward, he’s returned to Earth to resume a normal life. Or it would be if it wasn’t for the fact that his dark elf companion Mariabelle decided to travel to Earth to come and live with him! Now she uses her arcane talents to ward off any potential romantic rivals and capture Hinata’s affection.",
+   "popularity": 10.501,
+   "poster_path": "/eCWtp80MCEBPMuRmAjm2zNMgOSW.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "HiDive"
+    },
+    {
+     "name": "Hidive Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-07",
+     "episode_count": 12,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-04-07",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Yandere Dark Elf: She Chased Me All the Way from Another World!",
+   "trailer": {
+    "key": "ugHz9w3j_6s",
+    "name": "Dub Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.2,
+   "vote_count": 25
+  },
+  "tv:306603": {
+   "backdrop_path": "/c43frTJmf5SkVT7AZ2RTnxNqDRF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "DS Annie Cassidy",
+     "n": "Eve Myles"
+    },
+    {
+     "c": "Alana Polly",
+     "n": "Emma Appleton"
+    },
+    {
+     "c": "Dylan Sedgwick",
+     "n": "Billy Barratt"
+    },
+    {
+     "c": "Rory Bowman",
+     "n": "Rupert Evans"
+    },
+    {
+     "c": "Michael Polly",
+     "n": "David Morrissey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "channel": "ITV1",
+   "created_by": [
+    "George Kay"
+   ],
+   "director": [
+    "Richard Laxton"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-08",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 306603,
+   "industry": "world",
+   "networks": [
+    "ITV1"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When a headmaster's wife goes missing, suspicion falls on him. Is he hiding something, or is there more to this case than meets the eye?",
+   "popularity": 5.0373,
+   "poster_path": "/qnxKB5HlkAZZcyIiITIV7dAUX7u.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "BritBox"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/r5LXOt96llVEmgwAQeheJuxUaMR.png",
+     "name": "Britbox Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eZeWGG6DDIi4Kmu1z9RfTeZtqZX.png",
+     "name": "BritBox",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dneArfNvYnCY0LQwDs6n0wVLpPh.png",
+     "name": "BritBox Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-08",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Did he do it?",
+   "title": "Gone",
+   "trailer": {
+    "key": "dAD5mHVYhNI",
+    "name": "Gone - Coming Soon to ITV",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.625,
+   "vote_count": 32
+  },
+  "tv:318203": {
+   "backdrop_path": "/1mN5cydNUFqd7MHfOwhcHZzLnvT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alice",
+     "n": "Nicola Walker"
+    },
+    {
+     "c": "Steve",
+     "n": "Jemaine Clement"
+    },
+    {
+     "c": "Daniel",
+     "n": "Joel Fry"
+    },
+    {
+     "c": "Izzy",
+     "n": "Yali Topol Margalith"
+    },
+    {
+     "c": "Dom",
+     "n": "Tyrese Eaton-Dyce"
+    },
+    {
+     "c": "Rome",
+     "n": "Eilidh Fisher"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M18",
+   "channel": "Disney+",
+   "created_by": [
+    "Sophie Goodhart"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-06-08",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 318203,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Alice is devastated when her best friend Steve starts dating her 26-year-old daughter Izzy. She's going to lose her best friend and her daughter in one fell swoop. Alice tries everything she can to end the relationship. Unfortunately for her, Steve's more than ready for the attack, and what begins as a perfect friendship, devolves into an all-out feud.",
+   "popularity": 3.6869,
+   "poster_path": "/gPou8wNiTz1uleLKllclrqanXXf.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-08",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Best friends make the best enemies.",
+   "title": "Alice and Steve",
+   "trailer": {
+    "key": "k_7EEeSvssQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.3,
+   "vote_count": 22
+  },
+  "tv:318503": {
+   "backdrop_path": "/hjkPZoUDluo2jrEt9KCMBmlNua.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "Edith Bowman"
+    },
+    {
+     "c": "Self - Host",
+     "n": "Packy Lee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-06",
+   "genres": [
+    "Talk"
+   ],
+   "id": 318503,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Creators, special guests and stars — including Cillian Murphy — unpack the \"Peaky Blinders\" saga in this official companion podcast for the new film.",
+   "popularity": 1.4156,
+   "poster_path": "/aWwZiQliCxdc2xVfBiiCNSt3aMY.jpg",
+   "production_countries": [],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-06",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Peaky Blinders: The Immortal Man Podcast",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 9.0,
+   "vote_count": 29
+  },
+  "tv:322803": {
+   "backdrop_path": "/vOQUiJ8sokhHTUzaH8VO0fDsEXk.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG13",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-06-10",
+   "genres": [
+    "Reality"
+   ],
+   "id": 322803,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On a remote tropical island, 16 players must survive the elements, outmaneuver rivals and remain part of a team for a chance to win a $1 million prize.",
+   "popularity": 3.5486,
+   "poster_path": "/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-10",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Outlast: The Jungle",
+   "trailer": {
+    "key": "EnvBoDKSNKg",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.2,
+   "vote_count": 20
+  },
+  "tv:323903": {
+   "backdrop_path": "/dIOCCTC3hd2zhTh0qeEDE4Gf3oO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Pepper",
+     "n": "Dan Stevens"
+    },
+    {
+     "c": "Dorry",
+     "n": "Judith Light"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Shudder",
+   "created_by": [
+    "Victor LaValle"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-05-07",
+   "genres": [
+    "Drama"
+   ],
+   "id": 323903,
+   "industry": "world",
+   "networks": [
+    "Shudder",
+    "AMC+"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Wrongfully committed to New Hyde Psychiatric Hospital, one man faces secretive doctors, dangerous patients, and something even worse …",
+   "popularity": 16.2879,
+   "poster_path": "/bdblQNZ4rP8AVJPqvGi82woxZkg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Spectrum On Demand"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4lMb5R5cpg7o2GZOxI7CgxoU9Jr.png",
+     "name": "AMC",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-07",
+     "episode_count": 6,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Terror: Devil in Silver",
+   "trailer": {
+    "key": "4pMW1Jw5wsY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.7,
+   "vote_count": 41
   },
   "tv:4303": {
    "backdrop_path": "/yDsLb8WRHplh7X5EpHDFHl7TP8T.jpg",

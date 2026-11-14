@@ -1,6 +1,6 @@
 {
  "bucket": "45",
- "count": 27,
+ "count": 35,
  "titles": {
   "movie:1171145": {
    "backdrop_path": "/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
@@ -115,116 +115,6 @@
    "type": "movie",
    "vote_average": 7.02,
    "vote_count": 1489
-  },
-  "movie:1236045": {
-   "backdrop_path": "/5yzM78Tp8nYwSCQtyRcmnHmCn5C.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Mark Kimball",
-     "n": "Ben Affleck"
-    },
-    {
-     "c": "Abigail Kimball",
-     "n": "Kerry Washington"
-    },
-    {
-     "c": "Dayle Burton",
-     "n": "Gillian Anderson"
-    },
-    {
-     "c": "Sam Allison",
-     "n": "Steven Yeun"
-    },
-    {
-     "c": "Cecilia Trujillo",
-     "n": "Adriana Paz"
-    },
-    {
-     "c": "Ramon",
-     "n": "Luis Gerardo Méndez"
-    },
-    {
-     "c": "Denny Kimball",
-     "n": "Christopher Woodley"
-    },
-    {
-     "c": "Hector",
-     "n": "Jacob Estrada"
-    },
-    {
-     "c": "Ron Sperling",
-     "n": "Ray Fisher"
-    },
-    {
-     "c": "Hannah",
-     "n": "Taylor Cooper"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 16+",
-   "date_kind": "release",
-   "director": [
-    "Ben Affleck"
-   ],
-   "genres": [
-    "Thriller",
-    "Drama",
-    "Action",
-    "Crime"
-   ],
-   "id": 1236045,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
-   "popularity": 37.9839,
-   "poster_path": "/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-09",
-   "revenue": 0,
-   "runtime": 106,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en",
-    "es"
-   ],
-   "status": "Released",
-   "tagline": "Power can't protect you.",
-   "title": "Animals",
-   "trailer": {
-    "key": "ZkN2M4ODdys",
-    "name": "Official Trailer #2",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 6.877,
-   "vote_count": 742
   },
   "movie:1288445": {
    "backdrop_path": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
@@ -2697,6 +2587,469 @@
    "vote_average": 7.514,
    "vote_count": 593
   },
+  "tv:240445": {
+   "backdrop_path": "/trAzKgcmDMkNBFXSr9ucZcfzxgm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Qin Wan / Shen Wan",
+     "n": "Li Landi"
+    },
+    {
+     "c": "Yan Chi",
+     "n": "Ao Ruipeng"
+    },
+    {
+     "c": "Yan Li",
+     "n": "Yu Chengen"
+    },
+    {
+     "c": "Yue Ning",
+     "n": "Shen Yujie"
+    },
+    {
+     "c": "Grand Princess",
+     "n": "Tien Niu"
+    },
+    {
+     "c": "Bai Feng",
+     "n": "Cheng Hongxin"
+    },
+    {
+     "c": "Fu Ling",
+     "n": "Wang Luqing"
+    },
+    {
+     "c": "Yan Che",
+     "n": "Yu Xuanchen"
+    },
+    {
+     "c": "Yan Qi",
+     "n": "Liu Yihong"
+    },
+    {
+     "c": "Cai He",
+     "n": "Sun Xuening"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "iQiyi",
+   "created_by": [
+    "Bu Yue Qian Zhuang"
+   ],
+   "director": [
+    "Lee Wai Chu"
+   ],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2025-07-13",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 240445,
+   "industry": "world",
+   "networks": [
+    "iQiyi"
+   ],
+   "number_of_episodes": 38,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "Shen Wan, the daughter of the minister of Dali Temple, relied on her superb medical and forensic skills to join hands with Prince Yan Chi to solve unsolved cases and find the real culprit in order to vindicate her father.",
+   "popularity": 7.8747,
+   "poster_path": "/unalYN9lT9h9b5UgTxGo1CoS7fj.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-13",
+     "episode_count": 38,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Coroner's Diary",
+   "trailer": {
+    "key": "ufzdjnrCXkE",
+    "name": "Who will triumph in this game of power?",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 9.0,
+   "vote_count": 21
+  },
+  "tv:247045": {
+   "backdrop_path": "/gdBQEXiG6X9SOgFLhGOnPJJ23BN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kunagi (voice)",
+     "n": "Masaaki Mizunaka"
+    },
+    {
+     "c": "Kaoru (voice)",
+     "n": "Reina Ueda"
+    },
+    {
+     "c": "Tanishi (voice)",
+     "n": "Hiroki Yasumoto"
+    },
+    {
+     "c": "Gaku (voice)",
+     "n": "Ryota Takeuchi"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Shigeru Chiba"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2025-07-08",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Comedy"
+   ],
+   "id": 247045,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A virus turns humanity into feral cats, leaving a few survivors to fight back. Kunagi, a man with no past but vast cat knowledge, struggles to survive. However, the virus spreads through cuddles—can he resist the adorable menace?",
+   "popularity": 7.4587,
+   "poster_path": "/lF2awNMJIasAZsSy2XzFlYGtzKW.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-08",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Nyaight of the Living Cat",
+   "trailer": {
+    "key": "4REA4evnf5M",
+    "name": "Official Trailer 3 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 24
+  },
+  "tv:252645": {
+   "backdrop_path": "/tPQTuAhn8TA169i2Z4mHBBL0BhL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Padtaphi Sinan",
+     "n": "Perawat Sangpotirat"
+    },
+    {
+     "c": "Tamtawan Anandabhum",
+     "n": "Prachaya Ruangroj"
+    },
+    {
+     "c": "Tae Treenat Jarusakkul",
+     "n": "Thanaboon Kiatniran"
+    },
+    {
+     "c": "Paul Puttipat Issariyakul",
+     "n": "Thitiwat Ritprasert"
+    },
+    {
+     "c": "Gaogie",
+     "n": "Juthapich Indrajundra"
+    },
+    {
+     "c": "Nhudee",
+     "n": "Preeyaphat Lawsuwansiri"
+    },
+    {
+     "c": "Yong",
+     "n": "Partith Pisitkul"
+    },
+    {
+     "c": "Rita",
+     "n": "Tachakorn Boonlupyanun"
+    },
+    {
+     "c": "Suvit",
+     "n": "Suphakorn Sriphotong"
+    },
+    {
+     "c": "Wari",
+     "n": "Kalaya Lerdkasemsap"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "น 13+",
+   "channel": "GMM 25",
+   "created_by": [],
+   "director": [
+    "Phadung Samajarn"
+   ],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2025-05-22",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 252645,
+   "industry": "world",
+   "networks": [
+    "GMM 25"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "When broadcaster Pathaphi gets demoted following a public shaming, his ex Tamtawan is given the job of helping him rebuild his reputation.",
+   "popularity": 4.1618,
+   "poster_path": "/5YrlE5zgqHFGDJylpneuaJkpL9o.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-15",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-05-22",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Ended",
+   "tagline": "The fickle weather is not as chaotic as the fickle ex-lover.",
+   "title": "The Ex-Morning",
+   "trailer": {
+    "key": "jajW3bDRf3E",
+    "name": "[Official Trailer] เพราะแฟนเก่าเปลี่ยนแปลงบ่อย The Ex-Morning #TheExMorning  💔📰",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 9.167,
+   "vote_count": 39
+  },
+  "tv:261545": {
+   "backdrop_path": "/mv7U2Z4e69Q74F4QsxWE0CNf9SO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sophia Shekhar",
+     "n": "Bhumi Pednekar"
+    },
+    {
+     "c": "Aviraaj Singh/Fizzy",
+     "n": "Ishaan Khatter"
+    },
+    {
+     "c": "Padmaja Devi/Paddy",
+     "n": "Sakshi Tanwar"
+    },
+    {
+     "c": "Digvijay Singh/Diggy",
+     "n": "Vihaan Samat"
+    },
+    {
+     "c": "Kunal Mehta",
+     "n": "Udit Arora"
+    },
+    {
+     "c": "Niki Kaushik",
+     "n": "Lisa Mishra"
+    },
+    {
+     "c": "Keertana",
+     "n": "Sumukhi Suresh"
+    },
+    {
+     "c": "Divyaranjini Singh/Jinnie",
+     "n": "Kavya Trehan"
+    },
+    {
+     "c": "Girdhari Sa",
+     "n": "Jagdish Rajpurohit"
+    },
+    {
+     "c": "Pankaj Sa",
+     "n": "Sukesh Anand"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Ishita Pritish Nandy",
+    "Rangita Pritish Nandy"
+   ],
+   "director": [
+    "Priyanka Ghose",
+    "Nupur Asthana"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-09",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 261545,
+   "industry": "bollywood",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "When charming Prince Aviraaj meets Sophia, a self-made girl boss, the worlds of royalty and startups collide in a whirlwind of romance and ambition.",
+   "popularity": 4.0563,
+   "poster_path": "/nnD4364ToXZwDpFWEnY94xzykIs.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-09",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Royals",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.4,
+   "vote_count": 25
+  },
   "tv:2745": {
    "backdrop_path": "/jPyKuRjloYkjVWNPtXCrYxtg3Bu.jpg",
    "budget": 0,
@@ -2970,6 +3323,659 @@
    "type": "tv",
    "vote_average": 8.373,
    "vote_count": 153
+  },
+  "tv:279345": {
+   "backdrop_path": "/x56NU9J8tAYTo0rmsZ4H5qfPcxl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Armin",
+     "n": "Ponlawit Ketprapakorn"
+    },
+    {
+     "c": "Tada",
+     "n": "Tadsapon Wiwitawan"
+    },
+    {
+     "c": "Thiwthit",
+     "n": "Thanawat Uthaikitwanit"
+    },
+    {
+     "c": "Ren",
+     "n": "Chalongrat Nobsamrong"
+    },
+    {
+     "c": "Pharit",
+     "n": "Tanatat Kunaneksin"
+    },
+    {
+     "c": "Janine",
+     "n": "Worawat Boonchuen"
+    },
+    {
+     "c": "Charlie",
+     "n": "Thakrit Chaiwut"
+    },
+    {
+     "c": "Achi",
+     "n": "Christopher Tyler Chindapol"
+    },
+    {
+     "c": "Sam",
+     "n": "Thomsen Dangpan"
+    },
+    {
+     "c": "Narin",
+     "n": "Thanadol Hem-aiyara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "Channel 3",
+   "created_by": [],
+   "director": [
+    "Natthaphong Wongkaweepairod"
+   ],
+   "episode_run_time": [
+    50
+   ],
+   "first_air_date": "2025-06-02",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 279345,
+   "industry": "world",
+   "networks": [
+    "Channel 3"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "Killed by betrayal on the night of his greatest triumph, an actor wakes 25 years earlier—ready to rewrite his fate and crush rivals who ruined him.",
+   "popularity": 2.8376,
+   "poster_path": "/h4jNDqi6kNoNzG8aNGqg5PjzlXo.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-02",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Reset",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.975,
+   "vote_count": 20
+  },
+  "tv:280945": {
+   "backdrop_path": "/ttbmzTZHTzqDK4JniKonMrsQath.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yeon Ji-young",
+     "n": "Yoona"
+    },
+    {
+     "c": "King Yi Heon",
+     "n": "Lee Chae-min"
+    },
+    {
+     "c": "Kang Mok-ju",
+     "n": "Kang Han-na"
+    },
+    {
+     "c": "Prince Jesan",
+     "n": "Choi Gwi-hwa"
+    },
+    {
+     "c": "Im Song-jae",
+     "n": "Oh Eui-sik"
+    },
+    {
+     "c": "Queen Dowager Inju",
+     "n": "Seo Yi-sook"
+    },
+    {
+     "c": "Su-hyeok",
+     "n": "Park Young-woon"
+    },
+    {
+     "c": "Seo Gil-geum",
+     "n": "Yoon Seo-ah"
+    },
+    {
+     "c": "Kong-gil",
+     "n": "Lee Joo-ahn"
+    },
+    {
+     "c": "Min Gae-deok",
+     "n": "Kim Hyun-mok"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "tvN",
+   "created_by": [
+    "Jang Tae-yoo"
+   ],
+   "director": [
+    "Jang Tae-yoo"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-08-23",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 280945,
+   "industry": "world",
+   "networks": [
+    "tvN"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "After time traveling to the Joseon era, a talented chef meets a tyrant king. Her modern dishes captivate his palate, but royal challenges await her.",
+   "popularity": 7.8634,
+   "poster_path": "/exUXEOierAwZ597010TLQka9TFy.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-16",
+     "episode_count": 3,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-08-23",
+     "episode_count": 12,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Bon Appétit, Your Majesty",
+   "trailer": {
+    "key": "rkB623sLOiM",
+    "name": "Official Clip [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.61,
+   "vote_count": 273
+  },
+  "tv:284445": {
+   "backdrop_path": "/6omimfVty4JD3LXzI5LHEGhXjwn.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Takopi (voice)",
+     "n": "Kurumi Mamiya"
+    },
+    {
+     "c": "Shizuka Kuze (voice)",
+     "n": "Reina Ueda"
+    },
+    {
+     "c": "Marina Kirarazaka (voice)",
+     "n": "Konomi Kohara"
+    },
+    {
+     "c": "Naoki Azuma (voice)",
+     "n": "Anna Nagase"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M18",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-28",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 284445,
+   "industry": "world",
+   "networks": [
+    "Netflix",
+    "Bandai Channel",
+    "Prime Video",
+    "Niconico",
+    "ABEMA",
+    "Hulu",
+    "Disney+",
+    "FOD",
+    "d Anime Store",
+    "Anime Houdai",
+    "U-NEXT",
+    "TELASA",
+    "niconico Channel",
+    "DMM TV",
+    "Lemino",
+    "J:COM STREAM",
+    "milplus",
+    "WOWOW On Demand",
+    "Anime Times",
+    "Rakuten TV",
+    "VIDEX"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A Happy alien, Takopi, lands on Earth with one mission: to spread happiness! When he meets Shizuka, a lonely fourth grader, he vows to bring back her smile using his magical Happy Gadgets. But as he uncovers the pain in her life, Takopi learns that true happiness may require more than gadgets.",
+   "popularity": 11.9704,
+   "poster_path": "/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-28",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Takopi's Original Sin",
+   "trailer": {
+    "key": "j7dxZjwIhu0",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.75,
+   "vote_count": 220
+  },
+  "tv:286345": {
+   "backdrop_path": "/iNhtAnOhqQjiw7NMHrWbUw8mh4w.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kou Reirin (voice)",
+     "n": "Manaka Iwami"
+    },
+    {
+     "c": "Shu Keigetsu (voice)",
+     "n": "Natsumi Kawaida"
+    },
+    {
+     "c": "Ei Gyoumei (voice)",
+     "n": "Makoto Furukawa"
+    },
+    {
+     "c": "Shin-u (voice)",
+     "n": "Yuuichirou Umehara"
+    },
+    {
+     "c": "Leelee (voice)",
+     "n": "Hana Hishikawa"
+    },
+    {
+     "c": "Kou Tousetsu (voice)",
+     "n": "Farahnaz Nikray"
+    },
+    {
+     "c": "Kou Kenshū (voice)",
+     "n": "Rei Igarashi"
+    },
+    {
+     "c": "Shu Gabi (voice)",
+     "n": "Ai Kayano"
+    },
+    {
+     "c": "Kin Seika (voice)",
+     "n": "Mai Nakahara"
+    },
+    {
+     "c": "Ran Hōshun (voice)",
+     "n": "Inori Minase"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC16",
+   "channel": "TV Tokyo",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-12",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 286345,
+   "industry": "world",
+   "networks": [
+    "TV Tokyo",
+    "TV Aichi",
+    "TVQ",
+    "TV Osaka",
+    "TVh",
+    "TSC"
+   ],
+   "number_of_episodes": 11,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Just as His Highness’s favored butterfly Reirin is beloved by the prince, jealous “court sewer rat” Keigetsu uses magic to swap their bodies—and their destinies. With a looming execution, Reirin embraces her new, healthy body, while Keigetsu learns Reirin’s life isn’t what it seems as she’s pulled into an inner-court conspiracy.",
+   "popularity": 10.1372,
+   "poster_path": "/yZHCMXL2xYS988rYxR1D8YrTzeD.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-12",
+     "episode_count": 11,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Though I Am an Inept Villainess",
+   "trailer": {
+    "key": "NsDHJA5gaso",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.017,
+   "vote_count": 29
+  },
+  "tv:315245": {
+   "backdrop_path": "/jrhaVt1mvMxMWGffKFEsqErSrX4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Luz Rueda López",
+     "n": "Mayrín Villanueva"
+    },
+    {
+     "c": "Miguel Ángel Arango-Nova",
+     "n": "Gabriel Soto"
+    },
+    {
+     "c": "Catalina Gómez Rueda",
+     "n": "Gala Montes"
+    },
+    {
+     "c": "Eugenio Arango-Nova",
+     "n": "Diego Olivera"
+    },
+    {
+     "c": "Leandro Pedraza",
+     "n": "Moisés Peñaloza"
+    },
+    {
+     "c": "Dante Arango-Nova",
+     "n": "Juan Pablo Gil"
+    },
+    {
+     "c": "Antonio Arango-Nova",
+     "n": "Sergio Kleiner"
+    },
+    {
+     "c": "Gabino Pérez",
+     "n": "Deicardi Díaz"
+    },
+    {
+     "c": "Julieta Mejía",
+     "n": "Ligia Uriarte"
+    },
+    {
+     "c": "Aurora Rosas",
+     "n": "Mariazel Olle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "",
+   "created_by": [
+    "Pedro Ortiz de Pinedo"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-02",
+   "genres": [
+    "Drama",
+    "Family",
+    "Soap"
+   ],
+   "id": 315245,
+   "industry": "world",
+   "networks": [],
+   "number_of_episodes": 80,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Luz, a taco stand owner, is offered a job and a place to live at the Arango-Nova estate by Antonio, who reveals the truth about her past firing. Her daughter, Catalina, is tempted by the lifestyle and, believing Luz will be removed from Antonio’s will, murders him. Luz takes the blame for the murder to protect Catalina, but is later exonerated and determined to fight for her rights.",
+   "popularity": 4.7609,
+   "poster_path": "/eGX69pIgpi4ONhEG9WeRm0leQgb.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "VIX "
+    },
+    {
+     "name": "ViX Premium Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ieJ55scAVrvboTpeJcZa3JlLIrS.png",
+     "name": "VIX ",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+     "name": "ViX Premium Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-02",
+     "episode_count": 80,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Corazón de oro",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 24
   },
   "tv:3845": {
    "backdrop_path": "/lyAx1XlcrPaenfwvSYnOl4h4WMk.jpg",

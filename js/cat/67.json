@@ -1,6 +1,6 @@
 {
  "bucket": "67",
- "count": 26,
+ "count": 36,
  "titles": {
   "movie:11367": {
    "backdrop_path": "/2OPIWYGSRUPc0UPiA0Xn4gG7CBe.jpg",
@@ -819,114 +819,6 @@
    "type": "movie",
    "vote_average": 5.417,
    "vote_count": 48
-  },
-  "movie:1628367": {
-   "backdrop_path": "/3uDyPIGNZ6OxGPaFgGs47JhNUuK.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Pawan Malik",
-     "n": "Saif Ali Khan"
-    },
-    {
-     "c": "Varsha",
-     "n": "Rasika Dugal"
-    },
-    {
-     "c": "Ashok",
-     "n": "Sanjay Mishra"
-    },
-    {
-     "c": "Anand Shri",
-     "n": "Saurabh Dwivedi"
-    },
-    {
-     "c": "Harihar",
-     "n": "Zakir Hussain"
-    },
-    {
-     "c": "Keshav",
-     "n": "Manish Chaudhary"
-    },
-    {
-     "c": "Amar",
-     "n": "Durgesh Kumar"
-    },
-    {
-     "c": "Nirmal",
-     "n": "Saharsh Kumar Shukla"
-    },
-    {
-     "c": "Honey",
-     "n": "Swastik Bhagat"
-    },
-    {
-     "c": "Deepak",
-     "n": "Saurabh Abrol"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 16+",
-   "date_kind": "release",
-   "director": [
-    "Pulkit"
-   ],
-   "genres": [
-    "Crime",
-    "Drama",
-    "Thriller"
-   ],
-   "id": 1628367,
-   "industry": "bollywood",
-   "origin_country": [
-    "IN"
-   ],
-   "original_language": "hi",
-   "overview": "With his family's safety at stake and menacing threats closing in, a police officer must decide how far he'll go to uphold his duty.",
-   "popularity": 2.8899,
-   "poster_path": "/doTwMyAphlDL5Z8WqE3elWWvj8M.jpg",
-   "production_countries": [
-    "IN"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-05-15",
-   "revenue": 0,
-   "runtime": 109,
-   "source": "catalogue",
-   "spoken_languages": [
-    "hi"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Kartavya",
-   "trailer": {
-    "key": "WnoY3M1eaeE",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 6.9,
-   "vote_count": 37
   },
   "movie:1643567": {
    "backdrop_path": "/r87Uwf5yvL69fBWsZHGR2OTbD1A.jpg",
@@ -2888,6 +2780,127 @@
    "vote_average": 7.43,
    "vote_count": 280
   },
+  "tv:203367": {
+   "backdrop_path": "/fXpsbFfQkIsj1MF3FRJh9JgO6Qq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Li Shande",
+     "n": "Lei Jiayin"
+    },
+    {
+     "c": "Zheng Pingan",
+     "n": "Yue Yunpeng"
+    },
+    {
+     "c": "A Mita",
+     "n": "Nashi"
+    },
+    {
+     "c": "Yun Qing",
+     "n": "Vivienne Tien"
+    },
+    {
+     "c": "Su Liang",
+     "n": "Lü Liang"
+    },
+    {
+     "c": "Zhao Xinmin",
+     "n": "Gong Lei"
+    },
+    {
+     "c": "He Youguang",
+     "n": "Feng Jiayi"
+    },
+    {
+     "c": "Yu Chengen",
+     "n": "Lu Fangsheng"
+    },
+    {
+     "c": "Right Minister",
+     "n": "Zhao Wei"
+    },
+    {
+     "c": "Lan Ge",
+     "n": "Cai Lu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-G",
+   "channel": "CCTV-8",
+   "created_by": [
+    "Ma Boyong"
+   ],
+   "director": [
+    "Cao Dun"
+   ],
+   "episode_run_time": [
+    48
+   ],
+   "first_air_date": "2025-06-07",
+   "genres": [
+    "Drama"
+   ],
+   "id": 203367,
+   "industry": "world",
+   "networks": [
+    "CCTV-8"
+   ],
+   "number_of_episodes": 35,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "The story follows Li Shande, a man deceived by his colleagues and demoted from his supervisory role. Now forced to become the “Lychee Envoy,” he faces a near-impossible mission to deliver fresh lychees from Lingnan to Chang’an as a birthday gift for the Noble Consort. The saying goes that lychees change color in one day, lose their fragrance in two, and their flavor in three days. With more than 5,000 li between Lingnan and Chang’an, and under tight deadlines with limited resources, how can he possibly pull it off?",
+   "popularity": 6.8708,
+   "poster_path": "/egFbeyzLU2l0quqGVaRoYRNsmET.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Tencent Video"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png",
+     "name": "Tencent Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-07",
+     "episode_count": 35,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Litchi Road",
+   "trailer": {
+    "key": "lUplYnsc6Xk",
+    "name": "The Lychee Road International Trailer | 《长安的荔枝》国际预告片",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 23
+  },
   "tv:209867": {
    "backdrop_path": "/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
    "budget": 0,
@@ -3058,6 +3071,1169 @@
    "type": "tv",
    "vote_average": 8.8,
    "vote_count": 1025
+  },
+  "tv:271267": {
+   "backdrop_path": "/jq9biQdGSL0GIUyDaLLl7x8rgzm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "William Ronald 'Ron' Trosper",
+     "n": "Tim Robinson"
+    },
+    {
+     "c": "Barb Trosper",
+     "n": "Lake Bell"
+    },
+    {
+     "c": "Natalie Trosper",
+     "n": "Sophia Lillis"
+    },
+    {
+     "c": "Seth Trosper",
+     "n": "Will Price"
+    },
+    {
+     "c": "Mike Santini",
+     "n": "Joseph Tudisco"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "HBO",
+   "created_by": [
+    "Tim Robinson",
+    "Zach Kanin"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-12",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 271267,
+   "industry": "world",
+   "networks": [
+    "HBO"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After an embarrassing incident at work, suburban family man William Ronald Trosper finds himself investigating a far-reaching conspiracy.",
+   "popularity": 8.4112,
+   "poster_path": "/2VktdoGvR0Pv6qj9P7vDsTIfw1l.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-12",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "There's a whole world under the surface and only Ron has any idea about it. And sometimes the two worlds collide, and sometimes they don't. Ron holds them at arm's length from each other. Watch every week to find out when he can and when he can't.",
+   "title": "The Chair Company",
+   "trailer": {
+    "key": "b0lDMHAGDnU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.0,
+   "vote_count": 118
+  },
+  "tv:272467": {
+   "backdrop_path": "/7sQLhJrytvvlt27vy8DBDmhZMVn.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Léo",
+     "n": "Abraham Wapler"
+    },
+    {
+     "c": "Samia",
+     "n": "Malou Khebizi"
+    },
+    {
+     "c": "David",
+     "n": "Calixte Broisin-Doutaz"
+    },
+    {
+     "c": "Jess",
+     "n": "Sara Gançarski"
+    },
+    {
+     "c": "Victoire",
+     "n": "Jeanne Boudier"
+    },
+    {
+     "c": "",
+     "n": "Florian Lesieur"
+    },
+    {
+     "c": "",
+     "n": "Victor Bonnel"
+    },
+    {
+     "c": "",
+     "n": "Margot Heckmann"
+    },
+    {
+     "c": "",
+     "n": "Alexis Rosenstiehl"
+    },
+    {
+     "c": "",
+     "n": "Elma Urriaga"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Igor Gotesman",
+    "Olivia Barlier",
+    "Tania Gotesman"
+   ],
+   "director": [
+    "Tania Gotesman",
+    "Théo Jourdain Rhodes",
+    "Sébastien Chabane"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-08-13",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 272467,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "After four Marseille teens win €17 million, dreams of yachts, freedom and fast cash take off — but money brings chaos they never bargained for.",
+   "popularity": 2.5962,
+   "poster_path": "/cGTmK9RSbubzZmQnRFGfvtLXDGM.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-13",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Young Millionaires",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.6,
+   "vote_count": 29
+  },
+  "tv:273467": {
+   "backdrop_path": "/xVRpdsYlQR6hsapwFbwxVnFXDBH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Serafina de Lavillant (voice)",
+     "n": "Sayumi Suzushiro"
+    },
+    {
+     "c": "Veor (voice)",
+     "n": "Satoshi Inomata"
+    },
+    {
+     "c": "Cersei (voice)",
+     "n": "Hana Hishikawa"
+    },
+    {
+     "c": "Alyssa Malcius (voice)",
+     "n": "Aki Toyosaki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "AT-X",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-09",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Comedy"
+   ],
+   "id": 273467,
+   "industry": "world",
+   "networks": [
+    "AT-X"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Serafina, the West’s fiercest knight, expected torture when captured by barbarians. Instead, she got a marriage proposal! Marrying her sworn enemy is a hard no! But after seeing her wedding captor’s culture and very pretty face, she may be tempted to swap her sword for a wedding veil. Get ready for the ultimate enemies-to-maybe-lovers arc.",
+   "popularity": 8.6624,
+   "poster_path": "/fv0Mr6ahZfmwksgDpVO46iMteA6.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-09",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Warrior Princess and the Barbaric King",
+   "trailer": {
+    "key": "aGfTiczYsmo",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.509,
+   "vote_count": 55
+  },
+  "tv:281967": {
+   "backdrop_path": "/fkbkcx0uhfGOSUGh0uaSAnDmoV4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Seo Se-hyeon",
+     "n": "Park Ju-hyun"
+    },
+    {
+     "c": "Yoon Jo-gyun",
+     "n": "Park Yong-woo"
+    },
+    {
+     "c": "Jeong Jeong-hyeon",
+     "n": "Kang Hoon"
+    },
+    {
+     "c": "Jeon Chang-jin",
+     "n": "Ryu Seung-soo"
+    },
+    {
+     "c": "Seok U",
+     "n": "Bin Chan-uk"
+    },
+    {
+     "c": "Oh Min-ho",
+     "n": "Ryu Hae-jun"
+    },
+    {
+     "c": "Hong Jin-Woo",
+     "n": "Lee Doo-seok"
+    },
+    {
+     "c": "Jang Hyeok Geun",
+     "n": "Choi Kwang-je"
+    },
+    {
+     "c": "Choi Jong Su",
+     "n": "Kim Min-sang"
+    },
+    {
+     "c": "Kim Jin Rae",
+     "n": "Kang Seong-jin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "Disney+",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-16",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 281967,
+   "industry": "world",
+   "networks": [
+    "Disney+",
+    "U+ Mobile TV"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A prominent female forensic investigator suffers from antisocial personality disorder and the process in which the shadow of the father she killed threatens her honor and life.",
+   "popularity": 3.7322,
+   "poster_path": "/h0H4T1IbTm1jCenlB6dA2Bt8rgs.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-16",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Hunter with a Scalpel",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.933,
+   "vote_count": 30
+  },
+  "tv:283367": {
+   "backdrop_path": "/caWsWNJBOogpYoz9vBiHDvnduy0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Founder of Al-Qaeda (archive footage)",
+     "n": "Osama bin Laden"
+    },
+    {
+     "c": "Self - CIA Counterterrorism Operations",
+     "n": "Tracy Walder"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-14",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 283367,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Featuring rare footage and interviews with CIA insiders, this edge-of-your-seat documentary series traces the epic hunt for Osama bin Laden.",
+   "popularity": 3.2011,
+   "poster_path": "/g9CkBu9ZFGdguoukibrkyvbvCTo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-14",
+     "episode_count": 3,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Power. Terror. Legacy. The true story revealed.",
+   "title": "American Manhunt: Osama bin Laden",
+   "trailer": {
+    "key": "ZzjwcujKvho",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.71,
+   "vote_count": 93
+  },
+  "tv:287167": {
+   "backdrop_path": "/y4VazXT4ZqhDmmaRFS87ddPw19H.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nick Davies",
+     "n": "David Tennant"
+    },
+    {
+     "c": "Alan Rusbridger",
+     "n": "Toby Jones"
+    },
+    {
+     "c": "DCS Dave Cook",
+     "n": "Robert Carlyle"
+    },
+    {
+     "c": "Charlotte Harris",
+     "n": "Rose Leslie"
+    },
+    {
+     "c": "Rupert Murdoch",
+     "n": "Steve Pemberton"
+    },
+    {
+     "c": "Jacqui Hames",
+     "n": "Eve Myles"
+    },
+    {
+     "c": "PM Gordon Brown",
+     "n": "Dougray Scott"
+    },
+    {
+     "c": "Sheridan McCoid",
+     "n": "Katherine Kelly"
+    },
+    {
+     "c": "AC John Yates",
+     "n": "Kevin Doyle"
+    },
+    {
+     "c": "Glen Campbell",
+     "n": "Neil Maskell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA 15+",
+   "channel": "ITV1",
+   "created_by": [
+    "Jack Thorne"
+   ],
+   "director": [
+    "Lewis Arnold"
+   ],
+   "episode_run_time": [
+    50
+   ],
+   "first_air_date": "2025-09-24",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 287167,
+   "industry": "world",
+   "networks": [
+    "ITV1"
+   ],
+   "number_of_episodes": 7,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Set between 2002 and 2012, the drama deftly interweaves two real life stories, the uncovering of phone hacking at the News of the World, and running parallel, the investigation into the unsolved murder of private investigator Daniel Morgan.",
+   "popularity": 5.0923,
+   "poster_path": "/eucYkxvmlIVQlkFLYtxRkEotxfZ.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "ITVX"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-24",
+     "episode_count": 7,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The truth doesn't die quietly.",
+   "title": "The Hack",
+   "trailer": {
+    "key": "AShPTasA7eI",
+    "name": "Coming soon to ITV1 & ITVX",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.672,
+   "vote_count": 32
+  },
+  "tv:289567": {
+   "backdrop_path": "/4QXGZXHZlHhGJpoGLe8rBOPmX1D.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Colette",
+     "n": "Harriet Dyer"
+    },
+    {
+     "c": "Gregg",
+     "n": "Tim Meadows"
+    },
+    {
+     "c": "Barbara",
+     "n": "Molly Kearney"
+    },
+    {
+     "c": "Noa",
+     "n": "Alex Tarrant"
+    },
+    {
+     "c": "Vic",
+     "n": "Tony Cavalero"
+    },
+    {
+     "c": "Ceci",
+     "n": "Gigi Zumbado"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "CBS",
+   "created_by": [
+    "Dana Klein"
+   ],
+   "director": [],
+   "episode_run_time": [
+    21,
+    23
+   ],
+   "first_air_date": "2025-10-13",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 289567,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 20,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A single camera workplace comedy set at the place everyone dreads going most: the DMV. Our quirky and lovable characters are making minimum wage, doing a thankless job where customers are annoyed before they even walk in the door. Good thing they have each other.",
+   "popularity": 5.2744,
+   "poster_path": "/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-12",
+     "episode_count": 20,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "It's the job nobody wants, but the hangout you won't want to miss.",
+   "title": "DMV",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.2,
+   "vote_count": 32
+  },
+  "tv:290667": {
+   "backdrop_path": "/oQg6qvYrdTMitw3AD8IyiUDkfRm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hajime Shinonome (voice)",
+     "n": "Makoto Furukawa"
+    },
+    {
+     "c": "Rirui (voice)",
+     "n": "Sayumi Suzushiro"
+    },
+    {
+     "c": "Veronica Valli (voice)",
+     "n": "Shizuka Itoh"
+    },
+    {
+     "c": "Anyango (voice)",
+     "n": "Yuuki Kuwahara"
+    },
+    {
+     "c": "Olive Carmen (voice)",
+     "n": "Yuna Ogata"
+    },
+    {
+     "c": "Natalie (voice)",
+     "n": "Kaori Maeda"
+    },
+    {
+     "c": "Richat (voice)",
+     "n": "Tomohiro Ono"
+    },
+    {
+     "c": "Cocko (voice)",
+     "n": "Haruka Shiraishi"
+    },
+    {
+     "c": "Cockdole (voice)",
+     "n": "Yasunori Matsumoto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "AT-X",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-01-07",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "id": 290667,
+   "industry": "world",
+   "networks": [
+    "AT-X"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Born and raised in the slums, 29-year-old adventurer Hajime Shinonome now lives a quiet life in Komai Village. But his peaceful days take a turn when he discovers Lirui, an abandoned young girl, being attacked by a slime. Moved by her desperation and reminded of his own past, he takes her back to the village. Hajime and Lirui begin a new chapter filled with unexpected challenges and gentle days!",
+   "popularity": 5.1995,
+   "poster_path": "/tx6XZPOJ5UgVzvo8BXb2cNhFBq5.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-07",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "An Adventurer's Daily Grind at Age 29",
+   "trailer": {
+    "key": "zz6iNvge0tQ",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 27
+  },
+  "tv:294867": {
+   "backdrop_path": "/sTGjtF4gQgf1pUGR9TSOPDmEmuZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Akira Himegami (voice)",
+     "n": "Shuichiro Umeda"
+    },
+    {
+     "c": "Yuugre (voice)",
+     "n": "Yui Ishikawa"
+    },
+    {
+     "c": "Towasa Ōmaki (voice)",
+     "n": "Ai Kayano"
+    },
+    {
+     "c": "Amoru (voice)",
+     "n": "Miyu Tomita"
+    },
+    {
+     "c": "Yoiyami (voice)",
+     "n": "Miyuki Sawashiro"
+    },
+    {
+     "c": "Hakubo (voice)",
+     "n": "Tomori Kusunoki"
+    },
+    {
+     "c": "Yokurata (voice)",
+     "n": "Yohei Azakami"
+    },
+    {
+     "c": "Idhi (voice)",
+     "n": "Saki Kobari"
+    },
+    {
+     "c": "Oboro (voice)",
+     "n": "Toshiyuki Morikawa"
+    },
+    {
+     "c": "Kalcrom (voice)",
+     "n": "Taito Ban"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12+",
+   "channel": "MBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-10-03",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 294867,
+   "industry": "world",
+   "networks": [
+    "MBS",
+    "TBS",
+    "CBC",
+    "Tulip Television",
+    "SBC",
+    "BSN",
+    "tys",
+    "NBC",
+    "HBC",
+    "RKK",
+    "i-Television",
+    "SBS",
+    "IBC",
+    "BSS",
+    "MRO",
+    "OBS",
+    "TUF",
+    "RSK",
+    "TUY",
+    "tbc",
+    "RKB",
+    "KUTV",
+    "RBC",
+    "UTY",
+    "RCC",
+    "MRT",
+    "ATV",
+    "MBC"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "When tensions around AI spark civil unrest, Akira is caught in the crossfire when he protects his girlfriend from an assassin. Hundreds of years later, he awakens from cryogenic sleep to an unfamiliar world and bonds with the android Yuugure.",
+   "popularity": 5.9294,
+   "poster_path": "/xfCA7LKaIE6JbswEVUITSrl6FiH.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Anime Times Amazon Channel"
+    },
+    {
+     "name": "HiDive"
+    },
+    {
+     "name": "Hidive Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-26",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-10-03",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Dusk Beyond the End of the World",
+   "trailer": {
+    "key": "NklGavLjnFw",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 31
+  },
+  "tv:298567": {
+   "backdrop_path": "/a4iuWhgZhvtHlBzozkNggciOjV8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lee Il-jo",
+     "n": "Yoon Ji-sung"
+    },
+    {
+     "c": "Seo Jeong-han",
+     "n": "Jeong Ri-u"
+    },
+    {
+     "c": "Seung-jae",
+     "n": "Jang Won-hyuk"
+    },
+    {
+     "c": "Jeong-in",
+     "n": "Lee Dong-ju"
+    },
+    {
+     "c": "Su-hyo",
+     "n": "Hwang Seong-yun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "19",
+   "channel": "wavve",
+   "created_by": [
+    "Caesim"
+   ],
+   "director": [
+    "Min Chae-yeon"
+   ],
+   "episode_run_time": [
+    35
+   ],
+   "first_air_date": "2025-11-28",
+   "genres": [
+    "Drama"
+   ],
+   "id": 298567,
+   "industry": "world",
+   "networks": [
+    "wavve"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Bound by a debt, an illegitimate son moves in with his aloof cousin, unaware that their uneasy deal will spiral into a deep and dangerous obsession.",
+   "popularity": 2.281,
+   "poster_path": "/fskuKS2wG3IlynvxPHTudpgcUam.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-28",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Thundercloud Rainstorm",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.214,
+   "vote_count": 21
   },
   "tv:299167": {
    "backdrop_path": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",

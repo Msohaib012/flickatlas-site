@@ -1,6 +1,6 @@
 {
  "bucket": "74",
- "count": 25,
+ "count": 29,
  "titles": {
   "movie:1049574": {
    "backdrop_path": "/rSRA1p4e3laAAJflzdgtqNlx27Y.jpg",
@@ -490,140 +490,6 @@
    "vote_average": 6.555,
    "vote_count": 246
   },
-  "movie:1339274": {
-   "backdrop_path": "/flo7Xmyxz2wDUjr5Ff0VrxaVwlY.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Catalina",
-     "n": "Ana Serradilla"
-    },
-    {
-     "c": "Matías Camacho",
-     "n": "Juan Pablo Velasco"
-    },
-    {
-     "c": "Emiliano Camacho",
-     "n": "Ricardo Galina"
-    },
-    {
-     "c": "Marco",
-     "n": "Jesús Zavala"
-    },
-    {
-     "c": "Licenciado",
-     "n": "José Sefami"
-    },
-    {
-     "c": "Marcela",
-     "n": "Paloma Woolrich"
-    },
-    {
-     "c": "Mau the pizza maker",
-     "n": "Armando Silva"
-    },
-    {
-     "c": "Invitada fiesta Beto que ríe y llora",
-     "n": "Ayelen Bonacina"
-    },
-    {
-     "c": "Papá Camacho",
-     "n": "Rodrigo Herranz"
-    },
-    {
-     "c": "Invitado preguntón",
-     "n": "Alberto Valenzuela"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "16",
-   "date_kind": "release",
-   "director": [
-    "Emilio Portes"
-   ],
-   "genres": [
-    "Horror",
-    "Drama",
-    "Thriller"
-   ],
-   "id": 1339274,
-   "industry": "world",
-   "origin_country": [
-    "MX"
-   ],
-   "original_language": "es",
-   "overview": "A mother moves into a new house with her two children. One night she must leave the siblings home alone. What begins as a blast of carefree play soon turns into a claustrophobic horror story.",
-   "popularity": 12.9823,
-   "poster_path": "/7kaglo9sblVsQrKsUqaVxrfc6ag.jpg",
-   "production_countries": [
-    "MX"
-   ],
-   "providers": [
-    {
-     "name": "VIX "
-    },
-    {
-     "name": "ViX Premium Amazon Channel"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/ieJ55scAVrvboTpeJcZa3JlLIrS.png",
-     "name": "VIX ",
-     "region": "US"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
-     "name": "ViX Premium Amazon Channel",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
-     "name": "Google Play Movies",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
-     "name": "YouTube",
-     "region": "US"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-05-14",
-   "revenue": 0,
-   "runtime": 97,
-   "source": "catalogue",
-   "spoken_languages": [
-    "es"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Don't Leave the Kids Alone",
-   "trailer": null,
-   "type": "movie",
-   "vote_average": 6.777,
-   "vote_count": 166
-  },
   "movie:1361774": {
    "backdrop_path": "/z1Z1vW3bu27UUXD70vyqAcCeXU1.jpg",
    "budget": 0,
@@ -1004,111 +870,6 @@
    "type": "movie",
    "vote_average": 4.66,
    "vote_count": 25
-  },
-  "movie:1415974": {
-   "backdrop_path": "/tql3kTLmF2FFeSVIlafFJiZfcfk.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Inspector Jatil Yadav",
-     "n": "Nawazuddin Siddiqui"
-    },
-    {
-     "c": "Radha",
-     "n": "Radhika Apte"
-    },
-    {
-     "c": "Meera Bansal",
-     "n": "Chitrangada Singh"
-    },
-    {
-     "c": "DGP Sameer Verma",
-     "n": "Rajat Kapoor"
-    },
-    {
-     "c": "Dr. Rosie Panicker",
-     "n": "Revathi"
-    },
-    {
-     "c": "Guru Maa",
-     "n": "Deepti Naval"
-    },
-    {
-     "c": "Rajesh Bansal",
-     "n": "Sanjay Kapoor"
-    },
-    {
-     "c": "Sarita Kumari",
-     "n": "Ila Arun"
-    },
-    {
-     "c": "SP Chauhan",
-     "n": "Akhilendra Mishra"
-    },
-    {
-     "c": "Nisha Pal",
-     "n": "Priyanka Setia"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "A",
-   "date_kind": "release",
-   "director": [
-    "Honey Trehan"
-   ],
-   "genres": [
-    "Thriller",
-    "Mystery",
-    "Crime",
-    "Drama"
-   ],
-   "id": 1415974,
-   "industry": "bollywood",
-   "origin_country": [
-    "IN"
-   ],
-   "original_language": "hi",
-   "overview": "When members of the Bansal family are found murdered, Inspector Jatil Yadav uncovers a trail of greed, betrayal and secrets tied to a deadly conspiracy.",
-   "popularity": 0.9863,
-   "poster_path": "/8EpDSwnjMBc9dmTPEYBF4Bixmwf.jpg",
-   "production_countries": [
-    "IN"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2025-11-27",
-   "revenue": 0,
-   "runtime": 136,
-   "source": "catalogue",
-   "spoken_languages": [
-    "hi"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Raat Akeli Hai - The Bansal Murders",
-   "trailer": null,
-   "type": "movie",
-   "vote_average": 6.2,
-   "vote_count": 33
   },
   "movie:1432474": {
    "backdrop_path": "/xZBJj34pgaFCvAEoesIKDxVq3oe.jpg",
@@ -2573,6 +2334,704 @@
    "type": "tv",
    "vote_average": 8.1,
    "vote_count": 1193
+  },
+  "tv:292474": {
+   "backdrop_path": "/3v2JfPAr1dP23hGTkG44dRYGri6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Márcio",
+     "n": "Johnny Massaro"
+    },
+    {
+     "c": "Dr. Benny Orenstein",
+     "n": "Paulo Gorgulho"
+    },
+    {
+     "c": "Antônia \"Tininha\"",
+     "n": "Ana Costa"
+    },
+    {
+     "c": "Evenildo",
+     "n": "Bukassa Kabengele"
+    },
+    {
+     "c": "João",
+     "n": "Alan Rocha"
+    },
+    {
+     "c": "Catarina",
+     "n": "Marina Merlino"
+    },
+    {
+     "c": "Darlei",
+     "n": "William Costa"
+    },
+    {
+     "c": "Dr. Eduardo Souto",
+     "n": "Antonio Saboia"
+    },
+    {
+     "c": "Dr. Victor Loureiro",
+     "n": "Luiz Bertazzo"
+    },
+    {
+     "c": "Drª. Paula Matos",
+     "n": "Clarissa Kiste"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Gustavo Lipsztein"
+   ],
+   "director": [
+    "Fernando Coimbra",
+    "Iberê Carvalho"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-18",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Action & Adventure"
+   ],
+   "id": 292474,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 5,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "Physicists and doctors race to contain a massive radiological disaster and save thousands of lives.",
+   "popularity": 5.9061,
+   "poster_path": "/7UHXlpFXFSj1qmd2PTsr3uMvpXX.jpg",
+   "production_countries": [
+    "BR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-17",
+     "episode_count": 5,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt",
+    "ru"
+   ],
+   "status": "Ended",
+   "tagline": "Based on the Real-Life Cesium-137 Accident.",
+   "title": "Radioactive Emergency",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.042,
+   "vote_count": 155
+  },
+  "tv:302074": {
+   "backdrop_path": "/uahJs4jteV8pfVXPlBgBzjmoqFa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "R.J. Decker",
+     "n": "Scott Speedman"
+    },
+    {
+     "c": "Emi Ochoa",
+     "n": "Jaina Lee Ortiz"
+    },
+    {
+     "c": "Aloysius 'Wish' Aiken",
+     "n": "Kevin Rankin"
+    },
+    {
+     "c": "Catherine Delacroix",
+     "n": "Adelaide Clemens"
+    },
+    {
+     "c": "Melody 'Mel' Abreu",
+     "n": "Bevin Bru"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ABC",
+   "created_by": [
+    "Carl Hiaasen",
+    "Rob Doherty"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-03",
+   "genres": [
+    "Crime",
+    "Mystery"
+   ],
+   "id": 302074,
+   "industry": "world",
+   "networks": [
+    "ABC"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ex-con photographer RJ Decker becomes a PI in South Florida, solving strange cases with help from his journalist ex, her cop wife, and an enigmatic woman from his past who may help or destroy him.",
+   "popularity": 19.828,
+   "poster_path": "/iNOXveSqB5tUTmGKxp5flQuQ72f.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "ABC"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wlIBJalNhr0vHuhYBk0uqevxwvX.png",
+     "name": "ABC",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-03",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-09-15",
+     "episode_count": 7,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Private eye. Public mess.",
+   "title": "R.J. Decker",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.424,
+   "vote_count": 66
+  },
+  "tv:308874": {
+   "backdrop_path": "/vvbIW2xspYigrgTHTmTSzVDgfKl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kuroe Akaishi (voice)",
+     "n": "Hikari Senga"
+    },
+    {
+     "c": "Arata Minami (voice)",
+     "n": "Daishi Kajita"
+    },
+    {
+     "c": "Manatsu Tomosato (voice)",
+     "n": "Akira Sekine"
+    },
+    {
+     "c": "Raimu Kono (voice)",
+     "n": "Haruka Shiraishi"
+    },
+    {
+     "c": "Rinko Akaishi (voice)",
+     "n": "Kotono Mitsuishi"
+    },
+    {
+     "c": "Kotaro Hibino (voice)",
+     "n": "Katsuyuki Konishi"
+    },
+    {
+     "c": "Jumbo King (voice)",
+     "n": "Eriko Matsui"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2026-07-03",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Comedy"
+   ],
+   "id": 308874,
+   "industry": "world",
+   "networks": [
+    "TBS"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Kuroe Akaishi just wants a normal high school life—but that’s impossible with a rare condition that turns her into a giant kaiju whenever her emotions spike! Things get even worse when she falls for Arata Minami, the most popular boy in class. Now every blush, heartbeat, and crush could trigger a monster transformation. Can Kuroe survive high school love before it destroys everything around her?!",
+   "popularity": 8.2109,
+   "poster_path": "/jnzPR4Pb8T8zwOl6k5ekuW3MSBa.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-03",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "KAIJU GIRL CARAMELISE",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 23
+  },
+  "tv:309974": {
+   "backdrop_path": "/g9MeGvfwHXldvVOttIybvaNfLEM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kakeru Sorano (voice)",
+     "n": "Miyu Irino"
+    },
+    {
+     "c": "Koharu Fuyutsuki (voice)",
+     "n": "Saori Hayami"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "AT-X",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-07-06",
+   "genres": [
+    "Animation",
+    "Drama"
+   ],
+   "id": 309974,
+   "industry": "world",
+   "networks": [
+    "AT-X"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Kakeru Sorano, a quiet university freshman who avoids others, meets Koharu Fuyutsuki, a blind girl who faces the world with quiet brightness. When she says, “I want to see fireworks someday,” something in Kakeru shifts. As they grow closer through small moments and shared loneliness, he searches for a way to make her wish come true.",
+   "popularity": 8.7174,
+   "poster_path": "/orV0LKMAjKZzY1NJVEIwUFjLvWq.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-06",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Love Unseen Beneath the Clear Night Sky",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.5,
+   "vote_count": 31
+  },
+  "tv:312474": {
+   "backdrop_path": "/seKQ4siIyJZAt3Xubijt5iXfjvA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Aoteru Misumi (voice)",
+     "n": "Kensho Ono"
+    },
+    {
+     "c": "Asama Yoshitune (voice)",
+     "n": "Jun Fukuyama"
+    },
+    {
+     "c": "Denki Taira (voice)",
+     "n": "Takashi Nagasako"
+    },
+    {
+     "c": "Saki Higashimachi (voice)",
+     "n": "Asami Seto"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Megumi Han"
+    },
+    {
+     "c": "Mitsuhide Ryūmon (voice)",
+     "n": "Kazuhiro Yamaji"
+    },
+    {
+     "c": "Yasuaki Kaku (voice)",
+     "n": "Yuichi Nakamura"
+    },
+    {
+     "c": "Fuji III (voice)",
+     "n": "Taihi Kimura"
+    },
+    {
+     "c": "Ōga Wajima (voice)",
+     "n": "Minami Tsuda"
+    },
+    {
+     "c": "Yayakichi Hei (voice)",
+     "n": "Kenyu Horiuchi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-05",
+   "genres": [
+    "Animation",
+    "Drama",
+    "War & Politics"
+   ],
+   "id": 312474,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 13,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP",
+    "US"
+   ],
+   "original_language": "ja",
+   "overview": "A revolution sparked by nuclear war, natural disaster, and misrule leads to the collapse of Japanese society. The country splits into three nations vying for hegemony, and the Sangoku era begins. Aoteru Misumi, a former agricultural officer, vows to reunify Japan. He rises through the ranks with only his knowledge and eloquence. Witness the legend of the man later hailed as a genius strategist.",
+   "popularity": 9.0748,
+   "poster_path": "/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-05",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 1,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
+   "trailer": {
+    "key": "JisS2YRITDc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.655,
+   "vote_count": 74
+  },
+  "tv:329274": {
+   "backdrop_path": "/ucEswoBdNxw3UchQ6WHxnGU4g1a.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "José Mourinho"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [
+    "Joe Perlman"
+   ],
+   "episode_run_time": [
+    56
+   ],
+   "first_air_date": "2026-08-11",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 329274,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This trophy-packed, insider-fuelled documentary charts José Mourinho's iconic rise as one of the world's top footballing managers of the most elite clubs.",
+   "popularity": 4.5567,
+   "poster_path": "/uUgrxU3Gjl7HeaAlYa4glHWFbO5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-08-11",
+     "episode_count": 3,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "MOURINHO",
+   "trailer": {
+    "key": "e26vQ3ddHRE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.767,
+   "vote_count": 30
   },
   "tv:38974": {
    "backdrop_path": "/jDEvpKn1Ry8U7KM4kgC2Iw6ZCJ1.jpg",

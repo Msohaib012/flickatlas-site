@@ -1,6 +1,6 @@
 {
  "bucket": "56",
- "count": 17,
+ "count": 28,
  "titles": {
   "movie:11056": {
    "backdrop_path": "/dO9VVu7Z2EqqgGnij7UubQfLGzA.jpg",
@@ -347,100 +347,6 @@
    "type": "movie",
    "vote_average": 5.767,
    "vote_count": 488
-  },
-  "movie:1286656": {
-   "backdrop_path": "/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
-   "budget": 27000000,
-   "cast": [
-    {
-     "c": "Sylvester Stallone",
-     "n": "Anthony Ippolito"
-    },
-    {
-     "c": "Sasha Czack",
-     "n": "AnnaSophia Robb"
-    },
-    {
-     "c": "Irwin Winkler",
-     "n": "P.J. Byrne"
-    },
-    {
-     "c": "Robert Chartoff",
-     "n": "Toby Kebbell"
-    },
-    {
-     "c": "John Avildsen",
-     "n": "Jay Duplass"
-    },
-    {
-     "c": "Sandy Maddox",
-     "n": "Tracy Letts"
-    },
-    {
-     "c": "Frank Stallone Sr.",
-     "n": "Matt Dillon"
-    },
-    {
-     "c": "Carl Weathers",
-     "n": "Stephan James"
-    },
-    {
-     "c": "Talia Shire",
-     "n": "Kiki Seto"
-    },
-    {
-     "c": "Burgess Meredith",
-     "n": "Robert Morgan"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "A",
-   "date_kind": "release",
-   "director": [
-    "Peter Farrelly"
-   ],
-   "genres": [
-    "Drama",
-    "History"
-   ],
-   "id": 1286656,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
-   "popularity": 26.6064,
-   "poster_path": "/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
-   "production_countries": [
-    "US",
-    "AU"
-   ],
-   "providers": [],
-   "providers_wtw": [],
-   "published_at": "2026-11-14",
-   "release_date": "2026-11-13",
-   "revenue": 395108,
-   "runtime": 128,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "The true underdog story.",
-   "title": "I Play Rocky",
-   "trailer": {
-    "key": "jq5oCjhQtIc",
-    "name": "Official Trailer 2",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 8.8,
-   "vote_count": 20
   },
   "movie:1554956": {
    "backdrop_path": "/tcm829PtxDSomGOEXxzO7c0sK3p.jpg",
@@ -1141,6 +1047,1021 @@
    "vote_average": 6.753,
    "vote_count": 474
   },
+  "tv:233256": {
+   "backdrop_path": "/dDx7bjxtJcMwUhowCn7VhPwLEzp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Elisa Blix",
+     "n": "Denise Gough"
+    },
+    {
+     "c": "Rebecca",
+     "n": "Holliday Grainger"
+    },
+    {
+     "c": "Selma",
+     "n": "Ambika Mod"
+    },
+    {
+     "c": "Fred Blix",
+     "n": "Jim Sturgess"
+    },
+    {
+     "c": "DI Shona Sinclair",
+     "n": "Bronagh Waugh"
+    },
+    {
+     "c": "Josephine Thibault",
+     "n": "Robyn Betteridge"
+    },
+    {
+     "c": "Kaleb Negasi",
+     "n": "Michael Workéyè"
+    },
+    {
+     "c": "Lucia",
+     "n": "Beatrice Campbell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M18",
+   "channel": "Disney+",
+   "created_by": [
+    "Catherine Moulton"
+   ],
+   "director": [
+    "Eva Husson"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-16",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 233256,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 5,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Mother of two, Elisa, allows her daughter, Lucia, to go on an impromptu sleepover with her new best friend Josephine after meeting Josephine's mother, Rebecca, at her beautiful home. But when Elisa arrives to collect Lucia the next day, the house turns out to be an empty luxury rental and Lucia has been abducted.",
+   "popularity": 4.371,
+   "poster_path": "/jfEEnO3zHWrJNVMQuv3TCNLrIzZ.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-16",
+     "episode_count": 5,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Disappearances can be deceptive.",
+   "title": "The Stolen Girl",
+   "trailer": {
+    "key": "5dJUiN7_Zm4",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.3,
+   "vote_count": 89
+  },
+  "tv:247756": {
+   "backdrop_path": "/nYYJBixUNZAk4lmWdE5NBUfIMuw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Stefano Mele",
+     "n": "Marco Bullitta"
+    },
+    {
+     "c": "Barbara Locci",
+     "n": "Francesca Olia"
+    },
+    {
+     "c": "ADA Silvia Della Monica",
+     "n": "Liliana Bottone"
+    },
+    {
+     "c": "Salvatore Vinci",
+     "n": "Valentino Mannias"
+    },
+    {
+     "c": "Francesco Vinci",
+     "n": "Giacomo Fadda"
+    },
+    {
+     "c": "Giovanni Mele",
+     "n": "Antonio Tintis"
+    },
+    {
+     "c": "Pier Luigi Vigna",
+     "n": "Sergio Albelli"
+    },
+    {
+     "c": "Antonio",
+     "n": "Claudio Vasile"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Leonardo Fasoli",
+    "Stefano Sollima"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-22",
+   "genres": [
+    "Crime",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 247756,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "As a serial killer targets couples and strikes terror in Italy, authorities explore a case from 1968 that may be key to finding The Monster of Florence.",
+   "popularity": 3.0861,
+   "poster_path": "/1RRBxq1hEC7rKIp4yac96F9ObL5.jpg",
+   "production_countries": [
+    "IT",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-22",
+     "episode_count": 4,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Monster of Florence",
+   "trailer": {
+    "key": "jY5je8XJWTo",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.245,
+   "vote_count": 157
+  },
+  "tv:254356": {
+   "backdrop_path": "/qLaT21ydPfLaogaOMOF7Y1P9zhY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Franz Podolsky",
+     "n": "Tomasz Schuchardt"
+    },
+    {
+     "c": "Erwin Benk",
+     "n": "Adam Bobik"
+    },
+    {
+     "c": "Lena Podolsky",
+     "n": "Sandra Drzymalska"
+    },
+    {
+     "c": "Johan Holtz",
+     "n": "Ireneusz Czop"
+    },
+    {
+     "c": "Gerda Holtz",
+     "n": "Agata Kulesza"
+    },
+    {
+     "c": "Inga Eissmann",
+     "n": "Karolina Gruszka"
+    },
+    {
+     "c": "Leopold Barens",
+     "n": "Przemysław Bluszcz"
+    },
+    {
+     "c": "Andrew Fox",
+     "n": "Piotr Janusz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R21",
+   "channel": "Disney+",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    50
+   ],
+   "first_air_date": "2025-09-12",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 254356,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 9,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "PL"
+   ],
+   "original_language": "pl",
+   "overview": "Commissioner Franz Podolsky investigates a brutal murder and, because of the upcoming Olympic Games, the pressure is on to catch the murderer.",
+   "popularity": 2.5203,
+   "poster_path": "/q6i3mGilu3N85kJgjRh41oXQ3YH.jpg",
+   "production_countries": [
+    "PL"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-12",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "",
+     "episode_count": 1,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "de",
+    "pl"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "The Breslau Murders",
+   "trailer": {
+    "key": "GHjHUdakTfc",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.3,
+   "vote_count": 25
+  },
+  "tv:258256": {
+   "backdrop_path": "/C8FKBkJsUMV5ezhhupvA0lmX2w.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lee Je-ha",
+     "n": "Namkoong Min"
+    },
+    {
+     "c": "Lee Da-eum",
+     "n": "Jeon Yeo-bin"
+    },
+    {
+     "c": "Bu Seung-won",
+     "n": "Seo Hyun-woo"
+    },
+    {
+     "c": "Chae Seo-young",
+     "n": "Lee Seol"
+    },
+    {
+     "c": "Kim Jeong-woo",
+     "n": "Seo Yi-seo"
+    },
+    {
+     "c": "Kim Min-seok",
+     "n": "Jang Jae-ho"
+    },
+    {
+     "c": "Lee Jeong-hwo",
+     "n": "Kwon Hae-hyo"
+    },
+    {
+     "c": "Ko Hye-young",
+     "n": "Seo Jeong-yeon"
+    },
+    {
+     "c": "Yoo Hong",
+     "n": "Kim Eun-bi"
+    },
+    {
+     "c": "Nam Jae-in",
+     "n": "Park Eun-woo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG13",
+   "channel": "SBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    66
+   ],
+   "first_air_date": "2025-06-13",
+   "genres": [
+    "Drama"
+   ],
+   "id": 258256,
+   "industry": "world",
+   "networks": [
+    "SBS"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A director with no future and an actress with no tomorrow fall into a love story that cannot wait.",
+   "popularity": 3.6477,
+   "poster_path": "/4tEVuEVaPUvfddItXAEcL8zxOxr.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-13",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Our Movie",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.7,
+   "vote_count": 23
+  },
+  "tv:259856": {
+   "backdrop_path": "/iREgT7QU8Dfrjh0nzZpN8IspMTQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Salvador Aguirre",
+     "n": "Luis Tosar"
+    },
+    {
+     "c": "Marjane",
+     "n": "Fariba Sheikhan"
+    },
+    {
+     "c": "Milena Aguirre",
+     "n": "Candela Arestegui"
+    },
+    {
+     "c": "Julia",
+     "n": "Claudia Salas"
+    },
+    {
+     "c": "Aldolpho",
+     "n": "Juan Carlos Vellido"
+    },
+    {
+     "c": "Inspectora Martín",
+     "n": "Patricia Vico"
+    },
+    {
+     "c": "Carla",
+     "n": "Leonor Watling"
+    },
+    {
+     "c": "Nacho",
+     "n": "César Mateo"
+    },
+    {
+     "c": "Max",
+     "n": "Alejandro Casaseca"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R21",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-02-06",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 259856,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "During a violent confrontation arranged between radical fans of two football clubs, Salvador Aguirre, an ambulance driver, rescues his injured daughter Milena, a member of the ultra group, which defends racist, violent and homophobic values, totally opposed to those he instilled in her.",
+   "popularity": 2.958,
+   "poster_path": "/8pLnnRB2qG1vZHXpjm2gVFNyUX.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-06",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Salvador",
+   "trailer": {
+    "key": "L_xcb8YRUe0",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.566,
+   "vote_count": 68
+  },
+  "tv:272556": {
+   "backdrop_path": "/wXtS2qD4wXN1xK6IAc4jMPIsnSl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yu Ayase (voice)",
+     "n": "Minami Hinata"
+    },
+    {
+     "c": "Kazuki Mikadono (voice)",
+     "n": "Yurina Amami"
+    },
+    {
+     "c": "Niko Mikadono (voice)",
+     "n": "Aoi Koga"
+    },
+    {
+     "c": "Miwa Mikadono (voice)",
+     "n": "Yoshino Aoyama"
+    },
+    {
+     "c": "Mikadono (voice)",
+     "n": "Masaya Matsukaze"
+    },
+    {
+     "c": "Subaru Ayase (voice)",
+     "n": "Ai Kayano"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Gunma TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-07-10",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 272556,
+   "industry": "world",
+   "networks": [
+    "Gunma TV",
+    "TOKYO MX",
+    "BS11",
+    "Tochigi TV"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Yu Ayase, son of a late legendary actress, is overwhelmingly mediocre. When he’s invited to stay with his mother’s friend, Yu is shocked to find out that he’ll be living with three prodigy sisters who possess both beauty and talent…and who rule his new school as the Three Emperors. Can Yu manage to melt the sisters’ cold hearts and fulfill his mother’s last wish for him to build a happy family?",
+   "popularity": 7.8957,
+   "poster_path": "/7JMW8B6JqARUxc01h6mctKp1TFv.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-10",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Dealing with Mikadono Sisters Is a Breeze",
+   "trailer": {
+    "key": "SnnMTDSnnbY",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 52
+  },
+  "tv:284656": {
+   "backdrop_path": "/6XqCzLpb5NEdCYr9x5xLgLvMrNd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Suzanne Bien-Aimé",
+     "n": "Florence Longpré"
+    },
+    {
+     "c": "Mortimer Vallant",
+     "n": "Thomas Ngijol"
+    },
+    {
+     "c": "Émilien Delcourt",
+     "n": "Adrien Bletton"
+    },
+    {
+     "c": "Jacques Dallaire",
+     "n": "Benoît Brière"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "Crave",
+   "created_by": [
+    "Florence Longpré"
+   ],
+   "director": [
+    "Guillaume Lonergan"
+   ],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2025-04-10",
+   "genres": [
+    "Drama"
+   ],
+   "id": 284656,
+   "industry": "world",
+   "networks": [
+    "Crave"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "fr",
+   "overview": "Suzanne, a former criminologist turned psychiatrist, starts a new job at the Mont-Royal Psychiatric Institute, where she meets Mortimer, an intriguing intervention officer with whom she strikes up a friendship, and fascinating patients.",
+   "popularity": 2.8258,
+   "poster_path": "/6HGhzruSv399nvZmLJ3Sns9ntRP.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-10",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Empathie",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.865,
+   "vote_count": 52
+  },
+  "tv:285356": {
+   "backdrop_path": "/wlDhjgzU1NnlZT3jd40OgnC2wL9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Naoto Watari (voice)",
+     "n": "Shuichiro Umeda"
+    },
+    {
+     "c": "Satsuki Tachibana (voice)",
+     "n": "Yumika Yano"
+    },
+    {
+     "c": "Yukari Ishihara (voice)",
+     "n": "Yurie Igoma"
+    },
+    {
+     "c": "Makina Umezawa (voice)",
+     "n": "Megu Umezawa"
+    },
+    {
+     "c": "Shigenobu Tokui (voice)",
+     "n": "Yoshiki Nakajima"
+    },
+    {
+     "c": "Suzushiro Watari / Sukekiyo (voice)",
+     "n": "Hinaki Yano"
+    },
+    {
+     "c": "Tamayo Watari (voice)",
+     "n": "Naomi Ohzora"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-07-05",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 285356,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 26,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Naoto Watari lives solely for his little sister, Suzushiro, until his chaotic childhood friend, Satsuki, storms back into his life. Without uttering a single word, her very presence ignites buried memories and unravels his rigid routine. As tensions rise and secrets surface, Naoto’s devotion to Suzushiro clashes with unresolved pain, threatening to collapse his fragile world.",
+   "popularity": 7.9647,
+   "poster_path": "/lbg43t7mslXskfuWpLeMz1NEQGR.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-05",
+     "episode_count": 26,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Watari-kun's ****** Is About to Collapse",
+   "trailer": {
+    "key": "iPBqQWx-OX0",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.292,
+   "vote_count": 24
+  },
+  "tv:286056": {
+   "backdrop_path": "/pilSzXl6oXc5OpFsRiBtnIRIK9u.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alison",
+     "n": "Teresa Palmer"
+    },
+    {
+     "c": "Daniel",
+     "n": "Jim Sturgess"
+    },
+    {
+     "c": "Young Alison",
+     "n": "Florence Hunt"
+    },
+    {
+     "c": "Young Daniel",
+     "n": "Rory Walton-Smith"
+    },
+    {
+     "c": "Bill",
+     "n": "Mark O'Halloran"
+    },
+    {
+     "c": "Marian",
+     "n": "Helen Behan"
+    },
+    {
+     "c": "Stella",
+     "n": "Julia Savage"
+    },
+    {
+     "c": "Martin Baxter",
+     "n": "Jonathan Harden"
+    },
+    {
+     "c": "Michael",
+     "n": "Ben Lawson"
+    },
+    {
+     "c": "Catherine",
+     "n": "Siobhán O'Kelly"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "Binge",
+   "created_by": [
+    "Lucy Gaffy"
+   ],
+   "director": [],
+   "episode_run_time": [
+    50
+   ],
+   "first_air_date": "2025-06-12",
+   "genres": [
+    "Drama"
+   ],
+   "id": 286056,
+   "industry": "world",
+   "networks": [
+    "Binge"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "AU",
+    "IE"
+   ],
+   "original_language": "en",
+   "overview": "Daniel and Alison meet in 1989 Sheffield and fall in love as teenagers before life takes them in different directions. They reconnect years later through shared musical memories, wondering if they're meant to be together.",
+   "popularity": 2.2544,
+   "poster_path": "/jaovc65Em3383rGHYUelOFE5u8p.jpg",
+   "production_countries": [
+    "AU",
+    "IE",
+    "FI"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-12",
+     "episode_count": 4,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Every song is a love letter.",
+   "title": "Mix Tape",
+   "trailer": {
+    "key": "usxqKs8erkQ",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.7,
+   "vote_count": 21
+  },
   "tv:290856": {
    "backdrop_path": "/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
    "budget": 0,
@@ -1284,6 +2205,367 @@
    "type": "tv",
    "vote_average": 7.985,
    "vote_count": 432
+  },
+  "tv:291256": {
+   "backdrop_path": "/cBsAo9icWr0mZBvd4Rc0R4kxnDU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sara",
+     "n": "Teresa Saponangelo"
+    },
+    {
+     "c": "Teresa",
+     "n": "Claudia Gerini"
+    },
+    {
+     "c": "Pardo",
+     "n": "Flavio Furno"
+    },
+    {
+     "c": "Viola",
+     "n": "Chiara Celotto"
+    },
+    {
+     "c": "Corrado Lembo",
+     "n": "Massimo Popolizio"
+    },
+    {
+     "c": "Tarallo",
+     "n": "Antonio Gerardi"
+    },
+    {
+     "c": "Massimiliano",
+     "n": "Carmine Recano"
+    },
+    {
+     "c": "Attilio Musella",
+     "n": "Giacomo Giorgio"
+    },
+    {
+     "c": "",
+     "n": "Haroun Fall"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Carmine Elia"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-03",
+   "genres": [
+    "Mystery",
+    "Drama",
+    "Crime"
+   ],
+   "id": 291256,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "The suspicious death of her son pushes a former secret agent back into action, investigating a series of crimes that grows increasingly sinister.",
+   "popularity": 2.7049,
+   "poster_path": "/nqKP7dOzbtP2Pmvec0ntOJDM6mb.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-03",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Sara - Woman in the Shadows",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.4,
+   "vote_count": 49
+  },
+  "tv:296756": {
+   "backdrop_path": "/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "President Andre Curtis (voice)",
+     "n": "Keith David"
+    },
+    {
+     "c": "Rho Banks (voice)",
+     "n": "Stephanie Beatriz"
+    },
+    {
+     "c": "Special Agent Francis O'Doyle (voice)",
+     "n": "Jim Rash"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Adult Swim",
+   "created_by": [
+    "Dan Harmon",
+    "James Siciliano"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-26",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 296756,
+   "industry": "world",
+   "networks": [
+    "Adult Swim"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
+   "popularity": 11.6694,
+   "poster_path": "/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Adult Swim"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lEboSJfLzmtWaoLsms0jYBxYqka.png",
+     "name": "Adult Swim",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-26",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "President Curtis",
+   "trailer": {
+    "key": "KuSbjxrKvUc",
+    "name": "Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.841,
+   "vote_count": 82
+  },
+  "tv:317056": {
+   "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lu Feng",
+     "n": "Ayden Sng"
+    },
+    {
+     "c": "Cheng Yichen",
+     "n": "Lü Sitong"
+    },
+    {
+     "c": "Qin Lang",
+     "n": "Fa Xuange"
+    },
+    {
+     "c": "Cheng Yichen",
+     "n": "He Jiashu"
+    },
+    {
+     "c": "Zhuo Lan",
+     "n": "Li Keyi"
+    },
+    {
+     "c": "Lu Yu",
+     "n": "Yang Kexin"
+    },
+    {
+     "c": "Zhu Sha",
+     "n": "Miao Jingou"
+    },
+    {
+     "c": "Zhou Cheng",
+     "n": "Chou Ziyi"
+    },
+    {
+     "c": "Ding Ding",
+     "n": "Yang Qi"
+    },
+    {
+     "c": "Ke Luo",
+     "n": "Loong Jiayu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18+",
+   "channel": "GagaOOLala",
+   "created_by": [
+    "蓝淋"
+   ],
+   "director": [
+    "Li Yingyi"
+   ],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2026-05-08",
+   "genres": [
+    "Drama"
+   ],
+   "id": 317056,
+   "industry": "world",
+   "networks": [
+    "GagaOOLala"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN",
+    "SG"
+   ],
+   "original_language": "zh",
+   "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
+   "popularity": 4.0437,
+   "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
+   "production_countries": [
+    "CN",
+    "SG"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-08",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Double Helix",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.7,
+   "vote_count": 24
   },
   "tv:41956": {
    "backdrop_path": "/nCwAmyCcA6w1ZFjKrmwCRPiy4gt.jpg",

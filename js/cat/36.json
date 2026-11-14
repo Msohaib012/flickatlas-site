@@ -1,6 +1,6 @@
 {
  "bucket": "36",
- "count": 19,
+ "count": 24,
  "titles": {
   "movie:11536": {
    "backdrop_path": "/uCH6NY9qstOLbBTGv0rWxB1oJJH.jpg",
@@ -1916,6 +1916,410 @@
    "vote_average": 7.984,
    "vote_count": 908
   },
+  "tv:229236": {
+   "backdrop_path": "/u41RabPPKrUPb3xEZryShF4Ts45.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Commissioner Sir Ian Blair",
+     "n": "Conleth Hill"
+    },
+    {
+     "c": "Jean Charles de Menezes",
+     "n": "Edison Alcaide"
+    },
+    {
+     "c": "AC Andy Hayman",
+     "n": "Max Beesley"
+    },
+    {
+     "c": "DAC Brian Paddick",
+     "n": "Russell Tovey"
+    },
+    {
+     "c": "Dick Fedorcio",
+     "n": "David Michaels"
+    },
+    {
+     "c": "Vivian Meneses Figueiredo",
+     "n": "Carolina Baroni"
+    },
+    {
+     "c": "Gesio de Avila",
+     "n": "Ben Santos"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Disney+",
+   "created_by": [
+    "Jeff Pope"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-30",
+   "genres": [
+    "Drama"
+   ],
+   "id": 229236,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "London is rocked by terrorist attacks as armed police shoot dead an innocent man on his way to work.",
+   "popularity": 3.8901,
+   "poster_path": "/s3JThgTo3W3rl9F6o2tvBx52ih0.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-30",
+     "episode_count": 4,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt"
+   ],
+   "status": "Ended",
+   "tagline": "4-part drama of a true injustice.",
+   "title": "Suspect: The Shooting of Jean Charles De Menezes",
+   "trailer": {
+    "key": "_EYJ0JzEiag",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.983,
+   "vote_count": 29
+  },
+  "tv:258036": {
+   "backdrop_path": "/4X86dOxMsrZudL0PdsMv30NGBWZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Duncan Park",
+     "n": "Billy Magnussen"
+    },
+    {
+     "c": "Dr. JoAnne Felder",
+     "n": "Sarah Goldberg"
+    },
+    {
+     "c": "Carl Bardolph",
+     "n": "Zach Galifianakis"
+    },
+    {
+     "c": "Anushka Bhattachera-Phister",
+     "n": "Meaghan Rath"
+    },
+    {
+     "c": "Lili Park-Hoffsteader",
+     "n": "Lucy Punch"
+    },
+    {
+     "c": "Dr. Gary Felder",
+     "n": "Paul Adelstein"
+    },
+    {
+     "c": "Martin Phister",
+     "n": "Simon Helberg"
+    },
+    {
+     "c": "Tom Ruffage",
+     "n": "Rob Corddry"
+    },
+    {
+     "c": "Orson Stern",
+     "n": "Everett Blunck"
+    },
+    {
+     "c": "Jamison Park-Hoffsteader",
+     "n": "Ava Telek"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "AMC",
+   "created_by": [
+    "Jonathan Glatzer"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-05",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 258036,
+   "industry": "world",
+   "networks": [
+    "AMC"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Inside the bubble of Silicon Valley, a data-mining CEO strives to turn insight and influence into profit and power in this darkly comedic look at the warped dreams, outsized egos, and ethical lapses of the self-styled inventors of the future.",
+   "popularity": 5.8122,
+   "poster_path": "/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-05",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Move fast and break people.",
+   "title": "The Audacity",
+   "trailer": {
+    "key": "ryijrW6nKgA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.0,
+   "vote_count": 23
+  },
+  "tv:279136": {
+   "backdrop_path": "/voXmpCHYbScGXD8NBUYzE3nJl4J.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Xiao Zhiyu",
+     "n": "Chen Xingxu"
+    },
+    {
+     "c": "Hu Xiu",
+     "n": "Lu Yuxiao"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "iQiyi",
+   "created_by": [
+    "Zu Le"
+   ],
+   "director": [
+    "Shuang Yuan"
+   ],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2026-01-09",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 279136,
+   "industry": "world",
+   "networks": [
+    "iQiyi"
+   ],
+   "number_of_episodes": 28,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "Xiao Zhiyu and Hu Xiu are brought together by a Republic of China-themed murder mystery game. In the scripted NPC game filled with falling snow and spies in the shadows, the two ignite a fateful spark. An unexpected reunion in the real world reveals the mystery of each other's identities. The two shuttle between the misaligned time-spaces of reality and the script, and finally achieve two-way growth in the cross-dimensional bond, completing the transformation of love and self.",
+   "popularity": 10.3234,
+   "poster_path": "/3jlaQYWWZgmLQMIsQ7uZid99Mlo.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-09",
+     "episode_count": 28,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Love Between Lines",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.548,
+   "vote_count": 42
+  },
   "tv:28136": {
    "backdrop_path": "/xogL7RDFo7c21nrGDabYT9FFzTH.jpg",
    "budget": 0,
@@ -2033,6 +2437,273 @@
    "type": "tv",
    "vote_average": 8.523,
    "vote_count": 837
+  },
+  "tv:284736": {
+   "backdrop_path": "/lU3esiXkPlIccL8FUcrSE7LzOzy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Det. Danny Reagan",
+     "n": "Donnie Wahlberg"
+    },
+    {
+     "c": "Det. Lena Silver",
+     "n": "Sonequa Martin-Green"
+    },
+    {
+     "c": "Rev. Edwin Peters",
+     "n": "Ernie Hudson"
+    },
+    {
+     "c": "Supt. Sarah Silver",
+     "n": "Maggie Lawson"
+    },
+    {
+     "c": "DA Mae Silver",
+     "n": "Gloria Reuben"
+    },
+    {
+     "c": "Ofc. Jonah Silver",
+     "n": "Marcus Scribner"
+    },
+    {
+     "c": "Ofc. Sean Reagan",
+     "n": "Mika Amonsen"
+    },
+    {
+     "c": "Katie Larson",
+     "n": "Emily Mitchell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "CBS",
+   "created_by": [
+    "Brandon Margolis",
+    "Brandon Sonnier"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-17",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 284736,
+   "industry": "world",
+   "networks": [
+    "CBS"
+   ],
+   "number_of_episodes": 27,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "NYPD Detective Danny Reagan takes a job with the Boston PD and is paired with Detective Lena Silver, part of a law enforcement family comprised of District Attorney Mae Silver, Police Superintendent Sarah Silver, rookie cop Jonah Silver and Rev. Edwin Peters. Reagan hopes to reconnect with his son, Sean, in Boston.",
+   "popularity": 15.6229,
+   "poster_path": "/81IhL3ckAgJ9J8vHazlUA5BNs8G.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-17",
+     "episode_count": 20,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-10-09",
+     "episode_count": 7,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Boston just got a little bit bluer.",
+   "title": "Boston Blue",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.9,
+   "vote_count": 81
+  },
+  "tv:335536": {
+   "backdrop_path": "/qFNAWAHCXWtS4EMlLxTAetTpZAR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Mike Tyson"
+    },
+    {
+     "c": "Self",
+     "n": "Bobby Stewart"
+    },
+    {
+     "c": "Self",
+     "n": "Tom Patti"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Cus D'Amato"
+    },
+    {
+     "c": "Self",
+     "n": "Lennox Lewis"
+    },
+    {
+     "c": "Self",
+     "n": "Rory Holloway"
+    },
+    {
+     "c": "Self",
+     "n": "David Barnes"
+    },
+    {
+     "c": "Self",
+     "n": "Wallace Matthews"
+    },
+    {
+     "c": "Self",
+     "n": "Barry Tompkins"
+    },
+    {
+     "c": "Self",
+     "n": "William \"Ouie\" Fagan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-10-13",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 335536,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This gripping four-part documentary series explores the explosive life of Mike Tyson — one of the most feared and fascinating figures in sports history.",
+   "popularity": 5.5952,
+   "poster_path": "/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-10-13",
+     "episode_count": 4,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "TYSON",
+   "trailer": {
+    "key": "o1S5LsYhfEg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.556,
+   "vote_count": 27
   },
   "tv:36": {
    "backdrop_path": "/dVpAGo3TT2IjDyRuKwhNfe9E1A5.jpg",

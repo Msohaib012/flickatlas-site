@@ -1,6 +1,6 @@
 {
  "bucket": "15",
- "count": 22,
+ "count": 25,
  "titles": {
   "movie:1280015": {
    "backdrop_path": "/hRsl1RMijpUCtLH3nZzRMnTjFYl.jpg",
@@ -131,136 +131,6 @@
    "type": "movie",
    "vote_average": 7.1,
    "vote_count": 26
-  },
-  "movie:1283515": {
-   "backdrop_path": "/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
-   "budget": 40000000,
-   "cast": [
-    {
-     "c": "Lowen Ashleigh",
-     "n": "Dakota Johnson"
-    },
-    {
-     "c": "Verity Crawford",
-     "n": "Anne Hathaway"
-    },
-    {
-     "c": "Jeremy Crawford",
-     "n": "Josh Hartnett"
-    },
-    {
-     "c": "Crew Crawford",
-     "n": "Brady Wagner"
-    },
-    {
-     "c": "Corey",
-     "n": "Ismael Cruz Cordova"
-    },
-    {
-     "c": "Anna",
-     "n": "Iryna Dvorovenko"
-    },
-    {
-     "c": "Harper Crawford",
-     "n": "Sienna Kulovitz"
-    },
-    {
-     "c": "Amanda Thomas",
-     "n": "K.K. Moggie"
-    },
-    {
-     "c": "Barron Stephens",
-     "n": "Tom Galantich"
-    },
-    {
-     "c": "Limo Driver",
-     "n": "Lou Martini Jr."
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "A",
-   "date_kind": "release",
-   "director": [
-    "Michael Showalter"
-   ],
-   "genres": [
-    "Mystery",
-    "Thriller"
-   ],
-   "id": 1283515,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-   "popularity": 141.8691,
-   "poster_path": "/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [],
-   "providers_wtw": [
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "US"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "US"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
-     "name": "Fandango At Home",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
-     "name": "Fandango At Home",
-     "region": "US"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-02",
-   "revenue": 178488883,
-   "runtime": 117,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "There is no light where we're going.",
-   "title": "Verity",
-   "trailer": {
-    "key": "xdPMKhjMSFs",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 6.991,
-   "vote_count": 686
   },
   "movie:1292415": {
    "backdrop_path": "/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg",
@@ -2281,6 +2151,497 @@
    "type": "tv",
    "vote_average": 7.632,
    "vote_count": 1929
+  },
+  "tv:230915": {
+   "backdrop_path": "/qILdlzSLkxFXFHhY50Pa42MyrU7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Pharan",
+     "n": "Harit Buayoi"
+    },
+    {
+     "c": "Khem",
+     "n": "Napatsakorn Pingmuang"
+    },
+    {
+     "c": "Charn",
+     "n": "Matimun Sreeboonrueang"
+    },
+    {
+     "c": "Jet",
+     "n": "Wannakorn Reungrat"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R21",
+   "channel": "ONE 31",
+   "created_by": [
+    "Cali"
+   ],
+   "director": [],
+   "episode_run_time": [
+    80
+   ],
+   "first_air_date": "2025-08-09",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 230915,
+   "industry": "world",
+   "networks": [
+    "ONE 31"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "With a deadly curse set to claim him at 21, a young man flees to a master of ancient magic—only to face ghosts more dangerous than his fate.",
+   "popularity": 9.9031,
+   "poster_path": "/yW3fKmI8l7z27uZ2fsCFCyBxsh5.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Tencent Video"
+    },
+    {
+     "name": "iQIYI"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png",
+     "name": "Tencent Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-09",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-10-31",
+     "episode_count": 4,
+     "name": "Forever",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Returning Series",
+   "tagline": "Do you believe in things you cannot see?",
+   "title": "Khemjira",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 9.186,
+   "vote_count": 43
+  },
+  "tv:281615": {
+   "backdrop_path": "/s7LgF8NmL0Qi9fWAeZvOBx9s2jy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ryo (voice)",
+     "n": "Ayumu Murase"
+    },
+    {
+     "c": "Abel (voice)",
+     "n": "Kazuki Ura"
+    },
+    {
+     "c": "Sera (voice)",
+     "n": "Kaede Hondo"
+    },
+    {
+     "c": "Nils (voice)",
+     "n": "Genki Muro"
+    },
+    {
+     "c": "(voice)",
+     "n": "Naoya Miyase"
+    },
+    {
+     "c": "(voice)",
+     "n": "Kohei Amasaki"
+    },
+    {
+     "c": "(voice)",
+     "n": "Kaori Ishihara"
+    },
+    {
+     "c": "(voice)",
+     "n": "Sara Matsumoto"
+    },
+    {
+     "c": "(voice)",
+     "n": "Satoshi Mikami"
+    },
+    {
+     "c": "(voice)",
+     "n": "Miku Ito"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-07-04",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 281615,
+   "industry": "world",
+   "networks": [
+    "TBS"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Reincarnation had Ryo dreaming of peace, but instead he lands into a monster-infested wilderness. With water magic and eternal youth, he survives countless wicked concoctions for 20 years, becoming one of the most powerful magicians ever. Ryo’s fate shifts when he meets Abel, a genius knight, thrusting him into magical society’s spotlight. Thus, the Water Magician’s wild adventure begins!",
+   "popularity": 5.7382,
+   "poster_path": "/9GWz3D9aBgtn6pMiu3DTZL3h5ua.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-04",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "With water magic and endless courage, the legend’s adventure begins!",
+   "title": "The Water Magician",
+   "trailer": {
+    "key": "vQWodcG5x-I",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.008,
+   "vote_count": 61
+  },
+  "tv:288915": {
+   "backdrop_path": "/d6nMDQNCasWz82w50XNRIQoLBeA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Aniela",
+     "n": "Małgorzata Kożuchowska"
+    },
+    {
+     "c": "Jan",
+     "n": "Jacek Poniedziałek"
+    },
+    {
+     "c": "Łucja",
+     "n": "Lila Vasina"
+    },
+    {
+     "c": "Marecki",
+     "n": "Cezary Pazura"
+    },
+    {
+     "c": "Ewa / Edyta",
+     "n": "Gabriela Muskała"
+    },
+    {
+     "c": "Lena",
+     "n": "Pitry Pitry"
+    },
+    {
+     "c": "Viola",
+     "n": "Anita Szepelska"
+    },
+    {
+     "c": "Marysia",
+     "n": "Maja Kowalska"
+    },
+    {
+     "c": "",
+     "n": "Dominika Biernat"
+    },
+    {
+     "c": "Armani",
+     "n": "Filip Pławiak"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-11",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 288915,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "PL"
+   ],
+   "original_language": "pl",
+   "overview": "After her wealthy husband leaves her with nothing, a high-society Warsaw snob is forced to use the only survival skills she has left — her sharp wit.",
+   "popularity": 1.8186,
+   "poster_path": "/iVPeugyQMC2NIkZyIqjvdzqo7Jw.jpg",
+   "production_countries": [
+    "PL"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-11",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "pl"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Aniela",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.05,
+   "vote_count": 20
+  },
+  "tv:320315": {
+   "backdrop_path": "/gbOfqkrDx2yd6w5U3tVySnfmygk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sofía Peralta-Avitia Villaseñor",
+     "n": "Silvia Navarro"
+    },
+    {
+     "c": "Franco Gallardo",
+     "n": "Daniel Arenas"
+    },
+    {
+     "c": "Bárbara Balmori-Ricci Peralta-Avitia",
+     "n": "Paulina Goto"
+    },
+    {
+     "c": "Salvador 'Chava' Reyes Encino",
+     "n": "Diego Klein"
+    },
+    {
+     "c": "Gonzalo Balmori Ricci",
+     "n": "Sergio Sendel"
+    },
+    {
+     "c": "Uriel Bolero",
+     "n": "Rodolfo Salas"
+    },
+    {
+     "c": "Aramís Peralta Avitia",
+     "n": "Alejandro Camacho"
+    },
+    {
+     "c": "Grecia Diamanto",
+     "n": "Kimberly Dos Ramos"
+    },
+    {
+     "c": "Catalina Peralta Avitia",
+     "n": "Gabriela Platas"
+    },
+    {
+     "c": "Vittorio Kuri",
+     "n": "Víctor González"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "Univision",
+   "created_by": [
+    "Juan Osorio Ortiz"
+   ],
+   "director": [],
+   "episode_run_time": [
+    42
+   ],
+   "first_air_date": "2026-05-18",
+   "genres": [
+    "Soap",
+    "Drama"
+   ],
+   "id": 320315,
+   "industry": "world",
+   "networks": [
+    "Univision"
+   ],
+   "number_of_episodes": 78,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Sofía Peralta-Avitia Villaseñor, a successful businesswoman and great mother, who feels lonely in her marriage to Gonzalo Balmori-Ricci Nava. At the same time, her daughter, Bárbara Balmori-Ricci Peralta-Avitia, and her young bodyguard, Salvador \"Chava\" Reyes Encino, will transform their rebelliousness into passion. But none of them know that the evil, ambitious people around them will try to meddle in their paths on their road to love.",
+   "popularity": 7.497,
+   "poster_path": "/ppdrvfUyukqtFkl1HY7x6qHd7st.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "ViX Premium Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+     "name": "ViX Premium Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-18",
+     "episode_count": 78,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Guardián de mi vida",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 9.5,
+   "vote_count": 148
   },
   "tv:32415": {
    "backdrop_path": "/2Ib8kvWa9gGhJrAfGlhIvbmtbWn.jpg",

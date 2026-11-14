@@ -1,71 +1,7 @@
 {
  "bucket": "57",
- "count": 32,
+ "count": 37,
  "titles": {
-  "movie:1007757": {
-   "d": "Swapped (2026): Adventure/Animation film. Story: A small woodland creature and a majestic bird, two… See cast, budget $7, and TMDB rating 8.8/10.",
-   "img": "https://image.tmdb.org/t/p/w780/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
-   "industry": "world",
-   "k": "Swapped, Swapped movie, Swapped cast, Swapped story, Swapped box office collection, Swapped budget, Swapped review, Swapped rating, Swapped release date, Swapped trailer, Swapped Adventure, Swapped Animation, international movies, FlickAtlas",
-   "ld": {
-    "@context": "https://schema.org",
-    "@type": "Movie",
-    "actor": [
-     {
-      "@type": "Person",
-      "name": "Michael B. Jordan"
-     },
-     {
-      "@type": "Person",
-      "name": "Juno Temple"
-     },
-     {
-      "@type": "Person",
-      "name": "Tracy Morgan"
-     },
-     {
-      "@type": "Person",
-      "name": "Cedric the Entertainer"
-     },
-     {
-      "@type": "Person",
-      "name": "Justina Machado"
-     }
-    ],
-    "aggregateRating": {
-     "@type": "AggregateRating",
-     "bestRating": 10,
-     "ratingCount": 2300,
-     "ratingValue": 8.8,
-     "worstRating": 0
-    },
-    "description": "Swapped (2026): Adventure/Animation film. Story: A small woodland creature and a majestic bird, two… See cast, budget $7, and TMDB rating 8.8/10.",
-    "director": [
-     {
-      "@type": "Person",
-      "name": "Nathan Greno"
-     }
-    ],
-    "duration": "PT102M",
-    "genre": [
-     "Adventure",
-     "Animation"
-    ],
-    "image": "https://image.tmdb.org/t/p/w780/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
-    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1007757",
-    "name": "Swapped",
-    "releasedEvent": {
-     "@type": "PublicationEvent",
-     "startDate": "2026-05-01"
-    },
-    "url": "https://flickatlas.co.uk/movie?id=1007757"
-   },
-   "modified": "",
-   "published": "2026-11-14",
-   "ssr": "<article class=\"ssr-facts\">\n<h1>Swapped (2026)</h1>\n<p class=\"ssr-lead\">A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 May 2026</li><li>Runtime: 102 minutes</li><li>Director: Nathan Greno</li><li>Genres: Adventure, Animation, Family, Fantasy</li><li>Budget: $7</li><li>TMDB rating: 8.8/10 (2300 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael B. Jordan as Ollie (voice)</li><li>Juno Temple as Ivy (voice)</li><li>Tracy Morgan as Boogle / Firewolf (voice)</li><li>Cedric the Entertainer as Caloo (voice)</li><li>Justina Machado as Calli (voice)</li><li>Nate Torrence as Lodd (voice)</li><li>Camden Brooks as Young Ollie (voice)</li><li>Táta Vega as Grandma / Mrs. Dung Beetle (voice)</li><li>Ambika Mod as Violet (voice)</li><li>Lolly Adefope as Lily (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
-   "t": "Swapped (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-   "year": "2026"
-  },
   "movie:11157": {
    "d": "She-Devil (1989): Comedy film. Story: A cunning and resourceful housewife vows revenge on… See cast, budget $20M, and TMDB rating 6.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/vHRxxSB9oiZvRyBlLAs3KZkM6T.jpg",
@@ -1454,6 +1390,226 @@
    "t": "The Diplomat (2023) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2023"
   },
+  "tv:218557": {
+   "d": "Portobello (2026) is a Drama and Crime TV series. Explore its story: In the early '80s, Enzo Tortora is one of the most…, cast, 1 season, and 6 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/ebaW4MeaKlWYSABcPlA5zFHGtKb.jpg",
+   "industry": "world",
+   "k": "Portobello, Portobello TV series, Portobello cast, Portobello story, Portobello seasons, Portobello episodes, Portobello season 1, Portobello 6 episodes, Portobello first air date, Portobello trailer, Portobello Drama, Portobello Crime, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Fabrizio Gifuni"
+     },
+     {
+      "@type": "Person",
+      "name": "Lino Musella"
+     },
+     {
+      "@type": "Person",
+      "name": "Romana Maggiora Vergano"
+     },
+     {
+      "@type": "Person",
+      "name": "Barbora Bobuľová"
+     },
+     {
+      "@type": "Person",
+      "name": "Alessandro Preziosi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 44,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Portobello (2026) is a Drama and Crime TV series. Explore its story: In the early '80s, Enzo Tortora is one of the most…, cast, 1 season, and 6 episodes.",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ebaW4MeaKlWYSABcPlA5zFHGtKb.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=218557",
+    "name": "Portobello",
+    "numberOfEpisodes": 6,
+    "numberOfSeasons": 1,
+    "startDate": "2026-02-20",
+    "url": "https://flickatlas.co.uk/show?id=218557"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Portobello (2026)</h1>\n<p class=\"ssr-lead\">In the early &#x27;80s, Enzo Tortora is one of the most beloved figures on Italian television. But in the midst of Italy&#x27;s war against organized crime, Enzo&#x27;s life is upended when he&#x27;s falsely connected to the notorious Camorra criminal ring.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 20 February 2026</li><li>Seasons: 1 · Episodes: 6</li><li>Created by: Marco Bellocchio</li><li>Genres: Drama, Crime</li><li>TMDB rating: 7.7/10 (44 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Fabrizio Gifuni as Enzo Tortora</li><li>Lino Musella as Giovanni Pandico</li><li>Romana Maggiora Vergano as Francesca Scopelliti</li><li>Barbora Bobuľová as Anna Tortora</li><li>Alessandro Preziosi as Giorgio Fontana</li><li>Fausto Russo Alesi as Diego Marmo</li><li>Carlotta Gamba as Silvia Tortora</li><li>Massimiliano Rossi as Pasquale Barra</li><li>Gianfranco Gallo as Raffaele Cutolo</li><li>Paolo Pierobon as Prof. Dall&#x27;Ora</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, HBO Max</li></ul>\n</article>",
+   "t": "Portobello (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:295357": {
+   "d": "Fist of the North Star: HOKUTO NO KEN (2026) is an Action & Adventure and Animation TV series.",
+   "img": "https://image.tmdb.org/t/p/w780/mVH9xKyA0ETdejTrCLKQI0mGJay.jpg",
+   "industry": "world",
+   "k": "Fist of the North Star: HOKUTO NO KEN, Fist of the North Star: HOKUTO NO KEN TV series, Fist of the North Star: HOKUTO NO KEN cast, Fist of the North Star: HOKUTO NO KEN story, Fist of the North Star: HOKUTO NO KEN seasons, Fist of the North Star: HOKUTO NO KEN episodes, Fist of the North Star: HOKUTO NO KEN season 1, Fist of the North Star: HOKUTO NO KEN 14 episodes, Fist of the North Star: HOKUTO NO KEN first air date, Fist of the North Star: HOKUTO NO KEN trailer, Fist of the North Star: HOKUTO NO KEN Action & Adventure, Fist of the North Star: HOKUTO NO KEN Animation, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shunsuke Takeuchi"
+     },
+     {
+      "@type": "Person",
+      "name": "Daiki Yamashita"
+     },
+     {
+      "@type": "Person",
+      "name": "Mao Ichimichi"
+     },
+     {
+      "@type": "Person",
+      "name": "Wataru Takagi"
+     },
+     {
+      "@type": "Person",
+      "name": "Tsuguo Mogami"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 32,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "Fist of the North Star: HOKUTO NO KEN (2026) is an Action & Adventure and Animation TV series.",
+    "genre": [
+     "Action & Adventure",
+     "Animation"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mVH9xKyA0ETdejTrCLKQI0mGJay.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=295357",
+    "name": "Fist of the North Star: HOKUTO NO KEN",
+    "numberOfEpisodes": 14,
+    "numberOfSeasons": 1,
+    "startDate": "2026-04-11",
+    "url": "https://flickatlas.co.uk/show?id=295357"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fist of the North Star: HOKUTO NO KEN (2026)</h1>\n<p class=\"ssr-lead\">In the year 199X, the world was engulfed in nuclear fire!! Yet...humanity somehow survived!! A lone man with seven scars on his chest emerges. His name is Kenshiro, heir to Hokuto Shinken. In a world where only the strong survive, Kenshiro forges a path with his iron fists!</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 11 April 2026</li><li>Seasons: 1 · Episodes: 14</li><li>Genres: Action &amp; Adventure, Animation</li><li>TMDB rating: 8.2/10 (32 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shunsuke Takeuchi as Kenshiro (voice)</li><li>Daiki Yamashita as Bat (voice)</li><li>Mao Ichimichi as Rin (voice)</li><li>Wataru Takagi as Jagi (voice)</li><li>Tsuguo Mogami as Toki (voice)</li><li>Taiten Kusunoki as Raoh (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Fist of the North Star: HOKUTO NO KEN (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:297557": {
+   "d": "The Classroom of a Black Cat and a Witch (2026) is an Animation and Comedy TV series. Explore its story: Spica Virgo dreams of joining a magical academy, but….",
+   "img": "https://image.tmdb.org/t/p/w780/tR8AoRgTCLS0y0iI1Eou8vZylfq.jpg",
+   "industry": "world",
+   "k": "The Classroom of a Black Cat and a Witch, The Classroom of a Black Cat and a Witch TV series, The Classroom of a Black Cat and a Witch cast, The Classroom of a Black Cat and a Witch story, The Classroom of a Black Cat and a Witch seasons, The Classroom of a Black Cat and a Witch episodes, The Classroom of a Black Cat and a Witch season 1, The Classroom of a Black Cat and a Witch 24 episodes, The Classroom of a Black Cat and a Witch first air date, The Classroom of a Black Cat and a Witch trailer, The Classroom of a Black Cat and a Witch Animation, The Classroom of a Black Cat and a Witch Comedy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kaede Hondo"
+     },
+     {
+      "@type": "Person",
+      "name": "Nobunaga Shimazaki"
+     },
+     {
+      "@type": "Person",
+      "name": "Fuka Izumi"
+     },
+     {
+      "@type": "Person",
+      "name": "Miho Wataya"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 21,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "The Classroom of a Black Cat and a Witch (2026) is an Animation and Comedy TV series. Explore its story: Spica Virgo dreams of joining a magical academy, but….",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tR8AoRgTCLS0y0iI1Eou8vZylfq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=297557",
+    "name": "The Classroom of a Black Cat and a Witch",
+    "numberOfEpisodes": 24,
+    "numberOfSeasons": 1,
+    "startDate": "2026-04-12",
+    "url": "https://flickatlas.co.uk/show?id=297557"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Classroom of a Black Cat and a Witch (2026)</h1>\n<p class=\"ssr-lead\">Spica Virgo dreams of joining a magical academy, but there’s one problem: She can’t use magic! With no mentor or connections, her chances seem slim—until a mysterious talking black cat appears. A powerful mage cursed into feline form, he agrees to teach her in exchange for help breaking the spell. As their secret pact begins, Spica steps into a world of magic, mystery, and unexpected surprises.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 12 April 2026</li><li>Seasons: 1 · Episodes: 24</li><li>Genres: Animation, Comedy, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 7.6/10 (21 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kaede Hondo as Spica Virgo (voice)</li><li>Nobunaga Shimazaki as Claude Sirius (voice)</li><li>Fuka Izumi as Aria Aquarius (voice)</li><li>Miho Wataya as Hana Sasorijo (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll, Crunchyroll Amazon Channel</li></ul>\n</article>",
+   "t": "The Classroom of a Black Cat and a Witch (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:305357": {
+   "d": "A Different World (2026) is a Comedy and Drama TV series. Explore its story: Deborah Wayne enters her freshman year at her…, cast, 1 season, and 10 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg",
+   "industry": "world",
+   "k": "A Different World, A Different World TV series, A Different World cast, A Different World story, A Different World seasons, A Different World episodes, A Different World season 1, A Different World 10 episodes, A Different World first air date, A Different World trailer, A Different World Comedy, A Different World Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Maleah Joi Moon"
+     },
+     {
+      "@type": "Person",
+      "name": "Alijah Kai"
+     },
+     {
+      "@type": "Person",
+      "name": "Cornell Young IV"
+     },
+     {
+      "@type": "Person",
+      "name": "Jordan Aaron Hall"
+     },
+     {
+      "@type": "Person",
+      "name": "Kennedi Reece"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 25,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "A Different World (2026) is a Comedy and Drama TV series. Explore its story: Deborah Wayne enters her freshman year at her…, cast, 1 season, and 10 episodes.",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=305357",
+    "name": "A Different World",
+    "numberOfEpisodes": 10,
+    "numberOfSeasons": 1,
+    "startDate": "2026-09-24",
+    "url": "https://flickatlas.co.uk/show?id=305357"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Different World (2026)</h1>\n<p class=\"ssr-lead\">Deborah Wayne enters her freshman year at her parents&#x27; HBCU alma mater and finds their shadow difficult to escape. She sets out to build her own legacy – while having the time of her life – alongside a whole new generation of Hillman’s best and brightest.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 24 September 2026</li><li>Seasons: 1 · Episodes: 10</li><li>Created by: Felicia Pride</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 7.5/10 (25 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Maleah Joi Moon as Deborah Wayne</li><li>Alijah Kai as Rashida</li><li>Cornell Young IV as Shaquille</li><li>Jordan Aaron Hall as Amir</li><li>Kennedi Reece as Hazel</li><li>Chibuikem Uche as Kojo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "A Different World (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
   "tv:30957": {
    "d": "The Amazing Race (2001) is a Reality TV series. Explore its story: This reality competition sees teams embark on a trek…, cast, 39 seasons, and 459 episodes.",
    "img": "https://image.tmdb.org/t/p/w780/mSkisNewxu55Ivar5EubhcIuoqn.jpg",
@@ -1492,6 +1648,128 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Amazing Race (2001)</h1>\n<p class=\"ssr-lead\">This reality competition sees teams embark on a trek around the world to amazing destinations where they must compete in a series of challenges, some mental and some physical. Only when the tasks are completed will they learn of their next location. Teams who are the farthest behind will gradually be eliminated as the contest progresses, with the first team to arrive at the final destination winning the race and the $1 million prize.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 5 September 2001</li><li>Seasons: 39 · Episodes: 459</li><li>Created by: Bertram van Munster, Elise Doganieri</li><li>Genres: Reality</li><li>TMDB rating: 6.9/10 (171 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Phil Keoghan as Self - Host</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu, fuboTV, Paramount Plus Premium, Paramount Plus Essential, Paramount Plus Apple TV channel, Paramount+ Amazon Channel, YouTube TV, Paramount+ Roku Premium Channel</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, Fandango At Home</li></ul>\n</article>",
    "t": "The Amazing Race (2001) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2001"
+  },
+  "tv:312557": {
+   "d": "Minerva Academy (2026) is a Drama and Mystery TV series. Explore its story: At Minerva Military High School, teens navigate…, cast, 1 season, and 8 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/4LbceO1PH5nTAPd3E9aoqKnkOh.jpg",
+   "industry": "world",
+   "k": "Minerva Academy, Minerva Academy TV series, Minerva Academy cast, Minerva Academy story, Minerva Academy seasons, Minerva Academy episodes, Minerva Academy season 1, Minerva Academy 8 episodes, Minerva Academy first air date, Minerva Academy Drama, Minerva Academy Mystery, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ciro Minopoli"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicole Malaj"
+     },
+     {
+      "@type": "Person",
+      "name": "Gaia Garavaglia"
+     },
+     {
+      "@type": "Person",
+      "name": "Michele Rosiello"
+     },
+     {
+      "@type": "Person",
+      "name": "Cristiana Capotondi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 34,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Minerva Academy (2026) is a Drama and Mystery TV series. Explore its story: At Minerva Military High School, teens navigate…, cast, 1 season, and 8 episodes.",
+    "genre": [
+     "Drama",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4LbceO1PH5nTAPd3E9aoqKnkOh.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=312557",
+    "name": "Minerva Academy",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 1,
+    "startDate": "2026-09-22",
+    "url": "https://flickatlas.co.uk/show?id=312557"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Minerva Academy (2026)</h1>\n<p class=\"ssr-lead\">At Minerva Military High School, teens navigate discipline, rivalry and family pressure as a young cadet searches for answers about his missing friend.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 22 September 2026</li><li>Seasons: 1 · Episodes: 8</li><li>Genres: Drama, Mystery</li><li>TMDB rating: 7.5/10 (34 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ciro Minopoli as Salvo</li><li>Nicole Malaj</li><li>Gaia Garavaglia as Benny</li><li>Michele Rosiello</li><li>Cristiana Capotondi</li><li>Irene Maiorino</li><li>Massimiliano Gallo</li><li>Giulio Brizzi</li><li>Biagio Venditti as Vincenzo</li><li>Andrea Giannini as Padre Vincenzo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Minerva Academy (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:332657": {
+   "d": "Route 187 (2026) is a Crime and Drama TV series. Explore its story: Citizens combat urban violence until a bus driver and…, cast, 1 season, and 4 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/Agx8RmlBBDJrlH9MyUOd5JYYZPS.jpg",
+   "industry": "world",
+   "k": "Route 187, Route 187 TV series, Route 187 cast, Route 187 story, Route 187 seasons, Route 187 episodes, Route 187 season 1, Route 187 4 episodes, Route 187 first air date, Route 187 Crime, Route 187 Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rico Ball"
+     },
+     {
+      "@type": "Person",
+      "name": "Clark Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "Cuyle Carvin"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher Livingstone"
+     },
+     {
+      "@type": "Person",
+      "name": "Josef Cannon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 21,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Route 187 (2026) is a Crime and Drama TV series. Explore its story: Citizens combat urban violence until a bus driver and…, cast, 1 season, and 4 episodes.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mark E. Swinton"
+     },
+     {
+      "@type": "Person",
+      "name": "Tyler Perry"
+     }
+    ],
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/Agx8RmlBBDJrlH9MyUOd5JYYZPS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=332657",
+    "name": "Route 187",
+    "numberOfEpisodes": 4,
+    "numberOfSeasons": 1,
+    "startDate": "2026-09-16",
+    "url": "https://flickatlas.co.uk/show?id=332657"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Route 187 (2026)</h1>\n<p class=\"ssr-lead\">Citizens combat urban violence until a bus driver and student&#x27;s murders by thugs spark outrage, leading authorities to hunt the culprits captured on video.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 16 September 2026</li><li>Seasons: 1 · Episodes: 4</li><li>Created by: Mark E. Swinton</li><li>Director: Mark E. Swinton, Tyler Perry</li><li>Genres: Crime, Drama</li><li>TMDB rating: 6.8/10 (21 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rico Ball as Coach Lowe</li><li>Clark Moore as Lt. Jeff Gibson</li><li>Cuyle Carvin as Detective Finley</li><li>Christopher Livingstone as Mason James</li><li>Josef Cannon as Paul</li><li>Bibby Bankz as Thugger</li><li>Mia Hunt as Ms. Douglas</li><li>Nicky Buggs as Tory Martin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Paramount Plus Premium, Paramount Plus Essential, Paramount Plus Apple TV channel, Paramount+ Amazon Channel, Paramount+ Roku Premium Channel</li></ul>\n</article>",
+   "t": "Route 187 (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
   },
   "tv:4057": {
    "d": "Criminal Minds (2005) is a Crime and Drama TV series. Explore its story: An elite team of FBI profilers analyze the country's…, cast, and 19 seasons.",

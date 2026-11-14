@@ -1,6 +1,6 @@
 {
  "bucket": "11",
- "count": 20,
+ "count": 32,
  "titles": {
   "movie:10711": {
    "backdrop_path": "/ffI5k9rPEkEKRTYm4bS4da3Yh20.jpg",
@@ -1572,135 +1572,6 @@
    "vote_average": 7.6,
    "vote_count": 444
   },
-  "tv:120911": {
-   "backdrop_path": "/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "James Reece",
-     "n": "Chris Pratt"
-    },
-    {
-     "c": "Katie Buranek",
-     "n": "Constance Wu"
-    },
-    {
-     "c": "Raife Hastings",
-     "n": "Tom Hopper"
-    },
-    {
-     "c": "Mo Farooq",
-     "n": "Dar Salim"
-    },
-    {
-     "c": "Yana Tomenko",
-     "n": "Olga Kurylenko"
-    },
-    {
-     "c": "Vic Rodriguez",
-     "n": "Yul Vazquez"
-    },
-    {
-     "c": "Vasili Andrenov",
-     "n": "Costa Ronin"
-    },
-    {
-     "c": "Oliver Grey",
-     "n": "Jeremy Bobb"
-    },
-    {
-     "c": "Freddy Strain",
-     "n": "Gabriel Luna"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "TV-MA",
-   "channel": "Prime Video",
-   "created_by": [
-    "David DiGilio"
-   ],
-   "director": [],
-   "episode_run_time": [],
-   "first_air_date": "2022-06-30",
-   "genres": [
-    "Action & Adventure",
-    "Drama"
-   ],
-   "id": 120911,
-   "industry": "world",
-   "networks": [
-    "Prime Video"
-   ],
-   "number_of_episodes": 16,
-   "number_of_seasons": 2,
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
-   "popularity": 97.2676,
-   "poster_path": "/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "Amazon Prime Video"
-    },
-    {
-     "name": "Amazon Prime Video with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-     "name": "Amazon Prime Video",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-     "name": "Amazon Prime Video with Ads",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "revenue": 0,
-   "seasons": [
-    {
-     "air_date": "2022-06-29",
-     "episode_count": 8,
-     "name": "Season 1",
-     "season_number": 1
-    },
-    {
-     "air_date": "2026-10-21",
-     "episode_count": 8,
-     "name": "Season 2",
-     "season_number": 2
-    }
-   ],
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Returning Series",
-   "tagline": "The mission isn't over.",
-   "title": "The Terminal List",
-   "trailer": {
-    "key": "x9FvvsC0B5Q",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "tv",
-   "vote_average": 8.0,
-   "vote_count": 1345
-  },
   "tv:1411": {
    "backdrop_path": "/efeMgQn6iRALsOqDa2cqlf6Pw5O.jpg",
    "budget": 0,
@@ -2215,6 +2086,119 @@
    "vote_average": 7.72,
    "vote_count": 1435
   },
+  "tv:229711": {
+   "backdrop_path": "/vfEtEzBIn0wwWM7ppzJCGEZUSu2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hub Halloran",
+     "n": "Kevin Bacon"
+    },
+    {
+     "c": "Maryanne Dice",
+     "n": "Jennifer Nettles"
+    },
+    {
+     "c": "Kitty Halloran",
+     "n": "Beth Grant"
+    },
+    {
+     "c": "Lucky Callahan",
+     "n": "Damon Herriman"
+    },
+    {
+     "c": "Cade Halloran",
+     "n": "Maxwell Jenkins"
+    },
+    {
+     "c": "Midge",
+     "n": "Jolene Purdy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [
+    "Grainger David"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-03",
+   "genres": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Mystery"
+   ],
+   "id": 229711,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Backwoods bounty hunter Hub Halloran comes back from the dead with an unexpected second chance at life, love, and a nearly-forgotten musical career — only to find that his old job now has a demonic new twist.",
+   "popularity": 6.5922,
+   "poster_path": "/gwd2HpY2ymvmASUP3zMYF59IIr7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-02",
+     "episode_count": 8,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "He's gonna catch Hell.",
+   "title": "The Bondsman",
+   "trailer": {
+    "key": "XmiGkuMWJ94",
+    "name": "Official Red Band Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.186,
+   "vote_count": 323
+  },
   "tv:240411": {
    "backdrop_path": "/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
    "budget": 0,
@@ -2383,6 +2367,1258 @@
    "type": "tv",
    "vote_average": 8.517,
    "vote_count": 988
+  },
+  "tv:253811": {
+   "backdrop_path": "/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shiki Ichinose (voice)",
+     "n": "Kazuki Ura"
+    },
+    {
+     "c": "Naito Mudano (voice)",
+     "n": "Hiroshi Kamiya"
+    },
+    {
+     "c": "Jin Kougasaki (voice)",
+     "n": "Koutaro Nishiyama"
+    },
+    {
+     "c": "Homare Byobugaura (voice)",
+     "n": "Manaka Iwami"
+    },
+    {
+     "c": "Ikari Yaoroshi (voice)",
+     "n": "Shogo Sakata"
+    },
+    {
+     "c": "Juji Yusurube (voice)",
+     "n": "Natsuki Hanae"
+    },
+    {
+     "c": "Kuina Sazanami (voice)",
+     "n": "Aimi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Nippon TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-11",
+   "genres": [
+    "Animation",
+    "Mystery",
+    "Action & Adventure"
+   ],
+   "id": 253811,
+   "industry": "world",
+   "networks": [
+    "Nippon TV"
+   ],
+   "number_of_episodes": 48,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "After a Momotaro assassin suddenly kills his adoptive father, Shiki vows to avenge him. But first, he must learn to control his newly awakened Oni blood.",
+   "popularity": 21.6003,
+   "poster_path": "/vnasRNhwT5M3OvTAMzYn4i5fQcT.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Rakuten Viki"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-21",
+     "episode_count": 27,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-07-11",
+     "episode_count": 24,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-10-02",
+     "episode_count": 24,
+     "name": "Nikko Kegon Falls Arc",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Tougen Anki",
+   "trailer": {
+    "key": "j_0eK6R7fm8",
+    "name": "Official Trailer #3 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.706,
+   "vote_count": 119
+  },
+  "tv:256711": {
+   "backdrop_path": "/8ZJYKoCmRCdaMDArewEwg3Uy8Bg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rudy Baylor",
+     "n": "Milo Callaghan"
+    },
+    {
+     "c": "Jocelyn 'Bruiser' Stone",
+     "n": "Lana Parrilla"
+    },
+    {
+     "c": "Sarah Plankmore",
+     "n": "Madison Iseman"
+    },
+    {
+     "c": "Deck Shifflet",
+     "n": "P.J. Byrne"
+    },
+    {
+     "c": "Melvin Pritcher",
+     "n": "Dan Fogler"
+    },
+    {
+     "c": "Brad Noonan",
+     "n": "Wade Briggs"
+    },
+    {
+     "c": "Kelly Riker",
+     "n": "Robyn Cara"
+    },
+    {
+     "c": "Leo F. Drummond",
+     "n": "John Slattery"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "USA Network",
+   "created_by": [
+    "Michael Seitzman",
+    "Jason Richman"
+   ],
+   "director": [],
+   "episode_run_time": [
+    43
+   ],
+   "first_air_date": "2025-08-15",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 256711,
+   "industry": "world",
+   "networks": [
+    "USA Network"
+   ],
+   "number_of_episodes": 17,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Fresh out of law school, Rudy Baylor goes head to head with courtroom lion Leo Drummond as well as his law school girlfriend, Sarah. Rudy, along with his boss, Bruiser, and her disheveled paralegal, Deck, uncovers two connected conspiracies surrounding the mysterious death of their client's son.",
+   "popularity": 25.947,
+   "poster_path": "/q8l0lj20amBFi0SBs8NI9yJpaHq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "USA Network"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-15",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-10-16",
+     "episode_count": 7,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "The truth doesn't take sides. Lawyers do.",
+   "title": "The Rainmaker",
+   "trailer": {
+    "key": "-__6rI43NyE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.758,
+   "vote_count": 62
+  },
+  "tv:272711": {
+   "backdrop_path": "/sZV5OisM3bbFI6nWgzmLvPfUdPz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sorn",
+     "n": "Yongyut Termtuo"
+    },
+    {
+     "c": "Jun",
+     "n": "Pasakorn Sanrattana"
+    },
+    {
+     "c": "Tai",
+     "n": "Phusanu Wongsavanischakorn"
+    },
+    {
+     "c": "Champ",
+     "n": "Punn Chirathanaphat"
+    },
+    {
+     "c": "Penny",
+     "n": "Michelle Behrmann"
+    },
+    {
+     "c": "Jun",
+     "n": "Cherlyn Kraiarayapat"
+    },
+    {
+     "c": "Win",
+     "n": "Thanakrid Suteepakornchai"
+    },
+    {
+     "c": "Thanu",
+     "n": "Chachana Thirakod"
+    },
+    {
+     "c": "Jom",
+     "n": "Kiettisack Sisounthone"
+    },
+    {
+     "c": "Phut",
+     "n": "Kitawat Chaodi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Channel 9 MCOT HD",
+   "created_by": [
+    "Waranluck Phonpawiworakun"
+   ],
+   "director": [
+    "Wanchanaphun Paithun"
+   ],
+   "episode_run_time": [
+    55
+   ],
+   "first_air_date": "2025-04-20",
+   "genres": [
+    "Drama"
+   ],
+   "id": 272711,
+   "industry": "world",
+   "networks": [
+    "Channel 9 MCOT HD"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "Jun loves to annoy Sorn. Sorn can't stand Jun. But fate has plans—and maybe feelings—they didn’t see coming.",
+   "popularity": 6.5244,
+   "poster_path": "/mhd7n7Khq8NvclYAgZmJ4uAJifW.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Dekkoo"
+    },
+    {
+     "name": "Dekkoo Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqiY6w53xNELS5Y16pYQYvCxgE.png",
+     "name": "Dekkoo",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-21",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-04-19",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "My Stubborn",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.953,
+   "vote_count": 32
+  },
+  "tv:280511": {
+   "backdrop_path": "/fvcTpx2JFHzPTv5gf6ytlXhZXFQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "André Hanscombe",
+     "n": "Jordan Bolger"
+    },
+    {
+     "c": "DI Keith Pedder",
+     "n": "Neil Maskell"
+    },
+    {
+     "c": "DS Ivan Agnew",
+     "n": "Mark Stanley"
+    },
+    {
+     "c": "Alex Hanscombe",
+     "n": "Max Fincham"
+    },
+    {
+     "c": "DCS Nicholas Campbell",
+     "n": "Sean Gilder"
+    },
+    {
+     "c": "Colin Stagg",
+     "n": "Jamie Bisping"
+    },
+    {
+     "c": "DCI Mick Wickerson",
+     "n": "Kevin Eldon"
+    },
+    {
+     "c": "June",
+     "n": "Kerry Godliman"
+    },
+    {
+     "c": "DC Nick Sparshatt",
+     "n": "Jon Pointing"
+    },
+    {
+     "c": "DC Paul Miller",
+     "n": "James Dryden"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Rob Williams"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-06-04",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 280511,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "With their 2-year-old as the sole witness to her murder, Rachel Nickell's partner fights to protect him amid a flawed investigation.",
+   "popularity": 5.6236,
+   "poster_path": "/6vW1V7qejXv4QI2TvWvYuowfTrU.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-04",
+     "episode_count": 3,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ca",
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Witness",
+   "trailer": {
+    "key": "3iKFLt9gjAU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.317,
+   "vote_count": 63
+  },
+  "tv:281011": {
+   "backdrop_path": "/gwbw9uaUyO1mUJMuhhWCttBWdVX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kim Wooju",
+     "n": "Choi Woo-shik"
+    },
+    {
+     "c": "Yoo Meri",
+     "n": "Jung So-min"
+    },
+    {
+     "c": "Yoon Jin-kyung",
+     "n": "Shin Seul-ki"
+    },
+    {
+     "c": "Baek Sanghyeon",
+     "n": "Bae Na-ra"
+    },
+    {
+     "c": "Kim Wooju",
+     "n": "Seo Bum-jun"
+    },
+    {
+     "c": "Kim Jin-Hwa",
+     "n": "Moon Seung-you"
+    },
+    {
+     "c": "Go Pil-Nyun",
+     "n": "Jung Ae-ri"
+    },
+    {
+     "c": "Kim Mi Yeon",
+     "n": "Baek Ji-won"
+    },
+    {
+     "c": "Jang Eung-Soo",
+     "n": "Ko Gun-han"
+    },
+    {
+     "c": "Jang Han-Gu",
+     "n": "Kim Young-min"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "SBS",
+   "created_by": [
+    "Song Hyun-wook",
+    "Hwang In Hyeok"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2025-10-10",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 281011,
+   "industry": "world",
+   "networks": [
+    "SBS"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A couple who pretend to be newlyweds, find themselves developing genuine feelings for each other as they navigate their fake marriage.",
+   "popularity": 5.9816,
+   "poster_path": "/pfN6Ln8a6Xw23LQw0vL1YL8Kwqh.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-10",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "A fake marriage, a true romance.",
+   "title": "Would You Marry Me?",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.2,
+   "vote_count": 87
+  },
+  "tv:287011": {
+   "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Matthew Lee / Lee Hae Seok",
+     "n": "Ahn Hyo-seop"
+    },
+    {
+     "c": "Dam Ye-jin",
+     "n": "Chae Won-bin"
+    },
+    {
+     "c": "Eric Seo",
+     "n": "Kim Bum"
+    },
+    {
+     "c": "Kang Mu-won",
+     "n": "Yoon Byung-hee"
+    },
+    {
+     "c": "Song Hak Daek / Yang Sang Geum",
+     "n": "Goh Doo-shim"
+    },
+    {
+     "c": "Uhm Sung Mi",
+     "n": "Park Ye-yeong"
+    },
+    {
+     "c": "Hwang Gi-hong",
+     "n": "Yoon Jae-chan"
+    },
+    {
+     "c": "Park Gwang-mo",
+     "n": "Jo Bok-rae"
+    },
+    {
+     "c": "Na Jin",
+     "n": "Kim Seo An"
+    },
+    {
+     "c": "Na Som-i",
+     "n": "Ahn Se-bin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "SBS",
+   "created_by": [
+    "Ahn Jong-yeon",
+    "Jin Seung-hee"
+   ],
+   "director": [
+    "Ahn Jong-yeon"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-22",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 287011,
+   "industry": "world",
+   "networks": [
+    "SBS"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
+   "popularity": 8.4716,
+   "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-22",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Sold Out on You",
+   "trailer": {
+    "key": "LhfSS7-RhVE",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.5,
+   "vote_count": 91
+  },
+  "tv:290511": {
+   "backdrop_path": "/55FTpT8MrqpPveg5zfO4ZnYG3uQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hemmingway",
+     "n": "Eric McCormack"
+    },
+    {
+     "c": "Paige",
+     "n": "Paula Brancati"
+    },
+    {
+     "c": "Crow",
+     "n": "Shaun Benson"
+    },
+    {
+     "c": "Blake",
+     "n": "Atticus Mitchell"
+    },
+    {
+     "c": "Adriana",
+     "n": "Genevieve DeGraves"
+    },
+    {
+     "c": "Kawayan",
+     "n": "Emmanuel Kabongo"
+    },
+    {
+     "c": "Andy",
+     "n": "Jim Watson"
+    },
+    {
+     "c": "Shirley Dantree",
+     "n": "Yanna McIntosh"
+    },
+    {
+     "c": "Floyd Dantree",
+     "n": "Gray Powell"
+    },
+    {
+     "c": "Ruby",
+     "n": "Brynn Godenir"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Shudder",
+   "created_by": [
+    "Aaron Martin",
+    "Ian Carpenter"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-17",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 290511,
+   "industry": "world",
+   "networks": [
+    "Shudder"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "A group of ten true crime obsessives are invited to the opening weekend of the newly renovated Cold River Motel, the site of a 30-year-old unsolved satanic mass murder. History repeats itself when the guests get stranded and start getting knocked off one by one during a murder spree that grows exponentially more gruesome than the original with each kill.",
+   "popularity": 3.4766,
+   "poster_path": "/gRfT9XffHqBxvkrW4izh3gd7L4S.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-15",
+     "episode_count": 8,
+     "name": "Hell Motel",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Hell Motel",
+   "trailer": {
+    "key": "IWpPLcJdtlc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.1,
+   "vote_count": 31
+  },
+  "tv:294611": {
+   "backdrop_path": "/yhY39CpkRZIDLQFYMd4K0JdTg55.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self (archive footage)",
+     "n": "David Berkowitz"
+    },
+    {
+     "c": "Self - Journalist",
+     "n": "Jack Jones"
+    },
+    {
+     "c": "Self - Televison Reporter",
+     "n": "Mary Murphy"
+    },
+    {
+     "c": "Self - New York P.D. (Ret.)",
+     "n": "Joseph Borrelli"
+    },
+    {
+     "c": "Self - Author, Son of Sam",
+     "n": "Lawrence Klausner"
+    },
+    {
+     "c": "Self - Son of Sam Researcher",
+     "n": "Manny Grossman"
+    },
+    {
+     "c": "Self - New York P.D. (Ret.)",
+     "n": "Marlin Hopkins"
+    },
+    {
+     "c": "Self - Journalist",
+     "n": "Richard Edmonds"
+    },
+    {
+     "c": "Self - New York P.D. (Ret.)",
+     "n": "John Comparetto"
+    },
+    {
+     "c": "Self - Journalist",
+     "n": "Dick Belsky"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-30",
+   "genres": [
+    "Documentary",
+    "Crime"
+   ],
+   "id": 294611,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Mixing present-day interviews with previously unheard recordings, this true-crime series examines serial killer David Berkowitz's mark on 1970s New York.",
+   "popularity": 1.8349,
+   "poster_path": "/bSJ221k1EOuBHiye7ae29VqxjnS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-30",
+     "episode_count": 3,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Conversations with a Killer: The Son of Sam Tapes",
+   "trailer": {
+    "key": "mLENEDZK3h4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 24
+  },
+  "tv:305111": {
+   "backdrop_path": "/4mOTIpOOyU1CxiFKR5BeBn5IMqU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Aitana Fernández (Adriana Rodríguez)",
+     "n": "Susana González"
+    },
+    {
+     "c": "Luciano Lizárraga Arenas",
+     "n": "David Chocarro"
+    },
+    {
+     "c": "Zacarías Castillo Pérez",
+     "n": "Andrés Palacios"
+    },
+    {
+     "c": "Mateo Lizárraga Arenas",
+     "n": "Chris Pazcal"
+    },
+    {
+     "c": "Larisa Rubido",
+     "n": "Geraldine Bazán"
+    },
+    {
+     "c": "Íñigo Lizárraga Arenas",
+     "n": "Ferdinando Valencia"
+    },
+    {
+     "c": "Bruno Lizárraga Arenas",
+     "n": "Michel Duval"
+    },
+    {
+     "c": "Eloísa Arenas de Lizárraga",
+     "n": "Rosa María Bianchi"
+    },
+    {
+     "c": "Juventino Castillo",
+     "n": "Luis Felipe Tovar"
+    },
+    {
+     "c": "Clementina Pérez de Castillo",
+     "n": "Alma Delfina"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "Las Estrellas",
+   "created_by": [
+    "Carlos Moreno Laguillo"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-11-10",
+   "genres": [
+    "Soap"
+   ],
+   "id": 305111,
+   "industry": "world",
+   "networks": [
+    "Las Estrellas"
+   ],
+   "number_of_episodes": 82,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "es",
+   "overview": "My Hidden Truth's main ingredients are revenge, uncertainty, reunions, and love. The telenovela follows the story of Aitana (González), a woman who appears tough because she was raped as a young woman by the Lizárraga brothers, against whom she swears revenge. Life surprises her when she falls in love with Luciano (Chocarro), the eldest of the Lizárraga brothers.",
+   "popularity": 6.2135,
+   "poster_path": "/nUg9K3HIV81S4nBXDhwsRZiLSko.jpg",
+   "production_countries": [],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "VIX "
+    },
+    {
+     "name": "ViX Premium Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ieJ55scAVrvboTpeJcZa3JlLIrS.png",
+     "name": "VIX ",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+     "name": "ViX Premium Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-10",
+     "episode_count": 82,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "My hidden truth",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 21
   },
   "tv:31911": {
    "backdrop_path": "/2UG177tWHy7xRmMKWJHB7nAUmKd.jpg",
@@ -2559,6 +3795,371 @@
    "type": "tv",
    "vote_average": 8.718,
    "vote_count": 2638
+  },
+  "tv:323111": {
+   "backdrop_path": "/jaT8cc5VhOXO1JCbuNt8cgeu3ah.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self (archive footage)",
+     "n": "Michael Jackson"
+    },
+    {
+     "c": "Self - Journalist, 'Living with Michael Jackson'",
+     "n": "Martin Bashir"
+    },
+    {
+     "c": "Self - Prosecutor",
+     "n": "Ron Zonen"
+    },
+    {
+     "c": "Self - Jackson Family Lawyer",
+     "n": "Brian Oxman"
+    },
+    {
+     "c": "Self - Investigative Journalist",
+     "n": "Diane Dimond"
+    },
+    {
+     "c": "Self - Michael Jackson's Biographer",
+     "n": "J. Randy Taraborrelli"
+    },
+    {
+     "c": "Self - Michael Jackson's Publicist",
+     "n": "Raymone Bain"
+    },
+    {
+     "c": "Self - Arvizo Family Friend",
+     "n": "Louise Palanker"
+    },
+    {
+     "c": "Self - Former Jackson Family Friend",
+     "n": "Stacy Brown"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "David Herman"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-06-03",
+   "genres": [
+    "Documentary"
+   ],
+   "id": 323111,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Told by key players who were inside the courtroom, this comprehensive documentary dissects the trial of Michael Jackson and his complex legacy.",
+   "popularity": 5.98,
+   "poster_path": "/8R40yI5AJ931Hd3P4Yf8pdFgwJ1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-03",
+     "episode_count": 3,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Michael Jackson: The Verdict",
+   "trailer": {
+    "key": "rcp-j0StBR0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 4.695,
+   "vote_count": 82
+  },
+  "tv:323411": {
+   "backdrop_path": "/iw1knpC8Jg5davMn2MPxNVxBF8N.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lestat de Lioncourt / Jarda Klapek",
+     "n": "Sam Reid"
+    },
+    {
+     "c": "Louis de Pointe du Lac",
+     "n": "Jacob Anderson"
+    },
+    {
+     "c": "Armand",
+     "n": "Assad Zaman"
+    },
+    {
+     "c": "Nicolas de Lenfent",
+     "n": "Joseph Potter"
+    },
+    {
+     "c": "Regina / Claudia de Lioncourt de Pointe du Lac",
+     "n": "Delainey Hayles"
+    },
+    {
+     "c": "Gabriella Vece",
+     "n": "Jennifer Ehle"
+    },
+    {
+     "c": "Daniel Molloy",
+     "n": "Eric Bogosian"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "AMC",
+   "created_by": [
+    "Rolin Jones"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-06-07",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 323411,
+   "industry": "world",
+   "networks": [
+    "AMC"
+   ],
+   "number_of_episodes": 7,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Vampire Lestat goes on tour while being haunted by \"muses\" from his past. As the band's popularity grows, so does Lestat's influence over vampires & humans alike, leaving others to contend with Lestat's power in the face of the Great Conversion.",
+   "popularity": 7.8495,
+   "poster_path": "/gZcmNUcDDR1nR7lmroOJTCrhrhK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Spectrum On Demand"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-06-07",
+     "episode_count": 7,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Scream for me.",
+   "title": "The Vampire Lestat",
+   "trailer": {
+    "key": "7c7JFMTBeVk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.676,
+   "vote_count": 71
+  },
+  "tv:324111": {
+   "backdrop_path": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC16",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    55
+   ],
+   "first_air_date": "2026-09-11",
+   "genres": [
+    "Reality"
+   ],
+   "id": 324111,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "One hundred Italian athletes face brutal physical challenges, each battling to outlast the rest and claim the glory of becoming the one true champion.",
+   "popularity": 3.3847,
+   "poster_path": "/AtYUDT5nEoFDOtR464mFlZCfcB5.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-09-11",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Physical 100: Italy",
+   "trailer": {
+    "key": "e3n_g-wy4gQ",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.261,
+   "vote_count": 23
   },
   "tv:3611": {
    "backdrop_path": "/iohe4KtMpFKYzuA3QIBRrcbJIbz.jpg",

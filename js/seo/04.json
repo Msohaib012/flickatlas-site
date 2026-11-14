@@ -1,6 +1,6 @@
 {
  "bucket": "04",
- "count": 27,
+ "count": 35,
  "titles": {
   "movie:1128204": {
    "d": "Feed (2026): Horror film. Story: Five social media influencers spend a weekend at a… See cast, TMDB rating 6.6/10, and release date 6 August 2026.",
@@ -1224,6 +1224,58 @@
    "t": "Thomas & Friends (1984) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "1984"
   },
+  "tv:250504": {
+   "d": "The Beast in Me (2025) is a Drama and Mystery TV series. Explore its story: A famous author is pulled into a twisted mind game…, cast, 1 season, and 8 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/ylW0m5UztyyL4YFu8EC6usUHLF.jpg",
+   "industry": "world",
+   "k": "The Beast in Me, The Beast in Me TV series, The Beast in Me cast, The Beast in Me story, The Beast in Me seasons, The Beast in Me episodes, The Beast in Me season 1, The Beast in Me 8 episodes, The Beast in Me first air date, The Beast in Me trailer, The Beast in Me Drama, The Beast in Me Mystery, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Claire Danes"
+     },
+     {
+      "@type": "Person",
+      "name": "Matthew Rhys"
+     },
+     {
+      "@type": "Person",
+      "name": "Brittany Snow"
+     },
+     {
+      "@type": "Person",
+      "name": "Natalie Morales"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 339,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Beast in Me (2025) is a Drama and Mystery TV series. Explore its story: A famous author is pulled into a twisted mind game…, cast, 1 season, and 8 episodes.",
+    "genre": [
+     "Drama",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ylW0m5UztyyL4YFu8EC6usUHLF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=250504",
+    "name": "The Beast in Me",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 1,
+    "startDate": "2025-11-13",
+    "url": "https://flickatlas.co.uk/show?id=250504"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Beast in Me (2025)</h1>\n<p class=\"ssr-lead\">A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 13 November 2025</li><li>Seasons: 1 · Episodes: 8</li><li>Created by: Gabe Rotter</li><li>Genres: Drama, Mystery</li><li>TMDB rating: 7.1/10 (339 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Claire Danes as Agatha &#x27;Aggie&#x27; Wiggs</li><li>Matthew Rhys as Nile Jarvis</li><li>Brittany Snow as Nina Jarvis</li><li>Natalie Morales as Shelley Morris</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Beast in Me (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
   "tv:2604": {
    "d": "The Boondocks (2005) is an Action & Adventure and Comedy TV series. Explore its story: When Robert “Granddad” Freeman becomes legal guardian… and cast.",
    "img": "https://image.tmdb.org/t/p/w780/plF7qKlXww8zwoNnXsSP6ifQpUt.jpg",
@@ -1279,6 +1331,402 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Boondocks (2005)</h1>\n<p class=\"ssr-lead\">When Robert “Granddad” Freeman becomes legal guardian to his two grandsons, he moves from the tough south side of Chicago to the upscale neighborhood of Woodcrest (a.k.a. &quot;The Boondocks&quot;) so he can enjoy his golden years in safety and comfort. But with Huey, a 10-year-old leftist revolutionary, and his eight-year-old misfit brother, Riley, suburbia is about to be shaken up.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 6 November 2005</li><li>Seasons: 4 · Episodes: 55</li><li>Created by: Aaron McGruder</li><li>Genres: Action &amp; Adventure, Comedy, Animation</li><li>TMDB rating: 8.3/10 (528 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Regina King as Huey Freeman / Riley Freeman (voice)</li><li>John Witherspoon as Robert Freeman (voice)</li><li>Cedric Yarbrough as Tom Dubois (voice)</li><li>Jill Talley as Sarah Dubois (voice)</li><li>Gary Anthony Williams as Uncle Ruckus (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, HBO Max</li><li>Buy: Google Play Movies</li></ul>\n</article>",
    "t": "The Boondocks (2005) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2005"
+  },
+  "tv:278604": {
+   "d": "GNOSIA (2025) is an Animation and Mystery TV series. Explore its story: When a shapeshifting enemy known as Gnosia…, cast, 1 season, and 21 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/4QwxPBOohSQX3nPFN6pb6uBosMd.jpg",
+   "industry": "world",
+   "k": "GNOSIA, GNOSIA TV series, GNOSIA cast, GNOSIA story, GNOSIA seasons, GNOSIA episodes, GNOSIA season 1, GNOSIA 21 episodes, GNOSIA first air date, GNOSIA trailer, GNOSIA Animation, GNOSIA Mystery, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chika Anzai"
+     },
+     {
+      "@type": "Person",
+      "name": "Ikumi Hasegawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Akari Kito"
+     },
+     {
+      "@type": "Person",
+      "name": "Hiroki Nanami"
+     },
+     {
+      "@type": "Person",
+      "name": "Asami Seto"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 22,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "GNOSIA (2025) is an Animation and Mystery TV series. Explore its story: When a shapeshifting enemy known as Gnosia…, cast, 1 season, and 21 episodes.",
+    "genre": [
+     "Animation",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4QwxPBOohSQX3nPFN6pb6uBosMd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=278604",
+    "name": "GNOSIA",
+    "numberOfEpisodes": 21,
+    "numberOfSeasons": 1,
+    "startDate": "2025-10-12",
+    "url": "https://flickatlas.co.uk/show?id=278604"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>GNOSIA (2025)</h1>\n<p class=\"ssr-lead\">When a shapeshifting enemy known as Gnosia infiltrates a lone spaceship, the crew has only one way to survive: identify the imposter each day and put them into cryo-sleep. But for Yuri, the day never ends. Trapped in a time loop, she relives the first day of the crisis over and over. To escape, Yuri must uncover the truth behind Gnosia and the time loop itself—before it’s too late.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 12 October 2025</li><li>Seasons: 1 · Episodes: 21</li><li>Genres: Animation, Mystery, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 8.0/10 (22 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chika Anzai as Yuri (voice)</li><li>Ikumi Hasegawa as Setsu (voice)</li><li>Akari Kito as SQ (voice)</li><li>Hiroki Nanami as Racio (voice)</li><li>Asami Seto as Jina (voice)</li><li>Tomokazu Seki as Shigemichi (voice)</li><li>Saori Hayami as Stella (voice)</li><li>Aoi Yuki as Yuriko (voice)</li><li>Ayane Sakura as Comet (voice)</li><li>Yuichi Nakamura as Chipie (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll, Crunchyroll Amazon Channel</li></ul>\n</article>",
+   "t": "GNOSIA (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:278704": {
+   "d": "Mobile Suit Gundam GQuuuuuuX (2025) is an Animation and Action & Adventure TV series. Explore its story: High-school student Amate Yuzuriha lives peacefully….",
+   "img": "https://image.tmdb.org/t/p/w780/7GbHu1X9lvk47YoKMpq3w8bZg5C.jpg",
+   "industry": "world",
+   "k": "Mobile Suit Gundam GQuuuuuuX, Mobile Suit Gundam GQuuuuuuX TV series, Mobile Suit Gundam GQuuuuuuX cast, Mobile Suit Gundam GQuuuuuuX story, Mobile Suit Gundam GQuuuuuuX seasons, Mobile Suit Gundam GQuuuuuuX episodes, Mobile Suit Gundam GQuuuuuuX season 1, Mobile Suit Gundam GQuuuuuuX 12 episodes, Mobile Suit Gundam GQuuuuuuX first air date, Mobile Suit Gundam GQuuuuuuX trailer, Mobile Suit Gundam GQuuuuuuX Animation, Mobile Suit Gundam GQuuuuuuX Action & Adventure, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tomoyo Kurosawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Yui Ishikawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Shimba Tsuchiya"
+     },
+     {
+      "@type": "Person",
+      "name": "Shinji Kawada"
+     },
+     {
+      "@type": "Person",
+      "name": "Seiichiro Yamashita"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 51,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Mobile Suit Gundam GQuuuuuuX (2025) is an Animation and Action & Adventure TV series. Explore its story: High-school student Amate Yuzuriha lives peacefully….",
+    "genre": [
+     "Animation",
+     "Action & Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7GbHu1X9lvk47YoKMpq3w8bZg5C.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=278704",
+    "name": "Mobile Suit Gundam GQuuuuuuX",
+    "numberOfEpisodes": 12,
+    "numberOfSeasons": 1,
+    "startDate": "2025-04-09",
+    "url": "https://flickatlas.co.uk/show?id=278704"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mobile Suit Gundam GQuuuuuuX (2025)</h1>\n<p class=\"ssr-lead\">High-school student Amate Yuzuriha lives peacefully in a space colony floating in outer space. But when she meets a war refugee named Nyaan, Amate is drawn into the illegal mobile suit dueling sport known as Clan Battle.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 9 April 2025</li><li>Seasons: 1 · Episodes: 12</li><li>Genres: Animation, Action &amp; Adventure, Sci-Fi &amp; Fantasy, Drama</li><li>TMDB rating: 7.2/10 (51 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tomoyo Kurosawa as Amate Yuzuriha (voice)</li><li>Yui Ishikawa as Nyaan (voice)</li><li>Shimba Tsuchiya as Shuji Itō (voice)</li><li>Shinji Kawada as Challia Bull (voice)</li><li>Seiichiro Yamashita as Xavier Olivette (voice)</li><li>Akane Fujita as Comoli Harcourt (voice)</li><li>Saya Hirose as Rassit (voice)</li><li>Genta Nakamura as Osillo (voice)</li><li>Risa Watanabe as Sepha (voice)</li><li>Rie Kugimiya as Haro / Tamaki Yuzuriha (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Mobile Suit Gundam GQuuuuuuX (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:281004": {
+   "d": "Beyond the Bar (2025) is a Drama TV series. Explore its story: A young, rookie lawyer with a strong sense of justice…, cast, 2 seasons, and 12 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/9MEzfTNfnTvCLHXfRu7a5TSJCsx.jpg",
+   "industry": "world",
+   "k": "Beyond the Bar, Beyond the Bar TV series, Beyond the Bar cast, Beyond the Bar story, Beyond the Bar seasons, Beyond the Bar episodes, Beyond the Bar season 2, Beyond the Bar 12 episodes, Beyond the Bar first air date, Beyond the Bar trailer, Beyond the Bar Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lee Jin-uk"
+     },
+     {
+      "@type": "Person",
+      "name": "Jung Chae-yeon"
+     },
+     {
+      "@type": "Person",
+      "name": "Lee Hak-ju"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeon Hye-bin"
+     },
+     {
+      "@type": "Person",
+      "name": "Kang Sang-jun"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 76,
+     "ratingValue": 8.1,
+     "worstRating": 0
+    },
+    "description": "Beyond the Bar (2025) is a Drama TV series. Explore its story: A young, rookie lawyer with a strong sense of justice…, cast, 2 seasons, and 12 episodes.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kim Jae-hong"
+     }
+    ],
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9MEzfTNfnTvCLHXfRu7a5TSJCsx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=281004",
+    "name": "Beyond the Bar",
+    "numberOfEpisodes": 12,
+    "numberOfSeasons": 2,
+    "startDate": "2025-08-02",
+    "url": "https://flickatlas.co.uk/show?id=281004"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Beyond the Bar (2025)</h1>\n<p class=\"ssr-lead\">A young, rookie lawyer with a strong sense of justice joins a top law firm — navigating the complex legal world under a cold, demanding mentor.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 2 August 2025</li><li>Seasons: 2 · Episodes: 12</li><li>Created by: Kim Jae-hong</li><li>Director: Kim Jae-hong</li><li>Genres: Drama</li><li>TMDB rating: 8.1/10 (76 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lee Jin-uk as Yoon Suk-hoon</li><li>Jung Chae-yeon as Kang Hyo-min / Kang Hyo-Ju</li><li>Lee Hak-ju as Lee Jin-woo</li><li>Jeon Hye-bin as Hyo Min-jung</li><li>Kang Sang-jun as Han Seong-chan</li><li>Kim Kang-min as Ji Kook-hyun</li><li>Lee Ju-yeon as Choi Ho-yeon</li><li>Pyo Jae-gyeom as Oh Sang-chul</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Beyond the Bar (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:283304": {
+   "d": "Little House on the Prairie (2026) is a Drama and Western TV series. Explore its story: The close-knit Ingalls family builds a new life on… and cast.",
+   "img": "https://image.tmdb.org/t/p/w780/fBieUo3SdItUrXZE16YxbpjwXIe.jpg",
+   "industry": "world",
+   "k": "Little House on the Prairie, Little House on the Prairie TV series, Little House on the Prairie cast, Little House on the Prairie story, Little House on the Prairie seasons, Little House on the Prairie episodes, Little House on the Prairie season 2, Little House on the Prairie 8 episodes, Little House on the Prairie first air date, Little House on the Prairie trailer, Little House on the Prairie Drama, Little House on the Prairie Western, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Luke Bracey"
+     },
+     {
+      "@type": "Person",
+      "name": "Crosby Fitzgerald"
+     },
+     {
+      "@type": "Person",
+      "name": "Alice Halsey"
+     },
+     {
+      "@type": "Person",
+      "name": "Skywalker Hughes"
+     },
+     {
+      "@type": "Person",
+      "name": "Kowen Cadorath"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 117,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Little House on the Prairie (2026) is a Drama and Western TV series. Explore its story: The close-knit Ingalls family builds a new life on… and cast.",
+    "genre": [
+     "Drama",
+     "Western"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fBieUo3SdItUrXZE16YxbpjwXIe.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=283304",
+    "name": "Little House on the Prairie",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 2,
+    "startDate": "2026-07-09",
+    "url": "https://flickatlas.co.uk/show?id=283304"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Little House on the Prairie (2026)</h1>\n<p class=\"ssr-lead\">The close-knit Ingalls family builds a new life on the Western frontier, where the joys of nature and the struggle for survival are deeply intertwined.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 9 July 2026</li><li>Seasons: 2 · Episodes: 8</li><li>Created by: Rebecca Sonnenshine</li><li>Genres: Drama, Western, Family</li><li>TMDB rating: 6.7/10 (117 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Luke Bracey as Charles Ingalls</li><li>Crosby Fitzgerald as Caroline Ingalls</li><li>Alice Halsey as Laura Ingalls</li><li>Skywalker Hughes as Mary Ingalls</li><li>Kowen Cadorath as Caleb</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Little House on the Prairie (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:285404": {
+   "d": "Maximum Pleasure Guaranteed (2026) is a Comedy TV series. Explore its story: A newly divorced mom falls down a dangerous rabbit…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/9mZlvYlGA4jblCvAvOpinrgn6hr.jpg",
+   "industry": "world",
+   "k": "Maximum Pleasure Guaranteed, Maximum Pleasure Guaranteed TV series, Maximum Pleasure Guaranteed cast, Maximum Pleasure Guaranteed story, Maximum Pleasure Guaranteed seasons, Maximum Pleasure Guaranteed episodes, Maximum Pleasure Guaranteed season 1, Maximum Pleasure Guaranteed 10 episodes, Maximum Pleasure Guaranteed first air date, Maximum Pleasure Guaranteed Comedy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tatiana Maslany"
+     },
+     {
+      "@type": "Person",
+      "name": "Jake Johnson"
+     },
+     {
+      "@type": "Person",
+      "name": "Dolly de Leon"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessy Hodges"
+     },
+     {
+      "@type": "Person",
+      "name": "Jon Michael Hill"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 94,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Maximum Pleasure Guaranteed (2026) is a Comedy TV series. Explore its story: A newly divorced mom falls down a dangerous rabbit…, cast, and 1 season.",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9mZlvYlGA4jblCvAvOpinrgn6hr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=285404",
+    "name": "Maximum Pleasure Guaranteed",
+    "numberOfEpisodes": 10,
+    "numberOfSeasons": 1,
+    "startDate": "2026-05-19",
+    "url": "https://flickatlas.co.uk/show?id=285404"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Maximum Pleasure Guaranteed (2026)</h1>\n<p class=\"ssr-lead\">A newly divorced mom falls down a dangerous rabbit hole of blackmail, murder, and youth soccer.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 19 May 2026</li><li>Seasons: 1 · Episodes: 10</li><li>Created by: David Rosen</li><li>Genres: Comedy</li><li>TMDB rating: 6.8/10 (94 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tatiana Maslany as Paula Sanders</li><li>Jake Johnson as Karl Hendricks</li><li>Dolly de Leon as Detective Sofia Gonzalez</li><li>Jessy Hodges as Mallory</li><li>Jon Michael Hill as Detective Baxter</li><li>Charlie Hall as Rudy</li><li>Kiarra Hamagami Goldberg as Geri</li><li>Nola Wallace as Hazel</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Apple TV, Apple TV Amazon Channel</li></ul>\n</article>",
+   "t": "Maximum Pleasure Guaranteed (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:286404": {
+   "d": "The Dark History of the Reincarnated Villainess (2025) is an Animation and Comedy TV series. Explore its story: Konoha Satou’s dark fictional past becomes her….",
+   "img": "https://image.tmdb.org/t/p/w780/kxR0LaIF27D6RiyeSdTx0LHRmGA.jpg",
+   "industry": "world",
+   "k": "The Dark History of the Reincarnated Villainess, The Dark History of the Reincarnated Villainess TV series, The Dark History of the Reincarnated Villainess cast, The Dark History of the Reincarnated Villainess story, The Dark History of the Reincarnated Villainess seasons, The Dark History of the Reincarnated Villainess episodes, The Dark History of the Reincarnated Villainess season 1, The Dark History of the Reincarnated Villainess 12 episodes, The Dark History of the Reincarnated Villainess first air date, The Dark History of the Reincarnated Villainess trailer, The Dark History of the Reincarnated Villainess Animation, The Dark History of the Reincarnated Villainess Comedy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Yoshino Aoyama"
+     },
+     {
+      "@type": "Person",
+      "name": "Mao Ichimichi"
+     },
+     {
+      "@type": "Person",
+      "name": "Shohei Komatsu"
+     },
+     {
+      "@type": "Person",
+      "name": "Makoto Furukawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Shunichi Toki"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 25,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "The Dark History of the Reincarnated Villainess (2025) is an Animation and Comedy TV series. Explore its story: Konoha Satou’s dark fictional past becomes her….",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kxR0LaIF27D6RiyeSdTx0LHRmGA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=286404",
+    "name": "The Dark History of the Reincarnated Villainess",
+    "numberOfEpisodes": 12,
+    "numberOfSeasons": 1,
+    "startDate": "2025-10-09",
+    "url": "https://flickatlas.co.uk/show?id=286404"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Dark History of the Reincarnated Villainess (2025)</h1>\n<p class=\"ssr-lead\">Konoha Satou’s dark fictional past becomes her reality when she’s reincarnated as Iana Magnolia, the villainess of her own adolescent fantasy. Now as a role she meticulously designed to be despicable, remembering every last detail is now a matter of life and death. Will she be able to rewrite her character’s fate into something peaceful?</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 9 October 2025</li><li>Seasons: 1 · Episodes: 12</li><li>Genres: Animation, Comedy, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 7.5/10 (25 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yoshino Aoyama as Iana Magnolia (voice)</li><li>Mao Ichimichi as Konoha Magnolia (voice)</li><li>Shohei Komatsu as Sol Nemophyra (voice)</li><li>Makoto Furukawa as Ginoford Dandelion (voice)</li><li>Shunichi Toki as Yomi Blacksarana (voice)</li><li>Arthur Lounsbery as Cheneau Clematis (voice)</li><li>Atsushi Tamaru as Mika (voice)</li><li>Tomoaki Maeno as Yamato Hydrangea (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll, Crunchyroll Amazon Channel</li></ul>\n</article>",
+   "t": "The Dark History of the Reincarnated Villainess (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:291904": {
+   "d": "The Wonderfully Weird World of Gumball (2025) is an Animation and Family TV series. Explore its story: Welcome back to Elmore, where the laws of reality are….",
+   "img": "https://image.tmdb.org/t/p/w780/xkhniKa1PGj78h3T9xDuV9jG8ZB.jpg",
+   "industry": "world",
+   "k": "The Wonderfully Weird World of Gumball, The Wonderfully Weird World of Gumball TV series, The Wonderfully Weird World of Gumball cast, The Wonderfully Weird World of Gumball story, The Wonderfully Weird World of Gumball seasons, The Wonderfully Weird World of Gumball episodes, The Wonderfully Weird World of Gumball season 2, The Wonderfully Weird World of Gumball 40 episodes, The Wonderfully Weird World of Gumball first air date, The Wonderfully Weird World of Gumball trailer, The Wonderfully Weird World of Gumball Animation, The Wonderfully Weird World of Gumball Family, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alkaio Thiele"
+     },
+     {
+      "@type": "Person",
+      "name": "Hero Hunter"
+     },
+     {
+      "@type": "Person",
+      "name": "Kinza Khan"
+     },
+     {
+      "@type": "Person",
+      "name": "Teresa Gallagher"
+     },
+     {
+      "@type": "Person",
+      "name": "Dan Russell"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 116,
+     "ratingValue": 8.6,
+     "worstRating": 0
+    },
+    "description": "The Wonderfully Weird World of Gumball (2025) is an Animation and Family TV series. Explore its story: Welcome back to Elmore, where the laws of reality are….",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xkhniKa1PGj78h3T9xDuV9jG8ZB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=291904",
+    "name": "The Wonderfully Weird World of Gumball",
+    "numberOfEpisodes": 40,
+    "numberOfSeasons": 2,
+    "startDate": "2025-10-06",
+    "url": "https://flickatlas.co.uk/show?id=291904"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Wonderfully Weird World of Gumball (2025)</h1>\n<p class=\"ssr-lead\">Welcome back to Elmore, where the laws of reality are a joke, and family life is anything but ordinary. Whether he&#x27;s battling an evil fast-food empire, facing off against a sentient AI in love with his mom, or trying to stop Banana Joe from wearing pants — Gumball Watterson drags his brother Darwin, sister Anais, and the rest of the town of Elmore along for the ride. With even wilder stories, bigger twists, and surreal humor, the show is so amazing that they had to rename it!</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 6 October 2025</li><li>Seasons: 2 · Episodes: 40</li><li>Created by: Ben Bocquelet</li><li>Genres: Animation, Family, Comedy, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 8.6/10 (116 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alkaio Thiele as Gumball Watterson (voice)</li><li>Hero Hunter as Darwin Watterson (voice)</li><li>Kinza Khan as Anais Watterson (voice)</li><li>Teresa Gallagher as Nicole Watterson (voice)</li><li>Dan Russell as Richard Watterson (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Discovery+ Amazon Channel</li></ul>\n</article>",
+   "t": "The Wonderfully Weird World of Gumball (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
   },
   "tv:46004": {
    "d": "Date A Live (2013) is an Animation and Sci-Fi & Fantasy TV series. Explore its story: Thirty years ago a strange phenomenon called a…, cast, and 5 seasons.",

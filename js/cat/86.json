@@ -1,6 +1,6 @@
 {
  "bucket": "86",
- "count": 28,
+ "count": 38,
  "titles": {
   "movie:11986": {
    "backdrop_path": "/hZVBkgxgezyKEkWIbPVLiWAOsrl.jpg",
@@ -2789,6 +2789,103 @@
    "vote_average": 7.474,
    "vote_count": 1057
   },
+  "tv:223386": {
+   "backdrop_path": "/dMCfHJRnAZfKoPTjYyZk2QCL8au.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "John Creasy",
+     "n": "Yahya Abdul-Mateen II"
+    },
+    {
+     "c": "Poe Rayburn",
+     "n": "Billie Boullet"
+    },
+    {
+     "c": "Henry Tappan",
+     "n": "Scoot McNairy"
+    },
+    {
+     "c": "Valeria Melo",
+     "n": "Alice Braga"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Kyle Killen"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-30",
+   "genres": [
+    "Action & Adventure",
+    "Crime"
+   ],
+   "id": 223386,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 7,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Haunted by his past and hunted by his enemies, a Special Forces veteran fights to keep a teenage girl alive on the deadly streets of Rio de Janeiro.",
+   "popularity": 7.6922,
+   "poster_path": "/9cZzmT8rhBXbZ1QFBPs3ggABYB3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-30",
+     "episode_count": 7,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Man on Fire",
+   "trailer": {
+    "key": "YqpIKFUrLrk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.408,
+   "vote_count": 228
+  },
   "tv:2286": {
    "backdrop_path": "/vA0rSXM1gwpiefyJamQBvMbIb4B.jpg",
    "budget": 0,
@@ -2949,6 +3046,694 @@
    "type": "tv",
    "vote_average": 7.705,
    "vote_count": 307
+  },
+  "tv:233686": {
+   "backdrop_path": "/66X23qG4RPk7XPDQCFFHHCage3M.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kim Beon-jun",
+     "n": "Park Hae-soo"
+    },
+    {
+     "c": "Lee Joo-yeon",
+     "n": "Shin Min-a"
+    },
+    {
+     "c": "Park Jae-yeong",
+     "n": "Lee Hee-jun"
+    },
+    {
+     "c": "Jang Gil-ryong",
+     "n": "Kim Sung-kyun"
+    },
+    {
+     "c": "Han Sang-hoon",
+     "n": "Lee Kwang-soo"
+    },
+    {
+     "c": "Lee Yoo-jeong",
+     "n": "Gong Seung-yeon"
+    },
+    {
+     "c": "Park Dong-sik",
+     "n": "Choi Hong-il"
+    },
+    {
+     "c": "Hwang Cheol-mok",
+     "n": "Park Ho-san"
+    },
+    {
+     "c": "Baek Ji-hun",
+     "n": "Lee Seo-jun"
+    },
+    {
+     "c": "[Teen] Park Jae-yeong",
+     "n": "Bae Yoon-gyu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M18",
+   "channel": "Netflix",
+   "created_by": [
+    "Lee Il-hyung"
+   ],
+   "director": [],
+   "episode_run_time": [
+    53
+   ],
+   "first_air_date": "2025-04-04",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 233686,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A fateful accident intertwines six lives in a thrilling tale of karma and crime, where each must face their own dark truths and connections.",
+   "popularity": 6.6397,
+   "poster_path": "/nZ7SFBgEhgSCaQFFActjcBQeIV1.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-04",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Twisted by fate. Doomed by destiny.",
+   "title": "Karma",
+   "trailer": {
+    "key": "E_e9cpN994s",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.602,
+   "vote_count": 123
+  },
+  "tv:240686": {
+   "backdrop_path": "/mwiG510fVcOrzWUSDSV7B5tRMrb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "He Yan",
+     "n": "Zhou Ye"
+    },
+    {
+     "c": "Xiao Jue",
+     "n": "Cheng Lei"
+    },
+    {
+     "c": "Chu Zhao",
+     "n": "Zhang Kangle"
+    },
+    {
+     "c": "Song Taotao",
+     "n": "Zhang Miaoyi"
+    },
+    {
+     "c": "Cheng Lisu",
+     "n": "Li Qing"
+    },
+    {
+     "c": "He Rufei",
+     "n": "Bai Shu"
+    },
+    {
+     "c": "Ying Xiang",
+     "n": "Rao Jiadi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG13",
+   "channel": "Mango TV",
+   "created_by": [
+    "Qian Shan Cha Ke"
+   ],
+   "director": [
+    "Jeffrey Chiang Ka-Chun"
+   ],
+   "episode_run_time": [
+    40
+   ],
+   "first_air_date": "2025-08-06",
+   "genres": [
+    "Drama"
+   ],
+   "id": 240686,
+   "industry": "world",
+   "networks": [
+    "Mango TV",
+    "Tencent Video"
+   ],
+   "number_of_episodes": 36,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "A female general with a gentle appearance but a strong inner spirit, and a male general with a cold exterior and internal but with stronger martial prowess. The two join forces to combat deceit, assist the weak, and eliminate external threats.",
+   "popularity": 8.9508,
+   "poster_path": "/r1EMXYnqFDk9tzkkoxFwFjxCEvC.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Tencent Video"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png",
+     "name": "Tencent Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-06",
+     "episode_count": 36,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Legend of the Female General",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.261,
+   "vote_count": 44
+  },
+  "tv:246386": {
+   "backdrop_path": "/uv0LVwNM8mZcwhCa5pd6FJxvKDz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marissa Irvine",
+     "n": "Sarah Snook"
+    },
+    {
+     "c": "Peter Irvine",
+     "n": "Jake Lacy"
+    },
+    {
+     "c": "Carrie Finch",
+     "n": "Sophia Lillis"
+    },
+    {
+     "c": "Detective Alcaras",
+     "n": "Michael Peña"
+    },
+    {
+     "c": "Jenny Kaminski",
+     "n": "Dakota Fanning"
+    },
+    {
+     "c": "Lia Irvine",
+     "n": "Abby Elliott"
+    },
+    {
+     "c": "Colin Dobbs",
+     "n": "Jay Ellis"
+    },
+    {
+     "c": "Milo Irvine",
+     "n": "Duke McCloud"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Sky Atlantic",
+   "created_by": [
+    "Megan Gallagher"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-11-07",
+   "genres": [
+    "Mystery",
+    "Crime"
+   ],
+   "id": 246386,
+   "industry": "world",
+   "networks": [
+    "Sky Atlantic"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In Chicago, Marissa Irvine arrives at 14 Arthur Avenue, expecting to pick up her young son Milo from his first playdate with a boy at his new school. But the woman who answers the door isn't a mother she recognizes. She isn't the nanny. She doesn't have Milo. And so begins every parent's worst nightmare.",
+   "popularity": 7.8097,
+   "poster_path": "/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-07",
+     "episode_count": 8,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "All these nice people. Killing each other.",
+   "title": "All Her Fault",
+   "trailer": {
+    "key": "J9y_QvRwu64",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 362
+  },
+  "tv:249586": {
+   "backdrop_path": "/2sORBXHcWuh000pKAl93bsMmf76.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Betty Jonkers",
+     "n": "Famke Janssen"
+    },
+    {
+     "c": "Jack van Doorn",
+     "n": "Jacob Derwig"
+    },
+    {
+     "c": "Marjolein Hofman",
+     "n": "Elise Schaap"
+    },
+    {
+     "c": "Katja van Doorn",
+     "n": "Jade Olieberg"
+    },
+    {
+     "c": "Erik Ketels",
+     "n": "Yannick van de Velde"
+    },
+    {
+     "c": "Patrick van Doorn",
+     "n": "Jesse Mensah"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Bart Uytdenhouwen",
+    "Nico Moolenaar",
+    "Piet Matthys"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-30",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 249586,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 7,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "BE",
+    "NL"
+   ],
+   "original_language": "nl",
+   "overview": "When Jack's affair comes to light, his wife Betty hatches a bitter plan to strip him of the thing he loves most: The Jackal, his coffeeshop empire.",
+   "popularity": 3.0133,
+   "poster_path": "/bssBGroBgZCHmn4jbbTmttt7VEq.jpg",
+   "production_countries": [
+    "NL",
+    "BE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-30",
+     "episode_count": 7,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "nl"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Amsterdam Empire",
+   "trailer": {
+    "key": "d8DOm2D_72U",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.287,
+   "vote_count": 47
+  },
+  "tv:259486": {
+   "backdrop_path": "/dSNOb8E64mGUJJ51VJXlE0cnEtU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yoon-gab/Gang Cheol",
+     "n": "Yook Sung-jae"
+    },
+    {
+     "c": "Yeo-ri",
+     "n": "Bona"
+    },
+    {
+     "c": "Lee Seong",
+     "n": "Kim Ji-hoon"
+    },
+    {
+     "c": "Nub-deok",
+     "n": "Kil Hae-yeon"
+    },
+    {
+     "c": "Poong-san",
+     "n": "Kim Sang-ho"
+    },
+    {
+     "c": "Choi In-seon",
+     "n": "Shin Seul-ki"
+    },
+    {
+     "c": "Kim Bong-in",
+     "n": "Son Byung-ho"
+    },
+    {
+     "c": "The Queen",
+     "n": "Han So-eun"
+    },
+    {
+     "c": "Choi Won-woo",
+     "n": "Ahn Nae-sang"
+    },
+    {
+     "c": "Kim Eung-soon",
+     "n": "Kim In-kwon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG13",
+   "channel": "SBS",
+   "created_by": [
+    "Yoon Soo-Jung"
+   ],
+   "director": [
+    "Yun Seong-sik"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-18",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 259486,
+   "industry": "world",
+   "networks": [
+    "SBS"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "In a world of folklore and mysticism, a vengeful spirit and a devoted shaman cross paths, sparking a journey of love and redemption",
+   "popularity": 5.5033,
+   "poster_path": "/dstp4G3muuXFVr9x3McedmhMkRi.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-18",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Haunted Palace",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 36
+  },
+  "tv:259886": {
+   "backdrop_path": "/9OUDNZjZOgJiFTjXfOtUBy90FUH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Barclay Pierre-Dupont",
+     "n": "Russell Tovey"
+    },
+    {
+     "c": "Salt",
+     "n": "Gugu Mbatha-Raw"
+    },
+    {
+     "c": "Kate Lethbridge-Stewart",
+     "n": "Jemma Redgrave"
+    },
+    {
+     "c": "Shirley Bingham",
+     "n": "Ruth Madeley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16+",
+   "channel": "BBC One",
+   "created_by": [
+    "Russell T Davies"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-12-07",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 259886,
+   "industry": "world",
+   "networks": [
+    "BBC One"
+   ],
+   "number_of_episodes": 5,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When a fearsome and ancient species emerges from the ocean, dramatically revealing themselves to humanity, an international crisis is triggered. With the entire population at risk, UNIT step into action as the land and sea wage war.",
+   "popularity": 10.8519,
+   "poster_path": "/4wDU61HtpXbcwpgCy1xnodxKRYN.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+     "name": "Sky Go",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-29",
+     "episode_count": 18,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-12-07",
+     "episode_count": 5,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The War Between the Land and the Sea",
+   "trailer": {
+    "key": "TIuILeKrH4w",
+    "name": "NEW TRAILER",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.608,
+   "vote_count": 209
   },
   "tv:2686": {
    "backdrop_path": "/4ubxzr6wNZElImE3EOUsjxvVjYw.jpg",
@@ -3126,6 +3911,380 @@
    "type": "tv",
    "vote_average": 7.552,
    "vote_count": 201
+  },
+  "tv:272586": {
+   "backdrop_path": "/rlTfXiGnDhj8CMm7FK6KW8XFAKA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dani",
+     "n": "Krista Kosonen"
+    },
+    {
+     "c": "Malik",
+     "n": "Mohammed Nour Oklah"
+    },
+    {
+     "c": "Elis",
+     "n": "Peter Gantman"
+    },
+    {
+     "c": "",
+     "n": "Lisa Lindgren"
+    },
+    {
+     "c": "",
+     "n": "Ceasar Matijasevic"
+    },
+    {
+     "c": "",
+     "n": "Alexander Persson"
+    },
+    {
+     "c": "Jon",
+     "n": "William Jannert"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Peter Grönlund"
+   ],
+   "director": [
+    "Peter Grönlund"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-02",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 272586,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 5,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "SE"
+   ],
+   "original_language": "sv",
+   "overview": "When a teenager goes missing, a detective with personal ties to the case joins a tense investigation that reveals fierce loyalties and old family feuds.",
+   "popularity": 3.2258,
+   "poster_path": "/kAy0vnaxCPcLrmPCHWgfwWoWelL.jpg",
+   "production_countries": [
+    "SE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-02",
+     "episode_count": 5,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "sv"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Land of Sin",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 5.4,
+   "vote_count": 78
+  },
+  "tv:289486": {
+   "backdrop_path": "/AixpLrWdahG1wNnNwyXUNSKum5Z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Reporter, CNN",
+     "n": "Jeff Flock"
+    },
+    {
+     "c": "Self - Tylenol Murder Suspect",
+     "n": "James Lewis"
+    },
+    {
+     "c": "Self - Daughter of Victim",
+     "n": "Michelle Rosen"
+    },
+    {
+     "c": "Self - Illinois Attorney General",
+     "n": "Tyrone Fahner"
+    },
+    {
+     "c": "Self - Tylenol Poisoning Victim",
+     "n": "Mary Kellerman"
+    },
+    {
+     "c": "Self - Superintendent - Chicago Police",
+     "n": "Richard Brzeczek"
+    },
+    {
+     "c": "Self - Author, No More Tears: The Dark Secrets of Johnson & Johnson",
+     "n": "Gardiner Harris"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Netflix",
+   "created_by": [
+    "Yotam Guendelman",
+    "Ari Pines"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-26",
+   "genres": [
+    "Documentary",
+    "Crime"
+   ],
+   "id": 289486,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Who really laced Tylenol with cyanide? This true-crime series examines alarming theories behind the unsolved killings — and tracks down a key suspect.",
+   "popularity": 2.1982,
+   "poster_path": "/eWYQAsM0o9MONQXMKaUmI8AEsn5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-26",
+     "episode_count": 3,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Cold Case: The Tylenol Murders",
+   "trailer": {
+    "key": "2W7r1O1ch74",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.8,
+   "vote_count": 38
+  },
+  "tv:296286": {
+   "backdrop_path": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sasaki (voice)",
+     "n": "Takuya Sato"
+    },
+    {
+     "c": "Yamada (voice)",
+     "n": "Seena Hoshiki"
+    },
+    {
+     "c": "Gotō (voice)",
+     "n": "Toa Yukinari"
+    },
+    {
+     "c": "Ōno (voice)",
+     "n": "Megumi Toyoguchi"
+    },
+    {
+     "c": "Obata (voice)",
+     "n": "Rikuya Yasuda"
+    },
+    {
+     "c": "Maezawa (voice)",
+     "n": "Yoko Hikasa"
+    },
+    {
+     "c": "Suzuki (voice)",
+     "n": "Shinya Takahashi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "MBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-09",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 296286,
+   "industry": "world",
+   "networks": [
+    "MBS",
+    "TBS",
+    "CBC",
+    "Tulip Television",
+    "SBC",
+    "BSN",
+    "tys",
+    "NBC",
+    "HBC",
+    "RKK",
+    "i-Television",
+    "SBS",
+    "IBC",
+    "BSS",
+    "MRO",
+    "OBS",
+    "TUF",
+    "RSK",
+    "TUY",
+    "tbc",
+    "RKB",
+    "KUTV",
+    "RBC",
+    "UTY",
+    "RCC",
+    "MRT",
+    "ATV",
+    "MBC"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Sasaki is an overworked salaryman drifting through the corporate grind, sustained by cigarettes and the cheerful service and smile of Yamada, the clerk at his favorite supermarket. But one night after a grueling shift, he arrives late to find Yamada nowhere to be seen. With nowhere left to smoke, his spirits sink—until a pierced young woman calls out to him: “You can smoke here.”",
+   "popularity": 12.3799,
+   "poster_path": "/n8ZvVflzDKN3vXe85F1KdC5CFf9.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-09",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Smoking Behind the Supermarket with You",
+   "trailer": {
+    "key": "kynbQYIVK7I",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.43,
+   "vote_count": 86
   },
   "tv:4386": {
    "backdrop_path": "/yXuZVMnOEsIhx1vtu9kJGpzmjGN.jpg",

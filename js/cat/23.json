@@ -1,6 +1,6 @@
 {
  "bucket": "23",
- "count": 31,
+ "count": 40,
  "titles": {
   "movie:11223": {
    "backdrop_path": "/vU6ZnOUcuP4RgB5esrWinzxWZUW.jpg",
@@ -107,134 +107,6 @@
    "type": "movie",
    "vote_average": 6.756,
    "vote_count": 485
-  },
-  "movie:1244523": {
-   "backdrop_path": "/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Lena",
-     "n": "Kiana Madeira"
-    },
-    {
-     "c": "Alli",
-     "n": "Jessica Rothe"
-    },
-    {
-     "c": "Callum",
-     "n": "Will Close"
-    },
-    {
-     "c": "Miguel",
-     "n": "Juan Pablo Shuk"
-    },
-    {
-     "c": "Brennan",
-     "n": "Logan Marshall-Green"
-    },
-    {
-     "c": "Raúl",
-     "n": "Jaime Newball"
-    },
-    {
-     "c": "Shawn",
-     "n": "Jackson Bews"
-    },
-    {
-     "c": "Yaguari Leader",
-     "n": "Tonfy Andoque"
-    },
-    {
-     "c": "Reynaldo",
-     "n": "Andres Paier"
-    },
-    {
-     "c": "Garimpeiro Leader",
-     "n": "Victor Bustos"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Mike P. Nelson"
-   ],
-   "genres": [
-    "Horror",
-    "Thriller",
-    "Action"
-   ],
-   "id": 1244523,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
-   "popularity": 175.2564,
-   "poster_path": "/7mI13sTZcuwWEIUK9fckAb8Zmba.jpg",
-   "production_countries": [
-    "US",
-    "DE",
-    "CO"
-   ],
-   "providers": [],
-   "providers_wtw": [
-    {
-     "kind": "buy",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
-     "name": "Google Play Movies",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
-     "name": "YouTube",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
-     "name": "Fandango At Home",
-     "region": "US"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-10-01",
-   "revenue": 962070,
-   "runtime": 103,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en",
-    "pt"
-   ],
-   "status": "Released",
-   "tagline": "Witness terror on a gigantic scale.",
-   "title": "Beware Boiúna",
-   "trailer": {
-    "key": "MQKqgFVU4dQ",
-    "name": "Final Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 6.2,
-   "vote_count": 54
   },
   "movie:1248723": {
    "backdrop_path": "/r3oPwy5HILetFqKlTI6BElFoAWf.jpg",
@@ -1300,100 +1172,6 @@
    "vote_average": 7.1,
    "vote_count": 493
   },
-  "movie:791523": {
-   "backdrop_path": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-   "budget": 100000000,
-   "cast": [
-    {
-     "c": "Prue McKeel (voice)",
-     "n": "Peyton Elizabeth Lee"
-    },
-    {
-     "c": "Curtis Mehlberg (voice)",
-     "n": "Jacob Tremblay"
-    },
-    {
-     "c": "Alexandra (voice)",
-     "n": "Carey Mulligan"
-    },
-    {
-     "c": "Brenden (voice)",
-     "n": "Mahershala Ali"
-    },
-    {
-     "c": "Owl Rex (voice)",
-     "n": "Richard E. Grant"
-    },
-    {
-     "c": "The General (voice)",
-     "n": "Angela Bassett"
-    },
-    {
-     "c": "Septima (voice)",
-     "n": "Awkwafina"
-    },
-    {
-     "c": "Niamh (voice)",
-     "n": "Amandla Stenberg"
-    },
-    {
-     "c": "Maxim (voice)",
-     "n": "Tom Waits"
-    },
-    {
-     "c": "Dmitri (voice)",
-     "n": "Charlie Day"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 13+",
-   "date_kind": "release",
-   "director": [
-    "Travis Knight"
-   ],
-   "genres": [
-    "Animation",
-    "Fantasy",
-    "Adventure"
-   ],
-   "id": 791523,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-   "popularity": 81.4687,
-   "poster_path": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [],
-   "providers_wtw": [],
-   "published_at": "2026-11-14",
-   "release_date": "2026-11-13",
-   "revenue": 67760367,
-   "runtime": 132,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "How far would you go for those you love?",
-   "title": "Wildwood",
-   "trailer": {
-    "key": "bJQGtSeLPII",
-    "name": "Final Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 8.471,
-   "vote_count": 274
-  },
   "movie:808023": {
    "backdrop_path": "/aSglK0vFI50etQENUq4EIcwfoMR.jpg",
    "budget": 0,
@@ -2333,6 +2111,519 @@
    "vote_average": 7.296,
    "vote_count": 323
   },
+  "tv:258023": {
+   "backdrop_path": "/37Fn6Qf0JTLfbE719FvilHCyZK4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Narrator (voice)",
+     "n": "Peter Coyote"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "PBS",
+   "created_by": [
+    "Ken Burns"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-11-16",
+   "genres": [
+    "Documentary",
+    "War & Politics"
+   ],
+   "id": 258023,
+   "industry": "world",
+   "networks": [
+    "PBS"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The American Revolution was at once a war for independence, a war of conquest, a civil war, and a world war, fought by neighbors on American farms and between global powers an ocean or more away. It impacted millions from Vermont’s Green Mountains to the swamps of South Carolina, from Indian Country to the Iberian Peninsula. In defeating the British Empire and giving birth to a new nation, the American Revolution turned the world upside-down. Thirteen colonies on the Atlantic Coast united in rebellion, won their independence, and established a republic that still endures. The American Revolution will present the story of the men and women of the Revolutionary generation, their humanity in victory and defeat, and the crisis that they lived through.",
+   "popularity": 5.0373,
+   "poster_path": "/hXDHzOJxbsWZNy5jd5TMBAKIb0w.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "PBS"
+    },
+    {
+     "name": "PBS Documentaries Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/kwKCUFjKjq1GlZeIjImBV62IypB.png",
+     "name": "PBS",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/fZiIXJI0fAN09zTXY1U0xFirdIu.png",
+     "name": "PBS Documentaries Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-08",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-11-16",
+     "episode_count": 6,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The American Revolution",
+   "trailer": {
+    "key": "lruEtNTN9oY",
+    "name": "The American Revolution | A Film by Ken Burns, Sarah Botstein & David Schmidt | Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.063,
+   "vote_count": 48
+  },
+  "tv:260523": {
+   "backdrop_path": "/i9E2lwBBJGuVEIwl1LZckC4isKz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lilisa Suzunomiya (voice)",
+     "n": "Akira Sekine"
+    },
+    {
+     "c": "Otoha Kurogane (voice)",
+     "n": "Miyuri Shimabukuro"
+    },
+    {
+     "c": "Tina Isemi (voice)",
+     "n": "Ayaka Fukuhara"
+    },
+    {
+     "c": "Tamaki Shiraya (voice)",
+     "n": "Natsumi Fujiwara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-04-03",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 260523,
+   "industry": "world",
+   "networks": [
+    "TBS",
+    "CBC",
+    "Tulip Television",
+    "SBC",
+    "BSN",
+    "tys",
+    "NBC",
+    "HBC",
+    "RKK",
+    "i-Television",
+    "SBS",
+    "IBC",
+    "BSS",
+    "MRO",
+    "OBS",
+    "TUF",
+    "RSK",
+    "TUY",
+    "tbc",
+    "RKB",
+    "KUTV",
+    "RBC",
+    "UTY",
+    "RCC",
+    "MRT",
+    "ATV",
+    "MBC"
+   ],
+   "number_of_episodes": 13,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Forced to give up playing guitar when her mother remarried a rich real estate tycoon, Lilisa Suzunomiya's passion for music reawakens when she meets Otoha Kurogane, her seemingly perfect classmate who is secretly a heavy metal drummer!",
+   "popularity": 21.1742,
+   "poster_path": "/q7C7JLiqGTQEx0U7FjpngrPgxeK.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "HiDive"
+    },
+    {
+     "name": "Hidive Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1743zXk6Hn0afaarNtp6bXVMlsT.png",
+     "name": "HiDive",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/63UDiSB2rJAEUaxUXTNZbGNnjRm.png",
+     "name": "Hidive Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-03",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Rock Is a Lady's Modesty",
+   "trailer": {
+    "key": "mDdib-5dZK0",
+    "name": "Dub Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.0,
+   "vote_count": 21
+  },
+  "tv:260823": {
+   "backdrop_path": "/sEagMcuLL3beaHc3ToiZicMuYSb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Beryl Gardenant (voice)",
+     "n": "Hiroaki Hirata"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "HTB",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-04-05",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Comedy"
+   ],
+   "id": 260823,
+   "industry": "world",
+   "networks": [
+    "HTB",
+    "tv asahi",
+    "Nagoya TV",
+    "KBC",
+    "ABC TV",
+    "NCC",
+    "OAB",
+    "ABA",
+    "Niigata Television Network 21",
+    "khb",
+    "KFB",
+    "HOME",
+    "KSB",
+    "Kagoshima Broadcasting",
+    "Iwate Asahi TV",
+    "Akita Asahi Broadcasting",
+    "Yamagata Television System",
+    "Shizuoka Asahi TV",
+    "Asahi Broadcasting Nagano",
+    "Hokuriku Asahi Broadcasting",
+    "Ehime Asahi TV",
+    "Yamaguchi Asahi Broadcasting",
+    "Kumamoto Asahi Broadcasting",
+    "Ryu-Q Asahi Broadcasting"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Beryl Gardenant, a middle-aged swordsman running a dojo in the backwaters, lives a quiet life, until Allucia, former student and Commander of the Royal Order of Knights, appears! Beryl’s life is about to change dramatically! City life. Old students. New friends and formidable foes. It’s all too much. But after years of training, he has mad skills, and he’s been dubbed “the backwater swordmaster.”",
+   "popularity": 11.2399,
+   "poster_path": "/ujQp5egkJOkDHx4TehlgHePFcRv.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-05",
+     "episode_count": 12,
+     "name": "From Old Country Bumpkin to Master Swordsman",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-07-08",
+     "episode_count": 12,
+     "name": "From Old Country Bumpkin to Master Swordsman II",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "From Old Country Bumpkin to Master Swordsman",
+   "trailer": {
+    "key": "1TJe7HgWiL0",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.304,
+   "vote_count": 112
+  },
+  "tv:271823": {
+   "backdrop_path": "/suCtNSA0U8Gtb7JxMJ6IfhHJUwa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gracie Darling",
+     "n": "Kristina Bogic"
+    },
+    {
+     "c": "Joni Grey",
+     "n": "Morgana O'Reilly"
+    },
+    {
+     "c": "Jay Rajeswaran",
+     "n": "Rudi Dharmalingam"
+    },
+    {
+     "c": "Mina Grey",
+     "n": "Chloe Brink"
+    },
+    {
+     "c": "Raffy Rajeswaran",
+     "n": "Saiesha Sundaralingam"
+    },
+    {
+     "c": "Frankie Darling",
+     "n": "Ariel Donoghue"
+    },
+    {
+     "c": "Ruth Darling",
+     "n": "Celia Pacquola"
+    },
+    {
+     "c": "Anita Rajeswaran-Evans",
+     "n": "Annie Maynard"
+    },
+    {
+     "c": "Zac Teporoa",
+     "n": "Dominic Ona-Ariki"
+    },
+    {
+     "c": "Young Joni",
+     "n": "Eloise Rothfield"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Paramount+",
+   "created_by": [
+    "Miranda Nation"
+   ],
+   "director": [
+    "Jonathan Brough"
+   ],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2025-08-14",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 271823,
+   "industry": "world",
+   "networks": [
+    "Paramount+"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "When Joni was 14, her best friend Gracie Darling disappeared during a séance. Some 27 years on, the local kids in a small town get their kicks with a game of 'Playing Gracie Darling' – but the seemingly innocent game turns sinister when another girl disappears. Joni, by then a child psychologist, returns to the town and partners with a police sergeant Jay to uncover the truth, while Gracie's sister Ruth faces a mother's worst nightmare when her own daughter vanishes under hauntingly similar circumstances.",
+   "popularity": 2.8938,
+   "poster_path": "/7UWdkbSUd1d1GB28IyIKDbftzhM.jpg",
+   "production_countries": [
+    "AU"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-14",
+     "episode_count": 6,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Some games never end.",
+   "title": "Playing Gracie Darling",
+   "trailer": {
+    "key": "6oEtnV7k-BU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.0,
+   "vote_count": 53
+  },
   "tv:2723": {
    "backdrop_path": "/CrVAqxtdmvelqVcj8pVeQg7wNV.jpg",
    "budget": 0,
@@ -2478,6 +2769,878 @@
    "type": "tv",
    "vote_average": 8.416,
    "vote_count": 953
+  },
+  "tv:279323": {
+   "backdrop_path": "/8PHBAdPyfIwS5W6cfKLhItEb875.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gu-cheon",
+     "n": "Nam Joo-hyuk"
+    },
+    {
+     "c": "Saeng-gang",
+     "n": "Roh Yoon-seo"
+    },
+    {
+     "c": "King",
+     "n": "Cho Seung-woo"
+    },
+    {
+     "c": "Queen Dowager",
+     "n": "Jang Young-nam"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Kwon So-ra",
+    "Seo Jae-won"
+   ],
+   "director": [
+    "Choi Jung-kyu"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-17",
+   "genres": [
+    "Mystery",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 279323,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders — can they unravel its dark secrets?",
+   "popularity": 10.3017,
+   "poster_path": "/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-17",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Beyond boundaries, they unearth the truth.",
+   "title": "The East Palace",
+   "trailer": {
+    "key": "wBUkNE1l9DU",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.055,
+   "vote_count": 118
+  },
+  "tv:286723": {
+   "backdrop_path": "/exFWxrrWoI2QfzFId4SqZz0jkHP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dennis (voice)",
+     "n": "Shunsuke Takeuchi"
+    },
+    {
+     "c": "Atelier (voice)",
+     "n": "Marika Tachibana"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "AT-X",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-03",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 286723,
+   "industry": "world",
+   "networks": [
+    "AT-X"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "When superstar adventurer Dennis gets booted from the world’s strongest party, he teams up with runaway Atelier to serve up his true passion—delicious cuisine. But this not-so-average eatery has not-so-average patrons. Dennis will battle his quirky customers’ troubles with his trusty butcher knife and wok. Visit Adventurer’s Restaurant and fill up your heart and stomach!",
+   "popularity": 10.4459,
+   "poster_path": "/caWU2F1DSrrJgoJCSclpSoCWnge.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "Anime Times Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-03",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "Even if life doesn't go well tonight, the meal is still all right!!",
+   "title": "Welcome to the Outcast's Restaurant!",
+   "trailer": {
+    "key": "wDgtDL2y9NM",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.468,
+   "vote_count": 31
+  },
+  "tv:289123": {
+   "backdrop_path": "/kXf0oLGrdKiAhoRJaABAAJiD5hy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self (archive footage)",
+     "n": "Fred West"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Rose West"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-14",
+   "genres": [
+    "Documentary",
+    "Crime"
+   ],
+   "id": 289123,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Recently discovered police recordings and first-person accounts tell the story of Fred and Rose West, two of the UK's most prolific murderers.",
+   "popularity": 2.1505,
+   "poster_path": "/dVaLmQxdSoH2MVHPuwDZvx0mha1.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-14",
+     "episode_count": 3,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Fred and Rose West: A British Horror Story",
+   "trailer": {
+    "key": "QX18_KDHddg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.9,
+   "vote_count": 51
+  },
+  "tv:289423": {
+   "backdrop_path": "/cnb3SelfQKewpo0bw4HCNRHjwY4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Baek Ho-rang",
+     "n": "Kim Young-kwang"
+    },
+    {
+     "c": "Na Bo-bae",
+     "n": "Chae Soo-bin"
+    },
+    {
+     "c": "Ji Eun-ho",
+     "n": "Cha Woo-min"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Song You-chae",
+    "Park Soo-won"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-10-09",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 289423,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
+   "popularity": 31.1472,
+   "poster_path": "/ecRrKGXfflZmDZBD4irdkybClT.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-10-09",
+     "episode_count": 10,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Charged by touch, drained by distance, shocked by love!",
+   "title": "Take Charge of My Heart",
+   "trailer": {
+    "key": "z_D5uXaDsVU",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.6,
+   "vote_count": 64
+  },
+  "tv:296523": {
+   "backdrop_path": "/pPA3PDOZgq55QXTSj5FlFC6KTpJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rick Hansen",
+     "n": "Alfie Allen"
+    },
+    {
+     "c": "Eve Riser",
+     "n": "Jill Halfpenny"
+    },
+    {
+     "c": "Lily Riser",
+     "n": "Tallulah Evans"
+    },
+    {
+     "c": "Abby Riser",
+     "n": "Delphi Evans"
+    },
+    {
+     "c": "DI Tommy Shah",
+     "n": "Vikash Bhai"
+    },
+    {
+     "c": "Zoe",
+     "n": "Niamh Walsh"
+    },
+    {
+     "c": "Wes",
+     "n": "Levi Brown"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Paramount+",
+   "created_by": [
+    "Nessah Muthy",
+    "Suzanne Cowie",
+    "David Turpin"
+   ],
+   "director": [],
+   "episode_run_time": [
+    55
+   ],
+   "first_air_date": "2026-01-08",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 296523,
+   "industry": "world",
+   "networks": [
+    "Paramount+"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Follow the story of twin sisters Lily and Abby, whose lives are shattered when Lily is abducted from their quiet rural English town by beloved local teacher Rick Hansen. After years of abuse in captivity, Lily escapes - only to discover that freedom brings its own challenges.",
+   "popularity": 4.513,
+   "poster_path": "/upUOfPAMhjWDPu8R31r9YvYDfum.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-08",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Her teacher. Her captor.",
+   "title": "Girl Taken",
+   "trailer": {
+    "key": "Y5gIwl0kRIM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.9,
+   "vote_count": 73
+  },
+  "tv:302723": {
+   "backdrop_path": "/xHo8DmcIoYSc27O7CL4Z7Ysp5Tz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alicia",
+     "n": "Verónica Orozco"
+    },
+    {
+     "c": "Alejo",
+     "n": "Cony Camelo"
+    },
+    {
+     "c": "Pablo",
+     "n": "Sebastián Carvajal"
+    },
+    {
+     "c": "",
+     "n": "Michel Brown"
+    },
+    {
+     "c": "",
+     "n": "Julián Román"
+    },
+    {
+     "c": "",
+     "n": "Leo Deluglio"
+    },
+    {
+     "c": "",
+     "n": "Ana María Medina"
+    },
+    {
+     "c": "",
+     "n": "Daniela Tapia"
+    },
+    {
+     "c": "",
+     "n": "Fernando Arévalo"
+    },
+    {
+     "c": "",
+     "n": "Biassini Segura"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M18",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    40
+   ],
+   "first_air_date": "2025-11-05",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Soap"
+   ],
+   "id": 302723,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 19,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CO"
+   ],
+   "original_language": "es",
+   "overview": "Torn between two loves, Alicia secretly marries both a famous writer and a former priest. How long can she juggle love, lies and her double life?",
+   "popularity": 3.4103,
+   "poster_path": "/nxBHcZc7JAKoZWpiJTeEdy2l4LO.jpg",
+   "production_countries": [],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-05",
+     "episode_count": 19,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Just Alice",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 32
+  },
+  "tv:307423": {
+   "backdrop_path": "/xYQUz6rqeKkiPeLeOCZxxApFWBM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Doménica Montero",
+     "n": "Angelique Boyer"
+    },
+    {
+     "c": "Luis Fernando Jiménez",
+     "n": "Marcus Ornellas"
+    },
+    {
+     "c": "Kiara Salerno Montero",
+     "n": "Scarlet Gruber"
+    },
+    {
+     "c": "Genaro Peña",
+     "n": "Brandon Peniche"
+    },
+    {
+     "c": "Maximiliano \"Max\" Langer/Martín González",
+     "n": "Diego Amozurrutia"
+    },
+    {
+     "c": "Roberto Sangenís",
+     "n": "Gonzalo Peña"
+    },
+    {
+     "c": "Gabriel Cadena",
+     "n": "Alejandro Ávila"
+    },
+    {
+     "c": "Osvaldo Cadena Ortiz",
+     "n": "Javier Ponce"
+    },
+    {
+     "c": "Ernesto Solana",
+     "n": "José Manuel Rincón"
+    },
+    {
+     "c": "Prudencio Pérez",
+     "n": "Alberto Estrella"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Univision",
+   "created_by": [
+    "Inés Rodena",
+    "Carlos Bardasano"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2025-12-08",
+   "genres": [
+    "Drama",
+    "Soap"
+   ],
+   "id": 307423,
+   "industry": "world",
+   "networks": [
+    "Univision",
+    "Las Estrellas"
+   ],
+   "number_of_episodes": 50,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "A respected and renowned businesswoman and philanthropist, considered one of the most sought-after brides in the country, who is left at the altar on her wedding day. Humiliated, betrayed, and turned into a target of public scrutiny, Doménica decides to flee and take refuge in one of her parents’ old estates. There, marked by pain, she faces new challenges and meets Luis Fernando, the owner of the neighboring estate, who also carries a painful past. Between them, an explosive relationship develops, marked by pride, misunderstandings, and growing attraction, where land disputes intertwine with their shared desire to rebuild, heal, and give new meaning to their lives.",
+   "popularity": 5.9313,
+   "poster_path": "/A02M5F5DcQ3glHrvBUSGnzTlvW1.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "VIX "
+    },
+    {
+     "name": "ViX Premium Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ieJ55scAVrvboTpeJcZa3JlLIrS.png",
+     "name": "VIX ",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+     "name": "ViX Premium Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-08",
+     "episode_count": 50,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Doménica Montero",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.243,
+   "vote_count": 210
+  },
+  "tv:312423": {
+   "backdrop_path": "/fRiAJB6VxyG0QcjSXW4BoHIGsnu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host & Creator, ANTM",
+     "n": "Tyra Banks"
+    },
+    {
+     "c": "Self - Creative Director & Judge, ANTM",
+     "n": "Jay Manuel"
+    },
+    {
+     "c": "Self - Runway Coach & Judge, ANTM",
+     "n": "J. Alexander"
+    },
+    {
+     "c": "Self - Photographer & Judge, ANTM",
+     "n": "Nigel Barker"
+    },
+    {
+     "c": "Self - Executive Producer, ANTM",
+     "n": "Ken Mok"
+    },
+    {
+     "c": "Self - Cycle #2 Contestant",
+     "n": "Shandi Sullivan"
+    },
+    {
+     "c": "Self - Cycle #1 Contestant",
+     "n": "Giselle Samson"
+    },
+    {
+     "c": "Self - Cycle #1 Contestant",
+     "n": "Shannon Stewart"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-02-16",
+   "genres": [
+    "Reality",
+    "Documentary"
+   ],
+   "id": 312423,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "What started as a glamorous launchpad for aspiring models became a pop-culture juggernaut defined by explosive drama, public meltdowns, and controversies that still fuel viral moments today.",
+   "popularity": 2.8318,
+   "poster_path": "/lxlsvsgvEYlf2wrSV9qUipHRAuk.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-16",
+     "episode_count": 3,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The definitive documentary about America's Next Top Model.",
+   "title": "Reality Check: Inside America's Next Top Model",
+   "trailer": {
+    "key": "64eaReTHCgc",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.929,
+   "vote_count": 21
   },
   "tv:33623": {
    "backdrop_path": "/vgPDKfOerEyF260CvozVEWj9T8n.jpg",
@@ -3439,131 +4602,6 @@
    "type": "tv",
    "vote_average": 8.429,
    "vote_count": 7998
-  },
-  "tv:73223": {
-   "backdrop_path": "/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Asta (voice)",
-     "n": "Gakuto Kajiwara"
-    },
-    {
-     "c": "Yuno (voice)",
-     "n": "Nobunaga Shimazaki"
-    },
-    {
-     "c": "Noelle Silva (voice)",
-     "n": "Kana Yuuki"
-    },
-    {
-     "c": "Yami Sukehiro (voice)",
-     "n": "Junichi Suwabe"
-    },
-    {
-     "c": "Magna Swing (voice)",
-     "n": "Genki Muro"
-    },
-    {
-     "c": "Luck Voltia (voice)",
-     "n": "Ayumu Murase"
-    },
-    {
-     "c": "Finral Roulacase (voice)",
-     "n": "Jun Fukuyama"
-    },
-    {
-     "c": "Gauche Adlai (voice)",
-     "n": "Satoshi Hino"
-    },
-    {
-     "c": "Charmy Papittoson (voice)",
-     "n": "Kiyono Yasuno"
-    },
-    {
-     "c": "Vanessa Enoteca (voice)",
-     "n": "Nana Mizuki"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 13+",
-   "channel": "TV Tokyo",
-   "created_by": [],
-   "director": [],
-   "episode_run_time": [
-    24
-   ],
-   "first_air_date": "2017-10-03",
-   "genres": [
-    "Animation",
-    "Action & Adventure",
-    "Sci-Fi & Fantasy"
-   ],
-   "id": 73223,
-   "industry": "world",
-   "networks": [
-    "TV Tokyo",
-    "TV Aichi",
-    "TVQ",
-    "TV Osaka",
-    "TVh",
-    "TSC"
-   ],
-   "number_of_episodes": 196,
-   "number_of_seasons": 2,
-   "origin_country": [
-    "JP"
-   ],
-   "original_language": "ja",
-   "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
-   "popularity": 46.8599,
-   "poster_path": "/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
-   "production_countries": [
-    "JP"
-   ],
-   "providers": [],
-   "providers_wtw": [],
-   "published_at": "2026-11-14",
-   "revenue": 0,
-   "seasons": [
-    {
-     "air_date": "2016-11-27",
-     "episode_count": 2,
-     "name": "Specials",
-     "season_number": 0
-    },
-    {
-     "air_date": "2017-10-03",
-     "episode_count": 170,
-     "name": "Season 1",
-     "season_number": 1
-    },
-    {
-     "air_date": "2026-10-03",
-     "episode_count": 26,
-     "name": "Season 2",
-     "season_number": 2
-    }
-   ],
-   "source": "catalogue",
-   "spoken_languages": [
-    "ja"
-   ],
-   "status": "Returning Series",
-   "tagline": "",
-   "title": "Black Clover",
-   "trailer": {
-    "key": "QwNWY6z93O4",
-    "name": "Black Clover Season 1 - Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "tv",
-   "vote_average": 8.533,
-   "vote_count": 2315
   },
   "tv:81723": {
    "backdrop_path": "/afUVsProh46h31w2EvL7qyHXrqj.jpg",

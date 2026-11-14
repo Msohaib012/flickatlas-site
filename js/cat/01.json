@@ -1,6 +1,6 @@
 {
  "bucket": "01",
- "count": 25,
+ "count": 36,
  "titles": {
   "movie:1013601": {
    "backdrop_path": "/iveeHEGtkq0dBJZtOcoK650sZ6x.jpg",
@@ -2329,6 +2329,1055 @@
    "vote_average": 7.4,
    "vote_count": 1097
   },
+  "tv:231001": {
+   "backdrop_path": "/7vUmiPhYSgduTvGfRMZ4SdyTWKl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Antonin Carême",
+     "n": "Benjamin Voisin"
+    },
+    {
+     "c": "Charles-Maurice de Talleyrand-Périgord",
+     "n": "Jérémie Renier"
+    },
+    {
+     "c": "Henriette Mahy de Chitenay",
+     "n": "Lyna Khoudri"
+    },
+    {
+     "c": "Catherine Grand",
+     "n": "Sigrid Bouaziz"
+    },
+    {
+     "c": "Agathe",
+     "n": "Alice Da Luz Gomes"
+    },
+    {
+     "c": "Charles De Flahaut",
+     "n": "Pablo Cobo"
+    },
+    {
+     "c": "Joseph Fouché",
+     "n": "Micha Lescot"
+    },
+    {
+     "c": "Germaine De Stael",
+     "n": "Juliette Armanet"
+    },
+    {
+     "c": "Louis Bonaparte",
+     "n": "Arthur Mazet"
+    },
+    {
+     "c": "Hortense de Beauharnais",
+     "n": "Lily Taïeb"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [
+    "Davide Serino",
+    "Ian Kelly"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-30",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "War & Politics"
+   ],
+   "id": 231001,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Witness the rise of the world's first celebrity chef, Antonin Carême, and his descent into espionage in Napoleon-era France—where manipulation is king. With his gifts for gastronomy and seduction, he becomes the perfect weapon in a fight for power.",
+   "popularity": 4.9093,
+   "poster_path": "/8tQixGBd6qCPu8of0jtLPqAViYb.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-30",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Returning Series",
+   "tagline": "Chef. Spy. Lover.",
+   "title": "Carême",
+   "trailer": {
+    "key": "-d4aZI-S0S0",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.411,
+   "vote_count": 45
+  },
+  "tv:254701": {
+   "backdrop_path": "/1PMrsy2oeuVPEhefvOwJnHbDNCT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Max",
+     "n": "Alfie Allen"
+    },
+    {
+     "c": "JJ / Mohammed",
+     "n": "Shazad Latif"
+    },
+    {
+     "c": "Cassie Elliott",
+     "n": "Samira Wiley"
+    },
+    {
+     "c": "Oksana Shirokova",
+     "n": "Avital Lvova"
+    },
+    {
+     "c": "Rab Mackintosh",
+     "n": "Stuart Martin"
+    },
+    {
+     "c": "Antonio Alam",
+     "n": "Franklin Vírgüez"
+    },
+    {
+     "c": "Laetitia",
+     "n": "Charlie Murphy"
+    },
+    {
+     "c": "Mark Ellis",
+     "n": "Brian Gleeson"
+    },
+    {
+     "c": "Khaled Awad",
+     "n": "Vahid Gold"
+    },
+    {
+     "c": "Sayed Ahman",
+     "n": "Akin Gazi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "Sky Atlantic",
+   "created_by": [
+    "Gregory Burke",
+    "Alfie Allen",
+    "Shazad Latif",
+    "Samira Wiley"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-08-28",
+   "genres": [
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 254701,
+   "industry": "world",
+   "networks": [
+    "Sky Atlantic"
+   ],
+   "number_of_episodes": 5,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When the path of free-spirited drug smuggler Max collides with JJ, an enigmatic outsider on the run, an unlikely friendship is formed. They're swept into a chaotic, high-stakes mission they never signed up for, trafficking highly enriched uranium across North Africa and the Middle East, with the CIA, MI6, and a global web of opposing forces closing in fast.",
+   "popularity": 3.1665,
+   "poster_path": "/iVpapvAdSQEE5OZOxOvjVlFZhYx.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-28",
+     "episode_count": 5,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "One hell of a ride.",
+   "title": "Atomic",
+   "trailer": {
+    "key": "Nshrjk9I3b8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.9,
+   "vote_count": 38
+  },
+  "tv:258901": {
+   "backdrop_path": "/ybdN4cyWBlfgamgYca2XwYL2Kqn.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kazushige Sanda (voice)",
+     "n": "Ayumu Murase"
+    },
+    {
+     "c": "Santa Claus (voice)",
+     "n": "Hiroki Touchi"
+    },
+    {
+     "c": "Shiori Fuyumura (voice)",
+     "n": "Umeka Shoji"
+    },
+    {
+     "c": "Ichie Ono (voice)",
+     "n": "Anna Nagase"
+    },
+    {
+     "c": "Hitoshi Amaya (voice)",
+     "n": "Yuuki Shin"
+    },
+    {
+     "c": "Nico Kazao (voice)",
+     "n": "Misato Matsuoka"
+    },
+    {
+     "c": "Hifumi Ōshibu (voice)",
+     "n": "Toshihiko Seki"
+    },
+    {
+     "c": "Saburō Yagiuda (voice)",
+     "n": "Hiroaki Hirata"
+    },
+    {
+     "c": "Toyo Tetsudome (voice)",
+     "n": "Masako Nozawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "MBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-10-04",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Mystery"
+   ],
+   "id": 258901,
+   "industry": "world",
+   "networks": [
+    "MBS",
+    "TBS",
+    "CBC"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In near-future Japan with ultra-low birthrates, children are treasured but monitored. Santa is banned as dangerous. One snowy December 25th, middle-schooler Kazushige Sanda, descendant of Santa, is attacked by classmate Fuyumura who wants him to find her missing friend, Ono. \"Santa, please find my friend.\" To protect children from adults, Sanda decides to become Santa and fight the adults.",
+   "popularity": 5.7038,
+   "poster_path": "/ab36zMKFexfl3ROR48UcJQ8AuY4.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-04",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "SANDA",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.6,
+   "vote_count": 45
+  },
+  "tv:279601": {
+   "backdrop_path": "/lSffVt0etoSLyl2hsTREdJ1CnQ1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Trevor Bingley",
+     "n": "Rowan Atkinson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "channel": "Netflix",
+   "created_by": [
+    "Rowan Atkinson",
+    "William Davies"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-12-11",
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 279601,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "As Christmas approaches, a blundering-all-the-way dad juggles housesitting a posh London penthouse with an unexpected pickle: caring for a lost baby.",
+   "popularity": 5.9114,
+   "poster_path": "/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-11",
+     "episode_count": 4,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "One baby. Endless disaster.",
+   "title": "Man vs Baby",
+   "trailer": {
+    "key": "zHhR3daI3bY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.766,
+   "vote_count": 248
+  },
+  "tv:281401": {
+   "backdrop_path": "/3aeYYriPQN7886in9bIGKnbC5eQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Adriana Russo",
+     "n": "Madelyn Keys"
+    },
+    {
+     "c": "Maria Russo",
+     "n": "Alice Malakhov"
+    },
+    {
+     "c": "Elise Russo",
+     "n": "Alexandra Beaton"
+    },
+    {
+     "c": "Will Russo",
+     "n": "Harmon Walsh"
+    },
+    {
+     "c": "Brayden Elliot",
+     "n": "Cale Ambrozic"
+    },
+    {
+     "c": "Freddie O'Connell",
+     "n": "Olly Atkins"
+    },
+    {
+     "c": "Camille St-Denis",
+     "n": "Meredith Forlenza"
+    },
+    {
+     "c": "Charlie Monroe",
+     "n": "Niko Ceci"
+    },
+    {
+     "c": "Riley Monroe",
+     "n": "Millie Davis"
+    },
+    {
+     "c": "JJ Harmon",
+     "n": "Yona Epstein-Roth"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-22",
+   "genres": [
+    "Drama"
+   ],
+   "id": 281401,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "A former ice dancer returns to the rink with an exciting new partner while holding onto feelings for her old one — her first love.",
+   "popularity": 5.7112,
+   "poster_path": "/7t6iXlbfoBSfVyINLRHms5kqfze.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-22",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "It's a thin line between love and skate.",
+   "title": "Finding Her Edge",
+   "trailer": {
+    "key": "ppZ3qgtFOME",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.577,
+   "vote_count": 84
+  },
+  "tv:285801": {
+   "backdrop_path": "/fDZD0VDgFpgSa8X94kaOELx6Xqe.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Amber",
+     "n": "Silvia Alonso"
+    },
+    {
+     "c": "Rui",
+     "n": "Álex González"
+    },
+    {
+     "c": "Emilio Villegas",
+     "n": "Asier Etxeandia"
+    },
+    {
+     "c": "Julio",
+     "n": "Antonio Pagudo"
+    },
+    {
+     "c": "Pilar",
+     "n": "Olga Hueso"
+    },
+    {
+     "c": "Javito",
+     "n": "Albert Baró"
+    },
+    {
+     "c": "Lucía",
+     "n": "Alicia Jaziz Zapién"
+    },
+    {
+     "c": "Jaume",
+     "n": "Jan Buxaderas"
+    },
+    {
+     "c": "Edgar",
+     "n": "Eduardo Gómez"
+    },
+    {
+     "c": "Saveria",
+     "n": "Cumelén Sanz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "Disney+",
+   "created_by": [
+    "Verónica Marzá",
+    "Pablo Roa",
+    "Fernando Sancristóbal"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-13",
+   "genres": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+   ],
+   "id": 285801,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Amber, a brilliant thief, arrives on Isla Esperanza with the aim of stealing the valuable Tiara of Santa Águeda, but her plan is complicated by the unexpected reappearance of Rui, her former partner who did not hesitate to betray her in the past. Now, the hardest thing will be to trust each other and accept that love may be the biggest treasure of their lives.",
+   "popularity": 2.4047,
+   "poster_path": "/hHNWhPIXhZKZ5cZRMixNjIfIeR3.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-13",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Suspicious Minds",
+   "trailer": {
+    "key": "zFnkvJ2b2zk",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.1,
+   "vote_count": 28
+  },
+  "tv:286801": {
+   "backdrop_path": "/cm2oUAPiTE1ERoYYOzzgloQw4YZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ed Gein",
+     "n": "Charlie Hunnam"
+    },
+    {
+     "c": "Adeline Watkins",
+     "n": "Suzanna Son"
+    },
+    {
+     "c": "Ilse Koch",
+     "n": "Vicky Krieps"
+    },
+    {
+     "c": "Augusta Gein",
+     "n": "Laurie Metcalf"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Ian Brennan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-03",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 286801,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers.",
+   "popularity": 17.726,
+   "poster_path": "/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-03",
+     "episode_count": 8,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Ended",
+   "tagline": "Before The Texas Chainsaw Massacre... there was Ed.",
+   "title": "Monster: The Ed Gein Story",
+   "trailer": {
+    "key": "EDBmpfbnLGk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.281,
+   "vote_count": 609
+  },
+  "tv:301001": {
+   "backdrop_path": "/rk93UkcE9kw6cHiaYFcWQvNUuuq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Adelina Tattilo",
+     "n": "Carolina Crescentini"
+    },
+    {
+     "c": "Chartroux",
+     "n": "Filippo Nigro"
+    },
+    {
+     "c": "Luigi Poggi",
+     "n": "Giuseppe Maggio"
+    },
+    {
+     "c": "Elsa",
+     "n": "Francesca Colucci"
+    },
+    {
+     "c": "Andrea De Cesari",
+     "n": "Domenico Diele"
+    },
+    {
+     "c": "Saro Balsamo",
+     "n": "Francesco Colella"
+    },
+    {
+     "c": "Lella",
+     "n": "Lidia Vitale"
+    },
+    {
+     "c": "Don Rocco",
+     "n": "Giampiero Judica"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Mario Ruggeri",
+    "Eleonora Cimpanelli",
+    "Chiara Laudani",
+    "Sergio Leszczynski",
+    "Alessandro Sermoneta"
+   ],
+   "director": [
+    "Riccardo Donna"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-11-12",
+   "genres": [
+    "Drama"
+   ],
+   "id": 301001,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 7,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Betrayed by her husband, a woman must step up and run an erotic magazine that becomes a symbol of empowerment in '70s Rome. Inspired by true events.",
+   "popularity": 2.3456,
+   "poster_path": "/aLwRvsuKhMjrCrAUUuw61cSuiOi.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-12",
+     "episode_count": 7,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Mrs Playmen",
+   "trailer": {
+    "key": "EilQgosN7L4",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.068,
+   "vote_count": 37
+  },
+  "tv:314501": {
+   "backdrop_path": "/u02HWY6r5DvGfq82jefpQabletf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Damián Rosales 'Lobo'",
+     "n": "Arap Bethke"
+    },
+    {
+     "c": "Antonia Lazo",
+     "n": "Fátima Molina"
+    },
+    {
+     "c": "Hernando Cruz",
+     "n": "Alejandro de la Madrid"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Telemundo",
+   "created_by": [
+    "Indira Páez"
+   ],
+   "director": [],
+   "episode_run_time": [
+    1
+   ],
+   "first_air_date": "2026-02-17",
+   "genres": [
+    "Drama"
+   ],
+   "id": 314501,
+   "industry": "world",
+   "networks": [
+    "Telemundo"
+   ],
+   "number_of_episodes": 70,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Lobo Rosales, a former detective, becomes a guardian to the daughter of a woman he once loved. He must flee with young Renata when he discovers that she holds the key to a hidden fortune that many criminals are willing to kill to find.",
+   "popularity": 5.2465,
+   "poster_path": "/z8OWY1DZxUt15gktowjs4xHnVt9.jpg",
+   "production_countries": [],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-02-17",
+     "episode_count": 70,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Wolf: Die Killing",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.9,
+   "vote_count": 45
+  },
   "tv:33001": {
    "backdrop_path": "/jg3iq5KFCVrYHVZrPLqznKW2Fz0.jpg",
    "budget": 0,
@@ -2470,6 +3519,296 @@
    "type": "tv",
    "vote_average": 7.512,
    "vote_count": 523
+  },
+  "tv:332401": {
+   "backdrop_path": "/icPBB9V5IX1hggtNs1fvskP2lsi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bea Hoffmann",
+     "n": "Lea Drinda"
+    },
+    {
+     "c": "Phoebe Kaya",
+     "n": "Soma Pysall"
+    },
+    {
+     "c": "Johan Moderson",
+     "n": "Franz Hartwig"
+    },
+    {
+     "c": "Oliver Lawal",
+     "n": "David Schütter"
+    },
+    {
+     "c": "Yassin",
+     "n": "Mouataz Alshaltouh"
+    },
+    {
+     "c": "Laura Hoffmann",
+     "n": "Jördis Triebel"
+    },
+    {
+     "c": "Szen",
+     "n": "Jenny Schily"
+    },
+    {
+     "c": "Zeno Gennardi",
+     "n": "Lars Eidinger"
+    },
+    {
+     "c": "Farah Lawal",
+     "n": "Melika Foroutan"
+    },
+    {
+     "c": "Hilda Klein",
+     "n": "Dagmar Manzel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Disney+",
+   "created_by": [
+    "Philipp Kadelbach",
+    "Елена Любарская"
+   ],
+   "director": [],
+   "episode_run_time": [
+    425
+   ],
+   "first_air_date": "2026-09-16",
+   "genres": [
+    "Mystery"
+   ],
+   "id": 332401,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Berlin — a city-state on the brink. While a privileged few live beneath a climate-controlled dome, those outside struggle to survive in a world ravaged by heat, corruption, and crime. After years apart, sisters Bea and Phoebe are reunited and uncover a dark secret: Vampires are determined to seize political power — and blood has become the city's new currency.",
+   "popularity": 5.7757,
+   "poster_path": "/Njr0Rlb4CobAfrGE8NVffYDGqx.jpg",
+   "production_countries": [
+    "DE",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-09-16",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "City of Blood",
+   "trailer": {
+    "key": "zzjxf3ExHc4",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.125,
+   "vote_count": 28
+  },
+  "tv:333101": {
+   "backdrop_path": "/grC6bTUTeVvjZ2orztjItUxM4yy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Long John Silver",
+     "n": "David Oyelowo"
+    },
+    {
+     "c": "Jim Hawkins",
+     "n": "Tom Sweet"
+    },
+    {
+     "c": "Billy Bones",
+     "n": "Tomer Capone"
+    },
+    {
+     "c": "Mr. Arrow",
+     "n": "Craige Els"
+    },
+    {
+     "c": "Mr. Cameron",
+     "n": "Neil Pendleton"
+    },
+    {
+     "c": "Meg Monahan",
+     "n": "George Frost"
+    },
+    {
+     "c": "Mr. Khan",
+     "n": "Mayen Mehta"
+    },
+    {
+     "c": "Mr. Baker",
+     "n": "Tadhg Murphy"
+    },
+    {
+     "c": "Captain Smollett",
+     "n": "Tristan Sturrock"
+    },
+    {
+     "c": "Aaron Graham",
+     "n": "Jack Huston"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "MGM+",
+   "created_by": [
+    "Robert Murphy"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-10-11",
+   "genres": [
+    "Action & Adventure"
+   ],
+   "id": 333101,
+   "industry": "world",
+   "networks": [
+    "MGM+"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
+   "popularity": 21.7112,
+   "poster_path": "/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-10-11",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Treasure Island",
+   "trailer": {
+    "key": "UsFVIvngwRA",
+    "name": "Official UK & Ireland Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.733,
+   "vote_count": 45
   },
   "tv:43901": {
    "backdrop_path": "/rhYgYFWcH13gDUSf523ftltWH72.jpg",

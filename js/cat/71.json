@@ -1,6 +1,6 @@
 {
  "bucket": "71",
- "count": 24,
+ "count": 36,
  "titles": {
   "movie:1049471": {
    "backdrop_path": "/avwIERZtWiWa34qShf5biDzAVaF.jpg",
@@ -544,101 +544,6 @@
    "type": "movie",
    "vote_average": 6.67,
    "vote_count": 106
-  },
-  "movie:1381071": {
-   "backdrop_path": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-   "budget": 15000000,
-   "cast": [
-    {
-     "c": "Kōichi Shikishima",
-     "n": "Ryunosuke Kamiki"
-    },
-    {
-     "c": "Noriko Shikishima",
-     "n": "Minami Hamabe"
-    },
-    {
-     "c": "Kanji Murakami",
-     "n": "Min Tanaka"
-    },
-    {
-     "c": "Kenji Noda",
-     "n": "Hidetaka Yoshioka"
-    },
-    {
-     "c": "Makoto Aoyama",
-     "n": "Masami Nagasawa"
-    },
-    {
-     "c": "Shiro Mizushima",
-     "n": "Yuki Yamada"
-    },
-    {
-     "c": "Seiji Akitsu",
-     "n": "Kuranosuke Sasaki"
-    },
-    {
-     "c": "Dr. Ogata",
-     "n": "Jun Kunimura"
-    },
-    {
-     "c": "Sumiko Ōta",
-     "n": "Sakura Ando"
-    },
-    {
-     "c": "Captain Tatsuo Hotta",
-     "n": "Miou Tanaka"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "R",
-   "date_kind": "release",
-   "director": [
-    "Takashi Yamazaki"
-   ],
-   "genres": [
-    "Science Fiction",
-    "Horror",
-    "Action"
-   ],
-   "id": 1381071,
-   "industry": "world",
-   "origin_country": [
-    "JP"
-   ],
-   "original_language": "ja",
-   "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-   "popularity": 184.5056,
-   "poster_path": "/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
-   "production_countries": [
-    "JP"
-   ],
-   "providers": [],
-   "providers_wtw": [],
-   "published_at": "2026-11-14",
-   "release_date": "2026-11-20",
-   "revenue": 70508999,
-   "runtime": 135,
-   "source": "catalogue",
-   "spoken_languages": [
-    "ja",
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "There is no third time. Everything ends here.",
-   "title": "Godzilla Minus Zero",
-   "trailer": {
-    "key": "Pu0pH5BuCPM",
-    "name": "Official Trailer 3 [Subtitled]",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.77,
-   "vote_count": 178
   },
   "movie:1447971": {
    "backdrop_path": "/nN3RRsmNcxXIH10gcKuBjQXeyo9.jpg",
@@ -1962,6 +1867,128 @@
    "vote_average": 8.136,
    "vote_count": 1217
   },
+  "tv:114471": {
+   "backdrop_path": "/vno2LrEQr3lTOk3U1G1ihZsy64b.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Riri Williams",
+     "n": "Dominique Thorne"
+    },
+    {
+     "c": "N.A.T.A.L.I.E.",
+     "n": "Lyric Ross"
+    },
+    {
+     "c": "Cousin John",
+     "n": "Manny Montana"
+    },
+    {
+     "c": "Xavier",
+     "n": "Matthew Elam"
+    },
+    {
+     "c": "Ronnie Williams",
+     "n": "Anji White"
+    },
+    {
+     "c": "Rampage",
+     "n": "Eric André"
+    },
+    {
+     "c": "Clown",
+     "n": "Sonia Denis"
+    },
+    {
+     "c": "Slug",
+     "n": "Shea Couleé"
+    },
+    {
+     "c": "Jeri",
+     "n": "Zoe Terakes"
+    },
+    {
+     "c": "Roz",
+     "n": "Shakira Barrera"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Disney+",
+   "created_by": [
+    "Chinaka Hodge"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-24",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Crime",
+    "Action & Adventure"
+   ],
+   "id": 114471,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the events of Black Panther: Wakanda Forever, technology is pitted against magic when Riri Williams, a young, genius inventor determined to make her mark on the world, returns to her hometown of Chicago. Her unique take on building iron suits is brilliant, but in pursuit of her ambitions, she finds herself wrapped up with the mysterious yet charming Parker Robbins aka \"The Hood.\"",
+   "popularity": 10.4333,
+   "poster_path": "/dOh6MJpdlQhYpLBhzhNQeYGKTZ5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-24",
+     "episode_count": 6,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "Every dream has a cost.",
+   "title": "Ironheart",
+   "trailer": {
+    "key": "r6j-wSIqJJ0",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.276,
+   "vote_count": 527
+  },
   "tv:12971": {
    "backdrop_path": "/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
    "budget": 0,
@@ -2678,6 +2705,1442 @@
    "type": "tv",
    "vote_average": 7.736,
    "vote_count": 469
+  },
+  "tv:225171": {
+   "backdrop_path": "/ulm1ex4JFYJByyaPyqTr47MFyEQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carol Sturka",
+     "n": "Rhea Seehorn"
+    },
+    {
+     "c": "Zosia",
+     "n": "Karolina Wydra"
+    },
+    {
+     "c": "Manousos Oviedo",
+     "n": "Carlos-Manuel Vesga"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Apple TV",
+   "created_by": [
+    "Vince Gilligan"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-11-06",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 225171,
+   "industry": "world",
+   "networks": [
+    "Apple TV"
+   ],
+   "number_of_episodes": 9,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The most miserable person on Earth must save the world from happiness.",
+   "popularity": 18.51,
+   "poster_path": "/z7Nga7Q9IGFWs5OEduY2gGFxnX3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-06",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "qu",
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "Happiness is a state of mind.",
+   "title": "Pluribus",
+   "trailer": {
+    "key": "a6lzvWby9UE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.9,
+   "vote_count": 1211
+  },
+  "tv:254071": {
+   "backdrop_path": "/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Zara Dunne",
+     "n": "Sophie Turner"
+    },
+    {
+     "c": "DCI Rhys Covac",
+     "n": "Jacob Fortune-Lloyd"
+    },
+    {
+     "c": "Luke Selborn",
+     "n": "Archie Madekwe"
+    },
+    {
+     "c": "Sniper / Morgan Trahern",
+     "n": "Andrew Howard"
+    },
+    {
+     "c": "DI Ellie Lloyd",
+     "n": "Ellie James"
+    },
+    {
+     "c": "London",
+     "n": "Jonathan Slinger"
+    },
+    {
+     "c": "Milo Carter-Walsh",
+     "n": "Harry Michell"
+    },
+    {
+     "c": "Wayne",
+     "n": "Thomas Larkin"
+    },
+    {
+     "c": "Kate Shaw",
+     "n": "Sarah Belcher"
+    },
+    {
+     "c": "Sophia",
+     "n": "Tara Summers"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "Prime Video",
+   "created_by": [
+    "Sotiris Nikias"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-21",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 254071,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A typical day at Lochmill Capital is upended when armed thieves burst in and force Zara and her best friend Luke to execute their demands. In the aftermath, conflicted detective Rhys races against time to find out who stole £4 billion pounds of people's pensions and why.",
+   "popularity": 10.0673,
+   "poster_path": "/6KmlaPhsohh3Ki9XJUq0jiUYbf3.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-21",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "The heist is just the beginning.",
+   "title": "Steal",
+   "trailer": {
+    "key": "8rMfMzNAJaM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.425,
+   "vote_count": 186
+  },
+  "tv:274671": {
+   "backdrop_path": "/epPoqwhas9lhZasJ9yVYJod2GQa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Arthur Leywin (voice)",
+     "n": "Natsumi Fujiwara"
+    },
+    {
+     "c": "Grey (voice)",
+     "n": "Makoto Furukawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "AT-X",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24,
+    23
+   ],
+   "first_air_date": "2025-04-02",
+   "genres": [
+    "Animation",
+    "Action & Adventure"
+   ],
+   "id": 274671,
+   "industry": "world",
+   "networks": [
+    "AT-X"
+   ],
+   "number_of_episodes": 24,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "After a mysterious death, King Grey is reborn as Arthur Leywin on the magical continent of Dicathen. Although he enters his second life as a baby, his previous wisdom remains. He begins to master magic and forge his own path as the years go by, seeking to correct the mistakes of his past life.",
+   "popularity": 11.9407,
+   "poster_path": "/u0QWnKUhxcxecQSclMBNnO5MXh.jpg",
+   "production_countries": [
+    "JP",
+    "CN",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-02",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-04-01",
+     "episode_count": 12,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "This boy was once the strongest king.",
+   "title": "The Beginning After the End",
+   "trailer": {
+    "key": "LwCJhJbpg4Q",
+    "name": "Official Trailer 2 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.9,
+   "vote_count": 87
+  },
+  "tv:279471": {
+   "backdrop_path": "/uekZzyLReK777QKO9xKwiPOelCQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hal",
+     "n": "Bryan Cranston"
+    },
+    {
+     "c": "Reese",
+     "n": "Justin Berfield"
+    },
+    {
+     "c": "Francis",
+     "n": "Christopher Masterson"
+    },
+    {
+     "c": "Leah",
+     "n": "Keeley Karsten"
+    },
+    {
+     "c": "Kelly",
+     "n": "Vaughan Murrae"
+    },
+    {
+     "c": "Tristan",
+     "n": "Kiana Madeira"
+    },
+    {
+     "c": "Lois",
+     "n": "Jane Kaczmarek"
+    },
+    {
+     "c": "Malcolm",
+     "n": "Frankie Muniz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Hulu",
+   "created_by": [
+    "Linwood Boomer"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-10",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 279471,
+   "industry": "world",
+   "networks": [
+    "Hulu"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After shielding himself and his daughter from his family for over a decade, Malcolm is dragged back into their orbit when Hal and Lois demand his presence at their 40th anniversary party.",
+   "popularity": 10.2753,
+   "poster_path": "/4uXAZRYtcMfoX2XtY1gcUxLHhjj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-10",
+     "episode_count": 4,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "20 years later, they're back!",
+   "title": "Malcolm in the Middle: Life's Still Unfair",
+   "trailer": {
+    "key": "ABol0H2n_rc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.944,
+   "vote_count": 438
+  },
+  "tv:280571": {
+   "backdrop_path": "/yGUbGli2M3UKnEPpeLaqH6ewhqa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Canon Daniel Clement",
+     "n": "Matthew Lewis"
+    },
+    {
+     "c": "Audrey Clement",
+     "n": "Amanda Redman"
+    },
+    {
+     "c": "DS Neil Vanloo",
+     "n": "Amit Shah"
+    },
+    {
+     "c": "Bernard De Floures",
+     "n": "Adam James"
+    },
+    {
+     "c": "Honoria De Floures",
+     "n": "Meghan Treadway"
+    },
+    {
+     "c": "Alex De Floures",
+     "n": "Alexander Delamain"
+    },
+    {
+     "c": "Kath",
+     "n": "Marion Bailey"
+    },
+    {
+     "c": "Dora",
+     "n": "Amanda Hadingue"
+    },
+    {
+     "c": "Stella Harper",
+     "n": "Tamzin Outhwaite"
+    },
+    {
+     "c": "Edgy",
+     "n": "Francis Magee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "Acorn TV",
+   "created_by": [
+    "David Moore"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-29",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 280571,
+   "industry": "world",
+   "networks": [
+    "Acorn TV"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1980s England, Canon Daniel Clement, the Rector of Champton, finds himself unexpectedly entangled in a murder case when a dead body turns up in the church. When Daniel announces a plan to modernize the church, the parish is suddenly divided. And then a body is found dead at the back of the church. As the police move in and the bodies start piling up, Daniel is the only one who can try and keep his fractured community together... and catch a killer.",
+   "popularity": 2.7144,
+   "poster_path": "/xn7TFZnR9U2KpJovIg5F1WZ1qs2.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Acorn TV"
+    },
+    {
+     "name": "AcornTV Amazon Channel"
+    },
+    {
+     "name": "Spectrum On Demand"
+    },
+    {
+     "name": "Acorn TV Apple TV channel"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3aWmgZsNAqdOt8ClxIFT4pnmHrM.png",
+     "name": "Acorn TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7BBOk6Av1TFqWqEhxBYyTJucGuL.png",
+     "name": "AcornTV Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1MRjoHouZAWsBCdXjjkPWEDtyV0.png",
+     "name": "Acorn TV Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-29",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Murder Before Evensong",
+   "trailer": {
+    "key": "xk7gVbq7UX4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.0,
+   "vote_count": 23
+  },
+  "tv:282471": {
+   "backdrop_path": "/eJKWvkgJE6Rdtr9qibK2Dmw9PPQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Claire",
+     "n": "Siriwalee Siriwibool"
+    },
+    {
+     "c": "Bell",
+     "n": "Paphavarin Sawasdiwech"
+    },
+    {
+     "c": "Deedee",
+     "n": "Pantira Ouhirun"
+    },
+    {
+     "c": "Porsches",
+     "n": "Jirakit Kanjanawaraporn"
+    },
+    {
+     "c": "Dao",
+     "n": "Siraphan Wattanajinda"
+    },
+    {
+     "c": "Duen",
+     "n": "Farida Sa-Ard"
+    },
+    {
+     "c": "Kae",
+     "n": "Kemisara Paladesh"
+    },
+    {
+     "c": "Mangpor",
+     "n": "Jidapa Phonrojpanya"
+    },
+    {
+     "c": "Porn",
+     "n": "Usha Seamkhum"
+    },
+    {
+     "c": "Wichai",
+     "n": "Witaya Wasukraipaisarn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "ONE 31",
+   "created_by": [],
+   "director": [
+    "Prach Rojanasinwilai"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-27",
+   "genres": [
+    "Drama"
+   ],
+   "id": 282471,
+   "industry": "world",
+   "networks": [
+    "ONE 31"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "Fate led Bell, an unfortunate young woman, into prison, where she had to struggle for survival alone, without hope. That was until Claire, a mysterious female inmate, appeared to help her. And from that moment on... the encounter between these two souls began to fill this dark and desolate place with a small glimmer of light, one that gradually grew into love.",
+   "popularity": 6.4379,
+   "poster_path": "/wNb7PxdshRHLkJiDgfOuDB0IamA.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-01",
+     "episode_count": 11,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-10-27",
+     "episode_count": 8,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Ended",
+   "tagline": "Freedom is not a coincidence.",
+   "title": "ClaireBell",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.4,
+   "vote_count": 36
+  },
+  "tv:283371": {
+   "backdrop_path": "/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lisa Konrad",
+     "n": "Friederike Becht"
+    },
+    {
+     "c": "Robert Lenzen",
+     "n": "Hans Löw"
+    },
+    {
+     "c": "",
+     "n": "Alexander Schubert"
+    },
+    {
+     "c": "",
+     "n": "Katja Ponickau"
+    },
+    {
+     "c": "Toni",
+     "n": "Naila Schuberth"
+    },
+    {
+     "c": "",
+     "n": "Josephine Thiesen"
+    },
+    {
+     "c": "",
+     "n": "Matthias Brandt"
+    },
+    {
+     "c": "",
+     "n": "Anna Schudt"
+    },
+    {
+     "c": "",
+     "n": "Michael Klammer"
+    },
+    {
+     "c": "",
+     "n": "Malaya Stern Takeda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Isabel Kleefeld"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-10-13",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 283371,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Follow famous author Lisa Konrad, who has not left her house for a decade after witnessing the murder of her sister. One night she sees who she believes was the murdered on television, and decides to use herself as bait to catch them.",
+   "popularity": 6.7873,
+   "poster_path": "/dkLTaC44QqnCAgzCf180TxMmmG5.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-10-13",
+     "episode_count": 6,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Trap",
+   "trailer": {
+    "key": "SmaC-w7x63c",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.3,
+   "vote_count": 42
+  },
+  "tv:284771": {
+   "backdrop_path": "/oPiZmkOlew1IGJWJ5HBKmqekuvR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lloyd (voice)",
+     "n": "Gakuto Kajiwara"
+    },
+    {
+     "c": "Yui (voice)",
+     "n": "Rina Hidaka"
+    },
+    {
+     "c": "Silica (voice)",
+     "n": "Haruka Shiraishi"
+    },
+    {
+     "c": "Cross (voice)",
+     "n": "Daisuke Hirose"
+    },
+    {
+     "c": "Dougas (voice)",
+     "n": "Yuuichirou Umehara"
+    },
+    {
+     "c": "Allen (voice)",
+     "n": "Ryohei Kimura"
+    },
+    {
+     "c": "Rina (voice)",
+     "n": "Yui Ishikawa"
+    },
+    {
+     "c": "Miiya (voice)",
+     "n": "Mizuki Mano"
+    },
+    {
+     "c": "Lulu (voice)",
+     "n": "Ayaka Nanase"
+    },
+    {
+     "c": "Sheena (voice)",
+     "n": "Saeko Oki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "BS Fuji",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-07-11",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 284771,
+   "industry": "world",
+   "networks": [
+    "BS Fuji"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Lloyd is a white mage who was unexpectedly banished from the hero's party. As he was lost and uncertain, he happened to cross paths with an S-rank adventurer party in need of a white mage, so he joined them on their quest. Little did anyone know at the time that the hero's party would fall apart and Lloyd would rise to fame.",
+   "popularity": 5.9603,
+   "poster_path": "/6QZie7hNdSvqPSIsZtMiX2CRbYY.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-11",
+     "episode_count": 12,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-07-11",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Scooped Up by an S-Rank Adventurer!",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.9,
+   "vote_count": 35
+  },
+  "tv:288671": {
+   "backdrop_path": "/lDhs7EFH1DaOoRXEaTiNhuYaAbC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Greta",
+     "n": "Alícia Falcó"
+    },
+    {
+     "c": "Will",
+     "n": "Pablo Álvarez"
+    },
+    {
+     "c": "Lucy",
+     "n": "Georgina Amorós"
+    },
+    {
+     "c": "Rosi",
+     "n": "Laia Marull"
+    },
+    {
+     "c": "Jacobo",
+     "n": "Mario de la Rosa"
+    },
+    {
+     "c": "Enrique",
+     "n": "Ramón Barea"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Isa Sánchez"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-17",
+   "genres": [
+    "Drama"
+   ],
+   "id": 288671,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Before her death, Lucy creates a game for her sister, Greta, pushing her into a journey of self-discovery — and toward the charming Will Tucker.",
+   "popularity": 5.7048,
+   "poster_path": "/wcgjZ7koqOYDcKUn6DmnNolqmUS.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-17",
+     "episode_count": 6,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Map of Longing",
+   "trailer": {
+    "key": "qpXDZA7f3N4",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.828,
+   "vote_count": 29
+  },
+  "tv:288971": {
+   "backdrop_path": "/6AoGMlKo2DUsYWiF5zzjdRERCVi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sitara (voice)",
+     "n": "Akira Sekine"
+    },
+    {
+     "c": "Töregene (voice)",
+     "n": "Ami Koshimizu"
+    },
+    {
+     "c": "Fatima (voice)",
+     "n": "Houko Kuwashima"
+    },
+    {
+     "c": "Muhammad (voice)",
+     "n": "Jun Saito"
+    },
+    {
+     "c": "Ögedei (voice)",
+     "n": "Hiro Shimono"
+    },
+    {
+     "c": "Tolui (voice)",
+     "n": "Ryota Suzuki"
+    },
+    {
+     "c": "Shira (voice)",
+     "n": "Miyu Irino"
+    },
+    {
+     "c": "Chagatai (voice)",
+     "n": "Daisuke Namikawa"
+    },
+    {
+     "c": "Jochi (voice)",
+     "n": "Kenji Nojima"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "channel": "HTB",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-07-04",
+   "genres": [
+    "Animation",
+    "Drama",
+    "War & Politics"
+   ],
+   "id": 288971,
+   "industry": "world",
+   "networks": [
+    "HTB",
+    "tv asahi",
+    "Nagoya TV",
+    "KBC",
+    "ABC TV",
+    "NCC",
+    "OAB",
+    "ABA",
+    "Niigata Television Network 21",
+    "khb",
+    "KFB",
+    "HOME",
+    "KSB",
+    "Kagoshima Broadcasting",
+    "Iwate Asahi TV",
+    "Akita Asahi Broadcasting",
+    "Yamagata Television System",
+    "Shizuoka Asahi TV",
+    "Asahi Broadcasting Nagano",
+    "Hokuriku Asahi Broadcasting",
+    "Ehime Asahi TV",
+    "Yamaguchi Asahi Broadcasting",
+    "Kumamoto Asahi Broadcasting",
+    "Ryu-Q Asahi Broadcasting"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "After losing her mother and her homeland, Sitara’s despair transforms into determination with the power of knowledge. New possibilities unfold when a family of scholars takes her in, deepening her education. Meanwhile, Genghis Khan’s Mongol Empire conquers nation after nation, nearing Sitara’s new home. After the Fourth Prince of the empire takes her captive, a flame of revenge is ignited.",
+   "popularity": 8.7942,
+   "poster_path": "/723NT7KY9xBFLYNNBaEEREbLaPC.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-04",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "This is the tale of a witch who toyed with a vast continent.",
+   "title": "Jaadugar: A Witch in Mongolia",
+   "trailer": {
+    "key": "7gCitSBXW6w",
+    "name": "Pre-Broadcast PV [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.143,
+   "vote_count": 28
+  },
+  "tv:295071": {
+   "backdrop_path": "/2ZiCNiuOiUGfAF0j73RI8DX1Z1N.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lara (voice)",
+     "n": "Hana Hishikawa"
+    },
+    {
+     "c": "Mari Otsu (voice)",
+     "n": "Nana Kawaishi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-07-06",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 295071,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Once upon a time, a mermaid princess named Lara fell in love with a human prince. To be with him, she used a witch’s potion to become human—but the magic came at a cost: If she failed to find true love, she would vanish into sea foam forever. Now, 200 years later, Lara awakens in Lake Biwa with one final chance at life and love.",
+   "popularity": 8.9596,
+   "poster_path": "/b6MTa4eZA9uQBEBeSRnGXLjutc5.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-06",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Goodbye, Lara",
+   "trailer": {
+    "key": "iPEeNBtnIOY",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.5,
+   "vote_count": 23
+  },
+  "tv:304371": {
+   "backdrop_path": "/6mWJE1fW9X1v7JnDEEUloqNMk2g.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hagen von Tronje",
+     "n": "Gijs Naber"
+    },
+    {
+     "c": "Siegfried von Xanten",
+     "n": "Jannis Niewöhner"
+    },
+    {
+     "c": "König Gunter",
+     "n": "Dominic Marcus Singer"
+    },
+    {
+     "c": "Kriemhild",
+     "n": "Lilja van der Zwaag"
+    },
+    {
+     "c": "Brunhild",
+     "n": "Rosalinde Mynster"
+    },
+    {
+     "c": "Ute",
+     "n": "Jördis Triebel"
+    },
+    {
+     "c": "Dankrat",
+     "n": "Jörg Hartmann"
+    },
+    {
+     "c": "Senua",
+     "n": "Maria Erwolter"
+    },
+    {
+     "c": "Gernot",
+     "n": "Béla Gabor Lenz"
+    },
+    {
+     "c": "Giselher",
+     "n": "Alessandro Schuster"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "channel": "RTL+",
+   "created_by": [
+    "Wolfgang Hohlbein"
+   ],
+   "director": [
+    "Cyrill Boss"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-11-06",
+   "genres": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "id": 304371,
+   "industry": "world",
+   "networks": [
+    "RTL+"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Burgundy is surrounded by enemies. Siegfried's arrival sparks new hope, but King Gunther is hatching a dangerous plan. Much to the displeasure of master-at-arms Hagen, who is secretly in love with the king's daughter Kriemhild.",
+   "popularity": 3.8684,
+   "poster_path": "/zCLTUzEAcguv1F9hBsicEViiePg.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-06",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "War of the Kingdoms",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.9,
+   "vote_count": 43
   },
   "tv:4271": {
    "backdrop_path": "/uo4wPlubpUwjlLm39PF8BxXCqLm.jpg",

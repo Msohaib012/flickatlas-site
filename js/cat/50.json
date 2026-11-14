@@ -1,6 +1,6 @@
 {
  "bucket": "50",
- "count": 27,
+ "count": 33,
  "titles": {
   "movie:1069650": {
    "backdrop_path": "/vOjos1WEp2HJlW63SRwCZObH67g.jpg",
@@ -2327,6 +2327,791 @@
    "vote_average": 7.6,
    "vote_count": 249
   },
+  "tv:196950": {
+   "backdrop_path": "/5NmmaK9dt38UXOwzPC2t9yR3HTv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Coco (voice)",
+     "n": "Rena Motomura"
+    },
+    {
+     "c": "Qifrey (voice)",
+     "n": "Natsuki Hanae"
+    },
+    {
+     "c": "Agott (voice)",
+     "n": "Hibiku Yamamura"
+    },
+    {
+     "c": "Tetia (voice)",
+     "n": "Kurumi Haruki"
+    },
+    {
+     "c": "Richeh (voice)",
+     "n": "Hika Tsukishiro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC16",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-04-06",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 196950,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX",
+    "BS11"
+   ],
+   "number_of_episodes": 13,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In a world where only witches can cast magic, they must avoid being seen by ordinary people while casting. While Coco does her chores, she daydreams of becoming a witch. When a young witch named Qifrey visits her village, Coco uncovers the “absolute secret,” becomes Qifrey’s apprentice, and begins her studies. This is the story of children who encounter despair, yet reach out toward hope.",
+   "popularity": 11.3989,
+   "poster_path": "/78m1Tv3suHmUryTI9VNPwKLKjHZ.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-06",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Returning Series",
+   "tagline": "No one can ever know — the witch's absolute secret.",
+   "title": "Witch Hat Atelier",
+   "trailer": {
+    "key": "E10fd3B8hUw",
+    "name": "Dub Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.7,
+   "vote_count": 215
+  },
+  "tv:255650": {
+   "backdrop_path": "/y70oo98ILJfDP5SStaaByel7qnc.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-21",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 255650,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Four old friends, Massimo, Mattia, Luigi and Riccardo, juggle relationships, careers and dating in a modern world set on giving masculinity a hard time.",
+   "popularity": 3.8476,
+   "poster_path": "/nqmDX50dhW4UlWaS4jIU7dre05u.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-21",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-10-07",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Real Men",
+   "trailer": {
+    "key": "-YEzdvgDeJY",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.7,
+   "vote_count": 48
+  },
+  "tv:260650": {
+   "backdrop_path": "/tFLSIouLM8b1qS0gh2I0k8jhuJF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cushla Lavery",
+     "n": "Lola Petticrew"
+    },
+    {
+     "c": "Michael Agnew",
+     "n": "Tom Cullen"
+    },
+    {
+     "c": "Gina Lavery",
+     "n": "Gillian Anderson"
+    },
+    {
+     "c": "Eamonn Lavery",
+     "n": "Martin McCann"
+    },
+    {
+     "c": "Betty McGeown",
+     "n": "Emily Taaffe"
+    },
+    {
+     "c": "Gerry Harkin",
+     "n": "Oisín Thompson"
+    },
+    {
+     "c": "Victor McIntyre",
+     "n": "Barry Ward"
+    },
+    {
+     "c": "Tommy McGeown",
+     "n": "Conlaoch Gough-Cunningham"
+    },
+    {
+     "c": "Seamus McGeown",
+     "n": "Andrew Porter"
+    },
+    {
+     "c": "Davy McGeown",
+     "n": "Daithí Ó Haragáin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "Channel 4",
+   "created_by": [
+    "Louise Kennedy"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-11-09",
+   "genres": [
+    "Drama",
+    "War & Politics"
+   ],
+   "id": 260650,
+   "industry": "world",
+   "networks": [
+    "Channel 4"
+   ],
+   "number_of_episodes": 4,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When young Catholic teacher Cushla falls for a married Protestant man, their secret passion ignites a dangerous love that defies the Troubles divide.",
+   "popularity": 3.1393,
+   "poster_path": "/ucwjasSOz2pr4TsRycK7Muegsh2.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "PBS Masterpiece Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/aZASQOdPFvGnXiJ015OVGVJ9vt7.png",
+     "name": "PBS Masterpiece Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-11-09",
+     "episode_count": 4,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Trespasses",
+   "trailer": {
+    "key": "HNJF5No6NU0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.4,
+   "vote_count": 20
+  },
+  "tv:278050": {
+   "backdrop_path": "/gjCIUh71506MRyEhpt7TvbiEdk3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Satoko Kusagakure / Roboko (voice)",
+     "n": "Haruna Mikawa"
+    },
+    {
+     "c": "Konoha Koga (voice)",
+     "n": "Kana Hanazawa"
+    },
+    {
+     "c": "Marin Izutsumi (voice)",
+     "n": "Yu Serizawa"
+    },
+    {
+     "c": "Kuro (voice)",
+     "n": "Eri Kitamura"
+    },
+    {
+     "c": "Yuriko (voice)",
+     "n": "Rumi Okubo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "AT-X",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2025-04-10",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 278050,
+   "industry": "world",
+   "networks": [
+    "AT-X"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "On the way home from school one day, Konoha Koga rescues Satoko Kusagakure, a ninja who escaped her village. Soon, pursuers from the village show up in search of Satoko only to be deftly dealt with by Konoha. As it turns out, the unassuming high schooler is actually an assassin. Thus, the potentially cutthroat cohabitation of a ninja and an assassin begins!",
+   "popularity": 4.624,
+   "poster_path": "/9D0Wnq426kYQpizGU3McFqxOXPe.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-10",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "A Ninja and an Assassin Under One Roof",
+   "trailer": {
+    "key": "fcUnjQyNOLo",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.8,
+   "vote_count": 23
+  },
+  "tv:287450": {
+   "backdrop_path": "/z5vJszVCv3feLAlsoPjIuMZjQ46.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kate Henderson",
+     "n": "Gemma Arterton"
+    },
+    {
+     "c": "Stuart Henderson",
+     "n": "Rafe Spall"
+    },
+    {
+     "c": "Sergei Malinski",
+     "n": "Alexander Terentyev"
+    },
+    {
+     "c": "Sir Alan Brabazon",
+     "n": "Roger Allam"
+    },
+    {
+     "c": "Ravindra Sangvhi",
+     "n": "Avi Nash"
+    },
+    {
+     "c": "Ryan Walker",
+     "n": "Mark Stanley"
+    },
+    {
+     "c": "Rose Trewen",
+     "n": "Alex Kingston"
+    },
+    {
+     "c": "Imogen Conrad",
+     "n": "Amaka Okafor"
+    },
+    {
+     "c": "Zak Hussein",
+     "n": "Khalid Abdalla"
+    },
+    {
+     "c": "Julie Price",
+     "n": "Aoife Hinds"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "ITV1",
+   "created_by": [
+    "Tom Bradby"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-27",
+   "genres": [
+    "Drama",
+    "War & Politics",
+    "Crime"
+   ],
+   "id": 287450,
+   "industry": "world",
+   "networks": [
+    "ITV1"
+   ],
+   "number_of_episodes": 5,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A British intelligence officer Kate Henderson races against time to uncover a UK politician's potential ties with the Kremlin, risking her reputation and family, as a murder and election loom.",
+   "popularity": 6.0168,
+   "poster_path": "/f7tksyddK3VvismfoWCwpXPqz0x.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "BBC Player Amazon Channel"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ozvOiPMMjhOMXpcUYMDK5ut6puz.png",
+     "name": "BBC Player Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-27",
+     "episode_count": 5,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "When the enemy is closer than you think, who do you trust?",
+   "title": "Secret Service",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 6.564,
+   "vote_count": 39
+  },
+  "tv:291350": {
+   "backdrop_path": "/w6F8pr3bYBlr9LRCM4sIgfto5g3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Anna Pigeon",
+     "n": "Tracy Spiridakos"
+    },
+    {
+     "c": "Zoey Bear Child",
+     "n": "Paulina Alexis"
+    },
+    {
+     "c": "Frieda Dierkz",
+     "n": "Crystle Lightning"
+    },
+    {
+     "c": "Jesse Garland",
+     "n": "Cooper Levy"
+    },
+    {
+     "c": "Geoff Miller",
+     "n": "Ryan Northcott"
+    },
+    {
+     "c": "Christina Clark",
+     "n": "Nikki Rae Hallow"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "USA Network",
+   "created_by": [
+    "Morwyn Brebner"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-08-07",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 291350,
+   "industry": "world",
+   "networks": [
+    "USA Network"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "Anna Pigeon flees city life for the solitude of America's stunning national parks following a devastating loss; while Anna tries to outrun her demons, her focus turns to solving crimes that have taken place within national park grounds.",
+   "popularity": 7.2502,
+   "poster_path": "/iLhi3wqsLOdHB61vySJRm7y09XS.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "USA Network"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7Z4egOqWISqraA0SS5CldDzRyh3.png",
+     "name": "USA Network",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-08-07",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "Solving crime is second nature.",
+   "title": "Anna Pigeon",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.136,
+   "vote_count": 22
+  },
+  "tv:293550": {
+   "backdrop_path": "/xHn6IMBBDPb2dkWpu8DrTAasR4D.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Pietro Savastano",
+     "n": "Luca Lubrano"
+    },
+    {
+     "c": "Angelo ‘A Sirena",
+     "n": "Francesco Pellegrino"
+    },
+    {
+     "c": "Imma",
+     "n": "Tullia Venezia"
+    },
+    {
+     "c": "Annalisa Magliocca, futura Scianel",
+     "n": "Fabiola Balestriere"
+    },
+    {
+     "c": "Manuele",
+     "n": "Mattia Francesco Cozzolino"
+    },
+    {
+     "c": "'O Paisano",
+     "n": "Flavio Furno"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "channel": "Sky Atlantic ",
+   "created_by": [
+    "Roberto Saviano"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-09",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 293550,
+   "industry": "world",
+   "networks": [
+    "Sky Atlantic "
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "The series Gomorrah - The Origins explores Pietro Savastano's youth in the 1970s, in a Naples undergoing a transformation, poverty-stricken and plagued by cigarette smuggling. The story begins in 1977 with a very young Pietro, the son of no one, growing up as an adoptive brother in a family in the poorest part of Secondigliano. A street kid, he scrapes by as best he can, dreaming of a well-being that is still denied him. The story unfolds through Pietro's loss of innocence, along with his brothers and lifelong friends, their ambitions, and his first great love, which, like that of every teenager, will be wild and passionate. His encounter with Angelo, known as 'A Sirena,' the regent of Secondigliano, marks his entry into the world of crime. Through violence, alliances, and betrayals, Pietro discovers the price that life takes.",
+   "popularity": 9.975,
+   "poster_path": "/2OdBZkpWXrjNH2itsvKgTMPD1wP.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+     "name": "Sky Go",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/oFAnvlaEW2KT6J7XM0DXjlWqKu9.png",
+     "name": "Now TV",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-09",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "it"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Gomorrah: The Origins",
+   "trailer": {
+    "key": "U7J2Zgldj9g",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.8,
+   "vote_count": 38
+  },
   "tv:3750": {
    "backdrop_path": "/fwlZY72knqrEcQbeiXjzP7L0sms.jpg",
    "budget": 0,
@@ -3856,105 +4641,6 @@
    "type": "tv",
    "vote_average": 8.304,
    "vote_count": 1127
-  },
-  "tv:95350": {
-   "backdrop_path": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Hal Jordan / Halogram",
-     "n": "Kyle Chandler"
-    },
-    {
-     "c": "John Stewart",
-     "n": "Aaron Pierre"
-    },
-    {
-     "c": "Sheriff Kerry Kane",
-     "n": "Kelly Macdonald"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 16+",
-   "channel": "HBO",
-   "created_by": [
-    "Damon Lindelof",
-    "Chris Mundy",
-    "Tom King"
-   ],
-   "director": [],
-   "episode_run_time": [],
-   "first_air_date": "2026-08-16",
-   "genres": [
-    "Drama",
-    "Mystery",
-    "Sci-Fi & Fantasy"
-   ],
-   "id": 95350,
-   "industry": "world",
-   "networks": [
-    "HBO"
-   ],
-   "number_of_episodes": 8,
-   "number_of_seasons": 1,
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-   "popularity": 45.2897,
-   "poster_path": "/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "JioHotstar"
-    },
-    {
-     "name": "HBO Max Amazon Channel"
-    },
-    {
-     "name": "HBO Max"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-     "name": "JioHotstar",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "revenue": 0,
-   "seasons": [
-    {
-     "air_date": "2026-08-16",
-     "episode_count": 8,
-     "name": "Season 1",
-     "season_number": 1
-    }
-   ],
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Returning Series",
-   "tagline": "Only one can wear the ring.",
-   "title": "Lanterns",
-   "trailer": {
-    "key": "7UIBOsuUwc4",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "tv",
-   "vote_average": 8.188,
-   "vote_count": 874
   }
  }
 }

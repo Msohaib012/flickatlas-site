@@ -1,6 +1,6 @@
 {
  "bucket": "58",
- "count": 22,
+ "count": 34,
  "titles": {
   "movie:1146058": {
    "d": "The Pout-Pout Fish (2026): Animation/Family film. Story: Living on a rundown shipwreck, Mr. Fish one day… See cast, budget $10M, and TMDB rating 6.7/10.",
@@ -954,6 +954,180 @@
    "t": "Home Improvement (1991) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "1991"
   },
+  "tv:229958": {
+   "d": "Aema (2025) is a Drama and Comedy TV series. Explore its story: In 1980s Korea, a movie star and a starlet defy…, cast, 1 season, and 6 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/Kl07j8DsHfAwkODBblg81mjcGc.jpg",
+   "industry": "world",
+   "k": "Aema, Aema TV series, Aema cast, Aema story, Aema seasons, Aema episodes, Aema season 1, Aema 6 episodes, Aema first air date, Aema trailer, Aema Drama, Aema Comedy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lee Hanee"
+     },
+     {
+      "@type": "Person",
+      "name": "Bang Hyo-rin"
+     },
+     {
+      "@type": "Person",
+      "name": "Jin Sun-kyu"
+     },
+     {
+      "@type": "Person",
+      "name": "Cho Hyun-chul"
+     },
+     {
+      "@type": "Person",
+      "name": "Woo Ji-hyun"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 21,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Aema (2025) is a Drama and Comedy TV series. Explore its story: In 1980s Korea, a movie star and a starlet defy…, cast, 1 season, and 6 episodes.",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/Kl07j8DsHfAwkODBblg81mjcGc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=229958",
+    "name": "Aema",
+    "numberOfEpisodes": 6,
+    "numberOfSeasons": 1,
+    "startDate": "2025-08-22",
+    "url": "https://flickatlas.co.uk/show?id=229958"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Aema (2025)</h1>\n<p class=\"ssr-lead\">In 1980s Korea, a movie star and a starlet defy male-dominated industry rules and backstage corruption while filming the provocative &quot;Madame Aema.&quot;</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 22 August 2025</li><li>Seasons: 1 · Episodes: 6</li><li>Created by: Lee Hae-young</li><li>Genres: Drama, Comedy</li><li>TMDB rating: 7.4/10 (21 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lee Hanee as Jeong Hee-ran</li><li>Bang Hyo-rin as Shin Ju-ae</li><li>Jin Sun-kyu as Ku Jung-ho</li><li>Cho Hyun-chul as Kwak In-u</li><li>Woo Ji-hyun as Gi Seok</li><li>Lee Zoo-young as Lee Geun-ha</li><li>Kim Jong-soo as Kwon Do-il</li><li>Hyun Bong-sik as Heo Hyeok</li><li>Lee So-i as Hwang Mi-na</li><li>Yoo Yu-jin as Ji Soo-jin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Aema (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:238458": {
+   "d": "Cashero (2025) is an Action & Adventure and Drama TV series. Explore its story: An ordinary man who inherits super strength discovers…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/lr0h0OBj7QOEvkaX5g3JWoaKZsI.jpg",
+   "industry": "world",
+   "k": "Cashero, Cashero TV series, Cashero cast, Cashero story, Cashero seasons, Cashero episodes, Cashero season 1, Cashero 8 episodes, Cashero first air date, Cashero trailer, Cashero Action & Adventure, Cashero Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "JUNHO"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Hye-jun"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Byong-chul"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Hyang-gi"
+     },
+     {
+      "@type": "Person",
+      "name": "Kang Han-na"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 91,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Cashero (2025) is an Action & Adventure and Drama TV series. Explore its story: An ordinary man who inherits super strength discovers…, cast, and 1 season.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lee Chang-min"
+     }
+    ],
+    "genre": [
+     "Action & Adventure",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lr0h0OBj7QOEvkaX5g3JWoaKZsI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=238458",
+    "name": "Cashero",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 1,
+    "startDate": "2025-12-26",
+    "url": "https://flickatlas.co.uk/show?id=238458"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cashero (2025)</h1>\n<p class=\"ssr-lead\">An ordinary man who inherits super strength discovers a greater evil out to steal his power. The one catch? Every use drains money from his wallet.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 26 December 2025</li><li>Seasons: 1 · Episodes: 8</li><li>Created by: Lee Chang-min, Jeon Chan-ho</li><li>Director: Lee Chang-min</li><li>Genres: Action &amp; Adventure, Drama</li><li>TMDB rating: 7.4/10 (91 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>JUNHO as Kang Sang-ung</li><li>Kim Hye-jun as Kim Min-suk</li><li>Kim Byong-chul as Byeon Ho-in</li><li>Kim Hyang-gi as Bang Eun-mi</li><li>Kang Han-na as Jo Anna</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Cashero (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:240558": {
+   "d": "King & Conqueror (2025) is a Drama and Action & Adventure TV series. Explore its story: Harold of Wessex and William of Normandy are two men… and cast.",
+   "img": "https://image.tmdb.org/t/p/w780/bEhOXB2Pmda0tgRya5tLEaDr1qY.jpg",
+   "industry": "world",
+   "k": "King & Conqueror, King & Conqueror TV series, King & Conqueror cast, King & Conqueror story, King & Conqueror seasons, King & Conqueror episodes, King & Conqueror season 1, King & Conqueror 8 episodes, King & Conqueror first air date, King & Conqueror trailer, King & Conqueror Drama, King & Conqueror Action & Adventure, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nikolaj Coster-Waldau"
+     },
+     {
+      "@type": "Person",
+      "name": "James Norton"
+     },
+     {
+      "@type": "Person",
+      "name": "Clémence Poésy"
+     },
+     {
+      "@type": "Person",
+      "name": "Emily Beecham"
+     },
+     {
+      "@type": "Person",
+      "name": "Clare Holman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 86,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "King & Conqueror (2025) is a Drama and Action & Adventure TV series. Explore its story: Harold of Wessex and William of Normandy are two men… and cast.",
+    "genre": [
+     "Drama",
+     "Action & Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bEhOXB2Pmda0tgRya5tLEaDr1qY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=240558",
+    "name": "King & Conqueror",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 1,
+    "startDate": "2025-08-24",
+    "url": "https://flickatlas.co.uk/show?id=240558"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>King &amp; Conqueror (2025)</h1>\n<p class=\"ssr-lead\">Harold of Wessex and William of Normandy are two men destined to face each other at the Battle of Hastings in 1066. Two former allies, neither of whom had aspired to the British throne, are forced, by circumstances and their personal obsession, to wage war over possession of the crown.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 24 August 2025</li><li>Seasons: 1 · Episodes: 8</li><li>Created by: Michael Robert Johnson</li><li>Genres: Drama, Action &amp; Adventure, War &amp; Politics</li><li>TMDB rating: 7.2/10 (86 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nikolaj Coster-Waldau as William of Normandy</li><li>James Norton as Harold Godwinson</li><li>Clémence Poésy as Matilda of Normandy</li><li>Emily Beecham as Edith Swanneck</li><li>Clare Holman as Gytha</li><li>Bo Bragason as Queen Gunhild</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "King & Conqueror (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
   "tv:2458": {
    "d": "CSI: NY (2004) is a Crime and Drama TV series. Explore its story: Follow the investigations of a team of NYPD forensic…, cast, 9 seasons, and 197 episodes.",
    "img": "https://image.tmdb.org/t/p/w780/qn4xPcrZnYUKk9gSQd1yuNn6xqk.jpg",
@@ -1009,6 +1183,517 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>CSI: NY (2004)</h1>\n<p class=\"ssr-lead\">Follow the investigations of a team of NYPD forensic scientists and police officers identified as &quot;Crime Scene Investigators&quot;.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 22 September 2004</li><li>Seasons: 9 · Episodes: 197</li><li>Created by: Ann Donahue, Carol Mendelsohn, Anthony E. Zuiker</li><li>Genres: Crime, Drama, Mystery</li><li>TMDB rating: 7.3/10 (792 votes)</li><li>Status: Canceled</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gary Sinise as Mac Taylor</li><li>Anna Belknap as Lindsay Monroe</li><li>Sela Ward as Jo Danville</li><li>Carmine Giovinazzo as Danny Messer</li><li>Hill Harper as Sheldon Hawkes</li><li>Eddie Cahill as Donald Flack Jr.</li><li>Robert Joy as Sid Hammerback</li><li>A.J. Buckley as Adam Ross</li><li>Lester G. Reynolds as Forensic Lab Tech</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "CSI: NY (2004) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2004"
+  },
+  "tv:255358": {
+   "d": "THE GHOST IN THE SHELL (2026) is an Animation and Action & Adventure TV series. Explore its story: 2029, a near-future Japan. The full cyborg Motoko… and cast.",
+   "img": "https://image.tmdb.org/t/p/w780/2aZc3aNtycEDYkYbcuu6Q2QQ9bD.jpg",
+   "industry": "world",
+   "k": "THE GHOST IN THE SHELL, THE GHOST IN THE SHELL TV series, THE GHOST IN THE SHELL cast, THE GHOST IN THE SHELL story, THE GHOST IN THE SHELL seasons, THE GHOST IN THE SHELL episodes, THE GHOST IN THE SHELL season 1, THE GHOST IN THE SHELL 10 episodes, THE GHOST IN THE SHELL first air date, THE GHOST IN THE SHELL Animation, THE GHOST IN THE SHELL Action & Adventure, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Maaya Sakamoto"
+     },
+     {
+      "@type": "Person",
+      "name": "Hiroki Yasumoto"
+     },
+     {
+      "@type": "Person",
+      "name": "Yuichi Nakamura"
+     },
+     {
+      "@type": "Person",
+      "name": "Kazuhiro Yamaji"
+     },
+     {
+      "@type": "Person",
+      "name": "Kousuke Goto"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 81,
+     "ratingValue": 8.1,
+     "worstRating": 0
+    },
+    "description": "THE GHOST IN THE SHELL (2026) is an Animation and Action & Adventure TV series. Explore its story: 2029, a near-future Japan. The full cyborg Motoko… and cast.",
+    "genre": [
+     "Animation",
+     "Action & Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2aZc3aNtycEDYkYbcuu6Q2QQ9bD.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=255358",
+    "name": "THE GHOST IN THE SHELL",
+    "numberOfEpisodes": 10,
+    "numberOfSeasons": 1,
+    "startDate": "2026-07-07",
+    "url": "https://flickatlas.co.uk/show?id=255358"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>THE GHOST IN THE SHELL (2026)</h1>\n<p class=\"ssr-lead\">2029, a near-future Japan. The full cyborg Motoko Kusanagi envisions a task force that preemptively strikes emerging threats. She and her team are scouted by Daisuke Aramaki as Public Security Section 9, AKA the &quot;Shell Squad.&quot; An international conspiracy hints at a hacker known as The &quot;Puppet Master.&quot; What fate awaits Kusanagi? What is the hacker&#x27;s endgame?</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 7 July 2026</li><li>Seasons: 1 · Episodes: 10</li><li>Genres: Animation, Action &amp; Adventure, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 8.1/10 (81 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Maaya Sakamoto as Motoko Kusanagi (voice)</li><li>Hiroki Yasumoto as Batou (voice)</li><li>Yuichi Nakamura as Togusa (voice)</li><li>Kazuhiro Yamaji as Daisuke Aramaki (voice)</li><li>Kousuke Goto as Ishikawa (voice)</li><li>Toru Nara as Saito (voice)</li><li>Marie Ooi as Operator (voice)</li><li>Tomoko Kaneda as Fuchikoma (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "THE GHOST IN THE SHELL (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:260458": {
+   "d": "Adults (2025) is a Comedy TV series. Explore its story: A group of twenty-somethings in New York trying to be…, cast, 3 seasons, and 17 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/plx2cifejzcbGPYDtpsYS2mpajB.jpg",
+   "industry": "world",
+   "k": "Adults, Adults TV series, Adults cast, Adults story, Adults seasons, Adults episodes, Adults season 3, Adults 17 episodes, Adults first air date, Adults trailer, Adults Comedy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Malik Elassal"
+     },
+     {
+      "@type": "Person",
+      "name": "Lucy Freyer"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Innanen"
+     },
+     {
+      "@type": "Person",
+      "name": "Amita Rao"
+     },
+     {
+      "@type": "Person",
+      "name": "Owen Thiele"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 103,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Adults (2025) is a Comedy TV series. Explore its story: A group of twenty-somethings in New York trying to be…, cast, 3 seasons, and 17 episodes.",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/plx2cifejzcbGPYDtpsYS2mpajB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=260458",
+    "name": "Adults",
+    "numberOfEpisodes": 17,
+    "numberOfSeasons": 3,
+    "startDate": "2025-05-28",
+    "url": "https://flickatlas.co.uk/show?id=260458"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Adults (2025)</h1>\n<p class=\"ssr-lead\">A group of twenty-somethings in New York trying to be good people, despite being neither &quot;good&quot; nor &quot;people&quot; yet.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 28 May 2025</li><li>Seasons: 3 · Episodes: 17</li><li>Created by: Ben Kronengold, Rebecca Shaw</li><li>Genres: Comedy</li><li>TMDB rating: 6.5/10 (103 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Malik Elassal as Samir Rahman</li><li>Lucy Freyer as Billie Schaeffer</li><li>Jack Innanen as Paul Baker</li><li>Amita Rao as Issa Damani</li><li>Owen Thiele as Anton Evans</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Adults (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:278158": {
+   "d": "Ticket to Heaven (2026) is a Drama TV series. Explore its story: A grieving student pursuing priesthood faces a crisis…, cast, 1 season, and 6 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/AqAGgoAlvWGBVAlEvIXTvcETzVG.jpg",
+   "industry": "world",
+   "k": "Ticket to Heaven, Ticket to Heaven TV series, Ticket to Heaven cast, Ticket to Heaven story, Ticket to Heaven seasons, Ticket to Heaven episodes, Ticket to Heaven season 1, Ticket to Heaven 6 episodes, Ticket to Heaven first air date, Ticket to Heaven Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Norawit Titicharoenrak"
+     },
+     {
+      "@type": "Person",
+      "name": "Nattawat Jirochtikul"
+     },
+     {
+      "@type": "Person",
+      "name": "Peerakan Teawsuwan"
+     },
+     {
+      "@type": "Person",
+      "name": "Oliver Poupart"
+     },
+     {
+      "@type": "Person",
+      "name": "Rapheephong Thapsuwan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 30,
+     "ratingValue": 9.2,
+     "worstRating": 0
+    },
+    "description": "Ticket to Heaven (2026) is a Drama TV series. Explore its story: A grieving student pursuing priesthood faces a crisis…, cast, 1 season, and 6 episodes.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Noppharnach Chaiyahwimhon"
+     }
+    ],
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/AqAGgoAlvWGBVAlEvIXTvcETzVG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=278158",
+    "name": "Ticket to Heaven",
+    "numberOfEpisodes": 6,
+    "numberOfSeasons": 1,
+    "startDate": "2026-05-30",
+    "url": "https://flickatlas.co.uk/show?id=278158"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ticket to Heaven (2026)</h1>\n<p class=\"ssr-lead\">A grieving student pursuing priesthood faces a crisis of faith when he falls for a troubled new classmate in a world ruled by strict dogma.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 30 May 2026</li><li>Seasons: 1 · Episodes: 6</li><li>Director: Noppharnach Chaiyahwimhon</li><li>Genres: Drama</li><li>TMDB rating: 9.2/10 (30 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Norawit Titicharoenrak as Barth</li><li>Nattawat Jirochtikul as Tanrak</li><li>Peerakan Teawsuwan as Kongdech</li><li>Oliver Poupart as Father Arnon</li><li>Rapheephong Thapsuwan as Master Phak</li><li>Phakawat Tangchatkeaw as Ryu</li><li>Supakorn Kantanit as Prince</li><li>Chayada Akiyama as Cherry</li><li>Thamonchita Narmkool as Oh</li><li>Poon Sutarom as Kongkit</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Rakuten Viki</li></ul>\n</article>",
+   "t": "Ticket to Heaven (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:281058": {
+   "d": "Secrets of the Silent Witch (2025) is an Animation and Sci-Fi & Fantasy TV series. Explore its story: Humans couldn’t handle magic without chanting until….",
+   "img": "https://image.tmdb.org/t/p/w780/6yC53NuAwy8KhbzsrZ7NDFsSg2p.jpg",
+   "industry": "world",
+   "k": "Secrets of the Silent Witch, Secrets of the Silent Witch TV series, Secrets of the Silent Witch cast, Secrets of the Silent Witch story, Secrets of the Silent Witch seasons, Secrets of the Silent Witch episodes, Secrets of the Silent Witch season 1, Secrets of the Silent Witch 13 episodes, Secrets of the Silent Witch first air date, Secrets of the Silent Witch trailer, Secrets of the Silent Witch Animation, Secrets of the Silent Witch Sci-Fi & Fantasy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Saya Aizawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Hitomi Nabatame"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 78,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "Secrets of the Silent Witch (2025) is an Animation and Sci-Fi & Fantasy TV series. Explore its story: Humans couldn’t handle magic without chanting until….",
+    "genre": [
+     "Animation",
+     "Sci-Fi & Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6yC53NuAwy8KhbzsrZ7NDFsSg2p.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=281058",
+    "name": "Secrets of the Silent Witch",
+    "numberOfEpisodes": 13,
+    "numberOfSeasons": 1,
+    "startDate": "2025-07-05",
+    "url": "https://flickatlas.co.uk/show?id=281058"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Secrets of the Silent Witch (2025)</h1>\n<p class=\"ssr-lead\">Humans couldn’t handle magic without chanting until Monica Everett, the Silent Witch and one of the Seven Sages, made unspoken magecraft possible. Painfully shy, she enjoys seclusion. One day, Louis Miller, the Barrier Mage, delivers the king’s order: Go undercover at a prestigious school for nobles to guard the second prince. Get ready for her silent mission to begin!</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 5 July 2025</li><li>Seasons: 1 · Episodes: 13</li><li>Genres: Animation, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 8.0/10 (78 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Saya Aizawa as Monica Everett (voice)</li><li>Hitomi Nabatame as Nero (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll, Crunchyroll Amazon Channel</li></ul>\n</article>",
+   "t": "Secrets of the Silent Witch (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:284558": {
+   "d": "Kill Jackie (2026) is a Drama and Crime TV series. Explore its story: Jackie Price has been living a wealthy, luxurious…, cast, 1 season, and 8 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/twc2YYBXTjdv52TShVumB1voT3Q.jpg",
+   "industry": "world",
+   "k": "Kill Jackie, Kill Jackie TV series, Kill Jackie cast, Kill Jackie story, Kill Jackie seasons, Kill Jackie episodes, Kill Jackie season 1, Kill Jackie 8 episodes, Kill Jackie first air date, Kill Jackie trailer, Kill Jackie Drama, Kill Jackie Crime, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Catherine Zeta-Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Ings"
+     },
+     {
+      "@type": "Person",
+      "name": "Sidse Babett Knudsen"
+     },
+     {
+      "@type": "Person",
+      "name": "Julian Rhind-Tutt"
+     },
+     {
+      "@type": "Person",
+      "name": "Raff Law"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 38,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Kill Jackie (2026) is a Drama and Crime TV series. Explore its story: Jackie Price has been living a wealthy, luxurious…, cast, 1 season, and 8 episodes.",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/twc2YYBXTjdv52TShVumB1voT3Q.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=284558",
+    "name": "Kill Jackie",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 1,
+    "startDate": "2026-10-02",
+    "url": "https://flickatlas.co.uk/show?id=284558"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Kill Jackie (2026)</h1>\n<p class=\"ssr-lead\">Jackie Price has been living a wealthy, luxurious life for the past 20 years after escaping a dangerous past as an international cocaine dealer. But just as life begins to feel a little boring, she discovers that The Seven Demons, a group of the world’s most terrifying hitmen, have been hired to kill her.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 2 October 2026</li><li>Seasons: 1 · Episodes: 8</li><li>Created by: Conor Keane</li><li>Genres: Drama, Crime</li><li>TMDB rating: 7.0/10 (38 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Catherine Zeta-Jones as Jackie Price</li><li>Daniel Ings as Sam</li><li>Sidse Babett Knudsen as Karenina</li><li>Julian Rhind-Tutt as Friedrich</li><li>Raff Law as Sean Harper</li><li>Christine Adams as The Doc</li><li>Ron Perlman</li><li>Bill Paterson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: BBC Player Amazon Channel</li></ul>\n</article>",
+   "t": "Kill Jackie (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:300258": {
+   "d": "Los hilos del pasado (2025) is a Soap and Drama TV series. Explore its story: Carolina Guillén is a renowned fashion designer…, cast, 1 season, and 60 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/mnfkbzWLERbmM89plThKpbltZIo.jpg",
+   "industry": "world",
+   "k": "Los hilos del pasado, Los hilos del pasado TV series, Los hilos del pasado cast, Los hilos del pasado story, Los hilos del pasado seasons, Los hilos del pasado episodes, Los hilos del pasado season 1, Los hilos del pasado 60 episodes, Los hilos del pasado first air date, Los hilos del pasado Soap, Los hilos del pasado Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bárbara López"
+     },
+     {
+      "@type": "Person",
+      "name": "Yadhira Carrillo"
+     },
+     {
+      "@type": "Person",
+      "name": "Emmanuel Palomares"
+     },
+     {
+      "@type": "Person",
+      "name": "David Zepeda"
+     },
+     {
+      "@type": "Person",
+      "name": "Natasha Dupeyrón"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 44,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Los hilos del pasado (2025) is a Soap and Drama TV series. Explore its story: Carolina Guillén is a renowned fashion designer…, cast, 1 season, and 60 episodes.",
+    "genre": [
+     "Soap",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mnfkbzWLERbmM89plThKpbltZIo.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=300258",
+    "name": "Los hilos del pasado",
+    "numberOfEpisodes": 60,
+    "numberOfSeasons": 1,
+    "startDate": "2025-09-10",
+    "url": "https://flickatlas.co.uk/show?id=300258"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Los hilos del pasado (2025)</h1>\n<p class=\"ssr-lead\">Carolina Guillén is a renowned fashion designer haunted by a painful past. Years ago, she had a baby with a young novice who never knew about the pregnancy. Alone and without support, she was forced to give up her child, a decision that hardened her into a cold and demanding woman. Many years later, a young model named Cristina arrives at her fashion house and quickly rises to stardom, despite Carolina’s harsh treatment. When Cristina falls in love with Carlos, Carolina’s stepson, their romance leads to an unexpected pregnancy. Before Cristina can share the news, Carolina fires her without realizing that she is the daughter she abandoned long ago. As Carolina’s world begins to unravel, the shocking secret of her lost child will change her life forever.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 10 September 2025</li><li>Seasons: 1 · Episodes: 60</li><li>Created by: José Alberto Castro, Delia Fiallo</li><li>Genres: Soap, Drama</li><li>TMDB rating: 7.3/10 (44 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bárbara López as Cristina Miranda</li><li>Yadhira Carrillo as Carolina Guillén</li><li>Emmanuel Palomares as Carlos Navarro</li><li>David Zepeda as Salvador Villaseñor</li><li>Natasha Dupeyrón as Tamara</li><li>Eduardo Santamarina as Manuel Navarro</li><li>Azela Robinson as María Luísa</li><li>Sergio Goyri as Ramiro</li><li>Laura Flores as Elena</li><li>Mark Tacher as Leonardo</li></ul>\n</article>",
+   "t": "Los hilos del pasado (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
+  },
+  "tv:311858": {
+   "d": "Prisoner (2026) is a Crime and Action & Adventure TV series. Explore its story: A young and ambitious prison officer finds herself in…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/uozEhY3g882QqgNg5AjR2cXAVRC.jpg",
+   "industry": "world",
+   "k": "Prisoner, Prisoner TV series, Prisoner cast, Prisoner story, Prisoner seasons, Prisoner episodes, Prisoner season 1, Prisoner 6 episodes, Prisoner first air date, Prisoner trailer, Prisoner Crime, Prisoner Action & Adventure, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tahar Rahim"
+     },
+     {
+      "@type": "Person",
+      "name": "Izuka Hoyle"
+     },
+     {
+      "@type": "Person",
+      "name": "Leonie Benesch"
+     },
+     {
+      "@type": "Person",
+      "name": "Finn Bennett"
+     },
+     {
+      "@type": "Person",
+      "name": "Laurie Davidson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 37,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Prisoner (2026) is a Crime and Action & Adventure TV series. Explore its story: A young and ambitious prison officer finds herself in…, cast, and 1 season.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Pia Strietmann"
+     }
+    ],
+    "genre": [
+     "Crime",
+     "Action & Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uozEhY3g882QqgNg5AjR2cXAVRC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=311858",
+    "name": "Prisoner",
+    "numberOfEpisodes": 6,
+    "numberOfSeasons": 1,
+    "startDate": "2026-04-30",
+    "url": "https://flickatlas.co.uk/show?id=311858"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Prisoner (2026)</h1>\n<p class=\"ssr-lead\">A young and ambitious prison officer finds herself in the middle of a battle for the criminal underworld as crime lords try to evade justice. But in order to do that, she will have to learn quickly to put her faith in one of the very men she wants to put behind bars.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 30 April 2026</li><li>Seasons: 1 · Episodes: 6</li><li>Created by: Matt Charman</li><li>Director: Pia Strietmann</li><li>Genres: Crime, Action &amp; Adventure</li><li>TMDB rating: 5.9/10 (37 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tahar Rahim as Tibor Stone</li><li>Izuka Hoyle as Amber Todd</li><li>Leonie Benesch as Nina Drâgus</li><li>Finn Bennett as Olly Hatton</li><li>Laurie Davidson as Declan Dempsey</li><li>Ken Nwosu as Phil Hawkins</li><li>Sam Troughton as Will O&#x27;Neill</li><li>Kitty Reed as Jade Butler</li><li>Daniel Betts as Marcus Turner</li><li>Selorm Adonu as Jamal Azumah</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Prisoner (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:314658": {
+   "d": "Ligas (2026) is a Drama TV series. Explore its story: Brilliant but controversial, lawyer Lorenzo Ligas…, cast, 1 season, 6 episodes, and TMDB rating 7.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/t74H47XNbeT7Y9BgxX5ipnsEpAy.jpg",
+   "industry": "world",
+   "k": "Ligas, Ligas TV series, Ligas cast, Ligas story, Ligas seasons, Ligas episodes, Ligas season 1, Ligas 6 episodes, Ligas first air date, Ligas Drama, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Luca Argentero"
+     },
+     {
+      "@type": "Person",
+      "name": "Sergio Romano"
+     },
+     {
+      "@type": "Person",
+      "name": "Flavio Furno"
+     },
+     {
+      "@type": "Person",
+      "name": "Matteo Bassi"
+     },
+     {
+      "@type": "Person",
+      "name": "Matteo Caremoli"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 21,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Ligas (2026) is a Drama TV series. Explore its story: Brilliant but controversial, lawyer Lorenzo Ligas…, cast, 1 season, 6 episodes, and TMDB rating 7.8/10.",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/t74H47XNbeT7Y9BgxX5ipnsEpAy.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=314658",
+    "name": "Ligas",
+    "numberOfEpisodes": 6,
+    "numberOfSeasons": 1,
+    "startDate": "2026-03-05",
+    "url": "https://flickatlas.co.uk/show?id=314658"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ligas (2026)</h1>\n<p class=\"ssr-lead\">Brilliant but controversial, lawyer Lorenzo Ligas fights for Milan&#x27;s desperate cases alongside idealistic intern Marta, seeking justice and confronting his own shortcomings.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 5 March 2026</li><li>Seasons: 1 · Episodes: 6</li><li>Created by: Federico Baccomo</li><li>Genres: Drama</li><li>TMDB rating: 7.8/10 (21 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Luca Argentero as Lorenzo Ligas</li><li>Sergio Romano as Michele Petrello</li><li>Flavio Furno as Paolo</li><li>Matteo Bassi as Personal trainer</li><li>Matteo Caremoli as GIP</li><li>Eugenio di Fraia as PM Savinio</li><li>Valeria De Michele as Giornalista Flavia</li><li>Marina Occhionero as Marta Carati</li><li>Barbara Chichiarelli as Annamaria Pastori</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sky Go, Now TV</li></ul>\n</article>",
+   "t": "Ligas (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:320958": {
+   "d": "Tan cerca de ti, nace el amor (2026) is a Drama and Soap TV series. Explore its story: After her newborn daughter is taken from her and…, cast, and 1 season.",
+   "img": "https://image.tmdb.org/t/p/w780/pb8i9hmPh4riqhosqlQhV74PoxU.jpg",
+   "industry": "world",
+   "k": "Tan cerca de ti, nace el amor, Tan cerca de ti, nace el amor TV series, Tan cerca de ti, nace el amor cast, Tan cerca de ti, nace el amor story, Tan cerca de ti, nace el amor seasons, Tan cerca de ti, nace el amor episodes, Tan cerca de ti, nace el amor season 1, Tan cerca de ti, nace el amor 85 episodes, Tan cerca de ti, nace el amor first air date, Tan cerca de ti, nace el amor Drama, Tan cerca de ti, nace el amor Soap, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Oka Giner"
+     },
+     {
+      "@type": "Person",
+      "name": "David Zepeda"
+     },
+     {
+      "@type": "Person",
+      "name": "Irina Baeva"
+     },
+     {
+      "@type": "Person",
+      "name": "Alejandro Ávila"
+     },
+     {
+      "@type": "Person",
+      "name": "Julián Gil"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 30,
+     "ratingValue": 9.0,
+     "worstRating": 0
+    },
+    "description": "Tan cerca de ti, nace el amor (2026) is a Drama and Soap TV series. Explore its story: After her newborn daughter is taken from her and…, cast, and 1 season.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Claudia Eliza Aguilar"
+     },
+     {
+      "@type": "Person",
+      "name": "Fez Noriega"
+     }
+    ],
+    "genre": [
+     "Drama",
+     "Soap"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pb8i9hmPh4riqhosqlQhV74PoxU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=320958",
+    "name": "Tan cerca de ti, nace el amor",
+    "numberOfEpisodes": 85,
+    "numberOfSeasons": 1,
+    "startDate": "2026-05-01",
+    "url": "https://flickatlas.co.uk/show?id=320958"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Tan cerca de ti, nace el amor (2026)</h1>\n<p class=\"ssr-lead\">After her newborn daughter is taken from her and given up for adoption, journalist Verónica Arellano spends years searching for her. When tragedy leaves the girl&#x27;s adoptive family shattered, Verónica assumes a new identity to stay close to her daughter, setting in motion a story of love, family, and long-buried secrets.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 1 May 2026</li><li>Seasons: 1 · Episodes: 85</li><li>Created by: Ignacio Sada Madero</li><li>Director: Claudia Eliza Aguilar, Fez Noriega</li><li>Genres: Drama, Soap, Family</li><li>TMDB rating: 9.0/10 (30 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Oka Giner as Verónica Arellano García / Consuelo</li><li>David Zepeda as Joaquín Navarro Luján</li><li>Irina Baeva as Kassandra Muñoz Castro</li><li>Alejandro Ávila as Facundo Cervera Tovar</li><li>Julián Gil as Mario Novoa Olivares</li><li>Yolanda Ventura as Consuelo García Santos</li><li>Alexis Ayala as Aurelio Arellano Tapia</li><li>Jaume Mateu as Iván Navarro Luján</li><li>Marcia Coutiño as Lorena Esquivel Sosa</li><li>Francisco Rubio as Nicolás Arellano Tapia</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: YouTube TV, ViX Premium Amazon Channel</li></ul>\n</article>",
+   "t": "Tan cerca de ti, nace el amor (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
   },
   "tv:39358": {
    "d": "Revenge (2011) is a Drama and Mystery TV series. Explore its story: When Emily Thorne moves to the Hamptons, everyone…, cast, 4 seasons, and 89 episodes.",

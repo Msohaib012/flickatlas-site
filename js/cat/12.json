@@ -1,110 +1,7 @@
 {
  "bucket": "12",
- "count": 27,
+ "count": 28,
  "titles": {
-  "movie:1101412": {
-   "backdrop_path": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
-   "budget": 3000000,
-   "cast": [
-    {
-     "c": "Jax Hunter",
-     "n": "Harriet Slater"
-    },
-    {
-     "c": "Luce",
-     "n": "Arsema Thomas"
-    },
-    {
-     "c": "Jon Platt",
-     "n": "Tom Brittney"
-    },
-    {
-     "c": "Thai Barman",
-     "n": "Sahajak Boonthanakit"
-    },
-    {
-     "c": "Large Woman",
-     "n": "Korakod Yensuk"
-    },
-    {
-     "c": "Real Luce",
-     "n": "Jordan Coleman"
-    },
-    {
-     "c": "Female Teenager",
-     "n": "Maryna Bennett"
-    },
-    {
-     "c": "Male Teenager",
-     "n": "Noen Perez"
-    },
-    {
-     "c": "Thai Climber 1",
-     "n": "Nattapon Sukphiam"
-    },
-    {
-     "c": "Thai Climber 2",
-     "n": "Charlie Ruedpokanon"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 13+",
-   "date_kind": "release",
-   "director": [
-    "Michael Spierig",
-    "Peter Spierig"
-   ],
-   "genres": [
-    "Thriller"
-   ],
-   "id": 1101412,
-   "industry": "world",
-   "origin_country": [
-    "US",
-    "GB"
-   ],
-   "original_language": "en",
-   "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-   "popularity": 119.7785,
-   "poster_path": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-   "production_countries": [
-    "GB",
-    "US",
-    "TH"
-   ],
-   "providers": [],
-   "providers_wtw": [
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-09-17",
-   "revenue": 9256541,
-   "runtime": 98,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "Are you down?",
-   "title": "Fall 2: Deadpoint",
-   "trailer": {
-    "key": "Krs0VDIjhmE",
-    "name": "Official Trailer 2",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.238,
-   "vote_count": 782
-  },
   "movie:118412": {
    "backdrop_path": "/A34inrFSAIQNatFGc8qP5kfwDmV.jpg",
    "budget": 0,
@@ -2363,49 +2260,45 @@
    "vote_average": 6.835,
    "vote_count": 6550
   },
-  "tv:153312": {
-   "backdrop_path": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+  "tv:246412": {
+   "backdrop_path": "/mRVPTh5JpzvXNtgNXppKROOdrzd.jpg",
    "budget": 0,
    "cast": [
     {
-     "c": "Dwight 'The General' Manfredi",
-     "n": "Sylvester Stallone"
+     "c": "Alexander Hale",
+     "n": "Simu Liu"
     },
     {
-     "c": "Lawrence 'Bodhi' Geigerman",
-     "n": "Martin Starr"
+     "c": "Michelle",
+     "n": "Melissa Barrera"
     },
     {
-     "c": "Tyson Mitchell",
-     "n": "Jay Will"
+     "c": "Samantha Parker",
+     "n": "Sinclair Daniel"
     },
     {
-     "c": "Vince Antonacci",
-     "n": "Vincent Piazza"
+     "c": "Peter Moira",
+     "n": "Brian d'Arcy James"
     },
     {
-     "c": "Joanne",
-     "n": "Annabella Sciorra"
+     "c": "Edmund Cobb",
+     "n": "Mark O'Brien"
     },
     {
-     "c": "Goodie Carangi",
-     "n": "Chris Caldovino"
+     "c": "St. George",
+     "n": "Kathleen Chalfant"
     },
     {
-     "c": "Grace",
-     "n": "McKenna Quigley Harrington"
+     "c": "Victor Simonek",
+     "n": "Saul Rubinek"
     },
     {
-     "c": "Bill Bevilaqua",
-     "n": "Frank Grillo"
+     "c": "Frances",
+     "n": "Marnie McPhail"
     },
     {
-     "c": "Bigfoot",
-     "n": "Michael Walden"
-    },
-    {
-     "c": "Quiet Ray Renzetti",
-     "n": "James Russo"
+     "c": "Ellie",
+     "n": "Sara Amini"
     }
    ],
    "catalogue": true,
@@ -2413,33 +2306,33 @@
    "categories": [
     "catalogue"
    ],
-   "certification": "A",
-   "channel": "Paramount+",
+   "certification": "TV-MA",
+   "channel": "Peacock",
    "created_by": [
-    "Taylor Sheridan"
+    "Thomas Brandon"
    ],
    "director": [],
    "episode_run_time": [],
-   "first_air_date": "2022-11-13",
+   "first_air_date": "2025-12-27",
    "genres": [
-    "Crime",
-    "Drama",
-    "Comedy"
+    "Action & Adventure",
+    "Mystery",
+    "Sci-Fi & Fantasy"
    ],
-   "id": 153312,
+   "id": 246412,
    "industry": "world",
    "networks": [
-    "Paramount+"
+    "Peacock"
    ],
-   "number_of_episodes": 39,
-   "number_of_seasons": 4,
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
    "origin_country": [
     "US"
    ],
    "original_language": "en",
-   "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-   "popularity": 241.7489,
-   "poster_path": "/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+   "overview": "When an analyst discovers his eyes and ears have been hacked, he's drawn into a controlled world designed by his agency to draw out their enemies.",
+   "popularity": 6.1884,
+   "poster_path": "/iAjcpCceLixP5k9lRw1y4fhsLwV.jpg",
    "production_countries": [
     "US"
    ],
@@ -2448,25 +2341,13 @@
      "name": "JioHotstar"
     },
     {
-     "name": "Paramount Plus Premium"
+     "name": "Peacock Premium"
     },
     {
-     "name": "Paramount Plus Essential"
+     "name": "Peacock Premium Plus"
     },
     {
-     "name": "Paramount Plus Apple TV channel"
-    },
-    {
-     "name": "Paramount+ Amazon Channel"
-    },
-    {
-     "name": "Paramount+ Roku Premium Channel"
-    },
-    {
-     "name": "Paramount Plus"
-    },
-    {
-     "name": "Paramount Plus Basic with Ads"
+     "name": "Sky Go"
     }
    ],
    "providers_wtw": [
@@ -2481,51 +2362,27 @@
    "revenue": 0,
    "seasons": [
     {
-     "air_date": "2022-11-11",
-     "episode_count": 1,
-     "name": "Specials",
-     "season_number": 0
-    },
-    {
-     "air_date": "2022-11-13",
-     "episode_count": 9,
+     "air_date": "2025-12-27",
+     "episode_count": 8,
      "name": "Season 1",
      "season_number": 1
-    },
-    {
-     "air_date": "2024-09-15",
-     "episode_count": 10,
-     "name": "Season 2",
-     "season_number": 2
-    },
-    {
-     "air_date": "2025-09-21",
-     "episode_count": 10,
-     "name": "Season 3",
-     "season_number": 3
-    },
-    {
-     "air_date": "2026-10-16",
-     "episode_count": 10,
-     "name": "Season 4",
-     "season_number": 4
     }
    ],
    "source": "catalogue",
    "spoken_languages": [
     "en"
    ],
-   "status": "Returning Series",
-   "tagline": "Storms break. Kings don't.",
-   "title": "Tulsa King",
+   "status": "Canceled",
+   "tagline": "See everything. Trust nothing.",
+   "title": "The Copenhagen Test",
    "trailer": {
-    "key": "aaQSScwZPbA",
+    "key": "cfTcNb104NI",
     "name": "Official Trailer",
     "site": "YouTube"
    },
    "type": "tv",
-   "vote_average": 8.32,
-   "vote_count": 2949
+   "vote_average": 6.538,
+   "vote_count": 118
   },
   "tv:2612": {
    "backdrop_path": "/qdVdWLUAj9Xxrx0OIT76gWVI4fg.jpg",
@@ -2777,6 +2634,110 @@
    "type": "tv",
    "vote_average": 7.3,
    "vote_count": 181
+  },
+  "tv:281512": {
+   "backdrop_path": "/ttx0PmqmgbSwWbI1th4MvP6G8YX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "My Melody (voice)",
+     "n": "Rei Sakuma"
+    },
+    {
+     "c": "Kuromi (voice) / My Sweet Piano (voice)",
+     "n": "Junko Takeuchi"
+    },
+    {
+     "c": "Flat (voice)",
+     "n": "Megumi Han"
+    },
+    {
+     "c": "Pistachio (voice)",
+     "n": "Kenji Nojima"
+    },
+    {
+     "c": "Tanba (voice) / Sasage (voice)",
+     "n": "Gakuto Kajiwara"
+    },
+    {
+     "c": "Baku (voice)",
+     "n": "Noboru Maeda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-24",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Kids"
+   ],
+   "id": 281512,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "When My Melody's visit to the Cloud Kingdom leads to a whirlwind of trouble, can she, Kuromi and their friends save their home before it's too late?",
+   "popularity": 5.8298,
+   "poster_path": "/yKFFgGD9JCX7cXZerg2jXh1dMI7.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-24",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "My Melody & Kuromi",
+   "trailer": {
+    "key": "3oKamSmjono",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.535,
+   "vote_count": 43
   },
   "tv:2912": {
    "backdrop_path": "/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
@@ -3137,6 +3098,114 @@
    "type": "tv",
    "vote_average": 6.908,
    "vote_count": 168
+  },
+  "tv:301412": {
+   "backdrop_path": "/5AhL7NKa8UC6QOyzKiDohUM9VYT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Woo Su-bin",
+     "n": "Hwang In-youp"
+    },
+    {
+     "c": "Joo Yi-jae",
+     "n": "Lee Hye-ri"
+    },
+    {
+     "c": "Shim Yu-geon",
+     "n": "Baek Sung-chul"
+    },
+    {
+     "c": "Oh Ha-na",
+     "n": "Lee Yul-eum"
+    },
+    {
+     "c": "Seo In-wook",
+     "n": "Lee Sang-yeob"
+    },
+    {
+     "c": "An Su-hui",
+     "n": "Park Ji-young"
+    },
+    {
+     "c": "Chae Sa-rang",
+     "n": "Lee Ji-min"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "ENA",
+   "created_by": [
+    "Jeong Eun-bi"
+   ],
+   "director": [
+    "Yoo Sun-dong"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-07-13",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 301412,
+   "industry": "world",
+   "networks": [
+    "ENA"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Two high school classmates bond over a shared love of filmmaking, turning a deep friendship into first love before an unexpected separation tears them apart. Years later, they reunite with their lives completely transformed—she’s lost her passion, while he’s become a celebrated director. Determined to reignite her dreams, he must first confront the hurt he left behind.",
+   "popularity": 8.4157,
+   "poster_path": "/cBiwrUwUNNYXTc5xrDEQWcMqftd.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-13",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Our greatest story has yet to be filmed.",
+   "title": "Dream to You",
+   "trailer": {
+    "key": "F2BjDOBG7WM",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 9.417,
+   "vote_count": 30
   },
   "tv:42912": {
    "backdrop_path": "/zhtEYosjlYtNavbvImxcs36We4i.jpg",

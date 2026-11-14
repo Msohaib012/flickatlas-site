@@ -1,6 +1,6 @@
 {
  "bucket": "83",
- "count": 22,
+ "count": 25,
  "titles": {
   "movie:1101383": {
    "backdrop_path": "/wnR8pwWtoL3TFwP41mLCt91ReCt.jpg",
@@ -1477,98 +1477,6 @@
    "vote_average": 7.935,
    "vote_count": 23
   },
-  "movie:1798383": {
-   "backdrop_path": "/nQiSQg10DvoaXLFeqkPSDGv6vF7.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Self - Host",
-     "n": "Bertie Gregory"
-    },
-    {
-     "c": "Self",
-     "n": "Albert 'Butch' Saunders"
-    },
-    {
-     "c": "Self",
-     "n": "Mike Reimer"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "",
-   "date_kind": "release",
-   "director": [],
-   "genres": [
-    "Documentary"
-   ],
-   "id": 1798383,
-   "industry": "world",
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Reconnecting with a pack of wolves he has followed for seven years, Bertie sets out to capture one of the Arctic's most dangerous and rarely filmed hunts: wolves taking on a bull moose, prey roughly ten times their size. Led by Kona, a striking white breeding male, the pack faces a critical winter as dwindling food supplies, an encroaching rival wolf and an aging leader threaten its survival.",
-   "popularity": 12.0777,
-   "poster_path": "/fopmDU345HPkMC9iUaNQEY0uRkk.jpg",
-   "production_countries": [
-    "US",
-    "GB"
-   ],
-   "providers": [
-    {
-     "name": "Disney Plus"
-    },
-    {
-     "name": "Hulu"
-    },
-    {
-     "name": "fuboTV"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-     "name": "Disney Plus",
-     "region": "US"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
-     "name": "Hulu",
-     "region": "US"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
-     "name": "fuboTV",
-     "region": "US"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-11-06",
-   "revenue": 0,
-   "runtime": 44,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Wolves Up Close with Bertie Gregory",
-   "trailer": {
-    "key": "3hCMUaREGL8",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 6.872,
-   "vote_count": 47
-  },
   "movie:21683": {
    "backdrop_path": "/kaYyrF2iPVtGN3f4eKI0AqHtVNc.jpg",
    "budget": 0,
@@ -2540,6 +2448,464 @@
    "type": "tv",
    "vote_average": 7.925,
    "vote_count": 1520
+  },
+  "tv:225383": {
+   "backdrop_path": "/7MuTFS9bT8p5e8gucHFM4m0E9u.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jack McMillan",
+     "n": "Luke Kirby"
+    },
+    {
+     "c": "Geneviève Lavigne",
+     "n": "Charlotte Gainsbourg"
+    },
+    {
+     "c": "Cheyenne Toussaint",
+     "n": "Lou de Laâge"
+    },
+    {
+     "c": "Tobias Bell",
+     "n": "Gideon Glick"
+    },
+    {
+     "c": "Gael Rodriguez",
+     "n": "David Alvarez"
+    },
+    {
+     "c": "Gabin",
+     "n": "Ivan du Pontavice"
+    },
+    {
+     "c": "Mishi Duplessis",
+     "n": "Taïs Vinolo"
+    },
+    {
+     "c": "Nicholas",
+     "n": "David Haig"
+    },
+    {
+     "c": "Susu",
+     "n": "LaMay Zhang"
+    },
+    {
+     "c": "Crispin Shamblee",
+     "n": "Simon Callow"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Prime Video",
+   "created_by": [
+    "Amy Sherman-Palladino",
+    "Daniel Palladino"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-24",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 225383,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In an ambitious gambit to save their storied institutions, two world-renowned ballet companies in New York City and Paris swap their most talented stars.",
+   "popularity": 4.2441,
+   "poster_path": "/e56elhedMQT2gJa9Hxix9IEBUoC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-24",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "The stage is set.",
+   "title": "Étoile",
+   "trailer": {
+    "key": "7CNVhn5wA0Y",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.3,
+   "vote_count": 40
+  },
+  "tv:241883": {
+   "backdrop_path": "/mhRhipgo5ACKcoHMCOaD6a7h8gs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Elmer",
+     "n": "Álvaro Rico"
+    },
+    {
+     "c": "La China Jurado",
+     "n": "Cecilia Suárez"
+    },
+    {
+     "c": "Violeta",
+     "n": "Catalina Sopelana"
+    },
+    {
+     "c": "Detective Carrera",
+     "n": "María Vázquez"
+    },
+    {
+     "c": "Torres",
+     "n": "Francis Lorenzo"
+    },
+    {
+     "c": "Sabela Costeira",
+     "n": "Emma Suárez"
+    },
+    {
+     "c": "Catuxa",
+     "n": "Isabel Garrido"
+    },
+    {
+     "c": "Lua",
+     "n": "Candela Solé"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M18",
+   "channel": "Netflix",
+   "created_by": [
+    "Miguel Sáez Carral"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-11",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 241883,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Elmer's mother used his lack of feelings to turn him into a hitman. But when he falls for his next victim, their cover as calm local gardeners wavers.",
+   "popularity": 3.3163,
+   "poster_path": "/haUwR2plCg25Ff0X9JAcRMAysKR.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-11",
+     "episode_count": 6,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Gardener",
+   "trailer": {
+    "key": "sA0WGdeexOU",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.772,
+   "vote_count": 147
+  },
+  "tv:286183": {
+   "backdrop_path": "/2wjP481Z3G6NlXoUFutN5vcnqzC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Trina Vega",
+     "n": "Daniella Monet"
+    },
+    {
+     "c": "Emmy Ward",
+     "n": "Alyssa Miles"
+    },
+    {
+     "c": "Pepper",
+     "n": "Emmy Liu-Wang"
+    },
+    {
+     "c": "Qwest",
+     "n": "Peyton Jackson"
+    },
+    {
+     "c": "Jen Z",
+     "n": "Erika Swayze"
+    },
+    {
+     "c": "Oscar Ward",
+     "n": "Martin Kamm"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-10-15",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+   ],
+   "id": 286183,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Class is in session at Hollywood Arts! Self-proclaimed icon Trina Vega returns to steer gifted teens toward stardom, status and hilarious havoc.",
+   "popularity": 9.5434,
+   "poster_path": "/xsL1ig6Tyi0j9AZPt23yZprslGS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-10-15",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Hollywood Arts",
+   "trailer": {
+    "key": "IXQP43JjY4Q",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.929,
+   "vote_count": 21
+  },
+  "tv:295483": {
+   "backdrop_path": "/6vaxQIDlAGtELnfyBMC9toTYMuX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tiararose (voice)",
+     "n": "Mai Fuchigami"
+    },
+    {
+     "c": "Aquasteed (voice)",
+     "n": "Yuuichirou Umehara"
+    },
+    {
+     "c": "Hartknights (voice)",
+     "n": "Takuya Sato"
+    },
+    {
+     "c": "Akari (voice)",
+     "n": "Yumiri Hanamori"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    24
+   ],
+   "first_air_date": "2026-01-11",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 295483,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Tiararose Lapis Clamentile is set to marry Hartknights, crown prince of Lapis Lazuli—until she suddenly remembers her past life and realizes she’s been reincarnated into her favorite game, The Ring of Lapis Lazuli, as the doomed villainess! But just as she’s about to lose hope, the crown prince of Aquasteed proposes instead. Could this unexpected turn finally lead to a happy ending of her own?",
+   "popularity": 5.9619,
+   "poster_path": "/h96XGrKnxMLns3QZVDytji37Ng6.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-11",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
+   "trailer": {
+    "key": "3wNyyhzLqA0",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.955,
+   "vote_count": 22
   },
   "tv:30983": {
    "backdrop_path": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",

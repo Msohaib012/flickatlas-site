@@ -1,6 +1,6 @@
 {
  "bucket": "46",
- "count": 18,
+ "count": 20,
  "titles": {
   "movie:1196946": {
    "backdrop_path": "/wbhoYwvqgadchfMgUOfOp87QZDS.jpg",
@@ -736,138 +736,6 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 67
-  },
-  "movie:1375646": {
-   "backdrop_path": "/iGViga8sDCET1S6GfwOlAbuhSGQ.jpg",
-   "budget": 12000000,
-   "cast": [
-    {
-     "c": "Kwon Se-jeong",
-     "n": "Gianna Jun"
-    },
-    {
-     "c": "Seo Young-cheol",
-     "n": "Koo Kyo-hwan"
-    },
-    {
-     "c": "Choi Hyun-seok",
-     "n": "Ji Chang-wook"
-    },
-    {
-     "c": "Choi Hyun-hee",
-     "n": "Kim Shin-rock"
-    },
-    {
-     "c": "Kong Seol-hee",
-     "n": "Shin Hyun-been"
-    },
-    {
-     "c": "Han Kyu-seong",
-     "n": "Go Soo"
-    },
-    {
-     "c": "Lee Bong-seok",
-     "n": "Lee Joong-ok"
-    },
-    {
-     "c": "Kang Woo-cheol",
-     "n": "Kim Jong-tae"
-    },
-    {
-     "c": "Citizen",
-     "n": "Hwang Jae-yeol"
-    },
-    {
-     "c": "Lee So-eun",
-     "n": "Lee Dam-hee"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "A",
-   "date_kind": "release",
-   "director": [
-    "Yeon Sang-ho"
-   ],
-   "genres": [
-    "Horror",
-    "Action",
-    "Science Fiction"
-   ],
-   "id": 1375646,
-   "industry": "world",
-   "origin_country": [
-    "KR"
-   ],
-   "original_language": "ko",
-   "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
-   "popularity": 42.2857,
-   "poster_path": "/enz3WLx5QU1FUyhXZld04QWIc6N.jpg",
-   "production_countries": [
-    "KR"
-   ],
-   "providers": [
-    {
-     "name": "Amazon Prime Video"
-    },
-    {
-     "name": "Amazon Prime Video with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-     "name": "Amazon Prime Video",
-     "region": "IN"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-     "name": "Amazon Prime Video with Ads",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "IN"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "IN"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-06-19",
-   "revenue": 53128238,
-   "runtime": 123,
-   "source": "catalogue",
-   "spoken_languages": [
-    "ko"
-   ],
-   "status": "Released",
-   "tagline": "Survive the hive.",
-   "title": "Colony",
-   "trailer": {
-    "key": "LW6dpj1uCK8",
-    "name": "International Trailer",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 8.18,
-   "vote_count": 1589
   },
   "movie:1462146": {
    "backdrop_path": "/377Bqi11cmWEQeOAs7GOkCEfazk.jpg",
@@ -1813,6 +1681,362 @@
    "type": "tv",
    "vote_average": 8.8,
    "vote_count": 5231
+  },
+  "tv:263346": {
+   "backdrop_path": "/eEDy1AdGn2gMCCHAblVqe0RtPTY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Walter",
+     "n": "Frankie Faison"
+    },
+    {
+     "c": "Kris",
+     "n": "Julia Chan"
+    },
+    {
+     "c": "Nate",
+     "n": "Ian Harding"
+    },
+    {
+     "c": "Aria",
+     "n": "Sydney Agudong"
+    },
+    {
+     "c": "Finn",
+     "n": "Isabella Astbury"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-PG",
+   "channel": "Netflix",
+   "created_by": [
+    "Michele Giannusa"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-12-03",
+   "genres": [
+    "Drama"
+   ],
+   "id": 263346,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "In New York City, four strangers navigate life's challenges while their separate paths unexpectedly intertwine in ways that change them forever.",
+   "popularity": 3.6424,
+   "poster_path": "/exoDCWUEF7dTpCdatH23OammvQ7.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-03",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "One moment can change everything.",
+   "title": "Ripple",
+   "trailer": {
+    "key": "66x8WLyw_aI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.328,
+   "vote_count": 29
+  },
+  "tv:278146": {
+   "backdrop_path": "/6ILhhXvH6qFF4yca7wLX7aUCzze.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jade",
+     "n": "Archen Aydin"
+    },
+    {
+     "c": "Kamin",
+     "n": "Natachai Boonprasert"
+    },
+    {
+     "c": "Jay",
+     "n": "Thipakorn Thitathan"
+    },
+    {
+     "c": "Champ",
+     "n": "Wachirawit Ruangwiwat"
+    },
+    {
+     "c": "Tar",
+     "n": "Ochiris Suwanacheep"
+    },
+    {
+     "c": "Thaenkhun",
+     "n": "Jeeratch Wongpian"
+    },
+    {
+     "c": "Bell",
+     "n": "Preeyaphat Lawsuwansiri"
+    },
+    {
+     "c": "Puifai",
+     "n": "Pathitta Pornchumroenrut"
+    },
+    {
+     "c": "Cherreen",
+     "n": "Wanwimol Jaenasavamethee"
+    },
+    {
+     "c": "Tonkla",
+     "n": "Peerakan Teawsuwan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "GMM 25",
+   "created_by": [
+    "MTRD.S"
+   ],
+   "director": [
+    "Jade Bunyoprakarn"
+   ],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2025-12-18",
+   "genres": [
+    "Mystery",
+    "Crime",
+    "Drama"
+   ],
+   "id": 278146,
+   "industry": "world",
+   "networks": [
+    "GMM 25"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
+   "popularity": 4.3754,
+   "poster_path": "/yANLR1kDDGHKCrhfxeFfBsgr70K.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-04",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-12-18",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Dare You to Death",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.8,
+   "vote_count": 32
+  },
+  "tv:280946": {
+   "backdrop_path": "/qb9e6TO8UU1DNkiGxHHOiqNA5iF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kang Tae-poong",
+     "n": "JUNHO"
+    },
+    {
+     "c": "Oh Mi-seon",
+     "n": "Kim Min-ha"
+    },
+    {
+     "c": "Jung Jeong-mi",
+     "n": "Kim Ji-young"
+    },
+    {
+     "c": "Wang Nam-mo",
+     "n": "Kim Min-seok"
+    },
+    {
+     "c": "Pyo Hyeon-jun",
+     "n": "Moo Jin-sung"
+    },
+    {
+     "c": "Yeom Boon-yi",
+     "n": "Kim Yeong-ok"
+    },
+    {
+     "c": "Park Yun-Cheol",
+     "n": "Jin Sun-kyu"
+    },
+    {
+     "c": "Oh Mi-Ho",
+     "n": "Kwon Han-sol"
+    },
+    {
+     "c": "Oh Beom",
+     "n": "Kwon Eun-seong"
+    },
+    {
+     "c": "Jung Cha-Ran",
+     "n": "Kim Hye-eun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG13",
+   "channel": "tvN",
+   "created_by": [
+    "Lee Na-jeong"
+   ],
+   "director": [
+    "Lee Na-jeong"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-11",
+   "genres": [
+    "Drama"
+   ],
+   "id": 280946,
+   "industry": "world",
+   "networks": [
+    "tvN"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Depicts the struggles of small and medium-sized businesses and their families who face the 1997 IMF crisis head-on.",
+   "popularity": 5.1241,
+   "poster_path": "/wPbW5Ll3xNP1PT99Odh6kawkJSM.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-05",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-10-11",
+     "episode_count": 16,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Typhoon Family",
+   "trailer": {
+    "key": "98gODGAmgSY",
+    "name": "Official Clip [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.446,
+   "vote_count": 46
   },
   "tv:4046": {
    "backdrop_path": "/w0PRJ5uOsfSGVrwxUhPmc6qIO8t.jpg",

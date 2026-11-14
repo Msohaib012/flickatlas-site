@@ -1,6 +1,6 @@
 {
  "bucket": "58",
- "count": 22,
+ "count": 34,
  "titles": {
   "movie:1146058": {
    "backdrop_path": "/6qQQhhF87Rm1z2TYhXAmoPiEHME.jpg",
@@ -2376,6 +2376,347 @@
    "vote_average": 7.362,
    "vote_count": 761
   },
+  "tv:229958": {
+   "backdrop_path": "/Kl07j8DsHfAwkODBblg81mjcGc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jeong Hee-ran",
+     "n": "Lee Hanee"
+    },
+    {
+     "c": "Shin Ju-ae",
+     "n": "Bang Hyo-rin"
+    },
+    {
+     "c": "Ku Jung-ho",
+     "n": "Jin Sun-kyu"
+    },
+    {
+     "c": "Kwak In-u",
+     "n": "Cho Hyun-chul"
+    },
+    {
+     "c": "Gi Seok",
+     "n": "Woo Ji-hyun"
+    },
+    {
+     "c": "Lee Geun-ha",
+     "n": "Lee Zoo-young"
+    },
+    {
+     "c": "Kwon Do-il",
+     "n": "Kim Jong-soo"
+    },
+    {
+     "c": "Heo Hyeok",
+     "n": "Hyun Bong-sik"
+    },
+    {
+     "c": "Hwang Mi-na",
+     "n": "Lee So-i"
+    },
+    {
+     "c": "Ji Soo-jin",
+     "n": "Yoo Yu-jin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Lee Hae-young"
+   ],
+   "director": [],
+   "episode_run_time": [
+    59
+   ],
+   "first_air_date": "2025-08-22",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 229958,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "In 1980s Korea, a movie star and a starlet defy male-dominated industry rules and backstage corruption while filming the provocative \"Madame Aema.\"",
+   "popularity": 4.1023,
+   "poster_path": "/jD8uwm1fvt6y2yxjSO6R9IOFwQQ.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-22",
+     "episode_count": 6,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "1981, a time to bare it all and sock it to the man.",
+   "title": "Aema",
+   "trailer": {
+    "key": "pHTADS1Ve9I",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.4,
+   "vote_count": 21
+  },
+  "tv:238458": {
+   "backdrop_path": "/lr0h0OBj7QOEvkaX5g3JWoaKZsI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kang Sang-ung",
+     "n": "JUNHO"
+    },
+    {
+     "c": "Kim Min-suk",
+     "n": "Kim Hye-jun"
+    },
+    {
+     "c": "Byeon Ho-in",
+     "n": "Kim Byong-chul"
+    },
+    {
+     "c": "Bang Eun-mi",
+     "n": "Kim Hyang-gi"
+    },
+    {
+     "c": "Jo Anna",
+     "n": "Kang Han-na"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Lee Chang-min",
+    "Jeon Chan-ho"
+   ],
+   "director": [
+    "Lee Chang-min"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-12-26",
+   "genres": [
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 238458,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "An ordinary man who inherits super strength discovers a greater evil out to steal his power. The one catch? Every use drains money from his wallet.",
+   "popularity": 5.4635,
+   "poster_path": "/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-12-26",
+     "episode_count": 8,
+     "name": "Limited Series",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "Burning salary to save lives. My cash, my power.",
+   "title": "Cashero",
+   "trailer": {
+    "key": "cI-iJmZbBXw",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.379,
+   "vote_count": 91
+  },
+  "tv:240558": {
+   "backdrop_path": "/bEhOXB2Pmda0tgRya5tLEaDr1qY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "William of Normandy",
+     "n": "Nikolaj Coster-Waldau"
+    },
+    {
+     "c": "Harold Godwinson",
+     "n": "James Norton"
+    },
+    {
+     "c": "Matilda of Normandy",
+     "n": "Clémence Poésy"
+    },
+    {
+     "c": "Edith Swanneck",
+     "n": "Emily Beecham"
+    },
+    {
+     "c": "Gytha",
+     "n": "Clare Holman"
+    },
+    {
+     "c": "Queen Gunhild",
+     "n": "Bo Bragason"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC16",
+   "channel": "BBC One",
+   "created_by": [
+    "Michael Robert Johnson"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-08-24",
+   "genres": [
+    "Drama",
+    "Action & Adventure",
+    "War & Politics"
+   ],
+   "id": 240558,
+   "industry": "world",
+   "networks": [
+    "BBC One"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Harold of Wessex and William of Normandy are two men destined to face each other at the Battle of Hastings in 1066. Two former allies, neither of whom had aspired to the British throne, are forced, by circumstances and their personal obsession, to wage war over possession of the crown.",
+   "popularity": 5.6319,
+   "poster_path": "/8SW0c0tUFWjpWBz2UYr0U57a8kB.jpg",
+   "production_countries": [
+    "IS",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-24",
+     "episode_count": 8,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "King & Conqueror",
+   "trailer": {
+    "key": "anS9xQEPTsU",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.215,
+   "vote_count": 86
+  },
   "tv:2458": {
    "backdrop_path": "/qn4xPcrZnYUKk9gSQd1yuNn6xqk.jpg",
    "budget": 0,
@@ -2546,6 +2887,1108 @@
    "type": "tv",
    "vote_average": 7.304,
    "vote_count": 792
+  },
+  "tv:255358": {
+   "backdrop_path": "/2aZc3aNtycEDYkYbcuu6Q2QQ9bD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Motoko Kusanagi (voice)",
+     "n": "Maaya Sakamoto"
+    },
+    {
+     "c": "Batou (voice)",
+     "n": "Hiroki Yasumoto"
+    },
+    {
+     "c": "Togusa (voice)",
+     "n": "Yuichi Nakamura"
+    },
+    {
+     "c": "Daisuke Aramaki (voice)",
+     "n": "Kazuhiro Yamaji"
+    },
+    {
+     "c": "Ishikawa (voice)",
+     "n": "Kousuke Goto"
+    },
+    {
+     "c": "Saito (voice)",
+     "n": "Toru Nara"
+    },
+    {
+     "c": "Operator (voice)",
+     "n": "Marie Ooi"
+    },
+    {
+     "c": "Fuchikoma (voice)",
+     "n": "Tomoko Kaneda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Fuji TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    25
+   ],
+   "first_air_date": "2026-07-07",
+   "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 255358,
+   "industry": "world",
+   "networks": [
+    "Fuji TV",
+    "Tokai Television Broadcasting",
+    "Kansai TV",
+    "Fukui TV",
+    "Hokkaido Cultural Broadcasting",
+    "Iwate Menkoi Television",
+    "Sendai Television",
+    "SAGA TV",
+    "Ishikawa TV",
+    "TNC",
+    "OHK",
+    "Kochi Sun Sun Broadcasting",
+    "Television Shin Hiroshima System",
+    "TV Shizuoka",
+    "NST",
+    "NBS",
+    "Sakuranbo TV",
+    "TSK",
+    "Ehime Broadcasting",
+    "KTS",
+    "Fukushima TV",
+    "AKT",
+    "Toyama Television",
+    "TV Kumamoto",
+    "Okinawa Television Broadcasting",
+    "KTN"
+   ],
+   "number_of_episodes": 10,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "2029, a near-future Japan. The full cyborg Motoko Kusanagi envisions a task force that preemptively strikes emerging threats. She and her team are scouted by Daisuke Aramaki as Public Security Section 9, AKA the \"Shell Squad.\" An international conspiracy hints at a hacker known as The \"Puppet Master.\" What fate awaits Kusanagi? What is the hacker's endgame?",
+   "popularity": 11.2496,
+   "poster_path": "/nUXjSyXAQZhOf32e6lkLX6C6Rf3.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-07-04",
+     "episode_count": 2,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2026-07-07",
+     "episode_count": 10,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "The aggressive unit \"Shell Squad\", led by the full-body cyborg Motoko Kusanagi.",
+   "title": "THE GHOST IN THE SHELL",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.1,
+   "vote_count": 81
+  },
+  "tv:260458": {
+   "backdrop_path": "/plx2cifejzcbGPYDtpsYS2mpajB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Samir Rahman",
+     "n": "Malik Elassal"
+    },
+    {
+     "c": "Billie Schaeffer",
+     "n": "Lucy Freyer"
+    },
+    {
+     "c": "Paul Baker",
+     "n": "Jack Innanen"
+    },
+    {
+     "c": "Issa Damani",
+     "n": "Amita Rao"
+    },
+    {
+     "c": "Anton Evans",
+     "n": "Owen Thiele"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "FX",
+   "created_by": [
+    "Ben Kronengold",
+    "Rebecca Shaw"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-05-28",
+   "genres": [
+    "Comedy"
+   ],
+   "id": 260458,
+   "industry": "world",
+   "networks": [
+    "FX",
+    "FXX"
+   ],
+   "number_of_episodes": 17,
+   "number_of_seasons": 3,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of twenty-somethings in New York trying to be good people, despite being neither \"good\" nor \"people\" yet.",
+   "popularity": 14.3748,
+   "poster_path": "/h8GrwttOjjQEoQJ72W9ugkyIVaB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-05-28",
+     "episode_count": 9,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-08-27",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    },
+    {
+     "air_date": "",
+     "episode_count": 0,
+     "name": "Season 3",
+     "season_number": 3
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "The plan is there is no plan.",
+   "title": "Adults",
+   "trailer": {
+    "key": "YZgDTseb5fQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.5,
+   "vote_count": 103
+  },
+  "tv:278158": {
+   "backdrop_path": "/AqAGgoAlvWGBVAlEvIXTvcETzVG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Barth",
+     "n": "Norawit Titicharoenrak"
+    },
+    {
+     "c": "Tanrak",
+     "n": "Nattawat Jirochtikul"
+    },
+    {
+     "c": "Kongdech",
+     "n": "Peerakan Teawsuwan"
+    },
+    {
+     "c": "Father Arnon",
+     "n": "Oliver Poupart"
+    },
+    {
+     "c": "Master Phak",
+     "n": "Rapheephong Thapsuwan"
+    },
+    {
+     "c": "Ryu",
+     "n": "Phakawat Tangchatkeaw"
+    },
+    {
+     "c": "Prince",
+     "n": "Supakorn Kantanit"
+    },
+    {
+     "c": "Cherry",
+     "n": "Chayada Akiyama"
+    },
+    {
+     "c": "Oh",
+     "n": "Thamonchita Narmkool"
+    },
+    {
+     "c": "Kongkit",
+     "n": "Poon Sutarom"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "channel": "GMM 25",
+   "created_by": [],
+   "director": [
+    "Noppharnach Chaiyahwimhon"
+   ],
+   "episode_run_time": [
+    70
+   ],
+   "first_air_date": "2026-05-30",
+   "genres": [
+    "Drama"
+   ],
+   "id": 278158,
+   "industry": "world",
+   "networks": [
+    "GMM 25"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "A grieving student pursuing priesthood faces a crisis of faith when he falls for a troubled new classmate in a world ruled by strict dogma.",
+   "popularity": 5.829,
+   "poster_path": "/2pPxVn4nK5KnJEx39xUHkYpmqXC.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-23",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2026-05-30",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Ended",
+   "tagline": "One… who has lost all faith. one… who is full of unwavering faith.",
+   "title": "Ticket to Heaven",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 9.2,
+   "vote_count": 30
+  },
+  "tv:281058": {
+   "backdrop_path": "/6yC53NuAwy8KhbzsrZ7NDFsSg2p.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Monica Everett (voice)",
+     "n": "Saya Aizawa"
+    },
+    {
+     "c": "Nero (voice)",
+     "n": "Hitomi Nabatame"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "Gunma TV",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-07-05",
+   "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 281058,
+   "industry": "world",
+   "networks": [
+    "Gunma TV",
+    "TOKYO MX",
+    "BS11",
+    "Tochigi TV"
+   ],
+   "number_of_episodes": 13,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Humans couldn’t handle magic without chanting until Monica Everett, the Silent Witch and one of the Seven Sages, made unspoken magecraft possible. Painfully shy, she enjoys seclusion. One day, Louis Miller, the Barrier Mage, delivers the king’s order: Go undercover at a prestigious school for nobles to guard the second prince. Get ready for her silent mission to begin!",
+   "popularity": 8.8956,
+   "poster_path": "/2qqAiyfpVdY8qEtxBeNYKreS4t.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-06",
+     "episode_count": 1,
+     "name": "Specials",
+     "season_number": 0
+    },
+    {
+     "air_date": "2025-07-05",
+     "episode_count": 13,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Secrets of the Silent Witch",
+   "trailer": {
+    "key": "0OBF29HoV4A",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 78
+  },
+  "tv:284558": {
+   "backdrop_path": "/twc2YYBXTjdv52TShVumB1voT3Q.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jackie Price",
+     "n": "Catherine Zeta-Jones"
+    },
+    {
+     "c": "Sam",
+     "n": "Daniel Ings"
+    },
+    {
+     "c": "Karenina",
+     "n": "Sidse Babett Knudsen"
+    },
+    {
+     "c": "Friedrich",
+     "n": "Julian Rhind-Tutt"
+    },
+    {
+     "c": "Sean Harper",
+     "n": "Raff Law"
+    },
+    {
+     "c": "The Doc",
+     "n": "Christine Adams"
+    },
+    {
+     "c": "",
+     "n": "Ron Perlman"
+    },
+    {
+     "c": "",
+     "n": "Bill Paterson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Prime Video",
+   "created_by": [
+    "Conor Keane"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-10-02",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 284558,
+   "industry": "world",
+   "networks": [
+    "Prime Video",
+    "Stan"
+   ],
+   "number_of_episodes": 8,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "AU",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Jackie Price has been living a wealthy, luxurious life for the past 20 years after escaping a dangerous past as an international cocaine dealer. But just as life begins to feel a little boring, she discovers that The Seven Demons, a group of the world’s most terrifying hitmen, have been hired to kill her.",
+   "popularity": 10.1068,
+   "poster_path": "/3tjZspkqquE24iK1rc0nvnJwdEZ.jpg",
+   "production_countries": [
+    "GB",
+    "AU"
+   ],
+   "providers": [
+    {
+     "name": "BBC Player Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ozvOiPMMjhOMXpcUYMDK5ut6puz.png",
+     "name": "BBC Player Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-10-02",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Kill Jackie",
+   "trailer": {
+    "key": "dKgTyq2-4w0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.0,
+   "vote_count": 38
+  },
+  "tv:300258": {
+   "backdrop_path": "/mnfkbzWLERbmM89plThKpbltZIo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cristina Miranda",
+     "n": "Bárbara López"
+    },
+    {
+     "c": "Carolina Guillén",
+     "n": "Yadhira Carrillo"
+    },
+    {
+     "c": "Carlos Navarro",
+     "n": "Emmanuel Palomares"
+    },
+    {
+     "c": "Salvador Villaseñor",
+     "n": "David Zepeda"
+    },
+    {
+     "c": "Tamara",
+     "n": "Natasha Dupeyrón"
+    },
+    {
+     "c": "Manuel Navarro",
+     "n": "Eduardo Santamarina"
+    },
+    {
+     "c": "María Luísa",
+     "n": "Azela Robinson"
+    },
+    {
+     "c": "Ramiro",
+     "n": "Sergio Goyri"
+    },
+    {
+     "c": "Elena",
+     "n": "Laura Flores"
+    },
+    {
+     "c": "Leonardo",
+     "n": "Mark Tacher"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "Univision",
+   "created_by": [
+    "José Alberto Castro",
+    "Delia Fiallo"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-10",
+   "genres": [
+    "Soap",
+    "Drama"
+   ],
+   "id": 300258,
+   "industry": "world",
+   "networks": [
+    "Univision"
+   ],
+   "number_of_episodes": 60,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Carolina Guillén is a renowned fashion designer haunted by a painful past. Years ago, she had a baby with a young novice who never knew about the pregnancy. Alone and without support, she was forced to give up her child, a decision that hardened her into a cold and demanding woman. Many years later, a young model named Cristina arrives at her fashion house and quickly rises to stardom, despite Carolina’s harsh treatment. When Cristina falls in love with Carlos, Carolina’s stepson, their romance leads to an unexpected pregnancy. Before Cristina can share the news, Carolina fires her without realizing that she is the daughter she abandoned long ago. As Carolina’s world begins to unravel, the shocking secret of her lost child will change her life forever.",
+   "popularity": 5.3567,
+   "poster_path": "/fzjzqVKnSPcYprVHFbh8zECC8BV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-10",
+     "episode_count": 60,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Los hilos del pasado",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.341,
+   "vote_count": 44
+  },
+  "tv:311858": {
+   "backdrop_path": "/uozEhY3g882QqgNg5AjR2cXAVRC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tibor Stone",
+     "n": "Tahar Rahim"
+    },
+    {
+     "c": "Amber Todd",
+     "n": "Izuka Hoyle"
+    },
+    {
+     "c": "Nina Drâgus",
+     "n": "Leonie Benesch"
+    },
+    {
+     "c": "Olly Hatton",
+     "n": "Finn Bennett"
+    },
+    {
+     "c": "Declan Dempsey",
+     "n": "Laurie Davidson"
+    },
+    {
+     "c": "Phil Hawkins",
+     "n": "Ken Nwosu"
+    },
+    {
+     "c": "Will O'Neill",
+     "n": "Sam Troughton"
+    },
+    {
+     "c": "Jade Butler",
+     "n": "Kitty Reed"
+    },
+    {
+     "c": "Marcus Turner",
+     "n": "Daniel Betts"
+    },
+    {
+     "c": "Jamal Azumah",
+     "n": "Selorm Adonu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC16",
+   "channel": "Sky Atlantic",
+   "created_by": [
+    "Matt Charman"
+   ],
+   "director": [
+    "Pia Strietmann"
+   ],
+   "episode_run_time": [
+    45
+   ],
+   "first_air_date": "2026-04-30",
+   "genres": [
+    "Crime",
+    "Action & Adventure"
+   ],
+   "id": 311858,
+   "industry": "world",
+   "networks": [
+    "Sky Atlantic"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A young and ambitious prison officer finds herself in the middle of a battle for the criminal underworld as crime lords try to evade justice. But in order to do that, she will have to learn quickly to put her faith in one of the very men she wants to put behind bars.",
+   "popularity": 6.1271,
+   "poster_path": "/zDjl6FOCuCy8gyug54VDlLgxa1l.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-29",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Prisoner",
+   "trailer": {
+    "key": "-dNbPQbTDYw",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 5.892,
+   "vote_count": 37
+  },
+  "tv:314658": {
+   "backdrop_path": "/t74H47XNbeT7Y9BgxX5ipnsEpAy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lorenzo Ligas",
+     "n": "Luca Argentero"
+    },
+    {
+     "c": "Michele Petrello",
+     "n": "Sergio Romano"
+    },
+    {
+     "c": "Paolo",
+     "n": "Flavio Furno"
+    },
+    {
+     "c": "Personal trainer",
+     "n": "Matteo Bassi"
+    },
+    {
+     "c": "GIP",
+     "n": "Matteo Caremoli"
+    },
+    {
+     "c": "PM Savinio",
+     "n": "Eugenio di Fraia"
+    },
+    {
+     "c": "Giornalista Flavia",
+     "n": "Valeria De Michele"
+    },
+    {
+     "c": "Marta Carati",
+     "n": "Marina Occhionero"
+    },
+    {
+     "c": "Annamaria Pastori",
+     "n": "Barbara Chichiarelli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "SkyShowtime",
+   "created_by": [
+    "Federico Baccomo"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-05",
+   "genres": [
+    "Drama"
+   ],
+   "id": 314658,
+   "industry": "world",
+   "networks": [
+    "SkyShowtime"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Brilliant but controversial, lawyer Lorenzo Ligas fights for Milan's desperate cases alongside idealistic intern Marta, seeking justice and confronting his own shortcomings.",
+   "popularity": 2.4776,
+   "poster_path": "/vZJsHSCcS42IK1SA9sR0Un10coE.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+     "name": "Sky Go",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/oFAnvlaEW2KT6J7XM0DXjlWqKu9.png",
+     "name": "Now TV",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-05",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Ligas",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.762,
+   "vote_count": 21
+  },
+  "tv:320958": {
+   "backdrop_path": "/pb8i9hmPh4riqhosqlQhV74PoxU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Verónica Arellano García / Consuelo",
+     "n": "Oka Giner"
+    },
+    {
+     "c": "Joaquín Navarro Luján",
+     "n": "David Zepeda"
+    },
+    {
+     "c": "Kassandra Muñoz Castro",
+     "n": "Irina Baeva"
+    },
+    {
+     "c": "Facundo Cervera Tovar",
+     "n": "Alejandro Ávila"
+    },
+    {
+     "c": "Mario Novoa Olivares",
+     "n": "Julián Gil"
+    },
+    {
+     "c": "Consuelo García Santos",
+     "n": "Yolanda Ventura"
+    },
+    {
+     "c": "Aurelio Arellano Tapia",
+     "n": "Alexis Ayala"
+    },
+    {
+     "c": "Iván Navarro Luján",
+     "n": "Jaume Mateu"
+    },
+    {
+     "c": "Lorena Esquivel Sosa",
+     "n": "Marcia Coutiño"
+    },
+    {
+     "c": "Nicolás Arellano Tapia",
+     "n": "Francisco Rubio"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "Las Estrellas",
+   "created_by": [
+    "Ignacio Sada Madero"
+   ],
+   "director": [
+    "Claudia Eliza Aguilar",
+    "Fez Noriega"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-05-01",
+   "genres": [
+    "Drama",
+    "Soap",
+    "Family"
+   ],
+   "id": 320958,
+   "industry": "world",
+   "networks": [
+    "Las Estrellas"
+   ],
+   "number_of_episodes": 85,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "After her newborn daughter is taken from her and given up for adoption, journalist Verónica Arellano spends years searching for her. When tragedy leaves the girl's adoptive family shattered, Verónica assumes a new identity to stay close to her daughter, setting in motion a story of love, family, and long-buried secrets.",
+   "popularity": 6.7814,
+   "poster_path": "/kEOWlaH0pf606pg14j93rYVreSP.jpg",
+   "production_countries": [],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "ViX Premium Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+     "name": "ViX Premium Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-05-01",
+     "episode_count": 85,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Tan cerca de ti, nace el amor",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 9.0,
+   "vote_count": 30
   },
   "tv:39358": {
    "backdrop_path": "/u7XADmNNOyuza7UkoAa94bycqp3.jpg",

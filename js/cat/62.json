@@ -1,102 +1,7 @@
 {
  "bucket": "62",
- "count": 26,
+ "count": 33,
  "titles": {
-  "movie:1176962": {
-   "backdrop_path": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Rose",
-     "n": "Sandra Hüller"
-    },
-    {
-     "c": "Suzanna",
-     "n": "Caro Braun"
-    },
-    {
-     "c": "The Narrator (voice)",
-     "n": "Marisa Growaldt"
-    },
-    {
-     "c": "The Bailiff",
-     "n": "Robert Gwisdek"
-    },
-    {
-     "c": "The Large-Scale Farmer",
-     "n": "Godehard Giese"
-    },
-    {
-     "c": "His Wife",
-     "n": "Maria Dragus"
-    },
-    {
-     "c": "His Deceased Wife",
-     "n": "Larisa Faber"
-    },
-    {
-     "c": "His Daughter",
-     "n": "Annalisa Hohl"
-    },
-    {
-     "c": "His Daughter",
-     "n": "Ruby De Quero"
-    },
-    {
-     "c": "His Daughter",
-     "n": "Enni Kräker"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "+13",
-   "date_kind": "release",
-   "director": [
-    "Markus Schleinzer"
-   ],
-   "genres": [
-    "Drama",
-    "History",
-    "War"
-   ],
-   "id": 1176962,
-   "industry": "world",
-   "origin_country": [
-    "DE"
-   ],
-   "original_language": "de",
-   "overview": "In the early 17th century, a soldier arrives at an isolated Protestant village in Germany claiming to be the heir to an abandoned farmstead. Even though he proves to be a good man, the villagers’ suspicions about his identity grow and they force a reckoning.",
-   "popularity": 3.9308,
-   "poster_path": "/4k3ph6BoeZr7IMiQx8ioEV8d9cJ.jpg",
-   "production_countries": [
-    "AT",
-    "DE"
-   ],
-   "providers": [],
-   "providers_wtw": [],
-   "published_at": "2026-11-14",
-   "release_date": "2026-04-17",
-   "revenue": 681546,
-   "runtime": 94,
-   "source": "catalogue",
-   "spoken_languages": [
-    "de"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Rose",
-   "trailer": {
-    "key": "KrmkNoxS6t4",
-    "name": "Official International Trailer [Subtitled]",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.629,
-   "vote_count": 66
-  },
   "movie:1207162": {
    "backdrop_path": "/9gWrxuOJeArUbvnqrZALSjhPv9Y.jpg",
    "budget": 30000000,
@@ -525,110 +430,6 @@
    "vote_average": 8.591,
    "vote_count": 22
   },
-  "movie:1408162": {
-   "backdrop_path": "/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Sanjay 'Sanju' Vishwanath",
-     "n": "Suriya"
-    },
-    {
-     "c": "Madanakameshwari 'Maddy Jay' Jothilingam",
-     "n": "Mamitha Baiju"
-    },
-    {
-     "c": "Nirmala Devi",
-     "n": "Radhika Sarathkumar"
-    },
-    {
-     "c": "Anjali Devi",
-     "n": "Raveena Tandon"
-    },
-    {
-     "c": "Ramu",
-     "n": "Sunil"
-    },
-    {
-     "c": "Sireesha Ramalingam",
-     "n": "Harika"
-    },
-    {
-     "c": "Ramanadhan",
-     "n": "Nassar"
-    },
-    {
-     "c": "Kishore",
-     "n": "Harsha Chemudu"
-    },
-    {
-     "c": "Meghana",
-     "n": "Bhavani Sre"
-    },
-    {
-     "c": "Prakash",
-     "n": "V.J. Pappu"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "U/A 16+",
-   "date_kind": "release",
-   "director": [
-    "Venky Atluri"
-   ],
-   "genres": [
-    "Drama",
-    "Romance",
-    "Comedy"
-   ],
-   "id": 1408162,
-   "industry": "bollywood",
-   "origin_country": [
-    "IN"
-   ],
-   "original_language": "ta",
-   "overview": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
-   "popularity": 13.6432,
-   "poster_path": "/mLsvCffzpxxDwC7yVLJSLLjgzoq.jpg",
-   "production_countries": [
-    "IN"
-   ],
-   "providers": [
-    {
-     "name": "Netflix"
-    },
-    {
-     "name": "Netflix Standard with Ads"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "name": "Netflix",
-     "region": "IN"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-08-14",
-   "revenue": 26596745,
-   "runtime": 161,
-   "source": "catalogue",
-   "spoken_languages": [
-    "ta"
-   ],
-   "status": "Released",
-   "tagline": "",
-   "title": "Vishwanath & Sons",
-   "trailer": null,
-   "type": "movie",
-   "vote_average": 7.0,
-   "vote_count": 43
-  },
   "movie:1422562": {
    "backdrop_path": "/lQUsfSUcai6ZOHQHgobSlF0IDUV.jpg",
    "budget": 4000000,
@@ -943,161 +744,6 @@
    "type": "movie",
    "vote_average": 6.8,
    "vote_count": 26
-  },
-  "movie:1503762": {
-   "backdrop_path": "/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
-   "budget": 25000000,
-   "cast": [
-    {
-     "c": "Elinor Dashwood",
-     "n": "Daisy Edgar-Jones"
-    },
-    {
-     "c": "Marianne Dashwood",
-     "n": "Esmé Creed-Miles"
-    },
-    {
-     "c": "Mrs. Dashwood",
-     "n": "Caitríona Balfe"
-    },
-    {
-     "c": "John Willoughby",
-     "n": "Frank Dillane"
-    },
-    {
-     "c": "Colonel Brandon",
-     "n": "Herbert Nordrum"
-    },
-    {
-     "c": "Edward Ferrars",
-     "n": "George MacKay"
-    },
-    {
-     "c": "Mrs. Jennings",
-     "n": "Fiona Shaw"
-    },
-    {
-     "c": "Margaret Dashwood",
-     "n": "Bodhi Rae Breathnach"
-    },
-    {
-     "c": "Fanny Dashwood",
-     "n": "Stacy Martin"
-    },
-    {
-     "c": "John Dashwood",
-     "n": "Tom Brooke"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "PG",
-   "date_kind": "release",
-   "director": [
-    "Georgia Oakley"
-   ],
-   "genres": [
-    "Drama",
-    "Romance"
-   ],
-   "id": 1503762,
-   "industry": "world",
-   "origin_country": [
-    "GB"
-   ],
-   "original_language": "en",
-   "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
-   "popularity": 50.1956,
-   "poster_path": "/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-   "production_countries": [
-    "GB",
-    "US"
-   ],
-   "providers": [],
-   "providers_wtw": [
-    {
-     "kind": "rent",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "US"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "US"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
-     "name": "Google Play Movies",
-     "region": "US"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
-     "name": "YouTube",
-     "region": "US"
-    },
-    {
-     "kind": "rent",
-     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
-     "name": "Fandango At Home",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
-     "name": "Amazon Video",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
-     "name": "Apple TV Store",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
-     "name": "Google Play Movies",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
-     "name": "YouTube",
-     "region": "US"
-    },
-    {
-     "kind": "buy",
-     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
-     "name": "Fandango At Home",
-     "region": "US"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "release_date": "2026-09-23",
-   "revenue": 42584016,
-   "runtime": 132,
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Released",
-   "tagline": "No one knows your heart like a sister.",
-   "title": "Sense and Sensibility",
-   "trailer": {
-    "key": "OFLyW0lxFU0",
-    "name": "Official Trailer 2",
-    "site": "YouTube"
-   },
-   "type": "movie",
-   "vote_average": 7.2,
-   "vote_count": 165
   },
   "movie:1589762": {
    "backdrop_path": "/qnuF3jM2CKqudSpaekgrGDjgeGW.jpg",
@@ -2837,119 +2483,6 @@
    "vote_average": 7.3,
    "vote_count": 151
   },
-  "tv:213562": {
-   "backdrop_path": "/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
-   "budget": 0,
-   "cast": [
-    {
-     "c": "Pamela Voorhees",
-     "n": "Linda Cardellini"
-    },
-    {
-     "c": "Levon Brooks",
-     "n": "William Catlett"
-    },
-    {
-     "c": "Grace Snell",
-     "n": "Gwendolyn Sundstrom"
-    },
-    {
-     "c": "Dorf",
-     "n": "Cameron Scoggins"
-    },
-    {
-     "c": "Briana Brooks",
-     "n": "Devin Kessler"
-    }
-   ],
-   "catalogue": true,
-   "catalogue_stage": 1,
-   "categories": [
-    "catalogue"
-   ],
-   "certification": "TV-MA",
-   "channel": "Peacock",
-   "created_by": [
-    "Brad Caleb Kane"
-   ],
-   "director": [],
-   "episode_run_time": [],
-   "first_air_date": "2026-10-15",
-   "genres": [
-    "Drama",
-    "Mystery"
-   ],
-   "id": 213562,
-   "industry": "world",
-   "networks": [
-    "Peacock"
-   ],
-   "number_of_episodes": 8,
-   "number_of_seasons": 1,
-   "origin_country": [
-    "US"
-   ],
-   "original_language": "en",
-   "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-   "popularity": 47.3672,
-   "poster_path": "/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-   "production_countries": [
-    "US"
-   ],
-   "providers": [
-    {
-     "name": "Peacock Premium"
-    },
-    {
-     "name": "Peacock Premium Plus"
-    },
-    {
-     "name": "Sky Go"
-    },
-    {
-     "name": "Now TV"
-    }
-   ],
-   "providers_wtw": [
-    {
-     "kind": "flatrate",
-     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
-     "name": "Peacock Premium",
-     "region": "US"
-    },
-    {
-     "kind": "flatrate",
-     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
-     "name": "Peacock Premium Plus",
-     "region": "US"
-    }
-   ],
-   "published_at": "2026-11-14",
-   "revenue": 0,
-   "seasons": [
-    {
-     "air_date": "2026-10-15",
-     "episode_count": 8,
-     "name": "Season 1",
-     "season_number": 1
-    }
-   ],
-   "source": "catalogue",
-   "spoken_languages": [
-    "en"
-   ],
-   "status": "Returning Series",
-   "tagline": "Rage is a mother.",
-   "title": "Crystal Lake",
-   "trailer": {
-    "key": "Rs49eRHFD9c",
-    "name": "Official Trailer",
-    "site": "YouTube"
-   },
-   "type": "tv",
-   "vote_average": 8.581,
-   "vote_count": 356
-  },
   "tv:21762": {
    "backdrop_path": "/72zLfNDaL8JpfLDwmQ2b8DPbeHc.jpg",
    "budget": 0,
@@ -3138,6 +2671,1305 @@
    "type": "tv",
    "vote_average": 7.49,
    "vote_count": 196
+  },
+  "tv:226362": {
+   "backdrop_path": "/yMjGzK7L4gwzpQNNtFKDeG79upo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Juan Salvo",
+     "n": "Ricardo Darín"
+    },
+    {
+     "c": "Elena",
+     "n": "Carla Peterson"
+    },
+    {
+     "c": "Alfredo Favalli",
+     "n": "César Troncoso"
+    },
+    {
+     "c": "Ana",
+     "n": "Andrea Pietra"
+    },
+    {
+     "c": "Omar",
+     "n": "Ariel Staltari"
+    },
+    {
+     "c": "Lucas",
+     "n": "Marcelo Subiotto"
+    },
+    {
+     "c": "Inga",
+     "n": "Orianna Cárdenas"
+    },
+    {
+     "c": "Maquinista",
+     "n": "Dante Mastropierro"
+    },
+    {
+     "c": "Maquinista",
+     "n": "Jorge Sesán"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "channel": "Netflix",
+   "created_by": [
+    "Bruno Stagnaro"
+   ],
+   "director": [
+    "Bruno Stagnaro"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2025-04-30",
+   "genres": [
+    "Drama",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 226362,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "AR"
+   ],
+   "original_language": "es",
+   "overview": "After a devastating toxic snowfall kills millions, Juan Salvo and a group of survivors in Buenos Aires must resist an invisible threat from another world.",
+   "popularity": 6.0235,
+   "poster_path": "/ucI5KroZLP0KyJqQnAdOpzhVvBs.jpg",
+   "production_countries": [
+    "AR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-04-30",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "No one survives alone",
+   "title": "The Eternaut",
+   "trailer": {
+    "key": "TqT4fDQQqCc",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.4,
+   "vote_count": 596
+  },
+  "tv:231462": {
+   "backdrop_path": "/zDWTCC9uCDHPijLBqyzsplmg1Ch.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Oh Gwan-seok",
+     "n": "Ryu Seung-ryong"
+    },
+    {
+     "c": "Oh Hee-dong",
+     "n": "Yang Se-jong"
+    },
+    {
+     "c": "Yang Jung-sook",
+     "n": "Im Soo-jung"
+    },
+    {
+     "c": "",
+     "n": "Kim Eui-sung"
+    },
+    {
+     "c": "",
+     "n": "Kim Seung-oh"
+    },
+    {
+     "c": "",
+     "n": "Kim Jong-soo"
+    },
+    {
+     "c": "",
+     "n": "Lee Dong-hwi"
+    },
+    {
+     "c": "",
+     "n": "U-KNOW Yunho"
+    },
+    {
+     "c": "",
+     "n": "Kim Min"
+    },
+    {
+     "c": "",
+     "n": "Jang Kwang"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC16",
+   "channel": "Disney+",
+   "created_by": [
+    "Kang Yun-sung"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2025-07-16",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 231462,
+   "industry": "world",
+   "networks": [
+    "Disney+"
+   ],
+   "number_of_episodes": 11,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A dangerous story of rough people obsessed with shameless greed who gather together with their own greed and logic to find underwater artifacts off the coast of Shinan.",
+   "popularity": 3.3657,
+   "poster_path": "/tbVdNCgVDlKx2lenrz0juDyNkX1.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-16",
+     "episode_count": 11,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Low Life",
+   "trailer": {
+    "key": "0JgURXn5aAE",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.0,
+   "vote_count": 20
+  },
+  "tv:246862": {
+   "backdrop_path": "/gy5b64sYb2xsyEESVInfeBE1jcC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Panty Anarchy (voice)",
+     "n": "Arisa Ogasawara"
+    },
+    {
+     "c": "Stocking Anarchy (voice)",
+     "n": "Mariya Ise"
+    },
+    {
+     "c": "Garterbelt (voice)",
+     "n": "Koji Ishii"
+    },
+    {
+     "c": "Brief (voice)",
+     "n": "Hiroyuki Yoshino"
+    },
+    {
+     "c": "Chuck (voice)",
+     "n": "Takashi Nakamura"
+    },
+    {
+     "c": "Scanty (voice)",
+     "n": "Yuka Komatsu"
+    },
+    {
+     "c": "Kneesocks (voice)",
+     "n": "Akeno Watanabe"
+    },
+    {
+     "c": "Fastener (voice)",
+     "n": "Yuko Natsuyoshi"
+    },
+    {
+     "c": "Polyester (voice)",
+     "n": "Junya Enoki"
+    },
+    {
+     "c": "Polyurethane (voice)",
+     "n": "Yuto Uemura"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [
+    13
+   ],
+   "first_air_date": "2025-07-10",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 246862,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX",
+    "Sun TV",
+    "BS Nippon TV"
+   ],
+   "number_of_episodes": 30,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "On the brink between Heaven and Hell lies the town of Daten City, where sinister spirits known as \"Ghosts\" feast upon humanity.",
+   "popularity": 11.8453,
+   "poster_path": "/jsQMtwZhJtvgBvSCy9sxryOyAGI.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-07-10",
+     "episode_count": 30,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "The bitches are back!!",
+   "title": "New PANTY & STOCKING with GARTERBELT",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 8.6,
+   "vote_count": 40
+  },
+  "tv:247662": {
+   "backdrop_path": "/xmFV4Rc10kFTInBUsYVjyendz1s.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Daniel De Luca",
+     "n": "Jesse Williams"
+    },
+    {
+     "c": "Genny",
+     "n": "Jordan Alexandra"
+    },
+    {
+     "c": "Sheryl",
+     "n": "Alejandra Onieva"
+    },
+    {
+     "c": "Adele",
+     "n": "Maria Chiara Giannetta"
+    },
+    {
+     "c": "Bigné",
+     "n": "Antonio Gerardi"
+    },
+    {
+     "c": "Augusto",
+     "n": "Tommaso Ragno"
+    },
+    {
+     "c": "Alice",
+     "n": "Amanda Campana"
+    },
+    {
+     "c": "Bruno",
+     "n": "Pierpaolo Spollon"
+    },
+    {
+     "c": "Tancredi",
+     "n": "Sam Haygarth"
+    },
+    {
+     "c": "Laurent",
+     "n": "Jean-Hugues Anglade"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "channel": "Prime Video",
+   "created_by": [
+    "Elena Bucaccio",
+    "Francesco Arlanch"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-09-24",
+   "genres": [
+    "Action & Adventure",
+    "Drama"
+   ],
+   "id": 247662,
+   "industry": "world",
+   "networks": [
+    "Prime Video"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "IT",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Shortly after Daniel, or DD as everybody knows him, starts working at the hotel, one of the owner’s daughters disappears. He must do whatever it takes to find her and bring her home while still solving the ever-changing problems of the exclusive hotel guests.",
+   "popularity": 3.4427,
+   "poster_path": "/biWik6unl9bLfpJVCNvjso2GhAE.jpg",
+   "production_countries": [
+    "IT",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-09-24",
+     "episode_count": 6,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Canceled",
+   "tagline": "Where the crimes are as stunning as the views.",
+   "title": "Hotel Costiera",
+   "trailer": {
+    "key": "UdaXFn54RG0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 7.179,
+   "vote_count": 42
+  },
+  "tv:258462": {
+   "backdrop_path": "/bxPELhUZNgbFUN31EZTBC99wOHD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nicole García",
+     "n": "China Suárez"
+    },
+    {
+     "c": "",
+     "n": "Eugenia Suárez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "channel": "Netflix",
+   "created_by": [
+    "Sebastián Ortega"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-08-14",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 258462,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 2,
+   "origin_country": [
+    "AR"
+   ],
+   "original_language": "es",
+   "overview": "Five female prisoners forge a unique bond after a deadly accident... until corruption and turf wars within a ruthless prison threaten to destroy them.",
+   "popularity": 12.8744,
+   "poster_path": "/9JWQYB7FkGtg47wFO7GOrUDgYrx.jpg",
+   "production_countries": [
+    "AR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-08-14",
+     "episode_count": 8,
+     "name": "Season 1",
+     "season_number": 1
+    },
+    {
+     "air_date": "2026-02-13",
+     "episode_count": 8,
+     "name": "Season 2",
+     "season_number": 2
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "In the Mud",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 7.569,
+   "vote_count": 144
+  },
+  "tv:262262": {
+   "backdrop_path": "/eV31zFSUF534xmpBEkHINkmsSnG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jackie Ellis",
+     "n": "Kelly Reilly"
+    },
+    {
+     "c": "Eric Bull",
+     "n": "Rafe Spall"
+    },
+    {
+     "c": "Jess Deng",
+     "n": "Naomi Yang"
+    },
+    {
+     "c": "Dylan Rees",
+     "n": "Harry Lawtey"
+    },
+    {
+     "c": "Gareth Morgan",
+     "n": "Dino Fetscher"
+    },
+    {
+     "c": "Nisha Jones",
+     "n": "Dinita Gohil"
+    },
+    {
+     "c": "Shell Hill",
+     "n": "Kimberley Nixon"
+    },
+    {
+     "c": "Osian Northam",
+     "n": "Julian Lewis Jones"
+    },
+    {
+     "c": "Solomon Bevan",
+     "n": "Jonathan Pryce"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "channel": "Sky One",
+   "created_by": [
+    "Claire Oakley"
+   ],
+   "director": [],
+   "episode_run_time": [
+    60
+   ],
+   "first_air_date": "2026-01-30",
+   "genres": [
+    "Crime",
+    "Mystery"
+   ],
+   "id": 262262,
+   "industry": "world",
+   "networks": [
+    "Sky One",
+    "Sky Atlantic",
+    "Sky Max"
+   ],
+   "number_of_episodes": 6,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Morfa Halen is a tight-knit Welsh town precariously nestled between towering mountains and a fast-encroaching sea that threatens its very existence. As a once-in-a-generation storm begins to gather far out at sea, former detective turned teacher Jackie Ellis discovers the body of her 8-year-old pupil, Cefin, seemingly drowned.\n\nThe discovery sends shockwaves through the community, reviving the ghost of an unsolved cold case that rocked the town three years prior - the disappearance of Jackie’s niece, Nessa, which cost her career.",
+   "popularity": 7.2442,
+   "poster_path": "/dZQUJiG2scf8APdnMnMilB8A9GS.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-30",
+     "episode_count": 6,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "No secrets are safe from the storm.",
+   "title": "Under Salt Marsh",
+   "trailer": {
+    "key": "fxM1tv6bI3A",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.6,
+   "vote_count": 68
+  },
+  "tv:282662": {
+   "backdrop_path": "/tYJ52HBbMcb50umgJHq0TmYtWKf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mari Asaka (voice)",
+     "n": "Manaka Iwami"
+    },
+    {
+     "c": "Tsunagu Hidaka (voice)",
+     "n": "Takuya Eguchi"
+    },
+    {
+     "c": "Yukihiro Aida (voice)",
+     "n": "Koutaro Nishiyama"
+    },
+    {
+     "c": "Kisara (voice)",
+     "n": "Ai Kakuma"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-14",
+   "channel": "TOKYO MX",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-10-14",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "id": 282662,
+   "industry": "world",
+   "networks": [
+    "TOKYO MX"
+   ],
+   "number_of_episodes": 12,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "When high schooler Mari runs late for school, she never expects to fall for Tsunagu—a gentle, sensitive, beastfolk! In a world where beastfolk are segregated behind walls, Mari and Tsunagu show their differences are truly bridges. Can their love overcome the divide between beastfolk and humanity?",
+   "popularity": 7.0992,
+   "poster_path": "/uQb3NkDWEXQ9m1w49PzEy04uFn1.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-10-14",
+     "episode_count": 12,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "I can come over any obstacles with you.",
+   "title": "With You, Our Love Will Make It Through",
+   "trailer": {
+    "key": "THtWMgfQko4",
+    "name": "Official Trailer [Subbed]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.608,
+   "vote_count": 37
+  },
+  "tv:292462": {
+   "backdrop_path": "/42kBhsVAasbFWDavwQgZujiBHKy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "",
+     "n": "LeToya Luckett"
+    },
+    {
+     "c": "",
+     "n": "Khadeen Indréa"
+    },
+    {
+     "c": "",
+     "n": "Porscha Coleman"
+    },
+    {
+     "c": "",
+     "n": "Briana Price"
+    },
+    {
+     "c": "",
+     "n": "Jennifer Sears"
+    },
+    {
+     "c": "",
+     "n": "RonReaco Lee"
+    },
+    {
+     "c": "",
+     "n": "Donovan Christie Jr."
+    },
+    {
+     "c": "",
+     "n": "Robert Christopher Riley"
+    },
+    {
+     "c": "",
+     "n": "DeVon Franklin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "channel": "BET+",
+   "created_by": [
+    "Tyler Perry"
+   ],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2025-06-10",
+   "genres": [
+    "Drama"
+   ],
+   "id": 292462,
+   "industry": "world",
+   "networks": [
+    "BET+",
+    "Paramount+"
+   ],
+   "number_of_episodes": 16,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Five friends - Rasheda, Geneva, Naomi, Tiffany, and Bridgette - support each other through divorce, marriage, dating, healing, and friendship struggles while their loyalty and sisterhood bonds are tested.",
+   "popularity": 3.2914,
+   "poster_path": "/dBowsOrmRk3RXGyDpYGdVPbdcX0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+     "name": "Paramount Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2025-06-10",
+     "episode_count": 16,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Returning Series",
+   "tagline": "",
+   "title": "Tyler Perry's Divorced Sistas",
+   "trailer": {
+    "key": "5u2BMobFukY",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 8.0,
+   "vote_count": 22
+  },
+  "tv:302162": {
+   "backdrop_path": "/pdenjEfBr6m3mlbWofJS0pAEQkf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Toshizo Hijikata",
+     "n": "Yuki Yamada"
+    },
+    {
+     "c": "Isamu Kondo",
+     "n": "Nobuyuki Suzuki"
+    },
+    {
+     "c": "Keisuke Yamanami",
+     "n": "Aoi Nakamura"
+    },
+    {
+     "c": "Souji Okita",
+     "n": "Kanata Hosoda"
+    },
+    {
+     "c": "Shinpachi Nagakura",
+     "n": "Shuhei Uesugi"
+    },
+    {
+     "c": "Hajime Saitou",
+     "n": "Kisetsu Fujiwara"
+    },
+    {
+     "c": "Eisaburou Abiru",
+     "n": "Yosuke Sugino"
+    },
+    {
+     "c": "Sanosuke Harada",
+     "n": "Shuntaro Yanagi"
+    },
+    {
+     "c": "Heisuke Toudou",
+     "n": "Shuto Miyazaki"
+    },
+    {
+     "c": "Genzaburou Inoue",
+     "n": "Ryôji Nakamura"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "TBS",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-03-26",
+   "genres": [
+    "Action & Adventure"
+   ],
+   "id": 302162,
+   "industry": "world",
+   "networks": [
+    "TBS"
+   ],
+   "number_of_episodes": 2,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A live-action adaptation that translates this deep legacy to the screen. Set in Kyoto at the end of the Edo period, the story depicts the intense and passionate lives of the Shinsengumi - the iconic samurai force that defended Kyoto in the final years of Japan's shogunate - through spectacular action and a bold interpretation based on historical facts. The story follows street brawler Toshizo Hijikata (Yuki Yamada), who finds a new kind of family in Isami Kondo and Soji Okita. Hijikata and his comrades in the Shinsengumi forge a bond of loyalty - tested by betrayal, illness, and war - as they fight not only their enemies but their own ideals.",
+   "popularity": 4.7536,
+   "poster_path": "/5iQbtu5VLlZoKiWtLGEFeiRkDDP.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-03-26",
+     "episode_count": 2,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Song of the Samurai - Chapter: Youthful Days in Edo",
+   "trailer": null,
+   "type": "tv",
+   "vote_average": 9.2,
+   "vote_count": 27
+  },
+  "tv:306762": {
+   "backdrop_path": "/7mfU2mO1t4d43mBsm4Z3Q2grGy6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lili Ichijoin (voice)",
+     "n": "Atsumi Tanezaki"
+    },
+    {
+     "c": "Kit Church (voice)",
+     "n": "Koki Uchiyama"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "channel": "Netflix",
+   "created_by": [],
+   "director": [],
+   "episode_run_time": [],
+   "first_air_date": "2026-01-15",
+   "genres": [
+    "Animation",
+    "Drama"
+   ],
+   "id": 306762,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 20,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In early 1900s London, a young Japanese woman enrolls in a famous art school, only to be surprised when rivalry with a gifted classmate becomes romance.",
+   "popularity": 14.6972,
+   "poster_path": "/kAiyJdB6aPxTEmnXDqf6JMjdHf9.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-01-15",
+     "episode_count": 20,
+     "name": "Season 1",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Love Through a Prism",
+   "trailer": {
+    "key": "oLXSfFqTnXg",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 9.0,
+   "vote_count": 59
+  },
+  "tv:318262": {
+   "backdrop_path": "/A1DSMj6VQcvvJmNNBTSSLqQ5bzF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Caroline Muirhead"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Sandy McKellar"
+    },
+    {
+     "c": "Self – Caroline's Father",
+     "n": "Stephen Muirhead"
+    },
+    {
+     "c": "Self – Caroline's Mother",
+     "n": "Margaret Muirhead"
+    },
+    {
+     "c": "Caroline Muirhead",
+     "n": "Ninon Noiret"
+    },
+    {
+     "c": "Sandy McKellar",
+     "n": "James Crouch"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Robert McKellar"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Tony Parsons"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TV-MA",
+   "channel": "Netflix",
+   "created_by": [
+    "Josh Allott"
+   ],
+   "director": [
+    "Josh Allott"
+   ],
+   "episode_run_time": [],
+   "first_air_date": "2026-04-29",
+   "genres": [
+    "Documentary",
+    "Crime"
+   ],
+   "id": 318262,
+   "industry": "world",
+   "networks": [
+    "Netflix"
+   ],
+   "number_of_episodes": 3,
+   "number_of_seasons": 1,
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In 2020, pathologist Caroline Muirhead's fiancé, Scottish farmer Alexander 'Sandy' McKellar, confessed to her that he and his twin brother Robert had killed cyclist Tony Parsons in a 2017 hit-and-run on the A82 near Bridge of Orchy and buried the body on the Auch Estate.",
+   "popularity": 2.3406,
+   "poster_path": "/wu8iopmnuCDZ45FMD3Gh7IgQaCI.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "revenue": 0,
+   "seasons": [
+    {
+     "air_date": "2026-04-29",
+     "episode_count": 3,
+     "name": "Miniseries",
+     "season_number": 1
+    }
+   ],
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Ended",
+   "tagline": "",
+   "title": "Should I Marry a Murderer?",
+   "trailer": {
+    "key": "UTOgDYEZ-Mg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "tv",
+   "vote_average": 6.7,
+   "vote_count": 40
   },
   "tv:562": {
    "backdrop_path": "/3jMCaxKK4r5A5gu196dCCrk5d6X.jpg",
