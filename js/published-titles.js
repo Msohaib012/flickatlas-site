@@ -44158,5 +44158,826 @@ window.FA_PUBLISHED = {
     "runtime": 147,
     "providers": [],
     "providers_wtw": []
+  },
+  "301354": {
+    "id": 301354,
+    "type": "tv",
+    "title": "Sword & Silence",
+    "poster_path": "/jlHH1OGMrupWfVSeiGkxPabmSYN.jpg",
+    "backdrop_path": "/ohxUMg44IaMTtdaSmPn1M1QW3Js.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Six centuries of war have left the Three Kingdoms in turmoil. Facing powerful rivals, a small nation fights to unite a divided land.",
+    "industry": "world",
+    "popularity": 6.7477,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-14",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action & Adventure",
+      "War & Politics"
+    ],
+    "tagline": "Ending 600 years of war to forge one kingdom!",
+    "status": "Returning Series",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "certification": "15",
+    "first_air_date": "2026-11-14",
+    "networks": [
+      "KBS2"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 28,
+    "channel": "KBS2",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 0,
+        "episode_count": 2,
+        "air_date": "2026-11-07",
+        "name": "Specials"
+      },
+      {
+        "season_number": 1,
+        "episode_count": 28,
+        "air_date": "2026-11-14",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Kim Ri-heon",
+      "Hong Jin-yi"
+    ],
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1588240": {
+    "id": 1588240,
+    "type": "movie",
+    "title": "New Home",
+    "poster_path": "/6Uu00eSoy2GimRBIePQWqNymyJL.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After seven years in prison, Anna is released. She has no home, no family, no purpose in life, and the guilt over her past haunts her. A charity helps her find a job, provides a place in a dormitory, and refers her to a psychological support group. There, Anna meets Roman, who helps her realize that to move on with her life fully, she needs to address what's weighing her down. She decides to take a step that could change everything.",
+    "industry": "world",
+    "popularity": 1.2376,
+    "original_language": "ru",
+    "origin_country": [
+      "RU"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-14",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "RU"
+    ],
+    "spoken_languages": [
+      "ru"
+    ],
+    "certification": "18+",
+    "release_date": "2026-11-12",
+    "date_kind": "release",
+    "runtime": 101,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1816370": {
+    "id": 1816370,
+    "type": "movie",
+    "title": "Head Spaces",
+    "poster_path": "/pjdQf19g33q2umtLLBiIWoObldB.jpg",
+    "backdrop_path": "/fj8cKQJnFOcY3OQSoFyCNi7Kt2Z.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Two people struggle to get out their heads, so they arrange for someone to deliver them from their perceived prison.",
+    "industry": "world",
+    "popularity": 0.2291,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-14",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "What are you thinking?",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "NR",
+    "release_date": "2026-11-21",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1823907": {
+    "id": 1823907,
+    "type": "movie",
+    "title": "Russell Brand: Open Secret",
+    "poster_path": "/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
+    "backdrop_path": "/sdYU5S9SMWk9Wr3IMP0538k341l.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "From comedy stardom to a criminal trial, inside voices and archive footage charts British comedian Russell Brand's meteoric rise and steep fall following allegations of sexual offences.",
+    "industry": "world",
+    "popularity": 3.7225,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": {
+      "key": "wiXS3J3LeOA",
+      "name": "Russell Brand: Open Secret | Announcement | Netflix",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-14",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "NR",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 83,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1725526": {
+    "id": 1725526,
+    "type": "movie",
+    "title": "She Who Refused Death",
+    "poster_path": "/9jbcHoUWMILizcKeNkEzX3M3Gng.jpg",
+    "backdrop_path": "/cHX8eSra5b05PBf1mOS4k4jOvX3.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When the Great Darkness returns to consume the world, Matilda, the daughter of the legendary King Adler, must journey through a realm swallowed by death and corruption. Armed only with her father's stories and an unbreakable will, she challenges an ancient force that has claimed countless lives, refusing to accept that death is the end.",
+    "industry": "pakistani",
+    "popularity": 0.0586,
+    "original_language": "en",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-14",
+    "source": "tmdb",
+    "budget": 100,
+    "revenue": 0,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "tagline": "A fallen kingdom. A forgotten legend. A daughter willing to challenge death itself.",
+    "status": "In Production",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-18",
+    "date_kind": "release",
+    "runtime": 22,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1816366": {
+    "id": 1816366,
+    "type": "movie",
+    "title": "Bard Bar",
+    "poster_path": "/HVdh4lsftgJSOVGTg3Wb8ePuwH.jpg",
+    "backdrop_path": "/1n0rwaBT1Oa4kXcoaB1dPeFp4mT.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "At Bart’s Bard Bar, a battle of the bands gets brutally personal when a lineup of wounded musicians turn performances into public humiliations. The truth behind their former tormentors now becomes the afternoon's entertainment.",
+    "industry": "world",
+    "popularity": 0.2458,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-14",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "The bards sing of their past!",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "NR",
+    "release_date": "2026-11-21",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1374853": {
+    "id": 1374853,
+    "type": "movie",
+    "title": "A Christmas Party",
+    "poster_path": "/w9dXtAzjmhC5pLxYy8aAL4D2hlA.jpg",
+    "backdrop_path": "/lYbsPDgyN77NdAtVJrpFg1xLBoe.jpg",
+    "vote_average": 1.0,
+    "vote_count": 1,
+    "overview": "Home for the holidays, Adam longs for the magic of his childhood. Amid the chaos of the annual Foxhall Village Christmas party, he dodges relatives, evades the political turmoil, and-surprise!-falls for his childhood friend.",
+    "industry": "world",
+    "popularity": 2.1107,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "Bv_d7rm53Tk",
+      "name": "A Christmas Party | Official Trailer | Persimmon",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-14",
+    "source": "tmdb",
+    "budget": 50000,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "tagline": "New Years' Was Cancelled",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "cs",
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1816359": {
+    "id": 1816359,
+    "type": "movie",
+    "title": "The Stay",
+    "poster_path": "/wchAA84PFCpRbFYffuBSfpiWmKG.jpg",
+    "backdrop_path": "/drXWLK0M7H5pyHVDoTC6tiWP445.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "During a stay at a secluded lake house to kickstart his sobriety, a young man is confronted by mysterious phone calls, accidental murder and, worst of all, himself.",
+    "industry": "world",
+    "popularity": 0.297,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-14",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "You can’t outrun what lives inside.",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "NR",
+    "release_date": "2026-11-21",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1545966": {
+    "id": 1545966,
+    "type": "movie",
+    "title": "Forest",
+    "poster_path": "/flarfGx1qe7bbhpDef4OYD7FsZn.jpg",
+    "backdrop_path": "/dpicpdaB4IQpqxeGV4J0AWEEEgj.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Two Muscovites go on a trip to Karelia and disappear without a trace in an endless, dense forest. Each attempt to get out turns into a new threat. The forest seems to breathe, watch and does not want to let go... It becomes clear: the Forest lives by its own rules, which there is no time to understand - without food and water, the girls will not last long. In the meantime, one strange family moves into an abandoned village house. Strangers are not welcome here. After all, they used to live in the Forest.",
+    "industry": "world",
+    "popularity": 1.6327,
+    "original_language": "ru",
+    "origin_country": [
+      "RU"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-14",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "RU"
+    ],
+    "spoken_languages": [
+      "ru"
+    ],
+    "certification": "18+",
+    "release_date": "2026-11-12",
+    "date_kind": "release",
+    "runtime": 100,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1816349": {
+    "id": 1816349,
+    "type": "movie",
+    "title": "Night Fishers",
+    "poster_path": "/8XyVWzh8gGveFKIn4E51FhsMl1E.jpg",
+    "backdrop_path": "/hBxsj4sRiJZ3pJokNHGlyUF9NBg.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Two ambitious content creators trespass on private property in the hopes of making their next viral hit.",
+    "industry": "world",
+    "popularity": 0.341,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-14",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "Transcend the Content.",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "NR",
+    "release_date": "2026-11-21",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1738379": {
+    "id": 1738379,
+    "type": "movie",
+    "title": "How Could I Live Without You? 2",
+    "poster_path": "/yJOVjJ8XRReUVxrD2GRjIdkMa2n.jpg",
+    "backdrop_path": "/bUPK336JOAqsA21VwvtuYZzjV5Y.jpg",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "overview": "The members of Kuplung are getting ready for a wedding.",
+    "industry": "world",
+    "popularity": 2.0383,
+    "original_language": "hu",
+    "origin_country": [
+      "HU"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-14",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Music",
+      "Comedy",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "HU"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1816069": {
+    "id": 1816069,
+    "type": "movie",
+    "title": "Virtus - The Four P's",
+    "poster_path": "/lhdmGiknqK2prd1jMbzEOiPYPhV.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Join Ed Jackson’s climb of the Matterhorn as he explores the values that have shaped his life after spinal cord injury: Purpose, Perspective, Progress and Perseverance.",
+    "industry": "world",
+    "popularity": 0.1312,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-14",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-21",
+    "date_kind": "festival",
+    "runtime": 12,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1580582": {
+    "id": 1580582,
+    "type": "movie",
+    "title": "Carnaval",
+    "poster_path": "/9gNOI0AVXC5dj4O8H749mcikiTP.jpg",
+    "backdrop_path": "/w6K4BnryKnrQ0AKUNNWOKuoPAxb.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Four friends from Brabant who live for Carnaval see their party plans unravel when one of them suddenly has to care for his estranged daughter and Prince Carnaval reveals a sinister side. They must do everything they can to save Carnaval.",
+    "industry": "world",
+    "popularity": 2.2758,
+    "original_language": "nl",
+    "origin_country": [
+      "NL"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-14",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Action"
+    ],
+    "tagline": "CARNAVAL",
+    "status": "Released",
+    "production_countries": [
+      "NL"
+    ],
+    "spoken_languages": [
+      "nl"
+    ],
+    "certification": "14",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1814364": {
+    "id": 1814364,
+    "type": "movie",
+    "title": "EKEKEKEK",
+    "poster_path": "/l5YPf7kgz64eyEVv9RhfcngWNdo.jpg",
+    "backdrop_path": "/tnTuExWYHiXgZNsAPT2QdC9cvCf.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A man who is forced to kill his cat after it suddenly transforms into a creature tries to give it a proper farewell by burying the body with his friend.",
+    "industry": "world",
+    "popularity": 0.2513,
+    "original_language": "tr",
+    "origin_country": [
+      "TR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-14",
+    "source": "tmdb",
+    "budget": 500,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "TR"
+    ],
+    "spoken_languages": [],
+    "certification": "Genel İzleyici Kitlesi",
+    "release_date": "2026-11-21",
+    "date_kind": "festival",
+    "runtime": 9,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1429602": {
+    "id": 1429602,
+    "type": "movie",
+    "title": "A Place to Heal",
+    "poster_path": "/nmIQQG8IDy0WYQy79Z0N7PhRNHg.jpg",
+    "backdrop_path": "/GWr6kRbEGppdbGH1huSl0HfV83.jpg",
+    "vote_average": 7.875,
+    "vote_count": 4,
+    "overview": "In a French public hospital, the adolescent psychiatry unit moves to the erratic rhythm of teenagers coming and going - many carrying heavy past baggage - while Etienne and his medical team navigate the relentless cycle of treating, listening, and confronting the raw edges of suffering. Young Lucia knows the ward too well. After being brought back yet again by the police, she reunites with her friend Eloïse and encounters a constellation of young patients, each wrestling with their own storms. At times, there is laughter, small breakthroughs, moments of fragile hope. But the balance is shaky, and the arrival of a new patient will shatter it entirely.",
+    "industry": "world",
+    "popularity": 1.2453,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-14",
+    "source": "tmdb",
+    "budget": 4000000,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "15",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 104,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1813057": {
+    "id": 1813057,
+    "type": "movie",
+    "title": "Horše Hiyis",
+    "poster_path": "/A2rzxJL3c945EGBjVLp8opg3ow2.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Horše Hiyis is a short film about intergenerational relationships to fire and to each other that are nurtured on rematriated land.",
+    "industry": "world",
+    "popularity": 0.0721,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-14",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-21",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1049439": {
+    "id": 1049439,
+    "type": "movie",
+    "title": "The Golden Age",
+    "poster_path": "/sHy6hsrdvBH5wnLVjo6JyJhTgXQ.jpg",
+    "backdrop_path": "/gQQ7j5t5m2BYhk4gCOQzLccwtes.jpg",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "overview": "Born at the turn of the century in a village's butcher shop, Jeanne Lavaur dreams of becoming a countess. Inspired by the fearless Céleste and guided by her love for Guillaume de Barante, Jeanne’s journey carries her from the vibrant Paris of the Golden Twenties through the turmoil of two world wars. As her life intertwines with the great upheavals of the 20th century, she rises as a fiercely free woman, determined to never let anyone else define who she is meant to be.",
+    "industry": "world",
+    "popularity": 1.4209,
+    "original_language": "fr",
+    "origin_country": [
+      "FR",
+      "IT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-14",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "History",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "FR",
+      "IT"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "16+",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 112,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1812965": {
+    "id": 1812965,
+    "type": "movie",
+    "title": "The Whistling",
+    "poster_path": "/SNjz2MGjmxekOuAuRULsZh1FZX.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When an unlikely crew of Native filmmakers gather to make a film, they become trapped inside the set and, one by one, begin to disappear.",
+    "industry": "world",
+    "popularity": 0.4034,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-14",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "Natives never whistle at night, and for good reason…",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-21",
+    "date_kind": "festival",
+    "runtime": 20,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1387504": {
+    "id": 1387504,
+    "type": "movie",
+    "title": "The Green Eyes",
+    "poster_path": "/huXtt6bsXMqMLNhSaMDMttEGpGb.jpg",
+    "backdrop_path": "/bCASckjHVcF3KaI86Oxj3f0Dfjz.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Chaya, 11, lives with her family in the Landes region, by the ocean. When they learn they’re being evicted, her older brother Nour falls into a deep and mysterious sleep. Chaya will do everything she can to wake him up, even going so far as to dive into his dreams to find him.",
+    "industry": "world",
+    "popularity": 0.9898,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-14",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "FR",
+      "BE",
+      "SE"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 85,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1812178": {
+    "id": 1812178,
+    "type": "movie",
+    "title": "The Spirit of Zorro",
+    "poster_path": "/1KJorbpSG3mrmQA3IDnKEKZyKRs.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Cutting back and forth between a dinner and fight to save a prisoner, Don Diego De La Vega battles two worlds, as an aristocrat and the vigilante known as “El Zorro.”",
+    "industry": "world",
+    "popularity": 0.8704,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-14",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-21",
+    "date_kind": "festival",
+    "runtime": 11,
+    "providers": [],
+    "providers_wtw": []
   }
 };

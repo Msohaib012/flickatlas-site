@@ -147889,5 +147889,382 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 14 Nov 2026 22:06:26 +0530"
+  },
+  "4jbzh9": {
+    "id": "4jbzh9",
+    "type": "news",
+    "headline": "Ramayana Worldwide Box Office Collection Day 10: Ranbir Kapoor Starrer Crosses Major Milestone",
+    "dek": "Nitesh Tiwari's mythological epic Ramayana continues its strong run at the box office, crossing Rs 1200 crore globally by its tenth day.",
+    "body": [
+      {
+        "h": "Introduction to the Mythological Project",
+        "p": [
+          "The ambitious cinematic adaptation of Ramayana, directed by filmmaker Nitesh Tiwari, has emerged as one of the most talked-about ventures in contemporary Bollywood. Built on an extraordinary budget of Rs 2000 crore, the mythological drama has generated immense online curiosity and widespread public discussion.",
+          "Featuring a massive ensemble cast including Ranbir Kapoor, Yash, Sai Pallavi, Ravi Dubey, Lara Dutta, Arun Govil, Rakul Preet Singh, and Vivek Oberoi, the high-profile project has captured the attention of audiences worldwide through its sheer scale and heavy reliance on visual effects."
+        ]
+      },
+      {
+        "h": "Critical Reception and Visual Effects",
+        "p": [
+          "Upon its theatrical release, the big-budget epic opened to mixed reviews from both critics and regular moviegoers. While the visual effects have drawn considerable praise and captured eyeballs across digital platforms, the film's tone has sparked intense debate among viewers.",
+          "Many audience members and analysts have voiced opinions that the narrative lacks a deep sense of traditional devotion, leading to varied reactions regarding how the sacred epic was translated onto the silver screen."
+        ]
+      },
+      {
+        "h": "Reactions from Industry Veterans",
+        "p": [
+          "The film also caught the attention of veterans from past television adaptations, including Sunil Lahri, who famously portrayed Lakshman in Ramanand Sagar's classic series Ramayan. Lahri shared his critique after watching the new film, calling it a mixed experience.",
+          "He specifically pointed out that divinity and devotion were missing from the production, noting that several crucial scenes were omitted. Furthermore, he expressed concern that the dialogue lacked necessary dignity and felt the character of Ravana was excessively glorified."
+        ]
+      },
+      {
+        "h": "Global Box Office Performance",
+        "p": [
+          "Despite mixed critical feedback, the mythological drama has proven to be an unstoppable force during its second weekend at the worldwide box office. By the end of its tenth day in theaters, the cumulative global collection reached an impressive Rs 1228 crore.",
+          "The massive international numbers reflect strong audience turnout overseas, where the film pulled in significant figures despite competing against other major blockbusters currently running in cinemas."
+        ]
+      },
+      {
+        "h": "Overseas Collections Breakdown",
+        "p": [
+          "According to reports from Sacnilk, the overseas market alone contributed Rs 30 crore on the tenth day, pushing the overall international earnings to a notable Rs 408.5 crore.",
+          "The day-wise overseas trajectory showed steady numbers, starting with Rs 51.25 crore on day one, Rs 46 crore on day two, and peaking at Rs 71.75 crore on day three before stabilizing through the weekdays and picking up momentum again in the second weekend."
+        ]
+      },
+      {
+        "h": "Comparison with Competitors",
+        "p": [
+          "While crossing the Rs 1200 crore mark globally in just ten days is a massive achievement, the feature fell slightly short of outpacing Ranveer Singh's Dhurandhar 2.",
+          "Specifically, Dhurandhar 2 had previously managed a higher ten-day worldwide total of Rs 1255.41 crore, leaving Ramayana just behind that specific benchmark in the race for global supremacy."
+        ]
+      },
+      {
+        "h": "Domestic Earnings Overview",
+        "p": [
+          "On the home turf, the film raked in Rs 72.9 crore domestically on its tenth reporting period, contributing to a massive domestic haul. This included strong language-wise performances led by the Hindi version at Rs 53.75 crore, alongside contributions from Kannada at Rs 5.4 crore, Malayalam at Rs 4.75 crore, Tamil at Rs 4.75 crore, and Telugu at Rs 4.25 crore.",
+          "These regional figures propelled the overall domestic tally to Rs 685.6 crore in nett collections and a staggering Rs 819.5 crore in gross domestic earnings."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana has crossed Rs 1200 crore worldwide by its tenth day in theaters, driven by strong international and domestic earnings despite mixed reviews and critique from industry veterans. While it missed surpassing Ranveer Singh's Dhurandhar 2 over the same ten-day window, the Ranbir Kapoor starrer remains a major box-office contender."
+        ]
+      }
+    ],
+    "facts": [
+      "Budget of Ramayana is Rs 2000cr",
+      "Overseas collection on day 10 is Rs 30cr",
+      "Total overseas collection after 10 days is Rs 408.5cr",
+      "Worldwide collection after 10 days is Rs 1228cr",
+      "Dhurandhar 2 10 days worldwide collection was Rs 1255.41cr",
+      "Domestic collection includes Rs 53.75cr in Hindi, Rs 5.4cr in Kannada, Rs 4.75cr in Malayalam, Rs 4.75cr in Tamil, and Rs 4.25cr in Telugu",
+      "Overall domestic collection reached Rs 685.6cr nett and Rs 819.5cr gross",
+      "Story published on November 14, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Nitesh Tiwari",
+        "Yash",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Lara Dutta",
+        "Arun Govil",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Sunil Lahri",
+        "Ramanand Sagar",
+        "Ranveer Singh"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar 2",
+        "Ramayan"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ramayana worldwide collection day 10",
+      "Ranbir Kapoor Ramayana movie",
+      "Ramayana overseas collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday10wwfeature-57591794680094.jpg",
+        "caption": "Ramayana Worldwide Box Office Collection Day 10: Ranbir Kapoor Starrer Crosses Major Milestone",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 23:47:35 +0530"
+  },
+  "rt8iej": {
+    "id": "rt8iej",
+    "type": "news",
+    "headline": "Marvel Unveils Doctor Doom's Striking Red Armor and King of Hell Persona",
+    "dek": "Marvel Comics showcases Doctor Doom wearing crimson-and-gold royal armor in Black Panther / Namor: Doomed #3 after overthrowing Mephisto.",
+    "body": [
+      {
+        "h": "Introduction to the Red Armor",
+        "p": [
+          "Following his greatest victory, Doctor Doom introduces his new red armor as he prepares for a fresh battle against two major Avengers. Victor von Doom has traditionally worn antiquated medieval plating and a cloth cloak despite the impracticalities in combat, driven by an ego that rejects ordinary costumed appearances.",
+          "His flowing cape and rigid iron-clad gauntlets project theatrical intimidation rather than aerodynamic convenience. In Doom's mindset, sacrificing minor tactical advantages remains a small price to pay to declare his absolute superiority over everyone else in the room."
+        ]
+      },
+      {
+        "h": "Merging Technology and Sorcery",
+        "p": [
+          "The iconic armor and cloak combination embodies the precise blend of cutting-edge technology and ancient sorcery that defines the character's immense danger. Doom wields a nuclear-powered exoskeleton packed with force fields, flight thrusters, and concussive gauntlets that rival Iron Man's best suits.",
+          "Simultaneously, his hooded tunic and mystical medallions highlight his mastery of dark arts capable of trading spells with Doctor Strange. This dual proficiency addresses a major limitation in previous live-action adaptations, which frequently ignored his mystical abilities in favor of science-based powers."
+        ]
+      },
+      {
+        "h": "Rise of the King of Hell",
+        "p": [
+          "After successfully overthrowing Mephisto and claiming the underworld throne in Captain America #16, Doctor Doom dons striking crimson-and-gold royal attire. Black Panther / Namor: Doomed #3 features the first instance where Victor von Doom actively wields both the title of King of Hell and his new red garments in combat.",
+          "As T'Challa and Namor descend into the underworld, the regal red ensemble serves as a fitting aesthetic for confronting two prominent sovereign rulers from the Marvel Universe. The new mantle provides access to near-limitless demonic legions and infernal sorcery."
+        ]
+      },
+      {
+        "h": "Shifting Power Dynamics",
+        "p": [
+          "With these demonic resources, Victor could potentially escalate into the deadliest main antagonist of the entire Marvel Universe once more. Such power allows him to launch a supernatural conquest from below to reclaim what he lost in One World Under Doom.",
+          "Conversely, the deposed Mephisto prepares to strike back and become the primary antagonist of Earth-616, an event foreseen by Iron Man in Avengers: Armageddon. This conflict opens the possibility for Doctor Doom to act as an unlikely savior while he refuses to let any rival overshadow him."
+        ]
+      },
+      {
+        "h": "Symbolism Across Doom's Attire",
+        "p": [
+          "Across the Marvel multiverse, every color choice in Doctor Doom's wardrobe tells a distinct story regarding his current power level and state of mind. The classic green cloak and tunic symbolize his Latverian homeland alongside his bitter envy toward Reed Richards.",
+          "When Victor seizes the power of the Beyonders in Secret Wars, he adopts a white cloak as God Emperor Doom to project absolute divinity. Additional variations include the mysterious blue cloaks of Doom 2099 and Earth-6160, contrasting sharply with the bleak, tattered black cloak worn in Old Man Logan."
+        ]
+      },
+      {
+        "h": "Release Details",
+        "p": [
+          "The latest comic issue featuring this crimson transformation is written by Ethan S Parker and Griffin Sheridan, with art provided by Stefano Nesi and Jesus Aburtov. Black Panther / Namor: Doomed #3 is scheduled for release on November 18 from Marvel Comics."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel Comics showcases Doctor Doom in striking new crimson-and-gold royal armor as he assumes the title of King of Hell following his victory over Mephisto. This latest storyline in Black Panther / Namor: Doomed #3 highlights his blend of advanced technology and dark sorcery while setting up new conflicts with prominent Marvel heroes."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on November 14, 2026",
+      "Written by Ethan S Parker and Griffin Sheridan",
+      "Art by Stefano Nesi and Jesus Aburtov",
+      "Black Panther / Namor: Doomed #3 releases on November 18 from Marvel Comics"
+    ],
+    "entities": {
+      "people": [
+        "Nicolas Ayala",
+        "Ethan S Parker",
+        "Griffin Sheridan",
+        "Stefano Nesi",
+        "Jesus Aburtov",
+        "Sean Morrison",
+        "Jack Lowden",
+        "Josh O'Connor",
+        "Callum Turner"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Black Panther / Namor: Doomed #3",
+        "Captain America #16",
+        "One World Under Doom",
+        "Secret Wars",
+        "Avengers: Armageddon",
+        "Old Man Logan"
+      ]
+    },
+    "keywords": [
+      "Doctor Doom red armor",
+      "Black Panther Namor Doomed 3",
+      "King of Hell Doctor Doom",
+      "Ethan S Parker Griffin Sheridan"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/doctor-doom-wears-a-crimson-cloak-over-his-armor.jpeg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Marvel Unveils Doctor Doom's Striking Red Armor and King of Hell Persona",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 18:00:18 GMT"
+  },
+  "1wrtmp2": {
+    "id": "1wrtmp2",
+    "type": "news",
+    "headline": "Imtiaz Ali Praises Dhurandhar for Defying Industry Norms and Proving Skeptics Wrong",
+    "dek": "Renowned filmmaker Imtiaz Ali recently spotlighted Ranveer Singh starrer Dhurandhar at a prominent summit, discussing how its remarkable success has shattered established cinematic rules and forced a period of intense industry introspection.",
+    "body": [
+      {
+        "h": "An Era of Rethinking in Bollywood",
+        "p": [
+          "The Hindi film industry is currently undergoing a major phase of rethinking and introspection regarding what appeals to audiences today. Speaking at a recent summit, acclaimed director Imtiaz Ali shared his thoughts on the shifting dynamics of Bollywood and how traditional formulas are rapidly losing their grip.",
+          "Ali observed that industry insiders are questioning longstanding assumptions about box office drivers, such as whether major stars or non-star casts are necessary to guarantee a successful theatrical run."
+        ]
+      },
+      {
+        "h": "Challenging Conventional Wisdom",
+        "p": [
+          "During his discussion, the filmmaker pointed directly to Ranveer Singh's major feature as a prime example of a project that dared to defy accepted industry norms. He noted that while conventional wisdom often suggests that modern audiences lack the attention span for extended narratives, this particular title succeeded despite defying that notion.",
+          "The film's performance has caused many creators to reevaluate audience patience and the viability of longer runtimes in contemporary cinema."
+        ]
+      },
+      {
+        "h": "Overcoming Early Skepticism",
+        "p": [
+          "Before it became a massive commercial triumph, the feature faced significant doubt from various studios during its development stages. Industry insiders initially viewed the project as an impractical gamble with very minimal likelihood of achieving commercial success.",
+          "Despite those early reservations, the movie successfully broke established rules and altered perceptions, sparking widespread interest among creators eager to replicate its unique trajectory."
+        ]
+      },
+      {
+        "h": "Behind the Scenes of Dhurandhar",
+        "p": [
+          "Written and directed by filmmaker Aditya Dhar, the project operates as an intense spy thriller centered on an Indian agent navigating dangerous assignments. The narrative follows the protagonist as he successfully infiltrates foreign terror networks and criminal gangs.",
+          "The high-profile production features a notable ensemble cast alongside its lead actor, bringing together several prominent names from across the entertainment industry."
+        ]
+      },
+      {
+        "h": "An Impressive Ensemble Cast",
+        "p": [
+          "The spy thriller's extensive roster features performances by R Madhavan, Akshaye Khanna, and Arjun Rampal in critical supporting roles. Additionally, the cast includes well-known actors Sanjay Dutt and Rakesh Bedi alongside Sara Arjun.",
+          "This diverse gathering of talent contributed significantly to the scale and execution of the ambitious cinematic venture."
+        ]
+      },
+      {
+        "h": "Reception and Box Office Milestones",
+        "p": [
+          "While the initial installment received strong critical acclaim upon its debut, the follow-up project encountered a somewhat more mixed reception from reviewers and critics alike. Nevertheless, both parts have achieved remarkable commercial milestones together.",
+          "Combined, these entries have risen to become the two highest-grossing Hindi films distributed across domestic markets in India."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Imtiaz Ali praised the Ranveer Singh starrer Dhurandhar for defying early industry skepticism and proving that old formulas no longer apply. The Aditya Dhar directorial, featuring an ensemble cast including R Madhavan and Sanjay Dutt, has ultimately emerged as a record-breaking commercial triumph."
+        ]
+      }
+    ],
+    "facts": [
+      "Imtiaz Ali spoke at the Hindustan Times Summit.",
+      "Imtiaz Ali directed Main Vaapas Aaunga.",
+      "Dhurandhar is written and directed by Aditya Dhar.",
+      "Ranveer Singh plays an Indian agent in Dhurandhar.",
+      "The cast of Dhurandhar includes R Madhavan, Akshaye Khanna, Arjun Rampal, Sanjay Dutt, Rakesh Bedi, and Sara Arjun."
+    ],
+    "entities": {
+      "people": [
+        "Imtiaz Ali",
+        "Ranveer Singh",
+        "Aditya Dhar",
+        "R Madhavan",
+        "Akshaye Khanna",
+        "Arjun Rampal",
+        "Sanjay Dutt",
+        "Rakesh Bedi",
+        "Sara Arjun"
+      ],
+      "titles": [
+        "Dhurandhar",
+        "Main Vaapas Aaunga"
+      ]
+    },
+    "keywords": [
+      "Imtiaz Ali Dhurandhar",
+      "Ranveer Singh Dhurandhar",
+      "Aditya Dhar Dhurandhar",
+      "Dhurandhar box office records"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135840686,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Imtiaz Ali Praises Dhurandhar for Defying Industry Norms and Proving Skeptics Wrong",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T23:49:08+05:30"
+  },
+  "1rry6ab": {
+    "id": "1rry6ab",
+    "type": "news",
+    "headline": "Joe Jonas and Tatiana Gabriela End Relationship After One Year",
+    "dek": "Pop star Joe Jonas and girlfriend Tatiana Gabriela have decided to part ways after a year of dating, sources confirm.",
+    "body": [
+      {
+        "h": "The Relationship Comes to an End",
+        "p": [
+          "Pop star Joe Jonas and his girlfriend, Tatiana Gabriela, have reportedly called it quits after spending a year together in a relationship. Multiple media outlets have confirmed the breakup, signaling the conclusion of a romance that began to capture public attention late last year.",
+          "While representatives for both individuals have been approached for comment, no official statements have been released by either party regarding the separation."
+        ]
+      },
+      {
+        "h": "Busy Schedules and Career Demands",
+        "p": [
+          "According to insiders close to the former couple, the primary catalyst behind the split was the demanding nature of Joe Jonas's professional workload. As his career commitments increased, the strain eventually caused the pair to drift apart.",
+          "Despite the current parting of ways, sources close to the situation have hinted that friends remain optimistic about a potential reconciliation in the future, should circumstances align for the two."
+        ]
+      },
+      {
+        "h": "Timeline of Their Romance",
+        "p": [
+          "The romantic connection between Jonas and Gabriela first sparked media speculation in November 2025. Months later, public interest intensified when photographs surfaced of the pair sharing a kiss at a Miami airport in March 2026.",
+          "Following the airport sighting, the couple took their relationship to social media in April 2026 by going Instagram official, a milestone that was widely covered by entertainment publications."
+        ]
+      },
+      {
+        "h": "Memorable Trips and Public Appearances",
+        "p": [
+          "Over the course of their year-long romance, the couple enjoyed several high-profile outings and vacations. Among their most notable trips was a sun-drenched Italian getaway in Portofino over the summer, where they were spotted enjoying each other's company.",
+          "Their public appearances consistently drew attention from fans and celebrity news outlets alike, keeping their relationship firmly in the spotlight throughout its duration."
+        ]
+      },
+      {
+        "h": "Past Relationships and Background",
+        "p": [
+          "Before his relationship with Gabriela, Joe Jonas was previously married to actress Sophie Turner. His romantic history has frequently been a subject of intense media scrutiny given his status as a member of the Jonas Brothers.",
+          "Meanwhile, Gabriela's presence in the public eye grew significantly during their time together, aligning her closely with the constant cycle of celebrity culture and influencer news."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Joe Jonas and Tatiana Gabriela have ended their year-long relationship, with sources pointing to busy work schedules as the reason they drifted apart. The pair had previously gone public in early 2026 after sparking romance rumors in late 2025."
+        ]
+      }
+    ],
+    "facts": [
+      "Joe Jonas and Tatiana Gabriela dated for a year before splitting.",
+      "Dating rumors for the couple began in November 2025.",
+      "The pair were spotted kissing at a Miami airport in March 2026.",
+      "Joe Jonas went Instagram official with Tatiana Gabriela in April 2026.",
+      "Joe Jonas was previously married to Sophie Turner."
+    ],
+    "entities": {
+      "people": [
+        "Joe Jonas",
+        "Tatiana Gabriela",
+        "Sophie Turner"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Joe Jonas",
+      "Tatiana Gabriela",
+      "Joe Jonas Tatiana Gabriela split",
+      "Joe Jonas girlfriend"
+    ],
+    "images": [
+      {
+        "url": "https://imagez.tmz.com/image/fa/16by9/2026/11/14/face09582d4e469096cd72f8e32863f1_xl.jpg",
+        "caption": "Joe Jonas and Tatiana Gabriela End Relationship After One Year",
+        "source": "TMZ"
+      }
+    ],
+    "published": "2026-11-14T10:28:57-08:00"
   }
 };
