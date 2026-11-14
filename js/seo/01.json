@@ -1,6 +1,6 @@
 {
  "bucket": "01",
- "count": 19,
+ "count": 25,
  "titles": {
   "movie:1013601": {
    "d": "The Alto Knights (2025): Crime/Drama film. Story: Two of New York's most notorious organized crime… See cast, budget $45M, and TMDB rating 6.2/10.",
@@ -130,6 +130,133 @@
    "t": "Iron Lung (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:1125701": {
+   "d": "Midwinter Break (2026): Drama film. Story: Longtime retired couple Stella and Gerry realise that… See cast, budget $4M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rLEDPOSZkmeBy47wzNTEXTj5ABj.jpg",
+   "industry": "world",
+   "k": "Midwinter Break, Midwinter Break movie, Midwinter Break cast, Midwinter Break story, Midwinter Break box office collection, Midwinter Break budget, Midwinter Break review, Midwinter Break rating, Midwinter Break release date, Midwinter Break trailer, Midwinter Break Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lesley Manville"
+     },
+     {
+      "@type": "Person",
+      "name": "Ciarán Hinds"
+     },
+     {
+      "@type": "Person",
+      "name": "Niamh Cusack"
+     },
+     {
+      "@type": "Person",
+      "name": "Julie Lamberton"
+     },
+     {
+      "@type": "Person",
+      "name": "Ed Sayer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 35,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Midwinter Break (2026): Drama film. Story: Longtime retired couple Stella and Gerry realise that… See cast, budget $4M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Polly Findlay"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rLEDPOSZkmeBy47wzNTEXTj5ABj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1125701",
+    "name": "Midwinter Break",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1125701"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Midwinter Break (2026)</h1>\n<p class=\"ssr-lead\">Longtime retired couple Stella and Gerry realise that their relationship has reached a crossroads while on holiday in Amsterdam. After so much time and so many memories, long-held promises and deeply concealed wounds threaten to come to light and force them to confront their future.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 February 2026</li><li>Runtime: 90 minutes</li><li>Director: Polly Findlay</li><li>Genres: Drama</li><li>Budget: $4M</li><li>TMDB rating: 7.3/10 (35 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lesley Manville as Stella</li><li>Ciarán Hinds as Gerry</li><li>Niamh Cusack as Kathy</li><li>Julie Lamberton as Young Stella</li><li>Ed Sayer as Young Gerry</li><li>Leila Laaraj as Hennie</li><li>Tim Licata as Man in Bar</li><li>Marco Horta Lopes as Receptionist</li><li>Elène Zuidmeer as Barwoman</li><li>David Gallacher as Glasgow Priest</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Midwinter Break (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1193501": {
+   "d": "Whistle (2026): Horror/Mystery film. Story: When a misfit group of unwitting high school students… See cast, budget $2M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/finq0JnC6tIMkKczzyxLJjgWFfT.jpg",
+   "industry": "world",
+   "k": "Whistle, Whistle movie, Whistle cast, Whistle story, Whistle box office collection, Whistle budget, Whistle review, Whistle rating, Whistle release date, Whistle trailer, Whistle Horror, Whistle Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dafne Keen"
+     },
+     {
+      "@type": "Person",
+      "name": "Sophie Nélisse"
+     },
+     {
+      "@type": "Person",
+      "name": "Sky Yang"
+     },
+     {
+      "@type": "Person",
+      "name": "Jhaleil Swaby"
+     },
+     {
+      "@type": "Person",
+      "name": "Alissa Skovbye"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 749,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Whistle (2026): Horror/Mystery film. Story: When a misfit group of unwitting high school students… See cast, budget $2M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Corin Hardy"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/finq0JnC6tIMkKczzyxLJjgWFfT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1193501",
+    "name": "Whistle",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1193501"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Whistle (2026)</h1>\n<p class=\"ssr-lead\">When a misfit group of unwitting high school students stumbles upon a cursed Aztec Death Whistle, they discover that blowing it unleashes a terrifying sound that summons their future deaths to hunt them down.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 January 2026</li><li>Runtime: 100 minutes</li><li>Director: Corin Hardy</li><li>Genres: Horror, Mystery</li><li>Budget: $2M</li><li>TMDB rating: 6.3/10 (749 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dafne Keen as Chrys Willet</li><li>Sophie Nélisse as Ellie Gains</li><li>Sky Yang as Rel Taylor</li><li>Jhaleil Swaby as Dean Jackson</li><li>Alissa Skovbye as Grace Browning</li><li>Percy Hynes White as Noah Haggerty</li><li>Michelle Fairley as Ivy Raymore</li><li>Nick Frost as Mr. Craven</li><li>Mika Amonsen as Tanner Church</li><li>Stephen Kalyn as Mason &quot;Horse&quot; Raymore</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Whistle (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:1261501": {
    "d": "Ad Vitam (2025): Action/Crime film. Story: When he and his pregnant wife are attacked in their… See cast, TMDB rating 6.2/10, and release date 9 January 2025.",
    "img": "https://image.tmdb.org/t/p/w780/dMloNvayweggmvv0UD0iOJIkkbH.jpg",
@@ -193,6 +320,270 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Ad Vitam (2025)</h1>\n<p class=\"ssr-lead\">When he and his pregnant wife are attacked in their home, a former elite agent becomes trapped in a deadly manhunt tied to his own painful past.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 January 2025</li><li>Runtime: 97 minutes</li><li>Director: Rodolphe Lauga</li><li>Genres: Action, Crime, Drama</li><li>TMDB rating: 6.2/10 (474 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Guillaume Canet as Franck Lazareff</li><li>Alexis Manenti as Nico</li><li>Stéphane Caillard as Leo</li><li>Nassim Lyes as Ben</li><li>Zita Hanrot as Manon</li><li>Johan Heldenbergh as Vanaken</li><li>Etienne Guillou-Kervern as Stanislas Lacaze</li><li>Jamel Blissat as Homme DGSI 2</li><li>Maurice Chan as Le policier scientifique</li><li>Laurent Merillon as Gendarme GIGN</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Ad Vitam (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
+  },
+  "movie:1397201": {
+   "d": "Golden Kamuy -The Abashiri Prison Raid- (2026): Action/Drama film. Story: As each group pursues their mission, a fierce battle… See cast and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
+   "industry": "world",
+   "k": "Golden Kamuy -The Abashiri Prison Raid-, Golden Kamuy -The Abashiri Prison Raid- movie, Golden Kamuy -The Abashiri Prison Raid- cast, Golden Kamuy -The Abashiri Prison Raid- story, Golden Kamuy -The Abashiri Prison Raid- box office collection, Golden Kamuy -The Abashiri Prison Raid- budget, Golden Kamuy -The Abashiri Prison Raid- review, Golden Kamuy -The Abashiri Prison Raid- rating, Golden Kamuy -The Abashiri Prison Raid- release date, Golden Kamuy -The Abashiri Prison Raid- trailer, Golden Kamuy -The Abashiri Prison Raid- Action, Golden Kamuy -The Abashiri Prison Raid- Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kento Yamazaki"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Yamada"
+     },
+     {
+      "@type": "Person",
+      "name": "Gordon Maeda"
+     },
+     {
+      "@type": "Person",
+      "name": "Asuka Kudo"
+     },
+     {
+      "@type": "Person",
+      "name": "Shuntaro Yanagi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 40,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Golden Kamuy -The Abashiri Prison Raid- (2026): Action/Drama film. Story: As each group pursues their mission, a fierce battle… See cast and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kenji Katagiri"
+     }
+    ],
+    "duration": "PT124M",
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1397201",
+    "name": "Golden Kamuy -The Abashiri Prison Raid-",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1397201"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Golden Kamuy -The Abashiri Prison Raid- (2026)</h1>\n<p class=\"ssr-lead\">As each group pursues their mission, a fierce battle unfolds over the tattooed prisoners. Who is friend, and who is foe? The fight leads them all to Abashiri Prison, where Noppera-bo, the man who holds all the answers, is locked away...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 March 2026</li><li>Runtime: 124 minutes</li><li>Director: Kenji Katagiri</li><li>Genres: Action, Drama, History, Adventure</li><li>TMDB rating: 7.5/10 (40 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kento Yamazaki as Saichi Sugimoto</li><li>Anna Yamada as Asirpa</li><li>Gordon Maeda as Hyakunosuke Ogata</li><li>Asuka Kudo as Hajime Tsukishima</li><li>Shuntaro Yanagi as Kohei Nikaido</li><li>Akihisa Shiono as Kantaro Okuyama</li><li>Yu Inaba as Tokishige Usami</li><li>Yuma Yamoto as Yoshitake Shiraishi</li><li>Ryohei Otani as Genjiro Tanigaki</li><li>Maryjun Takahashi as Inkarmat</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Golden Kamuy -The Abashiri Prison Raid- (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1508701": {
+   "d": "God Forgives Everyone (2026): Comedy/Drama film. Story: Arturo is a lonely, gluttonous, and disillusioned… See cast and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8q3KfFYAlAk0ldhA7JJTAR0eupo.jpg",
+   "industry": "world",
+   "k": "God Forgives Everyone, God Forgives Everyone movie, God Forgives Everyone cast, God Forgives Everyone story, God Forgives Everyone box office collection, God Forgives Everyone budget, God Forgives Everyone review, God Forgives Everyone rating, God Forgives Everyone release date, God Forgives Everyone Comedy, God Forgives Everyone Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Pif"
+     },
+     {
+      "@type": "Person",
+      "name": "Carlos Hipólito"
+     },
+     {
+      "@type": "Person",
+      "name": "Giusy Buscemi"
+     },
+     {
+      "@type": "Person",
+      "name": "Lollo Franco"
+     },
+     {
+      "@type": "Person",
+      "name": "Alessandro Lui"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 60,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "God Forgives Everyone (2026): Comedy/Drama film. Story: Arturo is a lonely, gluttonous, and disillusioned… See cast and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Pif"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8q3KfFYAlAk0ldhA7JJTAR0eupo.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1508701",
+    "name": "God Forgives Everyone",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1508701"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>God Forgives Everyone (2026)</h1>\n<p class=\"ssr-lead\">Arturo is a lonely, gluttonous, and disillusioned Sicilian real estate agent. His mundane life finally finds its spark through his one true passion: Sicilian pastries. It’s over a tray of cannoli that he meets his soulmate, Flora. She is everything he ever dreamed of—beautiful, witty, and brilliant. To top it off, she’s a pastry chef. However, a divine obstacle stands between them: God. While Flora is a devout, fervent Catholic, Arturo abandoned his faith as a child. Desperate not to lose the woman of his dreams, he decides to &quot;fake it &#x27;til he makes it,&quot; pretending to be a man of deep conviction. Guiding Arturo on this chaotic journey toward truth, faith, and Flora’s heart is an unlikely mentor and friend: Pope Francis himself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 April 2026</li><li>Runtime: 113 minutes</li><li>Director: Pif</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 6.2/10 (60 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pif as Arturo</li><li>Carlos Hipólito as Pope Francis</li><li>Giusy Buscemi as Flora</li><li>Lollo Franco as Notaio Mancuso</li><li>Alessandro Lui as Pippo</li><li>Giuseppe Menzo as Roberto</li></ul>\n</article>",
+   "t": "God Forgives Everyone (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1571101": {
+   "d": "Evolution (2026): Animation/Family film. Story: When an alien substance mixes Zoe’s DNA with that of… See cast and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zihczzQLrtNufyLoofytqQi6yep.jpg",
+   "industry": "world",
+   "k": "Evolution, Evolution movie, Evolution cast, Evolution story, Evolution box office collection, Evolution budget, Evolution review, Evolution rating, Evolution release date, Evolution Animation, Evolution Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Elena Jiménez"
+     },
+     {
+      "@type": "Person",
+      "name": "Claudia Caneda"
+     },
+     {
+      "@type": "Person",
+      "name": "Juan Amador Pulido Fernández"
+     },
+     {
+      "@type": "Person",
+      "name": "Luis Posada"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrea Villaverde"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 28,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Evolution (2026): Animation/Family film. Story: When an alien substance mixes Zoe’s DNA with that of… See cast and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Julio Soto Gúrpide"
+     },
+     {
+      "@type": "Person",
+      "name": "Zayra Muñoz Dominguez"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zihczzQLrtNufyLoofytqQi6yep.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1571101",
+    "name": "Evolution",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1571101"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Evolution (2026)</h1>\n<p class=\"ssr-lead\">When an alien substance mixes Zoe’s DNA with that of her exotic pets, a hilarious adventure begins where humans turn into animals, animals turn into humans, and everyone must come to an agreement to save the world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 February 2026</li><li>Runtime: 94 minutes</li><li>Director: Julio Soto Gúrpide, Zayra Muñoz Dominguez</li><li>Genres: Animation, Family, Comedy</li><li>TMDB rating: 7.0/10 (28 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Elena Jiménez as Zoe (voice)</li><li>Claudia Caneda as Peggy (voice) (as Claudia Martínez de Aguirre Caneda)</li><li>Juan Amador Pulido Fernández as Gordon (voice)</li><li>Luis Posada as Rufus (voice) (as Luis Posada Cugat)</li><li>Andrea Villaverde as Blinky (voice)</li><li>Iker Bengoetxea Goya as Womby / Kyle (voice)</li><li>Rodrigo Martín Sacristán as TJ (voice)</li><li>Silvia Sarmentera as Ronnie (voice)</li><li>José María Larrú Cuevas as Sr. Ramírez (voice)</li><li>Vera Bosch Moreno as Donna (voice)</li></ul>\n</article>",
+   "t": "Evolution (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1751701": {
+   "d": "After Impact (2026): Science Fiction/Drama film. Story: After losing his father, Ethan Nichols inherits one… See cast, budget $100.0k, and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
+   "industry": "world",
+   "k": "After Impact, After Impact movie, After Impact cast, After Impact story, After Impact box office collection, After Impact budget, After Impact review, After Impact rating, After Impact release date, After Impact trailer, After Impact Science Fiction, After Impact Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michiel Rensen"
+     },
+     {
+      "@type": "Person",
+      "name": "Maxie Li"
+     },
+     {
+      "@type": "Person",
+      "name": "Riki Antonievich"
+     },
+     {
+      "@type": "Person",
+      "name": "Will Clague"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephanie Ramlose"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 32,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "After Impact (2026): Science Fiction/Drama film. Story: After losing his father, Ethan Nichols inherits one… See cast, budget $100.0k, and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michiel Rensen"
+     },
+     {
+      "@type": "Person",
+      "name": "Liam Carter"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Science Fiction",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1751701",
+    "name": "After Impact",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1751701"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>After Impact (2026)</h1>\n<p class=\"ssr-lead\">After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family’s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he&#x27;s not as alone as he believed.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 September 2026</li><li>Runtime: 95 minutes</li><li>Director: Michiel Rensen, Liam Carter</li><li>Genres: Science Fiction, Drama, Thriller</li><li>Budget: $100.0k</li><li>TMDB rating: 5.7/10 (32 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michiel Rensen as Ethan</li><li>Maxie Li as Jessie</li><li>Riki Antonievich as Jack</li><li>Will Clague as Connor</li><li>Stephanie Ramlose as Elle</li><li>Lee-Ann Dirks as Sophie</li><li>James Crompton as Religious Member</li><li>Moehau Hodges-Tai as Desmond</li><li>Lisa Zhang as Madeline</li><li>Karlton Laing as Phillip</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "After Impact (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:203101": {
    "d": "High School of the Dead: Drifters of the Dead (2011): Comedy/Animation film. Story: In their efforts to find a safe haven from the zombie… See cast.",

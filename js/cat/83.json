@@ -1,7 +1,321 @@
 {
  "bucket": "83",
- "count": 12,
+ "count": 22,
  "titles": {
+  "movie:1101383": {
+   "backdrop_path": "/wnR8pwWtoL3TFwP41mLCt91ReCt.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Denise Platt",
+     "n": "Anne Hathaway"
+    },
+    {
+     "c": "Greg Platt",
+     "n": "Ewan McGregor"
+    },
+    {
+     "c": "Audrey Platt",
+     "n": "Maisy Stella"
+    },
+    {
+     "c": "Brian Platt",
+     "n": "Christian Convery"
+    },
+    {
+     "c": "Jeannette Christiansen",
+     "n": "Jordan Alexa Davis"
+    },
+    {
+     "c": "Mel Jacobs",
+     "n": "P.J. Byrne"
+    },
+    {
+     "c": "Kaden Tucker",
+     "n": "Hudson Meek"
+    },
+    {
+     "c": "Mrs. Huddleston",
+     "n": "Anne Gee Byrd"
+    },
+    {
+     "c": "Mrs. Valcourt",
+     "n": "Emily Kuroda"
+    },
+    {
+     "c": "Zachary",
+     "n": "Simms May"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "David Robert Mitchell"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 1101383,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+   "popularity": 38.8836,
+   "poster_path": "/7DmtuAK5gYGlMFA45Oxkl1bEpIC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-14",
+   "revenue": 120363694,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Where goes the neighborhood.",
+   "title": "The End of Oak Street",
+   "trailer": {
+    "key": "u4tgctWuHc0",
+    "name": "Tickets now on sale",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.045,
+   "vote_count": 2383
+  },
+  "movie:1102883": {
+   "backdrop_path": "/9eynUDRhChIsgSYLK82aC4zIQ2M.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Mother Mary",
+     "n": "Anne Hathaway"
+    },
+    {
+     "c": "Sam Anselm",
+     "n": "Michaela Coel"
+    },
+    {
+     "c": "Hilda Offer",
+     "n": "Hunter Schafer"
+    },
+    {
+     "c": "Imogen",
+     "n": "FKA twigs"
+    },
+    {
+     "c": "Jade",
+     "n": "Sian Clifford"
+    },
+    {
+     "c": "Nikki",
+     "n": "Kaia Gerber"
+    },
+    {
+     "c": "Miel Contrera",
+     "n": "Alba Baptista"
+    },
+    {
+     "c": "Emily",
+     "n": "Atheena Frizzell"
+    },
+    {
+     "c": "Tessa",
+     "n": "Jessica Brown Findlay"
+    },
+    {
+     "c": "Kyla",
+     "n": "Isaura Barbé-Brown"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "David Lowery"
+   ],
+   "genres": [
+    "Music",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 1102883,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.",
+   "popularity": 8.0741,
+   "poster_path": "/uVcsN3yoHh7ZcJ6ecj1FJfv7dLa.jpg",
+   "production_countries": [
+    "US",
+    "DE",
+    "IE",
+    "FI"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-16",
+   "revenue": 2982197,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This is not a ghost story.",
+   "title": "Mother Mary",
+   "trailer": {
+    "key": "aqYHOsuje1E",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 231
+  },
   "movie:11583": {
    "backdrop_path": "/hRqwp6ee3qKnUWLw6S4nj9yMwv0.jpg",
    "budget": 6000000,
@@ -123,6 +437,404 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 461
+  },
+  "movie:1259983": {
+   "backdrop_path": "/t77v17Y74eIQDSITsBHtiySOGPr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Matthieu Vasseur",
+     "n": "Pierre Niney"
+    },
+    {
+     "c": "Adèle",
+     "n": "Marion Barbeau"
+    },
+    {
+     "c": "Julien",
+     "n": "Anthony Bajon"
+    },
+    {
+     "c": "Christophe Vasseur",
+     "n": "Christophe Montenez"
+    },
+    {
+     "c": "Rudy",
+     "n": "Jonathan Turnbull"
+    },
+    {
+     "c": "Sam",
+     "n": "Raphaëlle Simon"
+    },
+    {
+     "c": "Hélène",
+     "n": "Tracy Gotoas"
+    },
+    {
+     "c": "Peter Conrad",
+     "n": "Holt McCallany"
+    },
+    {
+     "c": "Karla Demaison",
+     "n": "Léonie Simaga"
+    },
+    {
+     "c": "Self",
+     "n": "Cyril Hanouna"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15+",
+   "date_kind": "release",
+   "director": [
+    "Yann Gozlan"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1259983,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Matt, a charismatic coach, captivates crowds until he spirals into a disturbing downward spiral.",
+   "popularity": 3.0828,
+   "poster_path": "/oy9SBxmzL6pG5Lckh9o2Wa1IWBr.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-28",
+   "revenue": 0,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Beware of your idols.",
+   "title": "Guru",
+   "trailer": {
+    "key": "18dcAAAQoZ4",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.029,
+   "vote_count": 349
+  },
+  "movie:1309083": {
+   "backdrop_path": "/9MeHubuKm7XJLx68LDEkE8yVnWZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dolly",
+     "n": "Max the Impaler"
+    },
+    {
+     "c": "Macy",
+     "n": "Fabianne Therese"
+    },
+    {
+     "c": "Chase",
+     "n": "Seann William Scott"
+    },
+    {
+     "c": "Tobe",
+     "n": "Ethan Suplee"
+    },
+    {
+     "c": "Billy",
+     "n": "Russ Tiller"
+    },
+    {
+     "c": "Aunt Sadie",
+     "n": "Michalina Scorzelli"
+    },
+    {
+     "c": "Rachel",
+     "n": "Kate Cobb"
+    },
+    {
+     "c": "Evy",
+     "n": "Eve Blackhurst"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rod Blackhurst"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 1309083,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Young Macy is abducted by a deranged, monstrous figure who wants to raise her as its child.",
+   "popularity": 4.5992,
+   "poster_path": "/oJJquv1sg5XMTIyNHxEm0KLo696.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-06",
+   "revenue": 1062322,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Mommy knows best.",
+   "title": "Dolly",
+   "trailer": {
+    "key": "LALT2B-Ubpk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.658,
+   "vote_count": 250
+  },
+  "movie:1365683": {
+   "backdrop_path": "/hVQbT0JTPSFvmmSE6vASWSOCTAY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cecilia",
+     "n": "Tecla Insolia"
+    },
+    {
+     "c": "Antonio Vivaldi",
+     "n": "Michele Riondino"
+    },
+    {
+     "c": "Governatore",
+     "n": "Andrea Pennacchi"
+    },
+    {
+     "c": "Priora",
+     "n": "Fabrizia Sacchi"
+    },
+    {
+     "c": "Laura",
+     "n": "Hildegard De Stefano"
+    },
+    {
+     "c": "Marietta",
+     "n": "Cosima Centurioni"
+    },
+    {
+     "c": "Agnese",
+     "n": "Federica Girardello"
+    },
+    {
+     "c": "Caterina",
+     "n": "Rebecca Antonaci"
+    },
+    {
+     "c": "Maddalena",
+     "n": "Chiara Sacco"
+    },
+    {
+     "c": "Frederick IV of Denmark",
+     "n": "Miko Jarry"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Damiano Michieletto"
+   ],
+   "genres": [
+    "History",
+    "Drama",
+    "Music"
+   ],
+   "id": 1365683,
+   "industry": "world",
+   "origin_country": [
+    "IT",
+    "FR"
+   ],
+   "original_language": "it",
+   "overview": "A talented violinist, Cecilia, confined in an orphanage, meets Vivaldi who becomes her teacher. Under his mentorship and through his music, she gains courage to break free from the life she was destined for and pursue her passion.",
+   "popularity": 1.9887,
+   "poster_path": "/lu2sF3dRYGgzhLvoc9yZNSKtlFO.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+     "name": "BFI Player",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lWzSEjT62Ob0XIHXdN7G4OQWCAr.png",
+     "name": "BFI Player Amazon Channel",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/45RXTNyLafB9AKaZPNHryi2T9x1.png",
+     "name": "BFI Player Apple TV Channel",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-04",
+   "revenue": 2861049,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Primavera",
+   "trailer": {
+    "key": "J-fEjuVy5cQ",
+    "name": "Official UK & IRE Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 121
   },
   "movie:14283": {
    "backdrop_path": "/kOpaLjBnfpRqgo4vE9ViIZINt5J.jpg",
@@ -315,6 +1027,547 @@
    "type": "movie",
    "vote_average": 7.3,
    "vote_count": 466
+  },
+  "movie:1433583": {
+   "backdrop_path": "/myA2cjsISTbTJQK6HWnZffFJK6j.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Samuel Murphy",
+     "n": "Ethan Hawke"
+    },
+    {
+     "c": "Warden Clancy",
+     "n": "Russell Crowe"
+    },
+    {
+     "c": "Anna",
+     "n": "Julia Jones"
+    },
+    {
+     "c": "Rankin",
+     "n": "Austin Amelio"
+    },
+    {
+     "c": "Singh",
+     "n": "Avi Nash"
+    },
+    {
+     "c": "Olson",
+     "n": "Lucas Lynggaard Tønnesen"
+    },
+    {
+     "c": "Amis",
+     "n": "Sam Hazeldine"
+    },
+    {
+     "c": "Letender",
+     "n": "George Burgess"
+    },
+    {
+     "c": "Big Prisoner",
+     "n": "Jeff Hallman"
+    },
+    {
+     "c": "Taggert",
+     "n": "Alec Newman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Padraic McKinley"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1433583,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
+   "popularity": 13.1063,
+   "poster_path": "/bsrd6ItRwNrg3DGlUDYrEy1S9C1.jpg",
+   "production_countries": [
+    "US",
+    "DE",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-16",
+   "revenue": 0,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A tale of good and evil.",
+   "title": "The Weight",
+   "trailer": {
+    "key": "7YpuMymmiJ8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 97
+  },
+  "movie:1464883": {
+   "backdrop_path": "/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lamia",
+     "n": "Baneen Ahmed Nayyef"
+    },
+    {
+     "c": "Saeed",
+     "n": "Sajad Mohamad Qasem"
+    },
+    {
+     "c": "Bibi",
+     "n": "Waheed Thabet Khreibat"
+    },
+    {
+     "c": "Jasim",
+     "n": "Rahim AlHaj"
+    },
+    {
+     "c": "Muthanna",
+     "n": "Muthanna Malaghi"
+    },
+    {
+     "c": "Musa",
+     "n": "Ahmad Qasem Saywan"
+    },
+    {
+     "c": "Majdi",
+     "n": "Thaer Salem"
+    },
+    {
+     "c": "Rahma",
+     "n": "Fatima Abouharoon"
+    },
+    {
+     "c": "Izzat",
+     "n": "Mohammed Rheimeh"
+    },
+    {
+     "c": "Hiyam",
+     "n": "Rokia Alwadi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Hasan Hadi"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1464883,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "While people across 1990’s Iraq struggle to survive, 9-year-old Lamia has been selected to prepare a cake to celebrate the President’s birthday. In a landscape of fear and scarcity, where basic ingredients are nearly impossible to find, Lamia sets out on a determined journey throughout the big city in search of eggs, flour, and sugar. Accompanied by her grandmother, her loyal friend Saeed, and her pet rooster Hindi, she navigates vendors and police officers along the way.",
+   "popularity": 2.9106,
+   "poster_path": "/uSrozVUxIUaer6FIUHHFtOdbqj8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-22",
+   "revenue": 4084,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The President's Cake",
+   "trailer": {
+    "key": "8i3idbVnC6I",
+    "name": "Official UK Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 125
+  },
+  "movie:1468683": {
+   "backdrop_path": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nick Nelson",
+     "n": "Kit Connor"
+    },
+    {
+     "c": "Charlie Spring",
+     "n": "Joe Locke"
+    },
+    {
+     "c": "Tao Xu",
+     "n": "William Gao"
+    },
+    {
+     "c": "Elle Argent",
+     "n": "Yasmin Finney"
+    },
+    {
+     "c": "Tara Jones",
+     "n": "Corinna Brown"
+    },
+    {
+     "c": "Darcy Olsson",
+     "n": "Kizzy Edgell"
+    },
+    {
+     "c": "Isaac Henderson",
+     "n": "Tobie Donovan"
+    },
+    {
+     "c": "Tori Spring",
+     "n": "Jenny Walser"
+    },
+    {
+     "c": "Imogen Heaney",
+     "n": "Rhea Norwood"
+    },
+    {
+     "c": "Sahar Zahid",
+     "n": "Leila Khan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Wash Westmoreland"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 1468683,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
+   "popularity": 5.7978,
+   "poster_path": "/msN87xAXVdHjIcL2aijzY08rOqO.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-14",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Love like there's no ending.",
+   "title": "Heartstopper Forever",
+   "trailer": {
+    "key": "locuQ-skySE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.22,
+   "vote_count": 296
+  },
+  "movie:1601083": {
+   "backdrop_path": "/duqqXguVFjNK8oZBWsGMXD47LJI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "",
+     "n": "Egbert Jan Weeber"
+    },
+    {
+     "c": "",
+     "n": "Jelka van Houten"
+    },
+    {
+     "c": "",
+     "n": "Loet Janssen"
+    },
+    {
+     "c": "",
+     "n": "Dick van den Toorn"
+    },
+    {
+     "c": "",
+     "n": "Joke Tjalsma"
+    },
+    {
+     "c": "",
+     "n": "Carly Wijs"
+    },
+    {
+     "c": "",
+     "n": "Daniel Cornelissen"
+    },
+    {
+     "c": "",
+     "n": "Nadja Hüpscher"
+    },
+    {
+     "c": "",
+     "n": "Rhoda Nova Wilting"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Reinier Smit"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1601083,
+   "industry": "world",
+   "origin_country": [
+    "NL"
+   ],
+   "original_language": "nl",
+   "overview": "When reclusive Paul unexpectedly inherits a dog from a deceased relative, his carefully ordered life is thrown into chaos. The energetic dog forces him out of his comfort zone and leads him to Laura, prompting Paul to slowly rediscover love, connection, and life itself.",
+   "popularity": 0.7877,
+   "poster_path": "/yBIps8NDSzRafc9QaruUd0gXT4B.jpg",
+   "production_countries": [
+    "NL"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-15",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "nl"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "I Call Him Dog",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.935,
+   "vote_count": 23
+  },
+  "movie:1798383": {
+   "backdrop_path": "/nQiSQg10DvoaXLFeqkPSDGv6vF7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Host",
+     "n": "Bertie Gregory"
+    },
+    {
+     "c": "Self",
+     "n": "Albert 'Butch' Saunders"
+    },
+    {
+     "c": "Self",
+     "n": "Mike Reimer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1798383,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Reconnecting with a pack of wolves he has followed for seven years, Bertie sets out to capture one of the Arctic's most dangerous and rarely filmed hunts: wolves taking on a bull moose, prey roughly ten times their size. Led by Kona, a striking white breeding male, the pack faces a critical winter as dwindling food supplies, an encroaching rival wolf and an aging leader threaten its survival.",
+   "popularity": 12.0777,
+   "poster_path": "/fopmDU345HPkMC9iUaNQEY0uRkk.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-11-06",
+   "revenue": 0,
+   "runtime": 44,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Wolves Up Close with Bertie Gregory",
+   "trailer": {
+    "key": "3hCMUaREGL8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.872,
+   "vote_count": 47
   },
   "movie:21683": {
    "backdrop_path": "/kaYyrF2iPVtGN3f4eKI0AqHtVNc.jpg",

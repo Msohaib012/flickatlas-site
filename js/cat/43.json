@@ -1,7 +1,716 @@
 {
  "bucket": "43",
- "count": 8,
+ "count": 14,
  "titles": {
+  "movie:1213243": {
+   "backdrop_path": "/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Raya / Ticket",
+     "n": "Yash"
+    },
+    {
+     "c": "Nadia",
+     "n": "Kiara Advani"
+    },
+    {
+     "c": "Ganga",
+     "n": "Nayanthara"
+    },
+    {
+     "c": "Elizabeth",
+     "n": "Huma Qureshi"
+    },
+    {
+     "c": "Rebecca",
+     "n": "Tara Sutaria"
+    },
+    {
+     "c": "Mellisa",
+     "n": "Rukmini Vasanth"
+    },
+    {
+     "c": "Karmadi",
+     "n": "Sudev Nair"
+    },
+    {
+     "c": "Tony",
+     "n": "Akshay Oberoi"
+    },
+    {
+     "c": "Bheera",
+     "n": "Balaji Manohar"
+    },
+    {
+     "c": "Salvador",
+     "n": "Darrell D'Silva"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Geetu Mohandas"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "id": 1213243,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "kn",
+   "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
+   "popularity": 14.8015,
+   "poster_path": "/5RTd3YCLWbEhbe9OXRuNX3pbT5U.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-26",
+   "revenue": 3386250,
+   "runtime": 192,
+   "source": "catalogue",
+   "spoken_languages": [
+    "kn",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A fairy tale for grown-ups.",
+   "title": "Toxic",
+   "trailer": {
+    "key": "EfluEyQ5QIA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.594,
+   "vote_count": 85
+  },
+  "movie:1260643": {
+   "backdrop_path": "/mA03GgESjKMCUAiCywyx6I7kSZx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Paul McCartney"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Linda McCartney"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Denny Laine"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Denny Seiwell"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Henry McCullough"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Jimmy McCulloch"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "John Lennon"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "George Harrison"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Ringo Starr"
+    },
+    {
+     "c": "Self (voice)",
+     "n": "Mick Jagger"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Morgan Neville"
+   ],
+   "genres": [
+    "Documentary",
+    "Music"
+   ],
+   "id": 1260643,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the breakup of The Beatles, Paul McCartney formed Wings with his wife Linda. Archival footage captures their life together, with Linda inspiring Paul's music in the 1970s, a decade in which Wings achieved numerous hits.",
+   "popularity": 2.0173,
+   "poster_path": "/6wHOJ6pAkj0RWCZx8U4dqsrlQpa.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-19",
+   "revenue": 0,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Man on the Run",
+   "trailer": {
+    "key": "pBcllNrY0u8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.462,
+   "vote_count": 39
+  },
+  "movie:1315843": {
+   "backdrop_path": "/pt9wLsvNywyPT3485P30CPRICU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fred",
+     "n": "Rafael Infante"
+    },
+    {
+     "c": "Roberta",
+     "n": "Dani Calabresa"
+    },
+    {
+     "c": "Matheus",
+     "n": "Babu Santana"
+    },
+    {
+     "c": "Dante",
+     "n": "Dan Ferreira"
+    },
+    {
+     "c": "Renata",
+     "n": "Livia la Gatto"
+    },
+    {
+     "c": "Brenda",
+     "n": "Macla Tenório"
+    },
+    {
+     "c": "João",
+     "n": "Xande Valois"
+    },
+    {
+     "c": "Simone",
+     "n": "Ana Régis"
+    },
+    {
+     "c": "Beth",
+     "n": "Docy Moreira"
+    },
+    {
+     "c": "Pontes",
+     "n": "Rodolfo Vaz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Carolina Durão"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1315843,
+   "industry": "world",
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "Roberta is tired of taking care of the house and the kids all by herself, so she decides to take a vacation, leaving her husband to look after the children. The result is that the house is turned upside down as Fred tries to balance family demands with his work responsibilities. Amid laughter and chaos, the film shows how a family can overcome challenges when they stick together.",
+   "popularity": 1.6641,
+   "poster_path": "/s99RBLQXE0GaqrlprP1HwV5HOQO.jpg",
+   "production_countries": [
+    "BR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-23",
+   "revenue": 0,
+   "runtime": 0,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Daddy's in Trouble",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 26
+  },
+  "movie:1376043": {
+   "backdrop_path": "/14fP7wku6XCsvhEQhPONXFzMKH0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mata",
+     "n": "Eye Haïdara"
+    },
+    {
+     "c": "Héloïse",
+     "n": "Joséphine Japy"
+    },
+    {
+     "c": "Antoine",
+     "n": "Raphaël Personnaz"
+    },
+    {
+     "c": "Émile",
+     "n": "Hakim Jemili"
+    },
+    {
+     "c": "Jeanne",
+     "n": "Chloé Jouannet"
+    },
+    {
+     "c": "Carole",
+     "n": "Juliette Chaigneau"
+    },
+    {
+     "c": "Lucas",
+     "n": "Pierre-Antoine Billon"
+    },
+    {
+     "c": "India",
+     "n": "Mélanie Laurent"
+    },
+    {
+     "c": "",
+     "n": "Aleksandr Kuznetsov"
+    },
+    {
+     "c": "Axel",
+     "n": "Brice Bexter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Rachel Lang"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "id": 1376043,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Wounded while on a clandestine operation in Niger, French secret agent Mata loses track of her colleague Antoine, captured on the spot. Upon her return, she volunteers for a counter-espionage mission in the Alps, with the intuition that this new assignment might somehow be connected to her traumatic mission in Africa. Haunted by Antoine’s captivity and convinced that her managers are hiding information from her, Mata embarks on a race against time, outside any official framework... at the risk of losing everything.",
+   "popularity": 1.7071,
+   "poster_path": "/aiFnVjZFZ9WCz97oBHZ5ps13PiM.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-27",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Mata",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.222,
+   "vote_count": 27
+  },
+  "movie:1481343": {
+   "backdrop_path": "/pLyaH6k69OJHnONSmN3R7Peh6HE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sara",
+     "n": "Kathryn Newton"
+    },
+    {
+     "c": "Max",
+     "n": "Lana Condor"
+    },
+    {
+     "c": "James",
+     "n": "Nico Hiraga"
+    },
+    {
+     "c": "Greg",
+     "n": "Gavin Casalegno"
+    },
+    {
+     "c": "Adrienne",
+     "n": "Tommi Rose"
+    },
+    {
+     "c": "Wat",
+     "n": "Tayme Thapthimthong"
+    },
+    {
+     "c": "Captain",
+     "n": "Sahajak Boonthanakit"
+    },
+    {
+     "c": "Ryan",
+     "n": "Harrison Luna"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jeff Wadlow"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 1481343,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
+   "popularity": 9.5642,
+   "poster_path": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-29",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "th"
+   ],
+   "status": "Released",
+   "tagline": "Paradise has an appetite.",
+   "title": "The Devil's Mouth",
+   "trailer": {
+    "key": "2bp4Viru6Xc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.475,
+   "vote_count": 863
+  },
+  "movie:1601243": {
+   "backdrop_path": "/diKBJ2kJHHfm4nmHTHhprBgfHIF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Oscar Shaw",
+     "n": "Michael Jai White"
+    },
+    {
+     "c": "Ray Jay",
+     "n": "Tyrese Gibson"
+    },
+    {
+     "c": "Ernie",
+     "n": "Isaiah Washington"
+    },
+    {
+     "c": "Tron",
+     "n": "Andrew C. English Jr."
+    },
+    {
+     "c": "Detective Nina Perez",
+     "n": "Cecile Cubiló"
+    },
+    {
+     "c": "Vanessa Shaw",
+     "n": "Jeanette Josue"
+    },
+    {
+     "c": "Soo Kwon",
+     "n": "Hiro Ortiz"
+    },
+    {
+     "c": "Jintao kwon",
+     "n": "James Choi"
+    },
+    {
+     "c": "Chuck Ross",
+     "n": "Rich Paul"
+    },
+    {
+     "c": "Commander Archer",
+     "n": "Vince Jolivette"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "R. Ellis Frazier",
+    "Justin Nesbitt"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller",
+    "Western"
+   ],
+   "id": 1601243,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After retiring from the police force, a relentless detective haunted by the tragic loss of his closest friend sets out on a perilous quest for vengeance, seeking redemption and fighting to restore justice to the streets he once swore to protect.",
+   "popularity": 7.7278,
+   "poster_path": "/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
+   "production_countries": [],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/adymMNlhhLlJl5xccRCrsh3OehD.png",
+     "name": "Starz Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/h25xjouKmiSmFiiqw0aDXbxGZo7.png",
+     "name": "Starz",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tKembbxL7cYdDvFK70xBecbN0G8.png",
+     "name": "Starz Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-09",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Oscar Shaw",
+   "trailer": {
+    "key": "ZMlCJQ2SefU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 43
+  },
   "movie:270343": {
    "backdrop_path": "/lfVwTozLK9hbMXPjZTaEZ74CpKh.jpg",
    "budget": 0,

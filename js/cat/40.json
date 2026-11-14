@@ -1,7 +1,95 @@
 {
  "bucket": "40",
- "count": 23,
+ "count": 30,
  "titles": {
+  "movie:1224440": {
+   "backdrop_path": "/oJPOVGHKzC0lBFjIE7Z4uvKuARl.jpg",
+   "budget": 2129970,
+   "cast": [
+    {
+     "c": "Giuliano",
+     "n": "Maccio Capatonda"
+    },
+    {
+     "c": "Laura",
+     "n": "Sara Lazzaro"
+    },
+    {
+     "c": "Federico",
+     "n": "Alessandro Tiberi"
+    },
+    {
+     "c": "Gianni",
+     "n": "Maurizio Nichetti"
+    },
+    {
+     "c": "Stefano",
+     "n": "Svevo Moltrasio"
+    },
+    {
+     "c": "Ilaria",
+     "n": "Giulia Bolatti"
+    },
+    {
+     "c": "Fabrizio",
+     "n": "Federico Iarlori"
+    },
+    {
+     "c": "Bertrand",
+     "n": "Quentin Darmon"
+    },
+    {
+     "c": "",
+     "n": "Maria Chiara Augenti"
+    },
+    {
+     "c": "",
+     "n": "Mario Bois"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6+",
+   "date_kind": "release",
+   "director": [
+    "Svevo Moltrasio"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1224440,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "The story follows Giuliano, whose life has improved thanks to his working from home, but his colleagues’ poor performance threatens to force everyone back to the office. Meanwhile, he and his wife, Laura, are expecting a second child and are looking for a bigger home. As Laura makes up her mind about a controversial job offer, Giuliano’s co-workers turn their flat into a makeshift office, rekindling their efficiency and organisation. Amid intrusive co-workers and domestic chaos, Giuliano will have to find creative solutions to save his job, his family and the dream of a new home.",
+   "popularity": 0.7687,
+   "poster_path": "/qim9z1ZZWoGh5iDGicKgmrnfiXg.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-04",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Smart Working",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.521,
+   "vote_count": 24
+  },
   "movie:12540": {
    "backdrop_path": "/i4QeiIfRVQUU5iLIjQQcvReqDOB.jpg",
    "budget": 0,
@@ -96,6 +184,620 @@
    "type": "movie",
    "vote_average": 5.98,
    "vote_count": 469
+  },
+  "movie:1282440": {
+   "backdrop_path": "/gsLYR8uALrt2p33iOpqReNW6XyQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Happy Patel/Happy Smith-Paisley",
+     "n": "Vir Das"
+    },
+    {
+     "c": "Mama",
+     "n": "Mona Singh"
+    },
+    {
+     "c": "Rupa",
+     "n": "Mithila Palkar"
+    },
+    {
+     "c": "Geet",
+     "n": "Sharib Hashmi"
+    },
+    {
+     "c": "Roxy",
+     "n": "Srushti Tawade"
+    },
+    {
+     "c": "Jimmy Mario",
+     "n": "Aamir Khan"
+    },
+    {
+     "c": "Milind Morea",
+     "n": "Imran Khan"
+    },
+    {
+     "c": "Roger",
+     "n": "Andrew Sloman"
+    },
+    {
+     "c": "Sebastian",
+     "n": "Simon Fielder"
+    },
+    {
+     "c": "Rosemary",
+     "n": "Prajakta Kavalekar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Vir Das",
+    "Kavi Shastri"
+   ],
+   "genres": [
+    "Comedy",
+    "Action",
+    "Romance"
+   ],
+   "id": 1282440,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "Chronically unsuccessful MI7 operative Happy Patel is finally assigned a mission in Goa, where he uncovers his Indian roots and must rescue a high-profile scientist from crime lord Mama. Unaware of his Indian heritage and armed with a comically British accent, Happy’s blunders trigger a string of chaotic mishaps that could lead him to expose a criminal network.",
+   "popularity": 1.9805,
+   "poster_path": "/vsCkxiY2c26C6y4RyTVkpdXIfCW.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-16",
+   "revenue": 0,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "hi",
+    "mr"
+   ],
+   "status": "Released",
+   "tagline": "India is for beginners.",
+   "title": "Happy Patel: Khatarnak Jasoos",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 22
+  },
+  "movie:1400940": {
+   "backdrop_path": "/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+   "budget": 44000000,
+   "cast": [
+    {
+     "c": "Matt Hagen / Clayface",
+     "n": "Tom Rhys Harries"
+    },
+    {
+     "c": "Caitlyn Corr",
+     "n": "Naomi Ackie"
+    },
+    {
+     "c": "Frank Fitzpatrick",
+     "n": "Eddie Marsan"
+    },
+    {
+     "c": "John Borrelli",
+     "n": "Max Minghella"
+    },
+    {
+     "c": "Markos Szabo",
+     "n": "David Dencik"
+    },
+    {
+     "c": "Rosie",
+     "n": "Francesca Corney"
+    },
+    {
+     "c": "Theresa",
+     "n": "Ruby Sear"
+    },
+    {
+     "c": "Bones",
+     "n": "Wil Coban"
+    },
+    {
+     "c": "Corey Bowery",
+     "n": "Joshua James"
+    },
+    {
+     "c": "Patches",
+     "n": "Jake Curran"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "James Watkins"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 1400940,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+   "popularity": 76.3197,
+   "poster_path": "/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-23",
+   "revenue": 112306814,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Look fear in the face.",
+   "title": "Clayface",
+   "trailer": {
+    "key": "f7jlCqdtwdM",
+    "name": "The Plane",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 434
+  },
+  "movie:1492640": {
+   "backdrop_path": "/XohTvvPXiGhUKhiQSvmoMTnj2z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Henry Murray",
+     "n": "Russell Crowe"
+    },
+    {
+     "c": "Ted Kaczynski",
+     "n": "Jacob Tremblay"
+    },
+    {
+     "c": "Joanne Miller",
+     "n": "Shailene Woodley"
+    },
+    {
+     "c": "Christiana Morgan",
+     "n": "Annabelle Wallis"
+    },
+    {
+     "c": "Leo Driver",
+     "n": "Alexander Ludwig"
+    },
+    {
+     "c": "Eddie Turrell",
+     "n": "Marc Menchaca"
+    },
+    {
+     "c": "Dean Kaplan",
+     "n": "Steven Ogg"
+    },
+    {
+     "c": "Bill Ford",
+     "n": "Mark Camacho"
+    },
+    {
+     "c": "Roy",
+     "n": "David Webster"
+    },
+    {
+     "c": "Turk Kaczynski",
+     "n": "Bruce Ramsay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Janus Metz"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Crime"
+   ],
+   "id": 1492640,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+   "popularity": 14.7935,
+   "poster_path": "/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-25",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Where brilliance ends, the madness begins.",
+   "title": "UNABOMBER",
+   "trailer": {
+    "key": "B3tR6qQjbgI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.551,
+   "vote_count": 592
+  },
+  "movie:1550740": {
+   "backdrop_path": "/58BNeI3fxJYwJbo9x4gZNsswj6f.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Professoressa",
+     "n": "Anna Ferzetti"
+    },
+    {
+     "c": "Alessandra",
+     "n": "Sara Silvestro"
+    },
+    {
+     "c": "Sofia",
+     "n": "Zoe Massenti"
+    },
+    {
+     "c": "Margherita",
+     "n": "Anita Serafini"
+    },
+    {
+     "c": "Francesco",
+     "n": "Fabio Bizzarro"
+    },
+    {
+     "c": "Marco",
+     "n": "Federico Micheli"
+    },
+    {
+     "c": "Daniele",
+     "n": "Morgan Sebastian Wahr"
+    },
+    {
+     "c": "Faso",
+     "n": "Paterne Sassaroli"
+    },
+    {
+     "c": "Tarek",
+     "n": "Yothin Clavenzani"
+    },
+    {
+     "c": "Rabhil",
+     "n": "Mounir Khlifi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "10+",
+   "date_kind": "release",
+   "director": [
+    "Umberto Riccioni Carteni"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1550740,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "An English teacher at  technical school in the outskirts of Rome knows that her twenty-four eighteen-year-old students do not consider her a human being, speak ill of her, are ready to contest her and feel a morbid curiosity towards her private life. Still, she tries to relate to them and the result of this effort is \"a great love story\". Cenciarelli describes the lessons (strictly in English, despite the students' protestations), the fights in and out of class, the students' tricks, their need to confront each other, their desire to show themselves superior, their weaknesses and their loneliness. As the seasons go by, the relationship between teacher and students becomes more complicated and deepens, alternating moments of great enthusiasm and great disappointment, until the baccalaureate exam, about which she cares more than they do.",
+   "popularity": 1.0955,
+   "poster_path": "/qyJeSZsQ6oHjDs1npDrax0rhL3L.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-19",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Classmates",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 24
+  },
+  "movie:1654940": {
+   "backdrop_path": "/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yui Katakura",
+     "n": "Ko Shibasaki"
+    },
+    {
+     "c": "Sena",
+     "n": "Eiji Akaso"
+    },
+    {
+     "c": "Masami Ikuyama",
+     "n": "Michitaka Tsutsui"
+    },
+    {
+     "c": "Mizuho Maruyama",
+     "n": "Naomi Nishida"
+    },
+    {
+     "c": "Nachi",
+     "n": "Yui Narumi"
+    },
+    {
+     "c": "Kiriya",
+     "n": "Ryubi Miyase"
+    },
+    {
+     "c": "Doctor",
+     "n": "Koen Kondo"
+    },
+    {
+     "c": "Sena's Mother",
+     "n": "Mari Hamada"
+    },
+    {
+     "c": "Yui's Mother",
+     "n": "Yōko Moriguchi"
+    },
+    {
+     "c": "",
+     "n": "Ichika Osaki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Hiroki Kazama"
+   ],
+   "genres": [
+    "Romance",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1654940,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Given a year to live, frugal 40-year-old Yui finally lets herself spend: \"buying\" nightclub host Sena. What begins as a contract takes an unexpected turn.",
+   "popularity": 38.2757,
+   "poster_path": "/fez7kLyGzpowduJapTFZZ1feCS0.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-11-05",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "One Year to Live, Buy a Man",
+   "trailer": {
+    "key": "WH-RRKQGdJ8",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.396,
+   "vote_count": 24
+  },
+  "movie:1684240": {
+   "backdrop_path": "/weFG1yMIwVsjGr5YfdpltxpBh09.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Jamie Vardy"
+    },
+    {
+     "c": "Self",
+     "n": "Rebekah Vardy"
+    },
+    {
+     "c": "Self",
+     "n": "Marc Albrighton"
+    },
+    {
+     "c": "Self",
+     "n": "Wes Morgan"
+    },
+    {
+     "c": "Self",
+     "n": "Andy King"
+    },
+    {
+     "c": "Self",
+     "n": "Nigel Pearson"
+    },
+    {
+     "c": "Self",
+     "n": "John Morris"
+    },
+    {
+     "c": "Self",
+     "n": "Brett Lovell"
+    },
+    {
+     "c": "Self",
+     "n": "Dave Rennie"
+    },
+    {
+     "c": "Self",
+     "n": "Ron Tanner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jesse Vile"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1684240,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "From part-time footballer to Premier League legend, this is the story of Jamie Vardy's unprecedented path and his rise to the top against all odds.",
+   "popularity": 1.6774,
+   "poster_path": "/d0pODTh6FOwn87iOeXGb7nKOdNT.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-12",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Jamie Vardy",
+   "trailer": {
+    "key": "q7taU9-vOAo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.5,
+   "vote_count": 39
   },
   "movie:171540": {
    "backdrop_path": "/ynWCPMkcx8VO4BmTlTnosbrLw8p.jpg",

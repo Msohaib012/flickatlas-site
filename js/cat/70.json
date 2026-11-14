@@ -1,7 +1,97 @@
 {
  "bucket": "70",
- "count": 14,
+ "count": 20,
  "titles": {
+  "movie:1166170": {
+   "backdrop_path": "/l71OwTdbSuBAF73U10vyjBhGn3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Elsa",
+     "n": "Magalie Lépine-Blondeau"
+    },
+    {
+     "c": "Oscar",
+     "n": "Jonathan Cohen"
+    },
+    {
+     "c": "Inès",
+     "n": "Florence Janas"
+    },
+    {
+     "c": "Arthur",
+     "n": "Jean-Christophe Folly"
+    },
+    {
+     "c": "Mireille",
+     "n": "Anne Benoît"
+    },
+    {
+     "c": "Sofiane",
+     "n": "Soufiane Guerrab"
+    },
+    {
+     "c": "Nadia",
+     "n": "Nina Aboutajedyne"
+    },
+    {
+     "c": "Mère de Sofiane",
+     "n": "Afida Tahri"
+    },
+    {
+     "c": "Père de Sofiane",
+     "n": "Éric Naggar"
+    },
+    {
+     "c": "",
+     "n": "Nanou Garcia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TP",
+   "date_kind": "release",
+   "director": [
+    "Alice Vial"
+   ],
+   "genres": [
+    "Fantasy",
+    "Romance",
+    "Comedy"
+   ],
+   "id": 1166170,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Elsa, a doctor, hides from the world the fact that she can see the dead and help them cross to the other side. Convinced that her gift leads to rejection, she has given up on love, retreating into solitude and her work. That is, until she meets Oscar - a dead man who doesn’t know he’s dead...",
+   "popularity": 1.4984,
+   "poster_path": "/14YiNVSEgxF7IDaQb5S6utq9S9q.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-17",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "You Found Me",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.045,
+   "vote_count": 110
+  },
   "movie:1196470": {
    "backdrop_path": "/2xnLwNvea2TSH0M0oc9iEq2KEVp.jpg",
    "budget": 5270000,
@@ -173,6 +263,109 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 443
+  },
+  "movie:1336770": {
+   "backdrop_path": "/uNA0OVk09Hbwflye3eBoOiGIKGc.jpg",
+   "budget": 1079884,
+   "cast": [
+    {
+     "c": "Hashir",
+     "n": "Hashir"
+    },
+    {
+     "c": "Alan",
+     "n": "Alan Bin Siraj"
+    },
+    {
+     "c": "Ajin",
+     "n": "Ajin Joy"
+    },
+    {
+     "c": "Vinayak",
+     "n": "Vinayak V"
+    },
+    {
+     "c": "DYSP Xavier Alexander",
+     "n": "Alphonse Puthren"
+    },
+    {
+     "c": "Shiyas (Alan's Father)",
+     "n": "Sudheesh"
+    },
+    {
+     "c": "Mujeeb Sir",
+     "n": "Vijay Babu"
+    },
+    {
+     "c": "Ajin's Father",
+     "n": "Vinod Kedamangalam"
+    },
+    {
+     "c": "Benny",
+     "n": "Raveendran"
+    },
+    {
+     "c": "Ameen",
+     "n": "Ameen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Savin Sa"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1336770,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "ml",
+   "overview": "Four friends – Hashir, Alan, Ajin and Vinayak – are considered losers and troublemakers by parents, family and the school management. They face immense social pressure as they reach adulthood, embarking them on an emotional journey of self discovery and acceptance, where they finally learn to take up their responsibilities and find success.",
+   "popularity": 2.3172,
+   "poster_path": "/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "aha"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+     "name": "aha",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-02",
+   "revenue": 21181760,
+   "runtime": 162,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ml"
+   ],
+   "status": "Released",
+   "tagline": "Biopic of a Billion Bros.",
+   "title": "Vaazha II",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.542,
+   "vote_count": 24
   },
   "movie:14070": {
    "backdrop_path": "/rwywuA4irKO1zoMLBhJJaiUHv3U.jpg",
@@ -401,6 +594,465 @@
    "type": "movie",
    "vote_average": 6.978,
    "vote_count": 496
+  },
+  "movie:1466670": {
+   "backdrop_path": "/8VjONCVHYgS3PPDuIuzXZBDhFov.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gil",
+     "n": "Monia Chokri"
+    },
+    {
+     "c": "Jacques",
+     "n": "Niels Schneider"
+    },
+    {
+     "c": "Hudo Maunier",
+     "n": "Rudgy Pajany"
+    },
+    {
+     "c": "Agnès",
+     "n": "Mina Kavani"
+    },
+    {
+     "c": "Ibra",
+     "n": "Oussama Kheddam"
+    },
+    {
+     "c": "Annah",
+     "n": "Clémentine Célarié"
+    },
+    {
+     "c": "Alain",
+     "n": "Christian Benedetti"
+    },
+    {
+     "c": "",
+     "n": "Rabah Nait Oufella"
+    },
+    {
+     "c": "Le rabbin Dubai",
+     "n": "Daniel Cohen"
+    },
+    {
+     "c": "Benoît",
+     "n": "Sébastien Pouderoux"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Géraldine Nakache"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1466670,
+   "industry": "world",
+   "origin_country": [
+    "BE",
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "When Gil meets Jacques, their love seems irresistible. And when she unexpectedly falls pregnant, he convinces her to start a family. However, their hasty marriage reveals that she is not as deeply rooted into the Jewish faith as he is. Jacques reassures her: \"Think good and it will be good\". Little by little, Gil realizes the insidious control he exerts over her life...",
+   "popularity": 1.6181,
+   "poster_path": "/5ta2QFexeUsZ9AncKkgiWwpJDq.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-16",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Think Good",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.029,
+   "vote_count": 35
+  },
+  "movie:1477170": {
+   "backdrop_path": "/jn3TWz4bq2UeEQSWFraoPagmc1f.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Anne",
+     "n": "Sophie Marceau"
+    },
+    {
+     "c": "Louise",
+     "n": "Thaïs Alessandrin"
+    },
+    {
+     "c": "Vincent",
+     "n": "Vincent Elbaz"
+    },
+    {
+     "c": "Alain",
+     "n": "Alexandre Astier"
+    },
+    {
+     "c": "Françoise",
+     "n": "Françoise Fabian"
+    },
+    {
+     "c": "Théo",
+     "n": "Victor Belmondo"
+    },
+    {
+     "c": "Maël",
+     "n": "Jérémy Kapone"
+    },
+    {
+     "c": "Joseph",
+     "n": "Théo Delincak"
+    },
+    {
+     "c": "Jules",
+     "n": "Nathan Japy"
+    },
+    {
+     "c": "Marie",
+     "n": "Isaline Prévost Radeff"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Lisa Azuelos"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1477170,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "At 55, Anne is finally enjoying her freedom after her children leave home. But everything changes when her 23-year-old daughter, Louise, moves back in with her after a professional and romantic failure. And to make matters worse, her son, Théo, announces that she's going to be a grandmother! Anne realizes that life never goes as planned and that, at any age, we are still learning to grow up.",
+   "popularity": 2.5529,
+   "poster_path": "/55VoehmjCk0K90Hy8uaGnc6UEjN.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-11",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "LOL 2.0: Anne’s Golden Hour",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.969,
+   "vote_count": 65
+  },
+  "movie:1582770": {
+   "backdrop_path": "/br4Ra4dRpvR0R7a1zPPkOwGkcky.jpg",
+   "budget": 14330000,
+   "cast": [
+    {
+     "c": "Hamza Ali Mazari / Jaskirat Singh Rangi",
+     "n": "Ranveer Singh"
+    },
+    {
+     "c": "Major Iqbal",
+     "n": "Arjun Rampal"
+    },
+    {
+     "c": "Jameel Jamali",
+     "n": "Rakesh Bedi"
+    },
+    {
+     "c": "Ajay Sanyal",
+     "n": "R. Madhavan"
+    },
+    {
+     "c": "Sushant Bansal",
+     "n": "Manav Gohil"
+    },
+    {
+     "c": "Yalina Jamali",
+     "n": "Sara Arjun"
+    },
+    {
+     "c": "SP Chaudhary Aslam",
+     "n": "Sanjay Dutt"
+    },
+    {
+     "c": "Mohammad Aalam",
+     "n": "Gaurav Gera"
+    },
+    {
+     "c": "Uzair Baloch",
+     "n": "Danish Pandor"
+    },
+    {
+     "c": "Dawood Ibrahim",
+     "n": "Danish Iqbal"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Aditya Dhar"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 1582770,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+   "popularity": 7.576,
+   "poster_path": "/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-19",
+   "revenue": 152900759,
+   "runtime": 235,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi",
+    "pa"
+   ],
+   "status": "Released",
+   "tagline": "The Story of the Unknown Men Unfolds.",
+   "title": "Dhurandhar: The Revenge",
+   "trailer": {
+    "key": "NHk7scrb_9I",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 178
+  },
+  "movie:1792170": {
+   "backdrop_path": "/mC5Y5jmodmTp7T7eyQ8tTBnQRg5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Steven Bay / John Locke",
+     "n": "Aaron Eckhart"
+    },
+    {
+     "c": "Gretchen",
+     "n": "Emmanuelle Chriqui"
+    },
+    {
+     "c": "O'Neill",
+     "n": "Paul Braunstein"
+    },
+    {
+     "c": "Dr. Harris",
+     "n": "David Hewlett"
+    },
+    {
+     "c": "Jellef",
+     "n": "Sebastian Pigott"
+    },
+    {
+     "c": "Silas",
+     "n": "Zion Forrest Lee"
+    },
+    {
+     "c": "Sabrina",
+     "n": "Avery Mendillo"
+    },
+    {
+     "c": "Annabelle",
+     "n": "Talia Asseraf"
+    },
+    {
+     "c": "Man in Black",
+     "n": "Nicolas Grimes"
+    },
+    {
+     "c": "Woman in Green",
+     "n": "Caitlin McNerney"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tag Mendillo"
+   ],
+   "genres": [
+    "Crime",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 1792170,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
+   "popularity": 45.5665,
+   "poster_path": "/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-11-03",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Bury the past. Control the truth.",
+   "title": "Model Citizen",
+   "trailer": {
+    "key": "VczwWXoMKL0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.276,
+   "vote_count": 29
   },
   "movie:2370": {
    "backdrop_path": "/3NSwwxsu8YXIqnGOrfREEsXWkT7.jpg",

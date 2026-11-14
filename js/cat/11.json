@@ -1,6 +1,6 @@
 {
  "bucket": "11",
- "count": 16,
+ "count": 20,
  "titles": {
   "movie:10711": {
    "backdrop_path": "/ffI5k9rPEkEKRTYm4bS4da3Yh20.jpg",
@@ -271,6 +271,119 @@
    "vote_average": 6.457,
    "vote_count": 441
   },
+  "movie:1147411": {
+   "backdrop_path": "/3kps0wiGFMRVkSXxbebbAUeWrN3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marinette / Ladybug (voice)",
+     "n": "Anouck Hautbois"
+    },
+    {
+     "c": "Kagami / Ryuko (voice)",
+     "n": "Clara Soares"
+    },
+    {
+     "c": "Miki (voice)",
+     "n": "Claire Baradat"
+    },
+    {
+     "c": "Kazuno (voice)",
+     "n": "Grégory Laisné"
+    },
+    {
+     "c": "Adrien / Félix (voice)",
+     "n": "Benjamin Bollen"
+    },
+    {
+     "c": "Tikki (voice)",
+     "n": "Marie Nonnenmacher"
+    },
+    {
+     "c": "Tomoe Tsurugi (voice)",
+     "n": "Jeanne Chartier"
+    },
+    {
+     "c": "Mayotte (voice)",
+     "n": "Jaynélia Coadou"
+    },
+    {
+     "c": "Yu-Lu (voice)",
+     "n": "Charlotte Hervieux"
+    },
+    {
+     "c": "Modeleur (voice)",
+     "n": "Bruno Magne"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TP",
+   "date_kind": "release",
+   "director": [
+    "Jun Violet"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 1147411,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Kagami drags Marinette to Tokyo to help the Stellars defeat a new supervillain, but Marinette soon realizes her friend has another, untold reason for this trip to Japan.",
+   "popularity": 4.862,
+   "poster_path": "/vFaopnGXRXxRf4z2Z3IgA1QtOyV.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "DisneyNOW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-07",
+   "revenue": 0,
+   "runtime": 51,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Miraculous World: Tokyo, Stellar Force",
+   "trailer": {
+    "key": "eWHy2SY0i-M",
+    "name": "English Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.411,
+   "vote_count": 73
+  },
   "movie:12211": {
    "backdrop_path": "/mvbBw9pxhxznSNxrvIWT8GsTTb3.jpg",
    "budget": 25000000,
@@ -384,6 +497,450 @@
    "type": "movie",
    "vote_average": 4.8,
    "vote_count": 487
+  },
+  "movie:1297311": {
+   "backdrop_path": "/zEsFCfW7c8x2X7q3uLbZYoGka7O.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Captain Marcus Monroe",
+     "n": "Cuba Gooding Jr."
+    },
+    {
+     "c": "Bronze",
+     "n": "Mike Ayiotis"
+    },
+    {
+     "c": "KK/Rominoff",
+     "n": "Storm Watters"
+    },
+    {
+     "c": "Admiral Genus",
+     "n": "Andrew Helbig"
+    },
+    {
+     "c": "Aggros",
+     "n": "Richie Ammons"
+    },
+    {
+     "c": "Detour",
+     "n": "Art Brown"
+    },
+    {
+     "c": "Farenheit",
+     "n": "Tyler Gotch"
+    },
+    {
+     "c": "Human Hostage",
+     "n": "Michael Hajintonis"
+    },
+    {
+     "c": "Ice",
+     "n": "Steven Rathbone"
+    },
+    {
+     "c": "Jumper",
+     "n": "Mike Ayiotis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jesse Baget"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Animation",
+    "Adventure",
+    "Action"
+   ],
+   "id": 1297311,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a future threatened by rogue robots and an all-powerful AI, Captain Monroe and his crew race to prevent humanity's downfall in Quantum Supremacy.",
+   "popularity": 4.8423,
+   "poster_path": "/oU9td2mvEu04rLGlynziVmNo16b.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "IndiePix Unlimited Amazon Channel"
+    },
+    {
+     "name": "Bloodstream"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/om1AJmTFbc4B82HszpqJElsMshe.png",
+     "name": "IndiePix Unlimited Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-16",
+   "revenue": 0,
+   "runtime": 77,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Quantum Supremacy",
+   "trailer": {
+    "key": "0WRbz8XMHpg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.756,
+   "vote_count": 82
+  },
+  "movie:1422011": {
+   "backdrop_path": "/9Wf1xwPOycnxvdVnpr6Di381Zf.jpg",
+   "budget": 80000,
+   "cast": [
+    {
+     "c": "James",
+     "n": "Phinehas Yoon"
+    },
+    {
+     "c": "Day",
+     "n": "Akira Jackson"
+    },
+    {
+     "c": "Fisher",
+     "n": "Noah Toth"
+    },
+    {
+     "c": "Tyler",
+     "n": "Mitchell Cole"
+    },
+    {
+     "c": "Fisher's Mom (voice)",
+     "n": "Jenny Doyle"
+    },
+    {
+     "c": "Interrogated Man",
+     "n": "Jon Linstad"
+    },
+    {
+     "c": "Lost Man",
+     "n": "Ian Weir"
+    },
+    {
+     "c": "Passenger",
+     "n": "Alexander Ullom"
+    },
+    {
+     "c": "Background Cast",
+     "n": "Antonio Andrés Rosello"
+    },
+    {
+     "c": "Background Cast",
+     "n": "Dakota Shiver"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Alexander Ullom"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 1422011,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it.",
+   "popularity": 9.8581,
+   "poster_path": "/6dfAGvZWbJnzWfSZ8gxFj63BNAH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-28",
+   "revenue": 1264397,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Some wrong turns last forever.",
+   "title": "It Ends",
+   "trailer": {
+    "key": "mQj2Hm7TXLQ",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.872,
+   "vote_count": 125
+  },
+  "movie:1442211": {
+   "backdrop_path": "/jU3R3buyT08P7jTnLy8RYYdQqoh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Josep Maria Vilà",
+     "n": "Álvaro Cervantes"
+    },
+    {
+     "c": "Siscu",
+     "n": "Marc Martínez"
+    },
+    {
+     "c": "Mònica",
+     "n": "Bruna Cusí"
+    },
+    {
+     "c": "Elena",
+     "n": "Anna Moliner"
+    },
+    {
+     "c": "Peo",
+     "n": "Pep Ambròs"
+    },
+    {
+     "c": "Oriol",
+     "n": "Eduardo Lloveras"
+    },
+    {
+     "c": "Artur",
+     "n": "Francesc Garrido"
+    },
+    {
+     "c": "Matilde",
+     "n": "Àgata Roca"
+    },
+    {
+     "c": "Bernat",
+     "n": "Jan Buxaderas"
+    },
+    {
+     "c": "Santi",
+     "n": "Carles Gilabert"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Fernando Trullols"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1442211,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "ca",
+   "overview": "On December 30, 2000, a group of friends climbed Balandrau, but an unpredictable blizzard unleashed the worst Pyrenees storm in history.",
+   "popularity": 2.466,
+   "poster_path": "/h8dHRehbyix7Qw9r631fpHcI3g1.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-20",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ca"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Balandrau: Where the Fierce Wind Blew",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 24
   },
   "movie:156711": {
    "backdrop_path": "/c3eDS62fd2wuchzjbv5kJAIoIiD.jpg",

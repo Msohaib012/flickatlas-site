@@ -1,7 +1,93 @@
 {
  "bucket": "09",
- "count": 22,
+ "count": 28,
  "titles": {
+  "movie:1002109": {
+   "backdrop_path": "/h7VBwwztl4it7BSA6HsJR41nC37.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yvon",
+     "n": "François Damiens"
+    },
+    {
+     "c": "Guilaine",
+     "n": "Audrey Lamy"
+    },
+    {
+     "c": "Luc Le Timal",
+     "n": "Thomas Ngijol"
+    },
+    {
+     "c": "Roberto",
+     "n": "Xavier Lacaille"
+    },
+    {
+     "c": "Marfoud",
+     "n": "Brahim Bouhlel"
+    },
+    {
+     "c": "Boris",
+     "n": "Yan Tual"
+    },
+    {
+     "c": "",
+     "n": "Philippe Rebbot"
+    },
+    {
+     "c": "Voisin",
+     "n": "Hamed Souna"
+    },
+    {
+     "c": "Un policier scientifique",
+     "n": "Guillaume Bouttemy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TP",
+   "date_kind": "release",
+   "director": [
+    "Jean-Baptiste Saurel"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 1002109,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Paris, 1980s. When his old cop partner is killed in action, Yvon Kastendeuch is propelled to the head of a new unit : Police Flash 80. There, he'll have to team up with young recruits who will challenge his old \"dominant male\" habits.",
+   "popularity": 1.5119,
+   "poster_path": "/2HD9MuSt5Fk6i7uAgI3m75VATjk.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-18",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Flashback to the 80s",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 70
+  },
   "movie:12609": {
    "backdrop_path": "/yQ0eSp9Cfpixnp1EvFpFWQzKhB5.jpg",
    "budget": 18000000,
@@ -115,6 +201,222 @@
    "vote_average": 6.7,
    "vote_count": 466
   },
+  "movie:1265609": {
+   "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "81",
+     "n": "Alan Ritchson"
+    },
+    {
+     "c": "7",
+     "n": "Stephan James"
+    },
+    {
+     "c": "15",
+     "n": "Blake Richardson"
+    },
+    {
+     "c": "Sheridan",
+     "n": "Dennis Quaid"
+    },
+    {
+     "c": "Torres",
+     "n": "Esai Morales"
+    },
+    {
+     "c": "Squad Leader",
+     "n": "Jai Courtney"
+    },
+    {
+     "c": "44",
+     "n": "Alex King"
+    },
+    {
+     "c": "60",
+     "n": "Keiynan Lonsdale"
+    },
+    {
+     "c": "109",
+     "n": "Jack Patten"
+    },
+    {
+     "c": "23",
+     "n": "James Beaufort"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Patrick Hughes"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 1265609,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+   "popularity": 28.3229,
+   "poster_path": "/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
+   "production_countries": [
+    "AU",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-12",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "All grit. No quit.",
+   "title": "War Machine",
+   "trailer": {
+    "key": "AFuE1LRxm80",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.517,
+   "vote_count": 2725
+  },
+  "movie:1268609": {
+   "backdrop_path": "/atWzbjlDkfbkh4mdY3uuiF9vr3r.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mi-jung",
+     "n": "Ko Asung"
+    },
+    {
+     "c": "Kyung-rok",
+     "n": "Moon Sang-min"
+    },
+    {
+     "c": "Yo-han",
+     "n": "Byun Yo-han"
+    },
+    {
+     "c": "Se-ra",
+     "n": "Lee E-dam"
+    },
+    {
+     "c": "Hyeon-ji",
+     "n": "Han Yu-eun"
+    },
+    {
+     "c": "Suk-hui",
+     "n": "Seo Yi-ra"
+    },
+    {
+     "c": "Kentucky Hope",
+     "n": "Shin Jung-keun"
+    },
+    {
+     "c": "Kyung-rok's Father",
+     "n": "Park Hae-joon"
+    },
+    {
+     "c": "Kyung-rok's Mother",
+     "n": "Lee Bong-ryeon"
+    },
+    {
+     "c": "Pretentious Guy",
+     "n": "Lee Sang-jin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Lee Jong-pil"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 1268609,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Three lonely strangers meet at their department store jobs and find solace in each other's company while they explore connection and the nature of love.",
+   "popularity": 3.7913,
+   "poster_path": "/wOXc8stx1CLvM6GC0ABKfWOkbYw.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-19",
+   "revenue": 0,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "For all who are in love. And who are meant to love.",
+   "title": "Pavane",
+   "trailer": {
+    "key": "iKM0WEtHoEU",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 71
+  },
   "movie:13009": {
    "backdrop_path": "/r1GnyDcTV0WkwqLsI52QPM04aTh.jpg",
    "budget": 0,
@@ -216,6 +518,185 @@
    "type": "movie",
    "vote_average": 4.8,
    "vote_count": 461
+  },
+  "movie:1418709": {
+   "backdrop_path": "/w4ISfPkFLdG0ew07XcrlQSB4O4q.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Naïm",
+     "n": "Nassim Lyes"
+    },
+    {
+     "c": "Laëticia",
+     "n": "Anaïde Rozam"
+    },
+    {
+     "c": "Gary",
+     "n": "Ramzy Bedia"
+    },
+    {
+     "c": "Kevlar",
+     "n": "Hedi Bouchenafa"
+    },
+    {
+     "c": "Rafik",
+     "n": "Arriles Amrani"
+    },
+    {
+     "c": "JB",
+     "n": "Matthieu Longatte"
+    },
+    {
+     "c": "Dr. Couffard",
+     "n": "Marina Foïs"
+    },
+    {
+     "c": "Blanka",
+     "n": "Hatik"
+    },
+    {
+     "c": "Gaëtan",
+     "n": "Hakim Jemili"
+    },
+    {
+     "c": "Thanos",
+     "n": "Laminé Ba"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Julien Royal"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 1418709,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Naïm is a sweetheart in everyday life but a beast when it comes to fighting. To afford treatment for his aging dog, he's forced to join \"Hello Brawl\", a service of street fighters resolving conflicts with punches.",
+   "popularity": 1.8511,
+   "poster_path": "/jbZ1HbrM5Cf6U7mnJLQV6Td9L2s.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-15",
+   "revenue": 4710000,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Brawlers",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.167,
+   "vote_count": 30
+  },
+  "movie:1449709": {
+   "backdrop_path": "/tUZB9keTOFIVedsfsJVhNZRWJpM.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Christian Agata",
+     "n": "Christian De Sica"
+    },
+    {
+     "c": "Ispettore Vanni Cuozzo",
+     "n": "Lillo Petrolo"
+    },
+    {
+     "c": "Bernardo Tarda",
+     "n": "Paolo Calabresi"
+    },
+    {
+     "c": "Walter Gulmar",
+     "n": "Maccio Capatonda"
+    },
+    {
+     "c": "Carlo Gulmar",
+     "n": "Giorgio Colangeli"
+    },
+    {
+     "c": "Miranda",
+     "n": "Sara Croce"
+    },
+    {
+     "c": "One Shot",
+     "n": "Tony Effe"
+    },
+    {
+     "c": "Beatrice",
+     "n": "Chiara Francini"
+    },
+    {
+     "c": "Corrado",
+     "n": "Marco Marzocca"
+    },
+    {
+     "c": "Stella Gulmar",
+     "n": "Alice Pagani"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Eros Puglielli"
+   ],
+   "genres": [
+    "Comedy",
+    "Mystery"
+   ],
+   "id": 1449709,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Christian Agata, a famous criminologist known for his biting sarcasm and infallible investigative talent, finds himself caught up in a weekend of mystery. Invited by the Gulmar family—tycoons of the board game industry—to act as a spokesperson for the relaunch of their historic game \"Crime Castle,\" he agrees to spend a few days at their winter estate in the Aosta Valley. What began as a quiet commercial operation soon transforms itslef into a case to solve.",
+   "popularity": 1.4774,
+   "poster_path": "/aepzyeHXnnKxHNwynDILsp0QGm8.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-05",
+   "revenue": 3714872,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Agata Christian: Murder on the Snow",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.226,
+   "vote_count": 117
   },
   "movie:14709": {
    "backdrop_path": "/rTlMsaE2MQ8NG2cs0bEkwVhMOrV.jpg",
@@ -345,6 +826,114 @@
    "type": "movie",
    "vote_average": 6.17,
    "vote_count": 498
+  },
+  "movie:1630409": {
+   "backdrop_path": "/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Num",
+     "n": "Nadech Kugimiya"
+    },
+    {
+     "c": "Po",
+     "n": "Pittaya Saechua"
+    },
+    {
+     "c": "Kong",
+     "n": "Chaiwat Thongsaeng"
+    },
+    {
+     "c": "Pin",
+     "n": "Nuanprang Treechit"
+    },
+    {
+     "c": "Jod",
+     "n": "Jonathan Holman"
+    },
+    {
+     "c": "Nid Noi",
+     "n": "Ploypaphas Fonkaewsiwaporn"
+    },
+    {
+     "c": "Grandma Lek",
+     "n": "Kunkanit Khumkrong"
+    },
+    {
+     "c": "Inspector Tong",
+     "n": "Nuttanun Kunnawatt"
+    },
+    {
+     "c": "Monk",
+     "n": "Paphon Jirahitapat"
+    },
+    {
+     "c": "Berm",
+     "n": "Saichia Wongwirot"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Surapong Ploensang"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 1630409,
+   "industry": "world",
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "Tormented by past mistakes and a terminal diagnosis, an ex-debt collector returns to the underworld to protect the victims of a violent organization.",
+   "popularity": 8.6328,
+   "poster_path": "/vwqX6FGzUfzbmb6iO0HJv1uT9KZ.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-20",
+   "revenue": 0,
+   "runtime": 134,
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Released",
+   "tagline": "A debt can be settled, but not erased.",
+   "title": "The Debt Collector",
+   "trailer": {
+    "key": "U9vJ2Z4SFQI",
+    "name": "คนเดือดทวงแค้น | ตัวอย่างอย่างเป็นทางการ | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.8,
+   "vote_count": 152
   },
   "movie:32909": {
    "backdrop_path": "/rBhSUf8CHwZ442maEvF0tF4CoMd.jpg",

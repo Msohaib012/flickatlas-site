@@ -1,6 +1,6 @@
 {
  "bucket": "51",
- "count": 15,
+ "count": 21,
  "titles": {
   "movie:10951": {
    "backdrop_path": "/3OAB1xYywss9szLG34YzHkC00Wk.jpg",
@@ -246,6 +246,110 @@
    "vote_average": 6.59,
    "vote_count": 472
   },
+  "movie:1248251": {
+   "backdrop_path": "/wQwbainQ5CtPWbnwXX144rMIS4E.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Vineeth Madhavan",
+     "n": "Naslen"
+    },
+    {
+     "c": "Sujith Raj (Suji)",
+     "n": "Roshan Shanavas"
+    },
+    {
+     "c": "Sunil Ettan",
+     "n": "Althaf Salim"
+    },
+    {
+     "c": "Arjun Haridas",
+     "n": "Sangeeth Prathap"
+    },
+    {
+     "c": "Sachin Vaikom David",
+     "n": "Sharafudheen"
+    },
+    {
+     "c": "Madhavan",
+     "n": "Prasanth Alexander"
+    },
+    {
+     "c": "Hana Shajahan",
+     "n": "Gopika Ramesh"
+    },
+    {
+     "c": "Young Sachin Vaikkom David",
+     "n": "Sreerang Shine"
+    },
+    {
+     "c": "Anand Sudhakaran",
+     "n": "Rajesh Madhavan"
+    },
+    {
+     "c": "Short Film Coordinator",
+     "n": "Anna Prasad"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Abhinav Sunder Nayak"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1248251,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "ml",
+   "overview": "Vineeth Madhavan tries hard to become Malayalam cinema's greatest horror filmmaker, but will the toxic industry affect his dream?",
+   "popularity": 3.2575,
+   "poster_path": "/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-05",
+   "revenue": 0,
+   "runtime": 167,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ml"
+   ],
+   "status": "Released",
+   "tagline": "A hate letter to cinema",
+   "title": "Mollywood Times",
+   "trailer": {
+    "key": "wO_LlRytRTk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 20
+  },
   "movie:12651": {
    "backdrop_path": "/8kVhN0OC5AmdHJJ1BxKCakZhvQO.jpg",
    "budget": 23000000,
@@ -349,6 +453,663 @@
    "type": "movie",
    "vote_average": 6.764,
    "vote_count": 462
+  },
+  "movie:1426451": {
+   "backdrop_path": "/sWaTZpotExFAYzW9OgOLLBT5s82.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Risa",
+     "n": "Elena Romero"
+    },
+    {
+     "c": "Esteban",
+     "n": "Diego Peretti"
+    },
+    {
+     "c": "Sara",
+     "n": "Cazzu"
+    },
+    {
+     "c": "Rodrigo",
+     "n": "Joaquín Furriel"
+    },
+    {
+     "c": "Antonio",
+     "n": "Gustavo Garzón"
+    },
+    {
+     "c": "Milo",
+     "n": "Manuel Da Silva"
+    },
+    {
+     "c": "Abigail",
+     "n": "Silvina Sabater"
+    },
+    {
+     "c": "Augusto",
+     "n": "Fabián Casas"
+    },
+    {
+     "c": "Greta",
+     "n": "Graciela Borges"
+    },
+    {
+     "c": "Jaime",
+     "n": "Adrián Dárgelos"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "ATP",
+   "date_kind": "release",
+   "director": [
+    "Juan Cabral"
+   ],
+   "genres": [
+    "Drama",
+    "Fantasy"
+   ],
+   "id": 1426451,
+   "industry": "world",
+   "origin_country": [
+    "AR"
+   ],
+   "original_language": "es",
+   "overview": "Risa, after her father's death, discovers she has the ability to communicate with him from beyond the grave. As she explores this supernatural connection, she faces emotional challenges and family secrets that will test her faith in what she thought was possible.",
+   "popularity": 1.4827,
+   "poster_path": "/spXydlcZIHs2u8cKuyimNwTXtqJ.jpg",
+   "production_countries": [
+    "AR",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-16",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Risa and the Wind Phone",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.3,
+   "vote_count": 54
+  },
+  "movie:1472951": {
+   "backdrop_path": "/cEvyR19pmQ2s3DE8mdyL0m2Lv2N.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lily Chen",
+     "n": "Orphée Ladouceur-Nguyen"
+    },
+    {
+     "c": "Marcel LaFleur",
+     "n": "Alain Moussi"
+    },
+    {
+     "c": "John",
+     "n": "Tim Rozon"
+    },
+    {
+     "c": "Romeo",
+     "n": "Finn McCager Higgins"
+    },
+    {
+     "c": "Director Bass",
+     "n": "Lisa Berry"
+    },
+    {
+     "c": "Nikolai",
+     "n": "Paul Braunstein"
+    },
+    {
+     "c": "Guy",
+     "n": "Jason Cavalier"
+    },
+    {
+     "c": "The Voice / Mr. White",
+     "n": "Jonathan Goad"
+    },
+    {
+     "c": "Juliette",
+     "n": "Mitra Suri"
+    },
+    {
+     "c": "Tuan",
+     "n": "Jeff Yung"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "James Mark"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 1472951,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "In a city overrun by crime, government Agent Lily Chen is forced to choose between her duty and her family when her husband is kidnapped, and she’s blackmailed into assassinating high-level criminals to save him. As she delves deeper into the criminal underworld, Lily’s relentless pursuit of justice unravels a web of corruption, leading to a final, life-altering decision that will change her world forever.",
+   "popularity": 6.1397,
+   "poster_path": "/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-09",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Infiltrate",
+   "trailer": {
+    "key": "dzVz0KqqwGE",
+    "name": "Infiltrate | Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.269,
+   "vote_count": 39
+  },
+  "movie:1620551": {
+   "backdrop_path": "/Ary1sG0AHn4V1DFrwV7g72Fomq0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eletta",
+     "n": "Sarah Toscano"
+    },
+    {
+     "c": "Giuliana",
+     "n": "Serena Rossi"
+    },
+    {
+     "c": "Caterina",
+     "n": "Carola Insolera"
+    },
+    {
+     "c": "Alessandro",
+     "n": "Emilio Insolera"
+    },
+    {
+     "c": "Francesco",
+     "n": "Antonio Iorillo"
+    },
+    {
+     "c": "Martina",
+     "n": "Asia Corvino"
+    },
+    {
+     "c": "Marco Traversato",
+     "n": "Alessandro Parigi"
+    },
+    {
+     "c": "Giornalista",
+     "n": "Simonetta Pellizzer"
+    },
+    {
+     "c": "Presidente di giuria",
+     "n": "Alberto Barbi"
+    },
+    {
+     "c": "Veterinario",
+     "n": "Mario Bois"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Luca Ribuoli"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+   ],
+   "id": 1620551,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A teenager, the only hearing member of a deaf family, finds her voice and learns to believe in herself through her passion for singing.",
+   "popularity": 2.7163,
+   "poster_path": "/4Tf0qTA73XLhBnfP6YgvqtLZBnt.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-03",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Feel My Voice",
+   "trailer": {
+    "key": "jcDax7jiSqM",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.832,
+   "vote_count": 158
+  },
+  "movie:1629051": {
+   "backdrop_path": "/o73vpmtXq89bfSUMcAulLVN4TKP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Airi",
+     "n": "Moeka Hoshi"
+    },
+    {
+     "c": "Miku",
+     "n": "Kurumi Inagaki"
+    },
+    {
+     "c": "Gunji",
+     "n": "Kento Kaku"
+    },
+    {
+     "c": "Teiko",
+     "n": "Tae Kimura"
+    },
+    {
+     "c": "Mysterious Man",
+     "n": "Mutsuo Yoshioka"
+    },
+    {
+     "c": "Police Officer",
+     "n": "Bokuzo Masana"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Dave Boyle"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 1629051,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A traveling psychic who helps lost souls cross over encounters a powerful entity at a remote house. While investigating its origins, she uncovers dark secrets and faces a deadly threat from an unexpected source.",
+   "popularity": 35.655,
+   "poster_path": "/mkqCzIeHgnTSyF1fW6Pkq8kfdJE.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-05",
+   "revenue": 0,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Never After Dark",
+   "trailer": {
+    "key": "fu33xTw654A",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.952,
+   "vote_count": 42
+  },
+  "movie:1712451": {
+   "backdrop_path": "/yKx5gYrYgakKZuUWAsuFDStBroy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joe",
+     "n": "John Wells"
+    },
+    {
+     "c": "Ashley",
+     "n": "Isabel Ramirez"
+    },
+    {
+     "c": "Dawn",
+     "n": "Thandiwe McMillan"
+    },
+    {
+     "c": "Wilt",
+     "n": "Hamid-Reza Benjamin Thompson"
+    },
+    {
+     "c": "Sal",
+     "n": "Jarod Brock"
+    },
+    {
+     "c": "Zack",
+     "n": "Sai Piña"
+    },
+    {
+     "c": "Gino",
+     "n": "Chase Breithoff"
+    },
+    {
+     "c": "Ned",
+     "n": "Rob Eubanks"
+    },
+    {
+     "c": "Manny",
+     "n": "Tevin Paul"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Ryan Ebert"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 1712451,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A man keeping his recently zombified daughter secure in hopes of a cure is tasked with delivering an unknown package through hordes of undead. If he succeeds, he will be given a cure for his daughter. If he fails, or opens the package, they will both be killed.",
+   "popularity": 29.1893,
+   "poster_path": "/qKhMVWwFikSUzOpkhOl35GBLkGH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-04",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [],
+   "status": "Released",
+   "tagline": "You're next",
+   "title": "Resident Dead",
+   "trailer": {
+    "key": "M1vupS1Tzfg",
+    "name": "RESIDENT DEAD || Official Trailer || The Asylum Movie Channel",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 84
   },
   "movie:364051": {
    "backdrop_path": "/1lafNmLIrcWXHlASKmyo2sEAIOu.jpg",

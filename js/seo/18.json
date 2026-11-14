@@ -1,6 +1,6 @@
 {
  "bucket": "18",
- "count": 15,
+ "count": 29,
  "titles": {
   "movie:10118": {
    "d": "Material Girls (2006): Comedy/Family film. Story: Two wealthy sisters, both heiresses to their family's… See cast, budget $15M, and TMDB rating 5.3/10.",
@@ -130,6 +130,133 @@
    "t": "Water Lilies (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
   },
+  "movie:1155818": {
+   "d": "Satluj (2026): Crime/Drama film. Story: Triggered by the search for his missing aunt, human… See cast, budget $4.5M, and TMDB rating 7.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lPUgBm8wwxvRA8hRmfQiHfnACTW.jpg",
+   "industry": "bollywood",
+   "k": "Satluj, Satluj movie, Satluj cast, Satluj story, Satluj box office collection, Satluj budget, Satluj review, Satluj rating, Satluj release date, Satluj Crime, Satluj Drama, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Diljit Dosanjh"
+     },
+     {
+      "@type": "Person",
+      "name": "Arjun Rampal"
+     },
+     {
+      "@type": "Person",
+      "name": "Suvinder Vicky"
+     },
+     {
+      "@type": "Person",
+      "name": "Geetika Vidya"
+     },
+     {
+      "@type": "Person",
+      "name": "Kanwaljit Singh"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 25,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Satluj (2026): Crime/Drama film. Story: Triggered by the search for his missing aunt, human… See cast, budget $4.5M, and TMDB rating 7.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Honey Trehan"
+     }
+    ],
+    "duration": "PT164M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lPUgBm8wwxvRA8hRmfQiHfnACTW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1155818",
+    "name": "Satluj",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1155818"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Satluj (2026)</h1>\n<p class=\"ssr-lead\">Triggered by the search for his missing aunt, human rights activist Jaswant Singh Khalra takes on a broken system in a courageous fight to uncover the conspiracy behind thousands of disappearances and extrajudicial killings during the nadir of Punjab’s period of insurgency.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 July 2026</li><li>Runtime: 164 minutes</li><li>Director: Honey Trehan</li><li>Genres: Crime, Drama, History</li><li>Budget: $4.5M</li><li>TMDB rating: 7.9/10 (25 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Diljit Dosanjh as Jaswant Singh Khalra</li><li>Arjun Rampal as Samudra Singh</li><li>Suvinder Vicky as SSP Surjit Singh Sugga</li><li>Geetika Vidya as Pammi (Paramjit Kaur)</li><li>Kanwaljit Singh as DGP Inderpal Singh Bitta</li><li>Saurabh Sachdeva as Senior Constable Satnam Singh</li><li>Jagjeet Sandhu as SPO Kuljit Singh</li><li>Nassar as SP Varma</li><li>Geeta Agrawal Sharma as Dr. Geeta Basra</li><li>Amit Dhawan as DSP Jagpal Singh</li></ul>\n</article>",
+   "t": "Satluj (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1191818": {
+   "d": "The Birthday Party (2026): Thriller film. Story: Thomas, Nora and their teenage daughter Ida live on… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3vt3M9IrUvuH4E93ZlZpWvtxX3V.jpg",
+   "industry": "world",
+   "k": "The Birthday Party, The Birthday Party movie, The Birthday Party cast, The Birthday Party story, The Birthday Party box office collection, The Birthday Party budget, The Birthday Party review, The Birthday Party rating, The Birthday Party release date, The Birthday Party Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hafsia Herzi"
+     },
+     {
+      "@type": "Person",
+      "name": "Benoît Magimel"
+     },
+     {
+      "@type": "Person",
+      "name": "Bastien Bouillon"
+     },
+     {
+      "@type": "Person",
+      "name": "Monica Bellucci"
+     },
+     {
+      "@type": "Person",
+      "name": "Tawba El Gharchi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 22,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "The Birthday Party (2026): Thriller film. Story: Thomas, Nora and their teenage daughter Ida live on… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Léa Mysius"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3vt3M9IrUvuH4E93ZlZpWvtxX3V.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1191818",
+    "name": "The Birthday Party",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1191818"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Birthday Party (2026)</h1>\n<p class=\"ssr-lead\">Thomas, Nora and their teenage daughter Ida live on remote marshland. Social contact is limited, as they only have one neighbour, Cristina, an Italian painter. As the two households plan a surprise birthday party for Nora, strange disturbances begin to occur and unease rolls over the marsh.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 September 2026</li><li>Runtime: 114 minutes</li><li>Director: Léa Mysius</li><li>Genres: Thriller</li><li>TMDB rating: 6.3/10 (22 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hafsia Herzi as Nora</li><li>Benoît Magimel as Franck</li><li>Bastien Bouillon as Thomas Bergogne</li><li>Monica Bellucci as Cristina</li><li>Tawba El Gharchi as Ida</li><li>Paul Hamy as Flo</li><li>Alane Delhaye as Bégue</li><li>Servane Ducorps as Estelle</li><li>Tatia Tsuladze as Kim</li><li>Jean-Paul Daniel as Chef de service</li></ul>\n</article>",
+   "t": "The Birthday Party (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:12618": {
    "d": "Random Hearts (1999): Drama/Romance film. Story: After losing their spouses in a plane crash, an… See cast, budget $64M, and TMDB rating 5.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/onOF95lPTacI4lKHGG9REPw3fHJ.jpg",
@@ -193,6 +320,706 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Random Hearts (1999)</h1>\n<p class=\"ssr-lead\">After losing their spouses in a plane crash, an internal affairs cop and a congresswoman find each other&#x27;s keys in each other&#x27;s loved ones&#x27; possessions and discover that the two were having an affair.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 October 1999</li><li>Runtime: 133 minutes</li><li>Director: Sydney Pollack</li><li>Genres: Drama, Romance, Thriller</li><li>Budget: $64M</li><li>TMDB rating: 5.6/10 (440 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Harrison Ford as Dutch Van Den Broeck</li><li>Kristin Scott Thomas as Kay Chandler</li><li>Charles S. Dutton as Alcee</li><li>Richard Jenkins as Truman Trainor</li><li>Dennis Haysbert as Detective George Beaufort</li><li>Sydney Pollack as Carl Broman</li><li>Susanna Thompson as Peyton Van Den Broeck</li><li>Peter Coyote as Cullen Chandler</li><li>Kate Mara as Jessica Chandler</li><li>Susan Floyd as Molly Roll</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "Random Hearts (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1999"
+  },
+  "movie:1290418": {
+   "d": "The Cycle (2026): Horror/Thriller film. Story: A daughter unravels her father's dark past after his… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
+   "industry": "world",
+   "k": "The Cycle, The Cycle movie, The Cycle cast, The Cycle story, The Cycle box office collection, The Cycle budget, The Cycle review, The Cycle rating, The Cycle release date, The Cycle trailer, The Cycle Horror, The Cycle Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Deborah Ann Woll"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeffrey Donovan"
+     },
+     {
+      "@type": "Person",
+      "name": "Gretchen Corbett"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Doolan"
+     },
+     {
+      "@type": "Person",
+      "name": "Will Hochman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 153,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "The Cycle (2026): Horror/Thriller film. Story: A daughter unravels her father's dark past after his… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jordan Downey"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1290418",
+    "name": "The Cycle",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1290418"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Cycle (2026)</h1>\n<p class=\"ssr-lead\">A daughter unravels her father&#x27;s dark past after his body, missing for 36 years, is found at a horrific crime scene.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 September 2026</li><li>Runtime: 111 minutes</li><li>Director: Jordan Downey</li><li>Genres: Horror, Thriller, Mystery</li><li>TMDB rating: 6.9/10 (153 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Deborah Ann Woll as Meg</li><li>Jeffrey Donovan as Marks</li><li>Gretchen Corbett as Joni</li><li>Jack Doolan as Lenny</li><li>Will Hochman as Ian</li><li>Dana Millican as Fran</li><li>Phillip Andre Botello as Daniel</li><li>Don Keith Opper as Frank</li><li>Carl W. Crudup as Lou Bishop</li><li>Danika Golombek as Katie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: AMC Plus Apple TV channel, AMC+ Amazon Channel, Shudder</li></ul>\n</article>",
+   "t": "The Cycle (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1307118": {
+   "d": "Soulm8te (2026): Horror/Science Fiction film. Story: After a ruthless tech giant acquires a small robotics… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
+   "industry": "world",
+   "k": "Soulm8te, Soulm8te movie, Soulm8te cast, Soulm8te story, Soulm8te box office collection, Soulm8te budget, Soulm8te review, Soulm8te rating, Soulm8te release date, Soulm8te trailer, Soulm8te Horror, Soulm8te Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "David Rysdahl"
+     },
+     {
+      "@type": "Person",
+      "name": "Lily Sullivan"
+     },
+     {
+      "@type": "Person",
+      "name": "Claudia Doumit"
+     },
+     {
+      "@type": "Person",
+      "name": "Arty Froushan"
+     },
+     {
+      "@type": "Person",
+      "name": "Elijah Isaiah Cook"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 578,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Soulm8te (2026): Horror/Science Fiction film. Story: After a ruthless tech giant acquires a small robotics… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kate Dolan"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1307118",
+    "name": "Soulm8te",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1307118"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Soulm8te (2026)</h1>\n<p class=\"ssr-lead\">After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 July 2026</li><li>Runtime: 99 minutes</li><li>Director: Kate Dolan</li><li>Genres: Horror, Science Fiction, Thriller</li><li>TMDB rating: 7.4/10 (578 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Rysdahl as David</li><li>Lily Sullivan as Sara / Lydia</li><li>Claudia Doumit as Aubrey</li><li>Arty Froushan as Ben</li><li>Elijah Isaiah Cook as Terrance</li><li>Mara Huf as Lizzie</li><li>Sydney Blackburn as Ben&#x27;s Assistant</li><li>Isabelle Bonfrer as Circe</li><li>Emma Ramos as Alma</li><li>Oliver Cooper as Ultima Robotix Technician</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu</li><li>Buy: Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Soulm8te (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1308618": {
+   "d": "The Wonderers (2025): Drama film. Story: Set against the backdrop of a summer on the French… See cast, TMDB rating 6.7/10, and release date 31 December 2025.",
+   "img": "https://image.tmdb.org/t/p/w780/s2jfSL3O1tmDV4FiruB48LWr0ul.jpg",
+   "industry": "world",
+   "k": "The Wonderers, The Wonderers movie, The Wonderers cast, The Wonderers story, The Wonderers box office collection, The Wonderers budget, The Wonderers review, The Wonderers rating, The Wonderers release date, The Wonderers Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mélanie Laurent"
+     },
+     {
+      "@type": "Person",
+      "name": "Pierre-Yves Cardinal"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Pachoud"
+     },
+     {
+      "@type": "Person",
+      "name": "Angelina Woreth"
+     },
+     {
+      "@type": "Person",
+      "name": "Félix Kysyl"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 36,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "The Wonderers (2025): Drama film. Story: Set against the backdrop of a summer on the French… See cast, TMDB rating 6.7/10, and release date 31 December 2025.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joséphine Japy"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/s2jfSL3O1tmDV4FiruB48LWr0ul.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1308618",
+    "name": "The Wonderers",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1308618"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Wonderers (2025)</h1>\n<p class=\"ssr-lead\">Set against the backdrop of a summer on the French Riviera, the Roussier family navigates the severe disability of the youngest daughter, 13-year-old Bertille, while her older sister, 17-year-old Marion, seeks refuge in a relationship with an older boy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 December 2025</li><li>Runtime: 100 minutes</li><li>Director: Joséphine Japy</li><li>Genres: Drama</li><li>TMDB rating: 6.7/10 (36 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mélanie Laurent as Madeleine Roussier</li><li>Pierre-Yves Cardinal as Gilles Roussier</li><li>Sarah Pachoud as Bertille Roussier</li><li>Angelina Woreth as Marion Roussier</li><li>Félix Kysyl as Thomas</li><li>Stéphane Varupenne as François</li><li>Anne Loiret as Professeure Morgane Janson</li><li>Thomas Gioria as Antoine</li><li>Maxence Tual as Wilmarc</li><li>Juliette Gasquet as Fanny</li></ul>\n</article>",
+   "t": "The Wonderers (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1354518": {
+   "d": "100 Nights of Hero (2025): Fantasy/Romance film. Story: When a charming house guest arrives at a remote… See cast and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/skmFqH67nh8zJacf7WcR204Kgvl.jpg",
+   "industry": "world",
+   "k": "100 Nights of Hero, 100 Nights of Hero movie, 100 Nights of Hero cast, 100 Nights of Hero story, 100 Nights of Hero box office collection, 100 Nights of Hero budget, 100 Nights of Hero review, 100 Nights of Hero rating, 100 Nights of Hero release date, 100 Nights of Hero trailer, 100 Nights of Hero Fantasy, 100 Nights of Hero Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Emma Corrin"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicholas Galitzine"
+     },
+     {
+      "@type": "Person",
+      "name": "Maika Monroe"
+     },
+     {
+      "@type": "Person",
+      "name": "Amir El-Masry"
+     },
+     {
+      "@type": "Person",
+      "name": "Charli xcx"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 30,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "100 Nights of Hero (2025): Fantasy/Romance film. Story: When a charming house guest arrives at a remote… See cast and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Julia Jackman"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Fantasy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/skmFqH67nh8zJacf7WcR204Kgvl.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1354518",
+    "name": "100 Nights of Hero",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1354518"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>100 Nights of Hero (2025)</h1>\n<p class=\"ssr-lead\">When a charming house guest arrives at a remote castle, the delicate dynamic between a neglectful husband, his innocent bride Cherry and their devoted maid Hero is thrown into chaos.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 December 2025</li><li>Runtime: 91 minutes</li><li>Director: Julia Jackman</li><li>Genres: Fantasy, Romance</li><li>TMDB rating: 5.9/10 (30 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Emma Corrin as Hero</li><li>Nicholas Galitzine as Manfred</li><li>Maika Monroe as Cherry</li><li>Amir El-Masry as Jerome</li><li>Charli xcx as Rosa</li><li>Richard E. Grant as Birdman</li><li>Felicity Jones as Narrator / Moon</li><li>Safia Oakley-Green as Kiddo</li><li>Josh Cowdery as Beaked Brother Hugo</li><li>Markella Kavenagh as Mrs. A</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu, Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Sundance Now</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "100 Nights of Hero (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1501018": {
+   "d": "A Family of Bastards (2026): Comedy/Crime film. Story: After the death of his father, Mohamed discovers the… See cast and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7ImZeJiXNcZYKruKEqMzyW3CwVL.jpg",
+   "industry": "world",
+   "k": "A Family of Bastards, A Family of Bastards movie, A Family of Bastards cast, A Family of Bastards story, A Family of Bastards box office collection, A Family of Bastards budget, A Family of Bastards review, A Family of Bastards rating, A Family of Bastards release date, A Family of Bastards trailer, A Family of Bastards Comedy, A Family of Bastards Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hakim Jemili"
+     },
+     {
+      "@type": "Person",
+      "name": "Benjamin Tranié"
+     },
+     {
+      "@type": "Person",
+      "name": "Laura Felpin"
+     },
+     {
+      "@type": "Person",
+      "name": "Kad Merad"
+     },
+     {
+      "@type": "Person",
+      "name": "Florence Foresti"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 80,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "A Family of Bastards (2026): Comedy/Crime film. Story: After the death of his father, Mohamed discovers the… See cast and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mourad Winter"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7ImZeJiXNcZYKruKEqMzyW3CwVL.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1501018",
+    "name": "A Family of Bastards",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1501018"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Family of Bastards (2026)</h1>\n<p class=\"ssr-lead\">After the death of his father, Mohamed discovers the living of a step-brother and a step-sister. Together, they must manage the suspicious bar they inherited of linked to criminality, drug traffic and prostitution.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 June 2026</li><li>Runtime: 105 minutes</li><li>Director: Mourad Winter</li><li>Genres: Comedy, Crime</li><li>TMDB rating: 5.7/10 (80 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hakim Jemili as Mohamed</li><li>Benjamin Tranié as Maurice</li><li>Laura Felpin as Morgane</li><li>Kad Merad as Djilali</li><li>Florence Foresti as Sylvie</li><li>David Ayala as Patrick</li><li>Ouassini Embarek as Kamel</li><li>Alexandre Kominek as Francis</li><li>Céline Groussard as Commissaire Migné</li><li>Hanaa Mansour as Loubna</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "A Family of Bastards (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1538718": {
+   "d": "Disneyland Handcrafted (2026): Documentary film. Story: Oscar and Emmy nominated filmmaker Leslie Iwerks… See cast and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lUUzdpdlQiYno9rFrQ4EJOACQy5.jpg",
+   "industry": "world",
+   "k": "Disneyland Handcrafted, Disneyland Handcrafted movie, Disneyland Handcrafted cast, Disneyland Handcrafted story, Disneyland Handcrafted box office collection, Disneyland Handcrafted budget, Disneyland Handcrafted review, Disneyland Handcrafted rating, Disneyland Handcrafted release date, Disneyland Handcrafted trailer, Disneyland Handcrafted Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Walt Disney"
+     },
+     {
+      "@type": "Person",
+      "name": "Art Linkletter"
+     },
+     {
+      "@type": "Person",
+      "name": "Irene Dunne"
+     },
+     {
+      "@type": "Person",
+      "name": "Harriet Burns"
+     },
+     {
+      "@type": "Person",
+      "name": "Marty Sklar"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 34,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Disneyland Handcrafted (2026): Documentary film. Story: Oscar and Emmy nominated filmmaker Leslie Iwerks… See cast and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Leslie Iwerks"
+     }
+    ],
+    "duration": "PT78M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lUUzdpdlQiYno9rFrQ4EJOACQy5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1538718",
+    "name": "Disneyland Handcrafted",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1538718"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Disneyland Handcrafted (2026)</h1>\n<p class=\"ssr-lead\">Oscar and Emmy nominated filmmaker Leslie Iwerks returns with an all-new Disney documentary giving viewers an up-close look at the dedication, effort, and passion that was required to realize a dream that would go on to inspire millions around the world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 January 2026</li><li>Runtime: 78 minutes</li><li>Director: Leslie Iwerks</li><li>Genres: Documentary</li><li>TMDB rating: 7.1/10 (34 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Walt Disney as Self (archive footage)</li><li>Art Linkletter as Self (archive footage)</li><li>Irene Dunne as Self (archive footage)</li><li>Harriet Burns as Self (archive footage)</li><li>Marty Sklar as Self (archive footage)</li><li>Roy Edward Disney as Self (archive footage)</li><li>Robert Cummings as Self (archive footage)</li><li>Diane Disney as Self (archive footage)</li><li>Milt Albright as Self (archive footage)</li><li>John Hencher as Self (archive footage)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Disneyland Handcrafted (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1547918": {
+   "d": "We Met in December (2025): Romance/Drama film. Story: Two strangers meet on a layover and fall for one… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lbQEafYg1HPmRQALqS6QKCdnB3C.jpg",
+   "industry": "world",
+   "k": "We Met in December, We Met in December movie, We Met in December cast, We Met in December story, We Met in December box office collection, We Met in December budget, We Met in December review, We Met in December rating, We Met in December release date, We Met in December trailer, We Met in December Romance, We Met in December Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Autumn Reeser"
+     },
+     {
+      "@type": "Person",
+      "name": "Niall Matter"
+     },
+     {
+      "@type": "Person",
+      "name": "Kyana Teresa"
+     },
+     {
+      "@type": "Person",
+      "name": "Lara Amersey"
+     },
+     {
+      "@type": "Person",
+      "name": "David Pinard"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 22,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "We Met in December (2025): Romance/Drama film. Story: Two strangers meet on a layover and fall for one… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jonathan Wright"
+     }
+    ],
+    "duration": "PT84M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lbQEafYg1HPmRQALqS6QKCdnB3C.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1547918",
+    "name": "We Met in December",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-11-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1547918"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>We Met in December (2025)</h1>\n<p class=\"ssr-lead\">Two strangers meet on a layover and fall for one another — but forget to exchange numbers. The next day, they fly to Chicago separately, just miss each other, and “embark on separate quests to find one another.&quot;</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 November 2025</li><li>Runtime: 84 minutes</li><li>Director: Jonathan Wright</li><li>Genres: Romance, Drama, TV Movie</li><li>TMDB rating: 6.9/10 (22 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Autumn Reeser as Annie Lane</li><li>Niall Matter as Dave Weeks</li><li>Kyana Teresa as Kate</li><li>Lara Amersey as Olivia</li><li>David Pinard as Brady</li><li>Nora Sheehan as Gail</li><li>Tara Yelland as Violet</li><li>Nola Augustson as Donna</li><li>Zoë Fraser as Courtney</li><li>Valentina Capetola as Cora</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, Philo, YouTube TV, Hallmark+ Amazon Channel, Hallmark+ Apple TV channel, Hallmark TV Amazon Channel</li></ul>\n</article>",
+   "t": "We Met in December (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1578018": {
+   "d": "Blessed Heart (2026): Drama film. Story: The true story of the sacred heart, told by Father… See cast, TMDB rating 7.9/10, and release date 22 January 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/xh2IXxK62vZeLAn0VQmJLRH3ObU.jpg",
+   "industry": "world",
+   "k": "Blessed Heart, Blessed Heart movie, Blessed Heart cast, Blessed Heart story, Blessed Heart box office collection, Blessed Heart budget, Blessed Heart review, Blessed Heart rating, Blessed Heart release date, Blessed Heart Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Juan Manuel Azcona"
+     },
+     {
+      "@type": "Person",
+      "name": "Nora Cervantes"
+     },
+     {
+      "@type": "Person",
+      "name": "Manjarrez Belinda"
+     },
+     {
+      "@type": "Person",
+      "name": "Humberto Fuentes"
+     },
+     {
+      "@type": "Person",
+      "name": "Alejandro Gutiérrez"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 37,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Blessed Heart (2026): Drama film. Story: The true story of the sacred heart, told by Father… See cast, TMDB rating 7.9/10, and release date 22 January 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Miguel Ángel Pérez"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xh2IXxK62vZeLAn0VQmJLRH3ObU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1578018",
+    "name": "Blessed Heart",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1578018"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Blessed Heart (2026)</h1>\n<p class=\"ssr-lead\">The true story of the sacred heart, told by Father Arturo Cornejo.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 January 2026</li><li>Runtime: 86 minutes</li><li>Director: Miguel Ángel Pérez</li><li>Genres: Drama</li><li>TMDB rating: 7.9/10 (37 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Juan Manuel Azcona as Don Gregorio</li><li>Nora Cervantes as Señora del pueblo</li><li>Manjarrez Belinda as Laura</li><li>Humberto Fuentes as Don Sebastian</li><li>Alejandro Gutiérrez as Defensor</li><li>Omar Jauregui as Espiritu guia</li><li>Lisset as Ana Maria</li><li>Lorenzo Manjarrez as Mario</li><li>Miguel Ángel Pérez as Asesino</li><li>Frank Rodriguez as Mariano de Avila</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Blessed Heart (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1610418": {
+   "d": "The House on Haunted Grounds (2026): Horror film. Story: What begins as a routine investigation into a house… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/r9aYDDP7tHpwCvQbOxcfhZFBT63.jpg",
+   "industry": "world",
+   "k": "The House on Haunted Grounds, The House on Haunted Grounds movie, The House on Haunted Grounds cast, The House on Haunted Grounds story, The House on Haunted Grounds box office collection, The House on Haunted Grounds budget, The House on Haunted Grounds review, The House on Haunted Grounds rating, The House on Haunted Grounds release date, The House on Haunted Grounds trailer, The House on Haunted Grounds Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Logan Wallace"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrew Thomas"
+     },
+     {
+      "@type": "Person",
+      "name": "Stuart Maxheimer"
+     },
+     {
+      "@type": "Person",
+      "name": "Cashmere Moniqué"
+     },
+     {
+      "@type": "Person",
+      "name": "Dylan DeVane"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 29,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "The House on Haunted Grounds (2026): Horror film. Story: What begins as a routine investigation into a house… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Brendan Rudnicki"
+     }
+    ],
+    "duration": "PT69M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/r9aYDDP7tHpwCvQbOxcfhZFBT63.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1610418",
+    "name": "The House on Haunted Grounds",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1610418"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The House on Haunted Grounds (2026)</h1>\n<p class=\"ssr-lead\">What begins as a routine investigation into a house slated for demolition turns into a nightmare when the team faces an evil force, leaving behind only the recovered footage.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 January 2026</li><li>Runtime: 69 minutes</li><li>Director: Brendan Rudnicki</li><li>Genres: Horror</li><li>TMDB rating: 6.1/10 (29 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Logan Wallace as Amy</li><li>Andrew Thomas as Tony</li><li>Stuart Maxheimer as Bradley</li><li>Cashmere Moniqué as Kate</li><li>Dylan DeVane as Dylan</li><li>Brent Downs as Cop 1</li><li>Austin J. Rhodes as Cop 2</li><li>Kellan Rudnicki as Moe</li><li>Shaelyn Clark as Hostage Ghost</li><li>Emily Thorton as Barrel Ghost</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "The House on Haunted Grounds (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1612018": {
+   "d": "Jackass: Best and Last (2026): Action/Comedy film. Story: The fifth and final installment to Jackass franchise… See cast, budget $10M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
+   "industry": "world",
+   "k": "Jackass: Best and Last, Jackass: Best and Last movie, Jackass: Best and Last cast, Jackass: Best and Last story, Jackass: Best and Last box office collection, Jackass: Best and Last budget, Jackass: Best and Last review, Jackass: Best and Last rating, Jackass: Best and Last release date, Jackass: Best and Last trailer, Jackass: Best and Last Action, Jackass: Best and Last Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Johnny Knoxville"
+     },
+     {
+      "@type": "Person",
+      "name": "Steve-O"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Pontius"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason 'Wee Man' Acuña"
+     },
+     {
+      "@type": "Person",
+      "name": "Preston Lacy"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 297,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Jackass: Best and Last (2026): Action/Comedy film. Story: The fifth and final installment to Jackass franchise… See cast, budget $10M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jeff Tremaine"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1612018",
+    "name": "Jackass: Best and Last",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1612018"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Jackass: Best and Last (2026)</h1>\n<p class=\"ssr-lead\">The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 June 2026</li><li>Runtime: 92 minutes</li><li>Director: Jeff Tremaine</li><li>Genres: Action, Comedy, Documentary</li><li>Budget: $10M</li><li>TMDB rating: 7.3/10 (297 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Johnny Knoxville as Self</li><li>Steve-O as Self</li><li>Chris Pontius as Self</li><li>Jason &#x27;Wee Man&#x27; Acuña as Self</li><li>Preston Lacy as Self</li><li>Dave England as Self</li><li>Ehren McGhehey as Self</li><li>Bam Margera as Self (archive footage)</li><li>Ryan Dunn as Self (archive footage)</li><li>Davon &#x27;Jasper&#x27; Wilson as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Jackass: Best and Last (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1676318": {
+   "d": "Back to the 90s (2026): Comedy/Romance film. Story: When a mysterious glitch sends a rising boyband back… See cast and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wJaqJIBZB8D5rPTwQDnGyhTX6RB.jpg",
+   "industry": "world",
+   "k": "Back to the 90s, Back to the 90s movie, Back to the 90s cast, Back to the 90s story, Back to the 90s box office collection, Back to the 90s budget, Back to the 90s review, Back to the 90s rating, Back to the 90s release date, Back to the 90s Comedy, Back to the 90s Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jacob Rott"
+     },
+     {
+      "@type": "Person",
+      "name": "Luis Freitag"
+     },
+     {
+      "@type": "Person",
+      "name": "Bene Schulz"
+     },
+     {
+      "@type": "Person",
+      "name": "Julien Brown"
+     },
+     {
+      "@type": "Person",
+      "name": "Tim Schäcker"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 32,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Back to the 90s (2026): Comedy/Romance film. Story: When a mysterious glitch sends a rising boyband back… See cast and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Facundo Scalerandi"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wJaqJIBZB8D5rPTwQDnGyhTX6RB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1676318",
+    "name": "Back to the 90s",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1676318"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Back to the 90s (2026)</h1>\n<p class=\"ssr-lead\">When a mysterious glitch sends a rising boyband back to 1995 - just days before the biggest showcase of their lives - the five friends race to reverse the time slip. But as unexpected connections form and the past pulls them in deeper, getting home means confronting what they&#x27;re willing to leave behind - and who they truly are to each other.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 August 2026</li><li>Runtime: 92 minutes</li><li>Director: Facundo Scalerandi</li><li>Genres: Comedy, Romance, Music</li><li>TMDB rating: 5.9/10 (32 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jacob Rott as Ben</li><li>Luis Freitag as Chris</li><li>Bene Schulz as Oliver</li><li>Julien Brown as Matteo</li><li>Tim Schäcker as Jonas</li><li>Anja Pichler as Mary Jane</li><li>Luise Aschenbrenner as Jamie</li><li>Sidney Fahlisch as Olivia</li><li>Liam Noori as Young Arno</li><li>Luis Moll as Charlie Crawford</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Back to the 90s (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:1818": {
    "d": "Shoot the Piano Player (1960): Drama/Thriller film. Story: Charlie is a former classical pianist who has changed… See cast and TMDB rating 7.2/10.",
@@ -448,6 +1275,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Justin Bieber: Never Say Never (2011)</h1>\n<p class=\"ssr-lead\">Tells the story of Justin Bieber, the kid from Canada with the hair, the smile and the voice: It chronicles his unprecedented rise to fame, all the way from busking in the streets of Stratford, Canada to putting videos on YouTube to selling out Madison Square Garden in New York as the headline act during the My World Tour from 2010. It features Usher, Scooter Braun, Ludacris, Sean Kingston, Antonio &quot;L.A.&quot; Reid, Boyz II Men, Miley Cyrus, Jaden Smith, Justin&#x27;s family members and parts of his crew and huge fanbase in a mix of interviews and guest performances.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 February 2011</li><li>Runtime: 105 minutes</li><li>Director: Jon M. Chu</li><li>Genres: Music, Documentary, Family</li><li>Budget: $13M</li><li>TMDB rating: 5.2/10 (439 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Justin Bieber as Self</li><li>Nathan Morris as Self - Boyz II Men</li><li>Wanyá Morris as Self - Boyz II Men</li><li>Shawn Stockman as Self - Boyz II Men</li><li>Miley Cyrus as Self</li><li>Ludacris as Self</li><li>Jaden Smith as Self</li><li>Usher as Self</li><li>Diane Dale as Self</li><li>Bruce Dale as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "Justin Bieber: Never Say Never (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:813418": {
+   "d": "Hot Spot (2026): Science Fiction/Action film. Story: Set in a near future society ruled by sentient A.I. See cast, budget $6M, and TMDB rating 4.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mATo9RWAc7IWGVbetpmmKJqWDiJ.jpg",
+   "industry": "world",
+   "k": "Hot Spot, Hot Spot movie, Hot Spot cast, Hot Spot story, Hot Spot box office collection, Hot Spot budget, Hot Spot review, Hot Spot rating, Hot Spot release date, Hot Spot trailer, Hot Spot Science Fiction, Hot Spot Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Andrzej Konopka"
+     },
+     {
+      "@type": "Person",
+      "name": "Noomi Rapace"
+     },
+     {
+      "@type": "Person",
+      "name": "Reika Kirishima"
+     },
+     {
+      "@type": "Person",
+      "name": "Filippa Kaye"
+     },
+     {
+      "@type": "Person",
+      "name": "George Aurimas Cris"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 46,
+     "ratingValue": 4.2,
+     "worstRating": 0
+    },
+    "description": "Hot Spot (2026): Science Fiction/Action film. Story: Set in a near future society ruled by sentient A.I. See cast, budget $6M, and TMDB rating 4.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Agnieszka Smoczyńska"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Science Fiction",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mATo9RWAc7IWGVbetpmmKJqWDiJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=813418",
+    "name": "Hot Spot",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=813418"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hot Spot (2026)</h1>\n<p class=\"ssr-lead\">Set in a near future society ruled by sentient A.I., a private eye investigates a murder case only to discover a rebel group capable of undermining the digital overlord. As the detective&#x27;s identity slowly unravels, his world enters a state of hypnotic meltdown.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 August 2026</li><li>Runtime: 101 minutes</li><li>Director: Agnieszka Smoczyńska</li><li>Genres: Science Fiction, Action, Crime, Fantasy, Thriller</li><li>Budget: $6M</li><li>TMDB rating: 4.2/10 (46 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Andrzej Konopka as Jan 623</li><li>Noomi Rapace as Rana</li><li>Reika Kirishima as Ayka</li><li>Filippa Kaye as Maria</li><li>George Aurimas Cris as Zen</li><li>Niki Sereti as Bossa</li><li>Ektoras Liatsos as TseTse</li><li>Rasmi Tsopela as Granny</li><li>Eleni Tzangka as Mona</li><li>Thanasis Barkas as Male Soldier</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Peacock Premium, Peacock Premium Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Hot Spot (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "tv:1018": {
    "d": "Bonanza (1959) is a Western and Action & Adventure TV series. Explore its story: The High-Sierra adventures of Ben Cartwright and his…, cast, and 14 seasons.",

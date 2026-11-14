@@ -1,7 +1,71 @@
 {
  "bucket": "79",
- "count": 11,
+ "count": 17,
  "titles": {
+  "movie:1000879": {
+   "d": "The Site (2026): Thriller/Fantasy film. Story: Vincent works the night shift on the construction… See cast and TMDB rating 5.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/r0txRSBp0N7zPPP64Pnz9jr2xC7.jpg",
+   "industry": "world",
+   "k": "The Site, The Site movie, The Site cast, The Site story, The Site box office collection, The Site budget, The Site review, The Site rating, The Site release date, The Site Thriller, The Site Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Damien Bonnard"
+     },
+     {
+      "@type": "Person",
+      "name": "Samir Guesmi"
+     },
+     {
+      "@type": "Person",
+      "name": "Mouna Soualem"
+     },
+     {
+      "@type": "Person",
+      "name": "Tudor Aaron Istodor"
+     },
+     {
+      "@type": "Person",
+      "name": "Ahmed Abdel Laoui"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 42,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "The Site (2026): Thriller/Fantasy film. Story: Vincent works the night shift on the construction… See cast and TMDB rating 5.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Akihiro Hata"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Thriller",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/r0txRSBp0N7zPPP64Pnz9jr2xC7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1000879",
+    "name": "The Site",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1000879"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Site (2026)</h1>\n<p class=\"ssr-lead\">Vincent works the night shift on the construction site of a futuristic district. When a worker goes missing, Vincent and his colleagues suspect that their superiors are covering up an accident. But soon another worker disappears.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 January 2026</li><li>Runtime: 91 minutes</li><li>Director: Akihiro Hata</li><li>Genres: Thriller, Fantasy</li><li>TMDB rating: 5.3/10 (42 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Damien Bonnard as Vincent</li><li>Samir Guesmi as Saïd</li><li>Mouna Soualem as Nour</li><li>Tudor Aaron Istodor as Mihai</li><li>Ahmed Abdel Laoui as Ahmed</li><li>Issaka Sawadogo as Ousmane</li><li>Sophie Mousel as Delphine</li><li>Denis Eyriey as Marc</li><li>Mounir Margoum as Farid</li><li>Hamed Souna</li></ul>\n</article>",
+   "t": "The Site (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:101179": {
    "d": "Truth or Dare (2012): Horror/Thriller film. Story: A group of friends are lured to an isolated cabin by… See cast and TMDB rating 5.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/g0dcZKZe5XygwPpMrISPnidGH1W.jpg",
@@ -65,6 +129,315 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Truth or Dare (2012)</h1>\n<p class=\"ssr-lead\">A group of friends are lured to an isolated cabin by a promise of heavy partying, only to find themselves in a nightmarish game of truth or dare.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 August 2012</li><li>Runtime: 95 minutes</li><li>Director: Robert Heath</li><li>Genres: Horror, Thriller, Mystery</li><li>TMDB rating: 5.6/10 (436 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Liam Boyle as Paul</li><li>Jack Gordon as Chris</li><li>Florence Hall as Gemma</li><li>David Oakes as Justin</li><li>Jennie Jacques as Eleanor</li><li>Tom Kane as Felix</li><li>Jason Maza as Jonesy</li><li>David Sterne as Woodbridge</li><li>Alexander Vlahos as Luke</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "Truth or Dare (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2012"
+  },
+  "movie:1275779": {
+   "d": "Disclosure Day (2026): Science Fiction/Thriller film. Story: A cybersecurity expert becomes a whistleblower after… See cast and budget $115M.",
+   "img": "https://image.tmdb.org/t/p/w780/1e0KDRYKRPHiVNj8yQKYuU2jVyQ.jpg",
+   "industry": "world",
+   "k": "Disclosure Day, Disclosure Day movie, Disclosure Day cast, Disclosure Day story, Disclosure Day box office collection, Disclosure Day budget, Disclosure Day review, Disclosure Day rating, Disclosure Day release date, Disclosure Day trailer, Disclosure Day Science Fiction, Disclosure Day Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Emily Blunt"
+     },
+     {
+      "@type": "Person",
+      "name": "Josh O'Connor"
+     },
+     {
+      "@type": "Person",
+      "name": "Colin Firth"
+     },
+     {
+      "@type": "Person",
+      "name": "Eve Hewson"
+     },
+     {
+      "@type": "Person",
+      "name": "Colman Domingo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 4012,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Disclosure Day (2026): Science Fiction/Thriller film. Story: A cybersecurity expert becomes a whistleblower after… See cast and budget $115M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Steven Spielberg"
+     }
+    ],
+    "duration": "PT146M",
+    "genre": [
+     "Science Fiction",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1e0KDRYKRPHiVNj8yQKYuU2jVyQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1275779",
+    "name": "Disclosure Day",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1275779"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Disclosure Day (2026)</h1>\n<p class=\"ssr-lead\">A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there&#x27;s life beyond our understanding.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 June 2026</li><li>Runtime: 146 minutes</li><li>Director: Steven Spielberg</li><li>Genres: Science Fiction, Thriller</li><li>Budget: $115M</li><li>TMDB rating: 7.4/10 (4012 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Emily Blunt as Margaret Fairchild</li><li>Josh O&#x27;Connor as Dr. Daniel Kellner</li><li>Colin Firth as Noah Scanlon</li><li>Eve Hewson as Jane Blakenship</li><li>Colman Domingo as Hugo Wakefield</li><li>Wyatt Russell as Jackson</li><li>Henry Lloyd-Hughes as Casper Boyd</li><li>Elizabeth Marvel as Sister Maura</li><li>Hettienne Park as Serena</li><li>Tommy Martinez as Santiago</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Disclosure Day (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1321179": {
+   "d": "The King's Warden (2026): History/Drama film. Story: In a remote mountain village of 15th-century Joseon… See cast, budget $6.9M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1s1r4OOdnU8VX2inALVTA2q94uY.jpg",
+   "industry": "world",
+   "k": "The King's Warden, The King's Warden movie, The King's Warden cast, The King's Warden story, The King's Warden box office collection, The King's Warden budget, The King's Warden review, The King's Warden rating, The King's Warden release date, The King's Warden trailer, The King's Warden History, The King's Warden Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Yoo Hai-jin"
+     },
+     {
+      "@type": "Person",
+      "name": "Park Ji-hoon"
+     },
+     {
+      "@type": "Person",
+      "name": "Yoo Ji-tae"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeon Mi-do"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Min"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 34,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "The King's Warden (2026): History/Drama film. Story: In a remote mountain village of 15th-century Joseon… See cast, budget $6.9M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chang Hang-jun"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "History",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1s1r4OOdnU8VX2inALVTA2q94uY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1321179",
+    "name": "The King's Warden",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1321179"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The King&#x27;s Warden (2026)</h1>\n<p class=\"ssr-lead\">In a remote mountain village of 15th-century Joseon, humble headman Heung-do hears a rumor that any village hosting an exiled nobleman will be blessed with abundance and fortune. Hoping to bring prosperity to his impoverished community, he eagerly submits a petition to host one—unaware that his guest is none other than the fallen monarch, deposed boy-king Danjong.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 February 2026</li><li>Runtime: 117 minutes</li><li>Director: Chang Hang-jun</li><li>Genres: History, Drama</li><li>Budget: $6.9M</li><li>TMDB rating: 6.9/10 (34 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yoo Hai-jin as Eom Heung-do</li><li>Park Ji-hoon as Yi Hong-wi / Nosan / King Danjong</li><li>Yoo Ji-tae as Han Myeong-hoe</li><li>Jeon Mi-do as Mae-hwa</li><li>Kim Min as Eom Tae-san</li><li>Park Ji-hwan as Eo Se-gyeom</li><li>Lee Jun-hyuk as Geumseong / Yi Yu</li><li>Ahn Jae-hong as Norugol village chief</li><li>Lee Jun-hyeok as Makdong&#x27;s father</li><li>Kim Soo-jin as Makdong&#x27;s mother</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Rakuten Viki</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The King's Warden (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1380279": {
+   "d": "The Plastic Men (2026): War/Drama film. Story: Vietnam veteran Jonathan Teller suffers from guilt… See cast, budget $250.0k, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7Xb6T5B2wQy0dcKVlgriyVqYDdt.jpg",
+   "industry": "world",
+   "k": "The Plastic Men, The Plastic Men movie, The Plastic Men cast, The Plastic Men story, The Plastic Men box office collection, The Plastic Men budget, The Plastic Men review, The Plastic Men rating, The Plastic Men release date, The Plastic Men War, The Plastic Men Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "William Fichtner"
+     },
+     {
+      "@type": "Person",
+      "name": "James Preston"
+     },
+     {
+      "@type": "Person",
+      "name": "Aaron Dalla Villa"
+     },
+     {
+      "@type": "Person",
+      "name": "Gigi Gustin"
+     },
+     {
+      "@type": "Person",
+      "name": "Eva Hamilton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 36,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "The Plastic Men (2026): War/Drama film. Story: Vietnam veteran Jonathan Teller suffers from guilt… See cast, budget $250.0k, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Samuel Gonzalez Jr."
+     }
+    ],
+    "genre": [
+     "War",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7Xb6T5B2wQy0dcKVlgriyVqYDdt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1380279",
+    "name": "The Plastic Men",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1380279"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Plastic Men (2026)</h1>\n<p class=\"ssr-lead\">Vietnam veteran Jonathan Teller suffers from guilt and paranoid delusions. He decides to take his own life, but as he struggles to come to terms with his choice and reality, a chance encounter changes everything.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 May 2026</li><li>Director: Samuel Gonzalez Jr.</li><li>Genres: War, Drama, Horror</li><li>Budget: $250.0k</li><li>TMDB rating: 6.7/10 (36 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>William Fichtner as The Narrator (voice)</li><li>James Preston as Jonathan Teller</li><li>Aaron Dalla Villa as Abbott</li><li>Gigi Gustin as Linda</li><li>Eva Hamilton as Gloria</li><li>Meredith Thomas as Mrs. Thompson</li><li>Davee Youngblood as Tommy</li><li>Matthew Fahey as Speedy</li><li>Armie Hicks Jr. as Jim Sanders</li><li>Melanie Martyn as Judy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: FlixFling, Bloodstream</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling, Bloodstream</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Plastic Men (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1455079": {
+   "d": "You, Me & Tuscany (2026): Romance/Comedy film. Story: When a woman crashes at an empty Italian villa… See cast, budget $18M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/2TWIlmhE06ghspeQLEX1VmnEBiE.jpg",
+   "industry": "world",
+   "k": "You, Me & Tuscany, You, Me & Tuscany movie, You, Me & Tuscany cast, You, Me & Tuscany story, You, Me & Tuscany box office collection, You, Me & Tuscany budget, You, Me & Tuscany review, You, Me & Tuscany rating, You, Me & Tuscany release date, You, Me & Tuscany trailer, You, Me & Tuscany Romance, You, Me & Tuscany Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Halle Bailey"
+     },
+     {
+      "@type": "Person",
+      "name": "Regé-Jean Page"
+     },
+     {
+      "@type": "Person",
+      "name": "Lorenzo de Moor"
+     },
+     {
+      "@type": "Person",
+      "name": "Marco Calvani"
+     },
+     {
+      "@type": "Person",
+      "name": "Isabella Ferrari"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 124,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "You, Me & Tuscany (2026): Romance/Comedy film. Story: When a woman crashes at an empty Italian villa… See cast, budget $18M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kat Coiro"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2TWIlmhE06ghspeQLEX1VmnEBiE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1455079",
+    "name": "You, Me & Tuscany",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1455079"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>You, Me &amp; Tuscany (2026)</h1>\n<p class=\"ssr-lead\">When a woman crashes at an empty Italian villa, posing as the owner&#x27;s fiancée, she discovers an unexpected romance that could transform her life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 April 2026</li><li>Runtime: 105 minutes</li><li>Director: Kat Coiro</li><li>Genres: Romance, Comedy</li><li>Budget: $18M</li><li>TMDB rating: 7.3/10 (124 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Halle Bailey as Anna</li><li>Regé-Jean Page as Michael</li><li>Lorenzo de Moor as Matteo</li><li>Marco Calvani as Lorenzo</li><li>Isabella Ferrari as Gabriella</li><li>Paolo Sassanelli as Vincenzo</li><li>Stefania Casini as Nonna Alessia</li><li>Stella Pecollo as Francesca</li><li>Aziza Scott as Claire</li><li>Tommaso Cassissa as Enzo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "You, Me & Tuscany (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1673179": {
+   "d": "AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026 (2026) is a film. Story: The 2026 Forbidden Door was a professional wrestling… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/ex19p6cqhOkTJOU9Rk5LNCGuvnK.jpg",
+   "industry": "world",
+   "k": "AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026, AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026 movie, AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026 cast, AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026 story, AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026 box office collection, AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026 budget, AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026 review, AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026 rating, AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026 release date, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "William Ospreay"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephon Strickland"
+     },
+     {
+      "@type": "Person",
+      "name": "Samuel Ratsch"
+     },
+     {
+      "@type": "Person",
+      "name": "Konosuke Takeshita"
+     },
+     {
+      "@type": "Person",
+      "name": "Kyle Greenwood"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 21,
+     "ratingValue": 9.1,
+     "worstRating": 0
+    },
+    "description": "AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026 (2026) is a film. Story: The 2026 Forbidden Door was a professional wrestling… See cast.",
+    "duration": "PT294M",
+    "image": "https://image.tmdb.org/t/p/w780/ex19p6cqhOkTJOU9Rk5LNCGuvnK.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1673179",
+    "name": "AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1673179"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026 (2026)</h1>\n<p class=\"ssr-lead\">The 2026 Forbidden Door was a professional wrestling pay-per-view (PPV) event and supershow co-produced by the American promotion All Elite Wrestling (AEW), Mexican promotion Consejo Mundial de Lucha Libre (CMLL) and the Japanese promotions New Japan Pro-Wrestling (NJPW) and World Wonder Ring Stardom (Stardom). It was the fifth annual Forbidden Door event and took place on June 28, 2026 at SAP Center at San Jose in San Jose, California, USA.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 June 2026</li><li>Runtime: 294 minutes</li><li>TMDB rating: 9.1/10 (21 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>William Ospreay as Will Ospreay</li><li>Stephon Strickland as Swerve Strickland</li><li>Samuel Ratsch as Darby Allin</li><li>Konosuke Takeshita as Konosuke Takeshita</li><li>Kyle Greenwood as Kyle O&#x27;Reilly</li><li>Mark Pugh as Mark Briscoe</li><li>James Cipperly as Orange Cassidy</li><li>Christopher Lindsey as Roderick Strong</li><li>Manuel Alfonso Andrade Oropeza as Andrade El Idolo</li><li>Jacob Doyle as Jake Doyle</li></ul>\n</article>",
+   "t": "AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:450179": {
    "d": "Problemos (2017): Comedy/Family film. Story: When a pandemic strikes the world, Victor and his… See cast, budget $7.03M, and TMDB rating 5.5/10.",

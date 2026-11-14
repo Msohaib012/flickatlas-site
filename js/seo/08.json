@@ -1,7 +1,447 @@
 {
  "bucket": "08",
- "count": 18,
+ "count": 27,
  "titles": {
+  "movie:1206008": {
+   "d": "Ella McCay (2025): Comedy/Drama film. Story: An idealistic young politician juggles familial… See cast, budget $35M, and TMDB rating 5.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9cd1zsxcOAcBW01WDOWz8EODTS0.jpg",
+   "industry": "world",
+   "k": "Ella McCay, Ella McCay movie, Ella McCay cast, Ella McCay story, Ella McCay box office collection, Ella McCay budget, Ella McCay review, Ella McCay rating, Ella McCay release date, Ella McCay trailer, Ella McCay Comedy, Ella McCay Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Emma Mackey"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamie Lee Curtis"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Lowden"
+     },
+     {
+      "@type": "Person",
+      "name": "Kumail Nanjiani"
+     },
+     {
+      "@type": "Person",
+      "name": "Spike Fearn"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 155,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "Ella McCay (2025): Comedy/Drama film. Story: An idealistic young politician juggles familial… See cast, budget $35M, and TMDB rating 5.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James L. Brooks"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9cd1zsxcOAcBW01WDOWz8EODTS0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1206008",
+    "name": "Ella McCay",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1206008"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ella McCay (2025)</h1>\n<p class=\"ssr-lead\">An idealistic young politician juggles familial issues and a challenging work life while preparing to take over the job of her mentor, the state’s longtime incumbent governor.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 December 2025</li><li>Runtime: 115 minutes</li><li>Director: James L. Brooks</li><li>Genres: Comedy, Drama</li><li>Budget: $35M</li><li>TMDB rating: 5.5/10 (155 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Emma Mackey as Ella McCay</li><li>Jamie Lee Curtis as Helen</li><li>Jack Lowden as Ryan Newell</li><li>Kumail Nanjiani as Trooper Nash</li><li>Spike Fearn as Casey</li><li>Julie Kavner as Estelle</li><li>Rebecca Hall as Claire McCay</li><li>Ayo Edebiri as Susan</li><li>Albert Brooks as Governor Bill</li><li>Woody Harrelson as Eddie McCay</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Ella McCay (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1291608": {
+   "d": "Dhurandhar (2025): Action/Crime film. Story: In the early 2000s, an undercover operative… See cast, budget $24M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/snYOXem8pUGOffnLbbGq4aB1pg4.jpg",
+   "industry": "bollywood",
+   "k": "Dhurandhar, Dhurandhar movie, Dhurandhar cast, Dhurandhar story, Dhurandhar box office collection, Dhurandhar budget, Dhurandhar review, Dhurandhar rating, Dhurandhar release date, Dhurandhar trailer, Dhurandhar Action, Dhurandhar Crime, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ranveer Singh"
+     },
+     {
+      "@type": "Person",
+      "name": "Akshaye Khanna"
+     },
+     {
+      "@type": "Person",
+      "name": "R. Madhavan"
+     },
+     {
+      "@type": "Person",
+      "name": "Arjun Rampal"
+     },
+     {
+      "@type": "Person",
+      "name": "Sanjay Dutt"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 385,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Dhurandhar (2025): Action/Crime film. Story: In the early 2000s, an undercover operative… See cast, budget $24M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Aditya Dhar"
+     }
+    ],
+    "duration": "PT214M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/snYOXem8pUGOffnLbbGq4aB1pg4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1291608",
+    "name": "Dhurandhar",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1291608"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dhurandhar (2025)</h1>\n<p class=\"ssr-lead\">In the early 2000s, an undercover operative infiltrates Karachi&#x27;s underworld, breaking into its inner circle to dismantle a violent nexus from within.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 December 2025</li><li>Runtime: 214 minutes</li><li>Director: Aditya Dhar</li><li>Genres: Action, Crime, Thriller</li><li>Budget: $24M</li><li>TMDB rating: 7.3/10 (385 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ranveer Singh as Hamza Ali Mazari / Jaskirat Singh Rangi</li><li>Akshaye Khanna as Rehman Dakait</li><li>R. Madhavan as Ajay Sanyal</li><li>Arjun Rampal as Major Iqbal</li><li>Sanjay Dutt as SP Chaudhary Aslam</li><li>Sara Arjun as Yalina Jamali</li><li>Rakesh Bedi as Jameel Jamali</li><li>Danish Pandor as Uzair Baloch</li><li>Gaurav Gera as Mohammad Aalam</li><li>Naveen Kaushik as Donga</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, JioHotstar</li></ul>\n</article>",
+   "t": "Dhurandhar (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1321008": {
+   "d": "Black Box (2026): Horror/Thriller film. Story: Vero Airlines Flight 298 from New Orleans to Seattle… See cast, budget $1M, and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ce0RjYfcgzQeiT3PjaARWv5PVQO.jpg",
+   "industry": "world",
+   "k": "Black Box, Black Box movie, Black Box cast, Black Box story, Black Box box office collection, Black Box budget, Black Box review, Black Box rating, Black Box release date, Black Box trailer, Black Box Horror, Black Box Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tom Brittney"
+     },
+     {
+      "@type": "Person",
+      "name": "Holly White"
+     },
+     {
+      "@type": "Person",
+      "name": "Betsy Blue-English"
+     },
+     {
+      "@type": "Person",
+      "name": "Dane Whyte O'Hara"
+     },
+     {
+      "@type": "Person",
+      "name": "Kaja Chan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 111,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Black Box (2026): Horror/Thriller film. Story: Vero Airlines Flight 298 from New Orleans to Seattle… See cast, budget $1M, and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Steven Quale"
+     }
+    ],
+    "duration": "PT85M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ce0RjYfcgzQeiT3PjaARWv5PVQO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1321008",
+    "name": "Black Box",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1321008"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Black Box (2026)</h1>\n<p class=\"ssr-lead\">Vero Airlines Flight 298 from New Orleans to Seattle becomes the center of a chilling supernatural mystery.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 June 2026</li><li>Runtime: 85 minutes</li><li>Director: Steven Quale</li><li>Genres: Horror, Thriller</li><li>Budget: $1M</li><li>TMDB rating: 5.9/10 (111 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tom Brittney as Jeremey</li><li>Holly White as Emma</li><li>Betsy Blue-English as Rachel</li><li>Dane Whyte O&#x27;Hara as Brad</li><li>Kaja Chan as Chen</li><li>Georgina Leonidas as Yasmin</li><li>Hanneke Talbot as Paula</li><li>Anton Trendafilov as Sickly Old Man</li><li>Asa Ali as Taylor</li><li>Boadicea Ricketts as Lauren</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li></ul>\n</article>",
+   "t": "Black Box (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1442908": {
+   "d": "The Singers (2026): Music/Drama film. Story: An impromptu singing contest at a dive bar turns a… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/oTWgvLnMjjsVNdVTZjf5CEnihhw.jpg",
+   "industry": "world",
+   "k": "The Singers, The Singers movie, The Singers cast, The Singers story, The Singers box office collection, The Singers budget, The Singers review, The Singers rating, The Singers release date, The Singers trailer, The Singers Music, The Singers Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Young"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Smither"
+     },
+     {
+      "@type": "Person",
+      "name": "Will Harrington"
+     },
+     {
+      "@type": "Person",
+      "name": "Judah Kelly"
+     },
+     {
+      "@type": "Person",
+      "name": "Matt Corcoran"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 91,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "The Singers (2026): Music/Drama film. Story: An impromptu singing contest at a dive bar turns a… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sam A. Davis"
+     }
+    ],
+    "duration": "PT18M",
+    "genre": [
+     "Music",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oTWgvLnMjjsVNdVTZjf5CEnihhw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1442908",
+    "name": "The Singers",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1442908"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Singers (2026)</h1>\n<p class=\"ssr-lead\">An impromptu singing contest at a dive bar turns a lonely night into a soul-baring moment of shared harmony.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 February 2026</li><li>Runtime: 18 minutes</li><li>Director: Sam A. Davis</li><li>Genres: Music, Drama, Comedy</li><li>TMDB rating: 6.8/10 (91 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Young as Mike</li><li>Chris Smither as Captain</li><li>Will Harrington as Singer</li><li>Judah Kelly as Singer</li><li>Matt Corcoran as Singer</li><li>Michael Keyes as Bar Patron</li><li>Leroy Griffith as Bar Patron</li><li>Daniel &quot;Hutch&quot; Hutchinson as Bar Patron</li><li>David Scott &quot;Muffin&quot; McMurry as Bar Patron</li><li>Luis &quot;Tio Rigo&quot; Rigoberto Amaya as Bar Patron</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Singers (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1516208": {
+   "d": "She's Making a List (2025): Romance/Comedy film. Story: Naughty or Nice inspector Isabel Haynes doesn’t… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9GnoKfvrLBmuAchlDzxAQmz1kzF.jpg",
+   "industry": "world",
+   "k": "She's Making a List, She's Making a List movie, She's Making a List cast, She's Making a List story, She's Making a List box office collection, She's Making a List budget, She's Making a List review, She's Making a List rating, She's Making a List release date, She's Making a List trailer, She's Making a List Romance, She's Making a List Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lacey Chabert"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrew W. Walker"
+     },
+     {
+      "@type": "Person",
+      "name": "Cadence Compton"
+     },
+     {
+      "@type": "Person",
+      "name": "Steve Bacic"
+     },
+     {
+      "@type": "Person",
+      "name": "Louriza Tronco"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 20,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "She's Making a List (2025): Romance/Comedy film. Story: Naughty or Nice inspector Isabel Haynes doesn’t… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stacey N. Harding"
+     }
+    ],
+    "duration": "PT84M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9GnoKfvrLBmuAchlDzxAQmz1kzF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1516208",
+    "name": "She's Making a List",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1516208"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>She&#x27;s Making a List (2025)</h1>\n<p class=\"ssr-lead\">Naughty or Nice inspector Isabel Haynes doesn’t anticipate anything out of the ordinary when she’s assigned to evaluate 11-year-old Charlie Duncan. However, soon, Isabel falls for Charlie’s widowed father Jason, which makes her question the rigid rules of her job. As Christmas approaches, Isabel must choose between following the holiday algorithm or following her heart.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 December 2025</li><li>Runtime: 84 minutes</li><li>Director: Stacey N. Harding</li><li>Genres: Romance, Comedy, TV Movie</li><li>TMDB rating: 6.8/10 (20 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lacey Chabert as Isabel Haynes</li><li>Andrew W. Walker as Jason Duncan</li><li>Cadence Compton as Charlie Duncan</li><li>Steve Bacic as Rudolph Sweitzer</li><li>Louriza Tronco as Heidi</li><li>BJ Harrison as Wanda</li><li>Alessandro Miro as Giuseppe</li><li>Dax Belanger as Santa</li><li>Francisco Trujillo Avalos-Davidson as Jimbo</li><li>Kurt Long as Santa Impersonator</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "She's Making a List (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1617908": {
+   "d": "Taylor Tomlinson: Prodigal Daughter (2026): Comedy/TV Movie film. Story: Taylor Tomlinson takes her fans to church with… See cast and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8imHEnB6kTNgK1TYPC3Rsnv7xke.jpg",
+   "industry": "world",
+   "k": "Taylor Tomlinson: Prodigal Daughter, Taylor Tomlinson: Prodigal Daughter movie, Taylor Tomlinson: Prodigal Daughter cast, Taylor Tomlinson: Prodigal Daughter story, Taylor Tomlinson: Prodigal Daughter box office collection, Taylor Tomlinson: Prodigal Daughter budget, Taylor Tomlinson: Prodigal Daughter review, Taylor Tomlinson: Prodigal Daughter rating, Taylor Tomlinson: Prodigal Daughter release date, Taylor Tomlinson: Prodigal Daughter trailer, Taylor Tomlinson: Prodigal Daughter Comedy, Taylor Tomlinson: Prodigal Daughter TV Movie, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Taylor Tomlinson"
+     },
+     {
+      "@type": "Person",
+      "name": "Sophie Buddle"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 35,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Taylor Tomlinson: Prodigal Daughter (2026): Comedy/TV Movie film. Story: Taylor Tomlinson takes her fans to church with… See cast and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Taylor Tomlinson"
+     }
+    ],
+    "duration": "PT69M",
+    "genre": [
+     "Comedy",
+     "TV Movie"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8imHEnB6kTNgK1TYPC3Rsnv7xke.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1617908",
+    "name": "Taylor Tomlinson: Prodigal Daughter",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1617908"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Taylor Tomlinson: Prodigal Daughter (2026)</h1>\n<p class=\"ssr-lead\">Taylor Tomlinson takes her fans to church with hilarious confessions about dating in her 30s, her dream assistant and why she refuses to use AI.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 February 2026</li><li>Runtime: 69 minutes</li><li>Director: Taylor Tomlinson</li><li>Genres: Comedy, TV Movie</li><li>TMDB rating: 7.0/10 (35 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Taylor Tomlinson as Self</li><li>Sophie Buddle as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Taylor Tomlinson: Prodigal Daughter (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1710008": {
+   "d": "Nothing to Lose (2026): Action/Drama film. Story: She gave everything to become a mother, so when her… See cast and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5cEmmIMunNk3JRij4nTitFtikIg.jpg",
+   "industry": "world",
+   "k": "Nothing to Lose, Nothing to Lose movie, Nothing to Lose cast, Nothing to Lose story, Nothing to Lose box office collection, Nothing to Lose budget, Nothing to Lose review, Nothing to Lose rating, Nothing to Lose release date, Nothing to Lose Action, Nothing to Lose Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nawell Madani"
+     },
+     {
+      "@type": "Person",
+      "name": "Guillaume Gouix"
+     },
+     {
+      "@type": "Person",
+      "name": "Aissatou Diallo Sagna"
+     },
+     {
+      "@type": "Person",
+      "name": "Majida Ghomari"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicolas Briançon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 83,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Nothing to Lose (2026): Action/Drama film. Story: She gave everything to become a mother, so when her… See cast and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nawell Madani"
+     },
+     {
+      "@type": "Person",
+      "name": "Ludovic Colbeau-Justin"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5cEmmIMunNk3JRij4nTitFtikIg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1710008",
+    "name": "Nothing to Lose",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1710008"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Nothing to Lose (2026)</h1>\n<p class=\"ssr-lead\">She gave everything to become a mother, so when her young son falls ill, Jada will stop at nothing to find a donor and save him — no matter the cost.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 July 2026</li><li>Runtime: 102 minutes</li><li>Director: Nawell Madani, Ludovic Colbeau-Justin</li><li>Genres: Action, Drama</li><li>TMDB rating: 7.1/10 (83 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nawell Madani as Jada</li><li>Guillaume Gouix as Paul</li><li>Aissatou Diallo Sagna as Fanta</li><li>Majida Ghomari as Nadia, la mère de Jada</li><li>Nicolas Briançon</li><li>David Salles as Campos</li><li>Manmathan Basky</li><li>Steve Tientcheu</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Nothing to Lose (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:1908": {
    "d": "Inherit the Wind (1960): Drama film. Story: Schoolteacher Bertram Cates is arrested for teaching… See cast, budget $2M, and TMDB rating 7.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/es4sV6krplqscHmhn9TFSqkl8ee.jpg",
@@ -319,6 +759,70 @@
    "t": "Fahrenheit 11/9 (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
   },
+  "movie:656908": {
+   "d": "Ramayana: Rise of a Legend (2026): Fantasy/Action film. Story: An ancient epic follows a young prince and princess… See cast and budget $260M.",
+   "img": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+   "industry": "bollywood",
+   "k": "Ramayana: Rise of a Legend, Ramayana: Rise of a Legend movie, Ramayana: Rise of a Legend cast, Ramayana: Rise of a Legend story, Ramayana: Rise of a Legend box office collection, Ramayana: Rise of a Legend budget, Ramayana: Rise of a Legend review, Ramayana: Rise of a Legend rating, Ramayana: Rise of a Legend release date, Ramayana: Rise of a Legend trailer, Ramayana: Rise of a Legend Fantasy, Ramayana: Rise of a Legend Action, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ranbir Kapoor"
+     },
+     {
+      "@type": "Person",
+      "name": "Yash"
+     },
+     {
+      "@type": "Person",
+      "name": "Sai Pallavi"
+     },
+     {
+      "@type": "Person",
+      "name": "Ravi Dubey"
+     },
+     {
+      "@type": "Person",
+      "name": "Arun Govil"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 42,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Ramayana: Rise of a Legend (2026): Fantasy/Action film. Story: An ancient epic follows a young prince and princess… See cast and budget $260M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nitesh Tiwari"
+     }
+    ],
+    "duration": "PT201M",
+    "genre": [
+     "Fantasy",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=656908",
+    "name": "Ramayana: Rise of a Legend",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=656908"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ramayana: Rise of a Legend (2026)</h1>\n<p class=\"ssr-lead\">An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 November 2026</li><li>Runtime: 201 minutes</li><li>Director: Nitesh Tiwari</li><li>Genres: Fantasy, Action, Adventure</li><li>Budget: $260M</li><li>TMDB rating: 7.5/10 (42 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ranbir Kapoor as Prince Rama / Parashurama</li><li>Yash as Ravana</li><li>Sai Pallavi as Sita</li><li>Ravi Dubey as Lakshmana</li><li>Arun Govil as King Dashrath</li><li>Lara Dutta as Kaikeyi</li><li>Rakul Preet Singh as Surpanakha</li><li>Indira Krishnan as Kaushalya</li><li>Sonal Jha as Sumitra</li><li>Adinath Kothare as Bharata</li></ul>\n</article>",
+   "t": "Ramayana: Rise of a Legend (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:79108": {
    "d": "Starbuck (2011): Comedy film. Story: David Wozniak is a perpetual adolescent who discovers… See cast, TMDB rating 6.9/10, and release date 27 July 2011.",
    "img": "https://image.tmdb.org/t/p/w780/oWaSlhlfx9woNAYP9XeqarG6JYH.jpg",
@@ -445,6 +949,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Man Who Knew Too Much (1934)</h1>\n<p class=\"ssr-lead\">While vacationing in St. Moritz, a British couple receive a clue to an imminent assassination attempt, only to learn that their daughter has been kidnapped to keep them quiet.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 December 1934</li><li>Runtime: 76 minutes</li><li>Director: Alfred Hitchcock</li><li>Genres: Thriller, Mystery</li><li>Budget: $180.0k</li><li>TMDB rating: 6.5/10 (477 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Leslie Banks as Bob Lawrence</li><li>Edna Best as Jill Lawrence</li><li>Peter Lorre as Abbott</li><li>Frank Vosper as Ramon Levine</li><li>Hugh Wakefield as Clive</li><li>Nova Pilbeam as Betty Lawrence</li><li>Pierre Fresnay as Louis Bernard</li><li>Cicely Oates as Nurse Agnes</li><li>D.A. Clarke-Smith as Binstead</li><li>George Curzon as Gibson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, HBO Max Amazon Channel, YouTube TV, Criterion Channel, HBO Max, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "The Man Who Knew Too Much (1934) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1934"
+  },
+  "movie:860508": {
+   "d": "The Whisper Man (2026): Crime/Drama film. Story: When his young son vanishes, a widower enlists help… See cast, budget $50M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+   "industry": "world",
+   "k": "The Whisper Man, The Whisper Man movie, The Whisper Man cast, The Whisper Man story, The Whisper Man box office collection, The Whisper Man budget, The Whisper Man review, The Whisper Man rating, The Whisper Man release date, The Whisper Man trailer, The Whisper Man Crime, The Whisper Man Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Robert De Niro"
+     },
+     {
+      "@type": "Person",
+      "name": "Michelle Monaghan"
+     },
+     {
+      "@type": "Person",
+      "name": "Adam Scott"
+     },
+     {
+      "@type": "Person",
+      "name": "Acston Luca Porto"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Keaton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1025,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "The Whisper Man (2026): Crime/Drama film. Story: When his young son vanishes, a widower enlists help… See cast, budget $50M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James Ashcroft"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=860508",
+    "name": "The Whisper Man",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=860508"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Whisper Man (2026)</h1>\n<p class=\"ssr-lead\">When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 August 2026</li><li>Runtime: 111 minutes</li><li>Director: James Ashcroft</li><li>Genres: Crime, Drama, Thriller</li><li>Budget: $50M</li><li>TMDB rating: 6.8/10 (1025 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert De Niro as Peter Willis</li><li>Michelle Monaghan as Amanda Beck</li><li>Adam Scott as Tom Kennedy</li><li>Acston Luca Porto as Jake Kennedy</li><li>Michael Keaton as Frank Carter</li><li>Owen Teague as Frank Carter Jr.</li><li>Hamish Linklater as Norman Collins</li><li>Will Brill as Sgt. John Dyson</li><li>Aniela Zeig as Little Girl</li><li>Exavier Montanez as Neil Spencer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Whisper Man (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:938008": {
    "d": "The Killer (2022): Action/Crime film. Story: While his girlfriend is away on a trip, retired… See cast, TMDB rating 7.6/10, and release date 13 July 2022.",

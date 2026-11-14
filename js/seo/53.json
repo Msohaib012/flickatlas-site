@@ -1,7 +1,71 @@
 {
  "bucket": "53",
- "count": 11,
+ "count": 17,
  "titles": {
+  "movie:1022453": {
+   "d": "The Rajasaab (2026): Fantasy/Horror film. Story: Seeking his lost grandfather, a young man enters a… See cast, budget $50M, and TMDB rating 4.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kCwmLYy9ZMto1eMH8BI9KcVVIH2.jpg",
+   "industry": "bollywood",
+   "k": "The Rajasaab, The Rajasaab movie, The Rajasaab cast, The Rajasaab story, The Rajasaab box office collection, The Rajasaab budget, The Rajasaab review, The Rajasaab rating, The Rajasaab release date, The Rajasaab trailer, The Rajasaab Fantasy, The Rajasaab Horror, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Prabhas"
+     },
+     {
+      "@type": "Person",
+      "name": "Sanjay Dutt"
+     },
+     {
+      "@type": "Person",
+      "name": "Zarina Wahab"
+     },
+     {
+      "@type": "Person",
+      "name": "Nidhhi Agerwal"
+     },
+     {
+      "@type": "Person",
+      "name": "Malavika Mohanan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 37,
+     "ratingValue": 4.8,
+     "worstRating": 0
+    },
+    "description": "The Rajasaab (2026): Fantasy/Horror film. Story: Seeking his lost grandfather, a young man enters a… See cast, budget $50M, and TMDB rating 4.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Maruthi Dasari"
+     }
+    ],
+    "duration": "PT186M",
+    "genre": [
+     "Fantasy",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kCwmLYy9ZMto1eMH8BI9KcVVIH2.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1022453",
+    "name": "The Rajasaab",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1022453"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Rajasaab (2026)</h1>\n<p class=\"ssr-lead\">Seeking his lost grandfather, a young man enters a haunted mansion and awakens a family curse powerful enough to upend both his life and reality.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 January 2026</li><li>Runtime: 186 minutes</li><li>Director: Maruthi Dasari</li><li>Genres: Fantasy, Horror, Comedy</li><li>Budget: $50M</li><li>TMDB rating: 4.8/10 (37 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Prabhas as Raju &quot;Rajasaab&quot; / Joker</li><li>Sanjay Dutt as Pekamedala Kanakaraju</li><li>Zarina Wahab as Gangamma</li><li>Nidhhi Agerwal as Bessy</li><li>Malavika Mohanan as Bhairavi</li><li>Riddhi Kumar as Anitha</li><li>Boman Irani as Dr. Padmabhushan</li><li>Samuthirakani as Ganagaraju</li><li>VTV Ganesh as Mangalam Babai</li><li>Saptagiri as Bessy&#x27;s Aide</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu</li></ul>\n</article>",
+   "t": "The Rajasaab (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:10253": {
    "d": "Dragon Wars: D-War (2007): Fantasy/Drama film. Story: Ethan learns he carries the spirit of a warrior who… See cast, budget $32M, and TMDB rating 4.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/5WWqrUIGrCb1QvZtYVaSfZgUG8n.jpg",
@@ -130,6 +194,70 @@
    "t": "The Myth (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2005"
   },
+  "movie:1236153": {
+   "d": "Mercy (2026): Science Fiction/Thriller film. Story: In the near future, a detective stands on trial… See cast, budget $60M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/gIClklFGYBe0uiOoiP2vtocJbss.jpg",
+   "industry": "world",
+   "k": "Mercy, Mercy movie, Mercy cast, Mercy story, Mercy box office collection, Mercy budget, Mercy review, Mercy rating, Mercy release date, Mercy trailer, Mercy Science Fiction, Mercy Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chris Pratt"
+     },
+     {
+      "@type": "Person",
+      "name": "Rebecca Ferguson"
+     },
+     {
+      "@type": "Person",
+      "name": "Kali Reis"
+     },
+     {
+      "@type": "Person",
+      "name": "Kylie Rogers"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Sullivan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1825,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Mercy (2026): Science Fiction/Thriller film. Story: In the near future, a detective stands on trial… See cast, budget $60M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Timur Bekmambetov"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Science Fiction",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gIClklFGYBe0uiOoiP2vtocJbss.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1236153",
+    "name": "Mercy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1236153"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mercy (2026)</h1>\n<p class=\"ssr-lead\">In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 January 2026</li><li>Runtime: 100 minutes</li><li>Director: Timur Bekmambetov</li><li>Genres: Science Fiction, Thriller, Crime, Mystery</li><li>Budget: $60M</li><li>TMDB rating: 7.1/10 (1825 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chris Pratt as Chris Raven</li><li>Rebecca Ferguson as Judge Maddox</li><li>Kali Reis as Jacqueline &#x27;Jaq&#x27; Diallo</li><li>Kylie Rogers as Britt Raven</li><li>Chris Sullivan as Rob Nelson</li><li>Jeff Pierre as Patrick Burke</li><li>Annabelle Wallis as Nicole Raven</li><li>Rafi Gavron as Holt Charles</li><li>Kenneth Choi as Ray Vale</li><li>Jamie McBride as Dan Vogel</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Mercy (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:13353": {
    "d": "It's the Great Pumpkin, Charlie Brown (1966): Animation/TV Movie film. Story: Join the Peanuts gang for a timeless adventure as… See cast.",
    "img": "https://image.tmdb.org/t/p/w780/k7F9aj6Vmz8rJ9lcm2mIgUiWDWV.jpg",
@@ -193,6 +321,260 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>It&#x27;s the Great Pumpkin, Charlie Brown (1966)</h1>\n<p class=\"ssr-lead\">Join the Peanuts gang for a timeless adventure as Charlie Brown preps for a party, Snoopy sets his sights on the Red Baron, and Linus patiently awaits a pumpkin patch miracle.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 October 1966</li><li>Runtime: 25 minutes</li><li>Director: Bill Melendez</li><li>Genres: Animation, TV Movie, Family</li><li>TMDB rating: 7.5/10 (490 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Peter Robbins as Charlie Brown (voice)</li><li>Christopher Shea as Linus Van Pelt (voice)</li><li>Sally Dryer as Lucy Van Pelt (voice)</li><li>Bill Melendez as Snoopy (voice)</li><li>Cathy Steinberg as Sally Brown (voice)</li><li>Gail DeFaria as Pigpen (voice)</li><li>Glenn Mendelson as Schroeder / Shermy (voice)</li><li>Ann Altieri as Frieda / Violet (voice)</li><li>Lisa DeFaria as Patty (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Apple TV, Apple TV Amazon Channel</li></ul>\n</article>",
    "t": "It's the Great Pumpkin, Charlie Brown (1966) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1966"
+  },
+  "movie:1364953": {
+   "d": "Mārama (2026): Horror/Drama film. Story: 1859. When a young Māori woman is summoned from New… See cast, TMDB rating 6.3/10, and release date 22 April 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/fAVvEWnBCmJMouBvtXR35fg62xN.jpg",
+   "industry": "world",
+   "k": "Mārama, Mārama movie, Mārama cast, Mārama story, Mārama box office collection, Mārama budget, Mārama review, Mārama rating, Mārama release date, Mārama trailer, Mārama Horror, Mārama Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ariāna Osborne"
+     },
+     {
+      "@type": "Person",
+      "name": "Toby Stephens"
+     },
+     {
+      "@type": "Person",
+      "name": "Umi Myers"
+     },
+     {
+      "@type": "Person",
+      "name": "Erroll Shand"
+     },
+     {
+      "@type": "Person",
+      "name": "Jordan Mooney"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 56,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Mārama (2026): Horror/Drama film. Story: 1859. When a young Māori woman is summoned from New… See cast, TMDB rating 6.3/10, and release date 22 April 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Taratoa Stappard"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Horror",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fAVvEWnBCmJMouBvtXR35fg62xN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1364953",
+    "name": "Mārama",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1364953"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mārama (2026)</h1>\n<p class=\"ssr-lead\">1859. When a young Māori woman is summoned from New Zealand to North Yorkshire, she uncovers her horrific colonial heritage and is compelled to confront and destroy the titled Englishman who devastated her family.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 April 2026</li><li>Runtime: 89 minutes</li><li>Director: Taratoa Stappard</li><li>Genres: Horror, Drama, Mystery</li><li>TMDB rating: 6.3/10 (56 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ariāna Osborne as Mary</li><li>Toby Stephens as Nathaniel Cole</li><li>Umi Myers as Peggy</li><li>Erroll Shand as Jack Fenton</li><li>Jordan Mooney as Arthur Cole</li><li>Evelyn Towersy as Anne</li><li>Mihi Te Rauhi Daniels as Hinemoana</li><li>Turia Schmidt-Peke as Arorangi</li><li>Elliot Blakely as Thomas Boyd</li><li>Jonno Roberts as Driver</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, Shudder</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Mārama (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1395353": {
+   "d": "Gioia (2026): Drama film. Story: Gioia is a high school teacher who has never known… See cast, TMDB rating 6.8/10, and release date 12 February 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/rTcx9BGhNzudikxQI0NdrUSEahL.jpg",
+   "industry": "world",
+   "k": "Gioia, Gioia movie, Gioia cast, Gioia story, Gioia box office collection, Gioia budget, Gioia review, Gioia rating, Gioia release date, Gioia Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Valeria Golino"
+     },
+     {
+      "@type": "Person",
+      "name": "Saul Nanni"
+     },
+     {
+      "@type": "Person",
+      "name": "Jasmine Trinca"
+     },
+     {
+      "@type": "Person",
+      "name": "Francesco Colella"
+     },
+     {
+      "@type": "Person",
+      "name": "Betti Pedrazzi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 42,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Gioia (2026): Drama film. Story: Gioia is a high school teacher who has never known… See cast, TMDB rating 6.8/10, and release date 12 February 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nicolangelo Gelormini"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rTcx9BGhNzudikxQI0NdrUSEahL.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1395353",
+    "name": "Gioia",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1395353"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Gioia (2026)</h1>\n<p class=\"ssr-lead\">Gioia is a high school teacher who has never known any other love than the oppressive bond with her own parents, with whom she still lives. One of the students at her school, Alessio, is cashing in on his own body to make a couple of hundred euros to help his mother, a cashier in a supermarket. The relationship that dawns between Gioia and Alessio is forbidden fruit, fragile yet, inexplicably, one they can’t do without. Still, Alessio’s desire to improve his social standing is a silent killer that prevents him from ultimately accepting Gioia’s surprising affection for him. He goes and destroys it all, cancelling the only person who has ever loved him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 February 2026</li><li>Runtime: 108 minutes</li><li>Director: Nicolangelo Gelormini</li><li>Genres: Drama</li><li>TMDB rating: 6.8/10 (42 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Valeria Golino as Gioia</li><li>Saul Nanni as Alessio</li><li>Jasmine Trinca as Carla</li><li>Francesco Colella as Cosimo</li><li>Betti Pedrazzi as Gisella</li><li>Gianni Bissacca as Professore di Filosofia</li><li>Laura Mazzi as Paola</li><li>Anita Fiorello</li><li>Gilda Postiglione Turco</li><li>Andrea Vasone</li></ul>\n</article>",
+   "t": "Gioia (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1409853": {
+   "d": "Neglected (2026): Action/Thriller film. Story: Detective Shaw is about to retire when he finds out… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5nilYwx9jH6P27pnORwlrRdtCwZ.jpg",
+   "industry": "world",
+   "k": "Neglected, Neglected movie, Neglected cast, Neglected story, Neglected box office collection, Neglected budget, Neglected review, Neglected rating, Neglected release date, Neglected trailer, Neglected Action, Neglected Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Josh Duhamel"
+     },
+     {
+      "@type": "Person",
+      "name": "Dylan Sprouse"
+     },
+     {
+      "@type": "Person",
+      "name": "David Lipper"
+     },
+     {
+      "@type": "Person",
+      "name": "Elena Sanchez"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason London"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 42,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Neglected (2026): Action/Thriller film. Story: Detective Shaw is about to retire when he finds out… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Lipper"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5nilYwx9jH6P27pnORwlrRdtCwZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1409853",
+    "name": "Neglected",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1409853"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Neglected (2026)</h1>\n<p class=\"ssr-lead\">Detective Shaw is about to retire when he finds out on his last day of work that a serial killer has buried his son alive. He then races against the clock to solve three murders and find his son’s location before he runs out of air.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 September 2026</li><li>Runtime: 92 minutes</li><li>Director: David Lipper</li><li>Genres: Action, Thriller</li><li>TMDB rating: 6.3/10 (42 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Josh Duhamel as Shaw</li><li>Dylan Sprouse as AJ</li><li>David Lipper as Mayor Richards</li><li>Elena Sanchez as Keyes</li><li>Jason London as Deacon</li><li>Jeremy London as Sloan</li><li>Til Schweiger as Haas</li><li>María Camila Giraldo as Maria Hernandez</li><li>Corbin Pitts as Aaron</li><li>Kristin Wollett as Mandy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Neglected (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1583853": {
+   "d": "Se domani non torno (2026): Drama film. Story: It follows the tragic life of Giulia Cecchettin… See cast, TMDB rating 7.3/10, and release date 5 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/uIztlFaiWBy0tOLPPmJtFeINliV.jpg",
+   "industry": "world",
+   "k": "Se domani non torno, Se domani non torno movie, Se domani non torno cast, Se domani non torno story, Se domani non torno box office collection, Se domani non torno budget, Se domani non torno review, Se domani non torno rating, Se domani non torno release date, Se domani non torno Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sabrina Martina"
+     },
+     {
+      "@type": "Person",
+      "name": "Filippo Timi"
+     },
+     {
+      "@type": "Person",
+      "name": "Tecla Bossi"
+     },
+     {
+      "@type": "Person",
+      "name": "Tommaso Allione"
+     },
+     {
+      "@type": "Person",
+      "name": "Massimo Scola"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 25,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Se domani non torno (2026): Drama film. Story: It follows the tragic life of Giulia Cecchettin… See cast, TMDB rating 7.3/10, and release date 5 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Paola Randi"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uIztlFaiWBy0tOLPPmJtFeINliV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1583853",
+    "name": "Se domani non torno",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1583853"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Se domani non torno (2026)</h1>\n<p class=\"ssr-lead\">It follows the tragic life of Giulia Cecchettin, starting from the private pain of her father, Gino Cecchettin, and culminating in a cinematic story that stems from the book of the victim&#x27;s father, entitled Dear Giulia.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 November 2026</li><li>Runtime: 107 minutes</li><li>Director: Paola Randi</li><li>Genres: Drama</li><li>TMDB rating: 7.3/10 (25 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sabrina Martina as Giulia Cecchettin</li><li>Filippo Timi as Gino Cecchettin</li><li>Tecla Bossi as Elena Cecchettin</li><li>Tommaso Allione as Davide Cecchettin</li><li>Massimo Scola</li><li>Carmen Lorenzo</li><li>Marianna Caporali</li><li>Filippo Sottoriva</li></ul>\n</article>",
+   "t": "Se domani non torno (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:39053": {
    "d": "Cyrus (2010): Comedy/Drama film. Story: With John's social life at a standstill and his… See cast, budget $7M, and TMDB rating 5.9/10.",

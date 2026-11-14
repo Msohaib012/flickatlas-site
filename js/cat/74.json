@@ -1,7 +1,212 @@
 {
  "bucket": "74",
- "count": 13,
+ "count": 25,
  "titles": {
+  "movie:1049574": {
+   "backdrop_path": "/rSRA1p4e3laAAJflzdgtqNlx27Y.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Russell Hatch",
+     "n": "Jean-Claude Van Damme"
+    },
+    {
+     "c": "Jayden",
+     "n": "Emerson Min"
+    },
+    {
+     "c": "Claire",
+     "n": "Kristanna Loken"
+    },
+    {
+     "c": "Dae Hyun",
+     "n": "Peter Jae"
+    },
+    {
+     "c": "Yates",
+     "n": "Sticky Fingaz"
+    },
+    {
+     "c": "Chris",
+     "n": "Spencer Breslin"
+    },
+    {
+     "c": "Lazar",
+     "n": "Andrii Ivchenko"
+    },
+    {
+     "c": "Alexei",
+     "n": "Zack Ward"
+    },
+    {
+     "c": "Vivian",
+     "n": "Shannen Doherty"
+    },
+    {
+     "c": "Esther",
+     "n": "Chika Kanamoto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "James Cullen Bressack"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 1049574,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Russell Hatch, an Interpol operative who takes on the role of father figure to Jayden, the son of an informant killed in a routine raid gone wrong. Years later, Hatch finds himself protecting Jayden and his grandfather from a group of merciless gangs in an all-out turf war, stopping at nothing to protect Jayden and fight anyone getting in his way.",
+   "popularity": 1.9481,
+   "poster_path": "/nxlUo0jbVdGfixcZLlfZ66KPaFh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/pxmDUtLdaSCek4LUwme4h7wfsC9.png",
+     "name": "MovieMe",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-18",
+   "revenue": 17324,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Laws can be broken. Promises can't.",
+   "title": "Darkness of Man",
+   "trailer": {
+    "key": "HRKegxOLrOM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.3,
+   "vote_count": 21
+  },
+  "movie:1074074": {
+   "backdrop_path": "/pXtbTukWUFdkQmYydHihDceDFcU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Esteban Martínez",
+     "n": "Javier Bardem"
+    },
+    {
+     "c": "Emilia",
+     "n": "Victoria Luengo"
+    },
+    {
+     "c": "Bárbara",
+     "n": "Melina Matthews"
+    },
+    {
+     "c": "Malena",
+     "n": "Malena Villa"
+    },
+    {
+     "c": "Bilal",
+     "n": "Mourad Ouani"
+    },
+    {
+     "c": "Pepa",
+     "n": "Pepa Gracia"
+    },
+    {
+     "c": "Raúl",
+     "n": "Raúl Prieto"
+    },
+    {
+     "c": "Pablo",
+     "n": "Pablo Gómez-Pando"
+    },
+    {
+     "c": "Marina",
+     "n": "Marina Foïs"
+    },
+    {
+     "c": "César",
+     "n": "Raúl Arévalo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Rodrigo Sorogoyen"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1074074,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Acclaimed film director Esteban Martínez is a legend both for his films and for his past marked by violence and excess. For his latest project, he offers his daughter Emilia a role under the pretext of helping her with her stalled acting career. Living together on set will foster a closeness they haven’t shared for years, but it will also reopen old wounds that never healed.",
+   "popularity": 5.6241,
+   "poster_path": "/whk02IOeEHz8KCYZGm3fF92zg0v.jpg",
+   "production_countries": [
+    "ES",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-16",
+   "revenue": 0,
+   "runtime": 136,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Beloved",
+   "trailer": {
+    "key": "2I5LLG2XBco",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.948,
+   "vote_count": 116
+  },
   "movie:10874": {
    "backdrop_path": "/seOhwRXVDGJilTipevwsMNGbXTh.jpg",
    "budget": 31000000,
@@ -105,6 +310,1281 @@
    "type": "movie",
    "vote_average": 6.713,
    "vote_count": 497
+  },
+  "movie:1175174": {
+   "backdrop_path": "/jlqan4iTqliIjIRivtqDDRJh2H5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lord Davenport",
+     "n": "Damian Lewis"
+    },
+    {
+     "c": "Lady Davenport",
+     "n": "Katherine Waterston"
+    },
+    {
+     "c": "Rose",
+     "n": "Thomasin McKenzie"
+    },
+    {
+     "c": "Eric",
+     "n": "Ben Radcliffe"
+    },
+    {
+     "c": "Archibald",
+     "n": "Tom Felton"
+    },
+    {
+     "c": "Poppy",
+     "n": "Emma Laird"
+    },
+    {
+     "c": "Inspector Watt",
+     "n": "Tom Goodman-Hill"
+    },
+    {
+     "c": "Darvesh Khalid",
+     "n": "Ramon Tikaram"
+    },
+    {
+     "c": "Cyril",
+     "n": "Tim McMullan"
+    },
+    {
+     "c": "Mrs McAllister",
+     "n": "Anna Maxwell Martin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jim O'Hanlon"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1175174,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A new servant embarks on an unlikely relationship with the youngest daughter of a prominent English family. Simultaneously, rivalries are spilling over in the Davenport family, led by the Lord and Lady as they also weather the epic failure of the wedding of their eldest daughter to her caddish cousin.",
+   "popularity": 2.82,
+   "poster_path": "/fwpdRe6WGmzqXFEJYJVepDQ6jrw.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-05",
+   "revenue": 4862325,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Born to aristocracy. Bred for idiocy.",
+   "title": "Fackham Hall",
+   "trailer": {
+    "key": "zztJyEY8VuQ",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.555,
+   "vote_count": 246
+  },
+  "movie:1339274": {
+   "backdrop_path": "/flo7Xmyxz2wDUjr5Ff0VrxaVwlY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Catalina",
+     "n": "Ana Serradilla"
+    },
+    {
+     "c": "Matías Camacho",
+     "n": "Juan Pablo Velasco"
+    },
+    {
+     "c": "Emiliano Camacho",
+     "n": "Ricardo Galina"
+    },
+    {
+     "c": "Marco",
+     "n": "Jesús Zavala"
+    },
+    {
+     "c": "Licenciado",
+     "n": "José Sefami"
+    },
+    {
+     "c": "Marcela",
+     "n": "Paloma Woolrich"
+    },
+    {
+     "c": "Mau the pizza maker",
+     "n": "Armando Silva"
+    },
+    {
+     "c": "Invitada fiesta Beto que ríe y llora",
+     "n": "Ayelen Bonacina"
+    },
+    {
+     "c": "Papá Camacho",
+     "n": "Rodrigo Herranz"
+    },
+    {
+     "c": "Invitado preguntón",
+     "n": "Alberto Valenzuela"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Emilio Portes"
+   ],
+   "genres": [
+    "Horror",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1339274,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "A mother moves into a new house with her two children. One night she must leave the siblings home alone. What begins as a blast of carefree play soon turns into a claustrophobic horror story.",
+   "popularity": 12.9823,
+   "poster_path": "/7kaglo9sblVsQrKsUqaVxrfc6ag.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "VIX "
+    },
+    {
+     "name": "ViX Premium Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ieJ55scAVrvboTpeJcZa3JlLIrS.png",
+     "name": "VIX ",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+     "name": "ViX Premium Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-14",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Don't Leave the Kids Alone",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.777,
+   "vote_count": 166
+  },
+  "movie:1361774": {
+   "backdrop_path": "/z1Z1vW3bu27UUXD70vyqAcCeXU1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dustin 'The Hammer' Boyd",
+     "n": "Jake Johnson"
+    },
+    {
+     "c": "Candace",
+     "n": "Mary Steenburgen"
+    },
+    {
+     "c": "Marisa",
+     "n": "Chloe Fineman"
+    },
+    {
+     "c": "PJ",
+     "n": "Aaron Chen"
+    },
+    {
+     "c": "Skip 'Piggy' Pigliani",
+     "n": "Patton Oswalt"
+    },
+    {
+     "c": "Andy Roddick",
+     "n": "Andy Roddick"
+    },
+    {
+     "c": "John McEnroe",
+     "n": "John McEnroe"
+    },
+    {
+     "c": "Dr. Stone",
+     "n": "Ben Stiller"
+    },
+    {
+     "c": "Chuck Boyd",
+     "n": "Ed Harris"
+    },
+    {
+     "c": "Gail",
+     "n": "Cleo King"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Josh Greenbaum"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1361774,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
+   "popularity": 4.0459,
+   "poster_path": "/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-23",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Dink",
+   "trailer": {
+    "key": "YyVNFzx5Pl8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.361,
+   "vote_count": 165
+  },
+  "movie:1363974": {
+   "backdrop_path": "/l2Gk8eFrPHn6ltT9PtfmdyvqFsG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rimuru (voice)",
+     "n": "Miho Okasaki"
+    },
+    {
+     "c": "Shion (voice)",
+     "n": "Mao Ichimichi"
+    },
+    {
+     "c": "Veldora (voice)",
+     "n": "Tomoaki Maeno"
+    },
+    {
+     "c": "Benimaru (voice)",
+     "n": "Makoto Furukawa"
+    },
+    {
+     "c": "Shuna (voice)",
+     "n": "Sayaka Senbongi"
+    },
+    {
+     "c": "Elmesia (voice)",
+     "n": "Hisako Kanemoto"
+    },
+    {
+     "c": "Zodon (voice)",
+     "n": "Koichi Domoto"
+    },
+    {
+     "c": "Yura (voice)",
+     "n": "Saori Onishi"
+    },
+    {
+     "c": "Djeese (voice)",
+     "n": "Koji Yusa"
+    },
+    {
+     "c": "Soei (voice)",
+     "n": "Takuya Eguchi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Yasuhito Kikuchi"
+   ],
+   "genres": [
+    "Animation",
+    "Fantasy",
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 1363974,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "After concluding the opening ceremony of the Demon Kingdom Federation Tempest, Rimuru and his companions are invited by the Celestial Emperor Hermesia of the great elven nation – the Magi Dynasty Salion – to visit her private resort island. As the group enjoys their brief vacation, a mysterious woman named Yura appears. A new incident unfolds against the backdrop of the boundless azure sea.",
+   "popularity": 8.6993,
+   "poster_path": "/oblkRIWuKTF46CsnLhBiE7Otn3z.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-27",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+   "trailer": {
+    "key": "0FwonLrjji8",
+    "name": "Dub Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.0,
+   "vote_count": 71
+  },
+  "movie:1391074": {
+   "backdrop_path": "/ctUt397YPPr7CeN4xijFXj9TREO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Markie",
+     "n": "David Spade"
+    },
+    {
+     "c": "Steef",
+     "n": "Theo Von"
+    },
+    {
+     "c": "Samuel",
+     "n": "Bobby Lee"
+    },
+    {
+     "c": "Manager Tim",
+     "n": "Tim Dillon"
+    },
+    {
+     "c": "Ray",
+     "n": "Kam Patterson"
+    },
+    {
+     "c": "Chuck",
+     "n": "Casey Rocket"
+    },
+    {
+     "c": "Albie",
+     "n": "William Montgomery"
+    },
+    {
+     "c": "DEA Agent",
+     "n": "Jay Pharoah"
+    },
+    {
+     "c": "Hector Peligroso",
+     "n": "Nate Diaz"
+    },
+    {
+     "c": "Rocky",
+     "n": "Kirk Fox"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jonah Feingold"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1391074,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A pair of idiot friends believe that if they become waiters, all of their problems will be solved. They aren't entirely wrong, but they aren't entirely right.",
+   "popularity": 2.0724,
+   "poster_path": "/z7aBU98usPaaFymldN6IcYRsHZr.jpg",
+   "production_countries": [],
+   "providers": [
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-17",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Some messes can't be cleaned up.",
+   "title": "Busboys",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.66,
+   "vote_count": 25
+  },
+  "movie:1415974": {
+   "backdrop_path": "/tql3kTLmF2FFeSVIlafFJiZfcfk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Inspector Jatil Yadav",
+     "n": "Nawazuddin Siddiqui"
+    },
+    {
+     "c": "Radha",
+     "n": "Radhika Apte"
+    },
+    {
+     "c": "Meera Bansal",
+     "n": "Chitrangada Singh"
+    },
+    {
+     "c": "DGP Sameer Verma",
+     "n": "Rajat Kapoor"
+    },
+    {
+     "c": "Dr. Rosie Panicker",
+     "n": "Revathi"
+    },
+    {
+     "c": "Guru Maa",
+     "n": "Deepti Naval"
+    },
+    {
+     "c": "Rajesh Bansal",
+     "n": "Sanjay Kapoor"
+    },
+    {
+     "c": "Sarita Kumari",
+     "n": "Ila Arun"
+    },
+    {
+     "c": "SP Chauhan",
+     "n": "Akhilendra Mishra"
+    },
+    {
+     "c": "Nisha Pal",
+     "n": "Priyanka Setia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Honey Trehan"
+   ],
+   "genres": [
+    "Thriller",
+    "Mystery",
+    "Crime",
+    "Drama"
+   ],
+   "id": 1415974,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "When members of the Bansal family are found murdered, Inspector Jatil Yadav uncovers a trail of greed, betrayal and secrets tied to a deadly conspiracy.",
+   "popularity": 0.9863,
+   "poster_path": "/8EpDSwnjMBc9dmTPEYBF4Bixmwf.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-11-27",
+   "revenue": 0,
+   "runtime": 136,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Raat Akeli Hai - The Bansal Murders",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 33
+  },
+  "movie:1432474": {
+   "backdrop_path": "/xZBJj34pgaFCvAEoesIKDxVq3oe.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tommy",
+     "n": "Mason Thames"
+    },
+    {
+     "c": "Fred",
+     "n": "Kylr Coffman"
+    },
+    {
+     "c": "Chad",
+     "n": "Ryan Foust"
+    },
+    {
+     "c": "Jodi",
+     "n": "Jenna Fischer"
+    },
+    {
+     "c": "Olivia",
+     "n": "Mckenna Grace"
+    },
+    {
+     "c": "Wilma",
+     "n": "Angela Kinsey"
+    },
+    {
+     "c": "Wayne",
+     "n": "Keen Ruffalo"
+    },
+    {
+     "c": "Keith",
+     "n": "Ignacio Diaz-Silverio"
+    },
+    {
+     "c": "Self",
+     "n": "Billie Joe Armstrong"
+    },
+    {
+     "c": "Self",
+     "n": "Mike Dirnt"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Lee Kirk"
+   ],
+   "genres": [
+    "Comedy",
+    "Music"
+   ],
+   "id": 1432474,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year’s Eve.",
+   "popularity": 2.7826,
+   "poster_path": "/4h2WtFCLZPXbydbpi248uqOT9yz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-06",
+   "revenue": 1295050,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Nimrods",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.583,
+   "vote_count": 24
+  },
+  "movie:1480574": {
+   "backdrop_path": "/lBWfbmUj9Jw0EM1OYtDXr0B5FPW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jack Wolfe",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Nora Wolfe",
+     "n": "Eva Green"
+    },
+    {
+     "c": "Bianca",
+     "n": "María Pedraza"
+    },
+    {
+     "c": "Dani",
+     "n": "Eoin Macken"
+    },
+    {
+     "c": "Chad",
+     "n": "Jason Fernández"
+    },
+    {
+     "c": "Dr.Castro",
+     "n": "Paulo Rivera"
+    },
+    {
+     "c": "Sister Rachel",
+     "n": "Nicole Ansari-Cox"
+    },
+    {
+     "c": "Miguel",
+     "n": "Lee Boardman"
+    },
+    {
+     "c": "Mr. Brody",
+     "n": "Dar Dash"
+    },
+    {
+     "c": "Martinez",
+     "n": "Eduardo Aladro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Martin Campbell"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime"
+   ],
+   "id": 1480574,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "ES",
+    "BG"
+   ],
+   "original_language": "en",
+   "overview": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all. Both race to outmanoeuvre each other in a deadly battle of wits.",
+   "popularity": 8.0797,
+   "poster_path": "/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-28",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Til death do they part.",
+   "title": "Just Play Dead",
+   "trailer": {
+    "key": "LfpPh2pW0Oo",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.795,
+   "vote_count": 66
+  },
+  "movie:1616674": {
+   "backdrop_path": "/1QiFfqaAhZi4HMlJNMvJVXOovc6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jati",
+     "n": "Bima Sena"
+    },
+    {
+     "c": "Jaya",
+     "n": "Ringgo Agus Rahman"
+    },
+    {
+     "c": "Asa",
+     "n": "Widuri Puteri"
+    },
+    {
+     "c": "Ambu Asih",
+     "n": "Prastiwi Dwiarti"
+    },
+    {
+     "c": "Mr. Juned / Mr. Zai",
+     "n": "Aming"
+    },
+    {
+     "c": "Uwa Geni",
+     "n": "Ronal Surapradja"
+    },
+    {
+     "c": "Meranti",
+     "n": "Ashila Husnia Fitriani"
+    },
+    {
+     "c": "Uwa Yayan",
+     "n": "Candil"
+    },
+    {
+     "c": "Echo",
+     "n": "Yusuf Ozkan"
+    },
+    {
+     "c": "Dali",
+     "n": "Darin Fauzi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "13+",
+   "date_kind": "release",
+   "director": [
+    "Gina S. Noer"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1616674,
+   "industry": "world",
+   "origin_country": [
+    "ID"
+   ],
+   "original_language": "id",
+   "overview": "A young student battling pressure, panic and a demanding father uses a class project to discover that truth — not trophies — might finally set him free.",
+   "popularity": 2.1276,
+   "poster_path": "/oFMbldhgyFsaMK3tiycccFyKksQ.jpg",
+   "production_countries": [
+    "ID"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-11",
+   "revenue": 0,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "id",
+    "ja",
+    "su"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Me Before Me",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 23
+  },
+  "movie:1802674": {
+   "backdrop_path": "/dK69ml1Y34MrEovK4ZyizRiWbEH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Coop (voice)",
+     "n": "Carter Burney"
+    },
+    {
+     "c": "Spark (voice)",
+     "n": "Amari McCoy"
+    },
+    {
+     "c": "Axle (voice)",
+     "n": "Josh Keaton"
+    },
+    {
+     "c": "Brights (voice)",
+     "n": "Risa Mei"
+    },
+    {
+     "c": "Mac (voice)",
+     "n": "Griffen Campbell"
+    },
+    {
+     "c": "Sidecar (voice)",
+     "n": "Charlie Schlatter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Motonori Sakakibara"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Action"
+   ],
+   "id": 1802674,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "JP"
+   ],
+   "original_language": "en",
+   "overview": "When a giant T-Rex threatens Hot Wheels City, it's up to Coop and his friends to race to the rescue and save the day.",
+   "popularity": 13.8866,
+   "poster_path": "/iIc0OkYnf06kv5Zp0IYVwuvffgh.jpg",
+   "production_countries": [
+    "US",
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-20",
+   "revenue": 0,
+   "runtime": 47,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Hot Wheels Let's Race: Attack of the T-Rex",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 24
   },
   "movie:2274": {
    "backdrop_path": "/lTxRQzTfGwApLoxQlRldgOIcx55.jpg",

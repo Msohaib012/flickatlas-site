@@ -1,6 +1,6 @@
 {
  "bucket": "60",
- "count": 25,
+ "count": 31,
  "titles": {
   "movie:1086260": {
    "backdrop_path": "/3C01kAcKGR6FwsUUSOvJ8N82pqr.jpg",
@@ -425,6 +425,112 @@
    "vote_average": 6.322,
    "vote_count": 459
   },
+  "movie:1243460": {
+   "backdrop_path": "/dbr3eceKuGnKc9v5GaVTVtegZNK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joe / Madea / Brian",
+     "n": "Tyler Perry"
+    },
+    {
+     "c": "BJ",
+     "n": "Jermaine Harris"
+    },
+    {
+     "c": "Destiny",
+     "n": "Amber Reign Smith"
+    },
+    {
+     "c": "Vikki",
+     "n": "Bethany Anne Lind"
+    },
+    {
+     "c": "Garrett",
+     "n": "Jeremy Gimenez"
+    },
+    {
+     "c": "Geraldine",
+     "n": "Millie Jackson"
+    },
+    {
+     "c": "Stewart",
+     "n": "Wil Deusner"
+    },
+    {
+     "c": "Pearl",
+     "n": "Patricia Williams"
+    },
+    {
+     "c": "Kathryn",
+     "n": "Deetta West"
+    },
+    {
+     "c": "Neighbor",
+     "n": "Shawn Alexander Thompson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Tyler Perry"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1243460,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "To teach his sheltered grandson about the real world, Madea's foul-mouthed brother Joe takes the college-bound teen on a raucous cross-country road trip.",
+   "popularity": 2.6867,
+   "poster_path": "/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-12",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This ain't no field trip.",
+   "title": "Joe's College Road Trip",
+   "trailer": {
+    "key": "yuBO0wfQKR0",
+    "name": "Official Red Band Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.051,
+   "vote_count": 78
+  },
   "movie:13160": {
    "backdrop_path": "/xyE226IdU7ydSb1MxhsVPAqHr61.jpg",
    "budget": 10000000,
@@ -587,6 +693,600 @@
    "type": "movie",
    "vote_average": 5.493,
    "vote_count": 498
+  },
+  "movie:1320660": {
+   "backdrop_path": "/pA4Cg2DW1a2s9HQzqueKgYVaVua.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Prajapati Pandey",
+     "n": "Ayushmann Khurrana"
+    },
+    {
+     "c": "Aparna Pandey",
+     "n": "Wamiqa Gabbi"
+    },
+    {
+     "c": "Nilofer Khan",
+     "n": "Rakul Preet Singh"
+    },
+    {
+     "c": "Chanchal Kumari",
+     "n": "Sara Ali Khan"
+    },
+    {
+     "c": "Dharamveer Singh",
+     "n": "Vijay Raaz"
+    },
+    {
+     "c": "MLA Gajraj Tiwari",
+     "n": "Tigmanshu Dhulia"
+    },
+    {
+     "c": "Bua Ji",
+     "n": "Ayesha Raza Mishra"
+    },
+    {
+     "c": "Sudhanshu Tiwari",
+     "n": "Vishal Vashishtha"
+    },
+    {
+     "c": "Mahinder",
+     "n": "Durgesh Kumar"
+    },
+    {
+     "c": "Bhavna Trivedi",
+     "n": "Deepika Amin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Mudassar Aziz"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 1320660,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+   "popularity": 3.2614,
+   "poster_path": "/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-15",
+   "revenue": 0,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Pati Patni Aur Woh Do",
+   "trailer": {
+    "key": "7M0j1oh2lOg",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.917,
+   "vote_count": 24
+  },
+  "movie:1439660": {
+   "backdrop_path": "/olz73f1yVWu5JlLDi8lI98Yekvl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Ikuo Izawa"
+    },
+    {
+     "c": "Self",
+     "n": "Carl Pilliteri"
+    },
+    {
+     "c": "Self",
+     "n": "Wakana Yokoyama"
+    },
+    {
+     "c": "Self",
+     "n": "Martin Fackler"
+    },
+    {
+     "c": "Self",
+     "n": "Naoto Kan"
+    },
+    {
+     "c": "Self",
+     "n": "Katsuaki Hirano"
+    },
+    {
+     "c": "Self",
+     "n": "Katsutaka Idogawa"
+    },
+    {
+     "c": "Self",
+     "n": "Manabu Terata"
+    },
+    {
+     "c": "Self",
+     "n": "Dr. Charles A. Casto"
+    },
+    {
+     "c": "Self",
+     "n": "Akira Kawano"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "James Jones",
+    "Megumi Inman"
+   ],
+   "genres": [
+    "Documentary",
+    "Drama",
+    "History"
+   ],
+   "id": 1439660,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The definitive account of Japan’s struggle as it faced a nuclear catastrophe while still reeling from the devastation of an earthquake and tsunami.",
+   "popularity": 1.7722,
+   "poster_path": "/nL2f1g1cMPUsPmFWB71qHqjyVFd.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-20",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Nine days to save a nation.",
+   "title": "Fukushima: A Nuclear Nightmare",
+   "trailer": {
+    "key": "aKTmUdQQoZI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 35
+  },
+  "movie:1506560": {
+   "backdrop_path": "/hDwl0YMxwGhNe7u8wgHHk2Hyw3W.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Phoebe Thunderman",
+     "n": "Kira Kosarin"
+    },
+    {
+     "c": "Max Thunderman",
+     "n": "Jack Griffo"
+    },
+    {
+     "c": "Chloe Thunderman",
+     "n": "Maya Le Clark"
+    },
+    {
+     "c": "Barb Thunderman",
+     "n": "Rosa Blasi"
+    },
+    {
+     "c": "Hank Thunderman",
+     "n": "Chris Tallman"
+    },
+    {
+     "c": "Billy Thunderman",
+     "n": "Diego Velazquez"
+    },
+    {
+     "c": "Nora Thunderman",
+     "n": "Addison Riecke"
+    },
+    {
+     "c": "President Kickbutt",
+     "n": "Daniele Gaither"
+    },
+    {
+     "c": "Cognita",
+     "n": "Ariel Winter"
+    },
+    {
+     "c": "Dr. Colosso (voice)",
+     "n": "Dana Snyder"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Trevor Kirschner"
+   ],
+   "genres": [
+    "TV Movie",
+    "Family",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 1506560,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abilities. Faced with the prospect of sending Chloe away for years, the Thundermans split apart, with Phoebe, Barb and Billy taking her into hiding. Max, Hank, and Nora track their rogue family members, until the two factions face off against each other in a full-on battle for the Thundermans’ future.",
+   "popularity": 14.7947,
+   "poster_path": "/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-03",
+   "revenue": 0,
+   "runtime": 72,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This changes everything.",
+   "title": "Clash of the Thundermans",
+   "trailer": {
+    "key": "Tui9Jpmyb6Q",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.591,
+   "vote_count": 66
+  },
+  "movie:1541560": {
+   "backdrop_path": "/erNAhcSYrDMXQqAU1TVthYyFA71.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "President Gagwell",
+     "n": "RuPaul"
+    },
+    {
+     "c": "DeeDee",
+     "n": "Jujubee"
+    },
+    {
+     "c": "Tess",
+     "n": "Ginger Minj"
+    },
+    {
+     "c": "Amber",
+     "n": "Brooke Lynn Hytes"
+    },
+    {
+     "c": "Alli",
+     "n": "Marcia Marcia Marcia"
+    },
+    {
+     "c": "Ayshleiygh",
+     "n": "Symone"
+    },
+    {
+     "c": "Barbra",
+     "n": "Latrice Royale"
+    },
+    {
+     "c": "Donna Dusk",
+     "n": "Rachel Bloom"
+    },
+    {
+     "c": "Amelia",
+     "n": "Angeria Paris VanMicheals"
+    },
+    {
+     "c": "Cal",
+     "n": "Brian Jordan Alvarez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Adam Shankman"
+   ],
+   "genres": [
+    "Action",
+    "Comedy"
+   ],
+   "id": 1541560,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Best friends and train stewardesses Tess and DeeDee trade their dreary shifts on the Stank Rail for the glitzy Glamazonian Express. However, when a catastrophic Stormaganza threatens to crash the high-speed train into Celebration, Florida, the duo in coach must join forces with the snobby first-class attendants, a hot but dimwitted co-conductor, and fabulous US President Judy Gagwell to save the day.",
+   "popularity": 5.3046,
+   "poster_path": "/w90dGS6D2lVO4aO5rdQ8QECrUGY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-12",
+   "revenue": 3992733,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The greatest trainwreck in herstory.",
+   "title": "Stop! That! Train!",
+   "trailer": {
+    "key": "yx2YuoAnwlQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.963,
+   "vote_count": 68
+  },
+  "movie:1723460": {
+   "backdrop_path": "/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Michelle",
+     "n": "Amanda Wear"
+    },
+    {
+     "c": "Ian",
+     "n": "Gavin Marck"
+    },
+    {
+     "c": "Angela",
+     "n": "Katia Plotnikoff"
+    },
+    {
+     "c": "Leslie",
+     "n": "Lainey Baldwin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Alexandra Lacey"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1723460,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
+   "popularity": 2.9558,
+   "poster_path": "/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-22",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Toxic Love Story",
+   "trailer": {
+    "key": "9k9SYlMy9qs",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 64
   },
   "movie:2360": {
    "backdrop_path": "/7GQH1qYmqu0llcYque6flDmSR55.jpg",

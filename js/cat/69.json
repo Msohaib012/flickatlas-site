@@ -1,6 +1,6 @@
 {
  "bucket": "69",
- "count": 21,
+ "count": 32,
  "titles": {
   "movie:101669": {
    "backdrop_path": "/yiTNRdUZ5CTUcojwdjITKfBfjRB.jpg",
@@ -719,6 +719,1310 @@
    "type": "movie",
    "vote_average": 6.16,
    "vote_count": 444
+  },
+  "movie:1157869": {
+   "backdrop_path": "/mJxnzi4GNQ5i9HGLcTwyrqCEKkl.jpg",
+   "budget": 12800000,
+   "cast": [
+    {
+     "c": "Sylvie",
+     "n": "Isabelle Huppert"
+    },
+    {
+     "c": "Anna / Nita",
+     "n": "Virginie Efira"
+    },
+    {
+     "c": "Pierre / Nicolas",
+     "n": "Vincent Cassel"
+    },
+    {
+     "c": "Christophe / Théo",
+     "n": "Pierre Niney"
+    },
+    {
+     "c": "Adam",
+     "n": "Adam Bessa"
+    },
+    {
+     "c": "Céline",
+     "n": "Catherine Deneuve"
+    },
+    {
+     "c": "Laurence",
+     "n": "India Hair"
+    },
+    {
+     "c": "Housekeeper",
+     "n": "Véronique Ruggia Saura"
+    },
+    {
+     "c": "Sylvie's mother",
+     "n": "Iris Bry"
+    },
+    {
+     "c": "Sylvie's father",
+     "n": "François Delaive"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Asghar Farhadi"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 1157869,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In search of inspiration for her new novel, Sylvie spies on her neighbors in the building across the street using a telescope. When she hires young Adam to help her with her daily routine, she has no idea that he will turn her life and her work upside down, until the fiction she had imagined surpasses the reality of them all.",
+   "popularity": 3.0411,
+   "poster_path": "/eK7CmUQm6cIP8kOekSW0n4a37Am.jpg",
+   "production_countries": [
+    "FR",
+    "BE",
+    "IT",
+    "US",
+    "SA"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-14",
+   "revenue": 0,
+   "runtime": 139,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Parallel Tales",
+   "trailer": {
+    "key": "y3BV9KeJzGM",
+    "name": "Official HD Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.701,
+   "vote_count": 67
+  },
+  "movie:1165369": {
+   "backdrop_path": "/wHdq0odV5ppfXvCYQQ8vlzBpmDH.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Charles de Gaulle",
+     "n": "Simon Abkarian"
+    },
+    {
+     "c": "Général Leclerc",
+     "n": "Niels Schneider"
+    },
+    {
+     "c": "Henri Giraud",
+     "n": "Thierry Lhermitte"
+    },
+    {
+     "c": "Blazej",
+     "n": "Karim Leklou"
+    },
+    {
+     "c": "Livia",
+     "n": "Anamaria Vartolomei"
+    },
+    {
+     "c": "Winston Churchill",
+     "n": "Simon Russell Beale"
+    },
+    {
+     "c": "Courcel",
+     "n": "Kacey Mottet Klein"
+    },
+    {
+     "c": "Anthony Eden",
+     "n": "Tom Mison"
+    },
+    {
+     "c": "René Pleven",
+     "n": "Loïc Corbery"
+    },
+    {
+     "c": "Georges Bidault",
+     "n": "Stéphane Varupenne"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Antonin Baudry"
+   ],
+   "genres": [
+    "History",
+    "Drama",
+    "War"
+   ],
+   "id": 1165369,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "While World War II is raging, General De Gaulle seeks to convince the world that the battle for France not lost. Reality seems determined to prove him wrong. Yet, little by little, resistance fighters, rebellious students and determined soldiers rise up. Their faith, audacity and thirst for freedom defy what history seemed to have written in advance.",
+   "popularity": 11.5208,
+   "poster_path": "/297x0HIqSCp19pN9wlduK9PONRv.jpg",
+   "production_countries": [
+    "FR",
+    "BE",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-26",
+   "revenue": 13764497,
+   "runtime": 159,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "De Gaulle: Liberté",
+   "trailer": {
+    "key": "J6MRNchmZkY",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.9,
+   "vote_count": 248
+  },
+  "movie:1232569": {
+   "backdrop_path": "/7RsPdXLDNugDIlwXPVeeprNfMx.jpg",
+   "budget": 500000,
+   "cast": [
+    {
+     "c": "Pinocchio (voice)",
+     "n": "Jude Evan Lloyd"
+    },
+    {
+     "c": "James",
+     "n": "Cameron Bell"
+    },
+    {
+     "c": "Geppetto",
+     "n": "Richard Brake"
+    },
+    {
+     "c": "Mia",
+     "n": "Jessica Balmer"
+    },
+    {
+     "c": "Dudley",
+     "n": "Jack Art Gray"
+    },
+    {
+     "c": "Cricket (voice)",
+     "n": "Robert Englund"
+    },
+    {
+     "c": "Woodmother (voice)",
+     "n": "Emma Tate"
+    },
+    {
+     "c": "Trey",
+     "n": "Toni Olabanji"
+    },
+    {
+     "c": "Logan",
+     "n": "Luca Marandola"
+    },
+    {
+     "c": "Amanda",
+     "n": "Karolina Ugrenyuk"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rhys Frake-Waterfield"
+   ],
+   "genres": [
+    "Horror",
+    "Fantasy",
+    "Mystery"
+   ],
+   "id": 1232569,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
+   "popularity": 84.0512,
+   "poster_path": "/hJNdizFlxOW89edX3Rzr6OliSFI.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-22",
+   "revenue": 822910,
+   "runtime": 82,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "uk"
+   ],
+   "status": "Released",
+   "tagline": "He has no strings to hold him back now.",
+   "title": "Pinocchio: Unstrung",
+   "trailer": {
+    "key": "Y4lZewE6JMI",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 170
+  },
+  "movie:1285669": {
+   "backdrop_path": "/k13za3wUhd8uejKJ2v9XQsRjxaw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kyle Peters",
+     "n": "Georgie Farmer"
+    },
+    {
+     "c": "Alex",
+     "n": "Yasmin Finney"
+    },
+    {
+     "c": "Sid Daniels",
+     "n": "Roman Hayeck-Green"
+    },
+    {
+     "c": "Petey Le",
+     "n": "James Scholz"
+    },
+    {
+     "c": "Lindsey Heard",
+     "n": "Jessica Reynolds"
+    },
+    {
+     "c": "Don Heard",
+     "n": "Charlie Creed-Miles"
+    },
+    {
+     "c": "Sanjay",
+     "n": "Cael King"
+    },
+    {
+     "c": "Rachel Walker",
+     "n": "Jill Winternitz"
+    },
+    {
+     "c": "Maid",
+     "n": "Frances Katz"
+    },
+    {
+     "c": "News Reporter",
+     "n": "Boo Holmes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ronan Corrigan"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "id": 1285669,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A thrill-seeking gang of teen hackers must pull off their riskiest heist yet when a woman blackmails them into targeting her crypto-billionaire father.",
+   "popularity": 1.7869,
+   "poster_path": "/ab8uFG6L3gKnog7ntrUdgo28hzK.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-11",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They're coming for your coin.",
+   "title": "LifeHack",
+   "trailer": {
+    "key": "TxxUGasZUNo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.097,
+   "vote_count": 31
+  },
+  "movie:1288069": {
+   "backdrop_path": "/tKvVgMfM6GS4AGZn2KhP8bX1mJm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tenzing Norgay",
+     "n": "Genden Phuntsok"
+    },
+    {
+     "c": "Ed Hillary",
+     "n": "Tom Hiddleston"
+    },
+    {
+     "c": "John Hunt",
+     "n": "Willem Dafoe"
+    },
+    {
+     "c": "Boy Tenzing (9 Yrs)",
+     "n": "Samdrup Dorje Lama"
+    },
+    {
+     "c": "Sherpa",
+     "n": "Bhuchung Kata"
+    },
+    {
+     "c": "George Mallory",
+     "n": "Johnny Flynn"
+    },
+    {
+     "c": "Kinzom",
+     "n": "Lhakpa Tsamchoe"
+    },
+    {
+     "c": "Mingma",
+     "n": "Jampa Kalsang Tamang"
+    },
+    {
+     "c": "Mrs Ingram",
+     "n": "Elizabeth Blackmore"
+    },
+    {
+     "c": "Mr Ingram",
+     "n": "Brandon McClelland"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Jennifer Peedom"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "Adventure"
+   ],
+   "id": 1288069,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
+   "popularity": 18.8499,
+   "poster_path": "/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
+   "production_countries": [
+    "AU",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-09",
+   "revenue": 0,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ne",
+    "bo"
+   ],
+   "status": "Released",
+   "tagline": "The ascent that made history.",
+   "title": "Tenzing",
+   "trailer": {
+    "key": "KkYCY5YR12U",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.2,
+   "vote_count": 278
+  },
+  "movie:1392469": {
+   "backdrop_path": "/7CJQvCO8aNKEewAFw90qvQ7fr1T.jpg",
+   "budget": 15872640,
+   "cast": [
+    {
+     "c": "Ally",
+     "n": "Kriti Sanon"
+    },
+    {
+     "c": "Kunal",
+     "n": "Shahid Kapoor"
+    },
+    {
+     "c": "Diya",
+     "n": "Rashmika Mandanna"
+    },
+    {
+     "c": "Kunal's Father",
+     "n": "Tiku Talsania"
+    },
+    {
+     "c": "Kunal's Mother",
+     "n": "Neelu Kohli"
+    },
+    {
+     "c": "Diya's Mother",
+     "n": "Suparna Marwah"
+    },
+    {
+     "c": "Diya's Father",
+     "n": "Kanan Arunachalam"
+    },
+    {
+     "c": "Eduardo",
+     "n": "Mark Bennington"
+    },
+    {
+     "c": "Aditya",
+     "n": "Nischay Malik"
+    },
+    {
+     "c": "Rohit",
+     "n": "Deepak Kalra"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Homi Adajania"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 1392469,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "A vacation in Sicily forces longtime partners Diya and Kunal to question their love and commitment after they reunite with Diya's old friend Ally.",
+   "popularity": 2.9957,
+   "poster_path": "/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-19",
+   "revenue": 12947333,
+   "runtime": 150,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Cocktail 2",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 40
+  },
+  "movie:1405769": {
+   "backdrop_path": "/qHBnPZA3J6hSl9a3Q1JAQzDeo2L.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Bart",
+     "n": "J. Michael Finley"
+    },
+    {
+     "c": "Tim",
+     "n": "Milo Ventimiglia"
+    },
+    {
+     "c": "Shannon",
+     "n": "Sophie Skelton"
+    },
+    {
+     "c": "Hilary",
+     "n": "Arielle Kebbel"
+    },
+    {
+     "c": "Sam",
+     "n": "Sammy Dell"
+    },
+    {
+     "c": "Nathan",
+     "n": "Mark Furze"
+    },
+    {
+     "c": "Robby",
+     "n": "Ezra Proch"
+    },
+    {
+     "c": "Mike",
+     "n": "Jason Burkey"
+    },
+    {
+     "c": "Barry",
+     "n": "Aaron Benward"
+    },
+    {
+     "c": "Dr. Ramirez",
+     "n": "Anjelah Johnson-Reyes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Brent McCorkle",
+    "Andrew Erwin"
+   ],
+   "genres": [
+    "Music",
+    "Drama"
+   ],
+   "id": 1405769,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Following the breakout success of the song 'I Can Only Imagine', MercyMe's Bart Millard is living the dream—sold-out arenas, a devoted fanbase, and a thriving career. But behind the spotlight, Bart's past threatens the family he's built, especially the fragile bond with his son Sam. When hopeful newcomer Tim Timmons joins the band for their biggest tour yet, he unknowingly brings a renewed gratitude to Bart's life through their unlikely friendship. Bart soon discovers that Tim carries hardships—and secrets—of his own, forcing him to face his past and repair his relationships with Sam and his wife Shannon before fame costs him what matters most.",
+   "popularity": 3.5863,
+   "poster_path": "/qYBCs9nBmdNCLduw5BTlendq89z.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-19",
+   "revenue": 18734382,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Some stories deserve an encore.",
+   "title": "I Can Only Imagine 2",
+   "trailer": {
+    "key": "8MLqWdUOZYQ",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.1,
+   "vote_count": 54
+  },
+  "movie:1442669": {
+   "backdrop_path": "/hKV9IrDUAY8jGkvxDgcHyUxjSSW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Antoine Balestro",
+     "n": "Pio Marmaï"
+    },
+    {
+     "c": "Suzanne",
+     "n": "Anaïs Demoustier"
+    },
+    {
+     "c": "Armand",
+     "n": "Gilles Lellouche"
+    },
+    {
+     "c": "Irène",
+     "n": "Vimala Pons"
+    },
+    {
+     "c": "Titus",
+     "n": "Gustave Kervern"
+    },
+    {
+     "c": "Camille",
+     "n": "Madeleine Baudot"
+    },
+    {
+     "c": "Fairground Waitress",
+     "n": "Charline Cerri"
+    },
+    {
+     "c": "Man Being Kissed",
+     "n": "Edwin Gillet"
+    },
+    {
+     "c": "Young Man in Love",
+     "n": "Patrice Tépasso"
+    },
+    {
+     "c": "Witness to the Electric Kiss",
+     "n": "Fanny Carbonnel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Pierre Salvadori"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1442669,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A painter in 1928 Paris, unable to work since his wife’s death, unknowingly participates in fake spiritualist shows staged by a carnival worker. As he regains his inspiration, she falls in love with the man she is deceiving.",
+   "popularity": 3.0459,
+   "poster_path": "/6mGCyYnuGpxGT3Wx4xuRMV20EEi.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-12",
+   "revenue": 0,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "La Vénus électrique",
+   "trailer": {
+    "key": "UduHymnELtA",
+    "name": "The Electric Kiss / La Vénus électrique (2026) - Trailer (English Subs)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.228,
+   "vote_count": 101
+  },
+  "movie:1553969": {
+   "backdrop_path": "/cwoCKD5DVfb4vs4bDCyWkvE3frc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Otone Komoto",
+     "n": "Haruka Ayase"
+    },
+    {
+     "c": "Kensuke Komoto",
+     "n": "Daigo Yamamoto"
+    },
+    {
+     "c": "Kakeru Komoto",
+     "n": "Kuwaki Rimu"
+    },
+    {
+     "c": "Alice Kotaki",
+     "n": "Nana Seino"
+    },
+    {
+     "c": "Gen Hidaka",
+     "n": "Kanichiro"
+    },
+    {
+     "c": "Takuto Konno",
+     "n": "Hinata Hiiragi"
+    },
+    {
+     "c": "Junichi Hano",
+     "n": "Akihiro Kakuta"
+    },
+    {
+     "c": "Kasumi Hano",
+     "n": "Kayo Noro"
+    },
+    {
+     "c": "Mother",
+     "n": "Mari Hoshino"
+    },
+    {
+     "c": "Engineer",
+     "n": "Ayumu Nakajima"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Hirokazu Kore-eda"
+   ],
+   "genres": [
+    "Drama",
+    "Science Fiction"
+   ],
+   "id": 1553969,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In the near future, architect Otone Komoto is married to Kensuke, who runs a construction company. The married couple decide to welcome a humanoid robot into their home as their son.",
+   "popularity": 2.8449,
+   "poster_path": "/sxAwnj01pLfDBTA4WobJtJw7y9q.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-29",
+   "revenue": 4294141,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Trust what you cannot see.",
+   "title": "Sheep in the Box",
+   "trailer": {
+    "key": "j5mlc8TAPNw",
+    "name": "Official US Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.386,
+   "vote_count": 35
+  },
+  "movie:1576369": {
+   "backdrop_path": "/g7y8EDiXvlZYrIKDLlhtbcAPnxS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sasidharan Nair",
+     "n": "Saiju Kurup"
+    },
+    {
+     "c": "Saraswathi",
+     "n": "Kalaranjini"
+    },
+    {
+     "c": "Rukmini",
+     "n": "Sreeja Ravi"
+    },
+    {
+     "c": "Gopan",
+     "n": "Swathi Das Prabhu"
+    },
+    {
+     "c": "Shrilatha",
+     "n": "Sruthy Suresh"
+    },
+    {
+     "c": "Arun Ghosh",
+     "n": "Jinil Rex"
+    },
+    {
+     "c": "Ajay Ghosh",
+     "n": "Jivin Rex"
+    },
+    {
+     "c": "Shanthi",
+     "n": "Divya M. Nair"
+    },
+    {
+     "c": "Ashokan",
+     "n": "Nandu Poduval"
+    },
+    {
+     "c": "Subhash Jr",
+     "n": "Baby Jean"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Krishnadas Murali"
+   ],
+   "genres": [
+    "Comedy",
+    "Thriller"
+   ],
+   "id": 1576369,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "ml",
+   "overview": "The family's journey to Sreekandapuram to settle the late Bharathan Nair's second wife and son takes a dark turn when an issue from his past resurfaces, leading to an unexpected crime. Forced into a desperate cover-up to protect their future, the family must navigate a treacherous path of secrecy and mounting pressure, determined to overcome any obstacle by any means necessary.",
+   "popularity": 1.9321,
+   "poster_path": "/lsg0IxNQCUxKqs63YjturEuY0qQ.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-10",
+   "revenue": 0,
+   "runtime": 145,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ml"
+   ],
+   "status": "Released",
+   "tagline": "Kill or Die",
+   "title": "Bharathanatyam 2 Mohiniyattam",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.0,
+   "vote_count": 21
+  },
+  "movie:1629369": {
+   "backdrop_path": "/xQFxoGYtwMBAq89DPa9gUcLlOdA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Moriah (voice)",
+     "n": "Olivia Sinnott"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "+13",
+   "date_kind": "release",
+   "director": [
+    "Marina Zenovich"
+   ],
+   "genres": [
+    "Documentary",
+    "Crime"
+   ],
+   "id": 1629369,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An intimate, arresting portrait of cyclist Moriah Wilson—raised by a fierce, loving family—whose singular drive becomes her superpower, carrying her to athletic brilliance and, devastatingly, toward a life cut short by murder.",
+   "popularity": 1.7909,
+   "poster_path": "/zoa2XatA43nKhF1kx8nVcVyH1M0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-19",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Truth and Tragedy of Moriah Wilson",
+   "trailer": {
+    "key": "n0zKkQ9eUfY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.367,
+   "vote_count": 60
   },
   "movie:338969": {
    "backdrop_path": "/qo7WRoSXkpgvmc9TgaklzrsukLW.jpg",

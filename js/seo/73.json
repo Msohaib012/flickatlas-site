@@ -1,7 +1,71 @@
 {
  "bucket": "73",
- "count": 21,
+ "count": 28,
  "titles": {
+  "movie:1122573": {
+   "d": "In the Grey (2026): Action/Crime film. Story: A covert team of elite operatives are living in the… See cast, budget $70M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+   "industry": "world",
+   "k": "In the Grey, In the Grey movie, In the Grey cast, In the Grey story, In the Grey box office collection, In the Grey budget, In the Grey review, In the Grey rating, In the Grey release date, In the Grey trailer, In the Grey Action, In the Grey Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Henry Cavill"
+     },
+     {
+      "@type": "Person",
+      "name": "Jake Gyllenhaal"
+     },
+     {
+      "@type": "Person",
+      "name": "Eiza González"
+     },
+     {
+      "@type": "Person",
+      "name": "Carlos Bardem"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Vu"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1203,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "In the Grey (2026): Action/Crime film. Story: A covert team of elite operatives are living in the… See cast, budget $70M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Guy Ritchie"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1122573",
+    "name": "In the Grey",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1122573"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>In the Grey (2026)</h1>\n<p class=\"ssr-lead\">A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they&#x27;re sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 May 2026</li><li>Runtime: 97 minutes</li><li>Director: Guy Ritchie</li><li>Genres: Action, Crime</li><li>Budget: $70M</li><li>TMDB rating: 7.5/10 (1203 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Henry Cavill as Sid</li><li>Jake Gyllenhaal as Bronco</li><li>Eiza González as Rachel</li><li>Carlos Bardem as Manny Salazar</li><li>Michael Vu as Ed Glover</li><li>Fisher Stevens as William Horowitz</li><li>Rosamund Pike as Bobby Sheen</li><li>Mohammed Al Turki as Wolfgang Klose</li><li>Kojo Attah as Andre Baker</li><li>Jason Wong as Gucci Reyes</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "In the Grey (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:127373": {
    "d": "What Maisie Knew (2013): Drama film. Story: In New York City, six-year-old Maisie is caught in… See cast, budget $6M, and TMDB rating 7.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/kk1MMdWF9Z4vBMM0ebBjD7G5zFf.jpg",
@@ -69,6 +133,193 @@
    "t": "What Maisie Knew (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
   },
+  "movie:1307373": {
+   "d": "Wasteman (2026): Crime/Drama film. Story: Taylor's hopes for a fresh start post-parole are… See cast, budget $1.2M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qLp9td9ZfOe7G6wHhrepKtIH5Qe.jpg",
+   "industry": "world",
+   "k": "Wasteman, Wasteman movie, Wasteman cast, Wasteman story, Wasteman box office collection, Wasteman budget, Wasteman review, Wasteman rating, Wasteman release date, Wasteman trailer, Wasteman Crime, Wasteman Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "David Jonsson"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Blyth"
+     },
+     {
+      "@type": "Person",
+      "name": "Alex Hassell"
+     },
+     {
+      "@type": "Person",
+      "name": "Neil Linpow"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Hilton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 105,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Wasteman (2026): Crime/Drama film. Story: Taylor's hopes for a fresh start post-parole are… See cast, budget $1.2M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Cal McMau"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qLp9td9ZfOe7G6wHhrepKtIH5Qe.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1307373",
+    "name": "Wasteman",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1307373"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wasteman (2026)</h1>\n<p class=\"ssr-lead\">Taylor&#x27;s hopes for a fresh start post-parole are jeopardised by cellmate Dee&#x27;s arrival. As Dee takes Taylor under his wing, a vicious attack tests their bond, forcing Taylor to choose between protecting Dee and his own chances at freedom.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 February 2026</li><li>Runtime: 90 minutes</li><li>Director: Cal McMau</li><li>Genres: Crime, Drama, Thriller</li><li>Budget: $1.2M</li><li>TMDB rating: 7.2/10 (105 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Jonsson as Taylor</li><li>Tom Blyth as Dee</li><li>Alex Hassell as Paul</li><li>Neil Linpow as Robby</li><li>Paul Hilton as Browning</li><li>Corin Silva as Gaz</li><li>Layton Blake as Maxi</li><li>Jack Barker as Cook up Prisoner</li><li>Fred Muthui as Prisoner in Cell</li><li>Lunga Anele-Skosana as Nurse</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI, MUBI Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Wasteman (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1309373": {
+   "d": "Whispers in the Woods (2025): Documentary film. Story: In the heart of the tranquil Vosges forests, where… See cast and TMDB rating 7.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/aUoZx5eljCac6fhKK4dafIvTYDY.jpg",
+   "industry": "world",
+   "k": "Whispers in the Woods, Whispers in the Woods movie, Whispers in the Woods cast, Whispers in the Woods story, Whispers in the Woods box office collection, Whispers in the Woods budget, Whispers in the Woods review, Whispers in the Woods rating, Whispers in the Woods release date, Whispers in the Woods trailer, Whispers in the Woods Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michel Munier"
+     },
+     {
+      "@type": "Person",
+      "name": "Simon Munier"
+     },
+     {
+      "@type": "Person",
+      "name": "Vincent Munier"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 77,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Whispers in the Woods (2025): Documentary film. Story: In the heart of the tranquil Vosges forests, where… See cast and TMDB rating 7.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Vincent Munier"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aUoZx5eljCac6fhKK4dafIvTYDY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1309373",
+    "name": "Whispers in the Woods",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1309373"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Whispers in the Woods (2025)</h1>\n<p class=\"ssr-lead\">In the heart of the tranquil Vosges forests, where lynxes, bears and deer roam freely, Vincent Munier accompanies his father on his expeditions. He not only seeks to capture the visual wonders of this forest kingdom, but also aims to make its sounds audible. Every whisper of the forest is a reminder of the knowledge of nature that his father once imbued in him – knowledge that Vincent now passes on to his own son. Vincent Munier combines breathtaking footage of nature and its sounds to create a fairytale-like cinematic experience that slows time down.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 December 2025</li><li>Runtime: 99 minutes</li><li>Director: Vincent Munier</li><li>Genres: Documentary</li><li>TMDB rating: 7.9/10 (77 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michel Munier as Self</li><li>Simon Munier as Self</li><li>Vincent Munier as Self</li></ul>\n</article>",
+   "t": "Whispers in the Woods (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1339173": {
+   "d": "Honey Bunch (2026): Fantasy/Horror film. Story: Diana's husband is taking her to an experimental… See cast and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9L5Ekpoy4zT6o00qKUmZTeTkaVf.jpg",
+   "industry": "world",
+   "k": "Honey Bunch, Honey Bunch movie, Honey Bunch cast, Honey Bunch story, Honey Bunch box office collection, Honey Bunch budget, Honey Bunch review, Honey Bunch rating, Honey Bunch release date, Honey Bunch trailer, Honey Bunch Fantasy, Honey Bunch Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Grace Glowicki"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Petrie"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Isaacs"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Dickie"
+     },
+     {
+      "@type": "Person",
+      "name": "Julian Richings"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 50,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Honey Bunch (2026): Fantasy/Horror film. Story: Diana's husband is taking her to an experimental… See cast and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Madeleine Sims-Fewer"
+     },
+     {
+      "@type": "Person",
+      "name": "Dusty Mancinelli"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Fantasy",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9L5Ekpoy4zT6o00qKUmZTeTkaVf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1339173",
+    "name": "Honey Bunch",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1339173"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Honey Bunch (2026)</h1>\n<p class=\"ssr-lead\">Diana&#x27;s husband is taking her to an experimental trauma facility deep in the wilderness, but she can&#x27;t remember why... As her memories begin to creep back in so do some unwelcome sinister truths about her marriage.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 January 2026</li><li>Runtime: 114 minutes</li><li>Director: Madeleine Sims-Fewer, Dusty Mancinelli</li><li>Genres: Fantasy, Horror, Science Fiction, Thriller</li><li>TMDB rating: 5.6/10 (50 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Grace Glowicki as Diana</li><li>Ben Petrie as Homer</li><li>Jason Isaacs as Joseph</li><li>Kate Dickie as Farah</li><li>Julian Richings as Delwyn</li><li>Jesse LaVercombe as Mr Wallace</li><li>Sarah Kolasky as Mrs Wallace</li><li>India Brown as Josephina</li><li>Ahmed Moneka as Nurse Otis</li><li>Cynthia Ashperger as Nurse Sylvie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Honey Bunch (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:13973": {
    "d": "Choke (2008): Comedy/Drama film. Story: A sex-addicted con-man pays for his mother's hospital… See cast, budget $3M, and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/z3nCGUiYtMGaCsUsgEo7BuVxhLC.jpg",
@@ -132,6 +383,196 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Choke (2008)</h1>\n<p class=\"ssr-lead\">A sex-addicted con-man pays for his mother&#x27;s hospital bills by playing on the sympathies of those who rescue him from choking to death.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 September 2008</li><li>Runtime: 92 minutes</li><li>Director: Clark Gregg</li><li>Genres: Comedy, Drama</li><li>Budget: $3M</li><li>TMDB rating: 6.1/10 (462 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sam Rockwell as Victor Mancini</li><li>Anjelica Huston as Ida J. Mancini</li><li>Kelly Macdonald as Paige Marshall</li><li>Brad William Henke as Denny</li><li>Clark Gregg as Lord High Charlie</li><li>Bijou Phillips as Ursula</li><li>Gillian Jacobs as Cherry Daiquiri / Beth</li><li>Jonah Bobo as Young Victor</li><li>Paz de la Huerta as Nico</li><li>Viola Harris as Eva Muller</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Choke (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2008"
+  },
+  "movie:1397373": {
+   "d": "Cena di classe (2026): Comedy/Drama film. Story: A group of former high school classmates reunite… See cast, TMDB rating 6.0/10, and release date 26 March 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/rY46avgfnWIbBwdmGSmbHuVA8z2.jpg",
+   "industry": "world",
+   "k": "Cena di classe, Cena di classe movie, Cena di classe cast, Cena di classe story, Cena di classe box office collection, Cena di classe budget, Cena di classe review, Cena di classe rating, Cena di classe release date, Cena di classe Comedy, Cena di classe Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Beatrice Arnera"
+     },
+     {
+      "@type": "Person",
+      "name": "Herbert Ballerina"
+     },
+     {
+      "@type": "Person",
+      "name": "Antonino Bruschetta"
+     },
+     {
+      "@type": "Person",
+      "name": "Giovanni Esposito"
+     },
+     {
+      "@type": "Person",
+      "name": "Roberto Lipari"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 113,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Cena di classe (2026): Comedy/Drama film. Story: A group of former high school classmates reunite… See cast, TMDB rating 6.0/10, and release date 26 March 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Francesco Mandelli"
+     }
+    ],
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rY46avgfnWIbBwdmGSmbHuVA8z2.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1397373",
+    "name": "Cena di classe",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1397373"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cena di classe (2026)</h1>\n<p class=\"ssr-lead\">A group of former high school classmates reunite after seventeen years for the funeral of an old friend. Aided by alcohol and a forgotten video, they sneak into their old school one night to relive the magic of that time. But a simple reunion quickly turns into a criminal adventure.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 March 2026</li><li>Director: Francesco Mandelli</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 6.0/10 (113 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Beatrice Arnera as Nanè</li><li>Herbert Ballerina as Michael &quot;il Matto&quot;</li><li>Antonino Bruschetta as Preside</li><li>Giovanni Esposito as Nando</li><li>Roberto Lipari as Marco</li><li>Francesco Mandelli as Fabrizio Pozzi</li><li>Nicola Nocella as Alex</li><li>Leonardo Mantelli as Alex giovane</li><li>Andrea Pisani as Guido Bonelli</li><li>Francesco Russo as Romeo</li></ul>\n</article>",
+   "t": "Cena di classe (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1437873": {
+   "d": "Band Together (2025): Drama/Music film. Story: Two years after the tragic sinking of a fishing boat… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uGnlhs7kcSBInWuTfIezpkzYEQ9.jpg",
+   "industry": "world",
+   "k": "Band Together, Band Together movie, Band Together cast, Band Together story, Band Together box office collection, Band Together budget, Band Together review, Band Together rating, Band Together release date, Band Together trailer, Band Together Drama, Band Together Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Javier Gutiérrez"
+     },
+     {
+      "@type": "Person",
+      "name": "María Vázquez"
+     },
+     {
+      "@type": "Person",
+      "name": "Judith Fernández"
+     },
+     {
+      "@type": "Person",
+      "name": "Tamar Novas"
+     },
+     {
+      "@type": "Person",
+      "name": "Carlos Blanco"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 49,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Band Together (2025): Drama/Music film. Story: Two years after the tragic sinking of a fishing boat… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Daniel Sánchez Arévalo"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Drama",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uGnlhs7kcSBInWuTfIezpkzYEQ9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1437873",
+    "name": "Band Together",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1437873"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Band Together (2025)</h1>\n<p class=\"ssr-lead\">Two years after the tragic sinking of a fishing boat that shook a small seaside town, members of the rondalla, a traditional Galician music band, decide to get back together in the endeavour to recover their enthusiasm and leave the grieving behind.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 December 2025</li><li>Runtime: 113 minutes</li><li>Director: Daniel Sánchez Arévalo</li><li>Genres: Drama, Music</li><li>TMDB rating: 7.4/10 (49 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Javier Gutiérrez as Luis</li><li>María Vázquez as Carmen</li><li>Judith Fernández as Andrea</li><li>Tamar Novas as Joel</li><li>Carlos Blanco as Yayo</li><li>Fer Fraga as Elías</li><li>Xosé A. Touriñán as Xavi</li><li>Marta Larralde as Tere</li><li>Lola López as Noa (as Lola López Rodríguez)</li><li>Marcos Pereiro as Antón</li></ul>\n</article>",
+   "t": "Band Together (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1572073": {
+   "d": "The Deadly Little Mermaid (2026): Horror film. Story: Some secrets are better left at the bottom of the… See cast and TMDB rating 4.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yzIjyPtwvyjHelxqIRXGpiaucPG.jpg",
+   "industry": "world",
+   "k": "The Deadly Little Mermaid, The Deadly Little Mermaid movie, The Deadly Little Mermaid cast, The Deadly Little Mermaid story, The Deadly Little Mermaid box office collection, The Deadly Little Mermaid budget, The Deadly Little Mermaid review, The Deadly Little Mermaid rating, The Deadly Little Mermaid release date, The Deadly Little Mermaid trailer, The Deadly Little Mermaid Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Elliott Eason"
+     },
+     {
+      "@type": "Person",
+      "name": "Sophia Carroll"
+     },
+     {
+      "@type": "Person",
+      "name": "Eleanor Mackenzie"
+     },
+     {
+      "@type": "Person",
+      "name": "Anastasia Nikolaeva"
+     },
+     {
+      "@type": "Person",
+      "name": "Maddy Baskerville"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 28,
+     "ratingValue": 4.7,
+     "worstRating": 0
+    },
+    "description": "The Deadly Little Mermaid (2026): Horror film. Story: Some secrets are better left at the bottom of the… See cast and TMDB rating 4.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Cameron Uzoka"
+     }
+    ],
+    "duration": "PT80M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yzIjyPtwvyjHelxqIRXGpiaucPG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1572073",
+    "name": "The Deadly Little Mermaid",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1572073"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Deadly Little Mermaid (2026)</h1>\n<p class=\"ssr-lead\">Some secrets are better left at the bottom of the ocean. Once she&#x27;s in your house, there is no escape. When a struggling artist pulls a beautiful, unconscious woman from the freezing coastal waters, he thinks he’s performed a miracle. But as she recovers within the walls of his secluded home, a series of unsettling events leads him to a terrifying realization: her presence is no coincidence. She is inextricably linked to the same watery grave that claimed his family years ago.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 March 2026</li><li>Runtime: 80 minutes</li><li>Director: Cameron Uzoka</li><li>Genres: Horror</li><li>TMDB rating: 4.7/10 (28 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Elliott Eason as Tyler</li><li>Sophia Carroll as Mira</li><li>Eleanor Mackenzie as Laura</li><li>Anastasia Nikolaeva as Bri</li><li>Maddy Baskerville as Rose</li><li>Sasha Van Reenen as Casey</li><li>Cameron Uzoka as Will</li><li>Christian Ndonda as Jordan</li><li>Tristan Reynolds as Officer Cowley</li><li>Ray Redmond as News Reporter</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "The Deadly Little Mermaid (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:26973": {
    "d": "Pretty Baby (1978): Drama film. Story: In 1917 New Orleans, a 12-year-old girl is raised in… See cast, budget $3.5M, and TMDB rating 7.0/10.",

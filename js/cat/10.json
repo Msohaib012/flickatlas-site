@@ -1,6 +1,6 @@
 {
  "bucket": "10",
- "count": 16,
+ "count": 21,
  "titles": {
   "movie:10210": {
    "backdrop_path": "/y8F8UE7U0rELJKmWzeucpevxVBN.jpg",
@@ -470,6 +470,569 @@
    "type": "movie",
    "vote_average": 6.212,
    "vote_count": 474
+  },
+  "movie:1228710": {
+   "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg",
+   "budget": 165000000,
+   "cast": [
+    {
+     "c": "The Mandalorian",
+     "n": "Pedro Pascal"
+    },
+    {
+     "c": "Rotta (voice)",
+     "n": "Jeremy Allen White"
+    },
+    {
+     "c": "Colonel Ward",
+     "n": "Sigourney Weaver"
+    },
+    {
+     "c": "The Mandalorian Suit Performer",
+     "n": "Brendan Wayne"
+    },
+    {
+     "c": "The Mandalorian Stunt Performer",
+     "n": "Lateef Crowder"
+    },
+    {
+     "c": "Zeb Orrelios (voice)",
+     "n": "Steve Blum"
+    },
+    {
+     "c": "Lord Janu",
+     "n": "Jonny Coyne"
+    },
+    {
+     "c": "Hogsbreth",
+     "n": "Matthew Willig"
+    },
+    {
+     "c": "Hugo Durant (voice)",
+     "n": "Martin Scorsese"
+    },
+    {
+     "c": "Commander Baro",
+     "n": "Hemky Madera"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Jon Favreau"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 1228710,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+   "popularity": 27.4432,
+   "poster_path": "/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-22",
+   "revenue": 345166617,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ay"
+   ],
+   "status": "Released",
+   "tagline": "If you're searching for new adventure, \"this is the way.\"",
+   "title": "The Mandalorian and Grogu",
+   "trailer": {
+    "key": "uwild1rw7Aw",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.454,
+   "vote_count": 1991
+  },
+  "movie:1339210": {
+   "backdrop_path": "/a7VEgrESjAnoAUgonPEDXkzol2f.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ellie Carter",
+     "n": "Jessica Rothe"
+    },
+    {
+     "c": "Bruce Carter",
+     "n": "Joseph Cross"
+    },
+    {
+     "c": "Alice Carter",
+     "n": "Julianna Layne"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA 15+",
+   "date_kind": "release",
+   "director": [
+    "BT Meza"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 1339210,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Afflicted by a mysterious condition that resets her memory, Ellie becomes trapped in a cyclical nightmare with a man who claims to be her husband. She soon must uncover the horrifying truth of her existence—before she forgets it all again.",
+   "popularity": 3.8805,
+   "poster_path": "/3b3wC8JFjURlMsFj9gqbv0SyTJs.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-11",
+   "revenue": 9317,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [],
+   "status": "Released",
+   "tagline": "",
+   "title": "Affection",
+   "trailer": {
+    "key": "_3IZzygr-HA",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 61
+  },
+  "movie:1340110": {
+   "backdrop_path": "/nBTUocp7lHmyrTmD8mTBOYem4ok.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Irene Kelly",
+     "n": "Michaela McManus"
+    },
+    {
+     "c": "Mia",
+     "n": "Stella Marcus"
+    },
+    {
+     "c": "Neville",
+     "n": "Jeremy Holm"
+    },
+    {
+     "c": "Jonathan",
+     "n": "Jim Cummings"
+    },
+    {
+     "c": "Billie",
+     "n": "Taylor Misiak"
+    },
+    {
+     "c": "Darla",
+     "n": "Dendrie Taylor"
+    },
+    {
+     "c": "Cashier",
+     "n": "Derick Alexander"
+    },
+    {
+     "c": "Officer Connor",
+     "n": "Raphael Chestang"
+    },
+    {
+     "c": "Deb",
+     "n": "Debra Christofferson"
+    },
+    {
+     "c": "Jennifer",
+     "n": "Minita Gandhi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Kevin McManus",
+    "Matthew McManus"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 1340110,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In an attempt to avenge her daughter’s death, Irene Kelly travels through parallel universes, killing her daughter’s murderer again and again. As she becomes consumed by vengeance, her humanity begins to slip away—until the cycle is disrupted when she rescues Mia, a sharp-witted teenager already marked by the killer.",
+   "popularity": 2.1278,
+   "poster_path": "/9u7sUTYPPTxGCXbkcw8FTq50PnO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-28",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Revenge is a vicious cycle.",
+   "title": "Redux Redux",
+   "trailer": {
+    "key": "FeccBZFKP_U",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.471,
+   "vote_count": 261
+  },
+  "movie:1530510": {
+   "backdrop_path": "/5Dkv39CuytJDnJeZjkepFtOWqBr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Martín de la Torre",
+     "n": "Diego Luna"
+    },
+    {
+     "c": "Susana Gómez Mont",
+     "n": "Karla Souza"
+    },
+    {
+     "c": "Emilio Azcárraga",
+     "n": "Daniel Giménez Cacho"
+    },
+    {
+     "c": "Guillermo Cañedo",
+     "n": "Álvaro Guerrero"
+    },
+    {
+     "c": "Hugo Sánchez",
+     "n": "Memo Villegas"
+    },
+    {
+     "c": "Bora Milutinovic",
+     "n": "Davor Tomić"
+    },
+    {
+     "c": "Joâo Avelange",
+     "n": "Cândido Damm"
+    },
+    {
+     "c": "Hermann Neuberger",
+     "n": "Roberto Martinez"
+    },
+    {
+     "c": "Jackie Ross",
+     "n": "Genevieve Fleming"
+    },
+    {
+     "c": "Beatriz",
+     "n": "Diana Sedano"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Gabriel Ripstein"
+   ],
+   "genres": [
+    "Comedy",
+    "History",
+    "Drama"
+   ],
+   "id": 1530510,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "When a last-minute chance to host the 1986 World Cup appears, a cunning Mexican bureaucrat, armed with nothing but guts and audacity, cons his way through FIFA to beat the United States, but in a country of power games, every victory has a price.",
+   "popularity": 2.252,
+   "poster_path": "/dj4MbmBrZXzNQpxsLBIxKohRp9b.jpg",
+   "production_countries": [
+    "MX",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-21",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Not all goals are scored on the field.",
+   "title": "Mexico 86",
+   "trailer": {
+    "key": "BIVgPq4-mOM",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.744,
+   "vote_count": 123
+  },
+  "movie:1562010": {
+   "backdrop_path": "/w4aTYTHpm97iTN1UGIC9kFZIuc7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Taylor Swift"
+    },
+    {
+     "c": "Self",
+     "n": "Mike Meadows"
+    },
+    {
+     "c": "Self",
+     "n": "Max Bernstein"
+    },
+    {
+     "c": "Self",
+     "n": "Paul Sidoti"
+    },
+    {
+     "c": "Self",
+     "n": "Amos Heller"
+    },
+    {
+     "c": "Self",
+     "n": "Matt Billingslea"
+    },
+    {
+     "c": "Self",
+     "n": "Karina DePiano"
+    },
+    {
+     "c": "Self",
+     "n": "Melanie Nyema"
+    },
+    {
+     "c": "Self",
+     "n": "Kamilah Marshall"
+    },
+    {
+     "c": "Self",
+     "n": "Jeslyn Gorman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Glenn Weiss"
+   ],
+   "genres": [
+    "Music"
+   ],
+   "id": 1562010,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Filmed at the end of Taylor Swift's record-breaking Eras Tour in Vancouver, B.C., this complete, in-depth 45-song concert includes the complete 'The Tortured Poets Department' set and special mashups.",
+   "popularity": 2.589,
+   "poster_path": "/c11km7kLK2F30fTNHP5Si9m8foG.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-11",
+   "revenue": 0,
+   "runtime": 207,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It was the end of an era, but the start of an age.",
+   "title": "Taylor Swift | The Eras Tour | The Final Show",
+   "trailer": {
+    "key": "S1MO3bRG9qw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.0,
+   "vote_count": 63
   },
   "movie:16910": {
    "backdrop_path": "/ldwWnaWoW8ziEFflimoraZouyvB.jpg",

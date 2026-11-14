@@ -1,6 +1,6 @@
 {
  "bucket": "01",
- "count": 19,
+ "count": 25,
  "titles": {
   "movie:1013601": {
    "backdrop_path": "/iveeHEGtkq0dBJZtOcoK650sZ6x.jpg",
@@ -273,6 +273,252 @@
    "vote_average": 6.789,
    "vote_count": 487
   },
+  "movie:1125701": {
+   "backdrop_path": "/rLEDPOSZkmeBy47wzNTEXTj5ABj.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Stella",
+     "n": "Lesley Manville"
+    },
+    {
+     "c": "Gerry",
+     "n": "Ciarán Hinds"
+    },
+    {
+     "c": "Kathy",
+     "n": "Niamh Cusack"
+    },
+    {
+     "c": "Young Stella",
+     "n": "Julie Lamberton"
+    },
+    {
+     "c": "Young Gerry",
+     "n": "Ed Sayer"
+    },
+    {
+     "c": "Hennie",
+     "n": "Leila Laaraj"
+    },
+    {
+     "c": "Man in Bar",
+     "n": "Tim Licata"
+    },
+    {
+     "c": "Receptionist",
+     "n": "Marco Horta Lopes"
+    },
+    {
+     "c": "Barwoman",
+     "n": "Elène Zuidmeer"
+    },
+    {
+     "c": "Glasgow Priest",
+     "n": "David Gallacher"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Polly Findlay"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1125701,
+   "industry": "world",
+   "origin_country": [
+    "NL",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Longtime retired couple Stella and Gerry realise that their relationship has reached a crossroads while on holiday in Amsterdam. After so much time and so many memories, long-held promises and deeply concealed wounds threaten to come to light and force them to confront their future.",
+   "popularity": 2.9995,
+   "poster_path": "/vkMOruokVnD05xSiwI2hWBzG7UD.jpg",
+   "production_countries": [
+    "GB",
+    "NL"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-20",
+   "revenue": 1002905,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A day they can't forget. A truth they can't escape.",
+   "title": "Midwinter Break",
+   "trailer": {
+    "key": "FeD_KEGIU_Q",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.271,
+   "vote_count": 35
+  },
+  "movie:1193501": {
+   "backdrop_path": "/finq0JnC6tIMkKczzyxLJjgWFfT.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Chrys Willet",
+     "n": "Dafne Keen"
+    },
+    {
+     "c": "Ellie Gains",
+     "n": "Sophie Nélisse"
+    },
+    {
+     "c": "Rel Taylor",
+     "n": "Sky Yang"
+    },
+    {
+     "c": "Dean Jackson",
+     "n": "Jhaleil Swaby"
+    },
+    {
+     "c": "Grace Browning",
+     "n": "Alissa Skovbye"
+    },
+    {
+     "c": "Noah Haggerty",
+     "n": "Percy Hynes White"
+    },
+    {
+     "c": "Ivy Raymore",
+     "n": "Michelle Fairley"
+    },
+    {
+     "c": "Mr. Craven",
+     "n": "Nick Frost"
+    },
+    {
+     "c": "Tanner Church",
+     "n": "Mika Amonsen"
+    },
+    {
+     "c": "Mason \"Horse\" Raymore",
+     "n": "Stephen Kalyn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Corin Hardy"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 1193501,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a misfit group of unwitting high school students stumbles upon a cursed Aztec Death Whistle, they discover that blowing it unleashes a terrifying sound that summons their future deaths to hunt them down.",
+   "popularity": 8.3297,
+   "poster_path": "/vgonf5kGsiijUBjzxKTvechhT28.jpg",
+   "production_countries": [
+    "IE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "Shudder"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-20",
+   "revenue": 4987632,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Don't blow it.",
+   "title": "Whistle",
+   "trailer": {
+    "key": "-O5DgGQJeks",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.279,
+   "vote_count": 749
+  },
   "movie:1261501": {
    "backdrop_path": "/dMloNvayweggmvv0UD0iOJIkkbH.jpg",
    "budget": 0,
@@ -381,6 +627,409 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 474
+  },
+  "movie:1397201": {
+   "backdrop_path": "/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Saichi Sugimoto",
+     "n": "Kento Yamazaki"
+    },
+    {
+     "c": "Asirpa",
+     "n": "Anna Yamada"
+    },
+    {
+     "c": "Hyakunosuke Ogata",
+     "n": "Gordon Maeda"
+    },
+    {
+     "c": "Hajime Tsukishima",
+     "n": "Asuka Kudo"
+    },
+    {
+     "c": "Kohei Nikaido",
+     "n": "Shuntaro Yanagi"
+    },
+    {
+     "c": "Kantaro Okuyama",
+     "n": "Akihisa Shiono"
+    },
+    {
+     "c": "Tokishige Usami",
+     "n": "Yu Inaba"
+    },
+    {
+     "c": "Yoshitake Shiraishi",
+     "n": "Yuma Yamoto"
+    },
+    {
+     "c": "Genjiro Tanigaki",
+     "n": "Ryohei Otani"
+    },
+    {
+     "c": "Inkarmat",
+     "n": "Maryjun Takahashi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "+16",
+   "date_kind": "release",
+   "director": [
+    "Kenji Katagiri"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "History",
+    "Adventure"
+   ],
+   "id": 1397201,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "As each group pursues their mission, a fierce battle unfolds over the tattooed prisoners. Who is friend, and who is foe? The fight leads them all to Abashiri Prison, where Noppera-bo, the man who holds all the answers, is locked away...",
+   "popularity": 3.2554,
+   "poster_path": "/a9W2203QLRqBT3a6EVDECc8g9Y2.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-13",
+   "revenue": 0,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Golden Kamuy -The Abashiri Prison Raid-",
+   "trailer": {
+    "key": "7SqKwXqBMVc",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.5,
+   "vote_count": 40
+  },
+  "movie:1508701": {
+   "backdrop_path": "/8q3KfFYAlAk0ldhA7JJTAR0eupo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Arturo",
+     "n": "Pif"
+    },
+    {
+     "c": "Pope Francis",
+     "n": "Carlos Hipólito"
+    },
+    {
+     "c": "Flora",
+     "n": "Giusy Buscemi"
+    },
+    {
+     "c": "Notaio Mancuso",
+     "n": "Lollo Franco"
+    },
+    {
+     "c": "Pippo",
+     "n": "Alessandro Lui"
+    },
+    {
+     "c": "Roberto",
+     "n": "Giuseppe Menzo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "ATP",
+   "date_kind": "release",
+   "director": [
+    "Pif"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1508701,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Arturo is a lonely, gluttonous, and disillusioned Sicilian real estate agent. His mundane life finally finds its spark through his one true passion: Sicilian pastries. It’s over a tray of cannoli that he meets his soulmate, Flora. She is everything he ever dreamed of—beautiful, witty, and brilliant. To top it off, she’s a pastry chef.  However, a divine obstacle stands between them: God.  While Flora is a devout, fervent Catholic, Arturo abandoned his faith as a child. Desperate not to lose the woman of his dreams, he decides to \"fake it 'til he makes it,\" pretending to be a man of deep conviction. Guiding Arturo on this chaotic journey toward truth, faith, and Flora’s heart is an unlikely mentor and friend: Pope Francis himself.",
+   "popularity": 1.0579,
+   "poster_path": "/tj7kgHJsIQIu9Ly4tsLLBER76BX.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-02",
+   "revenue": 0,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "God Forgives Everyone",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.225,
+   "vote_count": 60
+  },
+  "movie:1571101": {
+   "backdrop_path": "/zihczzQLrtNufyLoofytqQi6yep.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Zoe (voice)",
+     "n": "Elena Jiménez"
+    },
+    {
+     "c": "Peggy (voice) (as Claudia Martínez de Aguirre Caneda)",
+     "n": "Claudia Caneda"
+    },
+    {
+     "c": "Gordon (voice)",
+     "n": "Juan Amador Pulido Fernández"
+    },
+    {
+     "c": "Rufus (voice) (as Luis Posada Cugat)",
+     "n": "Luis Posada"
+    },
+    {
+     "c": "Blinky (voice)",
+     "n": "Andrea Villaverde"
+    },
+    {
+     "c": "Womby / Kyle (voice)",
+     "n": "Iker Bengoetxea Goya"
+    },
+    {
+     "c": "TJ (voice)",
+     "n": "Rodrigo Martín Sacristán"
+    },
+    {
+     "c": "Ronnie (voice)",
+     "n": "Silvia Sarmentera"
+    },
+    {
+     "c": "Sr. Ramírez (voice)",
+     "n": "José María Larrú Cuevas"
+    },
+    {
+     "c": "Donna (voice)",
+     "n": "Vera Bosch Moreno"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "7",
+   "date_kind": "release",
+   "director": [
+    "Julio Soto Gúrpide",
+    "Zayra Muñoz Dominguez"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Comedy"
+   ],
+   "id": 1571101,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "eu",
+   "overview": "When an alien substance mixes Zoe’s DNA with that of her exotic pets, a hilarious adventure begins where humans turn into animals, animals turn into humans, and everyone must come to an agreement to save the world.",
+   "popularity": 3.6514,
+   "poster_path": "/8tMZOnlFUa6zxlEF84QfghXnjuD.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-06",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [],
+   "status": "Released",
+   "tagline": "",
+   "title": "Evolution",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 28
+  },
+  "movie:1751701": {
+   "backdrop_path": "/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
+   "budget": 100000,
+   "cast": [
+    {
+     "c": "Ethan",
+     "n": "Michiel Rensen"
+    },
+    {
+     "c": "Jessie",
+     "n": "Maxie Li"
+    },
+    {
+     "c": "Jack",
+     "n": "Riki Antonievich"
+    },
+    {
+     "c": "Connor",
+     "n": "Will Clague"
+    },
+    {
+     "c": "Elle",
+     "n": "Stephanie Ramlose"
+    },
+    {
+     "c": "Sophie",
+     "n": "Lee-Ann Dirks"
+    },
+    {
+     "c": "Religious Member",
+     "n": "James Crompton"
+    },
+    {
+     "c": "Desmond",
+     "n": "Moehau Hodges-Tai"
+    },
+    {
+     "c": "Madeline",
+     "n": "Lisa Zhang"
+    },
+    {
+     "c": "Phillip",
+     "n": "Karlton Laing"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Michiel Rensen",
+    "Liam Carter"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1751701,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family’s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he's not as alone as he believed.",
+   "popularity": 39.6648,
+   "poster_path": "/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
+   "production_countries": [
+    "NZ"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-15",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "After Impact",
+   "trailer": {
+    "key": "Af8D6sRDyxo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.656,
+   "vote_count": 32
   },
   "movie:203101": {
    "backdrop_path": "/4eifGTQNH0Gk4JemP6r1vlQ6iOS.jpg",

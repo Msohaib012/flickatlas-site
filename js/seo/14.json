@@ -1,6 +1,6 @@
 {
  "bucket": "14",
- "count": 19,
+ "count": 24,
  "titles": {
   "movie:12614": {
    "d": "Victor/Victoria (1982): Music/Comedy film. Story: A struggling female soprano finds work playing a male… See cast, budget $15M, and TMDB rating 7.3/10.",
@@ -66,6 +66,133 @@
    "t": "Victor/Victoria (1982) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1982"
   },
+  "movie:1368314": {
+   "d": "Passenger (2026): Horror film. Story: After a young couple witnesses a gruesome highway… See cast, budget $15M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
+   "industry": "world",
+   "k": "Passenger, Passenger movie, Passenger cast, Passenger story, Passenger box office collection, Passenger budget, Passenger review, Passenger rating, Passenger release date, Passenger trailer, Passenger Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lou Llobell"
+     },
+     {
+      "@type": "Person",
+      "name": "Jacob Scipio"
+     },
+     {
+      "@type": "Person",
+      "name": "Joseph Lopez"
+     },
+     {
+      "@type": "Person",
+      "name": "Melissa Leo"
+     },
+     {
+      "@type": "Person",
+      "name": "Miles Fowler"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1010,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Passenger (2026): Horror film. Story: After a young couple witnesses a gruesome highway… See cast, budget $15M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "André Øvredal"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1368314",
+    "name": "Passenger",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1368314"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Passenger (2026)</h1>\n<p class=\"ssr-lead\">After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won&#x27;t stop until it claims them both turns their van life adventure into a nightmare.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 May 2026</li><li>Runtime: 94 minutes</li><li>Director: André Øvredal</li><li>Genres: Horror</li><li>Budget: $15M</li><li>TMDB rating: 7.3/10 (1010 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lou Llobell as Maddie Brecker</li><li>Jacob Scipio as Tyler Genocchio</li><li>Joseph Lopez as The Passenger</li><li>Melissa Leo as Diana Larson</li><li>Miles Fowler as Lucas Tedesco</li><li>Alan Trong as Daniel</li><li>Devielle Johnson as Neighborhood Watch Volunteer</li><li>James William Clark as Brad Fuller</li><li>Tony Doupe as Preacher</li><li>Charles Leggett as Gruff Nomad</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Passenger (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1370814": {
+   "d": "The Plague (2026): Drama/Thriller film. Story: A socially awkward tween endures the ruthless… See cast, TMDB rating 6.4/10, and release date 2 January 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/kHyN3PejjlYWYz1Eah3jS64oV0g.jpg",
+   "industry": "world",
+   "k": "The Plague, The Plague movie, The Plague cast, The Plague story, The Plague box office collection, The Plague budget, The Plague review, The Plague rating, The Plague release date, The Plague trailer, The Plague Drama, The Plague Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Everett Blunck"
+     },
+     {
+      "@type": "Person",
+      "name": "Kayo Martin"
+     },
+     {
+      "@type": "Person",
+      "name": "Joel Edgerton"
+     },
+     {
+      "@type": "Person",
+      "name": "Kenny Rasmussen"
+     },
+     {
+      "@type": "Person",
+      "name": "Lucas Adler"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 155,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "The Plague (2026): Drama/Thriller film. Story: A socially awkward tween endures the ruthless… See cast, TMDB rating 6.4/10, and release date 2 January 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Charlie Polinger"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kHyN3PejjlYWYz1Eah3jS64oV0g.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1370814",
+    "name": "The Plague",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1370814"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Plague (2026)</h1>\n<p class=\"ssr-lead\">A socially awkward tween endures the ruthless hierarchy at a water polo camp, his anxiety spiraling into psychological turmoil over the summer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 January 2026</li><li>Runtime: 98 minutes</li><li>Director: Charlie Polinger</li><li>Genres: Drama, Thriller</li><li>TMDB rating: 6.4/10 (155 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Everett Blunck as Ben</li><li>Kayo Martin as Jake</li><li>Joel Edgerton as Daddy Wags</li><li>Kenny Rasmussen as Eli</li><li>Lucas Adler as Logan</li><li>Caden Burris as Matt</li><li>Elliott Heffernan as Tic Tac</li><li>Lennox Espy as Julian</li><li>Kolton Lee as Corbin</li><li>Geo Dobre as Old Man</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu, Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Sundance Now</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, Fandango At Home</li></ul>\n</article>",
+   "t": "The Plague (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:14114": {
    "d": "You Got Served (2004): Music/Drama film. Story: At Mr. Rad's Warehouse, the best hip-hop crews in Los… See cast, budget $8M, and TMDB rating 6.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/t2AGfYqtbx0BhWbzDpA9JC0RY34.jpg",
@@ -129,6 +256,197 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>You Got Served (2004)</h1>\n<p class=\"ssr-lead\">At Mr. Rad&#x27;s Warehouse, the best hip-hop crews in Los Angeles compete for money and respect. But when a suburban crew crashes the party, stealing their dancers — and their moves — two warring friends have to pull together to represent the street.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 January 2004</li><li>Runtime: 95 minutes</li><li>Director: Chris Stokes</li><li>Genres: Music, Drama</li><li>Budget: $8M</li><li>TMDB rating: 6.4/10 (490 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Marques Houston as Elgin</li><li>Omarion as David</li><li>J-Boog as Rico</li><li>Lil&#x27; Fizz as Rashann</li><li>Jennifer Freeman as Liyah</li><li>Meagan Good as Beautifull</li><li>Raz B as Vick</li><li>Michael Taliferro as Emerald</li><li>Steve Harvey as Mr. Rad</li><li>Lil&#x27; Kim as Lil&#x27; Kim</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "You Got Served (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2004"
+  },
+  "movie:1476614": {
+   "d": "All of a Sudden (2026): Drama film. Story: Director of a care facility for the elderly… See cast, TMDB rating 7.9/10, and release date 19 June 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/ed1w4D49Zno1lqs9h9X2qzbcPpH.jpg",
+   "industry": "world",
+   "k": "All of a Sudden, All of a Sudden movie, All of a Sudden cast, All of a Sudden story, All of a Sudden box office collection, All of a Sudden budget, All of a Sudden review, All of a Sudden rating, All of a Sudden release date, All of a Sudden trailer, All of a Sudden Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Virginie Efira"
+     },
+     {
+      "@type": "Person",
+      "name": "Tao Okamoto"
+     },
+     {
+      "@type": "Person",
+      "name": "Kyōzō Nagatsuka"
+     },
+     {
+      "@type": "Person",
+      "name": "Kodai Kurosaki"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean-Charles Clichet"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 77,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "All of a Sudden (2026): Drama film. Story: Director of a care facility for the elderly… See cast, TMDB rating 7.9/10, and release date 19 June 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ryusuke Hamaguchi"
+     }
+    ],
+    "duration": "PT196M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ed1w4D49Zno1lqs9h9X2qzbcPpH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1476614",
+    "name": "All of a Sudden",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1476614"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>All of a Sudden (2026)</h1>\n<p class=\"ssr-lead\">Director of a care facility for the elderly, Marie-Lou strives to introduce an innovative care philosophy based on listening and respecting residents’ dignity, despite resistance from part of her staff. Her encounter with Mari, a Japanese theater director battling cancer, will profoundly reshape her path. By forming a deep, supportive friendship, the two women join forces in a shared struggle to make the impossible possible.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 June 2026</li><li>Runtime: 196 minutes</li><li>Director: Ryusuke Hamaguchi</li><li>Genres: Drama</li><li>TMDB rating: 7.9/10 (77 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Virginie Efira as Marie-Lou Fontaine</li><li>Tao Okamoto as Mari Morisaki</li><li>Kyōzō Nagatsuka as Goro Kiyomiya</li><li>Kodai Kurosaki as Tomoki Kubodera</li><li>Jean-Charles Clichet as Olivier</li><li>Marie Bunel as Sophie</li><li>Romain Cottard as Damien</li><li>Marie Denarnaud as Laurence</li><li>Gabriel Dahmani as Djibril</li><li>Sephora Pondi as Adidja</li></ul>\n</article>",
+   "t": "All of a Sudden (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1564614": {
+   "d": "Leviticus (2026): Horror/Romance film. Story: Two teenage boys must escape a violent entity that… See cast, budget $3.5M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
+   "industry": "world",
+   "k": "Leviticus, Leviticus movie, Leviticus cast, Leviticus story, Leviticus box office collection, Leviticus budget, Leviticus review, Leviticus rating, Leviticus release date, Leviticus trailer, Leviticus Horror, Leviticus Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Joe Bird"
+     },
+     {
+      "@type": "Person",
+      "name": "Stacy Clausen"
+     },
+     {
+      "@type": "Person",
+      "name": "Mia Wasikowska"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicholas Hope"
+     },
+     {
+      "@type": "Person",
+      "name": "Tyallah Bullock"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 654,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Leviticus (2026): Horror/Romance film. Story: Two teenage boys must escape a violent entity that… See cast, budget $3.5M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Adrian Chiarella"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Horror",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1564614",
+    "name": "Leviticus",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1564614"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Leviticus (2026)</h1>\n<p class=\"ssr-lead\">Two teenage boys must escape a violent entity that takes the form of the person they desire most: each other.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 June 2026</li><li>Runtime: 88 minutes</li><li>Director: Adrian Chiarella</li><li>Genres: Horror, Romance</li><li>Budget: $3.5M</li><li>TMDB rating: 6.8/10 (654 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joe Bird as Naim Reid</li><li>Stacy Clausen as Ryan Whelan</li><li>Mia Wasikowska as Arlene Reid</li><li>Nicholas Hope as Deliverance Healer</li><li>Tyallah Bullock as Marnie</li><li>Ewen Leslie as Rod</li><li>Jeremy Blewitt as Hunter</li><li>Davida McKenzie as Izzie</li><li>Shannon Berry as Jessica</li><li>Julia Grace as Cathy Whelan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Leviticus (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1594914": {
+   "d": "Lucky Strike (2026): War/Action film. Story: A wounded American soldier fights to survive behind… See cast, budget $10M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uujYvxE9s6KY4SbBZ0ZFN3oBJhW.jpg",
+   "industry": "world",
+   "k": "Lucky Strike, Lucky Strike movie, Lucky Strike cast, Lucky Strike story, Lucky Strike box office collection, Lucky Strike budget, Lucky Strike review, Lucky Strike rating, Lucky Strike release date, Lucky Strike trailer, Lucky Strike War, Lucky Strike Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Scott Eastwood"
+     },
+     {
+      "@type": "Person",
+      "name": "Colin Hanks"
+     },
+     {
+      "@type": "Person",
+      "name": "Aunjanue Ellis-Taylor"
+     },
+     {
+      "@type": "Person",
+      "name": "Taylor John Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Lorne MacFadyen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 67,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Lucky Strike (2026): War/Action film. Story: A wounded American soldier fights to survive behind… See cast, budget $10M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rod Lurie"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "War",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uujYvxE9s6KY4SbBZ0ZFN3oBJhW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1594914",
+    "name": "Lucky Strike",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1594914"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Lucky Strike (2026)</h1>\n<p class=\"ssr-lead\">A wounded American soldier fights to survive behind enemy lines during WWII&#x27;s Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 July 2026</li><li>Runtime: 102 minutes</li><li>Director: Rod Lurie</li><li>Genres: War, Action</li><li>Budget: $10M</li><li>TMDB rating: 6.5/10 (67 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Scott Eastwood as Castle</li><li>Colin Hanks as Colonel Neale</li><li>Aunjanue Ellis-Taylor as Mrs. Caldwell</li><li>Taylor John Smith as Bellingham</li><li>Lorne MacFadyen as Major Barrett</li><li>Atanas Srebrev as General Lauer</li><li>Alfie Stewart as Burt Miller</li><li>Jonathan Yunger as Cash</li><li>Timothy Blore as Wilhelm</li><li>Laurent Maurel as Georges Marsaud</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Lucky Strike (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:16314": {
    "d": "3 Ninjas (1992): Family/Action film. Story: Each year, three brothers Samuel, Jeffrey and Michael… See cast, budget $6.5M, and TMDB rating 5.7/10.",

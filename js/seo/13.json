@@ -1,7 +1,262 @@
 {
  "bucket": "13",
- "count": 10,
+ "count": 22,
  "titles": {
+  "movie:1304313": {
+   "d": "Lee Cronin's The Mummy (2026): Horror/Mystery film. Story: The young daughter of a journalist disappears into… See cast, budget $22M, and TMDB rating 7.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
+   "industry": "world",
+   "k": "Lee Cronin's The Mummy, Lee Cronin's The Mummy movie, Lee Cronin's The Mummy cast, Lee Cronin's The Mummy story, Lee Cronin's The Mummy box office collection, Lee Cronin's The Mummy budget, Lee Cronin's The Mummy review, Lee Cronin's The Mummy rating, Lee Cronin's The Mummy release date, Lee Cronin's The Mummy trailer, Lee Cronin's The Mummy Horror, Lee Cronin's The Mummy Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jack Reynor"
+     },
+     {
+      "@type": "Person",
+      "name": "Laia Costa"
+     },
+     {
+      "@type": "Person",
+      "name": "May Calamawy"
+     },
+     {
+      "@type": "Person",
+      "name": "Natalie Grace"
+     },
+     {
+      "@type": "Person",
+      "name": "Shylo Molina"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 2864,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Lee Cronin's The Mummy (2026): Horror/Mystery film. Story: The young daughter of a journalist disappears into… See cast, budget $22M, and TMDB rating 7.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lee Cronin"
+     }
+    ],
+    "duration": "PT133M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1304313",
+    "name": "Lee Cronin's The Mummy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1304313"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Lee Cronin&#x27;s The Mummy (2026)</h1>\n<p class=\"ssr-lead\">The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 April 2026</li><li>Runtime: 133 minutes</li><li>Director: Lee Cronin</li><li>Genres: Horror, Mystery</li><li>Budget: $22M</li><li>TMDB rating: 7.8/10 (2864 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jack Reynor as Charlie Cannon</li><li>Laia Costa as Larissa Cannon</li><li>May Calamawy as Detective Dalia Zaki</li><li>Natalie Grace as Katie Cannon</li><li>Shylo Molina as Sebastián Cannon</li><li>Billie Roy as Maud Cannon</li><li>Veronica Falcón as Carmen Santiago</li><li>Hayat Kamille as The Magician</li><li>May Elghety as Layla Khalil</li><li>Emily Mitchell as Young Katie Cannon</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Lee Cronin's The Mummy (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1313013": {
+   "d": "Attitudini: Nessuna (2025): Documentary film. Story: A nostalgic journey with Aldo, Giovanni, and Giacomo… See cast and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xjbXjbO8QOewOhiguosOx5l7iYs.jpg",
+   "industry": "world",
+   "k": "Attitudini: Nessuna, Attitudini: Nessuna movie, Attitudini: Nessuna cast, Attitudini: Nessuna story, Attitudini: Nessuna box office collection, Attitudini: Nessuna budget, Attitudini: Nessuna review, Attitudini: Nessuna rating, Attitudini: Nessuna release date, Attitudini: Nessuna Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Aldo Baglio"
+     },
+     {
+      "@type": "Person",
+      "name": "Giovanni Storti"
+     },
+     {
+      "@type": "Person",
+      "name": "Giacomo Poretti"
+     },
+     {
+      "@type": "Person",
+      "name": "Marina Massironi"
+     },
+     {
+      "@type": "Person",
+      "name": "Paolo Rossi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 124,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Attitudini: Nessuna (2025): Documentary film. Story: A nostalgic journey with Aldo, Giovanni, and Giacomo… See cast and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sophie Chiarello"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xjbXjbO8QOewOhiguosOx5l7iYs.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1313013",
+    "name": "Attitudini: Nessuna",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1313013"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Attitudini: Nessuna (2025)</h1>\n<p class=\"ssr-lead\">A nostalgic journey with Aldo, Giovanni, and Giacomo, retracing thirty years of friendship and success in the world of Italian comedy, including personal memories and unforgettable moments that made them icons of laughter.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 December 2025</li><li>Runtime: 117 minutes</li><li>Director: Sophie Chiarello</li><li>Genres: Documentary</li><li>TMDB rating: 7.3/10 (124 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aldo Baglio as Sé stesso</li><li>Giovanni Storti as Sé stesso</li><li>Giacomo Poretti as Sé stesso</li><li>Marina Massironi as Sé stessa</li><li>Paolo Rossi as Sé stesso</li><li>Arturo Brachetti as Sé stesso</li><li>Giorgio Gherarducci as Sé stesso</li><li>Marco Santin as Sé stesso</li><li>Carlo Taranto as Sé stesso</li><li>Silvana Fallisi as Sé stessa</li></ul>\n</article>",
+   "t": "Attitudini: Nessuna (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1318413": {
+   "d": "Pressure (2026): Thriller/History film. Story: In the tense 72 hours before D-Day, and the fate of… See cast, budget $30M, and TMDB rating 7.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+   "industry": "world",
+   "k": "Pressure, Pressure movie, Pressure cast, Pressure story, Pressure box office collection, Pressure budget, Pressure review, Pressure rating, Pressure release date, Pressure trailer, Pressure Thriller, Pressure History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Andrew Scott"
+     },
+     {
+      "@type": "Person",
+      "name": "Brendan Fraser"
+     },
+     {
+      "@type": "Person",
+      "name": "Kerry Condon"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Messina"
+     },
+     {
+      "@type": "Person",
+      "name": "Damian Lewis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 541,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Pressure (2026): Thriller/History film. Story: In the tense 72 hours before D-Day, and the fate of… See cast, budget $30M, and TMDB rating 7.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Anthony Maras"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Thriller",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1318413",
+    "name": "Pressure",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1318413"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pressure (2026)</h1>\n<p class=\"ssr-lead\">In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 May 2026</li><li>Runtime: 101 minutes</li><li>Director: Anthony Maras</li><li>Genres: Thriller, History, War</li><li>Budget: $30M</li><li>TMDB rating: 7.7/10 (541 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Andrew Scott as James Stagg</li><li>Brendan Fraser as Dwight ‘Ike’ Eisenhower</li><li>Kerry Condon as Kay Summersby</li><li>Chris Messina as Irving Krick</li><li>Damian Lewis as Bernard ‘Monty’ Montgomery</li><li>Tamsin Topolski as Liz Stagg</li><li>Jojo Macari as Andrew Carter</li><li>Con O&#x27;Neill as Air Marshal Leigh-Mallory</li><li>Alexander Hanson as General Omar Bradley</li><li>Robert Portal as Admiral Bertram Ramsay</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Peacock Premium, Peacock Premium Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Pressure (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1339713": {
+   "d": "Obsession (2026): Horror/Thriller film. Story: After breaking the mysterious \"One Wish Willow\" to… See cast, budget $750.0k, and TMDB rating 8.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+   "industry": "world",
+   "k": "Obsession, Obsession movie, Obsession cast, Obsession story, Obsession box office collection, Obsession budget, Obsession review, Obsession rating, Obsession release date, Obsession trailer, Obsession Horror, Obsession Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Johnston"
+     },
+     {
+      "@type": "Person",
+      "name": "Inde Navarrette"
+     },
+     {
+      "@type": "Person",
+      "name": "Cooper Tomlinson"
+     },
+     {
+      "@type": "Person",
+      "name": "Megan Lawless"
+     },
+     {
+      "@type": "Person",
+      "name": "Andy Richter"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6600,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "Obsession (2026): Horror/Thriller film. Story: After breaking the mysterious \"One Wish Willow\" to… See cast, budget $750.0k, and TMDB rating 8.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Curry Barker"
+     }
+    ],
+    "duration": "PT109M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1339713",
+    "name": "Obsession",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1339713"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Obsession (2026)</h1>\n<p class=\"ssr-lead\">After breaking the mysterious &quot;One Wish Willow&quot; to win his crush&#x27;s heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 May 2026</li><li>Runtime: 109 minutes</li><li>Director: Curry Barker</li><li>Genres: Horror, Thriller</li><li>Budget: $750.0k</li><li>TMDB rating: 8.2/10 (6600 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Johnston as Bear</li><li>Inde Navarrette as Nikki</li><li>Cooper Tomlinson as Ian</li><li>Megan Lawless as Sarah</li><li>Andy Richter as Carter</li><li>Haley Fitzgerald as Viola</li><li>Darin Toonder as Harry</li><li>Anthony Pavone as Reggie</li><li>Justice as Joe</li><li>Anthony Casabianca as Chris</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Obsession (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:13613": {
    "d": "Day of the Dead (2008): Action/Horror film. Story: When a small Colorado town is overrun by the flesh… See cast, budget $18M, and TMDB rating 5.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/gTdus3VTkdyQLjyqKq6AbhIayed.jpg",
@@ -66,6 +321,70 @@
    "t": "Day of the Dead (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2008"
   },
+  "movie:1382513": {
+   "d": "Hen (2026): Adventure/Drama film. Story: Escaping from a chicken farm, a hen finds refuge in… See cast, TMDB rating 6.9/10, and release date 20 February 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/ii2Ox8CZeZ4yifffFLsR9Rp0kfR.jpg",
+   "industry": "world",
+   "k": "Hen, Hen movie, Hen cast, Hen story, Hen box office collection, Hen budget, Hen review, Hen rating, Hen release date, Hen trailer, Hen Adventure, Hen Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Yannis Kokiasmenos"
+     },
+     {
+      "@type": "Person",
+      "name": "Maria Diakopanagiotou"
+     },
+     {
+      "@type": "Person",
+      "name": "Argyris Pandazaras"
+     },
+     {
+      "@type": "Person",
+      "name": "Antonis Kafetzopoulos"
+     },
+     {
+      "@type": "Person",
+      "name": "Antonis Tsiotsiopoulos"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 46,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Hen (2026): Adventure/Drama film. Story: Escaping from a chicken farm, a hen finds refuge in… See cast, TMDB rating 6.9/10, and release date 20 February 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "György Pálfi"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Adventure",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ii2Ox8CZeZ4yifffFLsR9Rp0kfR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1382513",
+    "name": "Hen",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1382513"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hen (2026)</h1>\n<p class=\"ssr-lead\">Escaping from a chicken farm, a hen finds refuge in the courtyard of a crumbling restaurant. There, she discovers love, confronts the pecking order, and fights to protect her eggs from a greedy owner. Her droll yet touching quest for motherhood mirrors the messy compromises and silent struggles of human lives.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 February 2026</li><li>Runtime: 96 minutes</li><li>Director: György Pálfi</li><li>Genres: Adventure, Drama</li><li>TMDB rating: 6.9/10 (46 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yannis Kokiasmenos as Restaurant Owner</li><li>Maria Diakopanagiotou as The Girl</li><li>Argyris Pandazaras as The Boy</li><li>Antonis Kafetzopoulos as Smuggler Boss</li><li>Antonis Tsiotsiopoulos as Bodyguard</li><li>Machmout Bamerni as Smuggler 1</li><li>Chronis Barbarian as Smuggler 2</li><li>Nikos Kattis as Smuggler 3</li><li>Dimitris Pelekis as Policeman #3</li><li>Eszti as Hen</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Hen (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:1412113": {
    "d": "Squid Game: Making Season 2 (2025): Documentary film. Story: From set designs to character arcs, get exclusive… See cast and TMDB rating 8.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/zecxlBpLx0aLIjNjX1IOZuaSgo0.jpg",
@@ -122,6 +441,389 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Squid Game: Making Season 2 (2025)</h1>\n<p class=\"ssr-lead\">From set designs to character arcs, get exclusive cast and director interviews on how Season 2 of the globally most-watched series was brought to life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 January 2025</li><li>Runtime: 28 minutes</li><li>Genres: Documentary</li><li>TMDB rating: 8.3/10 (462 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hwang Dong-hyuk as Self</li><li>Lee Jung-jae as Self</li><li>Lee Byung-hun as Self</li><li>Chae Kyoung-sun as Self</li><li>Kim Ji-yong as Self</li><li>Gong Yoo as Self</li><li>Wi Ha-jun as Self</li><li>Yim Si-wan as Self</li><li>Lee Jin-uk as Self</li><li>Kang Ae-sim as Self</li></ul>\n</article>",
    "t": "Squid Game: Making Season 2 (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
+  },
+  "movie:1414413": {
+   "d": "Brothers Under Fire (2026): Action/Thriller film. Story: Captain Jordan Wright's squadron on leave for a… See cast and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6D2NsU3FIQVthPgjT6RAsX58qZ6.jpg",
+   "industry": "world",
+   "k": "Brothers Under Fire, Brothers Under Fire movie, Brothers Under Fire cast, Brothers Under Fire story, Brothers Under Fire box office collection, Brothers Under Fire budget, Brothers Under Fire review, Brothers Under Fire rating, Brothers Under Fire release date, Brothers Under Fire trailer, Brothers Under Fire Action, Brothers Under Fire Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kiefer Sutherland"
+     },
+     {
+      "@type": "Person",
+      "name": "Tommy Martinez"
+     },
+     {
+      "@type": "Person",
+      "name": "Ashton Sanders"
+     },
+     {
+      "@type": "Person",
+      "name": "Solly McLeod"
+     },
+     {
+      "@type": "Person",
+      "name": "Laura Osma"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 68,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Brothers Under Fire (2026): Action/Thriller film. Story: Captain Jordan Wright's squadron on leave for a… See cast and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Justin Chadwick"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6D2NsU3FIQVthPgjT6RAsX58qZ6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1414413",
+    "name": "Brothers Under Fire",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1414413"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Brothers Under Fire (2026)</h1>\n<p class=\"ssr-lead\">Captain Jordan Wright&#x27;s squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 April 2026</li><li>Runtime: 99 minutes</li><li>Director: Justin Chadwick</li><li>Genres: Action, Thriller, Mystery, Drama</li><li>TMDB rating: 5.9/10 (68 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kiefer Sutherland as Capt. Jordan Wright</li><li>Tommy Martinez as Alberto</li><li>Ashton Sanders as Carson</li><li>Solly McLeod as Danny</li><li>Laura Osma as Isabella</li><li>Omar Chaparro as Baker</li><li>Orlando Pineda as Miguel</li><li>Laird Akeo as Marco</li><li>Flora Martínez as Angelica</li><li>Sebastián sierra as Belisario</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Brothers Under Fire (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1439713": {
+   "d": "Mana ShankaraVaraPrasad Garu (2026): Action/Comedy film. Story: National security officer Vara Prasad, protecting his… See cast and budget $22.23M.",
+   "img": "https://image.tmdb.org/t/p/w780/x7jZHALUR58sAzEw0Ms9ohfapP8.jpg",
+   "industry": "bollywood",
+   "k": "Mana ShankaraVaraPrasad Garu, Mana ShankaraVaraPrasad Garu movie, Mana ShankaraVaraPrasad Garu cast, Mana ShankaraVaraPrasad Garu story, Mana ShankaraVaraPrasad Garu box office collection, Mana ShankaraVaraPrasad Garu budget, Mana ShankaraVaraPrasad Garu review, Mana ShankaraVaraPrasad Garu rating, Mana ShankaraVaraPrasad Garu release date, Mana ShankaraVaraPrasad Garu trailer, Mana ShankaraVaraPrasad Garu Action, Mana ShankaraVaraPrasad Garu Comedy, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chiranjeevi"
+     },
+     {
+      "@type": "Person",
+      "name": "Nayanthara"
+     },
+     {
+      "@type": "Person",
+      "name": "Venkatesh"
+     },
+     {
+      "@type": "Person",
+      "name": "Catherine Tresa"
+     },
+     {
+      "@type": "Person",
+      "name": "Harsha Vardhan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 27,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Mana ShankaraVaraPrasad Garu (2026): Action/Comedy film. Story: National security officer Vara Prasad, protecting his… See cast and budget $22.23M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Anil Ravipudi"
+     }
+    ],
+    "duration": "PT162M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/x7jZHALUR58sAzEw0Ms9ohfapP8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1439713",
+    "name": "Mana ShankaraVaraPrasad Garu",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1439713"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mana ShankaraVaraPrasad Garu (2026)</h1>\n<p class=\"ssr-lead\">National security officer Vara Prasad, protecting his estranged wife and kids from a vengeful ex-cop, sees it as a chance to rebuild their relationship after six years apart.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 January 2026</li><li>Runtime: 162 minutes</li><li>Director: Anil Ravipudi</li><li>Genres: Action, Comedy, Mystery</li><li>Budget: $22.23M</li><li>TMDB rating: 5.6/10 (27 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chiranjeevi as Shankara Varaprasad</li><li>Nayanthara as Sasirekha</li><li>Venkatesh as Venky Gowda</li><li>Catherine Tresa as Jwaala</li><li>Harsha Vardhan as Narayana</li><li>Abhinav Gomatam as Musthafa</li><li>Sachin Khedekar as GVR</li><li>Sharat Saxena as MP Nitin Sharma</li><li>Sudev Nair as Viendra Pandey</li><li>Srinivasa Reddy as Reddy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Zee5</li></ul>\n</article>",
+   "t": "Mana ShankaraVaraPrasad Garu (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1480613": {
+   "d": "Tied Up (2026): Thriller/Horror film. Story: Daniel Lonces is a successful horror writer who… See cast, TMDB rating 7.2/10, and release date 29 May 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/l2B2WTUqgePLN6kh9uLCYy63Pyk.jpg",
+   "industry": "world",
+   "k": "Tied Up, Tied Up movie, Tied Up cast, Tied Up story, Tied Up box office collection, Tied Up budget, Tied Up review, Tied Up rating, Tied Up release date, Tied Up Thriller, Tied Up Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jaime Lorente"
+     },
+     {
+      "@type": "Person",
+      "name": "Christina Ochoa"
+     },
+     {
+      "@type": "Person",
+      "name": "Eva Rufo"
+     },
+     {
+      "@type": "Person",
+      "name": "Rodrigo Poisón"
+     },
+     {
+      "@type": "Person",
+      "name": "Alba de la Fuente"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 28,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Tied Up (2026): Thriller/Horror film. Story: Daniel Lonces is a successful horror writer who… See cast, TMDB rating 7.2/10, and release date 29 May 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Angel de la Cruz"
+     }
+    ],
+    "duration": "PT75M",
+    "genre": [
+     "Thriller",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/l2B2WTUqgePLN6kh9uLCYy63Pyk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1480613",
+    "name": "Tied Up",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1480613"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Tied Up (2026)</h1>\n<p class=\"ssr-lead\">Daniel Lonces is a successful horror writer who decides to put himself in his protagonist’s shoes and experience firsthand what it means to be tied and gagged. But a tragic accident leaves his wife dead, him trapped, and his 11-month-old baby defenseless. Desperate, David struggles to free himself while facing unexpected dangers inside and outside his home.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 May 2026</li><li>Runtime: 75 minutes</li><li>Director: Angel de la Cruz</li><li>Genres: Thriller, Horror</li><li>TMDB rating: 7.2/10 (28 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jaime Lorente as Daniel Lonces</li><li>Christina Ochoa as Irene</li><li>Eva Rufo as Carla</li><li>Rodrigo Poisón as Oliver</li><li>Alba de la Fuente as Diana</li><li>Marta Fuenar as Rosa</li><li>Estíbaliz Veiga as Miriam</li><li>Iñaki Urriza as Victor</li><li>Daniel Urriza as Victor</li><li>Santiago Molero as Lorenzo</li></ul>\n</article>",
+   "t": "Tied Up (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1484913": {
+   "d": "Ikka (2026): Drama/Thriller film. Story: With a loved one's life at stake, a celebrated lawyer… See cast, TMDB rating 5.8/10, and release date 10 July 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
+   "industry": "bollywood",
+   "k": "Ikka, Ikka movie, Ikka cast, Ikka story, Ikka box office collection, Ikka budget, Ikka review, Ikka rating, Ikka release date, Ikka Drama, Ikka Thriller, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sunny Deol"
+     },
+     {
+      "@type": "Person",
+      "name": "Akshaye Khanna"
+     },
+     {
+      "@type": "Person",
+      "name": "Tillotama Shome"
+     },
+     {
+      "@type": "Person",
+      "name": "Dia Mirza"
+     },
+     {
+      "@type": "Person",
+      "name": "Sanjeeda Sheikh"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 28,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Ikka (2026): Drama/Thriller film. Story: With a loved one's life at stake, a celebrated lawyer… See cast, TMDB rating 5.8/10, and release date 10 July 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Siddharth P. Malhotra"
+     }
+    ],
+    "duration": "PT141M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1484913",
+    "name": "Ikka",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1484913"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ikka (2026)</h1>\n<p class=\"ssr-lead\">With a loved one&#x27;s life at stake, a celebrated lawyer must defend a man he suspects is guilty — battling his conscience every step of the way.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 July 2026</li><li>Runtime: 141 minutes</li><li>Director: Siddharth P. Malhotra</li><li>Genres: Drama, Thriller</li><li>TMDB rating: 5.8/10 (28 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sunny Deol as Arjun Mehra</li><li>Akshaye Khanna as Shouryaman Gaur</li><li>Tillotama Shome as Madhura Banerjee</li><li>Dia Mirza as Avantika Mehra</li><li>Sanjeeda Sheikh as Gauri Gaur</li><li>Jyoti Mukherjee as Soma&#x27;s Mother</li><li>Akansha Ranjan Kapoor as Soma Mittal</li><li>Shishir Sharma as Harshvardhan Gaur</li><li>Vijay Vikram Singh as Judge</li><li>Ivan Rodrigues as Dr. Galvankar</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Ikka (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1548113": {
+   "d": "The Muppet Show (2026): Comedy/Family film. Story: Music, comedy, and a whole lot of chaos is bound to… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qz7B5uDspnkoz068wLbLnleotwV.jpg",
+   "industry": "world",
+   "k": "The Muppet Show, The Muppet Show movie, The Muppet Show cast, The Muppet Show story, The Muppet Show box office collection, The Muppet Show budget, The Muppet Show review, The Muppet Show rating, The Muppet Show release date, The Muppet Show trailer, The Muppet Show Comedy, The Muppet Show Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bill Barretta"
+     },
+     {
+      "@type": "Person",
+      "name": "Dave Goelz"
+     },
+     {
+      "@type": "Person",
+      "name": "Eric Jacobson"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Linz"
+     },
+     {
+      "@type": "Person",
+      "name": "David Rudman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 128,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "The Muppet Show (2026): Comedy/Family film. Story: Music, comedy, and a whole lot of chaos is bound to… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alex Timbers"
+     }
+    ],
+    "duration": "PT32M",
+    "genre": [
+     "Comedy",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qz7B5uDspnkoz068wLbLnleotwV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1548113",
+    "name": "The Muppet Show",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1548113"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Muppet Show (2026)</h1>\n<p class=\"ssr-lead\">Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very special guest, Sabrina Carpenter!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 February 2026</li><li>Runtime: 32 minutes</li><li>Director: Alex Timbers</li><li>Genres: Comedy, Family, Music, TV Movie</li><li>TMDB rating: 7.2/10 (128 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bill Barretta as Rowlf the Dog / Dr. Teeth / Swedish Chef / Pepé the King Prawn (voice)</li><li>Dave Goelz as Gonzo / Zoot / Waldorf / Dr. Bunsen Honeydew (voice)</li><li>Eric Jacobson as Miss Piggy / Fozzie Bear / Animal / Sam Eagle (voice)</li><li>Peter Linz as Lips / Statler (voice)</li><li>David Rudman as Scooter / Janice / Beaker (voice)</li><li>Matt Vogel as Kermit the Frog / Sgt. Floyd Pepper (voice)</li><li>Sabrina Carpenter as Sabrina Carpenter</li><li>Seth Rogen as Seth Rogen</li><li>Maya Rudolph as Maya Rudolph</li><li>Stephanie D&#x27;Abruzzo as Muppet Performer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "The Muppet Show (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1610413": {
+   "d": "One Last Adventure: The Making of Stranger Things 5 (2026): Documentary film. Story: An inside look at the years of effort and craft that… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/edGuDPKY6qHBg9hYvmnvLjcFoy4.jpg",
+   "industry": "world",
+   "k": "One Last Adventure: The Making of Stranger Things 5, One Last Adventure: The Making of Stranger Things 5 movie, One Last Adventure: The Making of Stranger Things 5 cast, One Last Adventure: The Making of Stranger Things 5 story, One Last Adventure: The Making of Stranger Things 5 box office collection, One Last Adventure: The Making of Stranger Things 5 budget, One Last Adventure: The Making of Stranger Things 5 review, One Last Adventure: The Making of Stranger Things 5 rating, One Last Adventure: The Making of Stranger Things 5 release date, One Last Adventure: The Making of Stranger Things 5 trailer, One Last Adventure: The Making of Stranger Things 5 Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ross Duffer"
+     },
+     {
+      "@type": "Person",
+      "name": "Matt Duffer"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Dichter"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Trefry"
+     },
+     {
+      "@type": "Person",
+      "name": "Caitlin Schneiderhan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 100,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "One Last Adventure: The Making of Stranger Things 5 (2026): Documentary film. Story: An inside look at the years of effort and craft that… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Martina Radwan"
+     }
+    ],
+    "duration": "PT123M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/edGuDPKY6qHBg9hYvmnvLjcFoy4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1610413",
+    "name": "One Last Adventure: The Making of Stranger Things 5",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1610413"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>One Last Adventure: The Making of Stranger Things 5 (2026)</h1>\n<p class=\"ssr-lead\">An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers&#x27; generation-defining series.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 January 2026</li><li>Runtime: 123 minutes</li><li>Director: Martina Radwan</li><li>Genres: Documentary</li><li>TMDB rating: 7.2/10 (100 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ross Duffer as Self - Creator / Writer / Director</li><li>Matt Duffer as Self - Creator / Writer / Director</li><li>Paul Dichter as Self - Writer</li><li>Kate Trefry as Self - Writer</li><li>Caitlin Schneiderhan as Self - Writer</li><li>Shawn Levy as Self - Executive Producer / Director / Guest Director Chapter 6 And 7</li><li>Lampton Enochs as Self - Line Producer / Co-Executive Producer</li><li>Chris Trujillo as Self - Production Designer</li><li>Jess Royal as Self - Set Decorator</li><li>Amy Parris as Self - Costume Designer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "One Last Adventure: The Making of Stranger Things 5 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:27813": {
    "d": "Basket Case (1982): Horror/Comedy film. Story: A young man carrying a big basket that contains his… See cast, budget $35.0k, and TMDB rating 6.2/10.",
@@ -313,6 +1015,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Courageous (2011)</h1>\n<p class=\"ssr-lead\">Law enforcement officers Adam Mitchell, Nathan Hayes, and their partners stand up to the worst the streets have to offer with confidence and focus. Yet at the end of the day, they face a challenge that none of them are truly prepared to tackle: fatherhood. They know that God desires to turn the hearts of fathers to their children, but their children are beginning to drift further and further away from them. When tragedy hits home, these men are left wrestling with their hopes, their fears, their faith, and their fathering. Can a newfound urgency help these dads draw closer to God... and to their children?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 September 2011</li><li>Runtime: 129 minutes</li><li>Director: Alex Kendrick</li><li>Genres: Drama</li><li>Budget: $1M</li><li>TMDB rating: 7.7/10 (436 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ken Bevel as Nathan Hayes</li><li>Alex Kendrick as Adam Mitchell</li><li>Kevin Downes as Shane Fuller</li><li>Renee Jewell as Victoria Mitchell</li><li>Rusty Martin as Dylan Mitchell</li><li>Lauren Etchells as Emily Mitchell</li><li>Ben Davies as David Thomson</li><li>Robert Amaya as Javier Martinez</li><li>Angelita Nelson as Carmen Martinez</li><li>Taylor Hutcherson as Jade Hayes</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "Courageous (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:87513": {
+   "d": "Motor City (2026): Action/Thriller film. Story: In 1970s Detroit, John Miller falls for a local… See cast, budget $30M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/l7asYmqOad01F2u0oCMM8nQjoEP.jpg",
+   "industry": "world",
+   "k": "Motor City, Motor City movie, Motor City cast, Motor City story, Motor City box office collection, Motor City budget, Motor City review, Motor City rating, Motor City release date, Motor City trailer, Motor City Action, Motor City Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alan Ritchson"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Foster"
+     },
+     {
+      "@type": "Person",
+      "name": "Shailene Woodley"
+     },
+     {
+      "@type": "Person",
+      "name": "Lionel Boyce"
+     },
+     {
+      "@type": "Person",
+      "name": "Amar Chadha-Patel"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 146,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Motor City (2026): Action/Thriller film. Story: In 1970s Detroit, John Miller falls for a local… See cast, budget $30M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Potsy Ponciroli"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/l7asYmqOad01F2u0oCMM8nQjoEP.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=87513",
+    "name": "Motor City",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=87513"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Motor City (2026)</h1>\n<p class=\"ssr-lead\">In 1970s Detroit, John Miller falls for a local gangster&#x27;s girl and lands in prison for a crime he didn&#x27;t commit. With his life ruined, Miller plots revenge against the man who took his girl away.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 July 2026</li><li>Runtime: 104 minutes</li><li>Director: Potsy Ponciroli</li><li>Genres: Action, Thriller, Crime, Drama</li><li>Budget: $30M</li><li>TMDB rating: 6.2/10 (146 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alan Ritchson as John Miller</li><li>Ben Foster as Reynolds</li><li>Shailene Woodley as Sophia</li><li>Lionel Boyce as Youngblood</li><li>Amar Chadha-Patel as Singh</li><li>Pablo Schreiber as Lieutenant Savick</li><li>Dominic Bogart as Porthos</li><li>Mister Fitzgerald as Aramis</li><li>Rafael Cebrian as Athos</li><li>Ben McKenzie as Detective Kent</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Motor City (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:9413": {
    "d": "Picture Perfect (1997): Romance/Comedy film. Story: A young advertising executive's life becomes… See cast, budget $19M, and TMDB rating 5.9/10.",

@@ -1,6 +1,6 @@
 {
  "bucket": "78",
- "count": 13,
+ "count": 20,
  "titles": {
   "movie:114478": {
    "backdrop_path": "/sFfD1TvTUzmzWFpSm7GnYrKcWJH.jpg",
@@ -350,6 +350,787 @@
    "type": "movie",
    "vote_average": 6.8,
    "vote_count": 438
+  },
+  "movie:1365378": {
+   "backdrop_path": "/bQPWY2u154jJ5koDp9KcM67Wioi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bouna Ndiaye",
+     "n": "Jean-Pascal Zadi"
+    },
+    {
+     "c": "Jérémy Medjana",
+     "n": "Raphaël Quenard"
+    },
+    {
+     "c": "",
+     "n": "Gregory Defleur"
+    },
+    {
+     "c": "L'Organisateur",
+     "n": "David Clark"
+    },
+    {
+     "c": "Sean Barnes",
+     "n": "Josh Casaubon"
+    },
+    {
+     "c": "Gilles Ménez",
+     "n": "Etienne Guillou-Kervern"
+    },
+    {
+     "c": "Florian",
+     "n": "Gabriel Caballero"
+    },
+    {
+     "c": "Sacha",
+     "n": "Momar Sakanoko"
+    },
+    {
+     "c": "Fille De Layden",
+     "n": "Magalie Langrais"
+    },
+    {
+     "c": "Gary",
+     "n": "Olivier Lamarche"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Anthony Marciano"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1365378,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "No one would have bet on Jérémy, stuck behind the counter of a video store, or on Bouna, who cleans airports. With no money, no connections, and painfully poor English, who could have predicted they’d one day become big-name agents in the NBA? What they lack in experience, they will make up for in audacity, while remaining true to their one credo, doing business with a human touch. Scouting raw talent while improvising their way up, they’ll fake it until they make it – chasing their American Dream and landing multi-million-dollar deals.",
+   "popularity": 6.2861,
+   "poster_path": "/hQagR2IJiVN2FBFWmuz7XOQdVOF.jpg",
+   "production_countries": [
+    "FR",
+    "CA"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-18",
+   "revenue": 5816731,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The American Dream",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.364,
+   "vote_count": 165
+  },
+  "movie:1381078": {
+   "backdrop_path": "/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maya",
+     "n": "Margaret Qualley"
+    },
+    {
+     "c": "Charlie",
+     "n": "Gabriel Basso"
+    },
+    {
+     "c": "Felix",
+     "n": "Aaron Pierre"
+    },
+    {
+     "c": "Jason",
+     "n": "Patrick Schwarzenegger"
+    },
+    {
+     "c": "Ruth",
+     "n": "Catherine Keener"
+    },
+    {
+     "c": "Kali",
+     "n": "Tamara Lawrance"
+    },
+    {
+     "c": "Kerry",
+     "n": "Corey Johnson"
+    },
+    {
+     "c": "Colin",
+     "n": "Michael Shelford"
+    },
+    {
+     "c": "Matt",
+     "n": "Adam Woodward"
+    },
+    {
+     "c": "Armenian Family Member",
+     "n": "Gayané Kaligian"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rachel Morrison"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 1381078,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
+   "popularity": 27.1787,
+   "poster_path": "/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-07",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt",
+    "es",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Love of Your Life",
+   "trailer": {
+    "key": "HzGx48E64Xg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.684,
+   "vote_count": 226
+  },
+  "movie:1401778": {
+   "backdrop_path": "/vOV4Qy3g791OTzEndiSGoJwuI2M.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Zach",
+     "n": "Jeremy Irvine"
+    },
+    {
+     "c": "Julia",
+     "n": "Olga Kurylenko"
+    },
+    {
+     "c": "Harry",
+     "n": "Kelsey Grammer"
+    },
+    {
+     "c": "Emmy",
+     "n": "Hera Hilmar"
+    },
+    {
+     "c": "Eric",
+     "n": "Lionel Robert Blanc"
+    },
+    {
+     "c": "Walter",
+     "n": "Stuart Whelan"
+    },
+    {
+     "c": "Employee",
+     "n": "Elena Bushueva"
+    },
+    {
+     "c": "Employee",
+     "n": "Kevin Jarvis"
+    },
+    {
+     "c": "The Bartender",
+     "n": "Alessandro De Cominato"
+    },
+    {
+     "c": "Swiss Police",
+     "n": "Trish Williams"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Claudio Fäh"
+   ],
+   "genres": [
+    "Thriller",
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy"
+   ],
+   "id": 1401778,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young married couple embark on a hot air balloon trip across the Italian Dolomites to rekindle their relationship, but the arrival of an unexpected passenger sends their journey in an unpredictable direction.",
+   "popularity": 4.4758,
+   "poster_path": "/ggCueswyZYkHqQcbJuKgteshY2F.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-11-26",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fear takes flight.",
+   "title": "Turbulence",
+   "trailer": {
+    "key": "qbJt-u9L7cA",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.372,
+   "vote_count": 199
+  },
+  "movie:1451078": {
+   "backdrop_path": "/hxCJcyDnR964ja5mzExvb8UlHLG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Veerababu \"Veeru\"",
+     "n": "Sangeeth Shobhan"
+    },
+    {
+     "c": "Subbalakshmi \"Subbu\"",
+     "n": "Nayan Sarika"
+    },
+    {
+     "c": "Somu",
+     "n": "Vennela Kishore"
+    },
+    {
+     "c": "Kanne Pongula Balaraju \"Balu\"",
+     "n": "Getup Srinu"
+    },
+    {
+     "c": "Parasuram",
+     "n": "Brahmaji"
+    },
+    {
+     "c": "Chari",
+     "n": "Tanikella Bharani"
+    },
+    {
+     "c": "Ramesh",
+     "n": "Ashish Vidhyarthi"
+    },
+    {
+     "c": "Savithri",
+     "n": "Rohini Reddy"
+    },
+    {
+     "c": "Sukanya",
+     "n": "Raadhya"
+    },
+    {
+     "c": "Mahesh",
+     "n": "Varma Chaitanya"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Manasa Sharma"
+   ],
+   "genres": [
+    "Fantasy",
+    "Comedy"
+   ],
+   "id": 1451078,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "te",
+   "overview": "Returning home after a decade, an NRI chasing romance inadvertently awakens an ancient darkness long feared by his village. As the threat intensifies, love turns deadly and life hangs in the balance.",
+   "popularity": 2.2918,
+   "poster_path": "/sXwVJJMIPB4duU1mWbagt5ikUtq.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-03",
+   "revenue": 0,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "te"
+   ],
+   "status": "Released",
+   "tagline": "A homecoming nightmare!",
+   "title": "Raakaasa",
+   "trailer": {
+    "key": "TJ5dpuZ1cAk",
+    "name": "Raakaasa | Official Trailer | Sangeeth Shobhan | Getup Srinu | Netflix India",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 22
+  },
+  "movie:1473878": {
+   "backdrop_path": "/wivNPOtg6saz1XrCTU3C7sYYFt6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sister Lu",
+     "n": "Katie Cassidy"
+    },
+    {
+     "c": "Father Novak",
+     "n": "William H. Macy"
+    },
+    {
+     "c": "Gabriel",
+     "n": "John Patrick Jordan"
+    },
+    {
+     "c": "Roman",
+     "n": "Michael Emery"
+    },
+    {
+     "c": "Edwin",
+     "n": "Allen McCullough"
+    },
+    {
+     "c": "Mireille",
+     "n": "Sabrina Schlegel-Mejia"
+    },
+    {
+     "c": "Nancy",
+     "n": "Noriko Sato"
+    },
+    {
+     "c": "The Pope",
+     "n": "Ray Faiola"
+    },
+    {
+     "c": "David",
+     "n": "Jeremy Feight"
+    },
+    {
+     "c": "Louis",
+     "n": "Michael John Improta"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R-13",
+   "date_kind": "release",
+   "director": [
+    "Jon Keeyes"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 1473878,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Aboard a high-speed train, a nun who has lost her faith must perform her first exorcism on a possessed passenger hellbent on crashing the runaway train.",
+   "popularity": 1.7505,
+   "poster_path": "/gP7maqMVoQPXYi1rtCJ1kpSpNTA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-20",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The end of the line is near.",
+   "title": "Speed Demon",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.7,
+   "vote_count": 30
+  },
+  "movie:1599078": {
+   "backdrop_path": "/b2qSURjTrHTJRKYEJ0gIKOACZdC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Marcello Hernández"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Nicholaus Goossen"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1599078,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Filmed in Miami, Hernández's special features his comedic take on his first-generation American upbringing before a local audience.",
+   "popularity": 1.0947,
+   "poster_path": "/qPTc7XVWYHldMn7UmYvGXWXv4I9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-07",
+   "revenue": 0,
+   "runtime": 64,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Marcello Hernández: American Boy",
+   "trailer": {
+    "key": "SClwWBQvuRA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 26
+  },
+  "movie:1694978": {
+   "backdrop_path": "/6kheApG5qPsKbiKDxsGpOb6i6i6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tina",
+     "n": "Alice Eve"
+    },
+    {
+     "c": "Tom",
+     "n": "Eric Michael Cole"
+    },
+    {
+     "c": "Roy",
+     "n": "Jim Klock"
+    },
+    {
+     "c": "Sadie",
+     "n": "Elle Haymond"
+    },
+    {
+     "c": "Rachinda",
+     "n": "Sarah Siadat"
+    },
+    {
+     "c": "Rick",
+     "n": "Johnny Gaffney"
+    },
+    {
+     "c": "Britney",
+     "n": "Lisa Yaro"
+    },
+    {
+     "c": "Captain Mackey",
+     "n": "Vince Jolivette"
+    },
+    {
+     "c": "Captain Daniels",
+     "n": "Robert Grose"
+    },
+    {
+     "c": "Coast Guard Officer",
+     "n": "Peppijna Dalli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Jonathan Zuck"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 1694978,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A newlywed couple joins friends on a Mediterranean yacht excursion, only to find themselves caught between a predatory shark and a psychopathic killer in their midst-transforming a sun-drenched escape into a fight for survival.",
+   "popularity": 3.6348,
+   "poster_path": "/uJOW6pWxJ0i5sji9VXRR6Y1wXyE.jpg",
+   "production_countries": [
+    "US",
+    "MT"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-27",
+   "revenue": 0,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There's no hiding in the sea.",
+   "title": "Chum",
+   "trailer": {
+    "key": "oZWDFelquX4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.918,
+   "vote_count": 49
   },
   "movie:72478": {
    "backdrop_path": "/zGNLkZYzFrBvROL2g6UNJsfnA8h.jpg",

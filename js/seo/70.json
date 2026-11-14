@@ -1,7 +1,71 @@
 {
  "bucket": "70",
- "count": 14,
+ "count": 20,
  "titles": {
+  "movie:1166170": {
+   "d": "You Found Me (2025): Fantasy/Romance film. Story: Elsa, a doctor, hides from the world the fact that… See cast and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/l71OwTdbSuBAF73U10vyjBhGn3.jpg",
+   "industry": "world",
+   "k": "You Found Me, You Found Me movie, You Found Me cast, You Found Me story, You Found Me box office collection, You Found Me budget, You Found Me review, You Found Me rating, You Found Me release date, You Found Me Fantasy, You Found Me Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Magalie Lépine-Blondeau"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonathan Cohen"
+     },
+     {
+      "@type": "Person",
+      "name": "Florence Janas"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean-Christophe Folly"
+     },
+     {
+      "@type": "Person",
+      "name": "Anne Benoît"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 110,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "You Found Me (2025): Fantasy/Romance film. Story: Elsa, a doctor, hides from the world the fact that… See cast and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alice Vial"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Fantasy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/l71OwTdbSuBAF73U10vyjBhGn3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1166170",
+    "name": "You Found Me",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1166170"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>You Found Me (2025)</h1>\n<p class=\"ssr-lead\">Elsa, a doctor, hides from the world the fact that she can see the dead and help them cross to the other side. Convinced that her gift leads to rejection, she has given up on love, retreating into solitude and her work. That is, until she meets Oscar - a dead man who doesn’t know he’s dead...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 December 2025</li><li>Runtime: 98 minutes</li><li>Director: Alice Vial</li><li>Genres: Fantasy, Romance, Comedy</li><li>TMDB rating: 7.0/10 (110 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Magalie Lépine-Blondeau as Elsa</li><li>Jonathan Cohen as Oscar</li><li>Florence Janas as Inès</li><li>Jean-Christophe Folly as Arthur</li><li>Anne Benoît as Mireille</li><li>Soufiane Guerrab as Sofiane</li><li>Nina Aboutajedyne as Nadia</li><li>Afida Tahri as Mère de Sofiane</li><li>Éric Naggar as Père de Sofiane</li><li>Nanou Garcia</li></ul>\n</article>",
+   "t": "You Found Me (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
   "movie:1196470": {
    "d": "Survive (2025): Science Fiction/Thriller film. Story: A couple celebrates their son’s birthday in the… See cast, budget $5.27M, and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/2xnLwNvea2TSH0M0oc9iEq2KEVp.jpg",
@@ -108,6 +172,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Return</h1>\n<p class=\"ssr-lead\">A girl is at school. Suddenly it&#x27;s as if she can&#x27;t breathe. As she runs down the stairs we follow her into her mind. It takes us deep into dark woods.</p>\n<h2>Key facts</h2>\n<ul><li>Runtime: 15 minutes</li><li>Director: Malou Reymann</li><li>Genres: Horror</li><li>TMDB rating: 6.6/10 (443 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lily Dodsworth-Evans</li></ul>\n</article>",
    "t": "Return — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": ""
+  },
+  "movie:1336770": {
+   "d": "Vaazha II (2026): Comedy/Drama film. Story: Four friends – Hashir, Alan, Ajin and Vinayak – are… See cast, budget $1.08M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uNA0OVk09Hbwflye3eBoOiGIKGc.jpg",
+   "industry": "bollywood",
+   "k": "Vaazha II, Vaazha II movie, Vaazha II cast, Vaazha II story, Vaazha II box office collection, Vaazha II budget, Vaazha II review, Vaazha II rating, Vaazha II release date, Vaazha II Comedy, Vaazha II Drama, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hashir"
+     },
+     {
+      "@type": "Person",
+      "name": "Alan Bin Siraj"
+     },
+     {
+      "@type": "Person",
+      "name": "Ajin Joy"
+     },
+     {
+      "@type": "Person",
+      "name": "Vinayak V"
+     },
+     {
+      "@type": "Person",
+      "name": "Alphonse Puthren"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 24,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Vaazha II (2026): Comedy/Drama film. Story: Four friends – Hashir, Alan, Ajin and Vinayak – are… See cast, budget $1.08M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Savin Sa"
+     }
+    ],
+    "duration": "PT162M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uNA0OVk09Hbwflye3eBoOiGIKGc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1336770",
+    "name": "Vaazha II",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1336770"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Vaazha II (2026)</h1>\n<p class=\"ssr-lead\">Four friends – Hashir, Alan, Ajin and Vinayak – are considered losers and troublemakers by parents, family and the school management. They face immense social pressure as they reach adulthood, embarking them on an emotional journey of self discovery and acceptance, where they finally learn to take up their responsibilities and find success.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 April 2026</li><li>Runtime: 162 minutes</li><li>Director: Savin Sa</li><li>Genres: Comedy, Drama</li><li>Budget: $1.08M</li><li>TMDB rating: 7.5/10 (24 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hashir as Hashir</li><li>Alan Bin Siraj as Alan</li><li>Ajin Joy as Ajin</li><li>Vinayak V as Vinayak</li><li>Alphonse Puthren as DYSP Xavier Alexander</li><li>Sudheesh as Shiyas (Alan&#x27;s Father)</li><li>Vijay Babu as Mujeeb Sir</li><li>Vinod Kedamangalam as Ajin&#x27;s Father</li><li>Raveendran as Benny</li><li>Ameen as Ameen</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: aha</li></ul>\n</article>",
+   "t": "Vaazha II (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:14070": {
    "d": "Ghajini (2008): Action/Romance film. Story: A man suffering from anterograde amnesia as a result… See cast, budget $9.1M, and TMDB rating 7.0/10.",
@@ -228,6 +356,260 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Minuscule: Valley of the Lost Ants (2013)</h1>\n<p class=\"ssr-lead\">In a peaceful little clearing, the remains of a hastily abandoned picnic sparks a battle between two tribes of ants. A bold young ladybug finds himself caught in the middle. He befriends the leader of the black ants, Mandible, and helps him save the anthill from the assault of the terrible red ant warriors, led by the fearful Butor. A fantastic journey at ground level.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 November 2013</li><li>Runtime: 89 minutes</li><li>Director: Hélène Giraud, Thomas Szabo</li><li>Genres: Animation, Adventure, Family</li><li>Budget: $19.7M</li><li>TMDB rating: 7.0/10 (496 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sarah Cohen-Hadria as The Future Mom</li><li>Jean-Paul Guyon as The Future Dad</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Google Play Movies, YouTube</li><li>Buy: Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "Minuscule: Valley of the Lost Ants (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
+  },
+  "movie:1466670": {
+   "d": "Think Good (2026): Drama film. Story: When Gil meets Jacques, their love seems… See cast, TMDB rating 7.0/10, and release date 16 September 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/8VjONCVHYgS3PPDuIuzXZBDhFov.jpg",
+   "industry": "world",
+   "k": "Think Good, Think Good movie, Think Good cast, Think Good story, Think Good box office collection, Think Good budget, Think Good review, Think Good rating, Think Good release date, Think Good Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Monia Chokri"
+     },
+     {
+      "@type": "Person",
+      "name": "Niels Schneider"
+     },
+     {
+      "@type": "Person",
+      "name": "Rudgy Pajany"
+     },
+     {
+      "@type": "Person",
+      "name": "Mina Kavani"
+     },
+     {
+      "@type": "Person",
+      "name": "Oussama Kheddam"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 35,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Think Good (2026): Drama film. Story: When Gil meets Jacques, their love seems… See cast, TMDB rating 7.0/10, and release date 16 September 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Géraldine Nakache"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8VjONCVHYgS3PPDuIuzXZBDhFov.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1466670",
+    "name": "Think Good",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1466670"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Think Good (2026)</h1>\n<p class=\"ssr-lead\">When Gil meets Jacques, their love seems irresistible. And when she unexpectedly falls pregnant, he convinces her to start a family. However, their hasty marriage reveals that she is not as deeply rooted into the Jewish faith as he is. Jacques reassures her: &quot;Think good and it will be good&quot;. Little by little, Gil realizes the insidious control he exerts over her life...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 September 2026</li><li>Runtime: 94 minutes</li><li>Director: Géraldine Nakache</li><li>Genres: Drama</li><li>TMDB rating: 7.0/10 (35 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Monia Chokri as Gil</li><li>Niels Schneider as Jacques</li><li>Rudgy Pajany as Hudo Maunier</li><li>Mina Kavani as Agnès</li><li>Oussama Kheddam as Ibra</li><li>Clémentine Célarié as Annah</li><li>Christian Benedetti as Alain</li><li>Rabah Nait Oufella</li><li>Daniel Cohen as Le rabbin Dubai</li><li>Sébastien Pouderoux as Benoît</li></ul>\n</article>",
+   "t": "Think Good (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1477170": {
+   "d": "LOL 2.0: Anne’s Golden Hour (2026): Comedy film. Story: At 55, Anne is finally enjoying her freedom after her… See cast and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jn3TWz4bq2UeEQSWFraoPagmc1f.jpg",
+   "industry": "world",
+   "k": "LOL 2.0: Anne’s Golden Hour, LOL 2.0: Anne’s Golden Hour movie, LOL 2.0: Anne’s Golden Hour cast, LOL 2.0: Anne’s Golden Hour story, LOL 2.0: Anne’s Golden Hour box office collection, LOL 2.0: Anne’s Golden Hour budget, LOL 2.0: Anne’s Golden Hour review, LOL 2.0: Anne’s Golden Hour rating, LOL 2.0: Anne’s Golden Hour release date, LOL 2.0: Anne’s Golden Hour Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sophie Marceau"
+     },
+     {
+      "@type": "Person",
+      "name": "Thaïs Alessandrin"
+     },
+     {
+      "@type": "Person",
+      "name": "Vincent Elbaz"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexandre Astier"
+     },
+     {
+      "@type": "Person",
+      "name": "Françoise Fabian"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 65,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "LOL 2.0: Anne’s Golden Hour (2026): Comedy film. Story: At 55, Anne is finally enjoying her freedom after her… See cast and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lisa Azuelos"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jn3TWz4bq2UeEQSWFraoPagmc1f.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1477170",
+    "name": "LOL 2.0: Anne’s Golden Hour",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1477170"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>LOL 2.0: Anne’s Golden Hour (2026)</h1>\n<p class=\"ssr-lead\">At 55, Anne is finally enjoying her freedom after her children leave home. But everything changes when her 23-year-old daughter, Louise, moves back in with her after a professional and romantic failure. And to make matters worse, her son, Théo, announces that she&#x27;s going to be a grandmother! Anne realizes that life never goes as planned and that, at any age, we are still learning to grow up.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 February 2026</li><li>Runtime: 100 minutes</li><li>Director: Lisa Azuelos</li><li>Genres: Comedy</li><li>TMDB rating: 6.0/10 (65 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sophie Marceau as Anne</li><li>Thaïs Alessandrin as Louise</li><li>Vincent Elbaz as Vincent</li><li>Alexandre Astier as Alain</li><li>Françoise Fabian as Françoise</li><li>Victor Belmondo as Théo</li><li>Jérémy Kapone as Maël</li><li>Théo Delincak as Joseph</li><li>Nathan Japy as Jules</li><li>Isaline Prévost Radeff as Marie</li></ul>\n</article>",
+   "t": "LOL 2.0: Anne’s Golden Hour (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1582770": {
+   "d": "Dhurandhar: The Revenge (2026): Action/Crime film. Story: As rival gangs, corrupt officials and a ruthless… See cast, budget $14.33M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/br4Ra4dRpvR0R7a1zPPkOwGkcky.jpg",
+   "industry": "bollywood",
+   "k": "Dhurandhar: The Revenge, Dhurandhar: The Revenge movie, Dhurandhar: The Revenge cast, Dhurandhar: The Revenge story, Dhurandhar: The Revenge box office collection, Dhurandhar: The Revenge budget, Dhurandhar: The Revenge review, Dhurandhar: The Revenge rating, Dhurandhar: The Revenge release date, Dhurandhar: The Revenge trailer, Dhurandhar: The Revenge Action, Dhurandhar: The Revenge Crime, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ranveer Singh"
+     },
+     {
+      "@type": "Person",
+      "name": "Arjun Rampal"
+     },
+     {
+      "@type": "Person",
+      "name": "Rakesh Bedi"
+     },
+     {
+      "@type": "Person",
+      "name": "R. Madhavan"
+     },
+     {
+      "@type": "Person",
+      "name": "Manav Gohil"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 178,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Dhurandhar: The Revenge (2026): Action/Crime film. Story: As rival gangs, corrupt officials and a ruthless… See cast, budget $14.33M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Aditya Dhar"
+     }
+    ],
+    "duration": "PT235M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/br4Ra4dRpvR0R7a1zPPkOwGkcky.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1582770",
+    "name": "Dhurandhar: The Revenge",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1582770"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dhurandhar: The Revenge (2026)</h1>\n<p class=\"ssr-lead\">As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza&#x27;s mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 March 2026</li><li>Runtime: 235 minutes</li><li>Director: Aditya Dhar</li><li>Genres: Action, Crime, Thriller</li><li>Budget: $14.33M</li><li>TMDB rating: 7.2/10 (178 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ranveer Singh as Hamza Ali Mazari / Jaskirat Singh Rangi</li><li>Arjun Rampal as Major Iqbal</li><li>Rakesh Bedi as Jameel Jamali</li><li>R. Madhavan as Ajay Sanyal</li><li>Manav Gohil as Sushant Bansal</li><li>Sara Arjun as Yalina Jamali</li><li>Sanjay Dutt as SP Chaudhary Aslam</li><li>Gaurav Gera as Mohammad Aalam</li><li>Danish Pandor as Uzair Baloch</li><li>Danish Iqbal as Dawood Ibrahim</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, JioHotstar</li></ul>\n</article>",
+   "t": "Dhurandhar: The Revenge (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1792170": {
+   "d": "Model Citizen (2026): Crime/Science Fiction film. Story: With his memories gone and his past a blur, ex-cop… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mC5Y5jmodmTp7T7eyQ8tTBnQRg5.jpg",
+   "industry": "world",
+   "k": "Model Citizen, Model Citizen movie, Model Citizen cast, Model Citizen story, Model Citizen box office collection, Model Citizen budget, Model Citizen review, Model Citizen rating, Model Citizen release date, Model Citizen trailer, Model Citizen Crime, Model Citizen Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Aaron Eckhart"
+     },
+     {
+      "@type": "Person",
+      "name": "Emmanuelle Chriqui"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Braunstein"
+     },
+     {
+      "@type": "Person",
+      "name": "David Hewlett"
+     },
+     {
+      "@type": "Person",
+      "name": "Sebastian Pigott"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 29,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Model Citizen (2026): Crime/Science Fiction film. Story: With his memories gone and his past a blur, ex-cop… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tag Mendillo"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Crime",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mC5Y5jmodmTp7T7eyQ8tTBnQRg5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1792170",
+    "name": "Model Citizen",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1792170"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Model Citizen (2026)</h1>\n<p class=\"ssr-lead\">With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he&#x27;s met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 November 2026</li><li>Runtime: 93 minutes</li><li>Director: Tag Mendillo</li><li>Genres: Crime, Science Fiction, Thriller</li><li>TMDB rating: 6.3/10 (29 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aaron Eckhart as Steven Bay / John Locke</li><li>Emmanuelle Chriqui as Gretchen</li><li>Paul Braunstein as O&#x27;Neill</li><li>David Hewlett as Dr. Harris</li><li>Sebastian Pigott as Jellef</li><li>Zion Forrest Lee as Silas</li><li>Avery Mendillo as Sabrina</li><li>Talia Asseraf as Annabelle</li><li>Nicolas Grimes as Man in Black</li><li>Caitlin McNerney as Woman in Green</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Model Citizen (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:2370": {
    "d": "Topaz (1969): Drama/Thriller film. Story: Copenhagen, Denmark, 1962. When a high-ranking Soviet… See cast, budget $4M, and TMDB rating 6.0/10.",

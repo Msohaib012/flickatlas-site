@@ -1,6 +1,6 @@
 {
  "bucket": "91",
- "count": 13,
+ "count": 25,
  "titles": {
   "movie:1051891": {
    "d": "Thelma (2024): Action/Adventure film. Story: When 93-year-old Thelma Post gets duped by a phone… See cast, budget $5M, and TMDB rating 6.8/10.",
@@ -194,6 +194,703 @@
    "t": "Gangs of Wasseypur - Part 1 (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2012"
   },
+  "movie:1266791": {
+   "d": "Alter Ego (2026): Comedy film. Story: A quiet, middle-aged man spirals into obsession and… See cast, TMDB rating 6.3/10, and release date 4 March 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/bzGhdOMMeyBn9CFYMhtqUkevG0j.jpg",
+   "industry": "world",
+   "k": "Alter Ego, Alter Ego movie, Alter Ego cast, Alter Ego story, Alter Ego box office collection, Alter Ego budget, Alter Ego review, Alter Ego rating, Alter Ego release date, Alter Ego trailer, Alter Ego Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Laurent Lafitte"
+     },
+     {
+      "@type": "Person",
+      "name": "Olga Kurylenko"
+     },
+     {
+      "@type": "Person",
+      "name": "Blanche Gardin"
+     },
+     {
+      "@type": "Person",
+      "name": "Marc Fraize"
+     },
+     {
+      "@type": "Person",
+      "name": "Zabou Breitman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 119,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Alter Ego (2026): Comedy film. Story: A quiet, middle-aged man spirals into obsession and… See cast, TMDB rating 6.3/10, and release date 4 March 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bruno Lavaine"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicolas Charlet"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bzGhdOMMeyBn9CFYMhtqUkevG0j.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1266791",
+    "name": "Alter Ego",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1266791"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Alter Ego (2026)</h1>\n<p class=\"ssr-lead\">A quiet, middle-aged man spirals into obsession and paranoia when a charismatic look-alike moves in next door, featuring the exact same face—and a full head of hair.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 March 2026</li><li>Runtime: 100 minutes</li><li>Director: Bruno Lavaine, Nicolas Charlet</li><li>Genres: Comedy</li><li>TMDB rating: 6.3/10 (119 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Laurent Lafitte as Alex Floutard / Axel Chambon</li><li>Olga Kurylenko as Tatiana Chambon</li><li>Blanche Gardin as Nathalie Floutard</li><li>Marc Fraize as Denis Moulard</li><li>Zabou Breitman as Nicole Lecovec</li><li>Bertrand Goncalves as Stanislas Berteau</li><li>Giovanni Pucci as Enzo</li><li>Léo Garcia as Elliot</li><li>Olivier Brabant as Le commissaire</li><li>Olivier Bayart as Le jeune policier</li></ul>\n</article>",
+   "t": "Alter Ego (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1380291": {
+   "d": "Tom Clancy's Jack Ryan: Ghost War (2026): Action/Thriller film. Story: Jack Ryan is reluctantly pulled back into espionage… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
+   "industry": "world",
+   "k": "Tom Clancy's Jack Ryan: Ghost War, Tom Clancy's Jack Ryan: Ghost War movie, Tom Clancy's Jack Ryan: Ghost War cast, Tom Clancy's Jack Ryan: Ghost War story, Tom Clancy's Jack Ryan: Ghost War box office collection, Tom Clancy's Jack Ryan: Ghost War budget, Tom Clancy's Jack Ryan: Ghost War review, Tom Clancy's Jack Ryan: Ghost War rating, Tom Clancy's Jack Ryan: Ghost War release date, Tom Clancy's Jack Ryan: Ghost War trailer, Tom Clancy's Jack Ryan: Ghost War Action, Tom Clancy's Jack Ryan: Ghost War Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "John Krasinski"
+     },
+     {
+      "@type": "Person",
+      "name": "Wendell Pierce"
+     },
+     {
+      "@type": "Person",
+      "name": "Sienna Miller"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Kelly"
+     },
+     {
+      "@type": "Person",
+      "name": "Max Beesley"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 848,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Tom Clancy's Jack Ryan: Ghost War (2026): Action/Thriller film. Story: Jack Ryan is reluctantly pulled back into espionage… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Andrew Bernstein"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1380291",
+    "name": "Tom Clancy's Jack Ryan: Ghost War",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1380291"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Tom Clancy&#x27;s Jack Ryan: Ghost War (2026)</h1>\n<p class=\"ssr-lead\">Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November &amp; James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 May 2026</li><li>Runtime: 107 minutes</li><li>Director: Andrew Bernstein</li><li>Genres: Action, Thriller</li><li>TMDB rating: 6.9/10 (848 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Krasinski as Jack Ryan</li><li>Wendell Pierce as James Greer</li><li>Sienna Miller as Emma Marlow</li><li>Michael Kelly as Mike November</li><li>Max Beesley as Liam Crown</li><li>Betty Gabriel as Elizabeth Wright</li><li>JJ Feild as Andrew Spear</li><li>Douglas Hodge as Nigel Cooke</li><li>Dominic Mafham as MI6 Chief Arnold</li><li>Alex Brockdorff as Mark Whitaker</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Tom Clancy's Jack Ryan: Ghost War (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1416391": {
+   "d": "Toaster (2026): Comedy/Crime film. Story: Murder and chaos erupt when a miser becomes obsessed… See cast, TMDB rating 5.8/10, and release date 15 April 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/m2cBaXA5m14dBlPufXCnJiw35Zu.jpg",
+   "industry": "bollywood",
+   "k": "Toaster, Toaster movie, Toaster cast, Toaster story, Toaster box office collection, Toaster budget, Toaster review, Toaster rating, Toaster release date, Toaster Comedy, Toaster Crime, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rajkummar Rao"
+     },
+     {
+      "@type": "Person",
+      "name": "Sanya Malhotra"
+     },
+     {
+      "@type": "Person",
+      "name": "Archana Puran Singh"
+     },
+     {
+      "@type": "Person",
+      "name": "Upendra Limaye"
+     },
+     {
+      "@type": "Person",
+      "name": "Abhishek Banerjee"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 39,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Toaster (2026): Comedy/Crime film. Story: Murder and chaos erupt when a miser becomes obsessed… See cast, TMDB rating 5.8/10, and release date 15 April 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Vivek Daschaudary"
+     }
+    ],
+    "duration": "PT126M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/m2cBaXA5m14dBlPufXCnJiw35Zu.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1416391",
+    "name": "Toaster",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1416391"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Toaster (2026)</h1>\n<p class=\"ssr-lead\">Murder and chaos erupt when a miser becomes obsessed with a toaster he gave as a wedding gift.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 April 2026</li><li>Runtime: 126 minutes</li><li>Director: Vivek Daschaudary</li><li>Genres: Comedy, Crime, Action</li><li>TMDB rating: 5.8/10 (39 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rajkummar Rao as Ramakant</li><li>Sanya Malhotra as Shilpa</li><li>Archana Puran Singh as Malini Pherwani</li><li>Upendra Limaye as Inspector Balgaode</li><li>Abhishek Banerjee as Glen D&#x27;Souza</li><li>Seema Pahwa as Mrs. D&#x27;Souza</li><li>Farah Khan as Nandini</li><li>Jitendra Joshi as Amol Amre</li><li>Pratik Gandhi as Customer at Shop</li><li>Patralekhaa as Guest at Wedding</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Toaster (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1423191": {
+   "d": "Resident Evil (2026): Horror/Science Fiction film. Story: Medical courier Bryan unwittingly finds himself… See cast, budget $75M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
+   "industry": "world",
+   "k": "Resident Evil, Resident Evil movie, Resident Evil cast, Resident Evil story, Resident Evil box office collection, Resident Evil budget, Resident Evil review, Resident Evil rating, Resident Evil release date, Resident Evil trailer, Resident Evil Horror, Resident Evil Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Austin Abrams"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Walter Hauser"
+     },
+     {
+      "@type": "Person",
+      "name": "Kali Reis"
+     },
+     {
+      "@type": "Person",
+      "name": "Zach Cherry"
+     },
+     {
+      "@type": "Person",
+      "name": "Johnno Wilson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 2130,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Resident Evil (2026): Horror/Science Fiction film. Story: Medical courier Bryan unwittingly finds himself… See cast, budget $75M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Zach Cregger"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1423191",
+    "name": "Resident Evil",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1423191"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Resident Evil (2026)</h1>\n<p class=\"ssr-lead\">Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 September 2026</li><li>Runtime: 94 minutes</li><li>Director: Zach Cregger</li><li>Genres: Horror, Science Fiction, Adventure</li><li>Budget: $75M</li><li>TMDB rating: 7.5/10 (2130 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Austin Abrams as Bryan</li><li>Paul Walter Hauser as Paul</li><li>Kali Reis as Maxine</li><li>Zach Cherry as Carl</li><li>Johnno Wilson as Officer Wilson</li><li>Shaun W. Loeser as Puker</li><li>Zach Cregger as Intercom (voice)</li><li>Emily Piggford as Dr. Maria Stokes</li><li>Will Merrick as Dave</li><li>Zoé Bellas as Birdie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Resident Evil (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1496491": {
+   "d": "Comédie-Française (2026): Comedy film. Story: At the Comédie-Française, there is one golden rule… See cast, TMDB rating 6.8/10, and release date 22 July 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/5ikboX1fj7GVjVpgcdkR4E6j16A.jpg",
+   "industry": "world",
+   "k": "Comédie-Française, Comédie-Française movie, Comédie-Française cast, Comédie-Française story, Comédie-Française box office collection, Comédie-Française budget, Comédie-Française review, Comédie-Française rating, Comédie-Française release date, Comédie-Française trailer, Comédie-Française Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Pauline Clément"
+     },
+     {
+      "@type": "Person",
+      "name": "Laurent Stocker"
+     },
+     {
+      "@type": "Person",
+      "name": "Julien Frison"
+     },
+     {
+      "@type": "Person",
+      "name": "Marina Hands"
+     },
+     {
+      "@type": "Person",
+      "name": "Adeline D'Hermy"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 112,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Comédie-Française (2026): Comedy film. Story: At the Comédie-Française, there is one golden rule… See cast, TMDB rating 6.8/10, and release date 22 July 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bertrand Usclat"
+     },
+     {
+      "@type": "Person",
+      "name": "Martin Darondeau"
+     }
+    ],
+    "duration": "PT75M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5ikboX1fj7GVjVpgcdkR4E6j16A.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1496491",
+    "name": "Comédie-Française",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1496491"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Comédie-Française (2026)</h1>\n<p class=\"ssr-lead\">At the Comédie-Française, there is one golden rule: the play is never canceled. Unfortunately for Nina, everything else is—just three hours before the premiere of her first staging. An actor is stuck on a train, tensions explode, equipment breaks down, egos clash, and panic sets in. With no way out and time slipping away, Nina must hold the show together at all costs. Will she make it until the curtain rises?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 July 2026</li><li>Runtime: 75 minutes</li><li>Director: Bertrand Usclat, Martin Darondeau</li><li>Genres: Comedy</li><li>TMDB rating: 6.8/10 (112 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pauline Clément as Nina Cardi</li><li>Laurent Stocker as Philippe Vialle</li><li>Julien Frison as Antoine de Nombel</li><li>Marina Hands as Emilie Hamel</li><li>Adeline D&#x27;Hermy as Suzanne Paturel</li><li>Danièle Lebrun as Nadine Guimard</li><li>Sefa Yeboah as Issa, l&#x27;ouvreur</li><li>Christian Hecq as Jacques, le régisseur</li><li>Serge Bagdassarian as Thibault, l&#x27;administrateur général</li><li>Sephora Pondi as Mélanie, la maquilleuse</li></ul>\n</article>",
+   "t": "Comédie-Française (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1516391": {
+   "d": "Cover-Up (2025): Documentary/History film. Story: He's devoted his career to uncovering stories the… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/e0z1lFuOLuQibEKtodWbUdI9jL5.jpg",
+   "industry": "world",
+   "k": "Cover-Up, Cover-Up movie, Cover-Up cast, Cover-Up story, Cover-Up box office collection, Cover-Up budget, Cover-Up review, Cover-Up rating, Cover-Up release date, Cover-Up trailer, Cover-Up Documentary, Cover-Up History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Seymour Hersh"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeff Gerth"
+     },
+     {
+      "@type": "Person",
+      "name": "David Obst"
+     },
+     {
+      "@type": "Person",
+      "name": "Bob Woodward"
+     },
+     {
+      "@type": "Person",
+      "name": "Max Friedman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 59,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Cover-Up (2025): Documentary/History film. Story: He's devoted his career to uncovering stories the… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Laura Poitras"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Obenhaus"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Documentary",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/e0z1lFuOLuQibEKtodWbUdI9jL5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1516391",
+    "name": "Cover-Up",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1516391"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cover-Up (2025)</h1>\n<p class=\"ssr-lead\">He&#x27;s devoted his career to uncovering stories the powerful want buried. From My Lai to Abu Ghraib, dig into the life&#x27;s work of journalist Seymour Hersh.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 December 2025</li><li>Runtime: 117 minutes</li><li>Director: Laura Poitras, Mark Obenhaus</li><li>Genres: Documentary, History</li><li>TMDB rating: 7.2/10 (59 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Seymour Hersh as Self - Investigative Journalist</li><li>Jeff Gerth as Self - The New York Times</li><li>David Obst as Self - Dispatch News</li><li>Bob Woodward as Self - The Washington Post</li><li>Max Friedman as Self - Former Research Assistant</li><li>Amy Davidson Sorkin as Self - The New Yorker</li><li>Antonio Taguba as Self - U.S. Army Major General</li><li>Camille Lo Sapio as Self - Anonymous Source</li><li>Isador Hersh as Self - Father of Seymour Hersh (archive footage)</li><li>Dorothy Hersh as Self - Mother of Seymour Hersh (archive footage)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Cover-Up (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1544991": {
+   "d": "You Stole My Heart (2025): Action/Comedy film. Story: After robbing a bank, young engineer Eric tricks his… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/oBaCA8TDnBTyXkXcY5v13wovi5Z.jpg",
+   "industry": "world",
+   "k": "You Stole My Heart, You Stole My Heart movie, You Stole My Heart cast, You Stole My Heart story, You Stole My Heart box office collection, You Stole My Heart budget, You Stole My Heart review, You Stole My Heart rating, You Stole My Heart release date, You Stole My Heart Action, You Stole My Heart Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Óscar Casas"
+     },
+     {
+      "@type": "Person",
+      "name": "Ana Jara Martínez"
+     },
+     {
+      "@type": "Person",
+      "name": "Luis Zahera"
+     },
+     {
+      "@type": "Person",
+      "name": "Antonio Pagudo"
+     },
+     {
+      "@type": "Person",
+      "name": "Ana Milán"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 37,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "You Stole My Heart (2025): Action/Comedy film. Story: After robbing a bank, young engineer Eric tricks his… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chus Gutiérrez"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oBaCA8TDnBTyXkXcY5v13wovi5Z.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1544991",
+    "name": "You Stole My Heart",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1544991"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>You Stole My Heart (2025)</h1>\n<p class=\"ssr-lead\">After robbing a bank, young engineer Eric tricks his dating app fling Vera into becoming his driver in his flight from Madrid to Galicia.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 December 2025</li><li>Runtime: 99 minutes</li><li>Director: Chus Gutiérrez</li><li>Genres: Action, Comedy, Romance</li><li>TMDB rating: 6.5/10 (37 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Óscar Casas as Eric/Nacho</li><li>Ana Jara Martínez as Vera</li><li>Luis Zahera as Trigo</li><li>Antonio Pagudo as García</li><li>Ana Milán as Eva</li><li>Miguel de Lira as Ismael</li><li>Alba Gutiérrez as Lola</li><li>Xurxo Carreño as Anton</li><li>Lucía Veiga as Carmen</li><li>Arturo Valls as Simón</li></ul>\n</article>",
+   "t": "You Stole My Heart (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1589891": {
+   "d": "A Time for Bravery (2025): Comedy/Action film. Story: A psychoanalyst on community service aids an agent… See cast and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/gtuXARxjGdfsGFqEwggBB8zUJza.jpg",
+   "industry": "world",
+   "k": "A Time for Bravery, A Time for Bravery movie, A Time for Bravery cast, A Time for Bravery story, A Time for Bravery box office collection, A Time for Bravery budget, A Time for Bravery review, A Time for Bravery rating, A Time for Bravery release date, A Time for Bravery Comedy, A Time for Bravery Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Luis Gerardo Méndez"
+     },
+     {
+      "@type": "Person",
+      "name": "Memo Villegas"
+     },
+     {
+      "@type": "Person",
+      "name": "Christian Tappan"
+     },
+     {
+      "@type": "Person",
+      "name": "Verónica Bravo"
+     },
+     {
+      "@type": "Person",
+      "name": "Enrique Arreola"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 117,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "A Time for Bravery (2025): Comedy/Action film. Story: A psychoanalyst on community service aids an agent… See cast and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ariel Winograd"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Comedy",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gtuXARxjGdfsGFqEwggBB8zUJza.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1589891",
+    "name": "A Time for Bravery",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1589891"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Time for Bravery (2025)</h1>\n<p class=\"ssr-lead\">A psychoanalyst on community service aids an agent shattered by infidelity; together, they will confront danger and discover second chances.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 December 2025</li><li>Runtime: 107 minutes</li><li>Director: Ariel Winograd</li><li>Genres: Comedy, Action</li><li>TMDB rating: 7.5/10 (117 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Luis Gerardo Méndez as Mariano Silverstein</li><li>Memo Villegas as Alfredo Díaz Peralta</li><li>Christian Tappan as Gerardo Solares</li><li>Verónica Bravo as Diana</li><li>Enrique Arreola as comisario Ricardo de la Torre</li><li>Noé Hernández as Sosa</li><li>Fernando Cuautle as Montijo</li><li>Iván Aragón as Marcos/”El Chuky”</li><li>Fermín Martínez as el contador</li><li>Marco Antonio de La O as Ignacio Barrera</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "A Time for Bravery (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1596291": {
+   "d": "Queen of Chess (2026): Documentary film. Story: A Hungarian girl dreams of conquering international… See cast and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/y5haKgSz1hCDatwIOMuqZ1CFKPW.jpg",
+   "industry": "world",
+   "k": "Queen of Chess, Queen of Chess movie, Queen of Chess cast, Queen of Chess story, Queen of Chess box office collection, Queen of Chess budget, Queen of Chess review, Queen of Chess rating, Queen of Chess release date, Queen of Chess trailer, Queen of Chess Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Judit Polgár"
+     },
+     {
+      "@type": "Person",
+      "name": "Garry Kasparov"
+     },
+     {
+      "@type": "Person",
+      "name": "László Polgár"
+     },
+     {
+      "@type": "Person",
+      "name": "Sofia Polgár"
+     },
+     {
+      "@type": "Person",
+      "name": "Klára Polgár"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 82,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Queen of Chess (2026): Documentary film. Story: A Hungarian girl dreams of conquering international… See cast and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rory Kennedy"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/y5haKgSz1hCDatwIOMuqZ1CFKPW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1596291",
+    "name": "Queen of Chess",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1596291"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Queen of Chess (2026)</h1>\n<p class=\"ssr-lead\">A Hungarian girl dreams of conquering international men’s chess. After a 15-year battle against world champion Garry Kasparov and her domineering father, Judit Polgár revolutionizes the sport’s patriarchal culture to become one of the greatest chess prodigies in history and the greatest woman chess player of all time.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 January 2026</li><li>Runtime: 93 minutes</li><li>Director: Rory Kennedy</li><li>Genres: Documentary</li><li>TMDB rating: 7.6/10 (82 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Judit Polgár as Self</li><li>Garry Kasparov as Self</li><li>László Polgár as Self</li><li>Sofia Polgár as Self</li><li>Klára Polgár as Self</li><li>Gustáv Font as Self</li><li>Anna Rudolf as Self</li><li>Jovanka Houska as Self</li><li>Maurice Ashley as Self</li><li>William Hartston as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Queen of Chess (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1620991": {
+   "d": "The Investigation of Lucy Letby (2026): Documentary/Crime film. Story: An engaging and thought-provoking look at Lucy Letby… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qhSfXdkrIzwYsyQ3Z9ehFmO3zjy.jpg",
+   "industry": "world",
+   "k": "The Investigation of Lucy Letby, The Investigation of Lucy Letby movie, The Investigation of Lucy Letby cast, The Investigation of Lucy Letby story, The Investigation of Lucy Letby box office collection, The Investigation of Lucy Letby budget, The Investigation of Lucy Letby review, The Investigation of Lucy Letby rating, The Investigation of Lucy Letby release date, The Investigation of Lucy Letby trailer, The Investigation of Lucy Letby Documentary, The Investigation of Lucy Letby Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lucy Letby"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 80,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "The Investigation of Lucy Letby (2026): Documentary/Crime film. Story: An engaging and thought-provoking look at Lucy Letby… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Dominic Sivyer"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Documentary",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qhSfXdkrIzwYsyQ3Z9ehFmO3zjy.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1620991",
+    "name": "The Investigation of Lucy Letby",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1620991"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Investigation of Lucy Letby (2026)</h1>\n<p class=\"ssr-lead\">An engaging and thought-provoking look at Lucy Letby, the former nurse serving life in prison after being convicted of the murders of seven infants and the attempted murders of seven others.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 February 2026</li><li>Runtime: 95 minutes</li><li>Director: Dominic Sivyer</li><li>Genres: Documentary, Crime</li><li>TMDB rating: 6.3/10 (80 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lucy Letby as Self (archive footage)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Investigation of Lucy Letby (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1636891": {
+   "d": "Mexicali (2026): Action/Drama film. Story: A former special forces contractor is forced out of… See cast, TMDB rating 7.7/10, and release date 13 March 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/8gYYyfZncOnpC8nl2SHyVKmbvw9.jpg",
+   "industry": "world",
+   "k": "Mexicali, Mexicali movie, Mexicali cast, Mexicali story, Mexicali box office collection, Mexicali budget, Mexicali review, Mexicali rating, Mexicali release date, Mexicali trailer, Mexicali Action, Mexicali Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bren Foster"
+     },
+     {
+      "@type": "Person",
+      "name": "Tania Raymonde"
+     },
+     {
+      "@type": "Person",
+      "name": "Plutarco Haza"
+     },
+     {
+      "@type": "Person",
+      "name": "Kris Van Damme"
+     },
+     {
+      "@type": "Person",
+      "name": "Louis Mandylor"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 83,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Mexicali (2026): Action/Drama film. Story: A former special forces contractor is forced out of… See cast, TMDB rating 7.7/10, and release date 13 March 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Luke LaFontaine"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8gYYyfZncOnpC8nl2SHyVKmbvw9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1636891",
+    "name": "Mexicali",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1636891"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mexicali (2026)</h1>\n<p class=\"ssr-lead\">A former special forces contractor is forced out of retirement as an avocado farmer in Mexico when local gangsters try to force him and his family off their farm.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 March 2026</li><li>Runtime: 99 minutes</li><li>Director: Luke LaFontaine</li><li>Genres: Action, Drama</li><li>TMDB rating: 7.7/10 (83 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bren Foster as Joe</li><li>Tania Raymonde as Estrella</li><li>Plutarco Haza as Baptiste</li><li>Kris Van Damme as Ruthie</li><li>Louis Mandylor as Sue</li><li>Roman Phillips as Manuel Lopez</li><li>Daniel Enrique Montilla as Marco</li><li>Edgar de Santiago as Chavez</li><li>Jessica Medina as Maria The Market Trader</li><li>Cutty Mac as Pit Fight Promoter</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Mexicali (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:175291": {
    "d": "Cheap Thrills (2013): Comedy/Crime film. Story: Recently fired and facing eviction, a new dad has his… See cast, budget $200.0k, and TMDB rating 6.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/1jpP5hIgpEX1mZK4uGZEVkwscJo.jpg",
@@ -257,6 +954,61 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Cheap Thrills (2013)</h1>\n<p class=\"ssr-lead\">Recently fired and facing eviction, a new dad has his life turned upside down when he meets a wealthy couple who offer a path to financial security... but at a price.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 March 2013</li><li>Runtime: 88 minutes</li><li>Director: E.L. Katz</li><li>Genres: Comedy, Crime, Thriller</li><li>Budget: $200.0k</li><li>TMDB rating: 6.4/10 (472 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pat Healy as Craig</li><li>Ethan Embry as Vince</li><li>Sara Paxton as Violet</li><li>David Koechner as Colin</li><li>Amanda Fuller as Audrey</li><li>Laura Covelli as Caryn</li><li>Elissa Dowling as Tweaker</li><li>Todd Farmer as Security Guard</li><li>Eric Neil Gutierrez as Enrique</li><li>Sam Ketcherside as Angry Stripper</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: AMC+ Amazon Channel, Shudder Amazon Channel, Shudder Apple TV channel, ARROW</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Cheap Thrills (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
+  },
+  "movie:1755291": {
+   "d": "NAZA (2026): Documentary film. Story: Filmed at night from Tel Aviv rooftops, this… See cast, TMDB rating 8.0/10, and release date 25 September 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/inju8joDtL7KHtlFEGjFZ2UuqFa.jpg",
+   "industry": "world",
+   "k": "NAZA, NAZA movie, NAZA cast, NAZA story, NAZA box office collection, NAZA budget, NAZA review, NAZA rating, NAZA release date, NAZA trailer, NAZA Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Yuval Abraham"
+     },
+     {
+      "@type": "Person",
+      "name": "Benjamin Netanyahu"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 143,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "NAZA (2026): Documentary film. Story: Filmed at night from Tel Aviv rooftops, this… See cast, TMDB rating 8.0/10, and release date 25 September 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Yuval Abraham"
+     },
+     {
+      "@type": "Person",
+      "name": "Rachel Szor"
+     }
+    ],
+    "duration": "PT77M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/inju8joDtL7KHtlFEGjFZ2UuqFa.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1755291",
+    "name": "NAZA",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1755291"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>NAZA (2026)</h1>\n<p class=\"ssr-lead\">Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel&#x27;s military operations in Gaza and the systems behind targeted killings of Palestinians.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 September 2026</li><li>Runtime: 77 minutes</li><li>Director: Yuval Abraham, Rachel Szor</li><li>Genres: Documentary</li><li>TMDB rating: 8.0/10 (143 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yuval Abraham as Self</li><li>Benjamin Netanyahu as Self (archive footage) (uncredited)</li></ul>\n</article>",
+   "t": "NAZA (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:335791": {
    "d": "When the Bough Breaks (2016): Drama/Thriller film. Story: A surrogate mother harbors a deadly secret desire for… See cast, budget $10M, and TMDB rating 5.8/10.",

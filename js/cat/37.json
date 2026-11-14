@@ -1,6 +1,6 @@
 {
  "bucket": "37",
- "count": 13,
+ "count": 25,
  "titles": {
   "movie:10337": {
    "backdrop_path": "/t353Hj5sFXWQFriVzB1GiT3TSlm.jpg",
@@ -227,6 +227,1268 @@
    "type": "movie",
    "vote_average": 6.922,
    "vote_count": 483
+  },
+  "movie:1242937": {
+   "backdrop_path": "/fAF3VGFBpItWNROmiGob60n0y5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Anne",
+     "n": "Sophie Turner"
+    },
+    {
+     "c": "Jago",
+     "n": "Kit Harington"
+    },
+    {
+     "c": "Morwen",
+     "n": "Marcia Gay Harden"
+    },
+    {
+     "c": "Seamus",
+     "n": "Laurence O'Fuarain"
+    },
+    {
+     "c": "Brother Penros",
+     "n": "Jonathan Howard"
+    },
+    {
+     "c": "Narrator",
+     "n": "Catherine McDonough"
+    },
+    {
+     "c": "Young Jago",
+     "n": "Zachary Cohen"
+    },
+    {
+     "c": "Young shipwreck sailor",
+     "n": "Isidro-Lucking Dylan"
+    },
+    {
+     "c": "Older shipwreck sailor",
+     "n": "Nik Harber"
+    },
+    {
+     "c": "Merchant",
+     "n": "Jürgen Koenen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Natasha Kermani"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 1242937,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In medieval England, Anne and her domineering mother-in-law Morwen struggle to survive on the outskirts of society. But when a man from Anne's past returns from war, a curse begins to take shape through a mysterious knight and threatens to destroy them all.",
+   "popularity": 3.5238,
+   "poster_path": "/nhhJkYau8nQMFgauvOudDjwj9vA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-05",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In a country torn by war, survival comes at all costs… and darkness closes in.",
+   "title": "The Dreadful",
+   "trailer": {
+    "key": "wqlS6E3yv0Q",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 85
+  },
+  "movie:1263337": {
+   "backdrop_path": "/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
+   "budget": 82000000,
+   "cast": [
+    {
+     "c": "James Belmont",
+     "n": "Brad Pitt"
+    },
+    {
+     "c": "Watkins",
+     "n": "J.K. Simmons"
+    },
+    {
+     "c": "Amber",
+     "n": "Anna Lambe"
+    },
+    {
+     "c": "Military Soldier",
+     "n": "Justin Melnick"
+    },
+    {
+     "c": "Military Soldier",
+     "n": "Shaun DeZern"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "David Ayer"
+   ],
+   "genres": [
+    "Adventure",
+    "Thriller"
+   ],
+   "id": 1263337,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+   "popularity": 558.5362,
+   "poster_path": "/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-25",
+   "revenue": 188966885,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Survival depends on their bond.",
+   "title": "Heart of the Beast",
+   "trailer": {
+    "key": "UkMuGKqAux4",
+    "name": "New International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.539,
+   "vote_count": 731
+  },
+  "movie:1272837": {
+   "backdrop_path": "/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
+   "budget": 63000000,
+   "cast": [
+    {
+     "c": "Dr. Kelson",
+     "n": "Ralph Fiennes"
+    },
+    {
+     "c": "Spike",
+     "n": "Alfie Williams"
+    },
+    {
+     "c": "Sir Jimmy Crystal",
+     "n": "Jack O'Connell"
+    },
+    {
+     "c": "Jimmy Ink",
+     "n": "Erin Kellyman"
+    },
+    {
+     "c": "Samson",
+     "n": "Chi Lewis-Parry"
+    },
+    {
+     "c": "Jimmy Shite",
+     "n": "Connor Newall"
+    },
+    {
+     "c": "Jimmy Jones",
+     "n": "Maura Bird"
+    },
+    {
+     "c": "Jimmy Snake",
+     "n": "Ghazi Al Ruffai"
+    },
+    {
+     "c": "Jimmy Jimmy",
+     "n": "Robert Rhodes"
+    },
+    {
+     "c": "Jimmima",
+     "n": "Emma Laird"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Nia DaCosta"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 1272837,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
+   "popularity": 13.2083,
+   "poster_path": "/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-16",
+   "revenue": 58527279,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fear is the new faith.",
+   "title": "28 Years Later: The Bone Temple",
+   "trailer": {
+    "key": "rl_DJZCyEH4",
+    "name": "International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.096,
+   "vote_count": 1941
+  },
+  "movie:1341137": {
+   "backdrop_path": "/iQodpfb5trczzmqxAgnsUYPw2rv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Benjamin Franklin",
+     "n": "John Paul Sneed"
+    },
+    {
+     "c": "George Whitefield",
+     "n": "Jonathan Blair"
+    },
+    {
+     "c": "Benny Franklin Bache",
+     "n": "JT Schaeffer"
+    },
+    {
+     "c": "Alexander Hamilton",
+     "n": "Josh Bates"
+    },
+    {
+     "c": "Bread vendor",
+     "n": "Joe Dignoti"
+    },
+    {
+     "c": "William Blount",
+     "n": "Stephen Foster Harris"
+    },
+    {
+     "c": "Caleb Strong",
+     "n": "Zac Johnson"
+    },
+    {
+     "c": "Robert Yates",
+     "n": "Matt Meyer"
+    },
+    {
+     "c": "Gunning Bedford Jr.",
+     "n": "Stephen Atherholt"
+    },
+    {
+     "c": "William Seward",
+     "n": "Ryan Jameson Hippe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Joshua Enck"
+   ],
+   "genres": [
+    "History",
+    "Drama"
+   ],
+   "id": 1341137,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "One of the most defining moments in American history is the story of an unlikely friendship between the Reverend George Whitefield and Benjamin Franklin.",
+   "popularity": 4.8201,
+   "poster_path": "/dXeeDRLGpTX1U97lWBAwQeeplsW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Wonder Project Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-03",
+   "revenue": 4900750,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Before the American Revolution, there was a revelation.",
+   "title": "A Great Awakening",
+   "trailer": {
+    "key": "H4-rMC88ylQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 32
+  },
+  "movie:1368337": {
+   "backdrop_path": "/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+   "budget": 250000000,
+   "cast": [
+    {
+     "c": "Odysseus",
+     "n": "Matt Damon"
+    },
+    {
+     "c": "Telemachus",
+     "n": "Tom Holland"
+    },
+    {
+     "c": "Penelope",
+     "n": "Anne Hathaway"
+    },
+    {
+     "c": "Antinous",
+     "n": "Robert Pattinson"
+    },
+    {
+     "c": "Eurylochus",
+     "n": "Himesh Patel"
+    },
+    {
+     "c": "Calypso",
+     "n": "Charlize Theron"
+    },
+    {
+     "c": "Eumaeus",
+     "n": "John Leguizamo"
+    },
+    {
+     "c": "Bard",
+     "n": "Travis Scott"
+    },
+    {
+     "c": "Polybus",
+     "n": "Corey Hawkins"
+    },
+    {
+     "c": "Leodes",
+     "n": "Jarreth J. Merz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Christopher Nolan"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Fantasy"
+   ],
+   "id": 1368337,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+   "popularity": 452.6652,
+   "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-17",
+   "revenue": 1804356298,
+   "runtime": 173,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Defy the gods.",
+   "title": "The Odyssey",
+   "trailer": {
+    "key": "AyIZ9tiiN8I",
+    "name": "Official Countdown Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.0,
+   "vote_count": 4765
+  },
+  "movie:1377237": {
+   "backdrop_path": "/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+   "budget": 45000000,
+   "cast": [
+    {
+     "c": "Hank Malone",
+     "n": "Alan Ritchson"
+    },
+    {
+     "c": "Ben Bishop",
+     "n": "Owen Wilson"
+    },
+    {
+     "c": "Damian Zaldivar",
+     "n": "Rodrigo Santoro"
+    },
+    {
+     "c": "Kate Baker",
+     "n": "Leila George"
+    },
+    {
+     "c": "Dr. Ainsley",
+     "n": "Kate Box"
+    },
+    {
+     "c": "Nurse Julie",
+     "n": "Peta Sergeant"
+    },
+    {
+     "c": "Donna Zaldivar",
+     "n": "Cecilia Toussaint"
+    },
+    {
+     "c": "Monica",
+     "n": "Geraldine Hakewill"
+    },
+    {
+     "c": "Luke",
+     "n": "Goran D. Kleut"
+    },
+    {
+     "c": "Ellie Baker",
+     "n": "Scarlett Crabtree"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Scott Waugh"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Thriller"
+   ],
+   "id": 1377237,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+   "popularity": 54.4302,
+   "poster_path": "/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg",
+   "production_countries": [
+    "US",
+    "AU",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Angel Studios"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-25",
+   "revenue": 18094381,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt",
+    "es",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Next-day delivery isn't an option.",
+   "title": "Runner",
+   "trailer": {
+    "key": "B6Z9MM1LhEA",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.206,
+   "vote_count": 838
+  },
+  "movie:1378537": {
+   "backdrop_path": "/nTkQBI8ldvPByIkxsemGxtKlr8E.jpg",
+   "budget": 8766456,
+   "cast": [
+    {
+     "c": "Akhandanand 'Kaleen' Tripathi",
+     "n": "Pankaj Tripathi"
+    },
+    {
+     "c": "Govind 'Guddu' Pandit",
+     "n": "Ali Fazal"
+    },
+    {
+     "c": "Phoolchand 'Munna' Tripathi",
+     "n": "Divyendu Sharma"
+    },
+    {
+     "c": "Vinay 'Bablu' Pandit",
+     "n": "Jitendra Kumar"
+    },
+    {
+     "c": "Babban Babua",
+     "n": "Ravi Kishan"
+    },
+    {
+     "c": "Beena Tripathi",
+     "n": "Rasika Dugal"
+    },
+    {
+     "c": "Birju Lohar",
+     "n": "Mohit Malik"
+    },
+    {
+     "c": "Vasudha Pandit",
+     "n": "Sheeba Chaddha"
+    },
+    {
+     "c": "'Compounder' Subodh",
+     "n": "Abhishek Banerjee"
+    },
+    {
+     "c": "Swaragini 'Sweety' Gupta",
+     "n": "Shriya Pilgaonkar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Gurmmeet Singh"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 1378537,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "Akhandanand Tripathi sits on the throne of Mirzapur. Munna Tripathi is heir apparent. Rati Shankar Shukla is the rival from Jaunpur. And, Guddu and Bablu are the two brothers who came like a tornado and changed things irreversibly. And now comes a new claimant in town. Babban Babua, from the desert of Jaisalmer. A ruthless man who is power hungry.",
+   "popularity": 7.6671,
+   "poster_path": "/tCyTNhOv8NB1iK3U95spJdCaQED.jpg",
+   "production_countries": [
+    "IN",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-04",
+   "revenue": 5283905,
+   "runtime": 197,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "Witness the epic untold story.",
+   "title": "Mirzapur: The Movie",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 28
+  },
+  "movie:1400837": {
+   "backdrop_path": "/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Ursula Martin / Other Mommy",
+     "n": "Jessica Chastain"
+    },
+    {
+     "c": "Isabela \"Bela\" Martin",
+     "n": "Arabella Olivia Clark"
+    },
+    {
+     "c": "Russell \"Russ\" Martin",
+     "n": "Jay Duplass"
+    },
+    {
+     "c": "Ruth Martin",
+     "n": "Karen Allen"
+    },
+    {
+     "c": "Frank",
+     "n": "Arian Moayed"
+    },
+    {
+     "c": "Kelvin",
+     "n": "Sean Kaufman"
+    },
+    {
+     "c": "Lois Anthony",
+     "n": "Dichen Lachman"
+    },
+    {
+     "c": "Brian",
+     "n": "Adam Silver"
+    },
+    {
+     "c": "Ruiss",
+     "n": "Alec Secăreanu"
+    },
+    {
+     "c": "Little Girl",
+     "n": "Millie Wood"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rob Savage"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 1400837,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+   "popularity": 253.1723,
+   "poster_path": "/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-07",
+   "revenue": 115955701,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Your mommy won't save you.",
+   "title": "Other Mommy",
+   "trailer": {
+    "key": "-mnTITqqiT0",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.158,
+   "vote_count": 335
+  },
+  "movie:1410937": {
+   "backdrop_path": "/cb4b4K3E2jBGaSjkuIkZHJHmoWG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Balan",
+     "n": "Adhisheshan K R"
+    },
+    {
+     "c": "Older Balan",
+     "n": "Muhammed Zinaan"
+    },
+    {
+     "c": "Amma",
+     "n": "Farzana Palathingal"
+    },
+    {
+     "c": "Abbas",
+     "n": "Tovino Thomas"
+    },
+    {
+     "c": "Pavithran K S",
+     "n": "Lal Jr."
+    },
+    {
+     "c": "Shamnath",
+     "n": "Beena Antony"
+    },
+    {
+     "c": "Francis Alex",
+     "n": "Girish A. D."
+    },
+    {
+     "c": "Ammachi",
+     "n": "Dolly June"
+    },
+    {
+     "c": "Sunny",
+     "n": "Anand Ekarshi"
+    },
+    {
+     "c": "Passerby",
+     "n": "Sanesh Guinness"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Chidambaram"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1410937,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "ml",
+   "overview": "A teenage boy searches for his missing mother following a turbulent childhood and her subsequent disappearance, exploring his search for closure and the truth about his past.",
+   "popularity": 1.7298,
+   "poster_path": "/boKxdR9tgXfkazf6yWgiDdleBy0.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Zee5"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-19",
+   "revenue": 0,
+   "runtime": 140,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ml"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Balan - The Boy",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.762,
+   "vote_count": 21
+  },
+  "movie:1575337": {
+   "backdrop_path": "/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kaguya (voice)",
+     "n": "Yuko Natsuyoshi"
+    },
+    {
+     "c": "Iroha Sakayori (voice)",
+     "n": "Anna Nagase"
+    },
+    {
+     "c": "Yachiyo Runami  (voice)",
+     "n": "Saori Hayami"
+    },
+    {
+     "c": "Akira Mikado / Asahi Sakayori (voice)",
+     "n": "Miyu Irino"
+    },
+    {
+     "c": "Rai Komazawa (voice)",
+     "n": "Yuma Uchida"
+    },
+    {
+     "c": "Noi Komazawa (voice)",
+     "n": "Yoshitsugu Matsuoka"
+    },
+    {
+     "c": "Roka Ayatsumugi (voice)",
+     "n": "Yoshino Aoyama"
+    },
+    {
+     "c": "Mami Isayama (voice)",
+     "n": "Konomi Kohara"
+    },
+    {
+     "c": "FUSHI (voice)",
+     "n": "Rie Kugimiya"
+    },
+    {
+     "c": "Otako the Loyal Dog (voice)",
+     "n": "Fairouz Ai"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Shingo Yamashita"
+   ],
+   "genres": [
+    "Animation",
+    "Fantasy",
+    "Music",
+    "Science Fiction"
+   ],
+   "id": 1575337,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Iroha's life gets knocked off its orbit when Kaguya, a carefree runaway from the Moon, moves in and convinces her to perform in a virtual world together.",
+   "popularity": 7.1013,
+   "poster_path": "/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-18",
+   "revenue": 20090000,
+   "runtime": 141,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Are you Princess Kaguya?",
+   "title": "Cosmic Princess Kaguya!",
+   "trailer": {
+    "key": "uine6d15yGE",
+    "name": "Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.1,
+   "vote_count": 133
+  },
+  "movie:1588237": {
+   "backdrop_path": "/9KZ0c6sPo8ssTvco409XR8PtYgm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "The Bride (voice)",
+     "n": "Uma Thurman"
+    },
+    {
+     "c": "Yuki (voice)",
+     "n": "Miyu Ishidate Roberts"
+    },
+    {
+     "c": "Bill (voice) (uncredited)",
+     "n": "Quentin Tarantino"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Quentin Tarantino"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Crime"
+   ],
+   "id": 1588237,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Visionary director Quentin Tarantino had a dream of a Kill Bill chapter that never made it to the silver screen, a chapter known as \"Yuki's Revenge.\" Over twenty years later, Tarantino and Epic have come together to bring the story to life in Fortnite.",
+   "popularity": 3.0163,
+   "poster_path": "/x14YpgJ9Z77vufopLaPGDFSftcM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-05",
+   "revenue": 0,
+   "runtime": 10,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Lost Chapter: Yuki's Revenge",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.988,
+   "vote_count": 86
   },
   "movie:16237": {
    "backdrop_path": "/fey7NzJ61KAAVPfUgcpaahW5gZ5.jpg",
@@ -793,6 +2055,130 @@
    "type": "movie",
    "vote_average": 7.5,
    "vote_count": 475
+  },
+  "movie:801937": {
+   "backdrop_path": "/bOHF8j3A5FadUl1eDaVpWW1w3xY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Billy Chapman",
+     "n": "Rohan Campbell"
+    },
+    {
+     "c": "Pamela Sims",
+     "n": "Ruby Modine"
+    },
+    {
+     "c": "Charlie (Shotgun Santa)",
+     "n": "Mark Acheson"
+    },
+    {
+     "c": "Dean Sims",
+     "n": "David Lawrence Brown"
+    },
+    {
+     "c": "Max Benedict",
+     "n": "David Tomlinson"
+    },
+    {
+     "c": "Young Billy",
+     "n": "Logan Sawyer"
+    },
+    {
+     "c": "Geoffrey Chapman",
+     "n": "Erik Athavale"
+    },
+    {
+     "c": "Elroy (The Snatcher)",
+     "n": "Rick Skene"
+    },
+    {
+     "c": "Harold",
+     "n": "James Durham"
+    },
+    {
+     "c": "Delphine Anderson",
+     "n": "Sharon Bajer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Mike P. Nelson"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 801937,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After witnessing his parents' brutal murder on Christmas Eve, Billy transforms into a Killer Santa, delivering a yearly spree of calculated, chilling violence. This year, his blood-soaked mission collides with love, as a young woman challenges him to confront his darkness.",
+   "popularity": 5.3237,
+   "poster_path": "/xCdSd7NnRdnL8DGLVhI95WhUNoi.jpg",
+   "production_countries": [
+    "CA",
+    "US",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-12",
+   "revenue": 5586884,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Santa's gonna slay.",
+   "title": "Silent Night, Deadly Night",
+   "trailer": {
+    "key": "qcpcOUW0nbo",
+    "name": "International Red Band Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.546,
+   "vote_count": 217
   },
   "tv:12637": {
    "backdrop_path": "/coHgKyLRwhbMktEWr6dwSYUg2BH.jpg",

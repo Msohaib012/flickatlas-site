@@ -1,7 +1,245 @@
 {
  "bucket": "33",
- "count": 13,
+ "count": 18,
  "titles": {
+  "movie:1202033": {
+   "d": "Enola Holmes 3 (2026): Adventure/Crime film. Story: Adventure follows detective Enola Holmes to Malta… See cast and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+   "industry": "world",
+   "k": "Enola Holmes 3, Enola Holmes 3 movie, Enola Holmes 3 cast, Enola Holmes 3 story, Enola Holmes 3 box office collection, Enola Holmes 3 budget, Enola Holmes 3 review, Enola Holmes 3 rating, Enola Holmes 3 release date, Enola Holmes 3 trailer, Enola Holmes 3 Adventure, Enola Holmes 3 Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Millie Bobby Brown"
+     },
+     {
+      "@type": "Person",
+      "name": "Henry Cavill"
+     },
+     {
+      "@type": "Person",
+      "name": "Helena Bonham Carter"
+     },
+     {
+      "@type": "Person",
+      "name": "Louis Partridge"
+     },
+     {
+      "@type": "Person",
+      "name": "Himesh Patel"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 770,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Enola Holmes 3 (2026): Adventure/Crime film. Story: Adventure follows detective Enola Holmes to Malta… See cast and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Philip Barantini"
+     }
+    ],
+    "duration": "PT109M",
+    "genre": [
+     "Adventure",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1202033",
+    "name": "Enola Holmes 3",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1202033"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Enola Holmes 3 (2026)</h1>\n<p class=\"ssr-lead\">Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock&#x27;s disappearance plunges her into a perilous case.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 June 2026</li><li>Runtime: 109 minutes</li><li>Director: Philip Barantini</li><li>Genres: Adventure, Crime, Mystery</li><li>TMDB rating: 6.6/10 (770 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Millie Bobby Brown as Enola Holmes</li><li>Henry Cavill as Sherlock Holmes</li><li>Helena Bonham Carter as Eudoria Holmes</li><li>Louis Partridge as Tewkesbury</li><li>Himesh Patel as Dr. Watson</li><li>Sharon Duncan-Brewster as Moriarty</li><li>Hattie Morahan as Lady Tewkesbury</li><li>Susan Wokoma as Edith</li><li>Joe Azzopardi as Mikiel</li><li>Nicholas Aaron as Sergeant Nicholas Smith</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Enola Holmes 3 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1255833": {
+   "d": "Whalefall (2026): Thriller film. Story: Following the death of his father, Jay Gardiner goes… See cast, budget $60M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+   "industry": "world",
+   "k": "Whalefall, Whalefall movie, Whalefall cast, Whalefall story, Whalefall box office collection, Whalefall budget, Whalefall review, Whalefall rating, Whalefall release date, Whalefall trailer, Whalefall Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Austin Abrams"
+     },
+     {
+      "@type": "Person",
+      "name": "Josh Brolin"
+     },
+     {
+      "@type": "Person",
+      "name": "Elisabeth Shue"
+     },
+     {
+      "@type": "Person",
+      "name": "John Ortiz"
+     },
+     {
+      "@type": "Person",
+      "name": "Jane Levy"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 145,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Whalefall (2026): Thriller film. Story: Following the death of his father, Jay Gardiner goes… See cast, budget $60M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Brian Duffield"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1255833",
+    "name": "Whalefall",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1255833"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Whalefall (2026)</h1>\n<p class=\"ssr-lead\">Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 October 2026</li><li>Runtime: 106 minutes</li><li>Director: Brian Duffield</li><li>Genres: Thriller</li><li>Budget: $60M</li><li>TMDB rating: 6.6/10 (145 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Austin Abrams as Jay Gardiner</li><li>Josh Brolin as Mitt Gardiner</li><li>Elisabeth Shue as Zara Gardiner</li><li>John Ortiz as Hewey</li><li>Jane Levy as Eva Gardiner</li><li>Emily Rudd as Nan Gardiner</li><li>Kamy D. Bruder as Whale Watcher Man</li><li>Mark Meloro Jr. as Whale Watcher Man</li><li>Sam Franich as Jay at 10</li><li>Nicholas Gould as US Coast Guard Petty Officer Third Class Whaley</li></ul>\n</article>",
+   "t": "Whalefall (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1630433": {
+   "d": "The Red Line (2026): Thriller/Crime film. Story: Three women fall prey to a ruthless phone scam. To… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qbbx3NDw6FrtQSrKdxn9n72xJzO.jpg",
+   "industry": "world",
+   "k": "The Red Line, The Red Line movie, The Red Line cast, The Red Line story, The Red Line box office collection, The Red Line budget, The Red Line review, The Red Line rating, The Red Line release date, The Red Line trailer, The Red Line Thriller, The Red Line Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nittha Jirayungyurn"
+     },
+     {
+      "@type": "Person",
+      "name": "Esther Supreeleela"
+     },
+     {
+      "@type": "Person",
+      "name": "Chutima Maholakul"
+     },
+     {
+      "@type": "Person",
+      "name": "Todsapol Maisuk"
+     },
+     {
+      "@type": "Person",
+      "name": "Tonhon Tantivejakul"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 83,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "The Red Line (2026): Thriller/Crime film. Story: Three women fall prey to a ruthless phone scam. To… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sitisiri Mongkolsiri"
+     }
+    ],
+    "duration": "PT135M",
+    "genre": [
+     "Thriller",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qbbx3NDw6FrtQSrKdxn9n72xJzO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1630433",
+    "name": "The Red Line",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1630433"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Red Line (2026)</h1>\n<p class=\"ssr-lead\">Three women fall prey to a ruthless phone scam. To settle the score, they&#x27;ll take on the criminal network that stole their money — and their dignity.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 March 2026</li><li>Runtime: 135 minutes</li><li>Director: Sitisiri Mongkolsiri</li><li>Genres: Thriller, Crime, Drama</li><li>TMDB rating: 6.9/10 (83 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nittha Jirayungyurn as Orn</li><li>Esther Supreeleela as Fai</li><li>Chutima Maholakul as Wawwow</li><li>Todsapol Maisuk as Aood</li><li>Tonhon Tantivejakul as OJ</li><li>Paowalee Pornpimol as Yui</li><li>Akarat Nimitchai as Mark</li><li>Nuttanan Kunpat as Amy</li><li>Tony Chen as Wei</li><li>Phongsakan Sonklin as Mac</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Red Line (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1666433": {
+   "d": "Trevor Noah: Joy in the Trenches (2026): Comedy film. Story: From unexpected social media beef to a therapist's… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vSTlbow1yx2L85EEUhFiJOMo4LY.jpg",
+   "industry": "world",
+   "k": "Trevor Noah: Joy in the Trenches, Trevor Noah: Joy in the Trenches movie, Trevor Noah: Joy in the Trenches cast, Trevor Noah: Joy in the Trenches story, Trevor Noah: Joy in the Trenches box office collection, Trevor Noah: Joy in the Trenches budget, Trevor Noah: Joy in the Trenches review, Trevor Noah: Joy in the Trenches rating, Trevor Noah: Joy in the Trenches release date, Trevor Noah: Joy in the Trenches trailer, Trevor Noah: Joy in the Trenches Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Trevor Noah"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 24,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Trevor Noah: Joy in the Trenches (2026): Comedy film. Story: From unexpected social media beef to a therapist's… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Paul Meyer"
+     }
+    ],
+    "duration": "PT68M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vSTlbow1yx2L85EEUhFiJOMo4LY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1666433",
+    "name": "Trevor Noah: Joy in the Trenches",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1666433"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Trevor Noah: Joy in the Trenches (2026)</h1>\n<p class=\"ssr-lead\">From unexpected social media beef to a therapist&#x27;s truth bomb, Trevor Noah turns chaos into comedy in this hilariously sharp, playful stand-up set.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 April 2026</li><li>Runtime: 68 minutes</li><li>Director: David Paul Meyer</li><li>Genres: Comedy</li><li>TMDB rating: 6.8/10 (24 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Trevor Noah as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Trevor Noah: Joy in the Trenches (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:248933": {
    "d": "The Dark Valley (2014): Drama/Thriller film. Story: The Alps, late 19th century. Greider, a mysterious… See cast, budget $6.88M, and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/fXHT6tTLVCchwrsFkpTyqtUcsCy.jpg",
@@ -257,6 +495,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Princess Switch 3: Romancing the Star (2021)</h1>\n<p class=\"ssr-lead\">A priceless relic is stolen from identical royals Queen Margaret and Princess Stacy, who enlist the help of their sketchy look-alike cousin Fiona Pembroke to retrieve it.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 November 2021</li><li>Runtime: 106 minutes</li><li>Director: Mike Rohl</li><li>Genres: Romance, Comedy</li><li>TMDB rating: 6.7/10 (483 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vanessa Hudgens as Stacy De Novo / Margaret Delacourt / Fiona Pembroke</li><li>Remy Hii as Peter Maxwell</li><li>Sam Palladio as Edward Wyndham</li><li>Nick Sagar as Kevin Richards</li><li>Amanda Donohoe as Bianca Pembroke</li><li>Florence Hall as Mindy</li><li>Ricky Norwood as Reggie</li><li>Suanne Braun as Donatelli</li><li>Sian Ejiwunmi-Le Berre as Moretti</li><li>Mark Fleischmann as Frank</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "The Princess Switch 3: Romancing the Star (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
+  },
+  "movie:83533": {
+   "d": "Avatar: Fire and Ash (2025): Science Fiction/Adventure film. Story: In the wake of the devastating war against the RDA… See cast and budget $350M.",
+   "img": "https://image.tmdb.org/t/p/w780/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+   "industry": "world",
+   "k": "Avatar: Fire and Ash, Avatar: Fire and Ash movie, Avatar: Fire and Ash cast, Avatar: Fire and Ash story, Avatar: Fire and Ash box office collection, Avatar: Fire and Ash budget, Avatar: Fire and Ash review, Avatar: Fire and Ash rating, Avatar: Fire and Ash release date, Avatar: Fire and Ash trailer, Avatar: Fire and Ash Science Fiction, Avatar: Fire and Ash Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sam Worthington"
+     },
+     {
+      "@type": "Person",
+      "name": "Zoe Saldaña"
+     },
+     {
+      "@type": "Person",
+      "name": "Sigourney Weaver"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephen Lang"
+     },
+     {
+      "@type": "Person",
+      "name": "Oona Chaplin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 4684,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Avatar: Fire and Ash (2025): Science Fiction/Adventure film. Story: In the wake of the devastating war against the RDA… See cast and budget $350M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James Cameron"
+     }
+    ],
+    "duration": "PT198M",
+    "genre": [
+     "Science Fiction",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=83533",
+    "name": "Avatar: Fire and Ash",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=83533"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Avatar: Fire and Ash (2025)</h1>\n<p class=\"ssr-lead\">In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na&#x27;vi tribe led by the ruthless Varang. Jake&#x27;s family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 December 2025</li><li>Runtime: 198 minutes</li><li>Director: James Cameron</li><li>Genres: Science Fiction, Adventure, Fantasy</li><li>Budget: $350M</li><li>TMDB rating: 7.6/10 (4684 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sam Worthington as Jake</li><li>Zoe Saldaña as Neytiri</li><li>Sigourney Weaver as Kiri</li><li>Stephen Lang as Quaritch</li><li>Oona Chaplin as Varang</li><li>Jack Champion as Spider</li><li>Kate Winslet as Ronal</li><li>Cliff Curtis as Tonowari</li><li>Joel David Moore as Norm</li><li>CCH Pounder as Mo&#x27;at</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Avatar: Fire and Ash (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
   },
   "tv:117933": {
    "d": "Summer Time Rendering (2022) is an Animation and Drama TV series. Explore its story: Shinpei Ajiro travels home to attend the funeral of a…, cast, and 1 season.",

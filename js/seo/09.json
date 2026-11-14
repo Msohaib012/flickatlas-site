@@ -1,7 +1,71 @@
 {
  "bucket": "09",
- "count": 22,
+ "count": 28,
  "titles": {
+  "movie:1002109": {
+   "d": "Flashback to the 80s (2026): Comedy/Crime film. Story: Paris, 1980s. When his old cop partner is killed in… See cast and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/h7VBwwztl4it7BSA6HsJR41nC37.jpg",
+   "industry": "world",
+   "k": "Flashback to the 80s, Flashback to the 80s movie, Flashback to the 80s cast, Flashback to the 80s story, Flashback to the 80s box office collection, Flashback to the 80s budget, Flashback to the 80s review, Flashback to the 80s rating, Flashback to the 80s release date, Flashback to the 80s Comedy, Flashback to the 80s Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "François Damiens"
+     },
+     {
+      "@type": "Person",
+      "name": "Audrey Lamy"
+     },
+     {
+      "@type": "Person",
+      "name": "Thomas Ngijol"
+     },
+     {
+      "@type": "Person",
+      "name": "Xavier Lacaille"
+     },
+     {
+      "@type": "Person",
+      "name": "Brahim Bouhlel"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 70,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Flashback to the 80s (2026): Comedy/Crime film. Story: Paris, 1980s. When his old cop partner is killed in… See cast and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jean-Baptiste Saurel"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/h7VBwwztl4it7BSA6HsJR41nC37.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1002109",
+    "name": "Flashback to the 80s",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1002109"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Flashback to the 80s (2026)</h1>\n<p class=\"ssr-lead\">Paris, 1980s. When his old cop partner is killed in action, Yvon Kastendeuch is propelled to the head of a new unit : Police Flash 80. There, he&#x27;ll have to team up with young recruits who will challenge his old &quot;dominant male&quot; habits.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 March 2026</li><li>Runtime: 86 minutes</li><li>Director: Jean-Baptiste Saurel</li><li>Genres: Comedy, Crime</li><li>TMDB rating: 5.9/10 (70 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>François Damiens as Yvon</li><li>Audrey Lamy as Guilaine</li><li>Thomas Ngijol as Luc Le Timal</li><li>Xavier Lacaille as Roberto</li><li>Brahim Bouhlel as Marfoud</li><li>Yan Tual as Boris</li><li>Philippe Rebbot</li><li>Hamed Souna as Voisin</li><li>Guillaume Bouttemy as Un policier scientifique</li></ul>\n</article>",
+   "t": "Flashback to the 80s (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:12609": {
    "d": "Help! I'm a Fish (2000): Adventure/Animation film. Story: Three children are accidentally transformed into fish… See cast, budget $18M, and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/yQ0eSp9Cfpixnp1EvFpFWQzKhB5.jpg",
@@ -70,6 +134,134 @@
    "t": "Help! I'm a Fish (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2000"
   },
+  "movie:1265609": {
+   "d": "War Machine (2026): Action/Science Fiction film. Story: On one last grueling mission during Army Ranger… See cast, budget $80M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+   "industry": "world",
+   "k": "War Machine, War Machine movie, War Machine cast, War Machine story, War Machine box office collection, War Machine budget, War Machine review, War Machine rating, War Machine release date, War Machine trailer, War Machine Action, War Machine Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alan Ritchson"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephan James"
+     },
+     {
+      "@type": "Person",
+      "name": "Blake Richardson"
+     },
+     {
+      "@type": "Person",
+      "name": "Dennis Quaid"
+     },
+     {
+      "@type": "Person",
+      "name": "Esai Morales"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 2725,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "War Machine (2026): Action/Science Fiction film. Story: On one last grueling mission during Army Ranger… See cast, budget $80M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Patrick Hughes"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Action",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1265609",
+    "name": "War Machine",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1265609"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>War Machine (2026)</h1>\n<p class=\"ssr-lead\">On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 February 2026</li><li>Runtime: 110 minutes</li><li>Director: Patrick Hughes</li><li>Genres: Action, Science Fiction, Thriller</li><li>Budget: $80M</li><li>TMDB rating: 7.5/10 (2725 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alan Ritchson as 81</li><li>Stephan James as 7</li><li>Blake Richardson as 15</li><li>Dennis Quaid as Sheridan</li><li>Esai Morales as Torres</li><li>Jai Courtney as Squad Leader</li><li>Alex King as 44</li><li>Keiynan Lonsdale as 60</li><li>Jack Patten as 109</li><li>James Beaufort as 23</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "War Machine (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1268609": {
+   "d": "Pavane (2026): Romance/Drama film. Story: Three lonely strangers meet at their department store… See cast and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/atWzbjlDkfbkh4mdY3uuiF9vr3r.jpg",
+   "industry": "world",
+   "k": "Pavane, Pavane movie, Pavane cast, Pavane story, Pavane box office collection, Pavane budget, Pavane review, Pavane rating, Pavane release date, Pavane trailer, Pavane Romance, Pavane Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ko Asung"
+     },
+     {
+      "@type": "Person",
+      "name": "Moon Sang-min"
+     },
+     {
+      "@type": "Person",
+      "name": "Byun Yo-han"
+     },
+     {
+      "@type": "Person",
+      "name": "Lee E-dam"
+     },
+     {
+      "@type": "Person",
+      "name": "Han Yu-eun"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 71,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Pavane (2026): Romance/Drama film. Story: Three lonely strangers meet at their department store… See cast and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lee Jong-pil"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/atWzbjlDkfbkh4mdY3uuiF9vr3r.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1268609",
+    "name": "Pavane",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1268609"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pavane (2026)</h1>\n<p class=\"ssr-lead\">Three lonely strangers meet at their department store jobs and find solace in each other&#x27;s company while they explore connection and the nature of love.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 February 2026</li><li>Runtime: 113 minutes</li><li>Director: Lee Jong-pil</li><li>Genres: Romance, Drama</li><li>TMDB rating: 7.3/10 (71 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ko Asung as Mi-jung</li><li>Moon Sang-min as Kyung-rok</li><li>Byun Yo-han as Yo-han</li><li>Lee E-dam as Se-ra</li><li>Han Yu-eun as Hyeon-ji</li><li>Seo Yi-ra as Suk-hui</li><li>Shin Jung-keun as Kentucky Hope</li><li>Park Hae-joon as Kyung-rok&#x27;s Father</li><li>Lee Bong-ryeon as Kyung-rok&#x27;s Mother</li><li>Lee Sang-jin as Pretentious Guy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Pavane (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:13009": {
    "d": "Zombie Strippers! (2008): Comedy/Horror film. Story: In the not too distant future a secret government… See cast and TMDB rating 4.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/r1GnyDcTV0WkwqLsI52QPM04aTh.jpg",
@@ -134,6 +326,134 @@
    "t": "Zombie Strippers! (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2008"
   },
+  "movie:1418709": {
+   "d": "Brawlers (2026): Action/Adventure film. Story: Naïm is a sweetheart in everyday life but a beast… See cast, TMDB rating 5.2/10, and release date 15 April 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/w4ISfPkFLdG0ew07XcrlQSB4O4q.jpg",
+   "industry": "world",
+   "k": "Brawlers, Brawlers movie, Brawlers cast, Brawlers story, Brawlers box office collection, Brawlers budget, Brawlers review, Brawlers rating, Brawlers release date, Brawlers Action, Brawlers Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nassim Lyes"
+     },
+     {
+      "@type": "Person",
+      "name": "Anaïde Rozam"
+     },
+     {
+      "@type": "Person",
+      "name": "Ramzy Bedia"
+     },
+     {
+      "@type": "Person",
+      "name": "Hedi Bouchenafa"
+     },
+     {
+      "@type": "Person",
+      "name": "Arriles Amrani"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 30,
+     "ratingValue": 5.2,
+     "worstRating": 0
+    },
+    "description": "Brawlers (2026): Action/Adventure film. Story: Naïm is a sweetheart in everyday life but a beast… See cast, TMDB rating 5.2/10, and release date 15 April 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Julien Royal"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/w4ISfPkFLdG0ew07XcrlQSB4O4q.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1418709",
+    "name": "Brawlers",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1418709"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Brawlers (2026)</h1>\n<p class=\"ssr-lead\">Naïm is a sweetheart in everyday life but a beast when it comes to fighting. To afford treatment for his aging dog, he&#x27;s forced to join &quot;Hello Brawl&quot;, a service of street fighters resolving conflicts with punches.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 April 2026</li><li>Runtime: 98 minutes</li><li>Director: Julien Royal</li><li>Genres: Action, Adventure, Comedy</li><li>TMDB rating: 5.2/10 (30 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nassim Lyes as Naïm</li><li>Anaïde Rozam as Laëticia</li><li>Ramzy Bedia as Gary</li><li>Hedi Bouchenafa as Kevlar</li><li>Arriles Amrani as Rafik</li><li>Matthieu Longatte as JB</li><li>Marina Foïs as Dr. Couffard</li><li>Hatik as Blanka</li><li>Hakim Jemili as Gaëtan</li><li>Laminé Ba as Thanos</li></ul>\n</article>",
+   "t": "Brawlers (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1449709": {
+   "d": "Agata Christian: Murder on the Snow (2026): Comedy/Mystery film. Story: Christian Agata, a famous criminologist known for his… See cast and budget $8M.",
+   "img": "https://image.tmdb.org/t/p/w780/tUZB9keTOFIVedsfsJVhNZRWJpM.jpg",
+   "industry": "world",
+   "k": "Agata Christian: Murder on the Snow, Agata Christian: Murder on the Snow movie, Agata Christian: Murder on the Snow cast, Agata Christian: Murder on the Snow story, Agata Christian: Murder on the Snow box office collection, Agata Christian: Murder on the Snow budget, Agata Christian: Murder on the Snow review, Agata Christian: Murder on the Snow rating, Agata Christian: Murder on the Snow release date, Agata Christian: Murder on the Snow Comedy, Agata Christian: Murder on the Snow Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christian De Sica"
+     },
+     {
+      "@type": "Person",
+      "name": "Lillo Petrolo"
+     },
+     {
+      "@type": "Person",
+      "name": "Paolo Calabresi"
+     },
+     {
+      "@type": "Person",
+      "name": "Maccio Capatonda"
+     },
+     {
+      "@type": "Person",
+      "name": "Giorgio Colangeli"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 117,
+     "ratingValue": 5.2,
+     "worstRating": 0
+    },
+    "description": "Agata Christian: Murder on the Snow (2026): Comedy/Mystery film. Story: Christian Agata, a famous criminologist known for his… See cast and budget $8M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Eros Puglielli"
+     }
+    ],
+    "duration": "PT109M",
+    "genre": [
+     "Comedy",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tUZB9keTOFIVedsfsJVhNZRWJpM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1449709",
+    "name": "Agata Christian: Murder on the Snow",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1449709"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Agata Christian: Murder on the Snow (2026)</h1>\n<p class=\"ssr-lead\">Christian Agata, a famous criminologist known for his biting sarcasm and infallible investigative talent, finds himself caught up in a weekend of mystery. Invited by the Gulmar family—tycoons of the board game industry—to act as a spokesperson for the relaunch of their historic game &quot;Crime Castle,&quot; he agrees to spend a few days at their winter estate in the Aosta Valley. What began as a quiet commercial operation soon transforms itslef into a case to solve.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 February 2026</li><li>Runtime: 109 minutes</li><li>Director: Eros Puglielli</li><li>Genres: Comedy, Mystery</li><li>Budget: $8M</li><li>TMDB rating: 5.2/10 (117 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christian De Sica as Christian Agata</li><li>Lillo Petrolo as Ispettore Vanni Cuozzo</li><li>Paolo Calabresi as Bernardo Tarda</li><li>Maccio Capatonda as Walter Gulmar</li><li>Giorgio Colangeli as Carlo Gulmar</li><li>Sara Croce as Miranda</li><li>Tony Effe as One Shot</li><li>Chiara Francini as Beatrice</li><li>Marco Marzocca as Corrado</li><li>Alice Pagani as Stella Gulmar</li></ul>\n</article>",
+   "t": "Agata Christian: Murder on the Snow (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:14709": {
    "d": "Varsity Blues (1999): Comedy/Drama film. Story: In small-town Texas, high school football is a… See cast, TMDB rating 6.2/10, and release date 15 January 1999.",
    "img": "https://image.tmdb.org/t/p/w780/rTlMsaE2MQ8NG2cs0bEkwVhMOrV.jpg",
@@ -197,6 +517,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Varsity Blues (1999)</h1>\n<p class=\"ssr-lead\">In small-town Texas, high school football is a religion, 17-year-old schoolboys carry the hopes of an entire community onto the gridiron every Friday night. When star quarterback Lance Harbor suffers an injury, the Coyotes are forced to regroup under the questionable leadership of John Moxon, a second-string quarterback with a slightly irreverent approach to the game.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 January 1999</li><li>Runtime: 106 minutes</li><li>Director: Brian Robbins</li><li>Genres: Comedy, Drama, Romance</li><li>TMDB rating: 6.2/10 (498 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>James Van Der Beek as Jonathan &#x27;Mox&#x27; Moxon</li><li>Amy Smart as Jules Harbor</li><li>Jon Voight as Coach Bud Kilmer</li><li>Paul Walker as Lance Harbor</li><li>Ron Lester as Billy Bob</li><li>Scott Caan as Charlie Tweeder</li><li>Ali Larter as Darcy Sears</li><li>Richard Lineback as Joe Harbor</li><li>Tiffany C. Love as Collette Harbor</li><li>Eliel Swinton as Wendell Brown</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "Varsity Blues (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1999"
+  },
+  "movie:1630409": {
+   "d": "The Debt Collector (2026): Action/Thriller film. Story: Tormented by past mistakes and a terminal diagnosis… See cast and TMDB rating 7.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
+   "industry": "world",
+   "k": "The Debt Collector, The Debt Collector movie, The Debt Collector cast, The Debt Collector story, The Debt Collector box office collection, The Debt Collector budget, The Debt Collector review, The Debt Collector rating, The Debt Collector release date, The Debt Collector trailer, The Debt Collector Action, The Debt Collector Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nadech Kugimiya"
+     },
+     {
+      "@type": "Person",
+      "name": "Pittaya Saechua"
+     },
+     {
+      "@type": "Person",
+      "name": "Chaiwat Thongsaeng"
+     },
+     {
+      "@type": "Person",
+      "name": "Nuanprang Treechit"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonathan Holman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 152,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "The Debt Collector (2026): Action/Thriller film. Story: Tormented by past mistakes and a terminal diagnosis… See cast and TMDB rating 7.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Surapong Ploensang"
+     }
+    ],
+    "duration": "PT134M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1630409",
+    "name": "The Debt Collector",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1630409"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Debt Collector (2026)</h1>\n<p class=\"ssr-lead\">Tormented by past mistakes and a terminal diagnosis, an ex-debt collector returns to the underworld to protect the victims of a violent organization.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 July 2026</li><li>Runtime: 134 minutes</li><li>Director: Surapong Ploensang</li><li>Genres: Action, Thriller, Crime</li><li>TMDB rating: 7.8/10 (152 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nadech Kugimiya as Num</li><li>Pittaya Saechua as Po</li><li>Chaiwat Thongsaeng as Kong</li><li>Nuanprang Treechit as Pin</li><li>Jonathan Holman as Jod</li><li>Ploypaphas Fonkaewsiwaporn as Nid Noi</li><li>Kunkanit Khumkrong as Grandma Lek</li><li>Nuttanun Kunnawatt as Inspector Tong</li><li>Paphon Jirahitapat as Monk</li><li>Saichia Wongwirot as Berm</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Debt Collector (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:32909": {
    "d": "Mulan: Rise of a Warrior (2009): Adventure/Drama film. Story: When barbarian hordes threaten her homeland, the… See cast, budget $12M, and TMDB rating 7.5/10.",

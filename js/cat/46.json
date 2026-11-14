@@ -1,7 +1,1149 @@
 {
  "bucket": "46",
- "count": 9,
+ "count": 18,
  "titles": {
+  "movie:1196946": {
+   "backdrop_path": "/wbhoYwvqgadchfMgUOfOp87QZDS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Brig. Madan Lal Khetarpal",
+     "n": "Dharmendra"
+    },
+    {
+     "c": "Brig. Jaan Mohammad Khan",
+     "n": "Jaideep Ahlawat"
+    },
+    {
+     "c": "2nd Lt Arun Khetarpal",
+     "n": "Agastya Nanda"
+    },
+    {
+     "c": "Kiran Kochar",
+     "n": "Simar Bhatia"
+    },
+    {
+     "c": "SWR Parag Singh",
+     "n": "Shree Bishnoi"
+    },
+    {
+     "c": "Mrs. Maheshwari Khetarpal",
+     "n": "Suhasini Mulay"
+    },
+    {
+     "c": "Lt Col Hanut Singh",
+     "n": "Rahul Dev"
+    },
+    {
+     "c": "RIS Sagat Singh",
+     "n": "Sikandar Kher"
+    },
+    {
+     "c": "Maryam Nisar",
+     "n": "Ekavali Khanna"
+    },
+    {
+     "c": "Capt. Vijender Malhotra",
+     "n": "Vivaan Shah"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Sriram Raghavan"
+   ],
+   "genres": [
+    "History",
+    "War",
+    "Drama"
+   ],
+   "id": 1196946,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "Second Lieutenant and India's youngest Param Vir Chakra recipient, Arun Khetarpal, gave his life fighting for his battalion and the country during the 1971 Battle of Basantar. Ikkis also takes a reflective look at the futility of war through the eyes of Khetarpal's father, who visits his ancestral home in Sargodha and Alma Mater for reunion, which now happens to be in post-partition Pakistan, 30 years later.",
+   "popularity": 1.8088,
+   "poster_path": "/dtdZ6QhcPyxGhpwamo8W8Yeiguh.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-01",
+   "revenue": 0,
+   "runtime": 148,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "He was 21, will remain as that.",
+   "title": "Ikkis",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.638,
+   "vote_count": 29
+  },
+  "movie:1228246": {
+   "backdrop_path": "/laWV5ohHOxYnCkvrJcZf6IDOIDO.jpg",
+   "budget": 36000000,
+   "cast": [
+    {
+     "c": "Mike",
+     "n": "Josh Hutcherson"
+    },
+    {
+     "c": "Abby",
+     "n": "Piper Rubio"
+    },
+    {
+     "c": "Vanessa",
+     "n": "Elizabeth Lail"
+    },
+    {
+     "c": "William Afton / Yellow Rabbit",
+     "n": "Matthew Lillard"
+    },
+    {
+     "c": "Michael",
+     "n": "Freddy Carter"
+    },
+    {
+     "c": "Mr. Berg",
+     "n": "Wayne Knight"
+    },
+    {
+     "c": "Lisa",
+     "n": "Mckenna Grace"
+    },
+    {
+     "c": "Rob",
+     "n": "David Andrew Calvillo"
+    },
+    {
+     "c": "Alex",
+     "n": "Teo Briones"
+    },
+    {
+     "c": "Charlotte",
+     "n": "Audrey Lynn-Marie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Emma Tammi"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 1228246,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the real origin of Freddy's, and unleash a decades-hidden horror.",
+   "popularity": 12.13,
+   "poster_path": "/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-05",
+   "revenue": 239568877,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You there?",
+   "title": "Five Nights at Freddy's 2",
+   "trailer": {
+    "key": "NQypHE9_Fm4",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 1254
+  },
+  "movie:1284046": {
+   "backdrop_path": "/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Celeste",
+     "n": "Adria Arjona"
+    },
+    {
+     "c": "Hans Kammler",
+     "n": "Dan Stevens"
+    },
+    {
+     "c": "Kovacks",
+     "n": "Eric Wareheim"
+    },
+    {
+     "c": "Josiah",
+     "n": "Reginald VelJohnson"
+    },
+    {
+     "c": "Baylor",
+     "n": "Michael Biehn"
+    },
+    {
+     "c": "Daisy",
+     "n": "Blake Kennedy"
+    },
+    {
+     "c": "The Butcher",
+     "n": "Alex Pereira"
+    },
+    {
+     "c": "Cyrus",
+     "n": "Drew Starkey"
+    },
+    {
+     "c": "Hanna Kammler",
+     "n": "Rebecca Hall"
+    },
+    {
+     "c": "Griffin",
+     "n": "Jacob Scipio"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Adam Wingard"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Horror"
+   ],
+   "id": 1284046,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
+   "popularity": 43.6345,
+   "poster_path": "/eAs7G3yFaULpfwfVdGvPo5HmFJS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-02",
+   "revenue": 3458655,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They unleashed their deadliest weapon on us.",
+   "title": "Onslaught",
+   "trailer": {
+    "key": "AMLCbpM1fRQ",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.565,
+   "vote_count": 147
+  },
+  "movie:1288246": {
+   "backdrop_path": "/woAG66LiyVHaueMVLBkNbYSgJ4c.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Max Mason",
+     "n": "Shawn Ashmore"
+    },
+    {
+     "c": "Jolene Raider",
+     "n": "Elizabeth Mitchell"
+    },
+    {
+     "c": "Darby Albright",
+     "n": "Jessy Schram"
+    },
+    {
+     "c": "Lincoln Raider",
+     "n": "Garret Dillahunt"
+    },
+    {
+     "c": "Reynolds",
+     "n": "Brent Bailey"
+    },
+    {
+     "c": "Ava",
+     "n": "Maddison Bullock"
+    },
+    {
+     "c": "Detective",
+     "n": "Jobie James"
+    },
+    {
+     "c": "Physician",
+     "n": "John W Heath"
+    },
+    {
+     "c": "Daniel",
+     "n": "Adam Hampton"
+    },
+    {
+     "c": "Capt.Burnham",
+     "n": "Bruce Davis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "date_kind": "release",
+   "director": [
+    "Kyle Kauwika Harris"
+   ],
+   "genres": [
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 1288246,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When an ICU nurse volunteers to help a coma patient accused of murdering six women, he’s drawn into a chilling web of lies, obsession, and deadly secrets as a detective races to stop the killer.",
+   "popularity": 1.9221,
+   "poster_path": "/eyd4sCE3sa3iOgr1mR02lcrIybr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-21",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "His mind is the crime scene. She's the only witness.",
+   "title": "The Huntsman",
+   "trailer": {
+    "key": "0qUlVQq5XOE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 31
+  },
+  "movie:1297446": {
+   "backdrop_path": "/nHOs2CG7zgl7gJIdWA4KvIiDEBU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joan Huang",
+     "n": "Shirley Chen"
+    },
+    {
+     "c": "Jo Hunt",
+     "n": "Mckenna Grace"
+    },
+    {
+     "c": "Olivia Hammond",
+     "n": "Amelie Zilber"
+    },
+    {
+     "c": "Sofia Huang",
+     "n": "Vivian Wu"
+    },
+    {
+     "c": "Brindha",
+     "n": "Maitreyi Ramakrishnan"
+    },
+    {
+     "c": "Roger Huang",
+     "n": "Fang Du"
+    },
+    {
+     "c": "Nash",
+     "n": "Nicholas Myers"
+    },
+    {
+     "c": "Willie Singer",
+     "n": "R. Keith Harris"
+    },
+    {
+     "c": "Young Joan",
+     "n": "Kristen Cui"
+    },
+    {
+     "c": "Greta",
+     "n": "Sarah Kopkin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Amy Wang"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 1297446,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An insecure Chinese-American teenager undergoes experimental surgery to appear white, hoping to secure the prom queen title and peer acceptance.",
+   "popularity": 2.4955,
+   "poster_path": "/cr2SfN854IlEoZQBtIfpyC0zXR5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-13",
+   "revenue": 906216,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "If you can't beat them... be them.",
+   "title": "Slanted",
+   "trailer": {
+    "key": "FRYAuKuzmn0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 67
+  },
+  "movie:1375646": {
+   "backdrop_path": "/iGViga8sDCET1S6GfwOlAbuhSGQ.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Kwon Se-jeong",
+     "n": "Gianna Jun"
+    },
+    {
+     "c": "Seo Young-cheol",
+     "n": "Koo Kyo-hwan"
+    },
+    {
+     "c": "Choi Hyun-seok",
+     "n": "Ji Chang-wook"
+    },
+    {
+     "c": "Choi Hyun-hee",
+     "n": "Kim Shin-rock"
+    },
+    {
+     "c": "Kong Seol-hee",
+     "n": "Shin Hyun-been"
+    },
+    {
+     "c": "Han Kyu-seong",
+     "n": "Go Soo"
+    },
+    {
+     "c": "Lee Bong-seok",
+     "n": "Lee Joong-ok"
+    },
+    {
+     "c": "Kang Woo-cheol",
+     "n": "Kim Jong-tae"
+    },
+    {
+     "c": "Citizen",
+     "n": "Hwang Jae-yeol"
+    },
+    {
+     "c": "Lee So-eun",
+     "n": "Lee Dam-hee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Yeon Sang-ho"
+   ],
+   "genres": [
+    "Horror",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 1375646,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+   "popularity": 42.2857,
+   "poster_path": "/enz3WLx5QU1FUyhXZld04QWIc6N.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-19",
+   "revenue": 53128238,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "Survive the hive.",
+   "title": "Colony",
+   "trailer": {
+    "key": "LW6dpj1uCK8",
+    "name": "International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.18,
+   "vote_count": 1589
+  },
+  "movie:1462146": {
+   "backdrop_path": "/377Bqi11cmWEQeOAs7GOkCEfazk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Bob Lazar"
+    },
+    {
+     "c": "Self",
+     "n": "George Knapp"
+    },
+    {
+     "c": "Self",
+     "n": "Gene Huff"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Luigi Vendittelli"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1462146,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "Over 35 years after Bob Lazar's revelations, this documentary exposes secrets of a facility the government still denies. Featuring Lazar's testimony, recreations, and new evidence, it reopens a case that continues to spark global curiosity",
+   "popularity": 1.6898,
+   "poster_path": "/sQB50PgwLfftaRdNB36eJxtH3AZ.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-03",
+   "revenue": 0,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "S4: The Bob Lazar Story",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.417,
+   "vote_count": 54
+  },
+  "movie:1476746": {
+   "backdrop_path": "/jpH1VRw74w0vvPTY0ryKEtMIXc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carl Rikker",
+     "n": "Dennis Quaid"
+    },
+    {
+     "c": "Charlie",
+     "n": "Jean Reno"
+    },
+    {
+     "c": "Layla",
+     "n": "Sky Katz"
+    },
+    {
+     "c": "Deckard",
+     "n": "Jim Klock"
+    },
+    {
+     "c": "Woodrock",
+     "n": "Leonidas Gulaptis"
+    },
+    {
+     "c": "Rebecca",
+     "n": "Elsa Mollien"
+    },
+    {
+     "c": "Jason",
+     "n": "Gabriel 'G-Rod' Rodriguez"
+    },
+    {
+     "c": "Lloyd",
+     "n": "Dominick LaRuffa Jr."
+    },
+    {
+     "c": "",
+     "n": "Anna Schafer"
+    },
+    {
+     "c": "Detective Hutton",
+     "n": "Dylan Flashner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Babak Najafi"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 1476746,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A quiet horticulturalist harboring a secret life as a lethal assassin finds his true identity jeopardized when he forms an unlikely friendship with a witnesses to police corruption.",
+   "popularity": 47.539,
+   "poster_path": "/4tnRvIiWMzVA2Tw9c7INLo4sfo0.jpg",
+   "production_countries": [
+    "IT",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-24",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Florist",
+   "trailer": {
+    "key": "LNmIdALXoKo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.667,
+   "vote_count": 36
+  },
+  "movie:1684246": {
+   "backdrop_path": "/29NF9iyZw2dztiKgV8r4dvHuTSx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Vinnie Jones"
+    },
+    {
+     "c": "Self",
+     "n": "John Fashanu"
+    },
+    {
+     "c": "Self",
+     "n": "Dave Bassett"
+    },
+    {
+     "c": "Self",
+     "n": "Bobby Gould"
+    },
+    {
+     "c": "Self",
+     "n": "Sam Hammam"
+    },
+    {
+     "c": "Self",
+     "n": "Piers Morgan"
+    },
+    {
+     "c": "Self - (archive footage)",
+     "n": "Guy Ritchie"
+    },
+    {
+     "c": "Self - (archive footage)",
+     "n": "Sting"
+    },
+    {
+     "c": "Self - (archive footage)",
+     "n": "Brad Pitt"
+    },
+    {
+     "c": "Self - (archive footage)",
+     "n": "Ted Oliver"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "David Tryhorn",
+    "Ben Nicholas"
+   ],
+   "genres": [
+    "History",
+    "Documentary"
+   ],
+   "id": 1684246,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "This is the story of Vinnie Jones's rise, fall, and comeback against odds – and red cards – from one of football's most notorious hard men to FA cup winner.",
+   "popularity": 1.5497,
+   "poster_path": "/AilC78z0a3wg0mBpBpurqjWCTxZ.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-26",
+   "revenue": 0,
+   "runtime": 77,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Untold UK: Vinnie Jones",
+   "trailer": {
+    "key": "cTW78JSBoyw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 31
+  },
   "movie:475946": {
    "backdrop_path": "/7gZR9nztTzZIskcRCuDfhvrd5Ds.jpg",
    "budget": 0,

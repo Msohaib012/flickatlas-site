@@ -1,7 +1,389 @@
 {
  "bucket": "45",
- "count": 18,
+ "count": 27,
  "titles": {
+  "movie:1171145": {
+   "d": "Crime 101 (2026): Crime/Thriller film. Story: When an elusive thief whose high-stakes heists unfold… See cast, budget $90M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
+   "industry": "world",
+   "k": "Crime 101, Crime 101 movie, Crime 101 cast, Crime 101 story, Crime 101 box office collection, Crime 101 budget, Crime 101 review, Crime 101 rating, Crime 101 release date, Crime 101 trailer, Crime 101 Crime, Crime 101 Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chris Hemsworth"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Ruffalo"
+     },
+     {
+      "@type": "Person",
+      "name": "Halle Berry"
+     },
+     {
+      "@type": "Person",
+      "name": "Barry Keoghan"
+     },
+     {
+      "@type": "Person",
+      "name": "Monica Barbaro"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1489,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Crime 101 (2026): Crime/Thriller film. Story: When an elusive thief whose high-stakes heists unfold… See cast, budget $90M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bart Layton"
+     }
+    ],
+    "duration": "PT141M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1171145",
+    "name": "Crime 101",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1171145"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Crime 101 (2026)</h1>\n<p class=\"ssr-lead\">When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 February 2026</li><li>Runtime: 141 minutes</li><li>Director: Bart Layton</li><li>Genres: Crime, Thriller</li><li>Budget: $90M</li><li>TMDB rating: 7.0/10 (1489 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chris Hemsworth as Davis</li><li>Mark Ruffalo as Lou</li><li>Halle Berry as Sharon</li><li>Barry Keoghan as Ormon</li><li>Monica Barbaro as Maya</li><li>Nick Nolte as Money</li><li>Corey Hawkins as Tillman</li><li>Jennifer Jason Leigh as Angie</li><li>Peter Banifaz as Ben Haddad</li><li>Babak Tafti as Ali</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Crime 101 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1236045": {
+   "d": "Animals (2026): Thriller/Drama film. Story: When the son of an L.A. mayoral candidate is… See cast, TMDB rating 6.9/10, and release date 9 October 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/5yzM78Tp8nYwSCQtyRcmnHmCn5C.jpg",
+   "industry": "world",
+   "k": "Animals, Animals movie, Animals cast, Animals story, Animals box office collection, Animals budget, Animals review, Animals rating, Animals release date, Animals trailer, Animals Thriller, Animals Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ben Affleck"
+     },
+     {
+      "@type": "Person",
+      "name": "Kerry Washington"
+     },
+     {
+      "@type": "Person",
+      "name": "Gillian Anderson"
+     },
+     {
+      "@type": "Person",
+      "name": "Steven Yeun"
+     },
+     {
+      "@type": "Person",
+      "name": "Adriana Paz"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 742,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Animals (2026): Thriller/Drama film. Story: When the son of an L.A. mayoral candidate is… See cast, TMDB rating 6.9/10, and release date 9 October 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ben Affleck"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5yzM78Tp8nYwSCQtyRcmnHmCn5C.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1236045",
+    "name": "Animals",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1236045"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Animals (2026)</h1>\n<p class=\"ssr-lead\">When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 October 2026</li><li>Runtime: 106 minutes</li><li>Director: Ben Affleck</li><li>Genres: Thriller, Drama, Action, Crime</li><li>TMDB rating: 6.9/10 (742 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ben Affleck as Mark Kimball</li><li>Kerry Washington as Abigail Kimball</li><li>Gillian Anderson as Dayle Burton</li><li>Steven Yeun as Sam Allison</li><li>Adriana Paz as Cecilia Trujillo</li><li>Luis Gerardo Méndez as Ramon</li><li>Christopher Woodley as Denny Kimball</li><li>Jacob Estrada as Hector</li><li>Ray Fisher as Ron Sperling</li><li>Taylor Cooper as Hannah</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Animals (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1288445": {
+   "d": "Mutiny (2026): Action/Thriller film. Story: After witnessing his billionaire boss' murder and… See cast, budget $40M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+   "industry": "world",
+   "k": "Mutiny, Mutiny movie, Mutiny cast, Mutiny story, Mutiny box office collection, Mutiny budget, Mutiny review, Mutiny rating, Mutiny release date, Mutiny trailer, Mutiny Action, Mutiny Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jason Statham"
+     },
+     {
+      "@type": "Person",
+      "name": "Annabelle Wallis"
+     },
+     {
+      "@type": "Person",
+      "name": "Roland Møller"
+     },
+     {
+      "@type": "Person",
+      "name": "Ramon Tikaram"
+     },
+     {
+      "@type": "Person",
+      "name": "Arnas Fedaravičius"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1071,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Mutiny (2026): Action/Thriller film. Story: After witnessing his billionaire boss' murder and… See cast, budget $40M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jean-François Richet"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1288445",
+    "name": "Mutiny",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1288445"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mutiny (2026)</h1>\n<p class=\"ssr-lead\">After witnessing his billionaire boss&#x27; murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss&#x27; death only to discover an international conspiracy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 August 2026</li><li>Runtime: 96 minutes</li><li>Director: Jean-François Richet</li><li>Genres: Action, Thriller</li><li>Budget: $40M</li><li>TMDB rating: 7.6/10 (1071 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jason Statham as Cole Reed</li><li>Annabelle Wallis as Angie Ellis</li><li>Roland Møller as Captain Marko Madsen</li><li>Ramon Tikaram as Tibu Campallo</li><li>Arnas Fedaravičius as Mateo Pineda</li><li>Jason Wong as Taran</li><li>Adrian Lester as Captain Adam Spencer</li><li>Chaneil Kular as Kameron Campallo</li><li>Andrew John Tait as BK Lobby Businessman</li><li>Simon Kluth as Jaran Daniles</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home, FlixFling, Plex</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Mutiny (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1510745": {
+   "d": "Bodycam (2026): Horror film. Story: A call to a quiet suburban home unleashes unthinkable… See cast, TMDB rating 6.0/10, and release date 12 March 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/qmWypRw88VYp35oTQn0a1sqdZRs.jpg",
+   "industry": "world",
+   "k": "Bodycam, Bodycam movie, Bodycam cast, Bodycam story, Bodycam box office collection, Bodycam budget, Bodycam review, Bodycam rating, Bodycam release date, Bodycam trailer, Bodycam Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jaime M. Callica"
+     },
+     {
+      "@type": "Person",
+      "name": "Sean Rogerson"
+     },
+     {
+      "@type": "Person",
+      "name": "Catherine Lough Haggquist"
+     },
+     {
+      "@type": "Person",
+      "name": "Angel Prater"
+     },
+     {
+      "@type": "Person",
+      "name": "Keegan Connor Tracy"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 145,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Bodycam (2026): Horror film. Story: A call to a quiet suburban home unleashes unthinkable… See cast, TMDB rating 6.0/10, and release date 12 March 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Brandon Christensen"
+     }
+    ],
+    "duration": "PT75M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qmWypRw88VYp35oTQn0a1sqdZRs.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1510745",
+    "name": "Bodycam",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1510745"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bodycam (2026)</h1>\n<p class=\"ssr-lead\">A call to a quiet suburban home unleashes unthinkable carnage when two officers mistakenly shoot a man and his infant child, spiraling the tragedy into a fierce, unrelenting fall into the unknown.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 March 2026</li><li>Runtime: 75 minutes</li><li>Director: Brandon Christensen</li><li>Genres: Horror</li><li>TMDB rating: 6.0/10 (145 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jaime M. Callica as Officer Jackson</li><li>Sean Rogerson as Officer Bryce</li><li>Catherine Lough Haggquist as Ally Jackson</li><li>Angel Prater as Esposito</li><li>Keegan Connor Tracy as The Mother</li><li>Chris Casson as The Father</li><li>Elizabeth Longshaw as Michelle</li><li>Colette Nwachi as Neisha</li><li>Joe Perry as Tommy</li><li>Onyx Shelton as Customer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Bodycam (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1523145": {
+   "d": "Your Heart Will Be Broken (2026): Romance film. Story: High school student Polina is saved from bullying at… See cast, budget $3.72M, and TMDB rating 7.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fRjy6zDeNjfzmjpKz8mElA9Aa6l.jpg",
+   "industry": "world",
+   "k": "Your Heart Will Be Broken, Your Heart Will Be Broken movie, Your Heart Will Be Broken cast, Your Heart Will Be Broken story, Your Heart Will Be Broken box office collection, Your Heart Will Be Broken budget, Your Heart Will Be Broken review, Your Heart Will Be Broken rating, Your Heart Will Be Broken release date, Your Heart Will Be Broken Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Daniel Vegas"
+     },
+     {
+      "@type": "Person",
+      "name": "Veronika Zhuravleva"
+     },
+     {
+      "@type": "Person",
+      "name": "Ivan Trushin"
+     },
+     {
+      "@type": "Person",
+      "name": "Maksim Saprykin"
+     },
+     {
+      "@type": "Person",
+      "name": "Alya Mayer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 233,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Your Heart Will Be Broken (2026): Romance film. Story: High school student Polina is saved from bullying at… See cast, budget $3.72M, and TMDB rating 7.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mikhail Vaynberg"
+     }
+    ],
+    "duration": "PT134M",
+    "genre": [
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fRjy6zDeNjfzmjpKz8mElA9Aa6l.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1523145",
+    "name": "Your Heart Will Be Broken",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1523145"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Your Heart Will Be Broken (2026)</h1>\n<p class=\"ssr-lead\">High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 March 2026</li><li>Runtime: 134 minutes</li><li>Director: Mikhail Vaynberg</li><li>Genres: Romance</li><li>Budget: $3.72M</li><li>TMDB rating: 7.9/10 (233 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Daniel Vegas as Барс</li><li>Veronika Zhuravleva as Полина</li><li>Ivan Trushin as Лэйм</li><li>Maksim Saprykin as Леха</li><li>Alya Mayer as Дилара</li><li>Evgeniya Loza as мама Полины</li><li>Pavel Kuzmin as отчим Полины</li><li>Alexandra Tikhonova as Саша</li><li>Margarita Dyachenkova as Лика</li><li>Anton Solomatin as Власов</li></ul>\n</article>",
+   "t": "Your Heart Will Be Broken (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1618945": {
+   "d": "Yoh! Bestie (2026): Romance/Comedy film. Story: Thando is perpetually unlucky in love, but when her… See cast and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1EVHnzF3gescyQZSqwbx5LfQ1EN.jpg",
+   "industry": "world",
+   "k": "Yoh! Bestie, Yoh! Bestie movie, Yoh! Bestie cast, Yoh! Bestie story, Yoh! Bestie box office collection, Yoh! Bestie budget, Yoh! Bestie review, Yoh! Bestie rating, Yoh! Bestie release date, Yoh! Bestie trailer, Yoh! Bestie Romance, Yoh! Bestie Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Katlego Lebogang"
+     },
+     {
+      "@type": "Person",
+      "name": "Didie Makobane"
+     },
+     {
+      "@type": "Person",
+      "name": "Kagiso Modupe"
+     },
+     {
+      "@type": "Person",
+      "name": "Fikile Mthwalo"
+     },
+     {
+      "@type": "Person",
+      "name": "Siya Sepotekele"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 51,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Yoh! Bestie (2026): Romance/Comedy film. Story: Thando is perpetually unlucky in love, but when her… See cast and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Johnny Barbuzano"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1EVHnzF3gescyQZSqwbx5LfQ1EN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1618945",
+    "name": "Yoh! Bestie",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1618945"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Yoh! Bestie (2026)</h1>\n<p class=\"ssr-lead\">Thando is perpetually unlucky in love, but when her bestie returns from his travels with a fiancée in tow, she&#x27;s forced to face a new emotion — jealousy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 February 2026</li><li>Runtime: 95 minutes</li><li>Director: Johnny Barbuzano</li><li>Genres: Romance, Comedy</li><li>TMDB rating: 6.2/10 (51 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Katlego Lebogang as Thando Mokoena</li><li>Didie Makobane</li><li>Kagiso Modupe</li><li>Fikile Mthwalo</li><li>Siya Sepotekele as Charles</li><li>Yonda Thomas</li><li>Didie Makobane as Riri</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Yoh! Bestie (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:17845": {
    "d": "Loft (2008): Drama/Mystery film. Story: Five close friends, all of them married, share a loft… See cast, budget $3.2M, and TMDB rating 6.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/eUM3rcy8tQjOJKqyp1VXxqJWCn3.jpg",
@@ -450,6 +832,134 @@
    "t": "The Kill Team (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
+  "movie:539745": {
+   "d": "Animal Farm (2026): Animation/Comedy film. Story: A group of farm animals rise up against their… See cast, budget $35M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rg1E0Ya6YYiGPcg5p1ZIkDd8u3F.jpg",
+   "industry": "world",
+   "k": "Animal Farm, Animal Farm movie, Animal Farm cast, Animal Farm story, Animal Farm box office collection, Animal Farm budget, Animal Farm review, Animal Farm rating, Animal Farm release date, Animal Farm trailer, Animal Farm Animation, Animal Farm Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Seth Rogen"
+     },
+     {
+      "@type": "Person",
+      "name": "Gaten Matarazzo"
+     },
+     {
+      "@type": "Person",
+      "name": "Steve Buscemi"
+     },
+     {
+      "@type": "Person",
+      "name": "Glenn Close"
+     },
+     {
+      "@type": "Person",
+      "name": "Laverne Cox"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 122,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Animal Farm (2026): Animation/Comedy film. Story: A group of farm animals rise up against their… See cast, budget $35M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Andy Serkis"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rg1E0Ya6YYiGPcg5p1ZIkDd8u3F.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=539745",
+    "name": "Animal Farm",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=539745"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Animal Farm (2026)</h1>\n<p class=\"ssr-lead\">A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 April 2026</li><li>Runtime: 95 minutes</li><li>Director: Andy Serkis</li><li>Genres: Animation, Comedy, Drama, Family, Science Fiction</li><li>Budget: $35M</li><li>TMDB rating: 6.3/10 (122 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Seth Rogen as Napoleon (voice)</li><li>Gaten Matarazzo as Lucky (voice)</li><li>Steve Buscemi as Mr. Whymper (voice)</li><li>Glenn Close as Frieda Pilkington (voice)</li><li>Laverne Cox as Snowball (voice)</li><li>Kieran Culkin as Squealer (voice)</li><li>Woody Harrelson as Boxer (voice)</li><li>Jim Parsons as Carl / Sheep (voice)</li><li>Andy Serkis as Randolf the Rooster (voice)</li><li>Kathleen Turner as Benjamin (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Angel Studios</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Animal Farm (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:614945": {
+   "d": "Voicemails for Isabelle (2026): Romance/Comedy film. Story: A young woman's hilariously confessional voicemails… See cast and TMDB rating 8.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
+   "industry": "world",
+   "k": "Voicemails for Isabelle, Voicemails for Isabelle movie, Voicemails for Isabelle cast, Voicemails for Isabelle story, Voicemails for Isabelle box office collection, Voicemails for Isabelle budget, Voicemails for Isabelle review, Voicemails for Isabelle rating, Voicemails for Isabelle release date, Voicemails for Isabelle trailer, Voicemails for Isabelle Romance, Voicemails for Isabelle Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Zoey Deutch"
+     },
+     {
+      "@type": "Person",
+      "name": "Nick Robinson"
+     },
+     {
+      "@type": "Person",
+      "name": "Harry Shum Jr."
+     },
+     {
+      "@type": "Person",
+      "name": "Leah McKendrick"
+     },
+     {
+      "@type": "Person",
+      "name": "Ciara Bravo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1048,
+     "ratingValue": 8.3,
+     "worstRating": 0
+    },
+    "description": "Voicemails for Isabelle (2026): Romance/Comedy film. Story: A young woman's hilariously confessional voicemails… See cast and TMDB rating 8.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Leah McKendrick"
+     }
+    ],
+    "duration": "PT119M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=614945",
+    "name": "Voicemails for Isabelle",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=614945"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Voicemails for Isabelle (2026)</h1>\n<p class=\"ssr-lead\">A young woman&#x27;s hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 June 2026</li><li>Runtime: 119 minutes</li><li>Director: Leah McKendrick</li><li>Genres: Romance, Comedy, Drama</li><li>TMDB rating: 8.3/10 (1048 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Zoey Deutch as Jill</li><li>Nick Robinson as Wes</li><li>Harry Shum Jr. as Andy</li><li>Leah McKendrick as Breeda</li><li>Ciara Bravo as Isabelle</li><li>Toby Sandeman as Tyler</li><li>Nick Offerman as Chef Bastien</li><li>Lukas Gage as Arthur</li><li>Megan Danso as Zella</li><li>Tanis Dolman as Mom</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Voicemails for Isabelle (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:74945": {
    "d": "War of the Buttons (2011): Adventure/Family film. Story: Occupied France; Lebrac leads a play war between two… See cast and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/swdekl4vQJ0LOnjSZcmKUIUz26S.jpg",
@@ -577,6 +1087,53 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Carter (2022)</h1>\n<p class=\"ssr-lead\">Carter, who awakens two months into a deadly pandemic originating from the DMZ that has already devastated US and North Korea. He who has no recollections of his past finds a mysterious device in his head, and a lethal bomb in his mouth. A voice in his ears gives him orders to avoid getting killed and he&#x27;s thrown into a mysterious operation while the CIA and North Korean coup chase him close.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 August 2022</li><li>Runtime: 132 minutes</li><li>Director: Jung Byung-gil</li><li>Genres: Action, Thriller, Crime</li><li>TMDB rating: 6.0/10 (451 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joo Won as Carter Lee</li><li>Lee Sung-jae as Kim Jong-hyeok</li><li>Jeong So-ri as Han Jung-hee</li><li>Do Yeong-seo as Ha-na</li><li>Camilla Belle as Agnes</li><li>Mike Colter as Smith</li><li>Jung Jae-young as Dr. Jung Byeong-ho</li><li>Jung Hae-kyun as Director Kim Dong-gyu</li><li>Yeo Dae-hyun as Ri Cheol-ju</li><li>Gina Theresa Williamson as CNN Reporter</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Carter (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:972445": {
+   "d": "CMXXIV (2025): Comedy film. Story: Turkish comedy heavyweight Cem Yılmaz takes the… See cast, TMDB rating 6.6/10, and release date 31 December 2025.",
+   "img": "https://image.tmdb.org/t/p/w780/cbmeaWZtTA40He88eI8ua7kttJE.jpg",
+   "industry": "world",
+   "k": "CMXXIV, CMXXIV movie, CMXXIV cast, CMXXIV story, CMXXIV box office collection, CMXXIV budget, CMXXIV review, CMXXIV rating, CMXXIV release date, CMXXIV Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Cem Yılmaz"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 31,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "CMXXIV (2025): Comedy film. Story: Turkish comedy heavyweight Cem Yılmaz takes the… See cast, TMDB rating 6.6/10, and release date 31 December 2025.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Cem Yılmaz"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cbmeaWZtTA40He88eI8ua7kttJE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=972445",
+    "name": "CMXXIV",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=972445"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>CMXXIV (2025)</h1>\n<p class=\"ssr-lead\">Turkish comedy heavyweight Cem Yılmaz takes the stand-up stage in this dynamic special – covering everything from cancel culture to regretful tattoos.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 December 2025</li><li>Runtime: 113 minutes</li><li>Director: Cem Yılmaz</li><li>Genres: Comedy</li><li>TMDB rating: 6.6/10 (31 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Cem Yılmaz as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "CMXXIV (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
   },
   "tv:10545": {
    "d": "True Blood (2008) is a Sci-Fi & Fantasy and Drama TV series. Explore its story: Thanks to a Japanese scientist's invention of…, cast, and 7 seasons.",

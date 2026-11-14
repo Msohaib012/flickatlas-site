@@ -1,7 +1,1314 @@
 {
  "bucket": "15",
- "count": 12,
+ "count": 22,
  "titles": {
+  "movie:1280015": {
+   "backdrop_path": "/hRsl1RMijpUCtLH3nZzRMnTjFYl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ivy",
+     "n": "Bella Ramsey"
+    },
+    {
+     "c": "Jake",
+     "n": "Daniel Quinn-Toye"
+    },
+    {
+     "c": "Ella",
+     "n": "Ruby Stokes"
+    },
+    {
+     "c": "Ralph",
+     "n": "Earl Cave"
+    },
+    {
+     "c": "Archie",
+     "n": "Conrad Khan"
+    },
+    {
+     "c": "Masie",
+     "n": "Jasmine Elcock"
+    },
+    {
+     "c": "Patrick",
+     "n": "Neil Patrick Harris"
+    },
+    {
+     "c": "Karen",
+     "n": "Jessica Gunning"
+    },
+    {
+     "c": "Bob",
+     "n": "James Norton"
+    },
+    {
+     "c": "Lucy",
+     "n": "Shalom Brune-Franklin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "George Jaques"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1280015,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Reluctantly sent to a summer retreat for young cancer survivors, a teenager in remission unexpectedly finds deep connections and new beginnings among fellow campers.",
+   "popularity": 3.3592,
+   "poster_path": "/mXdejPfToSVFlEzv1QYoIh2N53e.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-12",
+   "revenue": 305519,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You'll wish you were there.",
+   "title": "Sunny Dancer",
+   "trailer": {
+    "key": "-W_a2oCFNOY",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 26
+  },
+  "movie:1283515": {
+   "backdrop_path": "/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Lowen Ashleigh",
+     "n": "Dakota Johnson"
+    },
+    {
+     "c": "Verity Crawford",
+     "n": "Anne Hathaway"
+    },
+    {
+     "c": "Jeremy Crawford",
+     "n": "Josh Hartnett"
+    },
+    {
+     "c": "Crew Crawford",
+     "n": "Brady Wagner"
+    },
+    {
+     "c": "Corey",
+     "n": "Ismael Cruz Cordova"
+    },
+    {
+     "c": "Anna",
+     "n": "Iryna Dvorovenko"
+    },
+    {
+     "c": "Harper Crawford",
+     "n": "Sienna Kulovitz"
+    },
+    {
+     "c": "Amanda Thomas",
+     "n": "K.K. Moggie"
+    },
+    {
+     "c": "Barron Stephens",
+     "n": "Tom Galantich"
+    },
+    {
+     "c": "Limo Driver",
+     "n": "Lou Martini Jr."
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Michael Showalter"
+   ],
+   "genres": [
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 1283515,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+   "popularity": 141.8691,
+   "poster_path": "/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-02",
+   "revenue": 178488883,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There is no light where we're going.",
+   "title": "Verity",
+   "trailer": {
+    "key": "xdPMKhjMSFs",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.991,
+   "vote_count": 686
+  },
+  "movie:1292415": {
+   "backdrop_path": "/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Patton",
+     "n": "Daniel MacPherson"
+    },
+    {
+     "c": "Gabriel",
+     "n": "Luke Hemsworth"
+    },
+    {
+     "c": "Sammy",
+     "n": "Russell Crowe"
+    },
+    {
+     "c": "Malon James",
+     "n": "Mojean Aria"
+    },
+    {
+     "c": "Luciana",
+     "n": "Kelly Gale"
+    },
+    {
+     "c": "Neal",
+     "n": "George Burgess"
+    },
+    {
+     "c": "Skipper",
+     "n": "Nathan Phillips"
+    },
+    {
+     "c": "Maddie",
+     "n": "Sol Nc Carrico"
+    },
+    {
+     "c": "Xavier Grau",
+     "n": "Bren Foster"
+    },
+    {
+     "c": "Nadine",
+     "n": "Saphira Moran"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tyler Atkins"
+   ],
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "id": 1292415,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
+   "popularity": 7.4778,
+   "poster_path": "/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+   "production_countries": [
+    "US",
+    "AU"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-10",
+   "revenue": 1843284,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Legends are made in the cage.",
+   "title": "Beast",
+   "trailer": {
+    "key": "yJN2mJ4uOas",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.471,
+   "vote_count": 227
+  },
+  "movie:1305715": {
+   "backdrop_path": "/aKAtFSge7SwJeEtzxJWkTDQQfJa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "",
+     "n": "Jackie Chan"
+    },
+    {
+     "c": "",
+     "n": "Peng Yuchang"
+    },
+    {
+     "c": "",
+     "n": "Jiaming Zhang"
+    },
+    {
+     "c": "",
+     "n": "Pan Binlong"
+    },
+    {
+     "c": "",
+     "n": "Ping Li"
+    },
+    {
+     "c": "Live Blogger",
+     "n": "Chen Haoming"
+    },
+    {
+     "c": "Dr. Wu",
+     "n": "Feng Bing"
+    },
+    {
+     "c": "Old Lady",
+     "n": "傅晓娜"
+    },
+    {
+     "c": "Judge",
+     "n": "Darren Grosvenor"
+    },
+    {
+     "c": "Groom",
+     "n": "Guo Yiyang"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "I",
+   "date_kind": "release",
+   "director": [
+    "Li Taiyan"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1305715,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "When an aging local starts to lose his memory, those around him decide to recreate an important family moment in his life for him to relive. What they discover isn't what they expect — about both themselves and about the mysterious man's past.",
+   "popularity": 2.4107,
+   "poster_path": "/wRY7PwWWYkv6Wk6SG8q8OsLLPhB.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Rakuten Viki"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-01",
+   "revenue": 6566477,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Unexpected Family",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.0,
+   "vote_count": 47
+  },
+  "movie:1376415": {
+   "backdrop_path": "/hKC8k08rgIyXFVQXrp1izEAWwL1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jan Bojarski",
+     "n": "Reda Kateb"
+    },
+    {
+     "c": "Suzanne Bojarski",
+     "n": "Sara Giraudeau"
+    },
+    {
+     "c": "André Mattéi",
+     "n": "Bastien Bouillon"
+    },
+    {
+     "c": "Perrier",
+     "n": "Quentin Dolmaire"
+    },
+    {
+     "c": "Anton Dowgierd",
+     "n": "Pierre Lottin"
+    },
+    {
+     "c": "Anaïs",
+     "n": "Camille Japy"
+    },
+    {
+     "c": "Françoise Mattéi",
+     "n": "Lolita Chammah"
+    },
+    {
+     "c": "Lucien Scola",
+     "n": "Olivier Loustau"
+    },
+    {
+     "c": "Pollet",
+     "n": "Arthur Teboul"
+    },
+    {
+     "c": "Serge",
+     "n": "Victor Poirier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Jean-Paul Salomé"
+   ],
+   "genres": [
+    "History",
+    "Drama",
+    "Crime"
+   ],
+   "id": 1376415,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A Polish engineer relocates to France and becomes a legendary counterfeiter. Working solo, he crafts flawless fake francs worth millions over 14 years, earning the nickname \"Cézanne of counterfeit money\" for his artistic skill and output.",
+   "popularity": 5.0494,
+   "poster_path": "/9syq0YtiW9d9PpQ5fAgWBK6LAtb.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-14",
+   "revenue": 0,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Money Maker",
+   "trailer": {
+    "key": "f_bbFLsJl9A",
+    "name": "Official Trailer [AU & NZ]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 199
+  },
+  "movie:1386315": {
+   "backdrop_path": "/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maia",
+     "n": "Gal Gadot"
+    },
+    {
+     "c": "The Caller",
+     "n": "Damian Lewis"
+    },
+    {
+     "c": "Noah",
+     "n": "Rory Wilmot"
+    },
+    {
+     "c": "Ted",
+     "n": "Alfred Enoch"
+    },
+    {
+     "c": "Tafa",
+     "n": "Phoenix Di Sebastiani"
+    },
+    {
+     "c": "Wiry Dude",
+     "n": "Nathan Kirby"
+    },
+    {
+     "c": "Buddy",
+     "n": "Hélder Fernandes"
+    },
+    {
+     "c": "NCA Officer 1",
+     "n": "Will Austin"
+    },
+    {
+     "c": "NCA Officer 2",
+     "n": "Mark Hampton"
+    },
+    {
+     "c": "NCA Officer 3",
+     "n": "Stevie Binns"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Kevin Macdonald"
+   ],
+   "genres": [
+    "Thriller",
+    "Action"
+   ],
+   "id": 1386315,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
+   "popularity": 15.4638,
+   "poster_path": "/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-03",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One hour. One chance to save her son.",
+   "title": "The Runner",
+   "trailer": {
+    "key": "zz4rsZLcauY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.688,
+   "vote_count": 722
+  },
+  "movie:1458215": {
+   "backdrop_path": "/iar5GAkSX1LswFFxMTbHHR3zxMf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mason Goddard",
+     "n": "John Travolta"
+    },
+    {
+     "c": "Shawn Goddard",
+     "n": "Lukas Haas"
+    },
+    {
+     "c": "Odessa",
+     "n": "Rebecca De Mornay"
+    },
+    {
+     "c": "Abel Salzar",
+     "n": "Danny Pardo"
+    },
+    {
+     "c": "Caras",
+     "n": "Beau Bommarito"
+    },
+    {
+     "c": "Violet",
+     "n": "Emily Skinner"
+    },
+    {
+     "c": "Agent Richter",
+     "n": "Joel Cohen"
+    },
+    {
+     "c": "Victor",
+     "n": "Sam Asghari"
+    },
+    {
+     "c": "Link",
+     "n": "Natali Yura"
+    },
+    {
+     "c": "Anton",
+     "n": "Quavo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Randall Emmett"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller",
+    "TV Movie"
+   ],
+   "id": 1458215,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A retired master thief must protect his impulsive brother from disaster when a 100 million dollar yacht heist spirals into a dangerous web of deception. Old foes emerge as the stakes rise, forcing him to use every trick he knows to stay alive.",
+   "popularity": 7.278,
+   "poster_path": "/oMutDMODnbCZf46w0dK4wncQmDB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-02",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Trust no one. Take everything.",
+   "title": "The Gentleman Thief",
+   "trailer": {
+    "key": "0LB3yWX1R8Y",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.586,
+   "vote_count": 35
+  },
+  "movie:1466115": {
+   "backdrop_path": "/iL5eGI9ctHdUOV4yG6dyGKctSEX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kim Jae-won",
+     "n": "Choo Young-woo"
+    },
+    {
+     "c": "Han Seo-yoon",
+     "n": "Shin Sia"
+    },
+    {
+     "c": "Choi Ji-min",
+     "n": "Cho Yu-jung"
+    },
+    {
+     "c": "Jeong Tae-hoon",
+     "n": "Jin Ho-eun"
+    },
+    {
+     "c": "Kim Seong-hyeon",
+     "n": "Cho Han-chul"
+    },
+    {
+     "c": "Doctor",
+     "n": "Lee Chae-kyung"
+    },
+    {
+     "c": "Korean Teacher",
+     "n": "Jang Yoo-sang"
+    },
+    {
+     "c": "Math Teacher",
+     "n": "Yun Ki-chang"
+    },
+    {
+     "c": "Jae-won's Mother",
+     "n": "Yoo Ah-reum"
+    },
+    {
+     "c": "Seo-yoon's Mother",
+     "n": "Lee Gyeong-hwa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Kim Hye-young"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 1466115,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "A high school girl wakes up each day with no memory of yesterday. When she agrees to date a shy classmate, can their love grow with every new beginning?",
+   "popularity": 5.1796,
+   "poster_path": "/5eNN8KLDPUXDqIkTdCbmn1gx5P7.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-24",
+   "revenue": 5516015,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "One night... One love... A thousand goodbyes...",
+   "title": "Even If This Love Disappears Tonight",
+   "trailer": {
+    "key": "rjAs9Ks-3V0",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.504,
+   "vote_count": 250
+  },
+  "movie:1515615": {
+   "backdrop_path": "/7yuHdP85F2ZxhKbSoPgCBT9uJT3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sean Foster",
+     "n": "Asher Angel"
+    },
+    {
+     "c": "Flora Morgan",
+     "n": "Paris Berelc"
+    },
+    {
+     "c": "Erin Foster",
+     "n": "Jennifer Robertson"
+    },
+    {
+     "c": "Denny",
+     "n": "Tom Keat"
+    },
+    {
+     "c": "Lindsey Foster",
+     "n": "Rosalie Turmel"
+    },
+    {
+     "c": "Mark",
+     "n": "Daniel Falk"
+    },
+    {
+     "c": "Alice",
+     "n": "Sorika Horng"
+    },
+    {
+     "c": "Tucker",
+     "n": "Mark Ballantyne"
+    },
+    {
+     "c": "Raymond",
+     "n": "Roshahn Dhoré"
+    },
+    {
+     "c": "Josie",
+     "n": "Hayley Festeryga"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Fawzia Mirza"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 1515615,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Sean's gunning for MIT. Flora's ditching the SAT. A secret deal with her tenured parents sparks a romance that challenges everything they believe in.",
+   "popularity": 7.0031,
+   "poster_path": "/gPxlb7LLqbsKgjltgVrgYdhfxCZ.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-13",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Kissing Is the Easy Part",
+   "trailer": {
+    "key": "T65yqsFnuSQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.238,
+   "vote_count": 107
+  },
+  "movie:1584215": {
+   "backdrop_path": "/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Renee",
+     "n": "Lizzy Greene"
+    },
+    {
+     "c": "Candace Dalton",
+     "n": "Megan Boone"
+    },
+    {
+     "c": "Apothecary",
+     "n": "Sky Katz"
+    },
+    {
+     "c": "Dick Jones",
+     "n": "Philip Winchester"
+    },
+    {
+     "c": "Dagger",
+     "n": "Alix Villaret"
+    },
+    {
+     "c": "Rubicon",
+     "n": "Ollie Roddy"
+    },
+    {
+     "c": "Caliber",
+     "n": "Kaine Buffonge"
+    },
+    {
+     "c": "Analyst",
+     "n": "Will Pierson"
+    },
+    {
+     "c": "Vlad Kurchenko",
+     "n": "Jonas Armstrong"
+    },
+    {
+     "c": "",
+     "n": "Sullivan Stapleton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "James Bamford"
+   ],
+   "genres": [
+    "Action"
+   ],
+   "id": 1584215,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A CIA-trained assassin recruits other graduates from her secret childhood program, The Internship, to violently destroy the organization. The CIA fights back with deadly force.",
+   "popularity": 11.3756,
+   "poster_path": "/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-13",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Internship",
+   "trailer": {
+    "key": "uXRFha7MLTM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.416,
+   "vote_count": 149
+  },
   "movie:24615": {
    "backdrop_path": "/7gvgpPaDmqPEIMaZTz04Zwhe8dP.jpg",
    "budget": 0,

@@ -1,6 +1,6 @@
 {
  "bucket": "90",
- "count": 19,
+ "count": 25,
  "titles": {
   "movie:10390": {
    "d": "For Love of the Game (1999): Drama/Romance film. Story: A baseball legend almost finished with his… See cast, budget $50M, and TMDB rating 6.4/10.",
@@ -193,6 +193,134 @@
    "t": "Slap Shot (1977) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1977"
   },
+  "movie:1168190": {
+   "d": "The Wrecking Crew (2026): Action/Comedy film. Story: Estranged half-brothers Jonny and James reunite after… See cast, budget $78.5M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+   "industry": "world",
+   "k": "The Wrecking Crew, The Wrecking Crew movie, The Wrecking Crew cast, The Wrecking Crew story, The Wrecking Crew box office collection, The Wrecking Crew budget, The Wrecking Crew review, The Wrecking Crew rating, The Wrecking Crew release date, The Wrecking Crew trailer, The Wrecking Crew Action, The Wrecking Crew Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dave Bautista"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Momoa"
+     },
+     {
+      "@type": "Person",
+      "name": "Temuera Morrison"
+     },
+     {
+      "@type": "Person",
+      "name": "Morena Baccarin"
+     },
+     {
+      "@type": "Person",
+      "name": "Roimata Fox"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1355,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Wrecking Crew (2026): Action/Comedy film. Story: Estranged half-brothers Jonny and James reunite after… See cast, budget $78.5M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ángel Manuel Soto"
+     }
+    ],
+    "duration": "PT125M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1168190",
+    "name": "The Wrecking Crew",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1168190"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Wrecking Crew (2026)</h1>\n<p class=\"ssr-lead\">Estranged half-brothers Jonny and James reunite after their father&#x27;s mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 January 2026</li><li>Runtime: 125 minutes</li><li>Director: Ángel Manuel Soto</li><li>Genres: Action, Comedy, Crime, Mystery</li><li>Budget: $78.5M</li><li>TMDB rating: 7.1/10 (1355 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dave Bautista as James Hale</li><li>Jason Momoa as Jonny Hale</li><li>Temuera Morrison as Governor Peter Mahoe</li><li>Morena Baccarin as Valentina</li><li>Roimata Fox as Leila Hale</li><li>Frankie Adams as Haunani Palakiko</li><li>Claes Bang as Marcus Robichaux</li><li>Jacob Batalon as Pika</li><li>Maia Kealoha as Lani</li><li>Stephen Root as Detective Rennert</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "The Wrecking Crew (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1254590": {
+   "d": "Kalamkaval (2025): Crime/Drama film. Story: Early 2010s. A routine Kerala Police inquiry in the… See cast, TMDB rating 6.3/10, and release date 5 December 2025.",
+   "img": "https://image.tmdb.org/t/p/w780/iF0gpj1HFRCi7VcWnJTg90ApYBW.jpg",
+   "industry": "bollywood",
+   "k": "Kalamkaval, Kalamkaval movie, Kalamkaval cast, Kalamkaval story, Kalamkaval box office collection, Kalamkaval budget, Kalamkaval review, Kalamkaval rating, Kalamkaval release date, Kalamkaval Crime, Kalamkaval Drama, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vinayakan"
+     },
+     {
+      "@type": "Person",
+      "name": "Mammootty"
+     },
+     {
+      "@type": "Person",
+      "name": "Gibin Gopinath"
+     },
+     {
+      "@type": "Person",
+      "name": "Rajisha Vijayan"
+     },
+     {
+      "@type": "Person",
+      "name": "Shruti Ramachandran"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 27,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Kalamkaval (2025): Crime/Drama film. Story: Early 2010s. A routine Kerala Police inquiry in the… See cast, TMDB rating 6.3/10, and release date 5 December 2025.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jithin K Jose"
+     }
+    ],
+    "duration": "PT144M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iF0gpj1HFRCi7VcWnJTg90ApYBW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1254590",
+    "name": "Kalamkaval",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1254590"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Kalamkaval (2025)</h1>\n<p class=\"ssr-lead\">Early 2010s. A routine Kerala Police inquiry in the quiet village of Kottayikonam takes an unexpected turn when a trail of seemingly minor clues unravels into a string of disturbing cases. The investigation soon crosses into Tamil Nadu, revealing unsolved mysteries that have lingered for years.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 December 2025</li><li>Runtime: 144 minutes</li><li>Director: Jithin K Jose</li><li>Genres: Crime, Drama</li><li>TMDB rating: 6.3/10 (27 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vinayakan as Jayakrishnan</li><li>Mammootty as Stanley Das</li><li>Gibin Gopinath as Anand</li><li>Rajisha Vijayan as Divya</li><li>Shruti Ramachandran as Deepa</li><li>Kunchan as George</li><li>Biju Pappan as Thomas K.</li><li>Megha Thomas as Sindhu</li><li>Malavika Menon as Babitha</li><li>Gayatri Arun as Shiny</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Liv, Sonyliv Amazon Channel</li></ul>\n</article>",
+   "t": "Kalamkaval (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
   "movie:125490": {
    "d": "Antiviral (2012): Science Fiction/Horror film. Story: Syd March is employed at a clinic that sells… See cast, budget $3.5M, and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/pO2j1lxSXmrvCgzuw65pDOFBXXC.jpg",
@@ -320,6 +448,261 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Dead Space: Downfall (2008)</h1>\n<p class=\"ssr-lead\">On a deep space mining mission to a remote planet, an ancient religious relic - thought to be proof of the existence of God - is unearthed and brought aboard. When the unholy artifact unleashes a long-dormant alien race, its glimpse of Heaven transforms the ship into a living Hell. A prequel to the events of the 2008 video game Dead Space.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 October 2008</li><li>Runtime: 74 minutes</li><li>Director: Chuck Patton</li><li>Genres: Animation, Horror, Science Fiction, Thriller</li><li>TMDB rating: 6.7/10 (474 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bruce Boxleitner as Colin Barrow (voice)</li><li>Grey DeLisle as Heather / Donna Fawkes (voice)</li><li>Jeff Bennett as Leggio / Dobbs / Jackson (voice)</li><li>Jim Cummings as Captain Mathius / Farum (voice)</li><li>Lia Sargent as Jen Barrow (voice)</li><li>Nika Futterman as Alissa Vincent (voice)</li><li>Maurice LaMarche as White / Bavaro (voice)</li><li>Kelly Hu as Shen (voice)</li><li>Phil Morris as Hansen / Glenn (voice)</li><li>Bob Neill as Cartusian (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Movie Sphere+</li><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Dead Space: Downfall (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2008"
+  },
+  "movie:1327690": {
+   "d": "One Mile: Chapter Two (2026): Action/Crime film. Story: Former special forces operative Danny is forced back… See cast and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jxQIjkJBTyZSxN3yyilpR0ns6HA.jpg",
+   "industry": "world",
+   "k": "One Mile: Chapter Two, One Mile: Chapter Two movie, One Mile: Chapter Two cast, One Mile: Chapter Two story, One Mile: Chapter Two box office collection, One Mile: Chapter Two budget, One Mile: Chapter Two review, One Mile: Chapter Two rating, One Mile: Chapter Two release date, One Mile: Chapter Two trailer, One Mile: Chapter Two Action, One Mile: Chapter Two Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ryan Phillippe"
+     },
+     {
+      "@type": "Person",
+      "name": "Amélie Hoeferle"
+     },
+     {
+      "@type": "Person",
+      "name": "Sara Canning"
+     },
+     {
+      "@type": "Person",
+      "name": "Sage Linder"
+     },
+     {
+      "@type": "Person",
+      "name": "Beverley Elliott"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 154,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "One Mile: Chapter Two (2026): Action/Crime film. Story: Former special forces operative Danny is forced back… See cast and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Adam Davidson"
+     }
+    ],
+    "duration": "PT84M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jxQIjkJBTyZSxN3yyilpR0ns6HA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1327690",
+    "name": "One Mile: Chapter Two",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1327690"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>One Mile: Chapter Two (2026)</h1>\n<p class=\"ssr-lead\">Former special forces operative Danny is forced back onto a remote island when a violent, secretive community takes revenge by abducting his daughter Alex, launching a relentless hunt against enemies prepared for his every move.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 February 2026</li><li>Runtime: 84 minutes</li><li>Director: Adam Davidson</li><li>Genres: Action, Crime</li><li>TMDB rating: 6.6/10 (154 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ryan Phillippe as Danny</li><li>Amélie Hoeferle as Alex</li><li>Sara Canning as Janine</li><li>Sage Linder as Lily Copeland</li><li>Beverley Elliott as Abigail Dixon</li><li>Phil Burke as Angus</li><li>Gabrielle Jacinto as Carrie</li><li>C. Thomas Howell as Stanley Dixon</li><li>Keana Velsen as Birthing Woman</li><li>Garfield Wilson as Curtis</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "One Mile: Chapter Two (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1428990": {
+   "d": "This Is Not a Test (2026): Thriller/Horror film. Story: Sloane and four classmates take cover in Cortege High… See cast and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dydvEc82Z6ptEx3aAubzJawesiQ.jpg",
+   "industry": "world",
+   "k": "This Is Not a Test, This Is Not a Test movie, This Is Not a Test cast, This Is Not a Test story, This Is Not a Test box office collection, This Is Not a Test budget, This Is Not a Test review, This Is Not a Test rating, This Is Not a Test release date, This Is Not a Test trailer, This Is Not a Test Thriller, This Is Not a Test Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Olivia Holt"
+     },
+     {
+      "@type": "Person",
+      "name": "Froy Gutierrez"
+     },
+     {
+      "@type": "Person",
+      "name": "Carson MacCormac"
+     },
+     {
+      "@type": "Person",
+      "name": "Corteon Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "Chloe Avakian"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 120,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "This Is Not a Test (2026): Thriller/Horror film. Story: Sloane and four classmates take cover in Cortege High… See cast and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Adam MacDonald"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Thriller",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dydvEc82Z6ptEx3aAubzJawesiQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1428990",
+    "name": "This Is Not a Test",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1428990"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>This Is Not a Test (2026)</h1>\n<p class=\"ssr-lead\">Sloane and four classmates take cover in Cortege High to escape a world plagued by the infected. As danger relentlessly pounds on the doors, Sloane begins to see the world through the eyes of those who actually want to live and takes matters into her own hands.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 February 2026</li><li>Runtime: 102 minutes</li><li>Director: Adam MacDonald</li><li>Genres: Thriller, Horror</li><li>TMDB rating: 5.8/10 (120 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Olivia Holt as Sloane</li><li>Froy Gutierrez as Rhys</li><li>Carson MacCormac as Trace</li><li>Corteon Moore as Cary</li><li>Chloe Avakian as Grace</li><li>Luke Macfarlane as Mr. Baxter</li><li>Krista Bridges as Mrs. Casper</li><li>Joelle Farrow as Lilly</li><li>Jeff Roop as Sloane’s Dad</li><li>Perez Tieku as Man on Megaphone</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC+ Amazon Channel, AMC+ Roku Premium Channel, Shudder</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "This Is Not a Test (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1500890": {
+   "d": "Lockbox (2026): Horror film. Story: A woman puts her life on the line to protect her… See cast, TMDB rating 6.3/10, and release date 2 July 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/5NO5ZasDjCaRgU1Efmtiv1nwLjq.jpg",
+   "industry": "world",
+   "k": "Lockbox, Lockbox movie, Lockbox cast, Lockbox story, Lockbox box office collection, Lockbox budget, Lockbox review, Lockbox rating, Lockbox release date, Lockbox trailer, Lockbox Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Carla Gugino"
+     },
+     {
+      "@type": "Person",
+      "name": "Lou Taylor Pucci"
+     },
+     {
+      "@type": "Person",
+      "name": "Katharine Isabelle"
+     },
+     {
+      "@type": "Person",
+      "name": "Roman Kinsella"
+     },
+     {
+      "@type": "Person",
+      "name": "Donald Sales"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 28,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Lockbox (2026): Horror film. Story: A woman puts her life on the line to protect her… See cast, TMDB rating 6.3/10, and release date 2 July 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Daniel Stamm"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5NO5ZasDjCaRgU1Efmtiv1nwLjq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1500890",
+    "name": "Lockbox",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1500890"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Lockbox (2026)</h1>\n<p class=\"ssr-lead\">A woman puts her life on the line to protect her troubled and enigmatic cousin, who has been targeted and hunted by a powerful supernatural force.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 July 2026</li><li>Runtime: 105 minutes</li><li>Director: Daniel Stamm</li><li>Genres: Horror</li><li>TMDB rating: 6.3/10 (28 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Carla Gugino as Ellen Hershbergen</li><li>Lou Taylor Pucci as Winthrop Benson</li><li>Katharine Isabelle as Vahna Minter</li><li>Roman Kinsella as Young Winthrop</li><li>Donald Sales as Det. Rousch</li><li>Jason McKinnon as Prosecutor Breslow</li><li>Darcey Johnson as Father John Dorr</li><li>Lee Tichon as Kevin</li><li>Jecca Beauchamp as Young Vahna</li><li>Aedan Edwards as The Boy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM+ Amazon Channel, Philo, MGM Plus Roku Premium Channel, MGM Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Lockbox (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1599090": {
+   "d": "Skyscraper Live (2026): Adventure/Documentary film. Story: No ropes. No fear. Free solo legend Alex Honnold… See cast and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ln4AcBFey31UWfW3cQdKPwdfvAd.jpg",
+   "industry": "world",
+   "k": "Skyscraper Live, Skyscraper Live movie, Skyscraper Live cast, Skyscraper Live story, Skyscraper Live box office collection, Skyscraper Live budget, Skyscraper Live review, Skyscraper Live rating, Skyscraper Live release date, Skyscraper Live trailer, Skyscraper Live Adventure, Skyscraper Live Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alex Honnold"
+     },
+     {
+      "@type": "Person",
+      "name": "Elle Duncan"
+     },
+     {
+      "@type": "Person",
+      "name": "Emily Harrington"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Rober"
+     },
+     {
+      "@type": "Person",
+      "name": "Sanni McCandless"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 52,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Skyscraper Live (2026): Adventure/Documentary film. Story: No ropes. No fear. Free solo legend Alex Honnold… See cast and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joe DeMaio"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Adventure",
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ln4AcBFey31UWfW3cQdKPwdfvAd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1599090",
+    "name": "Skyscraper Live",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1599090"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Skyscraper Live (2026)</h1>\n<p class=\"ssr-lead\">No ropes. No fear. Free solo legend Alex Honnold risks it all in a high-stakes, live ascent of one of the world&#x27;s tallest skyscrapers in Taipei, Taiwan.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 January 2026</li><li>Runtime: 117 minutes</li><li>Director: Joe DeMaio</li><li>Genres: Adventure, Documentary</li><li>TMDB rating: 7.5/10 (52 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alex Honnold as Self</li><li>Elle Duncan as Self - Host</li><li>Emily Harrington as Self</li><li>Mark Rober as Self</li><li>Sanni McCandless as Self</li><li>Colby Lopez as Self</li><li>Pete Woods as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Skyscraper Live (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:18890": {
    "d": "We're Back! A Dinosaur's Story (1993): Animation/Science Fiction film. Story: Captain New Eyes travels back in time and feeds… See cast and TMDB rating 6.1/10.",

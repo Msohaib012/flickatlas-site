@@ -1,6 +1,6 @@
 {
  "bucket": "29",
- "count": 14,
+ "count": 22,
  "titles": {
   "movie:10729": {
    "backdrop_path": "/fVKTOZwkLer18dG3piAzSPWFlY5.jpg",
@@ -294,6 +294,311 @@
    "vote_average": 6.444,
    "vote_count": 463
   },
+  "movie:1314829": {
+   "backdrop_path": "/w4ssqWwSiSumZve63L1gtXd3bC5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "James Jensen",
+     "n": "Michael Gilio"
+    },
+    {
+     "c": "Monkey / Profoctopus",
+     "n": "Frank Cesario"
+    },
+    {
+     "c": "Monkey's \"Hands\"",
+     "n": "C.R. Thompson"
+    },
+    {
+     "c": "Fausty Fox",
+     "n": "Jackie Shook"
+    },
+    {
+     "c": "Bird / Beaver",
+     "n": "Connar Brown Sprenger"
+    },
+    {
+     "c": "Beaver (voice)",
+     "n": "Ben Gojer"
+    },
+    {
+     "c": "King Rory Lion",
+     "n": "Rob Chesler"
+    },
+    {
+     "c": "Ferret",
+     "n": "Erick Heyer-Fogelberg"
+    },
+    {
+     "c": "Young James",
+     "n": "Roman Gilio"
+    },
+    {
+     "c": "The Post Lady",
+     "n": "Jordan Olivia Mershon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Aidan Leary"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 1314829,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After a mysterious bout of amnesia, a beloved children’s television host struggles to piece together his fractured memories, only to find his once-cheerful puppet co-stars behaving with sinister intent. As reality unravels, the line between performance and nightmare begins to blur.",
+   "popularity": 1.5653,
+   "poster_path": "/g1v1ogfa8PCvcYJ1JSmrqbcHMAP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-14",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Welcome to the Neighborhood.",
+   "title": "Monkey’s Magic Merry Go Round",
+   "trailer": {
+    "key": "V3ArYv4OWa4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 50
+  },
+  "movie:1433929": {
+   "backdrop_path": "/2Pibybzy2hSe74KTNAxja4OJ5hj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Aïssa",
+     "n": "Riadh Belaïche"
+    },
+    {
+     "c": "Oscar",
+     "n": "Bakary Diombera"
+    },
+    {
+     "c": "Simon",
+     "n": "Gaspard Gevin-Hié"
+    },
+    {
+     "c": "Johanna",
+     "n": "Mylène Jampanoï"
+    },
+    {
+     "c": "Mona",
+     "n": "Paola Locatelli"
+    },
+    {
+     "c": "Dimitri",
+     "n": "Arben Bajraktaraj"
+    },
+    {
+     "c": "Barth",
+     "n": "Jérémie Covillault"
+    },
+    {
+     "c": "Philippe",
+     "n": "Damien Jouillerot"
+    },
+    {
+     "c": "Josiane",
+     "n": "Audrey Marnay"
+    },
+    {
+     "c": "Aminata",
+     "n": "Aissatou Diallo Sagna"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Morade Aïssaoui"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 1433929,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Oscar, Simon, and Aïssa, three childhood friends, go to Paris to celebrate some good news. But on the night bus taking them home—the N121—an exchange between passengers spirals out of control, and the situation quickly goes off the rails.",
+   "popularity": 1.8561,
+   "poster_path": "/kyqgCGP7GkAeBD5wTErqoABzY1u.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-04",
+   "revenue": 0,
+   "runtime": 0,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "N121 Bus de nuit",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.241,
+   "vote_count": 27
+  },
   "movie:14429": {
    "backdrop_path": "/yV08G6ztiu95yHF8jyw42sqL1v.jpg",
    "budget": 8000000,
@@ -449,6 +754,99 @@
    "vote_average": 6.622,
    "vote_count": 455
   },
+  "movie:1462229": {
+   "backdrop_path": "/pCOzvvObjPUl55DpSNdgXxx3uMT.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Zhang Chi",
+     "n": "Shen Teng"
+    },
+    {
+     "c": "Sun Yuqiang",
+     "n": "Yin Zheng"
+    },
+    {
+     "c": "Lin Zhendong",
+     "n": "Johnny Huang"
+    },
+    {
+     "c": "Ji Xing",
+     "n": "Zhang Benyu"
+    },
+    {
+     "c": "Manager Ye",
+     "n": "Wei Xiang"
+    },
+    {
+     "c": "Bai Qiang",
+     "n": "Sha Yi"
+    },
+    {
+     "c": "Li Xiaohai",
+     "n": "Fan Chengcheng"
+    },
+    {
+     "c": "Liu Xiande",
+     "n": "Sun Yizhou"
+    },
+    {
+     "c": "Mr. An",
+     "n": "Duan Yihong"
+    },
+    {
+     "c": "Li Lun",
+     "n": "Zhang Xincheng"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Han Han"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1462229,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "Bearing the glory of being the 'King of Bayanbulak', Zhang Chi once again embarks on his racing journey, aiming not only to win the race but also to achieve something beyond the competition itself.",
+   "popularity": 3.3339,
+   "poster_path": "/7lA564Na4uofXpfqRUnVQdSa2bg.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-17",
+   "revenue": 656459523,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "Let's lay out the road and race ahead.",
+   "title": "Pegasus 3",
+   "trailer": {
+    "key": "zNu476xN6Ao",
+    "name": "Official IMAX Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.925,
+   "vote_count": 53
+  },
   "movie:146229": {
    "backdrop_path": "/e1gAy3E4bvOLnhNUB8LLCEC17kW.jpg",
    "budget": 6900000,
@@ -561,6 +959,547 @@
    "type": "movie",
    "vote_average": 6.074,
    "vote_count": 470
+  },
+  "movie:1472829": {
+   "backdrop_path": "/yiv3EcZxbtzjbPLjSVF7P6amdPu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cyrano de Bergerac",
+     "n": "Artus"
+    },
+    {
+     "c": "Madeleine Béjart",
+     "n": "Julia Piaton"
+    },
+    {
+     "c": "D’Artagnan",
+     "n": "Franck Dubosc"
+    },
+    {
+     "c": "Molière",
+     "n": "Némo Schiffman"
+    },
+    {
+     "c": "Conti",
+     "n": "Xavier Robic"
+    },
+    {
+     "c": "Anne d'Autriche",
+     "n": "Doria Tillier"
+    },
+    {
+     "c": "Louis XIV",
+     "n": "Nils Hamel Brochen"
+    },
+    {
+     "c": "La Grande Demoiselle",
+     "n": "Suzanne de Baecque"
+    },
+    {
+     "c": "",
+     "n": "Damien Jouillerot"
+    },
+    {
+     "c": "",
+     "n": "Noam Morgensztern"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Michel Leclerc"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "History"
+   ],
+   "id": 1472829,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "During the Paris rebellion, young Louis XIV must be hidden from danger and is secretly replaced at court by a look-alike. Entrusted to the musketeer-poet Cyrano de Bergerac, Louis is sheltered within Madeleine Béjart’s traveling theater troupe, where the actor and aspiring playwright Molière has just joined – unaware their newest member is the future king of France. As Cyrano struggles to handle the arrogant and clumsy young king, he begins writing a bold play for the troupe. Molière, bursting with ideas, transforms the work with wit and heart, awakening his genius for comedy and deepening his secret feelings for Madeleine, while young Louis discovers the joy of theater and the power of friendship. But back in Paris, intrigue is brewing – can the young king return in time before the masquerade is revealed and embrace his true royal destiny?",
+   "popularity": 1.8449,
+   "poster_path": "/kP1Zl9IpGp28P2x0ogzKcQKkALv.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-24",
+   "revenue": 0,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Wit, love and an undercover prince spark the beginning of French comedy.",
+   "title": "Molière, Cyrano and the Young King",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.913,
+   "vote_count": 23
+  },
+  "movie:1515729": {
+   "backdrop_path": "/xsoKAonKy1zk5XoQoUG1dUXDCKH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rajaraman",
+     "n": "Arjun Sarja"
+    },
+    {
+     "c": "Neelaveni",
+     "n": "Abhirami"
+    },
+    {
+     "c": "Nila",
+     "n": "Preity Mukhundhan"
+    },
+    {
+     "c": "Ilango",
+     "n": "Vivek Prasanna"
+    },
+    {
+     "c": "Varun Dhayalan",
+     "n": "John Kokken"
+    },
+    {
+     "c": "Abraham",
+     "n": "Arjun Chidambaram"
+    },
+    {
+     "c": "Kirupakaran",
+     "n": "Pawan"
+    },
+    {
+     "c": "Arunagiri",
+     "n": "Dhileban"
+    },
+    {
+     "c": "Toby",
+     "n": "Vinod Sagar"
+    },
+    {
+     "c": "Siva",
+     "n": "Bala Hasan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Subash K Raj"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 1515729,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "ta",
+   "overview": "A seemingly ordinary family must unleash their hidden martial arts skills when they clash with a ruthless criminal gang tied to corruption and violence.",
+   "popularity": 7.3698,
+   "poster_path": "/lpsUpXieodUhN6DlK9ZDnjkysLk.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-28",
+   "revenue": 798851,
+   "runtime": 143,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ta"
+   ],
+   "status": "Released",
+   "tagline": "Blood bound. Battle ready.",
+   "title": "Blast",
+   "trailer": {
+    "key": "aM5OLvxFBO4",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.8,
+   "vote_count": 80
+  },
+  "movie:1641629": {
+   "backdrop_path": "/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alma Lancaster",
+     "n": "Vittoria Di Savoia"
+    },
+    {
+     "c": "Vadim Arcadi",
+     "n": "Lucas Barski"
+    },
+    {
+     "c": "Clémentine",
+     "n": "Zoé Garcia"
+    },
+    {
+     "c": "Timothé Vallas",
+     "n": "Léo Legrand"
+    },
+    {
+     "c": "Edward Lancaster",
+     "n": "Jean-Yves Berteloot"
+    },
+    {
+     "c": "Marie Lancaster",
+     "n": "Suliane Brahim"
+    },
+    {
+     "c": "Basile Lancaster",
+     "n": "Aymeric Fougeron"
+    },
+    {
+     "c": "Lily Lancaster",
+     "n": "Gabrielle Taittinger"
+    },
+    {
+     "c": "Oscar Johnson",
+     "n": "Bryan Trésor"
+    },
+    {
+     "c": "Félix Alonso",
+     "n": "Aboubacar Bidanessy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Manon Gaurin"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 1641629,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love — despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.",
+   "popularity": 19.3655,
+   "poster_path": "/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
+   "production_countries": [
+    "FR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-18",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "He runs from everything. Except her.",
+   "title": "You+Me - Against the World",
+   "trailer": {
+    "key": "z2Bw_nTXjG4",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.533,
+   "vote_count": 123
+  },
+  "movie:1669929": {
+   "backdrop_path": "/tWgcmID3U63WdWcoXEPcJA81HL7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fafner",
+     "n": "Mario Castañeda"
+    },
+    {
+     "c": "Sigurd",
+     "n": "Jakora Xochitl"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Daniel Duche"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Drama"
+   ],
+   "id": 1669929,
+   "industry": "world",
+   "origin_country": [
+    "AR"
+   ],
+   "original_language": "es",
+   "overview": "Fafner, a mercenary anti-hero, descends upon a city torn by conflict, relentlessly tracking a trail of coins that will lead him toward his inevitable fate.",
+   "popularity": 0.8784,
+   "poster_path": "/qY68xehCZJcDNqZJ0gTo2DqraJi.jpg",
+   "production_countries": [],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-13",
+   "revenue": 0,
+   "runtime": 32,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Gold Trail",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.08,
+   "vote_count": 25
+  },
+  "movie:1705729": {
+   "backdrop_path": "/jEvff0AJue5DtzNd2rvFDgSNVuH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Michael Connor",
+     "n": "LaMonica Garrett"
+    },
+    {
+     "c": "Dany Sundakov",
+     "n": "Andrew Howard"
+    },
+    {
+     "c": "Bunny",
+     "n": "Linds Edwards"
+    },
+    {
+     "c": "Riley",
+     "n": "Rosmary Yaneva"
+    },
+    {
+     "c": "Charlie Lewis",
+     "n": "Jason Patric"
+    },
+    {
+     "c": "Stanismir Koniev",
+     "n": "Daniel Bernhardt"
+    },
+    {
+     "c": "Laggs",
+     "n": "Antoni Davidov"
+    },
+    {
+     "c": "Bam-Bam",
+     "n": "François Coetzer"
+    },
+    {
+     "c": "Flo",
+     "n": "Boyan Anev"
+    },
+    {
+     "c": "Zeus",
+     "n": "Greg Burridge"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "William Kaufman"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "War",
+    "TV Movie"
+   ],
+   "id": 1705729,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
+   "popularity": 4.3442,
+   "poster_path": "/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-03",
+   "revenue": 0,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "bg",
+    "en",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Man of War",
+   "trailer": {
+    "key": "q0_t2HOsDsY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.478,
+   "vote_count": 45
   },
   "movie:308529": {
    "backdrop_path": "/mZT5eXy9Tapf85LV62hkfaVp2Of.jpg",

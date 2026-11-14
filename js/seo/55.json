@@ -1,7 +1,71 @@
 {
  "bucket": "55",
- "count": 16,
+ "count": 25,
  "titles": {
+  "movie:1010755": {
+   "d": "The Strangers: Chapter 3 (2026): Horror/Thriller film. Story: Tethered by a frightening conclusion, Maya and the… See cast and budget $8.5M.",
+   "img": "https://image.tmdb.org/t/p/w780/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
+   "industry": "world",
+   "k": "The Strangers: Chapter 3, The Strangers: Chapter 3 movie, The Strangers: Chapter 3 cast, The Strangers: Chapter 3 story, The Strangers: Chapter 3 box office collection, The Strangers: Chapter 3 budget, The Strangers: Chapter 3 review, The Strangers: Chapter 3 rating, The Strangers: Chapter 3 release date, The Strangers: Chapter 3 trailer, The Strangers: Chapter 3 Horror, The Strangers: Chapter 3 Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Madelaine Petsch"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Brake"
+     },
+     {
+      "@type": "Person",
+      "name": "Ema Horvath"
+     },
+     {
+      "@type": "Person",
+      "name": "Gabriel Basso"
+     },
+     {
+      "@type": "Person",
+      "name": "Pedro Leandro"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 355,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "The Strangers: Chapter 3 (2026): Horror/Thriller film. Story: Tethered by a frightening conclusion, Maya and the… See cast and budget $8.5M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Renny Harlin"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1010755",
+    "name": "The Strangers: Chapter 3",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1010755"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Strangers: Chapter 3 (2026)</h1>\n<p class=\"ssr-lead\">Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they’re far from strangers now.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 February 2026</li><li>Runtime: 92 minutes</li><li>Director: Renny Harlin</li><li>Genres: Horror, Thriller</li><li>Budget: $8.5M</li><li>TMDB rating: 5.9/10 (355 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Madelaine Petsch as Maya</li><li>Richard Brake as Sheriff Rotter</li><li>Ema Horvath as Shelly / Pinup</li><li>Gabriel Basso as Gregory / Scarecrow</li><li>Pedro Leandro as Deputy Walters</li><li>Rachel Shenton as Debbie</li><li>George Young as Howard</li><li>Kyle Breitkopf as Teenage Gregory / Scarecrow</li><li>Finn Cofell as Teenage Pinup</li><li>Stevee Davies as Dougie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Strangers: Chapter 3 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:1212855": {
    "d": "Fight or Flight (2025): Action/Comedy film. Story: A mercenary takes on the job of tracking down a… See cast, budget $40M, and TMDB rating 6.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/jDyNnLyJUOsVgseQgkHPRxpyo4o.jpg",
@@ -129,6 +193,123 @@
    "t": "The Funhouse (1981) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1981"
   },
+  "movie:1397055": {
+   "d": "Love In Separate Beds (2026): Comedy film. Story: She hates men, he hates complications - but after one… See cast and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mBo1uTuTnc1aim8QIWwIQu4LM8c.jpg",
+   "industry": "world",
+   "k": "Love In Separate Beds, Love In Separate Beds movie, Love In Separate Beds cast, Love In Separate Beds story, Love In Separate Beds box office collection, Love In Separate Beds budget, Love In Separate Beds review, Love In Separate Beds rating, Love In Separate Beds release date, Love In Separate Beds Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Edoardo Leo"
+     },
+     {
+      "@type": "Person",
+      "name": "Claudia Pandolfi"
+     },
+     {
+      "@type": "Person",
+      "name": "Gianmarco Tognazzi"
+     },
+     {
+      "@type": "Person",
+      "name": "Giorgio Colangeli"
+     },
+     {
+      "@type": "Person",
+      "name": "Benedetta Tiberi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 63,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Love In Separate Beds (2026): Comedy film. Story: She hates men, he hates complications - but after one… See cast and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Massimiliano Bruno"
+     }
+    ],
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mBo1uTuTnc1aim8QIWwIQu4LM8c.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1397055",
+    "name": "Love In Separate Beds",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1397055"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Love In Separate Beds (2026)</h1>\n<p class=\"ssr-lead\">She hates men, he hates complications - but after one passionate night ties them together, these two irreconcilable opposites are forced to coexist... working at the same school, with a baby on the way! Can a staunch feminist and an oblivious chauvinist find common ground?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 January 2026</li><li>Director: Massimiliano Bruno</li><li>Genres: Comedy</li><li>TMDB rating: 5.9/10 (63 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Edoardo Leo as Valerio</li><li>Claudia Pandolfi as Alessandra</li><li>Gianmarco Tognazzi as Sebastiano</li><li>Giorgio Colangeli as Giacinto</li><li>Benedetta Tiberi as Lavinia</li><li>Francesca Alati as Sestili</li><li>Marco Quaglia as Raimondo</li><li>Federica Cifola as Borgonovo</li><li>Alessia Barela as Barbara</li><li>Francesca Figus as Flavia</li></ul>\n</article>",
+   "t": "Love In Separate Beds (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1398655": {
+   "d": "Blue Film (2026): Drama film. Story: Drawn by the promise of easy money and anonymous sex… See cast, TMDB rating 6.7/10, and release date 11 September 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/blzqBnnWP8e5Z93t5tccXUrQoSW.jpg",
+   "industry": "world",
+   "k": "Blue Film, Blue Film movie, Blue Film cast, Blue Film story, Blue Film box office collection, Blue Film budget, Blue Film review, Blue Film rating, Blue Film release date, Blue Film trailer, Blue Film Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Reed Birney"
+     },
+     {
+      "@type": "Person",
+      "name": "Kieron Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "Turner Beckett"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 23,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Blue Film (2026): Drama film. Story: Drawn by the promise of easy money and anonymous sex… See cast, TMDB rating 6.7/10, and release date 11 September 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Elliot Tuttle"
+     }
+    ],
+    "duration": "PT85M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/blzqBnnWP8e5Z93t5tccXUrQoSW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1398655",
+    "name": "Blue Film",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1398655"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Blue Film (2026)</h1>\n<p class=\"ssr-lead\">Drawn by the promise of easy money and anonymous sex, queer camboy Aaron Eagle is shocked to discover a personal connection with the mysterious stranger who has paid for his company.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 September 2026</li><li>Runtime: 85 minutes</li><li>Director: Elliot Tuttle</li><li>Genres: Drama</li><li>TMDB rating: 6.7/10 (23 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Reed Birney as Hank Grant</li><li>Kieron Moore as Aaron Eagle</li><li>Turner Beckett as Pre-teen (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Blue Film (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:14055": {
    "d": "Starter for 10 (2006): Drama/Comedy film. Story: In 1985, against the backdrop of Thatcherism, Brian… See cast and TMDB rating 6.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/1aIM2oiOBH5TJsvjcdU6ca9zwQX.jpg",
@@ -193,6 +374,198 @@
    "t": "Starter for 10 (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2006"
   },
+  "movie:1561955": {
+   "d": "Stephen (2025): Thriller/Mystery film. Story: A psychiatrist evaluating a self-confessed serial… See cast, TMDB rating 6.6/10, and release date 5 December 2025.",
+   "img": "https://image.tmdb.org/t/p/w780/7cQjb8cRbRjF5tM5gOCnqsvC0iT.jpg",
+   "industry": "bollywood",
+   "k": "Stephen, Stephen movie, Stephen cast, Stephen story, Stephen box office collection, Stephen budget, Stephen review, Stephen rating, Stephen release date, Stephen Thriller, Stephen Mystery, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gomathi Shankar"
+     },
+     {
+      "@type": "Person",
+      "name": "Smruthi Venkat"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Thangadurai"
+     },
+     {
+      "@type": "Person",
+      "name": "Vijayashree"
+     },
+     {
+      "@type": "Person",
+      "name": "Kuberan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 25,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Stephen (2025): Thriller/Mystery film. Story: A psychiatrist evaluating a self-confessed serial… See cast, TMDB rating 6.6/10, and release date 5 December 2025.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mithun"
+     }
+    ],
+    "duration": "PT124M",
+    "genre": [
+     "Thriller",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7cQjb8cRbRjF5tM5gOCnqsvC0iT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1561955",
+    "name": "Stephen",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1561955"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Stephen (2025)</h1>\n<p class=\"ssr-lead\">A psychiatrist evaluating a self-confessed serial killer unravels a twisted web of trauma, deceit, and psychological manipulation—only to question if the killer is truly guilty or just another victim in a larger, darker game.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 December 2025</li><li>Runtime: 124 minutes</li><li>Director: Mithun</li><li>Genres: Thriller, Mystery</li><li>TMDB rating: 6.6/10 (25 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gomathi Shankar as Stephen</li><li>Smruthi Venkat as Seema</li><li>Michael Thangadurai as Michael Thangadurai</li><li>Vijayashree as Stephen&#x27;s Mom</li><li>Kuberan as Stephen&#x27;s Dad</li><li>Shrisha as Krithika</li><li>Harija as Mary</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Stephen (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1571955": {
+   "d": "Collision Course (2026): Thriller/Drama film. Story: Spain, 2013. After robbing a bank, a getaway crash… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+   "industry": "world",
+   "k": "Collision Course, Collision Course movie, Collision Course cast, Collision Course story, Collision Course box office collection, Collision Course budget, Collision Course review, Collision Course rating, Collision Course release date, Collision Course trailer, Collision Course Thriller, Collision Course Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Laia Costa"
+     },
+     {
+      "@type": "Person",
+      "name": "Karra Elejalde"
+     },
+     {
+      "@type": "Person",
+      "name": "Luis Zahera"
+     },
+     {
+      "@type": "Person",
+      "name": "Tamar Novas"
+     },
+     {
+      "@type": "Person",
+      "name": "Álvaro Cervantes"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 102,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Collision Course (2026): Thriller/Drama film. Story: Spain, 2013. After robbing a bank, a getaway crash… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Daniel Sánchez Arévalo"
+     }
+    ],
+    "duration": "PT122M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1571955",
+    "name": "Collision Course",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1571955"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Collision Course (2026)</h1>\n<p class=\"ssr-lead\">Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 October 2026</li><li>Runtime: 122 minutes</li><li>Director: Daniel Sánchez Arévalo</li><li>Genres: Thriller, Drama, Crime</li><li>TMDB rating: 6.3/10 (102 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Laia Costa as Carla Mencía</li><li>Karra Elejalde as Pedro</li><li>Luis Zahera as Ernesto</li><li>Tamar Novas as Tomás</li><li>Álvaro Cervantes as Raúl</li><li>Lluís Homar as Luis</li><li>Luz Valdenebro as Lola</li><li>Víctor Duplá as Pablo</li><li>Jorge Cabrera as Turrientes</li><li>Mónica Miranda as Lucía</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Collision Course (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1659155": {
+   "d": "The Truthers (2026): Thriller/Drama film. Story: After her mother's sudden death, Ruth returns to her… See cast and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
+   "industry": "world",
+   "k": "The Truthers, The Truthers movie, The Truthers cast, The Truthers story, The Truthers box office collection, The Truthers budget, The Truthers review, The Truthers rating, The Truthers release date, The Truthers trailer, The Truthers Thriller, The Truthers Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jose Coronado"
+     },
+     {
+      "@type": "Person",
+      "name": "Stéphanie Magnin"
+     },
+     {
+      "@type": "Person",
+      "name": "Fanny Gautier"
+     },
+     {
+      "@type": "Person",
+      "name": "Alberto Olmo"
+     },
+     {
+      "@type": "Person",
+      "name": "Israel Ruiz"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 110,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "The Truthers (2026): Thriller/Drama film. Story: After her mother's sudden death, Ruth returns to her… See cast and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Roger Gual"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1659155",
+    "name": "The Truthers",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1659155"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Truthers (2026)</h1>\n<p class=\"ssr-lead\">After her mother&#x27;s sudden death, Ruth returns to her hometown and reunites with her father, whose odd behavior makes her question what really happened.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 July 2026</li><li>Runtime: 106 minutes</li><li>Director: Roger Gual</li><li>Genres: Thriller, Drama, Mystery</li><li>TMDB rating: 5.7/10 (110 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jose Coronado as Martín</li><li>Stéphanie Magnin as Ruth</li><li>Fanny Gautier as Lucía</li><li>Alberto Olmo as Arón</li><li>Israel Ruiz as Doctor Velasco</li><li>Mabel del Pozo as Berta</li><li>Celine Fortenbacher as Rose</li><li>Olaya Lopez as Recepcionista Cuartel</li><li>Armando Pita as Pedro (Tío)</li><li>Ana Casado as Ruth Niña</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Truthers (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:168055": {
    "d": "Love Is in the Air (2013): Comedy/Romance film. Story: Antoine is a lawyer living in New York. On his way… See cast and TMDB rating 6.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/mOzQklElA7ZBg3dSniCG7Npot7U.jpg",
@@ -256,6 +629,193 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Love Is in the Air (2013)</h1>\n<p class=\"ssr-lead\">Antoine is a lawyer living in New York. On his way back to France for the final round of a job interview, Antoine finds himself sitting right next to his ex-girlfriend Julie. With a seven-hour flight ahead of them, they are going to have to speak to each other.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 April 2013</li><li>Runtime: 96 minutes</li><li>Director: Alexandre Castagnetti</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 6.0/10 (443 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ludivine Sagnier as Julie</li><li>Nicolas Bedos as Antoine</li><li>Jonathan Cohen as Hugo</li><li>Arnaud Ducret as Franck</li><li>Brigitte Catillon as Claire</li><li>Jackie Berroyer as Arthur</li><li>Clémentine Célarié as Marie</li><li>Michel Vuillermoz as Georges</li><li>Lila Salet as Stéphanie</li><li>Ina Castagnetti as Aïssa</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Love Is in the Air (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
+  },
+  "movie:1699155": {
+   "d": "Maternal Instinct (2026): Documentary/Crime film. Story: Police pull over a woman who claims she just gave… See cast and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/oGD1dZvojZssnd9Ua6RUalEEHQu.jpg",
+   "industry": "world",
+   "k": "Maternal Instinct, Maternal Instinct movie, Maternal Instinct cast, Maternal Instinct story, Maternal Instinct box office collection, Maternal Instinct budget, Maternal Instinct review, Maternal Instinct rating, Maternal Instinct release date, Maternal Instinct trailer, Maternal Instinct Documentary, Maternal Instinct Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jessica Brookes"
+     },
+     {
+      "@type": "Person",
+      "name": "Wade Griffin"
+     },
+     {
+      "@type": "Person",
+      "name": "Taylor Parker"
+     },
+     {
+      "@type": "Person",
+      "name": "Reagan Simmons-Hancock"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 143,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Maternal Instinct (2026): Documentary/Crime film. Story: Police pull over a woman who claims she just gave… See cast and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jessica Dimmock"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Documentary",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oGD1dZvojZssnd9Ua6RUalEEHQu.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1699155",
+    "name": "Maternal Instinct",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1699155"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Maternal Instinct (2026)</h1>\n<p class=\"ssr-lead\">Police pull over a woman who claims she just gave birth. But the baby — and the blood — aren&#x27;t hers. Twisted lies unravel in this true-crime documentary.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 June 2026</li><li>Runtime: 97 minutes</li><li>Director: Jessica Dimmock</li><li>Genres: Documentary, Crime</li><li>TMDB rating: 7.1/10 (143 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jessica Brookes as Self - Mother of Reagan Simmons-Hancock</li><li>Wade Griffin as Self - Taylor&#x27;s Boyfriend</li><li>Taylor Parker as Self</li><li>Reagan Simmons-Hancock as Self - Murder victim</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Maternal Instinct (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1752355": {
+   "d": "Schumacher ’94 – The Birth of a Legend (2026): Documentary film. Story: Michael Schumacher's first World Championship win… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg",
+   "industry": "world",
+   "k": "Schumacher ’94 – The Birth of a Legend, Schumacher ’94 – The Birth of a Legend movie, Schumacher ’94 – The Birth of a Legend cast, Schumacher ’94 – The Birth of a Legend story, Schumacher ’94 – The Birth of a Legend box office collection, Schumacher ’94 – The Birth of a Legend budget, Schumacher ’94 – The Birth of a Legend review, Schumacher ’94 – The Birth of a Legend rating, Schumacher ’94 – The Birth of a Legend release date, Schumacher ’94 – The Birth of a Legend trailer, Schumacher ’94 – The Birth of a Legend Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Schumacher"
+     },
+     {
+      "@type": "Person",
+      "name": "Corinna Schumacher"
+     },
+     {
+      "@type": "Person",
+      "name": "Flavio Briatore"
+     },
+     {
+      "@type": "Person",
+      "name": "Bernie Ecclestone"
+     },
+     {
+      "@type": "Person",
+      "name": "David Coulthard"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 37,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Schumacher ’94 – The Birth of a Legend (2026): Documentary film. Story: Michael Schumacher's first World Championship win… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Christin Freitag"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1752355",
+    "name": "Schumacher ’94 – The Birth of a Legend",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1752355"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Schumacher ’94 – The Birth of a Legend (2026)</h1>\n<p class=\"ssr-lead\">Michael Schumacher&#x27;s first World Championship win roars to life through personal interviews and archival footage of the legendary 1994 Formula 1 season.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 October 2026</li><li>Runtime: 105 minutes</li><li>Director: Christin Freitag</li><li>Genres: Documentary</li><li>TMDB rating: 7.4/10 (37 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Schumacher as Self (archive footage)</li><li>Corinna Schumacher as Self</li><li>Flavio Briatore as Self</li><li>Bernie Ecclestone as Self</li><li>David Coulthard as Self</li><li>Willi Weber as Self</li><li>Kai Ebel as Self</li><li>Heiko Waßer as Self</li><li>Pat Symonds as Self</li><li>Lennart Betzgen as Michael Schumacher</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Schumacher ’94 – The Birth of a Legend (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1813355": {
+   "d": "A Story of Derry (2026): Drama/Horror film. Story: Hundreds of years before Pennywise, three youngsters… See cast and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+   "industry": "world",
+   "k": "A Story of Derry, A Story of Derry movie, A Story of Derry cast, A Story of Derry story, A Story of Derry box office collection, A Story of Derry budget, A Story of Derry review, A Story of Derry rating, A Story of Derry release date, A Story of Derry Drama, A Story of Derry Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kiawentiio"
+     },
+     {
+      "@type": "Person",
+      "name": "Isabel DeRoy-Olson"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Podemski"
+     },
+     {
+      "@type": "Person",
+      "name": "Zahn McClarnon"
+     },
+     {
+      "@type": "Person",
+      "name": "MorningStar Angeline"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 116,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "A Story of Derry (2026): Drama/Horror film. Story: Hundreds of years before Pennywise, three youngsters… See cast and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tazbah Chavez"
+     }
+    ],
+    "duration": "PT30M",
+    "genre": [
+     "Drama",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1813355",
+    "name": "A Story of Derry",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1813355"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Story of Derry (2026)</h1>\n<p class=\"ssr-lead\">Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 October 2026</li><li>Runtime: 30 minutes</li><li>Director: Tazbah Chavez</li><li>Genres: Drama, Horror, Mystery</li><li>TMDB rating: 6.7/10 (116 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kiawentiio as Neekani</li><li>Isabel DeRoy-Olson as Kino</li><li>Michael Podemski as Maneese</li><li>Zahn McClarnon as Mitig</li><li>MorningStar Angeline as Sesqui</li><li>Brandon Oakes as Apto</li><li>Jennifer Podemski as Miko</li><li>Eric Trask as Priest</li><li>Thosh Collins</li><li>Brenda Odjick as Nebowist</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "A Story of Derry (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:255": {
    "d": "Stolen Kisses (1968): Comedy/Drama film. Story: The third in a series of films featuring François… See cast, budget $350.0k, and TMDB rating 7.3/10.",

@@ -1,7 +1,98 @@
 {
  "bucket": "79",
- "count": 11,
+ "count": 17,
  "titles": {
+  "movie:1000879": {
+   "backdrop_path": "/r0txRSBp0N7zPPP64Pnz9jr2xC7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Vincent",
+     "n": "Damien Bonnard"
+    },
+    {
+     "c": "Saïd",
+     "n": "Samir Guesmi"
+    },
+    {
+     "c": "Nour",
+     "n": "Mouna Soualem"
+    },
+    {
+     "c": "Mihai",
+     "n": "Tudor Aaron Istodor"
+    },
+    {
+     "c": "Ahmed",
+     "n": "Ahmed Abdel Laoui"
+    },
+    {
+     "c": "Ousmane",
+     "n": "Issaka Sawadogo"
+    },
+    {
+     "c": "Delphine",
+     "n": "Sophie Mousel"
+    },
+    {
+     "c": "Marc",
+     "n": "Denis Eyriey"
+    },
+    {
+     "c": "Farid",
+     "n": "Mounir Margoum"
+    },
+    {
+     "c": "",
+     "n": "Hamed Souna"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Akihiro Hata"
+   ],
+   "genres": [
+    "Thriller",
+    "Fantasy"
+   ],
+   "id": 1000879,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "LU"
+   ],
+   "original_language": "fr",
+   "overview": "Vincent works the night shift on the construction site of a futuristic district. When a worker goes missing, Vincent and his colleagues suspect that their superiors are covering up an accident. But soon another worker disappears.",
+   "popularity": 1.0327,
+   "poster_path": "/bgLFIN6dx1MkGLrGXcCxJfXS9gK.jpg",
+   "production_countries": [
+    "FR",
+    "LU"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-21",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Site",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.3,
+   "vote_count": 42
+  },
   "movie:101179": {
    "backdrop_path": "/g0dcZKZe5XygwPpMrISPnidGH1W.jpg",
    "budget": 0,
@@ -144,6 +235,689 @@
    "type": "movie",
    "vote_average": 5.569,
    "vote_count": 436
+  },
+  "movie:1275779": {
+   "backdrop_path": "/1e0KDRYKRPHiVNj8yQKYuU2jVyQ.jpg",
+   "budget": 115000000,
+   "cast": [
+    {
+     "c": "Margaret Fairchild",
+     "n": "Emily Blunt"
+    },
+    {
+     "c": "Dr. Daniel Kellner",
+     "n": "Josh O'Connor"
+    },
+    {
+     "c": "Noah Scanlon",
+     "n": "Colin Firth"
+    },
+    {
+     "c": "Jane Blakenship",
+     "n": "Eve Hewson"
+    },
+    {
+     "c": "Hugo Wakefield",
+     "n": "Colman Domingo"
+    },
+    {
+     "c": "Jackson",
+     "n": "Wyatt Russell"
+    },
+    {
+     "c": "Casper Boyd",
+     "n": "Henry Lloyd-Hughes"
+    },
+    {
+     "c": "Sister Maura",
+     "n": "Elizabeth Marvel"
+    },
+    {
+     "c": "Serena",
+     "n": "Hettienne Park"
+    },
+    {
+     "c": "Santiago",
+     "n": "Tommy Martinez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Steven Spielberg"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 1275779,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+   "popularity": 47.4245,
+   "poster_path": "/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-12",
+   "revenue": 244633645,
+   "runtime": 146,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru",
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "We deserve to know.",
+   "title": "Disclosure Day",
+   "trailer": {
+    "key": "icDuEHSxE-w",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.41,
+   "vote_count": 4012
+  },
+  "movie:1321179": {
+   "backdrop_path": "/1s1r4OOdnU8VX2inALVTA2q94uY.jpg",
+   "budget": 6900000,
+   "cast": [
+    {
+     "c": "Eom Heung-do",
+     "n": "Yoo Hai-jin"
+    },
+    {
+     "c": "Yi Hong-wi / Nosan / King Danjong",
+     "n": "Park Ji-hoon"
+    },
+    {
+     "c": "Han Myeong-hoe",
+     "n": "Yoo Ji-tae"
+    },
+    {
+     "c": "Mae-hwa",
+     "n": "Jeon Mi-do"
+    },
+    {
+     "c": "Eom Tae-san",
+     "n": "Kim Min"
+    },
+    {
+     "c": "Eo Se-gyeom",
+     "n": "Park Ji-hwan"
+    },
+    {
+     "c": "Geumseong / Yi Yu",
+     "n": "Lee Jun-hyuk"
+    },
+    {
+     "c": "Norugol village chief",
+     "n": "Ahn Jae-hong"
+    },
+    {
+     "c": "Makdong's father",
+     "n": "Lee Jun-hyeok"
+    },
+    {
+     "c": "Makdong's mother",
+     "n": "Kim Soo-jin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Chang Hang-jun"
+   ],
+   "genres": [
+    "History",
+    "Drama"
+   ],
+   "id": 1321179,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "In a remote mountain village of 15th-century Joseon, humble headman Heung-do hears a rumor that any village hosting an exiled nobleman will be blessed with abundance and fortune. Hoping to bring prosperity to his impoverished community, he eagerly submits a petition to host one—unaware that his guest is none other than the fallen monarch, deposed boy-king Danjong.",
+   "popularity": 4.0519,
+   "poster_path": "/3CnVA1jAA64Q3qNVAW8DekCu19b.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-04",
+   "revenue": 111782570,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "1457 Joseon, a story untold by history.",
+   "title": "The King's Warden",
+   "trailer": {
+    "key": "YOWP0DiW8po",
+    "name": "Official UK Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 34
+  },
+  "movie:1380279": {
+   "backdrop_path": "/7Xb6T5B2wQy0dcKVlgriyVqYDdt.jpg",
+   "budget": 250000,
+   "cast": [
+    {
+     "c": "The Narrator (voice)",
+     "n": "William Fichtner"
+    },
+    {
+     "c": "Jonathan Teller",
+     "n": "James Preston"
+    },
+    {
+     "c": "Abbott",
+     "n": "Aaron Dalla Villa"
+    },
+    {
+     "c": "Linda",
+     "n": "Gigi Gustin"
+    },
+    {
+     "c": "Gloria",
+     "n": "Eva Hamilton"
+    },
+    {
+     "c": "Mrs. Thompson",
+     "n": "Meredith Thomas"
+    },
+    {
+     "c": "Tommy",
+     "n": "Davee Youngblood"
+    },
+    {
+     "c": "Speedy",
+     "n": "Matthew Fahey"
+    },
+    {
+     "c": "Jim Sanders",
+     "n": "Armie Hicks Jr."
+    },
+    {
+     "c": "Judy",
+     "n": "Melanie Martyn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Samuel Gonzalez Jr."
+   ],
+   "genres": [
+    "War",
+    "Drama",
+    "Horror"
+   ],
+   "id": 1380279,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Vietnam veteran Jonathan Teller suffers from guilt and paranoid delusions. He decides to take his own life, but as he struggles to come to terms with his choice and reality, a chance encounter changes everything.",
+   "popularity": 0.913,
+   "poster_path": "/t4sdHbi3DTqypx74BE03gVRBsbF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "Bloodstream"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-07",
+   "revenue": 0,
+   "runtime": 0,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "No one commits suicide because they want to die. They do it to stop... something.",
+   "title": "The Plastic Men",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 36
+  },
+  "movie:1455079": {
+   "backdrop_path": "/2TWIlmhE06ghspeQLEX1VmnEBiE.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Anna",
+     "n": "Halle Bailey"
+    },
+    {
+     "c": "Michael",
+     "n": "Regé-Jean Page"
+    },
+    {
+     "c": "Matteo",
+     "n": "Lorenzo de Moor"
+    },
+    {
+     "c": "Lorenzo",
+     "n": "Marco Calvani"
+    },
+    {
+     "c": "Gabriella",
+     "n": "Isabella Ferrari"
+    },
+    {
+     "c": "Vincenzo",
+     "n": "Paolo Sassanelli"
+    },
+    {
+     "c": "Nonna Alessia",
+     "n": "Stefania Casini"
+    },
+    {
+     "c": "Francesca",
+     "n": "Stella Pecollo"
+    },
+    {
+     "c": "Claire",
+     "n": "Aziza Scott"
+    },
+    {
+     "c": "Enzo",
+     "n": "Tommaso Cassissa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Kat Coiro"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 1455079,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a woman crashes at an empty Italian villa, posing as the owner's fiancée, she discovers an unexpected romance that could transform her life.",
+   "popularity": 5.8482,
+   "poster_path": "/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
+   "production_countries": [
+    "US",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-09",
+   "revenue": 22435563,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "She came for the pasta and got lost in the sauce.",
+   "title": "You, Me & Tuscany",
+   "trailer": {
+    "key": "uYTMroh8pjI",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 124
+  },
+  "movie:1673179": {
+   "backdrop_path": "/ex19p6cqhOkTJOU9Rk5LNCGuvnK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Will Ospreay",
+     "n": "William Ospreay"
+    },
+    {
+     "c": "Swerve Strickland",
+     "n": "Stephon Strickland"
+    },
+    {
+     "c": "Darby Allin",
+     "n": "Samuel Ratsch"
+    },
+    {
+     "c": "Konosuke Takeshita",
+     "n": "Konosuke Takeshita"
+    },
+    {
+     "c": "Kyle O'Reilly",
+     "n": "Kyle Greenwood"
+    },
+    {
+     "c": "Mark Briscoe",
+     "n": "Mark Pugh"
+    },
+    {
+     "c": "Orange Cassidy",
+     "n": "James Cipperly"
+    },
+    {
+     "c": "Roderick Strong",
+     "n": "Christopher Lindsey"
+    },
+    {
+     "c": "Andrade El Idolo",
+     "n": "Manuel Alfonso Andrade Oropeza"
+    },
+    {
+     "c": "Jake Doyle",
+     "n": "Jacob Doyle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [],
+   "genres": [],
+   "id": 1673179,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "JP",
+    "MX"
+   ],
+   "original_language": "en",
+   "overview": "The 2026 Forbidden Door was a professional wrestling pay-per-view (PPV) event and supershow co-produced by the American promotion All Elite Wrestling (AEW), Mexican promotion Consejo Mundial de Lucha Libre (CMLL) and the Japanese promotions New Japan Pro-Wrestling (NJPW) and World Wonder Ring Stardom (Stardom). It was the fifth annual Forbidden Door event and took place on June 28, 2026 at SAP Center at San Jose in San Jose, California, USA.",
+   "popularity": 0.8438,
+   "poster_path": "/wpLMH4rzHzeal7aWxyn9DM2k6mj.jpg",
+   "production_countries": [],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-28",
+   "revenue": 0,
+   "runtime": 294,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 9.1,
+   "vote_count": 21
   },
   "movie:450179": {
    "backdrop_path": "/kprXFwqItxrDuDZk0nyPNNCxm6z.jpg",

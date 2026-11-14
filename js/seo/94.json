@@ -1,6 +1,6 @@
 {
  "bucket": "94",
- "count": 19,
+ "count": 25,
  "titles": {
   "movie:10994": {
    "d": "White Oleander (2002): Drama film. Story: A teenager journeys through a series of foster homes… See cast, budget $16M, and TMDB rating 7.0/10.",
@@ -129,6 +129,133 @@
    "t": "Touching the Void (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2003"
   },
+  "movie:1180894": {
+   "d": "Under Your Feet (2026): Horror film. Story: Isabel moves with her two children into a very… See cast, TMDB rating 5.4/10, and release date 19 February 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/wRRvCEb871lZPcssGwEnJt0l3KN.jpg",
+   "industry": "world",
+   "k": "Under Your Feet, Under Your Feet movie, Under Your Feet cast, Under Your Feet story, Under Your Feet box office collection, Under Your Feet budget, Under Your Feet review, Under Your Feet rating, Under Your Feet release date, Under Your Feet Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Maribel Verdú"
+     },
+     {
+      "@type": "Person",
+      "name": "Sofía Otero"
+     },
+     {
+      "@type": "Person",
+      "name": "Erik Probanza"
+     },
+     {
+      "@type": "Person",
+      "name": "Urko Olazábal"
+     },
+     {
+      "@type": "Person",
+      "name": "Marcelo Galván"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 35,
+     "ratingValue": 5.4,
+     "worstRating": 0
+    },
+    "description": "Under Your Feet (2026): Horror film. Story: Isabel moves with her two children into a very… See cast, TMDB rating 5.4/10, and release date 19 February 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Cristian Bernard"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wRRvCEb871lZPcssGwEnJt0l3KN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1180894",
+    "name": "Under Your Feet",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1180894"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Under Your Feet (2026)</h1>\n<p class=\"ssr-lead\">Isabel moves with her two children into a very prestigious building that has a very peculiar admission method but at a very affordable rental fee. Once approved and settled, three elderly neighbors from the lower floor will turn their lives upside down.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 February 2026</li><li>Runtime: 93 minutes</li><li>Director: Cristian Bernard</li><li>Genres: Horror</li><li>TMDB rating: 5.4/10 (35 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Maribel Verdú</li><li>Sofía Otero as Lucía</li><li>Erik Probanza</li><li>Urko Olazábal</li><li>Marcelo Galván</li><li>Ibai Atanes</li><li>Zorion Eguileor</li><li>Sandra Ferrús</li></ul>\n</article>",
+   "t": "Under Your Feet (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1198994": {
+   "d": "Send Help (2026): Horror/Thriller film. Story: Two colleagues become stranded on a deserted island… See cast, budget $40M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bpp58yHuQmpt6xwggI63mVRw7po.jpg",
+   "industry": "world",
+   "k": "Send Help, Send Help movie, Send Help cast, Send Help story, Send Help box office collection, Send Help budget, Send Help review, Send Help rating, Send Help release date, Send Help trailer, Send Help Horror, Send Help Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rachel McAdams"
+     },
+     {
+      "@type": "Person",
+      "name": "Dylan O'Brien"
+     },
+     {
+      "@type": "Person",
+      "name": "Edyll Ismail"
+     },
+     {
+      "@type": "Person",
+      "name": "Xavier Samuel"
+     },
+     {
+      "@type": "Person",
+      "name": "Dennis Haysbert"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 2501,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Send Help (2026): Horror/Thriller film. Story: Two colleagues become stranded on a deserted island… See cast, budget $40M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sam Raimi"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bpp58yHuQmpt6xwggI63mVRw7po.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1198994",
+    "name": "Send Help",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1198994"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Send Help (2026)</h1>\n<p class=\"ssr-lead\">Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it&#x27;s a battle of wills and wits to make it out alive.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 January 2026</li><li>Runtime: 113 minutes</li><li>Director: Sam Raimi</li><li>Genres: Horror, Thriller, Comedy</li><li>Budget: $40M</li><li>TMDB rating: 7.0/10 (2501 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rachel McAdams as Linda Liddle</li><li>Dylan O&#x27;Brien as Bradley Preston</li><li>Edyll Ismail as Zuri</li><li>Xavier Samuel as Donovan</li><li>Dennis Haysbert as Franklin</li><li>Chris Pang as Chase</li><li>Thaneth Warakulnukroh as Boat Captain</li><li>Emma Raimi as River</li><li>Kristy Best as Polly Perera</li><li>Francesca Waters as Barbara</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Send Help (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:12994": {
    "d": "The Nines (2007): Drama/Fantasy film. Story: A troubled actor, a television show runner, and an… See cast, TMDB rating 6.0/10, and release date 21 January 2007.",
    "img": "https://image.tmdb.org/t/p/w780/cR39VUrIKWrv9TfoiOzfim5D9p9.jpg",
@@ -193,6 +320,70 @@
    "t": "The Nines (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
   },
+  "movie:1474294": {
+   "d": "The God of Love (2026): Comedy/Science Fiction film. Story: Love Divine is a choral journey into romantic… See cast, budget $6.5M, and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6y7Eacm37GgO7KC2ysPSyNNU341.jpg",
+   "industry": "world",
+   "k": "The God of Love, The God of Love movie, The God of Love cast, The God of Love story, The God of Love box office collection, The God of Love budget, The God of Love review, The God of Love rating, The God of Love release date, The God of Love Comedy, The God of Love Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anna Bellato"
+     },
+     {
+      "@type": "Person",
+      "name": "Enrico Borello"
+     },
+     {
+      "@type": "Person",
+      "name": "Benedetta Cimatti"
+     },
+     {
+      "@type": "Person",
+      "name": "Vinicio Marchioni"
+     },
+     {
+      "@type": "Person",
+      "name": "Chiara Ferrara"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 25,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "The God of Love (2026): Comedy/Science Fiction film. Story: Love Divine is a choral journey into romantic… See cast, budget $6.5M, and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Francesco Lagi"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6y7Eacm37GgO7KC2ysPSyNNU341.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1474294",
+    "name": "The God of Love",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1474294"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The God of Love (2026)</h1>\n<p class=\"ssr-lead\">Love Divine is a choral journey into romantic relationships, exploring the emotional destinies of interconnected lives. With an ironic, light tone tinged with bitterness, it portrays a humanity caught in the chaos of love. Each character is a knot in an intricate weave shaped by the capricious God of Love, while Ovid, the eternal poet, guides us from ancient Rome into the present.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 March 2026</li><li>Runtime: 100 minutes</li><li>Director: Francesco Lagi</li><li>Genres: Comedy, Science Fiction, Drama, Romance</li><li>Budget: $6.5M</li><li>TMDB rating: 5.8/10 (25 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anna Bellato as Arianna</li><li>Enrico Borello as Jacopo</li><li>Benedetta Cimatti as Linda</li><li>Vinicio Marchioni as Filippo</li><li>Chiara Ferrara as Silvia</li><li>Corrado Fortuna as Pietro</li><li>Isabella Ragonese as Ada</li><li>Vanessa Scalera as Ester</li><li>Francesco Colella as Ovidio</li><li>Marco Quaglia as Helmut</li></ul>\n</article>",
+   "t": "The God of Love (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:14794": {
    "d": "if.... (1968): Drama film. Story: In an English boys' boarding school, social hierarchy… See cast, budget $500.0k, and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/b5OqjAne0vAV08V43QvXpmlfvSg.jpg",
@@ -255,6 +446,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>if.... (1968)</h1>\n<p class=\"ssr-lead\">In an English boys&#x27; boarding school, social hierarchy reigns supreme and power remains in the hands of distanced and ineffectual teachers and callously vicious prefects in the Upper Sixth. Three Lower Sixth students, Wallace, Johnny and leader Mick Travis decide on a shocking course of action to redress the balance of privilege once and for all.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 December 1968</li><li>Runtime: 112 minutes</li><li>Director: Lindsay Anderson</li><li>Genres: Drama</li><li>Budget: $500.0k</li><li>TMDB rating: 7.0/10 (447 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Malcolm McDowell as Mick Travis</li><li>David Wood as Johnny Knightly</li><li>Richard Warwick as Wallace</li><li>Christine Noonan as The Girl</li><li>Rupert Webster as Bobby Phillips</li><li>Robert Swann as Rowntree</li><li>Hugh Thomas as Denson</li><li>Michael Cadman as Fortinbras</li><li>Peter Sproule as Barnes</li><li>Peter Jeffrey as Headmaster</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "if.... (1968) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1968"
+  },
+  "movie:1495694": {
+   "d": "Beauty from Pain (2025): Romance/Drama film. Story: After a devastating heartbreak, an aspiring musician… See cast and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yCg9mQpR3nVmX9ku3ObCAIISb5g.jpg",
+   "industry": "world",
+   "k": "Beauty from Pain, Beauty from Pain movie, Beauty from Pain cast, Beauty from Pain story, Beauty from Pain box office collection, Beauty from Pain budget, Beauty from Pain review, Beauty from Pain rating, Beauty from Pain release date, Beauty from Pain trailer, Beauty from Pain Romance, Beauty from Pain Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Samantha Allsop"
+     },
+     {
+      "@type": "Person",
+      "name": "Jackson Gallagher"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Denman"
+     },
+     {
+      "@type": "Person",
+      "name": "Arielle Cartwright"
+     },
+     {
+      "@type": "Person",
+      "name": "Vanessa Moltzen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 20,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Beauty from Pain (2025): Romance/Drama film. Story: After a devastating heartbreak, an aspiring musician… See cast and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Christine Luby"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yCg9mQpR3nVmX9ku3ObCAIISb5g.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1495694",
+    "name": "Beauty from Pain",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1495694"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Beauty from Pain (2025)</h1>\n<p class=\"ssr-lead\">After a devastating heartbreak, an aspiring musician escapes to Australia. She agrees to a no-strings romance with a billionaire winemaker, but when she falls in love she must choose to walk away or risk her heart on a man afraid to love.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 December 2025</li><li>Runtime: 116 minutes</li><li>Director: Christine Luby</li><li>Genres: Romance, Drama</li><li>TMDB rating: 7.0/10 (20 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Samantha Allsop as Laurelyn Prescott</li><li>Jackson Gallagher as Jack Henry</li><li>Kim Denman as Margaret McLachlan</li><li>Arielle Cartwright as Addison Donovan</li><li>Vanessa Moltzen as Jolene Prescott</li><li>Callan Colley as Zac</li><li>Brittany Grey as Audrey Bagshaw</li><li>Jasmine Barui as Persephone</li><li>Patrick Atchison as Ben Donovan</li><li>Victoria Little as Chloe McLachlan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Passionflix Amazon Channel</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Beauty from Pain (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1731694": {
+   "d": "LEGO Star Wars: The Mandalorian (2026): Animation/Science Fiction film. Story: The Mandalorian and Grogu join their misfit allies… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/upecGaCuQOIbSpdz85mrJ395UMg.jpg",
+   "industry": "world",
+   "k": "LEGO Star Wars: The Mandalorian, LEGO Star Wars: The Mandalorian movie, LEGO Star Wars: The Mandalorian cast, LEGO Star Wars: The Mandalorian story, LEGO Star Wars: The Mandalorian box office collection, LEGO Star Wars: The Mandalorian budget, LEGO Star Wars: The Mandalorian review, LEGO Star Wars: The Mandalorian rating, LEGO Star Wars: The Mandalorian release date, LEGO Star Wars: The Mandalorian trailer, LEGO Star Wars: The Mandalorian Animation, LEGO Star Wars: The Mandalorian Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gavin Hammon"
+     },
+     {
+      "@type": "Person",
+      "name": "Amy Sedaris"
+     },
+     {
+      "@type": "Person",
+      "name": "Bill Burr"
+     },
+     {
+      "@type": "Person",
+      "name": "David Pasquesi"
+     },
+     {
+      "@type": "Person",
+      "name": "Katee Sackhoff"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 43,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "LEGO Star Wars: The Mandalorian (2026): Animation/Science Fiction film. Story: The Mandalorian and Grogu join their misfit allies… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chris Buckley"
+     }
+    ],
+    "duration": "PT50M",
+    "genre": [
+     "Animation",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/upecGaCuQOIbSpdz85mrJ395UMg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1731694",
+    "name": "LEGO Star Wars: The Mandalorian",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1731694"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>LEGO Star Wars: The Mandalorian (2026)</h1>\n<p class=\"ssr-lead\">The Mandalorian and Grogu join their misfit allies for an epic party, celebrating their heroism. As friends regale the crowd with tales of their adventures, a pirate threat looms.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 September 2026</li><li>Runtime: 50 minutes</li><li>Director: Chris Buckley</li><li>Genres: Animation, Science Fiction, Adventure, Family, Action</li><li>TMDB rating: 6.6/10 (43 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gavin Hammon as The Mandalorian (voice)</li><li>Amy Sedaris as Peli Motto (voice)</li><li>Bill Burr as Migs Mayfield (voice)</li><li>David Pasquesi as Majordomo (voice)</li><li>Katee Sackhoff as Bo-Katan Kryze (voice)</li><li>Emily Swallow as The Armorer (voice)</li><li>Giancarlo Esposito as Moff Gideon (voice)</li><li>Matthew Wood as Bib Fortuna / Jawas / Kowakian Monkey-Lizard (voice)</li><li>Ming-Na Wen as Fennec Shand (voice)</li><li>Nick Nolte as Kuiil (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "LEGO Star Wars: The Mandalorian (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:180894": {
    "d": "Ninja: Shadow of a Tear (2013): Action/Crime film. Story: Fight everyone and trust no one: it's the code of… See cast and TMDB rating 6.8/10.",
@@ -827,6 +1146,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Magdalene Sisters (2002)</h1>\n<p class=\"ssr-lead\">Three young Irish women struggle to maintain their spirits while they endure dehumanizing abuse as inmates of a Magdalene Sisters Asylum.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 August 2002</li><li>Runtime: 119 minutes</li><li>Director: Peter Mullan</li><li>Genres: Drama, History</li><li>Budget: $5M</li><li>TMDB rating: 7.4/10 (495 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anne-Marie Duff as Margaret</li><li>Nora-Jane Noone as Bernadette</li><li>Dorothy Duffy as Rose</li><li>Geraldine McEwan as Sister Bridget</li><li>Eileen Walsh as Crispina</li><li>Mary Murray as Una</li><li>Eamonn Owens as Eamonn</li><li>Britta Smith as Katy</li><li>Peter Mullan as Mr O&#x27;Connor</li><li>Eithne McGuinness as Sister Clementine</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The Magdalene Sisters (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2002"
+  },
+  "movie:991494": {
+   "d": "The SpongeBob Movie: Search for SquarePants (2026): Adventure/Family film. Story: Desperate to be a big guy, SpongeBob sets out to… See cast and budget $64M.",
+   "img": "https://image.tmdb.org/t/p/w780/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg",
+   "industry": "world",
+   "k": "The SpongeBob Movie: Search for SquarePants, The SpongeBob Movie: Search for SquarePants movie, The SpongeBob Movie: Search for SquarePants cast, The SpongeBob Movie: Search for SquarePants story, The SpongeBob Movie: Search for SquarePants box office collection, The SpongeBob Movie: Search for SquarePants budget, The SpongeBob Movie: Search for SquarePants review, The SpongeBob Movie: Search for SquarePants rating, The SpongeBob Movie: Search for SquarePants release date, The SpongeBob Movie: Search for SquarePants trailer, The SpongeBob Movie: Search for SquarePants Adventure, The SpongeBob Movie: Search for SquarePants Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tom Kenny"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Hamill"
+     },
+     {
+      "@type": "Person",
+      "name": "Clancy Brown"
+     },
+     {
+      "@type": "Person",
+      "name": "Bill Fagerbakke"
+     },
+     {
+      "@type": "Person",
+      "name": "Rodger Bumpass"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 366,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "The SpongeBob Movie: Search for SquarePants (2026): Adventure/Family film. Story: Desperate to be a big guy, SpongeBob sets out to… See cast and budget $64M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Derek Drymon"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Adventure",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=991494",
+    "name": "The SpongeBob Movie: Search for SquarePants",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=991494"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The SpongeBob Movie: Search for SquarePants (2026)</h1>\n<p class=\"ssr-lead\">Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 January 2026</li><li>Runtime: 88 minutes</li><li>Director: Derek Drymon</li><li>Genres: Adventure, Family, Animation, Comedy, Fantasy</li><li>Budget: $64M</li><li>TMDB rating: 6.8/10 (366 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tom Kenny as SpongeBob SquarePants / Gary / Morning DJ (voice)</li><li>Mark Hamill as Flying Dutchman</li><li>Clancy Brown as Mr. Krabs / Pirate / Narrator</li><li>Bill Fagerbakke as Patrick Star (voice)</li><li>Rodger Bumpass as Squidward (voice)</li><li>Carolyn Lawrence as Sandy (voice)</li><li>Mr. Lawrence as Plankton (voice)</li><li>George López as JK Fishlips (voice)</li><li>Ice Spice as Ticket Taker (voice)</li><li>Arturo Castro as Ride Operator</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The SpongeBob Movie: Search for SquarePants (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "tv:194": {
    "d": "NYPD Blue (1993) is a Drama TV series. Explore its story: Police drama set in New York City, exploring the…, cast, 12 seasons, and 261 episodes.",

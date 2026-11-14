@@ -1,7 +1,138 @@
 {
  "bucket": "75",
- "count": 14,
+ "count": 20,
  "titles": {
+  "movie:1130875": {
+   "backdrop_path": "/bjWqyS38dQA1Ra9sNcL62gSEWor.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Danny",
+     "n": "Simon Rex"
+    },
+    {
+     "c": "Luke",
+     "n": "Dustin Milligan"
+    },
+    {
+     "c": "Allison",
+     "n": "Brenda Song"
+    },
+    {
+     "c": "Self",
+     "n": "Jason Biggs"
+    },
+    {
+     "c": "Tiago",
+     "n": "Arturo Castro"
+    },
+    {
+     "c": "Klyle",
+     "n": "Tony Cavalero"
+    },
+    {
+     "c": "Elder",
+     "n": "Doug Jones"
+    },
+    {
+     "c": "Clinton",
+     "n": "Stephen Ware"
+    },
+    {
+     "c": "Bartender",
+     "n": "Brian Duckson"
+    },
+    {
+     "c": "Camper Gary",
+     "n": "Benji Hughes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Michael Kvamme"
+   ],
+   "genres": [
+    "Comedy",
+    "Science Fiction",
+    "Action"
+   ],
+   "id": 1130875,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two brothers uncover an alien invasion hidden inside a fast-food chain and must save Earth.",
+   "popularity": 1.2863,
+   "poster_path": "/soKwdOugcT1XRVd7KpvTMSflz0D.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-27",
+   "revenue": 0,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Aliens. Tacos. Conspiracies. Welcome to Taco Gary’s.",
+   "title": "Operation Taco Gary's",
+   "trailer": {
+    "key": "bERlyZmvrl4",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.341,
+   "vote_count": 22
+  },
   "movie:120475": {
    "backdrop_path": "/pLctvg69kQGVfqSLqeL55sbWNRr.jpg",
    "budget": 0,
@@ -91,6 +222,119 @@
    "type": "movie",
    "vote_average": 7.168,
    "vote_count": 471
+  },
+  "movie:1255775": {
+   "backdrop_path": "/3MphYnIcLOqy5oVkDTZUiaGfPtN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Anna Finch",
+     "n": "Zooey Deschanel"
+    },
+    {
+     "c": "Russ Owens",
+     "n": "Charlie Cox"
+    },
+    {
+     "c": "Jocelyn Bentley",
+     "n": "Ellyn Jameson"
+    },
+    {
+     "c": "MJ Owens",
+     "n": "Patricia Heaton"
+    },
+    {
+     "c": "Jack Owens",
+     "n": "David Hunt"
+    },
+    {
+     "c": "Vice Principal Desmond",
+     "n": "Chris Redd"
+    },
+    {
+     "c": "Rebekah",
+     "n": "Jasmine Mathews"
+    },
+    {
+     "c": "Carly",
+     "n": "Victoria Blade"
+    },
+    {
+     "c": "Gaia",
+     "n": "Wynn Everett"
+    },
+    {
+     "c": "Sheriff Tom Bentley",
+     "n": "Jason Burkey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jessica Swale"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 1255775,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When their beloved dog Merv loses his spark after their split, Anna and Russ are forced into the world's most awkward co-parenting arrangement. Hoping to shake Merv out of his funk, Russ takes him to Florida for a much-needed getaway-only for Anna to show up unexpectedly. As Merv slowly gets his groove back, turns out fixing their dog's broken heart may lead to a few sparks of their own.",
+   "popularity": 2.5734,
+   "poster_path": "/nfGlYjINEcGtxV46viW4olwHHSz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-09",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A different breed of romantic comedy.",
+   "title": "Merv",
+   "trailer": {
+    "key": "YsQXu_9-7qA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.889,
+   "vote_count": 131
   },
   "movie:12775": {
    "backdrop_path": "/rrVvVOw98E2RvtKZx1RIgYIl9um.jpg",
@@ -366,6 +610,460 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 492
+  },
+  "movie:1591675": {
+   "backdrop_path": "/ceOdqFmZy5kKImbGThuDHuifGpm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fujino",
+     "n": "Natsuki Deguchi"
+    },
+    {
+     "c": "Kyomoto",
+     "n": "Aju Makita"
+    },
+    {
+     "c": "Young Fujino",
+     "n": "Fuuri Nanase"
+    },
+    {
+     "c": "Young Kyomoto",
+     "n": "Rokka Okada"
+    },
+    {
+     "c": "Maeda",
+     "n": "Masaki Suda"
+    },
+    {
+     "c": "Tamai",
+     "n": "Kankuro Kudo"
+    },
+    {
+     "c": "Akari",
+     "n": "Kayo Noro"
+    },
+    {
+     "c": "Hitoshi",
+     "n": "Ryo Ikeda"
+    },
+    {
+     "c": "Megumi",
+     "n": "Miyu Sasaki"
+    },
+    {
+     "c": "Manabe",
+     "n": "Maho Yamada"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Hirokazu Kore-eda"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1591675,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Popular, outgoing Fujino is celebrated by her classmates for her funny comics in the class newspaper. One day, her teacher asks her to share the space with Kyomoto, a truant recluse whose beautiful artwork sparks a competitive fervor in Fujino. What starts as jealousy transforms when Fujino realizes their shared passion for drawing.",
+   "popularity": 6.07,
+   "poster_path": "/sxiJhMNTBRvQgMnB9H4VIVdQfW9.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-11",
+   "revenue": 929800,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "\"Keep your eyes on my back and you'll grow too.\"",
+   "title": "Look Back",
+   "trailer": {
+    "key": "ILBDFlYMGAY",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.017,
+   "vote_count": 29
+  },
+  "movie:1596275": {
+   "backdrop_path": "/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sarah Jenkins",
+     "n": "Lisa-Marie Koroll"
+    },
+    {
+     "c": "Dante Annunziata",
+     "n": "Amin Baahmed"
+    },
+    {
+     "c": "Ruben Laroch",
+     "n": "Gustav Schmidt"
+    },
+    {
+     "c": "Alexander Bronson",
+     "n": "Mišel Matičević"
+    },
+    {
+     "c": "Tanya Stein",
+     "n": "Lucie Heinze"
+    },
+    {
+     "c": "Jack Schroder",
+     "n": "Frederic Linkemann"
+    },
+    {
+     "c": "Irene Jenkins",
+     "n": "Inka Friedrich"
+    },
+    {
+     "c": "Sofia Annunziata",
+     "n": "Jeanette Hain"
+    },
+    {
+     "c": "Dr. Frederic Richter",
+     "n": "Philippe Brenninkmeyer"
+    },
+    {
+     "c": "Eva Maria Fischer",
+     "n": "Leslie Malton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Sergej Moya"
+   ],
+   "genres": [
+    "Romance",
+    "Thriller"
+   ],
+   "id": 1596275,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "A young mechanic fakes an engagement with racing's most scandalous star — officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything — including what's already become so much more than just a deal.",
+   "popularity": 123.9977,
+   "poster_path": "/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
+   "production_countries": [
+    "DE",
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-27",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Drive - The Pretenders",
+   "trailer": {
+    "key": "-sV69CJwUwU",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.585,
+   "vote_count": 170
+  },
+  "movie:1698575": {
+   "backdrop_path": "/kpq5o3WbnTos5fQwtyfyOHwSMdm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Charlie Brown (voice)",
+     "n": "Riley Kai Vargas"
+    },
+    {
+     "c": "Snoopy (voice)",
+     "n": "Terry McGurrin"
+    },
+    {
+     "c": "Woodstock (voice)",
+     "n": "Rob Tinkler"
+    },
+    {
+     "c": "Franklin (voice)",
+     "n": "Kitai O'Garro"
+    },
+    {
+     "c": "Marcie (voice)",
+     "n": "Josephine Nisbett"
+    },
+    {
+     "c": "Sally (voice)",
+     "n": "Grace Nicolaou-Wood"
+    },
+    {
+     "c": "Lucy (voice)",
+     "n": "Jo-Hannah Atchison"
+    },
+    {
+     "c": "Peppermint Patty (voice)",
+     "n": "Lexi Perri"
+    },
+    {
+     "c": "Linus (voice)",
+     "n": "Athan Giazitzidis"
+    },
+    {
+     "c": "Rerun (voice)",
+     "n": "Diego Whalen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Ridd Sorensen"
+   ],
+   "genres": [
+    "Animation",
+    "Family"
+   ],
+   "id": 1698575,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "When Snoopy's beloved doghouse goes missing, he tries to track it down, and learns what makes a house feel like home.",
+   "popularity": 6.6667,
+   "poster_path": "/YbC4SlzE030BgxWdKDdlatMh5W.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-30",
+   "revenue": 0,
+   "runtime": 32,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A house with good bones.",
+   "title": "Snoopy Presents: There's No Place Like Home, Snoopy",
+   "trailer": {
+    "key": "A-NQmpNsZIc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.4,
+   "vote_count": 61
+  },
+  "movie:1759875": {
+   "backdrop_path": "/twI5fNZrX4UnUVu8mAeO1P7VAUk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Daniel Pierce",
+     "n": "Sam Williamson"
+    },
+    {
+     "c": "Lee",
+     "n": "Michael Broderick"
+    },
+    {
+     "c": "Sheriff Webb",
+     "n": "Luke Stratte-McClure"
+    },
+    {
+     "c": "Nathan",
+     "n": "Chris Bylsma"
+    },
+    {
+     "c": "Elinor",
+     "n": "Laurel Feierbach"
+    },
+    {
+     "c": "Tyler",
+     "n": "Solomon Puckett"
+    },
+    {
+     "c": "Russ",
+     "n": "Scott Callenberger"
+    },
+    {
+     "c": "John",
+     "n": "Noah Aronstein"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Dylan King Welter"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1759875,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Daniel Pierce dreams of joining the local Militia alongside his father once he turns eighteen, but when his Dad becomes the target of the local Sheriff, Daniel and his friends form their own militia in a troubled effort to save him.",
+   "popularity": 9.224,
+   "poster_path": "/bBAeq5GAt6QKUL5eS0UalflLysH.jpg",
+   "production_countries": [],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-08",
+   "revenue": 0,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Militia",
+   "trailer": {
+    "key": "xH6J4dVgtPw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.357,
+   "vote_count": 21
   },
   "movie:2075": {
    "backdrop_path": "/lW4nIRGJAglS6Pt7gTgRIrmSHA2.jpg",

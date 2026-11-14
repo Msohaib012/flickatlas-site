@@ -1,7 +1,553 @@
 {
  "bucket": "13",
- "count": 10,
+ "count": 22,
  "titles": {
+  "movie:1304313": {
+   "backdrop_path": "/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
+   "budget": 22000000,
+   "cast": [
+    {
+     "c": "Charlie Cannon",
+     "n": "Jack Reynor"
+    },
+    {
+     "c": "Larissa Cannon",
+     "n": "Laia Costa"
+    },
+    {
+     "c": "Detective Dalia Zaki",
+     "n": "May Calamawy"
+    },
+    {
+     "c": "Katie Cannon",
+     "n": "Natalie Grace"
+    },
+    {
+     "c": "Sebastián Cannon",
+     "n": "Shylo Molina"
+    },
+    {
+     "c": "Maud Cannon",
+     "n": "Billie Roy"
+    },
+    {
+     "c": "Carmen Santiago",
+     "n": "Veronica Falcón"
+    },
+    {
+     "c": "The Magician",
+     "n": "Hayat Kamille"
+    },
+    {
+     "c": "Layla Khalil",
+     "n": "May Elghety"
+    },
+    {
+     "c": "Young Katie Cannon",
+     "n": "Emily Mitchell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Lee Cronin"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 1304313,
+   "industry": "world",
+   "origin_country": [
+    "IE",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+   "popularity": 17.568,
+   "poster_path": "/1q308iixueCU4pFtSYugNOevtNx.jpg",
+   "production_countries": [
+    "US",
+    "IE"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-15",
+   "revenue": 90552113,
+   "runtime": 133,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "What happened to Katie?",
+   "title": "Lee Cronin's The Mummy",
+   "trailer": {
+    "key": "6wbMsDmJLCs",
+    "name": "Tickets On Sale",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.8,
+   "vote_count": 2864
+  },
+  "movie:1313013": {
+   "backdrop_path": "/xjbXjbO8QOewOhiguosOx5l7iYs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sé stesso",
+     "n": "Aldo Baglio"
+    },
+    {
+     "c": "Sé stesso",
+     "n": "Giovanni Storti"
+    },
+    {
+     "c": "Sé stesso",
+     "n": "Giacomo Poretti"
+    },
+    {
+     "c": "Sé stessa",
+     "n": "Marina Massironi"
+    },
+    {
+     "c": "Sé stesso",
+     "n": "Paolo Rossi"
+    },
+    {
+     "c": "Sé stesso",
+     "n": "Arturo Brachetti"
+    },
+    {
+     "c": "Sé stesso",
+     "n": "Giorgio Gherarducci"
+    },
+    {
+     "c": "Sé stesso",
+     "n": "Marco Santin"
+    },
+    {
+     "c": "Sé stesso",
+     "n": "Carlo Taranto"
+    },
+    {
+     "c": "Sé stessa",
+     "n": "Silvana Fallisi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Sophie Chiarello"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1313013,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A nostalgic journey with Aldo, Giovanni, and Giacomo, retracing thirty years of friendship and success in the world of Italian comedy, including personal memories and unforgettable moments that made them icons of laughter.",
+   "popularity": 0.4612,
+   "poster_path": "/AurzpUEdIQsdQ6K80KfVhysmfhJ.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-04",
+   "revenue": 2100000,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Attitudini: Nessuna",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.274,
+   "vote_count": 124
+  },
+  "movie:1318413": {
+   "backdrop_path": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "James Stagg",
+     "n": "Andrew Scott"
+    },
+    {
+     "c": "Dwight ‘Ike’ Eisenhower",
+     "n": "Brendan Fraser"
+    },
+    {
+     "c": "Kay Summersby",
+     "n": "Kerry Condon"
+    },
+    {
+     "c": "Irving Krick",
+     "n": "Chris Messina"
+    },
+    {
+     "c": "Bernard ‘Monty’ Montgomery",
+     "n": "Damian Lewis"
+    },
+    {
+     "c": "Liz Stagg",
+     "n": "Tamsin Topolski"
+    },
+    {
+     "c": "Andrew Carter",
+     "n": "Jojo Macari"
+    },
+    {
+     "c": "Air Marshal Leigh-Mallory",
+     "n": "Con O'Neill"
+    },
+    {
+     "c": "General Omar Bradley",
+     "n": "Alexander Hanson"
+    },
+    {
+     "c": "Admiral Bertram Ramsay",
+     "n": "Robert Portal"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Anthony Maras"
+   ],
+   "genres": [
+    "Thriller",
+    "History",
+    "War"
+   ],
+   "id": 1318413,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
+   "popularity": 11.3767,
+   "poster_path": "/gFjEggtrejCN79r6SXRjM269OtG.jpg",
+   "production_countries": [
+    "GB",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-28",
+   "revenue": 20245995,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "In the hours before D-Day, one decision changed the world.",
+   "title": "Pressure",
+   "trailer": {
+    "key": "jjdOSchcobk",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.71,
+   "vote_count": 541
+  },
+  "movie:1339713": {
+   "backdrop_path": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+   "budget": 750000,
+   "cast": [
+    {
+     "c": "Bear",
+     "n": "Michael Johnston"
+    },
+    {
+     "c": "Nikki",
+     "n": "Inde Navarrette"
+    },
+    {
+     "c": "Ian",
+     "n": "Cooper Tomlinson"
+    },
+    {
+     "c": "Sarah",
+     "n": "Megan Lawless"
+    },
+    {
+     "c": "Carter",
+     "n": "Andy Richter"
+    },
+    {
+     "c": "Viola",
+     "n": "Haley Fitzgerald"
+    },
+    {
+     "c": "Harry",
+     "n": "Darin Toonder"
+    },
+    {
+     "c": "Reggie",
+     "n": "Anthony Pavone"
+    },
+    {
+     "c": "Joe",
+     "n": "Justice"
+    },
+    {
+     "c": "Chris",
+     "n": "Anthony Casabianca"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Curry Barker"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 1339713,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+   "popularity": 73.595,
+   "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-29",
+   "revenue": 524535537,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You only get one wish.",
+   "title": "Obsession",
+   "trailer": {
+    "key": "gMC8kkwbIQQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.165,
+   "vote_count": 6600
+  },
   "movie:13613": {
    "backdrop_path": "/gTdus3VTkdyQLjyqKq6AbhIayed.jpg",
    "budget": 18000000,
@@ -182,6 +728,129 @@
    "vote_average": 5.2,
    "vote_count": 462
   },
+  "movie:1382513": {
+   "backdrop_path": "/ii2Ox8CZeZ4yifffFLsR9Rp0kfR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Restaurant Owner",
+     "n": "Yannis Kokiasmenos"
+    },
+    {
+     "c": "The Girl",
+     "n": "Maria Diakopanagiotou"
+    },
+    {
+     "c": "The Boy",
+     "n": "Argyris Pandazaras"
+    },
+    {
+     "c": "Smuggler Boss",
+     "n": "Antonis Kafetzopoulos"
+    },
+    {
+     "c": "Bodyguard",
+     "n": "Antonis Tsiotsiopoulos"
+    },
+    {
+     "c": "Smuggler 1",
+     "n": "Machmout Bamerni"
+    },
+    {
+     "c": "Smuggler 2",
+     "n": "Chronis Barbarian"
+    },
+    {
+     "c": "Smuggler 3",
+     "n": "Nikos Kattis"
+    },
+    {
+     "c": "Policeman #3",
+     "n": "Dimitris Pelekis"
+    },
+    {
+     "c": "Hen",
+     "n": "Eszti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12+",
+   "date_kind": "release",
+   "director": [
+    "György Pálfi"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama"
+   ],
+   "id": 1382513,
+   "industry": "world",
+   "origin_country": [
+    "HU",
+    "DE",
+    "GR"
+   ],
+   "original_language": "el",
+   "overview": "Escaping from a chicken farm, a hen finds refuge in the courtyard of a crumbling restaurant. There, she discovers love, confronts the pecking order, and fights to protect her eggs from a greedy owner. Her droll yet touching quest for motherhood mirrors the messy compromises and silent struggles of human lives.",
+   "popularity": 3.3107,
+   "poster_path": "/q1HgK2pyhKfWCALvJTN9Gq9gBu4.jpg",
+   "production_countries": [
+    "DE",
+    "HU",
+    "GR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-20",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "el"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Hen",
+   "trailer": {
+    "key": "Zd9CGEUsIFA",
+    "name": "The Hen - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.924,
+   "vote_count": 46
+  },
   "movie:1412113": {
    "backdrop_path": "/zecxlBpLx0aLIjNjX1IOZuaSgo0.jpg",
    "budget": 0,
@@ -267,6 +936,691 @@
    "type": "movie",
    "vote_average": 8.332,
    "vote_count": 462
+  },
+  "movie:1414413": {
+   "backdrop_path": "/6D2NsU3FIQVthPgjT6RAsX58qZ6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Capt. Jordan Wright",
+     "n": "Kiefer Sutherland"
+    },
+    {
+     "c": "Alberto",
+     "n": "Tommy Martinez"
+    },
+    {
+     "c": "Carson",
+     "n": "Ashton Sanders"
+    },
+    {
+     "c": "Danny",
+     "n": "Solly McLeod"
+    },
+    {
+     "c": "Isabella",
+     "n": "Laura Osma"
+    },
+    {
+     "c": "Baker",
+     "n": "Omar Chaparro"
+    },
+    {
+     "c": "Miguel",
+     "n": "Orlando Pineda"
+    },
+    {
+     "c": "Marco",
+     "n": "Laird Akeo"
+    },
+    {
+     "c": "Angelica",
+     "n": "Flora Martínez"
+    },
+    {
+     "c": "Belisario",
+     "n": "Sebastián sierra"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Justin Chadwick"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 1414413,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
+   "popularity": 6.6499,
+   "poster_path": "/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-15",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He never planned to fight. But he refuses to fall.",
+   "title": "Brothers Under Fire",
+   "trailer": {
+    "key": "4R6mxR53m10",
+    "name": "Trailer 4K",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.904,
+   "vote_count": 68
+  },
+  "movie:1439713": {
+   "backdrop_path": "/x7jZHALUR58sAzEw0Ms9ohfapP8.jpg",
+   "budget": 22231700,
+   "cast": [
+    {
+     "c": "Shankara Varaprasad",
+     "n": "Chiranjeevi"
+    },
+    {
+     "c": "Sasirekha",
+     "n": "Nayanthara"
+    },
+    {
+     "c": "Venky Gowda",
+     "n": "Venkatesh"
+    },
+    {
+     "c": "Jwaala",
+     "n": "Catherine Tresa"
+    },
+    {
+     "c": "Narayana",
+     "n": "Harsha Vardhan"
+    },
+    {
+     "c": "Musthafa",
+     "n": "Abhinav Gomatam"
+    },
+    {
+     "c": "GVR",
+     "n": "Sachin Khedekar"
+    },
+    {
+     "c": "MP Nitin Sharma",
+     "n": "Sharat Saxena"
+    },
+    {
+     "c": "Viendra Pandey",
+     "n": "Sudev Nair"
+    },
+    {
+     "c": "Reddy",
+     "n": "Srinivasa Reddy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Anil Ravipudi"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Mystery"
+   ],
+   "id": 1439713,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "te",
+   "overview": "National security officer Vara Prasad, protecting his estranged wife and kids from a vengeful ex-cop, sees it as a chance to rebuild their relationship after six years apart.",
+   "popularity": 0.8869,
+   "poster_path": "/w0HMauXnYBlFk3iikMLa7cPjR30.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Zee5"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-12",
+   "revenue": 33903400,
+   "runtime": 162,
+   "source": "catalogue",
+   "spoken_languages": [
+    "te"
+   ],
+   "status": "Released",
+   "tagline": "Pandagaki Vastunnaru",
+   "title": "Mana ShankaraVaraPrasad Garu",
+   "trailer": {
+    "key": "bEZ-0iP76sA",
+    "name": "Mana ShankaraVaraPrasad Garu Trailer (Hindi) | ZEE5 | Chiranjeevi, Venkatesh, Nayanthara | 11th Feb",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 27
+  },
+  "movie:1480613": {
+   "backdrop_path": "/l2B2WTUqgePLN6kh9uLCYy63Pyk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Daniel Lonces",
+     "n": "Jaime Lorente"
+    },
+    {
+     "c": "Irene",
+     "n": "Christina Ochoa"
+    },
+    {
+     "c": "Carla",
+     "n": "Eva Rufo"
+    },
+    {
+     "c": "Oliver",
+     "n": "Rodrigo Poisón"
+    },
+    {
+     "c": "Diana",
+     "n": "Alba de la Fuente"
+    },
+    {
+     "c": "Rosa",
+     "n": "Marta Fuenar"
+    },
+    {
+     "c": "Miriam",
+     "n": "Estíbaliz Veiga"
+    },
+    {
+     "c": "Victor",
+     "n": "Iñaki Urriza"
+    },
+    {
+     "c": "Victor",
+     "n": "Daniel Urriza"
+    },
+    {
+     "c": "Lorenzo",
+     "n": "Santiago Molero"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Angel de la Cruz"
+   ],
+   "genres": [
+    "Thriller",
+    "Horror"
+   ],
+   "id": 1480613,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Daniel Lonces is a successful horror writer who decides to put himself in his protagonist’s shoes and experience firsthand what it means to be tied and gagged. But a tragic accident leaves his wife dead, him trapped, and his 11-month-old baby defenseless. Desperate, David struggles to free himself while facing unexpected dangers inside and outside his home.",
+   "popularity": 12.5039,
+   "poster_path": "/7zOEV2lZPCJHhC6Dhk0PmYMfjqR.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-29",
+   "revenue": 0,
+   "runtime": 75,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "How far would you go?",
+   "title": "Tied Up",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 28
+  },
+  "movie:1484913": {
+   "backdrop_path": "/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Arjun Mehra",
+     "n": "Sunny Deol"
+    },
+    {
+     "c": "Shouryaman Gaur",
+     "n": "Akshaye Khanna"
+    },
+    {
+     "c": "Madhura Banerjee",
+     "n": "Tillotama Shome"
+    },
+    {
+     "c": "Avantika Mehra",
+     "n": "Dia Mirza"
+    },
+    {
+     "c": "Gauri Gaur",
+     "n": "Sanjeeda Sheikh"
+    },
+    {
+     "c": "Soma's Mother",
+     "n": "Jyoti Mukherjee"
+    },
+    {
+     "c": "Soma Mittal",
+     "n": "Akansha Ranjan Kapoor"
+    },
+    {
+     "c": "Harshvardhan Gaur",
+     "n": "Shishir Sharma"
+    },
+    {
+     "c": "Judge",
+     "n": "Vijay Vikram Singh"
+    },
+    {
+     "c": "Dr. Galvankar",
+     "n": "Ivan Rodrigues"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Siddharth P. Malhotra"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1484913,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty — battling his conscience every step of the way.",
+   "popularity": 3.1057,
+   "poster_path": "/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-10",
+   "revenue": 0,
+   "runtime": 141,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "Some trials don't end in court.",
+   "title": "Ikka",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.804,
+   "vote_count": 28
+  },
+  "movie:1548113": {
+   "backdrop_path": "/qz7B5uDspnkoz068wLbLnleotwV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rowlf the Dog / Dr. Teeth  / Swedish Chef / Pepé the King Prawn (voice)",
+     "n": "Bill Barretta"
+    },
+    {
+     "c": "Gonzo / Zoot / Waldorf / Dr. Bunsen Honeydew (voice)",
+     "n": "Dave Goelz"
+    },
+    {
+     "c": "Miss Piggy / Fozzie Bear / Animal / Sam Eagle (voice)",
+     "n": "Eric Jacobson"
+    },
+    {
+     "c": "Lips / Statler (voice)",
+     "n": "Peter Linz"
+    },
+    {
+     "c": "Scooter / Janice / Beaker (voice)",
+     "n": "David Rudman"
+    },
+    {
+     "c": "Kermit the Frog / Sgt. Floyd Pepper (voice)",
+     "n": "Matt Vogel"
+    },
+    {
+     "c": "Sabrina Carpenter",
+     "n": "Sabrina Carpenter"
+    },
+    {
+     "c": "Seth Rogen",
+     "n": "Seth Rogen"
+    },
+    {
+     "c": "Maya Rudolph",
+     "n": "Maya Rudolph"
+    },
+    {
+     "c": "Muppet Performer",
+     "n": "Stephanie D'Abruzzo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Alex Timbers"
+   ],
+   "genres": [
+    "Comedy",
+    "Family",
+    "Music",
+    "TV Movie"
+   ],
+   "id": 1548113,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very special guest, Sabrina Carpenter!",
+   "popularity": 4.0129,
+   "poster_path": "/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-03",
+   "revenue": 0,
+   "runtime": 32,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's time to raise the curtain.",
+   "title": "The Muppet Show",
+   "trailer": {
+    "key": "hSLE5Psfs6U",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.172,
+   "vote_count": 128
+  },
+  "movie:1610413": {
+   "backdrop_path": "/edGuDPKY6qHBg9hYvmnvLjcFoy4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Creator / Writer / Director",
+     "n": "Ross Duffer"
+    },
+    {
+     "c": "Self - Creator / Writer / Director",
+     "n": "Matt Duffer"
+    },
+    {
+     "c": "Self - Writer",
+     "n": "Paul Dichter"
+    },
+    {
+     "c": "Self - Writer",
+     "n": "Kate Trefry"
+    },
+    {
+     "c": "Self - Writer",
+     "n": "Caitlin Schneiderhan"
+    },
+    {
+     "c": "Self - Executive Producer / Director / Guest Director Chapter 6 And 7",
+     "n": "Shawn Levy"
+    },
+    {
+     "c": "Self - Line Producer / Co-Executive Producer",
+     "n": "Lampton Enochs"
+    },
+    {
+     "c": "Self - Production Designer",
+     "n": "Chris Trujillo"
+    },
+    {
+     "c": "Self - Set Decorator",
+     "n": "Jess Royal"
+    },
+    {
+     "c": "Self - Costume Designer",
+     "n": "Amy Parris"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Martina Radwan"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1610413,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series.",
+   "popularity": 2.2544,
+   "poster_path": "/iX3ccl1TUNZgu4cNUm1pRLcevww.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-11",
+   "revenue": 0,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "One Last Adventure: The Making of Stranger Things 5",
+   "trailer": {
+    "key": "bLxvdUroRic",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 100
   },
   "movie:27813": {
    "backdrop_path": "/qGa0xgIKTmSa4Rlw5pEhShDTGwU.jpg",
@@ -794,6 +2148,175 @@
    "type": "movie",
    "vote_average": 7.7,
    "vote_count": 436
+  },
+  "movie:87513": {
+   "backdrop_path": "/l7asYmqOad01F2u0oCMM8nQjoEP.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "John Miller",
+     "n": "Alan Ritchson"
+    },
+    {
+     "c": "Reynolds",
+     "n": "Ben Foster"
+    },
+    {
+     "c": "Sophia",
+     "n": "Shailene Woodley"
+    },
+    {
+     "c": "Youngblood",
+     "n": "Lionel Boyce"
+    },
+    {
+     "c": "Singh",
+     "n": "Amar Chadha-Patel"
+    },
+    {
+     "c": "Lieutenant Savick",
+     "n": "Pablo Schreiber"
+    },
+    {
+     "c": "Porthos",
+     "n": "Dominic Bogart"
+    },
+    {
+     "c": "Aramis",
+     "n": "Mister Fitzgerald"
+    },
+    {
+     "c": "Athos",
+     "n": "Rafael Cebrian"
+    },
+    {
+     "c": "Detective Kent",
+     "n": "Ben McKenzie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Potsy Ponciroli"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Crime",
+    "Drama"
+   ],
+   "id": 87513,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
+   "popularity": 14.5973,
+   "poster_path": "/rKws4iqKhrzWHVLHnwtMnCpEHhF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-23",
+   "revenue": 0,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Love will drive you mad.",
+   "title": "Motor City",
+   "trailer": {
+    "key": "t6RklhKu9os",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.236,
+   "vote_count": 146
   },
   "movie:9413": {
    "backdrop_path": "/ecZVDPB3ju7jxJy1kEsn2rnsVx6.jpg",

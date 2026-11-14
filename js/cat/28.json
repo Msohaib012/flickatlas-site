@@ -1,7 +1,808 @@
 {
  "bucket": "28",
- "count": 12,
+ "count": 21,
  "titles": {
+  "movie:1096228": {
+   "backdrop_path": "/1CfHIKczBiAauSRBiNQ90bjLsCM.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Self (archive footage)",
+     "n": "Elon Musk"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Alex Gibney"
+    },
+    {
+     "c": "Self",
+     "n": "Justine Musk"
+    },
+    {
+     "c": "Self",
+     "n": "Ashley St. Clair"
+    },
+    {
+     "c": "Self",
+     "n": "Kara Swisher"
+    },
+    {
+     "c": "Self",
+     "n": "Martin Eberhard"
+    },
+    {
+     "c": "Self",
+     "n": "Zoë Schiffer"
+    },
+    {
+     "c": "Self",
+     "n": "Geoffrey Hinton"
+    },
+    {
+     "c": "Self",
+     "n": "Sam Harris"
+    },
+    {
+     "c": "Self",
+     "n": "Samantha Power"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Alex Gibney"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1096228,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An incisive look behind the legend of Elon Musk, the world's most heralded \"inventor-entrepreneur\" who has enormous influence on the world in which we all live.",
+   "popularity": 17.6458,
+   "poster_path": "/kTOeFV92c3QHJ3bEkT660P7BcWN.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-16",
+   "revenue": 759658,
+   "runtime": 238,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "An unflinching look at Earth's most unchecked man.",
+   "title": "Musk",
+   "trailer": {
+    "key": "eY_8SyndC10",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.439,
+   "vote_count": 33
+  },
+  "movie:1193128": {
+   "backdrop_path": "/yTYbKHC3f32iCNvdfvGblnPvJ6U.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Amira Homsi",
+     "n": "Yasmine Al Massri"
+    },
+    {
+     "c": "Mustafa",
+     "n": "Yahya Mahayni"
+    },
+    {
+     "c": "Marwan",
+     "n": "Omar Sy"
+    },
+    {
+     "c": "Fathi",
+     "n": "Ziad Bakri"
+    },
+    {
+     "c": "Stavros",
+     "n": "Constantine Markoulakis"
+    },
+    {
+     "c": "Dr. Kroft",
+     "n": "Jason Beghe"
+    },
+    {
+     "c": "Shaheen",
+     "n": "Ayman Samman"
+    },
+    {
+     "c": "Rasha Homsi",
+     "n": "Massa Daoud"
+    },
+    {
+     "c": "Helena",
+     "n": "Angeliki Papoulia"
+    },
+    {
+     "c": "Alaa",
+     "n": "Saleh Bakri"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Brandt Andersen"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1193128,
+   "industry": "world",
+   "origin_country": [
+    "JO"
+   ],
+   "original_language": "ar",
+   "overview": "A Syrian doctor and her daughter flee Aleppo, setting off a chain of events that binds five strangers together. A smuggler, a soldier, a poet, and a coast guard captain collide in a crisis that tests their courage, their choices, and their humanity.",
+   "popularity": 2.5051,
+   "poster_path": "/RBIrEveMOIy5Kxg2WzgMnCIhaN.jpg",
+   "production_countries": [
+    "JO",
+    "TR",
+    "PS",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Angel Studios"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pusUxS9dP5VK7HkN8SLf2wnP9gm.png",
+     "name": "Angel Studios",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-09",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "en",
+    "el"
+   ],
+   "status": "Released",
+   "tagline": "Based on 14 million true stories.",
+   "title": "I Was a Stranger",
+   "trailer": {
+    "key": "VvGvWHHjK2o",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 47
+  },
+  "movie:1355228": {
+   "backdrop_path": "/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bani Sikdar",
+     "n": "Taapsee Pannu"
+    },
+    {
+     "c": "Gokul Sikdar",
+     "n": "Ishwak Singh"
+    },
+    {
+     "c": "Jhunu Amba",
+     "n": "Mita Vashisht"
+    },
+    {
+     "c": "Miss Churni",
+     "n": "Swastika Mukherjee"
+    },
+    {
+     "c": "Uma Patra",
+     "n": "Chhaya Kadam"
+    },
+    {
+     "c": "Kabir",
+     "n": "Jatin Sarna"
+    },
+    {
+     "c": "Blackhole Leader",
+     "n": "Prashant Narayanan"
+    },
+    {
+     "c": "Somesh Yadav",
+     "n": "Chandan Roy"
+    },
+    {
+     "c": "Inspector Saha",
+     "n": "Vishwanath Chatterjee"
+    },
+    {
+     "c": "ASI Sanjukta",
+     "n": "Priti Shroff"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Devashish Makhija"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1355228,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible.",
+   "popularity": 5.7466,
+   "poster_path": "/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-03",
+   "revenue": 0,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Gandhari",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 36
+  },
+  "movie:1441228": {
+   "backdrop_path": "/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Trinadh Rama Kasu",
+     "n": "Ravi Teja"
+    },
+    {
+     "c": "Manikanta \"Manamma\"",
+     "n": "Nakshathra C M"
+    },
+    {
+     "c": "Kaveri",
+     "n": "Priya Bhavani Shankar"
+    },
+    {
+     "c": "Goparaju \"Guru Swamy\"",
+     "n": "Sai Kumar"
+    },
+    {
+     "c": "Erraji",
+     "n": "Ajay Ghosh"
+    },
+    {
+     "c": "P. Dhana Lakshmi",
+     "n": "Swasika"
+    },
+    {
+     "c": "Bushan",
+     "n": "Rajkumar Kasireddy"
+    },
+    {
+     "c": "M.L.A Bujji",
+     "n": "Ramesh Indira"
+    },
+    {
+     "c": "Paradesi",
+     "n": "Kishore Kumar Polimera"
+    },
+    {
+     "c": "Babu",
+     "n": "Laxman Meesala"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Shiva Nirvana"
+   ],
+   "genres": [
+    "Drama",
+    "Action",
+    "Thriller"
+   ],
+   "id": 1441228,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "te",
+   "overview": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
+   "popularity": 5.9711,
+   "poster_path": "/dVFtTKMWW1aq7aWq30wjwOP6W3J.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-21",
+   "revenue": 0,
+   "runtime": 152,
+   "source": "catalogue",
+   "spoken_languages": [
+    "te"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Irumudi",
+   "trailer": {
+    "key": "lqlYx4MdsAY",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 31
+  },
+  "movie:1549128": {
+   "backdrop_path": "/ojD3wayQzUkzzjAadfuIOzo8Dwo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Stella",
+     "n": "Martina Gatti"
+    },
+    {
+     "c": "Achille",
+     "n": "Matteo Olivetti"
+    },
+    {
+     "c": "Rossana",
+     "n": "Margherita Buy"
+    },
+    {
+     "c": "Lucia",
+     "n": "Laura Morante"
+    },
+    {
+     "c": "Mary",
+     "n": "Eugenia Costantini"
+    },
+    {
+     "c": "Gil",
+     "n": "Jimi Durotoje"
+    },
+    {
+     "c": "Ascanio",
+     "n": "Alessio Moneta"
+    },
+    {
+     "c": "Flavio",
+     "n": "Mattia Basciani"
+    },
+    {
+     "c": "Giulia",
+     "n": "Paola Buratto"
+    },
+    {
+     "c": "Don Pietro",
+     "n": "Fabrizio Colica"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Luca Lucini"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1549128,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "The story, set in a rural place, tells in a comic way the difference between the slow pace of the province and the frenetic pace of the capital.",
+   "popularity": 0.649,
+   "poster_path": "/bplj5wOuhfXrilWV8VCKstVubNG.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-14",
+   "revenue": 0,
+   "runtime": 0,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Twin Stars",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.648,
+   "vote_count": 27
+  },
+  "movie:1600028": {
+   "backdrop_path": "/fIuuYkIjF9Q7W26YbIeKX5OWwiL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Héctor",
+     "n": "Omar Chaparro"
+    },
+    {
+     "c": "Alma",
+     "n": "Mariana Calderón"
+    },
+    {
+     "c": "Maestra Ingrid",
+     "n": "Natalia Reyes"
+    },
+    {
+     "c": "\"Tigre\"",
+     "n": "Gustavo Sánchez Parra"
+    },
+    {
+     "c": "Capitán Avilez",
+     "n": "Jorge A. Jimenez"
+    },
+    {
+     "c": "Yadira",
+     "n": "Sofía Álvarez"
+    },
+    {
+     "c": "Tomás",
+     "n": "Juan Pablo de Santiago"
+    },
+    {
+     "c": "Director Navarro",
+     "n": "Marco Antonio Treviño"
+    },
+    {
+     "c": "Iván",
+     "n": "Arturo Ríos"
+    },
+    {
+     "c": "Lorenza",
+     "n": "Laura Alonso Escobar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Ana Lorena Pérez Ríos"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1600028,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "After being falsely accused of a terrible crime, Hector, a man with a neurological disability, goes to a secret prison. His goodness conquers the prisoners, who plan to prove their innocence.",
+   "popularity": 2.2565,
+   "poster_path": "/heC13pt4SV7y3HF5lWNzf0u729j.jpg",
+   "production_countries": [
+    "MX",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-25",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Father's Miracle",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.1,
+   "vote_count": 95
+  },
+  "movie:1604628": {
+   "backdrop_path": "/6j0SlqmwlwTWeT6BlnD9JtYIOGk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "David Attenborough"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Joe Loncraine"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1604628,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "After a life spent travelling the globe, the world’s most famous naturalist turns his attention closer to home to explore the wildlife of England’s iconic capital. Having lived in London for 75 years, Sir David has an intimate knowledge of the city’s natural history, and there's no better guide to introduce us to its most spectacular wildlife secrets. Captured over his centennial year, this personal and poignant film is a timely insight into how cities can become homes for wildlife as well as ourselves.",
+   "popularity": 1.2126,
+   "poster_path": "/3yTYwbilgxE240qShWxcNmp9WHZ.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-01",
+   "revenue": 0,
+   "runtime": 58,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Wild London",
+   "trailer": {
+    "key": "jGNIeFxEGtI",
+    "name": "Sir David Attenborough presents Wild London | Trailer - BBC",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.3,
+   "vote_count": 20
+  },
   "movie:16328": {
    "backdrop_path": "/cnf41Zu7ue1VgYdJEIYRC9w5yhS.jpg",
    "budget": 1000000,
@@ -569,6 +1370,113 @@
    "vote_average": 6.011,
    "vote_count": 473
   },
+  "movie:875828": {
+   "backdrop_path": "/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tommy Shelby",
+     "n": "Cillian Murphy"
+    },
+    {
+     "c": "Duke Shelby",
+     "n": "Barry Keoghan"
+    },
+    {
+     "c": "Kaulo / Zelda",
+     "n": "Rebecca Ferguson"
+    },
+    {
+     "c": "John Beckett",
+     "n": "Tim Roth"
+    },
+    {
+     "c": "Hayden Stagg",
+     "n": "Stephen Graham"
+    },
+    {
+     "c": "Ada Shelby",
+     "n": "Sophie Rundle"
+    },
+    {
+     "c": "Charlie Strong",
+     "n": "Ned Dennehy"
+    },
+    {
+     "c": "Johnny Dogs",
+     "n": "Packy Lee"
+    },
+    {
+     "c": "Curly",
+     "n": "Ian Peck"
+    },
+    {
+     "c": "Elijah",
+     "n": "Jay Lycurgo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Tom Harper"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 875828,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family — and his nation.",
+   "popularity": 9.7286,
+   "poster_path": "/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-05",
+   "revenue": 0,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It will all come to this.",
+   "title": "Peaky Blinders: The Immortal Man",
+   "trailer": {
+    "key": "lcvUGs3xaDM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.183,
+   "vote_count": 1317
+  },
   "movie:9028": {
    "backdrop_path": "/85B6S6eV5uF0AyaEQ79BcyLirty.jpg",
    "budget": 0,
@@ -760,6 +1668,101 @@
    "type": "movie",
    "vote_average": 7.5,
    "vote_count": 493
+  },
+  "movie:950028": {
+   "backdrop_path": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Angela",
+     "n": "Olivia Wilde"
+    },
+    {
+     "c": "Joe",
+     "n": "Seth Rogen"
+    },
+    {
+     "c": "Piña",
+     "n": "Penélope Cruz"
+    },
+    {
+     "c": "Hawk",
+     "n": "Edward Norton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Olivia Wilde"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 950028,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+   "popularity": 17.3646,
+   "poster_path": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Zee5"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-25",
+   "revenue": 55505476,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "It'll be fun.",
+   "title": "The Invite",
+   "trailer": {
+    "key": "nelkiuezJxg",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.202,
+   "vote_count": 960
   },
   "movie:9828": {
    "backdrop_path": "/2AnWtbrtWgZBiul29Fe3ArddSsv.jpg",

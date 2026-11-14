@@ -1,7 +1,330 @@
 {
  "bucket": "03",
- "count": 14,
+ "count": 24,
  "titles": {
+  "movie:1081003": {
+   "d": "Supergirl (2026): Action/Adventure film. Story: When an unexpected and ruthless adversary strikes too… See cast, budget $175M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/heZQmyNvkH236ha2M3JckdUQQqb.jpg",
+   "industry": "world",
+   "k": "Supergirl, Supergirl movie, Supergirl cast, Supergirl story, Supergirl box office collection, Supergirl budget, Supergirl review, Supergirl rating, Supergirl release date, Supergirl trailer, Supergirl Action, Supergirl Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Milly Alcock"
+     },
+     {
+      "@type": "Person",
+      "name": "Eve Ridley"
+     },
+     {
+      "@type": "Person",
+      "name": "Matthias Schoenaerts"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Momoa"
+     },
+     {
+      "@type": "Person",
+      "name": "David Krumholtz"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 2727,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Supergirl (2026): Action/Adventure film. Story: When an unexpected and ruthless adversary strikes too… See cast, budget $175M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Craig Gillespie"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/heZQmyNvkH236ha2M3JckdUQQqb.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1081003",
+    "name": "Supergirl",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1081003"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Supergirl (2026)</h1>\n<p class=\"ssr-lead\">When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 June 2026</li><li>Runtime: 108 minutes</li><li>Director: Craig Gillespie</li><li>Genres: Action, Adventure, Science Fiction</li><li>Budget: $175M</li><li>TMDB rating: 6.6/10 (2727 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Milly Alcock as Supergirl</li><li>Eve Ridley as Ruthye</li><li>Matthias Schoenaerts as Krem</li><li>Jason Momoa as Lobo</li><li>David Krumholtz as Zor-El</li><li>Emily Beecham as Alura In-Ze</li><li>David Corenswet as Superman</li><li>Kadiff Kirwan as Bomar Vran</li><li>Thalissa Teixeira as Mareck Vran</li><li>Ferdinand Kingsley as Elias Knoll</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Supergirl (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1195803": {
+   "d": "Wicker (2026): Romance/Fantasy film. Story: On the outskirts of a village by the sea, lives a… See cast, budget $10M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+   "industry": "world",
+   "k": "Wicker, Wicker movie, Wicker cast, Wicker story, Wicker box office collection, Wicker budget, Wicker review, Wicker rating, Wicker release date, Wicker trailer, Wicker Romance, Wicker Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Olivia Colman"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexander Skarsgård"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Dinklage"
+     },
+     {
+      "@type": "Person",
+      "name": "Elizabeth Debicki"
+     },
+     {
+      "@type": "Person",
+      "name": "Marli Siu"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 50,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Wicker (2026): Romance/Fantasy film. Story: On the outskirts of a village by the sea, lives a… See cast, budget $10M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Eleanor Wilson"
+     },
+     {
+      "@type": "Person",
+      "name": "Alex Huston Fischer"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Romance",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1195803",
+    "name": "Wicker",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1195803"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wicker (2026)</h1>\n<p class=\"ssr-lead\">On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 October 2026</li><li>Runtime: 105 minutes</li><li>Director: Eleanor Wilson, Alex Huston Fischer</li><li>Genres: Romance, Fantasy, Comedy</li><li>Budget: $10M</li><li>TMDB rating: 7.5/10 (50 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Olivia Colman as The Fisherwoman</li><li>Alexander Skarsgård as The Wicker Husband</li><li>Peter Dinklage as The Basketmaker</li><li>Elizabeth Debicki as The Tailor’s Wife</li><li>Marli Siu as The Bottlewasher’s Wife</li><li>Nabhaan Rizwan as The Tailor</li><li>Richard E. Grant as The Doctor</li><li>Phil Daniels as The Butcher</li><li>Kiell Smith-Bynoe as The Innkeeper</li><li>Emily Lloyd-Saini as The Innkeeper’s Wife</li></ul>\n</article>",
+   "t": "Wicker (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1235303": {
+   "d": "Baise-en-ville (2026): Comedy film. Story: Sprite, a 20-year-old young adult, returns to Chelles… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1v1tmwxXwqnayMOCWo03aH6nNEZ.jpg",
+   "industry": "world",
+   "k": "Baise-en-ville, Baise-en-ville movie, Baise-en-ville cast, Baise-en-ville story, Baise-en-ville box office collection, Baise-en-ville budget, Baise-en-ville review, Baise-en-ville rating, Baise-en-ville release date, Baise-en-ville Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Martin Jauvat"
+     },
+     {
+      "@type": "Person",
+      "name": "Emmanuelle Bercot"
+     },
+     {
+      "@type": "Person",
+      "name": "William Lebghil"
+     },
+     {
+      "@type": "Person",
+      "name": "Anaïde Rozam"
+     },
+     {
+      "@type": "Person",
+      "name": "Sébastien Chassagne"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 31,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Baise-en-ville (2026): Comedy film. Story: Sprite, a 20-year-old young adult, returns to Chelles… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Martin Jauvat"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1v1tmwxXwqnayMOCWo03aH6nNEZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1235303",
+    "name": "Baise-en-ville",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1235303"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Baise-en-ville (2026)</h1>\n<p class=\"ssr-lead\">Sprite, a 20-year-old young adult, returns to Chelles after a breakup. To pay for his driver’s license and please his parents, he joins Allo Nettoyo, a night-time cleaning start-up in the Paris suburbs. Unable to get around without a permit, he adopts the &quot;baise-en-ville&quot; technique—taught by his driving instructor—which involves spending the night at girls&#x27; places of girls he meets through a dating app. Sprite struggles with this new approach to seduction.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 January 2026</li><li>Runtime: 97 minutes</li><li>Director: Martin Jauvat</li><li>Genres: Comedy</li><li>TMDB rating: 6.5/10 (31 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Martin Jauvat as Corentin Perrier dit « Sprite »</li><li>Emmanuelle Bercot as Marie-Charlotte</li><li>William Lebghil as Walid</li><li>Anaïde Rozam as Safia</li><li>Sébastien Chassagne as Ricco</li><li>Annabelle Lengronne as Laura</li><li>Michel Hazanavicius as Sprite&#x27;s father</li><li>Géraldine Pailhas as Sprite&#x27;s mother</li><li>Mahamadou Sangaré</li><li>Mahaut Adam as Mathilde</li></ul>\n</article>",
+   "t": "Baise-en-ville (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1241803": {
+   "d": "Les Misérables (2026): History/Romance film. Story: After enduring 19 years in prison for stealing a loaf… See cast, budget $30.7M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/2IAY24dGrbGnafJ3ENXmCDTDvxg.jpg",
+   "industry": "world",
+   "k": "Les Misérables, Les Misérables movie, Les Misérables cast, Les Misérables story, Les Misérables box office collection, Les Misérables budget, Les Misérables review, Les Misérables rating, Les Misérables release date, Les Misérables trailer, Les Misérables History, Les Misérables Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vincent Lindon"
+     },
+     {
+      "@type": "Person",
+      "name": "Tahar Rahim"
+     },
+     {
+      "@type": "Person",
+      "name": "Camille Cottin"
+     },
+     {
+      "@type": "Person",
+      "name": "Benjamin Lavernhe"
+     },
+     {
+      "@type": "Person",
+      "name": "Noémie Merlant"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 70,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Les Misérables (2026): History/Romance film. Story: After enduring 19 years in prison for stealing a loaf… See cast, budget $30.7M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Fred Cavayé"
+     }
+    ],
+    "duration": "PT178M",
+    "genre": [
+     "History",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2IAY24dGrbGnafJ3ENXmCDTDvxg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1241803",
+    "name": "Les Misérables",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1241803"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Les Misérables (2026)</h1>\n<p class=\"ssr-lead\">After enduring 19 years in prison for stealing a loaf of bread, Jean Valjean emerges a hardened man. He seeks redemption by reinventing himself as a respected dignitary under a new identity. He promises Fantine, a dying factory worker, to rescue and protect her daughter Cosette, who is being exploited and mistreated by the deceitful Thénardier family. As Valjean raises Cosette as his own, he is relentlessly pursued by Inspector Javert. Admist the social unrest shaking France, the fates of Valjean, Cosette, her lover Marius, and Javert become intertwined in a turbulent, revolutionary Paris. Through struggles, sacrifices, and a deep yearning for justice, Valjean strives to complete his journey of redemption and offer Cosette a future of love and freedom.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 October 2026</li><li>Runtime: 178 minutes</li><li>Director: Fred Cavayé</li><li>Genres: History, Romance, Drama</li><li>Budget: $30.7M</li><li>TMDB rating: 7.1/10 (70 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vincent Lindon as Jean Valjean</li><li>Tahar Rahim as Inspecteur Javert</li><li>Camille Cottin as Mme Thénardier</li><li>Benjamin Lavernhe as M. Thénardier</li><li>Noémie Merlant as Fantine</li><li>Vassili Schneider as Marius</li><li>Megan Northam as Cosette</li><li>Marie Colomb as Éponine</li><li>Louis Peres as Jean Valjean jeune</li><li>Frédéric Pierrot as Abbé Myriel</li></ul>\n</article>",
+   "t": "Les Misérables (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1315303": {
+   "d": "Primate (2026): Horror/Thriller film. Story: College student Lucy and her friends spend their… See cast, budget $21M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/d5C5Wsx4fnMRA0tj9BK1kTPcgQe.jpg",
+   "industry": "world",
+   "k": "Primate, Primate movie, Primate cast, Primate story, Primate box office collection, Primate budget, Primate review, Primate rating, Primate release date, Primate trailer, Primate Horror, Primate Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Johnny Sequoyah"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessica Alexander"
+     },
+     {
+      "@type": "Person",
+      "name": "Troy Kotsur"
+     },
+     {
+      "@type": "Person",
+      "name": "Victoria Wyant"
+     },
+     {
+      "@type": "Person",
+      "name": "Gia Hunter"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 975,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Primate (2026): Horror/Thriller film. Story: College student Lucy and her friends spend their… See cast, budget $21M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Johannes Roberts"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/d5C5Wsx4fnMRA0tj9BK1kTPcgQe.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1315303",
+    "name": "Primate",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1315303"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Primate (2026)</h1>\n<p class=\"ssr-lead\">College student Lucy and her friends spend their vacation at her family&#x27;s home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 January 2026</li><li>Runtime: 89 minutes</li><li>Director: Johannes Roberts</li><li>Genres: Horror, Thriller</li><li>Budget: $21M</li><li>TMDB rating: 6.4/10 (975 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Johnny Sequoyah as Lucy</li><li>Jessica Alexander as Hannah</li><li>Troy Kotsur as Adam</li><li>Victoria Wyant as Kate</li><li>Gia Hunter as Erin</li><li>Benjamin Cheng as Nick</li><li>Charlie Mann as Drew</li><li>Tienne Simon as Brad</li><li>Miguel Hernando Torres Umba as Ben</li><li>Amina Abdi as Susan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Primate (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:13403": {
    "d": "Hedwig and the Angry Inch (2001): Comedy/Music film. Story: Raised a boy in East Berlin, Hedwig undergoes a… See cast, budget $6M, and TMDB rating 7.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/uY5EB9VIX8lT03MdYcR9DzlhEGM.jpg",
@@ -65,6 +388,319 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Hedwig and the Angry Inch (2001)</h1>\n<p class=\"ssr-lead\">Raised a boy in East Berlin, Hedwig undergoes a personal transformation in order to emigrate to the U.S., where she reinvents herself as an &#x27;internationally ignored&#x27; but divinely talented rock diva, inhabiting a &#x27;beautiful gender of one&#x27;.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 August 2001</li><li>Runtime: 95 minutes</li><li>Director: John Cameron Mitchell</li><li>Genres: Comedy, Music, Drama</li><li>Budget: $6M</li><li>TMDB rating: 7.5/10 (451 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Cameron Mitchell as Hedwig</li><li>Miriam Shor as Yitzhak</li><li>Stephen Trask as Skszp</li><li>Theodore Liscinski as Jacek</li><li>Rob Campbell as Krzysztof</li><li>Michael Aronov as Schlatko</li><li>Andrea Martin as Phyllis Stein</li><li>Ben Mayer-Goodman as Hansel - 6 years old</li><li>Alberta Watson as Hansel&#x27;s Mom</li><li>Gene Pyrz as Hansel&#x27;s Dad</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Hedwig and the Angry Inch (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2001"
+  },
+  "movie:1437703": {
+   "d": "Flies (2026): Drama/Comedy film. Story: Olga lives a strictly regulated life without… See cast, TMDB rating 7.4/10, and release date 1 July 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/dlVvlYfvpD05KYbKFxEUvskvWWd.jpg",
+   "industry": "world",
+   "k": "Flies, Flies movie, Flies cast, Flies story, Flies box office collection, Flies budget, Flies review, Flies rating, Flies release date, Flies trailer, Flies Drama, Flies Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bastián Escobar"
+     },
+     {
+      "@type": "Person",
+      "name": "Teresa Sánchez"
+     },
+     {
+      "@type": "Person",
+      "name": "Hugo Ramírez"
+     },
+     {
+      "@type": "Person",
+      "name": "Enrique Arreola"
+     },
+     {
+      "@type": "Person",
+      "name": "Liam Rivera"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 25,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Flies (2026): Drama/Comedy film. Story: Olga lives a strictly regulated life without… See cast, TMDB rating 7.4/10, and release date 1 July 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Fernando Eimbcke"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dlVvlYfvpD05KYbKFxEUvskvWWd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1437703",
+    "name": "Flies",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1437703"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Flies (2026)</h1>\n<p class=\"ssr-lead\">Olga lives a strictly regulated life without attachments in a vast apartment block. When out of financial necessity she rents a room in her apartment to a man who also sneaks-in his nine-year-old son, an unlikely bond forms. Her carefully controlled world begins to shift, and their lives become intertwined against her will.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 July 2026</li><li>Runtime: 101 minutes</li><li>Director: Fernando Eimbcke</li><li>Genres: Drama, Comedy</li><li>TMDB rating: 7.4/10 (25 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bastián Escobar as Cristian</li><li>Teresa Sánchez as Olga</li><li>Hugo Ramírez as Tulio</li><li>Enrique Arreola as Isaac</li><li>Liam Rivera as Niño en maquinita</li><li>Evelyn Velazquez as Guardia enojona</li><li>Paco Peralta as Guardia del hospital</li><li>Luis Santamaria as Guardia acceso servicio</li><li>Janeth Cruz as Guardia de las uñas</li><li>Manuel Carrillo as Anciano pelota</li></ul>\n</article>",
+   "t": "Flies (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1596303": {
+   "d": "The Last First: Winter K2 (2026): Documentary film. Story: A historic race to become the first to summit K2 in… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bZDG7ypci7shzYp7jCOW4d1UC8w.jpg",
+   "industry": "world",
+   "k": "The Last First: Winter K2, The Last First: Winter K2 movie, The Last First: Winter K2 cast, The Last First: Winter K2 story, The Last First: Winter K2 box office collection, The Last First: Winter K2 budget, The Last First: Winter K2 review, The Last First: Winter K2 rating, The Last First: Winter K2 release date, The Last First: Winter K2 trailer, The Last First: Winter K2 Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "John Snorri Sigurjónsson"
+     },
+     {
+      "@type": "Person",
+      "name": "Muhammad Ali Sadpara"
+     },
+     {
+      "@type": "Person",
+      "name": "Sajid Sadpara"
+     },
+     {
+      "@type": "Person",
+      "name": "Lina Moey"
+     },
+     {
+      "@type": "Person",
+      "name": "Angela Benavides"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 25,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "The Last First: Winter K2 (2026): Documentary film. Story: A historic race to become the first to summit K2 in… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Amir Bar-Lev"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bZDG7ypci7shzYp7jCOW4d1UC8w.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1596303",
+    "name": "The Last First: Winter K2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1596303"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Last First: Winter K2 (2026)</h1>\n<p class=\"ssr-lead\">A historic race to become the first to summit K2 in winter unravels into tragedy, exposing how ambition, ego, and the pursuit of glory can be as dangerous as the mountain itself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 October 2026</li><li>Runtime: 98 minutes</li><li>Director: Amir Bar-Lev</li><li>Genres: Documentary</li><li>TMDB rating: 6.3/10 (25 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Snorri Sigurjónsson as Self - Extreme Mountaineer</li><li>Muhammad Ali Sadpara as Self - Mountain Guide</li><li>Sajid Sadpara as Self - Mountain Guide</li><li>Lina Moey as Self - John&#x27;s Wife</li><li>Angela Benavides as Self - Sports Writer, Explorersweb</li><li>Elia Saikaly as Self - Filmmaker / Influencer</li><li>Sandro Gromen Hayes as Self - Nims&#x27; Cameraman</li><li>Nirmal Purja as Self - Team Leader</li><li>Colin O&#x27;Brady as Self - Extreme Athlete / Motivational Speaker</li><li>Tamara Lunger as Self - Extreme Mountaineer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Apple TV, Apple TV Amazon Channel</li></ul>\n</article>",
+   "t": "The Last First: Winter K2 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1610703": {
+   "d": "Infirmary (2026): Horror film. Story: A guard vanished on his first night at an old psych… See cast, TMDB rating 5.1/10, and release date 11 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/qkxk9URcK33HK54YSXFPQO8aqJH.jpg",
+   "industry": "world",
+   "k": "Infirmary, Infirmary movie, Infirmary cast, Infirmary story, Infirmary box office collection, Infirmary budget, Infirmary review, Infirmary rating, Infirmary release date, Infirmary trailer, Infirmary Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Paul Syre"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Anthony Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Danielle Kennedy"
+     },
+     {
+      "@type": "Person",
+      "name": "Corinna Wagner-Smith"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 30,
+     "ratingValue": 5.1,
+     "worstRating": 0
+    },
+    "description": "Infirmary (2026): Horror film. Story: A guard vanished on his first night at an old psych… See cast, TMDB rating 5.1/10, and release date 11 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nicholas Pineda"
+     }
+    ],
+    "duration": "PT85M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qkxk9URcK33HK54YSXFPQO8aqJH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1610703",
+    "name": "Infirmary",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1610703"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Infirmary (2026)</h1>\n<p class=\"ssr-lead\">A guard vanished on his first night at an old psych hospital in 2023. His bodycam footage shows unexplainable incidents that continue to baffle investigators.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 November 2026</li><li>Runtime: 85 minutes</li><li>Director: Nicholas Pineda</li><li>Genres: Horror</li><li>TMDB rating: 5.1/10 (30 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paul Syre as Edward</li><li>Mark Anthony Williams as Lester</li><li>Danielle Kennedy as Ms. Downey</li><li>Corinna Wagner-Smith as Vagrant</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, Shudder</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Infirmary (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1632103": {
+   "d": "The City of the Living (2026): Drama/Thriller film. Story: Luca is twenty-three years old. He lives with an… See cast and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1j1nQ4bE2mdBFaQo1RsxGjeBCtn.jpg",
+   "industry": "world",
+   "k": "The City of the Living, The City of the Living movie, The City of the Living cast, The City of the Living story, The City of the Living box office collection, The City of the Living budget, The City of the Living review, The City of the Living rating, The City of the Living release date, The City of the Living Drama, The City of the Living Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Emanuele Maria Di Stefano"
+     },
+     {
+      "@type": "Person",
+      "name": "Valerio Mastandrea"
+     },
+     {
+      "@type": "Person",
+      "name": "Simona Senzacqua"
+     },
+     {
+      "@type": "Person",
+      "name": "Roberta Mattei"
+     },
+     {
+      "@type": "Person",
+      "name": "Gaia Merlonghi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 20,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "The City of the Living (2026): Drama/Thriller film. Story: Luca is twenty-three years old. He lives with an… See cast and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Edoardo Gabbriellini"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1j1nQ4bE2mdBFaQo1RsxGjeBCtn.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1632103",
+    "name": "The City of the Living",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1632103"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The City of the Living (2026)</h1>\n<p class=\"ssr-lead\">Luca is twenty-three years old. He lives with an adoptive family who loves him. He moves between the suburbs and the city center with his friends and has a girlfriend with whom he shares a love that is young, yet significant for them both. Luca is searching for his path at an age when everything still feels possible and, at the same time, already lost; in this pursuit, he leads a double life. One night, after a seemingly chance encounter, the trajectory of Luca’s life is shattered, colliding with blind and senseless violence.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 October 2026</li><li>Runtime: 103 minutes</li><li>Director: Edoardo Gabbriellini</li><li>Genres: Drama, Thriller</li><li>TMDB rating: 6.4/10 (20 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Emanuele Maria Di Stefano as Luca</li><li>Valerio Mastandrea</li><li>Simona Senzacqua</li><li>Roberta Mattei</li><li>Gaia Merlonghi</li></ul>\n</article>",
+   "t": "The City of the Living (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1645603": {
+   "d": "Night of the Living Dead (2026): Horror film. Story: A ragtag group barricade themselves in an old… See cast, TMDB rating 4.9/10, and release date 3 July 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/h1x4YiBtQEGY2dMx7k0fvlErlSn.jpg",
+   "industry": "world",
+   "k": "Night of the Living Dead, Night of the Living Dead movie, Night of the Living Dead cast, Night of the Living Dead story, Night of the Living Dead box office collection, Night of the Living Dead budget, Night of the Living Dead review, Night of the Living Dead rating, Night of the Living Dead release date, Night of the Living Dead Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vivica A. Fox"
+     },
+     {
+      "@type": "Person",
+      "name": "Brittany Underwood"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Carradine"
+     },
+     {
+      "@type": "Person",
+      "name": "Dee Wallace"
+     },
+     {
+      "@type": "Person",
+      "name": "Eva Ceja"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 77,
+     "ratingValue": 4.9,
+     "worstRating": 0
+    },
+    "description": "Night of the Living Dead (2026): Horror film. Story: A ragtag group barricade themselves in an old… See cast, TMDB rating 4.9/10, and release date 3 July 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Christopher Ray"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/h1x4YiBtQEGY2dMx7k0fvlErlSn.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1645603",
+    "name": "Night of the Living Dead",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1645603"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Night of the Living Dead (2026)</h1>\n<p class=\"ssr-lead\">A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 July 2026</li><li>Runtime: 87 minutes</li><li>Director: Christopher Ray</li><li>Genres: Horror</li><li>TMDB rating: 4.9/10 (77 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vivica A. Fox as Ellie</li><li>Brittany Underwood as Barbara</li><li>Robert Carradine as Bill</li><li>Dee Wallace as Maggie</li><li>Eva Ceja as Judy</li><li>Jared Cohn as Tom</li><li>Raphael Gabai as Busboy/First Zombie</li><li>Richard Gabai as Harry</li><li>Scotch Hopkins as Hinzman Zombie</li><li>Miko Hughes as Ollie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Night of the Living Dead (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:3": {
    "d": "Shadows in Paradise (1986): Drama/Romance film. Story: Nikander, a rubbish collector and would-be… See cast and TMDB rating 7.3/10.",

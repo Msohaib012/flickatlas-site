@@ -1,7 +1,386 @@
 {
  "bucket": "33",
- "count": 13,
+ "count": 18,
  "titles": {
+  "movie:1202033": {
+   "backdrop_path": "/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Enola Holmes",
+     "n": "Millie Bobby Brown"
+    },
+    {
+     "c": "Sherlock Holmes",
+     "n": "Henry Cavill"
+    },
+    {
+     "c": "Eudoria Holmes",
+     "n": "Helena Bonham Carter"
+    },
+    {
+     "c": "Tewkesbury",
+     "n": "Louis Partridge"
+    },
+    {
+     "c": "Dr. Watson",
+     "n": "Himesh Patel"
+    },
+    {
+     "c": "Moriarty",
+     "n": "Sharon Duncan-Brewster"
+    },
+    {
+     "c": "Lady Tewkesbury",
+     "n": "Hattie Morahan"
+    },
+    {
+     "c": "Edith",
+     "n": "Susan Wokoma"
+    },
+    {
+     "c": "Mikiel",
+     "n": "Joe Azzopardi"
+    },
+    {
+     "c": "Sergeant Nicholas Smith",
+     "n": "Nicholas Aaron"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Philip Barantini"
+   ],
+   "genres": [
+    "Adventure",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 1202033,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
+   "popularity": 7.4728,
+   "poster_path": "/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-30",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "mt"
+   ],
+   "status": "Released",
+   "tagline": "Tis I do?",
+   "title": "Enola Holmes 3",
+   "trailer": {
+    "key": "n_pEJjq-9xQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.617,
+   "vote_count": 770
+  },
+  "movie:1255833": {
+   "backdrop_path": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Jay Gardiner",
+     "n": "Austin Abrams"
+    },
+    {
+     "c": "Mitt Gardiner",
+     "n": "Josh Brolin"
+    },
+    {
+     "c": "Zara Gardiner",
+     "n": "Elisabeth Shue"
+    },
+    {
+     "c": "Hewey",
+     "n": "John Ortiz"
+    },
+    {
+     "c": "Eva Gardiner",
+     "n": "Jane Levy"
+    },
+    {
+     "c": "Nan Gardiner",
+     "n": "Emily Rudd"
+    },
+    {
+     "c": "Whale Watcher Man",
+     "n": "Kamy D. Bruder"
+    },
+    {
+     "c": "Whale Watcher Man",
+     "n": "Mark Meloro Jr."
+    },
+    {
+     "c": "Jay at 10",
+     "n": "Sam Franich"
+    },
+    {
+     "c": "US Coast Guard Petty Officer Third Class Whaley",
+     "n": "Nicholas Gould"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Brian Duffield"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 1255833,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
+   "popularity": 43.3938,
+   "poster_path": "/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-14",
+   "revenue": 39135084,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Hold your breath.",
+   "title": "Whalefall",
+   "trailer": {
+    "key": "Dw-5ZGapGTQ",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.617,
+   "vote_count": 145
+  },
+  "movie:1630433": {
+   "backdrop_path": "/qbbx3NDw6FrtQSrKdxn9n72xJzO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Orn",
+     "n": "Nittha Jirayungyurn"
+    },
+    {
+     "c": "Fai",
+     "n": "Esther Supreeleela"
+    },
+    {
+     "c": "Wawwow",
+     "n": "Chutima Maholakul"
+    },
+    {
+     "c": "Aood",
+     "n": "Todsapol Maisuk"
+    },
+    {
+     "c": "OJ",
+     "n": "Tonhon Tantivejakul"
+    },
+    {
+     "c": "Yui",
+     "n": "Paowalee Pornpimol"
+    },
+    {
+     "c": "Mark",
+     "n": "Akarat Nimitchai"
+    },
+    {
+     "c": "Amy",
+     "n": "Nuttanan Kunpat"
+    },
+    {
+     "c": "Wei",
+     "n": "Tony Chen"
+    },
+    {
+     "c": "Mac",
+     "n": "Phongsakan Sonklin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "+16",
+   "date_kind": "release",
+   "director": [
+    "Sitisiri Mongkolsiri"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Drama"
+   ],
+   "id": 1630433,
+   "industry": "world",
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "Three women fall prey to a ruthless phone scam. To settle the score, they'll take on the criminal network that stole their money — and their dignity.",
+   "popularity": 3.2998,
+   "poster_path": "/q3ROA6OqVA9rWSsC2DzdkPQvxWW.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-22",
+   "revenue": 0,
+   "runtime": 135,
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Released",
+   "tagline": "When the victim becomes the hunter. When the law fails it's time to reclaim.",
+   "title": "The Red Line",
+   "trailer": {
+    "key": "XgUHnuNN2lA",
+    "name": "เส้นตาย สายลวง | ตัวอย่างอย่างเป็นทางการ | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 83
+  },
+  "movie:1666433": {
+   "backdrop_path": "/vSTlbow1yx2L85EEUhFiJOMo4LY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Trevor Noah"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "David Paul Meyer"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1666433,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "From unexpected social media beef to a therapist's truth bomb, Trevor Noah turns chaos into comedy in this hilariously sharp, playful stand-up set.",
+   "popularity": 1.0443,
+   "poster_path": "/nGbo6kZLHwcyBJOgr5b36OvBPPe.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-13",
+   "revenue": 0,
+   "runtime": 68,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Find the funny in the fallout.",
+   "title": "Trevor Noah: Joy in the Trenches",
+   "trailer": {
+    "key": "xSnV_igzU4c",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 24
+  },
   "movie:248933": {
    "backdrop_path": "/fXHT6tTLVCchwrsFkpTyqtUcsCy.jpg",
    "budget": 6875270,
@@ -509,6 +888,114 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 483
+  },
+  "movie:83533": {
+   "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+   "budget": 350000000,
+   "cast": [
+    {
+     "c": "Jake",
+     "n": "Sam Worthington"
+    },
+    {
+     "c": "Neytiri",
+     "n": "Zoe Saldaña"
+    },
+    {
+     "c": "Kiri",
+     "n": "Sigourney Weaver"
+    },
+    {
+     "c": "Quaritch",
+     "n": "Stephen Lang"
+    },
+    {
+     "c": "Varang",
+     "n": "Oona Chaplin"
+    },
+    {
+     "c": "Spider",
+     "n": "Jack Champion"
+    },
+    {
+     "c": "Ronal",
+     "n": "Kate Winslet"
+    },
+    {
+     "c": "Tonowari",
+     "n": "Cliff Curtis"
+    },
+    {
+     "c": "Norm",
+     "n": "Joel David Moore"
+    },
+    {
+     "c": "Mo'at",
+     "n": "CCH Pounder"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "James Cameron"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 83533,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+   "popularity": 41.8392,
+   "poster_path": "/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-19",
+   "revenue": 1485999890,
+   "runtime": 198,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The world of Pandora will change forever.",
+   "title": "Avatar: Fire and Ash",
+   "trailer": {
+    "key": "Ma1x7ikpid8",
+    "name": "New Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.641,
+   "vote_count": 4684
   },
   "tv:117933": {
    "backdrop_path": "/p2eZlGwd8OjkWpwD2hSoBiIlHBZ.jpg",

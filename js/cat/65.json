@@ -1,6 +1,6 @@
 {
  "bucket": "65",
- "count": 16,
+ "count": 20,
  "titles": {
   "movie:1001865": {
    "backdrop_path": "/wMNY6tU9WOUeAMRfqbCYwceOl9u.jpg",
@@ -260,6 +260,113 @@
    "vote_average": 5.851,
    "vote_count": 451
   },
+  "movie:1057265": {
+   "backdrop_path": "/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
+   "budget": 36500000,
+   "cast": [
+    {
+     "c": "Peddi Pehelwan",
+     "n": "Ram Charan"
+    },
+    {
+     "c": "Achiyyamma",
+     "n": "Janhvi Kapoor"
+    },
+    {
+     "c": "Gournaidu",
+     "n": "Shiva Rajkumar"
+    },
+    {
+     "c": "Appalasoori",
+     "n": "Jagapati Babu"
+    },
+    {
+     "c": "Ram Bujji",
+     "n": "Divyendu Sharma"
+    },
+    {
+     "c": "Kiran Singh Baiswal",
+     "n": "Boman Irani"
+    },
+    {
+     "c": "Ranadheer Sisodia",
+     "n": "Ravi Kishan"
+    },
+    {
+     "c": "Subhadra Rao",
+     "n": "Rao Ramesh"
+    },
+    {
+     "c": "Villager",
+     "n": "Upendra Limaye"
+    },
+    {
+     "c": "Ammathalli",
+     "n": "John Vijay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Buchi Babu Sana"
+   ],
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "id": 1057265,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "te",
+   "overview": "In a village that doesn't officially exist, a laborer's unmatched athletic talent becomes his weapon to fight for his people's right to be recognized.",
+   "popularity": 4.878,
+   "poster_path": "/vPWDScBQcgtuCMBWuSut0aYeDAT.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-04",
+   "revenue": 35700000,
+   "runtime": 189,
+   "source": "catalogue",
+   "spoken_languages": [
+    "te"
+   ],
+   "status": "Released",
+   "tagline": "Hurt. Bruised. But not beaten.",
+   "title": "Peddi",
+   "trailer": {
+    "key": "AdEE5xFQelY",
+    "name": "Peddi Official Trailer (Telugu) | Ram Charan | Janhvi Kapoor | A R Rahman | Buchi Babu Sana",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 74
+  },
   "movie:10765": {
    "backdrop_path": "/bMWO0HQwfIe85CmXbWSI8Q6cCC2.jpg",
    "budget": 15000000,
@@ -378,6 +485,120 @@
    "type": "movie",
    "vote_average": 5.956,
    "vote_count": 439
+  },
+  "movie:1148365": {
+   "backdrop_path": "/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sean",
+     "n": "John Cena"
+    },
+    {
+     "c": "Aimee",
+     "n": "Jessica Biel"
+    },
+    {
+     "c": "Ted",
+     "n": "Arturo Castro"
+    },
+    {
+     "c": "Crosby",
+     "n": "Sam Richardson"
+    },
+    {
+     "c": "Charmaine",
+     "n": "Teyonah Parris"
+    },
+    {
+     "c": "Helen",
+     "n": "Danai Gurira"
+    },
+    {
+     "c": "Robbie",
+     "n": "Golshifteh Farahani"
+    },
+    {
+     "c": "Mosier",
+     "n": "Corey Stoll"
+    },
+    {
+     "c": "Falko",
+     "n": "Daniel Bernhardt"
+    },
+    {
+     "c": "Mustafa",
+     "n": "Randeep Hooda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Sam Hargrave"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Adventure"
+   ],
+   "id": 1148365,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
+   "popularity": 67.7588,
+   "poster_path": "/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-05",
+   "revenue": 0,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Save the world, bring your friends.",
+   "title": "Matchbox the Movie",
+   "trailer": {
+    "key": "7xfqITrMDcI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.536,
+   "vote_count": 629
   },
   "movie:12165": {
    "backdrop_path": "/7BSSLv4MvBjEmercZIolaOUR42q.jpg",
@@ -744,6 +965,133 @@
    "vote_average": 7.1,
    "vote_count": 497
   },
+  "movie:1284465": {
+   "backdrop_path": "/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Robin Hood",
+     "n": "Hugh Jackman"
+    },
+    {
+     "c": "Sister Brigid",
+     "n": "Jodie Comer"
+    },
+    {
+     "c": "Little John",
+     "n": "Bill Skarsgård"
+    },
+    {
+     "c": "The Leper",
+     "n": "Murray Bartlett"
+    },
+    {
+     "c": "Arthur / Godwyn",
+     "n": "Noah Jupe"
+    },
+    {
+     "c": "Wainwright",
+     "n": "Jade Croot"
+    },
+    {
+     "c": "Little Margaret",
+     "n": "Faith Delaney"
+    },
+    {
+     "c": "Sarah",
+     "n": "Tabitha Smyth"
+    },
+    {
+     "c": "Hob",
+     "n": "Beau Thompson"
+    },
+    {
+     "c": "Hendrie",
+     "n": "Alfie Lawless"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Michael Sarnoski"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Action"
+   ],
+   "id": 1284465,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+   "popularity": 18.511,
+   "poster_path": "/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-03",
+   "revenue": 9896460,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He was no hero.",
+   "title": "The Death of Robin Hood",
+   "trailer": {
+    "key": "tlSDDuWxO_0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.71,
+   "vote_count": 619
+  },
   "movie:13665": {
    "backdrop_path": "/s7m59L9kv1JufLXsrWRRow9k2vT.jpg",
    "budget": 7000000,
@@ -972,6 +1320,92 @@
    "type": "movie",
    "vote_average": 7.742,
    "vote_count": 463
+  },
+  "movie:1641965": {
+   "backdrop_path": "/gyYTuYSwiqGNaqNomscb6oSZ8Mt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Himself",
+     "n": "Rasheed Wallace"
+    },
+    {
+     "c": "Himself",
+     "n": "Damon Stoudamire"
+    },
+    {
+     "c": "Himself",
+     "n": "Bonzi Wells"
+    },
+    {
+     "c": "Himself",
+     "n": "Shawn Kemp"
+    },
+    {
+     "c": "Himself",
+     "n": "Bob Whitsitt"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Sascha Gardner"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1641965,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Volatile players. Criminal charges. National headlines. Portland's championship-caliber NBA team implodes spectacularly in this unflinching documentary.",
+   "popularity": 1.2136,
+   "poster_path": "/vmp45llJTRr6JLaIamt3RlfxgTH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-14",
+   "revenue": 0,
+   "runtime": 70,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Untold: Jail Blazers",
+   "trailer": {
+    "key": "7l3DK-5Vsmw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 24
   },
   "movie:426865": {
    "backdrop_path": "/s5Dz4TsaW5jyLw5GS73jgqgwHsZ.jpg",

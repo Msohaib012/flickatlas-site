@@ -1,6 +1,6 @@
 {
  "bucket": "36",
- "count": 12,
+ "count": 19,
  "titles": {
   "movie:11536": {
    "backdrop_path": "/uCH6NY9qstOLbBTGv0rWxB1oJJH.jpg",
@@ -216,6 +216,328 @@
    "vote_average": 6.1,
    "vote_count": 449
   },
+  "movie:1283636": {
+   "backdrop_path": "/vGVWjxlWRzevTG5R7E2HziDjueA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Amber",
+     "n": "Helena Howard"
+    },
+    {
+     "c": "Lavinia",
+     "n": "Bella Thorne"
+    },
+    {
+     "c": "Zosia",
+     "n": "Zión Moreno"
+    },
+    {
+     "c": "Lola",
+     "n": "Chloe Cherry"
+    },
+    {
+     "c": "Maddy",
+     "n": "Sophia Ali"
+    },
+    {
+     "c": "Will",
+     "n": "Israel Broussard"
+    },
+    {
+     "c": "Tye",
+     "n": "Blaine Kern III"
+    },
+    {
+     "c": "Blaine",
+     "n": "Zak Steiner"
+    },
+    {
+     "c": "Russell",
+     "n": "Chris Bauer"
+    },
+    {
+     "c": "Jake",
+     "n": "Jake Manley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Izabel Pakzad"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime"
+   ],
+   "id": 1283636,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A sinister spin on twenty-something party culture, revealing the darkness beneath the carefree facade. What starts as a wild girls trip turns dangerous when hostile locals escalate tensions and Amber's past trauma surfaces. As the group fractures under toxic dynamics, their fun getaway transforms into a revenge-fueled nightmare.",
+   "popularity": 1.6146,
+   "poster_path": "/uFdpiH5zh8wMnOckYtwvVDM0SDE.jpg",
+   "production_countries": [
+    "US",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-04",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A party to die for.",
+   "title": "Find Your Friends",
+   "trailer": {
+    "key": "pT5y7-WwD8M",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.7,
+   "vote_count": 20
+  },
+  "movie:1290436": {
+   "backdrop_path": "/zhnMS3Adt7w6uliwE5hpAEfhpcT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Djeneba",
+     "n": "Fanta Kebe"
+    },
+    {
+     "c": "Shaï",
+     "n": "Shirel Nataf"
+    },
+    {
+     "c": "Sabrina",
+     "n": "Amel Bent"
+    },
+    {
+     "c": "Youssef",
+     "n": "Idir Azougli"
+    },
+    {
+     "c": "Naël",
+     "n": "Yuming Hey"
+    },
+    {
+     "c": "Bérangère",
+     "n": "Suzanne de Baecque"
+    },
+    {
+     "c": "Ismaël",
+     "n": "Zakaria-Tayeb Lazab"
+    },
+    {
+     "c": "Aladi",
+     "n": "Mouctar Diawara"
+    },
+    {
+     "c": "Mateo",
+     "n": "Nikola Bulatović"
+    },
+    {
+     "c": "Sékou",
+     "n": "Mohamed Dramé"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Lise Akoka",
+    "Romane Gueret"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1290436,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "From the tower blocks of Paris to the countryside of the Drôme region, Shaï and Djeneba lead summer camp activities while grappling with growing up and growing apart.",
+   "popularity": 0.7061,
+   "poster_path": "/2Sfvl3ZgSoGPxBxOiAGoIaOsG97.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-07",
+   "revenue": 0,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Summer Beats",
+   "trailer": {
+    "key": "SG5nmdcUAI0",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.039,
+   "vote_count": 64
+  },
+  "movie:1472636": {
+   "backdrop_path": "/6maVNqV3az1oEOuwNfZnwIybJ5h.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tommaso",
+     "n": "Fabio De Luigi"
+    },
+    {
+     "c": "Lara",
+     "n": "Virginia Raffaele"
+    },
+    {
+     "c": "Vittoria",
+     "n": "Maria Gifuni"
+    },
+    {
+     "c": "Sara",
+     "n": "Alma Giardina"
+    },
+    {
+     "c": "Matilde",
+     "n": "Anita Marzi"
+    },
+    {
+     "c": "Elena",
+     "n": "Arianna Gregori"
+    },
+    {
+     "c": "Andrea",
+     "n": "Leon Castagno"
+    },
+    {
+     "c": "Ivan",
+     "n": "Andrea Silvestrini"
+    },
+    {
+     "c": "Marco",
+     "n": "Nicola Mayer"
+    },
+    {
+     "c": "Maddalena",
+     "n": "Beatrice Schiros"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Fabio De Luigi"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1472636,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Tommaso, a single father of four, has shut himself off from the world. When his daughters push him to start over, he meets Lara — a brilliant, captivating woman. But both carry secrets that could change everything.",
+   "popularity": 1.5045,
+   "poster_path": "/yhUWRael6f2dprS0OCbFSMp53tE.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-05",
+   "revenue": 4480000,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Beautiful Day",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.86,
+   "vote_count": 114
+  },
   "movie:14736": {
    "backdrop_path": "/jF71CkY9bHyWvZTNQUThyzecXYb.jpg",
    "budget": 20000000,
@@ -333,6 +655,164 @@
    "type": "movie",
    "vote_average": 7.342,
    "vote_count": 484
+  },
+  "movie:1477836": {
+   "backdrop_path": "/pDNW39lh6aqjUca3otNjaITLYBp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Professor Harisson",
+     "n": "John Rhys-Davies"
+    },
+    {
+     "c": "Nadia",
+     "n": "Sophia Eleni"
+    },
+    {
+     "c": "Olivia Wheeler",
+     "n": "Sarah Alexandra Marks"
+    },
+    {
+     "c": "Ethan",
+     "n": "Louis James"
+    },
+    {
+     "c": "Annabelle",
+     "n": "Tiffany Hannam-Daniels"
+    },
+    {
+     "c": "Ravi",
+     "n": "Danny Rahim"
+    },
+    {
+     "c": "Nick",
+     "n": "Tyler Winchcombe"
+    },
+    {
+     "c": "Ashley / Bitch-Hiker",
+     "n": "Sarah T. Cohen"
+    },
+    {
+     "c": "Lucy Wheeler",
+     "n": "Angela Dixon"
+    },
+    {
+     "c": "Alice",
+     "n": "Sophie Rankin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA 15+",
+   "date_kind": "release",
+   "director": [
+    "Howard J. Ford"
+   ],
+   "genres": [
+    "Horror",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 1477836,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Six young friends investigate missing persons cases in a remote cave system, unaware they're being stalked by an ancient creature lurking in the depths.",
+   "popularity": 4.301,
+   "poster_path": "/fTUloMRssypzehEwNBjVegvCLTy.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-02",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Face your darkest fears.",
+   "title": "Bone Keeper",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.0,
+   "vote_count": 34
   },
   "movie:16136": {
    "backdrop_path": "/54xcERdFHlRny2FJ9NC4koForkR.jpg",
@@ -507,6 +987,71 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 491
+  },
+  "movie:1758536": {
+   "backdrop_path": "/kejOti7YfpTr88Y4fWnd3UVDr8e.jpg",
+   "budget": 0,
+   "cast": [],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Chris Smith"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1758536,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A journalist and a detective uncover the truth about a killer whose charm masked a trail of failed marriages and suspicious deaths.",
+   "popularity": 2.8587,
+   "poster_path": "/8MmN3JmgscGiAP3bUlrc2rLsGDq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-30",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Widower: 'Til Death Do Us Part",
+   "trailer": {
+    "key": "2Xn881UkR3s",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.75,
+   "vote_count": 36
   },
   "movie:1936": {
    "backdrop_path": "/mhvGp9LGViHQviOu86HW0Boo0kI.jpg",
@@ -776,6 +1321,180 @@
    "vote_average": 7.2,
    "vote_count": 447
   },
+  "movie:949536": {
+   "backdrop_path": "/zyqAhNJqwiop5yUOJ8SHV27labY.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Elera",
+     "n": "Franzi Schissler"
+    },
+    {
+     "c": "Benjamin",
+     "n": "Frank Grillo"
+    },
+    {
+     "c": "Eion",
+     "n": "Harvey Keitel"
+    },
+    {
+     "c": "Lukas",
+     "n": "Tyrese Gibson"
+    },
+    {
+     "c": "Kyron",
+     "n": "Jacob Artist"
+    },
+    {
+     "c": "Daxon",
+     "n": "J. J. Soria"
+    },
+    {
+     "c": "Sawyer",
+     "n": "Brett Cullen"
+    },
+    {
+     "c": "Young Elera",
+     "n": "Victoria Paige Watkins"
+    },
+    {
+     "c": "Amanda",
+     "n": "Sherri Eakin"
+    },
+    {
+     "c": "Cameron",
+     "n": "Lance E. Nichols"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA 15+",
+   "date_kind": "release",
+   "director": [
+    "Justin Price"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 949536,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "North America has been divided into four main quadrants. A power-hungry corporation has taken over the conventional prison system and made criminals the new law enforcers.  The owner of that corporation, nanoscientist Eion Prescott, created a nano-virus called Onyx. Which is distributed through deadly watches to criminals. First, infecting them. Then, forcing them into eliminating each other for freedom. Who can topple the corporation's entire system from within?",
+   "popularity": 7.8666,
+   "poster_path": "/bXvSKLCillha6wxY0yxoRCM2WQl.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-16",
+   "revenue": 19426,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Judge. Executioner. Freedom.",
+   "title": "Kill Code",
+   "trailer": {
+    "key": "HlIKFktkF_s",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.259,
+   "vote_count": 27
+  },
   "movie:974036": {
    "backdrop_path": "/rBo0yYQTruIYEuXdyCAyVVlNb2H.jpg",
    "budget": 13000000,
@@ -912,6 +1631,130 @@
    "type": "movie",
    "vote_average": 7.652,
    "vote_count": 452
+  },
+  "movie:999136": {
+   "backdrop_path": "/8zyQbsmMlXfLkcctjNz5YZZwpkw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cora",
+     "n": "Francesca Reale"
+    },
+    {
+     "c": "Tod",
+     "n": "Nicholas Hamilton"
+    },
+    {
+     "c": "Diane",
+     "n": "Adeline Rudolph"
+    },
+    {
+     "c": "Rick",
+     "n": "Jake Manley"
+    },
+    {
+     "c": "Vernon",
+     "n": "Shane Paul McGhie"
+    },
+    {
+     "c": "Pale Creature",
+     "n": "Javier Botet"
+    },
+    {
+     "c": "Balenger",
+     "n": "Laurence O'Fuarain"
+    },
+    {
+     "c": "Mack",
+     "n": "Brennan Keel Cook"
+    },
+    {
+     "c": "JD",
+     "n": "Kai Caster"
+    },
+    {
+     "c": "Beth",
+     "n": "Cat Shank"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Marc Klasfeld"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 999136,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of young explorers investigates an old abandoned hotel, only to encounter a strange supernatural being and a competing group looking for a legendary hidden treasure.",
+   "popularity": 6.0437,
+   "poster_path": "/stM9N7eJmHKLmFR59JG4tLdN7Wk.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-19",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Getting in is hard, getting out is hell.",
+   "title": "Do Not Enter",
+   "trailer": {
+    "key": "jbbaNL6rfEc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.188,
+   "vote_count": 386
   },
   "tv:1436": {
    "backdrop_path": "/cyieN1P9Xo5SvLasSUT7SaAAzfy.jpg",

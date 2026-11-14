@@ -1,6 +1,6 @@
 {
  "bucket": "59",
- "count": 13,
+ "count": 24,
  "titles": {
   "movie:104859": {
    "d": "Mac & Devin Go to High School (2012): Comedy film. Story: A comedy that follows two high school students -- one… See cast and TMDB rating 6.5/10.",
@@ -193,6 +193,70 @@
    "t": "House of the Dead (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2003"
   },
+  "movie:1159559": {
+   "d": "Scream 7 (2026): Horror/Mystery film. Story: When a new Ghostface killer emerges in the quiet town… See cast, budget $45M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg",
+   "industry": "world",
+   "k": "Scream 7, Scream 7 movie, Scream 7 cast, Scream 7 story, Scream 7 box office collection, Scream 7 budget, Scream 7 review, Scream 7 rating, Scream 7 release date, Scream 7 trailer, Scream 7 Horror, Scream 7 Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Neve Campbell"
+     },
+     {
+      "@type": "Person",
+      "name": "Isabel May"
+     },
+     {
+      "@type": "Person",
+      "name": "Courteney Cox"
+     },
+     {
+      "@type": "Person",
+      "name": "Jasmin Savoy Brown"
+     },
+     {
+      "@type": "Person",
+      "name": "Mason Gooding"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1440,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Scream 7 (2026): Horror/Mystery film. Story: When a new Ghostface killer emerges in the quiet town… See cast, budget $45M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kevin Williamson"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1159559",
+    "name": "Scream 7",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1159559"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Scream 7 (2026)</h1>\n<p class=\"ssr-lead\">When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 February 2026</li><li>Runtime: 114 minutes</li><li>Director: Kevin Williamson</li><li>Genres: Horror, Mystery, Crime</li><li>Budget: $45M</li><li>TMDB rating: 6.2/10 (1440 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Neve Campbell as Sidney Evans</li><li>Isabel May as Tatum Evans</li><li>Courteney Cox as Gale Weathers</li><li>Jasmin Savoy Brown as Mindy Meeks-Martin</li><li>Mason Gooding as Chad Meeks-Martin</li><li>Roger L. Jackson as &#x27;The Voice&#x27; (voice)</li><li>Anna Camp as Jessica Bowden</li><li>Joel McHale as Mark Evans</li><li>Celeste O&#x27;Connor as Chloe Parker</li><li>Sam Rechner as Ben Brown</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Scream 7 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:11959": {
    "d": "UHF (1989): Comedy film. Story: The eccentric new manager of a UHF television channel… See cast, budget $5M, TMDB rating 6.7/10, and release date 21 July 1989.",
    "img": "https://image.tmdb.org/t/p/w780/dAz8vPSI2daM4ZVrHSKnpNLUvDM.jpg",
@@ -255,6 +319,260 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>UHF (1989)</h1>\n<p class=\"ssr-lead\">The eccentric new manager of a UHF television channel tries to save the station from financial ruin with an odd array of programming.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 July 1989</li><li>Runtime: 97 minutes</li><li>Director: Jay Levey</li><li>Genres: Comedy</li><li>Budget: $5M</li><li>TMDB rating: 6.7/10 (441 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>&#x27;Weird Al&#x27; Yankovic as George Newman</li><li>Kevin McCarthy as R.J. Fletcher</li><li>Michael Richards as Stanley Spadowski</li><li>David Bowe as Bob</li><li>Stanley Brock as Uncle Harvey</li><li>Anthony Geary as Philo</li><li>Trinidad Silva as Raul Hernandez</li><li>Gedde Watanabe as Kuni</li><li>Billy Barty as Noodles</li><li>John Paragon as Richard Fletcher</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "UHF (1989) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1989"
+  },
+  "movie:1245859": {
+   "d": "Savage House (2026): Comedy/Drama film. Story: Against the backdrop of 18th century England, a… See cast, TMDB rating 6.9/10, and release date 5 June 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/9ZzJxEg9zyyGIZx3eplHojYsZ5k.jpg",
+   "industry": "world",
+   "k": "Savage House, Savage House movie, Savage House cast, Savage House story, Savage House box office collection, Savage House budget, Savage House review, Savage House rating, Savage House release date, Savage House trailer, Savage House Comedy, Savage House Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Richard E. Grant"
+     },
+     {
+      "@type": "Person",
+      "name": "Claire Foy"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Farthing"
+     },
+     {
+      "@type": "Person",
+      "name": "Bel Powley"
+     },
+     {
+      "@type": "Person",
+      "name": "Kíla Lord Cassidy"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 57,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Savage House (2026): Comedy/Drama film. Story: Against the backdrop of 18th century England, a… See cast, TMDB rating 6.9/10, and release date 5 June 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peter Glanz"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9ZzJxEg9zyyGIZx3eplHojYsZ5k.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1245859",
+    "name": "Savage House",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1245859"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Savage House (2026)</h1>\n<p class=\"ssr-lead\">Against the backdrop of 18th century England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey Savage and Lady Savage blindly pursue a better life. It&#x27;s not without a tinge of irony that their family name is the Savages, for this is a Savage House indeed, filled with duels, decadence, and bloodshed.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 June 2026</li><li>Runtime: 114 minutes</li><li>Director: Peter Glanz</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 6.9/10 (57 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Richard E. Grant as Sir Chauncey Savage</li><li>Claire Foy as Lady Savage</li><li>Jack Farthing as Reginald Halifax</li><li>Bel Powley as Dorothy Neville</li><li>Kíla Lord Cassidy as Fanny Savage</li><li>Richard McCabe as Mr. Bennett</li><li>Vicki Pepperdine as Mrs. Bennett</li><li>Pip Torrens as Mr. Black</li><li>Robert Bathurst as The Narrator (voice)</li><li>Tony Way as James Darby</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, JustWatch TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Savage House (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1285959": {
+   "d": "The Passenger (2026): Thriller film. Story: Hassan, a Somali-American airport shuttle driver in… See cast, TMDB rating 5.7/10, and release date 5 June 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/nItaRm9Kaz7xVkcIaFmxjlnfrME.jpg",
+   "industry": "world",
+   "k": "The Passenger, The Passenger movie, The Passenger cast, The Passenger story, The Passenger box office collection, The Passenger budget, The Passenger review, The Passenger rating, The Passenger release date, The Passenger trailer, The Passenger Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Djimon Hounsou"
+     },
+     {
+      "@type": "Person",
+      "name": "Kodi Smit-McPhee"
+     },
+     {
+      "@type": "Person",
+      "name": "Leigh-Ann Rose"
+     },
+     {
+      "@type": "Person",
+      "name": "Carolina Campos"
+     },
+     {
+      "@type": "Person",
+      "name": "Tegan Couchman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 62,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "The Passenger (2026): Thriller film. Story: Hassan, a Somali-American airport shuttle driver in… See cast, TMDB rating 5.7/10, and release date 5 June 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Vadim Perelman"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nItaRm9Kaz7xVkcIaFmxjlnfrME.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1285959",
+    "name": "The Passenger",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1285959"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Passenger (2026)</h1>\n<p class=\"ssr-lead\">Hassan, a Somali-American airport shuttle driver in Minneapolis, is struggling to make ends meet. When Lloyd, a stranded twenty-something at the airport, offers to pay Hassan to take him overland to Chicago, it seems worth the risk. But as the realization grows that his passenger is not what he seems, Hassan finds himself trapped in a terrifying ride that he can’t escape, knowing that saving himself might put countless others in danger.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 June 2026</li><li>Runtime: 93 minutes</li><li>Director: Vadim Perelman</li><li>Genres: Thriller</li><li>TMDB rating: 5.7/10 (62 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Djimon Hounsou as Hassan</li><li>Kodi Smit-McPhee as Lloyd</li><li>Leigh-Ann Rose as Fatima</li><li>Carolina Campos as Grace</li><li>Tegan Couchman as Ahmed</li><li>Adrian McLean as Cafe Owner</li><li>Sarah Constible as Delivery Woman</li><li>Teddy Parker as Gas Station Clerk</li><li>Chris Sigurdson as Dairy Farmer</li><li>Alexandra Chubaty Boychuk as Young Woman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Passenger (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1288059": {
+   "d": "I Want Your Sex (2026): Comedy/Thriller film. Story: When a naive young man becomes the sexual muse for a… See cast, budget $10M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hinFa5gPaUkZM0l5TsEb29Brw0H.jpg",
+   "industry": "world",
+   "k": "I Want Your Sex, I Want Your Sex movie, I Want Your Sex cast, I Want Your Sex story, I Want Your Sex box office collection, I Want Your Sex budget, I Want Your Sex review, I Want Your Sex rating, I Want Your Sex release date, I Want Your Sex trailer, I Want Your Sex Comedy, I Want Your Sex Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Olivia Wilde"
+     },
+     {
+      "@type": "Person",
+      "name": "Cooper Hoffman"
+     },
+     {
+      "@type": "Person",
+      "name": "Mason Gooding"
+     },
+     {
+      "@type": "Person",
+      "name": "Chase Sui Wonders"
+     },
+     {
+      "@type": "Person",
+      "name": "Johnny Knoxville"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 125,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "I Want Your Sex (2026): Comedy/Thriller film. Story: When a naive young man becomes the sexual muse for a… See cast, budget $10M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gregg Araki"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Comedy",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hinFa5gPaUkZM0l5TsEb29Brw0H.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1288059",
+    "name": "I Want Your Sex",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1288059"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>I Want Your Sex (2026)</h1>\n<p class=\"ssr-lead\">When a naive young man becomes the sexual muse for a renowned and provocative artist, his dream job quickly turns dangerous as he is drawn into an obsessive world of power, betrayal, and murder.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 July 2026</li><li>Runtime: 90 minutes</li><li>Director: Gregg Araki</li><li>Genres: Comedy, Thriller, Mystery</li><li>Budget: $10M</li><li>TMDB rating: 6.0/10 (125 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Olivia Wilde as Erika Tracey</li><li>Cooper Hoffman as Elliot Bell</li><li>Mason Gooding as Zap</li><li>Chase Sui Wonders as Apple</li><li>Johnny Knoxville as Detective Zem</li><li>Margaret Cho as Detective Zola</li><li>Roxane Mesquida as Yvette</li><li>Charli xcx as Minerva</li><li>Daveed Diggs as Vikktor</li><li>Daniel Stevens as Hot Naked Guy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "I Want Your Sex (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1291659": {
+   "d": "The Wizard of the Kremlin (2026): Drama film. Story: In the chaos of post-Soviet Russia, rising KGB… See cast and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bDBVzSp24aesVWJBBmWxDcoOSRw.jpg",
+   "industry": "world",
+   "k": "The Wizard of the Kremlin, The Wizard of the Kremlin movie, The Wizard of the Kremlin cast, The Wizard of the Kremlin story, The Wizard of the Kremlin box office collection, The Wizard of the Kremlin budget, The Wizard of the Kremlin review, The Wizard of the Kremlin rating, The Wizard of the Kremlin release date, The Wizard of the Kremlin trailer, The Wizard of the Kremlin Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Paul Dano"
+     },
+     {
+      "@type": "Person",
+      "name": "Jude Law"
+     },
+     {
+      "@type": "Person",
+      "name": "Alicia Vikander"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Sturridge"
+     },
+     {
+      "@type": "Person",
+      "name": "Will Keen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 304,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "The Wizard of the Kremlin (2026): Drama film. Story: In the chaos of post-Soviet Russia, rising KGB… See cast and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Olivier Assayas"
+     }
+    ],
+    "duration": "PT136M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bDBVzSp24aesVWJBBmWxDcoOSRw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1291659",
+    "name": "The Wizard of the Kremlin",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1291659"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Wizard of the Kremlin (2026)</h1>\n<p class=\"ssr-lead\">In the chaos of post-Soviet Russia, rising KGB officer Vladimir Putin joins forces with master manipulator Vadim Baranov to reshape life behind the Iron Curtain, using violence and deception to change the world forever.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 January 2026</li><li>Runtime: 136 minutes</li><li>Director: Olivier Assayas</li><li>Genres: Drama</li><li>TMDB rating: 6.4/10 (304 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paul Dano as Vadim Baranov</li><li>Jude Law as Vladimir Putin</li><li>Alicia Vikander as Ksenia</li><li>Tom Sturridge as Dmitri Sidorov</li><li>Will Keen as Boris Berezovsky</li><li>Jeffrey Wright as Rowland</li><li>Andrei Zayats as Igor Sechine</li><li>Kaspars Kambala as Alexander Zaldostanov</li><li>Andris Keišs as Yevgeny Prigozhin</li><li>George Sogis as Boris Yeltsin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Zee5</li></ul>\n</article>",
+   "t": "The Wizard of the Kremlin (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:13159": {
    "d": "Georgia Rule (2007): Drama/Comedy film. Story: Rebellious, uncontrollable teenager, Rachel is hauled… See cast, budget $20M, and TMDB rating 6.0/10.",
@@ -320,6 +638,133 @@
    "t": "Georgia Rule (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
   },
+  "movie:1370559": {
+   "d": "Tired of Killing (2025): Drama/Crime film. Story: While the Calabrian mafia is spreading its influence… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rZZK03ZITcmsf1hn8vNH9oYcx3S.jpg",
+   "industry": "world",
+   "k": "Tired of Killing, Tired of Killing movie, Tired of Killing cast, Tired of Killing story, Tired of Killing box office collection, Tired of Killing budget, Tired of Killing review, Tired of Killing rating, Tired of Killing release date, Tired of Killing trailer, Tired of Killing Drama, Tired of Killing Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gabriel Montesi"
+     },
+     {
+      "@type": "Person",
+      "name": "Vinicio Marchioni"
+     },
+     {
+      "@type": "Person",
+      "name": "Selene Caramazza"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrea Fuorto"
+     },
+     {
+      "@type": "Person",
+      "name": "Thomas Trabacchi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 23,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Tired of Killing (2025): Drama/Crime film. Story: While the Calabrian mafia is spreading its influence… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Daniele Vicari"
+     }
+    ],
+    "duration": "PT129M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rZZK03ZITcmsf1hn8vNH9oYcx3S.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1370559",
+    "name": "Tired of Killing",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1370559"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Tired of Killing (2025)</h1>\n<p class=\"ssr-lead\">While the Calabrian mafia is spreading its influence in the early 70s, Antonio, son of the high-ranking &#x27;Ndrangheta boss Giacomo Zagari, finds himself killing more and more frequently, ultimately realising that he isn&#x27;t suited to this extreme lifestyle. While his generation rises up in factories, universities and public squares, Antonio finds the strength to defy his father, rejecting his legacy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 December 2025</li><li>Runtime: 129 minutes</li><li>Director: Daniele Vicari</li><li>Genres: Drama, Crime, Thriller</li><li>TMDB rating: 6.1/10 (23 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gabriel Montesi as Antonio Zagari</li><li>Vinicio Marchioni as Giacomo Zagari</li><li>Selene Caramazza as Angela</li><li>Andrea Fuorto as Enzo Zagari</li><li>Thomas Trabacchi as La Jena Del Giambellino</li><li>Pier Giorgio Bellocchio as Colonel Becker</li><li>Francesco La Mantia as Paolo Masu</li><li>Vincenzo Zampa as Mimì Argento</li><li>Aglaia Mora as Mariolina</li><li>Cristiana Vaccaro as Annunziata Zagari</li></ul>\n</article>",
+   "t": "Tired of Killing (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1401459": {
+   "d": "Fjord (2026): Drama film. Story: Following the deaths of Mihai's parents, Mihai and… See cast, budget $4.75M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/iPVAMaI0W4lr7Rl56m0H388eR5.jpg",
+   "industry": "world",
+   "k": "Fjord, Fjord movie, Fjord cast, Fjord story, Fjord box office collection, Fjord budget, Fjord review, Fjord rating, Fjord release date, Fjord trailer, Fjord Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sebastian Stan"
+     },
+     {
+      "@type": "Person",
+      "name": "Renate Reinsve"
+     },
+     {
+      "@type": "Person",
+      "name": "Lisa Carlehed"
+     },
+     {
+      "@type": "Person",
+      "name": "Ellen Dorrit Petersen"
+     },
+     {
+      "@type": "Person",
+      "name": "Lisa Loven Kongsli"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 105,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Fjord (2026): Drama film. Story: Following the deaths of Mihai's parents, Mihai and… See cast, budget $4.75M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Cristian Mungiu"
+     }
+    ],
+    "duration": "PT146M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iPVAMaI0W4lr7Rl56m0H388eR5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1401459",
+    "name": "Fjord",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1401459"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fjord (2026)</h1>\n<p class=\"ssr-lead\">Following the deaths of Mihai&#x27;s parents, Mihai and Lisbet Gheorghiu leave their life behind in Romania and move with their children to a remote village in Norway, hoping to rebuild their lives near Lisbet&#x27;s family. There, they grow close to their neighbors, the Halbergs, whose warmth gives them hope for a fresh start. But the fragile peace begins to unravel when the Gheorghiu family’s young daughter, Elia, arrives at school covered in bruises.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 August 2026</li><li>Runtime: 146 minutes</li><li>Director: Cristian Mungiu</li><li>Genres: Drama</li><li>Budget: $4.75M</li><li>TMDB rating: 7.2/10 (105 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sebastian Stan as Mihai Gheorghiu</li><li>Renate Reinsve as Lisbet Gheorghiu</li><li>Lisa Carlehed as Mia Halberg</li><li>Ellen Dorrit Petersen as Gunda</li><li>Lisa Loven Kongsli as Frida</li><li>Henrikke Lund Olsen as Noora Halberg</li><li>Markus Tønseth as Mats Halberg</li><li>Vanessa Ceban as Elia Gheorghiu</li><li>Jonathan Ciprian Breazu as Emmanuel Gheorghiu</li><li>Christian Rubeck as Attorney Jacobsen</li></ul>\n</article>",
+   "t": "Fjord (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:14859": {
    "d": "Keith (2008): Drama/Romance film. Story: Natalie is high school royalty, but her queen bee… See cast, TMDB rating 7.0/10, and release date 13 September 2008.",
    "img": "https://image.tmdb.org/t/p/w780/emBph7jfl9XYAwJovxjsAzM6mKq.jpg",
@@ -383,6 +828,264 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Keith (2008)</h1>\n<p class=\"ssr-lead\">Natalie is high school royalty, but her queen bee status falls apart when she falls for the new guy at school. Although Keith ignores her at first, they soon become friends -- even though Natalie suspects that Keith has something to hide. As the free-spirited Keith shows Natalie how to embrace what life offers, they grow closer -- until a secret tests the bounds of their relationship</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 September 2008</li><li>Runtime: 93 minutes</li><li>Director: Todd Kessler</li><li>Genres: Drama, Romance</li><li>TMDB rating: 7.0/10 (499 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Elisabeth Harnois as Natalie</li><li>Jesse McCartney as Keith</li><li>Ignacio Serricchio as Raff</li><li>Margo Harshman as Brooke</li><li>Michael McGrady as Pete</li><li>Jennifer Grey as Caroline</li><li>Michael O&#x27;Keefe as Alan Ascher</li><li>Ethan Phillips as Mr. Miles</li><li>Eric Parker as Travis</li><li>Jessy Schram as Courtney</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "Keith (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2008"
+  },
+  "movie:1493859": {
+   "d": "Pizza Movie (2026): Comedy/Adventure film. Story: A group of college students go downstairs to their… See cast and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/75UkXLlLedidOGo0VogF0A0NPfC.jpg",
+   "industry": "world",
+   "k": "Pizza Movie, Pizza Movie movie, Pizza Movie cast, Pizza Movie story, Pizza Movie box office collection, Pizza Movie budget, Pizza Movie review, Pizza Movie rating, Pizza Movie release date, Pizza Movie trailer, Pizza Movie Comedy, Pizza Movie Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gaten Matarazzo"
+     },
+     {
+      "@type": "Person",
+      "name": "Sean Giambrone"
+     },
+     {
+      "@type": "Person",
+      "name": "Lulu Wilson"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Martin"
+     },
+     {
+      "@type": "Person",
+      "name": "Peyton Elizabeth Lee"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 177,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Pizza Movie (2026): Comedy/Adventure film. Story: A group of college students go downstairs to their… See cast and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nick Kocher"
+     },
+     {
+      "@type": "Person",
+      "name": "Brian McElhaney"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Comedy",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/75UkXLlLedidOGo0VogF0A0NPfC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1493859",
+    "name": "Pizza Movie",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1493859"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pizza Movie (2026)</h1>\n<p class=\"ssr-lead\">A group of college students go downstairs to their dorm lobby to get a delivery pizza. There&#x27;s only one issue: They&#x27;re insanely high on a homemade drug, turning their simple journey down two sets of stairs into a mind-bendingly transformative quest.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 March 2026</li><li>Runtime: 98 minutes</li><li>Director: Nick Kocher, Brian McElhaney</li><li>Genres: Comedy, Adventure, Fantasy</li><li>TMDB rating: 6.4/10 (177 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gaten Matarazzo as Jack</li><li>Sean Giambrone as Montgomery</li><li>Lulu Wilson as Lizzy</li><li>Jack Martin as Blake</li><li>Peyton Elizabeth Lee as Ashley</li><li>Marcus Scribner as Logan</li><li>Caleb Hearon as Sidney</li><li>Chris Schmidt Jr. as Stoner Guy</li><li>Sarah Sherman as Frankie</li><li>Miguel-Andres Garcia as Juan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Pizza Movie (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1536559": {
+   "d": "Double Happiness (2026): Drama film. Story: Tim Kao, the meticulous head chef of a five-star… See cast, TMDB rating 6.2/10, and release date 17 February 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/5wvi1AfmGubxjftZgVsNVmJ6tHU.jpg",
+   "industry": "world",
+   "k": "Double Happiness, Double Happiness movie, Double Happiness cast, Double Happiness story, Double Happiness box office collection, Double Happiness budget, Double Happiness review, Double Happiness rating, Double Happiness release date, Double Happiness Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Liu Kuan-Ting"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Yu"
+     },
+     {
+      "@type": "Person",
+      "name": "Yang Kuei-mei"
+     },
+     {
+      "@type": "Person",
+      "name": "Tenky Tin Kai-man"
+     },
+     {
+      "@type": "Person",
+      "name": "Tou Tsung-hua"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 22,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Double Happiness (2026): Drama film. Story: Tim Kao, the meticulous head chef of a five-star… See cast, TMDB rating 6.2/10, and release date 17 February 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joseph Hsu"
+     }
+    ],
+    "duration": "PT130M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5wvi1AfmGubxjftZgVsNVmJ6tHU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1536559",
+    "name": "Double Happiness",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1536559"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Double Happiness (2026)</h1>\n<p class=\"ssr-lead\">Tim Kao, the meticulous head chef of a five-star hotel in Taiwan, is set to marry his Hong Kong fiance Daisy Wu. But Tim’s divorced parents refuse to attend the same ceremony, and each insists on hosting their own. To complicate things further, the Feng Shui master chooses the same auspicious date for both events. Tim, Daisy, their wedding planner Regina, and the best man Tsai must orchestrate two weddings simultaneously in the same hotel, without either parent finding out. Surrounded by a strict father, a demanding mother, and a cast of sharp-tongued relatives, Tim must confront the traumas of his upbringing and ask himself: is he truly ready to start a new family of his own?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 February 2026</li><li>Runtime: 130 minutes</li><li>Director: Joseph Hsu</li><li>Genres: Drama</li><li>TMDB rating: 6.2/10 (22 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Liu Kuan-Ting as Tim Kao</li><li>Jennifer Yu as Daisy Wu</li><li>Yang Kuei-mei as Carina Bai</li><li>Tenky Tin Kai-man as Wu</li><li>Tou Tsung-hua as Frank Kao</li><li>9m88 as Regina</li><li>Kent Tsai as Tsai</li><li>Esther Liu as Young Carina Bai</li><li>Lego Lee as Young Frank Kao</li><li>Grace Chen Shu-Fang as Tim&#x27;s Grandma</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Double Happiness (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1642859": {
+   "d": "Iron Maiden: Burning Ambition (2026): Documentary/Music film. Story: With unprecedented access to the official archives… See cast and TMDB rating 8.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/52t7nT1f117FW6gdG32DrQKxpU1.jpg",
+   "industry": "world",
+   "k": "Iron Maiden: Burning Ambition, Iron Maiden: Burning Ambition movie, Iron Maiden: Burning Ambition cast, Iron Maiden: Burning Ambition story, Iron Maiden: Burning Ambition box office collection, Iron Maiden: Burning Ambition budget, Iron Maiden: Burning Ambition review, Iron Maiden: Burning Ambition rating, Iron Maiden: Burning Ambition release date, Iron Maiden: Burning Ambition trailer, Iron Maiden: Burning Ambition Documentary, Iron Maiden: Burning Ambition Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Steve Harris"
+     },
+     {
+      "@type": "Person",
+      "name": "Bruce Dickinson"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicko McBrain"
+     },
+     {
+      "@type": "Person",
+      "name": "Adrian Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Dave Murray"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 81,
+     "ratingValue": 8.6,
+     "worstRating": 0
+    },
+    "description": "Iron Maiden: Burning Ambition (2026): Documentary/Music film. Story: With unprecedented access to the official archives… See cast and TMDB rating 8.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Malcolm Venville"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Documentary",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/52t7nT1f117FW6gdG32DrQKxpU1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1642859",
+    "name": "Iron Maiden: Burning Ambition",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1642859"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Iron Maiden: Burning Ambition (2026)</h1>\n<p class=\"ssr-lead\">With unprecedented access to the official archives and intimate recollections from the band, both current and past, Iron Maiden: Burning Ambition invites fans to experience one of the most iconic journeys in music history. Spanning five decades, this electrifying documentary charts the band’s rise from the pubs of East London to the world’s biggest stadiums. Featuring exclusive interviews with band members and contributors such as Javier Bardem, Lars Ulrich and Chuck D, as well as all-new animated sequences of the band&#x27;s legendary mascot, Eddie, the film offers a rare and intimate look at Iron Maiden’s uncompromising vision and unwavering connection with their truly global army of fans.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 May 2026</li><li>Runtime: 105 minutes</li><li>Director: Malcolm Venville</li><li>Genres: Documentary, Music</li><li>TMDB rating: 8.6/10 (81 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Steve Harris as Self</li><li>Bruce Dickinson as Self</li><li>Nicko McBrain as Self</li><li>Adrian Smith as Self</li><li>Dave Murray as Self</li><li>Janick Gers as Self</li><li>Blaze Bayley as Self</li><li>Rod Smallwood as Self</li><li>Chuck D as Self</li><li>Simon Gallup as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Iron Maiden: Burning Ambition (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1752159": {
+   "d": "Turning Point: Generation 9/11 (2026): Documentary film. Story: A quarter-century after September 11th, the attacks'… See cast and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg",
+   "industry": "world",
+   "k": "Turning Point: Generation 9/11, Turning Point: Generation 9/11 movie, Turning Point: Generation 9/11 cast, Turning Point: Generation 9/11 story, Turning Point: Generation 9/11 box office collection, Turning Point: Generation 9/11 budget, Turning Point: Generation 9/11 review, Turning Point: Generation 9/11 rating, Turning Point: Generation 9/11 release date, Turning Point: Generation 9/11 trailer, Turning Point: Generation 9/11 Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Smoak"
+     },
+     {
+      "@type": "Person",
+      "name": "Garrett M. Graff"
+     },
+     {
+      "@type": "Person",
+      "name": "Anand Gopal"
+     },
+     {
+      "@type": "Person",
+      "name": "Jenny Pachucki"
+     },
+     {
+      "@type": "Person",
+      "name": "Bruce Hoffman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 37,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Turning Point: Generation 9/11 (2026): Documentary film. Story: A quarter-century after September 11th, the attacks'… See cast and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Brian Knappenberger"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1752159",
+    "name": "Turning Point: Generation 9/11",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1752159"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Turning Point: Generation 9/11 (2026)</h1>\n<p class=\"ssr-lead\">A quarter-century after September 11th, the attacks&#x27; ripple effects persist across generations. Orphaned children, War on Terror journalists, young Afghans, and U.S. Marines shaped by the 2021 withdrawal share their stories.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 September 2026</li><li>Runtime: 99 minutes</li><li>Director: Brian Knappenberger</li><li>Genres: Documentary</li><li>TMDB rating: 5.9/10 (37 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Smoak as Self</li><li>Garrett M. Graff as Self</li><li>Anand Gopal as Self</li><li>Jenny Pachucki as Self</li><li>Bruce Hoffman as Self</li><li>Osama bin Laden as Self (archive footage)</li><li>George W. Bush as Self (archive footage)</li><li>Barack Obama as Self (archive footage)</li><li>Rudolph Giuliani as Self (archive footage)</li><li>Donald Trump as Self (archive footage)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Turning Point: Generation 9/11 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:1859": {
    "d": "Ninotchka (1939): Comedy/Romance film. Story: A stern Russian woman sent to Paris on official… See cast, budget $1.36M, and TMDB rating 7.5/10.",

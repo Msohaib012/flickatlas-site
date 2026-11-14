@@ -1,6 +1,6 @@
 {
  "bucket": "24",
- "count": 12,
+ "count": 18,
  "titles": {
   "movie:10424": {
    "backdrop_path": "/dAWlWircXrlnMjsVZSyb7vgMlIo.jpg",
@@ -107,6 +107,137 @@
    "type": "movie",
    "vote_average": 6.081,
    "vote_count": 437
+  },
+  "movie:1058424": {
+   "backdrop_path": "/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
+   "budget": 46000000,
+   "cast": [
+    {
+     "c": "Go Bum-seok",
+     "n": "Hwang Jung-min"
+    },
+    {
+     "c": "Go Sung-ki",
+     "n": "Zo In-sung"
+    },
+    {
+     "c": "Lim Sung-ae",
+     "n": "Hoyeon"
+    },
+    {
+     "c": "J'aur",
+     "n": "Alicia Vikander"
+    },
+    {
+     "c": "Ma'veyyo",
+     "n": "Michael Fassbender"
+    },
+    {
+     "c": "Ai'dovor",
+     "n": "Taylor Russell"
+    },
+    {
+     "c": "Va'migere",
+     "n": "Cameron Britton"
+    },
+    {
+     "c": "Nak-yeon",
+     "n": "Lee Sang-hee"
+    },
+    {
+     "c": "Yang-bae",
+     "n": "Um Mun-suk"
+    },
+    {
+     "c": "Hae-sul",
+     "n": "Im Hyun-sik"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Na Hong-jin"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Mystery",
+    "Action"
+   ],
+   "id": 1058424,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+   "popularity": 297.9163,
+   "poster_path": "/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-23",
+   "revenue": 49456866,
+   "runtime": 157,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "Is this how it ends?",
+   "title": "Hope",
+   "trailer": {
+    "key": "OFaJzL83y0Q",
+    "name": "Official English Trailer [Dubbed]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.756,
+   "vote_count": 631
   },
   "movie:10824": {
    "backdrop_path": "/tMZ2iT1bu4zWNVzeQ8SZ040VQfG.jpg",
@@ -289,6 +420,436 @@
    "type": "movie",
    "vote_average": 5.452,
    "vote_count": 444
+  },
+  "movie:1471224": {
+   "backdrop_path": "/jJciPkyc8EcjKkZ9lGgp14VHnp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "François",
+     "n": "Gilles Lellouche"
+    },
+    {
+     "c": "Colette",
+     "n": "Laetitia Casta"
+    },
+    {
+     "c": "Yann Kerbec",
+     "n": "Guillaume Gallienne"
+    },
+    {
+     "c": "Emma",
+     "n": "Isabel Aimé González Sola"
+    },
+    {
+     "c": "Nathalie Kerbec",
+     "n": "Jenna Knafo"
+    },
+    {
+     "c": "Ida",
+     "n": "Katayoon Latif"
+    },
+    {
+     "c": "Sam Frémont",
+     "n": "Matthias Jacquin"
+    },
+    {
+     "c": "Sophie Frémont",
+     "n": "Bénédicte Choisnet"
+    },
+    {
+     "c": "L'éditrice",
+     "n": "Marie-Christine Orry"
+    },
+    {
+     "c": "Géraldine",
+     "n": "Yeelem Jappain"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Rémi Bezançon"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Crime"
+   ],
+   "id": 1471224,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Misanthropic novelist François writes gripping crime stories – “Agatha Christie meets The Scarlet Pimpernel” – but outside of the swashbuckling imaginary world of his Marquis la Rose-novels, life is far from thrilling. His partner Colette, a professor at the Sorbonne and world-renowned expert on Alfred Hitchcock, is tired of watching François sit around their apartment in his pyjamas and yearns for the excitement of the classic films she watches with her students. When Colette begins to suspect their flamboyant actor neighbour of murdering his wife, the couple’s mundane lives are turned upside down – and their stale relationship is jolted back to life.",
+   "popularity": 2.2802,
+   "poster_path": "/5FHAlQPHFyJEIN1UOxsADog1KUy.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-11",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Bazaar (Murder in the Building)",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 123
+  },
+  "movie:1493024": {
+   "backdrop_path": "/osy9gN2bm40IP6PHoYqLfntQgwY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Biagio",
+     "n": "Rocco Papaleo"
+    },
+    {
+     "c": "Samanta",
+     "n": "Claudia Pandolfi"
+    },
+    {
+     "c": "Gudrun",
+     "n": "Teresa Saponangelo"
+    },
+    {
+     "c": "Raffaella",
+     "n": "Vanessa Scalera"
+    },
+    {
+     "c": "Luciano",
+     "n": "Andrea Fuorto"
+    },
+    {
+     "c": "Anny",
+     "n": "Rosanna Sparapano"
+    },
+    {
+     "c": "Fiammetta",
+     "n": "Livia Ferri"
+    },
+    {
+     "c": "Mimmo",
+     "n": "Max Mazzotta"
+    },
+    {
+     "c": "Vito",
+     "n": "Pietro Ragusa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "10+",
+   "date_kind": "release",
+   "director": [
+    "Rocco Papaleo"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1493024,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A tour guide and a failed actress accompany four inmates to the Pollino massif, in search of the centuries-old Bosnian pine, a symbol of resilience. The journey quickly becomes a journey of transformation, filled with encounters and changes, punctuated by a music that takes shape step by step, becoming a collective voice capable of bringing together diverse bodies, emotions, and stories. In a harsh yet beautiful landscape, punctuated by unexpected solidarity, fragments of complex lives emerge, along with open wounds and a profound need to be seen and heard. Talking, singing, and naming what has been experienced becomes a way to release tensions and rediscover a sense of belonging, at least until a sudden event calls everything into question. Because, sometimes, sharing one's story is already a first step toward something bigger.",
+   "popularity": 0.9301,
+   "poster_path": "/nUMekW0Zs12SniJuo1L1V9OypUd.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-12",
+   "revenue": 734116,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Greater Good",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 51
+  },
+  "movie:1516724": {
+   "backdrop_path": "/eJKKygAF718jp1HhGvH3SMoi5Cv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fanny",
+     "n": "Alexandra Lamy"
+    },
+    {
+     "c": "Thomas",
+     "n": "François Cluzet"
+    },
+    {
+     "c": "Elsa",
+     "n": "Mitty Hazanavicius"
+    },
+    {
+     "c": "Pauline",
+     "n": "Delphine Baril"
+    },
+    {
+     "c": "Serge",
+     "n": "François-Xavier Demaison"
+    },
+    {
+     "c": "Caroline",
+     "n": "Reem Kherici"
+    },
+    {
+     "c": "Pierre",
+     "n": "Kyan Khojandi"
+    },
+    {
+     "c": "Camille",
+     "n": "Camille Aumont Carnel"
+    },
+    {
+     "c": "Le gyneco",
+     "n": "François Bureloup"
+    },
+    {
+     "c": "Odile",
+     "n": "Huguette Lacheau"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "+16",
+   "date_kind": "release",
+   "director": [
+    "Reem Kherici"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1516724,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Based on the true story of a married couple who invented a groundbreaking sex toy heralded as forever changing the way women experience pleasure.",
+   "popularity": 3.4025,
+   "poster_path": "/12HNBcAUI8IdRlXfOuhWGqrTqpx.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-06",
+   "revenue": 7164147,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Good Vibes Only",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.443,
+   "vote_count": 71
+  },
+  "movie:1627824": {
+   "backdrop_path": "/slgx2ur9DnHRVLBJYfONL4T7wyx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marshall",
+     "n": "Jesse Gervasi"
+    },
+    {
+     "c": "Rocky",
+     "n": "Jackson Reid"
+    },
+    {
+     "c": "Skye",
+     "n": "Lilly Bartlam"
+    },
+    {
+     "c": "Ryder",
+     "n": "Kai Harris"
+    },
+    {
+     "c": "Rubble",
+     "n": "Lucien Duncan-Reid"
+    },
+    {
+     "c": "Chase",
+     "n": "Luke Dietz"
+    },
+    {
+     "c": "Zuma",
+     "n": "Jordan Mazeral"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Joey So",
+    "Jamie Whitney"
+   ],
+   "genres": [
+    "Animation",
+    "Family"
+   ],
+   "id": 1627824,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When one of Humdinger's schemes goes awry, a Junkyard Kitten's home is destroyed and Rocky bites off more than he can chew when he invites the kitten to stay at the Lookout overnight. While the kitten causes more trouble than expected, Rocky learns that even heroes need help.",
+   "popularity": 3.3044,
+   "poster_path": "/pqfkJh0CyF00GvR4NIdvJYkJb2F.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-27",
+   "revenue": 0,
+   "runtime": 44,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Rocky's Cat-astrophe",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.8,
+   "vote_count": 24
   },
   "movie:205724": {
    "backdrop_path": "/ucvAwCzaRuQAydXKP1BPErgZIzR.jpg",
@@ -694,6 +1255,146 @@
    "type": "movie",
    "vote_average": 5.8,
    "vote_count": 444
+  },
+  "movie:650524": {
+   "backdrop_path": "/gpJr8wRED8BpBVaxM0eODQEBNwC.jpg",
+   "budget": 45000000,
+   "cast": [
+    {
+     "c": "Hong Siu-lung",
+     "n": "Louis Koo"
+    },
+    {
+     "c": "Chiu Poon / Majesty",
+     "n": "Raymond Lam"
+    },
+    {
+     "c": "Galie",
+     "n": "Bai Baihe"
+    },
+    {
+     "c": "Wu Ting-fong",
+     "n": "Jessica Hsuan Huen"
+    },
+    {
+     "c": "Kam Ching",
+     "n": "Sonija Kwok Sin-Nae"
+    },
+    {
+     "c": "Sin-yau",
+     "n": "Joyce Tang Lai-ming"
+    },
+    {
+     "c": "Ken",
+     "n": "Michael Miu Kiu-wai"
+    },
+    {
+     "c": "Stone",
+     "n": "Louis Cheung"
+    },
+    {
+     "c": "Bowie",
+     "n": "Kevin Chu Kam-yin"
+    },
+    {
+     "c": "Max",
+     "n": "Wu Yue"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Jack Lai Jan-Lung",
+    "Ng Yuen-Fai"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Comedy"
+   ],
+   "id": 650524,
+   "industry": "world",
+   "origin_country": [
+    "CN",
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "In the Qin Dynasty, time-traveller Hong Siu-lung has lived in seclusion with his family for twenty years. Yet every step he takes remains under the watchful eye of his former disciple, now the Qin Emperor. On the brink of ultimate power after conquering the six warring states, the emperor is suddenly ambushed by a mysterious team wielding advanced weapons clearly originating from Hong’s time. Drawn together by fate again, Hong and Qin Emperor are forced to confront the long-buried conflict between them, because the future now depends on how they settle their past.",
+   "popularity": 3.5407,
+   "poster_path": "/m3YY0im3Y59VmiicgS0mfKVCdmb.jpg",
+   "production_countries": [
+    "HK",
+    "CN"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-31",
+   "revenue": 38946463,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn"
+   ],
+   "status": "Released",
+   "tagline": "To save tomorrow, they must survive yesterday.",
+   "title": "Back to the Past",
+   "trailer": {
+    "key": "O22WwXOhb5w",
+    "name": "Trailer (UK, Ireland & Netherlands) [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 30
   },
   "movie:9424": {
    "backdrop_path": "/9bMAhzkuvwSXdxUIoFrYuAvkxDU.jpg",

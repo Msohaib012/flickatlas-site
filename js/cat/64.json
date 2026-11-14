@@ -1,6 +1,6 @@
 {
  "bucket": "64",
- "count": 14,
+ "count": 23,
  "titles": {
   "movie:10264": {
    "backdrop_path": "/mJvvEgkus4COSwzyS2tRwjvHrlY.jpg",
@@ -310,6 +310,97 @@
    "vote_average": 7.4,
    "vote_count": 469
   },
+  "movie:1318864": {
+   "backdrop_path": "/iQMFLm9Te2IuJTr08RdBLKTGw8n.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Henri Marre",
+     "n": "Swann Arlaud"
+    },
+    {
+     "c": "Paulette Henri",
+     "n": "Sandrine Blancke"
+    },
+    {
+     "c": "Gasque",
+     "n": "Mathieu Perotto"
+    },
+    {
+     "c": "Harpo",
+     "n": "Harpo Guit"
+    },
+    {
+     "c": "Corinne",
+     "n": "Mathilde Abd El Kader"
+    },
+    {
+     "c": "Maux",
+     "n": "Jean-Baptiste Marre"
+    },
+    {
+     "c": "Citoyen",
+     "n": "Bruno Borsu"
+    },
+    {
+     "c": "Arlette",
+     "n": "Claudine Barthel Fournier"
+    },
+    {
+     "c": "Lemoine",
+     "n": "Yoann Blanc"
+    },
+    {
+     "c": "Dommange",
+     "n": "Thierry de Peretti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "date_kind": "release",
+   "director": [
+    "Emmanuel Marre"
+   ],
+   "genres": [
+    "History",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1318864,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "September 1940. Henri Marre arrives alone in Vichy as the authoritarian regime settles in. Broke, estranged from his family, and carrying copies of his self-published manifesto Notre Salut (Our Salvation), the 49-year-old is determined to secure what he believes is his rightful place in the new administration. In his writing, Henri sets out his patriotic convictions and his engineer’s methodology: efficiency above all. Claiming he wants to help save France after defeat, he does whatever is required to remain useful, serving the machinery of the new order with increasing skill. But he may be pursuing something more urgent: escape from his own ruin",
+   "popularity": 2.7829,
+   "poster_path": "/4JvPjkH0OXm6K1IFcjl2kk8gerC.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-30",
+   "revenue": 0,
+   "runtime": 155,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Man of His Time",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.538,
+   "vote_count": 78
+  },
   "movie:1397364": {
    "backdrop_path": "/baIjN7xPyw2In1CuHACTgzcsF20.jpg",
    "budget": 24500000,
@@ -427,6 +518,794 @@
    "type": "movie",
    "vote_average": 7.327,
    "vote_count": 471
+  },
+  "movie:1426964": {
+   "backdrop_path": "/1Xdsq7U7bvJJd2X7Jg4qNaKVkYO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cristina",
+     "n": "Naruna Costa"
+    },
+    {
+     "c": "Elisa",
+     "n": "Camilla Damião"
+    },
+    {
+     "c": "Edson",
+     "n": "Seu Jorge"
+    },
+    {
+     "c": "Borges / André Luis",
+     "n": "David Santos"
+    },
+    {
+     "c": "Dona Ângela",
+     "n": "Marcélia Cartaxo"
+    },
+    {
+     "c": "Ivan",
+     "n": "Lee Taylor"
+    },
+    {
+     "c": "Anselmo",
+     "n": "Enio Cavalcante"
+    },
+    {
+     "c": "Darlene",
+     "n": "Hermila Guedes"
+    },
+    {
+     "c": "Elisa (criança)",
+     "n": "Yetunde Hammed"
+    },
+    {
+     "c": "Romero",
+     "n": "Elzio Vieira"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Pedro Morelli"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Crime",
+    "Drama"
+   ],
+   "id": 1426964,
+   "industry": "world",
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "As São Paulo erupts in an unprecedented wave of violence, a lawyer with underworld ties must strike a deal with the police to rescue her kidnapped niece.",
+   "popularity": 2.138,
+   "poster_path": "/3Eaqedg8MAlnP51GYY8MCSIdTnV.jpg",
+   "production_countries": [
+    "BR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-10",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "State of Fear",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 79
+  },
+  "movie:1469164": {
+   "backdrop_path": "/acIqwzNeL6CB74Sk7ybwwQflW3H.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sawyer Clarkman",
+     "n": "John Pyper-Ferguson"
+    },
+    {
+     "c": "Susanna Clarkman",
+     "n": "Christina Moore"
+    },
+    {
+     "c": "Hassie Clarkman",
+     "n": "Madison Lawlor"
+    },
+    {
+     "c": "",
+     "n": "Lou Diamond Phillips"
+    },
+    {
+     "c": "Rafael Morales",
+     "n": "Daniel Edward Mora"
+    },
+    {
+     "c": "Mael Morales",
+     "n": "Javier Bolanos"
+    },
+    {
+     "c": "Ximena Morales",
+     "n": "Loren Escandon"
+    },
+    {
+     "c": "Hunter Clarkman",
+     "n": "Kate Mansi"
+    },
+    {
+     "c": "Dick Harris",
+     "n": "Terry Woodberry"
+    },
+    {
+     "c": "",
+     "n": "Shalim Ortiz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Juan Pablo Arias Munoz"
+   ],
+   "genres": [
+    "Drama",
+    "Western"
+   ],
+   "id": 1469164,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A prodigal daughter rejoins her family at their farm during a difficult time, as her ailing father faces both a terminal diagnosis and mounting pressure from competitors. Old wounds resurface as they grapple with what lies ahead.",
+   "popularity": 1.99,
+   "poster_path": "/mE9E4nsGM91Cf4b1s6nOOdUAE9P.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-01",
+   "revenue": 0,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Nothing stays buried forever.",
+   "title": "Casa Grande",
+   "trailer": {
+    "key": "iIFEYdBGJoU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.262,
+   "vote_count": 21
+  },
+  "movie:1487864": {
+   "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nando/N.D da V.A",
+     "n": "Christian Malheiros"
+    },
+    {
+     "c": "Bruna",
+     "n": "Duda Pimenta"
+    },
+    {
+     "c": "Scheyla",
+     "n": "Julia Yamaguchi"
+    },
+    {
+     "c": "Doni",
+     "n": "JottaPê﻿"
+    },
+    {
+     "c": "Rita",
+     "n": "Bruna Mascarenhas"
+    },
+    {
+     "c": "Joel",
+     "n": "Enio Cavalcante"
+    },
+    {
+     "c": "Moicano",
+     "n": "Henrique Santana"
+    },
+    {
+     "c": "Murilo",
+     "n": "Victor Galisteu"
+    },
+    {
+     "c": "Formiga",
+     "n": "Matheus Santos"
+    },
+    {
+     "c": "Sombra",
+     "n": "José Trassi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Johnny Araújo"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 1487864,
+   "industry": "world",
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "Caught between family life and his obligations to the criminal underworld, Nando faces an impossible choice about where his true loyalties lie.",
+   "popularity": 2.8151,
+   "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
+   "production_countries": [
+    "BR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-12",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Nando Between Two Worlds - A Sintonia Film",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.69,
+   "vote_count": 29
+  },
+  "movie:1508564": {
+   "backdrop_path": "/k9GObZbUUUxOjlRjY172GVroeSJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sathyaseelan",
+     "n": "Abishan Jeevinth"
+    },
+    {
+     "c": "Monisha",
+     "n": "Anaswara Rajan"
+    },
+    {
+     "c": "Dinesh",
+     "n": "Harish Kumar"
+    },
+    {
+     "c": "Anisha",
+     "n": "Kavya Anil"
+    },
+    {
+     "c": "Balaji",
+     "n": "Sacchin Nachiappan"
+    },
+    {
+     "c": "Swaminathan",
+     "n": "Saravanan"
+    },
+    {
+     "c": "Sathya's Father",
+     "n": "Theni Murugan"
+    },
+    {
+     "c": "Sathya's Sister",
+     "n": "RJ Ananthi"
+    },
+    {
+     "c": "Sathya's Brother-in-Law",
+     "n": "Sudharshan Gandhy"
+    },
+    {
+     "c": "Sandhya",
+     "n": "Sachana Namidass"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Madhan"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 1508564,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "ta",
+   "overview": "Sathya reluctantly agrees to a blind date arranged by his sister and meets Monisha. They discover they attended the same school years ago. Bonding over shared memories and old crushes, they reconnect with their past and grow closer.",
+   "popularity": 1.9964,
+   "poster_path": "/mKVSozOhy9to5AFfIX1tsDDFrFK.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-06",
+   "revenue": 0,
+   "runtime": 141,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ta"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "With Love",
+   "trailer": {
+    "key": "09M9_khkgRw",
+    "name": "With Love | Official Trailer | Anaswara Rajan, Abishan Jeevinth | Netflix India",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.864,
+   "vote_count": 33
+  },
+  "movie:1633264": {
+   "backdrop_path": "/cmpiLnDIdxQNFZLZZFRj1rSo7fW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Louis Theroux"
+    },
+    {
+     "c": "Self",
+     "n": "HSTikkyTokky"
+    },
+    {
+     "c": "Self",
+     "n": "Myron Gaines"
+    },
+    {
+     "c": "Self",
+     "n": "Sneako"
+    },
+    {
+     "c": "Self",
+     "n": "Justin Waller"
+    },
+    {
+     "c": "Self",
+     "n": "Ed Matthews"
+    },
+    {
+     "c": "Self",
+     "n": "Elaine Sullivan"
+    },
+    {
+     "c": "Self",
+     "n": "Kacey May"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Andrew Tate"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Tristan Tate"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Adrian Choa"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1633264,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "With rare access and no holds barred, the acclaimed documentarian investigates a growing ultra-masculine network and its controversial influencers.",
+   "popularity": 2.6051,
+   "poster_path": "/ouOvRvsgF37yEx3D6ZLWyuxZFjE.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-10",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Back and beta than ever.",
+   "title": "Louis Theroux: Inside the Manosphere",
+   "trailer": {
+    "key": "Ms23FeJWvKU",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.565,
+   "vote_count": 168
+  },
+  "movie:1645164": {
+   "backdrop_path": "/paupTWTQvr3Lsn0HcdoaQD02Aka.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Paolo Marra",
+     "n": "Leonardo Lidi"
+    },
+    {
+     "c": "Sergente di polizia",
+     "n": "Alessandro Borghi"
+    },
+    {
+     "c": "Avvocato",
+     "n": "Pietro Castellitto"
+    },
+    {
+     "c": "Cartomante",
+     "n": "Valeria Golino"
+    },
+    {
+     "c": "Agente all'ingresso",
+     "n": "Daniele Parisi"
+    },
+    {
+     "c": "Agente alla macchinetta del caffè",
+     "n": "Francesca Solombrino"
+    },
+    {
+     "c": "Controllore",
+     "n": "Alessandra Ferrara"
+    },
+    {
+     "c": "Controllore",
+     "n": "Martinus Tocchi"
+    },
+    {
+     "c": "Il barista Gaspare",
+     "n": "Valerio Costa"
+    },
+    {
+     "c": "Giulia, la nipote di Gaspare",
+     "n": "Gabriele Soriano"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Roberto De Paolis"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1645164,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Paolo Marra killed his wife for no reason. Consumed by guilt, he decides to turn himself in: he wants to pay the price, serve his sentence, and restore dignity to the woman he killed—and to himself. Amid distracted police officers, zealous lawyers, fortune-tellers, and complicated bureaucratic red tape, no one takes him seriously. The man finds himself the victim of a Kafkaesque paradox: no matter how much he wants it, he cannot get himself arrested. He is the perfect scapegoat for a grotesque society that ignores those who seek redemption.",
+   "popularity": 0.8855,
+   "poster_path": "/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-10",
+   "revenue": 0,
+   "runtime": 0,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Snake",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.75,
+   "vote_count": 46
+  },
+  "movie:1668364": {
+   "backdrop_path": "/oBter8Y5p2ZFUwWgQ1T9pulGFTJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lucero",
+     "n": "Ludwika Paleta"
+    },
+    {
+     "c": "Fernando",
+     "n": "José María Yázpik"
+    },
+    {
+     "c": "Matías",
+     "n": "Óscar Casas"
+    },
+    {
+     "c": "Miguel",
+     "n": "Leonardo Ortizgris"
+    },
+    {
+     "c": "Julián",
+     "n": "Matías Coronado"
+    },
+    {
+     "c": "Viviana (as Pili Pascual)",
+     "n": "Pilar Pascual"
+    },
+    {
+     "c": "Lucía",
+     "n": "Ivana Salomón"
+    },
+    {
+     "c": "Malena (as Gabi Zamora)",
+     "n": "Gabriela Zamora"
+    },
+    {
+     "c": "Sandra",
+     "n": "Jaydy Michel"
+    },
+    {
+     "c": "Licenciado Ávila",
+     "n": "Giovani Florido"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Teresa Simone"
+   ],
+   "genres": [
+    "Mystery",
+    "Drama"
+   ],
+   "id": 1668364,
+   "industry": "world",
+   "origin_country": [
+    "MX",
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Lucero’s life appears immaculate: a wealthy household, a devoted husband, and two children who embody the promise of a perfect family. Yet beneath this surface simmers a quiet dissatisfaction. When Matías, a young swimming coach hired by her husband, enters their lives, Lucero finds herself pulled into a risky and consuming relationship. As secrecy, desire, and jealousy tighten their grip, the boundaries within the family begin to collapse, placing mother and daughter in a dangerous emotional triangle that threatens to shatter everything Lucero has built.",
+   "popularity": 9.9445,
+   "poster_path": "/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg",
+   "production_countries": [
+    "MX",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-07",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Desire",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 270
   },
   "movie:18764": {
    "backdrop_path": "/h3vctOuLlF0V3liuTfaWVC9utKG.jpg",
@@ -1018,6 +1897,152 @@
    "type": "movie",
    "vote_average": 5.547,
    "vote_count": 468
+  },
+  "movie:840464": {
+   "backdrop_path": "/cLFbDVfhllIMybpo2fkGNzehiQG.jpg",
+   "budget": 90000000,
+   "cast": [
+    {
+     "c": "John Garrity",
+     "n": "Gerard Butler"
+    },
+    {
+     "c": "Allison Garrity",
+     "n": "Morena Baccarin"
+    },
+    {
+     "c": "Nathan Garrity",
+     "n": "Roman Griffin Davis"
+    },
+    {
+     "c": "General Sharpe",
+     "n": "Tommie Earl Jenkins"
+    },
+    {
+     "c": "Adam Shaw",
+     "n": "Trond Fausa Aurvåg"
+    },
+    {
+     "c": "Dr Casey Amina",
+     "n": "Amber Rose Revah"
+    },
+    {
+     "c": "Elizabeth Price",
+     "n": "Gina Gangar"
+    },
+    {
+     "c": "Charles Williams",
+     "n": "Antonio De Lima"
+    },
+    {
+     "c": "Dr Haugen",
+     "n": "Peter Polycarpou"
+    },
+    {
+     "c": "Mr Singh",
+     "n": "Beruce Khan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Ric Roman Waugh"
+   ],
+   "genres": [
+    "Adventure",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 840464,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
+   "popularity": 18.6106,
+   "poster_path": "/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-09",
+   "revenue": 44856736,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Hope is uncharted territory.",
+   "title": "Greenland 2: Migration",
+   "trailer": {
+    "key": "hiD3zk0ZRFg",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.369,
+   "vote_count": 1659
   },
   "tv:124364": {
    "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",

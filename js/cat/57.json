@@ -1,7 +1,117 @@
 {
  "bucket": "57",
- "count": 22,
+ "count": 32,
  "titles": {
+  "movie:1007757": {
+   "backdrop_path": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+   "budget": 7,
+   "cast": [
+    {
+     "c": "Ollie (voice)",
+     "n": "Michael B. Jordan"
+    },
+    {
+     "c": "Ivy (voice)",
+     "n": "Juno Temple"
+    },
+    {
+     "c": "Boogle / Firewolf (voice)",
+     "n": "Tracy Morgan"
+    },
+    {
+     "c": "Caloo (voice)",
+     "n": "Cedric the Entertainer"
+    },
+    {
+     "c": "Calli (voice)",
+     "n": "Justina Machado"
+    },
+    {
+     "c": "Lodd (voice)",
+     "n": "Nate Torrence"
+    },
+    {
+     "c": "Young Ollie (voice)",
+     "n": "Camden Brooks"
+    },
+    {
+     "c": "Grandma / Mrs. Dung Beetle (voice)",
+     "n": "Táta Vega"
+    },
+    {
+     "c": "Violet (voice)",
+     "n": "Ambika Mod"
+    },
+    {
+     "c": "Lily (voice)",
+     "n": "Lolly Adefope"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "date_kind": "release",
+   "director": [
+    "Nathan Greno"
+   ],
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 1007757,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
+   "popularity": 26.7452,
+   "poster_path": "/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+   "production_countries": [
+    "US",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-01",
+   "revenue": 7,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Transform your destiny.",
+   "title": "Swapped",
+   "trailer": {
+    "key": "glgmAwRDP8s",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.833,
+   "vote_count": 2300
+  },
   "movie:11157": {
    "backdrop_path": "/vHRxxSB9oiZvRyBlLAs3KZkM6T.jpg",
    "budget": 20000000,
@@ -268,6 +378,1029 @@
    "type": "movie",
    "vote_average": 7.1,
    "vote_count": 468
+  },
+  "movie:1294457": {
+   "backdrop_path": "/dQ3mxctZ7zC5wcFy1lzPxVvnIS8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Diana",
+     "n": "Patricia López Arnaiz"
+    },
+    {
+     "c": "Martín",
+     "n": "Javier Rey"
+    },
+    {
+     "c": "",
+     "n": "Miguel Iriarte"
+    },
+    {
+     "c": "",
+     "n": "Iñigo Gastesi"
+    },
+    {
+     "c": "",
+     "n": "Emilia Lazo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Alberto Gastesi"
+   ],
+   "genres": [
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 1294457,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Twelve years after the death of their son, Diana and Martín decide to reunite for a weekend at their old lake house. She is a specialist in Artificial Intelligence; he gave up his profession to live withdrawn from civilization. When an enigmatic young man bearing a mysterious resemblance to their deceased son appears at the house, old secrets and new suspicions come to light. The very existence of a future may depend on the family’s past.",
+   "popularity": 1.1801,
+   "poster_path": "/khcIjUFUGzfwkne7y3lpFLsu6dW.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2025-11-28",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Singular",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 28
+  },
+  "movie:1315657": {
+   "backdrop_path": "/jF0cgfoBkmJyknP2nii2NdhChWs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Derya",
+     "n": "Özgü Namal"
+    },
+    {
+     "c": "Aziz",
+     "n": "Tansu Biçer"
+    },
+    {
+     "c": "Güngör",
+     "n": "İpek Bilgin"
+    },
+    {
+     "c": "Ezgi",
+     "n": "Leyla Smyrna Cabas"
+    },
+    {
+     "c": "Raşit",
+     "n": "Kerem Can"
+    },
+    {
+     "c": "Fikret",
+     "n": "Yusuf Akgün"
+    },
+    {
+     "c": "Iso",
+     "n": "Emre Bakar"
+    },
+    {
+     "c": "Baran",
+     "n": "Aziz Çapkurt"
+    },
+    {
+     "c": "Rector",
+     "n": "Şiir Eloğlu"
+    },
+    {
+     "c": "Cemre",
+     "n": "Elit İşcan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "İlker Çatak"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1315657,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "tr",
+   "overview": "The marriage of Derya and Aziz is under pressure after losing their jobs because of state arbitrariness and moving to Istanbul to live with Aziz's parents. They and their 13-year-old daughter Ezgi have to redefine their way of life.",
+   "popularity": 3.3367,
+   "poster_path": "/8Sxp3QIdamyoAfgLsUaGCQ1Z1ID.jpg",
+   "production_countries": [
+    "FR",
+    "DE",
+    "TR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-05",
+   "revenue": 0,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "tr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Yellow Letters",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 52
+  },
+  "movie:1400357": {
+   "backdrop_path": "/saEkWul1fGNixEug2w6RtOmTws2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lori Butler",
+     "n": "Michaela Coel"
+    },
+    {
+     "c": "Julian Sklar",
+     "n": "Ian McKellen"
+    },
+    {
+     "c": "Sally Sklar",
+     "n": "Jessica Gunning"
+    },
+    {
+     "c": "Barnaby Sklar",
+     "n": "James Corden"
+    },
+    {
+     "c": "Owen Appleton",
+     "n": "Ferdy Roberts"
+    },
+    {
+     "c": "Esme",
+     "n": "Tilly Botsford"
+    },
+    {
+     "c": "Lori's Flatmate #1",
+     "n": "Lucy McCormick"
+    },
+    {
+     "c": "Lori's Flatmate #2",
+     "n": "Le Fil"
+    },
+    {
+     "c": "Locksmith",
+     "n": "Daniel Fearn"
+    },
+    {
+     "c": "Food Truck Patron",
+     "n": "Dmitri Prokopiev"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Steven Soderbergh"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Crime"
+   ],
+   "id": 1400357,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The estranged children of a once-famous artist hire a forger to complete his unfinished works so they can be \"discovered\" and sold after his death.",
+   "popularity": 4.3585,
+   "poster_path": "/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-17",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Art can be copied. Artists cannot.",
+   "title": "The Christophers",
+   "trailer": {
+    "key": "42GkXhRVLUQ",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.793,
+   "vote_count": 87
+  },
+  "movie:1418657": {
+   "backdrop_path": "/1ytf7rzkZ7RLlMnBdGggQ0ENe6z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ellie",
+     "n": "Brittany Allen"
+    },
+    {
+     "c": "Merriell Sunday Jr.",
+     "n": "Eric Nelsen"
+    },
+    {
+     "c": "Merriell Sunday Sr.",
+     "n": "Corbin Bernsen"
+    },
+    {
+     "c": "Hollis Bannister",
+     "n": "William Sadler"
+    },
+    {
+     "c": "Marianne",
+     "n": "Heather Lind"
+    },
+    {
+     "c": "Booker",
+     "n": "Jim Cummings"
+    },
+    {
+     "c": "Lamb",
+     "n": "Christina Bennett Lind"
+    },
+    {
+     "c": "Parker",
+     "n": "Elizabeth Cappuccino"
+    },
+    {
+     "c": "Coates",
+     "n": "Linc Hand"
+    },
+    {
+     "c": "Harold Pullen",
+     "n": "Johnathan Brownlee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gene Gallerano",
+    "William Pisciotta"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 1418657,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When an oil tycoon and a famous adventurer vanish into the harsh winter of remote northern Alaska, a hand-picked rescue team endeavors to bring them home. What they don’t know is that they are trespassing on The Yeti’s territory, and the elements are the least of their worries.",
+   "popularity": 3.2869,
+   "poster_path": "/zaqEfoKcWkVni2eONhJ7DRhMO8Q.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-10",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fear is primal.",
+   "title": "The Yeti",
+   "trailer": {
+    "key": "7rXJdyv5cRQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.871,
+   "vote_count": 85
+  },
+  "movie:1450257": {
+   "backdrop_path": "/juj498fB0FRZHRKrirHL61gMqUs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Chito",
+     "n": "Jay Dee"
+    },
+    {
+     "c": "Alfredo",
+     "n": "Cristian E. Gutierrez"
+    },
+    {
+     "c": "Blunt",
+     "n": "Daniel 'DoKnows' Lopez"
+    },
+    {
+     "c": "Candy",
+     "n": "Laura Lopez"
+    },
+    {
+     "c": "Mari",
+     "n": "Nana Ponceleon"
+    },
+    {
+     "c": "",
+     "n": "OhGeesy"
+    },
+    {
+     "c": "Angelo",
+     "n": "Eric Roberts"
+    },
+    {
+     "c": "",
+     "n": "Uziel Pantoja"
+    },
+    {
+     "c": "Chuy",
+     "n": "Josh Benitez"
+    },
+    {
+     "c": "Chela",
+     "n": "Francine Sena"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michael Greene"
+   ],
+   "genres": [
+    "Music",
+    "Drama"
+   ],
+   "id": 1450257,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Aspiring small-town musician Chito is determined to make it big. When a clip of him performing one of his songs goes viral, he seizes the opportunity and pushes to carve out a place for himself in the new wave of Mexican-American music... and ultimately gets caught in a game more dangerous than anticipated.",
+   "popularity": 1.6062,
+   "poster_path": "/82Vh8PSzWtBi0CLWrnJdRhGYxEr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-22",
+   "revenue": 1275000,
+   "runtime": 79,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "There are no shortcuts to living your dreams.",
+   "title": "Clika",
+   "trailer": {
+    "key": "MonfrfdKzOc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.3,
+   "vote_count": 47
+  },
+  "movie:1458857": {
+   "backdrop_path": "/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Anika",
+     "n": "Naomi Baker"
+    },
+    {
+     "c": "Carousel",
+     "n": "Jay Reeves"
+    },
+    {
+     "c": "Cathy",
+     "n": "Tamberla Perry"
+    },
+    {
+     "c": "Trina",
+     "n": "Karen Obilom"
+    },
+    {
+     "c": "Lisa",
+     "n": "Jasmine Sargent"
+    },
+    {
+     "c": "Denise",
+     "n": "Danielle Moné Truitt"
+    },
+    {
+     "c": "Quinn",
+     "n": "Lucky Johnson"
+    },
+    {
+     "c": "Donovan",
+     "n": "Cornell Young IV"
+    },
+    {
+     "c": "Dr. Scott",
+     "n": "Gena Shaw"
+    },
+    {
+     "c": "Keisha",
+     "n": "Tracy Tolliver"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tyler Perry"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 1458857,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
+   "popularity": 10.58,
+   "poster_path": "/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-02",
+   "revenue": 0,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Choose a love that breaks all chains.",
+   "title": "Doing Life",
+   "trailer": {
+    "key": "zrOtmDQawas",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.901,
+   "vote_count": 121
+  },
+  "movie:1465557": {
+   "backdrop_path": "/2xSg4ELiU3BAxHO2xVQjWxCMURJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Balthazar",
+     "n": "Jaeden Martell"
+    },
+    {
+     "c": "Solomon",
+     "n": "Asa Butterfield"
+    },
+    {
+     "c": "Beaver",
+     "n": "Chris Bauer"
+    },
+    {
+     "c": "Eleanor",
+     "n": "Pippa Knowles"
+    },
+    {
+     "c": "Gore",
+     "n": "Danny McCarthy"
+    },
+    {
+     "c": "Nicole",
+     "n": "Jennifer Ehle"
+    },
+    {
+     "c": "Supes",
+     "n": "Avan Jogia"
+    },
+    {
+     "c": "Esteban",
+     "n": "Bobby Potts"
+    },
+    {
+     "c": "Elaine",
+     "n": "Becky Ann Baker"
+    },
+    {
+     "c": "Taylor",
+     "n": "Anna Baryshnikov"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Oscar Boyson"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1465557,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Eager to impress his activist crush, a wealthy New York teenager follows an online connection to Texas, where he's convinced he can stop an act of extreme violence.",
+   "popularity": 2.5489,
+   "poster_path": "/mxVTarvl5OLoU9YWIYygby6R0KI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-27",
+   "revenue": 313949,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Take a shot at friendship.",
+   "title": "Our Hero, Balthazar",
+   "trailer": {
+    "key": "vL4AuYMtr9c",
+    "name": "Vertical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.367,
+   "vote_count": 30
+  },
+  "movie:1511057": {
+   "backdrop_path": "/uYVxuLVZsxnJfXK03YgZSzqiWiQ.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Devon",
+     "n": "Sadie Sandler"
+    },
+    {
+     "c": "Celeste",
+     "n": "Chloe East"
+    },
+    {
+     "c": "Michael",
+     "n": "Billy Bryk"
+    },
+    {
+     "c": "Dr. Schilling",
+     "n": "Sarah Sherman"
+    },
+    {
+     "c": "George",
+     "n": "Martin Herlihy"
+    },
+    {
+     "c": "Goose",
+     "n": "Josh Segarra"
+    },
+    {
+     "c": "Gigi",
+     "n": "Carol Kane"
+    },
+    {
+     "c": "Hannah",
+     "n": "Natasha Lyonne"
+    },
+    {
+     "c": "Brian",
+     "n": "Nick Kroll"
+    },
+    {
+     "c": "Professor Ziemann",
+     "n": "Janeane Garofalo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Chandler Levack"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1511057,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression.",
+   "popularity": 4.5249,
+   "poster_path": "/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-13",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One dorm. Zero boundaries.",
+   "title": "Roommates",
+   "trailer": {
+    "key": "PF3dDdeSIVc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.382,
+   "vote_count": 182
+  },
+  "movie:1577457": {
+   "backdrop_path": "/18fSntMRMhS1JMuK2VnJBkUgN5q.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Franco Battiato",
+     "n": "Dario Aita"
+    },
+    {
+     "c": "Fleur Jaeggy",
+     "n": "Elena Radonicich"
+    },
+    {
+     "c": "Grazia Battiato",
+     "n": "Simona Malato"
+    },
+    {
+     "c": "Juri Camisasca",
+     "n": "Ermes Frattini"
+    },
+    {
+     "c": "Giuni Russo",
+     "n": "Nicole Petrelli"
+    },
+    {
+     "c": "Giusto Pio",
+     "n": "Giulio Forges Davanzati"
+    },
+    {
+     "c": "Franco Battiato da adolescente",
+     "n": "Francesco Giulio Cerilli"
+    },
+    {
+     "c": "",
+     "n": "Anna Castiglia"
+    },
+    {
+     "c": "",
+     "n": "Joan Thiele"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Renato De Maria"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1577457,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "The story of the young Franco Battiato’s journey, from Sicily to his arrival in Milan, exploring the encounters and pivotal moments along the path to success, right up to his return to his beloved Sicily. The account of an inner journey in which the artist’s nature, already inclined towards spirituality, evolves into a more conscious quest.",
+   "popularity": 1.648,
+   "poster_path": "/3090IzGzstklsl19mCqzl5q2W5G.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-02",
+   "revenue": 0,
+   "runtime": 0,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Franco Battiato: The Long Journey",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.957,
+   "vote_count": 58
   },
   "movie:170657": {
    "backdrop_path": "/60Y6NXOXiqPHACYhMoW5Fo4eCO5.jpg",

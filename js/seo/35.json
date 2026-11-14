@@ -1,6 +1,6 @@
 {
  "bucket": "35",
- "count": 17,
+ "count": 25,
  "titles": {
   "movie:10935": {
    "d": "Heaven's Gate (1980): Drama/Western film. Story: Harvard graduate James Averill serves as the sheriff… See cast, budget $44M, and TMDB rating 6.7/10.",
@@ -66,6 +66,336 @@
    "t": "Heaven's Gate (1980) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1980"
   },
+  "movie:1291335": {
+   "d": "Solo Mio (2026): Romance/Comedy film. Story: After Matt's dreams of a picturesque Italian wedding… See cast, budget $4M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/eVXBp5BBskAj0RJ6pDSNPcBs1uI.jpg",
+   "industry": "world",
+   "k": "Solo Mio, Solo Mio movie, Solo Mio cast, Solo Mio story, Solo Mio box office collection, Solo Mio budget, Solo Mio review, Solo Mio rating, Solo Mio release date, Solo Mio trailer, Solo Mio Romance, Solo Mio Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kevin James"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicole Grimaudo"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Coates"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonathan Roumie"
+     },
+     {
+      "@type": "Person",
+      "name": "Alyson Hannigan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 317,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Solo Mio (2026): Romance/Comedy film. Story: After Matt's dreams of a picturesque Italian wedding… See cast, budget $4M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Charles Kinnane"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Kinnane"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eVXBp5BBskAj0RJ6pDSNPcBs1uI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1291335",
+    "name": "Solo Mio",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1291335"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Solo Mio (2026)</h1>\n<p class=\"ssr-lead\">After Matt&#x27;s dreams of a picturesque Italian wedding are shattered when his fiancée leaves him at the altar, he embarks on his planned honeymoon across Italy alone, immersing himself in the country&#x27;s vibrant culture, food, and beauty, meeting Gia along the way.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 February 2026</li><li>Runtime: 96 minutes</li><li>Director: Charles Kinnane, Daniel Kinnane</li><li>Genres: Romance, Comedy</li><li>Budget: $4M</li><li>TMDB rating: 7.5/10 (317 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kevin James as Matt Taylor</li><li>Nicole Grimaudo as Gia</li><li>Kim Coates as Julian</li><li>Jonathan Roumie as Neil</li><li>Alyson Hannigan as Meghan</li><li>Julie Ann Emery as Heather</li><li>Julee Cerda as Donna</li><li>Andrea Bocelli as Andrea Bocelli</li><li>Andrea Logiudice as Andrea Maffei</li><li>Caterina Silva as Claudia</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Solo Mio (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1318335": {
+   "d": "The Rays and Shadows (2026): Drama/History film. Story: Jean and Otto, a French newspaperman and a young… See cast, budget $35M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lRi60HBL9fDd3MlouxJU0OUgR2j.jpg",
+   "industry": "world",
+   "k": "The Rays and Shadows, The Rays and Shadows movie, The Rays and Shadows cast, The Rays and Shadows story, The Rays and Shadows box office collection, The Rays and Shadows budget, The Rays and Shadows review, The Rays and Shadows rating, The Rays and Shadows release date, The Rays and Shadows Drama, The Rays and Shadows History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jean Dujardin"
+     },
+     {
+      "@type": "Person",
+      "name": "Nastya Golubeva Carax"
+     },
+     {
+      "@type": "Person",
+      "name": "August Diehl"
+     },
+     {
+      "@type": "Person",
+      "name": "Olivier Chantreau"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Próchniak"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 149,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "The Rays and Shadows (2026): Drama/History film. Story: Jean and Otto, a French newspaperman and a young… See cast, budget $35M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Xavier Giannoli"
+     }
+    ],
+    "duration": "PT199M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lRi60HBL9fDd3MlouxJU0OUgR2j.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1318335",
+    "name": "The Rays and Shadows",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1318335"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Rays and Shadows (2026)</h1>\n<p class=\"ssr-lead\">Jean and Otto, a French newspaperman and a young German Francophile, are fighting for peace in Europe. Jean’s daughter, Corinne, is launching a brilliant acting career in the film world, but war breaks out and France is occupied. The two friends have a major role to play in this new France. Jean becomes a big press baron and an ardent advocate of collaboration with the occupying forces, while Otto becomes the Reich’s ambassador in Paris. Corinne, meanwhile, finds herself thrown into the lion’s pit.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 March 2026</li><li>Runtime: 199 minutes</li><li>Director: Xavier Giannoli</li><li>Genres: Drama, History</li><li>Budget: $35M</li><li>TMDB rating: 7.4/10 (149 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean Dujardin as Jean Luchaire</li><li>Nastya Golubeva Carax as Corinne Luchaire</li><li>August Diehl as Otto Abetz</li><li>Olivier Chantreau as Guy de Voisins</li><li>Anna Próchniak as Lydia Rogers</li><li>Lucile Vignolles as Suzanne de Bruyker</li><li>Chloé Astor as Françoise Luchaire</li><li>Vincent Colombe as Guy Crouzet</li><li>Maria Cavalier-Bazan as Eva</li><li>Valeriu Andriuță as Léonide Moguy</li></ul>\n</article>",
+   "t": "The Rays and Shadows (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1473635": {
+   "d": "Things We Don't Say (2026): Drama film. Story: Carlo and Elisa are a successful couple. He’s a… See cast, TMDB rating 6.9/10, and release date 29 January 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/pBeB38aB3FfzPqCrSoxZpvLHxjt.jpg",
+   "industry": "world",
+   "k": "Things We Don't Say, Things We Don't Say movie, Things We Don't Say cast, Things We Don't Say story, Things We Don't Say box office collection, Things We Don't Say budget, Things We Don't Say review, Things We Don't Say rating, Things We Don't Say release date, Things We Don't Say Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Stefano Accorsi"
+     },
+     {
+      "@type": "Person",
+      "name": "Carolina Crescentini"
+     },
+     {
+      "@type": "Person",
+      "name": "Miriam Leone"
+     },
+     {
+      "@type": "Person",
+      "name": "Claudio Santamaria"
+     },
+     {
+      "@type": "Person",
+      "name": "Beatrice Savignani"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 163,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Things We Don't Say (2026): Drama film. Story: Carlo and Elisa are a successful couple. He’s a… See cast, TMDB rating 6.9/10, and release date 29 January 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gabriele Muccino"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pBeB38aB3FfzPqCrSoxZpvLHxjt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1473635",
+    "name": "Things We Don't Say",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1473635"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Things We Don&#x27;t Say (2026)</h1>\n<p class=\"ssr-lead\">Carlo and Elisa are a successful couple. He’s a university professor and writer facing a creative block; she’s a brilliant, sharp-witted journalist, known for her internationally published editorials. They live in Rome, moving between accomplishments and routine, affection and something that might be fading. In search of new energy, they travel to Morocco with their lifelong friends, Anna and Paolo, and their thirteen-year-old daughter Vittoria—bright, curious, a little eccentric. Tensions soon rise.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 January 2026</li><li>Runtime: 114 minutes</li><li>Director: Gabriele Muccino</li><li>Genres: Drama</li><li>TMDB rating: 6.9/10 (163 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Stefano Accorsi as Carlo</li><li>Carolina Crescentini as Elisa</li><li>Miriam Leone as Anna</li><li>Claudio Santamaria as Paolo</li><li>Beatrice Savignani as Blu</li><li>Margherita Pantaleo as Vittoria</li><li>Ahmed Boulane as Hassan</li><li>Alessandra Carrillo</li></ul>\n</article>",
+   "t": "Things We Don't Say (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1596335": {
+   "d": "The AI Doc: Or How I Became an Apocaloptimist (2026): Documentary film. Story: A father-to-be tries to figure out what is happening… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/lIvkPPTAHBpKhifdczZH0s8eozB.jpg",
+   "industry": "world",
+   "k": "The AI Doc: Or How I Became an Apocaloptimist, The AI Doc: Or How I Became an Apocaloptimist movie, The AI Doc: Or How I Became an Apocaloptimist cast, The AI Doc: Or How I Became an Apocaloptimist story, The AI Doc: Or How I Became an Apocaloptimist box office collection, The AI Doc: Or How I Became an Apocaloptimist budget, The AI Doc: Or How I Became an Apocaloptimist review, The AI Doc: Or How I Became an Apocaloptimist rating, The AI Doc: Or How I Became an Apocaloptimist release date, The AI Doc: Or How I Became an Apocaloptimist trailer, The AI Doc: Or How I Became an Apocaloptimist Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Daniel Roher"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Altman"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniela Amodei"
+     },
+     {
+      "@type": "Person",
+      "name": "Dario Amodei"
+     },
+     {
+      "@type": "Person",
+      "name": "Emily M. Bender"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 42,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "The AI Doc: Or How I Became an Apocaloptimist (2026): Documentary film. Story: A father-to-be tries to figure out what is happening… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Daniel Roher"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlie Tyrell"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lIvkPPTAHBpKhifdczZH0s8eozB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1596335",
+    "name": "The AI Doc: Or How I Became an Apocaloptimist",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1596335"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The AI Doc: Or How I Became an Apocaloptimist (2026)</h1>\n<p class=\"ssr-lead\">A father-to-be tries to figure out what is happening with all this AI insanity, and explores the most powerful technology humanity has ever created... and what&#x27;s at stake if we get it wrong.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 March 2026</li><li>Runtime: 105 minutes</li><li>Director: Daniel Roher, Charlie Tyrell</li><li>Genres: Documentary</li><li>TMDB rating: 6.9/10 (42 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Daniel Roher as Self</li><li>Sam Altman as Self</li><li>Daniela Amodei as Self</li><li>Dario Amodei as Self</li><li>Emily M. Bender as Self</li><li>Yoshua Bengio as Self</li><li>Liv Boeree as Self</li><li>Ajeya Cotra as Self</li><li>Peter Diamandis as Self</li><li>Randima Fernando as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "The AI Doc: Or How I Became an Apocaloptimist (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1613335": {
+   "d": "Miracle: The Boys of '80 (2026): Documentary/History film. Story: This is the story of the “Miracle on Ice,” when the… See cast and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1VSS8owtFBcpeH2b9vWRLsH7IBv.jpg",
+   "industry": "world",
+   "k": "Miracle: The Boys of '80, Miracle: The Boys of '80 movie, Miracle: The Boys of '80 cast, Miracle: The Boys of '80 story, Miracle: The Boys of '80 box office collection, Miracle: The Boys of '80 budget, Miracle: The Boys of '80 review, Miracle: The Boys of '80 rating, Miracle: The Boys of '80 release date, Miracle: The Boys of '80 trailer, Miracle: The Boys of '80 Documentary, Miracle: The Boys of '80 History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Herb Brooks"
+     },
+     {
+      "@type": "Person",
+      "name": "Mike Eruzione"
+     },
+     {
+      "@type": "Person",
+      "name": "Jim Craig"
+     },
+     {
+      "@type": "Person",
+      "name": "Gary Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Steve Janaszak"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 24,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Miracle: The Boys of '80 (2026): Documentary/History film. Story: This is the story of the “Miracle on Ice,” when the… See cast and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Max Gershberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Jacob Rogal"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Documentary",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1VSS8owtFBcpeH2b9vWRLsH7IBv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1613335",
+    "name": "Miracle: The Boys of '80",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1613335"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Miracle: The Boys of &#x27;80 (2026)</h1>\n<p class=\"ssr-lead\">This is the story of the “Miracle on Ice,” when the 1980 US Hockey Team beat the USSR in the Olympic semi-finals at the height of the Cold War to bring home a gold medal. Their iconic underdog story is told with never-before-seen 16mm footage and firsthand reflections from the players who were brought back to the scene of their historic victory.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 January 2026</li><li>Runtime: 108 minutes</li><li>Director: Max Gershberg, Jacob Rogal</li><li>Genres: Documentary, History</li><li>TMDB rating: 7.3/10 (24 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Herb Brooks as Self - Head Coach (archive footage)</li><li>Mike Eruzione as Self - Boston University - Forward</li><li>Jim Craig as Self - Boston University - Goalie</li><li>Gary Smith as Self - Trainer</li><li>Steve Janaszak as Self - University of Minnesota - Goalie</li><li>John Harrington as Self - University of Minnesota Duluth - Forward</li><li>Craig Patrick as Self - Assistant Coach</li><li>Buzz Schneider as Self - University of Minnesota - Forward</li><li>George F. Will as Self - Political Commentator (as George Will)</li><li>Ralph Cox as Self - Forward</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Miracle: The Boys of '80 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:17835": {
    "d": "Threads (1984): War/Drama film. Story: Documentary style account of a nuclear holocaust and… See cast, budget $420.0k, and TMDB rating 7.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/hA5A3srsuVmKe5tR4UePS2ZPaDw.jpg",
@@ -129,6 +459,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Threads (1984)</h1>\n<p class=\"ssr-lead\">Documentary style account of a nuclear holocaust and its effect on the working class city of Sheffield, England; and the eventual long run effects of nuclear war on civilization.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 September 1984</li><li>Runtime: 117 minutes</li><li>Director: Mick Jackson</li><li>Genres: War, Drama, Science Fiction</li><li>Budget: $420.0k</li><li>TMDB rating: 7.6/10 (450 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Karen Meagher as Ruth Beckett</li><li>Reece Dinsdale as Jimmy Kemp</li><li>David Brierly as Mr. Kemp</li><li>Rita May as Mrs. Kemp</li><li>Nicholas Lane as Michael Kemp</li><li>Jane Hazlegrove as Alison Kemp</li><li>Henry Moxon as Mr Beckett</li><li>June Broughton as Mrs Beckett</li><li>Sylvia Stoker as Granny Beckett</li><li>Harry Beety as Clive Sutton</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Bloodstream</li><li>Rent: Bloodstream</li></ul>\n</article>",
    "t": "Threads (1984) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1984"
+  },
+  "movie:1788735": {
+   "d": "Family Guy Happy Hell-o-ween (2026): Animation/Horror film. Story: After unexpectedly dying and being sent to Hell… See cast and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/i5XAKlLzmbGsBtr8T3vyGZHkanT.jpg",
+   "industry": "world",
+   "k": "Family Guy Happy Hell-o-ween, Family Guy Happy Hell-o-ween movie, Family Guy Happy Hell-o-ween cast, Family Guy Happy Hell-o-ween story, Family Guy Happy Hell-o-ween box office collection, Family Guy Happy Hell-o-ween budget, Family Guy Happy Hell-o-ween review, Family Guy Happy Hell-o-ween rating, Family Guy Happy Hell-o-ween release date, Family Guy Happy Hell-o-ween trailer, Family Guy Happy Hell-o-ween Animation, Family Guy Happy Hell-o-ween Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Seth MacFarlane"
+     },
+     {
+      "@type": "Person",
+      "name": "Kieran Culkin"
+     },
+     {
+      "@type": "Person",
+      "name": "Alex Borstein"
+     },
+     {
+      "@type": "Person",
+      "name": "Seth Green"
+     },
+     {
+      "@type": "Person",
+      "name": "Mila Kunis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 29,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Family Guy Happy Hell-o-ween (2026): Animation/Horror film. Story: After unexpectedly dying and being sent to Hell… See cast and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joe Vaux"
+     }
+    ],
+    "duration": "PT22M",
+    "genre": [
+     "Animation",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/i5XAKlLzmbGsBtr8T3vyGZHkanT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1788735",
+    "name": "Family Guy Happy Hell-o-ween",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1788735"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Family Guy Happy Hell-o-ween (2026)</h1>\n<p class=\"ssr-lead\">After unexpectedly dying and being sent to Hell, Stewie and Brian’s constant nagging leads The Devil to quit, passing control of Hell to them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 October 2026</li><li>Runtime: 22 minutes</li><li>Director: Joe Vaux</li><li>Genres: Animation, Horror, Comedy</li><li>TMDB rating: 7.3/10 (29 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Seth MacFarlane as Brian Griffin / Stewie Griffin / Peter Griffin (voice)</li><li>Kieran Culkin as The Devil (voice)</li><li>Alex Borstein as Lois Griffin (voice)</li><li>Seth Green as Chris Griffin (voice)</li><li>Mila Kunis as Meg Griffin (voice)</li><li>Patrick Warburton as Joe Swanson (voice)</li><li>Arif Zahir as Cleveland Brown (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li></ul>\n</article>",
+   "t": "Family Guy Happy Hell-o-ween (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:48035": {
    "d": "Ordet (1955): Drama film. Story: The three sons of devout Danish farmer Morten have… See cast, TMDB rating 7.9/10, and release date 9 January 1955.",
@@ -383,6 +777,70 @@
    "t": "A Few Best Men (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2012"
   },
+  "movie:855435": {
+   "d": "Faces of Death (2026): Horror/Crime film. Story: A moderator on an internet video-sharing platform… See cast, budget $7.4M, and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dI7Il2dQJIEOkVvQW4739rFcXWT.jpg",
+   "industry": "world",
+   "k": "Faces of Death, Faces of Death movie, Faces of Death cast, Faces of Death story, Faces of Death box office collection, Faces of Death budget, Faces of Death review, Faces of Death rating, Faces of Death release date, Faces of Death trailer, Faces of Death Horror, Faces of Death Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Barbie Ferreira"
+     },
+     {
+      "@type": "Person",
+      "name": "Dacre Montgomery"
+     },
+     {
+      "@type": "Person",
+      "name": "Josie Totah"
+     },
+     {
+      "@type": "Person",
+      "name": "Aaron Holliday"
+     },
+     {
+      "@type": "Person",
+      "name": "Kurt Yue"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 159,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Faces of Death (2026): Horror/Crime film. Story: A moderator on an internet video-sharing platform… See cast, budget $7.4M, and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Daniel Goldhaber"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Horror",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dI7Il2dQJIEOkVvQW4739rFcXWT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=855435",
+    "name": "Faces of Death",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=855435"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Faces of Death (2026)</h1>\n<p class=\"ssr-lead\">A moderator on an internet video-sharing platform stumbles across a potential snuff film ring hidden in the depths of the site&#x27;s content.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 April 2026</li><li>Runtime: 97 minutes</li><li>Director: Daniel Goldhaber</li><li>Genres: Horror, Crime</li><li>Budget: $7.4M</li><li>TMDB rating: 5.6/10 (159 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Barbie Ferreira as Margot Romero</li><li>Dacre Montgomery as Arthur Spevak</li><li>Josie Totah as Samantha Gravinsky</li><li>Aaron Holliday as Ryan</li><li>Kurt Yue as Neal</li><li>Jermaine Fowler as Josh</li><li>Charli xcx as Gabby</li><li>Ash Maeda as Drew</li><li>Sam Malone as Ed</li><li>Tiffany Colin as Margot&#x27;s Sister</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC+ Amazon Channel, AMC+ Roku Premium Channel, Shudder</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Faces of Death (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:85735": {
    "d": "Love Lasts Three Years (2011): Romance/Comedy film. Story: A heartbroken literary critic turns his despair into… See cast and TMDB rating 5.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/hmmWBSDWEuHnglPHm470MqDJ9Yq.jpg",
@@ -446,6 +904,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Love Lasts Three Years (2011)</h1>\n<p class=\"ssr-lead\">A heartbroken literary critic turns his despair into creativity following a bitter divorce, only to encounter an enchanting beauty who poses a major challenge to his newfound cynicism. Marc Marronnier thought his marriage was going well until his wife deemed him immature, and left him for a high-profile writer. Devastated, he began filtering all of his heartache into a misanthropic manuscript decrying the virtues of true love. But later, when Marc falls hard for his cousin&#x27;s radiant and gorgeous wife, his entire life is turned upside down. Louise Bourgoin and Gaspard Proust star in a film by actor and author-turned-director Frederic Beigbeder.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 December 2011</li><li>Runtime: 98 minutes</li><li>Director: Frédéric Beigbeder</li><li>Genres: Romance, Comedy</li><li>TMDB rating: 5.7/10 (440 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Louise Bourgoin as Alice</li><li>Gaspard Proust as Marc Marronnier</li><li>JoeyStarr as Jean-Georges</li><li>Jonathan Lambert as Pierre</li><li>Frédérique Bel as Kathy</li><li>Nicolas Bedos as Antoine</li><li>Valérie Lemercier as Francesca Vernesi</li><li>Elisa Sednaoui as Anne</li><li>Anny Duperey as Mère de Marc</li><li>Pom Klementieff as Fiancée du père</li></ul>\n</article>",
    "t": "Love Lasts Three Years (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:858035": {
+   "d": "Klara and the Sun (2026): Science Fiction/Drama film. Story: When Klara, an Artificial Friend who wants nothing… See cast, budget $20M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/2Zk5jRXUlrfkU3RsutMPMHey1Y.jpg",
+   "industry": "world",
+   "k": "Klara and the Sun, Klara and the Sun movie, Klara and the Sun cast, Klara and the Sun story, Klara and the Sun box office collection, Klara and the Sun budget, Klara and the Sun review, Klara and the Sun rating, Klara and the Sun release date, Klara and the Sun trailer, Klara and the Sun Science Fiction, Klara and the Sun Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jenna Ortega"
+     },
+     {
+      "@type": "Person",
+      "name": "Mia Tharia"
+     },
+     {
+      "@type": "Person",
+      "name": "Amy Adams"
+     },
+     {
+      "@type": "Person",
+      "name": "Natasha Lyonne"
+     },
+     {
+      "@type": "Person",
+      "name": "Aran Murphy"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 32,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Klara and the Sun (2026): Science Fiction/Drama film. Story: When Klara, an Artificial Friend who wants nothing… See cast, budget $20M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Taika Waititi"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Science Fiction",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2Zk5jRXUlrfkU3RsutMPMHey1Y.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=858035",
+    "name": "Klara and the Sun",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=858035"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Klara and the Sun (2026)</h1>\n<p class=\"ssr-lead\">When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother and they&#x27;ve suffered great loss, but Klara&#x27;s innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie&#x27;s complicated world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 October 2026</li><li>Runtime: 116 minutes</li><li>Director: Taika Waititi</li><li>Genres: Science Fiction, Drama</li><li>Budget: $20M</li><li>TMDB rating: 6.1/10 (32 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jenna Ortega as Klara</li><li>Mia Tharia as Josie</li><li>Amy Adams as Chrissie</li><li>Natasha Lyonne as Manager</li><li>Aran Murphy as Rick</li><li>Rachel House as Melania</li><li>Steve Buscemi as Capaldi</li><li>Davida McKenzie as Simone</li><li>Harry Greenwood</li><li>Anastasiia Aksiuta as AF-1</li></ul>\n</article>",
+   "t": "Klara and the Sun (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:859235": {
    "d": "Coup de chance (2023): Romance/Drama film. Story: Fanny and Jean have everything of an ideal couple… See cast, budget $12M, and TMDB rating 6.2/10.",

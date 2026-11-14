@@ -1,7 +1,434 @@
 {
  "bucket": "28",
- "count": 12,
+ "count": 21,
  "titles": {
+  "movie:1096228": {
+   "d": "Musk (2026): Documentary film. Story: An incisive look behind the legend of Elon Musk, the… See cast, budget $10M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1CfHIKczBiAauSRBiNQ90bjLsCM.jpg",
+   "industry": "world",
+   "k": "Musk, Musk movie, Musk cast, Musk story, Musk box office collection, Musk budget, Musk review, Musk rating, Musk release date, Musk trailer, Musk Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Elon Musk"
+     },
+     {
+      "@type": "Person",
+      "name": "Alex Gibney"
+     },
+     {
+      "@type": "Person",
+      "name": "Justine Musk"
+     },
+     {
+      "@type": "Person",
+      "name": "Ashley St. Clair"
+     },
+     {
+      "@type": "Person",
+      "name": "Kara Swisher"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 33,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Musk (2026): Documentary film. Story: An incisive look behind the legend of Elon Musk, the… See cast, budget $10M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alex Gibney"
+     }
+    ],
+    "duration": "PT238M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1CfHIKczBiAauSRBiNQ90bjLsCM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1096228",
+    "name": "Musk",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1096228"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Musk (2026)</h1>\n<p class=\"ssr-lead\">An incisive look behind the legend of Elon Musk, the world&#x27;s most heralded &quot;inventor-entrepreneur&quot; who has enormous influence on the world in which we all live.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 October 2026</li><li>Runtime: 238 minutes</li><li>Director: Alex Gibney</li><li>Genres: Documentary</li><li>Budget: $10M</li><li>TMDB rating: 6.4/10 (33 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Elon Musk as Self (archive footage)</li><li>Alex Gibney as Narrator (voice)</li><li>Justine Musk as Self</li><li>Ashley St. Clair as Self</li><li>Kara Swisher as Self</li><li>Martin Eberhard as Self</li><li>Zoë Schiffer as Self</li><li>Geoffrey Hinton as Self</li><li>Sam Harris as Self</li><li>Samantha Power as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Musk (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1193128": {
+   "d": "I Was a Stranger (2026): Drama/Thriller film. Story: A Syrian doctor and her daughter flee Aleppo, setting… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yTYbKHC3f32iCNvdfvGblnPvJ6U.jpg",
+   "industry": "world",
+   "k": "I Was a Stranger, I Was a Stranger movie, I Was a Stranger cast, I Was a Stranger story, I Was a Stranger box office collection, I Was a Stranger budget, I Was a Stranger review, I Was a Stranger rating, I Was a Stranger release date, I Was a Stranger trailer, I Was a Stranger Drama, I Was a Stranger Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Yasmine Al Massri"
+     },
+     {
+      "@type": "Person",
+      "name": "Yahya Mahayni"
+     },
+     {
+      "@type": "Person",
+      "name": "Omar Sy"
+     },
+     {
+      "@type": "Person",
+      "name": "Ziad Bakri"
+     },
+     {
+      "@type": "Person",
+      "name": "Constantine Markoulakis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 47,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "I Was a Stranger (2026): Drama/Thriller film. Story: A Syrian doctor and her daughter flee Aleppo, setting… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Brandt Andersen"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yTYbKHC3f32iCNvdfvGblnPvJ6U.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1193128",
+    "name": "I Was a Stranger",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1193128"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>I Was a Stranger (2026)</h1>\n<p class=\"ssr-lead\">A Syrian doctor and her daughter flee Aleppo, setting off a chain of events that binds five strangers together. A smuggler, a soldier, a poet, and a coast guard captain collide in a crisis that tests their courage, their choices, and their humanity.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 January 2026</li><li>Runtime: 103 minutes</li><li>Director: Brandt Andersen</li><li>Genres: Drama, Thriller</li><li>TMDB rating: 6.9/10 (47 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yasmine Al Massri as Amira Homsi</li><li>Yahya Mahayni as Mustafa</li><li>Omar Sy as Marwan</li><li>Ziad Bakri as Fathi</li><li>Constantine Markoulakis as Stavros</li><li>Jason Beghe as Dr. Kroft</li><li>Ayman Samman as Shaheen</li><li>Massa Daoud as Rasha Homsi</li><li>Angeliki Papoulia as Helena</li><li>Saleh Bakri as Alaa</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, Paramount Plus Premium, Paramount+ Amazon Channel, Paramount+ Roku Premium Channel, Angel Studios</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "I Was a Stranger (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1355228": {
+   "d": "Gandhari (2026): Action/Drama film. Story: When a mother loses her eyesight and her daughter in… See cast and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
+   "industry": "bollywood",
+   "k": "Gandhari, Gandhari movie, Gandhari cast, Gandhari story, Gandhari box office collection, Gandhari budget, Gandhari review, Gandhari rating, Gandhari release date, Gandhari Action, Gandhari Drama, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Taapsee Pannu"
+     },
+     {
+      "@type": "Person",
+      "name": "Ishwak Singh"
+     },
+     {
+      "@type": "Person",
+      "name": "Mita Vashisht"
+     },
+     {
+      "@type": "Person",
+      "name": "Swastika Mukherjee"
+     },
+     {
+      "@type": "Person",
+      "name": "Chhaya Kadam"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 36,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Gandhari (2026): Action/Drama film. Story: When a mother loses her eyesight and her daughter in… See cast and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Devashish Makhija"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1355228",
+    "name": "Gandhari",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1355228"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Gandhari (2026)</h1>\n<p class=\"ssr-lead\">When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 September 2026</li><li>Runtime: 117 minutes</li><li>Director: Devashish Makhija</li><li>Genres: Action, Drama, Thriller</li><li>TMDB rating: 7.3/10 (36 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Taapsee Pannu as Bani Sikdar</li><li>Ishwak Singh as Gokul Sikdar</li><li>Mita Vashisht as Jhunu Amba</li><li>Swastika Mukherjee as Miss Churni</li><li>Chhaya Kadam as Uma Patra</li><li>Jatin Sarna as Kabir</li><li>Prashant Narayanan as Blackhole Leader</li><li>Chandan Roy as Somesh Yadav</li><li>Vishwanath Chatterjee as Inspector Saha</li><li>Priti Shroff as ASI Sanjukta</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Gandhari (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1441228": {
+   "d": "Irumudi (2026): Drama/Action film. Story: An alcoholic with a violent past—living peacefully… See cast, TMDB rating 6.4/10, and release date 21 August 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
+   "industry": "bollywood",
+   "k": "Irumudi, Irumudi movie, Irumudi cast, Irumudi story, Irumudi box office collection, Irumudi budget, Irumudi review, Irumudi rating, Irumudi release date, Irumudi trailer, Irumudi Drama, Irumudi Action, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ravi Teja"
+     },
+     {
+      "@type": "Person",
+      "name": "Nakshathra C M"
+     },
+     {
+      "@type": "Person",
+      "name": "Priya Bhavani Shankar"
+     },
+     {
+      "@type": "Person",
+      "name": "Sai Kumar"
+     },
+     {
+      "@type": "Person",
+      "name": "Ajay Ghosh"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 31,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Irumudi (2026): Drama/Action film. Story: An alcoholic with a violent past—living peacefully… See cast, TMDB rating 6.4/10, and release date 21 August 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Shiva Nirvana"
+     }
+    ],
+    "duration": "PT152M",
+    "genre": [
+     "Drama",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1441228",
+    "name": "Irumudi",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1441228"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Irumudi (2026)</h1>\n<p class=\"ssr-lead\">An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 August 2026</li><li>Runtime: 152 minutes</li><li>Director: Shiva Nirvana</li><li>Genres: Drama, Action, Thriller</li><li>TMDB rating: 6.4/10 (31 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ravi Teja as Trinadh Rama Kasu</li><li>Nakshathra C M as Manikanta &quot;Manamma&quot;</li><li>Priya Bhavani Shankar as Kaveri</li><li>Sai Kumar as Goparaju &quot;Guru Swamy&quot;</li><li>Ajay Ghosh as Erraji</li><li>Swasika as P. Dhana Lakshmi</li><li>Rajkumar Kasireddy as Bushan</li><li>Ramesh Indira as M.L.A Bujji</li><li>Kishore Kumar Polimera as Paradesi</li><li>Laxman Meesala as Babu</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Irumudi (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1549128": {
+   "d": "Twin Stars (2026): Comedy film. Story: The story, set in a rural place, tells in a comic way… See cast, TMDB rating 5.6/10, and release date 14 May 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/ojD3wayQzUkzzjAadfuIOzo8Dwo.jpg",
+   "industry": "world",
+   "k": "Twin Stars, Twin Stars movie, Twin Stars cast, Twin Stars story, Twin Stars box office collection, Twin Stars budget, Twin Stars review, Twin Stars rating, Twin Stars release date, Twin Stars Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Martina Gatti"
+     },
+     {
+      "@type": "Person",
+      "name": "Matteo Olivetti"
+     },
+     {
+      "@type": "Person",
+      "name": "Margherita Buy"
+     },
+     {
+      "@type": "Person",
+      "name": "Laura Morante"
+     },
+     {
+      "@type": "Person",
+      "name": "Eugenia Costantini"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 27,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Twin Stars (2026): Comedy film. Story: The story, set in a rural place, tells in a comic way… See cast, TMDB rating 5.6/10, and release date 14 May 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Luca Lucini"
+     }
+    ],
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ojD3wayQzUkzzjAadfuIOzo8Dwo.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1549128",
+    "name": "Twin Stars",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1549128"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Twin Stars (2026)</h1>\n<p class=\"ssr-lead\">The story, set in a rural place, tells in a comic way the difference between the slow pace of the province and the frenetic pace of the capital.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 May 2026</li><li>Director: Luca Lucini</li><li>Genres: Comedy</li><li>TMDB rating: 5.6/10 (27 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Martina Gatti as Stella</li><li>Matteo Olivetti as Achille</li><li>Margherita Buy as Rossana</li><li>Laura Morante as Lucia</li><li>Eugenia Costantini as Mary</li><li>Jimi Durotoje as Gil</li><li>Alessio Moneta as Ascanio</li><li>Mattia Basciani as Flavio</li><li>Paola Buratto as Giulia</li><li>Fabrizio Colica as Don Pietro</li></ul>\n</article>",
+   "t": "Twin Stars (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1600028": {
+   "d": "A Father's Miracle (2025): Drama film. Story: After being falsely accused of a terrible crime… See cast, TMDB rating 8.1/10, and release date 25 December 2025.",
+   "img": "https://image.tmdb.org/t/p/w780/fIuuYkIjF9Q7W26YbIeKX5OWwiL.jpg",
+   "industry": "world",
+   "k": "A Father's Miracle, A Father's Miracle movie, A Father's Miracle cast, A Father's Miracle story, A Father's Miracle box office collection, A Father's Miracle budget, A Father's Miracle review, A Father's Miracle rating, A Father's Miracle release date, A Father's Miracle Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Omar Chaparro"
+     },
+     {
+      "@type": "Person",
+      "name": "Mariana Calderón"
+     },
+     {
+      "@type": "Person",
+      "name": "Natalia Reyes"
+     },
+     {
+      "@type": "Person",
+      "name": "Gustavo Sánchez Parra"
+     },
+     {
+      "@type": "Person",
+      "name": "Jorge A. Jimenez"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 95,
+     "ratingValue": 8.1,
+     "worstRating": 0
+    },
+    "description": "A Father's Miracle (2025): Drama film. Story: After being falsely accused of a terrible crime… See cast, TMDB rating 8.1/10, and release date 25 December 2025.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ana Lorena Pérez Ríos"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fIuuYkIjF9Q7W26YbIeKX5OWwiL.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1600028",
+    "name": "A Father's Miracle",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1600028"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Father&#x27;s Miracle (2025)</h1>\n<p class=\"ssr-lead\">After being falsely accused of a terrible crime, Hector, a man with a neurological disability, goes to a secret prison. His goodness conquers the prisoners, who plan to prove their innocence.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 December 2025</li><li>Runtime: 101 minutes</li><li>Director: Ana Lorena Pérez Ríos</li><li>Genres: Drama</li><li>TMDB rating: 8.1/10 (95 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Omar Chaparro as Héctor</li><li>Mariana Calderón as Alma</li><li>Natalia Reyes as Maestra Ingrid</li><li>Gustavo Sánchez Parra as &quot;Tigre&quot;</li><li>Jorge A. Jimenez as Capitán Avilez</li><li>Sofía Álvarez as Yadira</li><li>Juan Pablo de Santiago as Tomás</li><li>Marco Antonio Treviño as Director Navarro</li><li>Arturo Ríos as Iván</li><li>Laura Alonso Escobar as Lorenza</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Netflix Standard with Ads</li></ul>\n</article>",
+   "t": "A Father's Miracle (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1604628": {
+   "d": "Wild London (2026): Documentary film. Story: After a life spent travelling the globe, the world’s… See cast and TMDB rating 8.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6j0SlqmwlwTWeT6BlnD9JtYIOGk.jpg",
+   "industry": "world",
+   "k": "Wild London, Wild London movie, Wild London cast, Wild London story, Wild London box office collection, Wild London budget, Wild London review, Wild London rating, Wild London release date, Wild London trailer, Wild London Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "David Attenborough"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 20,
+     "ratingValue": 8.3,
+     "worstRating": 0
+    },
+    "description": "Wild London (2026): Documentary film. Story: After a life spent travelling the globe, the world’s… See cast and TMDB rating 8.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joe Loncraine"
+     }
+    ],
+    "duration": "PT58M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6j0SlqmwlwTWeT6BlnD9JtYIOGk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1604628",
+    "name": "Wild London",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1604628"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wild London (2026)</h1>\n<p class=\"ssr-lead\">After a life spent travelling the globe, the world’s most famous naturalist turns his attention closer to home to explore the wildlife of England’s iconic capital. Having lived in London for 75 years, Sir David has an intimate knowledge of the city’s natural history, and there&#x27;s no better guide to introduce us to its most spectacular wildlife secrets. Captured over his centennial year, this personal and poignant film is a timely insight into how cities can become homes for wildlife as well as ourselves.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 January 2026</li><li>Runtime: 58 minutes</li><li>Director: Joe Loncraine</li><li>Genres: Documentary</li><li>TMDB rating: 8.3/10 (20 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Attenborough as Self</li></ul>\n</article>",
+   "t": "Wild London (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:16328": {
    "d": "Johnny Got His Gun (1971): War/Drama film. Story: A young American soldier, rendered in pseudocoma from… See cast, budget $1M, and TMDB rating 7.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/cnf41Zu7ue1VgYdJEIYRC9w5yhS.jpg",
@@ -194,6 +621,70 @@
    "t": "Psycho Goreman (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
   },
+  "movie:875828": {
+   "d": "Peaky Blinders: The Immortal Man (2026): Crime/Drama film. Story: After his estranged son gets embroiled in a Nazi… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
+   "industry": "world",
+   "k": "Peaky Blinders: The Immortal Man, Peaky Blinders: The Immortal Man movie, Peaky Blinders: The Immortal Man cast, Peaky Blinders: The Immortal Man story, Peaky Blinders: The Immortal Man box office collection, Peaky Blinders: The Immortal Man budget, Peaky Blinders: The Immortal Man review, Peaky Blinders: The Immortal Man rating, Peaky Blinders: The Immortal Man release date, Peaky Blinders: The Immortal Man trailer, Peaky Blinders: The Immortal Man Crime, Peaky Blinders: The Immortal Man Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Cillian Murphy"
+     },
+     {
+      "@type": "Person",
+      "name": "Barry Keoghan"
+     },
+     {
+      "@type": "Person",
+      "name": "Rebecca Ferguson"
+     },
+     {
+      "@type": "Person",
+      "name": "Tim Roth"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephen Graham"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1317,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Peaky Blinders: The Immortal Man (2026): Crime/Drama film. Story: After his estranged son gets embroiled in a Nazi… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tom Harper"
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=875828",
+    "name": "Peaky Blinders: The Immortal Man",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=875828"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Peaky Blinders: The Immortal Man (2026)</h1>\n<p class=\"ssr-lead\">After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family — and his nation.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 March 2026</li><li>Runtime: 112 minutes</li><li>Director: Tom Harper</li><li>Genres: Crime, Drama</li><li>TMDB rating: 7.2/10 (1317 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Cillian Murphy as Tommy Shelby</li><li>Barry Keoghan as Duke Shelby</li><li>Rebecca Ferguson as Kaulo / Zelda</li><li>Tim Roth as John Beckett</li><li>Stephen Graham as Hayden Stagg</li><li>Sophie Rundle as Ada Shelby</li><li>Ned Dennehy as Charlie Strong</li><li>Packy Lee as Johnny Dogs</li><li>Ian Peck as Curly</li><li>Jay Lycurgo as Elijah</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Peaky Blinders: The Immortal Man (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:9028": {
    "d": "The Great Silence (1968): Western/Drama film. Story: A mute gunslinger fights in the defense of a group of… See cast and TMDB rating 7.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/85B6S6eV5uF0AyaEQ79BcyLirty.jpg",
@@ -257,6 +748,66 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Great Silence (1968)</h1>\n<p class=\"ssr-lead\">A mute gunslinger fights in the defense of a group of outlaws and a vengeful young widow, against a group of ruthless bounty hunters.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 1968</li><li>Runtime: 107 minutes</li><li>Director: Sergio Corbucci</li><li>Genres: Western, Drama</li><li>TMDB rating: 7.5/10 (493 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean-Louis Trintignant as Silence</li><li>Klaus Kinski as Tigrero</li><li>Frank Wolff as Sheriff Gideon Corbett</li><li>Luigi Pistilli as Henry Pollicut</li><li>Mario Brega as Martin</li><li>Carlo D&#x27;Angelo as Utah Governor</li><li>Marisa Merlini as Regina</li><li>Maria Mizar as Blonde Saloon Girl</li><li>Marisa Sally as Black-Haired Saloon Girl</li><li>Raf Baldassarre as Bobo Schultz</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI, MUBI Amazon Channel, Film Movement Plus, Film Movement Plus Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The Great Silence (1968) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1968"
+  },
+  "movie:950028": {
+   "d": "The Invite (2026): Comedy/Drama film. Story: Joe and Angela's marriage is on thin ice. When they… See cast, budget $12M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+   "industry": "world",
+   "k": "The Invite, The Invite movie, The Invite cast, The Invite story, The Invite box office collection, The Invite budget, The Invite review, The Invite rating, The Invite release date, The Invite trailer, The Invite Comedy, The Invite Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Olivia Wilde"
+     },
+     {
+      "@type": "Person",
+      "name": "Seth Rogen"
+     },
+     {
+      "@type": "Person",
+      "name": "Penélope Cruz"
+     },
+     {
+      "@type": "Person",
+      "name": "Edward Norton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 960,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "The Invite (2026): Comedy/Drama film. Story: Joe and Angela's marriage is on thin ice. When they… See cast, budget $12M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Olivia Wilde"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=950028",
+    "name": "The Invite",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=950028"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Invite (2026)</h1>\n<p class=\"ssr-lead\">Joe and Angela&#x27;s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 June 2026</li><li>Runtime: 107 minutes</li><li>Director: Olivia Wilde</li><li>Genres: Comedy, Drama, Romance</li><li>Budget: $12M</li><li>TMDB rating: 7.2/10 (960 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Olivia Wilde as Angela</li><li>Seth Rogen as Joe</li><li>Penélope Cruz as Piña</li><li>Edward Norton as Hawk</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Zee5</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Invite (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:9828": {
    "d": "Unknown (2006): Mystery/Thriller film. Story: Five men wake up in a locked-down warehouse with no… See cast, budget $3.7M, and TMDB rating 6.2/10.",

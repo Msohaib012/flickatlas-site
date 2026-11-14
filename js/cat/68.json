@@ -1,6 +1,6 @@
 {
  "bucket": "68",
- "count": 13,
+ "count": 22,
  "titles": {
   "movie:11068": {
    "backdrop_path": "/n6z8b0qN9Sk3lNElgeJY6qfDU2L.jpg",
@@ -98,6 +98,207 @@
    "type": "movie",
    "vote_average": 6.414,
    "vote_count": 458
+  },
+  "movie:1306368": {
+   "backdrop_path": "/kwNIQW7egAmI66sb0zIugMbpCfU.jpg",
+   "budget": 100000000,
+   "cast": [
+    {
+     "c": "Lieutenant Dane Dumars",
+     "n": "Matt Damon"
+    },
+    {
+     "c": "Detective Sergeant J.D. Byrne",
+     "n": "Ben Affleck"
+    },
+    {
+     "c": "Detective Numa Baptistie",
+     "n": "Teyana Taylor"
+    },
+    {
+     "c": "Detective Mike Ro",
+     "n": "Steven Yeun"
+    },
+    {
+     "c": "Detective Lolo Salazar",
+     "n": "Catalina Sandino Moreno"
+    },
+    {
+     "c": "Desiree 'Desi' Lopez Molina",
+     "n": "Sasha Calle"
+    },
+    {
+     "c": "DEA Agent Mateo 'Matty' Nix",
+     "n": "Kyle Chandler"
+    },
+    {
+     "c": "FBI Agent Del Byrne",
+     "n": "Scott Adkins"
+    },
+    {
+     "c": "FBI Agent Logan Casiano",
+     "n": "Daisuke Tsuji"
+    },
+    {
+     "c": "Major Thom Vallejo",
+     "n": "Nestor Carbonell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Joe Carnahan"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 1306368,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
+   "popularity": 11.688,
+   "poster_path": "/4wsYWH73Hb1B6noGIFaRQSAkuXj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-13",
+   "revenue": 0,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Count the money. Count it again. Count on no one.",
+   "title": "The Rip",
+   "trailer": {
+    "key": "yeR5bcbRPak",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.073,
+   "vote_count": 2070
+  },
+  "movie:1396368": {
+   "backdrop_path": "/tlAT4zOqxGv0MCkDvuxJDx3nvKK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "María",
+     "n": "Macarena García"
+    },
+    {
+     "c": "Guille",
+     "n": "Ian Cortegoso"
+    },
+    {
+     "c": "Manuel",
+     "n": "Hugo Silva"
+    },
+    {
+     "c": "Roberto",
+     "n": "Jesús Carroza"
+    },
+    {
+     "c": "Paco",
+     "n": "Javier Aguayo"
+    },
+    {
+     "c": "Emilio",
+     "n": "Chema del Barco"
+    },
+    {
+     "c": "Secretaria",
+     "n": "Silvia Larrauri"
+    },
+    {
+     "c": "Fernando",
+     "n": "Daniel Mantero"
+    },
+    {
+     "c": "Alicia",
+     "n": "Esther Noya"
+    },
+    {
+     "c": "Amelia",
+     "n": "Eva Tirado"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Nacho La Casa"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1396368,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Maria, an inexperienced school psychologist, senses that behind the apparent happiness of an eight-year-old boy, who has just arrived at the school, lies a secret, the consequences of which are unpredictable. If she is to find out, she will have to decipher what Guille’s mind translates into drawings, as well as overcoming his father’s intransigence.",
+   "popularity": 1.0303,
+   "poster_path": "/dYnf11rPTqdoXONvVU3OgvNeMe6.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-15",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Son",
+   "trailer": {
+    "key": "U6aVs6Xdvxk",
+    "name": "A SON. Official trailer. May 8 in theaters.",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.2,
+   "vote_count": 21
   },
   "movie:14168": {
    "backdrop_path": "/7B26BW9ec2atiGwCkJJZ5POR4wC.jpg",
@@ -263,6 +464,717 @@
    "type": "movie",
    "vote_average": 7.3,
    "vote_count": 449
+  },
+  "movie:1431068": {
+   "backdrop_path": "/v4tFlu2kFJGumXHONjTe4FgzTFS.jpg",
+   "budget": 7300000,
+   "cast": [
+    {
+     "c": "Ishar Singh Grewal",
+     "n": "Naseeruddin Shah"
+    },
+    {
+     "c": "Young Ishar / 'Keenu'",
+     "n": "Vedang Raina"
+    },
+    {
+     "c": "Afsana Hasan / 'Jiya'",
+     "n": "Sharvari"
+    },
+    {
+     "c": "Nirvair Grewal",
+     "n": "Diljit Dosanjh"
+    },
+    {
+     "c": "Meher Grewal",
+     "n": "Anjana Sukhani"
+    },
+    {
+     "c": "Iqbal Grewal",
+     "n": "Rajat Kapoor"
+    },
+    {
+     "c": "Afzal",
+     "n": "Danish Pandor"
+    },
+    {
+     "c": "Kirpal / 'Pali'",
+     "n": "Vinod Nagpal"
+    },
+    {
+     "c": "Kaveri",
+     "n": "Banita Sandhu"
+    },
+    {
+     "c": "Dadi",
+     "n": "Dolly Ahluwalia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Imtiaz Ali"
+   ],
+   "genres": [
+    "Romance",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 1431068,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "Haunted by a childhood romance and recollections of love lost during the 1947 Partition of India, 95-year-old Ishar Singh Grewal shares his story with his grandson Nirvair, the past unfolding through memories of migration, longing, and a romance that endures across generations.",
+   "popularity": 3.223,
+   "poster_path": "/wHTNsZxvlfRAndc52hGlbdCUXKS.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-12",
+   "revenue": 9300000,
+   "runtime": 167,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi",
+    "ur",
+    "pa"
+   ],
+   "status": "Released",
+   "tagline": "A story of love and longing.",
+   "title": "Main Vaapas Aaunga",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 29
+  },
+  "movie:1471168": {
+   "backdrop_path": "/4pXBWLKMew7Xmtq3OgMQxTHp060.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ricardo Barreda",
+     "n": "Luis Machín"
+    },
+    {
+     "c": "Gladys McDonald",
+     "n": "Carla Peterson"
+    },
+    {
+     "c": "Elena Arreche",
+     "n": "Mercedes Morán"
+    },
+    {
+     "c": "Cecilia Barreda",
+     "n": "Maite Lanata"
+    },
+    {
+     "c": "Adriana Barreda",
+     "n": "Margarita Páez"
+    },
+    {
+     "c": "Dr. Caceres",
+     "n": "Marcelo Subiotto"
+    },
+    {
+     "c": "Pirucha",
+     "n": "Paola Barrientos"
+    },
+    {
+     "c": "Fiscal Roitman",
+     "n": "Alberto Ajaka"
+    },
+    {
+     "c": "Gastón",
+     "n": "Franco Rilla"
+    },
+    {
+     "c": "Periodista tribunales 2",
+     "n": "Christian Font"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M18",
+   "date_kind": "release",
+   "director": [
+    "Daniela Goggi"
+   ],
+   "genres": [
+    "Drama",
+    "Crime",
+    "History"
+   ],
+   "id": 1471168,
+   "industry": "world",
+   "origin_country": [
+    "AR"
+   ],
+   "original_language": "es",
+   "overview": "A fictionalized drama film based on one of the most shocking crimes in Argentina's history. In 1992, Ricardo Barreda was an unassuming dentist, brutally murdered his wife, mother-in-law, and two adult daughters in their family home. Branding himself as a victim, Ricardo Barreda ignited a media storm and fueled a national scandal.",
+   "popularity": 2.5083,
+   "poster_path": "/hnr0QkZSDLlrJTvU2ecco65wcHo.jpg",
+   "production_countries": [
+    "AR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-28",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "El Asesino Que Dividió A Un País",
+   "title": "Barreda",
+   "trailer": {
+    "key": "6Otcjy6Vp3A",
+    "name": "Barreda - Tráiler Oficial I Prime Video",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.173,
+   "vote_count": 101
+  },
+  "movie:1482168": {
+   "backdrop_path": "/eUDjpW2wQg2fvSFDohhkIZkjnFw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Guitar (archive footage)",
+     "n": "Hillel Slovak"
+    },
+    {
+     "c": "Self",
+     "n": "Anthony Kiedis"
+    },
+    {
+     "c": "Self",
+     "n": "Flea"
+    },
+    {
+     "c": "Self - Guitar & Vocals",
+     "n": "Alain Johannes"
+    },
+    {
+     "c": "Self - Drums",
+     "n": "Jack Irons"
+    },
+    {
+     "c": "Self - Hillel's Brother",
+     "n": "James Slovak"
+    },
+    {
+     "c": "Self - Performance Artist",
+     "n": "Gary Allen"
+    },
+    {
+     "c": "Self - Artist",
+     "n": "Addie Brik"
+    },
+    {
+     "c": "Self - Record Producer",
+     "n": "George Clinton"
+    },
+    {
+     "c": "Self - Record Producer",
+     "n": "Michael Beinhorn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ben Feldman"
+   ],
+   "genres": [
+    "Documentary",
+    "Music"
+   ],
+   "id": 1482168,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Explore the formative years of the Red Hot Chili Peppers and the profound influence of original bandmate Hillel Slovak.",
+   "popularity": 2.0766,
+   "poster_path": "/y9hHoO3eB7l3ZjYUZoJUJpZW22V.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-13",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel",
+   "trailer": {
+    "key": "Exs7-tOaQQY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.216,
+   "vote_count": 51
+  },
+  "movie:1508168": {
+   "backdrop_path": "/zms3m4kVz7RXmobU1B0nhrvUEmP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Justin Davis",
+     "n": "Nivin Pauly"
+    },
+    {
+     "c": "Ashley Thankachan",
+     "n": "Mamitha Baiju"
+    },
+    {
+     "c": "Joel Davis",
+     "n": "Sangeeth Prathap"
+    },
+    {
+     "c": "Baiju Xavier",
+     "n": "Suresh Krishna"
+    },
+    {
+     "c": "Kunjanty",
+     "n": "Bindu Panicker"
+    },
+    {
+     "c": "Alex",
+     "n": "Vinay Forrt"
+    },
+    {
+     "c": "Hari",
+     "n": "Shyam Mohan"
+    },
+    {
+     "c": "Reshma",
+     "n": "Srindaa"
+    },
+    {
+     "c": "Glikson",
+     "n": "Roshan Shanavas"
+    },
+    {
+     "c": "Brinto",
+     "n": "Shameer Khan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Girish A. D."
+   ],
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1508168,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "ml",
+   "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+   "popularity": 4.2398,
+   "poster_path": "/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-21",
+   "revenue": 0,
+   "runtime": 155,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ml"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Bethlehem Kudumba Unit",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.261,
+   "vote_count": 44
+  },
+  "movie:1558568": {
+   "backdrop_path": "/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Olga",
+     "n": "Alexandra Jiménez"
+    },
+    {
+     "c": "Pepa",
+     "n": "Maribel Verdú"
+    },
+    {
+     "c": "Domingo",
+     "n": "Pedro Casablanc"
+    },
+    {
+     "c": "Marco",
+     "n": "Raúl Tejón"
+    },
+    {
+     "c": "Laura",
+     "n": "Blanca Martínez"
+    },
+    {
+     "c": "Sergio",
+     "n": "Victor Rebull"
+    },
+    {
+     "c": "Padilla",
+     "n": "Pepe Viyuela"
+    },
+    {
+     "c": "Aldo Mochales",
+     "n": "Saturnino García"
+    },
+    {
+     "c": "Parrondo",
+     "n": "Ismael Fritschi"
+    },
+    {
+     "c": "Natalia",
+     "n": "Clara de Ramon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Diego Núñez Irigoyen"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1558568,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "When their team-building event gets downgraded to a tiny village, a cheese company's staff think it can't get worse — then they learn about the layoffs.",
+   "popularity": 2.9676,
+   "poster_path": "/jM8LRvzYIqZqw6Si5xNECiHFDgM.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-11",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The same f**king team building every year.",
+   "title": "Go Team!",
+   "trailer": {
+    "key": "VSN8YM6urHo",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 55
+  },
+  "movie:1643768": {
+   "backdrop_path": "/yOkXnvEWxm7TVBeutGXJXWzwdfe.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carlo Acutis",
+     "n": "Samuele Carrino"
+    },
+    {
+     "c": "Carlo Acutis a 6 anni",
+     "n": "Nicolò Caruz Jaramillo"
+    },
+    {
+     "c": "Carlo Acutis a 11 anni",
+     "n": "Edoardo Vitalone"
+    },
+    {
+     "c": "Antonia Salzano",
+     "n": "Lucia Mascino"
+    },
+    {
+     "c": "Andrea Acutis",
+     "n": "Flavio Parenti"
+    },
+    {
+     "c": "Rajesh",
+     "n": "Brayan Palliyagoda"
+    },
+    {
+     "c": "Parroco",
+     "n": "Maurizio Donadoni"
+    },
+    {
+     "c": "Sofia",
+     "n": "Nicky Passarella"
+    },
+    {
+     "c": "Alessio",
+     "n": "Niccolò Festini Mira"
+    },
+    {
+     "c": "Ricki",
+     "n": "Stefano Massari"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Giacomo Campiotti"
+   ],
+   "genres": [
+    "Drama",
+    "TV Movie"
+   ],
+   "id": 1643768,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "The movie traces three key moments: the six-year-old boy, already driven by an extraordinary spiritual sensitivity; the eleven-year-old boy, curious and brilliant; and the fifteen-year-old in his first year of high school, self-aware and determined, capable of approaching everyday life with an extraordinary outlook.",
+   "popularity": 1.9452,
+   "poster_path": "/eUDCOHe5LFSo9Dn6QNXxFiVzpjY.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-27",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "The movie about Carlo Acutis's life.",
+   "title": "Il mio nome è Carlo",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.02,
+   "vote_count": 25
+  },
+  "movie:1645368": {
+   "backdrop_path": "/37LuuL6AFYr6vj0EOTpev9pJMi3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Samuel Paty",
+     "n": "Antoine Reinartz"
+    },
+    {
+     "c": "Audrey Fouillard",
+     "n": "Emmanuelle Bercot"
+    },
+    {
+     "c": "Kader Saïdi",
+     "n": "Nedjim Bouizzoul"
+    },
+    {
+     "c": "Bachira Saïdi",
+     "n": "Emma Boumali"
+    },
+    {
+     "c": "Tahar Amara",
+     "n": "Azize Kabouche"
+    },
+    {
+     "c": "Firmine, la gardienne",
+     "n": "Marie-Sohna Condé"
+    },
+    {
+     "c": "Guislain",
+     "n": "Jean-Michel Lahmi"
+    },
+    {
+     "c": "Madou",
+     "n": "Nhoa François"
+    },
+    {
+     "c": "Karim",
+     "n": "Marwan Zeghoudi"
+    },
+    {
+     "c": "Wandel",
+     "n": "Etienne Guillou-Kervern"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12+",
+   "date_kind": "release",
+   "director": [
+    "Vincent Garenq"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1645368,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Everyone knows the name of Samuel Paty, but few people really know his story. On October 16, 2020, Samuel Paty, professor of History-Geography, was murdered at the end of his college. In the light of investigations and trials, this film looks back on his last eleven days, and the gear that led to his tragic death.",
+   "popularity": 1.3277,
+   "poster_path": "/kfUKP5IgzgLQyQD1MDt99yq9Af0.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-13",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Forsaken",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.479,
+   "vote_count": 73
   },
   "movie:25468": {
    "backdrop_path": "/r3zwnGMmRb7LaDNQluHVXAkZNoY.jpg",

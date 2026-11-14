@@ -1,7 +1,646 @@
 {
  "bucket": "15",
- "count": 12,
+ "count": 22,
  "titles": {
+  "movie:1280015": {
+   "d": "Sunny Dancer (2026): Drama/Comedy film. Story: Reluctantly sent to a summer retreat for young cancer… See cast and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hRsl1RMijpUCtLH3nZzRMnTjFYl.jpg",
+   "industry": "world",
+   "k": "Sunny Dancer, Sunny Dancer movie, Sunny Dancer cast, Sunny Dancer story, Sunny Dancer box office collection, Sunny Dancer budget, Sunny Dancer review, Sunny Dancer rating, Sunny Dancer release date, Sunny Dancer trailer, Sunny Dancer Drama, Sunny Dancer Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bella Ramsey"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Quinn-Toye"
+     },
+     {
+      "@type": "Person",
+      "name": "Ruby Stokes"
+     },
+     {
+      "@type": "Person",
+      "name": "Earl Cave"
+     },
+     {
+      "@type": "Person",
+      "name": "Conrad Khan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 26,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Sunny Dancer (2026): Drama/Comedy film. Story: Reluctantly sent to a summer retreat for young cancer… See cast and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "George Jaques"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hRsl1RMijpUCtLH3nZzRMnTjFYl.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1280015",
+    "name": "Sunny Dancer",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1280015"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sunny Dancer (2026)</h1>\n<p class=\"ssr-lead\">Reluctantly sent to a summer retreat for young cancer survivors, a teenager in remission unexpectedly finds deep connections and new beginnings among fellow campers.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 August 2026</li><li>Runtime: 106 minutes</li><li>Director: George Jaques</li><li>Genres: Drama, Comedy</li><li>TMDB rating: 7.1/10 (26 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bella Ramsey as Ivy</li><li>Daniel Quinn-Toye as Jake</li><li>Ruby Stokes as Ella</li><li>Earl Cave as Ralph</li><li>Conrad Khan as Archie</li><li>Jasmine Elcock as Masie</li><li>Neil Patrick Harris as Patrick</li><li>Jessica Gunning as Karen</li><li>James Norton as Bob</li><li>Shalom Brune-Franklin as Lucy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Sunny Dancer (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1283515": {
+   "d": "Verity (2026): Mystery/Thriller film. Story: Lowen Ashleigh, hired to ghostwrite for best-selling… See cast, budget $40M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+   "industry": "world",
+   "k": "Verity, Verity movie, Verity cast, Verity story, Verity box office collection, Verity budget, Verity review, Verity rating, Verity release date, Verity trailer, Verity Mystery, Verity Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dakota Johnson"
+     },
+     {
+      "@type": "Person",
+      "name": "Anne Hathaway"
+     },
+     {
+      "@type": "Person",
+      "name": "Josh Hartnett"
+     },
+     {
+      "@type": "Person",
+      "name": "Brady Wagner"
+     },
+     {
+      "@type": "Person",
+      "name": "Ismael Cruz Cordova"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 686,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Verity (2026): Mystery/Thriller film. Story: Lowen Ashleigh, hired to ghostwrite for best-selling… See cast, budget $40M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Showalter"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Mystery",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1283515",
+    "name": "Verity",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1283515"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Verity (2026)</h1>\n<p class=\"ssr-lead\">Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity&#x27;s autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 October 2026</li><li>Runtime: 117 minutes</li><li>Director: Michael Showalter</li><li>Genres: Mystery, Thriller</li><li>Budget: $40M</li><li>TMDB rating: 7.0/10 (686 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dakota Johnson as Lowen Ashleigh</li><li>Anne Hathaway as Verity Crawford</li><li>Josh Hartnett as Jeremy Crawford</li><li>Brady Wagner as Crew Crawford</li><li>Ismael Cruz Cordova as Corey</li><li>Iryna Dvorovenko as Anna</li><li>Sienna Kulovitz as Harper Crawford</li><li>K.K. Moggie as Amanda Thomas</li><li>Tom Galantich as Barron Stephens</li><li>Lou Martini Jr. as Limo Driver</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Verity (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1292415": {
+   "d": "Beast (2026): Action/Drama film. Story: MMA legend Patton James, now a commercial fisherman… See cast, budget $13M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg",
+   "industry": "world",
+   "k": "Beast, Beast movie, Beast cast, Beast story, Beast box office collection, Beast budget, Beast review, Beast rating, Beast release date, Beast trailer, Beast Action, Beast Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Daniel MacPherson"
+     },
+     {
+      "@type": "Person",
+      "name": "Luke Hemsworth"
+     },
+     {
+      "@type": "Person",
+      "name": "Russell Crowe"
+     },
+     {
+      "@type": "Person",
+      "name": "Mojean Aria"
+     },
+     {
+      "@type": "Person",
+      "name": "Kelly Gale"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 227,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Beast (2026): Action/Drama film. Story: MMA legend Patton James, now a commercial fisherman… See cast, budget $13M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tyler Atkins"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1292415",
+    "name": "Beast",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1292415"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Beast (2026)</h1>\n<p class=\"ssr-lead\">MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 April 2026</li><li>Runtime: 115 minutes</li><li>Director: Tyler Atkins</li><li>Genres: Action, Drama</li><li>Budget: $13M</li><li>TMDB rating: 7.5/10 (227 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Daniel MacPherson as Patton</li><li>Luke Hemsworth as Gabriel</li><li>Russell Crowe as Sammy</li><li>Mojean Aria as Malon James</li><li>Kelly Gale as Luciana</li><li>George Burgess as Neal</li><li>Nathan Phillips as Skipper</li><li>Sol Nc Carrico as Maddie</li><li>Bren Foster as Xavier Grau</li><li>Saphira Moran as Nadine</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Beast (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1305715": {
+   "d": "Unexpected Family (2026): Comedy/Drama film. Story: When an aging local starts to lose his memory, those… See cast and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/aKAtFSge7SwJeEtzxJWkTDQQfJa.jpg",
+   "industry": "world",
+   "k": "Unexpected Family, Unexpected Family movie, Unexpected Family cast, Unexpected Family story, Unexpected Family box office collection, Unexpected Family budget, Unexpected Family review, Unexpected Family rating, Unexpected Family release date, Unexpected Family Comedy, Unexpected Family Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jackie Chan"
+     },
+     {
+      "@type": "Person",
+      "name": "Peng Yuchang"
+     },
+     {
+      "@type": "Person",
+      "name": "Jiaming Zhang"
+     },
+     {
+      "@type": "Person",
+      "name": "Pan Binlong"
+     },
+     {
+      "@type": "Person",
+      "name": "Ping Li"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 47,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "Unexpected Family (2026): Comedy/Drama film. Story: When an aging local starts to lose his memory, those… See cast and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Li Taiyan"
+     }
+    ],
+    "duration": "PT121M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aKAtFSge7SwJeEtzxJWkTDQQfJa.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1305715",
+    "name": "Unexpected Family",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1305715"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Unexpected Family (2026)</h1>\n<p class=\"ssr-lead\">When an aging local starts to lose his memory, those around him decide to recreate an important family moment in his life for him to relive. What they discover isn&#x27;t what they expect — about both themselves and about the mysterious man&#x27;s past.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 January 2026</li><li>Runtime: 121 minutes</li><li>Director: Li Taiyan</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 8.0/10 (47 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jackie Chan</li><li>Peng Yuchang</li><li>Jiaming Zhang</li><li>Pan Binlong</li><li>Ping Li</li><li>Chen Haoming as Live Blogger</li><li>Feng Bing as Dr. Wu</li><li>傅晓娜 as Old Lady</li><li>Darren Grosvenor as Judge</li><li>Guo Yiyang as Groom</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Rakuten Viki, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Unexpected Family (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1376415": {
+   "d": "The Money Maker (2026): History/Drama film. Story: A Polish engineer relocates to France and becomes a… See cast and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hKC8k08rgIyXFVQXrp1izEAWwL1.jpg",
+   "industry": "world",
+   "k": "The Money Maker, The Money Maker movie, The Money Maker cast, The Money Maker story, The Money Maker box office collection, The Money Maker budget, The Money Maker review, The Money Maker rating, The Money Maker release date, The Money Maker trailer, The Money Maker History, The Money Maker Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Reda Kateb"
+     },
+     {
+      "@type": "Person",
+      "name": "Sara Giraudeau"
+     },
+     {
+      "@type": "Person",
+      "name": "Bastien Bouillon"
+     },
+     {
+      "@type": "Person",
+      "name": "Quentin Dolmaire"
+     },
+     {
+      "@type": "Person",
+      "name": "Pierre Lottin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 199,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Money Maker (2026): History/Drama film. Story: A Polish engineer relocates to France and becomes a… See cast and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jean-Paul Salomé"
+     }
+    ],
+    "duration": "PT128M",
+    "genre": [
+     "History",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hKC8k08rgIyXFVQXrp1izEAWwL1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1376415",
+    "name": "The Money Maker",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1376415"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Money Maker (2026)</h1>\n<p class=\"ssr-lead\">A Polish engineer relocates to France and becomes a legendary counterfeiter. Working solo, he crafts flawless fake francs worth millions over 14 years, earning the nickname &quot;Cézanne of counterfeit money&quot; for his artistic skill and output.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 January 2026</li><li>Runtime: 128 minutes</li><li>Director: Jean-Paul Salomé</li><li>Genres: History, Drama, Crime</li><li>TMDB rating: 7.1/10 (199 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Reda Kateb as Jan Bojarski</li><li>Sara Giraudeau as Suzanne Bojarski</li><li>Bastien Bouillon as André Mattéi</li><li>Quentin Dolmaire as Perrier</li><li>Pierre Lottin as Anton Dowgierd</li><li>Camille Japy as Anaïs</li><li>Lolita Chammah as Françoise Mattéi</li><li>Olivier Loustau as Lucien Scola</li><li>Arthur Teboul as Pollet</li><li>Victor Poirier as Serge</li></ul>\n</article>",
+   "t": "The Money Maker (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1386315": {
+   "d": "The Runner (2026): Thriller/Action film. Story: Maia Marten, a brilliant London lawyer, has her life… See cast and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
+   "industry": "world",
+   "k": "The Runner, The Runner movie, The Runner cast, The Runner story, The Runner box office collection, The Runner budget, The Runner review, The Runner rating, The Runner release date, The Runner trailer, The Runner Thriller, The Runner Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gal Gadot"
+     },
+     {
+      "@type": "Person",
+      "name": "Damian Lewis"
+     },
+     {
+      "@type": "Person",
+      "name": "Rory Wilmot"
+     },
+     {
+      "@type": "Person",
+      "name": "Alfred Enoch"
+     },
+     {
+      "@type": "Person",
+      "name": "Phoenix Di Sebastiani"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 722,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "The Runner (2026): Thriller/Action film. Story: Maia Marten, a brilliant London lawyer, has her life… See cast and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kevin Macdonald"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Thriller",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1386315",
+    "name": "The Runner",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1386315"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Runner (2026)</h1>\n<p class=\"ssr-lead\">Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 September 2026</li><li>Runtime: 86 minutes</li><li>Director: Kevin Macdonald</li><li>Genres: Thriller, Action</li><li>TMDB rating: 6.7/10 (722 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gal Gadot as Maia</li><li>Damian Lewis as The Caller</li><li>Rory Wilmot as Noah</li><li>Alfred Enoch as Ted</li><li>Phoenix Di Sebastiani as Tafa</li><li>Nathan Kirby as Wiry Dude</li><li>Hélder Fernandes as Buddy</li><li>Will Austin as NCA Officer 1</li><li>Mark Hampton as NCA Officer 2</li><li>Stevie Binns as NCA Officer 3</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "The Runner (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1458215": {
+   "d": "The Gentleman Thief (2026): Action/Crime film. Story: A retired master thief must protect his impulsive… See cast and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/iar5GAkSX1LswFFxMTbHHR3zxMf.jpg",
+   "industry": "world",
+   "k": "The Gentleman Thief, The Gentleman Thief movie, The Gentleman Thief cast, The Gentleman Thief story, The Gentleman Thief box office collection, The Gentleman Thief budget, The Gentleman Thief review, The Gentleman Thief rating, The Gentleman Thief release date, The Gentleman Thief trailer, The Gentleman Thief Action, The Gentleman Thief Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "John Travolta"
+     },
+     {
+      "@type": "Person",
+      "name": "Lukas Haas"
+     },
+     {
+      "@type": "Person",
+      "name": "Rebecca De Mornay"
+     },
+     {
+      "@type": "Person",
+      "name": "Danny Pardo"
+     },
+     {
+      "@type": "Person",
+      "name": "Beau Bommarito"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 35,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "The Gentleman Thief (2026): Action/Crime film. Story: A retired master thief must protect his impulsive… See cast and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Randall Emmett"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iar5GAkSX1LswFFxMTbHHR3zxMf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1458215",
+    "name": "The Gentleman Thief",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1458215"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Gentleman Thief (2026)</h1>\n<p class=\"ssr-lead\">A retired master thief must protect his impulsive brother from disaster when a 100 million dollar yacht heist spirals into a dangerous web of deception. Old foes emerge as the stakes rise, forcing him to use every trick he knows to stay alive.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 October 2026</li><li>Runtime: 97 minutes</li><li>Director: Randall Emmett</li><li>Genres: Action, Crime, Thriller, TV Movie</li><li>TMDB rating: 5.6/10 (35 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Travolta as Mason Goddard</li><li>Lukas Haas as Shawn Goddard</li><li>Rebecca De Mornay as Odessa</li><li>Danny Pardo as Abel Salzar</li><li>Beau Bommarito as Caras</li><li>Emily Skinner as Violet</li><li>Joel Cohen as Agent Richter</li><li>Sam Asghari as Victor</li><li>Natali Yura as Link</li><li>Quavo as Anton</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Gentleman Thief (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1466115": {
+   "d": "Even If This Love Disappears Tonight (2025): Romance/Drama film. Story: A high school girl wakes up each day with no memory… See cast and TMDB rating 8.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/iL5eGI9ctHdUOV4yG6dyGKctSEX.jpg",
+   "industry": "world",
+   "k": "Even If This Love Disappears Tonight, Even If This Love Disappears Tonight movie, Even If This Love Disappears Tonight cast, Even If This Love Disappears Tonight story, Even If This Love Disappears Tonight box office collection, Even If This Love Disappears Tonight budget, Even If This Love Disappears Tonight review, Even If This Love Disappears Tonight rating, Even If This Love Disappears Tonight release date, Even If This Love Disappears Tonight trailer, Even If This Love Disappears Tonight Romance, Even If This Love Disappears Tonight Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Choo Young-woo"
+     },
+     {
+      "@type": "Person",
+      "name": "Shin Sia"
+     },
+     {
+      "@type": "Person",
+      "name": "Cho Yu-jung"
+     },
+     {
+      "@type": "Person",
+      "name": "Jin Ho-eun"
+     },
+     {
+      "@type": "Person",
+      "name": "Cho Han-chul"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 250,
+     "ratingValue": 8.5,
+     "worstRating": 0
+    },
+    "description": "Even If This Love Disappears Tonight (2025): Romance/Drama film. Story: A high school girl wakes up each day with no memory… See cast and TMDB rating 8.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kim Hye-young"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iL5eGI9ctHdUOV4yG6dyGKctSEX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1466115",
+    "name": "Even If This Love Disappears Tonight",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1466115"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Even If This Love Disappears Tonight (2025)</h1>\n<p class=\"ssr-lead\">A high school girl wakes up each day with no memory of yesterday. When she agrees to date a shy classmate, can their love grow with every new beginning?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 December 2025</li><li>Runtime: 106 minutes</li><li>Director: Kim Hye-young</li><li>Genres: Romance, Drama</li><li>TMDB rating: 8.5/10 (250 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Choo Young-woo as Kim Jae-won</li><li>Shin Sia as Han Seo-yoon</li><li>Cho Yu-jung as Choi Ji-min</li><li>Jin Ho-eun as Jeong Tae-hoon</li><li>Cho Han-chul as Kim Seong-hyeon</li><li>Lee Chae-kyung as Doctor</li><li>Jang Yoo-sang as Korean Teacher</li><li>Yun Ki-chang as Math Teacher</li><li>Yoo Ah-reum as Jae-won&#x27;s Mother</li><li>Lee Gyeong-hwa as Seo-yoon&#x27;s Mother</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Even If This Love Disappears Tonight (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1515615": {
+   "d": "Kissing Is the Easy Part (2026): Romance/Comedy film. Story: Sean's gunning for MIT. Flora's ditching the SAT. A… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7yuHdP85F2ZxhKbSoPgCBT9uJT3.jpg",
+   "industry": "world",
+   "k": "Kissing Is the Easy Part, Kissing Is the Easy Part movie, Kissing Is the Easy Part cast, Kissing Is the Easy Part story, Kissing Is the Easy Part box office collection, Kissing Is the Easy Part budget, Kissing Is the Easy Part review, Kissing Is the Easy Part rating, Kissing Is the Easy Part release date, Kissing Is the Easy Part trailer, Kissing Is the Easy Part Romance, Kissing Is the Easy Part Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Asher Angel"
+     },
+     {
+      "@type": "Person",
+      "name": "Paris Berelc"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Robertson"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Keat"
+     },
+     {
+      "@type": "Person",
+      "name": "Rosalie Turmel"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 107,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Kissing Is the Easy Part (2026): Romance/Comedy film. Story: Sean's gunning for MIT. Flora's ditching the SAT. A… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Fawzia Mirza"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7yuHdP85F2ZxhKbSoPgCBT9uJT3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1515615",
+    "name": "Kissing Is the Easy Part",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1515615"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Kissing Is the Easy Part (2026)</h1>\n<p class=\"ssr-lead\">Sean&#x27;s gunning for MIT. Flora&#x27;s ditching the SAT. A secret deal with her tenured parents sparks a romance that challenges everything they believe in.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 February 2026</li><li>Runtime: 101 minutes</li><li>Director: Fawzia Mirza</li><li>Genres: Romance, Comedy</li><li>TMDB rating: 7.2/10 (107 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Asher Angel as Sean Foster</li><li>Paris Berelc as Flora Morgan</li><li>Jennifer Robertson as Erin Foster</li><li>Tom Keat as Denny</li><li>Rosalie Turmel as Lindsey Foster</li><li>Daniel Falk as Mark</li><li>Sorika Horng as Alice</li><li>Mark Ballantyne as Tucker</li><li>Roshahn Dhoré as Raymond</li><li>Hayley Festeryga as Josie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store, Amazon Video</li></ul>\n</article>",
+   "t": "Kissing Is the Easy Part (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1584215": {
+   "d": "The Internship (2026): Action film. Story: A CIA-trained assassin recruits other graduates from… See cast, TMDB rating 6.4/10, and release date 13 January 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg",
+   "industry": "world",
+   "k": "The Internship, The Internship movie, The Internship cast, The Internship story, The Internship box office collection, The Internship budget, The Internship review, The Internship rating, The Internship release date, The Internship trailer, The Internship Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lizzy Greene"
+     },
+     {
+      "@type": "Person",
+      "name": "Megan Boone"
+     },
+     {
+      "@type": "Person",
+      "name": "Sky Katz"
+     },
+     {
+      "@type": "Person",
+      "name": "Philip Winchester"
+     },
+     {
+      "@type": "Person",
+      "name": "Alix Villaret"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 149,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "The Internship (2026): Action film. Story: A CIA-trained assassin recruits other graduates from… See cast, TMDB rating 6.4/10, and release date 13 January 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James Bamford"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1584215",
+    "name": "The Internship",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1584215"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Internship (2026)</h1>\n<p class=\"ssr-lead\">A CIA-trained assassin recruits other graduates from her secret childhood program, The Internship, to violently destroy the organization. The CIA fights back with deadly force.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 January 2026</li><li>Runtime: 91 minutes</li><li>Director: James Bamford</li><li>Genres: Action</li><li>TMDB rating: 6.4/10 (149 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lizzy Greene as Renee</li><li>Megan Boone as Candace Dalton</li><li>Sky Katz as Apothecary</li><li>Philip Winchester as Dick Jones</li><li>Alix Villaret as Dagger</li><li>Ollie Roddy as Rubicon</li><li>Kaine Buffonge as Caliber</li><li>Will Pierson as Analyst</li><li>Jonas Armstrong as Vlad Kurchenko</li><li>Sullivan Stapleton</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Internship (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:24615": {
    "d": "Aloha Scooby-Doo! (2005): Mystery/Family film. Story: The Mystery Gang goes to Hawaii for the Big Kahuna of… See cast and TMDB rating 7.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/7gvgpPaDmqPEIMaZTz04Zwhe8dP.jpg",

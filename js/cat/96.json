@@ -1,6 +1,6 @@
 {
  "bucket": "96",
- "count": 20,
+ "count": 28,
  "titles": {
   "movie:12596": {
    "backdrop_path": "/9nFpMbSWebfdGlAxFyPHn9eyIvY.jpg",
@@ -152,6 +152,847 @@
    "type": "movie",
    "vote_average": 5.889,
    "vote_count": 459
+  },
+  "movie:1309396": {
+   "backdrop_path": "/qNtbEnmHjNDwhdgzgaIhn7BLLk9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rémi Allard",
+     "n": "Vincent Macaigne"
+    },
+    {
+     "c": "Patricia",
+     "n": "Cécile de France"
+    },
+    {
+     "c": "Audrey",
+     "n": "Zoé Marchal"
+    },
+    {
+     "c": "Domi",
+     "n": "Adèle Journeaux"
+    },
+    {
+     "c": "Bernard",
+     "n": "Gilbert Melki"
+    },
+    {
+     "c": "Rosy",
+     "n": "Marianne Basler"
+    },
+    {
+     "c": "Eric",
+     "n": "Ludovic Thievon"
+    },
+    {
+     "c": "Hervé",
+     "n": "Eric Guerin"
+    },
+    {
+     "c": "Renan",
+     "n": "Victor Bonnel"
+    },
+    {
+     "c": "Louis",
+     "n": "Souleymane Sylla"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Sophie Beaulieu"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 1309396,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Eastern France, nowadays.  Rémi, who has never recovered from a heartbreak, shares his life with a doll called Audrey. But the day his new coworker, Patricia, arrives at his company, Audrey comes to life. The two women will turn Rémi’s life upside down.",
+   "popularity": 1.2458,
+   "poster_path": "/beVlVuYI0ZVb9AMyxwbQlUvaiqp.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-22",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Doll",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 37
+  },
+  "movie:1392796": {
+   "backdrop_path": "/v8tpkxm7AhLu69eaZKJLsNaSL5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Greg (voice)",
+     "n": "Aaron D. Harris"
+    },
+    {
+     "c": "Frank (voice)",
+     "n": "Chris Diamantopoulos"
+    },
+    {
+     "c": "Susan (voice)",
+     "n": "Erica Cerra"
+    },
+    {
+     "c": "Rodrick (voice)",
+     "n": "Hunter Dillon"
+    },
+    {
+     "c": "Rowley (voice)",
+     "n": "Jude Zarzaur"
+    },
+    {
+     "c": "Manny (voice)",
+     "n": "Gracen Newton"
+    },
+    {
+     "c": "Mrs. Canfield (voice)",
+     "n": "Jill Basey"
+    },
+    {
+     "c": "Mr. Warren (voice)",
+     "n": "Bashir Salahuddin"
+    },
+    {
+     "c": "Troopmaster Barrett (voice)",
+     "n": "William Stanford Davis"
+    },
+    {
+     "c": "Lenwood (voice)",
+     "n": "Jabari Banks"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Matt Danner"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Comedy"
+   ],
+   "id": 1392796,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When laidback Greg finds himself at odds with his dad's outsized expectations, pressure builds to turn his act around. After a series of hilarious near disasters, Greg's dad presents him with an ultimatum that just might challenge his wimpy ways for good.",
+   "popularity": 5.2255,
+   "poster_path": "/emcCjpC289NxAGuVwlItHCTrgT7.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-04",
+   "revenue": 0,
+   "runtime": 78,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Prepare to go where no wimpy kid has gone before.",
+   "title": "Diary of a Wimpy Kid: The Last Straw",
+   "trailer": {
+    "key": "PYIphkVE5jQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.587,
+   "vote_count": 46
+  },
+  "movie:1437396": {
+   "backdrop_path": "/45Mbs6dmn2W0hvuyxXPDkKREHpP.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Latif",
+     "n": "Mahershala Ali"
+    },
+    {
+     "c": "Pastor Kwan",
+     "n": "John Cho"
+    },
+    {
+     "c": "Abdul Malik",
+     "n": "Giancarlo Esposito"
+    },
+    {
+     "c": "Hatty",
+     "n": "Abubakr Ali"
+    },
+    {
+     "c": "Mike Mahmoudi",
+     "n": "Laith Nakli"
+    },
+    {
+     "c": "Fatiha",
+     "n": "Adia"
+    },
+    {
+     "c": "Qadir",
+     "n": "Jahleel Kamara"
+    },
+    {
+     "c": "Fugazi",
+     "n": "Tiffany Boone"
+    },
+    {
+     "c": "Talib",
+     "n": "Tramell Tillman"
+    },
+    {
+     "c": "Elder Wade",
+     "n": "John Henry Ward"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Bassam Tariq"
+   ],
+   "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 1437396,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within.",
+   "popularity": 47.751,
+   "poster_path": "/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-16",
+   "revenue": 3396884,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ar"
+   ],
+   "status": "Released",
+   "tagline": "To be a parent is to be at war.",
+   "title": "Your Mother Your Mother Your Mother",
+   "trailer": {
+    "key": "uEcoV-ngH38",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.627,
+   "vote_count": 63
+  },
+  "movie:1437696": {
+   "backdrop_path": "/zKoBjLggS4v22a9ZiCvmLaZrht7.jpg",
+   "budget": 11700000,
+   "cast": [
+    {
+     "c": "Erika Mann",
+     "n": "Sandra Hüller"
+    },
+    {
+     "c": "Thomas Mann",
+     "n": "Hanns Zischler"
+    },
+    {
+     "c": "Klaus Mann",
+     "n": "August Diehl"
+    },
+    {
+     "c": "Betty Knox",
+     "n": "Anna Madeley"
+    },
+    {
+     "c": "Johannes R. Becher",
+     "n": "Devid Striesow"
+    },
+    {
+     "c": "Arthur Quint",
+     "n": "David Menkin"
+    },
+    {
+     "c": "Gustaf Gründgens",
+     "n": "Joachim Meyerhoff"
+    },
+    {
+     "c": "Wieland Wagner",
+     "n": "Enno Trebs"
+    },
+    {
+     "c": "Wolfgang Wagner",
+     "n": "Theo Trebs"
+    },
+    {
+     "c": "Mayor of Frankfurt",
+     "n": "Waldemar Kobus"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "ATP",
+   "date_kind": "release",
+   "director": [
+    "Paweł Pawlikowski"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 1437696,
+   "industry": "world",
+   "origin_country": [
+    "PL"
+   ],
+   "original_language": "pl",
+   "overview": "In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar.",
+   "popularity": 24.932,
+   "poster_path": "/oNejN1l69nBF8LdQwy5FkAQZT44.jpg",
+   "production_countries": [
+    "PL",
+    "DE",
+    "FR",
+    "IT",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-19",
+   "revenue": 6756618,
+   "runtime": 82,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en",
+    "ru",
+    "fr",
+    "pl"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Fatherland",
+   "trailer": {
+    "key": "52zHLYf25M0",
+    "name": "Official Trailer #2 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.25,
+   "vote_count": 74
+  },
+  "movie:1480596": {
+   "backdrop_path": "/kz7iMc4u9x0i3KCfIu7vnWOYo84.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Pio",
+     "n": "Pio D'Antini"
+    },
+    {
+     "c": "Amedeo",
+     "n": "Amedeo Grieco"
+    },
+    {
+     "c": "Marina",
+     "n": "Ester Pantano"
+    },
+    {
+     "c": "Mario",
+     "n": "Lino Banfi"
+    },
+    {
+     "c": "",
+     "n": "Emanuele Pacca"
+    },
+    {
+     "c": "Francesca",
+     "n": "Cristina Marino"
+    },
+    {
+     "c": "Angela",
+     "n": "Mariana Lupo"
+    },
+    {
+     "c": "Rita",
+     "n": "Adriana De Meo"
+    },
+    {
+     "c": "Luca",
+     "n": "Emanuele La Torre"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Pio D'Antini",
+    "Amedeo Grieco"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1480596,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Pio runs a rehabilitation center for young people, Amedeo a nursing home.",
+   "popularity": 0.8116,
+   "poster_path": "/xbBW4jBZHLMclWn9D6Dfbp8ymMI.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2025-11-27",
+   "revenue": 10135819,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Oi vita mia",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 81
+  },
+  "movie:1507696": {
+   "backdrop_path": "/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Roberto",
+     "n": "Carlos Alcaide"
+    },
+    {
+     "c": "Marina",
+     "n": "Julia Martínez"
+    },
+    {
+     "c": "Pritchenko",
+     "n": "José María Yázpik"
+    },
+    {
+     "c": "Castro",
+     "n": "Mónica López"
+    },
+    {
+     "c": "Comillas",
+     "n": "Tamara Casellas"
+    },
+    {
+     "c": "Lucía",
+     "n": "Berta Vázquez"
+    },
+    {
+     "c": "Core",
+     "n": "Santiago Vaca Narvaja"
+    },
+    {
+     "c": "Comandante De Luna",
+     "n": "Mario Mayo"
+    },
+    {
+     "c": "González-Escalona",
+     "n": "Javier Godino"
+    },
+    {
+     "c": "Guzmán",
+     "n": "Pedro Hernández"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Carles Torrens"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Horror"
+   ],
+   "id": 1507696,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+   "popularity": 275.185,
+   "poster_path": "/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-09",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Apocalypse Z: New World",
+   "trailer": {
+    "key": "BIEzwpyawtw",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.197,
+   "vote_count": 203
+  },
+  "movie:1558796": {
+   "backdrop_path": "/bfJ2MvS4wixkQ7tQX0a87q1XYlE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Katie Cartwright",
+     "n": "Sofia Black-D'Elia"
+    },
+    {
+     "c": "Tedi Mayo",
+     "n": "Carmen Christopher"
+    },
+    {
+     "c": "Amelia Nadler",
+     "n": "Jo Firestone"
+    },
+    {
+     "c": "Sunny Football",
+     "n": "John Reynolds"
+    },
+    {
+     "c": "Curtis Eldridge",
+     "n": "Gary Richardson"
+    },
+    {
+     "c": "Ron Felker",
+     "n": "Nate Varrone"
+    },
+    {
+     "c": "Claire Dubois",
+     "n": "Roberta Colindrez"
+    },
+    {
+     "c": "Victoria Mayo",
+     "n": "Jackie Cruz"
+    },
+    {
+     "c": "Tim",
+     "n": "John Early"
+    },
+    {
+     "c": "Principal Nadler",
+     "n": "Ana Gasteyer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Marty Schousboe"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1558796,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Nearly two decades after a devastating tornado abruptly cut their senior year short, a group of mid-30s adults must return to their hometown high school to complete their remaining requirements and finally graduate.",
+   "popularity": 1.4276,
+   "poster_path": "/yuNToCHZyZybJQ89HSiAR91JEiI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-09",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's never too late to finish what you failed.",
+   "title": "Never Change!",
+   "trailer": {
+    "key": "w5nRZ9BrewE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 21
+  },
+  "movie:1620996": {
+   "backdrop_path": "/9NyHabsIT6aVdLKw7ZYsBn7Vw6R.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lara",
+     "n": "Luisana Lopilato"
+    },
+    {
+     "c": "Pablo",
+     "n": "Gustavo Bassani"
+    },
+    {
+     "c": "Javier",
+     "n": "Jean Pierre Noher"
+    },
+    {
+     "c": "Marcos",
+     "n": "Pedro Merlo"
+    },
+    {
+     "c": "Carlos",
+     "n": "Fabian Novell"
+    },
+    {
+     "c": "Elena",
+     "n": "Silvana Goldemberg"
+    },
+    {
+     "c": "Hostess",
+     "n": "Tini Goyogana"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Martín Hodara"
+   ],
+   "genres": [
+    "Romance",
+    "Thriller"
+   ],
+   "id": 1620996,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Pablo is a young, wealthy but solitary man traumatized by a fatal car accident. He meets Lara through a dating app tied to an exchange of the titular blue box. As their relationship grows, Lara draws Pablo out of his shell. But an anonymous warning alerts Pablo that Lara may not be all that she seems. What begins as an intimate connection gradually turns into a tense psychological game of cat and mouse, forcing Pablo to confront both his past and the true nature of the woman he is falling in love with.",
+   "popularity": 1.6329,
+   "poster_path": "/dkIzjzfv7TbXqjbJKM51CZYORaR.jpg",
+   "production_countries": [
+    "ES",
+    "AR",
+    "US",
+    "CA"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-16",
+   "revenue": 0,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Every gift comes with a price.",
+   "title": "The Blue Box",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 37
   },
   "movie:180296": {
    "backdrop_path": "/be8mNf9tHTjrJWQ1O9srDYEAfTj.jpg",

@@ -1,7 +1,198 @@
 {
  "bucket": "04",
- "count": 17,
+ "count": 27,
  "titles": {
+  "movie:1128204": {
+   "d": "Feed (2026): Horror film. Story: Five social media influencers spend a weekend at a… See cast, TMDB rating 6.6/10, and release date 6 August 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/4ZeaWA6DzFVOjWTi70b9ZAaQktf.jpg",
+   "industry": "world",
+   "k": "Feed, Feed movie, Feed cast, Feed story, Feed box office collection, Feed budget, Feed review, Feed rating, Feed release date, Feed Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Grace Collender"
+     },
+     {
+      "@type": "Person",
+      "name": "Rhys Mannion"
+     },
+     {
+      "@type": "Person",
+      "name": "Molly McCann"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlotte Bradley"
+     },
+     {
+      "@type": "Person",
+      "name": "Flynn Gray"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 37,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Feed (2026): Horror film. Story: Five social media influencers spend a weekend at a… See cast, TMDB rating 6.6/10, and release date 6 August 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Marco van Belle"
+     }
+    ],
+    "duration": "PT82M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4ZeaWA6DzFVOjWTi70b9ZAaQktf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1128204",
+    "name": "Feed",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1128204"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Feed (2026)</h1>\n<p class=\"ssr-lead\">Five social media influencers spend a weekend at a forest retreat but inadvertently awaken and confront the world&#x27;s first vampire.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 August 2026</li><li>Runtime: 82 minutes</li><li>Director: Marco van Belle</li><li>Genres: Horror</li><li>TMDB rating: 6.6/10 (37 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Grace Collender as Orla Ryan</li><li>Rhys Mannion as Austin</li><li>Molly McCann as Ciara Ryan</li><li>Charlotte Bradley as Nora</li><li>Flynn Gray as Cathal</li><li>Daisy Jelley as Nessa</li><li>Clinton Liberty as Lorcan</li><li>Niamh Hogan as Dearg Due</li><li>Noella Brennan as Fiona Ryan</li><li>Dominic Wright as Gareth Ryan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Feed (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1276704": {
+   "d": "53 Sundays (2026): Comedy/Drama film. Story: When three siblings agree to meet and discuss their… See cast, TMDB rating 5.9/10, and release date 26 March 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/kFK6FpbbEvVKDH956qTKEHB4Sfp.jpg",
+   "industry": "world",
+   "k": "53 Sundays, 53 Sundays movie, 53 Sundays cast, 53 Sundays story, 53 Sundays box office collection, 53 Sundays budget, 53 Sundays review, 53 Sundays rating, 53 Sundays release date, 53 Sundays trailer, 53 Sundays Comedy, 53 Sundays Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Javier Cámara"
+     },
+     {
+      "@type": "Person",
+      "name": "Carmen Machi"
+     },
+     {
+      "@type": "Person",
+      "name": "Javier Gutiérrez"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexandra Jiménez"
+     },
+     {
+      "@type": "Person",
+      "name": "Ricardo Lacámara"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 86,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "53 Sundays (2026): Comedy/Drama film. Story: When three siblings agree to meet and discuss their… See cast, TMDB rating 5.9/10, and release date 26 March 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Cesc Gay"
+     }
+    ],
+    "duration": "PT78M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kFK6FpbbEvVKDH956qTKEHB4Sfp.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1276704",
+    "name": "53 Sundays",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1276704"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>53 Sundays (2026)</h1>\n<p class=\"ssr-lead\">When three siblings agree to meet and discuss their aging father&#x27;s future, their reunion spirals into bickering, bantering and reliving old grudges.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 March 2026</li><li>Runtime: 78 minutes</li><li>Director: Cesc Gay</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 5.9/10 (86 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Javier Cámara as Julián</li><li>Carmen Machi as Natalia</li><li>Javier Gutiérrez as Víctor</li><li>Alexandra Jiménez as Carol</li><li>Ricardo Lacámara as Padre</li><li>Rosa Vivas as Marisa</li><li>Carla Soto as Hija 1 Víctor</li><li>Leyre Soto as Hija 2 Víctor</li><li>Pedro Miguel Martínez as Suegro Víctor</li><li>Antonio Márquez as Marido Natalia</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "53 Sundays (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1302904": {
+   "d": "Practical Magic 2 (2026): Romance/Fantasy film. Story: The Owens sisters must confront the dark curse that… See cast, budget $75M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+   "industry": "world",
+   "k": "Practical Magic 2, Practical Magic 2 movie, Practical Magic 2 cast, Practical Magic 2 story, Practical Magic 2 box office collection, Practical Magic 2 budget, Practical Magic 2 review, Practical Magic 2 rating, Practical Magic 2 release date, Practical Magic 2 trailer, Practical Magic 2 Romance, Practical Magic 2 Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sandra Bullock"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicole Kidman"
+     },
+     {
+      "@type": "Person",
+      "name": "Dianne Wiest"
+     },
+     {
+      "@type": "Person",
+      "name": "Stockard Channing"
+     },
+     {
+      "@type": "Person",
+      "name": "Joey King"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 394,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Practical Magic 2 (2026): Romance/Fantasy film. Story: The Owens sisters must confront the dark curse that… See cast, budget $75M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Susanne Bier"
+     }
+    ],
+    "duration": "PT130M",
+    "genre": [
+     "Romance",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1302904",
+    "name": "Practical Magic 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1302904"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Practical Magic 2 (2026)</h1>\n<p class=\"ssr-lead\">The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 September 2026</li><li>Runtime: 130 minutes</li><li>Director: Susanne Bier</li><li>Genres: Romance, Fantasy, Comedy</li><li>Budget: $75M</li><li>TMDB rating: 7.2/10 (394 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sandra Bullock as Sally Owens</li><li>Nicole Kidman as Gillian Owens</li><li>Dianne Wiest as Jet</li><li>Stockard Channing as Franny</li><li>Joey King as Kylie</li><li>Lee Pace as Ian Wright</li><li>Maisie Williams as Antonia</li><li>Xolo Maridueña as Gideon</li><li>Solly McLeod as Tom Lockland</li><li>Amy Bowden as Local Woman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Practical Magic 2 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:13704": {
    "d": "License to Drive (1988): Comedy/Family film. Story: Teenager Les Anderson thinks his life can't get any… See cast, budget $8M, and TMDB rating 6.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/x7hYxRqj9s3NjpPGzdzMlsUJcvd.jpg",
@@ -65,6 +256,391 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>License to Drive (1988)</h1>\n<p class=\"ssr-lead\">Teenager Les Anderson thinks his life can&#x27;t get any worse after he flunks his driver&#x27;s exam, but he&#x27;s wrong. Even though he didn&#x27;t receive his license, Les refuses to break his date with the cool Mercedes Lane, and he decides to lift his family&#x27;s prize luxury car for the occasion. Unfortunately, Mercedes sneaks some booze along and passes out drunk, and a confused Les makes the bad decision of enlisting his rebellious friend, Dean, to help.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 July 1988</li><li>Runtime: 90 minutes</li><li>Director: Greg Beeman</li><li>Genres: Comedy, Family, Romance</li><li>Budget: $8M</li><li>TMDB rating: 6.6/10 (436 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Corey Haim as Les Anderson</li><li>Corey Feldman as Dean</li><li>Carol Kane as Mrs. Anderson</li><li>Richard Masur as Mr. Anderson</li><li>Heather Graham as Mercedes Lane</li><li>Michael Manasseri as Charles</li><li>Harvey Miller as The Professor</li><li>Michael A. Nickles as Paolo (as M.A. Nickles)</li><li>Nina Siemaszko as Natalie Anderson</li><li>Grant Goodeve as Natalie&#x27;s DMV Examiner</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "License to Drive (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1988"
+  },
+  "movie:1404304": {
+   "d": "The Isolate Thief (2026): Action/Drama film. Story: One bitter-cold winter during the Civil War, a young… See cast and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mwqxKmbW6ssqa5CKHrgocqbkL0C.jpg",
+   "industry": "world",
+   "k": "The Isolate Thief, The Isolate Thief movie, The Isolate Thief cast, The Isolate Thief story, The Isolate Thief box office collection, The Isolate Thief budget, The Isolate Thief review, The Isolate Thief rating, The Isolate Thief release date, The Isolate Thief trailer, The Isolate Thief Action, The Isolate Thief Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sean Bean"
+     },
+     {
+      "@type": "Person",
+      "name": "Mackenzie Foy"
+     },
+     {
+      "@type": "Person",
+      "name": "Odeya Rush"
+     },
+     {
+      "@type": "Person",
+      "name": "Joe Pantoliano"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Kesy"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 37,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Isolate Thief (2026): Action/Drama film. Story: One bitter-cold winter during the Civil War, a young… See cast and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Suits"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mwqxKmbW6ssqa5CKHrgocqbkL0C.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1404304",
+    "name": "The Isolate Thief",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1404304"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Isolate Thief (2026)</h1>\n<p class=\"ssr-lead\">One bitter-cold winter during the Civil War, a young woman becomes the lone caretaker of a remote Union Army outpost. When a stash of stolen gold falls into her lap, a gang of vicious outlaws comes looking for it. As they turn her home into a battleground, she must stay one step ahead of them in order to survive.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 July 2026</li><li>Runtime: 95 minutes</li><li>Director: John Suits</li><li>Genres: Action, Drama, Western</li><li>TMDB rating: 7.1/10 (37 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sean Bean as &quot;Fiddler&quot; John Good</li><li>Mackenzie Foy as Ada Horn</li><li>Odeya Rush as Emily Moore</li><li>Joe Pantoliano as &quot;Burial&quot; Perry Parker</li><li>Jack Kesy as William &quot;Red&quot; Baker</li><li>Ty Simpkins as Calvin Ed</li><li>Martin Sensmeier as Ten Charlie</li><li>Bryan Martin as Colonel Hardwick</li><li>Philip McDermott Young as Soldier</li><li>Mark Alan Jaeger as Union Soldier</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, MGM+ Amazon Channel, Philo</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Isolate Thief (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1404604": {
+   "d": "Compostelle (2026): Drama/Comedy film. Story: Fred and Adam have nothing in common. Yet, they will… See cast, TMDB rating 6.8/10, and release date 1 April 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/lW9uSLT4t7trf1rG0nnOj14AoXT.jpg",
+   "industry": "world",
+   "k": "Compostelle, Compostelle movie, Compostelle cast, Compostelle story, Compostelle box office collection, Compostelle budget, Compostelle review, Compostelle rating, Compostelle release date, Compostelle Drama, Compostelle Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alexandra Lamy"
+     },
+     {
+      "@type": "Person",
+      "name": "Julien Le Berre"
+     },
+     {
+      "@type": "Person",
+      "name": "Eric Métayer"
+     },
+     {
+      "@type": "Person",
+      "name": "Mélanie Doutey"
+     },
+     {
+      "@type": "Person",
+      "name": "Cyril Gueï"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 52,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Compostelle (2026): Drama/Comedy film. Story: Fred and Adam have nothing in common. Yet, they will… See cast, TMDB rating 6.8/10, and release date 1 April 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Yann Samuell"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lW9uSLT4t7trf1rG0nnOj14AoXT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1404604",
+    "name": "Compostelle",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1404604"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Compostelle (2026)</h1>\n<p class=\"ssr-lead\">Fred and Adam have nothing in common. Yet, they will meet while walking the Way of St. James as a form of spiritual path.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 April 2026</li><li>Runtime: 113 minutes</li><li>Director: Yann Samuell</li><li>Genres: Drama, Comedy</li><li>TMDB rating: 6.8/10 (52 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alexandra Lamy as Fred</li><li>Julien Le Berre as Adam</li><li>Eric Métayer as Paul</li><li>Mélanie Doutey as Nadège</li><li>Cyril Gueï</li><li>Malik Amraoui as Mossi</li><li>Maëlle Vidou as Estella</li></ul>\n</article>",
+   "t": "Compostelle (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1431804": {
+   "d": "40 Dates and 40 Nights (2026): Comedy/Romance film. Story: Ready to quit the dating scene altogether, burned-out… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dgleeErFcEHEacYabCTDwr1zAl2.jpg",
+   "industry": "world",
+   "k": "40 Dates and 40 Nights, 40 Dates and 40 Nights movie, 40 Dates and 40 Nights cast, 40 Dates and 40 Nights story, 40 Dates and 40 Nights box office collection, 40 Dates and 40 Nights budget, 40 Dates and 40 Nights review, 40 Dates and 40 Nights rating, 40 Dates and 40 Nights release date, 40 Dates and 40 Nights trailer, 40 Dates and 40 Nights Comedy, 40 Dates and 40 Nights Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bailee Madison"
+     },
+     {
+      "@type": "Person",
+      "name": "Joel Courtney"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Schumacher"
+     },
+     {
+      "@type": "Person",
+      "name": "Luxy Banner"
+     },
+     {
+      "@type": "Person",
+      "name": "Eric Nelsen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 43,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "40 Dates and 40 Nights (2026): Comedy/Romance film. Story: Ready to quit the dating scene altogether, burned-out… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Andy Delaney"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dgleeErFcEHEacYabCTDwr1zAl2.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1431804",
+    "name": "40 Dates and 40 Nights",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1431804"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>40 Dates and 40 Nights (2026)</h1>\n<p class=\"ssr-lead\">Ready to quit the dating scene altogether, burned-out Leah accepts her grandmother&#x27;s outrageous challenge—40 dates in 40 nights in exchange for a year&#x27;s rent—only to discover amidst the awkward dinners and unexpected sparks that her biggest obstacle to love is herself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 June 2026</li><li>Runtime: 101 minutes</li><li>Director: Andy Delaney</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 7.4/10 (43 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bailee Madison as Leah Jones</li><li>Joel Courtney as Mason</li><li>Jack Schumacher as Jackson</li><li>Luxy Banner as Bianca</li><li>Eric Nelsen as Buzz</li><li>Liz Mikel as Edith</li><li>Jennifer Griffin as Tilda</li><li>Jai Rodriguez as Steven</li><li>Annie Potts as Gigi</li><li>Joseph Rosa as Matt</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "40 Dates and 40 Nights (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1440304": {
+   "d": "Tough Luck (2026): Comedy film. Story: ​Arrested by mistake and mistaken for France’s most… See cast, TMDB rating 5.9/10, and release date 1 April 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/dQ6WE975drdAQWKGWYx6nphNtoI.jpg",
+   "industry": "world",
+   "k": "Tough Luck, Tough Luck movie, Tough Luck cast, Tough Luck story, Tough Luck box office collection, Tough Luck budget, Tough Luck review, Tough Luck rating, Tough Luck release date, Tough Luck Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gérard Jugnot"
+     },
+     {
+      "@type": "Person",
+      "name": "Thierry Lhermitte"
+     },
+     {
+      "@type": "Person",
+      "name": "Philippe Lacheau"
+     },
+     {
+      "@type": "Person",
+      "name": "Zabou Breitman"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean-Pierre Darroussin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 52,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Tough Luck (2026): Comedy film. Story: ​Arrested by mistake and mistaken for France’s most… See cast, TMDB rating 5.9/10, and release date 1 April 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gérard Jugnot"
+     }
+    ],
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dQ6WE975drdAQWKGWYx6nphNtoI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1440304",
+    "name": "Tough Luck",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1440304"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Tough Luck (2026)</h1>\n<p class=\"ssr-lead\">​Arrested by mistake and mistaken for France’s most wanted man, Serge Martin, a peaceful retiree, becomes the target of the media. Caught up in a never-ending whirlwind, he’ll do everything he can to prove his innocence and get his life back… if that’s even possible!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 April 2026</li><li>Director: Gérard Jugnot</li><li>Genres: Comedy</li><li>TMDB rating: 5.9/10 (52 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gérard Jugnot as Serge Martin</li><li>Thierry Lhermitte as Laurent Malbec</li><li>Philippe Lacheau as Grégory Vassilian</li><li>Zabou Breitman as Michèle</li><li>Jean-Pierre Darroussin as Commissaire Taillade</li><li>Michèle Laroque as Marie Duteil</li><li>Reem Kherici as Léa Paoli</li><li>François Morel as Jean</li><li>Charlotte Gabris as Pascale Forzano</li><li>Claudia Bacos as Madeline</li></ul>\n</article>",
+   "t": "Tough Luck (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1477104": {
+   "d": "Shaun the Sheep: The Beast of Mossy Bottom (2026): Animation/Science Fiction film. Story: On Halloween Eve at Mossy Bottom Farm, excitement… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+   "industry": "world",
+   "k": "Shaun the Sheep: The Beast of Mossy Bottom, Shaun the Sheep: The Beast of Mossy Bottom movie, Shaun the Sheep: The Beast of Mossy Bottom cast, Shaun the Sheep: The Beast of Mossy Bottom story, Shaun the Sheep: The Beast of Mossy Bottom box office collection, Shaun the Sheep: The Beast of Mossy Bottom budget, Shaun the Sheep: The Beast of Mossy Bottom review, Shaun the Sheep: The Beast of Mossy Bottom rating, Shaun the Sheep: The Beast of Mossy Bottom release date, Shaun the Sheep: The Beast of Mossy Bottom trailer, Shaun the Sheep: The Beast of Mossy Bottom Animation, Shaun the Sheep: The Beast of Mossy Bottom Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Justin Fletcher"
+     },
+     {
+      "@type": "Person",
+      "name": "John Sparkes"
+     },
+     {
+      "@type": "Person",
+      "name": "Nina Sosanya"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Harbour"
+     },
+     {
+      "@type": "Person",
+      "name": "Rich Webber"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 61,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Shaun the Sheep: The Beast of Mossy Bottom (2026): Animation/Science Fiction film. Story: On Halloween Eve at Mossy Bottom Farm, excitement… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Steve Cox"
+     },
+     {
+      "@type": "Person",
+      "name": "Matthew Walker"
+     }
+    ],
+    "duration": "PT81M",
+    "genre": [
+     "Animation",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1477104",
+    "name": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1477104"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Shaun the Sheep: The Beast of Mossy Bottom (2026)</h1>\n<p class=\"ssr-lead\">On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 September 2026</li><li>Runtime: 81 minutes</li><li>Director: Steve Cox, Matthew Walker</li><li>Genres: Animation, Science Fiction, Comedy, Family</li><li>Budget: $30M</li><li>TMDB rating: 7.3/10 (61 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Justin Fletcher as Shaun / Timmy (voice)</li><li>John Sparkes as The Farmer / Bitzer (voice)</li><li>Nina Sosanya as The Vet (voice)</li><li>Kate Harbour as Timmy&#x27;s Mum (voice)</li><li>Rich Webber as Shirley (voice)</li><li>Emma Tate as Hazel (voice)</li><li>Simon Greenall as The Twins (voice)</li><li>Andy Nyman as Nuts (voice)</li><li>Paul Whitehouse as Shop Keeper (voice)</li><li>Roman Kemp as Pizza Boy (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Shaun the Sheep: The Beast of Mossy Bottom (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1688804": {
+   "d": "Freefall: A Reckoning for Boeing (2026): Documentary film. Story: Following the highly publicized death of Boeing… See cast and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg",
+   "industry": "world",
+   "k": "Freefall: A Reckoning for Boeing, Freefall: A Reckoning for Boeing movie, Freefall: A Reckoning for Boeing cast, Freefall: A Reckoning for Boeing story, Freefall: A Reckoning for Boeing box office collection, Freefall: A Reckoning for Boeing budget, Freefall: A Reckoning for Boeing review, Freefall: A Reckoning for Boeing rating, Freefall: A Reckoning for Boeing release date, Freefall: A Reckoning for Boeing trailer, Freefall: A Reckoning for Boeing Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "John Barnett"
+     },
+     {
+      "@type": "Person",
+      "name": "Rob Turkewitz"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Mohawk"
+     },
+     {
+      "@type": "Person",
+      "name": "Roy Irvin"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Salehpour"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 45,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Freefall: A Reckoning for Boeing (2026): Documentary film. Story: Following the highly publicized death of Boeing… See cast and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rory Kennedy"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1688804",
+    "name": "Freefall: A Reckoning for Boeing",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1688804"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Freefall: A Reckoning for Boeing (2026)</h1>\n<p class=\"ssr-lead\">Following the highly publicized death of Boeing whistleblower John Barnett, the investigation continues into the once-iconic aviation giant, uncovering startling new revelations and insider accounts in the wake of a deepening corporate crisis..</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 August 2026</li><li>Runtime: 95 minutes</li><li>Director: Rory Kennedy</li><li>Genres: Documentary</li><li>TMDB rating: 7.1/10 (45 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Barnett as Self (archive footage)</li><li>Rob Turkewitz as Self - Attorney for John Barnett</li><li>Sam Mohawk as Self - Boeing Quality Investigator</li><li>Roy Irvin as Self - Boeing Quality Investigator (Former)</li><li>Sam Salehpour as Self - Boeing Quality Engineer</li><li>Merle Meyers as Self - Boeing Quality Manager (Former)</li><li>Jim McNerney as Self (archive footage)</li><li>David G. Bradley as Self (archive footage)</li><li>Jack Welch as Self (archive footage)</li><li>David Gelles as Self - Author and Journalist, The New York Times</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Freefall: A Reckoning for Boeing (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:43904": {
    "d": "L'Atalante (1934): Comedy/Drama film. Story: Newly married couple Juliette and ship captain Jean… See cast and TMDB rating 7.5/10.",
@@ -321,6 +897,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Petite Maman (2021)</h1>\n<p class=\"ssr-lead\">After the death of her beloved grandmother, eight-year-old Nelly meets a strangely familiar girl her own age in the woods. Instantly forming a connection with this mysterious new friend, Nelly embarks on a fantastical journey of discovery which helps her come to terms with this newfound loss.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 June 2021</li><li>Runtime: 72 minutes</li><li>Director: Céline Sciamma</li><li>Genres: Drama, Fantasy</li><li>Budget: $3.1M</li><li>TMDB rating: 7.1/10 (492 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joséphine Sanz as Nelly</li><li>Gabrielle Sanz as Marion</li><li>Nina Meurisse as Mother</li><li>Stéphane Varupenne as Father</li><li>Margot Abascal as Grandmother</li><li>Florès Cardo as Dame maison de retraite</li><li>Josée Schuller as Dame maison de retraite</li><li>Guylène Péan as Dame maison de retraite</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI, MUBI Amazon Channel</li><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Petite Maman (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
+  },
+  "movie:898704": {
+   "d": "Desert Warrior (2026): History/War film. Story: In 7th-century Arabia, Princess Hind becomes a… See cast, budget $150M, and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ohlNSR8MsHk5e6fcAxqAJmcz4Sm.jpg",
+   "industry": "world",
+   "k": "Desert Warrior, Desert Warrior movie, Desert Warrior cast, Desert Warrior story, Desert Warrior box office collection, Desert Warrior budget, Desert Warrior review, Desert Warrior rating, Desert Warrior release date, Desert Warrior trailer, Desert Warrior History, Desert Warrior War, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anthony Mackie"
+     },
+     {
+      "@type": "Person",
+      "name": "Aiysha Hart"
+     },
+     {
+      "@type": "Person",
+      "name": "Sami Bouajila"
+     },
+     {
+      "@type": "Person",
+      "name": "Sharlto Copley"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Kingsley"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 57,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Desert Warrior (2026): History/War film. Story: In 7th-century Arabia, Princess Hind becomes a… See cast, budget $150M, and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rupert Wyatt"
+     }
+    ],
+    "duration": "PT127M",
+    "genre": [
+     "History",
+     "War"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ohlNSR8MsHk5e6fcAxqAJmcz4Sm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=898704",
+    "name": "Desert Warrior",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=898704"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Desert Warrior (2026)</h1>\n<p class=\"ssr-lead\">In 7th-century Arabia, Princess Hind becomes a warrior to defy the ruthless Emperor Kisra. Forged into a warrior and aided by legendary bandit Hanzala, Hind unites warring tribes for a last stand—the historic Battle of Dhi Qar—that will change history.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 April 2026</li><li>Runtime: 127 minutes</li><li>Director: Rupert Wyatt</li><li>Genres: History, War, Action</li><li>Budget: $150M</li><li>TMDB rating: 5.9/10 (57 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anthony Mackie as Hanzala</li><li>Aiysha Hart as Princess Hind</li><li>Sami Bouajila as Hani</li><li>Sharlto Copley as Jalabzeen</li><li>Ben Kingsley as Emperor Kisra II</li><li>Ghassan Massoud as King Numan</li><li>Lamis Ammar as Medicine Woman</li><li>Ramsey Faragallah as Ibn Qabisah</li><li>Saïd Boumazoughe as Samir</li><li>Younes Bouab as Aasif</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li></ul>\n</article>",
+   "t": "Desert Warrior (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "tv:1104": {
    "d": "Mad Men (2007) is a Drama TV series. Explore its story: Set in 1960-1970 New York, this sexy, stylized and…, cast, 7 seasons, and 92 episodes.",

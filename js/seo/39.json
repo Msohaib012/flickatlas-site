@@ -1,7 +1,198 @@
 {
  "bucket": "39",
- "count": 19,
+ "count": 25,
  "titles": {
+  "movie:1234139": {
+   "d": "Jailer 2 (2026): Action/Comedy film. Story: When a dangerous syndicate threatens his family… See cast, budget $26.29M, and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
+   "industry": "bollywood",
+   "k": "Jailer 2, Jailer 2 movie, Jailer 2 cast, Jailer 2 story, Jailer 2 box office collection, Jailer 2 budget, Jailer 2 review, Jailer 2 rating, Jailer 2 release date, Jailer 2 trailer, Jailer 2 Action, Jailer 2 Comedy, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rajinikanth"
+     },
+     {
+      "@type": "Person",
+      "name": "S. J. Suryah"
+     },
+     {
+      "@type": "Person",
+      "name": "Suraj Venjaramoodu"
+     },
+     {
+      "@type": "Person",
+      "name": "Ramya Krishnan"
+     },
+     {
+      "@type": "Person",
+      "name": "Vidya Balan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 32,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "Jailer 2 (2026): Action/Comedy film. Story: When a dangerous syndicate threatens his family… See cast, budget $26.29M, and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nelson"
+     }
+    ],
+    "duration": "PT163M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1234139",
+    "name": "Jailer 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1234139"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Jailer 2 (2026)</h1>\n<p class=\"ssr-lead\">When a dangerous syndicate threatens his family, retired jailer Tiger Muthuvel Pandian goes undercover as a driver to battle enemies from the shadows.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 October 2026</li><li>Runtime: 163 minutes</li><li>Director: Nelson</li><li>Genres: Action, Comedy, Drama</li><li>Budget: $26.29M</li><li>TMDB rating: 8.0/10 (32 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rajinikanth as Muthuvel &#x27;Tiger&#x27; Pandian</li><li>S. J. Suryah as Bodhi Kalpak</li><li>Suraj Venjaramoodu as Dileep</li><li>Ramya Krishnan as Vijayalakshmi &#x27;Viji&#x27; Pandian</li><li>Vidya Balan as Kantha Kalpak</li><li>Namo Narayana as Moorthi</li><li>Yogi Babu as Vimal</li><li>Mirnaa as Swetha Pandian</li><li>Rithvik as Rithvik &#x27;Rithu&#x27; Pandian</li><li>Hakkim Shajahan as Sharva Kalpak</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Jailer 2 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1437939": {
+   "d": "Cocorico 2 (2026): Comedy film. Story: DNA tests before Alice and François's wedding reveal… See cast, TMDB rating 5.3/10, and release date 8 April 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/4dN9kXTNqvssrbF81viFoPnW2pt.jpg",
+   "industry": "world",
+   "k": "Cocorico 2, Cocorico 2 movie, Cocorico 2 cast, Cocorico 2 story, Cocorico 2 box office collection, Cocorico 2 budget, Cocorico 2 review, Cocorico 2 rating, Cocorico 2 release date, Cocorico 2 Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christian Clavier"
+     },
+     {
+      "@type": "Person",
+      "name": "Didier Bourdon"
+     },
+     {
+      "@type": "Person",
+      "name": "Marianne Denicourt"
+     },
+     {
+      "@type": "Person",
+      "name": "Sylvie Testud"
+     },
+     {
+      "@type": "Person",
+      "name": "Chloé Coulloud"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 65,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "Cocorico 2 (2026): Comedy film. Story: DNA tests before Alice and François's wedding reveal… See cast, TMDB rating 5.3/10, and release date 8 April 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Julien Hervé"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4dN9kXTNqvssrbF81viFoPnW2pt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1437939",
+    "name": "Cocorico 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1437939"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cocorico 2 (2026)</h1>\n<p class=\"ssr-lead\">DNA tests before Alice and François&#x27;s wedding reveal their fathers - an aristocrat and car dealer - aren&#x27;t as French as they thought.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 April 2026</li><li>Runtime: 91 minutes</li><li>Director: Julien Hervé</li><li>Genres: Comedy</li><li>TMDB rating: 5.3/10 (65 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christian Clavier as Frédéric Bouvier-Sauvage / Mehmet Suleymanoglu</li><li>Didier Bourdon as Gérard Martin / Djamila</li><li>Marianne Denicourt as Catherine Bouvier-Sauvage</li><li>Sylvie Testud as Nicole Martin</li><li>Chloé Coulloud as Alice Bouvier-Sauvage</li><li>Julien Pestel as François Martin</li><li>Patrick Préjean as Gérard Martin&#x27;s Father</li><li>Fred Testot as Policeman</li><li>Albert Goldberg as Policeman</li><li>Philippe Lefebvre as Restaurant Owner</li></ul>\n</article>",
+   "t": "Cocorico 2 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1585239": {
+   "d": "Club Kid (2026): Comedy/Drama film. Story: A hard-partying New York City club promoter sees his… See cast, TMDB rating 7.9/10, and release date 4 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/AjrgF2JZb8WAeIFTvUjJK6VA2CG.jpg",
+   "industry": "world",
+   "k": "Club Kid, Club Kid movie, Club Kid cast, Club Kid story, Club Kid box office collection, Club Kid budget, Club Kid review, Club Kid rating, Club Kid release date, Club Kid trailer, Club Kid Comedy, Club Kid Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jordan Firstman"
+     },
+     {
+      "@type": "Person",
+      "name": "Reggie Absolom"
+     },
+     {
+      "@type": "Person",
+      "name": "Cara Delevingne"
+     },
+     {
+      "@type": "Person",
+      "name": "Diego Calva"
+     },
+     {
+      "@type": "Person",
+      "name": "Kirby Howell-Baptiste"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 22,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Club Kid (2026): Comedy/Drama film. Story: A hard-partying New York City club promoter sees his… See cast, TMDB rating 7.9/10, and release date 4 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jordan Firstman"
+     }
+    ],
+    "duration": "PT122M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/AjrgF2JZb8WAeIFTvUjJK6VA2CG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1585239",
+    "name": "Club Kid",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1585239"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Club Kid (2026)</h1>\n<p class=\"ssr-lead\">A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 November 2026</li><li>Runtime: 122 minutes</li><li>Director: Jordan Firstman</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 7.9/10 (22 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jordan Firstman as Peter</li><li>Reggie Absolom as Arlo</li><li>Cara Delevingne as Sophie</li><li>Diego Calva as Oscar</li><li>Kirby Howell-Baptiste as Edison</li><li>Colleen Camp as Evelyn</li><li>Vicki Pepperdine as Lydia Chestworth</li><li>Nigil Whyte as Devon</li><li>Eldar Isgandarov as Nicky</li><li>Saturn Risin9 as Saffron</li></ul>\n</article>",
+   "t": "Club Kid (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:160139": {
    "d": "Night Train to Lisbon (2013): Mystery/Romance film. Story: Raimund Gregorius, having saved a beautiful… See cast, budget $7.7M, and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/rX0EqXVwtTUhVb8Va4WPMiUmHWg.jpg",
@@ -65,6 +256,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Night Train to Lisbon (2013)</h1>\n<p class=\"ssr-lead\">Raimund Gregorius, having saved a beautiful Portuguese woman from leaping to her death, stumbles upon a mesmerizing book by a Portuguese author, which compels him to suddenly abandon the boring life he has led for years and to embark on an enthralling adventure. In search of the author, Gregorius acts as detective, pulling together pieces of a puzzle that involves political and emotional intrigue and the highest possible stakes. His voyage is one that transcends time and space, delving into the realms of history, medicine and love, all in search of true meaning to his life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 March 2013</li><li>Runtime: 111 minutes</li><li>Director: Bille August</li><li>Genres: Mystery, Romance, Thriller</li><li>Budget: $7.7M</li><li>TMDB rating: 6.5/10 (445 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jeremy Irons as Raimund</li><li>Mélanie Laurent as Young Estefania</li><li>Jack Huston as Amadeu</li><li>Martina Gedeck as Mariana</li><li>Tom Courtenay as Older João Eca</li><li>August Diehl as Young Jorge O&#x27;Kelly</li><li>Bruno Ganz as Older Jorge O&#x27;Kelly</li><li>Lena Olin as Older Estefania</li><li>Beatriz Batarda as young Adriana</li><li>Marco D&#x27;Almeida as Young João</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Lionsgate+ Amazon Channel, Amazon Prime Video with Ads, Starz Apple TV channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Night Train to Lisbon (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
+  },
+  "movie:192139": {
+   "d": "The Brink of War (2026): Drama/History film. Story: President Ronald Reagan races against time to salvage… See cast, budget $21M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/E812GNXYQqjJwN0cVPY3icHpaj.jpg",
+   "industry": "world",
+   "k": "The Brink of War, The Brink of War movie, The Brink of War cast, The Brink of War story, The Brink of War box office collection, The Brink of War budget, The Brink of War review, The Brink of War rating, The Brink of War release date, The Brink of War trailer, The Brink of War Drama, The Brink of War History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jeff Daniels"
+     },
+     {
+      "@type": "Person",
+      "name": "Jared Harris"
+     },
+     {
+      "@type": "Person",
+      "name": "J.K. Simmons"
+     },
+     {
+      "@type": "Person",
+      "name": "Hope Davis"
+     },
+     {
+      "@type": "Person",
+      "name": "Branka Katić"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 52,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "The Brink of War (2026): Drama/History film. Story: President Ronald Reagan races against time to salvage… See cast, budget $21M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Russell Gunn"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/E812GNXYQqjJwN0cVPY3icHpaj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=192139",
+    "name": "The Brink of War",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=192139"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Brink of War (2026)</h1>\n<p class=\"ssr-lead\">President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals—or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 August 2026</li><li>Runtime: 117 minutes</li><li>Director: Michael Russell Gunn</li><li>Genres: Drama, History</li><li>Budget: $21M</li><li>TMDB rating: 6.7/10 (52 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jeff Daniels as Ronald Reagan</li><li>Jared Harris as Mikhail Gorbachev</li><li>J.K. Simmons as George Shultz</li><li>Hope Davis as Nancy Reagan</li><li>Branka Katić as Raisa Gorbachev</li><li>Aya Cash as Cleo</li><li>Guy Burnet as Alexander</li><li>Adrian Rawlins as Max Rampleman</li><li>Tim Dutton as Edward Shevardnadze</li><li>Stephen Brennan as Paul Nitze</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Angel Studios</li><li>Rent: Amazon Video, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "The Brink of War (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:26039": {
    "d": "Point Blank (1967): Crime/Thriller film. Story: After being double-crossed and left for dead, a… See cast, budget $2.5M, and TMDB rating 7.1/10.",
@@ -455,6 +710,70 @@
    "t": "Hearts of Darkness: A Filmmaker's Apocalypse (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1991"
   },
+  "movie:454639": {
+   "d": "Masters of the Universe (2026): Action/Fantasy film. Story: After being separated for 15 years, the Sword of… See cast, budget $200M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5MUMB3aPEPEQPCIAaygXFUTWE9Y.jpg",
+   "industry": "world",
+   "k": "Masters of the Universe, Masters of the Universe movie, Masters of the Universe cast, Masters of the Universe story, Masters of the Universe box office collection, Masters of the Universe budget, Masters of the Universe review, Masters of the Universe rating, Masters of the Universe release date, Masters of the Universe trailer, Masters of the Universe Action, Masters of the Universe Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nicholas Galitzine"
+     },
+     {
+      "@type": "Person",
+      "name": "Camila Mendes"
+     },
+     {
+      "@type": "Person",
+      "name": "Alison Brie"
+     },
+     {
+      "@type": "Person",
+      "name": "James Purefoy"
+     },
+     {
+      "@type": "Person",
+      "name": "Morena Baccarin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 2345,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Masters of the Universe (2026): Action/Fantasy film. Story: After being separated for 15 years, the Sword of… See cast, budget $200M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Travis Knight"
+     }
+    ],
+    "duration": "PT141M",
+    "genre": [
+     "Action",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5MUMB3aPEPEQPCIAaygXFUTWE9Y.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=454639",
+    "name": "Masters of the Universe",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=454639"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Masters of the Universe (2026)</h1>\n<p class=\"ssr-lead\">After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 June 2026</li><li>Runtime: 141 minutes</li><li>Director: Travis Knight</li><li>Genres: Action, Fantasy, Science Fiction</li><li>Budget: $200M</li><li>TMDB rating: 7.1/10 (2345 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nicholas Galitzine as Adam / He-Man</li><li>Camila Mendes as Teela</li><li>Alison Brie as Evil-Lyn</li><li>James Purefoy as King Randor</li><li>Morena Baccarin as The Sorceress</li><li>Jóhannes Haukur Jóhannesson as Fisto</li><li>Charlotte Riley as Queen Marlena</li><li>Kristen Wiig as Roboto (voice)</li><li>Jared Leto as Skeletor</li><li>Idris Elba as Duncan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Masters of the Universe (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:726139": {
    "d": "Project Silence (2024): Thriller/Action film. Story: Due to sudden deteriorating weather conditions… See cast, budget $14.75M, and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/cIBp7rip1kZLSD7BQrEE4UXs6aq.jpg",
@@ -710,6 +1029,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Apartment 7A (2024)</h1>\n<p class=\"ssr-lead\">A struggling young dancer finds herself drawn in by dark forces when a peculiar, well-connected older couple promise her a shot at fame.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 September 2024</li><li>Runtime: 104 minutes</li><li>Director: Natalie Erika James</li><li>Genres: Horror, Thriller</li><li>TMDB rating: 6.1/10 (440 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Julia Garner as Terry Gionoffrio</li><li>Dianne Wiest as Minnie Castevet</li><li>Jim Sturgess as Alan Marchand</li><li>Kevin McNally as Roman Castevet</li><li>Marli Siu as Annie Leung</li><li>Andrew Buchan as Leo Watts</li><li>Rosy McEwen as Vera Clarke</li><li>Kobna Holdbrook-Smith as BJ</li><li>Anton Blake Horowitz as Casting Director</li><li>Raphael Sowole as Toby</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
    "t": "Apartment 7A (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2024"
+  },
+  "movie:862739": {
+   "d": "The Virgin of the Quarry Lake (2026): Horror/Thriller film. Story: On the eve of the 2001 outbreak, a young woman falls… See cast and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bL3zF1MzeqFI4Jnd3avwflzzlor.jpg",
+   "industry": "world",
+   "k": "The Virgin of the Quarry Lake, The Virgin of the Quarry Lake movie, The Virgin of the Quarry Lake cast, The Virgin of the Quarry Lake story, The Virgin of the Quarry Lake box office collection, The Virgin of the Quarry Lake budget, The Virgin of the Quarry Lake review, The Virgin of the Quarry Lake rating, The Virgin of the Quarry Lake release date, The Virgin of the Quarry Lake Horror, The Virgin of the Quarry Lake Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dolores Oliverio"
+     },
+     {
+      "@type": "Person",
+      "name": "Fernanda Echevarría del Rivero"
+     },
+     {
+      "@type": "Person",
+      "name": "Luisa Merelas"
+     },
+     {
+      "@type": "Person",
+      "name": "Isabel Bracamonte"
+     },
+     {
+      "@type": "Person",
+      "name": "Candela Flores"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 46,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "The Virgin of the Quarry Lake (2026): Horror/Thriller film. Story: On the eve of the 2001 outbreak, a young woman falls… See cast and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Laura Casabé"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bL3zF1MzeqFI4Jnd3avwflzzlor.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=862739",
+    "name": "The Virgin of the Quarry Lake",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=862739"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Virgin of the Quarry Lake (2026)</h1>\n<p class=\"ssr-lead\">On the eve of the 2001 outbreak, a young woman falls for her lifelong friend but turns to incantations and curses with her grandmother&#x27;s help when a more experienced rival threatens their romance.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 January 2026</li><li>Runtime: 95 minutes</li><li>Director: Laura Casabé</li><li>Genres: Horror, Thriller</li><li>TMDB rating: 5.9/10 (46 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dolores Oliverio as Natalia</li><li>Fernanda Echevarría del Rivero as Silvia</li><li>Luisa Merelas as Rita</li><li>Isabel Bracamonte as Josefina</li><li>Candela Flores as Mariela</li><li>Agustín Sosa as Diego</li><li>Dady Brieva as Gerardo</li><li>Maicol Orihuela as Kechu</li><li>Víctor López as Linyera</li><li>Marcelo Antonio Diaz as Juancho</li></ul>\n</article>",
+   "t": "The Virgin of the Quarry Lake (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:9839": {
    "d": "Beyond Borders (2003): Drama/Romance film. Story: Sarah Jordan, an American living in London in 1984… See cast, budget $35M, and TMDB rating 6.4/10.",

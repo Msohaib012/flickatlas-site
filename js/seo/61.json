@@ -1,7 +1,518 @@
 {
  "bucket": "61",
- "count": 10,
+ "count": 19,
  "titles": {
+  "movie:1212461": {
+   "d": "Obex (2026): Fantasy/Adventure film. Story: Conor Marsh lives a secluded life with his dog… See cast, budget $5.0k, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/77aCeoWOA5toCWk67lTAzrfW92Y.jpg",
+   "industry": "world",
+   "k": "Obex, Obex movie, Obex cast, Obex story, Obex box office collection, Obex budget, Obex review, Obex rating, Obex release date, Obex trailer, Obex Fantasy, Obex Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Albert Birney"
+     },
+     {
+      "@type": "Person",
+      "name": "Dorothy the Dog"
+     },
+     {
+      "@type": "Person",
+      "name": "Callie Hernandez"
+     },
+     {
+      "@type": "Person",
+      "name": "Paisley Isaacs"
+     },
+     {
+      "@type": "Person",
+      "name": "Frank Mosley"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 24,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Obex (2026): Fantasy/Adventure film. Story: Conor Marsh lives a secluded life with his dog… See cast, budget $5.0k, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Albert Birney"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Fantasy",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/77aCeoWOA5toCWk67lTAzrfW92Y.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1212461",
+    "name": "Obex",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1212461"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Obex (2026)</h1>\n<p class=\"ssr-lead\">Conor Marsh lives a secluded life with his dog, Sandy, until one day he begins playing OBEX, a new, state-of-the-art computer game. When Sandy goes missing, the line between reality and game blurs and Conor must venture into the strange world of OBEX to bring her home.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 January 2026</li><li>Runtime: 91 minutes</li><li>Director: Albert Birney</li><li>Genres: Fantasy, Adventure, Horror</li><li>Budget: $5.0k</li><li>TMDB rating: 6.1/10 (24 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Albert Birney as Conor / Ixaroth</li><li>Dorothy the Dog as Sandy</li><li>Callie Hernandez as Mary</li><li>Paisley Isaacs as Mom</li><li>Frank Mosley as Victor</li><li>Tyler Davis as Knight / Nightmare Man / Ixaroth</li><li>Paul Oh as Cicada Soldier</li><li>Gloria Probably as Woman in Field</li><li>Nate Krimmel as Man in Field</li><li>Nicholas Gurewitch as Voice of Ixaroth (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JustWatch TV Plus, Night Flight Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Obex (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1375161": {
+   "d": "Don't Move (2026): Horror/Thriller film. Story: Follows a prehistoric arachnid that terrifies a… See cast and TMDB rating 5.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1b0wNCRLYT3mGwvHyTEbqOk98Ix.jpg",
+   "industry": "world",
+   "k": "Don't Move, Don't Move movie, Don't Move cast, Don't Move story, Don't Move box office collection, Don't Move budget, Don't Move review, Don't Move rating, Don't Move release date, Don't Move trailer, Don't Move Horror, Don't Move Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lyndsy Fonseca"
+     },
+     {
+      "@type": "Person",
+      "name": "Russ"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Cavanagh"
+     },
+     {
+      "@type": "Person",
+      "name": "Hunter King"
+     },
+     {
+      "@type": "Person",
+      "name": "Joseph Lee Anderson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 37,
+     "ratingValue": 5.2,
+     "worstRating": 0
+    },
+    "description": "Don't Move (2026): Horror/Thriller film. Story: Follows a prehistoric arachnid that terrifies a… See cast and TMDB rating 5.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Maclain Nelson"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1b0wNCRLYT3mGwvHyTEbqOk98Ix.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1375161",
+    "name": "Don't Move",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1375161"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Don&#x27;t Move (2026)</h1>\n<p class=\"ssr-lead\">Follows a prehistoric arachnid that terrifies a stranded group of campers who hike into the wrong woods. Based on the spine-tingling horror novel from the actor best known as &quot;Murr&quot; on TV&#x27;s Impractical Jokers.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 September 2026</li><li>Runtime: 94 minutes</li><li>Director: Maclain Nelson</li><li>Genres: Horror, Thriller</li><li>TMDB rating: 5.2/10 (37 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lyndsy Fonseca as Megan Forrester</li><li>Russ as Ricky Vargas</li><li>Tom Cavanagh as Pastor Rizzo</li><li>Hunter King as Emma Rizzo</li><li>Joseph Lee Anderson as Ryan Stark</li><li>Rob Riggle as Paul DeLuca</li><li>Brian Quinn as Ranger Wright</li><li>Matt Biedel as Mike Forrester</li><li>James Murray as D. Chiggins</li><li>Dee Freeman as Maryanne Winston</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Don't Move (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1395661": {
+   "d": "Feels Like Home (2026): Drama/Thriller film. Story: Rita, an ordinary, but lonely woman is kidnapped. Her… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bJv3cwqJvurMZmO3Km42In4lHyv.jpg",
+   "industry": "world",
+   "k": "Feels Like Home, Feels Like Home movie, Feels Like Home cast, Feels Like Home story, Feels Like Home box office collection, Feels Like Home budget, Feels Like Home review, Feels Like Home rating, Feels Like Home release date, Feels Like Home Drama, Feels Like Home Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rozi Lovas"
+     },
+     {
+      "@type": "Person",
+      "name": "Áron Molnár"
+     },
+     {
+      "@type": "Person",
+      "name": "Dorka Gryllus"
+     },
+     {
+      "@type": "Person",
+      "name": "Tibor Szervét"
+     },
+     {
+      "@type": "Person",
+      "name": "Bettina Józsa"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 26,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Feels Like Home (2026): Drama/Thriller film. Story: Rita, an ordinary, but lonely woman is kidnapped. Her… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gábor Holtai"
+     }
+    ],
+    "duration": "PT124M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bJv3cwqJvurMZmO3Km42In4lHyv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1395661",
+    "name": "Feels Like Home",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1395661"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Feels Like Home (2026)</h1>\n<p class=\"ssr-lead\">Rita, an ordinary, but lonely woman is kidnapped. Her captors are the Árpáds; they claim she is not called Rita but Szilvi, a runaway from their family. Rita eventually understands that the only way out is in - to escape she must impersonate Szilvi. The more she becomes the lost girl the more she finds out about the family - and understands that her life is on the line.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 February 2026</li><li>Runtime: 124 minutes</li><li>Director: Gábor Holtai</li><li>Genres: Drama, Thriller</li><li>TMDB rating: 7.2/10 (26 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rozi Lovas as Rita</li><li>Áron Molnár as Marci</li><li>Dorka Gryllus as Juli</li><li>Tibor Szervét as Papa</li><li>Bettina Józsa as Anna</li><li>István Znamenák as Rudi</li><li>Kornél Simon as Miklós</li><li>Kati Zsurzs as The Neighbour</li><li>Soma Simon as Istvánka</li><li>Szalay-Dimitrov Máté as Tamás</li></ul>\n</article>",
+   "t": "Feels Like Home (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1436061": {
+   "d": "Fabian and the Deadly Wedding (2026): Comedy/Crime film. Story: Hapless con artist Fabian crashes a quirky winter… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yU85xdxN3rmt4RgGPb2na1SSjdM.jpg",
+   "industry": "world",
+   "k": "Fabian and the Deadly Wedding, Fabian and the Deadly Wedding movie, Fabian and the Deadly Wedding cast, Fabian and the Deadly Wedding story, Fabian and the Deadly Wedding box office collection, Fabian and the Deadly Wedding budget, Fabian and the Deadly Wedding review, Fabian and the Deadly Wedding rating, Fabian and the Deadly Wedding release date, Fabian and the Deadly Wedding Comedy, Fabian and the Deadly Wedding Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bastian Pastewka"
+     },
+     {
+      "@type": "Person",
+      "name": "Tamara Romera Ginés"
+     },
+     {
+      "@type": "Person",
+      "name": "Anton Dreger"
+     },
+     {
+      "@type": "Person",
+      "name": "Barbara Philipp"
+     },
+     {
+      "@type": "Person",
+      "name": "Ercan Durmaz"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 47,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Fabian and the Deadly Wedding (2026): Comedy/Crime film. Story: Hapless con artist Fabian crashes a quirky winter… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Markus Sehr"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yU85xdxN3rmt4RgGPb2na1SSjdM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1436061",
+    "name": "Fabian and the Deadly Wedding",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1436061"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fabian and the Deadly Wedding (2026)</h1>\n<p class=\"ssr-lead\">Hapless con artist Fabian crashes a quirky winter wedding, planning to steal a valuable gift meant for the bride. But when a murder disrupts his scheme, Fabian finds himself unexpectedly drawn into solving the mystery. A thrilling murder mystery comedy packed with dark secrets.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 February 2026</li><li>Runtime: 100 minutes</li><li>Director: Markus Sehr</li><li>Genres: Comedy, Crime, Mystery</li><li>TMDB rating: 6.3/10 (47 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bastian Pastewka as Fabian Kurtz</li><li>Tamara Romera Ginés as Milva Piel</li><li>Anton Dreger as Clemens Piel</li><li>Barbara Philipp as Freya Piel</li><li>Ercan Durmaz as Armin Piel</li><li>Mira Partecke as Katja Nager</li><li>Bernhard Schütz as Gerhard Nager</li><li>Nicole Beutler as Nikola Wankdorff</li><li>Taneshia Abt as Kim Orkin</li><li>Lena Dörrie as Annalena Ohlfeld</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Fabian and the Deadly Wedding (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1462861": {
+   "d": "Spider Island (2026): Comedy/Horror film. Story: A group of social media influencers go to the launch… See cast and TMDB rating 4.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/gZt1KXQRawEg3CTqzTamXYkniT4.jpg",
+   "industry": "world",
+   "k": "Spider Island, Spider Island movie, Spider Island cast, Spider Island story, Spider Island box office collection, Spider Island budget, Spider Island review, Spider Island rating, Spider Island release date, Spider Island Comedy, Spider Island Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rose Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Tim McInnerny"
+     },
+     {
+      "@type": "Person",
+      "name": "Avani Gregg"
+     },
+     {
+      "@type": "Person",
+      "name": "Andy Nyman"
+     },
+     {
+      "@type": "Person",
+      "name": "Abraham Lewis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 36,
+     "ratingValue": 4.6,
+     "worstRating": 0
+    },
+    "description": "Spider Island (2026): Comedy/Horror film. Story: A group of social media influencers go to the launch… See cast and TMDB rating 4.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Christopher Smith"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Comedy",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gZt1KXQRawEg3CTqzTamXYkniT4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1462861",
+    "name": "Spider Island",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1462861"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Spider Island (2026)</h1>\n<p class=\"ssr-lead\">A group of social media influencers go to the launch of a new hotel on a tropical island, where they find deadly spiders.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 August 2026</li><li>Runtime: 95 minutes</li><li>Director: Christopher Smith</li><li>Genres: Comedy, Horror</li><li>TMDB rating: 4.6/10 (36 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rose Williams as Clara</li><li>Tim McInnerny as Curtis</li><li>Avani Gregg as Finca</li><li>Andy Nyman as David</li><li>Abraham Lewis as Gary</li><li>Carlotta Banat as Rachel</li><li>Anuschka van Lent as Glamma</li><li>Justin Daniels Anene as Ed</li><li>Owen Warner as Kevin</li><li>Léna Mahfouf as Jodi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Spider Island (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1487861": {
+   "d": "Elize: Shadows of a Woman (2026): Thriller/Crime film. Story: In this retelling of a real case, a former escort… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg",
+   "industry": "world",
+   "k": "Elize: Shadows of a Woman, Elize: Shadows of a Woman movie, Elize: Shadows of a Woman cast, Elize: Shadows of a Woman story, Elize: Shadows of a Woman box office collection, Elize: Shadows of a Woman budget, Elize: Shadows of a Woman review, Elize: Shadows of a Woman rating, Elize: Shadows of a Woman release date, Elize: Shadows of a Woman trailer, Elize: Shadows of a Woman Thriller, Elize: Shadows of a Woman Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lorena Comparato"
+     },
+     {
+      "@type": "Person",
+      "name": "Henrique Kimura"
+     },
+     {
+      "@type": "Person",
+      "name": "Denise Weinberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Gustavo Falcão"
+     },
+     {
+      "@type": "Person",
+      "name": "Julia Shimura"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 246,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Elize: Shadows of a Woman (2026): Thriller/Crime film. Story: In this retelling of a real case, a former escort… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Vellas"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Thriller",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1487861",
+    "name": "Elize: Shadows of a Woman",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1487861"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Elize: Shadows of a Woman (2026)</h1>\n<p class=\"ssr-lead\">In this retelling of a real case, a former escort discovers her wealthy husband&#x27;s infidelity and struggles to cope as betrayal poisons their marriage.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 July 2026</li><li>Runtime: 93 minutes</li><li>Director: Vellas</li><li>Genres: Thriller, Crime, Drama</li><li>TMDB rating: 7.4/10 (246 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lorena Comparato as Elize Matsunaga</li><li>Henrique Kimura as Marcos Matsunaga</li><li>Denise Weinberg as Tia Marta</li><li>Gustavo Falcão as Heitor</li><li>Julia Shimura as Clarice</li><li>Flora Sandyá as Babá</li><li>Edson Kameda as Takashi</li><li>Miwa Yanagizawa as Masuyo</li><li>Arthur Toyoshima as Lauro</li><li>Julia Konrad as Larissa &quot;aka&quot; Bianca</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Elize: Shadows of a Woman (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1641961": {
+   "d": "Untold: The Death & Life of Lamar Odom (2026): Documentary film. Story: This documentary traces the life of Lamar Odom, from… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sLHSspHOdkTdK30nZVigY4zxC8P.jpg",
+   "industry": "world",
+   "k": "Untold: The Death & Life of Lamar Odom, Untold: The Death & Life of Lamar Odom movie, Untold: The Death & Life of Lamar Odom cast, Untold: The Death & Life of Lamar Odom story, Untold: The Death & Life of Lamar Odom box office collection, Untold: The Death & Life of Lamar Odom budget, Untold: The Death & Life of Lamar Odom review, Untold: The Death & Life of Lamar Odom rating, Untold: The Death & Life of Lamar Odom release date, Untold: The Death & Life of Lamar Odom trailer, Untold: The Death & Life of Lamar Odom Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lamar Odom"
+     },
+     {
+      "@type": "Person",
+      "name": "Khloé Kardashian"
+     },
+     {
+      "@type": "Person",
+      "name": "Liza Morales"
+     },
+     {
+      "@type": "Person",
+      "name": "LJ Odom"
+     },
+     {
+      "@type": "Person",
+      "name": "Destiny Odom"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 25,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Untold: The Death & Life of Lamar Odom (2026): Documentary film. Story: This documentary traces the life of Lamar Odom, from… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ryan Duffy"
+     }
+    ],
+    "duration": "PT81M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sLHSspHOdkTdK30nZVigY4zxC8P.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1641961",
+    "name": "Untold: The Death & Life of Lamar Odom",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1641961"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Untold: The Death &amp; Life of Lamar Odom (2026)</h1>\n<p class=\"ssr-lead\">This documentary traces the life of Lamar Odom, from his rise to NBA fame and marriage to Khloé Kardashian to his near-fatal overdose in a Nevada brothel.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 March 2026</li><li>Runtime: 81 minutes</li><li>Director: Ryan Duffy</li><li>Genres: Documentary</li><li>TMDB rating: 6.8/10 (25 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lamar Odom as Self - Former NBA Player</li><li>Khloé Kardashian as Self - Lamar&#x27;s Ex-Wife</li><li>Liza Morales as Self - Lamar&#x27;s Ex-Fiancée</li><li>LJ Odom as Self - Lamar&#x27;s Son</li><li>Destiny Odom as Self - Lamar&#x27;s Daughter</li><li>Janeane Mercer as Self - Lamar&#x27;s Aunt</li><li>Phil Jackson as Self - LA Lakers Coach / 13x NBA Champion</li><li>Metta Sandiford-Artest as Self - Former LA Lakers Player (fka Metta World Peace)</li><li>Anthony &#x27;Pumpkin&#x27; Booker as Self - Lamar&#x27;s Childhood Friend</li><li>Richard Hunter as Self - Former Manager of The Love Ranch</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Untold: The Death & Life of Lamar Odom (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1656061": {
+   "d": "Immortal Combat (2026): Action/Science Fiction film. Story: History's greatest warriors, including Genghis Khan… See cast and TMDB rating 4.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hwg3vj8MAXM8WISFnvjJsXXLHdw.jpg",
+   "industry": "world",
+   "k": "Immortal Combat, Immortal Combat movie, Immortal Combat cast, Immortal Combat story, Immortal Combat box office collection, Immortal Combat budget, Immortal Combat review, Immortal Combat rating, Immortal Combat release date, Immortal Combat trailer, Immortal Combat Action, Immortal Combat Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dominique Swain"
+     },
+     {
+      "@type": "Person",
+      "name": "Eve Fournier"
+     },
+     {
+      "@type": "Person",
+      "name": "Roxanne G.C. Brooks"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlit Dae"
+     },
+     {
+      "@type": "Person",
+      "name": "Samuel Selman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 27,
+     "ratingValue": 4.4,
+     "worstRating": 0
+    },
+    "description": "Immortal Combat (2026): Action/Science Fiction film. Story: History's greatest warriors, including Genghis Khan… See cast and TMDB rating 4.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Monroe Robertson"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Action",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hwg3vj8MAXM8WISFnvjJsXXLHdw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1656061",
+    "name": "Immortal Combat",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1656061"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Immortal Combat (2026)</h1>\n<p class=\"ssr-lead\">History&#x27;s greatest warriors, including Genghis Khan and Joan of Arc, are summoned by a shadowy organization to fight in a battle to the death. But unknown to their captors, the fighters have been plotting to turn the tables and dismantle the deadly enterprise from within.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 April 2026</li><li>Runtime: 88 minutes</li><li>Director: Monroe Robertson</li><li>Genres: Action, Science Fiction, Adventure</li><li>TMDB rating: 4.4/10 (27 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dominique Swain as Aria</li><li>Eve Fournier as Joan Of Arc</li><li>Roxanne G.C. Brooks as Cleopatra</li><li>Charlit Dae as Genghis Khan</li><li>Samuel Selman as Shaka Zulu</li><li>Josiah D. Lee as Oda Nobunaga</li><li>Sasha Di Capri as Attila The Hun</li><li>Mila Orion as Boudica</li><li>Peter Laboy as Gordon</li><li>Jenique Hendrix as Mama Huaco</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Immortal Combat (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:222461": {
    "d": "Wer (2013): Horror/Mystery film. Story: A defense attorney begins to suspect that her client… See cast, TMDB rating 6.4/10, and release date 16 November 2013.",
    "img": "https://image.tmdb.org/t/p/w780/rxf3zpKOxQTc0xobKewnGpFdNUt.jpg",
@@ -320,6 +831,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Collini Case (2019)</h1>\n<p class=\"ssr-lead\">A young lawyer stumbles upon a vast conspiracy while investigating a brutal murder case.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 April 2019</li><li>Runtime: 118 minutes</li><li>Director: Marco Kreuzpaintner</li><li>Genres: Drama, Thriller</li><li>TMDB rating: 7.4/10 (453 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Elyas M&#x27;Barek as Caspar Leinen</li><li>Heiner Lauterbach as Richard Mattinger</li><li>Alexandra Maria Lara as Johanna</li><li>Jannis Niewöhner as Young Hans Meyer</li><li>Rainer Bock as Staatsanwalt Dr. Reimers</li><li>Catrin Striebeck as Richterin</li><li>Franco Nero as Fabrizio Collini</li><li>Pia Stutzenstein as Nina</li><li>Peter Prager as Bernhard Leinen</li><li>Manfred Zapatka as Hans Meyer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The Collini Case (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:677561": {
+   "d": "The Legendaries (2026): Animation/Action film. Story: They are brave, intrepid, indomitable, and they… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vLEr8t7m5JXCZzmhjq9ZROq7dtr.jpg",
+   "industry": "world",
+   "k": "The Legendaries, The Legendaries movie, The Legendaries cast, The Legendaries story, The Legendaries box office collection, The Legendaries budget, The Legendaries review, The Legendaries rating, The Legendaries release date, The Legendaries trailer, The Legendaries Animation, The Legendaries Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Roman Doduik"
+     },
+     {
+      "@type": "Person",
+      "name": "Esthèle Dumand"
+     },
+     {
+      "@type": "Person",
+      "name": "Elise Tilloloy"
+     },
+     {
+      "@type": "Person",
+      "name": "Thomas Sagols"
+     },
+     {
+      "@type": "Person",
+      "name": "Antoine Schoumsky"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 31,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "The Legendaries (2026): Animation/Action film. Story: They are brave, intrepid, indomitable, and they… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Guillaume Ivernel"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Animation",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vLEr8t7m5JXCZzmhjq9ZROq7dtr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=677561",
+    "name": "The Legendaries",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=677561"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Legendaries (2026)</h1>\n<p class=\"ssr-lead\">They are brave, intrepid, indomitable, and they turned back to children! While fighting the terrible sorcerer Darkhell, the official heros of Alysia: The Legendaries accidentally broke the Jovenia stone, the one of eternal youth. This is how the whole kingdom of Alysia, and especially our champions, has fallen back into childhood. No more birth, but people keep on dying of accident or sickness… Humanity is then doomed to extinction. A real curse! And quite a blow to the myth of &quot;The Legendaries&quot;. The five warriors, formerly admired, have now to lie low… Today blamed and discredited, they are well decided to break the spell and fix their mistake. &quot;Nothing is impossible for a willing heart&quot;… Even at 10!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 January 2026</li><li>Runtime: 90 minutes</li><li>Director: Guillaume Ivernel</li><li>Genres: Animation, Action, Adventure, Comedy, Family, Fantasy</li><li>TMDB rating: 6.1/10 (31 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Roman Doduik as Danaël (voice)</li><li>Esthèle Dumand as Jadina (voice)</li><li>Elise Tilloloy as Shimy (voice)</li><li>Thomas Sagols as Razzia (voice)</li><li>Antoine Schoumsky as Gryf (voice)</li><li>Damien Witecka as Darkhell (voice)</li><li>Arthur Raynal as Elysio (voice)</li><li>Lila Lacombe as Ibycellia (voice)</li><li>Lucien Jean-Baptiste as The King (voice)</li><li>Marjorie Frantz as The Queen (voice)</li></ul>\n</article>",
+   "t": "The Legendaries (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:74461": {
    "d": "Knights of Badassdom (2014): Adventure/Fantasy film. Story: Three best friends and dedicated roleplayers take to… See cast and TMDB rating 5.6/10.",

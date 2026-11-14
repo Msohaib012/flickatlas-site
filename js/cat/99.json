@@ -1,6 +1,6 @@
 {
  "bucket": "99",
- "count": 10,
+ "count": 14,
  "titles": {
   "movie:109099": {
    "backdrop_path": "/sL5D4VGH63JoTSgABiQZgsQvQ1V.jpg",
@@ -125,6 +125,101 @@
    "vote_average": 5.197,
    "vote_count": 471
   },
+  "movie:1145899": {
+   "backdrop_path": "/qGPJ9AvOUpbpZjM6R7yqBDs4gsk.jpg",
+   "budget": 33555600,
+   "cast": [
+    {
+     "c": "David Ticoule",
+     "n": "Philippe Lacheau"
+    },
+    {
+     "c": "Pablito Camaron",
+     "n": "Jamel Debbouze"
+    },
+    {
+     "c": "Ricky Salsa",
+     "n": "Tarek Boudali"
+    },
+    {
+     "c": "Tess",
+     "n": "Élodie Fontan"
+    },
+    {
+     "c": "Stéphane Buisson",
+     "n": "Julien Arruti"
+    },
+    {
+     "c": "Jeffrey Malone",
+     "n": "Jean Reno"
+    },
+    {
+     "c": "Léo Ticoule",
+     "n": "Corentin Guillot"
+    },
+    {
+     "c": "Ship Captain",
+     "n": "Gérard Jugnot"
+    },
+    {
+     "c": "Pablito's Father",
+     "n": "Didier Bourdon"
+    },
+    {
+     "c": "Raymond Douanier",
+     "n": "Alban Ivanov"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "AL",
+   "date_kind": "release",
+   "director": [
+    "Philippe Lacheau"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Family"
+   ],
+   "id": 1145899,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "David is tasked to deliver a mysterious package from South America, only to find out he is carrying a baby Marsupilami!",
+   "popularity": 12.5008,
+   "poster_path": "/kMhVs1XqmzXlD0mDQ4rTJh4Kvf1.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-04",
+   "revenue": 22174000,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Hairy mess incoming!",
+   "title": "Marsupilami",
+   "trailer": {
+    "key": "pXGuY9qcSe0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.33,
+   "vote_count": 221
+  },
   "movie:11899": {
    "backdrop_path": "/t97xZTGkK1bBzIhjxoRdGnF9tcl.jpg",
    "budget": 8000000,
@@ -241,6 +336,168 @@
    "type": "movie",
    "vote_average": 6.619,
    "vote_count": 440
+  },
+  "movie:1226699": {
+   "backdrop_path": "/opubkXrPWbXKXIv8hBsiamTmKoM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Frankie / Frances",
+     "n": "Kristen Stewart"
+    },
+    {
+     "c": "Molly",
+     "n": "Alia Shawkat"
+    },
+    {
+     "c": "Not Metalhead Dave",
+     "n": "LaKeith Stanfield"
+    },
+    {
+     "c": "Josh",
+     "n": "Zack Fox"
+    },
+    {
+     "c": "Martin Flynn",
+     "n": "Tony Hale"
+    },
+    {
+     "c": "Jose",
+     "n": "Chris Estrada"
+    },
+    {
+     "c": "Axel",
+     "n": "Thomas La Barbera Christensen"
+    },
+    {
+     "c": "Dagmar",
+     "n": "Thor Knai"
+    },
+    {
+     "c": "Fritz",
+     "n": "Thomas Nicholson"
+    },
+    {
+     "c": "Dio (voice)",
+     "n": "Seth Rogen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Dylan Meyer"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Science Fiction"
+   ],
+   "id": 1226699,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
+   "popularity": 2.3183,
+   "poster_path": "/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-14",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "da"
+   ],
+   "status": "Released",
+   "tagline": "Best buds. Worst adults.",
+   "title": "The Wrong Girls",
+   "trailer": {
+    "key": "zrcg8YHSys8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.929,
+   "vote_count": 35
   },
   "movie:14299": {
    "backdrop_path": "/ubgl0v0crnOGYPGkR2hhIwv7Chm.jpg",
@@ -382,6 +639,243 @@
    "type": "movie",
    "vote_average": 7.086,
    "vote_count": 496
+  },
+  "movie:1515899": {
+   "backdrop_path": "/vTk6KQRLomlkMG5xqQIrzvyQB8z.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Self - Vocals, Piano, Guitar",
+     "n": "Billie Eilish"
+    },
+    {
+     "c": "Self - Vocals, Piano, Guitar",
+     "n": "FINNEAS"
+    },
+    {
+     "c": "Self - Drums",
+     "n": "Andrew Marshall"
+    },
+    {
+     "c": "Self - Bass",
+     "n": "Solomon Smith"
+    },
+    {
+     "c": "Self - Keys, Guitar",
+     "n": "Abraham Nouri"
+    },
+    {
+     "c": "Self - Keys, Guitar",
+     "n": "Tom Crouch"
+    },
+    {
+     "c": "Self - Background Vocals",
+     "n": "Jane Horner"
+    },
+    {
+     "c": "Self - Background Vocals",
+     "n": "Ava Horner"
+    },
+    {
+     "c": "Self (uncredited)",
+     "n": "James Cameron"
+    },
+    {
+     "c": "Self (uncredited)",
+     "n": "Maggie Baird"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "James Cameron",
+    "Billie Eilish"
+   ],
+   "genres": [
+    "Music",
+    "Documentary"
+   ],
+   "id": 1515899,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Captured during Billie Eilish's sold-out world tour, a concert experience from one of the most celebrated and successful artists of her generation, presented in immersive 3D.",
+   "popularity": 3.8931,
+   "poster_path": "/zfFvltKHntGBupFuubx3r61v48e.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-06",
+   "revenue": 26721893,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Billie Eilish and James Cameron reinvent the concert experience.",
+   "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
+   "trailer": {
+    "key": "9ElURjcuWLQ",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.449,
+   "vote_count": 89
+  },
+  "movie:1668499": {
+   "backdrop_path": "/hMKAPLiacrrqRXlHGMyyIosfjzr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jacky (voice)",
+     "n": "Alain Chabat"
+    },
+    {
+     "c": "Bruno Moulin (voice)",
+     "n": "Jonathan Cohen"
+    },
+    {
+     "c": "Fabienne Moulin / Claude Moulin (voice)",
+     "n": "Anaïs Demoustier"
+    },
+    {
+     "c": "Christophe Bourgeois (voice)",
+     "n": "Jean-Marie Winling"
+    },
+    {
+     "c": "Old Man (voice)",
+     "n": "Jean-Christophe Le Guennan"
+    },
+    {
+     "c": "Child 1 (voice)",
+     "n": "Oscar Vercken de Vreuschmen"
+    },
+    {
+     "c": "Child 2 (voice)",
+     "n": "Coco Dupieux"
+    },
+    {
+     "c": "Homeless (voice)",
+     "n": "Anna-Marie Filippi"
+    },
+    {
+     "c": "Coffee Server (voice)",
+     "n": "Léo Pouliquen"
+    },
+    {
+     "c": "Bus Driver (voice)",
+     "n": "Sava Lolov"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TP",
+   "date_kind": "release",
+   "director": [
+    "Quentin Dupieux"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 1668499,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Jacques goes to his friend Bruno's house to tell him some big news: the entire human race is living in a simulation...",
+   "popularity": 1.9077,
+   "poster_path": "/qO8nc3cSjzGduaC0deh8gBRKK9Z.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-10",
+   "revenue": 0,
+   "runtime": 67,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Vertiginous",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 56
   },
   "movie:16899": {
    "backdrop_path": "/yxpWmblcrFeX0uLvDbLJYBJqYvy.jpg",

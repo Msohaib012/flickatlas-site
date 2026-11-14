@@ -1,7 +1,683 @@
 {
  "bucket": "93",
- "count": 11,
+ "count": 19,
  "titles": {
+  "movie:1199193": {
+   "backdrop_path": "/bAFnjhweXxHUWjmFzMTuX12Ud3b.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Thomas",
+     "n": "James McAvoy"
+    },
+    {
+     "c": "Peter",
+     "n": "Lucas Bravo"
+    },
+    {
+     "c": "Dolly",
+     "n": "Leila Farzad"
+    },
+    {
+     "c": "Jemima",
+     "n": "Almudena Amor"
+    },
+    {
+     "c": "Patricia",
+     "n": "Aisling Franciosi"
+    },
+    {
+     "c": "Mimi",
+     "n": "Elektra Jansson-Kilbey"
+    },
+    {
+     "c": "Melanie",
+     "n": "Maria Therese Bassetti"
+    },
+    {
+     "c": "Woman in Photograph",
+     "n": "Kristin Zakala"
+    },
+    {
+     "c": "Kader",
+     "n": "Shubham Saraf"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Jamie Adams"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 1199193,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Isolated in a grand country manor, a reclusive artist spends a passionate and paranoid weekend with his ex-lover, an obsessive fan, and a potential muse. Hoping to spark a new wave of artistic brilliance over the course of a few tumultuous days, filled with chaos and revelation not all of them will make it out alive.",
+   "popularity": 2.9091,
+   "poster_path": "/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-25",
+   "revenue": 0,
+   "runtime": 77,
+   "source": "catalogue",
+   "spoken_languages": [],
+   "status": "Released",
+   "tagline": "",
+   "title": "Pose",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 43
+  },
+  "movie:1241693": {
+   "backdrop_path": "/tAh0dkZiOSICkRlv9wXOsvcNl4s.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shashank Sharma",
+     "n": "Siddhant Chaturvedi"
+    },
+    {
+     "c": "Roshni Shrivastav",
+     "n": "Mrunal Thakur"
+    },
+    {
+     "c": "Ila Rastogi",
+     "n": "Ila Arun"
+    },
+    {
+     "c": "Adarsh Shrivastav",
+     "n": "Joy Sengupta"
+    },
+    {
+     "c": "Kusum Shrivastav",
+     "n": "Ayesha Raza Mishra"
+    },
+    {
+     "c": "Anil",
+     "n": "Viraj Ghelani"
+    },
+    {
+     "c": "Naina",
+     "n": "Sandeepa Dhar"
+    },
+    {
+     "c": "Deepak Sharma",
+     "n": "Deepraj Rana"
+    },
+    {
+     "c": "Sudha Sharma",
+     "n": "Mona Ambegaonkar"
+    },
+    {
+     "c": "",
+     "n": "Naveen Kaushik"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Ravi Udyawar"
+   ],
+   "genres": [
+    "Romance",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1241693,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "Two socially awkward millennials in Mumbai find love while struggling with self-acceptance. As they battle insecurities and societal pressure, their journey takes them from city chaos to mountain serenity.",
+   "popularity": 1.5532,
+   "poster_path": "/p8yPjT9NAH87oD9TedclRaAW7RY.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-20",
+   "revenue": 0,
+   "runtime": 137,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Do Deewane Seher Mein",
+   "trailer": {
+    "key": "rjtPZbBUawE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 21
+  },
+  "movie:1279493": {
+   "backdrop_path": "/9Bv4Oki9u3aKZxDCNDcU4N2mttb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Manco Kapak",
+     "n": "Russell Crowe"
+    },
+    {
+     "c": "Joe Carver",
+     "n": "Luke Evans"
+    },
+    {
+     "c": "Sunny",
+     "n": "Teresa Palmer"
+    },
+    {
+     "c": "Rodriguez",
+     "n": "Daniel Zovatto"
+    },
+    {
+     "c": "Slosser",
+     "n": "Josh McConville"
+    },
+    {
+     "c": "Spence",
+     "n": "Benedict Hardie"
+    },
+    {
+     "c": "Carrie",
+     "n": "Nina Dobrev"
+    },
+    {
+     "c": "Jeff",
+     "n": "Aaron Paul"
+    },
+    {
+     "c": "Irena",
+     "n": "Kartiah Vergara"
+    },
+    {
+     "c": "Lola",
+     "n": "Steffi Gil"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Derrick Borte"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 1279493,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
+   "popularity": 17.1966,
+   "poster_path": "/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+   "production_countries": [
+    "US",
+    "AU",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-18",
+   "revenue": 0,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The night life is dirty business.",
+   "title": "The Get Out",
+   "trailer": {
+    "key": "oB6HNuKxLmo",
+    "name": "The Get Out | Official Trailer (HD) | Vertical",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.139,
+   "vote_count": 165
+  },
+  "movie:1430593": {
+   "backdrop_path": "/psAGX272PFGdpKmSJI4x8sGPciZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bradley Mack",
+     "n": "Kiefer Sutherland"
+    },
+    {
+     "c": "Jill",
+     "n": "Rebel Wilson"
+    },
+    {
+     "c": "Albert",
+     "n": "Derek Jacobi"
+    },
+    {
+     "c": "Cassandra",
+     "n": "Meera Syal"
+    },
+    {
+     "c": "Kieran",
+     "n": "Danny Dyer"
+    },
+    {
+     "c": "Nigel",
+     "n": "Mawaan Rizwan"
+    },
+    {
+     "c": "Emma",
+     "n": "Matilda Firth"
+    },
+    {
+     "c": "Cara",
+     "n": "Theodora Williams"
+    },
+    {
+     "c": "Agent",
+     "n": "Katherine Ryan"
+    },
+    {
+     "c": "Grace",
+     "n": "Alice Eve"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Chris Foggin"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 1430593,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A washed-up Hollywood action hero is tricked into starring in a small English town’s chaotic Christmas pantomime, where a straight-talking dance instructor and his estranged daughter just might help him rediscover the magic of the season.",
+   "popularity": 1.5561,
+   "poster_path": "/9YxpBl5CRAaBiQhQG7uZ86Jw2Hv.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-04",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Star-struck at Christmas.",
+   "title": "Tinsel Town",
+   "trailer": {
+    "key": "ObrcqCxZlPg",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 39
+  },
+  "movie:1599993": {
+   "backdrop_path": "/466HJFm5SCys70ecnqJcSOeAHPG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Amelia",
+     "n": "Nashla Bogaert"
+    },
+    {
+     "c": "Martín",
+     "n": "Frank Perozo"
+    },
+    {
+     "c": "Sofía",
+     "n": "Pamela Sued"
+    },
+    {
+     "c": "Santiago",
+     "n": "David Maler"
+    },
+    {
+     "c": "Jessica",
+     "n": "Camila Issa"
+    },
+    {
+     "c": "Franco",
+     "n": "Pedro Casals"
+    },
+    {
+     "c": "Deborah",
+     "n": "Vitaly Sánchez"
+    },
+    {
+     "c": "Lucía",
+     "n": "María del Mar Bonelly"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "José Ramón Alama"
+   ],
+   "genres": [
+    "Comedy",
+    "Thriller"
+   ],
+   "id": 1599993,
+   "industry": "world",
+   "origin_country": [
+    "DO"
+   ],
+   "original_language": "es",
+   "overview": "Four couples sail the thin line between desire and search for authenticity, in a world where truth is as fragile as their relationships.",
+   "popularity": 2.8818,
+   "poster_path": "/9fbZdiOI9fRinl44mNm3CYgEtYR.jpg",
+   "production_countries": [
+    "DO"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-05",
+   "revenue": 0,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Hay puertas que no se deben abrir.",
+   "title": "Animales",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 57
+  },
   "movie:27793": {
    "backdrop_path": "/12Tr8MQ3z4M2Kpsz7bQQhghNJ5X.jpg",
    "budget": 17000000,
@@ -442,6 +1118,427 @@
    "type": "movie",
    "vote_average": 6.372,
    "vote_count": 461
+  },
+  "movie:680493": {
+   "backdrop_path": "/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
+   "budget": 23000000,
+   "cast": [
+    {
+     "c": "James Sunderland",
+     "n": "Jeremy Irvine"
+    },
+    {
+     "c": "Mary Crane  / Angela / Maria / Moth Mary",
+     "n": "Hannah Emily Anderson"
+    },
+    {
+     "c": "Armless",
+     "n": "Ljiljana Velimirov"
+    },
+    {
+     "c": "Armless / Spider Lady",
+     "n": "Giulia Pelagatti"
+    },
+    {
+     "c": "Laura",
+     "n": "Evie Templeton"
+    },
+    {
+     "c": "Pyramid Head",
+     "n": "Robert Strange"
+    },
+    {
+     "c": "Eddie",
+     "n": "Pearse Egan"
+    },
+    {
+     "c": "M",
+     "n": "Nicola Alexis"
+    },
+    {
+     "c": "Kaitlyn",
+     "n": "Eve Macklin"
+    },
+    {
+     "c": "Dara",
+     "n": "Emily Carding"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Christophe Gans"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 680493,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
+   "popularity": 14.4974,
+   "poster_path": "/wR7SLLw8me86JTf0a0o3KScJD7r.jpg",
+   "production_countries": [
+    "FR",
+    "JP",
+    "US",
+    "GB",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-23",
+   "revenue": 47976996,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "pl",
+    "en",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "Guilt is a place you can never leave.",
+   "title": "Return to Silent Hill",
+   "trailer": {
+    "key": "z10cMFhKbW8",
+    "name": "Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.3,
+   "vote_count": 936
+  },
+  "movie:696393": {
+   "backdrop_path": "/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Naomi",
+     "n": "Georgina Campbell"
+    },
+    {
+     "c": "Teacake",
+     "n": "Joe Keery"
+    },
+    {
+     "c": "Robert Quinn",
+     "n": "Liam Neeson"
+    },
+    {
+     "c": "Abigail",
+     "n": "Ellora Torchia"
+    },
+    {
+     "c": "Mary Rooney",
+     "n": "Vanessa Redgrave"
+    },
+    {
+     "c": "Dr. Hero Martins",
+     "n": "Sosie Bacon"
+    },
+    {
+     "c": "Trini Romano",
+     "n": "Lesley Manville"
+    },
+    {
+     "c": "Wesley Jerabek",
+     "n": "Richard Brake"
+    },
+    {
+     "c": "Mike Snyder",
+     "n": "Aaron Heffernan"
+    },
+    {
+     "c": "Enos Namatjira",
+     "n": "Rob Collins"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jonny Campbell"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction",
+    "Comedy"
+   ],
+   "id": 696393,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a mutating, highly contagious fungus escapes a sealed facility, two employees – joined by a grizzled bioterror operative – must survive the wildest night shift ever to save humanity from extinction.",
+   "popularity": 6.9759,
+   "poster_path": "/3HA2iiq982e01EKXJvPFyfMADVM.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Zee5"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-22",
+   "revenue": 4048606,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "If it spreads, you're dead.",
+   "title": "Cold Storage",
+   "trailer": {
+    "key": "kea7gnh1uYA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 876
+  },
+  "movie:947493": {
+   "backdrop_path": "/qMryViRTIek9SkkOPjNMfnbCuI6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Christophe (voice)",
+     "n": "Gary Clichy"
+    },
+    {
+     "c": "JB (voice)",
+     "n": "Rod Paradot"
+    },
+    {
+     "c": "Jean (voice)",
+     "n": "Dimitri Colas"
+    },
+    {
+     "c": "Catherine (voice)",
+     "n": "Aurélie Vassort"
+    },
+    {
+     "c": "Clara (voice)",
+     "n": "Brune Moulin"
+    },
+    {
+     "c": "Michel (voice)",
+     "n": "Alexandre Astier"
+    },
+    {
+     "c": "The Priest (voice)",
+     "n": "Jean-Pascal Zadi"
+    },
+    {
+     "c": "Alcide (voice)",
+     "n": "Antoine Philippe"
+    },
+    {
+     "c": "Sophie (voice)",
+     "n": "Margaux Vallé"
+    },
+    {
+     "c": "The Bailiff (voice)",
+     "n": "Axel Huet"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Louis Clichy"
+   ],
+   "genres": [
+    "Animation",
+    "Drama",
+    "Family"
+   ],
+   "id": 947493,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "BE"
+   ],
+   "original_language": "fr",
+   "overview": "In rural France, 10-year-old Christophe tries to live up to his rigid and distant father on the family farm. But the young boy starts to lean over and collapse without warning — on the tractor, at school, at dinner... A doctor finds the solution: Christophe must wear an iron corset to keep himself upright. Forced to reinvent his life away from the farm, Christophe discovers a new passion for music, meets a new friend, and follows her into his first mischief. But will any of this really fix what is out of balance?",
+   "popularity": 2.5413,
+   "poster_path": "/ltn7a7pfb7bXTEg1YEwVeAHs9GY.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-14",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Iron Boy",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.052,
+   "vote_count": 48
   },
   "tv:2593": {
    "backdrop_path": "/9PBVvl5o88WyKoynCYsws9jkGAl.jpg",

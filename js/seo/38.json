@@ -1,7 +1,455 @@
 {
  "bucket": "38",
- "count": 10,
+ "count": 20,
  "titles": {
+  "movie:1154538": {
+   "d": "Nirvanna the Band the Show the Movie (2026): Comedy/Science Fiction film. Story: When their plan to book a show at the Rivoli goes… See cast and budget $1.2M.",
+   "img": "https://image.tmdb.org/t/p/w780/hs4QXgPuKJ4PPwYBWNTod61RKiA.jpg",
+   "industry": "world",
+   "k": "Nirvanna the Band the Show the Movie, Nirvanna the Band the Show the Movie movie, Nirvanna the Band the Show the Movie cast, Nirvanna the Band the Show the Movie story, Nirvanna the Band the Show the Movie box office collection, Nirvanna the Band the Show the Movie budget, Nirvanna the Band the Show the Movie review, Nirvanna the Band the Show the Movie rating, Nirvanna the Band the Show the Movie release date, Nirvanna the Band the Show the Movie trailer, Nirvanna the Band the Show the Movie Comedy, Nirvanna the Band the Show the Movie Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Matt Johnson"
+     },
+     {
+      "@type": "Person",
+      "name": "Jay McCarrol"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Petrie"
+     },
+     {
+      "@type": "Person",
+      "name": "Ethan Eng"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Scott"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 160,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Nirvanna the Band the Show the Movie (2026): Comedy/Science Fiction film. Story: When their plan to book a show at the Rivoli goes… See cast and budget $1.2M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Matt Johnson"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hs4QXgPuKJ4PPwYBWNTod61RKiA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1154538",
+    "name": "Nirvanna the Band the Show the Movie",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1154538"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Nirvanna the Band the Show the Movie (2026)</h1>\n<p class=\"ssr-lead\">When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 February 2026</li><li>Runtime: 100 minutes</li><li>Director: Matt Johnson</li><li>Genres: Comedy, Science Fiction, Adventure</li><li>Budget: $1.2M</li><li>TMDB rating: 7.6/10 (160 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Matt Johnson as Matt</li><li>Jay McCarrol as Jay</li><li>Ben Petrie as Ben</li><li>Ethan Eng as Ethan</li><li>Michael Scott as Michael</li><li>Jared Raab as Jared</li><li>Reid Janisse as Reid</li><li>Steve Hamelin as Steve</li><li>Luke Lalonde as Luke</li><li>Maddy Wilde as Maddy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Nirvanna the Band the Show the Movie (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1215638": {
+   "d": "Checkered Ninja 3 (2026): Animation/Action film. Story: In this 3rd installment Alex’s interest for Ninja… See cast and TMDB rating 8.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7XjMb92bOVg51fA3RFbuoZwwTOK.jpg",
+   "industry": "world",
+   "k": "Checkered Ninja 3, Checkered Ninja 3 movie, Checkered Ninja 3 cast, Checkered Ninja 3 story, Checkered Ninja 3 box office collection, Checkered Ninja 3 budget, Checkered Ninja 3 review, Checkered Ninja 3 rating, Checkered Ninja 3 release date, Checkered Ninja 3 trailer, Checkered Ninja 3 Animation, Checkered Ninja 3 Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anders Matthesen"
+     },
+     {
+      "@type": "Person",
+      "name": "Flora Ofelia Hofmann Lindahl"
+     },
+     {
+      "@type": "Person",
+      "name": "Louis Næss-Schmidt"
+     },
+     {
+      "@type": "Person",
+      "name": "Emma Sehested Høeg"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 28,
+     "ratingValue": 8.4,
+     "worstRating": 0
+    },
+    "description": "Checkered Ninja 3 (2026): Animation/Action film. Story: In this 3rd installment Alex’s interest for Ninja… See cast and TMDB rating 8.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Thorbjørn Christoffersen"
+     },
+     {
+      "@type": "Person",
+      "name": "Anders Matthesen"
+     }
+    ],
+    "duration": "PT84M",
+    "genre": [
+     "Animation",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7XjMb92bOVg51fA3RFbuoZwwTOK.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1215638",
+    "name": "Checkered Ninja 3",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1215638"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Checkered Ninja 3 (2026)</h1>\n<p class=\"ssr-lead\">In this 3rd installment Alex’s interest for Ninja missions is starting to vanish. He’ll rather spend his time with his friends and Checkered Ninja feels he is overlooked and is eager to engage in a new mission. The result of this is that Alex, by accident, ends up having a conflict with Marco, the bad boy boyfriend of Jessica, entangling him in a conflict he hasn’t asked for and he is pressured by Checkered Ninja to defend himself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 January 2026</li><li>Runtime: 84 minutes</li><li>Director: Thorbjørn Christoffersen, Anders Matthesen</li><li>Genres: Animation, Action, Comedy</li><li>TMDB rating: 8.4/10 (28 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anders Matthesen as Ternet Ninja (voice)</li><li>Flora Ofelia Hofmann Lindahl as Emily (voice)</li><li>Louis Næss-Schmidt as Aske (voice)</li><li>Emma Sehested Høeg as Jessica (voice)</li></ul>\n</article>",
+   "t": "Checkered Ninja 3 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1280738": {
+   "d": "The Furious (2026): Action/Crime film. Story: When Wang Wei's daughter is abducted by a criminal… See cast, budget $20M, and TMDB rating 8.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/i0eR9O1FnCgBm1cH8WwqxGbAXMS.jpg",
+   "industry": "world",
+   "k": "The Furious, The Furious movie, The Furious cast, The Furious story, The Furious box office collection, The Furious budget, The Furious review, The Furious rating, The Furious release date, The Furious trailer, The Furious Action, The Furious Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Xie Miao"
+     },
+     {
+      "@type": "Person",
+      "name": "Joe Taslim"
+     },
+     {
+      "@type": "Person",
+      "name": "Yang Enyou"
+     },
+     {
+      "@type": "Person",
+      "name": "Yayan Ruhian"
+     },
+     {
+      "@type": "Person",
+      "name": "JeeJa Yanin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 896,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "The Furious (2026): Action/Crime film. Story: When Wang Wei's daughter is abducted by a criminal… See cast, budget $20M, and TMDB rating 8.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kenji Tanigaki"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/i0eR9O1FnCgBm1cH8WwqxGbAXMS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1280738",
+    "name": "The Furious",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1280738"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Furious (2026)</h1>\n<p class=\"ssr-lead\">When Wang Wei&#x27;s daughter is abducted by a criminal organization and law enforcement declines to intervene due to corruption, Wei embarks on a solo mission to find her. His sole ally is Navin, a determined journalist whose wife has also mysteriously disappeared. Together, this improbable pair confronts the kidnappers in a fierce martial arts confrontation, driven by an intense desire for retribution.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 June 2026</li><li>Runtime: 113 minutes</li><li>Director: Kenji Tanigaki</li><li>Genres: Action, Crime, Thriller</li><li>Budget: $20M</li><li>TMDB rating: 8.2/10 (896 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Xie Miao as Wang Wei</li><li>Joe Taslim as Navin</li><li>Yang Enyou as Rainy</li><li>Yayan Ruhian as Tak</li><li>JeeJa Yanin as Matia</li><li>Brian Le as Ho</li><li>Joey Iwanaga as Pak Lung</li><li>Sahajak Boonthanakit as Mr. Song</li><li>Manatsanun Panlertwongskul as Yadong</li><li>Winai Wiangyangkung as Donkey Head</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Furious (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1341138": {
+   "d": "Spa Weekend (2026): Comedy film. Story: Four lifelong friends realize that somewhere between… See cast, budget $20M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ftFf9sfJq69xJ0AuiaIuDKBtfzg.jpg",
+   "industry": "world",
+   "k": "Spa Weekend, Spa Weekend movie, Spa Weekend cast, Spa Weekend story, Spa Weekend box office collection, Spa Weekend budget, Spa Weekend review, Spa Weekend rating, Spa Weekend release date, Spa Weekend trailer, Spa Weekend Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Leslie Mann"
+     },
+     {
+      "@type": "Person",
+      "name": "Michelle Buteau"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Faris"
+     },
+     {
+      "@type": "Person",
+      "name": "Isla Fisher"
+     },
+     {
+      "@type": "Person",
+      "name": "Adam Demos"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 70,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Spa Weekend (2026): Comedy film. Story: Four lifelong friends realize that somewhere between… See cast, budget $20M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jon Lucas"
+     },
+     {
+      "@type": "Person",
+      "name": "Scott Moore"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ftFf9sfJq69xJ0AuiaIuDKBtfzg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1341138",
+    "name": "Spa Weekend",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1341138"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Spa Weekend (2026)</h1>\n<p class=\"ssr-lead\">Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 August 2026</li><li>Runtime: 97 minutes</li><li>Director: Jon Lucas, Scott Moore</li><li>Genres: Comedy</li><li>Budget: $20M</li><li>TMDB rating: 6.5/10 (70 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Leslie Mann as Jane</li><li>Michelle Buteau as Coco</li><li>Anna Faris as Sophie</li><li>Isla Fisher as Mel</li><li>Adam Demos as Kai</li><li>Dominic Ona-Ariki as Roger</li><li>Erika Heynatz as Shanti</li><li>Courtney Clarke as Ayurveda</li><li>Quinn Aune as Young Mel</li><li>Sierra Rose as Young Coco</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Spa Weekend (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1376838": {
+   "d": "A Sad and Beautiful World (2026): Romance/Drama film. Story: Across three decades of passion, loss, and hope, Nino… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lt7BVTAl7XL1uYYg8x6JI0LZWbb.jpg",
+   "industry": "world",
+   "k": "A Sad and Beautiful World, A Sad and Beautiful World movie, A Sad and Beautiful World cast, A Sad and Beautiful World story, A Sad and Beautiful World box office collection, A Sad and Beautiful World budget, A Sad and Beautiful World review, A Sad and Beautiful World rating, A Sad and Beautiful World release date, A Sad and Beautiful World trailer, A Sad and Beautiful World Romance, A Sad and Beautiful World Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mounia Akl"
+     },
+     {
+      "@type": "Person",
+      "name": "Hasan Akil"
+     },
+     {
+      "@type": "Person",
+      "name": "Camille Salameh"
+     },
+     {
+      "@type": "Person",
+      "name": "Julia Kassar"
+     },
+     {
+      "@type": "Person",
+      "name": "Tino Karam"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 26,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "A Sad and Beautiful World (2026): Romance/Drama film. Story: Across three decades of passion, loss, and hope, Nino… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Cyril Aris"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lt7BVTAl7XL1uYYg8x6JI0LZWbb.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1376838",
+    "name": "A Sad and Beautiful World",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1376838"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Sad and Beautiful World (2026)</h1>\n<p class=\"ssr-lead\">Across three decades of passion, loss, and hope, Nino and Yasmina are bound by a magnetic relationship. Torn between love and survival, they must decide whether to build a family in Lebanon or leave their home despite tragedies.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 January 2026</li><li>Runtime: 110 minutes</li><li>Director: Cyril Aris</li><li>Genres: Romance, Drama, Comedy</li><li>TMDB rating: 6.9/10 (26 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mounia Akl as Yasmina</li><li>Hasan Akil as Nino</li><li>Camille Salameh as Antoine</li><li>Julia Kassar as Omaya</li><li>Tino Karam as Chafic</li><li>Nadyn Chalhoub as Leila</li><li>Alex Choueiry as Young Yasmina</li><li>Valentina Hachem as Amal</li><li>Mohamad Farhat as Young Nino</li><li>Yara Zakhour as Young Omaya</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "A Sad and Beautiful World (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1427838": {
+   "d": "The Holy Grill (2026): Comedy/Drama film. Story: At a tennis club in rural Germany, preparations for… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/w7hqriNqhyGZb30mPDmBW6tFyMs.jpg",
+   "industry": "world",
+   "k": "The Holy Grill, The Holy Grill movie, The Holy Grill cast, The Holy Grill story, The Holy Grill box office collection, The Holy Grill budget, The Holy Grill review, The Holy Grill rating, The Holy Grill release date, The Holy Grill Comedy, The Holy Grill Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hape Kerkeling"
+     },
+     {
+      "@type": "Person",
+      "name": "Christoph Maria Herbst"
+     },
+     {
+      "@type": "Person",
+      "name": "Fahri Yardım"
+     },
+     {
+      "@type": "Person",
+      "name": "Anja Knauer"
+     },
+     {
+      "@type": "Person",
+      "name": "Friedrich Mücke"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 89,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "The Holy Grill (2026): Comedy/Drama film. Story: At a tennis club in rural Germany, preparations for… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Marcus H. Rosenmüller"
+     }
+    ],
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/w7hqriNqhyGZb30mPDmBW6tFyMs.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1427838",
+    "name": "The Holy Grill",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1427838"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Holy Grill (2026)</h1>\n<p class=\"ssr-lead\">At a tennis club in rural Germany, preparations for the summer party are led by Heribert. When a separate grill is suggested for Erol, the club&#x27;s only Muslim member, tensions flare. What begins as a simple discussion quickly turns into a debate about societal and personal conflicts, threatening to tear the club apart.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 January 2026</li><li>Director: Marcus H. Rosenmüller</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 6.5/10 (89 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hape Kerkeling as Heribert Bräsemann</li><li>Christoph Maria Herbst as Torsten Pfaff</li><li>Fahri Yardım as Erol Oturan</li><li>Anja Knauer as Melanie Pfaff</li><li>Friedrich Mücke as Matthias Scholz</li><li>Gaby Dohm as Elisabeth Scholz</li><li>Milan Peschel as Hans-Günther Schnippering</li><li>Katrin Röver as Anne Ackermeier</li><li>Patrick Joswig as Heinz Grumberger</li><li>Marlene Markt as Laura</li></ul>\n</article>",
+   "t": "The Holy Grill (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1457938": {
+   "d": "The Lesson (2026): Drama film. Story: A brilliant, young lawyer from Trieste is contacted… See cast, TMDB rating 5.2/10, and release date 5 March 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/6IuoMwcq20Y8xZ7UqQzZwjn0Esc.jpg",
+   "industry": "world",
+   "k": "The Lesson, The Lesson movie, The Lesson cast, The Lesson story, The Lesson box office collection, The Lesson budget, The Lesson review, The Lesson rating, The Lesson release date, The Lesson Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Matilda De Angelis"
+     },
+     {
+      "@type": "Person",
+      "name": "Stefano Accorsi"
+     },
+     {
+      "@type": "Person",
+      "name": "Marlon Joubert"
+     },
+     {
+      "@type": "Person",
+      "name": "Eugenio Franceschini"
+     },
+     {
+      "@type": "Person",
+      "name": "Lidia Liberman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 48,
+     "ratingValue": 5.2,
+     "worstRating": 0
+    },
+    "description": "The Lesson (2026): Drama film. Story: A brilliant, young lawyer from Trieste is contacted… See cast, TMDB rating 5.2/10, and release date 5 March 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stefano Mordini"
+     }
+    ],
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6IuoMwcq20Y8xZ7UqQzZwjn0Esc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1457938",
+    "name": "The Lesson",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1457938"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Lesson (2026)</h1>\n<p class=\"ssr-lead\">A brilliant, young lawyer from Trieste is contacted by a charismatic university professor, whom she previously successfully defended against an accusation of sexual violence, to sue his university which has reinstated him but relegated him to a marginal role. Meanwhile, her past comes back to haunt her: strange signs, a fleeting sense of a presence and an ongoing threatening feeling lead her to believe that her ex-partner - who was abusive and obsessive over her, to the point of being convicted of stalking – is once again harassing her.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 March 2026</li><li>Director: Stefano Mordini</li><li>Genres: Drama</li><li>TMDB rating: 5.2/10 (48 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Matilda De Angelis as Elisabetta Sferzi</li><li>Stefano Accorsi as Angelo Walder</li><li>Marlon Joubert as Daniele</li><li>Eugenio Franceschini as Cristiano</li><li>Lidia Liberman as Giulia Ripamonti</li><li>Marco Maccieri as Fabrizio Fiori</li><li>Alberto Benedetto Lutri as Paolo Valduga</li></ul>\n</article>",
+   "t": "The Lesson (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:14638": {
    "d": "The Killers (1946): Crime/Mystery film. Story: Two hit men walk into a diner asking for a man called… See cast and TMDB rating 7.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/w6XdWl6L2WDHJGw2FKySbi86WDg.jpg",
@@ -65,6 +513,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Killers (1946)</h1>\n<p class=\"ssr-lead\">Two hit men walk into a diner asking for a man called &quot;the Swede&quot;. When the killers find the Swede, he&#x27;s expecting them and doesn&#x27;t put up a fight. Since the Swede had a life insurance policy, an investigator, on a hunch, decides to look into the murder. As the Swede&#x27;s past is laid bare, it comes to light that he was in love with a beautiful woman who may have lured him into pulling off a bank robbery overseen by another man.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 August 1946</li><li>Runtime: 103 minutes</li><li>Director: Robert Siodmak</li><li>Genres: Crime, Mystery, Thriller</li><li>TMDB rating: 7.4/10 (456 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Edmond O&#x27;Brien as Jim Reardon</li><li>Burt Lancaster as &#x27;Swede&#x27; Andersen</li><li>Ava Gardner as Kitty Collins</li><li>Albert Dekker as Big Jim Colfax</li><li>Sam Levene as Lt. Sam Lubinsky</li><li>Vince Barnett as Charleston</li><li>Virginia Christine as Lilly Harmon Lubinsky</li><li>Jack Lambert as &#x27;Dum-Dum&#x27; Clarke</li><li>Charles D. Brown as Packy Robinson - Ole&#x27;s Manager</li><li>Donald MacBride as R.S. Kenyon</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "The Killers (1946) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1946"
+  },
+  "movie:1472638": {
+   "d": "Buen Camino (2025): Comedy/Family film. Story: Checco's life is a comfortable and luxurious one, and… See cast, budget $28.1M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7Whk4F7xQYF5eUwJp50Oa8GvpVd.jpg",
+   "industry": "world",
+   "k": "Buen Camino, Buen Camino movie, Buen Camino cast, Buen Camino story, Buen Camino box office collection, Buen Camino budget, Buen Camino review, Buen Camino rating, Buen Camino release date, Buen Camino Comedy, Buen Camino Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Checco Zalone"
+     },
+     {
+      "@type": "Person",
+      "name": "Beatriz Arjona"
+     },
+     {
+      "@type": "Person",
+      "name": "Letizia Arnò"
+     },
+     {
+      "@type": "Person",
+      "name": "Martina Colombari"
+     },
+     {
+      "@type": "Person",
+      "name": "Hossein Taheri"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 637,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Buen Camino (2025): Comedy/Family film. Story: Checco's life is a comfortable and luxurious one, and… See cast, budget $28.1M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gennaro Nunziante"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Comedy",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7Whk4F7xQYF5eUwJp50Oa8GvpVd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1472638",
+    "name": "Buen Camino",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1472638"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Buen Camino (2025)</h1>\n<p class=\"ssr-lead\">Checco&#x27;s life is a comfortable and luxurious one, and it couldn&#x27;t be otherwise, considering he&#x27;s the only son of Eugenio Zalone, a wealthy sofa manufacturer. Stranded by the pool in his luxurious villas, with an unspecified number of Filipinos serving him, a very young Mexican model as a girlfriend, and vacationing on his yacht with friends who share his passion for not wanting to work; it seems like a truly enviable life, considering he lacks nothing, absolutely nothing. Actually, no. Something is missing. It&#x27;s his underage daughter, Cristal, named after the famous French sparkling wine, who has suddenly disappeared without a trace. Urgently summoned to Rome by his ex-wife, Linda, he finds himself facing the responsibilities of fatherhood for the first time, trying to find the girl—a very complicated task, considering he knows absolutely nothing about Cristal and her life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 December 2025</li><li>Runtime: 90 minutes</li><li>Director: Gennaro Nunziante</li><li>Genres: Comedy, Family, Adventure</li><li>Budget: $28.1M</li><li>TMDB rating: 6.3/10 (637 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Checco Zalone as Checco</li><li>Beatriz Arjona as Alma</li><li>Letizia Arnò as Cristal</li><li>Martina Colombari as Linda</li><li>Hossein Taheri as Tarek</li><li>Alfonso Santagata as Nonno Eugenio</li><li>Mariana Rodríguez as Martina</li><li>Cecilia Gragnani as Elizabeth</li><li>Beatrice Abbro as Corina</li><li>Maurizio Bousso as Maurice</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Buen Camino (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1588838": {
+   "d": "To the Max (2026): Drama/Adventure film. Story: A group of friends bonded by their love for extreme… See cast and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vIYxi7G0nK64cgiiVwSV0sFeQ7F.jpg",
+   "industry": "world",
+   "k": "To the Max, To the Max movie, To the Max cast, To the Max story, To the Max box office collection, To the Max budget, To the Max review, To the Max rating, To the Max release date, To the Max Drama, To the Max Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Carlos Cuevas"
+     },
+     {
+      "@type": "Person",
+      "name": "Miguel Bernardeau"
+     },
+     {
+      "@type": "Person",
+      "name": "Miguel Ángel Silvestre"
+     },
+     {
+      "@type": "Person",
+      "name": "José Manuel Poga"
+     },
+     {
+      "@type": "Person",
+      "name": "David Marcé"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 60,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "To the Max (2026): Drama/Adventure film. Story: A group of friends bonded by their love for extreme… See cast and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Salvador Calvo"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Drama",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vIYxi7G0nK64cgiiVwSV0sFeQ7F.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1588838",
+    "name": "To the Max",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1588838"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>To the Max (2026)</h1>\n<p class=\"ssr-lead\">A group of friends bonded by their love for extreme sports discovers BASE jumping in wingsuits — but feeling like flying carries the highest risks.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 February 2026</li><li>Runtime: 113 minutes</li><li>Director: Salvador Calvo</li><li>Genres: Drama, Adventure</li><li>TMDB rating: 6.4/10 (60 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Carlos Cuevas as Carlos Suárez</li><li>Miguel Bernardeau as Armando del Rey</li><li>Miguel Ángel Silvestre as Darío Barrio</li><li>José Manuel Poga as Manolo Chana</li><li>David Marcé as Álvaro Bultó</li><li>Nuria Casas as Saray</li><li>Paloma Bloyd as Leti</li><li>Candela González as Myriam Montaña</li><li>Stéphanie Magnin as Iris</li><li>Nüll García as Silka</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "To the Max (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:18238": {
    "d": "Lesbian Vampire Killers (2009): Horror/Comedy film. Story: With their women having been enslaved by a pack of… See cast and TMDB rating 5.2/10.",
@@ -387,6 +963,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Mr. Magoo (1997)</h1>\n<p class=\"ssr-lead\">Mr. Magoo, a man with terrible eyesight, gets caught up in a museum robbery.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 December 1997</li><li>Runtime: 87 minutes</li><li>Director: Stanley Tong Gwai-lai</li><li>Genres: Comedy, Family</li><li>Budget: $30M</li><li>TMDB rating: 4.5/10 (439 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Leslie Nielsen as Mr. Quincy Magoo</li><li>Kelly Lynch as Luanne LeSeur / Prunella Pegula</li><li>Matt Keeslar as Waldo Magoo</li><li>Nick Chinlund as Bob Morgan</li><li>Stephen Tobolowsky as Agent FBI Chuck Stupak</li><li>Ernie Hudson as Agent CIA Gus Anders</li><li>Jennifer Garner as Stacey Sampanahoditra</li><li>Malcolm McDowell as Austin Cloquet</li><li>Miguel Ferrer as Ortega Peru</li><li>L. Harvey Gold as Schmitt</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Mr. Magoo (1997) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1997"
+  },
+  "movie:949838": {
+   "d": "72 HOURS (2026): Comedy/Crime film. Story: To save his career, a 40-year-old ad exec joins a… See cast, TMDB rating 6.7/10, and release date 20 July 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/hL5EIk48251OXlbIbRJq3yaBHk8.jpg",
+   "industry": "world",
+   "k": "72 HOURS, 72 HOURS movie, 72 HOURS cast, 72 HOURS story, 72 HOURS box office collection, 72 HOURS budget, 72 HOURS review, 72 HOURS rating, 72 HOURS release date, 72 HOURS trailer, 72 HOURS Comedy, 72 HOURS Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kevin Hart"
+     },
+     {
+      "@type": "Person",
+      "name": "Marcello Hernández"
+     },
+     {
+      "@type": "Person",
+      "name": "Mason Gooding"
+     },
+     {
+      "@type": "Person",
+      "name": "Kam Patterson"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Marshall"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 506,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "72 HOURS (2026): Comedy/Crime film. Story: To save his career, a 40-year-old ad exec joins a… See cast, TMDB rating 6.7/10, and release date 20 July 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tim Story"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hL5EIk48251OXlbIbRJq3yaBHk8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=949838",
+    "name": "72 HOURS",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=949838"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>72 HOURS (2026)</h1>\n<p class=\"ssr-lead\">To save his career, a 40-year-old ad exec joins a crew of twentysomethings for a wild Miami bachelor party after they mistakenly add him to a group chat.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 July 2026</li><li>Runtime: 105 minutes</li><li>Director: Tim Story</li><li>Genres: Comedy, Crime</li><li>TMDB rating: 6.7/10 (506 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kevin Hart as Joe</li><li>Marcello Hernández as Nick</li><li>Mason Gooding as Mason</li><li>Kam Patterson as Freshman</li><li>Ben Marshall as Hunter</li><li>Zach Cherry as Barry</li><li>Michael Mando as Jaze</li><li>Teyana Taylor as Jennifer</li><li>Kevin Dunn as Terry</li><li>Anna Garcia as Trixie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "72 HOURS (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "tv:1438": {
    "d": "The Wire (2002) is a Crime and Drama TV series. Explore its story: Told from the points of view of both the Baltimore…, cast, 5 seasons, and 60 episodes.",

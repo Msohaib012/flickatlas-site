@@ -1,6 +1,6 @@
 {
  "bucket": "26",
- "count": 17,
+ "count": 24,
  "titles": {
   "movie:10426": {
    "backdrop_path": "/bfnQPbcmPAXO2QmDONalx4vNWPB.jpg",
@@ -97,6 +97,93 @@
    "type": "movie",
    "vote_average": 6.417,
    "vote_count": 487
+  },
+  "movie:1187326": {
+   "backdrop_path": "/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tadeo Jones (voice)",
+     "n": "Óscar Barberán"
+    },
+    {
+     "c": "Sara Lavrof (voice)",
+     "n": "Michelle Jenner"
+    },
+    {
+     "c": "Momia (voice)",
+     "n": "Luis Posada"
+    },
+    {
+     "c": "Mummy / Tupac (voice)",
+     "n": "Joseph Balderrama"
+    },
+    {
+     "c": "Tad (voice)",
+     "n": "Trevor White"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "ATP",
+   "date_kind": "release",
+   "director": [
+    "Enrique Gato"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 1187326,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Tadeo, his girlfriend Sara, and his friends Momia, Jeff, and Belzoni embark on an adventure after Tadeo accidentally unleashes an ancient spell.",
+   "popularity": 47.3785,
+   "poster_path": "/AdDxZgNmRYgDuweY8899buyVqlr.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-26",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Tad and The Magic Lamp",
+   "trailer": {
+    "key": "8-Bjo_rXCkM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.263,
+   "vote_count": 99
   },
   "movie:12626": {
    "backdrop_path": "/wHSZJ8s0JfWIjoHkRknq6ZtGlZr.jpg",
@@ -250,6 +337,676 @@
    "type": "movie",
    "vote_average": 6.787,
    "vote_count": 495
+  },
+  "movie:1393326": {
+   "backdrop_path": "/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Anggoro",
+     "n": "Abimana Aryasatya"
+    },
+    {
+     "c": "Buki",
+     "n": "Almanzo Konoralma"
+    },
+    {
+     "c": "Tokek",
+     "n": "Aming"
+    },
+    {
+     "c": "Prakasa",
+     "n": "Arswendy Bening Swara"
+    },
+    {
+     "c": "Jefri",
+     "n": "Bront Palarae"
+    },
+    {
+     "c": "Irfan",
+     "n": "Dimas Danang"
+    },
+    {
+     "c": "Young Prakasa",
+     "n": "Dewa Dayana"
+    },
+    {
+     "c": "Dimas",
+     "n": "Endy Arfian"
+    },
+    {
+     "c": "Vijay",
+     "n": "Faiz Vishal"
+    },
+    {
+     "c": "Donald Supanggah",
+     "n": "Haydar Salishz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Joko Anwar"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy"
+   ],
+   "id": 1393326,
+   "industry": "world",
+   "origin_country": [
+    "ID"
+   ],
+   "original_language": "id",
+   "overview": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
+   "popularity": 40.1222,
+   "poster_path": "/zxcMdx0w5Zmg8yZuuiS7CJ8vOea.jpg",
+   "production_countries": [
+    "ID",
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-16",
+   "revenue": 105743,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "id"
+   ],
+   "status": "Released",
+   "tagline": "A bloody good time.",
+   "title": "Ghost in the Cell",
+   "trailer": {
+    "key": "otL78_pk_A0",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 118
+  },
+  "movie:1400626": {
+   "backdrop_path": "/reLr5qPwMvYxK9IninlZT2qUxxL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bernd Stromberg",
+     "n": "Christoph Maria Herbst"
+    },
+    {
+     "c": "Berthold Heisterkamp",
+     "n": "Bjarne Mädel"
+    },
+    {
+     "c": "Ulf Steinke",
+     "n": "Oliver Wnuk"
+    },
+    {
+     "c": "Tanja Steinke",
+     "n": "Diana Staehly"
+    },
+    {
+     "c": "Jennifer Schirrmann",
+     "n": "Milena Dreißig"
+    },
+    {
+     "c": "Julian Gilsmeyer",
+     "n": "László Branko Breiding"
+    },
+    {
+     "c": "Luna",
+     "n": "Sophia Burtscher"
+    },
+    {
+     "c": "Sascha",
+     "n": "Anna Mateur"
+    },
+    {
+     "c": "Marvin Steinke",
+     "n": "Carlo Stolle"
+    },
+    {
+     "c": "Lars Lehnhoff",
+     "n": "Laurens Walter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Arne Feldhusen"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1400626,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "About twenty years ago, Germany got to know Bernd Stromberg and his team from the claims department at CAPITOL Insurance. Back then, there was nothing vegan in the cafeteria, and bullying and sexism were commonplace in the office. Since then, the world of work has changed enormously. But has Bernd Stromberg changed too?",
+   "popularity": 0.9397,
+   "poster_path": "/9MhUqFHxtl4SEvVdndG9wymvm78.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-04",
+   "revenue": 9651864,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Stromberg - Wieder alles wie immer",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.157,
+   "vote_count": 70
+  },
+  "movie:1428226": {
+   "backdrop_path": "/hmoNULa9OEIM5pCzXr1XnuTVgUT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Manuel",
+     "n": "Mauricio Ochmann"
+    },
+    {
+     "c": "Esmeralda",
+     "n": "Aislinn Derbez"
+    },
+    {
+     "c": "David Urquiza",
+     "n": "Daniel Pérez Prada"
+    },
+    {
+     "c": "Cynthia",
+     "n": "Melina Figueroa"
+    },
+    {
+     "c": "Guardia Civil",
+     "n": "Miguel Ángel Jiménez"
+    },
+    {
+     "c": "Salvador Ramírez",
+     "n": "Eduardo Santacruz"
+    },
+    {
+     "c": "Doctor hospital privado",
+     "n": "Pedro Hernández"
+    },
+    {
+     "c": "Alfredo Pacheco",
+     "n": "Manolo Caro"
+    },
+    {
+     "c": "Mamá de Cinthya",
+     "n": "Cuca Escribano"
+    },
+    {
+     "c": "Alejandra Figueroa",
+     "n": "Luz Cipriota"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Emiliano Castro Vizcarra"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1428226,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Manuel's life is upended when Esmeralda, his lost love from 15 years ago, calls unexpectedly. Despite being set to marry another, he rediscovers Esmeralda, and they realize their love transcends time.",
+   "popularity": 7.1192,
+   "poster_path": "/6pwqbrrI1vHnID3wqfLIBLTM2Dd.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-23",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Until the End of the World",
+   "trailer": {
+    "key": "jP2g8G16mJA",
+    "name": "Hasta el Fin del Mundo I Tráiler Oficial I Buena Vista International LA",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.225,
+   "vote_count": 120
+  },
+  "movie:1514026": {
+   "backdrop_path": "/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Buddy / Dark Buddy (voice)",
+     "n": "Keegan-Michael Key"
+    },
+    {
+     "c": "Freddy",
+     "n": "Delaney Quinn"
+    },
+    {
+     "c": "Oliver",
+     "n": "Tristan Borders"
+    },
+    {
+     "c": "Hannah",
+     "n": "Madison Skyy Polan"
+    },
+    {
+     "c": "Wade",
+     "n": "Caleb Williams"
+    },
+    {
+     "c": "Grace",
+     "n": "Cristin Milioti"
+    },
+    {
+     "c": "Ben",
+     "n": "Topher Grace"
+    },
+    {
+     "c": "Strappy (voice)",
+     "n": "Patton Oswalt"
+    },
+    {
+     "c": "Willie (voice)",
+     "n": "Michael Shannon"
+    },
+    {
+     "c": "George",
+     "n": "Clint Howard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Casper Kelly"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 1514026,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
+   "popularity": 110.0892,
+   "poster_path": "/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+   "production_countries": [
+    "US",
+    "IL"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-28",
+   "revenue": 26977431,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "It's Buddy!",
+   "title": "Buddy",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.792,
+   "vote_count": 276
+  },
+  "movie:1561726": {
+   "backdrop_path": "/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Roger",
+     "n": "Stanley Tucci"
+    },
+    {
+     "c": "Chiara",
+     "n": "Simona Tabasco"
+    },
+    {
+     "c": "Jay",
+     "n": "Victor Belmondo"
+    },
+    {
+     "c": "",
+     "n": "Eliott Margueron"
+    },
+    {
+     "c": "Professor",
+     "n": "Barbara Lo Gaglio"
+    },
+    {
+     "c": "French Spook Officer",
+     "n": "Etienne Guillou-Kervern"
+    },
+    {
+     "c": "Bruno's Bodyguard",
+     "n": "Srbo Markovic"
+    },
+    {
+     "c": "TV Reporter",
+     "n": "Julia Messina"
+    },
+    {
+     "c": "Bruno",
+     "n": "Mark Ivanir"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Thomas Vincent"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 1561726,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
+   "popularity": 41.4335,
+   "poster_path": "/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+   "production_countries": [
+    "FR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-16",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "it",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Masterplan",
+   "trailer": {
+    "key": "gc0t8AfMP6k",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.763,
+   "vote_count": 244
+  },
+  "movie:1684226": {
+   "backdrop_path": "/es6wAAA72qIKGecMggiRZNQK0fa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lienkie",
+     "n": "Carine Rous"
+    },
+    {
+     "c": "Frank",
+     "n": "Bouwer Bosch"
+    },
+    {
+     "c": "Zander",
+     "n": "Armand Aucamp"
+    },
+    {
+     "c": "Estelle",
+     "n": "Laura-lee Mostert"
+    },
+    {
+     "c": "Johannika",
+     "n": "Lisa Tredoux"
+    },
+    {
+     "c": "Norma",
+     "n": "Hanli Rolfes"
+    },
+    {
+     "c": "Martin",
+     "n": "Terence Bridgett"
+    },
+    {
+     "c": "Albie",
+     "n": "Tobie Cronje"
+    },
+    {
+     "c": "Tienie",
+     "n": "Woutrine Theron"
+    },
+    {
+     "c": "Young Lienkie",
+     "n": "Mila-Sofi Clasen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "+13",
+   "date_kind": "release",
+   "director": [
+    "Joshua Rous"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Family"
+   ],
+   "id": 1684226,
+   "industry": "world",
+   "origin_country": [
+    "ZA"
+   ],
+   "original_language": "af",
+   "overview": "When Lienkie's dream of budding a family of her own come crashing down, she hatches a devious plan to win \"Bride of the Year\" and get back at her ex.",
+   "popularity": 2.0263,
+   "poster_path": "/2AiO7wnTrY5ktq0pLco3eS6g8NL.jpg",
+   "production_countries": [
+    "ZA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-15",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "af",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Bride of the Year",
+   "trailer": {
+    "key": "-Dxm9zC_k_E",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 38
   },
   "movie:20726": {
    "backdrop_path": "/gl58xoX8NK95vIgtIMCsKsd2its.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "07",
- "count": 17,
+ "count": 21,
  "titles": {
   "movie:10407": {
    "backdrop_path": "/yUUIrkbDObGN6f77QkeDBV9Fsb.jpg",
@@ -107,6 +107,231 @@
    "type": "movie",
    "vote_average": 6.223,
    "vote_count": 499
+  },
+  "movie:1167307": {
+   "backdrop_path": "/mZ6J2g6HCV2gj3iuCdSxcyBXq9c.jpg",
+   "budget": 60900000,
+   "cast": [
+    {
+     "c": "Young David (voice)",
+     "n": "Brandon Engman"
+    },
+    {
+     "c": "Samuel (voice)",
+     "n": "Brian Stivale"
+    },
+    {
+     "c": "Ozem (voice)",
+     "n": "Shahar Taboch"
+    },
+    {
+     "c": "Nethanel (voice)",
+     "n": "Aaron Tavaler"
+    },
+    {
+     "c": "Jesse (voice)",
+     "n": "Hector"
+    },
+    {
+     "c": "Nitzevet (voice)",
+     "n": "Miri Mesika"
+    },
+    {
+     "c": "Abinadab (voice)",
+     "n": "Jack Wagman"
+    },
+    {
+     "c": "Eliab (voice)",
+     "n": "Jonathan Shaboo"
+    },
+    {
+     "c": "Young Zeruiah (voice)",
+     "n": "Sloan Lucas Muldown"
+    },
+    {
+     "c": "Scout (voice)",
+     "n": "Mike Ciporkin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Phil Cunningham",
+    "Brent Dawes"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Drama",
+    "History",
+    "Adventure"
+   ],
+   "id": 1167307,
+   "industry": "world",
+   "origin_country": [
+    "ZA",
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "From the songs of his mother’s heart to the whispers of a faithful God, David’s story begins in quiet devotion. When the giant Goliath rises to terrorize a nation, a young shepherd armed with only a sling, a few stones, and unshakable faith steps forward. Pursued by power and driven by purpose, his journey tests the limits of loyalty, love, and courage—culminating in a battle not just for a crown, but for the soul of a kingdom.",
+   "popularity": 7.0859,
+   "poster_path": "/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg",
+   "production_countries": [
+    "US",
+    "ZA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Angel Studios"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-14",
+   "revenue": 85865995,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "A giant musical event.",
+   "title": "David",
+   "trailer": {
+    "key": "gWgyI6_lR0A",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.043,
+   "vote_count": 209
+  },
+  "movie:1196207": {
+   "backdrop_path": "/X5N8GliuEHrKBydQnKcztqT7AV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Papá Noel",
+     "n": "Santiago Segura"
+    },
+    {
+     "c": "Salva",
+     "n": "Ernesto Sevilla"
+    },
+    {
+     "c": "Rafita",
+     "n": "Pablo Chiapella"
+    },
+    {
+     "c": "Pilar",
+     "n": "María Botto"
+    },
+    {
+     "c": "Lucas",
+     "n": "Unax Hayden"
+    },
+    {
+     "c": "Rami",
+     "n": "Emilio Gavira"
+    },
+    {
+     "c": "Esther",
+     "n": "Paulina Dávila"
+    },
+    {
+     "c": "Martín",
+     "n": "Vadhir Derbez"
+    },
+    {
+     "c": "",
+     "n": "Irene Gallego"
+    },
+    {
+     "c": "Monitor Reserva Natural",
+     "n": "Joaquín Reyes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "10",
+   "date_kind": "release",
+   "director": [
+    "Joaquín Mazón"
+   ],
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 1196207,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "When Santa vanishes during a chaotic Christmas, a quirky actor tries to replace him. A father, his teen son and special friends must rescue Santa to save Christmas.",
+   "popularity": 2.4127,
+   "poster_path": "/n1YtLc6viVt93gOdU8SX7mnq22y.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-05",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Night My Dad Saved Christmas 2",
+   "trailer": {
+    "key": "7Zrtw25-iHM",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.529,
+   "vote_count": 35
   },
   "movie:12707": {
    "backdrop_path": "/3OTxHBZIQdjjsHU572SJxvtXTpk.jpg",
@@ -325,6 +550,114 @@
    "type": "movie",
    "vote_average": 7.186,
    "vote_count": 466
+  },
+  "movie:1631807": {
+   "backdrop_path": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Helene Söderberg",
+     "n": "Natalie Madueño"
+    },
+    {
+     "c": "Edmund",
+     "n": "Claes Bang"
+    },
+    {
+     "c": "Joachim",
+     "n": "Pål Sverre Hagen"
+    },
+    {
+     "c": "Caroline",
+     "n": "Stina Ekblad"
+    },
+    {
+     "c": "Iben Rask",
+     "n": "Ingrid Bolsø Berdal"
+    },
+    {
+     "c": "Maria",
+     "n": "Thea Sofie Loch Næss"
+    },
+    {
+     "c": "Aksel Söderberg",
+     "n": "Lars Simonsen"
+    },
+    {
+     "c": "Lulu",
+     "n": "Ida Appel"
+    },
+    {
+     "c": "Librarian",
+     "n": "Nina Christrup"
+    },
+    {
+     "c": "Alexander",
+     "n": "David Elting"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Barbara Topsøe-Rothenborg"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 1631807,
+   "industry": "world",
+   "origin_country": [
+    "DK"
+   ],
+   "original_language": "da",
+   "overview": "After discovering she has a family and a shipping empire, a woman with amnesia returns to a wealthy and seemingly perfect past to uncover why she left.",
+   "popularity": 6.0728,
+   "poster_path": "/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
+   "production_countries": [
+    "DK"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-28",
+   "revenue": 0,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "da"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Secret Woman",
+   "trailer": {
+    "key": "FldeGkt4e4k",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.487,
+   "vote_count": 150
   },
   "movie:22307": {
    "backdrop_path": "/V4iqE9Ptgx7FJ8pLK0IWI9Zg46.jpg",
@@ -999,6 +1332,179 @@
    "type": "movie",
    "vote_average": 5.804,
    "vote_count": 454
+  },
+  "movie:662707": {
+   "backdrop_path": "/tZiRd4IpoNiaoLXr2o2YfhTMjE2.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Raphael",
+     "n": "John Rhys-Davies"
+    },
+    {
+     "c": "Bud",
+     "n": "Ted Levine"
+    },
+    {
+     "c": "Zelda",
+     "n": "Elisabeth Röhm"
+    },
+    {
+     "c": "Joshua",
+     "n": "Diego Boneta"
+    },
+    {
+     "c": "Aisling",
+     "n": "Alexandra Dowling"
+    },
+    {
+     "c": "Teresa",
+     "n": "Becky Ann Baker"
+    },
+    {
+     "c": "Grace",
+     "n": "Christine Ebersole"
+    },
+    {
+     "c": "Peter",
+     "n": "Gbenga Akinnagbe"
+    },
+    {
+     "c": "Ken",
+     "n": "Gary Grubbs"
+    },
+    {
+     "c": "Elegant Woman",
+     "n": "Sandra Ellis Lafferty"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "festival",
+   "director": [
+    "Francesco Lucente"
+   ],
+   "genres": [
+    "Adventure",
+    "Action"
+   ],
+   "id": 662707,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young woman becomes the guardian of a fallen star, which she must protect from dangerous forces with the help of a brave stranger.",
+   "popularity": 3.9124,
+   "poster_path": "/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-27",
+   "revenue": 0,
+   "runtime": 148,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Starbright",
+   "trailer": {
+    "key": "hBxMbl2V3ZA",
+    "name": "Now Playing",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 20
   },
   "movie:674607": {
    "backdrop_path": "/9gXOA57zkxDko4yEE6vjFF538Xn.jpg",

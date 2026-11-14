@@ -1,6 +1,6 @@
 {
  "bucket": "29",
- "count": 14,
+ "count": 22,
  "titles": {
   "movie:10729": {
    "d": "Quick Change (1990): Comedy/Crime film. Story: With the aid of his girlfriend, Phyllis Potter, and… See cast, budget $15M, and TMDB rating 6.7/10.",
@@ -134,6 +134,131 @@
    "t": "Freeway (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1996"
   },
+  "movie:1314829": {
+   "d": "Monkey’s Magic Merry Go Round (2026): Horror film. Story: After a mysterious bout of amnesia, a beloved… See cast and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/w4ssqWwSiSumZve63L1gtXd3bC5.jpg",
+   "industry": "world",
+   "k": "Monkey’s Magic Merry Go Round, Monkey’s Magic Merry Go Round movie, Monkey’s Magic Merry Go Round cast, Monkey’s Magic Merry Go Round story, Monkey’s Magic Merry Go Round box office collection, Monkey’s Magic Merry Go Round budget, Monkey’s Magic Merry Go Round review, Monkey’s Magic Merry Go Round rating, Monkey’s Magic Merry Go Round release date, Monkey’s Magic Merry Go Round trailer, Monkey’s Magic Merry Go Round Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Gilio"
+     },
+     {
+      "@type": "Person",
+      "name": "Frank Cesario"
+     },
+     {
+      "@type": "Person",
+      "name": "C.R. Thompson"
+     },
+     {
+      "@type": "Person",
+      "name": "Jackie Shook"
+     },
+     {
+      "@type": "Person",
+      "name": "Connar Brown Sprenger"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 50,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Monkey’s Magic Merry Go Round (2026): Horror film. Story: After a mysterious bout of amnesia, a beloved… See cast and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Aidan Leary"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/w4ssqWwSiSumZve63L1gtXd3bC5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1314829",
+    "name": "Monkey’s Magic Merry Go Round",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1314829"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Monkey’s Magic Merry Go Round (2026)</h1>\n<p class=\"ssr-lead\">After a mysterious bout of amnesia, a beloved children’s television host struggles to piece together his fractured memories, only to find his once-cheerful puppet co-stars behaving with sinister intent. As reality unravels, the line between performance and nightmare begins to blur.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 May 2026</li><li>Runtime: 91 minutes</li><li>Director: Aidan Leary</li><li>Genres: Horror</li><li>TMDB rating: 7.6/10 (50 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Gilio as James Jensen</li><li>Frank Cesario as Monkey / Profoctopus</li><li>C.R. Thompson as Monkey&#x27;s &quot;Hands&quot;</li><li>Jackie Shook as Fausty Fox</li><li>Connar Brown Sprenger as Bird / Beaver</li><li>Ben Gojer as Beaver (voice)</li><li>Rob Chesler as King Rory Lion</li><li>Erick Heyer-Fogelberg as Ferret</li><li>Roman Gilio as Young James</li><li>Jordan Olivia Mershon as The Post Lady</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Philo, Fandor, Fandor Amazon Channel, Screambox Amazon Channel, Amazon Prime Video with Ads, Midnight Pulp Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Monkey’s Magic Merry Go Round (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1433929": {
+   "d": "N121 Bus de nuit (2026): Thriller film. Story: Oscar, Simon, and Aïssa, three childhood friends, go… See cast and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/2Pibybzy2hSe74KTNAxja4OJ5hj.jpg",
+   "industry": "world",
+   "k": "N121 Bus de nuit, N121 Bus de nuit movie, N121 Bus de nuit cast, N121 Bus de nuit story, N121 Bus de nuit box office collection, N121 Bus de nuit budget, N121 Bus de nuit review, N121 Bus de nuit rating, N121 Bus de nuit release date, N121 Bus de nuit Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Riadh Belaïche"
+     },
+     {
+      "@type": "Person",
+      "name": "Bakary Diombera"
+     },
+     {
+      "@type": "Person",
+      "name": "Gaspard Gevin-Hié"
+     },
+     {
+      "@type": "Person",
+      "name": "Mylène Jampanoï"
+     },
+     {
+      "@type": "Person",
+      "name": "Paola Locatelli"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 27,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "N121 Bus de nuit (2026): Thriller film. Story: Oscar, Simon, and Aïssa, three childhood friends, go… See cast and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Morade Aïssaoui"
+     }
+    ],
+    "genre": [
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2Pibybzy2hSe74KTNAxja4OJ5hj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1433929",
+    "name": "N121 Bus de nuit",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1433929"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>N121 Bus de nuit (2026)</h1>\n<p class=\"ssr-lead\">Oscar, Simon, and Aïssa, three childhood friends, go to Paris to celebrate some good news. But on the night bus taking them home—the N121—an exchange between passengers spirals out of control, and the situation quickly goes off the rails.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 February 2026</li><li>Director: Morade Aïssaoui</li><li>Genres: Thriller</li><li>TMDB rating: 6.2/10 (27 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Riadh Belaïche as Aïssa</li><li>Bakary Diombera as Oscar</li><li>Gaspard Gevin-Hié as Simon</li><li>Mylène Jampanoï as Johanna</li><li>Paola Locatelli as Mona</li><li>Arben Bajraktaraj as Dimitri</li><li>Jérémie Covillault as Barth</li><li>Damien Jouillerot as Philippe</li><li>Audrey Marnay as Josiane</li><li>Aissatou Diallo Sagna as Aminata</li></ul>\n</article>",
+   "t": "N121 Bus de nuit (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:14429": {
    "d": "Drive Me Crazy (1999): Romance/Comedy film. Story: Nicole and Chase live next door to each other but are… See cast, budget $8M, and TMDB rating 6.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/yV08G6ztiu95yHF8jyw42sqL1v.jpg",
@@ -198,6 +323,70 @@
    "t": "Drive Me Crazy (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1999"
   },
+  "movie:1462229": {
+   "d": "Pegasus 3 (2026): Drama/Comedy film. Story: Bearing the glory of being the 'King of Bayanbulak'… See cast, budget $80M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pCOzvvObjPUl55DpSNdgXxx3uMT.jpg",
+   "industry": "world",
+   "k": "Pegasus 3, Pegasus 3 movie, Pegasus 3 cast, Pegasus 3 story, Pegasus 3 box office collection, Pegasus 3 budget, Pegasus 3 review, Pegasus 3 rating, Pegasus 3 release date, Pegasus 3 trailer, Pegasus 3 Drama, Pegasus 3 Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shen Teng"
+     },
+     {
+      "@type": "Person",
+      "name": "Yin Zheng"
+     },
+     {
+      "@type": "Person",
+      "name": "Johnny Huang"
+     },
+     {
+      "@type": "Person",
+      "name": "Zhang Benyu"
+     },
+     {
+      "@type": "Person",
+      "name": "Wei Xiang"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 53,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Pegasus 3 (2026): Drama/Comedy film. Story: Bearing the glory of being the 'King of Bayanbulak'… See cast, budget $80M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Han Han"
+     }
+    ],
+    "duration": "PT126M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pCOzvvObjPUl55DpSNdgXxx3uMT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1462229",
+    "name": "Pegasus 3",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1462229"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pegasus 3 (2026)</h1>\n<p class=\"ssr-lead\">Bearing the glory of being the &#x27;King of Bayanbulak&#x27;, Zhang Chi once again embarks on his racing journey, aiming not only to win the race but also to achieve something beyond the competition itself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 February 2026</li><li>Runtime: 126 minutes</li><li>Director: Han Han</li><li>Genres: Drama, Comedy</li><li>Budget: $80M</li><li>TMDB rating: 6.9/10 (53 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shen Teng as Zhang Chi</li><li>Yin Zheng as Sun Yuqiang</li><li>Johnny Huang as Lin Zhendong</li><li>Zhang Benyu as Ji Xing</li><li>Wei Xiang as Manager Ye</li><li>Sha Yi as Bai Qiang</li><li>Fan Chengcheng as Li Xiaohai</li><li>Sun Yizhou as Liu Xiande</li><li>Duan Yihong as Mr. An</li><li>Zhang Xincheng as Li Lun</li></ul>\n</article>",
+   "t": "Pegasus 3 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:146229": {
    "d": "Kristy (2014): Thriller/Horror film. Story: When a college girl who is alone on campus over the… See cast, budget $6.9M, and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/e1gAy3E4bvOLnhNUB8LLCEC17kW.jpg",
@@ -261,6 +450,314 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Kristy (2014)</h1>\n<p class=\"ssr-lead\">When a college girl who is alone on campus over the Thanksgiving break is targeted by a group of outcasts, she must conquer her deepest fears to outwit them and fight back.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 August 2014</li><li>Runtime: 85 minutes</li><li>Director: Olly Blackburn</li><li>Genres: Thriller, Horror</li><li>Budget: $6.9M</li><li>TMDB rating: 6.1/10 (470 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Haley Bennett as Justine</li><li>Ashley Greene as Violet</li><li>Lucas Till as Aaron</li><li>Chris Coy as Blue Hoodie</li><li>Mike Seal as Black Hoodie</li><li>Lucius Falick as Grey Hoodie</li><li>James Ransone as Scott</li><li>Erica Ash as Nicole</li><li>Mathew St. Patrick as Wayne</li><li>Al Vicente as Dave</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Movie Sphere+</li></ul>\n</article>",
    "t": "Kristy (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
+  },
+  "movie:1472829": {
+   "d": "Molière, Cyrano and the Young King (2026): Comedy/Drama film. Story: During the Paris rebellion, young Louis XIV must be… See cast and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yiv3EcZxbtzjbPLjSVF7P6amdPu.jpg",
+   "industry": "world",
+   "k": "Molière, Cyrano and the Young King, Molière, Cyrano and the Young King movie, Molière, Cyrano and the Young King cast, Molière, Cyrano and the Young King story, Molière, Cyrano and the Young King box office collection, Molière, Cyrano and the Young King budget, Molière, Cyrano and the Young King review, Molière, Cyrano and the Young King rating, Molière, Cyrano and the Young King release date, Molière, Cyrano and the Young King Comedy, Molière, Cyrano and the Young King Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Artus"
+     },
+     {
+      "@type": "Person",
+      "name": "Julia Piaton"
+     },
+     {
+      "@type": "Person",
+      "name": "Franck Dubosc"
+     },
+     {
+      "@type": "Person",
+      "name": "Némo Schiffman"
+     },
+     {
+      "@type": "Person",
+      "name": "Xavier Robic"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 23,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Molière, Cyrano and the Young King (2026): Comedy/Drama film. Story: During the Paris rebellion, young Louis XIV must be… See cast and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michel Leclerc"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yiv3EcZxbtzjbPLjSVF7P6amdPu.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1472829",
+    "name": "Molière, Cyrano and the Young King",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1472829"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Molière, Cyrano and the Young King (2026)</h1>\n<p class=\"ssr-lead\">During the Paris rebellion, young Louis XIV must be hidden from danger and is secretly replaced at court by a look-alike. Entrusted to the musketeer-poet Cyrano de Bergerac, Louis is sheltered within Madeleine Béjart’s traveling theater troupe, where the actor and aspiring playwright Molière has just joined – unaware their newest member is the future king of France. As Cyrano struggles to handle the arrogant and clumsy young king, he begins writing a bold play for the troupe. Molière, bursting with ideas, transforms the work with wit and heart, awakening his genius for comedy and deepening his secret feelings for Madeleine, while young Louis discovers the joy of theater and the power of friendship. But back in Paris, intrigue is brewing – can the young king return in time before the masquerade is revealed and embrace his true royal destiny?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 June 2026</li><li>Runtime: 118 minutes</li><li>Director: Michel Leclerc</li><li>Genres: Comedy, Drama, History</li><li>TMDB rating: 5.9/10 (23 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Artus as Cyrano de Bergerac</li><li>Julia Piaton as Madeleine Béjart</li><li>Franck Dubosc as D’Artagnan</li><li>Némo Schiffman as Molière</li><li>Xavier Robic as Conti</li><li>Doria Tillier as Anne d&#x27;Autriche</li><li>Nils Hamel Brochen as Louis XIV</li><li>Suzanne de Baecque as La Grande Demoiselle</li><li>Damien Jouillerot</li><li>Noam Morgensztern</li></ul>\n</article>",
+   "t": "Molière, Cyrano and the Young King (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1515729": {
+   "d": "Blast (2026): Action/Thriller film. Story: A seemingly ordinary family must unleash their hidden… See cast, TMDB rating 7.8/10, and release date 28 May 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/xsoKAonKy1zk5XoQoUG1dUXDCKH.jpg",
+   "industry": "bollywood",
+   "k": "Blast, Blast movie, Blast cast, Blast story, Blast box office collection, Blast budget, Blast review, Blast rating, Blast release date, Blast trailer, Blast Action, Blast Thriller, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Arjun Sarja"
+     },
+     {
+      "@type": "Person",
+      "name": "Abhirami"
+     },
+     {
+      "@type": "Person",
+      "name": "Preity Mukhundhan"
+     },
+     {
+      "@type": "Person",
+      "name": "Vivek Prasanna"
+     },
+     {
+      "@type": "Person",
+      "name": "John Kokken"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 80,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Blast (2026): Action/Thriller film. Story: A seemingly ordinary family must unleash their hidden… See cast, TMDB rating 7.8/10, and release date 28 May 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Subash K Raj"
+     }
+    ],
+    "duration": "PT143M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xsoKAonKy1zk5XoQoUG1dUXDCKH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1515729",
+    "name": "Blast",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1515729"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Blast (2026)</h1>\n<p class=\"ssr-lead\">A seemingly ordinary family must unleash their hidden martial arts skills when they clash with a ruthless criminal gang tied to corruption and violence.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 May 2026</li><li>Runtime: 143 minutes</li><li>Director: Subash K Raj</li><li>Genres: Action, Thriller</li><li>TMDB rating: 7.8/10 (80 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Arjun Sarja as Rajaraman</li><li>Abhirami as Neelaveni</li><li>Preity Mukhundhan as Nila</li><li>Vivek Prasanna as Ilango</li><li>John Kokken as Varun Dhayalan</li><li>Arjun Chidambaram as Abraham</li><li>Pawan as Kirupakaran</li><li>Dhileban as Arunagiri</li><li>Vinod Sagar as Toby</li><li>Bala Hasan as Siva</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Blast (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1641629": {
+   "d": "You+Me - Against the World (2026): Romance/Drama film. Story: Alma Lancaster, 18, appears to lead a perfect life… See cast and TMDB rating 5.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+   "industry": "world",
+   "k": "You+Me - Against the World, You+Me - Against the World movie, You+Me - Against the World cast, You+Me - Against the World story, You+Me - Against the World box office collection, You+Me - Against the World budget, You+Me - Against the World review, You+Me - Against the World rating, You+Me - Against the World release date, You+Me - Against the World trailer, You+Me - Against the World Romance, You+Me - Against the World Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vittoria Di Savoia"
+     },
+     {
+      "@type": "Person",
+      "name": "Lucas Barski"
+     },
+     {
+      "@type": "Person",
+      "name": "Zoé Garcia"
+     },
+     {
+      "@type": "Person",
+      "name": "Léo Legrand"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean-Yves Berteloot"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 123,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "You+Me - Against the World (2026): Romance/Drama film. Story: Alma Lancaster, 18, appears to lead a perfect life… See cast and TMDB rating 5.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Manon Gaurin"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1641629",
+    "name": "You+Me - Against the World",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1641629"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>You+Me - Against the World (2026)</h1>\n<p class=\"ssr-lead\">Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love — despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 September 2026</li><li>Runtime: 94 minutes</li><li>Director: Manon Gaurin</li><li>Genres: Romance, Drama</li><li>TMDB rating: 5.5/10 (123 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vittoria Di Savoia as Alma Lancaster</li><li>Lucas Barski as Vadim Arcadi</li><li>Zoé Garcia as Clémentine</li><li>Léo Legrand as Timothé Vallas</li><li>Jean-Yves Berteloot as Edward Lancaster</li><li>Suliane Brahim as Marie Lancaster</li><li>Aymeric Fougeron as Basile Lancaster</li><li>Gabrielle Taittinger as Lily Lancaster</li><li>Bryan Trésor as Oscar Johnson</li><li>Aboubacar Bidanessy as Félix Alonso</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "You+Me - Against the World (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1669929": {
+   "d": "The Gold Trail (2026): Animation/Action film. Story: Fafner, a mercenary anti-hero, descends upon a city… See cast and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tWgcmID3U63WdWcoXEPcJA81HL7.jpg",
+   "industry": "world",
+   "k": "The Gold Trail, The Gold Trail movie, The Gold Trail cast, The Gold Trail story, The Gold Trail box office collection, The Gold Trail budget, The Gold Trail review, The Gold Trail rating, The Gold Trail release date, The Gold Trail Animation, The Gold Trail Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mario Castañeda"
+     },
+     {
+      "@type": "Person",
+      "name": "Jakora Xochitl"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 25,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Gold Trail (2026): Animation/Action film. Story: Fafner, a mercenary anti-hero, descends upon a city… See cast and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Daniel Duche"
+     }
+    ],
+    "duration": "PT32M",
+    "genre": [
+     "Animation",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tWgcmID3U63WdWcoXEPcJA81HL7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1669929",
+    "name": "The Gold Trail",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1669929"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Gold Trail (2026)</h1>\n<p class=\"ssr-lead\">Fafner, a mercenary anti-hero, descends upon a city torn by conflict, relentlessly tracking a trail of coins that will lead him toward his inevitable fate.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 April 2026</li><li>Runtime: 32 minutes</li><li>Director: Daniel Duche</li><li>Genres: Animation, Action, Drama</li><li>TMDB rating: 7.1/10 (25 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mario Castañeda as Fafner</li><li>Jakora Xochitl as Sigurd</li></ul>\n</article>",
+   "t": "The Gold Trail (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1705729": {
+   "d": "Man of War (2026): Action/Thriller film. Story: When an aid worker vanishes in the first hours of war… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jEvff0AJue5DtzNd2rvFDgSNVuH.jpg",
+   "industry": "world",
+   "k": "Man of War, Man of War movie, Man of War cast, Man of War story, Man of War box office collection, Man of War budget, Man of War review, Man of War rating, Man of War release date, Man of War trailer, Man of War Action, Man of War Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "LaMonica Garrett"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrew Howard"
+     },
+     {
+      "@type": "Person",
+      "name": "Linds Edwards"
+     },
+     {
+      "@type": "Person",
+      "name": "Rosmary Yaneva"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Patric"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 45,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Man of War (2026): Action/Thriller film. Story: When an aid worker vanishes in the first hours of war… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "William Kaufman"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jEvff0AJue5DtzNd2rvFDgSNVuH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1705729",
+    "name": "Man of War",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1705729"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Man of War (2026)</h1>\n<p class=\"ssr-lead\">When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 July 2026</li><li>Runtime: 111 minutes</li><li>Director: William Kaufman</li><li>Genres: Action, Thriller, War, TV Movie</li><li>TMDB rating: 6.5/10 (45 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>LaMonica Garrett as Michael Connor</li><li>Andrew Howard as Dany Sundakov</li><li>Linds Edwards as Bunny</li><li>Rosmary Yaneva as Riley</li><li>Jason Patric as Charlie Lewis</li><li>Daniel Bernhardt as Stanismir Koniev</li><li>Antoni Davidov as Laggs</li><li>François Coetzer as Bam-Bam</li><li>Boyan Anev as Flo</li><li>Greg Burridge as Zeus</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MovieSphere+ Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Man of War (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:308529": {
    "d": "Kickboxer: Vengeance (2016): Action/Drama film. Story: Eric and Kurt Sloane are the descendants of a… See cast, budget $17M, and TMDB rating 5.1/10.",

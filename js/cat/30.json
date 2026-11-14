@@ -1,6 +1,6 @@
 {
  "bucket": "30",
- "count": 16,
+ "count": 24,
  "titles": {
   "movie:1024530": {
    "backdrop_path": "/navvd9bBMuBYbQzKaWKifCw6wsU.jpg",
@@ -171,6 +171,114 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 459
+  },
+  "movie:1122030": {
+   "backdrop_path": "/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
+   "budget": 10500000,
+   "cast": [
+    {
+     "c": "Sita",
+     "n": "Alia Bhatt"
+    },
+    {
+     "c": "Durga",
+     "n": "Sharvari"
+    },
+    {
+     "c": "Fateh Singh Lakhawat / Major Zarrar Khan",
+     "n": "Bobby Deol"
+    },
+    {
+     "c": "Vikrant Kaul",
+     "n": "Anil Kapoor"
+    },
+    {
+     "c": "Dr. John Verghese",
+     "n": "Dibyendu Bhattacharya"
+    },
+    {
+     "c": "Janaki Kaul",
+     "n": "Dia Mirza"
+    },
+    {
+     "c": "Kabir Dhaliwal",
+     "n": "Hrithik Roshan"
+    },
+    {
+     "c": "Susan Cherian",
+     "n": "Shubhi Mehta"
+    },
+    {
+     "c": "Dr. Preeti",
+     "n": "Pavleen Gujral"
+    },
+    {
+     "c": "General Sodhi",
+     "n": "Pranay Narayan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Shiv Rawail"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 1122030,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
+   "popularity": 5.4753,
+   "poster_path": "/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-03",
+   "revenue": 1856084,
+   "runtime": 141,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Alpha",
+   "trailer": {
+    "key": "YP1uSAggr6Y",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.167,
+   "vote_count": 36
   },
   "movie:11330": {
    "backdrop_path": "/mRqM7jaTPCdzRELR5sjOMgiDDwo.jpg",
@@ -369,6 +477,101 @@
    "vote_average": 7.173,
    "vote_count": 468
   },
+  "movie:1154730": {
+   "backdrop_path": "/dZVZkmzHLnobFszwYZ9DybvhUHW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Toni",
+     "n": "Colas Quignard"
+    },
+    {
+     "c": "Madame Mercier",
+     "n": "Antonia Buresi"
+    },
+    {
+     "c": "James",
+     "n": "Mitia Capellier-Audat"
+    },
+    {
+     "c": "Suzanne",
+     "n": "Suzanne Gerin"
+    },
+    {
+     "c": "Angela",
+     "n": "Hadya Fofana"
+    },
+    {
+     "c": "Amaury",
+     "n": "Rouge Isaac"
+    },
+    {
+     "c": "Constance",
+     "n": "Lou-Ann Le Glorennec"
+    },
+    {
+     "c": "Chamathka",
+     "n": "Chamathka Warahena"
+    },
+    {
+     "c": "Cherazade",
+     "n": "Cherazade Hammedi"
+    },
+    {
+     "c": "Étienne",
+     "n": "Camille Ménard-Harnish"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "date_kind": "release",
+   "director": [
+    "Marine Atlan"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1154730,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Amid the ancient ruins of Pompeii, a group of French teenagers on a class trip to Naples grapple with anxiety and exhilaration ahead of their high school graduation.",
+   "popularity": 5.9262,
+   "poster_path": "/y6AkOgTEPM9nTJUOeyvHqlf6Bgp.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-21",
+   "revenue": 0,
+   "runtime": 145,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "it",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "La Gradiva",
+   "trailer": {
+    "key": "5yY6V9MbEoE",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.404,
+   "vote_count": 47
+  },
   "movie:11830": {
    "backdrop_path": "/oq8HM9TOSbH54Xy0OBJGzYrtUC7.jpg",
    "budget": 1500000,
@@ -542,6 +745,756 @@
    "type": "movie",
    "vote_average": 7.795,
    "vote_count": 469
+  },
+  "movie:1368830": {
+   "backdrop_path": "/n2fbbUv9zSqbjgawJKLpPw064YW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Vincent Gauthier",
+     "n": "André Dussollier"
+    },
+    {
+     "c": "Alice Gauthier",
+     "n": "Miou-Miou"
+    },
+    {
+     "c": "Pierre Gauthier",
+     "n": "Arnaud Ducret"
+    },
+    {
+     "c": "Jules Gauthier",
+     "n": "Thomas Solivérès"
+    },
+    {
+     "c": "Louise Gauthier",
+     "n": "Pauline Clément"
+    },
+    {
+     "c": "Marie-Anne",
+     "n": "Frédérique Tirmont"
+    },
+    {
+     "c": "Yves",
+     "n": "Bernard Alane"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TP",
+   "date_kind": "release",
+   "director": [
+    "Emmanuel Patron"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1368830,
+   "industry": "world",
+   "origin_country": [
+    "BE",
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A trio of siblings faces turmoil when their parents reveal they've won the lottery but refuse to share a cent, unraveling buried secrets, unspoken tensions, and deep-seated jealousy that shake the family to its core.",
+   "popularity": 1.1666,
+   "poster_path": "/rOYf8JDUsCI4EoHeS2p399Q9wyi.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-25",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Families (are supposed to) do everything together!",
+   "title": "Chers parents",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 69
+  },
+  "movie:1439930": {
+   "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Frank Castle",
+     "n": "Jon Bernthal"
+    },
+    {
+     "c": "Karen Page",
+     "n": "Deborah Ann Woll"
+    },
+    {
+     "c": "Curtis Hoyle",
+     "n": "Jason R. Moore"
+    },
+    {
+     "c": "Ma",
+     "n": "Judith Light"
+    },
+    {
+     "c": "Maria Castle",
+     "n": "Kelli Barrett"
+    },
+    {
+     "c": "Dre",
+     "n": "Andre Royo"
+    },
+    {
+     "c": "Old Vet",
+     "n": "John Douglas Thompson"
+    },
+    {
+     "c": "Colton Hill",
+     "n": "Colton Hill"
+    },
+    {
+     "c": "Nick Koumalatsos",
+     "n": "Nick Koumalatsos"
+    },
+    {
+     "c": "Lisa",
+     "n": "Addie Bernthal"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Reinaldo Marcus Green"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Crime"
+   ],
+   "id": 1439930,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
+   "popularity": 19.3313,
+   "poster_path": "/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-12",
+   "revenue": 0,
+   "runtime": 51,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Hey Frank.",
+   "title": "The Punisher: One Last Kill",
+   "trailer": {
+    "key": "oSeqs_xeqv4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.243,
+   "vote_count": 2408
+  },
+  "movie:1470130": {
+   "backdrop_path": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Rebecca Owens",
+     "n": "Willa Holland"
+    },
+    {
+     "c": "Raymond Delver",
+     "n": "Paul Sparks"
+    },
+    {
+     "c": "Ben",
+     "n": "John Adams"
+    },
+    {
+     "c": "The Mimic",
+     "n": "Mark Steger"
+    },
+    {
+     "c": "Grandma",
+     "n": "Shelly Gibson"
+    },
+    {
+     "c": "Vallery",
+     "n": "Emily Bennett"
+    },
+    {
+     "c": "Kelly",
+     "n": "Keena Ferguson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Jeremiah Kipp"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 1470130,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Rebecca Owens, a recent mortuary science graduate takes a night shift job at River Fields Mortuary. Initially, the job seems straightforward — embalming bodies, completing paperwork, and keeping things tidy. But once Rebecca starts working the night shift, things take a dark turn.",
+   "popularity": 13.6633,
+   "poster_path": "/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-13",
+   "revenue": 1718973,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Alone with the dead.",
+   "title": "The Mortuary Assistant",
+   "trailer": {
+    "key": "YtY6JoPX5MU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.2,
+   "vote_count": 239
+  },
+  "movie:1534530": {
+   "backdrop_path": "/vD2IsRkXyIzZkT8NHop8FUh4jwv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lucía",
+     "n": "Ana Clara Guanco"
+    },
+    {
+     "c": "Adrián",
+     "n": "Marcelo Michinaux"
+    },
+    {
+     "c": "Víctor",
+     "n": "Luciano Cáceres"
+    },
+    {
+     "c": "Miura",
+     "n": "Horacio Camandulle"
+    },
+    {
+     "c": "Camuflado",
+     "n": "Rasjid César"
+    },
+    {
+     "c": "Cautiva",
+     "n": "Luana Bovino"
+    },
+    {
+     "c": "Marrón",
+     "n": "Gonzalo Durante"
+    },
+    {
+     "c": "Policia",
+     "n": "Soledad Lacassy"
+    },
+    {
+     "c": "Hombre Mayor",
+     "n": "Eytan Lasca"
+    },
+    {
+     "c": "Betun",
+     "n": "Joro Gorfain"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "+16",
+   "date_kind": "release",
+   "director": [
+    "Gustavo Hernández"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 1534530,
+   "industry": "world",
+   "origin_country": [
+    "AR",
+    "UY"
+   ],
+   "original_language": "es",
+   "overview": "Fleeing from their violent father, siblings Lucía and Adrián take refuge in a remote mansion. With the help of a hidden micro-camera on a cat, Lucía uncovers a terrifying secret: their neighbors are part of a criminal network that kidnaps teenage girls to make snuff films, and they intend to get rid of the siblings. As Lucía fights to protect her brother, she must face a dark family curse that follows them into their newfound sanctuary.",
+   "popularity": 1.6314,
+   "poster_path": "/mm5uTCD55btSNijo7ApFhdeFCGS.jpg",
+   "production_countries": [
+    "AR",
+    "UY"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-22",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Whisper",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.056,
+   "vote_count": 45
+  },
+  "movie:1657630": {
+   "backdrop_path": "/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rojas",
+     "n": "Claudio Cataño"
+    },
+    {
+     "c": "Díaz",
+     "n": "Alejandro Buitrago"
+    },
+    {
+     "c": "Doc",
+     "n": "Hector Sánchez"
+    },
+    {
+     "c": "Pardo",
+     "n": "Andrea Olaya"
+    },
+    {
+     "c": "Excomulgado",
+     "n": "Quique Sanmartin"
+    },
+    {
+     "c": "Jackson",
+     "n": "Jaisson Jeack"
+    },
+    {
+     "c": "Matías",
+     "n": "Carlos Mariño"
+    },
+    {
+     "c": "Castillo",
+     "n": "Andres Londono"
+    },
+    {
+     "c": "Capitán",
+     "n": "Salvador Bridges"
+    },
+    {
+     "c": "",
+     "n": "Sebastian Velasquez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Jaime Osorio Márquez"
+   ],
+   "genres": [
+    "Horror",
+    "Action",
+    "War",
+    "Fantasy",
+    "Thriller"
+   ],
+   "id": 1657630,
+   "industry": "world",
+   "origin_country": [
+    "CO"
+   ],
+   "original_language": "es",
+   "overview": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
+   "popularity": 111.873,
+   "poster_path": "/AhP971WogMHbF5iKJPKi6e6oaya.jpg",
+   "production_countries": [
+    "CO"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-29",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "ur"
+   ],
+   "status": "Released",
+   "tagline": "Old sins. New blood.",
+   "title": "The Awakening",
+   "trailer": {
+    "key": "hj6Cer6bJUI",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.536,
+   "vote_count": 124
+  },
+  "movie:1679730": {
+   "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sapphire / Princess Knight (voice)",
+     "n": "Saaya"
+    },
+    {
+     "c": "Pine (voice)",
+     "n": "Seiran Kobayashi"
+    },
+    {
+     "c": "Velvet (voice)",
+     "n": "Koki Uchiyama"
+    },
+    {
+     "c": "Zirco (voice)",
+     "n": "Mayumi Shintani"
+    },
+    {
+     "c": "Pope (voice)",
+     "n": "Haruhiko Jo"
+    },
+    {
+     "c": "Rock (voice)",
+     "n": "Yoshimasa Hosoya"
+    },
+    {
+     "c": "Hecate (voice)",
+     "n": "Mito Tsukino"
+    },
+    {
+     "c": "Chorogy (voice)",
+     "n": "Yusuke Tezuka"
+    },
+    {
+     "c": "Chick (voice)",
+     "n": "Lunlun"
+    },
+    {
+     "c": "Tack (voice)",
+     "n": "Debidebi Debiru"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Yuki Igarashi"
+   ],
+   "genres": [
+    "Animation",
+    "Fantasy",
+    "Drama",
+    "Action"
+   ],
+   "id": 1679730,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
+   "popularity": 7.9779,
+   "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-07",
+   "revenue": 0,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "THE RIBBON HERO",
+   "trailer": {
+    "key": "Z56klGz1BPk",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 27
   },
   "movie:238930": {
    "backdrop_path": "/4iiIIBk4Aw2GpSfrkvk8GWiwOxd.jpg",

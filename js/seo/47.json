@@ -1,7 +1,390 @@
 {
  "bucket": "47",
- "count": 9,
+ "count": 15,
  "titles": {
+  "movie:1020047": {
+   "d": "In the Hand of Dante (2026): Drama/Crime film. Story: A Vatican priest discovers Dante's original Divine… See cast, budget $25M, and TMDB rating 5.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tJJ737CJujLXw1GlUYd7K4AH3eB.jpg",
+   "industry": "world",
+   "k": "In the Hand of Dante, In the Hand of Dante movie, In the Hand of Dante cast, In the Hand of Dante story, In the Hand of Dante box office collection, In the Hand of Dante budget, In the Hand of Dante review, In the Hand of Dante rating, In the Hand of Dante release date, In the Hand of Dante trailer, In the Hand of Dante Drama, In the Hand of Dante Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Oscar Isaac"
+     },
+     {
+      "@type": "Person",
+      "name": "Gal Gadot"
+     },
+     {
+      "@type": "Person",
+      "name": "Gerard Butler"
+     },
+     {
+      "@type": "Person",
+      "name": "John Malkovich"
+     },
+     {
+      "@type": "Person",
+      "name": "Louis Cancelmi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 79,
+     "ratingValue": 5.4,
+     "worstRating": 0
+    },
+    "description": "In the Hand of Dante (2026): Drama/Crime film. Story: A Vatican priest discovers Dante's original Divine… See cast, budget $25M, and TMDB rating 5.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Julian Schnabel"
+     }
+    ],
+    "duration": "PT153M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tJJ737CJujLXw1GlUYd7K4AH3eB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1020047",
+    "name": "In the Hand of Dante",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1020047"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>In the Hand of Dante (2026)</h1>\n<p class=\"ssr-lead\">A Vatican priest discovers Dante&#x27;s original Divine Comedy manuscript. When asked to authenticate it, writer Nick Tosches steals it, while a parallel story follows Dante&#x27;s quest to create his masterpiece.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 June 2026</li><li>Runtime: 153 minutes</li><li>Director: Julian Schnabel</li><li>Genres: Drama, Crime, Thriller</li><li>Budget: $25M</li><li>TMDB rating: 5.4/10 (79 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Oscar Isaac as Nick / Dante</li><li>Gal Gadot as Giulietta / Gemma</li><li>Gerard Butler as Louie / Pope Bonifacio</li><li>John Malkovich as Joe Black</li><li>Louis Cancelmi as Lefty / Guido Novello Da Polenta</li><li>Sabrina Impacciatore as Dr. Susanna Pulice</li><li>Franco Nero as Don Lecco (86)</li><li>Benjamin Clementine as Mephistopheles</li><li>Paolo Bonacelli as Priest Of Alcamo</li><li>Martin Scorsese as Isaiah</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "In the Hand of Dante (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1257147": {
+   "d": "My Best Friend (2026): Comedy film. Story: When empty nest syndrome hits, two BFFs follow their… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
+   "industry": "world",
+   "k": "My Best Friend, My Best Friend movie, My Best Friend cast, My Best Friend story, My Best Friend box office collection, My Best Friend budget, My Best Friend review, My Best Friend rating, My Best Friend release date, My Best Friend Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ingrid Guimarães"
+     },
+     {
+      "@type": "Person",
+      "name": "Mônica Martelli"
+     },
+     {
+      "@type": "Person",
+      "name": "Giulia Benite"
+     },
+     {
+      "@type": "Person",
+      "name": "Gabi Amaral"
+     },
+     {
+      "@type": "Person",
+      "name": "Ricardo Pereira"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 48,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "My Best Friend (2026): Comedy film. Story: When empty nest syndrome hits, two BFFs follow their… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Susana Garcia"
+     }
+    ],
+    "duration": "PT125M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1257147",
+    "name": "My Best Friend",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1257147"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>My Best Friend (2026)</h1>\n<p class=\"ssr-lead\">When empty nest syndrome hits, two BFFs follow their teen daughters to Portugal and find love, fun and a whole new meaning of friendship along the way.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 September 2026</li><li>Runtime: 125 minutes</li><li>Director: Susana Garcia</li><li>Genres: Comedy</li><li>TMDB rating: 7.2/10 (48 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ingrid Guimarães as Clara</li><li>Mônica Martelli as Julia</li><li>Giulia Benite as Manu</li><li>Gabi Amaral as Isadora</li><li>Ricardo Pereira as Antônio - Médico</li><li>Michel Melamed as Breno</li><li>Thaila Ayala as Elisa</li><li>Gustavo Machado as André</li><li>Albano Jerónimo as Nuno</li><li>Alejandro Albarracín as Ramon</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "My Best Friend (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1318447": {
+   "d": "Apex (2026): Action/Thriller film. Story: A grieving woman pushing her limits on a solo… See cast, budget $70M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
+   "industry": "world",
+   "k": "Apex, Apex movie, Apex cast, Apex story, Apex box office collection, Apex budget, Apex review, Apex rating, Apex release date, Apex trailer, Apex Action, Apex Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Charlize Theron"
+     },
+     {
+      "@type": "Person",
+      "name": "Taron Egerton"
+     },
+     {
+      "@type": "Person",
+      "name": "Eric Bana"
+     },
+     {
+      "@type": "Person",
+      "name": "Caitlin Stasey"
+     },
+     {
+      "@type": "Person",
+      "name": "Bessie Holland"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 2071,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Apex (2026): Action/Thriller film. Story: A grieving woman pushing her limits on a solo… See cast, budget $70M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Baltasar Kormákur"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1318447",
+    "name": "Apex",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1318447"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Apex (2026)</h1>\n<p class=\"ssr-lead\">A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she&#x27;s prey.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 April 2026</li><li>Runtime: 96 minutes</li><li>Director: Baltasar Kormákur</li><li>Genres: Action, Thriller</li><li>Budget: $70M</li><li>TMDB rating: 6.9/10 (2071 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Charlize Theron as Sasha</li><li>Taron Egerton as Ben</li><li>Eric Bana as Tommy</li><li>Caitlin Stasey as Leah</li><li>Bessie Holland as Cashier</li><li>Zachary Garred as Sean</li><li>Matt Whelan as Hunter</li><li>Rob Carlton as 2nd Hunter</li><li>Aaron Pedersen as Park Ranger</li><li>Duncan Fellows as Dad</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Apex (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1432547": {
+   "d": "ALL YOU NEED IS KILL (2026): Animation/Action film. Story: When a massive alien flower known as \"Darol\"… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/c2UTBDLSIFgxlz4XdjSooNGrMXb.jpg",
+   "industry": "world",
+   "k": "ALL YOU NEED IS KILL, ALL YOU NEED IS KILL movie, ALL YOU NEED IS KILL cast, ALL YOU NEED IS KILL story, ALL YOU NEED IS KILL box office collection, ALL YOU NEED IS KILL budget, ALL YOU NEED IS KILL review, ALL YOU NEED IS KILL rating, ALL YOU NEED IS KILL release date, ALL YOU NEED IS KILL trailer, ALL YOU NEED IS KILL Animation, ALL YOU NEED IS KILL Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ai Mikami"
+     },
+     {
+      "@type": "Person",
+      "name": "Natsuki Hanae"
+     },
+     {
+      "@type": "Person",
+      "name": "Kana Hanazawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Hiccorohee"
+     },
+     {
+      "@type": "Person",
+      "name": "Mo Chugakusei"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 46,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "ALL YOU NEED IS KILL (2026): Animation/Action film. Story: When a massive alien flower known as \"Darol\"… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kenichiro Akimoto"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Animation",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/c2UTBDLSIFgxlz4XdjSooNGrMXb.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1432547",
+    "name": "ALL YOU NEED IS KILL",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1432547"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>ALL YOU NEED IS KILL (2026)</h1>\n<p class=\"ssr-lead\">When a massive alien flower known as &quot;Darol&quot; unexpectedly erupts in a deadly event, unleashing monstrous creatures that decimate the population of Japan, Rita is caught in the destruction—and killed. But then she wakes up again. And again. Caught in an endless time loop, Rita must navigate the trauma and repetition of death until she crosses paths with Keiji, a shy young man trapped in the same cycle. Together, they fight to break free from the loop and find meaning in the chaos around them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 January 2026</li><li>Runtime: 86 minutes</li><li>Director: Kenichiro Akimoto</li><li>Genres: Animation, Action, Mystery, Science Fiction</li><li>TMDB rating: 6.8/10 (46 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ai Mikami as Rita (voice)</li><li>Natsuki Hanae as Keiji (voice)</li><li>Kana Hanazawa as Shasta (voice)</li><li>Hiccorohee as Rachel (voice)</li><li>Mo Chugakusei as YONABARU (voice)</li><li>Hayato Fujii as Bartolome (voice)</li><li>Saki Kobari as Athica (voice)</li><li>Koseki Kogure as Ralph (voice)</li><li>Marie Ooi as Rita&#x27;s mother (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "ALL YOU NEED IS KILL (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1482547": {
+   "d": "Zip Wire (2026): Action/Thriller film. Story: When her ground-breaking pharmaceutical discovery is… See cast and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yIwdIsM2Nr6EaiWy23mQqxvmoNh.jpg",
+   "industry": "world",
+   "k": "Zip Wire, Zip Wire movie, Zip Wire cast, Zip Wire story, Zip Wire box office collection, Zip Wire budget, Zip Wire review, Zip Wire rating, Zip Wire release date, Zip Wire trailer, Zip Wire Action, Zip Wire Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "MyAnna Buring"
+     },
+     {
+      "@type": "Person",
+      "name": "Joseph Millson"
+     },
+     {
+      "@type": "Person",
+      "name": "Saffron Burrows"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Amariah"
+     },
+     {
+      "@type": "Person",
+      "name": "Silvia Presente"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 103,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Zip Wire (2026): Action/Thriller film. Story: When her ground-breaking pharmaceutical discovery is… See cast and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Howard J. Ford"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yIwdIsM2Nr6EaiWy23mQqxvmoNh.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1482547",
+    "name": "Zip Wire",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1482547"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Zip Wire (2026)</h1>\n<p class=\"ssr-lead\">When her ground-breaking pharmaceutical discovery is stolen and partner murdered, researcher Amy must face her fear of heights to escape nefarious attackers, with the only path to salvation being a treacherous aerial runway. To outsmart the mysterious hostiles, she has to summon every ounce of courage to protect the world-changing scientific discovery — and herself — before it&#x27;s too late.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 August 2026</li><li>Runtime: 95 minutes</li><li>Director: Howard J. Ford</li><li>Genres: Action, Thriller</li><li>TMDB rating: 7.5/10 (103 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>MyAnna Buring as Amy Watson</li><li>Joseph Millson as Evan</li><li>Saffron Burrows as Donaldson</li><li>Michael Amariah as Robert</li><li>Silvia Presente as Chloe</li></ul>\n</article>",
+   "t": "Zip Wire (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1498047": {
+   "d": "My Amazing Grandma (2026): Comedy/Family film. Story: Toñi, an eccentric grandmother, gets by between… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/irjnJ3lGRlPzJWnEpTzq2Qy6sVi.jpg",
+   "industry": "world",
+   "k": "My Amazing Grandma, My Amazing Grandma movie, My Amazing Grandma cast, My Amazing Grandma story, My Amazing Grandma box office collection, My Amazing Grandma budget, My Amazing Grandma review, My Amazing Grandma rating, My Amazing Grandma release date, My Amazing Grandma Comedy, My Amazing Grandma Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Elena Irureta"
+     },
+     {
+      "@type": "Person",
+      "name": "Toni Acosta"
+     },
+     {
+      "@type": "Person",
+      "name": "Carla Pastor"
+     },
+     {
+      "@type": "Person",
+      "name": "Carlos Serrano"
+     },
+     {
+      "@type": "Person",
+      "name": "Gorka Aguinagalde"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 34,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "My Amazing Grandma (2026): Comedy/Family film. Story: Toñi, an eccentric grandmother, gets by between… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ana Vázquez"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Comedy",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/irjnJ3lGRlPzJWnEpTzq2Qy6sVi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1498047",
+    "name": "My Amazing Grandma",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1498047"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>My Amazing Grandma (2026)</h1>\n<p class=\"ssr-lead\">Toñi, an eccentric grandmother, gets by between failed businesses and a carefree attitude. Her daughter Daniela, a stressed executive and single mom, wants to keep her away.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 January 2026</li><li>Runtime: 87 minutes</li><li>Director: Ana Vázquez</li><li>Genres: Comedy, Family</li><li>TMDB rating: 6.9/10 (34 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Elena Irureta as Toñi</li><li>Toni Acosta as Daniela</li><li>Carla Pastor as Alexia</li><li>Carlos Serrano as Víctor</li><li>Gorka Aguinagalde as Carlos</li><li>Darío Moncloa as Gustavo</li><li>Adrián Gámiz Lara as Julio</li><li>Sofía González as Sara</li><li>Santi Alverú as Arturo (as Santiago Alverú)</li><li>Kandido Uranga as Ride</li></ul>\n</article>",
+   "t": "My Amazing Grandma (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:412547": {
    "d": "Killing Gunther (2017): Action/Comedy film. Story: A group of eccentric assassins are fed up with… See cast and TMDB rating 4.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/u39BX33drFeaUTobnECyRRQbCED.jpg",

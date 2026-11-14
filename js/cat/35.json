@@ -1,6 +1,6 @@
 {
  "bucket": "35",
- "count": 17,
+ "count": 25,
  "titles": {
   "movie:10935": {
    "backdrop_path": "/v0DsJiF7LAeJtqFObQfq3eU6rag.jpg",
@@ -118,6 +118,536 @@
    "type": "movie",
    "vote_average": 6.741,
    "vote_count": 444
+  },
+  "movie:1291335": {
+   "backdrop_path": "/eVXBp5BBskAj0RJ6pDSNPcBs1uI.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Matt Taylor",
+     "n": "Kevin James"
+    },
+    {
+     "c": "Gia",
+     "n": "Nicole Grimaudo"
+    },
+    {
+     "c": "Julian",
+     "n": "Kim Coates"
+    },
+    {
+     "c": "Neil",
+     "n": "Jonathan Roumie"
+    },
+    {
+     "c": "Meghan",
+     "n": "Alyson Hannigan"
+    },
+    {
+     "c": "Heather",
+     "n": "Julie Ann Emery"
+    },
+    {
+     "c": "Donna",
+     "n": "Julee Cerda"
+    },
+    {
+     "c": "Andrea Bocelli",
+     "n": "Andrea Bocelli"
+    },
+    {
+     "c": "Andrea Maffei",
+     "n": "Andrea Logiudice"
+    },
+    {
+     "c": "Claudia",
+     "n": "Caterina Silva"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Charles Kinnane",
+    "Daniel Kinnane"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 1291335,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After Matt's dreams of a picturesque Italian wedding are shattered when his fiancée leaves him at the altar, he embarks on his planned honeymoon across Italy alone, immersing himself in the country's vibrant culture, food, and beauty, meeting Gia along the way.",
+   "popularity": 5.2863,
+   "poster_path": "/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Angel Studios"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-05",
+   "revenue": 26433346,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "All roads lead to (being left in) Rome.",
+   "title": "Solo Mio",
+   "trailer": {
+    "key": "433MYSlERJo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.478,
+   "vote_count": 317
+  },
+  "movie:1318335": {
+   "backdrop_path": "/lRi60HBL9fDd3MlouxJU0OUgR2j.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Jean Luchaire",
+     "n": "Jean Dujardin"
+    },
+    {
+     "c": "Corinne Luchaire",
+     "n": "Nastya Golubeva Carax"
+    },
+    {
+     "c": "Otto Abetz",
+     "n": "August Diehl"
+    },
+    {
+     "c": "Guy de Voisins",
+     "n": "Olivier Chantreau"
+    },
+    {
+     "c": "Lydia Rogers",
+     "n": "Anna Próchniak"
+    },
+    {
+     "c": "Suzanne de Bruyker",
+     "n": "Lucile Vignolles"
+    },
+    {
+     "c": "Françoise Luchaire",
+     "n": "Chloé Astor"
+    },
+    {
+     "c": "Guy Crouzet",
+     "n": "Vincent Colombe"
+    },
+    {
+     "c": "Eva",
+     "n": "Maria Cavalier-Bazan"
+    },
+    {
+     "c": "Léonide Moguy",
+     "n": "Valeriu Andriuță"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "N-16",
+   "date_kind": "release",
+   "director": [
+    "Xavier Giannoli"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 1318335,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Jean and Otto, a French newspaperman and a young German Francophile, are fighting for peace in Europe. Jean’s daughter, Corinne, is launching a brilliant acting career in the film world, but war breaks out and France is occupied. The two friends have a major role to play in this new France. Jean becomes a big press baron and an ardent advocate of collaboration with the occupying forces, while Otto becomes the Reich’s ambassador in Paris. Corinne, meanwhile, finds herself thrown into the lion’s pit.",
+   "popularity": 3.5952,
+   "poster_path": "/cSWYnBFJroVGtf6QeDLAeqhojiS.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-18",
+   "revenue": 0,
+   "runtime": 199,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Rays and Shadows",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.362,
+   "vote_count": 149
+  },
+  "movie:1473635": {
+   "backdrop_path": "/pBeB38aB3FfzPqCrSoxZpvLHxjt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carlo",
+     "n": "Stefano Accorsi"
+    },
+    {
+     "c": "Elisa",
+     "n": "Carolina Crescentini"
+    },
+    {
+     "c": "Anna",
+     "n": "Miriam Leone"
+    },
+    {
+     "c": "Paolo",
+     "n": "Claudio Santamaria"
+    },
+    {
+     "c": "Blu",
+     "n": "Beatrice Savignani"
+    },
+    {
+     "c": "Vittoria",
+     "n": "Margherita Pantaleo"
+    },
+    {
+     "c": "Hassan",
+     "n": "Ahmed Boulane"
+    },
+    {
+     "c": "",
+     "n": "Alessandra Carrillo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "19",
+   "date_kind": "release",
+   "director": [
+    "Gabriele Muccino"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1473635,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Carlo and Elisa are a successful couple. He’s a university professor and writer facing a creative block; she’s a brilliant, sharp-witted journalist, known for her internationally published editorials. They live in Rome, moving between accomplishments and routine, affection and something that might be fading. In search of new energy, they travel to Morocco with their lifelong friends, Anna and Paolo, and their thirteen-year-old daughter Vittoria—bright, curious, a little eccentric. Tensions soon rise.",
+   "popularity": 1.3347,
+   "poster_path": "/1o0FTRrtcPFboam4pZRbkwPnDTX.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-29",
+   "revenue": 7080000,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Things We Don't Say",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 163
+  },
+  "movie:1596335": {
+   "backdrop_path": "/lIvkPPTAHBpKhifdczZH0s8eozB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Daniel Roher"
+    },
+    {
+     "c": "Self",
+     "n": "Sam Altman"
+    },
+    {
+     "c": "Self",
+     "n": "Daniela Amodei"
+    },
+    {
+     "c": "Self",
+     "n": "Dario Amodei"
+    },
+    {
+     "c": "Self",
+     "n": "Emily M. Bender"
+    },
+    {
+     "c": "Self",
+     "n": "Yoshua Bengio"
+    },
+    {
+     "c": "Self",
+     "n": "Liv Boeree"
+    },
+    {
+     "c": "Self",
+     "n": "Ajeya Cotra"
+    },
+    {
+     "c": "Self",
+     "n": "Peter Diamandis"
+    },
+    {
+     "c": "Self",
+     "n": "Randima Fernando"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Daniel Roher",
+    "Charlie Tyrell"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1596335,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A father-to-be tries to figure out what is happening with all this AI insanity, and explores the most powerful technology humanity has ever created... and what's at stake if we get it wrong.",
+   "popularity": 3.0475,
+   "poster_path": "/A610QT1gWjhJ1dJrXP9qMm4JMLr.jpg",
+   "production_countries": [
+    "US",
+    "NL"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-27",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The future is not automatic.",
+   "title": "The AI Doc: Or How I Became an Apocaloptimist",
+   "trailer": {
+    "key": "xkPbV3IRe4Y",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 42
+  },
+  "movie:1613335": {
+   "backdrop_path": "/1VSS8owtFBcpeH2b9vWRLsH7IBv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Head Coach (archive footage)",
+     "n": "Herb Brooks"
+    },
+    {
+     "c": "Self - Boston University - Forward",
+     "n": "Mike Eruzione"
+    },
+    {
+     "c": "Self - Boston University - Goalie",
+     "n": "Jim Craig"
+    },
+    {
+     "c": "Self - Trainer",
+     "n": "Gary Smith"
+    },
+    {
+     "c": "Self - University of Minnesota - Goalie",
+     "n": "Steve Janaszak"
+    },
+    {
+     "c": "Self - University of Minnesota Duluth - Forward",
+     "n": "John Harrington"
+    },
+    {
+     "c": "Self - Assistant Coach",
+     "n": "Craig Patrick"
+    },
+    {
+     "c": "Self - University of Minnesota - Forward",
+     "n": "Buzz Schneider"
+    },
+    {
+     "c": "Self - Political Commentator (as George Will)",
+     "n": "George F. Will"
+    },
+    {
+     "c": "Self - Forward",
+     "n": "Ralph Cox"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Max Gershberg",
+    "Jacob Rogal"
+   ],
+   "genres": [
+    "Documentary",
+    "History"
+   ],
+   "id": 1613335,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This is the story of the “Miracle on Ice,” when the 1980 US Hockey Team beat the USSR in the Olympic semi-finals at the height of the Cold War to bring home a gold medal. Their iconic underdog story is told with never-before-seen 16mm footage and firsthand reflections from the players who were brought back to the scene of their historic victory.",
+   "popularity": 1.4012,
+   "poster_path": "/zmMlJPZremA7iSqzg3SgZTXR28Z.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-30",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Miracle: The Boys of '80",
+   "trailer": {
+    "key": "40ZWbeMFJ6I",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 24
   },
   "movie:17835": {
    "backdrop_path": "/hA5A3srsuVmKe5tR4UePS2ZPaDw.jpg",
@@ -273,6 +803,99 @@
    "type": "movie",
    "vote_average": 7.6,
    "vote_count": 450
+  },
+  "movie:1788735": {
+   "backdrop_path": "/i5XAKlLzmbGsBtr8T3vyGZHkanT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Brian Griffin / Stewie Griffin / Peter Griffin (voice)",
+     "n": "Seth MacFarlane"
+    },
+    {
+     "c": "The Devil (voice)",
+     "n": "Kieran Culkin"
+    },
+    {
+     "c": "Lois Griffin (voice)",
+     "n": "Alex Borstein"
+    },
+    {
+     "c": "Chris Griffin (voice)",
+     "n": "Seth Green"
+    },
+    {
+     "c": "Meg Griffin (voice)",
+     "n": "Mila Kunis"
+    },
+    {
+     "c": "Joe Swanson (voice)",
+     "n": "Patrick Warburton"
+    },
+    {
+     "c": "Cleveland Brown (voice)",
+     "n": "Arif Zahir"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Joe Vaux"
+   ],
+   "genres": [
+    "Animation",
+    "Horror",
+    "Comedy"
+   ],
+   "id": 1788735,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After unexpectedly dying and being sent to Hell, Stewie and Brian’s constant nagging leads The Devil to quit, passing control of Hell to them.",
+   "popularity": 3.5654,
+   "poster_path": "/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-05",
+   "revenue": 0,
+   "runtime": 22,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's not \"the devil you know\", it's \"The Devil, y'know?\"",
+   "title": "Family Guy Happy Hell-o-ween",
+   "trailer": {
+    "key": "dqCtpH7muKA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.328,
+   "vote_count": 29
   },
   "movie:48035": {
    "backdrop_path": "/62pTb3zkfE2860lIqQFlxQ5tUEL.jpg",
@@ -875,6 +1498,197 @@
    "vote_average": 5.7,
    "vote_count": 462
   },
+  "movie:855435": {
+   "backdrop_path": "/dI7Il2dQJIEOkVvQW4739rFcXWT.jpg",
+   "budget": 7400000,
+   "cast": [
+    {
+     "c": "Margot Romero",
+     "n": "Barbie Ferreira"
+    },
+    {
+     "c": "Arthur Spevak",
+     "n": "Dacre Montgomery"
+    },
+    {
+     "c": "Samantha Gravinsky",
+     "n": "Josie Totah"
+    },
+    {
+     "c": "Ryan",
+     "n": "Aaron Holliday"
+    },
+    {
+     "c": "Neal",
+     "n": "Kurt Yue"
+    },
+    {
+     "c": "Josh",
+     "n": "Jermaine Fowler"
+    },
+    {
+     "c": "Gabby",
+     "n": "Charli xcx"
+    },
+    {
+     "c": "Drew",
+     "n": "Ash Maeda"
+    },
+    {
+     "c": "Ed",
+     "n": "Sam Malone"
+    },
+    {
+     "c": "Margot's Sister",
+     "n": "Tiffany Colin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Daniel Goldhaber"
+   ],
+   "genres": [
+    "Horror",
+    "Crime"
+   ],
+   "id": 855435,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A moderator on an internet video-sharing platform stumbles across a potential snuff film ring hidden in the depths of the site's content.",
+   "popularity": 4.6512,
+   "poster_path": "/jdbFKRF9pWUY7aFUk19ys4zHoBV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "Shudder"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-10",
+   "revenue": 2610000,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You can't unsee it.",
+   "title": "Faces of Death",
+   "trailer": {
+    "key": "D6ScdXrsTMo",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.635,
+   "vote_count": 159
+  },
   "movie:85735": {
    "backdrop_path": "/hmmWBSDWEuHnglPHm470MqDJ9Yq.jpg",
    "budget": 0,
@@ -966,6 +1780,101 @@
    "type": "movie",
    "vote_average": 5.744,
    "vote_count": 440
+  },
+  "movie:858035": {
+   "backdrop_path": "/2Zk5jRXUlrfkU3RsutMPMHey1Y.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Klara",
+     "n": "Jenna Ortega"
+    },
+    {
+     "c": "Josie",
+     "n": "Mia Tharia"
+    },
+    {
+     "c": "Chrissie",
+     "n": "Amy Adams"
+    },
+    {
+     "c": "Manager",
+     "n": "Natasha Lyonne"
+    },
+    {
+     "c": "Rick",
+     "n": "Aran Murphy"
+    },
+    {
+     "c": "Melania",
+     "n": "Rachel House"
+    },
+    {
+     "c": "Capaldi",
+     "n": "Steve Buscemi"
+    },
+    {
+     "c": "Simone",
+     "n": "Davida McKenzie"
+    },
+    {
+     "c": "",
+     "n": "Harry Greenwood"
+    },
+    {
+     "c": "AF-1",
+     "n": "Anastasiia Aksiuta"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Taika Waititi"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Drama"
+   ],
+   "id": 858035,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother and they've suffered great loss, but Klara's innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie's complicated world.",
+   "popularity": 27.1429,
+   "poster_path": "/xqovj2p6HRsgHxN81qYAYF4StgM.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-21",
+   "revenue": 1691141,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Meet the future of friendship.",
+   "title": "Klara and the Sun",
+   "trailer": {
+    "key": "wixzainceAE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.094,
+   "vote_count": 32
   },
   "movie:859235": {
    "backdrop_path": "/xSIJy4vPKpo2uw6q7HNBhIvQaj6.jpg",

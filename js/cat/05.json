@@ -1,6 +1,6 @@
 {
  "bucket": "05",
- "count": 16,
+ "count": 25,
  "titles": {
   "movie:1069905": {
    "backdrop_path": "/wR9D9hQvCVBux16NauY4b7letdU.jpg",
@@ -226,6 +226,1055 @@
    "type": "movie",
    "vote_average": 6.9,
    "vote_count": 471
+  },
+  "movie:1217505": {
+   "backdrop_path": "/7ww4Zc6XirdNJnj1nMsWq9ycxuz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Judy",
+     "n": "Marisa Tomei"
+    },
+    {
+     "c": "Diane",
+     "n": "Sherry Cola"
+    },
+    {
+     "c": "Eva",
+     "n": "Ciara Bravo"
+    },
+    {
+     "c": "Theo",
+     "n": "Marco Pigossi"
+    },
+    {
+     "c": "Daniel",
+     "n": "José María Yázpik"
+    },
+    {
+     "c": "Sam",
+     "n": "Dennis Tong"
+    },
+    {
+     "c": "Mary",
+     "n": "Judy Kain"
+    },
+    {
+     "c": "Chloe",
+     "n": "Lily Donoghue"
+    },
+    {
+     "c": "Tyler",
+     "n": "Marcus Emanuel Mitchell"
+    },
+    {
+     "c": "Edward",
+     "n": "Troy Garity"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Ann Marie Allison"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 1217505,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An outspoken psychologist, burnt by love, takes an emergency trip to Los Angeles with her best friend to talk her smitten daughter out of marrying a man she is convinced is a narcissist.",
+   "popularity": 1.8379,
+   "poster_path": "/j1O4BvAjGosDf9SdDemR4E1zDY3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-27",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "You're Dating a Narcissist!",
+   "trailer": {
+    "key": "Hw63r4S6kGw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 23
+  },
+  "movie:1242705": {
+   "backdrop_path": "/p3QVGwMKIrVhA2GpruG1VT00wpI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Minnie Vernon",
+     "n": "Emily Browning"
+    },
+    {
+     "c": "Joe",
+     "n": "Sean Keenan"
+    },
+    {
+     "c": "Rodney",
+     "n": "Ashley Zukerman"
+    },
+    {
+     "c": "Jenny",
+     "n": "Aisha Dee"
+    },
+    {
+     "c": "Pia",
+     "n": "Pallavi Sharda"
+    },
+    {
+     "c": "C-Word",
+     "n": "Hamish Michael"
+    },
+    {
+     "c": "Flick",
+     "n": "Anna McGahan"
+    },
+    {
+     "c": "Max",
+     "n": "Contessa Treffone"
+    },
+    {
+     "c": "Lynne",
+     "n": "Jane Allsop"
+    },
+    {
+     "c": "Pete",
+     "n": "Elias Anton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Nicholas Clifford"
+   ],
+   "genres": [
+    "Comedy",
+    "Science Fiction",
+    "Drama"
+   ],
+   "id": 1242705,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "New Years Eve. 1999. Minnie discovers a bottle of time travelling tequila. Each shot takes her back to the start of the night - giving her a bottle’s worth of shots to win back her old flame Joe, and change the course of her millennium.",
+   "popularity": 1.0562,
+   "poster_path": "/5lYkkKgZxuafkpHkyyRazyHldth.jpg",
+   "production_countries": [
+    "AU"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-12",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Party like it's 1999.",
+   "title": "One More Shot",
+   "trailer": {
+    "key": "PoPC2XJmHGE",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 35
+  },
+  "movie:1264805": {
+   "backdrop_path": "/2xtajuwR5EGFQm4pXuykWoEu4u0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eun-ho",
+     "n": "Koo Kyo-hwan"
+    },
+    {
+     "c": "Jeong-won",
+     "n": "Mun Ka-young"
+    },
+    {
+     "c": "Eun-ho's Father",
+     "n": "Shin Jung-keun"
+    },
+    {
+     "c": "Min-jae",
+     "n": "Lee Sang-yeob"
+    },
+    {
+     "c": "Park Seung-chan",
+     "n": "Kim Seo-won"
+    },
+    {
+     "c": "Gyeong-seok",
+     "n": "Lim Jae-hyeok"
+    },
+    {
+     "c": "Yun-jin",
+     "n": "Kim So-yul"
+    },
+    {
+     "c": "Eun-ho's Mother",
+     "n": "Kang Mal-geum"
+    },
+    {
+     "c": "College Senior",
+     "n": "Ji Suyeon"
+    },
+    {
+     "c": "Bus Driver",
+     "n": "Lee Jae-in"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Kim Do-young"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 1264805,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Seoul, 2008. On a bus heading to their hometown, fate brings Eun-ho and Jeong-won together, sparking an unlikely friendship. While battling  a bustling and weary city life, they find themselves sharing lofty dreams and a love that comes to feel extraordinary. But, eventually, the harsh realities of life lead them to part ways. Over a decade after the separation, the two unexpectedly reunite on a flight back to Korea, where they reflect on their lost time.",
+   "popularity": 2.2571,
+   "poster_path": "/ivBI8FRQPIKzoZAryZK93xriOT.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+     "name": "Rakuten Viki",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-31",
+   "revenue": 0,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "When the love shines us the the most.",
+   "title": "Once We Were Us",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.7,
+   "vote_count": 26
+  },
+  "movie:1358005": {
+   "backdrop_path": "/1N5yz1IDw6Ci8le1YgeM6xtBijA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jackie Cruz",
+     "n": "Jennifer Lopez"
+    },
+    {
+     "c": "Daniel Blanchflower",
+     "n": "Brett Goldstein"
+    },
+    {
+     "c": "Sydney Bloom",
+     "n": "Betty Gilpin"
+    },
+    {
+     "c": "Captain Jack Cruz",
+     "n": "Edward James Olmos"
+    },
+    {
+     "c": "Peter Vance",
+     "n": "Bradley Whitford"
+    },
+    {
+     "c": "Julie Schatz",
+     "n": "Amy Sedaris"
+    },
+    {
+     "c": "Lizzy",
+     "n": "Jodie Whittaker"
+    },
+    {
+     "c": "Clair",
+     "n": "Mary Wiseman"
+    },
+    {
+     "c": "George Dudek",
+     "n": "Tony Hale"
+    },
+    {
+     "c": "Francisco Alberto",
+     "n": "Tony Plana"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Ol Parker"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 1358005,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.",
+   "popularity": 6.1933,
+   "poster_path": "/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-04",
+   "revenue": 0,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's going down.",
+   "title": "Office Romance",
+   "trailer": {
+    "key": "11gcNa-TBRA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.382,
+   "vote_count": 412
+  },
+  "movie:1359005": {
+   "backdrop_path": "/AdsSM2GIlub3dB74ibSnWLJYsT0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Xu Tianbiao",
+     "n": "Dylan Wang"
+    },
+    {
+     "c": "Li Simeng",
+     "n": "Victoria Song"
+    },
+    {
+     "c": "Lao Bai",
+     "n": "Zu Feng"
+    },
+    {
+     "c": "Simeng's Mom",
+     "n": "Luo Haiqiong"
+    },
+    {
+     "c": "Ge Yang",
+     "n": "Wang Duo"
+    },
+    {
+     "c": "Sailor",
+     "n": "Jia Ba"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "19",
+   "date_kind": "release",
+   "director": [
+    "Han Yan"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Drama",
+    "Adventure"
+   ],
+   "id": 1359005,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "Set in the near future, the story revolves around the emergence of the virtual dream reality technology \"Good Dreams\",  which allows people to do whatever they desire within their self-created dreams. However, a crisis triggered by these dreams quietly unfolds.",
+   "popularity": 2.5163,
+   "poster_path": "/cuNGOSr0oSuBm0uAa28516Iw3Bw.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-17",
+   "revenue": 0,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Per Aspera Ad Astra",
+   "trailer": {
+    "key": "EEqO-9bT1vQ",
+    "name": "International Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.986,
+   "vote_count": 70
+  },
+  "movie:1429605": {
+   "backdrop_path": "/rQXIm9oICpHCBpuHSJ3SwthBQYc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gina",
+     "n": "Virginia Gardner"
+    },
+    {
+     "c": "Andrew",
+     "n": "Skylar Astin"
+    },
+    {
+     "c": "Wendy",
+     "n": "Marisa Tomei"
+    },
+    {
+     "c": "Johnny",
+     "n": "Jake Cannavale"
+    },
+    {
+     "c": "Mickey",
+     "n": "Sabrina Bartlett"
+    },
+    {
+     "c": "Tricia",
+     "n": "Natasha Leggero"
+    },
+    {
+     "c": "Steve",
+     "n": "Lil Rel Howery"
+    },
+    {
+     "c": "Mugger",
+     "n": "Mo Gallini"
+    },
+    {
+     "c": "",
+     "n": "Marysia S. Peres"
+    },
+    {
+     "c": "Bride's Cousin",
+     "n": "Mike Parish"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Mark Gantt"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 1429605,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Gina hates her Valentine's Day birthday and travels to Greece to prevent her boyfriend's proposal. With help from vacationers Johnny and his sister Mickey, she schemes to delay it – while questioning her relationship.",
+   "popularity": 3.7335,
+   "poster_path": "/8zPExowfpfZOTpS1W4J7G27lH4H.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-12",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "F Valentine's Day",
+   "trailer": {
+    "key": "qHxAYI_YMb4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.071,
+   "vote_count": 84
+  },
+  "movie:1567605": {
+   "backdrop_path": "/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+   "budget": 38000000,
+   "cast": [
+    {
+     "c": "Ebenezer Scrooge",
+     "n": "Johnny Depp"
+    },
+    {
+     "c": "Bob Cratchit",
+     "n": "Rupert Grint"
+    },
+    {
+     "c": "Clara",
+     "n": "Daisy Ridley"
+    },
+    {
+     "c": "Ghost of Christmas Present",
+     "n": "Tramell Tillman"
+    },
+    {
+     "c": "Jacob Marley",
+     "n": "Ian McKellen"
+    },
+    {
+     "c": "Ghost of Christmas Past",
+     "n": "Andrea Riseborough"
+    },
+    {
+     "c": "Fred",
+     "n": "Sam Claflin"
+    },
+    {
+     "c": "Young Ebenezer",
+     "n": "Arthur Conti"
+    },
+    {
+     "c": "Emily Cratchit",
+     "n": "Charlie Murphy"
+    },
+    {
+     "c": "Ghost of Christmas Future",
+     "n": "Robert Strange"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ti West"
+   ],
+   "genres": [
+    "Fantasy",
+    "Comedy"
+   ],
+   "id": 1567605,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+   "popularity": 88.2848,
+   "poster_path": "/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-11-11",
+   "revenue": 1500000,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Before he was Scrooge, he was…",
+   "title": "Ebenezer",
+   "trailer": {
+    "key": "l_Ozo1xUgbU",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.9,
+   "vote_count": 37
+  },
+  "movie:1602705": {
+   "backdrop_path": "/3RaVf9MWpB74kK8AtPJ7DJmfZNA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kefas",
+     "n": "Millo Taslim"
+    },
+    {
+     "c": "Simon",
+     "n": "Agus Wibowo"
+    },
+    {
+     "c": "Angelina",
+     "n": "Kathleen Thomas"
+    },
+    {
+     "c": "Wahyu",
+     "n": "Willem Bevers"
+    },
+    {
+     "c": "Gabriel",
+     "n": "Verdi Solaiman"
+    },
+    {
+     "c": "Sabrina",
+     "n": "Aqila Herby"
+    },
+    {
+     "c": "Joy",
+     "n": "Cleo Haura"
+    },
+    {
+     "c": "Desi",
+     "n": "Diandra Salsabila Lubis"
+    },
+    {
+     "c": "Romi",
+     "n": "Jordan Omar"
+    },
+    {
+     "c": "Boni",
+     "n": "Halim Latuconsina"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Sim F."
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1602705,
+   "industry": "world",
+   "origin_country": [
+    "ID"
+   ],
+   "original_language": "id",
+   "overview": "A rebellious teen and a reserved caretaker form an unlikely bond in an orphanage as they come to terms with their painful pasts.",
+   "popularity": 2.2804,
+   "poster_path": "/iqrp25kOrskrFDOKkKQWhFkI69e.jpg",
+   "production_countries": [
+    "ID"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-29",
+   "revenue": 0,
+   "runtime": 135,
+   "source": "catalogue",
+   "spoken_languages": [
+    "id",
+    "en",
+    "su"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Letter to My Youth",
+   "trailer": {
+    "key": "tmfnaXhkEoI",
+    "name": "Surat Untuk Masa Mudaku | Trailer Resmi | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.9,
+   "vote_count": 28
   },
   "movie:29005": {
    "backdrop_path": "/zaZVjkAwPsaBTsoyJMPWqnsPOM5.jpg",
@@ -470,6 +1519,200 @@
    "type": "movie",
    "vote_average": 5.873,
    "vote_count": 461
+  },
+  "movie:467905": {
+   "backdrop_path": "/bkUa5ZDqjQPx6rkxs0hM87vaWVa.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Becket Redfellow",
+     "n": "Glen Powell"
+    },
+    {
+     "c": "Julia",
+     "n": "Margaret Qualley"
+    },
+    {
+     "c": "Ruth",
+     "n": "Jessica Henwick"
+    },
+    {
+     "c": "Warren Redfellow",
+     "n": "Bill Camp"
+    },
+    {
+     "c": "Noah Redfellow",
+     "n": "Zach Woods"
+    },
+    {
+     "c": "Steven Redfellow",
+     "n": "Topher Grace"
+    },
+    {
+     "c": "Whitelaw Redfellow",
+     "n": "Ed Harris"
+    },
+    {
+     "c": "Taylor Redfellow",
+     "n": "Raff Law"
+    },
+    {
+     "c": "Mary Redfellow",
+     "n": "Nell Williams"
+    },
+    {
+     "c": "McArthur Redfellow",
+     "n": "Alexander Hanson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Patton Ford"
+   ],
+   "genres": [
+    "Comedy",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 467905,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
+   "popularity": 9.1766,
+   "poster_path": "/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
+   "production_countries": [
+    "GB",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-20",
+   "revenue": 21655441,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "$28 billion inheritance. 7 relatives standing in the way.",
+   "title": "How to Make a Killing",
+   "trailer": {
+    "key": "B7RslMKZ2Yc",
+    "name": "International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.874,
+   "vote_count": 864
   },
   "movie:84105": {
    "backdrop_path": "/fsiMxZEe8tabMhM11HgGjQO57KV.jpg",

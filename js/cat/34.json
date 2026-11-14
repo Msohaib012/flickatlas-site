@@ -1,7 +1,728 @@
 {
  "bucket": "34",
- "count": 13,
+ "count": 23,
  "titles": {
+  "movie:1088434": {
+   "backdrop_path": "/1gLFGrxHqQebqLWpISmoFR6XWtJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Man",
+     "n": "Stephen Lang"
+    },
+    {
+     "c": "Jeremiah",
+     "n": "Harvey Keitel"
+    },
+    {
+     "c": "Lena",
+     "n": "Scottie Thompson"
+    },
+    {
+     "c": "Wiley",
+     "n": "Dolph Lundgren"
+    },
+    {
+     "c": "Owen",
+     "n": "Chris Mullinax"
+    },
+    {
+     "c": "Clyde",
+     "n": "Michael Sirow"
+    },
+    {
+     "c": "Zeke",
+     "n": "Johnny Yong Bosch"
+    },
+    {
+     "c": "Salvadore",
+     "n": "Maurice Compte"
+    },
+    {
+     "c": "Vivian",
+     "n": "Natalie Canerday"
+    },
+    {
+     "c": "Titus",
+     "n": "Hector Melgoza"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Isaac Florentine"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 1088434,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A drifter with a mysterious past arrives in a small town and finds the residents in the grip of a ruthless crime boss and realizes he has to help them.",
+   "popularity": 8.7304,
+   "poster_path": "/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-14",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "To free the town he'll start a war.",
+   "title": "Hellfire",
+   "trailer": {
+    "key": "S_uvyNNCiMc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.315,
+   "vote_count": 27
+  },
+  "movie:1110034": {
+   "backdrop_path": "/oV472EbPedkc5QzqolGc7sCgCnn.jpg",
+   "budget": 1000000,
+   "cast": [
+    {
+     "c": "Johanne",
+     "n": "Sara Khorami"
+    },
+    {
+     "c": "Erik",
+     "n": "Mikkel Bratt Silset"
+    },
+    {
+     "c": "Henriette",
+     "n": "Ingvild Holthe Bygdnes"
+    },
+    {
+     "c": "Avaldsnes",
+     "n": "Øyvind Brandtzæg"
+    },
+    {
+     "c": "Maria",
+     "n": "Jenny Evensen"
+    },
+    {
+     "c": "Cato",
+     "n": "Steinar Klouman Hallert"
+    },
+    {
+     "c": "Hallvard",
+     "n": "Filip Bargee Ramberg"
+    },
+    {
+     "c": "Georg",
+     "n": "Jon Erik Myre"
+    },
+    {
+     "c": "Olav",
+     "n": "Hans Morten Hansen"
+    },
+    {
+     "c": "Preben",
+     "n": "Magnús Blöndal Jóhannsson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Pål Øie"
+   ],
+   "genres": [
+    "Horror",
+    "Action",
+    "Thriller"
+   ],
+   "id": 1110034,
+   "industry": "world",
+   "origin_country": [
+    "NO"
+   ],
+   "original_language": "no",
+   "overview": "A marine biologist is doing research on a fish farm when she encounters several strange occurrences. Along with the brutal deaths of two teenagers, all signs point to the deep fjord; can there be more to the depths than the eye can see?",
+   "popularity": 32.0593,
+   "poster_path": "/u8x0jvVCEpRyN8q5ORyJZzBZ2Ho.jpg",
+   "production_countries": [
+    "NO"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-06",
+   "revenue": 14329678,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "no",
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Only 5% of the ocean has been explored for a reason…",
+   "title": "Kraken",
+   "trailer": {
+    "key": "EUTatY1-oBI",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 403
+  },
+  "movie:1174334": {
+   "backdrop_path": "/gMDGov7yzowLP92yf8AzMkOrcfD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Huang Chiu-Yue / Yue",
+     "n": "Caitlin Fang"
+    },
+    {
+     "c": "Chao Kung-Tao",
+     "n": "Will Or Wai-Lam"
+    },
+    {
+     "c": "Chiu Hsiu-Hsia / Hsia",
+     "n": "9m88"
+    },
+    {
+     "c": "Fan Chun",
+     "n": "Chen Yi-wen"
+    },
+    {
+     "c": "Lee Erh-Hsiung",
+     "n": "Emerson Tsai"
+    },
+    {
+     "c": "A-Lin",
+     "n": "Hu Jhih-ciang"
+    },
+    {
+     "c": "Dirty Tsai",
+     "n": "Chen Chun-cheng"
+    },
+    {
+     "c": "Huang Yu-Yun / Yun",
+     "n": "Tseng Jing-hua"
+    },
+    {
+     "c": "Old Yue",
+     "n": "Pan Li-li"
+    },
+    {
+     "c": "Nian-Yun",
+     "n": "Vivian Sung Yun-hua"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Chen Yu-hsun"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1174334,
+   "industry": "world",
+   "origin_country": [
+    "TW"
+   ],
+   "original_language": "zh",
+   "overview": "Yue's brother was executed by the government. Determined to bring his body back home, Yue goes to Taipei alone and finds help in Chao Kung-tao, a discharged soldier. Two people with no relations become friends in need, embarking on a journey that could cost them their lives.",
+   "popularity": 2.1254,
+   "poster_path": "/nj1QyqHN48Wn66U9JYXIywNX8Nj.jpg",
+   "production_countries": [
+    "TW"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-11-27",
+   "revenue": 0,
+   "runtime": 134,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Foggy Tale",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.671,
+   "vote_count": 35
+  },
+  "movie:1228834": {
+   "backdrop_path": "/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+   "budget": 32000000,
+   "cast": [
+    {
+     "c": "Tucker",
+     "n": "Zachary Levi"
+    },
+    {
+     "c": "Larry",
+     "n": "Liam Neeson"
+    },
+    {
+     "c": "Alex",
+     "n": "Wes Chatham"
+    },
+    {
+     "c": "James",
+     "n": "Titus Welliver"
+    },
+    {
+     "c": "Qasim",
+     "n": "Navid Negahban"
+    },
+    {
+     "c": "Sophie",
+     "n": "Annet Mahendru"
+    },
+    {
+     "c": "Matt",
+     "n": "Grant Harvey"
+    },
+    {
+     "c": "Bruce",
+     "n": "Augusto Aguilera"
+    },
+    {
+     "c": "Nadir",
+     "n": "Numan Acar"
+    },
+    {
+     "c": "Zara",
+     "n": "Elnaaz Norouzi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Guy Moshe"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 1228834,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
+   "popularity": 109.7628,
+   "poster_path": "/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
+   "production_countries": [
+    "US",
+    "UA"
+   ],
+   "providers": [
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-10",
+   "revenue": 1279761,
+   "runtime": 142,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Settle the score.",
+   "title": "The Fix",
+   "trailer": {
+    "key": "l5Luvr9TRRc",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 96
+  },
+  "movie:1239134": {
+   "backdrop_path": "/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+   "budget": 14000000,
+   "cast": [
+    {
+     "c": "Arjun Acharya",
+     "n": "Akshay Kumar"
+    },
+    {
+     "c": "Priya",
+     "n": "Wamiqa Gabbi"
+    },
+    {
+     "c": "Jagdish Kewalramani",
+     "n": "Paresh Rawal"
+    },
+    {
+     "c": "Yashoda",
+     "n": "Tabu"
+    },
+    {
+     "c": "Dr. Vasudev Acharya",
+     "n": "Jisshu Sengupta"
+    },
+    {
+     "c": "Sundar",
+     "n": "Rajpal Yadav"
+    },
+    {
+     "c": "Shantaram",
+     "n": "Asrani"
+    },
+    {
+     "c": "Meera",
+     "n": "Mithila Palkar"
+    },
+    {
+     "c": "Dasund Acharya",
+     "n": "Rajesh Sharma"
+    },
+    {
+     "c": "Govind Maharaj",
+     "n": "Manoj Joshi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Priyadarshan"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy"
+   ],
+   "id": 1239134,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
+   "popularity": 3.8259,
+   "poster_path": "/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-17",
+   "revenue": 20000000,
+   "runtime": 163,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Bhooth Bangla",
+   "trailer": {
+    "key": "XW1RkKiRnsg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.599,
+   "vote_count": 71
+  },
   "movie:12834": {
    "backdrop_path": "/uhQS0C251mo32ZJkcjfFtJ0RN9P.jpg",
    "budget": 9000000,
@@ -180,6 +901,120 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 489
+  },
+  "movie:1325734": {
+   "backdrop_path": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+   "budget": 28000000,
+   "cast": [
+    {
+     "c": "Emma",
+     "n": "Zendaya"
+    },
+    {
+     "c": "Charlie",
+     "n": "Robert Pattinson"
+    },
+    {
+     "c": "Rachel",
+     "n": "Alana Haim"
+    },
+    {
+     "c": "Mike",
+     "n": "Mamoudou Athie"
+    },
+    {
+     "c": "Misha",
+     "n": "Hailey Benton Gates"
+    },
+    {
+     "c": "Pauline",
+     "n": "Sydney Lemmon"
+    },
+    {
+     "c": "Alice",
+     "n": "Hannah Gross"
+    },
+    {
+     "c": "Sam",
+     "n": "Anna Baryshnikov"
+    },
+    {
+     "c": "Young Emma",
+     "n": "Jordyn Curet"
+    },
+    {
+     "c": "Blake",
+     "n": "Michael Abbott Jr."
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Kristoffer Borgli"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1325734,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+   "popularity": 15.4417,
+   "poster_path": "/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-01",
+   "revenue": 134670180,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Witness the wedding of the year.",
+   "title": "The Drama",
+   "trailer": {
+    "key": "0ZDzsH3XGFA",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.904,
+   "vote_count": 2066
   },
   "movie:13934": {
    "backdrop_path": "/cKO6MZ9uf6wRcMA0TldRCYxKYzx.jpg",
@@ -433,6 +1268,484 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 454
+  },
+  "movie:1556834": {
+   "backdrop_path": "/ofp2O5yUNGjBGXGA5SXdRCFOS74.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Michael Foster",
+     "n": "Tom Fairfoot"
+    },
+    {
+     "c": "Amelia Turner",
+     "n": "Aimee Botes"
+    },
+    {
+     "c": "Leia",
+     "n": "Kayla Osburn"
+    },
+    {
+     "c": "Terry",
+     "n": "Lebogang Mzwimbi"
+    },
+    {
+     "c": "Dutch",
+     "n": "Ryan Massie"
+    },
+    {
+     "c": "Major Thompson",
+     "n": "Llewellyn Cordier"
+    },
+    {
+     "c": "Tungela",
+     "n": "Farai Chigudu"
+    },
+    {
+     "c": "Carlos",
+     "n": "Alonso Grandio"
+    },
+    {
+     "c": "Dr. Clark",
+     "n": "Joseph Clarke"
+    },
+    {
+     "c": "Nurse Mohale",
+     "n": "Prudence Buthelezi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Patrick Garcia"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Thriller",
+    "War"
+   ],
+   "id": 1556834,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A former soldier, now working for hire, fights to rescue the innocent in a land torn by war. Facing ruthless enemies and betrayal, he struggles for survival, justice, and redemption.",
+   "popularity": 1.2644,
+   "poster_path": "/iPbMpXGTUhk39asHVye7VkBIdOz.jpg",
+   "production_countries": [
+    "ZA",
+    "US",
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-11-28",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every rescue has a price",
+   "title": "Lost Horizon",
+   "trailer": {
+    "key": "Yxu8zyhii1g",
+    "name": "Lost Horizon Movie (2025) Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 23
+  },
+  "movie:1591834": {
+   "backdrop_path": "/rdvqpkgyG3oGPZPj4U5Inpcnuhi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gonzalo",
+     "n": "Mauricio Ochmann"
+    },
+    {
+     "c": "Claudio",
+     "n": "Memo Villegas"
+    },
+    {
+     "c": "",
+     "n": "Irán Castillo"
+    },
+    {
+     "c": "",
+     "n": "Farah Justiniani"
+    },
+    {
+     "c": "",
+     "n": "Ana Gonzalez Bello"
+    },
+    {
+     "c": "",
+     "n": "Carolina Benrey"
+    },
+    {
+     "c": "Bruno",
+     "n": "Matías Lopez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Alfonso Pineda Ulloa"
+   ],
+   "genres": [
+    "Family",
+    "Comedy"
+   ],
+   "id": 1591834,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "To make up for lost time with his four children, a charismatic car salesman organizes a Caribbean yacht trip that quickly spirals into an out-of-control adventure filled with mix-ups, laughs, and second chances.",
+   "popularity": 1.606,
+   "poster_path": "/jofyMzEnLoBZFKezmcCli3bEFwz.jpg",
+   "production_countries": [
+    "MX",
+    "AR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-22",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "A comedy for the whole family",
+   "title": "Familia a la deriva",
+   "trailer": {
+    "key": "-76wb48m-hA",
+    "name": "",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.013,
+   "vote_count": 153
+  },
+  "movie:1620034": {
+   "backdrop_path": "/vate7k6MyLQDeFYkHqCrLhRes6m.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Martin Short"
+    },
+    {
+     "c": "Self (voice)",
+     "n": "Lawrence Kasdan"
+    },
+    {
+     "c": "Self",
+     "n": "Steve Martin"
+    },
+    {
+     "c": "Self",
+     "n": "Eugene Levy"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Nancy Dolman"
+    },
+    {
+     "c": "Self",
+     "n": "Andrea Martin"
+    },
+    {
+     "c": "Self",
+     "n": "Catherine O'Hara"
+    },
+    {
+     "c": "Self",
+     "n": "Ron Howard"
+    },
+    {
+     "c": "Self",
+     "n": "Michael Short"
+    },
+    {
+     "c": "Self",
+     "n": "Paul Shaffer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Lawrence Kasdan"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1620034,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Martin Short looks back on a life fueled by joy in this documentary with classic clips, fresh interviews and star-studded, never-before-seen home movies.",
+   "popularity": 2.9721,
+   "poster_path": "/5u8r3iMUVeVejv8G2PrRvlTbogC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-11",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Marty, Life Is Short",
+   "trailer": {
+    "key": "QBvYXE6oZ64",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.956,
+   "vote_count": 34
+  },
+  "movie:1727734": {
+   "backdrop_path": "/h7gas4rrcaSitLgF2ODry3Wz9KZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ali G / Nira Cain-N'Degeocello / Erran Morad",
+     "n": "Sacha Baron Cohen"
+    },
+    {
+     "c": "Julie",
+     "n": "Morgana Robinson"
+    },
+    {
+     "c": "Manu",
+     "n": "Alpha Miknas"
+    },
+    {
+     "c": "Malcolm 'Rocky' Atkins",
+     "n": "Clive Russell"
+    },
+    {
+     "c": "A$AP Rocky",
+     "n": "A$AP Rocky"
+    },
+    {
+     "c": "Rihanna",
+     "n": "Rihanna"
+    },
+    {
+     "c": "Lab Technician",
+     "n": "Tiffany Haddish"
+    },
+    {
+     "c": "DJ Jazzy Jeff",
+     "n": "DJ Jazzy Jeff"
+    },
+    {
+     "c": "(uncredited)",
+     "n": "C. Stewart Rodeheaver"
+    },
+    {
+     "c": "(uncredited)",
+     "n": "Allan Lichtman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Sacha Baron Cohen"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1727734,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
+   "popularity": 30.6062,
+   "poster_path": "/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-22",
+   "revenue": 3098619,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Livin XXX large.",
+   "title": "Ali G: Who Iz I?",
+   "trailer": {
+    "key": "pV32AcPa-iA",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.581,
+   "vote_count": 191
   },
   "movie:788734": {
    "backdrop_path": "/lJXHuyY622HcA0RHJvkeJcvzamK.jpg",

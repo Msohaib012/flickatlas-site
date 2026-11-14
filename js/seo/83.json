@@ -1,7 +1,135 @@
 {
  "bucket": "83",
- "count": 12,
+ "count": 22,
  "titles": {
+  "movie:1101383": {
+   "d": "The End of Oak Street (2026): Science Fiction/Mystery film. Story: After a mysterious cosmic event rips Oak Street from… See cast and budget $80M.",
+   "img": "https://image.tmdb.org/t/p/w780/wnR8pwWtoL3TFwP41mLCt91ReCt.jpg",
+   "industry": "world",
+   "k": "The End of Oak Street, The End of Oak Street movie, The End of Oak Street cast, The End of Oak Street story, The End of Oak Street box office collection, The End of Oak Street budget, The End of Oak Street review, The End of Oak Street rating, The End of Oak Street release date, The End of Oak Street trailer, The End of Oak Street Science Fiction, The End of Oak Street Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anne Hathaway"
+     },
+     {
+      "@type": "Person",
+      "name": "Ewan McGregor"
+     },
+     {
+      "@type": "Person",
+      "name": "Maisy Stella"
+     },
+     {
+      "@type": "Person",
+      "name": "Christian Convery"
+     },
+     {
+      "@type": "Person",
+      "name": "Jordan Alexa Davis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 2383,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "The End of Oak Street (2026): Science Fiction/Mystery film. Story: After a mysterious cosmic event rips Oak Street from… See cast and budget $80M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Robert Mitchell"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Science Fiction",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wnR8pwWtoL3TFwP41mLCt91ReCt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1101383",
+    "name": "The End of Oak Street",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1101383"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The End of Oak Street (2026)</h1>\n<p class=\"ssr-lead\">After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 August 2026</li><li>Runtime: 100 minutes</li><li>Director: David Robert Mitchell</li><li>Genres: Science Fiction, Mystery, Thriller</li><li>Budget: $80M</li><li>TMDB rating: 7.0/10 (2383 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anne Hathaway as Denise Platt</li><li>Ewan McGregor as Greg Platt</li><li>Maisy Stella as Audrey Platt</li><li>Christian Convery as Brian Platt</li><li>Jordan Alexa Davis as Jeannette Christiansen</li><li>P.J. Byrne as Mel Jacobs</li><li>Hudson Meek as Kaden Tucker</li><li>Anne Gee Byrd as Mrs. Huddleston</li><li>Emily Kuroda as Mrs. Valcourt</li><li>Simms May as Zachary</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The End of Oak Street (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1102883": {
+   "d": "Mother Mary (2026): Music/Thriller film. Story: Long-buried wounds rise to the surface when iconic… See cast, budget $20M, and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9eynUDRhChIsgSYLK82aC4zIQ2M.jpg",
+   "industry": "world",
+   "k": "Mother Mary, Mother Mary movie, Mother Mary cast, Mother Mary story, Mother Mary box office collection, Mother Mary budget, Mother Mary review, Mother Mary rating, Mother Mary release date, Mother Mary trailer, Mother Mary Music, Mother Mary Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anne Hathaway"
+     },
+     {
+      "@type": "Person",
+      "name": "Michaela Coel"
+     },
+     {
+      "@type": "Person",
+      "name": "Hunter Schafer"
+     },
+     {
+      "@type": "Person",
+      "name": "FKA twigs"
+     },
+     {
+      "@type": "Person",
+      "name": "Sian Clifford"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 231,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Mother Mary (2026): Music/Thriller film. Story: Long-buried wounds rise to the surface when iconic… See cast, budget $20M, and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Lowery"
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "Music",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9eynUDRhChIsgSYLK82aC4zIQ2M.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1102883",
+    "name": "Mother Mary",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1102883"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mother Mary (2026)</h1>\n<p class=\"ssr-lead\">Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 April 2026</li><li>Runtime: 112 minutes</li><li>Director: David Lowery</li><li>Genres: Music, Thriller, Drama</li><li>Budget: $20M</li><li>TMDB rating: 5.7/10 (231 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anne Hathaway as Mother Mary</li><li>Michaela Coel as Sam Anselm</li><li>Hunter Schafer as Hilda Offer</li><li>FKA twigs as Imogen</li><li>Sian Clifford as Jade</li><li>Kaia Gerber as Nikki</li><li>Alba Baptista as Miel Contrera</li><li>Atheena Frizzell as Emily</li><li>Jessica Brown Findlay as Tessa</li><li>Isaura Barbé-Brown as Kyla</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Mother Mary (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:11583": {
    "d": "The First Great Train Robbery (1978): Thriller/Adventure film. Story: In Victorian England, a master criminal makes… See cast and budget $6M.",
    "img": "https://image.tmdb.org/t/p/w780/hRqwp6ee3qKnUWLw6S4nj9yMwv0.jpg",
@@ -66,6 +194,197 @@
    "t": "The First Great Train Robbery (1978) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1978"
   },
+  "movie:1259983": {
+   "d": "Guru (2026): Drama/Thriller film. Story: Matt, a charismatic coach, captivates crowds until he… See cast, TMDB rating 6.0/10, and release date 28 January 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/t77v17Y74eIQDSITsBHtiySOGPr.jpg",
+   "industry": "world",
+   "k": "Guru, Guru movie, Guru cast, Guru story, Guru box office collection, Guru budget, Guru review, Guru rating, Guru release date, Guru trailer, Guru Drama, Guru Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Pierre Niney"
+     },
+     {
+      "@type": "Person",
+      "name": "Marion Barbeau"
+     },
+     {
+      "@type": "Person",
+      "name": "Anthony Bajon"
+     },
+     {
+      "@type": "Person",
+      "name": "Christophe Montenez"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonathan Turnbull"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 349,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Guru (2026): Drama/Thriller film. Story: Matt, a charismatic coach, captivates crowds until he… See cast, TMDB rating 6.0/10, and release date 28 January 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Yann Gozlan"
+     }
+    ],
+    "duration": "PT126M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/t77v17Y74eIQDSITsBHtiySOGPr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1259983",
+    "name": "Guru",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1259983"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Guru (2026)</h1>\n<p class=\"ssr-lead\">Matt, a charismatic coach, captivates crowds until he spirals into a disturbing downward spiral.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 January 2026</li><li>Runtime: 126 minutes</li><li>Director: Yann Gozlan</li><li>Genres: Drama, Thriller</li><li>TMDB rating: 6.0/10 (349 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pierre Niney as Matthieu Vasseur</li><li>Marion Barbeau as Adèle</li><li>Anthony Bajon as Julien</li><li>Christophe Montenez as Christophe Vasseur</li><li>Jonathan Turnbull as Rudy</li><li>Raphaëlle Simon as Sam</li><li>Tracy Gotoas as Hélène</li><li>Holt McCallany as Peter Conrad</li><li>Léonie Simaga as Karla Demaison</li><li>Cyril Hanouna as Self</li></ul>\n</article>",
+   "t": "Guru (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1309083": {
+   "d": "Dolly (2026): Horror film. Story: Young Macy is abducted by a deranged, monstrous… See cast, TMDB rating 5.7/10, and release date 6 March 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/9MeHubuKm7XJLx68LDEkE8yVnWZ.jpg",
+   "industry": "world",
+   "k": "Dolly, Dolly movie, Dolly cast, Dolly story, Dolly box office collection, Dolly budget, Dolly review, Dolly rating, Dolly release date, Dolly trailer, Dolly Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Max the Impaler"
+     },
+     {
+      "@type": "Person",
+      "name": "Fabianne Therese"
+     },
+     {
+      "@type": "Person",
+      "name": "Seann William Scott"
+     },
+     {
+      "@type": "Person",
+      "name": "Ethan Suplee"
+     },
+     {
+      "@type": "Person",
+      "name": "Russ Tiller"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 250,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Dolly (2026): Horror film. Story: Young Macy is abducted by a deranged, monstrous… See cast, TMDB rating 5.7/10, and release date 6 March 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rod Blackhurst"
+     }
+    ],
+    "duration": "PT83M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9MeHubuKm7XJLx68LDEkE8yVnWZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1309083",
+    "name": "Dolly",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1309083"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dolly (2026)</h1>\n<p class=\"ssr-lead\">Young Macy is abducted by a deranged, monstrous figure who wants to raise her as its child.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 March 2026</li><li>Runtime: 83 minutes</li><li>Director: Rod Blackhurst</li><li>Genres: Horror</li><li>TMDB rating: 5.7/10 (250 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Max the Impaler as Dolly</li><li>Fabianne Therese as Macy</li><li>Seann William Scott as Chase</li><li>Ethan Suplee as Tobe</li><li>Russ Tiller as Billy</li><li>Michalina Scorzelli as Aunt Sadie</li><li>Kate Cobb as Rachel</li><li>Eve Blackhurst as Evy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Dolly (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1365683": {
+   "d": "Primavera (2025): History/Drama film. Story: A talented violinist, Cecilia, confined in an… See cast, TMDB rating 7.0/10, and release date 4 December 2025.",
+   "img": "https://image.tmdb.org/t/p/w780/hVQbT0JTPSFvmmSE6vASWSOCTAY.jpg",
+   "industry": "world",
+   "k": "Primavera, Primavera movie, Primavera cast, Primavera story, Primavera box office collection, Primavera budget, Primavera review, Primavera rating, Primavera release date, Primavera trailer, Primavera History, Primavera Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tecla Insolia"
+     },
+     {
+      "@type": "Person",
+      "name": "Michele Riondino"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrea Pennacchi"
+     },
+     {
+      "@type": "Person",
+      "name": "Fabrizia Sacchi"
+     },
+     {
+      "@type": "Person",
+      "name": "Hildegard De Stefano"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 121,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Primavera (2025): History/Drama film. Story: A talented violinist, Cecilia, confined in an… See cast, TMDB rating 7.0/10, and release date 4 December 2025.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Damiano Michieletto"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "History",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hVQbT0JTPSFvmmSE6vASWSOCTAY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1365683",
+    "name": "Primavera",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1365683"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Primavera (2025)</h1>\n<p class=\"ssr-lead\">A talented violinist, Cecilia, confined in an orphanage, meets Vivaldi who becomes her teacher. Under his mentorship and through his music, she gains courage to break free from the life she was destined for and pursue her passion.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 December 2025</li><li>Runtime: 111 minutes</li><li>Director: Damiano Michieletto</li><li>Genres: History, Drama, Music</li><li>TMDB rating: 7.0/10 (121 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tecla Insolia as Cecilia</li><li>Michele Riondino as Antonio Vivaldi</li><li>Andrea Pennacchi as Governatore</li><li>Fabrizia Sacchi as Priora</li><li>Hildegard De Stefano as Laura</li><li>Cosima Centurioni as Marietta</li><li>Federica Girardello as Agnese</li><li>Rebecca Antonaci as Caterina</li><li>Chiara Sacco as Maddalena</li><li>Miko Jarry as Frederick IV of Denmark</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: BFI Player, BFI Player Amazon Channel, BFI Player Apple TV Channel</li><li>Rent: Apple TV Store, Rakuten TV, Amazon Video, Sky Store</li><li>Buy: Apple TV Store, Rakuten TV, Amazon Video, Sky Store</li></ul>\n</article>",
+   "t": "Primavera (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
   "movie:14283": {
    "d": "The Red Violin (1998): Drama/Mystery film. Story: 300 years of a remarkable musical instrument. Crafted… See cast, budget $18M, and TMDB rating 7.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/kOpaLjBnfpRqgo4vE9ViIZINt5J.jpg",
@@ -129,6 +448,310 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Red Violin (1998)</h1>\n<p class=\"ssr-lead\">300 years of a remarkable musical instrument. Crafted by the Italian master Bussotti (Cecchi) in 1681, the red violin has traveled through Austria, England, China, and Canada, leaving both beauty and tragedy in its wake. In Montreal, Samuel L Jackson plays an appraiser going over its complex history.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 November 1998</li><li>Runtime: 130 minutes</li><li>Director: François Girard</li><li>Genres: Drama, Mystery, Thriller, Music, Romance</li><li>Budget: $18M</li><li>TMDB rating: 7.3/10 (466 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Samuel L. Jackson as Charles Morritz (Montréal)</li><li>Carlo Cecchi as Nicolo Bussotti (Cremona)</li><li>Irene Grazioli as Anna Bussotti (Cremona)</li><li>Anita Laurenzi as Cesca (Cremona)</li><li>Tommaso Puntelli as Apprentice (Cremona)</li><li>Aldo Brugnini as Assistant (Cremona)</li><li>Samuele Amighetti as Boy (Cremona)</li><li>Jean-Luc Bideau as Georges Poussin (Vienna)</li><li>Christoph Koncz as Kaspar Weiss (Vienna)</li><li>Clotilde Mollet as Antoinette Pussin (Vienna)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Starz Apple TV channel, MovieSphere+ Amazon Channel, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The Red Violin (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1998"
+  },
+  "movie:1433583": {
+   "d": "The Weight (2026): Adventure/Drama film. Story: When Samuel is torn from his daughter and sent to a… See cast and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/myA2cjsISTbTJQK6HWnZffFJK6j.jpg",
+   "industry": "world",
+   "k": "The Weight, The Weight movie, The Weight cast, The Weight story, The Weight box office collection, The Weight budget, The Weight review, The Weight rating, The Weight release date, The Weight trailer, The Weight Adventure, The Weight Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ethan Hawke"
+     },
+     {
+      "@type": "Person",
+      "name": "Russell Crowe"
+     },
+     {
+      "@type": "Person",
+      "name": "Julia Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Austin Amelio"
+     },
+     {
+      "@type": "Person",
+      "name": "Avi Nash"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 97,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "The Weight (2026): Adventure/Drama film. Story: When Samuel is torn from his daughter and sent to a… See cast and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Padraic McKinley"
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "Adventure",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/myA2cjsISTbTJQK6HWnZffFJK6j.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1433583",
+    "name": "The Weight",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1433583"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Weight (2026)</h1>\n<p class=\"ssr-lead\">When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 September 2026</li><li>Runtime: 112 minutes</li><li>Director: Padraic McKinley</li><li>Genres: Adventure, Drama, Thriller</li><li>TMDB rating: 6.7/10 (97 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ethan Hawke as Samuel Murphy</li><li>Russell Crowe as Warden Clancy</li><li>Julia Jones as Anna</li><li>Austin Amelio as Rankin</li><li>Avi Nash as Singh</li><li>Lucas Lynggaard Tønnesen as Olson</li><li>Sam Hazeldine as Amis</li><li>George Burgess as Letender</li><li>Jeff Hallman as Big Prisoner</li><li>Alec Newman as Taggert</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "The Weight (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1464883": {
+   "d": "The President's Cake (2026): Drama film. Story: While people across 1990’s Iraq struggle to survive… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
+   "industry": "world",
+   "k": "The President's Cake, The President's Cake movie, The President's Cake cast, The President's Cake story, The President's Cake box office collection, The President's Cake budget, The President's Cake review, The President's Cake rating, The President's Cake release date, The President's Cake trailer, The President's Cake Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Baneen Ahmed Nayyef"
+     },
+     {
+      "@type": "Person",
+      "name": "Sajad Mohamad Qasem"
+     },
+     {
+      "@type": "Person",
+      "name": "Waheed Thabet Khreibat"
+     },
+     {
+      "@type": "Person",
+      "name": "Rahim AlHaj"
+     },
+     {
+      "@type": "Person",
+      "name": "Muthanna Malaghi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 125,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "The President's Cake (2026): Drama film. Story: While people across 1990’s Iraq struggle to survive… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Hasan Hadi"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1464883",
+    "name": "The President's Cake",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1464883"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The President&#x27;s Cake (2026)</h1>\n<p class=\"ssr-lead\">While people across 1990’s Iraq struggle to survive, 9-year-old Lamia has been selected to prepare a cake to celebrate the President’s birthday. In a landscape of fear and scarcity, where basic ingredients are nearly impossible to find, Lamia sets out on a determined journey throughout the big city in search of eggs, flour, and sugar. Accompanied by her grandmother, her loyal friend Saeed, and her pet rooster Hindi, she navigates vendors and police officers along the way.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 January 2026</li><li>Runtime: 106 minutes</li><li>Director: Hasan Hadi</li><li>Genres: Drama</li><li>TMDB rating: 7.4/10 (125 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Baneen Ahmed Nayyef as Lamia</li><li>Sajad Mohamad Qasem as Saeed</li><li>Waheed Thabet Khreibat as Bibi</li><li>Rahim AlHaj as Jasim</li><li>Muthanna Malaghi as Muthanna</li><li>Ahmad Qasem Saywan as Musa</li><li>Thaer Salem as Majdi</li><li>Fatima Abouharoon as Rahma</li><li>Mohammed Rheimeh as Izzat</li><li>Rokia Alwadi as Hiyam</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The President's Cake (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1468683": {
+   "d": "Heartstopper Forever (2026): Romance/Drama film. Story: It's a new school year for the Truham-Higgs gang. As… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
+   "industry": "world",
+   "k": "Heartstopper Forever, Heartstopper Forever movie, Heartstopper Forever cast, Heartstopper Forever story, Heartstopper Forever box office collection, Heartstopper Forever budget, Heartstopper Forever review, Heartstopper Forever rating, Heartstopper Forever release date, Heartstopper Forever trailer, Heartstopper Forever Romance, Heartstopper Forever Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kit Connor"
+     },
+     {
+      "@type": "Person",
+      "name": "Joe Locke"
+     },
+     {
+      "@type": "Person",
+      "name": "William Gao"
+     },
+     {
+      "@type": "Person",
+      "name": "Yasmin Finney"
+     },
+     {
+      "@type": "Person",
+      "name": "Corinna Brown"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 296,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Heartstopper Forever (2026): Romance/Drama film. Story: It's a new school year for the Truham-Higgs gang. As… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Wash Westmoreland"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1468683",
+    "name": "Heartstopper Forever",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1468683"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Heartstopper Forever (2026)</h1>\n<p class=\"ssr-lead\">It&#x27;s a new school year for the Truham-Higgs gang. As Nick and Charlie&#x27;s relationship deepens, their thoughts turn to life after the last bell rings.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 July 2026</li><li>Runtime: 110 minutes</li><li>Director: Wash Westmoreland</li><li>Genres: Romance, Drama</li><li>TMDB rating: 7.2/10 (296 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kit Connor as Nick Nelson</li><li>Joe Locke as Charlie Spring</li><li>William Gao as Tao Xu</li><li>Yasmin Finney as Elle Argent</li><li>Corinna Brown as Tara Jones</li><li>Kizzy Edgell as Darcy Olsson</li><li>Tobie Donovan as Isaac Henderson</li><li>Jenny Walser as Tori Spring</li><li>Rhea Norwood as Imogen Heaney</li><li>Leila Khan as Sahar Zahid</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Heartstopper Forever (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1601083": {
+   "d": "I Call Him Dog (2026): Drama/Comedy film. Story: When reclusive Paul unexpectedly inherits a dog from… See cast and TMDB rating 7.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/duqqXguVFjNK8oZBWsGMXD47LJI.jpg",
+   "industry": "world",
+   "k": "I Call Him Dog, I Call Him Dog movie, I Call Him Dog cast, I Call Him Dog story, I Call Him Dog box office collection, I Call Him Dog budget, I Call Him Dog review, I Call Him Dog rating, I Call Him Dog release date, I Call Him Dog Drama, I Call Him Dog Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Egbert Jan Weeber"
+     },
+     {
+      "@type": "Person",
+      "name": "Jelka van Houten"
+     },
+     {
+      "@type": "Person",
+      "name": "Loet Janssen"
+     },
+     {
+      "@type": "Person",
+      "name": "Dick van den Toorn"
+     },
+     {
+      "@type": "Person",
+      "name": "Joke Tjalsma"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 23,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "I Call Him Dog (2026): Drama/Comedy film. Story: When reclusive Paul unexpectedly inherits a dog from… See cast and TMDB rating 7.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Reinier Smit"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/duqqXguVFjNK8oZBWsGMXD47LJI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1601083",
+    "name": "I Call Him Dog",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1601083"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>I Call Him Dog (2026)</h1>\n<p class=\"ssr-lead\">When reclusive Paul unexpectedly inherits a dog from a deceased relative, his carefully ordered life is thrown into chaos. The energetic dog forces him out of his comfort zone and leads him to Laura, prompting Paul to slowly rediscover love, connection, and life itself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 January 2026</li><li>Runtime: 89 minutes</li><li>Director: Reinier Smit</li><li>Genres: Drama, Comedy</li><li>TMDB rating: 7.9/10 (23 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Egbert Jan Weeber</li><li>Jelka van Houten</li><li>Loet Janssen</li><li>Dick van den Toorn</li><li>Joke Tjalsma</li><li>Carly Wijs</li><li>Daniel Cornelissen</li><li>Nadja Hüpscher</li><li>Rhoda Nova Wilting</li></ul>\n</article>",
+   "t": "I Call Him Dog (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1798383": {
+   "d": "Wolves Up Close with Bertie Gregory (2026): Documentary film. Story: Reconnecting with a pack of wolves he has followed… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/nQiSQg10DvoaXLFeqkPSDGv6vF7.jpg",
+   "industry": "world",
+   "k": "Wolves Up Close with Bertie Gregory, Wolves Up Close with Bertie Gregory movie, Wolves Up Close with Bertie Gregory cast, Wolves Up Close with Bertie Gregory story, Wolves Up Close with Bertie Gregory box office collection, Wolves Up Close with Bertie Gregory budget, Wolves Up Close with Bertie Gregory review, Wolves Up Close with Bertie Gregory rating, Wolves Up Close with Bertie Gregory release date, Wolves Up Close with Bertie Gregory trailer, Wolves Up Close with Bertie Gregory Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bertie Gregory"
+     },
+     {
+      "@type": "Person",
+      "name": "Albert 'Butch' Saunders"
+     },
+     {
+      "@type": "Person",
+      "name": "Mike Reimer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 47,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Wolves Up Close with Bertie Gregory (2026): Documentary film. Story: Reconnecting with a pack of wolves he has followed… See cast and TMDB rating 6.9/10.",
+    "duration": "PT44M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nQiSQg10DvoaXLFeqkPSDGv6vF7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1798383",
+    "name": "Wolves Up Close with Bertie Gregory",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1798383"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wolves Up Close with Bertie Gregory (2026)</h1>\n<p class=\"ssr-lead\">Reconnecting with a pack of wolves he has followed for seven years, Bertie sets out to capture one of the Arctic&#x27;s most dangerous and rarely filmed hunts: wolves taking on a bull moose, prey roughly ten times their size. Led by Kona, a striking white breeding male, the pack faces a critical winter as dwindling food supplies, an encroaching rival wolf and an aging leader threaten its survival.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li><li>Runtime: 44 minutes</li><li>Genres: Documentary</li><li>TMDB rating: 6.9/10 (47 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bertie Gregory as Self - Host</li><li>Albert &#x27;Butch&#x27; Saunders as Self</li><li>Mike Reimer as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus, Hulu, fuboTV</li></ul>\n</article>",
+   "t": "Wolves Up Close with Bertie Gregory (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:21683": {
    "d": "Batman: Mystery of the Batwoman (2003): Fantasy/Animation film. Story: As if the Penguin wasn't enough to contend with, a… See cast and TMDB rating 6.7/10.",

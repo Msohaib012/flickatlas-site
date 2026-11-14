@@ -1,7 +1,303 @@
 {
  "bucket": "39",
- "count": 19,
+ "count": 25,
  "titles": {
+  "movie:1234139": {
+   "backdrop_path": "/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
+   "budget": 26289250,
+   "cast": [
+    {
+     "c": "Muthuvel 'Tiger' Pandian",
+     "n": "Rajinikanth"
+    },
+    {
+     "c": "Bodhi Kalpak",
+     "n": "S. J. Suryah"
+    },
+    {
+     "c": "Dileep",
+     "n": "Suraj Venjaramoodu"
+    },
+    {
+     "c": "Vijayalakshmi 'Viji' Pandian",
+     "n": "Ramya Krishnan"
+    },
+    {
+     "c": "Kantha Kalpak",
+     "n": "Vidya Balan"
+    },
+    {
+     "c": "Moorthi",
+     "n": "Namo Narayana"
+    },
+    {
+     "c": "Vimal",
+     "n": "Yogi Babu"
+    },
+    {
+     "c": "Swetha Pandian",
+     "n": "Mirnaa"
+    },
+    {
+     "c": "Rithvik 'Rithu' Pandian",
+     "n": "Rithvik"
+    },
+    {
+     "c": "Sharva Kalpak",
+     "n": "Hakkim Shajahan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Nelson"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1234139,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "ta",
+   "overview": "When a dangerous syndicate threatens his family, retired jailer Tiger Muthuvel Pandian goes undercover as a driver to battle enemies from the shadows.",
+   "popularity": 52.0228,
+   "poster_path": "/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-15",
+   "revenue": 85115348,
+   "runtime": 163,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ta"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Jailer 2",
+   "trailer": {
+    "key": "3vkHWYL2JmA",
+    "name": "Official Prime Video Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.0,
+   "vote_count": 32
+  },
+  "movie:1437939": {
+   "backdrop_path": "/4dN9kXTNqvssrbF81viFoPnW2pt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Frédéric Bouvier-Sauvage / Mehmet Suleymanoglu",
+     "n": "Christian Clavier"
+    },
+    {
+     "c": "Gérard Martin / Djamila",
+     "n": "Didier Bourdon"
+    },
+    {
+     "c": "Catherine Bouvier-Sauvage",
+     "n": "Marianne Denicourt"
+    },
+    {
+     "c": "Nicole Martin",
+     "n": "Sylvie Testud"
+    },
+    {
+     "c": "Alice Bouvier-Sauvage",
+     "n": "Chloé Coulloud"
+    },
+    {
+     "c": "François Martin",
+     "n": "Julien Pestel"
+    },
+    {
+     "c": "Gérard Martin's Father",
+     "n": "Patrick Préjean"
+    },
+    {
+     "c": "Policeman",
+     "n": "Fred Testot"
+    },
+    {
+     "c": "Policeman",
+     "n": "Albert Goldberg"
+    },
+    {
+     "c": "Restaurant Owner",
+     "n": "Philippe Lefebvre"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12+",
+   "date_kind": "release",
+   "director": [
+    "Julien Hervé"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1437939,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "DNA tests before Alice and François's wedding reveal their fathers - an aristocrat and car dealer - aren't as French as they thought.",
+   "popularity": 2.0163,
+   "poster_path": "/3eZwrYd90t5kHLHfS0zxPWH1tWl.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-08",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Cocorico 2",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.315,
+   "vote_count": 65
+  },
+  "movie:1585239": {
+   "backdrop_path": "/AjrgF2JZb8WAeIFTvUjJK6VA2CG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Peter",
+     "n": "Jordan Firstman"
+    },
+    {
+     "c": "Arlo",
+     "n": "Reggie Absolom"
+    },
+    {
+     "c": "Sophie",
+     "n": "Cara Delevingne"
+    },
+    {
+     "c": "Oscar",
+     "n": "Diego Calva"
+    },
+    {
+     "c": "Edison",
+     "n": "Kirby Howell-Baptiste"
+    },
+    {
+     "c": "Evelyn",
+     "n": "Colleen Camp"
+    },
+    {
+     "c": "Lydia Chestworth",
+     "n": "Vicki Pepperdine"
+    },
+    {
+     "c": "Devon",
+     "n": "Nigil Whyte"
+    },
+    {
+     "c": "Nicky",
+     "n": "Eldar Isgandarov"
+    },
+    {
+     "c": "Saffron",
+     "n": "Saturn Risin9"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jordan Firstman"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1585239,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
+   "popularity": 9.2284,
+   "poster_path": "/o1qMU0ZB5XDX8IXJFFu3AkhOqjh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-11-04",
+   "revenue": 403475,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Club Kid",
+   "trailer": {
+    "key": "guKEdb_iRXw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.886,
+   "vote_count": 22
+  },
   "movie:160139": {
    "backdrop_path": "/rX0EqXVwtTUhVb8Va4WPMiUmHWg.jpg",
    "budget": 7700000,
@@ -198,6 +494,141 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 445
+  },
+  "movie:192139": {
+   "backdrop_path": "/E812GNXYQqjJwN0cVPY3icHpaj.jpg",
+   "budget": 21000000,
+   "cast": [
+    {
+     "c": "Ronald Reagan",
+     "n": "Jeff Daniels"
+    },
+    {
+     "c": "Mikhail Gorbachev",
+     "n": "Jared Harris"
+    },
+    {
+     "c": "George Shultz",
+     "n": "J.K. Simmons"
+    },
+    {
+     "c": "Nancy Reagan",
+     "n": "Hope Davis"
+    },
+    {
+     "c": "Raisa Gorbachev",
+     "n": "Branka Katić"
+    },
+    {
+     "c": "Cleo",
+     "n": "Aya Cash"
+    },
+    {
+     "c": "Alexander",
+     "n": "Guy Burnet"
+    },
+    {
+     "c": "Max Rampleman",
+     "n": "Adrian Rawlins"
+    },
+    {
+     "c": "Edward Shevardnadze",
+     "n": "Tim Dutton"
+    },
+    {
+     "c": "Paul Nitze",
+     "n": "Stephen Brennan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Michael Russell Gunn"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 192139,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals—or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
+   "popularity": 4.9234,
+   "poster_path": "/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Angel Studios"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/pusUxS9dP5VK7HkN8SLf2wnP9gm.png",
+     "name": "Angel Studios",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-14",
+   "revenue": 5046257,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Not all battles are fought with bullets.",
+   "title": "The Brink of War",
+   "trailer": {
+    "key": "a-T0TlMN-RE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.673,
+   "vote_count": 52
   },
   "movie:26039": {
    "backdrop_path": "/sousyLLi3l14qho6gATKYX7pEyR.jpg",
@@ -837,6 +1268,120 @@
    "vote_average": 7.923,
    "vote_count": 447
   },
+  "movie:454639": {
+   "backdrop_path": "/5MUMB3aPEPEQPCIAaygXFUTWE9Y.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Adam / He-Man",
+     "n": "Nicholas Galitzine"
+    },
+    {
+     "c": "Teela",
+     "n": "Camila Mendes"
+    },
+    {
+     "c": "Evil-Lyn",
+     "n": "Alison Brie"
+    },
+    {
+     "c": "King Randor",
+     "n": "James Purefoy"
+    },
+    {
+     "c": "The Sorceress",
+     "n": "Morena Baccarin"
+    },
+    {
+     "c": "Fisto",
+     "n": "Jóhannes Haukur Jóhannesson"
+    },
+    {
+     "c": "Queen Marlena",
+     "n": "Charlotte Riley"
+    },
+    {
+     "c": "Roboto (voice)",
+     "n": "Kristen Wiig"
+    },
+    {
+     "c": "Skeletor",
+     "n": "Jared Leto"
+    },
+    {
+     "c": "Duncan",
+     "n": "Idris Elba"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Travis Knight"
+   ],
+   "genres": [
+    "Action",
+    "Fantasy",
+    "Science Fiction"
+   ],
+   "id": 454639,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+   "popularity": 22.3696,
+   "poster_path": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-05",
+   "revenue": 113763426,
+   "runtime": 141,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Legends aren't born, they're forged.",
+   "title": "Masters of the Universe",
+   "trailer": {
+    "key": "rJSmz-zhDxE",
+    "name": "Official Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 2345
+  },
   "movie:726139": {
    "backdrop_path": "/cIBp7rip1kZLSD7BQrEE4UXs6aq.jpg",
    "budget": 14750000,
@@ -1298,6 +1843,100 @@
    "type": "movie",
    "vote_average": 6.107,
    "vote_count": 440
+  },
+  "movie:862739": {
+   "backdrop_path": "/bL3zF1MzeqFI4Jnd3avwflzzlor.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Natalia",
+     "n": "Dolores Oliverio"
+    },
+    {
+     "c": "Silvia",
+     "n": "Fernanda Echevarría del Rivero"
+    },
+    {
+     "c": "Rita",
+     "n": "Luisa Merelas"
+    },
+    {
+     "c": "Josefina",
+     "n": "Isabel Bracamonte"
+    },
+    {
+     "c": "Mariela",
+     "n": "Candela Flores"
+    },
+    {
+     "c": "Diego",
+     "n": "Agustín Sosa"
+    },
+    {
+     "c": "Gerardo",
+     "n": "Dady Brieva"
+    },
+    {
+     "c": "Kechu",
+     "n": "Maicol Orihuela"
+    },
+    {
+     "c": "Linyera",
+     "n": "Víctor López"
+    },
+    {
+     "c": "Juancho",
+     "n": "Marcelo Antonio Diaz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "+16",
+   "date_kind": "release",
+   "director": [
+    "Laura Casabé"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 862739,
+   "industry": "world",
+   "origin_country": [
+    "AR",
+    "MX",
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "On the eve of the 2001 outbreak, a young woman falls for her lifelong friend but turns to incantations and curses with her grandmother's help when a more experienced rival threatens their romance.",
+   "popularity": 3.1687,
+   "poster_path": "/xqbUNS0uvqWEgvTWFuxba7Qs4yi.jpg",
+   "production_countries": [
+    "AR",
+    "ES",
+    "MX"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-15",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Virgin of the Quarry Lake",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 46
   },
   "movie:9839": {
    "backdrop_path": "/rp09OsrEIpFdsxQjIyWn821Wp7c.jpg",

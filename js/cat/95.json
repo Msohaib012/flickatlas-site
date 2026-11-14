@@ -1,6 +1,6 @@
 {
  "bucket": "95",
- "count": 14,
+ "count": 22,
  "titles": {
   "movie:10295": {
    "backdrop_path": "/sS0MhzRDPAUxT412DqAyhhs6yFY.jpg",
@@ -106,6 +106,353 @@
    "vote_average": 6.414,
    "vote_count": 492
   },
+  "movie:1281195": {
+   "backdrop_path": "/mN5HuZwSIueiA62F0LS3wBCFj55.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alec",
+     "n": "Caolán O'Gorman"
+    },
+    {
+     "c": "Dylan",
+     "n": "Andrew Howard"
+    },
+    {
+     "c": "Lizzie",
+     "n": "Alessa Savage"
+    },
+    {
+     "c": "Nina",
+     "n": "Safiya Benaddi"
+    },
+    {
+     "c": "Julia",
+     "n": "Lyndsey Marshal"
+    },
+    {
+     "c": "Cecile",
+     "n": "Kate Kennedy"
+    },
+    {
+     "c": "Jamie",
+     "n": "Cameron King"
+    },
+    {
+     "c": "Amy",
+     "n": "Hana Hrzic"
+    },
+    {
+     "c": "Rose",
+     "n": "Helena Braithwaite"
+    },
+    {
+     "c": "Mrs. Bennett",
+     "n": "Juliet Aubrey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Muriel d'Ansembourg"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 1281195,
+   "industry": "world",
+   "origin_country": [
+    "BE",
+    "FR",
+    "NL"
+   ],
+   "original_language": "en",
+   "overview": "An introverted teen, who has only ever experienced sex through the lens while working for his father’s pornography business, must step out from behind the camera when a feisty classmate challenges him to embrace a real connection.",
+   "popularity": 3.4933,
+   "poster_path": "/y23B9EnC0LDw8zMKlpXJauyLH7k.jpg",
+   "production_countries": [
+    "NL",
+    "BE",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-15",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "When porn has become the norm, intimacy is the new taboo.",
+   "title": "Truly Naked",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.539,
+   "vote_count": 38
+  },
+  "movie:1291595": {
+   "backdrop_path": "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Gemma Hall",
+     "n": "Amelia Eve"
+    },
+    {
+     "c": "Maya Hall",
+     "n": "Island Austin"
+    },
+    {
+     "c": "Nick Mendoza",
+     "n": "Brandon Perea"
+    },
+    {
+     "c": "Elise Rainier",
+     "n": "Lin Shaye"
+    },
+    {
+     "c": "Clare",
+     "n": "Maisie Richardson-Sellers"
+    },
+    {
+     "c": "Cyrus Lam",
+     "n": "Sam Spruell"
+    },
+    {
+     "c": "Lester",
+     "n": "Joseph Lopez"
+    },
+    {
+     "c": "Edna",
+     "n": "Robina Beard"
+    },
+    {
+     "c": "Patsy",
+     "n": "Susan Gray"
+    },
+    {
+     "c": "Ingrid Lilith Hall",
+     "n": "Laura Gordon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Jacob Chase"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 1291595,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+   "popularity": 74.2312,
+   "poster_path": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-21",
+   "revenue": 171662414,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Evil found a way out.",
+   "title": "Insidious: Out of the Further",
+   "trailer": {
+    "key": "gXjurDkYnEM",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.7,
+   "vote_count": 1060
+  },
+  "movie:1292695": {
+   "backdrop_path": "/7IwBgIwoHtkQ0lYGbBbqKintSWx.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Asia Reaves",
+     "n": "Zazie Beetz"
+    },
+    {
+     "c": "Lily Woodhouse",
+     "n": "Patricia Arquette"
+    },
+    {
+     "c": "Maria Reaves",
+     "n": "Myha'la"
+    },
+    {
+     "c": "Ray",
+     "n": "Paterson Joseph"
+    },
+    {
+     "c": "Kevin",
+     "n": "Tom Felton"
+    },
+    {
+     "c": "Sharon",
+     "n": "Heather Graham"
+    },
+    {
+     "c": "Bob",
+     "n": "Willie Ludik"
+    },
+    {
+     "c": "Tall Steve",
+     "n": "David Viviers"
+    },
+    {
+     "c": "Small Steve",
+     "n": "Gabe Gabriel"
+    },
+    {
+     "c": "Sophia",
+     "n": "Viktoria Korotkova"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Kirill Sokolov"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Horror"
+   ],
+   "id": 1292695,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+   "popularity": 8.4041,
+   "poster_path": "/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+   "production_countries": [
+    "US",
+    "ZA"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-27",
+   "revenue": 19382152,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Let them try.",
+   "title": "They Will Kill You",
+   "trailer": {
+    "key": "s0PGrtw0X1Q",
+    "name": "Tickets On Sale",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.875,
+   "vote_count": 1234
+  },
   "movie:13995": {
    "backdrop_path": "/a7nEljKws5sgtCndAkJtdpGz9pe.jpg",
    "budget": 3000000,
@@ -209,6 +556,576 @@
    "type": "movie",
    "vote_average": 4.5,
    "vote_count": 475
+  },
+  "movie:1412795": {
+   "backdrop_path": "/jsnatGViKLWlW3iqr2wrZNWSrRB.jpg",
+   "budget": 5500000,
+   "cast": [
+    {
+     "c": "Anna",
+     "n": "Jasmine Trinca"
+    },
+    {
+     "c": "Alice",
+     "n": "Romana Maggiora Vergano"
+    },
+    {
+     "c": "Walter",
+     "n": "Adriano Giannini"
+    },
+    {
+     "c": "Stranger",
+     "n": "Valeria Bruni Tedeschi"
+    },
+    {
+     "c": "Alice (1999)",
+     "n": "Gabriella Telegrafo"
+    },
+    {
+     "c": "Tobia (1999)",
+     "n": "Alessandro Carbonara"
+    },
+    {
+     "c": "Alice (2006)",
+     "n": "Mariandrea Cesari"
+    },
+    {
+     "c": "Tobia (2006)",
+     "n": "Andrea Rossini"
+    },
+    {
+     "c": "Tobia (2025)",
+     "n": "Andrea Genovese"
+    },
+    {
+     "c": "Lidia Mariani",
+     "n": "Marina Limosani"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "date_kind": "release",
+   "director": [
+    "Paolo Strippoli"
+   ],
+   "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "id": 1412795,
+   "industry": "world",
+   "origin_country": [
+    "IT",
+    "FR",
+    "BE"
+   ],
+   "original_language": "it",
+   "overview": "On a stormy night in Rome, Anna arrives at her daughter Alice’s apartment with a devastating confession: their entire family history is built on a lie. Twenty years earlier, after a horrific accident that nearly cost Alice her leg, Anna claims she made a pact with a mysterious Stranger to save her. But the miracle came at a price. What she believed was a single desperate bargain has in fact unleashed a spiraling chain reaction — a domino effect of increasingly dark events that have haunted their lives ever since. Now, the Stranger has come to collect. And Anna is convinced that only Alice can break the spiral and set things right. But at what cost?",
+   "popularity": 2.6511,
+   "poster_path": "/hkpxitZPz3cKQMl2g0MxzKQdtpP.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-08",
+   "revenue": 0,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Spiral",
+   "trailer": {
+    "key": "OiPKYpJlRGM",
+    "name": "L'ESTRANEA di Paolo Strippoli (2026) #venezia83 - TRAILER UFFICIALE HD",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.467,
+   "vote_count": 180
+  },
+  "movie:1437195": {
+   "backdrop_path": "/eJ4vMJJlnxnKqdJCBDXvNmE0LVp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kevin Hart",
+     "n": "Kevin Hart"
+    },
+    {
+     "c": "Kai Cenat",
+     "n": "Kai Cenat"
+    },
+    {
+     "c": "Druski",
+     "n": "Druski"
+    },
+    {
+     "c": "Dasher",
+     "n": "Kam Patterson"
+    },
+    {
+     "c": "Chen-Ruei 'Ray' Hsu",
+     "n": "Chen-Ruei'Ray' Hsu"
+    },
+    {
+     "c": "Kel Mitchell",
+     "n": "Kel Mitchell"
+    },
+    {
+     "c": "Sexyy Red",
+     "n": "Sexyy Red"
+    },
+    {
+     "c": "Duke Dennis",
+     "n": "Duke Dennis"
+    },
+    {
+     "c": "Fanum",
+     "n": "Fanum"
+    },
+    {
+     "c": "Roll Tide Willie",
+     "n": "Roll Tide Willie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "David Janoff"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy"
+   ],
+   "id": 1437195,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Kevin Hart teams up with fellow comedian, Druski, and streamer, Kai Cenat for a record-breaking livestream at his tech-savvy mansion, things go hilariously off the rails, until the pranks turn to panic, and a real murder mystery unfolds on camera, trapping the trio and their celebrity guests in a high-stakes, horror-comedy whodunnit watched by millions.",
+   "popularity": 4.7885,
+   "poster_path": "/2bKGy1SoXZEUa69HRSy51rVM5KF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-30",
+   "revenue": 0,
+   "runtime": 78,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Livestream from Hell",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.5,
+   "vote_count": 51
+  },
+  "movie:1480295": {
+   "backdrop_path": "/ekpdjcuVVU2LIFM3EyePYykYZ4b.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bruno",
+     "n": "Marko Zaror"
+    },
+    {
+     "c": "Fitch",
+     "n": "Brooke Ence"
+    },
+    {
+     "c": "Athena",
+     "n": "Jane Mirro"
+    },
+    {
+     "c": "Joe",
+     "n": "Louis Mandylor"
+    },
+    {
+     "c": "Krieger",
+     "n": "Brahim Achabbakhe"
+    },
+    {
+     "c": "Dr. Kovalovski",
+     "n": "Ego Mikitas"
+    },
+    {
+     "c": "Zeke",
+     "n": "Tofan Pirani"
+    },
+    {
+     "c": "Hugo",
+     "n": "Elliott Allison"
+    },
+    {
+     "c": "Man in Black",
+     "n": "Andrey Kasushkin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Brandon Slagle"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 1480295,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Chilean martial-arts star Marko Zaror is Bruno, an ex-SEAL struggling with PTSD. He lives a life in fear of his demons until one day when he discovers a beautiful woman with no past of her own. Together they begin to build a life, but when she disappears, Bruno must return to his violent past if he’s going to save her from a shocking conspiracy.",
+   "popularity": 2.7872,
+   "poster_path": "/WKwQOPh2mQPRL12jSu2yFHk4A7.jpg",
+   "production_countries": [
+    "AU",
+    "CL",
+    "TH",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hi-YAH Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mlciWnmFopns3WZGENR6ZZoNnZO.png",
+     "name": "Hi-YAH Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-11-27",
+   "revenue": 0,
+   "runtime": 81,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Ex-SEAL. Elite team. One impossible truth.",
+   "title": "Affinity",
+   "trailer": {
+    "key": "0b-HSxyod0c",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 40
+  },
+  "movie:1510795": {
+   "backdrop_path": "/90Vx3KpCXR2D9iVdxJpkjeYBq9P.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Madre Clara (segment \"1775\")",
+     "n": "Carla Abellana"
+    },
+    {
+     "c": "Rosdan (segment \"2050\")",
+     "n": "Richard Gutierrez"
+    },
+    {
+     "c": "Edris (segment \"2050\")",
+     "n": "Ivana Alawi"
+    },
+    {
+     "c": "Malena (segment \"2050\" and \"2025\")",
+     "n": "Manilyn Reynes"
+    },
+    {
+     "c": "Madre Juana (segment \"1775\")",
+     "n": "Janice de Belen"
+    },
+    {
+     "c": "Faye (segment \"2025\")",
+     "n": "Francine Diaz"
+    },
+    {
+     "c": "Hermana Flor (segment \"1775\")",
+     "n": "Loisa Andalio"
+    },
+    {
+     "c": "Sean (segment \"2025\")",
+     "n": "Seth Fedelin"
+    },
+    {
+     "c": "DJ Elle (segment \"2025\")",
+     "n": "Fyang Smith"
+    },
+    {
+     "c": "James (segment \"2025\")",
+     "n": "JM Ibarra"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R 18+",
+   "date_kind": "release",
+   "director": [
+    "Shugo Praico",
+    "Joey De Guzman",
+    "Ian Loreños"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 1510795,
+   "industry": "world",
+   "origin_country": [
+    "PH"
+   ],
+   "original_language": "tl",
+   "overview": "In 1775 during the Spanish colonial period in the Philippines, nuns attempts to survive the night after an unknown evil was set free in their cloister. Meanwhile in 2025, a group of friends attend a Halloween masquerade ball which was attacked by a serial killer. Fast forward to the future in 2050, a post-apocalytic Philippines is ruled by the aswang.",
+   "popularity": 2.8859,
+   "poster_path": "/2ayOQIh18qhJRoajoAxxGuZXry2.jpg",
+   "production_countries": [
+    "PH"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-25",
+   "revenue": 0,
+   "runtime": 148,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "tl",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Shake, Rattle & Roll: Evil Origins",
+   "trailer": {
+    "key": "A5QQvRaHxDw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 26
+  },
+  "movie:1601195": {
+   "backdrop_path": "/smbIQ9Fzx9LaWtTDm8x7GAaDvCe.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Dave Chappelle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rikki Hughes"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1601195,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Facing a world gone sideways, comedy icon Dave Chappelle delivers bold truths and potent punchlines in this no-holds-barred special.",
+   "popularity": 1.3556,
+   "poster_path": "/534y0Pt72VEAUTV3THKpMxzCoB3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-19",
+   "revenue": 0,
+   "runtime": 75,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Dave Chappelle: The Unstoppable...",
+   "trailer": {
+    "key": "yWDhs-xyC2c",
+    "name": "Now Playing",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.673,
+   "vote_count": 75
   },
   "movie:294795": {
    "backdrop_path": "/8KFAnl84oi6QSjFDCIGFgZPiOph.jpg",

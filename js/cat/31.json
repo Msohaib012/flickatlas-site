@@ -1,6 +1,6 @@
 {
  "bucket": "31",
- "count": 16,
+ "count": 26,
  "titles": {
   "movie:101731": {
    "backdrop_path": "/fM4TVNg27IBCYAz8FUiLefWck1p.jpg",
@@ -210,6 +210,1137 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 469
+  },
+  "movie:1159831": {
+   "backdrop_path": "/uXgWbwxmCW6XZ3ylRThk9Sqhwwq.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Ida / The Bride / Mary Shelley",
+     "n": "Jessie Buckley"
+    },
+    {
+     "c": "Frank",
+     "n": "Christian Bale"
+    },
+    {
+     "c": "Jake Wiles",
+     "n": "Peter Sarsgaard"
+    },
+    {
+     "c": "Clyde",
+     "n": "John Magaro"
+    },
+    {
+     "c": "Greta",
+     "n": "Jeannie Berlin"
+    },
+    {
+     "c": "Dr. Euphronious",
+     "n": "Annette Bening"
+    },
+    {
+     "c": "Ronnie Reed",
+     "n": "Jake Gyllenhaal"
+    },
+    {
+     "c": "Myrna Malloy",
+     "n": "Penélope Cruz"
+    },
+    {
+     "c": "Lupino",
+     "n": "Zlatko Burić"
+    },
+    {
+     "c": "Officer Goodman",
+     "n": "Louis Cancelmi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Maggie Gyllenhaal"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Horror",
+    "Fantasy"
+   ],
+   "id": 1159831,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
+   "popularity": 10.1609,
+   "poster_path": "/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-06",
+   "revenue": 23944025,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Here comes the mother f*%#ing bride!",
+   "title": "The Bride!",
+   "trailer": {
+    "key": "-oLJmEFK14k",
+    "name": "Official American Sign Language Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.036,
+   "vote_count": 715
+  },
+  "movie:1180831": {
+   "backdrop_path": "/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
+   "budget": 11200000,
+   "cast": [
+    {
+     "c": "Nora Tidemann",
+     "n": "Ine Marie Wilmann"
+    },
+    {
+     "c": "Andreas Isaksen",
+     "n": "Kim S. Falck-Jørgensen"
+    },
+    {
+     "c": "Kaptein Kristoffer Holm",
+     "n": "Mads Sjøgård Pettersen"
+    },
+    {
+     "c": "Marion Auryn Rhadani",
+     "n": "Sara Khorami"
+    },
+    {
+     "c": "Sigrid Hodne",
+     "n": "Karoline Viktoria Sletteng Garvang"
+    },
+    {
+     "c": "Esther Johanne Tiller",
+     "n": "Anne Krigsvoll"
+    },
+    {
+     "c": "Professor Wangel",
+     "n": "Duc Mai-The"
+    },
+    {
+     "c": "Professor Møller",
+     "n": "Jon Ketil Johnsen"
+    },
+    {
+     "c": "Statsministeren",
+     "n": "Ola G. Furuseth"
+    },
+    {
+     "c": "Amir Aw-Geedi",
+     "n": "Yusuf Toosh Ibra"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Roar Uthaug"
+   ],
+   "genres": [
+    "Action",
+    "Fantasy",
+    "Thriller"
+   ],
+   "id": 1180831,
+   "industry": "world",
+   "origin_country": [
+    "NO"
+   ],
+   "original_language": "no",
+   "overview": "When a dangerous new troll unleashes devastation across their homeland, Nora, Andreas and Major Kris embark on their most perilous mission yet.",
+   "popularity": 5.1878,
+   "poster_path": "/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg",
+   "production_countries": [
+    "NO"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-11-30",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "no"
+   ],
+   "status": "Released",
+   "tagline": "A new troll has awakened!",
+   "title": "Troll 2",
+   "trailer": {
+    "key": "Hzk4ovnGOyw",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 552
+  },
+  "movie:1234731": {
+   "backdrop_path": "/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
+   "budget": 45000000,
+   "cast": [
+    {
+     "c": "Doug McCallister",
+     "n": "Jack Black"
+    },
+    {
+     "c": "Ronald Griffin Jr.",
+     "n": "Paul Rudd"
+    },
+    {
+     "c": "Kenny Trent",
+     "n": "Steve Zahn"
+    },
+    {
+     "c": "Claire Simons",
+     "n": "Thandiwe Newton"
+    },
+    {
+     "c": "Ana Almeida",
+     "n": "Daniela Melchior"
+    },
+    {
+     "c": "Santiago",
+     "n": "Selton Mello"
+    },
+    {
+     "c": "Ice Cube",
+     "n": "Ice Cube"
+    },
+    {
+     "c": "Malie",
+     "n": "Ione Skye"
+    },
+    {
+     "c": "João",
+     "n": "Rui Ricardo Diaz"
+    },
+    {
+     "c": "Jerry",
+     "n": "John Billingsley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Tom Gormican"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Horror"
+   ],
+   "id": 1234731,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
+   "popularity": 9.7873,
+   "poster_path": "/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-25",
+   "revenue": 135148320,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A comedy so big it'll leave you breathless.",
+   "title": "Anaconda",
+   "trailer": {
+    "key": "LFLyvzIZjK4",
+    "name": "Final UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.783,
+   "vote_count": 1543
+  },
+  "movie:1281331": {
+   "backdrop_path": "/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Frances Haugen",
+     "n": "Mikey Madison"
+    },
+    {
+     "c": "Jeff Horwitz",
+     "n": "Jeremy Allen White"
+    },
+    {
+     "c": "Mark Zuckerberg",
+     "n": "Jeremy Strong"
+    },
+    {
+     "c": "Kris",
+     "n": "Betty Gilpin"
+    },
+    {
+     "c": "Charlie Garrigan",
+     "n": "Bill Burr"
+    },
+    {
+     "c": "Raya",
+     "n": "Wunmi Mosaku"
+    },
+    {
+     "c": "Teddy Marks",
+     "n": "Billy Magnussen"
+    },
+    {
+     "c": "Andy",
+     "n": "Gbenga Akinnagbe"
+    },
+    {
+     "c": "Morgan",
+     "n": "Anna Lambe"
+    },
+    {
+     "c": "Zach",
+     "n": "Aidan Laprete"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Aaron Sorkin"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1281331,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+   "popularity": 29.8855,
+   "poster_path": "/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-09",
+   "revenue": 17765996,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "We're way past making friends.",
+   "title": "The Social Reckoning",
+   "trailer": {
+    "key": "R8ANzYpaZaY",
+    "name": "Official International Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 140
+  },
+  "movie:1383731": {
+   "backdrop_path": "/vpuPY4UziUCxv7gYYoaZQ3LX7to.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nikki Halstead",
+     "n": "Milla Jovovich"
+    },
+    {
+     "c": "Colonel Joseph Lavelle",
+     "n": "Matthew Modine"
+    },
+    {
+     "c": "Chloe Halstead",
+     "n": "Isabel Myers"
+    },
+    {
+     "c": "Captain Michaels",
+     "n": "D. B. Sweeney"
+    },
+    {
+     "c": "Sullivan",
+     "n": "Don Harvey"
+    },
+    {
+     "c": "Detective John Blake",
+     "n": "Michael Stahl-David"
+    },
+    {
+     "c": "Detective Alexa Jane",
+     "n": "Lydia Hull"
+    },
+    {
+     "c": "Detective Jin Woo",
+     "n": "Chase Kim"
+    },
+    {
+     "c": "Detective Keyes",
+     "n": "Brooklyn Sudano"
+    },
+    {
+     "c": "The Chairman",
+     "n": "Gabriel Sloyer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Adrian Grünberg"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 1383731,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Nikki's life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
+   "popularity": 10.5431,
+   "poster_path": "/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-20",
+   "revenue": 1993982,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Never get between a mother and her child.",
+   "title": "Protector",
+   "trailer": {
+    "key": "IRKGIuL3728",
+    "name": "International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.37,
+   "vote_count": 648
+  },
+  "movie:1400731": {
+   "backdrop_path": "/yf7OJzxWAg0LRFUMyp0Jpa2sRKY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "André Ricciardi"
+    },
+    {
+     "c": "Self",
+     "n": "Lee Einhorn"
+    },
+    {
+     "c": "Self",
+     "n": "Janice Ricciardi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "13+",
+   "date_kind": "release",
+   "director": [
+    "Tony Benna"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1400731,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "André, a brilliant idiot, is dying because he didn’t get a colonoscopy. His sobering diagnosis, complete irreverence, and insatiable curiosity, send him on an unexpected journey learning how to die happily and ridiculously without losing his sense of humor.",
+   "popularity": 1.7394,
+   "poster_path": "/lUDoDeCyobKik81PWUrBWOEV0qt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "BBC iPlayer"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-06",
+   "revenue": 3207,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "André Is an Idiot",
+   "trailer": {
+    "key": "M1XnsyjsnC8",
+    "name": "Official Trailer - Clean",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.35,
+   "vote_count": 20
+  },
+  "movie:1477431": {
+   "backdrop_path": "/z1RpdUplP1HrHRB5iX8kdVwN8WK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr. Allison Burrell",
+     "n": "Mena Suvari"
+    },
+    {
+     "c": "Frank Morley",
+     "n": "Michael Kelly"
+    },
+    {
+     "c": "Officer Aarons",
+     "n": "Dennis Haysbert"
+    },
+    {
+     "c": "Warden Beau LaRue",
+     "n": "Kevin Pollak"
+    },
+    {
+     "c": "Hector Ramos",
+     "n": "Noel Gugliemi"
+    },
+    {
+     "c": "Alan",
+     "n": "Trevor Morgan"
+    },
+    {
+     "c": "Brenda",
+     "n": "Kelen Coleman"
+    },
+    {
+     "c": "Pat",
+     "n": "Cotter Smith"
+    },
+    {
+     "c": "Dustin Reeves",
+     "n": "Alex Solowitz"
+    },
+    {
+     "c": "Meeks",
+     "n": "David Ury"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Will Wernick"
+   ],
+   "genres": [
+    "Thriller",
+    "Horror",
+    "Mystery"
+   ],
+   "id": 1477431,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a prisoner vanishes without a trace, Detective Frank Morley (Michael Kelly) is sent to a decaying prison on the verge of shutdown. What begins as a routine investigation quickly spirals into a dangerous search for answers.",
+   "popularity": 1.7344,
+   "poster_path": "/gDbKETTKi8te7TiE0k6FfqAoSvR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-12",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Beneath the darkness lies the truth.",
+   "title": "Time of Death",
+   "trailer": {
+    "key": "BjTE9AQZDzI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.545,
+   "vote_count": 22
+  },
+  "movie:1554631": {
+   "backdrop_path": "/p8NfxilxJaV5cmtU4lHmBQOPLFv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Abuelo/Gaspar/Noruego/Peluzín",
+     "n": "Sergio Lebrija"
+    },
+    {
+     "c": "voces adicionales",
+     "n": "Arturo Navarro"
+    },
+    {
+     "c": "Additional voices",
+     "n": "Sofía Lebrija"
+    },
+    {
+     "c": "Additional voices",
+     "n": "Sebastián Ascencio"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "C",
+   "date_kind": "release",
+   "director": [
+    "Sergio Lebrija",
+    "Ornella Antista"
+   ],
+   "genres": [
+    "Comedy",
+    "Animation"
+   ],
+   "id": 1554631,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Since 1994, Mexico has been eliminated time and again before the coveted fifth game. For El Abuelo, this is no coincidence: it's a curse. When he learns he only has a few months to live, he decides he can't die without seeing the national team break the curse. What begins as a patriotic crusade ends up becoming an illegal journey to the United States, where they discover that the devil lives in Los Angeles and that the mascot of the 1986 World Cup holds a secret that will change everything. Between failed attempts to cross the border, unexpected betrayals, and family revelations, the family returns to Mexico to perform a soccer ritual at the Estadio Azteca. To break the pact, they must gather eleven sacred relics of Mexican soccer and confront not only the devil, but their own past. While the entire country awaits the decisive penalty kick on television, the family wages a battle that could change the history of Mexican soccer.",
+   "popularity": 0.7347,
+   "poster_path": "/riJTZUL3Q2rKVoCE78Akbop7Yt8.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "ViX Premium Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+     "name": "ViX Premium Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-23",
+   "revenue": 0,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Neighborhood Family",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 9.2,
+   "vote_count": 50
+  },
+  "movie:1616131": {
+   "backdrop_path": "/jJ3SrQoGsCa6xMfbfgB19OazGwX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Eleonor Alejandra 'Ale' Marín Mendoza",
+     "n": "Ana Celeste"
+    },
+    {
+     "c": "Arturo Espitia",
+     "n": "Armando Espitia"
+    },
+    {
+     "c": "Mayra",
+     "n": "Luisa Guzmán"
+    },
+    {
+     "c": "Mamá Alejandra",
+     "n": "Ángeles Cruz"
+    },
+    {
+     "c": "Mamá Arthuro",
+     "n": "Mayra Sérbulo"
+    },
+    {
+     "c": "Doctora Guerrero",
+     "n": "Mayra Batalla"
+    },
+    {
+     "c": "Erick",
+     "n": "Alejandro Porter"
+    },
+    {
+     "c": "Amiga 2",
+     "n": "Yamile Pando"
+    },
+    {
+     "c": "Tía",
+     "n": "Ana Carrillo"
+    },
+    {
+     "c": "Prima",
+     "n": "Larissa Goyco"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Maite Alberdi"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1616131,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Desperate for a baby and burdened by family and societal expectations, a woman fakes a pregnancy and gets tangled in a crime.",
+   "popularity": 1.758,
+   "poster_path": "/kH2SrPtJY2GS8V3JuRc4QluNdlK.jpg",
+   "production_countries": [
+    "CL",
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-30",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Child of My Own",
+   "trailer": {
+    "key": "8bggMB_AzEY",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.6,
+   "vote_count": 86
   },
   "movie:18331": {
    "backdrop_path": "/kTgPUrv6jICp5CDDq5vS40zvVKX.jpg",
@@ -1390,6 +2521,147 @@
    "type": "movie",
    "vote_average": 5.956,
    "vote_count": 439
+  },
+  "movie:980431": {
+   "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Aang (voice)",
+     "n": "Eric Nam"
+    },
+    {
+     "c": "Tagah (voice)",
+     "n": "Dave Bautista"
+    },
+    {
+     "c": "Katara (voice)",
+     "n": "Jessica Matten"
+    },
+    {
+     "c": "Sokka (voice)",
+     "n": "Román Zaragoza"
+    },
+    {
+     "c": "Zuko (voice)",
+     "n": "Steven Yeun"
+    },
+    {
+     "c": "Toph (voice)",
+     "n": "Dionne Quan"
+    },
+    {
+     "c": "Appa / Momo (voice)",
+     "n": "Dee Bradley Baker"
+    },
+    {
+     "c": "Avatar Sonam (voice)",
+     "n": "Freida Pinto"
+    },
+    {
+     "c": "Avatar Xian (voice)",
+     "n": "Ke Huy Quan"
+    },
+    {
+     "c": "Gorillavark (voice)",
+     "n": "Taika Waititi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Lauren Montgomery"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Fantasy",
+    "Action"
+   ],
+   "id": 980431,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+   "popularity": 47.826,
+   "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+   "production_countries": [
+    "US",
+    "KR",
+    "AU"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-24",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The legacy reawakens.",
+   "title": "Avatar Aang: The Last Airbender",
+   "trailer": {
+    "key": "7b20GRFZBFE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.996,
+   "vote_count": 1441
   },
   "tv:1431": {
    "backdrop_path": "/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",

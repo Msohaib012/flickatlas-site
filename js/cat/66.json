@@ -1,7 +1,696 @@
 {
  "bucket": "66",
- "count": 9,
+ "count": 15,
  "titles": {
+  "movie:1107166": {
+   "backdrop_path": "/gOcgmSwbCFW7h1rmEqMvYPzvjh7.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Jane Archer",
+     "n": "Georgina Campbell"
+    },
+    {
+     "c": "Psycho Killer",
+     "n": "James Preston Rogers"
+    },
+    {
+     "c": "Mr. Pendleton",
+     "n": "Malcolm McDowell"
+    },
+    {
+     "c": "Marvin",
+     "n": "Logan Miller"
+    },
+    {
+     "c": "Agent Becky Collins",
+     "n": "Grace Dove"
+    },
+    {
+     "c": "Leonard Wilkes",
+     "n": "Aaron Merke"
+    },
+    {
+     "c": "Motorist",
+     "n": "Joshua Banman"
+    },
+    {
+     "c": "Motorist's Wife",
+     "n": "Cassandra Ebner"
+    },
+    {
+     "c": "Mitch-Three Mile Island Gate Guard",
+     "n": "Darren Martens"
+    },
+    {
+     "c": "Female Pharmacist",
+     "n": "Sydney Sabiston"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gavin Polone"
+   ],
+   "genres": [
+    "Crime",
+    "Horror",
+    "Mystery"
+   ],
+   "id": 1107166,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Following the brutal murder of her husband, a Kansas highway patrol officer sets out on a journey to track down the perpetrator. As the hunt progresses, she comes to realize the man responsible is a sadistic serial killer, and the depth of his mental depravity and his sinister agenda is more twisted than anyone could have imagined.",
+   "popularity": 5.0689,
+   "poster_path": "/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg",
+   "production_countries": [
+    "US",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-20",
+   "revenue": 2376805,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [],
+   "status": "Released",
+   "tagline": "He’s coming for you.",
+   "title": "Psycho Killer",
+   "trailer": {
+    "key": "pwq8gwdVxts",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 273
+  },
+  "movie:1165366": {
+   "backdrop_path": "/8atC3ghkXK0cr3HutnzsffKWCbR.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Charles de Gaulle",
+     "n": "Simon Abkarian"
+    },
+    {
+     "c": "Winston Churchill",
+     "n": "Simon Russell Beale"
+    },
+    {
+     "c": "Fernand",
+     "n": "Florian Lesieur"
+    },
+    {
+     "c": "Koenig",
+     "n": "Benoît Magimel"
+    },
+    {
+     "c": "Darlan",
+     "n": "Mathieu Kassovitz"
+    },
+    {
+     "c": "Pleven",
+     "n": "Loïc Corbery"
+    },
+    {
+     "c": "Livia",
+     "n": "Anamaria Vartolomei"
+    },
+    {
+     "c": "Général Leclerc",
+     "n": "Niels Schneider"
+    },
+    {
+     "c": "Jean Moulin/Rex",
+     "n": "Félix Kysyl"
+    },
+    {
+     "c": "Blazej",
+     "n": "Karim Leklou"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12+",
+   "date_kind": "release",
+   "director": [
+    "Antonin Baudry"
+   ],
+   "genres": [
+    "History",
+    "Drama",
+    "War"
+   ],
+   "id": 1165366,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "June, 1940. France collapses and signs the armistice. In the midst of the chaos, one man refuses to give up. Alone against the odds, this unknown general flees to London to save what remains of freedom.",
+   "popularity": 13.4951,
+   "poster_path": "/ylXQDz9eAQuC785UQaz5wum2GSe.jpg",
+   "production_countries": [
+    "FR",
+    "BE",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-03",
+   "revenue": 18752948,
+   "runtime": 160,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Some wars are won by armies. Others by those who refuse to surrender.",
+   "title": "De Gaulle: Résistance",
+   "trailer": {
+    "key": "dKUArYoZ_0U",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.817,
+   "vote_count": 290
+  },
+  "movie:1368166": {
+   "backdrop_path": "/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Millie Calloway",
+     "n": "Sydney Sweeney"
+    },
+    {
+     "c": "Nina Winchester",
+     "n": "Amanda Seyfried"
+    },
+    {
+     "c": "Andrew Winchester",
+     "n": "Brandon Sklenar"
+    },
+    {
+     "c": "Enzo",
+     "n": "Michele Morrone"
+    },
+    {
+     "c": "Cece Winchester",
+     "n": "Indiana Elle"
+    },
+    {
+     "c": "Pam",
+     "n": "Sarah Cooper"
+    },
+    {
+     "c": "Mrs. Winchester",
+     "n": "Elizabeth Perkins"
+    },
+    {
+     "c": "Suzanne",
+     "n": "Amanda Joy Erickson"
+    },
+    {
+     "c": "Jilliane",
+     "n": "Megan Ferguson"
+    },
+    {
+     "c": "Patrice",
+     "n": "Ellen Tamaki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Paul Feig"
+   ],
+   "genres": [
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 1368166,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+   "popularity": 23.737,
+   "poster_path": "/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-01",
+   "revenue": 400483145,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Discover what lies behind closed doors.",
+   "title": "The Housemaid",
+   "trailer": {
+    "key": "BqWH0KDqm3U",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.234,
+   "vote_count": 3360
+  },
+  "movie:1428766": {
+   "backdrop_path": "/8oBOvMTnzsKlalLzOq02qlASGe8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Penny Lane",
+     "n": "Bailey Spalding"
+    },
+    {
+     "c": "Kat",
+     "n": "Sophia Wright-Mendelsohn"
+    },
+    {
+     "c": "Angus",
+     "n": "Ben O'Toole"
+    },
+    {
+     "c": "Toni",
+     "n": "Tahlee Fereday"
+    },
+    {
+     "c": "Rodowski",
+     "n": "Fletcher Humphrys"
+    },
+    {
+     "c": "Merrick",
+     "n": "Steve Le Marquand"
+    },
+    {
+     "c": "Amy",
+     "n": "Alexandra Jensen"
+    },
+    {
+     "c": "Nick",
+     "n": "Matthew O'Sullivan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mia'Kate Russell"
+   ],
+   "genres": [
+    "Comedy",
+    "Horror",
+    "Thriller"
+   ],
+   "id": 1428766,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "Set in 1986, during a scorching Aussie summer, three best friends' celebration at a beach house turns into a blood-soaked fight for survival when a prank goes horribly wrong.",
+   "popularity": 1.5599,
+   "poster_path": "/bg5g4CeHKYLcC0lrNRhbv7mjnD8.jpg",
+   "production_countries": [
+    "AU"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-23",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Penny Lane Is Dead",
+   "trailer": {
+    "key": "Pb1BPtBTIwQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 21
+  },
+  "movie:1438966": {
+   "backdrop_path": "/pfGxokUyoCvHYKaJ5Y6iLrVdC8r.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Pino Daniele",
+     "n": "Massimiliano Caiazzo"
+    },
+    {
+     "c": "Dorina",
+     "n": "Mariasole Pollio"
+    },
+    {
+     "c": "Gennaro Daniele",
+     "n": "Giovanni Ludeno"
+    },
+    {
+     "c": "Rosario Jermano",
+     "n": "Giuseppe Brunetti"
+    },
+    {
+     "c": "Willy David",
+     "n": "Leonardo Bianconi"
+    },
+    {
+     "c": "Claudio Poggi",
+     "n": "Giampiero De Concilio"
+    },
+    {
+     "c": "Zia Bianca",
+     "n": "Antonia Truppo"
+    },
+    {
+     "c": "Zia Lia",
+     "n": "Monica Nappo"
+    },
+    {
+     "c": "Rita",
+     "n": "Demi Licata"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Nicola Prosatore"
+   ],
+   "genres": [
+    "Drama",
+    "Music"
+   ],
+   "id": 1438966,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Je so’ pazzo is an intense portrait of Pino Daniele—a rebellious soul born in the alleys of Naples who revolutionized Italian music by blending blues, jazz, and Neapolitan tradition. The film chronicles his rise, from a childhood marked by abandonment to his legendary 1981 concert before a crowd of 200,000. Amidst family conflicts, personal vulnerabilities, and deep loves, Pino finds a musical language to express what words cannot. Yet success brings new challenges: an unresolved relationship with his father, the burden of expectations, and the risk of repeating past mistakes. It is not merely the story of an extraordinary musician, but that of a man grappling with himself, seeking reconciliation with his roots and the love of a city that never stopped waiting for him.",
+   "popularity": 1.5622,
+   "poster_path": "/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-15",
+   "revenue": 0,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Je so’ pazzo",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 31
+  },
   "movie:417466": {
    "backdrop_path": "/iqd7U0nrQw9zKUKyG05dtWpBVJT.jpg",
    "budget": 1800000,
@@ -325,6 +1014,136 @@
    "type": "movie",
    "vote_average": 7.314,
    "vote_count": 480
+  },
+  "movie:445466": {
+   "backdrop_path": "/lneqlgbg3XUjNaeGYk8arhgzczo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mark",
+     "n": "Dave Franco"
+    },
+    {
+     "c": "Davis",
+     "n": "O'Shea Jackson Jr."
+    },
+    {
+     "c": "Sheridan",
+     "n": "Mason Thames"
+    },
+    {
+     "c": "Irina Anastas",
+     "n": "Kiernan Shipka"
+    },
+    {
+     "c": "Karl 'Koko' Sandoz",
+     "n": "Peter Dinklage"
+    },
+    {
+     "c": "Joe Thom Pell Aka Pricka Bush Da Werewoof",
+     "n": "Nicholas Braun"
+    },
+    {
+     "c": "Bodha 'Baba' Anastas",
+     "n": "Lynn Wanlass"
+    },
+    {
+     "c": "D.D, His Buddy",
+     "n": "Macon Blair"
+    },
+    {
+     "c": "India Worsham Dorindo",
+     "n": "Grace Junot"
+    },
+    {
+     "c": "Celeste Waingro, Attorney at Law",
+     "n": "Lee Eddy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Macon Blair"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 445466,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
+   "popularity": 9.2351,
+   "poster_path": "/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-20",
+   "revenue": 1194626,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They're doing their best.",
+   "title": "Idiots",
+   "trailer": {
+    "key": "UoAf0LNAn30",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.304,
+   "vote_count": 92
   },
   "movie:606566": {
    "backdrop_path": "/hsAZKgLMhReTakzdBxCAJsTinea.jpg",

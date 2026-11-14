@@ -1,7 +1,151 @@
 {
  "bucket": "42",
- "count": 14,
+ "count": 23,
  "titles": {
+  "movie:1124142": {
+   "backdrop_path": "/sUPFV7bilTqMRILfbUgpbV4Aj9n.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Amziah King",
+     "n": "Matthew McConaughey"
+    },
+    {
+     "c": "Dob McCoy",
+     "n": "Kurt Russell"
+    },
+    {
+     "c": "Kateri",
+     "n": "Angelina LookingGlass"
+    },
+    {
+     "c": "Oat",
+     "n": "Cole Sprouse"
+    },
+    {
+     "c": "Chimmy",
+     "n": "Scott Shepherd"
+    },
+    {
+     "c": "Rippy",
+     "n": "Rob Morgan"
+    },
+    {
+     "c": "Colemar",
+     "n": "Tony Revolori"
+    },
+    {
+     "c": "Remick",
+     "n": "Jake Horowitz"
+    },
+    {
+     "c": "Pirate",
+     "n": "Owen Teague"
+    },
+    {
+     "c": "Sunderland",
+     "n": "Bruce Davis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Andrew Patterson"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1124142,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
+   "popularity": 8.9229,
+   "poster_path": "/xAdcsPCcW3I0bS4zUwDHWWZjSpd.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-13",
+   "revenue": 3111550,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Ain’t no one all bad or all good.",
+   "title": "The Rivals of Amziah King",
+   "trailer": {
+    "key": "GwSvAyaMGMo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.736,
+   "vote_count": 127
+  },
   "movie:11342": {
    "backdrop_path": "/tVQjkTxxg7t17Fgp4qyii89pCH2.jpg",
    "budget": 7000000,
@@ -433,6 +577,253 @@
    "vote_average": 7.231,
    "vote_count": 485
   },
+  "movie:1219542": {
+   "backdrop_path": "/xIdshPSkYOPOwE3KZ54VM9LEsvM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Justus Jonas",
+     "n": "Julius Weckauf"
+    },
+    {
+     "c": "Peter Shaw",
+     "n": "Nevio Wendt"
+    },
+    {
+     "c": "Bob Andrews",
+     "n": "Levi Brandl"
+    },
+    {
+     "c": "Jelena Charkova",
+     "n": "Momo Beier"
+    },
+    {
+     "c": "Skinny Norris",
+     "n": "Filip Schnack"
+    },
+    {
+     "c": "Maria Svenson",
+     "n": "Katja Lechthaler"
+    },
+    {
+     "c": "Professor Phoenix",
+     "n": "Andreas Pietschmann"
+    },
+    {
+     "c": "Aunt Mathilda",
+     "n": "Jördis Triebel"
+    },
+    {
+     "c": "Uncle Titus",
+     "n": "Florian Lukas"
+    },
+    {
+     "c": "Juan",
+     "n": "Pascal Buchsbaum"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Tim Dünschede"
+   ],
+   "genres": [
+    "Adventure",
+    "Family",
+    "Crime"
+   ],
+   "id": 1219542,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "The three investigators want to go on a road trip during their vacation, but just as they are about to set off, the phone rings and an unknown caller hands the trio of detectives their latest case: the archaeologists belonging to the secret society Sphinx are carrying out illegal excavations and selling the stolen art treasures. Their next target is the supposedly cursed island of Makatao.",
+   "popularity": 0.5156,
+   "poster_path": "/cQy8PqmhwRKuSmyb9eFdUe55B9V.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-22",
+   "revenue": 0,
+   "runtime": 0,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Three Investigators: Isle of Death",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.46,
+   "vote_count": 25
+  },
+  "movie:1297842": {
+   "backdrop_path": "/vcM0CWnMGdOo6ty1iyt7zE1jtd6.jpg",
+   "budget": 90000000,
+   "cast": [
+    {
+     "c": "Will Harris (voice)",
+     "n": "Caleb McLaughlin"
+    },
+    {
+     "c": "Jett Fillmore (voice)",
+     "n": "Gabrielle Union"
+    },
+    {
+     "c": "Lenny Williamson (voice)",
+     "n": "Stephen Curry"
+    },
+    {
+     "c": "Mane Attraction (voice)",
+     "n": "Aaron Pierre"
+    },
+    {
+     "c": "Olivia Burke (voice)",
+     "n": "Nicola Coughlan"
+    },
+    {
+     "c": "Archie Everhardt (voice)",
+     "n": "David Harbour"
+    },
+    {
+     "c": "Modo Olachenko (voice)",
+     "n": "Nick Kroll"
+    },
+    {
+     "c": "Flo Everson (voice)",
+     "n": "Jenifer Lewis"
+    },
+    {
+     "c": "Dennis Cooper (voice)",
+     "n": "Patton Oswalt"
+    },
+    {
+     "c": "Grizz (voice)",
+     "n": "Jelly Roll"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Tyree Dillihay"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 1297842,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+   "popularity": 22.0201,
+   "poster_path": "/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-20",
+   "revenue": 193566330,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You're never too small to dream big.",
+   "title": "GOAT",
+   "trailer": {
+    "key": "kmY-rYS7yng",
+    "name": "International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.0,
+   "vote_count": 1160
+  },
   "movie:1367642": {
    "backdrop_path": "/5rxEnsgriw8z065q51lrvPKYmCL.jpg",
    "budget": 30000000,
@@ -569,6 +960,488 @@
    "type": "movie",
    "vote_average": 7.747,
    "vote_count": 464
+  },
+  "movie:1401542": {
+   "backdrop_path": "/8yzfrJQRt90oBjSnKoziXl0A42l.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yoon Mi-sun",
+     "n": "Han So-hee"
+    },
+    {
+     "c": "Lee Do-kyung",
+     "n": "Jeon Jong-seo"
+    },
+    {
+     "c": "Choi Ga-young",
+     "n": "Kim Shin-rock"
+    },
+    {
+     "c": "Mr. To",
+     "n": "Kim Sung-cheol"
+    },
+    {
+     "c": "Bull",
+     "n": "Jeong Young-joo"
+    },
+    {
+     "c": "Seok-gu",
+     "n": "Lee Jae-kyoon"
+    },
+    {
+     "c": "Ha-kyung",
+     "n": "YooA"
+    },
+    {
+     "c": "Hardcore Young",
+     "n": "Park Bo-in"
+    },
+    {
+     "c": "Hwa-jin",
+     "n": "Han Sung-min"
+    },
+    {
+     "c": "Gi-jung",
+     "n": "Bek Hyun-jin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Lee Hwan"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 1401542,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Mi-sun and Do-kyung might be used to struggling in the most dangerous part of Seoul's Gangnam district, but that doesn't mean they've settled into it. With no one but each other to rely on, the two friends grind away to save the money needed to leave their dangerous lifestyles behind. But just as \"retirement\" comes within reach, the world betrays them, shattering their hopes. On the edge of a dead end, they discover a hidden fortune of dirty cash and gold in Gangnam – and place all their bets on one final high-stakes gamble of a lifetime.",
+   "popularity": 1.9418,
+   "poster_path": "/5KbWvXsXqwA1UDDtdodAt4wEi2c.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Rakuten Viki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-21",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "Two women. One heist. Zero regrets.",
+   "title": "Project Y",
+   "trailer": {
+    "key": "aA8qX8c60nc",
+    "name": "Project Y (2026) 프로젝트 |Official Trailer| English Sub | Han So-hee, Jeon Jong-seo, Kim Shin-rock",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 20
+  },
+  "movie:1420742": {
+   "backdrop_path": "/x61Ft8ub7XRhLecFQljpE1WvXP9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maxime / Lupita",
+     "n": "Ahmed Sylla"
+    },
+    {
+     "c": "Commissaire Mercier",
+     "n": "Michèle Laroque"
+    },
+    {
+     "c": "Lieutenant Duval",
+     "n": "Amaury de Crayencour"
+    },
+    {
+     "c": "Tonton",
+     "n": "Kaaris"
+    },
+    {
+     "c": "Samy",
+     "n": "Ichem Bougheraba"
+    },
+    {
+     "c": "Mobayé",
+     "n": "Cindy Bruna"
+    },
+    {
+     "c": "Sonja Kalam",
+     "n": "Sandra Parfait"
+    },
+    {
+     "c": "Karine Lombra",
+     "n": "Mariama Gueye"
+    },
+    {
+     "c": "",
+     "n": "Quentin   Morlaas"
+    },
+    {
+     "c": "",
+     "n": "Laminé Ba"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TP",
+   "date_kind": "release",
+   "director": [
+    "Ahmed Sylla"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1420742,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "To fulfill his dream of becoming a secret agent, Maxime has to become... Lupita!",
+   "popularity": 1.3977,
+   "poster_path": "/ys6twzUhtNacnnhXTnHFZTMiOPM.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-11",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "She is the man for the job!",
+   "title": "L'Infiltrée",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.174,
+   "vote_count": 43
+  },
+  "movie:1433842": {
+   "backdrop_path": "/dFdFQaffaBNBNM5hzinc6Q0oWDZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Leah Caldwell",
+     "n": "Kelly Rowland"
+    },
+    {
+     "c": "Jarrett Roy",
+     "n": "Method Man"
+    },
+    {
+     "c": "Brenda Phelps",
+     "n": "Robin Thede"
+    },
+    {
+     "c": "Treese Moore",
+     "n": "Annie Gonzalez"
+    },
+    {
+     "c": "Papa Jim",
+     "n": "Dennis Haysbert"
+    },
+    {
+     "c": "Maya",
+     "n": "Melanie Leishman"
+    },
+    {
+     "c": "Dan Milken",
+     "n": "Matt Walsh"
+    },
+    {
+     "c": "Sporty Sam",
+     "n": "Daniel Malik"
+    },
+    {
+     "c": "Ted",
+     "n": "Carlos Gonzalez-Vio"
+    },
+    {
+     "c": "Ayden",
+     "n": "DeVaughn Nixon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Linda Mendoza"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 1433842,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When TV producer Leah Caldwell aims to become the first woman running New York's top morning show, her ex competes for the same role. Leah stays focused on her career, until chemistry with her ex challenges her priorities.",
+   "popularity": 3.3146,
+   "poster_path": "/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-04",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Work just got complicated.",
+   "title": "Relationship Goals",
+   "trailer": {
+    "key": "MeCJampyYW0",
+    "name": "Faith Leads",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 75
+  },
+  "movie:1469342": {
+   "backdrop_path": "/hS4FcOM5y71FurkBQgDLTBxmWZh.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Elle",
+     "n": "Sophie Thatcher"
+    },
+    {
+     "c": "Private K",
+     "n": "Charles Melton"
+    },
+    {
+     "c": "Dominique",
+     "n": "Havana Rose Liu"
+    },
+    {
+     "c": "Hunter",
+     "n": "Kristine Froseth"
+    },
+    {
+     "c": "Ms. T",
+     "n": "Shioli Kutsuna"
+    },
+    {
+     "c": "Ms. S",
+     "n": "Aoi Yamada"
+    },
+    {
+     "c": "Johnny Thunders",
+     "n": "Dougray Scott"
+    },
+    {
+     "c": "Nico",
+     "n": "Diego Calva"
+    },
+    {
+     "c": "Hayashi",
+     "n": "Hidetoshi Nishijima"
+    },
+    {
+     "c": "Candyfloss Girl",
+     "n": "Lola Corfixen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Nicolas Winding Refn"
+   ],
+   "genres": [
+    "Thriller",
+    "Horror"
+   ],
+   "id": 1469342,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
+   "popularity": 7.067,
+   "poster_path": "/pyIDpB5iZMRB5PdV9an146QEXAl.jpg",
+   "production_countries": [
+    "US",
+    "DK",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-23",
+   "revenue": 662177,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Revenge wears leather",
+   "title": "Her Private Hell",
+   "trailer": {
+    "key": "C7E-0t1TfzM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 119
   },
   "movie:16342": {
    "backdrop_path": "/sfUgGs1KtMWpcywgPWmH4c7J8eC.jpg",
@@ -1143,6 +2016,122 @@
    "vote_average": 6.332,
    "vote_count": 467
   },
+  "movie:847742": {
+   "backdrop_path": "/enwc2Acl38mvX33QffmTzDSV89D.jpg",
+   "budget": 21000000,
+   "cast": [
+    {
+     "c": "Georgekutty",
+     "n": "Mohanlal"
+    },
+    {
+     "c": "Rani",
+     "n": "Meena"
+    },
+    {
+     "c": "Prabhakar",
+     "n": "Siddique"
+    },
+    {
+     "c": "IG Geetha Prabhakar",
+     "n": "Asha Sarath"
+    },
+    {
+     "c": "IG Thomas Bastin",
+     "n": "Murali Gopy"
+    },
+    {
+     "c": "Anju",
+     "n": "Ansiba Hassan"
+    },
+    {
+     "c": "Anumol",
+     "n": "Esther Anil"
+    },
+    {
+     "c": "Yamini",
+     "n": "Veena Nandakumar"
+    },
+    {
+     "c": "CI Philip Mathew",
+     "n": "K. B. Ganesh Kumar"
+    },
+    {
+     "c": "Adv. Renuka",
+     "n": "Santhi Mayadevi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Jeethu Joseph"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 847742,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "ml",
+   "overview": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice?",
+   "popularity": 2.1764,
+   "poster_path": "/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-21",
+   "revenue": 0,
+   "runtime": 157,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ml"
+   ],
+   "status": "Released",
+   "tagline": "The past never stays silent.",
+   "title": "Drishyam 3",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.172,
+   "vote_count": 32
+  },
   "movie:91342": {
    "backdrop_path": "/pXurmwRwzq7UwTf9MdWGLiiDKN6.jpg",
    "budget": 0,
@@ -1361,6 +2350,183 @@
    "type": "movie",
    "vote_average": 6.618,
    "vote_count": 474
+  },
+  "movie:977942": {
+   "backdrop_path": "/kAlAFblqBI6aGXItR4DRpT5Tozg.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Ploughman",
+     "n": "Andrew Garfield"
+    },
+    {
+     "c": "John Ball",
+     "n": "Jamie Bell"
+    },
+    {
+     "c": "Archbishop Sudbury",
+     "n": "Stephen Dillane"
+    },
+    {
+     "c": "Treasurer Hales",
+     "n": "Tom Hollander"
+    },
+    {
+     "c": "Wat Tyler",
+     "n": "Cosmo Jarvis"
+    },
+    {
+     "c": "Alyce",
+     "n": "Thomasin McKenzie"
+    },
+    {
+     "c": "Mayor Walworth",
+     "n": "Jonny Lee Miller"
+    },
+    {
+     "c": "King Richard II",
+     "n": "Woody Norman"
+    },
+    {
+     "c": "Chief Justice Belknap",
+     "n": "Stanley Townsend"
+    },
+    {
+     "c": "Countess",
+     "n": "Katherine Waterston"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Paul Greengrass"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "History"
+   ],
+   "id": 977942,
+   "industry": "world",
+   "origin_country": [
+    "DE",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
+   "popularity": 23.3996,
+   "poster_path": "/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+   "production_countries": [
+    "DE",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-18",
+   "revenue": 10420741,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Rise or die.",
+   "title": "The Uprising",
+   "trailer": {
+    "key": "lyhCxZN4Ro8",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.8,
+   "vote_count": 417
   },
   "tv:220542": {
    "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",

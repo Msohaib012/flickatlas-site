@@ -1,6 +1,6 @@
 {
  "bucket": "56",
- "count": 12,
+ "count": 17,
  "titles": {
   "movie:11056": {
    "backdrop_path": "/dO9VVu7Z2EqqgGnij7UubQfLGzA.jpg",
@@ -347,6 +347,579 @@
    "type": "movie",
    "vote_average": 5.767,
    "vote_count": 488
+  },
+  "movie:1286656": {
+   "backdrop_path": "/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
+   "budget": 27000000,
+   "cast": [
+    {
+     "c": "Sylvester Stallone",
+     "n": "Anthony Ippolito"
+    },
+    {
+     "c": "Sasha Czack",
+     "n": "AnnaSophia Robb"
+    },
+    {
+     "c": "Irwin Winkler",
+     "n": "P.J. Byrne"
+    },
+    {
+     "c": "Robert Chartoff",
+     "n": "Toby Kebbell"
+    },
+    {
+     "c": "John Avildsen",
+     "n": "Jay Duplass"
+    },
+    {
+     "c": "Sandy Maddox",
+     "n": "Tracy Letts"
+    },
+    {
+     "c": "Frank Stallone Sr.",
+     "n": "Matt Dillon"
+    },
+    {
+     "c": "Carl Weathers",
+     "n": "Stephan James"
+    },
+    {
+     "c": "Talia Shire",
+     "n": "Kiki Seto"
+    },
+    {
+     "c": "Burgess Meredith",
+     "n": "Robert Morgan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Peter Farrelly"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 1286656,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
+   "popularity": 26.6064,
+   "poster_path": "/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
+   "production_countries": [
+    "US",
+    "AU"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-11-13",
+   "revenue": 395108,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The true underdog story.",
+   "title": "I Play Rocky",
+   "trailer": {
+    "key": "jq5oCjhQtIc",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.8,
+   "vote_count": 20
+  },
+  "movie:1554956": {
+   "backdrop_path": "/tcm829PtxDSomGOEXxzO7c0sK3p.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Daniel",
+     "n": "Domhnall Gleeson"
+    },
+    {
+     "c": "Isla",
+     "n": "Gayle Rankin"
+    },
+    {
+     "c": "Sandy",
+     "n": "Grant O'Rourke"
+    },
+    {
+     "c": "Calum",
+     "n": "Emun Elliott"
+    },
+    {
+     "c": "Roz",
+     "n": "Michelle Gomez"
+    },
+    {
+     "c": "Fin Man / Father",
+     "n": "John Hannah"
+    },
+    {
+     "c": "Tam",
+     "n": "Adam McNamara"
+    },
+    {
+     "c": "Gav",
+     "n": "Neil Bratchpiece"
+    },
+    {
+     "c": "Bob",
+     "n": "Paddy Kondracki"
+    },
+    {
+     "c": "Susie",
+     "n": "Annabella Forbes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Louis Paxton"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1554956,
+   "industry": "world",
+   "origin_country": [
+    "IE",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "On an Orkney isle, siblings Isla and Sandy survive by hunting seabirds, retelling the stories of their ancestors, and defending the isle from dreaded \"Incomers\". Their world is upended with the arrival of an awkward council worker who has come to uproot them from their homeland.",
+   "popularity": 3.4794,
+   "poster_path": "/iccroKK1eUTdCnLfmp7I3YXwAKF.jpg",
+   "production_countries": [
+    "GB",
+    "US",
+    "IE"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-04",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Welcome to Auk Isle. Population: one too many.",
+   "title": "The Incomer",
+   "trailer": {
+    "key": "vJ6TSvmnUEE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.224,
+   "vote_count": 29
+  },
+  "movie:1623256": {
+   "backdrop_path": "/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Filip",
+     "n": "Gustaf Skarsgård"
+    },
+    {
+     "c": "Caroline",
+     "n": "Aliette Opheim"
+    },
+    {
+     "c": "Ossi",
+     "n": "Filip Berg"
+    },
+    {
+     "c": "Kina",
+     "n": "Josephine Bornebusch"
+    },
+    {
+     "c": "Jacob",
+     "n": "Jonas Karlsson"
+    },
+    {
+     "c": "Nicholas",
+     "n": "Johan Rheborg"
+    },
+    {
+     "c": "Stefan",
+     "n": "Henrik Dorsin"
+    },
+    {
+     "c": "Henrik Müller",
+     "n": "Christopher Wagelin"
+    },
+    {
+     "c": "Ninni",
+     "n": "Sara Shirpey"
+    },
+    {
+     "c": "Nattis",
+     "n": "Gizem Erdogan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Josephine Bornebusch"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1623256,
+   "industry": "world",
+   "origin_country": [
+    "SE"
+   ],
+   "original_language": "sv",
+   "overview": "When a storm traps old university pals at a luxury lodge, their civilized birthday bash spirals into a cyclone of betrayals, grudges and unfiltered chaos.",
+   "popularity": 6.1556,
+   "poster_path": "/5YNjTi5AhbSM4hDOynJcgFfvKRn.jpg",
+   "production_countries": [
+    "SE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-15",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Storm",
+   "trailer": {
+    "key": "Zfb-62tjT_Y",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.073,
+   "vote_count": 62
+  },
+  "movie:1633056": {
+   "backdrop_path": "/aazqIVNIqgRp3YwUNv5nEhdJE0T.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Zhongli Quan (voice)",
+     "n": "Chen Hao"
+    },
+    {
+     "c": "Lü Dongbin (voice)",
+     "n": "Li Shaozhe"
+    },
+    {
+     "c": "He Xiangu (voice)",
+     "n": "Lidong"
+    },
+    {
+     "c": "Iron-Crutch Li (voice)",
+     "n": "Huang Guo"
+    },
+    {
+     "c": "Han Xiangzi (voice)",
+     "n": "Dong Tianyi"
+    },
+    {
+     "c": "Han Xiangzi (voice)",
+     "n": "Yu Pengli"
+    },
+    {
+     "c": "Han Xiangzi (voice)",
+     "n": "Huang Yushuo"
+    },
+    {
+     "c": "Cao Guojiu (voice)",
+     "n": "Zhang Yunqi"
+    },
+    {
+     "c": "Zhang Guolao (voice)",
+     "n": "Deng Xiansen"
+    },
+    {
+     "c": "Lan Caihe (voice)",
+     "n": "Cao Zhishan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12A",
+   "date_kind": "release",
+   "director": [
+    "Mu Zhengyang"
+   ],
+   "genres": [
+    "Comedy",
+    "Animation",
+    "Fantasy",
+    "Adventure"
+   ],
+   "id": 1633056,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "Eight grassroot mortals use their street smarts and hilarious schemes to defy powerful gods, earning their title as the Eight Immortals.",
+   "popularity": 11.7741,
+   "poster_path": "/wJ9FLxq3Q6D4ve8TUepYsr0PL3p.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-18",
+   "revenue": 208328000,
+   "runtime": 143,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "All Wishes Come True!",
+   "trailer": {
+    "key": "mvpFrJ5O2Ww",
+    "name": "International Ultimate Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.0,
+   "vote_count": 38
+  },
+  "movie:1698856": {
+   "backdrop_path": "/uOQtyMV2G9yJvc0s14zmLoRC5H9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Prince Eli",
+     "n": "Matthew Gademske"
+    },
+    {
+     "c": "Ella",
+     "n": "Morgan Flanagan"
+    },
+    {
+     "c": "Chancellor Faurtax",
+     "n": "Krymis J Fernando"
+    },
+    {
+     "c": "Gunnar",
+     "n": "Antonio Valles"
+    },
+    {
+     "c": "Samara",
+     "n": "Telisha Johnson"
+    },
+    {
+     "c": "Sevryn",
+     "n": "Llana Barron"
+    },
+    {
+     "c": "King Walter",
+     "n": "Jim O'Brien"
+    },
+    {
+     "c": "Atrious",
+     "n": "Bryan Barron"
+    },
+    {
+     "c": "Wynne",
+     "n": "Bryan J Mangam"
+    },
+    {
+     "c": "Rik",
+     "n": "Leo Christopher Sheridan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Marcel Walz"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Fantasy"
+   ],
+   "id": 1698856,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young man must use his untapped powers to fight back against an evil alien and their army, who will stop at nothing to take over Earth and then the universe.",
+   "popularity": 7.828,
+   "poster_path": "/a77OcLmarwiBJakOPPC36m58t4L.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-22",
+   "revenue": 0,
+   "runtime": 140,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "He's the Man.",
+   "title": "Master of the Universe",
+   "trailer": {
+    "key": "CmuEqjuzxWc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.123,
+   "vote_count": 102
   },
   "movie:31056": {
    "backdrop_path": "/mvPL6z8QFhmk67n6o7sNmU2J1fd.jpg",

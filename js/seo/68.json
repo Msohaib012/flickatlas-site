@@ -1,6 +1,6 @@
 {
  "bucket": "68",
- "count": 13,
+ "count": 22,
  "titles": {
   "movie:11068": {
    "d": "Singles (1992): Romance/Comedy film. Story: A group of young adults in their twenties, who share… See cast and TMDB rating 6.4/10.",
@@ -66,6 +66,133 @@
    "t": "Singles (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1992"
   },
+  "movie:1306368": {
+   "d": "The Rip (2026): Action/Thriller film. Story: Trust frays when a team of Miami cops discovers… See cast, budget $100M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kwNIQW7egAmI66sb0zIugMbpCfU.jpg",
+   "industry": "world",
+   "k": "The Rip, The Rip movie, The Rip cast, The Rip story, The Rip box office collection, The Rip budget, The Rip review, The Rip rating, The Rip release date, The Rip trailer, The Rip Action, The Rip Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Matt Damon"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Affleck"
+     },
+     {
+      "@type": "Person",
+      "name": "Teyana Taylor"
+     },
+     {
+      "@type": "Person",
+      "name": "Steven Yeun"
+     },
+     {
+      "@type": "Person",
+      "name": "Catalina Sandino Moreno"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 2070,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Rip (2026): Action/Thriller film. Story: Trust frays when a team of Miami cops discovers… See cast, budget $100M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joe Carnahan"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kwNIQW7egAmI66sb0zIugMbpCfU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1306368",
+    "name": "The Rip",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1306368"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Rip (2026)</h1>\n<p class=\"ssr-lead\">Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 January 2026</li><li>Runtime: 113 minutes</li><li>Director: Joe Carnahan</li><li>Genres: Action, Thriller, Crime</li><li>Budget: $100M</li><li>TMDB rating: 7.1/10 (2070 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Matt Damon as Lieutenant Dane Dumars</li><li>Ben Affleck as Detective Sergeant J.D. Byrne</li><li>Teyana Taylor as Detective Numa Baptistie</li><li>Steven Yeun as Detective Mike Ro</li><li>Catalina Sandino Moreno as Detective Lolo Salazar</li><li>Sasha Calle as Desiree &#x27;Desi&#x27; Lopez Molina</li><li>Kyle Chandler as DEA Agent Mateo &#x27;Matty&#x27; Nix</li><li>Scott Adkins as FBI Agent Del Byrne</li><li>Daisuke Tsuji as FBI Agent Logan Casiano</li><li>Nestor Carbonell as Major Thom Vallejo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Rip (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1396368": {
+   "d": "A Son (2026): Drama film. Story: Maria, an inexperienced school psychologist, senses… See cast, TMDB rating 8.2/10, and release date 15 May 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/tlAT4zOqxGv0MCkDvuxJDx3nvKK.jpg",
+   "industry": "world",
+   "k": "A Son, A Son movie, A Son cast, A Son story, A Son box office collection, A Son budget, A Son review, A Son rating, A Son release date, A Son trailer, A Son Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Macarena García"
+     },
+     {
+      "@type": "Person",
+      "name": "Ian Cortegoso"
+     },
+     {
+      "@type": "Person",
+      "name": "Hugo Silva"
+     },
+     {
+      "@type": "Person",
+      "name": "Jesús Carroza"
+     },
+     {
+      "@type": "Person",
+      "name": "Javier Aguayo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 21,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "A Son (2026): Drama film. Story: Maria, an inexperienced school psychologist, senses… See cast, TMDB rating 8.2/10, and release date 15 May 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nacho La Casa"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tlAT4zOqxGv0MCkDvuxJDx3nvKK.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1396368",
+    "name": "A Son",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1396368"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Son (2026)</h1>\n<p class=\"ssr-lead\">Maria, an inexperienced school psychologist, senses that behind the apparent happiness of an eight-year-old boy, who has just arrived at the school, lies a secret, the consequences of which are unpredictable. If she is to find out, she will have to decipher what Guille’s mind translates into drawings, as well as overcoming his father’s intransigence.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 May 2026</li><li>Runtime: 95 minutes</li><li>Director: Nacho La Casa</li><li>Genres: Drama</li><li>TMDB rating: 8.2/10 (21 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Macarena García as María</li><li>Ian Cortegoso as Guille</li><li>Hugo Silva as Manuel</li><li>Jesús Carroza as Roberto</li><li>Javier Aguayo as Paco</li><li>Chema del Barco as Emilio</li><li>Silvia Larrauri as Secretaria</li><li>Daniel Mantero as Fernando</li><li>Esther Noya as Alicia</li><li>Eva Tirado as Amelia</li></ul>\n</article>",
+   "t": "A Son (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:14168": {
    "d": "3:10 to Yuma (1957): Western/Drama film. Story: Dan Evans, a small time farmer, is hired to escort… See cast and TMDB rating 7.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/7B26BW9ec2atiGwCkJJZ5POR4wC.jpg",
@@ -129,6 +256,452 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>3:10 to Yuma (1957)</h1>\n<p class=\"ssr-lead\">Dan Evans, a small time farmer, is hired to escort Ben Wade, a dangerous outlaw, to Yuma. As Evans and Wade wait for the 3:10 train to Yuma, Wade&#x27;s gang is racing to free him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 August 1957</li><li>Runtime: 92 minutes</li><li>Director: Delmer Daves</li><li>Genres: Western, Drama, Thriller</li><li>TMDB rating: 7.3/10 (449 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Glenn Ford as Ben Wade</li><li>Van Heflin as Dan Evans</li><li>Felicia Farr as Emmy</li><li>Leora Dana as Mrs. Alice Evans</li><li>Henry Jones as Alex Potter</li><li>Richard Jaeckel as Charlie Prince</li><li>Robert Emhardt as Mr. Butterfield</li><li>Sheridan Comerate as Bob Moons</li><li>George Mitchell as Bartender</li><li>Robert Ellenstein as Ernie Collins</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Pictures Core Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "3:10 to Yuma (1957) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1957"
+  },
+  "movie:1431068": {
+   "d": "Main Vaapas Aaunga (2026): Romance/Drama film. Story: Haunted by a childhood romance and recollections of… See cast, budget $7.3M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/v4tFlu2kFJGumXHONjTe4FgzTFS.jpg",
+   "industry": "bollywood",
+   "k": "Main Vaapas Aaunga, Main Vaapas Aaunga movie, Main Vaapas Aaunga cast, Main Vaapas Aaunga story, Main Vaapas Aaunga box office collection, Main Vaapas Aaunga budget, Main Vaapas Aaunga review, Main Vaapas Aaunga rating, Main Vaapas Aaunga release date, Main Vaapas Aaunga Romance, Main Vaapas Aaunga Drama, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Naseeruddin Shah"
+     },
+     {
+      "@type": "Person",
+      "name": "Vedang Raina"
+     },
+     {
+      "@type": "Person",
+      "name": "Sharvari"
+     },
+     {
+      "@type": "Person",
+      "name": "Diljit Dosanjh"
+     },
+     {
+      "@type": "Person",
+      "name": "Anjana Sukhani"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 29,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Main Vaapas Aaunga (2026): Romance/Drama film. Story: Haunted by a childhood romance and recollections of… See cast, budget $7.3M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Imtiaz Ali"
+     }
+    ],
+    "duration": "PT167M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/v4tFlu2kFJGumXHONjTe4FgzTFS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1431068",
+    "name": "Main Vaapas Aaunga",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1431068"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Main Vaapas Aaunga (2026)</h1>\n<p class=\"ssr-lead\">Haunted by a childhood romance and recollections of love lost during the 1947 Partition of India, 95-year-old Ishar Singh Grewal shares his story with his grandson Nirvair, the past unfolding through memories of migration, longing, and a romance that endures across generations.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 June 2026</li><li>Runtime: 167 minutes</li><li>Director: Imtiaz Ali</li><li>Genres: Romance, Drama, Mystery</li><li>Budget: $7.3M</li><li>TMDB rating: 7.2/10 (29 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Naseeruddin Shah as Ishar Singh Grewal</li><li>Vedang Raina as Young Ishar / &#x27;Keenu&#x27;</li><li>Sharvari as Afsana Hasan / &#x27;Jiya&#x27;</li><li>Diljit Dosanjh as Nirvair Grewal</li><li>Anjana Sukhani as Meher Grewal</li><li>Rajat Kapoor as Iqbal Grewal</li><li>Danish Pandor as Afzal</li><li>Vinod Nagpal as Kirpal / &#x27;Pali&#x27;</li><li>Banita Sandhu as Kaveri</li><li>Dolly Ahluwalia as Dadi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Main Vaapas Aaunga (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1471168": {
+   "d": "Barreda (2026): Drama/Crime film. Story: A fictionalized drama film based on one of the most… See cast, TMDB rating 7.2/10, and release date 28 August 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/4pXBWLKMew7Xmtq3OgMQxTHp060.jpg",
+   "industry": "world",
+   "k": "Barreda, Barreda movie, Barreda cast, Barreda story, Barreda box office collection, Barreda budget, Barreda review, Barreda rating, Barreda release date, Barreda trailer, Barreda Drama, Barreda Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Luis Machín"
+     },
+     {
+      "@type": "Person",
+      "name": "Carla Peterson"
+     },
+     {
+      "@type": "Person",
+      "name": "Mercedes Morán"
+     },
+     {
+      "@type": "Person",
+      "name": "Maite Lanata"
+     },
+     {
+      "@type": "Person",
+      "name": "Margarita Páez"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 101,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Barreda (2026): Drama/Crime film. Story: A fictionalized drama film based on one of the most… See cast, TMDB rating 7.2/10, and release date 28 August 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Daniela Goggi"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4pXBWLKMew7Xmtq3OgMQxTHp060.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1471168",
+    "name": "Barreda",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1471168"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Barreda (2026)</h1>\n<p class=\"ssr-lead\">A fictionalized drama film based on one of the most shocking crimes in Argentina&#x27;s history. In 1992, Ricardo Barreda was an unassuming dentist, brutally murdered his wife, mother-in-law, and two adult daughters in their family home. Branding himself as a victim, Ricardo Barreda ignited a media storm and fueled a national scandal.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 August 2026</li><li>Runtime: 105 minutes</li><li>Director: Daniela Goggi</li><li>Genres: Drama, Crime, History</li><li>TMDB rating: 7.2/10 (101 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Luis Machín as Ricardo Barreda</li><li>Carla Peterson as Gladys McDonald</li><li>Mercedes Morán as Elena Arreche</li><li>Maite Lanata as Cecilia Barreda</li><li>Margarita Páez as Adriana Barreda</li><li>Marcelo Subiotto as Dr. Caceres</li><li>Paola Barrientos as Pirucha</li><li>Alberto Ajaka as Fiscal Roitman</li><li>Franco Rilla as Gastón</li><li>Christian Font as Periodista tribunales 2</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Barreda (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1482168": {
+   "d": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel (2026): Documentary/Music film. Story: Explore the formative years of the Red Hot Chili… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/eUDjpW2wQg2fvSFDohhkIZkjnFw.jpg",
+   "industry": "world",
+   "k": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel, The Rise of the Red Hot Chili Peppers: Our Brother, Hillel movie, The Rise of the Red Hot Chili Peppers: Our Brother, Hillel cast, The Rise of the Red Hot Chili Peppers: Our Brother, Hillel story, The Rise of the Red Hot Chili Peppers: Our Brother, Hillel box office collection, The Rise of the Red Hot Chili Peppers: Our Brother, Hillel budget, The Rise of the Red Hot Chili Peppers: Our Brother, Hillel review, The Rise of the Red Hot Chili Peppers: Our Brother, Hillel rating, The Rise of the Red Hot Chili Peppers: Our Brother, Hillel release date, The Rise of the Red Hot Chili Peppers: Our Brother, Hillel trailer, The Rise of the Red Hot Chili Peppers: Our Brother, Hillel Documentary, The Rise of the Red Hot Chili Peppers: Our Brother, Hillel Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hillel Slovak"
+     },
+     {
+      "@type": "Person",
+      "name": "Anthony Kiedis"
+     },
+     {
+      "@type": "Person",
+      "name": "Flea"
+     },
+     {
+      "@type": "Person",
+      "name": "Alain Johannes"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Irons"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 51,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel (2026): Documentary/Music film. Story: Explore the formative years of the Red Hot Chili… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ben Feldman"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Documentary",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eUDjpW2wQg2fvSFDohhkIZkjnFw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1482168",
+    "name": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1482168"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Rise of the Red Hot Chili Peppers: Our Brother, Hillel (2026)</h1>\n<p class=\"ssr-lead\">Explore the formative years of the Red Hot Chili Peppers and the profound influence of original bandmate Hillel Slovak.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 March 2026</li><li>Runtime: 95 minutes</li><li>Director: Ben Feldman</li><li>Genres: Documentary, Music</li><li>TMDB rating: 7.2/10 (51 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hillel Slovak as Self - Guitar (archive footage)</li><li>Anthony Kiedis as Self</li><li>Flea as Self</li><li>Alain Johannes as Self - Guitar &amp; Vocals</li><li>Jack Irons as Self - Drums</li><li>James Slovak as Self - Hillel&#x27;s Brother</li><li>Gary Allen as Self - Performance Artist</li><li>Addie Brik as Self - Artist</li><li>George Clinton as Self - Record Producer</li><li>Michael Beinhorn as Self - Record Producer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1508168": {
+   "d": "Bethlehem Kudumba Unit (2026): Romance/Comedy film. Story: Ashley's homecoming from abroad takes an emotional… See cast and TMDB rating 8.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zms3m4kVz7RXmobU1B0nhrvUEmP.jpg",
+   "industry": "bollywood",
+   "k": "Bethlehem Kudumba Unit, Bethlehem Kudumba Unit movie, Bethlehem Kudumba Unit cast, Bethlehem Kudumba Unit story, Bethlehem Kudumba Unit box office collection, Bethlehem Kudumba Unit budget, Bethlehem Kudumba Unit review, Bethlehem Kudumba Unit rating, Bethlehem Kudumba Unit release date, Bethlehem Kudumba Unit Romance, Bethlehem Kudumba Unit Comedy, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nivin Pauly"
+     },
+     {
+      "@type": "Person",
+      "name": "Mamitha Baiju"
+     },
+     {
+      "@type": "Person",
+      "name": "Sangeeth Prathap"
+     },
+     {
+      "@type": "Person",
+      "name": "Suresh Krishna"
+     },
+     {
+      "@type": "Person",
+      "name": "Bindu Panicker"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 44,
+     "ratingValue": 8.3,
+     "worstRating": 0
+    },
+    "description": "Bethlehem Kudumba Unit (2026): Romance/Comedy film. Story: Ashley's homecoming from abroad takes an emotional… See cast and TMDB rating 8.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Girish A. D."
+     }
+    ],
+    "duration": "PT155M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zms3m4kVz7RXmobU1B0nhrvUEmP.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1508168",
+    "name": "Bethlehem Kudumba Unit",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1508168"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bethlehem Kudumba Unit (2026)</h1>\n<p class=\"ssr-lead\">Ashley&#x27;s homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 August 2026</li><li>Runtime: 155 minutes</li><li>Director: Girish A. D.</li><li>Genres: Romance, Comedy, Drama</li><li>TMDB rating: 8.3/10 (44 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nivin Pauly as Justin Davis</li><li>Mamitha Baiju as Ashley Thankachan</li><li>Sangeeth Prathap as Joel Davis</li><li>Suresh Krishna as Baiju Xavier</li><li>Bindu Panicker as Kunjanty</li><li>Vinay Forrt as Alex</li><li>Shyam Mohan as Hari</li><li>Srindaa as Reshma</li><li>Roshan Shanavas as Glikson</li><li>Shameer Khan as Brinto</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Bethlehem Kudumba Unit (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1558568": {
+   "d": "Go Team! (2026): Comedy film. Story: When their team-building event gets downgraded to a… See cast, TMDB rating 5.5/10, and release date 11 September 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
+   "industry": "world",
+   "k": "Go Team!, Go Team! movie, Go Team! cast, Go Team! story, Go Team! box office collection, Go Team! budget, Go Team! review, Go Team! rating, Go Team! release date, Go Team! trailer, Go Team! Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alexandra Jiménez"
+     },
+     {
+      "@type": "Person",
+      "name": "Maribel Verdú"
+     },
+     {
+      "@type": "Person",
+      "name": "Pedro Casablanc"
+     },
+     {
+      "@type": "Person",
+      "name": "Raúl Tejón"
+     },
+     {
+      "@type": "Person",
+      "name": "Blanca Martínez"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 55,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "Go Team! (2026): Comedy film. Story: When their team-building event gets downgraded to a… See cast, TMDB rating 5.5/10, and release date 11 September 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Diego Núñez Irigoyen"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1558568",
+    "name": "Go Team!",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1558568"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Go Team! (2026)</h1>\n<p class=\"ssr-lead\">When their team-building event gets downgraded to a tiny village, a cheese company&#x27;s staff think it can&#x27;t get worse — then they learn about the layoffs.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 September 2026</li><li>Runtime: 93 minutes</li><li>Director: Diego Núñez Irigoyen</li><li>Genres: Comedy</li><li>TMDB rating: 5.5/10 (55 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alexandra Jiménez as Olga</li><li>Maribel Verdú as Pepa</li><li>Pedro Casablanc as Domingo</li><li>Raúl Tejón as Marco</li><li>Blanca Martínez as Laura</li><li>Victor Rebull as Sergio</li><li>Pepe Viyuela as Padilla</li><li>Saturnino García as Aldo Mochales</li><li>Ismael Fritschi as Parrondo</li><li>Clara de Ramon as Natalia</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Go Team! (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1643768": {
+   "d": "Il mio nome è Carlo (2026): Drama/TV Movie film. Story: The movie traces three key moments: the six-year-old… See cast and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yOkXnvEWxm7TVBeutGXJXWzwdfe.jpg",
+   "industry": "world",
+   "k": "Il mio nome è Carlo, Il mio nome è Carlo movie, Il mio nome è Carlo cast, Il mio nome è Carlo story, Il mio nome è Carlo box office collection, Il mio nome è Carlo budget, Il mio nome è Carlo review, Il mio nome è Carlo rating, Il mio nome è Carlo release date, Il mio nome è Carlo Drama, Il mio nome è Carlo TV Movie, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Samuele Carrino"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicolò Caruz Jaramillo"
+     },
+     {
+      "@type": "Person",
+      "name": "Edoardo Vitalone"
+     },
+     {
+      "@type": "Person",
+      "name": "Lucia Mascino"
+     },
+     {
+      "@type": "Person",
+      "name": "Flavio Parenti"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 25,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Il mio nome è Carlo (2026): Drama/TV Movie film. Story: The movie traces three key moments: the six-year-old… See cast and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Giacomo Campiotti"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Drama",
+     "TV Movie"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yOkXnvEWxm7TVBeutGXJXWzwdfe.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1643768",
+    "name": "Il mio nome è Carlo",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1643768"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Il mio nome è Carlo (2026)</h1>\n<p class=\"ssr-lead\">The movie traces three key moments: the six-year-old boy, already driven by an extraordinary spiritual sensitivity; the eleven-year-old boy, curious and brilliant; and the fifteen-year-old in his first year of high school, self-aware and determined, capable of approaching everyday life with an extraordinary outlook.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 September 2026</li><li>Runtime: 108 minutes</li><li>Director: Giacomo Campiotti</li><li>Genres: Drama, TV Movie</li><li>TMDB rating: 6.0/10 (25 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Samuele Carrino as Carlo Acutis</li><li>Nicolò Caruz Jaramillo as Carlo Acutis a 6 anni</li><li>Edoardo Vitalone as Carlo Acutis a 11 anni</li><li>Lucia Mascino as Antonia Salzano</li><li>Flavio Parenti as Andrea Acutis</li><li>Brayan Palliyagoda as Rajesh</li><li>Maurizio Donadoni as Parroco</li><li>Nicky Passarella as Sofia</li><li>Niccolò Festini Mira as Alessio</li><li>Stefano Massari as Ricki</li></ul>\n</article>",
+   "t": "Il mio nome è Carlo (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1645368": {
+   "d": "Forsaken (2026): Drama film. Story: Everyone knows the name of Samuel Paty, but few… See cast, TMDB rating 7.5/10, and release date 13 May 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/37LuuL6AFYr6vj0EOTpev9pJMi3.jpg",
+   "industry": "world",
+   "k": "Forsaken, Forsaken movie, Forsaken cast, Forsaken story, Forsaken box office collection, Forsaken budget, Forsaken review, Forsaken rating, Forsaken release date, Forsaken Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Antoine Reinartz"
+     },
+     {
+      "@type": "Person",
+      "name": "Emmanuelle Bercot"
+     },
+     {
+      "@type": "Person",
+      "name": "Nedjim Bouizzoul"
+     },
+     {
+      "@type": "Person",
+      "name": "Emma Boumali"
+     },
+     {
+      "@type": "Person",
+      "name": "Azize Kabouche"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 73,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Forsaken (2026): Drama film. Story: Everyone knows the name of Samuel Paty, but few… See cast, TMDB rating 7.5/10, and release date 13 May 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Vincent Garenq"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/37LuuL6AFYr6vj0EOTpev9pJMi3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1645368",
+    "name": "Forsaken",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1645368"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Forsaken (2026)</h1>\n<p class=\"ssr-lead\">Everyone knows the name of Samuel Paty, but few people really know his story. On October 16, 2020, Samuel Paty, professor of History-Geography, was murdered at the end of his college. In the light of investigations and trials, this film looks back on his last eleven days, and the gear that led to his tragic death.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 May 2026</li><li>Runtime: 100 minutes</li><li>Director: Vincent Garenq</li><li>Genres: Drama</li><li>TMDB rating: 7.5/10 (73 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Antoine Reinartz as Samuel Paty</li><li>Emmanuelle Bercot as Audrey Fouillard</li><li>Nedjim Bouizzoul as Kader Saïdi</li><li>Emma Boumali as Bachira Saïdi</li><li>Azize Kabouche as Tahar Amara</li><li>Marie-Sohna Condé as Firmine, la gardienne</li><li>Jean-Michel Lahmi as Guislain</li><li>Nhoa François as Madou</li><li>Marwan Zeghoudi as Karim</li><li>Etienne Guillou-Kervern as Wandel</li></ul>\n</article>",
+   "t": "Forsaken (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:25468": {
    "d": "My Dinner with Andre (1981): Drama/Comedy film. Story: Wally, a struggling playwright and actor, reluctantly… See cast, budget $475.0k, and TMDB rating 7.5/10.",

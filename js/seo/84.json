@@ -1,6 +1,6 @@
 {
  "bucket": "84",
- "count": 22,
+ "count": 30,
  "titles": {
   "movie:10384": {
    "d": "Supernova (2000): Science Fiction/Horror film. Story: Set in the 22nd century, when a battered salvage ship… See cast, budget $90M, and TMDB rating 5.0/10.",
@@ -129,6 +129,198 @@
    "t": "The ComDads (1983) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1983"
   },
+  "movie:1083884": {
+   "d": "Signal One (2026): Science Fiction/TV Movie film. Story: A computer scientist is invited by a tech billionaire… See cast and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3gN540zmAiJW1v6mFoNiciamxc2.jpg",
+   "industry": "world",
+   "k": "Signal One, Signal One movie, Signal One cast, Signal One story, Signal One box office collection, Signal One budget, Signal One review, Signal One rating, Signal One release date, Signal One trailer, Signal One Science Fiction, Signal One TV Movie, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Isabelle Fuhrman"
+     },
+     {
+      "@type": "Person",
+      "name": "Josh Hutcherson"
+     },
+     {
+      "@type": "Person",
+      "name": "David Thewlis"
+     },
+     {
+      "@type": "Person",
+      "name": "Dennis Quaid"
+     },
+     {
+      "@type": "Person",
+      "name": "Vanessa Smythe"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 98,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Signal One (2026): Science Fiction/TV Movie film. Story: A computer scientist is invited by a tech billionaire… See cast and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jonathan Sobol"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Science Fiction",
+     "TV Movie"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3gN540zmAiJW1v6mFoNiciamxc2.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1083884",
+    "name": "Signal One",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1083884"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Signal One (2026)</h1>\n<p class=\"ssr-lead\">A computer scientist is invited by a tech billionaire to join his private facility on a Caribbean island to investigate extraterrestrial matter on Earth. When they make contact beyond our world, chaos erupts as we’re left to wonder: do they come in peace?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 June 2026</li><li>Runtime: 87 minutes</li><li>Director: Jonathan Sobol</li><li>Genres: Science Fiction, TV Movie, Action</li><li>TMDB rating: 6.0/10 (98 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Isabelle Fuhrman as Annika</li><li>Josh Hutcherson as Charlie</li><li>David Thewlis as Perry</li><li>Dennis Quaid as Sam Houston</li><li>Vanessa Smythe as Mother</li><li>Kiera Allen</li><li>Raoul Bhaneja</li><li>Ronnie James Hughes</li><li>Adam Moryto</li><li>Beatrice Schneider as Young Klara</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Signal One (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1127384": {
+   "d": "Deep Water (2026): Horror/Thriller film. Story: A group of international passengers on a flight from… See cast, budget $40M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/szKv713FcUXx6hcfdY369vtkmzr.jpg",
+   "industry": "world",
+   "k": "Deep Water, Deep Water movie, Deep Water cast, Deep Water story, Deep Water box office collection, Deep Water budget, Deep Water review, Deep Water rating, Deep Water release date, Deep Water trailer, Deep Water Horror, Deep Water Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Aaron Eckhart"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Kingsley"
+     },
+     {
+      "@type": "Person",
+      "name": "Molly Belle Wright"
+     },
+     {
+      "@type": "Person",
+      "name": "Angus Sampson"
+     },
+     {
+      "@type": "Person",
+      "name": "Elijah Tamati"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 747,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Deep Water (2026): Horror/Thriller film. Story: A group of international passengers on a flight from… See cast, budget $40M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Renny Harlin"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/szKv713FcUXx6hcfdY369vtkmzr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1127384",
+    "name": "Deep Water",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1127384"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Deep Water (2026)</h1>\n<p class=\"ssr-lead\">A group of international passengers on a flight from Los Angeles to Shanghai is forced to make an emergency landing in shark-infested waters. The terrified group is forced to work together and overcome their differences if they hope to escape their sinking plane and the frenzy of sharks drawn to the wreckage.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 April 2026</li><li>Runtime: 107 minutes</li><li>Director: Renny Harlin</li><li>Genres: Horror, Thriller, Adventure</li><li>Budget: $40M</li><li>TMDB rating: 7.3/10 (747 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aaron Eckhart as Ben</li><li>Ben Kingsley as Rich</li><li>Molly Belle Wright as Cora</li><li>Angus Sampson as Dan</li><li>Elijah Tamati as Finn</li><li>Zhao Simei as Lilly</li><li>Li Wenhan as Sam</li><li>Nashi as Zoe</li><li>Richard Crouchley as Matt</li><li>Madeleine West as Martine</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM+ Amazon Channel, Philo, MGM Plus Roku Premium Channel, MGM Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Deep Water (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1179684": {
+   "d": "Amsterdamned II (2025): Action/Thriller film. Story: After 37 years, the canals of Amsterdam are once… See cast, budget $10.67M, and TMDB rating 5.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qV3NFmHbLiYYNBiPaG2v2iZWGM.jpg",
+   "industry": "world",
+   "k": "Amsterdamned II, Amsterdamned II movie, Amsterdamned II cast, Amsterdamned II story, Amsterdamned II box office collection, Amsterdamned II budget, Amsterdamned II review, Amsterdamned II rating, Amsterdamned II release date, Amsterdamned II Action, Amsterdamned II Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Huub Stapel"
+     },
+     {
+      "@type": "Person",
+      "name": "Holly Mae Brood"
+     },
+     {
+      "@type": "Person",
+      "name": "Tatum Dagelet"
+     },
+     {
+      "@type": "Person",
+      "name": "Bas Keijzer"
+     },
+     {
+      "@type": "Person",
+      "name": "Ruben Brinkman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 47,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "Amsterdamned II (2025): Action/Thriller film. Story: After 37 years, the canals of Amsterdam are once… See cast, budget $10.67M, and TMDB rating 5.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Dick Maas"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qV3NFmHbLiYYNBiPaG2v2iZWGM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1179684",
+    "name": "Amsterdamned II",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1179684"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Amsterdamned II (2025)</h1>\n<p class=\"ssr-lead\">After 37 years, the canals of Amsterdam are once again turning blood red. Tara Lee is a young ambitious detective with the Amsterdam police force who is confronted by a number of gruesome incidents around the canals. She enlists the help of Visser, a retired detective who once nabbed a serial killer stalking those same canals. They face an adversary who seems to possess superhuman powers.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 December 2025</li><li>Runtime: 110 minutes</li><li>Director: Dick Maas</li><li>Genres: Action, Thriller, Horror</li><li>Budget: $10.67M</li><li>TMDB rating: 5.5/10 (47 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Huub Stapel as Eric Visser</li><li>Holly Mae Brood as Tara Lee</li><li>Tatum Dagelet as Anneke Visser</li><li>Bas Keijzer as Jozef Visbeen</li><li>Ruben Brinkman</li><li>Lesley Grant as Jane</li><li>Pierre Bokma</li><li>Florence Vos Weeda as Sandra</li><li>Julian Cruiming as Getuige</li><li>Steef Cuijpers as Mick van den Berg</li></ul>\n</article>",
+   "t": "Amsterdamned II (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
   "movie:1198984": {
    "d": "We Bury the Dead (2026): Horror/Thriller film. Story: After a catastrophic military disaster reanimates the… See cast and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/vbkW4KerpshPZnP84w9qwSfYrhu.jpg",
@@ -191,6 +383,69 @@
    "published": "2026-11-13",
    "ssr": "<article class=\"ssr-facts\">\n<h1>We Bury the Dead (2026)</h1>\n<p class=\"ssr-lead\">After a catastrophic military disaster reanimates the dead, Ava searches for her missing husband amidst an increasingly hostile world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 January 2026</li><li>Runtime: 95 minutes</li><li>Director: Zak Hilditch</li><li>Genres: Horror, Thriller</li><li>TMDB rating: 6.1/10 (439 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Daisy Ridley as Ava</li><li>Brenton Thwaites as Clay</li><li>Mark Coles Smith as Riley</li><li>Matt Whelan as Mitch</li><li>Chloe Hurst as Katie Harris</li><li>Kym Jackson as Lt. Wilkie</li><li>Holly Hargreaves as Mrs. Smith</li><li>Deanna Cooney as Bianca</li><li>Elijah Williams as Greg</li><li>Salme Geransar as Private Clarkson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "We Bury the Dead (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1217584": {
+   "d": "Torrente for President (2026): Comedy film. Story: Years have passed since his last adventure, but José… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1I6QPJ2s6lch1WYO54Cv2j2Y8Z4.jpg",
+   "industry": "world",
+   "k": "Torrente for President, Torrente for President movie, Torrente for President cast, Torrente for President story, Torrente for President box office collection, Torrente for President budget, Torrente for President review, Torrente for President rating, Torrente for President release date, Torrente for President Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Santiago Segura"
+     },
+     {
+      "@type": "Person",
+      "name": "Gabino Diego"
+     },
+     {
+      "@type": "Person",
+      "name": "Carlos Areces"
+     },
+     {
+      "@type": "Person",
+      "name": "Ramón Langa"
+     },
+     {
+      "@type": "Person",
+      "name": "Francisco Nicolás"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 162,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Torrente for President (2026): Comedy film. Story: Years have passed since his last adventure, but José… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Santiago Segura"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1I6QPJ2s6lch1WYO54Cv2j2Y8Z4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1217584",
+    "name": "Torrente for President",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1217584"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Torrente for President (2026)</h1>\n<p class=\"ssr-lead\">Years have passed since his last adventure, but José Luis Torrente, the most politically incorrect former cop in Spain, still sees himself as a national hero.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 March 2026</li><li>Runtime: 103 minutes</li><li>Director: Santiago Segura</li><li>Genres: Comedy</li><li>TMDB rating: 6.1/10 (162 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Santiago Segura as José Luis Torrente</li><li>Gabino Diego as Cuco</li><li>Carlos Areces as Pelayo</li><li>Ramón Langa as Jacobo Carrascal</li><li>Francisco Nicolás as Franki</li><li>Willy Bárcenas as Santi</li><li>Cañita Brava as Antoñito</li><li>José María Rubio as Manolito</li><li>Xavier Deltell as Torrelavega</li><li>David Guapo as David</li></ul>\n</article>",
+   "t": "Torrente for President (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
   "movie:13384": {
@@ -256,6 +511,202 @@
    "t": "Kes (1970) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1970"
   },
+  "movie:1356484": {
+   "d": "Oh, This Unspeakable Void (2026): Comedy/Drama film. Story: At the age of 20, Joachim is unexpectedly accepted… See cast and TMDB rating 7.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/gPTHVWTLHq8i2KwfGnJpgvcU4Sw.jpg",
+   "industry": "world",
+   "k": "Oh, This Unspeakable Void, Oh, This Unspeakable Void movie, Oh, This Unspeakable Void cast, Oh, This Unspeakable Void story, Oh, This Unspeakable Void box office collection, Oh, This Unspeakable Void budget, Oh, This Unspeakable Void review, Oh, This Unspeakable Void rating, Oh, This Unspeakable Void release date, Oh, This Unspeakable Void Comedy, Oh, This Unspeakable Void Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bruno Alexander"
+     },
+     {
+      "@type": "Person",
+      "name": "Senta Berger"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Wittenborn"
+     },
+     {
+      "@type": "Person",
+      "name": "Laura Tonke"
+     },
+     {
+      "@type": "Person",
+      "name": "Devid Striesow"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 39,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Oh, This Unspeakable Void (2026): Comedy/Drama film. Story: At the age of 20, Joachim is unexpectedly accepted… See cast and TMDB rating 7.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Simon Verhoeven"
+     }
+    ],
+    "duration": "PT137M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gPTHVWTLHq8i2KwfGnJpgvcU4Sw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1356484",
+    "name": "Oh, This Unspeakable Void",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1356484"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Oh, This Unspeakable Void (2026)</h1>\n<p class=\"ssr-lead\">At the age of 20, Joachim is unexpectedly accepted into the renowned acting school in Munich and moves into the villa with his grandparents, Inge and Hermann. Between the bizarre challenges of acting school and the eccentric, mostly alcohol-fueled rituals of his grandparents, Joachim tries to find his place in the world — without knowing what role he actually plays in it.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 January 2026</li><li>Runtime: 137 minutes</li><li>Director: Simon Verhoeven</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 7.7/10 (39 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bruno Alexander as Joachim Meyerhoff</li><li>Senta Berger as Inge Brinkmann</li><li>Michael Wittenborn as Hermann Krings</li><li>Laura Tonke as Mother Iris</li><li>Devid Striesow as Father Richard</li><li>Katharina Stark as Sabrina</li><li>Anne Ratte-Polle as Teacher Gretchen</li><li>Moritz von Treuenfels as Wolf</li><li>Friedrich von Thun as Film Director</li><li>Victoria Trauttmansdorff as Teacher</li></ul>\n</article>",
+   "t": "Oh, This Unspeakable Void (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1365884": {
+   "d": "Call My Agent! The Movie (2026): Comedy/Drama film. Story: Five years after ASK Agency closed, debut director… See cast and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
+   "industry": "world",
+   "k": "Call My Agent! The Movie, Call My Agent! The Movie movie, Call My Agent! The Movie cast, Call My Agent! The Movie story, Call My Agent! The Movie box office collection, Call My Agent! The Movie budget, Call My Agent! The Movie review, Call My Agent! The Movie rating, Call My Agent! The Movie release date, Call My Agent! The Movie trailer, Call My Agent! The Movie Comedy, Call My Agent! The Movie Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Camille Cottin"
+     },
+     {
+      "@type": "Person",
+      "name": "Thibault de Montalembert"
+     },
+     {
+      "@type": "Person",
+      "name": "Grégory Montel"
+     },
+     {
+      "@type": "Person",
+      "name": "Liliane Rovère"
+     },
+     {
+      "@type": "Person",
+      "name": "Fanny Sidney"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 142,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Call My Agent! The Movie (2026): Comedy/Drama film. Story: Five years after ASK Agency closed, debut director… See cast and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Émilie Noblet"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1365884",
+    "name": "Call My Agent! The Movie",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1365884"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Call My Agent! The Movie (2026)</h1>\n<p class=\"ssr-lead\">Five years after ASK Agency closed, debut director Andréa loses her lead actor just days before filming and reunited with her old team — for better or worse.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 August 2026</li><li>Runtime: 117 minutes</li><li>Director: Émilie Noblet</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 6.0/10 (142 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Camille Cottin as Andréa Martel</li><li>Thibault de Montalembert as Mathias Barneville</li><li>Grégory Montel as Gabriel Sarda</li><li>Liliane Rovère as Arlette Azémar</li><li>Fanny Sidney as Camille Valentini</li><li>Laure Calamy as Noémie Leclerc</li><li>Nicolas Maury as Hervé André-Jezak</li><li>Ophélia Kolb as Collette Brancillon</li><li>Anne Marivin as Élise Formain</li><li>Laetitia Casta as Laetitia Casta</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Call My Agent! The Movie (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1404684": {
+   "d": "Just an Illusion (2026): Comedy/Drama film. Story: In 1985 suburban Paris, 12-year-old Vincent lives… See cast and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/l1fhfzNclQcp4oBz550KMY0CTre.jpg",
+   "industry": "world",
+   "k": "Just an Illusion, Just an Illusion movie, Just an Illusion cast, Just an Illusion story, Just an Illusion box office collection, Just an Illusion budget, Just an Illusion review, Just an Illusion rating, Just an Illusion release date, Just an Illusion trailer, Just an Illusion Comedy, Just an Illusion Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Louis Garrel"
+     },
+     {
+      "@type": "Person",
+      "name": "Camille Cottin"
+     },
+     {
+      "@type": "Person",
+      "name": "Simon Boublil"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexis Rosenstiehl"
+     },
+     {
+      "@type": "Person",
+      "name": "Pierre Lottin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 227,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Just an Illusion (2026): Comedy/Drama film. Story: In 1985 suburban Paris, 12-year-old Vincent lives… See cast and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Olivier Nakache"
+     },
+     {
+      "@type": "Person",
+      "name": "Éric Toledano"
+     }
+    ],
+    "duration": "PT119M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/l1fhfzNclQcp4oBz550KMY0CTre.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1404684",
+    "name": "Just an Illusion",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1404684"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Just an Illusion (2026)</h1>\n<p class=\"ssr-lead\">In 1985 suburban Paris, 12-year-old Vincent lives with his distant older brother and quarrelling parents. Amid laughter and unease, he navigates friendship and first love, while beginning to confront the adult world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 April 2026</li><li>Runtime: 119 minutes</li><li>Director: Olivier Nakache, Éric Toledano</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 7.3/10 (227 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Louis Garrel as Yves Dayan</li><li>Camille Cottin as Sandrine Dayan</li><li>Simon Boublil as Vincent Dayan</li><li>Alexis Rosenstiehl as Arnaud Dayan</li><li>Pierre Lottin as Étienne Berger</li><li>Jeanne Lamartine as Anne-Karine</li><li>Rony Kramer as Monsieur Abourmad</li><li>Giorgia Sinicorni as Madame Bernini</li><li>Augusto Fornari as Monsieur Bernini</li><li>Ragnar Le Breton as Prof de judo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Rakuten TV, Amazon Video, Sky Store, BFI Player</li><li>Buy: Apple TV Store, Rakuten TV, Amazon Video, Sky Store</li></ul>\n</article>",
+   "t": "Just an Illusion (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:14684": {
    "d": "School Ties (1992): Drama film. Story: When David Greene receives a football scholarship to… See cast, budget $18M, and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/3WWQtVKOra73bde9ViwOwq1GnsN.jpg",
@@ -318,6 +769,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>School Ties (1992)</h1>\n<p class=\"ssr-lead\">When David Greene receives a football scholarship to a prestigious prep school in the 1950s, he feels pressure to hide the fact that he is Jewish from his classmates and teachers, fearing that they may be anti-Semitic. He quickly becomes the big man on campus thanks to his football skills, but when his Jewish background is discovered, his worst fears are realized and his friends turn on him with violent threats and public ridicule.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 September 1992</li><li>Runtime: 106 minutes</li><li>Director: Robert Mandel</li><li>Genres: Drama</li><li>Budget: $18M</li><li>TMDB rating: 6.5/10 (453 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Brendan Fraser as David Greene</li><li>Matt Damon as Charlie Dillon</li><li>Chris O&#x27;Donnell as Chris Reece</li><li>Randall Batinkoff as Rip Van Kelt</li><li>Andrew Lowery as McGivern</li><li>Cole Hauser as Jack Connors</li><li>Ben Affleck as Chesty Smith</li><li>Anthony Rapp as McGoo</li><li>Amy Locane as Sally Wheeler</li><li>Peter Donat as Headmaster Bartram</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "School Ties (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1992"
+  },
+  "movie:1618784": {
+   "d": "Fight Against Evil 3 (2026): Action/Crime film. Story: Li Hongqi is forced to travel for his wedding but… See cast and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/nkeVH2PCEzs4PjCa8hliAeDjayS.jpg",
+   "industry": "world",
+   "k": "Fight Against Evil 3, Fight Against Evil 3 movie, Fight Against Evil 3 cast, Fight Against Evil 3 story, Fight Against Evil 3 box office collection, Fight Against Evil 3 budget, Fight Against Evil 3 review, Fight Against Evil 3 rating, Fight Against Evil 3 release date, Fight Against Evil 3 Action, Fight Against Evil 3 Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Xie Miao"
+     },
+     {
+      "@type": "Person",
+      "name": "Lin Xiaojie"
+     },
+     {
+      "@type": "Person",
+      "name": "Cui Zhijia"
+     },
+     {
+      "@type": "Person",
+      "name": "Huang Miyi"
+     },
+     {
+      "@type": "Person",
+      "name": "Philip Ng Wan-lung"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 21,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Fight Against Evil 3 (2026): Action/Crime film. Story: Li Hongqi is forced to travel for his wedding but… See cast and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Yang Bingjia"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nkeVH2PCEzs4PjCa8hliAeDjayS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1618784",
+    "name": "Fight Against Evil 3",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1618784"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fight Against Evil 3 (2026)</h1>\n<p class=\"ssr-lead\">Li Hongqi is forced to travel for his wedding but must team up with a local cop to rescue a girl from human traffickers, fighting criminals while racing against his wedding date.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 January 2026</li><li>Runtime: 100 minutes</li><li>Director: Yang Bingjia</li><li>Genres: Action, Crime, Comedy, Drama</li><li>TMDB rating: 6.6/10 (21 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Xie Miao as Li Hongqi</li><li>Lin Xiaojie as Wang Xiuqin</li><li>Cui Zhijia as Sun Biao</li><li>Huang Miyi as Qin Yerong</li><li>Philip Ng Wan-lung as Fishmonger</li><li>Ma Qianyi as Liu Xinxin</li><li>Zhang Lei as Chao Bing</li><li>Feng Yao as Zhao Na</li><li>Tang Jianjun as Zheng Sanpao</li><li>Tian Wa as Tang Hulu</li></ul>\n</article>",
+   "t": "Fight Against Evil 3 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:17684": {
    "d": "Chouchou (2003): Comedy film. Story: Choukri, alias Chouchou, a transvestite Maghrebi with… See cast, TMDB rating 5.3/10, and release date 19 March 2003.",

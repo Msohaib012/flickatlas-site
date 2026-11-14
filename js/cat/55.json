@@ -1,7 +1,156 @@
 {
  "bucket": "55",
- "count": 16,
+ "count": 25,
  "titles": {
+  "movie:1010755": {
+   "backdrop_path": "/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
+   "budget": 8500000,
+   "cast": [
+    {
+     "c": "Maya",
+     "n": "Madelaine Petsch"
+    },
+    {
+     "c": "Sheriff Rotter",
+     "n": "Richard Brake"
+    },
+    {
+     "c": "Shelly / Pinup",
+     "n": "Ema Horvath"
+    },
+    {
+     "c": "Gregory / Scarecrow",
+     "n": "Gabriel Basso"
+    },
+    {
+     "c": "Deputy Walters",
+     "n": "Pedro Leandro"
+    },
+    {
+     "c": "Debbie",
+     "n": "Rachel Shenton"
+    },
+    {
+     "c": "Howard",
+     "n": "George Young"
+    },
+    {
+     "c": "Teenage Gregory / Scarecrow",
+     "n": "Kyle Breitkopf"
+    },
+    {
+     "c": "Teenage Pinup",
+     "n": "Finn Cofell"
+    },
+    {
+     "c": "Dougie",
+     "n": "Stevee Davies"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Renny Harlin"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 1010755,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they’re far from strangers now.",
+   "popularity": 7.1798,
+   "poster_path": "/dWi4D1rUX1Pg4MaafpwwssqJ9lv.jpg",
+   "production_countries": [
+    "GB",
+    "US",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-06",
+   "revenue": 11031947,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pl"
+   ],
+   "status": "Released",
+   "tagline": "Embrace your fears.",
+   "title": "The Strangers: Chapter 3",
+   "trailer": {
+    "key": "B2fZEIHamVs",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.946,
+   "vote_count": 355
+  },
   "movie:1212855": {
    "backdrop_path": "/jDyNnLyJUOsVgseQgkHPRxpyo4o.jpg",
    "budget": 40000000,
@@ -245,6 +394,207 @@
    "vote_average": 5.8,
    "vote_count": 444
   },
+  "movie:1397055": {
+   "backdrop_path": "/mBo1uTuTnc1aim8QIWwIQu4LM8c.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Valerio",
+     "n": "Edoardo Leo"
+    },
+    {
+     "c": "Alessandra",
+     "n": "Claudia Pandolfi"
+    },
+    {
+     "c": "Sebastiano",
+     "n": "Gianmarco Tognazzi"
+    },
+    {
+     "c": "Giacinto",
+     "n": "Giorgio Colangeli"
+    },
+    {
+     "c": "Lavinia",
+     "n": "Benedetta Tiberi"
+    },
+    {
+     "c": "Sestili",
+     "n": "Francesca Alati"
+    },
+    {
+     "c": "Raimondo",
+     "n": "Marco Quaglia"
+    },
+    {
+     "c": "Borgonovo",
+     "n": "Federica Cifola"
+    },
+    {
+     "c": "Barbara",
+     "n": "Alessia Barela"
+    },
+    {
+     "c": "Flavia",
+     "n": "Francesca Figus"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Massimiliano Bruno"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1397055,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "She hates men, he hates complications - but after one passionate night ties them together, these two irreconcilable opposites are forced to coexist... working at the same school, with a baby on the way! Can a staunch feminist and an oblivious chauvinist find common ground?",
+   "popularity": 1.4516,
+   "poster_path": "/iqzJFIm7p64xVnRHLD5FKQM5XcJ.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-22",
+   "revenue": 0,
+   "runtime": 0,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Love In Separate Beds",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 63
+  },
+  "movie:1398655": {
+   "backdrop_path": "/blzqBnnWP8e5Z93t5tccXUrQoSW.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hank Grant",
+     "n": "Reed Birney"
+    },
+    {
+     "c": "Aaron Eagle",
+     "n": "Kieron Moore"
+    },
+    {
+     "c": "Pre-teen (uncredited)",
+     "n": "Turner Beckett"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Elliot Tuttle"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1398655,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Drawn by the promise of easy money and anonymous sex, queer camboy Aaron Eagle is shocked to discover a personal connection with the mysterious stranger who has paid for his company.",
+   "popularity": 15.5481,
+   "poster_path": "/7yqMtaRMPgntGcDtYySv7XfTsDB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-11",
+   "revenue": 0,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Blue Film",
+   "trailer": {
+    "key": "oZI8G4lfbgc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 23
+  },
   "movie:14055": {
    "backdrop_path": "/1aIM2oiOBH5TJsvjcdU6ca9zwQX.jpg",
    "budget": 0,
@@ -353,6 +703,311 @@
    "type": "movie",
    "vote_average": 6.4,
    "vote_count": 468
+  },
+  "movie:1561955": {
+   "backdrop_path": "/7cQjb8cRbRjF5tM5gOCnqsvC0iT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Stephen",
+     "n": "Gomathi Shankar"
+    },
+    {
+     "c": "Seema",
+     "n": "Smruthi Venkat"
+    },
+    {
+     "c": "Michael Thangadurai",
+     "n": "Michael Thangadurai"
+    },
+    {
+     "c": "Stephen's Mom",
+     "n": "Vijayashree"
+    },
+    {
+     "c": "Stephen's Dad",
+     "n": "Kuberan"
+    },
+    {
+     "c": "Krithika",
+     "n": "Shrisha"
+    },
+    {
+     "c": "Mary",
+     "n": "Harija"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Mithun"
+   ],
+   "genres": [
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 1561955,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "ta",
+   "overview": "A psychiatrist evaluating a self-confessed serial killer unravels a twisted web of trauma, deceit, and psychological manipulation—only to question if the killer is truly guilty or just another victim in a larger, darker game.",
+   "popularity": 1.8296,
+   "poster_path": "/yUURUJzeSTc47T2VeNw7nZwZ8VJ.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-05",
+   "revenue": 0,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ta"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Stephen",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 25
+  },
+  "movie:1571955": {
+   "backdrop_path": "/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carla Mencía",
+     "n": "Laia Costa"
+    },
+    {
+     "c": "Pedro",
+     "n": "Karra Elejalde"
+    },
+    {
+     "c": "Ernesto",
+     "n": "Luis Zahera"
+    },
+    {
+     "c": "Tomás",
+     "n": "Tamar Novas"
+    },
+    {
+     "c": "Raúl",
+     "n": "Álvaro Cervantes"
+    },
+    {
+     "c": "Luis",
+     "n": "Lluís Homar"
+    },
+    {
+     "c": "Lola",
+     "n": "Luz Valdenebro"
+    },
+    {
+     "c": "Pablo",
+     "n": "Víctor Duplá"
+    },
+    {
+     "c": "Turrientes",
+     "n": "Jorge Cabrera"
+    },
+    {
+     "c": "Lucía",
+     "n": "Mónica Miranda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Daniel Sánchez Arévalo"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Crime"
+   ],
+   "id": 1571955,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
+   "popularity": 77.3642,
+   "poster_path": "/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-30",
+   "revenue": 0,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Collision Course",
+   "trailer": {
+    "key": "8hVLhaK619k",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.348,
+   "vote_count": 102
+  },
+  "movie:1659155": {
+   "backdrop_path": "/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Martín",
+     "n": "Jose Coronado"
+    },
+    {
+     "c": "Ruth",
+     "n": "Stéphanie Magnin"
+    },
+    {
+     "c": "Lucía",
+     "n": "Fanny Gautier"
+    },
+    {
+     "c": "Arón",
+     "n": "Alberto Olmo"
+    },
+    {
+     "c": "Doctor Velasco",
+     "n": "Israel Ruiz"
+    },
+    {
+     "c": "Berta",
+     "n": "Mabel del Pozo"
+    },
+    {
+     "c": "Rose",
+     "n": "Celine Fortenbacher"
+    },
+    {
+     "c": "Recepcionista Cuartel",
+     "n": "Olaya Lopez"
+    },
+    {
+     "c": "Pedro (Tío)",
+     "n": "Armando Pita"
+    },
+    {
+     "c": "Ruth Niña",
+     "n": "Ana Casado"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Roger Gual"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 1659155,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "After her mother's sudden death, Ruth returns to her hometown and reunites with her father, whose odd behavior makes her question what really happened.",
+   "popularity": 3.2336,
+   "poster_path": "/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-24",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Truthers",
+   "trailer": {
+    "key": "IvL0oT13djs",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.664,
+   "vote_count": 110
   },
   "movie:168055": {
    "backdrop_path": "/mOzQklElA7ZBg3dSniCG7Npot7U.jpg",
@@ -508,6 +1163,307 @@
    "type": "movie",
    "vote_average": 5.955,
    "vote_count": 443
+  },
+  "movie:1699155": {
+   "backdrop_path": "/oGD1dZvojZssnd9Ua6RUalEEHQu.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Mother of Reagan Simmons-Hancock",
+     "n": "Jessica Brookes"
+    },
+    {
+     "c": "Self - Taylor's Boyfriend",
+     "n": "Wade Griffin"
+    },
+    {
+     "c": "Self",
+     "n": "Taylor Parker"
+    },
+    {
+     "c": "Self - Murder victim",
+     "n": "Reagan Simmons-Hancock"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Jessica Dimmock"
+   ],
+   "genres": [
+    "Documentary",
+    "Crime"
+   ],
+   "id": 1699155,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Police pull over a woman who claims she just gave birth. But the baby — and the blood — aren't hers. Twisted lies unravel in this true-crime documentary.",
+   "popularity": 3.1891,
+   "poster_path": "/dOWWCLSwXS1MBtGEFeItbloiUEN.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-11",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Maternal Instinct",
+   "trailer": {
+    "key": "fzW61JgRbNk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.133,
+   "vote_count": 143
+  },
+  "movie:1752355": {
+   "backdrop_path": "/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self (archive footage)",
+     "n": "Michael Schumacher"
+    },
+    {
+     "c": "Self",
+     "n": "Corinna Schumacher"
+    },
+    {
+     "c": "Self",
+     "n": "Flavio Briatore"
+    },
+    {
+     "c": "Self",
+     "n": "Bernie Ecclestone"
+    },
+    {
+     "c": "Self",
+     "n": "David Coulthard"
+    },
+    {
+     "c": "Self",
+     "n": "Willi Weber"
+    },
+    {
+     "c": "Self",
+     "n": "Kai Ebel"
+    },
+    {
+     "c": "Self",
+     "n": "Heiko Waßer"
+    },
+    {
+     "c": "Self",
+     "n": "Pat Symonds"
+    },
+    {
+     "c": "Michael Schumacher",
+     "n": "Lennart Betzgen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Christin Freitag"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1752355,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Michael Schumacher's first World Championship win roars to life through personal interviews and archival footage of the legendary 1994 Formula 1 season.",
+   "popularity": 3.399,
+   "poster_path": "/em19DrMkLSinf04NEhiRxTnVupI.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-02",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en",
+    "tr"
+   ],
+   "status": "Released",
+   "tagline": "One goal. One season. The start of something great.",
+   "title": "Schumacher ’94 – The Birth of a Legend",
+   "trailer": {
+    "key": "7fDrlNje1iU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.405,
+   "vote_count": 37
+  },
+  "movie:1813355": {
+   "backdrop_path": "/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Neekani",
+     "n": "Kiawentiio"
+    },
+    {
+     "c": "Kino",
+     "n": "Isabel DeRoy-Olson"
+    },
+    {
+     "c": "Maneese",
+     "n": "Michael Podemski"
+    },
+    {
+     "c": "Mitig",
+     "n": "Zahn McClarnon"
+    },
+    {
+     "c": "Sesqui",
+     "n": "MorningStar Angeline"
+    },
+    {
+     "c": "Apto",
+     "n": "Brandon Oakes"
+    },
+    {
+     "c": "Miko",
+     "n": "Jennifer Podemski"
+    },
+    {
+     "c": "Priest",
+     "n": "Eric Trask"
+    },
+    {
+     "c": "",
+     "n": "Thosh Collins"
+    },
+    {
+     "c": "Nebowist",
+     "n": "Brenda Odjick"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tazbah Chavez"
+   ],
+   "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+   ],
+   "id": 1813355,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+   "popularity": 281.7544,
+   "poster_path": "/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-31",
+   "revenue": 0,
+   "runtime": 30,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Story of Derry",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.698,
+   "vote_count": 116
   },
   "movie:255": {
    "backdrop_path": "/42pH01hfjrpuKvplFjkLQYOlbmO.jpg",

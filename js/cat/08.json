@@ -1,7 +1,830 @@
 {
  "bucket": "08",
- "count": 18,
+ "count": 27,
  "titles": {
+  "movie:1206008": {
+   "backdrop_path": "/9cd1zsxcOAcBW01WDOWz8EODTS0.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Ella McCay",
+     "n": "Emma Mackey"
+    },
+    {
+     "c": "Helen",
+     "n": "Jamie Lee Curtis"
+    },
+    {
+     "c": "Ryan Newell",
+     "n": "Jack Lowden"
+    },
+    {
+     "c": "Trooper Nash",
+     "n": "Kumail Nanjiani"
+    },
+    {
+     "c": "Casey",
+     "n": "Spike Fearn"
+    },
+    {
+     "c": "Estelle",
+     "n": "Julie Kavner"
+    },
+    {
+     "c": "Claire McCay",
+     "n": "Rebecca Hall"
+    },
+    {
+     "c": "Susan",
+     "n": "Ayo Edebiri"
+    },
+    {
+     "c": "Governor Bill",
+     "n": "Albert Brooks"
+    },
+    {
+     "c": "Eddie McCay",
+     "n": "Woody Harrelson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "James L. Brooks"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1206008,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An idealistic young politician juggles familial issues and a challenging work life while preparing to take over the job of her mentor, the state’s longtime incumbent governor.",
+   "popularity": 2.4125,
+   "poster_path": "/iQCtK477yqp6xnHHrQG2P0lXoow.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-11",
+   "revenue": 4546837,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A story about the people you love, and how to survive them.",
+   "title": "Ella McCay",
+   "trailer": {
+    "key": "vRE6Iobir8k",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 155
+  },
+  "movie:1291608": {
+   "backdrop_path": "/snYOXem8pUGOffnLbbGq4aB1pg4.jpg",
+   "budget": 24000000,
+   "cast": [
+    {
+     "c": "Hamza Ali Mazari / Jaskirat Singh Rangi",
+     "n": "Ranveer Singh"
+    },
+    {
+     "c": "Rehman Dakait",
+     "n": "Akshaye Khanna"
+    },
+    {
+     "c": "Ajay Sanyal",
+     "n": "R. Madhavan"
+    },
+    {
+     "c": "Major Iqbal",
+     "n": "Arjun Rampal"
+    },
+    {
+     "c": "SP Chaudhary Aslam",
+     "n": "Sanjay Dutt"
+    },
+    {
+     "c": "Yalina Jamali",
+     "n": "Sara Arjun"
+    },
+    {
+     "c": "Jameel Jamali",
+     "n": "Rakesh Bedi"
+    },
+    {
+     "c": "Uzair Baloch",
+     "n": "Danish Pandor"
+    },
+    {
+     "c": "Mohammad Aalam",
+     "n": "Gaurav Gera"
+    },
+    {
+     "c": "Donga",
+     "n": "Naveen Kaushik"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Aditya Dhar"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 1291608,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "In the early 2000s, an undercover operative infiltrates Karachi's underworld, breaking into its inner circle to dismantle a violent nexus from within.",
+   "popularity": 9.983,
+   "poster_path": "/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-05",
+   "revenue": 136599112,
+   "runtime": 214,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi",
+    "pa",
+    "ur"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Dhurandhar",
+   "trailer": {
+    "key": "o--C7AH5SuI",
+    "name": "Watch Now [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 385
+  },
+  "movie:1321008": {
+   "backdrop_path": "/ce0RjYfcgzQeiT3PjaARWv5PVQO.jpg",
+   "budget": 1000000,
+   "cast": [
+    {
+     "c": "Jeremey",
+     "n": "Tom Brittney"
+    },
+    {
+     "c": "Emma",
+     "n": "Holly White"
+    },
+    {
+     "c": "Rachel",
+     "n": "Betsy Blue-English"
+    },
+    {
+     "c": "Brad",
+     "n": "Dane Whyte O'Hara"
+    },
+    {
+     "c": "Chen",
+     "n": "Kaja Chan"
+    },
+    {
+     "c": "Yasmin",
+     "n": "Georgina Leonidas"
+    },
+    {
+     "c": "Paula",
+     "n": "Hanneke Talbot"
+    },
+    {
+     "c": "Sickly Old Man",
+     "n": "Anton Trendafilov"
+    },
+    {
+     "c": "Taylor",
+     "n": "Asa Ali"
+    },
+    {
+     "c": "Lauren",
+     "n": "Boadicea Ricketts"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Steven Quale"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 1321008,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Vero Airlines Flight 298 from New Orleans to Seattle becomes the center of a chilling supernatural mystery.",
+   "popularity": 7.5768,
+   "poster_path": "/x6dsUKxz8O5rD3lzayJgvFpW58s.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-25",
+   "revenue": 224611,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What happened to Flight 298?",
+   "title": "Black Box",
+   "trailer": {
+    "key": "y-nf8hUFd98",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 111
+  },
+  "movie:1442908": {
+   "backdrop_path": "/oTWgvLnMjjsVNdVTZjf5CEnihhw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mike",
+     "n": "Michael Young"
+    },
+    {
+     "c": "Captain",
+     "n": "Chris Smither"
+    },
+    {
+     "c": "Singer",
+     "n": "Will Harrington"
+    },
+    {
+     "c": "Singer",
+     "n": "Judah Kelly"
+    },
+    {
+     "c": "Singer",
+     "n": "Matt Corcoran"
+    },
+    {
+     "c": "Bar Patron",
+     "n": "Michael Keyes"
+    },
+    {
+     "c": "Bar Patron",
+     "n": "Leroy Griffith"
+    },
+    {
+     "c": "Bar Patron",
+     "n": "Daniel \"Hutch\" Hutchinson"
+    },
+    {
+     "c": "Bar Patron",
+     "n": "David Scott \"Muffin\" McMurry"
+    },
+    {
+     "c": "Bar Patron",
+     "n": "Luis \"Tio Rigo\" Rigoberto Amaya"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Sam A. Davis"
+   ],
+   "genres": [
+    "Music",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1442908,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An impromptu singing contest at a dive bar turns a lonely night into a soul-baring moment of shared harmony.",
+   "popularity": 1.2881,
+   "poster_path": "/a6wheh1243vceZ7Dqb0knYmKqaj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-17",
+   "revenue": 0,
+   "runtime": 18,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A man walks into a bar...",
+   "title": "The Singers",
+   "trailer": {
+    "key": "GchFxN1G1tw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.797,
+   "vote_count": 91
+  },
+  "movie:1516208": {
+   "backdrop_path": "/9GnoKfvrLBmuAchlDzxAQmz1kzF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Isabel Haynes",
+     "n": "Lacey Chabert"
+    },
+    {
+     "c": "Jason Duncan",
+     "n": "Andrew W. Walker"
+    },
+    {
+     "c": "Charlie Duncan",
+     "n": "Cadence Compton"
+    },
+    {
+     "c": "Rudolph Sweitzer",
+     "n": "Steve Bacic"
+    },
+    {
+     "c": "Heidi",
+     "n": "Louriza Tronco"
+    },
+    {
+     "c": "Wanda",
+     "n": "BJ Harrison"
+    },
+    {
+     "c": "Giuseppe",
+     "n": "Alessandro Miro"
+    },
+    {
+     "c": "Santa",
+     "n": "Dax Belanger"
+    },
+    {
+     "c": "Jimbo",
+     "n": "Francisco Trujillo Avalos-Davidson"
+    },
+    {
+     "c": "Santa Impersonator",
+     "n": "Kurt Long"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Stacey N. Harding"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy",
+    "TV Movie"
+   ],
+   "id": 1516208,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Naughty or Nice inspector Isabel Haynes doesn’t anticipate anything out of the ordinary when she’s assigned to evaluate 11-year-old Charlie Duncan. However, soon, Isabel falls for Charlie’s widowed father Jason, which makes her question the rigid rules of her job. As Christmas approaches, Isabel must choose between following the holiday algorithm or following her heart.",
+   "popularity": 1.3734,
+   "poster_path": "/rpqNhO6PtTrBsuEh10O3rAVWDg1.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Hallmark+ Amazon Channel"
+    },
+    {
+     "name": "Hallmark+ Apple TV channel"
+    },
+    {
+     "name": "Hallmark TV Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-06",
+   "revenue": 0,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "She's Making a List",
+   "trailer": {
+    "key": "Ky-StLOMr1s",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 20
+  },
+  "movie:1617908": {
+   "backdrop_path": "/8imHEnB6kTNgK1TYPC3Rsnv7xke.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Taylor Tomlinson"
+    },
+    {
+     "c": "Self",
+     "n": "Sophie Buddle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "+16",
+   "date_kind": "release",
+   "director": [
+    "Taylor Tomlinson"
+   ],
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ],
+   "id": 1617908,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Taylor Tomlinson takes her fans to church with hilarious confessions about dating in her 30s, her dream assistant and why she refuses to use AI.",
+   "popularity": 1.3797,
+   "poster_path": "/5n85A8bspgGBhIZ2HnNfbbr6GRe.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-24",
+   "revenue": 0,
+   "runtime": 69,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "She's taking you to church.",
+   "title": "Taylor Tomlinson: Prodigal Daughter",
+   "trailer": {
+    "key": "e4Vj7pAEaiM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 35
+  },
+  "movie:1710008": {
+   "backdrop_path": "/5cEmmIMunNk3JRij4nTitFtikIg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jada",
+     "n": "Nawell Madani"
+    },
+    {
+     "c": "Paul",
+     "n": "Guillaume Gouix"
+    },
+    {
+     "c": "Fanta",
+     "n": "Aissatou Diallo Sagna"
+    },
+    {
+     "c": "Nadia, la mère de Jada",
+     "n": "Majida Ghomari"
+    },
+    {
+     "c": "",
+     "n": "Nicolas Briançon"
+    },
+    {
+     "c": "Campos",
+     "n": "David Salles"
+    },
+    {
+     "c": "",
+     "n": "Manmathan Basky"
+    },
+    {
+     "c": "",
+     "n": "Steve Tientcheu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Nawell Madani",
+    "Ludovic Colbeau-Justin"
+   ],
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "id": 1710008,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "She gave everything to become a mother, so when her young son falls ill, Jada will stop at  nothing to find a donor and save him — no matter the cost.",
+   "popularity": 2.1862,
+   "poster_path": "/3SKN8QZptMm8KfCCQtEmyh1Zkgz.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-08",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Nothing to Lose",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.145,
+   "vote_count": 83
+  },
   "movie:1908": {
    "backdrop_path": "/es4sV6krplqscHmhn9TFSqkl8ee.jpg",
    "budget": 2000000,
@@ -934,6 +1757,102 @@
    "vote_average": 7.098,
    "vote_count": 496
   },
+  "movie:656908": {
+   "backdrop_path": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+   "budget": 260000000,
+   "cast": [
+    {
+     "c": "Prince Rama / Parashurama",
+     "n": "Ranbir Kapoor"
+    },
+    {
+     "c": "Ravana",
+     "n": "Yash"
+    },
+    {
+     "c": "Sita",
+     "n": "Sai Pallavi"
+    },
+    {
+     "c": "Lakshmana",
+     "n": "Ravi Dubey"
+    },
+    {
+     "c": "King Dashrath",
+     "n": "Arun Govil"
+    },
+    {
+     "c": "Kaikeyi",
+     "n": "Lara Dutta"
+    },
+    {
+     "c": "Surpanakha",
+     "n": "Rakul Preet Singh"
+    },
+    {
+     "c": "Kaushalya",
+     "n": "Indira Krishnan"
+    },
+    {
+     "c": "Sumitra",
+     "n": "Sonal Jha"
+    },
+    {
+     "c": "Bharata",
+     "n": "Adinath Kothare"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Nitesh Tiwari"
+   ],
+   "genres": [
+    "Fantasy",
+    "Action",
+    "Adventure"
+   ],
+   "id": 656908,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+   "popularity": 161.2852,
+   "poster_path": "/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
+   "production_countries": [
+    "IN",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-11-05",
+   "revenue": 53620991,
+   "runtime": 201,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi",
+    "sa"
+   ],
+   "status": "Released",
+   "tagline": "Our truth. Our history",
+   "title": "Ramayana: Rise of a Legend",
+   "trailer": {
+    "key": "AYkPRN874m8",
+    "name": "New Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.5,
+   "vote_count": 42
+  },
   "movie:79108": {
    "backdrop_path": "/oWaSlhlfx9woNAYP9XeqarG6JYH.jpg",
    "budget": 0,
@@ -1265,6 +2184,114 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 477
+  },
+  "movie:860508": {
+   "backdrop_path": "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Peter Willis",
+     "n": "Robert De Niro"
+    },
+    {
+     "c": "Amanda Beck",
+     "n": "Michelle Monaghan"
+    },
+    {
+     "c": "Tom Kennedy",
+     "n": "Adam Scott"
+    },
+    {
+     "c": "Jake Kennedy",
+     "n": "Acston Luca Porto"
+    },
+    {
+     "c": "Frank Carter",
+     "n": "Michael Keaton"
+    },
+    {
+     "c": "Frank Carter Jr.",
+     "n": "Owen Teague"
+    },
+    {
+     "c": "Norman Collins",
+     "n": "Hamish Linklater"
+    },
+    {
+     "c": "Sgt. John Dyson",
+     "n": "Will Brill"
+    },
+    {
+     "c": "Little Girl",
+     "n": "Aniela Zeig"
+    },
+    {
+     "c": "Neil Spencer",
+     "n": "Exavier Montanez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "James Ashcroft"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 860508,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
+   "popularity": 13.3828,
+   "poster_path": "/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-27",
+   "revenue": 0,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "If you leave a door half open, soon you'll hear the whispers spoken.",
+   "title": "The Whisper Man",
+   "trailer": {
+    "key": "ZHRR-1CKYIQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.798,
+   "vote_count": 1025
   },
   "movie:938008": {
    "backdrop_path": "/6D2yFWcDhGPpNmfkATZwf845p9z.jpg",

@@ -1,7 +1,246 @@
 {
  "bucket": "58",
- "count": 18,
+ "count": 22,
  "titles": {
+  "movie:1146058": {
+   "d": "The Pout-Pout Fish (2026): Animation/Family film. Story: Living on a rundown shipwreck, Mr. Fish one day… See cast, budget $10M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6qQQhhF87Rm1z2TYhXAmoPiEHME.jpg",
+   "industry": "world",
+   "k": "The Pout-Pout Fish, The Pout-Pout Fish movie, The Pout-Pout Fish cast, The Pout-Pout Fish story, The Pout-Pout Fish box office collection, The Pout-Pout Fish budget, The Pout-Pout Fish review, The Pout-Pout Fish rating, The Pout-Pout Fish release date, The Pout-Pout Fish trailer, The Pout-Pout Fish Animation, The Pout-Pout Fish Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nick Offerman"
+     },
+     {
+      "@type": "Person",
+      "name": "Nina Oyama"
+     },
+     {
+      "@type": "Person",
+      "name": "Miranda Otto"
+     },
+     {
+      "@type": "Person",
+      "name": "Amy Sedaris"
+     },
+     {
+      "@type": "Person",
+      "name": "Jordin Sparks"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 45,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "The Pout-Pout Fish (2026): Animation/Family film. Story: Living on a rundown shipwreck, Mr. Fish one day… See cast, budget $10M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ricard Cussó"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6qQQhhF87Rm1z2TYhXAmoPiEHME.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1146058",
+    "name": "The Pout-Pout Fish",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1146058"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Pout-Pout Fish (2026)</h1>\n<p class=\"ssr-lead\">Living on a rundown shipwreck, Mr. Fish one day discovers a hyperactive young sea dragon Pip – who had mistaken his home for a junkyard – pilfering his belongings. The heated argument that ensues leaves both their houses in ruin. But there is hope! Embarking on a seemingly impossible quest in search of the mythical &#x27;Shimmer&#x27; to grant them a wish, there’s only one problem: someone else is on the hunt...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 January 2026</li><li>Runtime: 91 minutes</li><li>Director: Ricard Cussó</li><li>Genres: Animation, Family, Adventure, Comedy</li><li>Budget: $10M</li><li>TMDB rating: 6.7/10 (45 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nick Offerman as Mr. Fish (voice)</li><li>Nina Oyama as Pip (voice)</li><li>Miranda Otto as Marin (voice)</li><li>Amy Sedaris as The Pink Dolphins – Brigitta, Greta and Karina (voice)</li><li>Jordin Sparks as Shimmer (voice)</li><li>Remy Hii as Benji (voice)</li><li>Mark Coles Smith as Hector (voice)</li><li>Nazeem Hussain as Archie (voice)</li><li>Mel Buttle as Shaz (voice)</li><li>Bessie Holland as Baz (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "The Pout-Pout Fish (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1469458": {
+   "d": "Sambhavam Adhyayam Onnu (2026): Fantasy/Thriller film. Story: Three Kerala Police officers venture into a… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rfMWciUEZkqL9AiNcTedhtXQHr0.jpg",
+   "industry": "bollywood",
+   "k": "Sambhavam Adhyayam Onnu, Sambhavam Adhyayam Onnu movie, Sambhavam Adhyayam Onnu cast, Sambhavam Adhyayam Onnu story, Sambhavam Adhyayam Onnu box office collection, Sambhavam Adhyayam Onnu budget, Sambhavam Adhyayam Onnu review, Sambhavam Adhyayam Onnu rating, Sambhavam Adhyayam Onnu release date, Sambhavam Adhyayam Onnu Fantasy, Sambhavam Adhyayam Onnu Thriller, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Askar Ali"
+     },
+     {
+      "@type": "Person",
+      "name": "Vineeth Kumar"
+     },
+     {
+      "@type": "Person",
+      "name": "Sidharth Bharathan"
+     },
+     {
+      "@type": "Person",
+      "name": "Assim Jamal"
+     },
+     {
+      "@type": "Person",
+      "name": "Senthil Krishna Rajamani"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 25,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Sambhavam Adhyayam Onnu (2026): Fantasy/Thriller film. Story: Three Kerala Police officers venture into a… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jithu Satheesan Mangalathu"
+     }
+    ],
+    "duration": "PT127M",
+    "genre": [
+     "Fantasy",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rfMWciUEZkqL9AiNcTedhtXQHr0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1469458",
+    "name": "Sambhavam Adhyayam Onnu",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1469458"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sambhavam Adhyayam Onnu (2026)</h1>\n<p class=\"ssr-lead\">Three Kerala Police officers venture into a mysterious forest on the Kerala-Tamil Nadu border to find a missing officer. They encounter strange time-related phenomena, uncovering the hidden secrets of Velloorkkatt forest.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 March 2026</li><li>Runtime: 127 minutes</li><li>Director: Jithu Satheesan Mangalathu</li><li>Genres: Fantasy, Thriller, Drama</li><li>TMDB rating: 7.2/10 (25 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Askar Ali as Anand</li><li>Vineeth Kumar as Reji</li><li>Sidharth Bharathan as Narrator</li><li>Assim Jamal as Ashokan</li><li>Senthil Krishna Rajamani as Joshi</li><li>Sreekanth Dasan as Culprit</li><li>Fahad Sidheekh as Stephen George</li><li>Neethu Krishna as Neethu</li><li>Gouri Vineeth</li><li>Suparna Sajeesh as Anand&#x27;s Daughter</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Sambhavam Adhyayam Onnu (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1504358": {
+   "d": "Don't Say Good Luck (2026): Comedy/Music film. Story: Sophie Birenbaum is ready for the spotlight as the… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
+   "industry": "world",
+   "k": "Don't Say Good Luck, Don't Say Good Luck movie, Don't Say Good Luck cast, Don't Say Good Luck story, Don't Say Good Luck box office collection, Don't Say Good Luck budget, Don't Say Good Luck review, Don't Say Good Luck rating, Don't Say Good Luck release date, Don't Say Good Luck trailer, Don't Say Good Luck Comedy, Don't Say Good Luck Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sunny Sandler"
+     },
+     {
+      "@type": "Person",
+      "name": "Melanie Lynskey"
+     },
+     {
+      "@type": "Person",
+      "name": "Max Greenfield"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephanie Beatriz"
+     },
+     {
+      "@type": "Person",
+      "name": "Bebe Neuwirth"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 159,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Don't Say Good Luck (2026): Comedy/Music film. Story: Sophie Birenbaum is ready for the spotlight as the… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Julia Hart"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Comedy",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1504358",
+    "name": "Don't Say Good Luck",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1504358"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Don&#x27;t Say Good Luck (2026)</h1>\n<p class=\"ssr-lead\">Sophie Birenbaum is ready for the spotlight as the lead in her high school musical—until she&#x27;s suddenly facing more drama at home than on the stage.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 August 2026</li><li>Runtime: 96 minutes</li><li>Director: Julia Hart</li><li>Genres: Comedy, Music, Drama</li><li>TMDB rating: 7.2/10 (159 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sunny Sandler as Sophie Birenbaum</li><li>Melanie Lynskey as Elizabeth Birenbaum</li><li>Max Greenfield as Ted Birenbaum</li><li>Stephanie Beatriz as Ms. Parker</li><li>Bebe Neuwirth as Linda</li><li>Steve Buscemi as Dale</li><li>Jack Champion as Jack Davis</li><li>Matan Friedman as Caleb Birenbaum</li><li>Eitan Friedman as Ethan Birenbaum</li><li>Emma McNulty as Erin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Don't Say Good Luck (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1662958": {
+   "d": "Louis C.K.: Ridiculous (2026): Comedy film. Story: From a bee getting shot in New York City to paying… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ohQTIteoHPNeLd3WRlVXbCBeaN6.jpg",
+   "industry": "world",
+   "k": "Louis C.K.: Ridiculous, Louis C.K.: Ridiculous movie, Louis C.K.: Ridiculous cast, Louis C.K.: Ridiculous story, Louis C.K.: Ridiculous box office collection, Louis C.K.: Ridiculous budget, Louis C.K.: Ridiculous review, Louis C.K.: Ridiculous rating, Louis C.K.: Ridiculous release date, Louis C.K.: Ridiculous trailer, Louis C.K.: Ridiculous Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Louis C.K."
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 41,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Louis C.K.: Ridiculous (2026): Comedy film. Story: From a bee getting shot in New York City to paying… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Louis C.K."
+     }
+    ],
+    "duration": "PT61M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ohQTIteoHPNeLd3WRlVXbCBeaN6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1662958",
+    "name": "Louis C.K.: Ridiculous",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1662958"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Louis C.K.: Ridiculous (2026)</h1>\n<p class=\"ssr-lead\">From a bee getting shot in New York City to paying strangers to take his aging father, Louis C.K. unleashes the ridiculous thoughts in his mind.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 June 2026</li><li>Runtime: 61 minutes</li><li>Director: Louis C.K.</li><li>Genres: Comedy</li><li>TMDB rating: 6.1/10 (41 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Louis C.K. as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Louis C.K.: Ridiculous (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:17058": {
    "d": "Scarlet Street (1945): Drama/Crime film. Story: Cashier and part-time starving artist Christopher… See cast, budget $1.2M, and TMDB rating 7.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/g0phljbAcccz7bkSZpFEPVLuIRP.jpg",

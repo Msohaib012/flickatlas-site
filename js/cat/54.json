@@ -1,7 +1,172 @@
 {
  "bucket": "54",
- "count": 24,
+ "count": 28,
  "titles": {
+  "movie:1015154": {
+   "backdrop_path": "/i0YlPmyAfjxWJczVqK0MP88XKU4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alma",
+     "n": "Paz Vega"
+    },
+    {
+     "c": "Aurelio",
+     "n": "Juan Pablo Shuk"
+    },
+    {
+     "c": "Colonel Montenegro",
+     "n": "Yancey Arias"
+    },
+    {
+     "c": "Sarah",
+     "n": "Mena Suvari"
+    },
+    {
+     "c": "Randall Walker",
+     "n": "Jeff Fahey"
+    },
+    {
+     "c": "José Guevara",
+     "n": "Mateo Honles"
+    },
+    {
+     "c": "Morales",
+     "n": "Ermis Cruz"
+    },
+    {
+     "c": "Sebastián",
+     "n": "Alexis Martínez"
+    },
+    {
+     "c": "Maravilla",
+     "n": "Rodrigo Trigueros"
+    },
+    {
+     "c": "Eduardo",
+     "n": "Carlos Aylagas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "date_kind": "release",
+   "director": [
+    "Ernesto Melara"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "History",
+    "War"
+   ],
+   "id": 1015154,
+   "industry": "world",
+   "origin_country": [
+    "SV",
+    "US"
+   ],
+   "original_language": "es",
+   "overview": "A boy seeks revenge after surviving El Mozote massacre in El Salvador, where government forces killed his family and destroyed his village - the deadliest civilian massacre in modern Latin America.",
+   "popularity": 3.24,
+   "poster_path": "/vAMPpEvaW9EmRwFmzFMaM8wS3KV.jpg",
+   "production_countries": [
+    "US",
+    "SV"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-11",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Fireflies at El Mozote",
+   "trailer": {
+    "key": "D3sQsAuxJWE",
+    "name": "US Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.711,
+   "vote_count": 45
+  },
   "movie:11054": {
    "backdrop_path": "/ersVrGMSzq2WU6ynBQrHJhwuQ85.jpg",
    "budget": 2000000,
@@ -246,6 +411,262 @@
    "type": "movie",
    "vote_average": 7.5,
    "vote_count": 457
+  },
+  "movie:1198654": {
+   "backdrop_path": "/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maria",
+     "n": "Saoirse Ronan"
+    },
+    {
+     "c": "Danny",
+     "n": "Eddie Waller"
+    },
+    {
+     "c": "Pauline",
+     "n": "Nia Brown"
+    },
+    {
+     "c": "Sam",
+     "n": "Jacob Anderson"
+    },
+    {
+     "c": "Sylvia",
+     "n": "Rakie Ayola"
+    },
+    {
+     "c": "Josh",
+     "n": "Robert Emms"
+    },
+    {
+     "c": "Frank",
+     "n": "Sean Gilder"
+    },
+    {
+     "c": "PC Williams",
+     "n": "Kerry Howard"
+    },
+    {
+     "c": "Khaliya's Mum",
+     "n": "Jaye Jacobs"
+    },
+    {
+     "c": "Carys's Mum",
+     "n": "Joanna van Kampen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jonatan Etzler"
+   ],
+   "genres": [
+    "Comedy",
+    "Thriller"
+   ],
+   "id": 1198654,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will turn a blind eye to the most outrageous events to preserve harmony and their sense of safety.",
+   "popularity": 13.1702,
+   "poster_path": "/vGUAC8EOizemwwbWk9JbFrhpVz4.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aaFIYn2NGPCo0rpLiWokbvNqNJd.png",
+     "name": "JustWatch TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-10",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It only takes one.",
+   "title": "Bad Apples",
+   "trailer": {
+    "key": "4nhu80EmVQE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.922,
+   "vote_count": 167
+  },
+  "movie:1356454": {
+   "backdrop_path": "/vaYQhikryKYPOs86rULXIACOCYi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mo Dexian",
+     "n": "Xiao Zhan"
+    },
+    {
+     "c": "",
+     "n": "Peng Yuchang"
+    },
+    {
+     "c": "",
+     "n": "Zhou Yiran"
+    },
+    {
+     "c": "",
+     "n": "Yin Zheng"
+    },
+    {
+     "c": "",
+     "n": "Yang Xinming"
+    },
+    {
+     "c": "",
+     "n": "Alan Aruna"
+    },
+    {
+     "c": "",
+     "n": "Gan Yunchen"
+    },
+    {
+     "c": "",
+     "n": "Zhou Siyu"
+    },
+    {
+     "c": "",
+     "n": "Yan Zhidu"
+    },
+    {
+     "c": "",
+     "n": "Liao Fan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15A",
+   "date_kind": "release",
+   "director": [
+    "Kong Sheng"
+   ],
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "id": 1356454,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "A group of Chinese refugees and straggler soldiers, led by a machinist, defend their mountain town, \"Gezhi,\" against a surprise attack by Japanese reconnaissance troops in a desperate fight using civilian ingenuity against a trained military force.",
+   "popularity": 1.5559,
+   "poster_path": "/24rBSxBq3WLlmNdzoL7Gl6nLZfG.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-06",
+   "revenue": 49627843,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Gezhi Town",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 56
   },
   "movie:13754": {
    "backdrop_path": "/iAlJWcoEqKTmfxVMQ6pDyizPRsK.jpg",
@@ -558,6 +979,110 @@
    "type": "movie",
    "vote_average": 7.276,
    "vote_count": 449
+  },
+  "movie:1473354": {
+   "backdrop_path": "/6Zn4PaLwLHFJ2bw7s6B10fHiuAD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Prabhendhu 'Indu' N. Namboothiri",
+     "n": "Nivin Pauly"
+    },
+    {
+     "c": "'Delulu' Maya Mathew Manjooran",
+     "n": "Riya Shibu"
+    },
+    {
+     "c": "Saadhya",
+     "n": "Preity Mukhundhan"
+    },
+    {
+     "c": "Roopesh 'Rupa' Namboothiri",
+     "n": "Aju Varghese"
+    },
+    {
+     "c": "Prahladan Namboothiri",
+     "n": "Janardhanan"
+    },
+    {
+     "c": "Deepankuran 'Deepu' N. Namboothiri",
+     "n": "Madhu Warrier"
+    },
+    {
+     "c": "Neelakandan Namboothiri",
+     "n": "Raghunath Paleri"
+    },
+    {
+     "c": "Faisal",
+     "n": "Anand Ekarshi"
+    },
+    {
+     "c": "Vinod Mathew Manjooran",
+     "n": "Vineeth Radhakrishnan"
+    },
+    {
+     "c": "Annie Mathew",
+     "n": "Methil Devika"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Akhil Sathyan"
+   ],
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 1473354,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "ml",
+   "overview": "An atheist priest's life is upended after performing an exorcism, bonding with a charming spirit who helps him pursue music and heal his past.",
+   "popularity": 1.6346,
+   "poster_path": "/ri3Lpt8OkvixST0EIsBDZJmB5l.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-25",
+   "revenue": 0,
+   "runtime": 147,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ml"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Sarvam Maya",
+   "trailer": {
+    "key": "xXvE6_8lOoM",
+    "name": "Sarvam Maya | Trailer | Nivin Pauly | Aju Varghese | Riya Shibu | Jan 30 | JioHotstar",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.857,
+   "vote_count": 42
   },
   "movie:14854": {
    "backdrop_path": "/yR10dIRDAuRfRUxQ2azF4GSwJNb.jpg",

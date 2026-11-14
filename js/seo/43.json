@@ -1,7 +1,393 @@
 {
  "bucket": "43",
- "count": 8,
+ "count": 14,
  "titles": {
+  "movie:1213243": {
+   "d": "Toxic (2026): Action/Crime film. Story: A powerful drug cartel pulls the strings behind a… See cast, budget $60M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+   "industry": "bollywood",
+   "k": "Toxic, Toxic movie, Toxic cast, Toxic story, Toxic box office collection, Toxic budget, Toxic review, Toxic rating, Toxic release date, Toxic trailer, Toxic Action, Toxic Crime, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Yash"
+     },
+     {
+      "@type": "Person",
+      "name": "Kiara Advani"
+     },
+     {
+      "@type": "Person",
+      "name": "Nayanthara"
+     },
+     {
+      "@type": "Person",
+      "name": "Huma Qureshi"
+     },
+     {
+      "@type": "Person",
+      "name": "Tara Sutaria"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 85,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Toxic (2026): Action/Crime film. Story: A powerful drug cartel pulls the strings behind a… See cast, budget $60M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Geetu Mohandas"
+     }
+    ],
+    "duration": "PT192M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1213243",
+    "name": "Toxic",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1213243"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Toxic (2026)</h1>\n<p class=\"ssr-lead\">A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 August 2026</li><li>Runtime: 192 minutes</li><li>Director: Geetu Mohandas</li><li>Genres: Action, Crime, Drama</li><li>Budget: $60M</li><li>TMDB rating: 7.6/10 (85 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yash as Raya / Ticket</li><li>Kiara Advani as Nadia</li><li>Nayanthara as Ganga</li><li>Huma Qureshi as Elizabeth</li><li>Tara Sutaria as Rebecca</li><li>Rukmini Vasanth as Mellisa</li><li>Sudev Nair as Karmadi</li><li>Akshay Oberoi as Tony</li><li>Balaji Manohar as Bheera</li><li>Darrell D&#x27;Silva as Salvador</li></ul>\n</article>",
+   "t": "Toxic (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1260643": {
+   "d": "Man on the Run (2026): Documentary/Music film. Story: After the breakup of The Beatles, Paul McCartney… See cast and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mA03GgESjKMCUAiCywyx6I7kSZx.jpg",
+   "industry": "world",
+   "k": "Man on the Run, Man on the Run movie, Man on the Run cast, Man on the Run story, Man on the Run box office collection, Man on the Run budget, Man on the Run review, Man on the Run rating, Man on the Run release date, Man on the Run trailer, Man on the Run Documentary, Man on the Run Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Paul McCartney"
+     },
+     {
+      "@type": "Person",
+      "name": "Linda McCartney"
+     },
+     {
+      "@type": "Person",
+      "name": "Denny Laine"
+     },
+     {
+      "@type": "Person",
+      "name": "Denny Seiwell"
+     },
+     {
+      "@type": "Person",
+      "name": "Henry McCullough"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 39,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Man on the Run (2026): Documentary/Music film. Story: After the breakup of The Beatles, Paul McCartney… See cast and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Morgan Neville"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Documentary",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mA03GgESjKMCUAiCywyx6I7kSZx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1260643",
+    "name": "Man on the Run",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1260643"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Man on the Run (2026)</h1>\n<p class=\"ssr-lead\">After the breakup of The Beatles, Paul McCartney formed Wings with his wife Linda. Archival footage captures their life together, with Linda inspiring Paul&#x27;s music in the 1970s, a decade in which Wings achieved numerous hits.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 February 2026</li><li>Runtime: 115 minutes</li><li>Director: Morgan Neville</li><li>Genres: Documentary, Music</li><li>TMDB rating: 7.5/10 (39 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paul McCartney as Self</li><li>Linda McCartney as Self (archive footage)</li><li>Denny Laine as Self (archive footage)</li><li>Denny Seiwell as Self (archive footage)</li><li>Henry McCullough as Self (archive footage)</li><li>Jimmy McCulloch as Self (archive footage)</li><li>John Lennon as Self (archive footage)</li><li>George Harrison as Self (archive footage)</li><li>Ringo Starr as Self (archive footage)</li><li>Mick Jagger as Self (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Man on the Run (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1315843": {
+   "d": "Daddy's in Trouble (2026): Comedy film. Story: Roberta is tired of taking care of the house and the… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pt9wLsvNywyPT3485P30CPRICU.jpg",
+   "industry": "world",
+   "k": "Daddy's in Trouble, Daddy's in Trouble movie, Daddy's in Trouble cast, Daddy's in Trouble story, Daddy's in Trouble box office collection, Daddy's in Trouble budget, Daddy's in Trouble review, Daddy's in Trouble rating, Daddy's in Trouble release date, Daddy's in Trouble Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rafael Infante"
+     },
+     {
+      "@type": "Person",
+      "name": "Dani Calabresa"
+     },
+     {
+      "@type": "Person",
+      "name": "Babu Santana"
+     },
+     {
+      "@type": "Person",
+      "name": "Dan Ferreira"
+     },
+     {
+      "@type": "Person",
+      "name": "Livia la Gatto"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 26,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Daddy's in Trouble (2026): Comedy film. Story: Roberta is tired of taking care of the house and the… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Carolina Durão"
+     }
+    ],
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pt9wLsvNywyPT3485P30CPRICU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1315843",
+    "name": "Daddy's in Trouble",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1315843"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Daddy&#x27;s in Trouble (2026)</h1>\n<p class=\"ssr-lead\">Roberta is tired of taking care of the house and the kids all by herself, so she decides to take a vacation, leaving her husband to look after the children. The result is that the house is turned upside down as Fred tries to balance family demands with his work responsibilities. Amid laughter and chaos, the film shows how a family can overcome challenges when they stick together.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 April 2026</li><li>Director: Carolina Durão</li><li>Genres: Comedy</li><li>TMDB rating: 7.2/10 (26 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rafael Infante as Fred</li><li>Dani Calabresa as Roberta</li><li>Babu Santana as Matheus</li><li>Dan Ferreira as Dante</li><li>Livia la Gatto as Renata</li><li>Macla Tenório as Brenda</li><li>Xande Valois as João</li><li>Ana Régis as Simone</li><li>Docy Moreira as Beth</li><li>Rodolfo Vaz as Pontes</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Daddy's in Trouble (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1376043": {
+   "d": "Mata (2026): Thriller/Drama film. Story: Wounded while on a clandestine operation in Niger… See cast, TMDB rating 6.2/10, and release date 27 May 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/14fP7wku6XCsvhEQhPONXFzMKH0.jpg",
+   "industry": "world",
+   "k": "Mata, Mata movie, Mata cast, Mata story, Mata box office collection, Mata budget, Mata review, Mata rating, Mata release date, Mata Thriller, Mata Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Eye Haïdara"
+     },
+     {
+      "@type": "Person",
+      "name": "Joséphine Japy"
+     },
+     {
+      "@type": "Person",
+      "name": "Raphaël Personnaz"
+     },
+     {
+      "@type": "Person",
+      "name": "Hakim Jemili"
+     },
+     {
+      "@type": "Person",
+      "name": "Chloé Jouannet"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 27,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Mata (2026): Thriller/Drama film. Story: Wounded while on a clandestine operation in Niger… See cast, TMDB rating 6.2/10, and release date 27 May 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rachel Lang"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/14fP7wku6XCsvhEQhPONXFzMKH0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1376043",
+    "name": "Mata",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1376043"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mata (2026)</h1>\n<p class=\"ssr-lead\">Wounded while on a clandestine operation in Niger, French secret agent Mata loses track of her colleague Antoine, captured on the spot. Upon her return, she volunteers for a counter-espionage mission in the Alps, with the intuition that this new assignment might somehow be connected to her traumatic mission in Africa. Haunted by Antoine’s captivity and convinced that her managers are hiding information from her, Mata embarks on a race against time, outside any official framework... at the risk of losing everything.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 May 2026</li><li>Runtime: 98 minutes</li><li>Director: Rachel Lang</li><li>Genres: Thriller, Drama</li><li>TMDB rating: 6.2/10 (27 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eye Haïdara as Mata</li><li>Joséphine Japy as Héloïse</li><li>Raphaël Personnaz as Antoine</li><li>Hakim Jemili as Émile</li><li>Chloé Jouannet as Jeanne</li><li>Juliette Chaigneau as Carole</li><li>Pierre-Antoine Billon as Lucas</li><li>Mélanie Laurent as India</li><li>Aleksandr Kuznetsov</li><li>Brice Bexter as Axel</li></ul>\n</article>",
+   "t": "Mata (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1481343": {
+   "d": "The Devil's Mouth (2026): Horror/Thriller film. Story: A group of college friends' Thailand adventure turns… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pLyaH6k69OJHnONSmN3R7Peh6HE.jpg",
+   "industry": "world",
+   "k": "The Devil's Mouth, The Devil's Mouth movie, The Devil's Mouth cast, The Devil's Mouth story, The Devil's Mouth box office collection, The Devil's Mouth budget, The Devil's Mouth review, The Devil's Mouth rating, The Devil's Mouth release date, The Devil's Mouth trailer, The Devil's Mouth Horror, The Devil's Mouth Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kathryn Newton"
+     },
+     {
+      "@type": "Person",
+      "name": "Lana Condor"
+     },
+     {
+      "@type": "Person",
+      "name": "Nico Hiraga"
+     },
+     {
+      "@type": "Person",
+      "name": "Gavin Casalegno"
+     },
+     {
+      "@type": "Person",
+      "name": "Tommi Rose"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 863,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "The Devil's Mouth (2026): Horror/Thriller film. Story: A group of college friends' Thailand adventure turns… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jeff Wadlow"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pLyaH6k69OJHnONSmN3R7Peh6HE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1481343",
+    "name": "The Devil's Mouth",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1481343"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Devil&#x27;s Mouth (2026)</h1>\n<p class=\"ssr-lead\">A group of college friends&#x27; Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 July 2026</li><li>Runtime: 106 minutes</li><li>Director: Jeff Wadlow</li><li>Genres: Horror, Thriller</li><li>TMDB rating: 6.5/10 (863 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kathryn Newton as Sara</li><li>Lana Condor as Max</li><li>Nico Hiraga as James</li><li>Gavin Casalegno as Greg</li><li>Tommi Rose as Adrienne</li><li>Tayme Thapthimthong as Wat</li><li>Sahajak Boonthanakit as Captain</li><li>Harrison Luna as Ryan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "The Devil's Mouth (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1601243": {
+   "d": "Oscar Shaw (2026): Action/Crime film. Story: After retiring from the police force, a relentless… See cast, TMDB rating 6.6/10, and release date 9 January 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/diKBJ2kJHHfm4nmHTHhprBgfHIF.jpg",
+   "industry": "world",
+   "k": "Oscar Shaw, Oscar Shaw movie, Oscar Shaw cast, Oscar Shaw story, Oscar Shaw box office collection, Oscar Shaw budget, Oscar Shaw review, Oscar Shaw rating, Oscar Shaw release date, Oscar Shaw trailer, Oscar Shaw Action, Oscar Shaw Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Jai White"
+     },
+     {
+      "@type": "Person",
+      "name": "Tyrese Gibson"
+     },
+     {
+      "@type": "Person",
+      "name": "Isaiah Washington"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrew C. English Jr."
+     },
+     {
+      "@type": "Person",
+      "name": "Cecile Cubiló"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 43,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Oscar Shaw (2026): Action/Crime film. Story: After retiring from the police force, a relentless… See cast, TMDB rating 6.6/10, and release date 9 January 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "R. Ellis Frazier"
+     },
+     {
+      "@type": "Person",
+      "name": "Justin Nesbitt"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/diKBJ2kJHHfm4nmHTHhprBgfHIF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1601243",
+    "name": "Oscar Shaw",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1601243"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Oscar Shaw (2026)</h1>\n<p class=\"ssr-lead\">After retiring from the police force, a relentless detective haunted by the tragic loss of his closest friend sets out on a perilous quest for vengeance, seeking redemption and fighting to restore justice to the streets he once swore to protect.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 January 2026</li><li>Runtime: 93 minutes</li><li>Director: R. Ellis Frazier, Justin Nesbitt</li><li>Genres: Action, Crime, Thriller, Western</li><li>TMDB rating: 6.6/10 (43 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Jai White as Oscar Shaw</li><li>Tyrese Gibson as Ray Jay</li><li>Isaiah Washington as Ernie</li><li>Andrew C. English Jr. as Tron</li><li>Cecile Cubiló as Detective Nina Perez</li><li>Jeanette Josue as Vanessa Shaw</li><li>Hiro Ortiz as Soo Kwon</li><li>James Choi as Jintao kwon</li><li>Rich Paul as Chuck Ross</li><li>Vince Jolivette as Commander Archer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, Starz Amazon Channel, Starz, Starz Apple TV channel, Starz Roku Premium Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Oscar Shaw (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:270343": {
    "d": "Love at First Fight (2014): Comedy/Romance film. Story: Arnaud, facing an uncertain future and a dearth of… See cast and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/lfVwTozLK9hbMXPjZTaEZ74CpKh.jpg",

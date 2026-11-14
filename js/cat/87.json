@@ -1,7 +1,124 @@
 {
  "bucket": "87",
- "count": 14,
+ "count": 21,
  "titles": {
+  "movie:1084187": {
+   "backdrop_path": "/z3bzhmC0CPikWeerUkLO73YvGrC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bones",
+     "n": "Maddie Ziegler"
+    },
+    {
+     "c": "Princess",
+     "n": "Lana Condor"
+    },
+    {
+     "c": "Zoe",
+     "n": "Iris Apatow"
+    },
+    {
+     "c": "Chloe",
+     "n": "Millicent Simmonds"
+    },
+    {
+     "c": "Grace",
+     "n": "Avantika"
+    },
+    {
+     "c": "Lothar Marcovic",
+     "n": "Michael Culkin"
+    },
+    {
+     "c": "Miss Thorna",
+     "n": "Lydia Leonard"
+    },
+    {
+     "c": "Devora Kasimer",
+     "n": "Uma Thurman"
+    },
+    {
+     "c": "Bus Driver",
+     "n": "Tamás Hagyó"
+    },
+    {
+     "c": "Yuri",
+     "n": "Julian Krenn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Vicky Jewson"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Horror"
+   ],
+   "id": 1084187,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a dance competition.",
+   "popularity": 10.3012,
+   "poster_path": "/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
+   "production_countries": [
+    "US",
+    "HU",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-13",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "hu"
+   ],
+   "status": "Released",
+   "tagline": "Blood, sweat and tutus.",
+   "title": "Pretty Lethal",
+   "trailer": {
+    "key": "MpNobYCw0mg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.782,
+   "vote_count": 567
+  },
   "movie:1139087": {
    "backdrop_path": "/8KJMOKyl9rpgb9ELEwhfBMIaTHw.jpg",
    "budget": 0,
@@ -206,6 +323,681 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 442
+  },
+  "movie:1309587": {
+   "backdrop_path": "/rwp9tjccz9OG0b48ux6Y9DdsQ14.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nina",
+     "n": "Nora Arnezeder"
+    },
+    {
+     "c": "Sam, mère Nina",
+     "n": "Maria Bello"
+    },
+    {
+     "c": "Valéria",
+     "n": "Joséphine de la Baume"
+    },
+    {
+     "c": "Tarik",
+     "n": "Shubham Saraf"
+    },
+    {
+     "c": "Azaan",
+     "n": "Alyy Khan"
+    },
+    {
+     "c": "Manik, avocat de Nina",
+     "n": "Ranjit Krishnamma"
+    },
+    {
+     "c": "Juge Abdul Himawan",
+     "n": "Sartaj Garewal"
+    },
+    {
+     "c": "",
+     "n": "Raffaela O'Neill"
+    },
+    {
+     "c": "Julien",
+     "n": "Louka Meliava"
+    },
+    {
+     "c": "Nabil",
+     "n": "Nabil Behsis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Leïla Sy"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 1309587,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "Migrant Nina takes a hotel job in the Maldives, but her island paradise turns nightmarish after an incident. Falsely accused, she must evade traps to escape her unjust life sentence.",
+   "popularity": 2.1091,
+   "poster_path": "/nCL9LCKau7c0PBbkRMh7fKHjRRI.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-11-26",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Hell in Paradise",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 31
+  },
+  "movie:1363387": {
+   "backdrop_path": "/7NUx7bQAD4lo9yMDbprvIblhWo2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hana",
+     "n": "Midori Francis"
+    },
+    {
+     "c": "Josie",
+     "n": "Danielle Macdonald"
+    },
+    {
+     "c": "Alanya",
+     "n": "Madeleine Madden"
+    },
+    {
+     "c": "Travis",
+     "n": "Robert Taylor"
+    },
+    {
+     "c": "Kimie",
+     "n": "Showko Showfukutei"
+    },
+    {
+     "c": "Grace",
+     "n": "Octavia Barron-Martin"
+    },
+    {
+     "c": "Ghost Cadaver",
+     "n": "Anna Adams"
+    },
+    {
+     "c": "Melissa",
+     "n": "Annie Shapero"
+    },
+    {
+     "c": "Professor Kasab",
+     "n": "Louisa Mignone"
+    },
+    {
+     "c": "Ryan",
+     "n": "Joseph Baldwin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Natalie Erika James"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 1363387,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "After succumbing to an obscure weight-loss craze involving the eating of human ashes, lovelorn medical student Hana finds herself haunted by the ghost of the person she's eating.",
+   "popularity": 7.3715,
+   "poster_path": "/bCHPB5WZy4T0Rerh1GTuQLzU0rF.jpg",
+   "production_countries": [
+    "AU",
+    "FI",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-03",
+   "revenue": 456091,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What's eating you?",
+   "title": "Saccharine",
+   "trailer": {
+    "key": "uIY13LD3RUY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.108,
+   "vote_count": 329
+  },
+  "movie:1480387": {
+   "backdrop_path": "/4BSJVRQ3EsHMIVZSiKz1l58jDhg.jpg",
+   "budget": 500000,
+   "cast": [
+    {
+     "c": "Evy",
+     "n": "Nina Kiri"
+    },
+    {
+     "c": "Justin (voice)",
+     "n": "Adam DiMarco"
+    },
+    {
+     "c": "Mama",
+     "n": "Michèle Duquet"
+    },
+    {
+     "c": "Jessa (voice)",
+     "n": "Keana Bastidas"
+    },
+    {
+     "c": "Mike (voice)",
+     "n": "Jeff Yung"
+    },
+    {
+     "c": "Darren (voice)",
+     "n": "Ryan Turner"
+    },
+    {
+     "c": "Dr. Ram (voice)",
+     "n": "Ari Millen"
+    },
+    {
+     "c": "Nurse (voice)",
+     "n": "Marisol D’Andrea"
+    },
+    {
+     "c": "Caller 1 (voice)",
+     "n": "Austin Tuason"
+    },
+    {
+     "c": "Caller 2 (voice)",
+     "n": "Seled Calderon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ian Tuason"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 1480387,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.",
+   "popularity": 7.3667,
+   "poster_path": "/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-12",
+   "revenue": 21555603,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It wants to be heard.",
+   "title": "undertone",
+   "trailer": {
+    "key": "1fCZhJMkBaY",
+    "name": "Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.969,
+   "vote_count": 753
+  },
+  "movie:1561687": {
+   "backdrop_path": "/5MaWBfAxdlbsqDpq8mjCBNVoLM3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shenba",
+     "n": "Priyanka Arul Mohan"
+    },
+    {
+     "c": "Mani",
+     "n": "Rishikanth"
+    },
+    {
+     "c": "Yeon-Ok",
+     "n": "Park Hye-jin"
+    },
+    {
+     "c": "Heo Jun-jae",
+     "n": "Baek Si-hun"
+    },
+    {
+     "c": "Min-seok",
+     "n": "Jang Jae-hyeon"
+    },
+    {
+     "c": "Han-sol",
+     "n": "Kim So-ri"
+    },
+    {
+     "c": "Sung-hun",
+     "n": "Jo Ha-ram"
+    },
+    {
+     "c": "Woo-jin",
+     "n": "Kim Rok"
+    },
+    {
+     "c": "Shenba's Father",
+     "n": "Thirunavukkarasu"
+    },
+    {
+     "c": "Saamy",
+     "n": "Jenson Dhivakar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Ra. Karthik"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1561687,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "ta",
+   "overview": "A woman from a small town in Tamil Nadu moves to South Korea — a place she always dreamed of — but struggles to find her footing in a foreign land.",
+   "popularity": 1.9286,
+   "poster_path": "/n6gCKjagOFsU4arFngUq2QqR1jv.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-12",
+   "revenue": 0,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ko",
+    "ta"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Made in Korea",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 46
+  },
+  "movie:1659087": {
+   "backdrop_path": "/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Zak",
+     "n": "Prince Grootboom"
+    },
+    {
+     "c": "Portia",
+     "n": "Noxolo Dlamini"
+    },
+    {
+     "c": "Layla",
+     "n": "Danica De La Rey"
+    },
+    {
+     "c": "Lerumo",
+     "n": "Warren Masemola"
+    },
+    {
+     "c": "Floyd",
+     "n": "Desmond Dube"
+    },
+    {
+     "c": "Eezy",
+     "n": "Fana Mokoena"
+    },
+    {
+     "c": "Karwas",
+     "n": "Kabelo Thai"
+    },
+    {
+     "c": "Zuko",
+     "n": "Bongile Mantsai"
+    },
+    {
+     "c": "Grace",
+     "n": "Zenobia Kloppers"
+    },
+    {
+     "c": "Shoes",
+     "n": "Makhaola Ndebele"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Alex Yazbek"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Drama"
+   ],
+   "id": 1659087,
+   "industry": "world",
+   "origin_country": [
+    "ZA"
+   ],
+   "original_language": "en",
+   "overview": "When an unexpected road rage incident puts his son in critical condition, an enraged father spirals down a dark path of emotional turmoil and vengeance.",
+   "popularity": 4.0777,
+   "poster_path": "/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
+   "production_countries": [
+    "ZA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-16",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "af",
+    "en",
+    "tn",
+    "xh"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "180",
+   "trailer": {
+    "key": "jHtGZS-TFOI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 155
   },
   "movie:20187": {
    "backdrop_path": "/2fao0EDChNM0naadJs75IUeLHkY.jpg",
@@ -856,6 +1648,116 @@
    "type": "movie",
    "vote_average": 6.984,
    "vote_count": 474
+  },
+  "movie:829487": {
+   "backdrop_path": "/A3XP3vGg4DGDhEH75GnyyjsDDm1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Agneta",
+     "n": "Eva Melander"
+    },
+    {
+     "c": "Einar",
+     "n": "Claes Månsson"
+    },
+    {
+     "c": "Fabien",
+     "n": "Jérémie Covillault"
+    },
+    {
+     "c": "Bonibelle",
+     "n": "Anne-Marie Ponsot"
+    },
+    {
+     "c": "Magnus",
+     "n": "Björn Kjellman"
+    },
+    {
+     "c": "Kollega",
+     "n": "Matilda Ekström"
+    },
+    {
+     "c": "",
+     "n": "Richard Forsgren"
+    },
+    {
+     "c": "",
+     "n": "Alain Doutey"
+    },
+    {
+     "c": "",
+     "n": "Måns Molin"
+    },
+    {
+     "c": "",
+     "n": "Maxwell Cunningham"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Johanna Runevad"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 829487,
+   "industry": "world",
+   "origin_country": [
+    "SE"
+   ],
+   "original_language": "sv",
+   "overview": "Craving a fresh start, recently unemployed Agneta accepts an au pair gig in Provence that turns into an indulgent escape — and an unexpected awakening.",
+   "popularity": 2.3619,
+   "poster_path": "/nrwtoBNGgbFz3iiCx43TLHoBBPq.jpg",
+   "production_countries": [
+    "SE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-28",
+   "revenue": 0,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Je m'appelle Agneta",
+   "trailer": {
+    "key": "zEV1hSRd25Q",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.747,
+   "vote_count": 93
   },
   "tv:2187": {
    "backdrop_path": "/tZ2kKliPcBVEKQOTYbndFdIKIB8.jpg",

@@ -1,7 +1,586 @@
 {
  "bucket": "27",
- "count": 10,
+ "count": 19,
  "titles": {
+  "movie:1108427": {
+   "d": "Moana (2026): Family/Fantasy film. Story: Teenage Moana answers the Ocean's call and, for the… See cast, budget $250M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+   "industry": "world",
+   "k": "Moana, Moana movie, Moana cast, Moana story, Moana box office collection, Moana budget, Moana review, Moana rating, Moana release date, Moana trailer, Moana Family, Moana Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Catherine Lagaʻaia"
+     },
+     {
+      "@type": "Person",
+      "name": "Dwayne Johnson"
+     },
+     {
+      "@type": "Person",
+      "name": "Rena Owen"
+     },
+     {
+      "@type": "Person",
+      "name": "John Tui"
+     },
+     {
+      "@type": "Person",
+      "name": "Frankie Adams"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1051,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Moana (2026): Family/Fantasy film. Story: Teenage Moana answers the Ocean's call and, for the… See cast, budget $250M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Thomas Kail"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Family",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1108427",
+    "name": "Moana",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1108427"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Moana (2026)</h1>\n<p class=\"ssr-lead\">Teenage Moana answers the Ocean&#x27;s call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 July 2026</li><li>Runtime: 115 minutes</li><li>Director: Thomas Kail</li><li>Genres: Family, Fantasy, Comedy, Adventure</li><li>Budget: $250M</li><li>TMDB rating: 7.4/10 (1051 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Catherine Lagaʻaia as Moana</li><li>Dwayne Johnson as Maui</li><li>Rena Owen as Gramma Tala</li><li>John Tui as Chief Tui</li><li>Frankie Adams as Sina</li><li>Jemaine Clement as Tamatoa (voice)</li><li>Emma Puahi-Shapazian as Moana (4 years old)</li><li>Amaya Masoli as Moana (8 years old)</li><li>Sam Puefua as Village Fisherman</li><li>Sione Milford as Coconut Farmer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Moana (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1266127": {
+   "d": "Ready or Not: Here I Come (2026): Horror/Comedy film. Story: Moments after surviving an all-out attack from the Le… See cast and budget $14M.",
+   "img": "https://image.tmdb.org/t/p/w780/lE9CIX0NqKppnwopQdnabID6hZ1.jpg",
+   "industry": "world",
+   "k": "Ready or Not: Here I Come, Ready or Not: Here I Come movie, Ready or Not: Here I Come cast, Ready or Not: Here I Come story, Ready or Not: Here I Come box office collection, Ready or Not: Here I Come budget, Ready or Not: Here I Come review, Ready or Not: Here I Come rating, Ready or Not: Here I Come release date, Ready or Not: Here I Come trailer, Ready or Not: Here I Come Horror, Ready or Not: Here I Come Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Samara Weaving"
+     },
+     {
+      "@type": "Person",
+      "name": "Kathryn Newton"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Michelle Gellar"
+     },
+     {
+      "@type": "Person",
+      "name": "Shawn Hatosy"
+     },
+     {
+      "@type": "Person",
+      "name": "Elijah Wood"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1810,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Ready or Not: Here I Come (2026): Horror/Comedy film. Story: Moments after surviving an all-out attack from the Le… See cast and budget $14M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Matt Bettinelli-Olpin"
+     },
+     {
+      "@type": "Person",
+      "name": "Tyler Gillett"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Horror",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lE9CIX0NqKppnwopQdnabID6hZ1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1266127",
+    "name": "Ready or Not: Here I Come",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1266127"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ready or Not: Here I Come (2026)</h1>\n<p class=\"ssr-lead\">Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 April 2026</li><li>Runtime: 108 minutes</li><li>Director: Matt Bettinelli-Olpin, Tyler Gillett</li><li>Genres: Horror, Comedy</li><li>Budget: $14M</li><li>TMDB rating: 7.5/10 (1810 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Samara Weaving as Grace MacCaullay</li><li>Kathryn Newton as Faith MacCaullay</li><li>Sarah Michelle Gellar as Ursula Danforth</li><li>Shawn Hatosy as Titus Danforth</li><li>Elijah Wood as The Lawyer</li><li>Nestor Carbonell as Ignacio El Caido</li><li>Maia Jae as Francesca El Caído</li><li>Juan Pablo Romero as Felipe El Caído</li><li>Varun Saranga as Madhu Rajan</li><li>Nadeem Umar-Khitab as Viraj Rajan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Ready or Not: Here I Come (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1268127": {
+   "d": "Humint (2026): Thriller/Action film. Story: A South Korean agent hunts a drug ring in Russia and… See cast, budget $16M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5KFThZkdBEQkp9gPWWWNb5CI5yD.jpg",
+   "industry": "world",
+   "k": "Humint, Humint movie, Humint cast, Humint story, Humint box office collection, Humint budget, Humint review, Humint rating, Humint release date, Humint trailer, Humint Thriller, Humint Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Zo In-sung"
+     },
+     {
+      "@type": "Person",
+      "name": "Park Jeong-min"
+     },
+     {
+      "@type": "Person",
+      "name": "Park Hae-joon"
+     },
+     {
+      "@type": "Person",
+      "name": "Shin Sae-kyeong"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Maaser"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 199,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Humint (2026): Thriller/Action film. Story: A South Korean agent hunts a drug ring in Russia and… See cast, budget $16M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ryoo Seung-wan"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "Thriller",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5KFThZkdBEQkp9gPWWWNb5CI5yD.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1268127",
+    "name": "Humint",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1268127"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Humint (2026)</h1>\n<p class=\"ssr-lead\">A South Korean agent hunts a drug ring in Russia and goes head-to-head with a North Korean operative — pulling both into peril and tangled secrets.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 February 2026</li><li>Runtime: 120 minutes</li><li>Director: Ryoo Seung-wan</li><li>Genres: Thriller, Action, Drama</li><li>Budget: $16M</li><li>TMDB rating: 7.4/10 (199 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Zo In-sung as Manager Zo</li><li>Park Jeong-min as Park Geon</li><li>Park Hae-joon as Hwang Chi-seong</li><li>Shin Sae-kyeong as Chae Seon-hwa</li><li>Robert Maaser as Aleksei</li><li>Eugene Jung as Assistant Manager Lim</li><li>Park Myung-shin as North Korean Restaurant Manager</li><li>Lee Shin-ki as Geum-tae</li><li>Kang Ha-kyung as Eun-pyo</li><li>Lee Jun-young as Dong-cheol</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Humint (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1381027": {
+   "d": "Good Boy (2026): Drama/Mystery film. Story: Tommy, a volatile 19-year-old, revels in drugs… See cast, TMDB rating 7.2/10, and release date 5 March 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/6AYl4PU29o2WXUPZzAo56GVQs5r.jpg",
+   "industry": "world",
+   "k": "Good Boy, Good Boy movie, Good Boy cast, Good Boy story, Good Boy box office collection, Good Boy budget, Good Boy review, Good Boy rating, Good Boy release date, Good Boy trailer, Good Boy Drama, Good Boy Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anson Boon"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephen Graham"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrea Riseborough"
+     },
+     {
+      "@type": "Person",
+      "name": "Kit Rakusen"
+     },
+     {
+      "@type": "Person",
+      "name": "Monika Frajczyk"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 389,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Good Boy (2026): Drama/Mystery film. Story: Tommy, a volatile 19-year-old, revels in drugs… See cast, TMDB rating 7.2/10, and release date 5 March 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jan Komasa"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Drama",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6AYl4PU29o2WXUPZzAo56GVQs5r.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1381027",
+    "name": "Good Boy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1381027"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Good Boy (2026)</h1>\n<p class=\"ssr-lead\">Tommy, a volatile 19-year-old, revels in drugs, parties and violence. After getting separated from his friends on a drunken bender, he is abducted by a shadowy figure. He wakes to find himself imprisoned in the basement of a remote Yorkshire house, inhabited by a very strange family. But what unfolds is not what he could possibly expect.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 March 2026</li><li>Runtime: 110 minutes</li><li>Director: Jan Komasa</li><li>Genres: Drama, Mystery, Horror</li><li>TMDB rating: 7.2/10 (389 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anson Boon as Tommy</li><li>Stephen Graham as Chris</li><li>Andrea Riseborough as Kathryn</li><li>Kit Rakusen as Jonathan</li><li>Monika Frajczyk as Rina</li><li>Savannah Steyn as Gabby</li><li>Mila Jankowska as Lindsay</li><li>Callum Booth-Ford as Ste</li><li>Noah Valentine as Jack</li><li>Noah Manzoor as Mikey</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Good Boy (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1403327": {
+   "d": "Coartadas (2025): Comedy/Romance film. Story: Follows the founder of a company who offers alibis to… See cast and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/drMidAxpR0IN9rUAu3Cv2moV5BW.jpg",
+   "industry": "world",
+   "k": "Coartadas, Coartadas movie, Coartadas cast, Coartadas story, Coartadas box office collection, Coartadas budget, Coartadas review, Coartadas rating, Coartadas release date, Coartadas Comedy, Coartadas Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jaime Lorente"
+     },
+     {
+      "@type": "Person",
+      "name": "Adriana Torrebejano"
+     },
+     {
+      "@type": "Person",
+      "name": "Leo Harlem"
+     },
+     {
+      "@type": "Person",
+      "name": "Llum Barrera"
+     },
+     {
+      "@type": "Person",
+      "name": "Antón Lofer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 36,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Coartadas (2025): Comedy/Romance film. Story: Follows the founder of a company who offers alibis to… See cast and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Hugo Martín Cuervo"
+     }
+    ],
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/drMidAxpR0IN9rUAu3Cv2moV5BW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1403327",
+    "name": "Coartadas",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-11-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1403327"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Coartadas (2025)</h1>\n<p class=\"ssr-lead\">Follows the founder of a company who offers alibis to customers who are dishonest or disloyal.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2025</li><li>Director: Hugo Martín Cuervo</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 6.0/10 (36 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jaime Lorente as Miguel</li><li>Adriana Torrebejano as Noelia</li><li>Leo Harlem as José María</li><li>Llum Barrera as Carmen</li><li>Antón Lofer as Damián</li><li>Ana Jara Martínez as Isa</li><li>Paula Prendes as Txakira</li><li>Salva Reina as Darío</li><li>Mariam Hernández as Jimena</li><li>Omar Montes as Artista</li></ul>\n</article>",
+   "t": "Coartadas (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1417127": {
+   "d": "It’s All Good (2026): Comedy/Romance film. Story: After taking care of his intrusive mother for years… See cast and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wTXGv4iZbJCrdKB9MGsncFq8vuh.jpg",
+   "industry": "world",
+   "k": "It’s All Good, It’s All Good movie, It’s All Good cast, It’s All Good story, It’s All Good box office collection, It’s All Good budget, It’s All Good review, It’s All Good rating, It’s All Good release date, It’s All Good Comedy, It’s All Good Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hakim Jemili"
+     },
+     {
+      "@type": "Person",
+      "name": "Noémie Lvovsky"
+     },
+     {
+      "@type": "Person",
+      "name": "Marie Colomb"
+     },
+     {
+      "@type": "Person",
+      "name": "Rudy Milstein"
+     },
+     {
+      "@type": "Person",
+      "name": "Camille Chamoux"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 20,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "It’s All Good (2026): Comedy/Romance film. Story: After taking care of his intrusive mother for years… See cast and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Patrick Cassir"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wTXGv4iZbJCrdKB9MGsncFq8vuh.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1417127",
+    "name": "It’s All Good",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1417127"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>It’s All Good (2026)</h1>\n<p class=\"ssr-lead\">After taking care of his intrusive mother for years, Elie is relieved: she is cured. He can finally focus on his own life and falls in love… until his mom’s relapse. Now he has to take care of both the women in his life!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 May 2026</li><li>Runtime: 91 minutes</li><li>Director: Patrick Cassir</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 6.2/10 (20 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hakim Jemili as Elie</li><li>Noémie Lvovsky as Sylvaine</li><li>Marie Colomb as Anaïs</li><li>Rudy Milstein as Fabien</li><li>Camille Chamoux as Dr. Ackerman</li><li>Darina Al Joundi as Nour</li><li>Alexandra Roth as Corinne</li><li>Léa Issert as Alex</li><li>Raphaël Almosni as Rolland</li><li>Tania Dessources as Lucie</li></ul>\n</article>",
+   "t": "It’s All Good (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1450527": {
+   "d": "Forbidden Fruits (2026): Horror/Comedy film. Story: At a mall store, Apple leads a secret witch cult with… See cast and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jAOpZDgy4eMY6o6oGdUiXk4SqvE.jpg",
+   "industry": "world",
+   "k": "Forbidden Fruits, Forbidden Fruits movie, Forbidden Fruits cast, Forbidden Fruits story, Forbidden Fruits box office collection, Forbidden Fruits budget, Forbidden Fruits review, Forbidden Fruits rating, Forbidden Fruits release date, Forbidden Fruits trailer, Forbidden Fruits Horror, Forbidden Fruits Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lili Reinhart"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexandra Shipp"
+     },
+     {
+      "@type": "Person",
+      "name": "Victoria Pedretti"
+     },
+     {
+      "@type": "Person",
+      "name": "Lola Tung"
+     },
+     {
+      "@type": "Person",
+      "name": "Siddharth Sharma"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 117,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Forbidden Fruits (2026): Horror/Comedy film. Story: At a mall store, Apple leads a secret witch cult with… See cast and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Meredith Alloway"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Horror",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jAOpZDgy4eMY6o6oGdUiXk4SqvE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1450527",
+    "name": "Forbidden Fruits",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1450527"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Forbidden Fruits (2026)</h1>\n<p class=\"ssr-lead\">At a mall store, Apple leads a secret witch cult with coworkers Cherry and Fig. New hire Pumpkin questions their sisterhood, forcing them to confront inner darkness or meet violent ends.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 March 2026</li><li>Runtime: 103 minutes</li><li>Director: Meredith Alloway</li><li>Genres: Horror, Comedy</li><li>TMDB rating: 5.7/10 (117 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lili Reinhart as Apple</li><li>Alexandra Shipp as Fig</li><li>Victoria Pedretti as Cherry</li><li>Lola Tung as Pumpkin</li><li>Siddharth Sharma as Norman</li><li>Emma Chamberlain as Pickle</li><li>Gabrielle Union as Sharon</li><li>Jordan Duarte as Texas Dad</li><li>Jacqueline Byers as Momfluencer</li><li>Zack Thompson as Fries Boy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Forbidden Fruits (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1602727": {
+   "d": "Night King (2026): Comedy/Drama film. Story: The once-glamourous nightclub EJ Entertainment… See cast, TMDB rating 7.0/10, and release date 16 February 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/i9ptnJUIQkMqAe2XBDiFYDYEHn7.jpg",
+   "industry": "world",
+   "k": "Night King, Night King movie, Night King cast, Night King story, Night King box office collection, Night King budget, Night King review, Night King rating, Night King release date, Night King trailer, Night King Comedy, Night King Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dayo Wong Tsz-wah"
+     },
+     {
+      "@type": "Person",
+      "name": "Sammi Cheng Sau-Man"
+     },
+     {
+      "@type": "Person",
+      "name": "Louise Wong Tan-nei"
+     },
+     {
+      "@type": "Person",
+      "name": "Fish Liew Chi-yu"
+     },
+     {
+      "@type": "Person",
+      "name": "Yeung Wai-Lun"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 29,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Night King (2026): Comedy/Drama film. Story: The once-glamourous nightclub EJ Entertainment… See cast, TMDB rating 7.0/10, and release date 16 February 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jack Ng Wai-lun"
+     }
+    ],
+    "duration": "PT133M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/i9ptnJUIQkMqAe2XBDiFYDYEHn7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1602727",
+    "name": "Night King",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1602727"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Night King (2026)</h1>\n<p class=\"ssr-lead\">The once-glamourous nightclub EJ Entertainment suddenly experiences a hostile takeover. Much like the nightclub industry, the glory days are over for the club’s manager, despite having stood tall in East Tsim Sha Tsui for decades. To make matters worse, the new CEO is none other than his cutthroat ex-wife.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 February 2026</li><li>Runtime: 133 minutes</li><li>Director: Jack Ng Wai-lun</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 7.0/10 (29 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dayo Wong Tsz-wah as Foon Kwan</li><li>Sammi Cheng Sau-Man as Dame V</li><li>Louise Wong Tan-nei as Coco</li><li>Fish Liew Chi-yu as Mimi</li><li>Yeung Wai-Lun as Turf</li><li>Renci Yeung as Bobo</li><li>Mandy Tam Man-huen as ChiLing</li><li>Li Sum-ling as Crystal</li><li>Hazel Lam Hei-tung as BB</li><li>Miko Wong as Mickey</li></ul>\n</article>",
+   "t": "Night King (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1607127": {
+   "d": "One Last Shot (2026): Action/Thriller film. Story: Navy Seal Jake Harris must stop a team of… See cast, TMDB rating 7.2/10, and release date 22 September 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/7AArZYRp6zGtbvSbbqoHn9xFp0L.jpg",
+   "industry": "world",
+   "k": "One Last Shot, One Last Shot movie, One Last Shot cast, One Last Shot story, One Last Shot box office collection, One Last Shot budget, One Last Shot review, One Last Shot rating, One Last Shot release date, One Last Shot trailer, One Last Shot Action, One Last Shot Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Scott Adkins"
+     },
+     {
+      "@type": "Person",
+      "name": "Steven Cree"
+     },
+     {
+      "@type": "Person",
+      "name": "Hannah Ware"
+     },
+     {
+      "@type": "Person",
+      "name": "Dolph Lundgren"
+     },
+     {
+      "@type": "Person",
+      "name": "Kane Kosugi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 167,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "One Last Shot (2026): Action/Thriller film. Story: Navy Seal Jake Harris must stop a team of… See cast, TMDB rating 7.2/10, and release date 22 September 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James Nunn"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7AArZYRp6zGtbvSbbqoHn9xFp0L.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1607127",
+    "name": "One Last Shot",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1607127"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>One Last Shot (2026)</h1>\n<p class=\"ssr-lead\">Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 September 2026</li><li>Runtime: 98 minutes</li><li>Director: James Nunn</li><li>Genres: Action, Thriller</li><li>TMDB rating: 7.2/10 (167 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Scott Adkins as Jake Harris</li><li>Steven Cree as Elliot Carter</li><li>Hannah Ware as Elena Torres</li><li>Dolph Lundgren as Admiral Mulholland</li><li>Kane Kosugi as Lee</li><li>Neil Linpow as Long</li><li>Ray Fearon as Robinson</li><li>Tom Dunne as Greene</li><li>Michel Curiel as Perez</li><li>Tom Leigh as Jericho</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "One Last Shot (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:278427": {
    "d": "Family Guy Presents: It's a Trap! (2010): Animation/Comedy film. Story: With the Griffins stuck again at home during a… See cast and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/jbYJbHBsCtcewKM68YIyIzjvdhP.jpg",

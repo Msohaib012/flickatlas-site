@@ -1,7 +1,70 @@
 {
  "bucket": "50",
- "count": 18,
+ "count": 27,
  "titles": {
+  "movie:1069650": {
+   "d": "The Girl in the Snow (2025): Drama film. Story: 1899. On a stormy night, Aimée, a young Republican… See cast and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vOjos1WEp2HJlW63SRwCZObH67g.jpg",
+   "industry": "world",
+   "k": "The Girl in the Snow, The Girl in the Snow movie, The Girl in the Snow cast, The Girl in the Snow story, The Girl in the Snow box office collection, The Girl in the Snow budget, The Girl in the Snow review, The Girl in the Snow rating, The Girl in the Snow release date, The Girl in the Snow Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Galatea Bellugi"
+     },
+     {
+      "@type": "Person",
+      "name": "Matthieu Lucci"
+     },
+     {
+      "@type": "Person",
+      "name": "Samuel Kircher"
+     },
+     {
+      "@type": "Person",
+      "name": "Oscar Pons"
+     },
+     {
+      "@type": "Person",
+      "name": "Sharif Andoura"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 23,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "The Girl in the Snow (2025): Drama film. Story: 1899. On a stormy night, Aimée, a young Republican… See cast and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Louise Hémon"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vOjos1WEp2HJlW63SRwCZObH67g.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1069650",
+    "name": "The Girl in the Snow",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1069650"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Girl in the Snow (2025)</h1>\n<p class=\"ssr-lead\">1899. On a stormy night, Aimée, a young Republican schoolteacher, arrives in a snowy hamlet on the edge of the Alps. Despite the mistrust of the inhabitants, she is determined to shed light on their dark beliefs. As she blends into the life of the community, a sensual vertigo grows within her.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 December 2025</li><li>Runtime: 98 minutes</li><li>Director: Louise Hémon</li><li>Genres: Drama</li><li>TMDB rating: 5.7/10 (23 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Galatea Bellugi as Aimée</li><li>Matthieu Lucci as Enoch</li><li>Samuel Kircher as Pépin</li><li>Oscar Pons as Daniel</li><li>Sharif Andoura as One of the dads</li><li>Léna Camillieri Dorléans as Béloti</li><li>Solal Griveau Martin as Nams</li><li>Lula Guaydan as Marie</li><li>Greta Saggiorato as Marion</li><li>André Borel as Le vieux Jupiter</li></ul>\n</article>",
+   "t": "The Girl in the Snow (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
   "movie:114750": {
    "d": "Dear White People (2014): Comedy/Drama film. Story: A campus culture war between blacks and whites at a… See cast, budget $1.3M, and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/aZXtziEpZR1GpPwzIyr2s1dRWsW.jpg",
@@ -66,6 +129,244 @@
    "t": "Dear White People (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:1290450": {
+   "d": "Love Me Tender (2025): Drama film. Story: At the end of summer, Clémence tells her ex-husband… See cast, TMDB rating 6.6/10, and release date 10 December 2025.",
+   "img": "https://image.tmdb.org/t/p/w780/wNpEnHxNQXSv2fc3bW0QNuswKs6.jpg",
+   "industry": "world",
+   "k": "Love Me Tender, Love Me Tender movie, Love Me Tender cast, Love Me Tender story, Love Me Tender box office collection, Love Me Tender budget, Love Me Tender review, Love Me Tender rating, Love Me Tender release date, Love Me Tender trailer, Love Me Tender Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vicky Krieps"
+     },
+     {
+      "@type": "Person",
+      "name": "Antoine Reinartz"
+     },
+     {
+      "@type": "Person",
+      "name": "Monia Chokri"
+     },
+     {
+      "@type": "Person",
+      "name": "Viggo Ferreira Redier"
+     },
+     {
+      "@type": "Person",
+      "name": "Aurélia Petit"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 27,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Love Me Tender (2025): Drama film. Story: At the end of summer, Clémence tells her ex-husband… See cast, TMDB rating 6.6/10, and release date 10 December 2025.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Anna Cazenave Cambet"
+     }
+    ],
+    "duration": "PT134M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wNpEnHxNQXSv2fc3bW0QNuswKs6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1290450",
+    "name": "Love Me Tender",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1290450"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Love Me Tender (2025)</h1>\n<p class=\"ssr-lead\">At the end of summer, Clémence tells her ex-husband that she’s had relationships with women. Her life is turned upside down when he files to strip her of their son’s custody. Then begins a struggle of several years for Clémence to defend her right to be a mother and a woman – free to make her own choices.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 December 2025</li><li>Runtime: 134 minutes</li><li>Director: Anna Cazenave Cambet</li><li>Genres: Drama</li><li>TMDB rating: 6.6/10 (27 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vicky Krieps as Clémence Delcourt</li><li>Antoine Reinartz as Laurent</li><li>Monia Chokri as Sarah</li><li>Viggo Ferreira Redier as Paul</li><li>Aurélia Petit as Mediation Director</li><li>Park Ji-min as Victoire</li><li>Salif Cissé as Psychiatrist expert</li><li>Julien de Saint Jean as Léo</li><li>Malou Khebizi as Young Mother</li><li>Tallulah Cassavetti as Elisabeth</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Rakuten TV, Amazon Video, Sky Store, BFI Player</li><li>Buy: Apple TV Store, Rakuten TV, Amazon Video, Sky Store</li></ul>\n</article>",
+   "t": "Love Me Tender (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1312150": {
+   "d": "Ricky Gervais: Mortality (2025): Comedy/TV Movie film. Story: Ricky Gervais tackles life, death and the state of… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ggzUa7gPXs7mnLhJEcwP9r10Z9e.jpg",
+   "industry": "world",
+   "k": "Ricky Gervais: Mortality, Ricky Gervais: Mortality movie, Ricky Gervais: Mortality cast, Ricky Gervais: Mortality story, Ricky Gervais: Mortality box office collection, Ricky Gervais: Mortality budget, Ricky Gervais: Mortality review, Ricky Gervais: Mortality rating, Ricky Gervais: Mortality release date, Ricky Gervais: Mortality Comedy, Ricky Gervais: Mortality TV Movie, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ricky Gervais"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 113,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Ricky Gervais: Mortality (2025): Comedy/TV Movie film. Story: Ricky Gervais tackles life, death and the state of… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John L. Spencer"
+     }
+    ],
+    "duration": "PT60M",
+    "genre": [
+     "Comedy",
+     "TV Movie"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ggzUa7gPXs7mnLhJEcwP9r10Z9e.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1312150",
+    "name": "Ricky Gervais: Mortality",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1312150"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ricky Gervais: Mortality (2025)</h1>\n<p class=\"ssr-lead\">Ricky Gervais tackles life, death and the state of the world in a brutally honest special that spares no topic, even his own mortality.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 December 2025</li><li>Runtime: 60 minutes</li><li>Director: John L. Spencer</li><li>Genres: Comedy, TV Movie</li><li>TMDB rating: 6.9/10 (113 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ricky Gervais as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Ricky Gervais: Mortality (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1398050": {
+   "d": "Driver's Ed (2026): Comedy film. Story: A group of teens hit the road in a stolen driver's ed… See cast, TMDB rating 6.9/10, and release date 14 May 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/3fs6Encf71ChabAKV6VrnpQRrjV.jpg",
+   "industry": "world",
+   "k": "Driver's Ed, Driver's Ed movie, Driver's Ed cast, Driver's Ed story, Driver's Ed box office collection, Driver's Ed budget, Driver's Ed review, Driver's Ed rating, Driver's Ed release date, Driver's Ed trailer, Driver's Ed Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sam Nivola"
+     },
+     {
+      "@type": "Person",
+      "name": "Sophie Telegadis"
+     },
+     {
+      "@type": "Person",
+      "name": "Mohana Krishnan"
+     },
+     {
+      "@type": "Person",
+      "name": "Aidan Laprete"
+     },
+     {
+      "@type": "Person",
+      "name": "Kumail Nanjiani"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 104,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Driver's Ed (2026): Comedy film. Story: A group of teens hit the road in a stolen driver's ed… See cast, TMDB rating 6.9/10, and release date 14 May 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bobby Farrelly"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3fs6Encf71ChabAKV6VrnpQRrjV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1398050",
+    "name": "Driver's Ed",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1398050"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Driver&#x27;s Ed (2026)</h1>\n<p class=\"ssr-lead\">A group of teens hit the road in a stolen driver&#x27;s ed car, racing against time to help a lovesick high school senior track down his college-freshman girlfriend and win her back.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 May 2026</li><li>Runtime: 102 minutes</li><li>Director: Bobby Farrelly</li><li>Genres: Comedy</li><li>TMDB rating: 6.9/10 (104 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sam Nivola as Jeremy</li><li>Sophie Telegadis as Evie</li><li>Mohana Krishnan as Aparna</li><li>Aidan Laprete as Yoshi</li><li>Kumail Nanjiani as Mr. Rivers</li><li>Molly Shannon as Principal Fisher</li><li>Lilah Pate as Samantha</li><li>Tim Baltz as Officer Walsh</li><li>Bri Giger as Officer Lee</li><li>Marley Aliah as Lo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Driver's Ed (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1440050": {
+   "d": "The Breadwinner (2026): Comedy/Family film. Story: After his wife Katie lands a once-in-a-lifetime deal… See cast, budget $25M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dgqBcgTzaUiSLvKJPDF9AbdFEMO.jpg",
+   "industry": "world",
+   "k": "The Breadwinner, The Breadwinner movie, The Breadwinner cast, The Breadwinner story, The Breadwinner box office collection, The Breadwinner budget, The Breadwinner review, The Breadwinner rating, The Breadwinner release date, The Breadwinner trailer, The Breadwinner Comedy, The Breadwinner Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nate Bargatze"
+     },
+     {
+      "@type": "Person",
+      "name": "Mandy Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "Stella Grace Fitzgerald"
+     },
+     {
+      "@type": "Person",
+      "name": "Birdie Borria"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlotte Ann Tucker"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 137,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Breadwinner (2026): Comedy/Family film. Story: After his wife Katie lands a once-in-a-lifetime deal… See cast, budget $25M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Eric Appel"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dgqBcgTzaUiSLvKJPDF9AbdFEMO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1440050",
+    "name": "The Breadwinner",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1440050"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Breadwinner (2026)</h1>\n<p class=\"ssr-lead\">After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 May 2026</li><li>Runtime: 100 minutes</li><li>Director: Eric Appel</li><li>Genres: Comedy, Family</li><li>Budget: $25M</li><li>TMDB rating: 7.1/10 (137 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nate Bargatze as Nate Wilcox</li><li>Mandy Moore as Katie Wilcox</li><li>Stella Grace Fitzgerald as Gracie Wilcox</li><li>Birdie Borria as Hadley Wilcox</li><li>Charlotte Ann Tucker as Sam Wilcox</li><li>Colin Jost as Conor Ashford</li><li>Will Forte as Keegan</li><li>Martin Herlihy as Peter</li><li>Zach Cherry as Dan</li><li>Kumail Nanjiani as Peyton</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Breadwinner (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:1450": {
    "d": "Blood: The Last Vampire (2009): Action/Adventure film. Story: On the surface, Saya is a stunning 16-year-old, but… See cast and budget $30M.",
    "img": "https://image.tmdb.org/t/p/w780/ryBUkjVLKjSJOTgBfxHrdu7rxG0.jpg",
@@ -129,6 +430,133 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Blood: The Last Vampire (2009)</h1>\n<p class=\"ssr-lead\">On the surface, Saya is a stunning 16-year-old, but that youthful exterior hides the tormented soul of a 400-year-old &quot;halfling&quot;. Born to a human father and a vampire mother, she has for centuries been a loner obsessed with using her samurai skills to rid the world of vampires, all the while knowing that she herself can survive only on blood like those she hunts.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 April 2009</li><li>Runtime: 91 minutes</li><li>Director: Chris Nahon</li><li>Genres: Action, Adventure, Horror, Science Fiction, Thriller</li><li>Budget: $30M</li><li>TMDB rating: 5.9/10 (447 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gianna Jun as Saya</li><li>Allison Miller as Alice Mckee</li><li>Liam Cunningham as Michael</li><li>JJ Feild as Luke</li><li>Koyuki as Onigen</li><li>Yasuaki Kurata as Kato Takatora</li><li>Michael Byrne as Elder</li><li>Colin Salmon as Powell</li><li>Andrew Pleavin as Frank Nielsen</li><li>Larry Lamb as General McKee</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Fandango At Home</li></ul>\n</article>",
    "t": "Blood: The Last Vampire (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2009"
+  },
+  "movie:1546050": {
+   "d": "Lone Samurai (2026): Fantasy/Action film. Story: A violent and reckless samurai is shipwrecked on a… See cast and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/a3Q2QZ1QPYVXJEVO8mKoCC1VNzt.jpg",
+   "industry": "world",
+   "k": "Lone Samurai, Lone Samurai movie, Lone Samurai cast, Lone Samurai story, Lone Samurai box office collection, Lone Samurai budget, Lone Samurai review, Lone Samurai rating, Lone Samurai release date, Lone Samurai trailer, Lone Samurai Fantasy, Lone Samurai Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shogen"
+     },
+     {
+      "@type": "Person",
+      "name": "Yayan Ruhian"
+     },
+     {
+      "@type": "Person",
+      "name": "Rama Ramadhan"
+     },
+     {
+      "@type": "Person",
+      "name": "Sumire Ashina"
+     },
+     {
+      "@type": "Person",
+      "name": "Faisal Rachman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 57,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Lone Samurai (2026): Fantasy/Action film. Story: A violent and reckless samurai is shipwrecked on a… See cast and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Josh C. Waller"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Fantasy",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/a3Q2QZ1QPYVXJEVO8mKoCC1VNzt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1546050",
+    "name": "Lone Samurai",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1546050"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Lone Samurai (2026)</h1>\n<p class=\"ssr-lead\">A violent and reckless samurai is shipwrecked on a remote island left without an avenue for his rage. After undertaking a spiritual journey to appease his aggressive thoughts, he finds himself abducted by external demons taking the form of cannibals, putting his sense of reality and deadly talents to the test.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 October 2026</li><li>Runtime: 95 minutes</li><li>Director: Josh C. Waller</li><li>Genres: Fantasy, Action</li><li>TMDB rating: 6.4/10 (57 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shogen as Riku</li><li>Yayan Ruhian as Witch</li><li>Rama Ramadhan as Boar</li><li>Sumire Ashina as Army</li><li>Faisal Rachman as Bone Thin</li><li>Fatih Unru as Putra</li><li>Yayu Unru as The Chief</li><li>Takeshi Irie as The Storyteller</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, ViX Premium Amazon Channel, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Lone Samurai (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1646950": {
+   "d": "Capture (2026): Horror film. Story: After mysteriously inheriting her parents house, a… See cast, TMDB rating 5.2/10, and release date 17 March 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/rBGP7dcuwBKif01Nb5FzVvHbxcY.jpg",
+   "industry": "world",
+   "k": "Capture, Capture movie, Capture cast, Capture story, Capture box office collection, Capture budget, Capture review, Capture rating, Capture release date, Capture trailer, Capture Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kaitlyn Lunardi"
+     },
+     {
+      "@type": "Person",
+      "name": "Cedric Gegel"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Cimperman"
+     },
+     {
+      "@type": "Person",
+      "name": "Grant Schumacher"
+     },
+     {
+      "@type": "Person",
+      "name": "Leah Eckardt"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 21,
+     "ratingValue": 5.2,
+     "worstRating": 0
+    },
+    "description": "Capture (2026): Horror film. Story: After mysteriously inheriting her parents house, a… See cast, TMDB rating 5.2/10, and release date 17 March 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bruce Wemple"
+     }
+    ],
+    "duration": "PT85M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rBGP7dcuwBKif01Nb5FzVvHbxcY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1646950",
+    "name": "Capture",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1646950"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Capture (2026)</h1>\n<p class=\"ssr-lead\">After mysteriously inheriting her parents house, a lifelong orphan finds a camcorder and a collection of video tapes containing the gruesome secrets of her family&#x27;s past, and the horrifying truth behind the camcorder they were captured on.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 March 2026</li><li>Runtime: 85 minutes</li><li>Director: Bruce Wemple</li><li>Genres: Horror</li><li>TMDB rating: 5.2/10 (21 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kaitlyn Lunardi as Abby</li><li>Cedric Gegel as Steve</li><li>Chris Cimperman as Kyle</li><li>Grant Schumacher as Jason</li><li>Leah Eckardt as Paige</li><li>LeJon Woods as Adam</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Capture (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:25050": {
    "d": "Still Walking (2008): Drama/Family film. Story: A family gathers together for a commemorative ritual… See cast and TMDB rating 7.8/10.",
@@ -385,6 +813,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>You Don&#x27;t Know Jack (2010)</h1>\n<p class=\"ssr-lead\">Controversy and legal problems follow Dr. Jack Kevorkian as he advocates assisted suicide.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 June 2010</li><li>Runtime: 134 minutes</li><li>Director: Barry Levinson</li><li>Genres: Drama, TV Movie, History</li><li>TMDB rating: 7.0/10 (460 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Al Pacino as Dr. Jack Kevorkian</li><li>Danny Huston as Geoffrey Fieger</li><li>Susan Sarandon as Janet Good</li><li>John Goodman as Neal Nicol</li><li>Brenda Vaccaro as Margo Janus</li><li>Eric Lange as John Skrzynski</li><li>James Urbaniak as Jack Lessenberry</li><li>Rutanya Alda as Vendor</li><li>Delaney Williams as Detective #1</li><li>Danielle McKee as Dorothy Lessenberry</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
    "t": "You Don't Know Jack (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
+  },
+  "movie:910850": {
+   "d": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe (2026): Animation/Science Fiction film. Story: Hathaway Noa plans his attack on the Adelaide… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/dp9FPgUwPc2XIXYct2cQ1PgFv7f.jpg",
+   "industry": "world",
+   "k": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe, MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe movie, MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe cast, MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe story, MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe box office collection, MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe budget, MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe review, MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe rating, MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe release date, MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe trailer, MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe Animation, MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kensho Ono"
+     },
+     {
+      "@type": "Person",
+      "name": "Reina Ueda"
+     },
+     {
+      "@type": "Person",
+      "name": "Junichi Suwabe"
+     },
+     {
+      "@type": "Person",
+      "name": "Soma Saito"
+     },
+     {
+      "@type": "Person",
+      "name": "Kenjiro Tsuda"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 37,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe (2026): Animation/Science Fiction film. Story: Hathaway Noa plans his attack on the Adelaide… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Shukou Murase"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Animation",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dp9FPgUwPc2XIXYct2cQ1PgFv7f.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=910850",
+    "name": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=910850"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe (2026)</h1>\n<p class=\"ssr-lead\">Hathaway Noa plans his attack on the Adelaide Conference while Federation officer Kenneth Sleg prepares to defend it. With each man pursuing his own goal, Gigi Andalucia heads to Hong Kong to fulfill a role of her own.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 January 2026</li><li>Runtime: 115 minutes</li><li>Director: Shukou Murase</li><li>Genres: Animation, Science Fiction, War, Drama</li><li>TMDB rating: 8.0/10 (37 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kensho Ono as Hathaway Noa (voice)</li><li>Reina Ueda as Gigi Andalucia (voice)</li><li>Junichi Suwabe as Kenneth Sleg (voice)</li><li>Soma Saito as Lane Aim (voice)</li><li>Kenjiro Tsuda as Gawman Nobile (voice)</li><li>Yui Ishikawa as Emeralda Zubin (voice)</li><li>Fukushi Ochiai as Raymond Cain (voice)</li><li>Shunsuke Takeuchi as Iram Masam (voice)</li><li>Saori Hayami as Kelia Dace (voice)</li><li>Misato Matsuoka as Mihessia Hence (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:938150": {
+   "d": "Wardriver (2026): Thriller/Crime film. Story: He’s a Wardriver: a hacker who steals from banks, not… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cVhvKbZS8H0oqKDGzoKvgG9dS1B.jpg",
+   "industry": "world",
+   "k": "Wardriver, Wardriver movie, Wardriver cast, Wardriver story, Wardriver box office collection, Wardriver budget, Wardriver review, Wardriver rating, Wardriver release date, Wardriver trailer, Wardriver Thriller, Wardriver Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dane DeHaan"
+     },
+     {
+      "@type": "Person",
+      "name": "Sasha Calle"
+     },
+     {
+      "@type": "Person",
+      "name": "Mamoudou Athie"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeffrey Donovan"
+     },
+     {
+      "@type": "Person",
+      "name": "William Belleau"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 153,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Wardriver (2026): Thriller/Crime film. Story: He’s a Wardriver: a hacker who steals from banks, not… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rebecca Thomas"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Thriller",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cVhvKbZS8H0oqKDGzoKvgG9dS1B.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=938150",
+    "name": "Wardriver",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=938150"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wardriver (2026)</h1>\n<p class=\"ssr-lead\">He’s a Wardriver: a hacker who steals from banks, not people—until he’s noticed. Now the money turns violent, and the woman caught in it could save him or kill them both.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 March 2026</li><li>Runtime: 93 minutes</li><li>Director: Rebecca Thomas</li><li>Genres: Thriller, Crime</li><li>TMDB rating: 7.4/10 (153 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dane DeHaan as Cole</li><li>Sasha Calle as Sarah</li><li>Mamoudou Athie as Oscar</li><li>Jeffrey Donovan as Bilson</li><li>William Belleau as Doug</li><li>Karina Segura as Anna</li><li>Brooke Burton as Bilson’s Wife</li><li>Cameron Lee Price as Freddie</li><li>Gary DeShaun House as Tyrone</li><li>Luz Ozuna as Anna</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Wardriver (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "tv:1450": {
    "d": "The Closer (2005) is a Crime and Drama TV series. Explore its story: Deputy Police Chief Brenda Leigh Johnson transfers…, cast, 7 seasons, and 109 episodes.",

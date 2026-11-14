@@ -1,6 +1,6 @@
 {
  "bucket": "89",
- "count": 19,
+ "count": 24,
  "titles": {
   "movie:10389": {
    "d": "The Eye (2002): Horror film. Story: A blind concert violinist gets a cornea transplant… See cast, budget $10.71M, and TMDB rating 6.6/10.",
@@ -133,6 +133,134 @@
    "t": "Justice League: Crisis on Infinite Earths Part One (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2024"
   },
+  "movie:1240889": {
+   "d": "Teenage Sex and Death at Camp Miasma (2026): Comedy/Horror film. Story: An ambitious director sets out to revive a faded… See cast and budget $10M.",
+   "img": "https://image.tmdb.org/t/p/w780/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg",
+   "industry": "world",
+   "k": "Teenage Sex and Death at Camp Miasma, Teenage Sex and Death at Camp Miasma movie, Teenage Sex and Death at Camp Miasma cast, Teenage Sex and Death at Camp Miasma story, Teenage Sex and Death at Camp Miasma box office collection, Teenage Sex and Death at Camp Miasma budget, Teenage Sex and Death at Camp Miasma review, Teenage Sex and Death at Camp Miasma rating, Teenage Sex and Death at Camp Miasma release date, Teenage Sex and Death at Camp Miasma trailer, Teenage Sex and Death at Camp Miasma Comedy, Teenage Sex and Death at Camp Miasma Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hannah Einbinder"
+     },
+     {
+      "@type": "Person",
+      "name": "Gillian Anderson"
+     },
+     {
+      "@type": "Person",
+      "name": "Amanda Fix"
+     },
+     {
+      "@type": "Person",
+      "name": "Arthur Conti"
+     },
+     {
+      "@type": "Person",
+      "name": "Eva Victor"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 394,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Teenage Sex and Death at Camp Miasma (2026): Comedy/Horror film. Story: An ambitious director sets out to revive a faded… See cast and budget $10M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jane Schoenbrun"
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "Comedy",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1240889",
+    "name": "Teenage Sex and Death at Camp Miasma",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1240889"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Teenage Sex and Death at Camp Miasma (2026)</h1>\n<p class=\"ssr-lead\">An ambitious director sets out to revive a faded slasher franchise, but her meeting with the film’s reclusive original star spirals into a terrifying maze of obsession, fear, and blood-soaked delusion.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 August 2026</li><li>Runtime: 112 minutes</li><li>Director: Jane Schoenbrun</li><li>Genres: Comedy, Horror, Romance</li><li>Budget: $10M</li><li>TMDB rating: 6.1/10 (394 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hannah Einbinder as Kris</li><li>Gillian Anderson as Billy</li><li>Amanda Fix as Young Billy</li><li>Arthur Conti as Alex</li><li>Eva Victor as DJ Ella Giastic</li><li>Zach Cherry as Will</li><li>Sarah Sherman as Kris&#x27; Agent</li><li>Patrick Fischler as Rudolph</li><li>Dylan Baker as Jeffrey</li><li>Jasmin Savoy Brown as Mari</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI, MUBI Amazon Channel</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Teenage Sex and Death at Camp Miasma (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1294189": {
+   "d": "The Mongoose (2026): Action/Thriller film. Story: A falsely accused war hero with nothing to lose leads… See cast and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+   "industry": "world",
+   "k": "The Mongoose, The Mongoose movie, The Mongoose cast, The Mongoose story, The Mongoose box office collection, The Mongoose budget, The Mongoose review, The Mongoose rating, The Mongoose release date, The Mongoose trailer, The Mongoose Action, The Mongoose Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Liam Neeson"
+     },
+     {
+      "@type": "Person",
+      "name": "Marisa Tomei"
+     },
+     {
+      "@type": "Person",
+      "name": "Ving Rhames"
+     },
+     {
+      "@type": "Person",
+      "name": "Marcus Thomas"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Chiklis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 151,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "The Mongoose (2026): Action/Thriller film. Story: A falsely accused war hero with nothing to lose leads… See cast and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mark Vanselow"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1294189",
+    "name": "The Mongoose",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1294189"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Mongoose (2026)</h1>\n<p class=\"ssr-lead\">A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 October 2026</li><li>Runtime: 99 minutes</li><li>Director: Mark Vanselow</li><li>Genres: Action, Thriller</li><li>TMDB rating: 6.2/10 (151 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Liam Neeson as Ryan &#x27;Fang&#x27; Flanagan</li><li>Marisa Tomei as Tara</li><li>Ving Rhames as Tanker</li><li>Marcus Thomas as Munch</li><li>Michael Chiklis as Major Walter Pope</li><li>Maurice Marvel Meredith as Major James Tilton</li><li>Brett Tucker as Todd</li><li>Ryan Morgan as Wiz</li><li>Laura Coates as Laura Coates</li><li>Geoff Morrell as Ernie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "The Mongoose (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:13189": {
    "d": "A Christmas Carol (1984): Drama/Fantasy film. Story: Miser Ebenezer Scrooge is awakened on Christmas Eve… See cast and TMDB rating 7.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/1WQ4bHXzS7DpGppkS2PcpFvpY7T.jpg",
@@ -196,6 +324,198 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>A Christmas Carol (1984)</h1>\n<p class=\"ssr-lead\">Miser Ebenezer Scrooge is awakened on Christmas Eve by spirits who reveal to him his own miserable existence, what opportunities he wasted in his youth, his current cruelties, and the dire fate that awaits him if he does not change his ways. Scrooge is faced with his own story of growing bitterness and meanness, and must decide what his own future will hold: death or redemption.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 October 1984</li><li>Runtime: 101 minutes</li><li>Director: Clive Donner</li><li>Genres: Drama, Fantasy, TV Movie, Family</li><li>TMDB rating: 7.5/10 (445 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>George C. Scott as Ebenezer Scrooge</li><li>Roger Rees as Fred Holywell / Narrator</li><li>David Warner as Bob Cratchit</li><li>Susannah York as Mrs. Cratchit</li><li>Edward Woodward as Ghost of Christmas Present</li><li>Angela Pleasence as Ghost of Christmas Past</li><li>Michael Carter as Ghost of Christmas Yet to Come</li><li>Anthony Walters as Tiny Tim</li><li>Caroline Langrishe as Janet Holywell</li><li>Lucy Gutteridge as Belle</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: MovieMe</li></ul>\n</article>",
    "t": "A Christmas Carol (1984) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1984"
+  },
+  "movie:1522689": {
+   "d": "Why Did I Get Married Again? (2026): Comedy/Romance film. Story: The couples reunite for the destination wedding of… See cast and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
+   "industry": "world",
+   "k": "Why Did I Get Married Again?, Why Did I Get Married Again? movie, Why Did I Get Married Again? cast, Why Did I Get Married Again? story, Why Did I Get Married Again? box office collection, Why Did I Get Married Again? budget, Why Did I Get Married Again? review, Why Did I Get Married Again? rating, Why Did I Get Married Again? release date, Why Did I Get Married Again? trailer, Why Did I Get Married Again? Comedy, Why Did I Get Married Again? Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tyler Perry"
+     },
+     {
+      "@type": "Person",
+      "name": "Taraji P. Henson"
+     },
+     {
+      "@type": "Person",
+      "name": "Jill Scott"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard T. Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Tasha Smith"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 47,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Why Did I Get Married Again? (2026): Comedy/Romance film. Story: The couples reunite for the destination wedding of… See cast and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tyler Perry"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1522689",
+    "name": "Why Did I Get Married Again?",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1522689"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Why Did I Get Married Again? (2026)</h1>\n<p class=\"ssr-lead\">The couples reunite for the destination wedding of Marcus and Angela&#x27;s daughter, bringing drama old and new as they ask, &quot;Why did we get married again?&quot;</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 September 2026</li><li>Runtime: 111 minutes</li><li>Director: Tyler Perry</li><li>Genres: Comedy, Romance, Drama</li><li>TMDB rating: 6.7/10 (47 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tyler Perry as Terry</li><li>Taraji P. Henson as Roselyn</li><li>Jill Scott as Sheila</li><li>Richard T. Jones as Mike</li><li>Tasha Smith as Angela</li><li>Michael Jai White as Marcus</li><li>Sharon Leal as Dianne</li><li>Lamman Rucker as Troy</li><li>Armani Greer as Jasmine</li><li>Everett Osborne as Wesley</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Why Did I Get Married Again? (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1656489": {
+   "d": "Sultana (2026): Drama/Music film. Story: Sultana is a drama set in Istanbul's one and only… See cast, TMDB rating 7.8/10, and release date 17 April 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/xCcm54VbJYlIYoobNXurPaDRQB4.jpg",
+   "industry": "world",
+   "k": "Sultana, Sultana movie, Sultana cast, Sultana story, Sultana box office collection, Sultana budget, Sultana review, Sultana rating, Sultana release date, Sultana Drama, Sultana Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tuba Büyüküstün"
+     },
+     {
+      "@type": "Person",
+      "name": "Derya Pınar Ak"
+     },
+     {
+      "@type": "Person",
+      "name": "Seray Kaya"
+     },
+     {
+      "@type": "Person",
+      "name": "Begüm Akkaya"
+     },
+     {
+      "@type": "Person",
+      "name": "Rojbin Erden"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 22,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Sultana (2026): Drama/Music film. Story: Sultana is a drama set in Istanbul's one and only… See cast, TMDB rating 7.8/10, and release date 17 April 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ali Kemal Güven"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "Drama",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xCcm54VbJYlIYoobNXurPaDRQB4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1656489",
+    "name": "Sultana",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1656489"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sultana (2026)</h1>\n<p class=\"ssr-lead\">Sultana is a drama set in Istanbul&#x27;s one and only strip club, telling a story of a women, power, rivalry and solidarity. A new Turkish story where women are not victims in a fairy tale, but warriors learning that the &#x27;handsome prince&#x27; is often the real monster- and their only salvation is each other. Meral the long reigning queen of the one and only strip club of Istanbul which is Sultana, takes a talented new Belarusian dancer named Anna under her wing. But she soon realizes she has created a rival powerful enough to replace her, and a ruthless power struggle erupts between the two women.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 April 2026</li><li>Runtime: 120 minutes</li><li>Director: Ali Kemal Güven</li><li>Genres: Drama, Music</li><li>TMDB rating: 7.8/10 (22 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tuba Büyüküstün as Meral</li><li>Derya Pınar Ak as Anna</li><li>Seray Kaya as Tülay</li><li>Begüm Akkaya as Gülistan</li><li>Rojbin Erden as Fahriye</li><li>Şirin Saldamlı as Nezo</li><li>Itır Esen as Selin</li><li>Taro Emir Tekin as Arif</li><li>Hakan Kurtaş as Cemal</li><li>Nur Sürer as Asuman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Sultana (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1659389": {
+   "d": "One Piece Heroines (2026): Animation/Comedy film. Story: After failing to stop the thieves due to ill-fitting… See cast and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dQCBqCkoXz2PCqApTNXZ007QwNb.jpg",
+   "industry": "world",
+   "k": "One Piece Heroines, One Piece Heroines movie, One Piece Heroines cast, One Piece Heroines story, One Piece Heroines box office collection, One Piece Heroines budget, One Piece Heroines review, One Piece Heroines rating, One Piece Heroines release date, One Piece Heroines trailer, One Piece Heroines Animation, One Piece Heroines Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Akemi Okamura"
+     },
+     {
+      "@type": "Person",
+      "name": "Yuriko Yamaguchi"
+     },
+     {
+      "@type": "Person",
+      "name": "Maaya Sakamoto"
+     },
+     {
+      "@type": "Person",
+      "name": "Takehito Koyasu"
+     },
+     {
+      "@type": "Person",
+      "name": "Mayumi Tanaka"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 42,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "One Piece Heroines (2026): Animation/Comedy film. Story: After failing to stop the thieves due to ill-fitting… See cast and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Haruka Kamatani"
+     }
+    ],
+    "duration": "PT24M",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dQCBqCkoXz2PCqApTNXZ007QwNb.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1659389",
+    "name": "One Piece Heroines",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1659389"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>One Piece Heroines (2026)</h1>\n<p class=\"ssr-lead\">After failing to stop the thieves due to ill-fitting shoes, Nami storms into the shop where she bought them for a refund. However, the head designer offers to make her a new pair from scratch on one condition: she must walk in their upcoming fashion show.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 July 2026</li><li>Runtime: 24 minutes</li><li>Director: Haruka Kamatani</li><li>Genres: Animation, Comedy, Action</li><li>TMDB rating: 7.0/10 (42 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Akemi Okamura as Nami (voice)</li><li>Yuriko Yamaguchi as Robin (voice)</li><li>Maaya Sakamoto as Miucha (voice)</li><li>Takehito Koyasu as Lebno (voice)</li><li>Mayumi Tanaka as Luffy (voice)</li><li>Hiroaki Hirata as Sanji (voice)</li><li>Yu Mizushima as Zeus (voice)</li><li>Kumiko Nishihara as Perona (voice)</li><li>Kentaro Tone as Leader (voice)</li><li>Suika Asahi as Customer (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "One Piece Heroines (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:1689": {
    "d": "Little Buddha (1993): Drama/History film. Story: After the death of Lama Dorje, Tibetan Buddhist monks… See cast, budget $35M, and TMDB rating 6.3/10.",

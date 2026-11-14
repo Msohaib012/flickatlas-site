@@ -1,7 +1,70 @@
 {
  "bucket": "40",
- "count": 23,
+ "count": 30,
  "titles": {
+  "movie:1224440": {
+   "d": "Smart Working (2026): Comedy film. Story: The story follows Giuliano, whose life has improved… See cast, budget $2.13M, and TMDB rating 5.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/oJPOVGHKzC0lBFjIE7Z4uvKuARl.jpg",
+   "industry": "world",
+   "k": "Smart Working, Smart Working movie, Smart Working cast, Smart Working story, Smart Working box office collection, Smart Working budget, Smart Working review, Smart Working rating, Smart Working release date, Smart Working Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Maccio Capatonda"
+     },
+     {
+      "@type": "Person",
+      "name": "Sara Lazzaro"
+     },
+     {
+      "@type": "Person",
+      "name": "Alessandro Tiberi"
+     },
+     {
+      "@type": "Person",
+      "name": "Maurizio Nichetti"
+     },
+     {
+      "@type": "Person",
+      "name": "Svevo Moltrasio"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 24,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "Smart Working (2026): Comedy film. Story: The story follows Giuliano, whose life has improved… See cast, budget $2.13M, and TMDB rating 5.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Svevo Moltrasio"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oJPOVGHKzC0lBFjIE7Z4uvKuARl.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1224440",
+    "name": "Smart Working",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1224440"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Smart Working (2026)</h1>\n<p class=\"ssr-lead\">The story follows Giuliano, whose life has improved thanks to his working from home, but his colleagues’ poor performance threatens to force everyone back to the office. Meanwhile, he and his wife, Laura, are expecting a second child and are looking for a bigger home. As Laura makes up her mind about a controversial job offer, Giuliano’s co-workers turn their flat into a makeshift office, rekindling their efficiency and organisation. Amid intrusive co-workers and domestic chaos, Giuliano will have to find creative solutions to save his job, his family and the dream of a new home.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 June 2026</li><li>Runtime: 95 minutes</li><li>Director: Svevo Moltrasio</li><li>Genres: Comedy</li><li>Budget: $2.13M</li><li>TMDB rating: 5.5/10 (24 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Maccio Capatonda as Giuliano</li><li>Sara Lazzaro as Laura</li><li>Alessandro Tiberi as Federico</li><li>Maurizio Nichetti as Gianni</li><li>Svevo Moltrasio as Stefano</li><li>Giulia Bolatti as Ilaria</li><li>Federico Iarlori as Fabrizio</li><li>Quentin Darmon as Bertrand</li><li>Maria Chiara Augenti</li><li>Mario Bois</li></ul>\n</article>",
+   "t": "Smart Working (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:12540": {
    "d": "Bring It On Again (2004): Comedy film. Story: When new students can't get onto their college… See cast, TMDB rating 6.0/10, and release date 13 January 2004.",
    "img": "https://image.tmdb.org/t/p/w780/i4QeiIfRVQUU5iLIjQQcvReqDOB.jpg",
@@ -64,6 +127,392 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Bring It On Again (2004)</h1>\n<p class=\"ssr-lead\">When new students can&#x27;t get onto their college cheerleading team, they form their own squad and prepare for a cheer off.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 January 2004</li><li>Runtime: 90 minutes</li><li>Director: Damon Santostefano</li><li>Genres: Comedy</li><li>TMDB rating: 6.0/10 (469 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anne Judson-Yager as Whittier Smith</li><li>Faune Chambers Watkins as Monica Jones</li><li>Bree Turner as Tina Hammersmith</li><li>Bethany Joy Lenz as Marni Potts</li><li>Richard Lee Jackson as Derek</li><li>Bryce Johnson as Greg</li><li>Chris Carmack as Todd</li><li>Felicia Day as Penelope</li><li>Holly Towne as Janice</li><li>Kevin Cooney as Dean Sebastian</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Bring It On Again (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2004"
+  },
+  "movie:1282440": {
+   "d": "Happy Patel: Khatarnak Jasoos (2026): Comedy/Action film. Story: Chronically unsuccessful MI7 operative Happy Patel is… See cast and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/gsLYR8uALrt2p33iOpqReNW6XyQ.jpg",
+   "industry": "bollywood",
+   "k": "Happy Patel: Khatarnak Jasoos, Happy Patel: Khatarnak Jasoos movie, Happy Patel: Khatarnak Jasoos cast, Happy Patel: Khatarnak Jasoos story, Happy Patel: Khatarnak Jasoos box office collection, Happy Patel: Khatarnak Jasoos budget, Happy Patel: Khatarnak Jasoos review, Happy Patel: Khatarnak Jasoos rating, Happy Patel: Khatarnak Jasoos release date, Happy Patel: Khatarnak Jasoos Comedy, Happy Patel: Khatarnak Jasoos Action, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vir Das"
+     },
+     {
+      "@type": "Person",
+      "name": "Mona Singh"
+     },
+     {
+      "@type": "Person",
+      "name": "Mithila Palkar"
+     },
+     {
+      "@type": "Person",
+      "name": "Sharib Hashmi"
+     },
+     {
+      "@type": "Person",
+      "name": "Srushti Tawade"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 22,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Happy Patel: Khatarnak Jasoos (2026): Comedy/Action film. Story: Chronically unsuccessful MI7 operative Happy Patel is… See cast and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Vir Das"
+     },
+     {
+      "@type": "Person",
+      "name": "Kavi Shastri"
+     }
+    ],
+    "duration": "PT122M",
+    "genre": [
+     "Comedy",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gsLYR8uALrt2p33iOpqReNW6XyQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1282440",
+    "name": "Happy Patel: Khatarnak Jasoos",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1282440"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Happy Patel: Khatarnak Jasoos (2026)</h1>\n<p class=\"ssr-lead\">Chronically unsuccessful MI7 operative Happy Patel is finally assigned a mission in Goa, where he uncovers his Indian roots and must rescue a high-profile scientist from crime lord Mama. Unaware of his Indian heritage and armed with a comically British accent, Happy’s blunders trigger a string of chaotic mishaps that could lead him to expose a criminal network.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 January 2026</li><li>Runtime: 122 minutes</li><li>Director: Vir Das, Kavi Shastri</li><li>Genres: Comedy, Action, Romance</li><li>TMDB rating: 6.0/10 (22 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vir Das as Happy Patel/Happy Smith-Paisley</li><li>Mona Singh as Mama</li><li>Mithila Palkar as Rupa</li><li>Sharib Hashmi as Geet</li><li>Srushti Tawade as Roxy</li><li>Aamir Khan as Jimmy Mario</li><li>Imran Khan as Milind Morea</li><li>Andrew Sloman as Roger</li><li>Simon Fielder as Sebastian</li><li>Prajakta Kavalekar as Rosemary</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Happy Patel: Khatarnak Jasoos (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1400940": {
+   "d": "Clayface (2026): Horror/Thriller film. Story: Matt Hagen's meteoric rise from Gotham street kid to… See cast, budget $44M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+   "industry": "world",
+   "k": "Clayface, Clayface movie, Clayface cast, Clayface story, Clayface box office collection, Clayface budget, Clayface review, Clayface rating, Clayface release date, Clayface trailer, Clayface Horror, Clayface Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tom Rhys Harries"
+     },
+     {
+      "@type": "Person",
+      "name": "Naomi Ackie"
+     },
+     {
+      "@type": "Person",
+      "name": "Eddie Marsan"
+     },
+     {
+      "@type": "Person",
+      "name": "Max Minghella"
+     },
+     {
+      "@type": "Person",
+      "name": "David Dencik"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 434,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Clayface (2026): Horror/Thriller film. Story: Matt Hagen's meteoric rise from Gotham street kid to… See cast, budget $44M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James Watkins"
+     }
+    ],
+    "duration": "PT109M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1400940",
+    "name": "Clayface",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1400940"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Clayface (2026)</h1>\n<p class=\"ssr-lead\">Matt Hagen&#x27;s meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss&#x27;s actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 October 2026</li><li>Runtime: 109 minutes</li><li>Director: James Watkins</li><li>Genres: Horror, Thriller, Science Fiction</li><li>Budget: $44M</li><li>TMDB rating: 7.4/10 (434 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tom Rhys Harries as Matt Hagen / Clayface</li><li>Naomi Ackie as Caitlyn Corr</li><li>Eddie Marsan as Frank Fitzpatrick</li><li>Max Minghella as John Borrelli</li><li>David Dencik as Markos Szabo</li><li>Francesca Corney as Rosie</li><li>Ruby Sear as Theresa</li><li>Wil Coban as Bones</li><li>Joshua James as Corey Bowery</li><li>Jake Curran as Patches</li></ul>\n</article>",
+   "t": "Clayface (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1492640": {
+   "d": "UNABOMBER (2026): Thriller/Drama film. Story: Follow Ted Kaczynski's transformation from Harvard… See cast and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/XohTvvPXiGhUKhiQSvmoMTnj2z.jpg",
+   "industry": "world",
+   "k": "UNABOMBER, UNABOMBER movie, UNABOMBER cast, UNABOMBER story, UNABOMBER box office collection, UNABOMBER budget, UNABOMBER review, UNABOMBER rating, UNABOMBER release date, UNABOMBER trailer, UNABOMBER Thriller, UNABOMBER Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Russell Crowe"
+     },
+     {
+      "@type": "Person",
+      "name": "Jacob Tremblay"
+     },
+     {
+      "@type": "Person",
+      "name": "Shailene Woodley"
+     },
+     {
+      "@type": "Person",
+      "name": "Annabelle Wallis"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexander Ludwig"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 592,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "UNABOMBER (2026): Thriller/Drama film. Story: Follow Ted Kaczynski's transformation from Harvard… See cast and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Janus Metz"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/XohTvvPXiGhUKhiQSvmoMTnj2z.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1492640",
+    "name": "UNABOMBER",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1492640"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>UNABOMBER (2026)</h1>\n<p class=\"ssr-lead\">Follow Ted Kaczynski&#x27;s transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski&#x27;s troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 September 2026</li><li>Runtime: 101 minutes</li><li>Director: Janus Metz</li><li>Genres: Thriller, Drama, Crime</li><li>TMDB rating: 6.6/10 (592 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Russell Crowe as Henry Murray</li><li>Jacob Tremblay as Ted Kaczynski</li><li>Shailene Woodley as Joanne Miller</li><li>Annabelle Wallis as Christiana Morgan</li><li>Alexander Ludwig as Leo Driver</li><li>Marc Menchaca as Eddie Turrell</li><li>Steven Ogg as Dean Kaplan</li><li>Mark Camacho as Bill Ford</li><li>David Webster as Roy</li><li>Bruce Ramsay as Turk Kaczynski</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "UNABOMBER (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1550740": {
+   "d": "Classmates (2026): Drama film. Story: An English teacher at technical school in the… See cast, TMDB rating 6.6/10, and release date 19 February 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/58BNeI3fxJYwJbo9x4gZNsswj6f.jpg",
+   "industry": "world",
+   "k": "Classmates, Classmates movie, Classmates cast, Classmates story, Classmates box office collection, Classmates budget, Classmates review, Classmates rating, Classmates release date, Classmates Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anna Ferzetti"
+     },
+     {
+      "@type": "Person",
+      "name": "Sara Silvestro"
+     },
+     {
+      "@type": "Person",
+      "name": "Zoe Massenti"
+     },
+     {
+      "@type": "Person",
+      "name": "Anita Serafini"
+     },
+     {
+      "@type": "Person",
+      "name": "Fabio Bizzarro"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 24,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Classmates (2026): Drama film. Story: An English teacher at technical school in the… See cast, TMDB rating 6.6/10, and release date 19 February 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Umberto Riccioni Carteni"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/58BNeI3fxJYwJbo9x4gZNsswj6f.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1550740",
+    "name": "Classmates",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1550740"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Classmates (2026)</h1>\n<p class=\"ssr-lead\">An English teacher at technical school in the outskirts of Rome knows that her twenty-four eighteen-year-old students do not consider her a human being, speak ill of her, are ready to contest her and feel a morbid curiosity towards her private life. Still, she tries to relate to them and the result of this effort is &quot;a great love story&quot;. Cenciarelli describes the lessons (strictly in English, despite the students&#x27; protestations), the fights in and out of class, the students&#x27; tricks, their need to confront each other, their desire to show themselves superior, their weaknesses and their loneliness. As the seasons go by, the relationship between teacher and students becomes more complicated and deepens, alternating moments of great enthusiasm and great disappointment, until the baccalaureate exam, about which she cares more than they do.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 February 2026</li><li>Runtime: 95 minutes</li><li>Director: Umberto Riccioni Carteni</li><li>Genres: Drama</li><li>TMDB rating: 6.6/10 (24 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anna Ferzetti as Professoressa</li><li>Sara Silvestro as Alessandra</li><li>Zoe Massenti as Sofia</li><li>Anita Serafini as Margherita</li><li>Fabio Bizzarro as Francesco</li><li>Federico Micheli as Marco</li><li>Morgan Sebastian Wahr as Daniele</li><li>Paterne Sassaroli as Faso</li><li>Yothin Clavenzani as Tarek</li><li>Mounir Khlifi as Rabhil</li></ul>\n</article>",
+   "t": "Classmates (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1654940": {
+   "d": "One Year to Live, Buy a Man (2026): Romance/Drama film. Story: Given a year to live, frugal 40-year-old Yui finally… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
+   "industry": "world",
+   "k": "One Year to Live, Buy a Man, One Year to Live, Buy a Man movie, One Year to Live, Buy a Man cast, One Year to Live, Buy a Man story, One Year to Live, Buy a Man box office collection, One Year to Live, Buy a Man budget, One Year to Live, Buy a Man review, One Year to Live, Buy a Man rating, One Year to Live, Buy a Man release date, One Year to Live, Buy a Man trailer, One Year to Live, Buy a Man Romance, One Year to Live, Buy a Man Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ko Shibasaki"
+     },
+     {
+      "@type": "Person",
+      "name": "Eiji Akaso"
+     },
+     {
+      "@type": "Person",
+      "name": "Michitaka Tsutsui"
+     },
+     {
+      "@type": "Person",
+      "name": "Naomi Nishida"
+     },
+     {
+      "@type": "Person",
+      "name": "Yui Narumi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 24,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "One Year to Live, Buy a Man (2026): Romance/Drama film. Story: Given a year to live, frugal 40-year-old Yui finally… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Hiroki Kazama"
+     }
+    ],
+    "duration": "PT109M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1654940",
+    "name": "One Year to Live, Buy a Man",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1654940"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>One Year to Live, Buy a Man (2026)</h1>\n<p class=\"ssr-lead\">Given a year to live, frugal 40-year-old Yui finally lets herself spend: &quot;buying&quot; nightclub host Sena. What begins as a contract takes an unexpected turn.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 November 2026</li><li>Runtime: 109 minutes</li><li>Director: Hiroki Kazama</li><li>Genres: Romance, Drama, Comedy</li><li>TMDB rating: 7.4/10 (24 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ko Shibasaki as Yui Katakura</li><li>Eiji Akaso as Sena</li><li>Michitaka Tsutsui as Masami Ikuyama</li><li>Naomi Nishida as Mizuho Maruyama</li><li>Yui Narumi as Nachi</li><li>Ryubi Miyase as Kiriya</li><li>Koen Kondo as Doctor</li><li>Mari Hamada as Sena&#x27;s Mother</li><li>Yōko Moriguchi as Yui&#x27;s Mother</li><li>Ichika Osaki</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "One Year to Live, Buy a Man (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1684240": {
+   "d": "Jamie Vardy (2026): Documentary film. Story: From part-time footballer to Premier League legend… See cast, TMDB rating 7.5/10, and release date 12 May 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/weFG1yMIwVsjGr5YfdpltxpBh09.jpg",
+   "industry": "world",
+   "k": "Jamie Vardy, Jamie Vardy movie, Jamie Vardy cast, Jamie Vardy story, Jamie Vardy box office collection, Jamie Vardy budget, Jamie Vardy review, Jamie Vardy rating, Jamie Vardy release date, Jamie Vardy trailer, Jamie Vardy Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jamie Vardy"
+     },
+     {
+      "@type": "Person",
+      "name": "Rebekah Vardy"
+     },
+     {
+      "@type": "Person",
+      "name": "Marc Albrighton"
+     },
+     {
+      "@type": "Person",
+      "name": "Wes Morgan"
+     },
+     {
+      "@type": "Person",
+      "name": "Andy King"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 39,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Jamie Vardy (2026): Documentary film. Story: From part-time footballer to Premier League legend… See cast, TMDB rating 7.5/10, and release date 12 May 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jesse Vile"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/weFG1yMIwVsjGr5YfdpltxpBh09.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1684240",
+    "name": "Jamie Vardy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1684240"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Jamie Vardy (2026)</h1>\n<p class=\"ssr-lead\">From part-time footballer to Premier League legend, this is the story of Jamie Vardy&#x27;s unprecedented path and his rise to the top against all odds.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 May 2026</li><li>Runtime: 90 minutes</li><li>Director: Jesse Vile</li><li>Genres: Documentary</li><li>TMDB rating: 7.5/10 (39 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jamie Vardy as Self</li><li>Rebekah Vardy as Self</li><li>Marc Albrighton as Self</li><li>Wes Morgan as Self</li><li>Andy King as Self</li><li>Nigel Pearson as Self</li><li>John Morris as Self</li><li>Brett Lovell as Self</li><li>Dave Rennie as Self</li><li>Ron Tanner as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Jamie Vardy (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:171540": {
    "d": "Big Bad Wolves (2013): Comedy/Crime film. Story: The twisted paths of three very different men… See cast, TMDB rating 6.6/10, and release date 21 April 2013.",

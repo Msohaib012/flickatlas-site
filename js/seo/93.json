@@ -1,7 +1,326 @@
 {
  "bucket": "93",
- "count": 11,
+ "count": 19,
  "titles": {
+  "movie:1199193": {
+   "d": "Pose (2026): Thriller film. Story: Isolated in a grand country manor, a reclusive artist… See cast, TMDB rating 5.7/10, and release date 25 February 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/bAFnjhweXxHUWjmFzMTuX12Ud3b.jpg",
+   "industry": "world",
+   "k": "Pose, Pose movie, Pose cast, Pose story, Pose box office collection, Pose budget, Pose review, Pose rating, Pose release date, Pose Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "James McAvoy"
+     },
+     {
+      "@type": "Person",
+      "name": "Lucas Bravo"
+     },
+     {
+      "@type": "Person",
+      "name": "Leila Farzad"
+     },
+     {
+      "@type": "Person",
+      "name": "Almudena Amor"
+     },
+     {
+      "@type": "Person",
+      "name": "Aisling Franciosi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 43,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Pose (2026): Thriller film. Story: Isolated in a grand country manor, a reclusive artist… See cast, TMDB rating 5.7/10, and release date 25 February 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jamie Adams"
+     }
+    ],
+    "duration": "PT77M",
+    "genre": [
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bAFnjhweXxHUWjmFzMTuX12Ud3b.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1199193",
+    "name": "Pose",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1199193"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pose (2026)</h1>\n<p class=\"ssr-lead\">Isolated in a grand country manor, a reclusive artist spends a passionate and paranoid weekend with his ex-lover, an obsessive fan, and a potential muse. Hoping to spark a new wave of artistic brilliance over the course of a few tumultuous days, filled with chaos and revelation not all of them will make it out alive.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 February 2026</li><li>Runtime: 77 minutes</li><li>Director: Jamie Adams</li><li>Genres: Thriller</li><li>TMDB rating: 5.7/10 (43 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>James McAvoy as Thomas</li><li>Lucas Bravo as Peter</li><li>Leila Farzad as Dolly</li><li>Almudena Amor as Jemima</li><li>Aisling Franciosi as Patricia</li><li>Elektra Jansson-Kilbey as Mimi</li><li>Maria Therese Bassetti as Melanie</li><li>Kristin Zakala as Woman in Photograph</li><li>Shubham Saraf as Kader</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Pose (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1241693": {
+   "d": "Do Deewane Seher Mein (2026): Romance/Drama film. Story: Two socially awkward millennials in Mumbai find love… See cast and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tAh0dkZiOSICkRlv9wXOsvcNl4s.jpg",
+   "industry": "bollywood",
+   "k": "Do Deewane Seher Mein, Do Deewane Seher Mein movie, Do Deewane Seher Mein cast, Do Deewane Seher Mein story, Do Deewane Seher Mein box office collection, Do Deewane Seher Mein budget, Do Deewane Seher Mein review, Do Deewane Seher Mein rating, Do Deewane Seher Mein release date, Do Deewane Seher Mein trailer, Do Deewane Seher Mein Romance, Do Deewane Seher Mein Drama, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Siddhant Chaturvedi"
+     },
+     {
+      "@type": "Person",
+      "name": "Mrunal Thakur"
+     },
+     {
+      "@type": "Person",
+      "name": "Ila Arun"
+     },
+     {
+      "@type": "Person",
+      "name": "Joy Sengupta"
+     },
+     {
+      "@type": "Person",
+      "name": "Ayesha Raza Mishra"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 21,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Do Deewane Seher Mein (2026): Romance/Drama film. Story: Two socially awkward millennials in Mumbai find love… See cast and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ravi Udyawar"
+     }
+    ],
+    "duration": "PT137M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tAh0dkZiOSICkRlv9wXOsvcNl4s.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1241693",
+    "name": "Do Deewane Seher Mein",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1241693"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Do Deewane Seher Mein (2026)</h1>\n<p class=\"ssr-lead\">Two socially awkward millennials in Mumbai find love while struggling with self-acceptance. As they battle insecurities and societal pressure, their journey takes them from city chaos to mountain serenity.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 February 2026</li><li>Runtime: 137 minutes</li><li>Director: Ravi Udyawar</li><li>Genres: Romance, Drama, Comedy</li><li>TMDB rating: 6.7/10 (21 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Siddhant Chaturvedi as Shashank Sharma</li><li>Mrunal Thakur as Roshni Shrivastav</li><li>Ila Arun as Ila Rastogi</li><li>Joy Sengupta as Adarsh Shrivastav</li><li>Ayesha Raza Mishra as Kusum Shrivastav</li><li>Viraj Ghelani as Anil</li><li>Sandeepa Dhar as Naina</li><li>Deepraj Rana as Deepak Sharma</li><li>Mona Ambegaonkar as Sudha Sharma</li><li>Naveen Kaushik</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Do Deewane Seher Mein (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1279493": {
+   "d": "The Get Out (2026): Action/Thriller film. Story: A nightclub owner is on the verge of leaving his… See cast, TMDB rating 6.1/10, and release date 18 June 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/9Bv4Oki9u3aKZxDCNDcU4N2mttb.jpg",
+   "industry": "world",
+   "k": "The Get Out, The Get Out movie, The Get Out cast, The Get Out story, The Get Out box office collection, The Get Out budget, The Get Out review, The Get Out rating, The Get Out release date, The Get Out trailer, The Get Out Action, The Get Out Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Russell Crowe"
+     },
+     {
+      "@type": "Person",
+      "name": "Luke Evans"
+     },
+     {
+      "@type": "Person",
+      "name": "Teresa Palmer"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Zovatto"
+     },
+     {
+      "@type": "Person",
+      "name": "Josh McConville"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 165,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "The Get Out (2026): Action/Thriller film. Story: A nightclub owner is on the verge of leaving his… See cast, TMDB rating 6.1/10, and release date 18 June 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Derrick Borte"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9Bv4Oki9u3aKZxDCNDcU4N2mttb.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1279493",
+    "name": "The Get Out",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1279493"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Get Out (2026)</h1>\n<p class=\"ssr-lead\">A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival - where escape may no longer be an option.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 June 2026</li><li>Runtime: 111 minutes</li><li>Director: Derrick Borte</li><li>Genres: Action, Thriller</li><li>TMDB rating: 6.1/10 (165 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Russell Crowe as Manco Kapak</li><li>Luke Evans as Joe Carver</li><li>Teresa Palmer as Sunny</li><li>Daniel Zovatto as Rodriguez</li><li>Josh McConville as Slosser</li><li>Benedict Hardie as Spence</li><li>Nina Dobrev as Carrie</li><li>Aaron Paul as Jeff</li><li>Kartiah Vergara as Irena</li><li>Steffi Gil as Lola</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "The Get Out (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1430593": {
+   "d": "Tinsel Town (2025): Comedy/Romance film. Story: A washed-up Hollywood action hero is tricked into… See cast and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/psAGX272PFGdpKmSJI4x8sGPciZ.jpg",
+   "industry": "world",
+   "k": "Tinsel Town, Tinsel Town movie, Tinsel Town cast, Tinsel Town story, Tinsel Town box office collection, Tinsel Town budget, Tinsel Town review, Tinsel Town rating, Tinsel Town release date, Tinsel Town trailer, Tinsel Town Comedy, Tinsel Town Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kiefer Sutherland"
+     },
+     {
+      "@type": "Person",
+      "name": "Rebel Wilson"
+     },
+     {
+      "@type": "Person",
+      "name": "Derek Jacobi"
+     },
+     {
+      "@type": "Person",
+      "name": "Meera Syal"
+     },
+     {
+      "@type": "Person",
+      "name": "Danny Dyer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 39,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Tinsel Town (2025): Comedy/Romance film. Story: A washed-up Hollywood action hero is tricked into… See cast and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chris Foggin"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/psAGX272PFGdpKmSJI4x8sGPciZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1430593",
+    "name": "Tinsel Town",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1430593"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Tinsel Town (2025)</h1>\n<p class=\"ssr-lead\">A washed-up Hollywood action hero is tricked into starring in a small English town’s chaotic Christmas pantomime, where a straight-talking dance instructor and his estranged daughter just might help him rediscover the magic of the season.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 December 2025</li><li>Runtime: 94 minutes</li><li>Director: Chris Foggin</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 5.8/10 (39 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kiefer Sutherland as Bradley Mack</li><li>Rebel Wilson as Jill</li><li>Derek Jacobi as Albert</li><li>Meera Syal as Cassandra</li><li>Danny Dyer as Kieran</li><li>Mawaan Rizwan as Nigel</li><li>Matilda Firth as Emma</li><li>Theodora Williams as Cara</li><li>Katherine Ryan as Agent</li><li>Alice Eve as Grace</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Peacock Premium, Amazon Prime Video with Ads, Peacock Premium Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Tinsel Town (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1599993": {
+   "d": "Animales (2026): Comedy/Thriller film. Story: Four couples sail the thin line between desire and… See cast and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/466HJFm5SCys70ecnqJcSOeAHPG.jpg",
+   "industry": "world",
+   "k": "Animales, Animales movie, Animales cast, Animales story, Animales box office collection, Animales budget, Animales review, Animales rating, Animales release date, Animales Comedy, Animales Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nashla Bogaert"
+     },
+     {
+      "@type": "Person",
+      "name": "Frank Perozo"
+     },
+     {
+      "@type": "Person",
+      "name": "Pamela Sued"
+     },
+     {
+      "@type": "Person",
+      "name": "David Maler"
+     },
+     {
+      "@type": "Person",
+      "name": "Camila Issa"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 57,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Animales (2026): Comedy/Thriller film. Story: Four couples sail the thin line between desire and… See cast and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "José Ramón Alama"
+     }
+    ],
+    "duration": "PT85M",
+    "genre": [
+     "Comedy",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/466HJFm5SCys70ecnqJcSOeAHPG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1599993",
+    "name": "Animales",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1599993"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Animales (2026)</h1>\n<p class=\"ssr-lead\">Four couples sail the thin line between desire and search for authenticity, in a world where truth is as fragile as their relationships.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 February 2026</li><li>Runtime: 85 minutes</li><li>Director: José Ramón Alama</li><li>Genres: Comedy, Thriller</li><li>TMDB rating: 6.2/10 (57 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nashla Bogaert as Amelia</li><li>Frank Perozo as Martín</li><li>Pamela Sued as Sofía</li><li>David Maler as Santiago</li><li>Camila Issa as Jessica</li><li>Pedro Casals as Franco</li><li>Vitaly Sánchez as Deborah</li><li>María del Mar Bonelly as Lucía</li></ul>\n</article>",
+   "t": "Animales (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:27793": {
    "d": "The NeverEnding Story III (1994): Family/Fantasy film. Story: A young boy must restore order when a group of… See cast, budget $17M, and TMDB rating 4.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/12Tr8MQ3z4M2Kpsz7bQQhghNJ5X.jpg",
@@ -257,6 +576,198 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Sleepover (2020)</h1>\n<p class=\"ssr-lead\">Two siblings who discover their seemingly normal mom is a former thief in witness protection. Mom is forced to pull one last job, and the kids team up to rescue her over the course of an action-packed night.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 August 2020</li><li>Runtime: 101 minutes</li><li>Director: Trish Sie</li><li>Genres: Family, Action</li><li>TMDB rating: 6.4/10 (461 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sadie Stanley as Clancy</li><li>Maxwell Simkins as Kevin</li><li>Cree as Mim</li><li>Lucas Jaye as Lewis</li><li>Malin Akerman as Margot</li><li>Ken Marino as Glen Finch</li><li>Joe Manganiello as Leo</li><li>Harry Aspinwall as Baxter / Pizza Guy</li><li>Enuka Okuma as Elise / Dark Figure</li><li>Erik Griffin as Henry Gibbs</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "The Sleepover (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
+  },
+  "movie:680493": {
+   "d": "Return to Silent Hill (2026): Horror/Mystery film. Story: When James receives a mysterious letter from his lost… See cast, budget $23M, and TMDB rating 5.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
+   "industry": "world",
+   "k": "Return to Silent Hill, Return to Silent Hill movie, Return to Silent Hill cast, Return to Silent Hill story, Return to Silent Hill box office collection, Return to Silent Hill budget, Return to Silent Hill review, Return to Silent Hill rating, Return to Silent Hill release date, Return to Silent Hill trailer, Return to Silent Hill Horror, Return to Silent Hill Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jeremy Irvine"
+     },
+     {
+      "@type": "Person",
+      "name": "Hannah Emily Anderson"
+     },
+     {
+      "@type": "Person",
+      "name": "Ljiljana Velimirov"
+     },
+     {
+      "@type": "Person",
+      "name": "Giulia Pelagatti"
+     },
+     {
+      "@type": "Person",
+      "name": "Evie Templeton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 936,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "Return to Silent Hill (2026): Horror/Mystery film. Story: When James receives a mysterious letter from his lost… See cast, budget $23M, and TMDB rating 5.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Christophe Gans"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=680493",
+    "name": "Return to Silent Hill",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=680493"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Return to Silent Hill (2026)</h1>\n<p class=\"ssr-lead\">When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 January 2026</li><li>Runtime: 106 minutes</li><li>Director: Christophe Gans</li><li>Genres: Horror, Mystery</li><li>Budget: $23M</li><li>TMDB rating: 5.3/10 (936 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jeremy Irvine as James Sunderland</li><li>Hannah Emily Anderson as Mary Crane / Angela / Maria / Moth Mary</li><li>Ljiljana Velimirov as Armless</li><li>Giulia Pelagatti as Armless / Spider Lady</li><li>Evie Templeton as Laura</li><li>Robert Strange as Pyramid Head</li><li>Pearse Egan as Eddie</li><li>Nicola Alexis as M</li><li>Eve Macklin as Kaitlyn</li><li>Emily Carding as Dara</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu, Screambox Amazon Channel, Cineverse Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Return to Silent Hill (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:696393": {
+   "d": "Cold Storage (2026): Horror/Science Fiction film. Story: When a mutating, highly contagious fungus escapes a… See cast, budget $10M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
+   "industry": "world",
+   "k": "Cold Storage, Cold Storage movie, Cold Storage cast, Cold Storage story, Cold Storage box office collection, Cold Storage budget, Cold Storage review, Cold Storage rating, Cold Storage release date, Cold Storage trailer, Cold Storage Horror, Cold Storage Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Georgina Campbell"
+     },
+     {
+      "@type": "Person",
+      "name": "Joe Keery"
+     },
+     {
+      "@type": "Person",
+      "name": "Liam Neeson"
+     },
+     {
+      "@type": "Person",
+      "name": "Ellora Torchia"
+     },
+     {
+      "@type": "Person",
+      "name": "Vanessa Redgrave"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 876,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Cold Storage (2026): Horror/Science Fiction film. Story: When a mutating, highly contagious fungus escapes a… See cast, budget $10M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jonny Campbell"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=696393",
+    "name": "Cold Storage",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=696393"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cold Storage (2026)</h1>\n<p class=\"ssr-lead\">When a mutating, highly contagious fungus escapes a sealed facility, two employees – joined by a grizzled bioterror operative – must survive the wildest night shift ever to save humanity from extinction.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 January 2026</li><li>Runtime: 99 minutes</li><li>Director: Jonny Campbell</li><li>Genres: Horror, Science Fiction, Comedy</li><li>Budget: $10M</li><li>TMDB rating: 6.7/10 (876 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Georgina Campbell as Naomi</li><li>Joe Keery as Teacake</li><li>Liam Neeson as Robert Quinn</li><li>Ellora Torchia as Abigail</li><li>Vanessa Redgrave as Mary Rooney</li><li>Sosie Bacon as Dr. Hero Martins</li><li>Lesley Manville as Trini Romano</li><li>Richard Brake as Wesley Jerabek</li><li>Aaron Heffernan as Mike Snyder</li><li>Rob Collins as Enos Namatjira</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Zee5</li></ul>\n</article>",
+   "t": "Cold Storage (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:947493": {
+   "d": "Iron Boy (2026): Animation/Drama film. Story: In rural France, 10-year-old Christophe tries to live… See cast and TMDB rating 8.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qMryViRTIek9SkkOPjNMfnbCuI6.jpg",
+   "industry": "world",
+   "k": "Iron Boy, Iron Boy movie, Iron Boy cast, Iron Boy story, Iron Boy box office collection, Iron Boy budget, Iron Boy review, Iron Boy rating, Iron Boy release date, Iron Boy Animation, Iron Boy Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gary Clichy"
+     },
+     {
+      "@type": "Person",
+      "name": "Rod Paradot"
+     },
+     {
+      "@type": "Person",
+      "name": "Dimitri Colas"
+     },
+     {
+      "@type": "Person",
+      "name": "Aurélie Vassort"
+     },
+     {
+      "@type": "Person",
+      "name": "Brune Moulin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 48,
+     "ratingValue": 8.1,
+     "worstRating": 0
+    },
+    "description": "Iron Boy (2026): Animation/Drama film. Story: In rural France, 10-year-old Christophe tries to live… See cast and TMDB rating 8.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Louis Clichy"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Animation",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qMryViRTIek9SkkOPjNMfnbCuI6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=947493",
+    "name": "Iron Boy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=947493"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Iron Boy (2026)</h1>\n<p class=\"ssr-lead\">In rural France, 10-year-old Christophe tries to live up to his rigid and distant father on the family farm. But the young boy starts to lean over and collapse without warning — on the tractor, at school, at dinner... A doctor finds the solution: Christophe must wear an iron corset to keep himself upright. Forced to reinvent his life away from the farm, Christophe discovers a new passion for music, meets a new friend, and follows her into his first mischief. But will any of this really fix what is out of balance?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 October 2026</li><li>Runtime: 90 minutes</li><li>Director: Louis Clichy</li><li>Genres: Animation, Drama, Family</li><li>TMDB rating: 8.1/10 (48 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gary Clichy as Christophe (voice)</li><li>Rod Paradot as JB (voice)</li><li>Dimitri Colas as Jean (voice)</li><li>Aurélie Vassort as Catherine (voice)</li><li>Brune Moulin as Clara (voice)</li><li>Alexandre Astier as Michel (voice)</li><li>Jean-Pascal Zadi as The Priest (voice)</li><li>Antoine Philippe as Alcide (voice)</li><li>Margaux Vallé as Sophie (voice)</li><li>Axel Huet as The Bailiff (voice)</li></ul>\n</article>",
+   "t": "Iron Boy (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "tv:2593": {
    "d": "Without a Trace (2002) is a Crime and Mystery TV series. Explore its story: The series follows the ventures of a Missing Persons…, cast, and 7 seasons.",

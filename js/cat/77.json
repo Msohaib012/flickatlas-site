@@ -1,6 +1,6 @@
 {
  "bucket": "77",
- "count": 16,
+ "count": 24,
  "titles": {
   "movie:10077": {
    "backdrop_path": "/cdR9ESJzcocgVphpwO5AYZRwrWg.jpg",
@@ -187,6 +187,233 @@
    "type": "movie",
    "vote_average": 4.848,
    "vote_count": 473
+  },
+  "movie:1084577": {
+   "backdrop_path": "/qE0FswzjACs2kvAycYVS2zcmgec.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Brad",
+     "n": "Mark Wahlberg"
+    },
+    {
+     "c": "Elijah",
+     "n": "Paul Walter Hauser"
+    },
+    {
+     "c": "Pavio Curto",
+     "n": "Sacha Baron Cohen"
+    },
+    {
+     "c": "Santos",
+     "n": "Benjamin Bratt"
+    },
+    {
+     "c": "Cristos",
+     "n": "Luciano Szafir"
+    },
+    {
+     "c": "Emilia",
+     "n": "Eva De Dominici"
+    },
+    {
+     "c": "Antonia / Isadora",
+     "n": "Daniela Melchior"
+    },
+    {
+     "c": "Burgess",
+     "n": "Molly Shannon"
+    },
+    {
+     "c": "Eco Warrior Julie",
+     "n": "Chelsey Crisp"
+    },
+    {
+     "c": "Eco Warrior Aaron",
+     "n": "Eric André"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Peter Farrelly"
+   ],
+   "genres": [
+    "Comedy",
+    "Action",
+    "Adventure"
+   ],
+   "id": 1084577,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
+   "popularity": 6.2888,
+   "poster_path": "/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-15",
+   "revenue": 0,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Their survival takes a big pair.",
+   "title": "Balls Up",
+   "trailer": {
+    "key": "zgzxY4RtxBg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.796,
+   "vote_count": 361
+  },
+  "movie:1128377": {
+   "backdrop_path": "/9aJUVBiHkEa7a5qx3uU6r8g33ZQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ava",
+     "n": "Maika Monroe"
+    },
+    {
+     "c": "Will",
+     "n": "Troy Kotsur"
+    },
+    {
+     "c": "Bob Whyte",
+     "n": "Allan Hawco"
+    },
+    {
+     "c": "Claire",
+     "n": "Helen Hunt"
+    },
+    {
+     "c": "Tom",
+     "n": "Jesse Irving"
+    },
+    {
+     "c": "Adam",
+     "n": "Noah Parker"
+    },
+    {
+     "c": "Sef",
+     "n": "Patrick Sabongui"
+    },
+    {
+     "c": "Bill Morris",
+     "n": "David Haysom"
+    },
+    {
+     "c": "Older Amy",
+     "n": "Geena Meszaros"
+    },
+    {
+     "c": "Marge Buckner",
+     "n": "Warona Setshwaelo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Maxime Giroux"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime"
+   ],
+   "id": 1128377,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "Fresh out of prison, Ava's attempt to reclaim her drug operation collapses when she witnesses a brutal crime, forcing her to flee into a nightmarish underworld where allies are scarce and enemies multiply by the minute.",
+   "popularity": 2.2217,
+   "poster_path": "/rnrrZfFiUIpL00wUh15OBKStnDD.jpg",
+   "production_countries": [
+    "CA",
+    "FI",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-23",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "Desperate people do dangerous things.",
+   "title": "In Cold Light",
+   "trailer": {
+    "key": "S56o2SOFsIc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.875,
+   "vote_count": 68
   },
   "movie:11577": {
    "backdrop_path": "/mEEJC1tHmxJZ49L0Gc7jsFlvQXJ.jpg",
@@ -467,6 +694,167 @@
    "vote_average": 5.9,
    "vote_count": 462
   },
+  "movie:1227877": {
+   "backdrop_path": "/fBZ9cWUI1yB9Fcs2eoYZ4mmMUmI.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Corvette",
+     "n": "Keke Palmer"
+    },
+    {
+     "c": "Sade",
+     "n": "Naomi Ackie"
+    },
+    {
+     "c": "Mariah",
+     "n": "Taylour Paige"
+    },
+    {
+     "c": "Jianhu",
+     "n": "Poppy Liu"
+    },
+    {
+     "c": "Violeta",
+     "n": "Eiza González"
+    },
+    {
+     "c": "Pinky Ring Guy",
+     "n": "LaKeith Stanfield"
+    },
+    {
+     "c": "Grayson",
+     "n": "Will Poulter"
+    },
+    {
+     "c": "Dr. Jack",
+     "n": "Don Cheadle"
+    },
+    {
+     "c": "Christie Smith",
+     "n": "Demi Moore"
+    },
+    {
+     "c": "Designer Suit Dude",
+     "n": "Mahdi Cocci"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Boots Riley"
+   ],
+   "genres": [
+    "Comedy",
+    "Science Fiction",
+    "Crime"
+   ],
+   "id": 1227877,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of shoplifters take aim at a cutthroat fashion maven by stealing from her stores and reselling them at a lower price — what they call 'fashion-forward philanthropy'.",
+   "popularity": 4.8393,
+   "poster_path": "/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-22",
+   "revenue": 9204473,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Booster: Somebody who steals clothes from a store and sells them at a discount price, aka community service.",
+   "title": "I Love Boosters",
+   "trailer": {
+    "key": "I1xZegSgN8w",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.289,
+   "vote_count": 133
+  },
   "movie:123377": {
    "backdrop_path": "/iOmGHgU3qhCMTBcf73m528risb.jpg",
    "budget": 103000,
@@ -605,6 +993,538 @@
    "type": "movie",
    "vote_average": 6.983,
    "vote_count": 441
+  },
+  "movie:1235877": {
+   "backdrop_path": "/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Thalapathy Vetri Kondan 'Vetri'",
+     "n": "Vijay"
+    },
+    {
+     "c": "Kayal",
+     "n": "Pooja Hegde"
+    },
+    {
+     "c": "John Himler / Amrish Poojari",
+     "n": "Bobby Deol"
+    },
+    {
+     "c": "Vijayalakshmi 'Viji'",
+     "n": "Mamitha Baiju"
+    },
+    {
+     "c": "Sheela Rani",
+     "n": "Priyamani"
+    },
+    {
+     "c": "Roja Rangasamy",
+     "n": "Prakash Raj"
+    },
+    {
+     "c": "Srikanth",
+     "n": "Gautham Vasudev Menon"
+    },
+    {
+     "c": "Kaleel",
+     "n": "Narain"
+    },
+    {
+     "c": "CM Arivudai Nambi",
+     "n": "Nassar"
+    },
+    {
+     "c": "Velu",
+     "n": "Sunil Varma"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "H. Vinoth"
+   ],
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "id": 1235877,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "ta",
+   "overview": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+   "popularity": 7.5546,
+   "poster_path": "/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Zee5"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-23",
+   "revenue": 0,
+   "runtime": 183,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ta"
+   ],
+   "status": "Released",
+   "tagline": "The Torch Bearer of Democracy",
+   "title": "Jana Nayagan",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.963,
+   "vote_count": 27
+  },
+  "movie:1430077": {
+   "backdrop_path": "/1FYdbchGR8WTNlneJ3Pvol5hbGE.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Ohm Bauman",
+     "n": "Adam Scott"
+    },
+    {
+     "c": "Mal",
+     "n": "Peter Coonan"
+    },
+    {
+     "c": "Jerry",
+     "n": "David Wilmot"
+    },
+    {
+     "c": "Fiona",
+     "n": "Florence Ordesh"
+    },
+    {
+     "c": "Fergal",
+     "n": "Michael Patric"
+    },
+    {
+     "c": "Alby / Jack (The Jackass)",
+     "n": "Will O'Connell"
+    },
+    {
+     "c": "Cob",
+     "n": "Brendan Conroy"
+    },
+    {
+     "c": "Boy",
+     "n": "Ezra Carlisle"
+    },
+    {
+     "c": "Conquistador",
+     "n": "Austin Amelio"
+    },
+    {
+     "c": "Ohm's Mother",
+     "n": "Mallory Adams"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Damian McCarthy"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 1430077,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+   "popularity": 15.4559,
+   "poster_path": "/x6rHcQFiYcczLQPrmxXPAicm54E.jpg",
+   "production_countries": [
+    "US",
+    "IE",
+    "AE",
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-15",
+   "revenue": 25023390,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "We've been expecting you.",
+   "title": "Hokum",
+   "trailer": {
+    "key": "qU_i5e48KzQ",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 1063
+  },
+  "movie:1507877": {
+   "backdrop_path": "/yLZCngaex5380FB6sEy6o10L9wN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Garance",
+     "n": "Adèle Exarchopoulos"
+    },
+    {
+     "c": "Pauline",
+     "n": "Sara Giraudeau"
+    },
+    {
+     "c": "Marianne",
+     "n": "Anne Suarez"
+    },
+    {
+     "c": "Judith",
+     "n": "Sara-Jeanne Drillaud"
+    },
+    {
+     "c": "Ethan",
+     "n": "Rudgy Pajany"
+    },
+    {
+     "c": "Sarah",
+     "n": "Raya Martigny"
+    },
+    {
+     "c": "Charlotte",
+     "n": "Mathilde Roehrich"
+    },
+    {
+     "c": "Blanche",
+     "n": "Jehnny Beth"
+    },
+    {
+     "c": "",
+     "n": "Yuming Hey"
+    },
+    {
+     "c": "Catherine",
+     "n": "Brigitte Sy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R21",
+   "date_kind": "release",
+   "director": [
+    "Jeanne Herry"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1507877,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Over an eight-year journey in Paris, a struggling young actress turns to alcohol to cope with her anxieties, spiraling into self-destruction before finding a path toward recovery through a new romance and her ailing sister.",
+   "popularity": 2.9909,
+   "poster_path": "/xU8iyvhGQQIU9geuFxPbyNquhdX.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-23",
+   "revenue": 0,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Another Day",
+   "trailer": {
+    "key": "JFW2N_EJJf8",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.07,
+   "vote_count": 79
+  },
+  "movie:1541477": {
+   "backdrop_path": "/9uU3523A14KJ90Jr8pQx0NGGIgb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Simone",
+     "n": "Elio Germano"
+    },
+    {
+     "c": "Lucia",
+     "n": "Maria Chiara Giannetta"
+    },
+    {
+     "c": "",
+     "n": "Lidia Vitale"
+    },
+    {
+     "c": "",
+     "n": "Anna Bonaiuto"
+    },
+    {
+     "c": "",
+     "n": "Diop Virginia"
+    },
+    {
+     "c": "",
+     "n": "Francesca De Martini"
+    },
+    {
+     "c": "",
+     "n": "Caterina Guzzanti"
+    },
+    {
+     "c": "",
+     "n": "Sofia Luchetti"
+    },
+    {
+     "c": "",
+     "n": "Filippo Nigro"
+    },
+    {
+     "c": "",
+     "n": "Bianca Mastromonaco"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Daniele Luchetti"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1541477,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A couple faces the difficult path to adoption, determined to become parents despite their complex vulnerabilities.",
+   "popularity": 12.4842,
+   "poster_path": "/4Gw8ukw5aAUP1uzNtYZ0CNTUy5A.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-29",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "You, Me, Us",
+   "trailer": {
+    "key": "XjUt3Fv_f-Y",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.028,
+   "vote_count": 53
+  },
+  "movie:1542877": {
+   "backdrop_path": "/9y9HMou5hBGhRm8u9LvlEgEjDLv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Koro-sensei (voice)",
+     "n": "Jun Fukuyama"
+    },
+    {
+     "c": "Tadaomi Karasuma (voice)",
+     "n": "Tomokazu Sugita"
+    },
+    {
+     "c": "Irina Jelavic (voice)",
+     "n": "Shizuka Itoh"
+    },
+    {
+     "c": "Nagisa Shiota / Hotaru (voice)",
+     "n": "Mai Fuchigami"
+    },
+    {
+     "c": "Karma Akabane (voice)",
+     "n": "Nobuhiko Okamoto"
+    },
+    {
+     "c": "Kaede Kayano (voice)",
+     "n": "Aya Suzaki"
+    },
+    {
+     "c": "Touka Yada (voice)",
+     "n": "Ayaka Suwa"
+    },
+    {
+     "c": "Megu Kataoka (voice)",
+     "n": "Chie Matsuura"
+    },
+    {
+     "c": "Kotaro Takebayashi (voice)",
+     "n": "Takahiro Mizushima"
+    },
+    {
+     "c": "Sosuke Sugaya (voice)",
+     "n": "Eiji Miyashita"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Masaki Kitamura"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 1542877,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "United by a common mission to eliminate their teacher, Koro-sensei, an alien creature with phenomenal strength, join Nagisa and his Class 3-E classmates in brand-new adventures.",
+   "popularity": 6.1318,
+   "poster_path": "/6fXv5b6Mbee6XozuHAVDLRXHbbf.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Crunchyroll"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-20",
+   "revenue": 0,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "With ten years' worth of love.",
+   "title": "Assassination Classroom the Movie: Our Time",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.7,
+   "vote_count": 29
   },
   "movie:20077": {
    "backdrop_path": "/326o6Tw8QHP6TtIXqU56dDYgnzL.jpg",

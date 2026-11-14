@@ -1,6 +1,6 @@
 {
  "bucket": "84",
- "count": 22,
+ "count": 30,
  "titles": {
   "movie:10384": {
    "backdrop_path": "/przsU4aiGsdlDkCp5uV8kq8gbLe.jpg",
@@ -272,6 +272,477 @@
    "vote_average": 6.6,
    "vote_count": 456
   },
+  "movie:1083884": {
+   "backdrop_path": "/3gN540zmAiJW1v6mFoNiciamxc2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Annika",
+     "n": "Isabelle Fuhrman"
+    },
+    {
+     "c": "Charlie",
+     "n": "Josh Hutcherson"
+    },
+    {
+     "c": "Perry",
+     "n": "David Thewlis"
+    },
+    {
+     "c": "Sam Houston",
+     "n": "Dennis Quaid"
+    },
+    {
+     "c": "Mother",
+     "n": "Vanessa Smythe"
+    },
+    {
+     "c": "",
+     "n": "Kiera Allen"
+    },
+    {
+     "c": "",
+     "n": "Raoul Bhaneja"
+    },
+    {
+     "c": "",
+     "n": "Ronnie James Hughes"
+    },
+    {
+     "c": "",
+     "n": "Adam Moryto"
+    },
+    {
+     "c": "Young Klara",
+     "n": "Beatrice Schneider"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Jonathan Sobol"
+   ],
+   "genres": [
+    "Science Fiction",
+    "TV Movie",
+    "Action"
+   ],
+   "id": 1083884,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A computer scientist is invited by a tech billionaire to join his private facility on a Caribbean island to investigate extraterrestrial matter on Earth. When they make contact beyond our world, chaos erupts as we’re left to wonder: do they come in peace?",
+   "popularity": 4.1901,
+   "poster_path": "/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-10",
+   "revenue": 0,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "First contact has been made.",
+   "title": "Signal One",
+   "trailer": {
+    "key": "rJY9BC89igE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.969,
+   "vote_count": 98
+  },
+  "movie:1127384": {
+   "backdrop_path": "/szKv713FcUXx6hcfdY369vtkmzr.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Ben",
+     "n": "Aaron Eckhart"
+    },
+    {
+     "c": "Rich",
+     "n": "Ben Kingsley"
+    },
+    {
+     "c": "Cora",
+     "n": "Molly Belle Wright"
+    },
+    {
+     "c": "Dan",
+     "n": "Angus Sampson"
+    },
+    {
+     "c": "Finn",
+     "n": "Elijah Tamati"
+    },
+    {
+     "c": "Lilly",
+     "n": "Zhao Simei"
+    },
+    {
+     "c": "Sam",
+     "n": "Li Wenhan"
+    },
+    {
+     "c": "Zoe",
+     "n": "Nashi"
+    },
+    {
+     "c": "Matt",
+     "n": "Richard Crouchley"
+    },
+    {
+     "c": "Martine",
+     "n": "Madeleine West"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Renny Harlin"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Adventure"
+   ],
+   "id": 1127384,
+   "industry": "world",
+   "origin_country": [
+    "AU",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of international passengers on a flight from Los Angeles to Shanghai is forced to make an emergency landing in shark-infested waters. The terrified group is forced to work together and overcome their differences if they hope to escape their sinking plane and the frenzy of sharks drawn to the wreckage.",
+   "popularity": 18.0417,
+   "poster_path": "/ZWHxL2ETItcZzeVsVfs6gv3SZ7.jpg",
+   "production_countries": [
+    "US",
+    "ES",
+    "AU",
+    "CN",
+    "UA"
+   ],
+   "providers": [
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+     "name": "MGM Plus Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-30",
+   "revenue": 7340233,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "Surviving the crash is just the beginning.",
+   "title": "Deep Water",
+   "trailer": {
+    "key": "f0ptq0Lzdh8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.331,
+   "vote_count": 747
+  },
+  "movie:1179684": {
+   "backdrop_path": "/qV3NFmHbLiYYNBiPaG2v2iZWGM.jpg",
+   "budget": 10673500,
+   "cast": [
+    {
+     "c": "Eric Visser",
+     "n": "Huub Stapel"
+    },
+    {
+     "c": "Tara Lee",
+     "n": "Holly Mae Brood"
+    },
+    {
+     "c": "Anneke Visser",
+     "n": "Tatum Dagelet"
+    },
+    {
+     "c": "Jozef Visbeen",
+     "n": "Bas Keijzer"
+    },
+    {
+     "c": "",
+     "n": "Ruben Brinkman"
+    },
+    {
+     "c": "Jane",
+     "n": "Lesley Grant"
+    },
+    {
+     "c": "",
+     "n": "Pierre Bokma"
+    },
+    {
+     "c": "Sandra",
+     "n": "Florence Vos Weeda"
+    },
+    {
+     "c": "Getuige",
+     "n": "Julian Cruiming"
+    },
+    {
+     "c": "Mick van den Berg",
+     "n": "Steef Cuijpers"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Dick Maas"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Horror"
+   ],
+   "id": 1179684,
+   "industry": "world",
+   "origin_country": [
+    "NL"
+   ],
+   "original_language": "nl",
+   "overview": "After 37 years, the canals of Amsterdam are once again turning blood red. Tara Lee is a young ambitious detective with the Amsterdam police force who is confronted by a number of gruesome incidents around the canals. She enlists the help of  Visser, a retired detective who once nabbed a serial killer stalking those same canals. They face an adversary who seems to possess superhuman powers.",
+   "popularity": 9.3458,
+   "poster_path": "/iI7gV6YoCUhiai9niLeIvVQ6XBX.jpg",
+   "production_countries": [
+    "NL"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-04",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "nl"
+   ],
+   "status": "Released",
+   "tagline": "THE SAME CANALS. NEW BLOOD.",
+   "title": "Amsterdamned II",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 47
+  },
   "movie:1198984": {
    "backdrop_path": "/vbkW4KerpshPZnP84w9qwSfYrhu.jpg",
    "budget": 0,
@@ -446,6 +917,94 @@
    "vote_average": 6.115,
    "vote_count": 439
   },
+  "movie:1217584": {
+   "backdrop_path": "/1I6QPJ2s6lch1WYO54Cv2j2Y8Z4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "José Luis Torrente",
+     "n": "Santiago Segura"
+    },
+    {
+     "c": "Cuco",
+     "n": "Gabino Diego"
+    },
+    {
+     "c": "Pelayo",
+     "n": "Carlos Areces"
+    },
+    {
+     "c": "Jacobo Carrascal",
+     "n": "Ramón Langa"
+    },
+    {
+     "c": "Franki",
+     "n": "Francisco Nicolás"
+    },
+    {
+     "c": "Santi",
+     "n": "Willy Bárcenas"
+    },
+    {
+     "c": "Antoñito",
+     "n": "Cañita Brava"
+    },
+    {
+     "c": "Manolito",
+     "n": "José María Rubio"
+    },
+    {
+     "c": "Torrelavega",
+     "n": "Xavier Deltell"
+    },
+    {
+     "c": "David",
+     "n": "David Guapo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "+16",
+   "date_kind": "release",
+   "director": [
+    "Santiago Segura"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1217584,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Years have passed since his last adventure, but José Luis Torrente, the most politically incorrect former cop in Spain, still sees himself as a national hero.",
+   "popularity": 3.5257,
+   "poster_path": "/yrDKwAdZRJjoQ9RZwzRGPpMC7U1.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-13",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Torrente for President",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.111,
+   "vote_count": 162
+  },
   "movie:13384": {
    "backdrop_path": "/eWvxOS5g67B1b46Cff9TlYuJleY.jpg",
    "budget": 0,
@@ -567,6 +1126,354 @@
    "vote_average": 7.4,
    "vote_count": 470
   },
+  "movie:1356484": {
+   "backdrop_path": "/gPTHVWTLHq8i2KwfGnJpgvcU4Sw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joachim Meyerhoff",
+     "n": "Bruno Alexander"
+    },
+    {
+     "c": "Inge Brinkmann",
+     "n": "Senta Berger"
+    },
+    {
+     "c": "Hermann Krings",
+     "n": "Michael Wittenborn"
+    },
+    {
+     "c": "Mother Iris",
+     "n": "Laura Tonke"
+    },
+    {
+     "c": "Father Richard",
+     "n": "Devid Striesow"
+    },
+    {
+     "c": "Sabrina",
+     "n": "Katharina Stark"
+    },
+    {
+     "c": "Teacher Gretchen",
+     "n": "Anne Ratte-Polle"
+    },
+    {
+     "c": "Wolf",
+     "n": "Moritz von Treuenfels"
+    },
+    {
+     "c": "Film Director",
+     "n": "Friedrich von Thun"
+    },
+    {
+     "c": "Teacher",
+     "n": "Victoria Trauttmansdorff"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Simon Verhoeven"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1356484,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "At the age of 20, Joachim is unexpectedly accepted into the renowned acting school in Munich and moves into the villa with his grandparents, Inge and Hermann. Between the bizarre challenges of acting school and the eccentric, mostly alcohol-fueled rituals of his grandparents, Joachim tries to find his place in the world — without knowing what role he actually plays in it.",
+   "popularity": 1.743,
+   "poster_path": "/knxomBCHcmYGTqDF5NnQaN9SLND.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-29",
+   "revenue": 13090622,
+   "runtime": 137,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Oh, This Unspeakable Void",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.7,
+   "vote_count": 39
+  },
+  "movie:1365884": {
+   "backdrop_path": "/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Andréa Martel",
+     "n": "Camille Cottin"
+    },
+    {
+     "c": "Mathias Barneville",
+     "n": "Thibault de Montalembert"
+    },
+    {
+     "c": "Gabriel Sarda",
+     "n": "Grégory Montel"
+    },
+    {
+     "c": "Arlette Azémar",
+     "n": "Liliane Rovère"
+    },
+    {
+     "c": "Camille Valentini",
+     "n": "Fanny Sidney"
+    },
+    {
+     "c": "Noémie Leclerc",
+     "n": "Laure Calamy"
+    },
+    {
+     "c": "Hervé André-Jezak",
+     "n": "Nicolas Maury"
+    },
+    {
+     "c": "Collette Brancillon",
+     "n": "Ophélia Kolb"
+    },
+    {
+     "c": "Élise Formain",
+     "n": "Anne Marivin"
+    },
+    {
+     "c": "Laetitia Casta",
+     "n": "Laetitia Casta"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Émilie Noblet"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1365884,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Five years after ASK Agency closed, debut director Andréa loses her lead actor just days before filming and reunited with her old team — for better or worse.",
+   "popularity": 3.3983,
+   "poster_path": "/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-29",
+   "revenue": 0,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Call My Agent! The Movie",
+   "trailer": {
+    "key": "01PX2jZNW5A",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.961,
+   "vote_count": 142
+  },
+  "movie:1404684": {
+   "backdrop_path": "/l1fhfzNclQcp4oBz550KMY0CTre.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yves Dayan",
+     "n": "Louis Garrel"
+    },
+    {
+     "c": "Sandrine Dayan",
+     "n": "Camille Cottin"
+    },
+    {
+     "c": "Vincent Dayan",
+     "n": "Simon Boublil"
+    },
+    {
+     "c": "Arnaud Dayan",
+     "n": "Alexis Rosenstiehl"
+    },
+    {
+     "c": "Étienne Berger",
+     "n": "Pierre Lottin"
+    },
+    {
+     "c": "Anne-Karine",
+     "n": "Jeanne Lamartine"
+    },
+    {
+     "c": "Monsieur Abourmad",
+     "n": "Rony Kramer"
+    },
+    {
+     "c": "Madame Bernini",
+     "n": "Giorgia Sinicorni"
+    },
+    {
+     "c": "Monsieur Bernini",
+     "n": "Augusto Fornari"
+    },
+    {
+     "c": "Prof de judo",
+     "n": "Ragnar Le Breton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "ATP",
+   "date_kind": "release",
+   "director": [
+    "Olivier Nakache",
+    "Éric Toledano"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1404684,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In 1985 suburban Paris, 12-year-old Vincent lives with his distant older brother and quarrelling parents. Amid laughter and unease, he navigates friendship and first love, while beginning to confront the adult world.",
+   "popularity": 3.959,
+   "poster_path": "/eWPq3wSvJEMakESTXzaBECUNBYr.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+     "name": "BFI Player",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-15",
+   "revenue": 15742625,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en",
+    "it",
+    "he"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Just an Illusion",
+   "trailer": {
+    "key": "vZtK0AdeXk8",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.284,
+   "vote_count": 227
+  },
   "movie:14684": {
    "backdrop_path": "/3WWQtVKOra73bde9ViwOwq1GnsN.jpg",
    "budget": 18000000,
@@ -665,6 +1572,97 @@
    "type": "movie",
    "vote_average": 6.52,
    "vote_count": 453
+  },
+  "movie:1618784": {
+   "backdrop_path": "/nkeVH2PCEzs4PjCa8hliAeDjayS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Li Hongqi",
+     "n": "Xie Miao"
+    },
+    {
+     "c": "Wang Xiuqin",
+     "n": "Lin Xiaojie"
+    },
+    {
+     "c": "Sun Biao",
+     "n": "Cui Zhijia"
+    },
+    {
+     "c": "Qin Yerong",
+     "n": "Huang Miyi"
+    },
+    {
+     "c": "Fishmonger",
+     "n": "Philip Ng Wan-lung"
+    },
+    {
+     "c": "Liu Xinxin",
+     "n": "Ma Qianyi"
+    },
+    {
+     "c": "Chao Bing",
+     "n": "Zhang Lei"
+    },
+    {
+     "c": "Zhao Na",
+     "n": "Feng Yao"
+    },
+    {
+     "c": "Zheng Sanpao",
+     "n": "Tang Jianjun"
+    },
+    {
+     "c": "Tang Hulu",
+     "n": "Tian Wa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Yang Bingjia"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1618784,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "Li Hongqi is forced to travel for his wedding but must team up with a local cop to rescue a girl from human traffickers, fighting criminals while racing against his wedding date.",
+   "popularity": 1.6816,
+   "poster_path": "/ivsJigetkc9ziOc6j0FenDilrRA.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-30",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Fight Against Evil 3",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 21
   },
   "movie:17684": {
    "backdrop_path": "/rXw6VPz2trn9tYh29GeJAmhZtwZ.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "41",
- "count": 16,
+ "count": 28,
  "titles": {
   "movie:10741": {
    "d": "Bobby (2006): Drama film. Story: In 1968 the lives of a retired doorman, hotel… See cast, TMDB rating 6.4/10, and release date 5 September 2006.",
@@ -129,6 +129,712 @@
    "t": "Laws of Attraction (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2004"
   },
+  "movie:1184941": {
+   "d": "Blue Heron (2026): Drama film. Story: A family of six's fresh start on 1990s Vancouver… See cast, TMDB rating 6.6/10, and release date 24 April 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/t62n8FPCo4kJZYnsxkcLojgThJF.jpg",
+   "industry": "world",
+   "k": "Blue Heron, Blue Heron movie, Blue Heron cast, Blue Heron story, Blue Heron box office collection, Blue Heron budget, Blue Heron review, Blue Heron rating, Blue Heron release date, Blue Heron trailer, Blue Heron Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Eylul Guven"
+     },
+     {
+      "@type": "Person",
+      "name": "Iringó Réti"
+     },
+     {
+      "@type": "Person",
+      "name": "Ádám Tompa"
+     },
+     {
+      "@type": "Person",
+      "name": "Edik Beddoes"
+     },
+     {
+      "@type": "Person",
+      "name": "Amy Zimmer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 54,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Blue Heron (2026): Drama film. Story: A family of six's fresh start on 1990s Vancouver… See cast, TMDB rating 6.6/10, and release date 24 April 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sophy Romvari"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/t62n8FPCo4kJZYnsxkcLojgThJF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1184941",
+    "name": "Blue Heron",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1184941"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Blue Heron (2026)</h1>\n<p class=\"ssr-lead\">A family of six&#x27;s fresh start on 1990s Vancouver Island unravels as their youngest child, Sasha, witnesses the increasingly dangerous behavior of her older brother, Jeremy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 April 2026</li><li>Runtime: 91 minutes</li><li>Director: Sophy Romvari</li><li>Genres: Drama</li><li>TMDB rating: 6.6/10 (54 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eylul Guven as Sasha</li><li>Iringó Réti as Mother</li><li>Ádám Tompa as Father</li><li>Edik Beddoes as Jeremy</li><li>Amy Zimmer as Adult Sasha</li><li>Liam Serg as Henry</li><li>Preston Drabble as Felix</li><li>Lucy Turnbull as Emma</li><li>Jecca Beauchamp as Becky</li><li>Georgia Blake as Ashley</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store</li><li>Buy: Amazon Video, Apple TV Store</li></ul>\n</article>",
+   "t": "Blue Heron (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1227241": {
+   "d": "Maa Inti Bangaram (2026): Action/Thriller film. Story: Through both her moments of fear and bravery, a woman… See cast, budget $2.36M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
+   "industry": "bollywood",
+   "k": "Maa Inti Bangaram, Maa Inti Bangaram movie, Maa Inti Bangaram cast, Maa Inti Bangaram story, Maa Inti Bangaram box office collection, Maa Inti Bangaram budget, Maa Inti Bangaram review, Maa Inti Bangaram rating, Maa Inti Bangaram release date, Maa Inti Bangaram Action, Maa Inti Bangaram Thriller, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Samantha Ruth Prabhu"
+     },
+     {
+      "@type": "Person",
+      "name": "Gulshan Devaiah"
+     },
+     {
+      "@type": "Person",
+      "name": "Diganth Manchale"
+     },
+     {
+      "@type": "Person",
+      "name": "Manjusha Mukkavilli"
+     },
+     {
+      "@type": "Person",
+      "name": "Gautami Tadimalla"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 22,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Maa Inti Bangaram (2026): Action/Thriller film. Story: Through both her moments of fear and bravery, a woman… See cast, budget $2.36M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "B. V. Nandini Reddy"
+     }
+    ],
+    "duration": "PT158M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1227241",
+    "name": "Maa Inti Bangaram",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1227241"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Maa Inti Bangaram (2026)</h1>\n<p class=\"ssr-lead\">Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 June 2026</li><li>Runtime: 158 minutes</li><li>Director: B. V. Nandini Reddy</li><li>Genres: Action, Thriller, Drama</li><li>Budget: $2.36M</li><li>TMDB rating: 6.4/10 (22 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Samantha Ruth Prabhu as Swarna/Jhansi</li><li>Gulshan Devaiah as Karuna</li><li>Diganth Manchale as Dr. Anirudh</li><li>Manjusha Mukkavilli as Kiranmayi</li><li>Gautami Tadimalla as Kamakshi</li><li>Anand as Ramaiah Raju</li><li>Sreemukhi as Anasuya</li><li>Srilakshmi as Anirudh&#x27;s Grandmother</li><li>Srinivas Gavireddy as Buchiraju</li><li>Chaitanya Krishna as Sharath</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, Sony Liv, Sonyliv Amazon Channel</li></ul>\n</article>",
+   "t": "Maa Inti Bangaram (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1243741": {
+   "d": "Ballistic (2026): Thriller/Drama film. Story: When a soldier's mother discovers the bullet that… See cast, budget $4M, and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hC11CgiCUdpCwG1I6dSY18nJXrP.jpg",
+   "industry": "world",
+   "k": "Ballistic, Ballistic movie, Ballistic cast, Ballistic story, Ballistic box office collection, Ballistic budget, Ballistic review, Ballistic rating, Ballistic release date, Ballistic trailer, Ballistic Thriller, Ballistic Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lena Headey"
+     },
+     {
+      "@type": "Person",
+      "name": "Hamza Haq"
+     },
+     {
+      "@type": "Person",
+      "name": "Amybeth McNulty"
+     },
+     {
+      "@type": "Person",
+      "name": "Jordan Kronis"
+     },
+     {
+      "@type": "Person",
+      "name": "Enrico Colantoni"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 93,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Ballistic (2026): Thriller/Drama film. Story: When a soldier's mother discovers the bullet that… See cast, budget $4M, and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chad Faust"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hC11CgiCUdpCwG1I6dSY18nJXrP.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1243741",
+    "name": "Ballistic",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1243741"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ballistic (2026)</h1>\n<p class=\"ssr-lead\">When a soldier&#x27;s mother discovers the bullet that killed her son in Afghanistan was made at the factory where she works, she sets out on a path of revenge against those responsible.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 April 2026</li><li>Runtime: 91 minutes</li><li>Director: Chad Faust</li><li>Genres: Thriller, Drama</li><li>Budget: $4M</li><li>TMDB rating: 5.9/10 (93 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lena Headey as Nance Redfield</li><li>Hamza Haq as Kahlil Nabizada</li><li>Amybeth McNulty as Diana</li><li>Jordan Kronis as Jesse Redfield</li><li>Enrico Colantoni as Rick Barber</li><li>Amanda Brugel as Galindo</li><li>Chad Faust as SSG Buchanan</li><li>Paolo Mancini as Larry Labtech</li><li>Andrew Bell as Funeral Director</li><li>Kendall Christie as Joy Rhoads</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Paramount Plus Premium, Paramount Plus Essential, Paramount+ Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Ballistic (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1284041": {
+   "d": "The Last House (2026): Horror/Science Fiction film. Story: A family suddenly sealed inside their home must work… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
+   "industry": "world",
+   "k": "The Last House, The Last House movie, The Last House cast, The Last House story, The Last House box office collection, The Last House budget, The Last House review, The Last House rating, The Last House release date, The Last House trailer, The Last House Horror, The Last House Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Greta Lee"
+     },
+     {
+      "@type": "Person",
+      "name": "Wagner Moura"
+     },
+     {
+      "@type": "Person",
+      "name": "Riley Chung"
+     },
+     {
+      "@type": "Person",
+      "name": "Noah Alexander Sosnowski"
+     },
+     {
+      "@type": "Person",
+      "name": "Emma Ho"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1577,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "The Last House (2026): Horror/Science Fiction film. Story: A family suddenly sealed inside their home must work… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Louis Leterrier"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1284041",
+    "name": "The Last House",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1284041"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Last House (2026)</h1>\n<p class=\"ssr-lead\">A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 August 2026</li><li>Runtime: 110 minutes</li><li>Director: Louis Leterrier</li><li>Genres: Horror, Science Fiction</li><li>TMDB rating: 6.8/10 (1577 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Greta Lee as Ann</li><li>Wagner Moura as Jason</li><li>Riley Chung as Ruth (8 Years Old)</li><li>Noah Alexander Sosnowski as Graham (12 Years Old)</li><li>Emma Ho as Ruth (13 Years Old)</li><li>Gabriel Barbosa as Graham (17 Years Old)</li><li>Arden Cho as Adult Ruth</li><li>Audrey Anderson as Susan</li><li>Sid Edwards as Max Richardson</li><li>Eveline Reynolds-Boison as Marcia Richardson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Last House (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1287141": {
+   "d": "Pillion (2025): Romance/Drama film. Story: Colin, a timid man, meets Ray, a confident biker gang… See cast, budget $1M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vM6UBr6rNZkU5pihzMZfcHAbWsf.jpg",
+   "industry": "world",
+   "k": "Pillion, Pillion movie, Pillion cast, Pillion story, Pillion box office collection, Pillion budget, Pillion review, Pillion rating, Pillion release date, Pillion trailer, Pillion Romance, Pillion Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Harry Melling"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexander Skarsgård"
+     },
+     {
+      "@type": "Person",
+      "name": "Lesley Sharp"
+     },
+     {
+      "@type": "Person",
+      "name": "Douglas Hodge"
+     },
+     {
+      "@type": "Person",
+      "name": "Jake Shears"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 364,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Pillion (2025): Romance/Drama film. Story: Colin, a timid man, meets Ray, a confident biker gang… See cast, budget $1M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Harry Lighton"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vM6UBr6rNZkU5pihzMZfcHAbWsf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1287141",
+    "name": "Pillion",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-11-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1287141"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pillion (2025)</h1>\n<p class=\"ssr-lead\">Colin, a timid man, meets Ray, a confident biker gang leader, who initiates him into a submissive relationship, challenging Colin’s mundane existence and prompting personal growth through their unconventional dynamic.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2025</li><li>Runtime: 107 minutes</li><li>Director: Harry Lighton</li><li>Genres: Romance, Drama, Comedy</li><li>Budget: $1M</li><li>TMDB rating: 6.5/10 (364 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Harry Melling as Colin</li><li>Alexander Skarsgård as Ray</li><li>Lesley Sharp as Peggy</li><li>Douglas Hodge as Pete</li><li>Jake Shears as Kevin</li><li>Mat Hill as Steve</li><li>Nick Figgis as Don</li><li>Zoe Engerer as Don&#x27;s Wife</li><li>Jake Sharp as Chigs</li><li>Jacob Carter as Cousin Roy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Pillion (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1288341": {
+   "d": "Seven Snipers (2026): Action/Thriller film. Story: When a former elite sniper is hunted down by the… See cast and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/g2aOpyCO1vEyUZURh3V5uaHu187.jpg",
+   "industry": "world",
+   "k": "Seven Snipers, Seven Snipers movie, Seven Snipers cast, Seven Snipers story, Seven Snipers box office collection, Seven Snipers budget, Seven Snipers review, Seven Snipers rating, Seven Snipers release date, Seven Snipers trailer, Seven Snipers Action, Seven Snipers Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Radha Mitchell"
+     },
+     {
+      "@type": "Person",
+      "name": "Tim Roth"
+     },
+     {
+      "@type": "Person",
+      "name": "Annabel Wolfe"
+     },
+     {
+      "@type": "Person",
+      "name": "Ioan Gruffudd"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryan Kwanten"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 179,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Seven Snipers (2026): Action/Thriller film. Story: When a former elite sniper is hunted down by the… See cast and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sandra Sciberras"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/g2aOpyCO1vEyUZURh3V5uaHu187.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1288341",
+    "name": "Seven Snipers",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1288341"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Seven Snipers (2026)</h1>\n<p class=\"ssr-lead\">When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 April 2026</li><li>Runtime: 88 minutes</li><li>Director: Sandra Sciberras</li><li>Genres: Action, Thriller</li><li>TMDB rating: 6.0/10 (179 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Radha Mitchell as Kris Hendricks / Voodoo Child</li><li>Tim Roth as The Dragon</li><li>Annabel Wolfe as Anja</li><li>Ioan Gruffudd as Milk</li><li>Ryan Kwanten as Phillips</li><li>Lee Tiger Halley as Michael</li><li>Charles Cottier as Junior</li><li>Pacharo Mzembe as Nico</li><li>Damien Ryan as White Dog</li><li>Bianca Wallace as Kaldayev</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Seven Snipers (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1375441": {
+   "d": "Primetime (2026): Thriller/Drama film. Story: In 2006, To Catch a Predator host Chris Hansen sets… See cast, budget $14.5M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
+   "industry": "world",
+   "k": "Primetime, Primetime movie, Primetime cast, Primetime story, Primetime box office collection, Primetime budget, Primetime review, Primetime rating, Primetime release date, Primetime trailer, Primetime Thriller, Primetime Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Robert Pattinson"
+     },
+     {
+      "@type": "Person",
+      "name": "Merritt Wever"
+     },
+     {
+      "@type": "Person",
+      "name": "Skyler Gisondo"
+     },
+     {
+      "@type": "Person",
+      "name": "Matthew Maher"
+     },
+     {
+      "@type": "Person",
+      "name": "Phoebe Bridgers"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 423,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Primetime (2026): Thriller/Drama film. Story: In 2006, To Catch a Predator host Chris Hansen sets… See cast, budget $14.5M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lance Oppenheim"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1375441",
+    "name": "Primetime",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1375441"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Primetime (2026)</h1>\n<p class=\"ssr-lead\">In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 September 2026</li><li>Runtime: 110 minutes</li><li>Director: Lance Oppenheim</li><li>Genres: Thriller, Drama, Crime</li><li>Budget: $14.5M</li><li>TMDB rating: 6.8/10 (423 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert Pattinson as Chris Hansen</li><li>Merritt Wever as Andie Bender</li><li>Skyler Gisondo as Dan Plum</li><li>Matthew Maher as Xavier Von Erck</li><li>Phoebe Bridgers as Del</li><li>Victor Brunette as Frag</li><li>Bokeem Woodbine as Cortland Gunn</li><li>Michael Chachere as Michael Chachere</li><li>Alex Winter as Bill Conradt</li><li>Tony Revolori as MarriedAndLookingForFun31313</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Primetime (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1422041": {
+   "d": "La Bola Negra (2026): Drama/War film. Story: The intertwined lives of three men in three different… See cast, budget $11.1M, and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+   "industry": "world",
+   "k": "La Bola Negra, La Bola Negra movie, La Bola Negra cast, La Bola Negra story, La Bola Negra box office collection, La Bola Negra budget, La Bola Negra review, La Bola Negra rating, La Bola Negra release date, La Bola Negra trailer, La Bola Negra Drama, La Bola Negra War, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Guitarricadelafuente"
+     },
+     {
+      "@type": "Person",
+      "name": "Miguel Bernardeau"
+     },
+     {
+      "@type": "Person",
+      "name": "Carlos González"
+     },
+     {
+      "@type": "Person",
+      "name": "Milo Quifes"
+     },
+     {
+      "@type": "Person",
+      "name": "Lola Dueñas"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 218,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "La Bola Negra (2026): Drama/War film. Story: The intertwined lives of three men in three different… See cast, budget $11.1M, and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Javier Ambrossi"
+     },
+     {
+      "@type": "Person",
+      "name": "Javier Calvo"
+     }
+    ],
+    "duration": "PT159M",
+    "genre": [
+     "Drama",
+     "War"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1422041",
+    "name": "La Bola Negra",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1422041"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>La Bola Negra (2026)</h1>\n<p class=\"ssr-lead\">The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 September 2026</li><li>Runtime: 159 minutes</li><li>Director: Javier Ambrossi, Javier Calvo</li><li>Genres: Drama, War</li><li>Budget: $11.1M</li><li>TMDB rating: 8.0/10 (218 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Guitarricadelafuente as Sebastián</li><li>Miguel Bernardeau as Rafael</li><li>Carlos González as Alberto</li><li>Milo Quifes as Carlos</li><li>Lola Dueñas as Teresa</li><li>Penélope Cruz as Nené Romero</li><li>Glenn Close as Isabelle Durand</li><li>Julio Torres as Juan Pablo</li><li>Yenesi as Goyita</li><li>Lorenzo Zurzolo as Riccardo</li></ul>\n</article>",
+   "t": "La Bola Negra (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1454741": {
+   "d": "The Confession (2026): Horror film. Story: A woman finds her late father’s tape confessing to… See cast, TMDB rating 5.7/10, and release date 8 January 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/lALfCsv7YMNrqpWzIaxjS81JKOm.jpg",
+   "industry": "world",
+   "k": "The Confession, The Confession movie, The Confession cast, The Confession story, The Confession box office collection, The Confession budget, The Confession review, The Confession rating, The Confession release date, The Confession trailer, The Confession Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Italia Ricci"
+     },
+     {
+      "@type": "Person",
+      "name": "Scott Mechlowicz"
+     },
+     {
+      "@type": "Person",
+      "name": "Zachary Golinger"
+     },
+     {
+      "@type": "Person",
+      "name": "Terence Rosemore"
+     },
+     {
+      "@type": "Person",
+      "name": "Justin Matthew Smith"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 34,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "The Confession (2026): Horror film. Story: A woman finds her late father’s tape confessing to… See cast, TMDB rating 5.7/10, and release date 8 January 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Will Canon"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lALfCsv7YMNrqpWzIaxjS81JKOm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1454741",
+    "name": "The Confession",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1454741"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Confession (2026)</h1>\n<p class=\"ssr-lead\">A woman finds her late father’s tape confessing to murder tied to an evil force—now her son shows the same darkness, and she must fight to stop it.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 January 2026</li><li>Runtime: 87 minutes</li><li>Director: Will Canon</li><li>Genres: Horror</li><li>TMDB rating: 5.7/10 (34 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Italia Ricci as Naomi Riley</li><li>Scott Mechlowicz as Grayson Phillips</li><li>Zachary Golinger as Dylan Riley</li><li>Terence Rosemore as Harling Guidry</li><li>Justin Matthew Smith as The Piper</li><li>Allie McCulloch as Luellen</li><li>Ron Fallica as Evan</li><li>Jay DeVon Johnson as Detective Armas</li><li>Troy Rudeseal as Principal Hodges</li><li>Vince Eisenson as The Skinny Man</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Confession (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1495041": {
+   "d": "Buffet Infinity (2026): Comedy/Horror film. Story: When a massive monster buffet threatens their Alberta… See cast, budget $775.0k, and TMDB rating 4.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/AsnZYgCKfB4OXvzoJrw4Ld7mp89.jpg",
+   "industry": "world",
+   "k": "Buffet Infinity, Buffet Infinity movie, Buffet Infinity cast, Buffet Infinity story, Buffet Infinity box office collection, Buffet Infinity budget, Buffet Infinity review, Buffet Infinity rating, Buffet Infinity release date, Buffet Infinity trailer, Buffet Infinity Comedy, Buffet Infinity Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kevin Singh"
+     },
+     {
+      "@type": "Person",
+      "name": "Claire Theobald"
+     },
+     {
+      "@type": "Person",
+      "name": "Donovan Workun"
+     },
+     {
+      "@type": "Person",
+      "name": "Ahmed Ahmed"
+     },
+     {
+      "@type": "Person",
+      "name": "Brandon Vanderwall"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 27,
+     "ratingValue": 4.7,
+     "worstRating": 0
+    },
+    "description": "Buffet Infinity (2026): Comedy/Horror film. Story: When a massive monster buffet threatens their Alberta… See cast, budget $775.0k, and TMDB rating 4.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Simon Glassman"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Comedy",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/AsnZYgCKfB4OXvzoJrw4Ld7mp89.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1495041",
+    "name": "Buffet Infinity",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1495041"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Buffet Infinity (2026)</h1>\n<p class=\"ssr-lead\">When a massive monster buffet threatens their Alberta county, local business owners star in low-budget TV commercials that mask a dark conspiracy and unleash terrifying supernatural powers.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 April 2026</li><li>Runtime: 93 minutes</li><li>Director: Simon Glassman</li><li>Genres: Comedy, Horror</li><li>Budget: $775.0k</li><li>TMDB rating: 4.7/10 (27 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kevin Singh as Mosley Rosin</li><li>Claire Theobald as Insurance Woman</li><li>Donovan Workun as Man in Commercial</li><li>Ahmed Ahmed as Ahmed Ahmed</li><li>Brandon Vanderwall as Brandon</li><li>Siobhan Theobald as Woman In Mattress Commercial</li><li>Allison Bench as Jennifer Joy Avery</li><li>Ben Bauce</li><li>Dino Primo</li><li>Katie Yoner</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Shudder</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Buffet Infinity (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1530941": {
+   "d": "Gintama the Movie 2026: Yoshiwara in Flames (2026): Animation/Action film. Story: Upon meeting a young boy named Seita who makes a… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/8qSFFK9AcMl2Ecp249f5J3Nr8MK.jpg",
+   "industry": "world",
+   "k": "Gintama the Movie 2026: Yoshiwara in Flames, Gintama the Movie 2026: Yoshiwara in Flames movie, Gintama the Movie 2026: Yoshiwara in Flames cast, Gintama the Movie 2026: Yoshiwara in Flames story, Gintama the Movie 2026: Yoshiwara in Flames box office collection, Gintama the Movie 2026: Yoshiwara in Flames budget, Gintama the Movie 2026: Yoshiwara in Flames review, Gintama the Movie 2026: Yoshiwara in Flames rating, Gintama the Movie 2026: Yoshiwara in Flames release date, Gintama the Movie 2026: Yoshiwara in Flames Animation, Gintama the Movie 2026: Yoshiwara in Flames Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tomokazu Sugita"
+     },
+     {
+      "@type": "Person",
+      "name": "Daisuke Sakaguchi"
+     },
+     {
+      "@type": "Person",
+      "name": "Rie Kugimiya"
+     },
+     {
+      "@type": "Person",
+      "name": "Satoshi Hino"
+     },
+     {
+      "@type": "Person",
+      "name": "Yuhko Kaida"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 25,
+     "ratingValue": 8.8,
+     "worstRating": 0
+    },
+    "description": "Gintama the Movie 2026: Yoshiwara in Flames (2026): Animation/Action film. Story: Upon meeting a young boy named Seita who makes a… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Naoya Ando"
+     }
+    ],
+    "duration": "PT124M",
+    "genre": [
+     "Animation",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8qSFFK9AcMl2Ecp249f5J3Nr8MK.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1530941",
+    "name": "Gintama the Movie 2026: Yoshiwara in Flames",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1530941"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Gintama the Movie 2026: Yoshiwara in Flames (2026)</h1>\n<p class=\"ssr-lead\">Upon meeting a young boy named Seita who makes a living as a pickpocket, Gintoki discovers that he is pickpocketing out of a desire to meet his long-lost mother, Hinowa, Yoshiwara&#x27;s number one courtesan. Gintoki and his friends venture to Yoshiwara to fulfill Seita&#x27;s wish, but standing in their way is Housen, the Night King who rules Yoshiwara.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 February 2026</li><li>Runtime: 124 minutes</li><li>Director: Naoya Ando</li><li>Genres: Animation, Action, Science Fiction, Comedy</li><li>TMDB rating: 8.8/10 (25 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tomokazu Sugita as Gintoki Sakata (voice)</li><li>Daisuke Sakaguchi as Shinpachi Shimura (voice)</li><li>Rie Kugimiya as Kagura (voice)</li><li>Satoshi Hino as Kamui (voice)</li><li>Yuhko Kaida as Tsukuyo (voice)</li><li>Banjo Ginga as Housen (voice)</li><li>Yuko Sanpei as Seita (voice)</li><li>Kikuko Inoue as Hinowa (voice)</li><li>Hochu Otsuka as Abuto (voice)</li><li>Kappei Yamaguchi as Inorin (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Netflix Standard with Ads</li></ul>\n</article>",
+   "t": "Gintama the Movie 2026: Yoshiwara in Flames (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:16241": {
    "d": "The Boys from Brazil (1978): Drama/Mystery film. Story: Nazi hunter Ezra Lieberman discovers a sinister and… See cast, budget $12M, and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/3sjEoFwtHHlX6kdqJ8ZAUvt3kq6.jpg",
@@ -256,6 +962,90 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Beastmaster (1982)</h1>\n<p class=\"ssr-lead\">Dar, the son of a king, is hunted by a priest after his birth and grows up in another family. When he becomes a grown man, his new father is murdered by savages and he discovers that he has the ability to communicate with animals, which leads him on a quest for revenge against his father&#x27;s killers.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 August 1982</li><li>Runtime: 118 minutes</li><li>Director: Don Coscarelli</li><li>Genres: Fantasy, Adventure, Action</li><li>Budget: $8M</li><li>TMDB rating: 6.3/10 (491 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Marc Singer as Dar</li><li>Tanya Roberts as Kiri</li><li>Rip Torn as Maax</li><li>John Amos as Seth</li><li>Rod Loomis as King Zed</li><li>Ben Hammer as Young Dar&#x27;s Father</li><li>Ralph Strait as Sacco</li><li>Billy Jayne as Young Dar</li><li>Janet Jones as Witchwoman #3</li><li>Tony Epper as Jun Leader</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Shudder, History Vault, Shudder Amazon Channel, Shudder Apple TV channel, IndieFlix Shorts Amazon Channel, Shout! Factory Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The Beastmaster (1982) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1982"
+  },
+  "movie:1742441": {
+   "d": "V/H/S/MIXTAPE (2026): Horror/Music film. Story: V/H/S/MIXTAPE cranks the volume on horror with a… See cast, TMDB rating 4.5/10, and release date 9 October 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/yIDZiYea2Bah1yLYz14jlC89WJ5.jpg",
+   "industry": "world",
+   "k": "V/H/S/MIXTAPE, V/H/S/MIXTAPE movie, V/H/S/MIXTAPE cast, V/H/S/MIXTAPE story, V/H/S/MIXTAPE box office collection, V/H/S/MIXTAPE budget, V/H/S/MIXTAPE review, V/H/S/MIXTAPE rating, V/H/S/MIXTAPE release date, V/H/S/MIXTAPE trailer, V/H/S/MIXTAPE Horror, V/H/S/MIXTAPE Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mike Derks"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Bishop"
+     },
+     {
+      "@type": "Person",
+      "name": "Brad Roberts"
+     },
+     {
+      "@type": "Person",
+      "name": "Casey Orr"
+     },
+     {
+      "@type": "Person",
+      "name": "Bob Gorman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 43,
+     "ratingValue": 4.5,
+     "worstRating": 0
+    },
+    "description": "V/H/S/MIXTAPE (2026): Horror/Music film. Story: V/H/S/MIXTAPE cranks the volume on horror with a… See cast, TMDB rating 4.5/10, and release date 9 October 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Moreau"
+     },
+     {
+      "@type": "Person",
+      "name": "Renee Zhan"
+     },
+     {
+      "@type": "Person",
+      "name": "RZA"
+     },
+     {
+      "@type": "Person",
+      "name": "Ernest R. Dickerson"
+     },
+     {
+      "@type": "Person",
+      "name": "Flying Lotus"
+     },
+     {
+      "@type": "Person",
+      "name": "Tobias Forge"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Horror",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yIDZiYea2Bah1yLYz14jlC89WJ5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1742441",
+    "name": "V/H/S/MIXTAPE",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1742441"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>V/H/S/MIXTAPE (2026)</h1>\n<p class=\"ssr-lead\">V/H/S/MIXTAPE cranks the volume on horror with a blood-soaked collection of cursed music videos, terrifying performances, and found footage. Press play. Pray it stops.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 October 2026</li><li>Runtime: 98 minutes</li><li>Director: David Moreau, Renee Zhan, RZA, Ernest R. Dickerson, Flying Lotus, Tobias Forge</li><li>Genres: Horror, Music, Thriller</li><li>TMDB rating: 4.5/10 (43 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mike Derks as BalSac the Jaws o&#x27; Death (segment &quot;Frame Narrative&quot;)</li><li>Michael Bishop as Blothar the Berserker (segment &quot;Frame Narrative&quot;)</li><li>Brad Roberts as Jizmak Da Gusha (segment &quot;Frame Narrative&quot;)</li><li>Casey Orr as Beefcake the Mighty (segment &quot;Frame Narrative&quot;)</li><li>Bob Gorman as Bonesnapper the Cave Troll (segment &quot;Frame Narrative&quot;)</li><li>Josh Willis as George (segment &quot;Dance, Dance, Dance, Dance&quot;)</li><li>Christopher Romero Sosa as Sam (segment &quot;Dance, Dance, Dance, Dance&quot;)</li><li>Barbara Crampton as Vanessa (segment &quot;Dance, Dance, Dance, Dance&quot;)</li><li>Erin Griff as Daisy (segment &quot;Dance, Dance, Dance, Dance&quot;)</li><li>Zach Jobe as Chris (segment &quot;Dance, Dance, Dance, Dance&quot;)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: AMC Plus Apple TV channel, AMC+ Amazon Channel, Shudder</li><li>Rent: Amazon Video, Apple TV Store, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "V/H/S/MIXTAPE (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:184341": {
    "d": "Hands of Stone (2016): Drama film. Story: The legendary Roberto Duran and his equally legendary… See cast, budget $20M, and TMDB rating 6.6/10.",

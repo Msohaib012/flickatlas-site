@@ -1,7 +1,646 @@
 {
  "bucket": "47",
- "count": 9,
+ "count": 15,
  "titles": {
+  "movie:1020047": {
+   "backdrop_path": "/tJJ737CJujLXw1GlUYd7K4AH3eB.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Nick / Dante",
+     "n": "Oscar Isaac"
+    },
+    {
+     "c": "Giulietta / Gemma",
+     "n": "Gal Gadot"
+    },
+    {
+     "c": "Louie / Pope Bonifacio",
+     "n": "Gerard Butler"
+    },
+    {
+     "c": "Joe Black",
+     "n": "John Malkovich"
+    },
+    {
+     "c": "Lefty / Guido Novello Da Polenta",
+     "n": "Louis Cancelmi"
+    },
+    {
+     "c": "Dr. Susanna Pulice",
+     "n": "Sabrina Impacciatore"
+    },
+    {
+     "c": "Don Lecco (86)",
+     "n": "Franco Nero"
+    },
+    {
+     "c": "Mephistopheles",
+     "n": "Benjamin Clementine"
+    },
+    {
+     "c": "Priest Of Alcamo",
+     "n": "Paolo Bonacelli"
+    },
+    {
+     "c": "Isaiah",
+     "n": "Martin Scorsese"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Julian Schnabel"
+   ],
+   "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 1020047,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A Vatican priest discovers Dante's original Divine Comedy manuscript. When asked to authenticate it, writer Nick Tosches steals it, while a parallel story follows Dante's quest to create his masterpiece.",
+   "popularity": 4.5108,
+   "poster_path": "/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg",
+   "production_countries": [
+    "CL",
+    "IT",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-26",
+   "revenue": 0,
+   "runtime": 153,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "In the Hand of Dante",
+   "trailer": {
+    "key": "cXA3Zgsky18",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 79
+  },
+  "movie:1257147": {
+   "backdrop_path": "/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Clara",
+     "n": "Ingrid Guimarães"
+    },
+    {
+     "c": "Julia",
+     "n": "Mônica Martelli"
+    },
+    {
+     "c": "Manu",
+     "n": "Giulia Benite"
+    },
+    {
+     "c": "Isadora",
+     "n": "Gabi Amaral"
+    },
+    {
+     "c": "Antônio - Médico",
+     "n": "Ricardo Pereira"
+    },
+    {
+     "c": "Breno",
+     "n": "Michel Melamed"
+    },
+    {
+     "c": "Elisa",
+     "n": "Thaila Ayala"
+    },
+    {
+     "c": "André",
+     "n": "Gustavo Machado"
+    },
+    {
+     "c": "Nuno",
+     "n": "Albano Jerónimo"
+    },
+    {
+     "c": "Ramon",
+     "n": "Alejandro Albarracín"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Susana Garcia"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1257147,
+   "industry": "world",
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "When empty nest syndrome hits, two BFFs follow their teen daughters to Portugal and find love, fun and a whole new meaning of friendship along the way.",
+   "popularity": 19.2606,
+   "poster_path": "/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
+   "production_countries": [
+    "BR",
+    "PT"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-03",
+   "revenue": 0,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "My Best Friend",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.25,
+   "vote_count": 48
+  },
+  "movie:1318447": {
+   "backdrop_path": "/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
+   "budget": 70000000,
+   "cast": [
+    {
+     "c": "Sasha",
+     "n": "Charlize Theron"
+    },
+    {
+     "c": "Ben",
+     "n": "Taron Egerton"
+    },
+    {
+     "c": "Tommy",
+     "n": "Eric Bana"
+    },
+    {
+     "c": "Leah",
+     "n": "Caitlin Stasey"
+    },
+    {
+     "c": "Cashier",
+     "n": "Bessie Holland"
+    },
+    {
+     "c": "Sean",
+     "n": "Zachary Garred"
+    },
+    {
+     "c": "Hunter",
+     "n": "Matt Whelan"
+    },
+    {
+     "c": "2nd Hunter",
+     "n": "Rob Carlton"
+    },
+    {
+     "c": "Park Ranger",
+     "n": "Aaron Pedersen"
+    },
+    {
+     "c": "Dad",
+     "n": "Duncan Fellows"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Baltasar Kormákur"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 1318447,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+   "popularity": 15.4626,
+   "poster_path": "/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+   "production_countries": [
+    "US",
+    "IS"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-24",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Hunt. Survive.",
+   "title": "Apex",
+   "trailer": {
+    "key": "kgv8jf_8dm0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.884,
+   "vote_count": 2071
+  },
+  "movie:1432547": {
+   "backdrop_path": "/c2UTBDLSIFgxlz4XdjSooNGrMXb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rita (voice)",
+     "n": "Ai Mikami"
+    },
+    {
+     "c": "Keiji (voice)",
+     "n": "Natsuki Hanae"
+    },
+    {
+     "c": "Shasta (voice)",
+     "n": "Kana Hanazawa"
+    },
+    {
+     "c": "Rachel (voice)",
+     "n": "Hiccorohee"
+    },
+    {
+     "c": "YONABARU (voice)",
+     "n": "Mo Chugakusei"
+    },
+    {
+     "c": "Bartolome (voice)",
+     "n": "Hayato Fujii"
+    },
+    {
+     "c": "Athica (voice)",
+     "n": "Saki Kobari"
+    },
+    {
+     "c": "Ralph (voice)",
+     "n": "Koseki Kogure"
+    },
+    {
+     "c": "Rita's mother (voice)",
+     "n": "Marie Ooi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Kenichiro Akimoto"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Mystery",
+    "Science Fiction"
+   ],
+   "id": 1432547,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "When a massive alien flower known as \"Darol\" unexpectedly erupts in a deadly event, unleashing monstrous creatures that decimate the population of Japan, Rita is caught in the destruction—and killed. But then she wakes up again. And again. Caught in an endless time loop, Rita must navigate the trauma and repetition of death until she crosses paths with Keiji, a shy young man trapped in the same cycle. Together, they fight to break free from the loop and find meaning in the chaos around them.",
+   "popularity": 3.1997,
+   "poster_path": "/kznh3ACnXYVyyAYes7JN6i1wy2d.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-09",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Live for tomorrow. Die today.",
+   "title": "ALL YOU NEED IS KILL",
+   "trailer": {
+    "key": "0YpXN40vIxM",
+    "name": "Official English Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.804,
+   "vote_count": 46
+  },
+  "movie:1482547": {
+   "backdrop_path": "/yIwdIsM2Nr6EaiWy23mQqxvmoNh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Amy Watson",
+     "n": "MyAnna Buring"
+    },
+    {
+     "c": "Evan",
+     "n": "Joseph Millson"
+    },
+    {
+     "c": "Donaldson",
+     "n": "Saffron Burrows"
+    },
+    {
+     "c": "Robert",
+     "n": "Michael Amariah"
+    },
+    {
+     "c": "Chloe",
+     "n": "Silvia Presente"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "date_kind": "release",
+   "director": [
+    "Howard J. Ford"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 1482547,
+   "industry": "world",
+   "origin_country": [
+    "DK",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When her ground-breaking pharmaceutical discovery is stolen and partner murdered, researcher Amy must face her fear of heights to escape nefarious attackers, with the only path to salvation being a treacherous aerial runway. To outsmart the mysterious hostiles, she has to summon every ounce of courage to protect the world-changing scientific discovery — and herself — before it's too late.",
+   "popularity": 17.3432,
+   "poster_path": "/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg",
+   "production_countries": [
+    "DK",
+    "US",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-31",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Hold on tight.",
+   "title": "Zip Wire",
+   "trailer": {
+    "key": "M9tHmu0wNHM",
+    "name": "UK Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.505,
+   "vote_count": 103
+  },
+  "movie:1498047": {
+   "backdrop_path": "/irjnJ3lGRlPzJWnEpTzq2Qy6sVi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Toñi",
+     "n": "Elena Irureta"
+    },
+    {
+     "c": "Daniela",
+     "n": "Toni Acosta"
+    },
+    {
+     "c": "Alexia",
+     "n": "Carla Pastor"
+    },
+    {
+     "c": "Víctor",
+     "n": "Carlos Serrano"
+    },
+    {
+     "c": "Carlos",
+     "n": "Gorka Aguinagalde"
+    },
+    {
+     "c": "Gustavo",
+     "n": "Darío Moncloa"
+    },
+    {
+     "c": "Julio",
+     "n": "Adrián Gámiz Lara"
+    },
+    {
+     "c": "Sara",
+     "n": "Sofía González"
+    },
+    {
+     "c": "Arturo (as Santiago Alverú)",
+     "n": "Santi Alverú"
+    },
+    {
+     "c": "Ride",
+     "n": "Kandido Uranga"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Ana Vázquez"
+   ],
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 1498047,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Toñi, an eccentric grandmother, gets by between failed businesses and a carefree attitude. Her daughter Daniela, a stressed executive and single mom, wants to keep her away.",
+   "popularity": 1.509,
+   "poster_path": "/7rPJWJNmIPHSppjLMGqjzwpkOs6.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-01",
+   "revenue": 0,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [],
+   "status": "Released",
+   "tagline": "",
+   "title": "My Amazing Grandma",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 34
+  },
   "movie:412547": {
    "backdrop_path": "/u39BX33drFeaUTobnECyRRQbCED.jpg",
    "budget": 0,

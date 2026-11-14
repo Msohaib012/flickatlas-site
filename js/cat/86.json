@@ -1,6 +1,6 @@
 {
  "bucket": "86",
- "count": 23,
+ "count": 28,
  "titles": {
   "movie:11986": {
    "backdrop_path": "/hZVBkgxgezyKEkWIbPVLiWAOsrl.jpg",
@@ -162,6 +162,610 @@
    "type": "movie",
    "vote_average": 7.203,
    "vote_count": 493
+  },
+  "movie:1284186": {
+   "backdrop_path": "/uBRVzvMlNlKsegUCDXIwP7W6Ygb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mike Tyler",
+     "n": "Chris Evans"
+    },
+    {
+     "c": "Joan",
+     "n": "Anya Taylor-Joy"
+    },
+    {
+     "c": "Ben Bracken",
+     "n": "Vincent Cassel"
+    },
+    {
+     "c": "Gloria Bracken",
+     "n": "Salma Hayek Pinault"
+    },
+    {
+     "c": "Gunnar",
+     "n": "John Malkovich"
+    },
+    {
+     "c": "Mother Nature",
+     "n": "Charli xcx"
+    },
+    {
+     "c": "Oliver",
+     "n": "Sam Richardson"
+    },
+    {
+     "c": "Freyja",
+     "n": "Zarene Dallas"
+    },
+    {
+     "c": "Arthur",
+     "n": "Yung Lean"
+    },
+    {
+     "c": "Louise",
+     "n": "Jade Croot"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Romain Gavras"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Action"
+   ],
+   "id": 1284186,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "At a glitzy Greek island charity gala, a down-on-his-luck movie star lands the heroic role of a lifetime when a volcanic doomsday cult takes him hostage.",
+   "popularity": 10.7403,
+   "poster_path": "/aq09lGYP1rK0tzse4dJRvYK87od.jpg",
+   "production_countries": [
+    "FR",
+    "GR",
+    "CY",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-12",
+   "revenue": 497250,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You have been chosen.",
+   "title": "Sacrifice",
+   "trailer": {
+    "key": "u5qW1gMMSVI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 159
+  },
+  "movie:1362786": {
+   "backdrop_path": "/nqYTmfzyOSDVihUDnW0skBIFytp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marta",
+     "n": "Fernanda Montenegro"
+    },
+    {
+     "c": "Rodolfo",
+     "n": "Ary Fontoura"
+    },
+    {
+     "c": "Nancy",
+     "n": "Bruna Marquezine"
+    },
+    {
+     "c": "Sid",
+     "n": "Vladimir Brichta"
+    },
+    {
+     "c": "Oswaldo Aranha",
+     "n": "Lázaro Ramos"
+    },
+    {
+     "c": "Carlos",
+     "n": "Reginaldo Faria"
+    },
+    {
+     "c": "Dra. Ingrid",
+     "n": "Vera Fischer"
+    },
+    {
+     "c": "Elizabeth",
+     "n": "Teca Pereira"
+    },
+    {
+     "c": "Dr. Alberto",
+     "n": "Hamilton Vaz Pereira"
+    },
+    {
+     "c": "Herculano",
+     "n": "Tony Tornado"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Cláudio Torres"
+   ],
+   "genres": [
+    "Comedy",
+    "Action",
+    "Crime"
+   ],
+   "id": 1362786,
+   "industry": "world",
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "An elderly retired couple teams up with young partners to plan a daring bank robbery, while trying to outwit a detective determined to stop them.",
+   "popularity": 1.9041,
+   "poster_path": "/eYZUzJMumKoUPX5Q40xBsgFs6dY.jpg",
+   "production_countries": [
+    "BR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-26",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Old Bandits",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.931,
+   "vote_count": 36
+  },
+  "movie:1369286": {
+   "backdrop_path": "/w5x5weniCCe0rs8lsW1XPhQxbKS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marguerite",
+     "n": "Laure Calamy"
+    },
+    {
+     "c": "Fred",
+     "n": "Vincent Macaigne"
+    },
+    {
+     "c": "Sofiane",
+     "n": "Lyes Salem"
+    },
+    {
+     "c": "Chloé",
+     "n": "Mélanie Thierry"
+    },
+    {
+     "c": "Léa",
+     "n": "Céleste Brunnquell"
+    },
+    {
+     "c": "Raphaëlle",
+     "n": "Saül Benchetrit"
+    },
+    {
+     "c": "Père Olivier",
+     "n": "Grégoire Leprince-Ringuet"
+    },
+    {
+     "c": "Père Manto",
+     "n": "Jean-Marc Barr"
+    },
+    {
+     "c": "Tom",
+     "n": "Abel Rozé"
+    },
+    {
+     "c": "Sigridur",
+     "n": "Paul Stellar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Fabien Gorgeart"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1369286,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Marguerite has no reason to refuse the church’s annulment of her marriage to Fred. She also has a new partner with whom she has a child. However, to convince the church that their previous marriage was doomed from the start, Marguerite and Fred must examine their shared past.",
+   "popularity": 1.2068,
+   "poster_path": "/rCESGHvM0XCPoTUMkqG7E9pDYPq.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-06",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Marry me once, divorce me twice.",
+   "title": "What is Love?",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.16,
+   "vote_count": 53
+  },
+  "movie:1398486": {
+   "backdrop_path": "/g4dglmohwnvl1yCYObZjmxZY9Do.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Commissioner Jules Maigret",
+     "n": "Denis Podalydès"
+    },
+    {
+     "c": "Judge",
+     "n": "Olivier Rabourdin"
+    },
+    {
+     "c": "Mazeron",
+     "n": "Micha Lescot"
+    },
+    {
+     "c": "Philippe",
+     "n": "Laurent Poitrenaux"
+    },
+    {
+     "c": "Louise Maigret",
+     "n": "Irène Jacob"
+    },
+    {
+     "c": "Janvier",
+     "n": "Manuel Guillot"
+    },
+    {
+     "c": "Jacotte Larrieu",
+     "n": "Anne Alvaro"
+    },
+    {
+     "c": "Juliette",
+     "n": "Julia Faure"
+    },
+    {
+     "c": "Julien de Vuynes",
+     "n": "Arcadi Radeff"
+    },
+    {
+     "c": "Princess",
+     "n": "Dominique Reymond"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Pascal Bonitzer"
+   ],
+   "genres": [
+    "Mystery",
+    "Drama",
+    "Crime"
+   ],
+   "id": 1398486,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Commissioner Maigret rushes to the Quai d’Orsay with Lieutenant Janvier. There, they find Mademoiselle Larrieu in a state of shock. That very morning, she discovered the bullet-riddled body of Mr. Berthier-Lagès, a renowned former ambassador whom she had served as a housekeeper for 46 years. While searching the victim's apartment, Maigret and Janvier uncover hundreds of letters. The diplomat had maintained a fifty-year-long love correspondence with a certain Princess of Vuynes, whose husband - by a strange coincidence - had died just a few days earlier. As he confronts the various members of the two families and the suspicious silence of Mademoiselle Larrieu, Maigret finds himself faced with surprise after surprise, watching his certainties crumble - until the solution to the mystery finally hits him in the face at the very last moment...",
+   "popularity": 2.7193,
+   "poster_path": "/siGwXsTqwSBC9VcbDM4tdhb1qLo.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-18",
+   "revenue": 0,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Maigret and the Dead Lover",
+   "trailer": {
+    "key": "QdR2xExpvQM",
+    "name": "MAIGRET AND THE DEAD LOVER - Official HD Trailer - Only In Cinemas",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.046,
+   "vote_count": 54
+  },
+  "movie:1465986": {
+   "backdrop_path": "/kieO4beSjRrjROR21p7iFmoeQsJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lynn Page",
+     "n": "Kelsey Pribilski"
+    },
+    {
+     "c": "Lucas Page",
+     "n": "William Magnuson"
+    },
+    {
+     "c": "Reverend Endicott Carr",
+     "n": "John Gholson"
+    },
+    {
+     "c": "The Stranger",
+     "n": "Brian Villalobos"
+    },
+    {
+     "c": "Wendy Parker",
+     "n": "Nell Kessler"
+    },
+    {
+     "c": "Winston Boon",
+     "n": "Graham Skipper"
+    },
+    {
+     "c": "Abigail and Fernette Webber",
+     "n": "Judy McMillan"
+    },
+    {
+     "c": "Joelle Cantor",
+     "n": "Christine Hall"
+    },
+    {
+     "c": "Holly Page",
+     "n": "Akasha Villalobos"
+    },
+    {
+     "c": "Richard Page",
+     "n": "Shane Brady"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "date_kind": "release",
+   "director": [
+    "Paul Gandersman",
+    "Peter S. Hall"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 1465986,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Pulled in by a series of strange and unexplainable video clips, a brother and sister team up to investigate the events captured in the footage, only to discover a shocking secret that’s overtaking their small-town Texas community.",
+   "popularity": 1.0081,
+   "poster_path": "/1WMaJEwwsw8ALCo1mRGjjTV5e8T.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-05",
+   "revenue": 11139,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Can you see it.",
+   "title": "Man Finds Tape",
+   "trailer": {
+    "key": "jN9gk6zpf7U",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.578,
+   "vote_count": 51
   },
   "movie:14886": {
    "backdrop_path": "/kyDesXA3VEx74ua1ZGAoYmzvjCc.jpg",

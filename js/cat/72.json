@@ -1,7 +1,354 @@
 {
  "bucket": "72",
- "count": 15,
+ "count": 18,
  "titles": {
+  "movie:1315772": {
+   "backdrop_path": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+   "budget": 85000000,
+   "cast": [
+    {
+     "c": "The Minions (voice)",
+     "n": "Pierre Coffin"
+    },
+    {
+     "c": "Goomi (voice)",
+     "n": "Trey Parker"
+    },
+    {
+     "c": "Max (voice)",
+     "n": "Christoph Waltz"
+    },
+    {
+     "c": "Olivia (voice)",
+     "n": "Allison Janney"
+    },
+    {
+     "c": "Dort (voice)",
+     "n": "Jesse Eisenberg"
+    },
+    {
+     "c": "Frank / Elwood (voice)",
+     "n": "Jeff Bridges"
+    },
+    {
+     "c": "Debbie (voice)",
+     "n": "Zoey Deutch"
+    },
+    {
+     "c": "Phillips (voice)",
+     "n": "Bobby Moynihan"
+    },
+    {
+     "c": "Howard (voice)",
+     "n": "Phil LaMarr"
+    },
+    {
+     "c": "George Lucas (voice)",
+     "n": "George Lucas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "date_kind": "release",
+   "director": [
+    "Pierre Coffin"
+   ],
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 1315772,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+   "popularity": 47.2579,
+   "poster_path": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-01",
+   "revenue": 526259745,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Hollywood has a monster problem.",
+   "title": "Minions & Monsters",
+   "trailer": {
+    "key": "V-O-uBaHk3c",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.531,
+   "vote_count": 1393
+  },
+  "movie:1317672": {
+   "backdrop_path": "/ohUhHOqW8cM59Ay5UjqplLzJbH3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "James Hunter",
+     "n": "Pepe Barroso"
+    },
+    {
+     "c": "June White",
+     "n": "Mia Jenkins"
+    },
+    {
+     "c": "Will Cooper",
+     "n": "Luca Melucci"
+    },
+    {
+     "c": "Amelia Hood",
+     "n": "Andrea Guo"
+    },
+    {
+     "c": "Blaze Manor",
+     "n": "Michelangelo Vizzini"
+    },
+    {
+     "c": "Jackson",
+     "n": "Madior Fall"
+    },
+    {
+     "c": "Ariana",
+     "n": "Vanessa Donghi"
+    },
+    {
+     "c": "April",
+     "n": "Elizabeth Kinnear"
+    },
+    {
+     "c": "Austin",
+     "n": "Tommaso Caporali"
+    },
+    {
+     "c": "Jordan Hunter",
+     "n": "Ángel de Miguel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "+16",
+   "date_kind": "release",
+   "director": [
+    "Roger Kumble"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 1317672,
+   "industry": "world",
+   "origin_country": [
+    "IT",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James—hiding a dangerous life in clandestine MMA fights—sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
+   "popularity": 10.0175,
+   "poster_path": "/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
+   "production_countries": [
+    "IT",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-12",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Love Me Love Me",
+   "trailer": {
+    "key": "B7prWpweShU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.106,
+   "vote_count": 343
+  },
+  "movie:1765072": {
+   "backdrop_path": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Elizabeth Holmes"
+    },
+    {
+     "c": "Self",
+     "n": "Nathan Fielder"
+    },
+    {
+     "c": "Self",
+     "n": "Billy Evans"
+    },
+    {
+     "c": "Self / Elizabeth Holmes",
+     "n": "Amanda Seyfried"
+    },
+    {
+     "c": "Billy Evans",
+     "n": "Christopher Abbott"
+    },
+    {
+     "c": "Self",
+     "n": "Lance Oppenheim"
+    },
+    {
+     "c": "Self",
+     "n": "Christian Rasmus Holmes IV"
+    },
+    {
+     "c": "Self",
+     "n": "Noel Anne Holmes"
+    },
+    {
+     "c": "A24 Executive",
+     "n": "Gary Wilmes"
+    },
+    {
+     "c": "A24 Executive",
+     "n": "Phillip Andre Botello"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Nathan Fielder",
+    "Lance Oppenheim"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1765072,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+   "popularity": 58.5192,
+   "poster_path": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-16",
+   "revenue": 79581466,
+   "runtime": 175,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "See it to believe it.",
+   "title": "You Can See Everything",
+   "trailer": {
+    "key": "IEx8D1Wb__U",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.868,
+   "vote_count": 114
+  },
   "movie:219572": {
    "backdrop_path": "/7hJxwdm2OSE4Umsta7rYIxDaymU.jpg",
    "budget": 35000000,

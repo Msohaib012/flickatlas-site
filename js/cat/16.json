@@ -1,7 +1,1290 @@
 {
  "bucket": "16",
- "count": 18,
+ "count": 29,
  "titles": {
+  "movie:1034716": {
+   "backdrop_path": "/qa3oDSDZSJKSdIdBgQgEAxO0N88.jpg",
+   "budget": 1000000,
+   "cast": [
+    {
+     "c": "Poppy",
+     "n": "Emily Bader"
+    },
+    {
+     "c": "Alex",
+     "n": "Tom Blyth"
+    },
+    {
+     "c": "Sarah",
+     "n": "Sarah Catherine Hook"
+    },
+    {
+     "c": "Swapna",
+     "n": "Jameela Jamil"
+    },
+    {
+     "c": "David",
+     "n": "Miles Heizer"
+    },
+    {
+     "c": "Nam",
+     "n": "Tommy Do"
+    },
+    {
+     "c": "Trey",
+     "n": "Lucien Laviscount"
+    },
+    {
+     "c": "Jimmy",
+     "n": "Alan Ruck"
+    },
+    {
+     "c": "Wanda",
+     "n": "Molly Shannon"
+    },
+    {
+     "c": "Buck",
+     "n": "Lukas Gage"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Brett Haley"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 1034716,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match.",
+   "popularity": 6.5364,
+   "poster_path": "/peG6482ALJQ9Tbvv2P38BquVk0f.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-06",
+   "revenue": 0,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "On vacation, you're free to follow your heart.",
+   "title": "People We Meet on Vacation",
+   "trailer": {
+    "key": "m1C9DTOUH5s",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.944,
+   "vote_count": 771
+  },
+  "movie:1169516": {
+   "backdrop_path": "/96chPcURxg5thGyLqxO6otyxHFR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rajeev Kohli / Vishwajit Kohli",
+     "n": "Akshay Kumar"
+    },
+    {
+     "c": "Yeda Anna",
+     "n": "Suniel Shetty"
+    },
+    {
+     "c": "Romeo",
+     "n": "Arshad Warsi"
+    },
+    {
+     "c": "Jenny",
+     "n": "Jacqueline Fernandez"
+    },
+    {
+     "c": "Nadia",
+     "n": "Disha Patani"
+    },
+    {
+     "c": "Zoya",
+     "n": "Raveena Tandon"
+    },
+    {
+     "c": "Zatara",
+     "n": "Jackie Shroff"
+    },
+    {
+     "c": "Das",
+     "n": "Paresh Rawal"
+    },
+    {
+     "c": "Teja",
+     "n": "Lara Dutta"
+    },
+    {
+     "c": "Badi Bi",
+     "n": "Farida Jalal"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Ahmed Khan"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Adventure"
+   ],
+   "id": 1169516,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
+   "popularity": 2.326,
+   "poster_path": "/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-26",
+   "revenue": 0,
+   "runtime": 170,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "Fake film. Real jungle. Real danger. Real idiots!",
+   "title": "Welcome To The Jungle",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.0,
+   "vote_count": 44
+  },
+  "movie:1284016": {
+   "backdrop_path": "/euUEDjof7fVX2t3nYFvLLN9ADK2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rick",
+     "n": "Paul Rudd"
+    },
+    {
+     "c": "Danny Wilson",
+     "n": "Nick Jonas"
+    },
+    {
+     "c": "Sandy",
+     "n": "Peter McDonald"
+    },
+    {
+     "c": "Rachel",
+     "n": "Marcella Plunkett"
+    },
+    {
+     "c": "Marcia",
+     "n": "Havana Rose Liu"
+    },
+    {
+     "c": "Mac",
+     "n": "Jack Reynor"
+    },
+    {
+     "c": "Binzer",
+     "n": "Rory Keenan"
+    },
+    {
+     "c": "Kyle",
+     "n": "Keith McErlean"
+    },
+    {
+     "c": "Bernie",
+     "n": "Paul Reid"
+    },
+    {
+     "c": "Aja",
+     "n": "Beth Fallon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Carney"
+   ],
+   "genres": [
+    "Comedy",
+    "Music",
+    "Drama"
+   ],
+   "id": 1284016,
+   "industry": "world",
+   "origin_country": [
+    "IE",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
+   "popularity": 4.5165,
+   "poster_path": "/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg",
+   "production_countries": [
+    "IE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-05",
+   "revenue": 3394770,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's time to set the record straight.",
+   "title": "Power Ballad",
+   "trailer": {
+    "key": "-faiHUsbP_U",
+    "name": "Official International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.068,
+   "vote_count": 140
+  },
+  "movie:1329016": {
+   "backdrop_path": "/krECXoTSBzXezQA7KPPgdV3VBF3.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Anthony 'Tony' Bourdain",
+     "n": "Dominic Sessa"
+    },
+    {
+     "c": "'Chef' José Vatel",
+     "n": "Antonio Banderas"
+    },
+    {
+     "c": "Nancy Putkoski",
+     "n": "Emilia Jones"
+    },
+    {
+     "c": "Stavros",
+     "n": "Stavros Halkias"
+    },
+    {
+     "c": "Sal",
+     "n": "Leo Woodall"
+    },
+    {
+     "c": "Mary",
+     "n": "Monica Raymund"
+    },
+    {
+     "c": "Tyrone",
+     "n": "Michael Jibrin"
+    },
+    {
+     "c": "Pierre Bourdain",
+     "n": "Rich Sommer"
+    },
+    {
+     "c": "Gladys Sacksman Bourdain",
+     "n": "Dagmara Dominczyk"
+    },
+    {
+     "c": "Christopher",
+     "n": "Liam Fitch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Matt Johnson"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1329016,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+   "popularity": 9.7236,
+   "poster_path": "/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-28",
+   "revenue": 18131048,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "\"I was — to be frank — a spoiled, miserable, narcissistic, self-destructive and thoughtless young lout, and badly in need of a good ass-kicking.\"",
+   "title": "Tony",
+   "trailer": {
+    "key": "k1MVnzd2aVc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 208
+  },
+  "movie:1380316": {
+   "backdrop_path": "/6AS9zVu3rUs7dj4N2ZNnKjI8YZ1.jpg",
+   "budget": 14800000,
+   "cast": [
+    {
+     "c": "Racine",
+     "n": "Kara Young"
+    },
+    {
+     "c": "Anaia",
+     "n": "Mallori Johnson"
+    },
+    {
+     "c": "Ruby",
+     "n": "Vivica A. Fox"
+    },
+    {
+     "c": "Man",
+     "n": "Sterling K. Brown"
+    },
+    {
+     "c": "Angie",
+     "n": "Janelle Monáe"
+    },
+    {
+     "c": "Chuck Hall",
+     "n": "Mykelti Williamson"
+    },
+    {
+     "c": "Divine",
+     "n": "Erika Alexander"
+    },
+    {
+     "c": "Scotch",
+     "n": "Xavier Mills"
+    },
+    {
+     "c": "Riley",
+     "n": "Justen Ross"
+    },
+    {
+     "c": "Ezekiel",
+     "n": "Josiah Cross"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Aleshea Harris"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1380316,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths.",
+   "popularity": 4.2577,
+   "poster_path": "/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-15",
+   "revenue": 4857896,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Make your daddy dead. Real dead.",
+   "title": "Is God Is",
+   "trailer": {
+    "key": "pgtdkuNFoKk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.899,
+   "vote_count": 154
+  },
+  "movie:1384216": {
+   "backdrop_path": "/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
+   "budget": 110000000,
+   "cast": [
+    {
+     "c": "Hig",
+     "n": "Jacob Elordi"
+    },
+    {
+     "c": "Bangley",
+     "n": "Josh Brolin"
+    },
+    {
+     "c": "Cima",
+     "n": "Margaret Qualley"
+    },
+    {
+     "c": "Pops",
+     "n": "Guy Pearce"
+    },
+    {
+     "c": "Aaron",
+     "n": "Benedict Wong"
+    },
+    {
+     "c": "Darlene",
+     "n": "Allison Janney"
+    },
+    {
+     "c": "Crossbow Hunter",
+     "n": "Ewen Bremner"
+    },
+    {
+     "c": "John",
+     "n": "Sam Spruell"
+    },
+    {
+     "c": "Logan",
+     "n": "James Craze"
+    },
+    {
+     "c": "Melissa",
+     "n": "Sai Bennett"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ridley Scott"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 1384216,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+   "popularity": 60.9469,
+   "poster_path": "/5O616X9vmRzQdB68PHzBewPittd.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-26",
+   "revenue": 39203493,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "At the end of the world, no one survives alone.",
+   "title": "The Dog Stars",
+   "trailer": {
+    "key": "-xSxaE1ClEE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.182,
+   "vote_count": 986
+  },
+  "movie:1446616": {
+   "backdrop_path": "/zIOBTZAqGwdKnOb5c6SvzxP7x86.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maruti 'Aala Flowpara' Kadam",
+     "n": "Adarsh Gourav"
+    },
+    {
+     "c": "Avani 'Ms Vanity' Shah",
+     "n": "Shanaya Kapoor"
+    },
+    {
+     "c": "Mrs. Kadam",
+     "n": "Kshitee Jog"
+    },
+    {
+     "c": "Lyra",
+     "n": "Parul Gulati"
+    },
+    {
+     "c": "Purushottam 'Fabric' Damdere",
+     "n": "Ansh Chopra"
+    },
+    {
+     "c": "Tara Shah",
+     "n": "Amrutha Srinivasan"
+    },
+    {
+     "c": "Vikram",
+     "n": "Rajat Kaul"
+    },
+    {
+     "c": "Guest in Konkan Bay",
+     "n": "Parvathy Thiruvothu"
+    },
+    {
+     "c": "Pintya",
+     "n": "Ashok Kangude"
+    },
+    {
+     "c": "Sonali Kadam",
+     "n": "Rajsi Kinjalaskar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Bejoy Nambiar"
+   ],
+   "genres": [
+    "Thriller",
+    "Romance"
+   ],
+   "id": 1446616,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "A wannabe rapper from the outskirts of Mumbai and an affluent influencer elope to a coastal town, only to find themselves trapped in the pool of a derelict resort fighting for survival against the wrath of a ferocious crocodile.",
+   "popularity": 3.4646,
+   "poster_path": "/nUPnA0I1MTaZRVCsUQc5DS5JA8W.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-13",
+   "revenue": 0,
+   "runtime": 145,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "Like. Share. Survive.",
+   "title": "Tu Yaa Main",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.364,
+   "vote_count": 66
+  },
+  "movie:1556616": {
+   "backdrop_path": "/5fA3ko0ZHkysz1aNO78jRsey4k4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Selin",
+     "n": "Mina Demirtaş"
+    },
+    {
+     "c": "Young Zeynep",
+     "n": "Derya Pınar Ak"
+    },
+    {
+     "c": "Young Sinan",
+     "n": "Onur Seyit Yaran"
+    },
+    {
+     "c": "Sinan",
+     "n": "Çağdaş Onur Öztürk"
+    },
+    {
+     "c": "Tajun",
+     "n": "Kamil Güler"
+    },
+    {
+     "c": "Zeynep",
+     "n": "Selma Ergeç"
+    },
+    {
+     "c": "Sevinç",
+     "n": "Nehir Erdoğan"
+    },
+    {
+     "c": "Kaan",
+     "n": "Tugay Erdoğan"
+    },
+    {
+     "c": "Ezgi",
+     "n": "Seda Dadasova"
+    },
+    {
+     "c": "Mine",
+     "n": "Rüya Andaç"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Erdem Tepegöz"
+   ],
+   "genres": [
+    "Romance",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 1556616,
+   "industry": "world",
+   "origin_country": [
+    "TR"
+   ],
+   "original_language": "tr",
+   "overview": "Selin travels back in time at a summer house and finds herself in her mother's youth, changing her family's fate and rebuilding her own life.",
+   "popularity": 7.9165,
+   "poster_path": "/81xUChgVphBFehihIgbXbyneZXP.jpg",
+   "production_countries": [
+    "TR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-06",
+   "revenue": 0,
+   "runtime": 0,
+   "source": "catalogue",
+   "spoken_languages": [
+    "tr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Summer House",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.704,
+   "vote_count": 27
+  },
+  "movie:1591516": {
+   "backdrop_path": "/5lZXIkRpOJICbWYJgImdbZ1vWx6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self (archive footage)",
+     "n": "Jodi Hildebrandt"
+    },
+    {
+     "c": "Self - Jodi's Friend & Business Partner (archive footage)",
+     "n": "Ruby Franke"
+    },
+    {
+     "c": "Self - Santa Clara-Ivins PD",
+     "n": "Jessica Bate"
+    },
+    {
+     "c": "Self - Washington County Attorney",
+     "n": "Eric Clarke"
+    },
+    {
+     "c": "Self - Jodi's Former Client",
+     "n": "Ethan Prete"
+    },
+    {
+     "c": "Self - Jodi's Former Client",
+     "n": "Valerie Jackson"
+    },
+    {
+     "c": "Self - Licensed Therapist",
+     "n": "Natasha Helfer"
+    },
+    {
+     "c": "Self - Jodi's Mission Companion",
+     "n": "Laura Howells Leavitt"
+    },
+    {
+     "c": "Self - Clinical Social Worker",
+     "n": "Kathy Kinghorn"
+    },
+    {
+     "c": "Self - Jodi's Former Neighbor",
+     "n": "Christi Judd"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Skye Borgman"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1591516,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Unravel the case of Utah therapist Jodi Hildebrandt, whose child abuse arrest with parenting YouTuber Ruby Franke exposed a twisted tale of manipulation.",
+   "popularity": 2.4649,
+   "poster_path": "/xCawp08whOaJS434IDlBytX7sSm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-30",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Evil Influencer: The Jodi Hildebrandt Story",
+   "trailer": {
+    "key": "eMjsVQIepZw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 71
+  },
+  "movie:1680516": {
+   "backdrop_path": "/85sDwuKIqyRGQeG6E4OK0WKzMse.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Janhaël,  Wilson",
+     "n": "Wil Aime"
+    },
+    {
+     "c": "Walter",
+     "n": "Hassan Koné"
+    },
+    {
+     "c": "Suzanne",
+     "n": "Solène Hegbe"
+    },
+    {
+     "c": "Ariane",
+     "n": "Eden Elijah"
+    },
+    {
+     "c": "Moïse",
+     "n": "John Dadie"
+    },
+    {
+     "c": "Judy",
+     "n": "Philippe Kande"
+    },
+    {
+     "c": "Parker",
+     "n": "David Dey"
+    },
+    {
+     "c": "Madame Santos",
+     "n": "Roselyne Geslot"
+    },
+    {
+     "c": "Mickaël",
+     "n": "Ike Zacsongo-Joseph"
+    },
+    {
+     "c": "Howard",
+     "n": "Guillaume Gaudfrin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Wil Aime"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 1680516,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In a high-stakes world where time is scarce and every choice matters, diverse characters face a merciless system where one wrong move means death. Amid intense pressure, they confront moral quandaries and seek truth while testing limits.",
+   "popularity": 1.4013,
+   "poster_path": "/rO9L4pXE0ykAKGHOTPNGXcvh450.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-05",
+   "revenue": 0,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "WHO",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.8,
+   "vote_count": 23
+  },
+  "movie:1725116": {
+   "backdrop_path": "/2vl4nyxi1zVtiqYqJkbP8yTMOQV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Homer Simpsley (voice)",
+     "n": "Dan Castellaneta"
+    },
+    {
+     "c": "Marge Bouvier (voice)",
+     "n": "Julie Kavner"
+    },
+    {
+     "c": "Bart (voice)",
+     "n": "Nancy Cartwright"
+    },
+    {
+     "c": "Lisa (voice)",
+     "n": "Yeardley Smith"
+    },
+    {
+     "c": "Inspector Wiggum (voice)",
+     "n": "Hank Azaria"
+    },
+    {
+     "c": "Seymour Skinner (voice)",
+     "n": "Harry Shearer"
+    },
+    {
+     "c": "Agnes Skinner (voice)",
+     "n": "Tress MacNeille"
+    },
+    {
+     "c": "Lou (voice)",
+     "n": "Alex Désert"
+    },
+    {
+     "c": "Luann Van Houten (voice)",
+     "n": "Maggie Roswell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Debbie Bruce Mahan"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Crime"
+   ],
+   "id": 1725116,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When penniless con-artist Marge Bouvier is sent to Italy to convince wealthy sap Seymour Skinner to come home, she's tempted by the trappings of his affluent lifestyle. But there’s a big fat fly in the ointment: Skinner's clingy, dim-witted mooch of a houseguest, Homer Simpsley. Lies, lust and Italian lira are abound.",
+   "popularity": 1.6973,
+   "poster_path": "/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-03",
+   "revenue": 0,
+   "runtime": 24,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A Simpsons noir? We're in.",
+   "title": "Simpsley",
+   "trailer": {
+    "key": "zHwpTZ2r-DM",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.152,
+   "vote_count": 89
+  },
   "movie:216": {
    "backdrop_path": "/ih2q5hoclUTICLxMzV31vxgpCzR.jpg",
    "budget": 130000,

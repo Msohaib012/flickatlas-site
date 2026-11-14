@@ -1,6 +1,6 @@
 {
  "bucket": "49",
- "count": 17,
+ "count": 25,
  "titles": {
   "movie:10349": {
    "backdrop_path": "/uTlZjD5uZ8C71pt4G8gt5QhhqIJ.jpg",
@@ -288,6 +288,142 @@
    "vote_average": 6.364,
    "vote_count": 444
   },
+  "movie:1119449": {
+   "backdrop_path": "/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "The Man from the Future",
+     "n": "Sam Rockwell"
+    },
+    {
+     "c": "Susan",
+     "n": "Juno Temple"
+    },
+    {
+     "c": "Ingrid",
+     "n": "Haley Lu Richardson"
+    },
+    {
+     "c": "Mark",
+     "n": "Michael Peña"
+    },
+    {
+     "c": "Janet",
+     "n": "Zazie Beetz"
+    },
+    {
+     "c": "Scott",
+     "n": "Asim Chaudhry"
+    },
+    {
+     "c": "Tim",
+     "n": "Tom Taylor"
+    },
+    {
+     "c": "Marie",
+     "n": "Georgia Goodman"
+    },
+    {
+     "c": "Bob",
+     "n": "Daniel Barnett"
+    },
+    {
+     "c": "The AI Boy",
+     "n": "Artie Wilkinson-Hunt"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gore Verbinski"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Comedy"
+   ],
+   "id": 1119449,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
+   "popularity": 9.4632,
+   "poster_path": "/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+   "production_countries": [
+    "US",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-13",
+   "revenue": 9755038,
+   "runtime": 134,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Time is running out. Are you ready to join the revolution?",
+   "title": "Good Luck, Have Fun, Don't Die",
+   "trailer": {
+    "key": "Nm4WbapDzDQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.103,
+   "vote_count": 1203
+  },
   "movie:1249": {
    "backdrop_path": "/grBVNhFI7iNB54eFfXVzbYfDSQk.jpg",
    "budget": 0,
@@ -386,6 +522,529 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 475
+  },
+  "movie:1357449": {
+   "backdrop_path": "/y3j0JkvgKNN9hhDxLwp1xEmhFme.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Edu Serra",
+     "n": "Óscar Casas"
+    },
+    {
+     "c": "Antonio Belardi",
+     "n": "Claudio Santamaria"
+    },
+    {
+     "c": "Luna Cardona",
+     "n": "Ana Mena"
+    },
+    {
+     "c": "Eli Guzmán",
+     "n": "Enrique Arce"
+    },
+    {
+     "c": "Gianni Baltelli",
+     "n": "Saul Nanni"
+    },
+    {
+     "c": "Andrea Godano",
+     "n": "Matteo Paolillo"
+    },
+    {
+     "c": "Roberto Scala",
+     "n": "Mario Ermito"
+    },
+    {
+     "c": "Alessandra",
+     "n": "Desirée Popper"
+    },
+    {
+     "c": "Óscar",
+     "n": "Adrian Grösser"
+    },
+    {
+     "c": "Walter",
+     "n": "Nadal Bin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12+",
+   "date_kind": "release",
+   "director": [
+    "Mat Whitecross"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 1357449,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "A fiery young motorcycle racer throws away his shot at the junior championship in a reckless crash, only to receive a surprise offer from a top Moto2 team that gives him a chance at redemption. But to claim it, he must train under his estranged father, a disgraced former world champion haunted by a tragic past. As the father and son battle personal demons, media scrutiny, and a ruthless racing circuit, their fractured bond is pushed to the limit by ambition, love, and the unforgiving speed of the sport. With a wildcard entry into MotoGP on the line, they must confront the wreckage of their relationship to seize a future—on and off the track.",
+   "popularity": 1.9147,
+   "poster_path": "/j2gYxk9EQXh2hz1jNZQOe9WOUXU.jpg",
+   "production_countries": [
+    "ES",
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-23",
+   "revenue": 0,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Idols",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 67
+  },
+  "movie:1396749": {
+   "backdrop_path": "/wuqlB1rgHlGKf33rMu3QpRzb15o.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hwang Hyun-woo",
+     "n": "Gang Dong-won"
+    },
+    {
+     "c": "Gu Sang-gu",
+     "n": "Um Tae-goo"
+    },
+    {
+     "c": "Byeon Do-mi",
+     "n": "Park Ji-hyun"
+    },
+    {
+     "c": "Choi Seong-gon",
+     "n": "Oh Jung-se"
+    },
+    {
+     "c": "YGP / Park Yong-gu",
+     "n": "Shin Ha-kyun"
+    },
+    {
+     "c": "Na Tae-poong",
+     "n": "Kang Ki-young"
+    },
+    {
+     "c": "Writer Yang",
+     "n": "Park Jung-won"
+    },
+    {
+     "c": "Secretary Kang",
+     "n": "Kwon Hyeong-seok"
+    },
+    {
+     "c": "Officer Doh",
+     "n": "Ahn Hyun-ho"
+    },
+    {
+     "c": "Min-sik",
+     "n": "Choi Dong-gu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Son Jae-gon"
+   ],
+   "genres": [
+    "Comedy",
+    "Music"
+   ],
+   "id": 1396749,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Twenty years after a scandal tears apart a popular 2000s K‑pop trio, the three reunite for a one-off gig — if they can overcome one snag after another.",
+   "popularity": 1.4937,
+   "poster_path": "/7lIdil3vd2tu5NmKspGkJ2ny0oS.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-03",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko",
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Triangle is back!",
+   "title": "Wild Sing",
+   "trailer": {
+    "key": "ML3X383Jhew",
+    "name": "Wild Sing | Official Trailer | Netflix [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.367,
+   "vote_count": 30
+  },
+  "movie:1511549": {
+   "backdrop_path": "/jUpuMPCQiNSYi4QxeCIGFUlPizn.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maddalena",
+     "n": "Diana Del Bufalo"
+    },
+    {
+     "c": "Valentina Nappi",
+     "n": "Valentina Nappi"
+    },
+    {
+     "c": "Bruno",
+     "n": "Mario Ermito"
+    },
+    {
+     "c": "Vanni",
+     "n": "Michele Rosiello"
+    },
+    {
+     "c": "Filippo",
+     "n": "Filippo Bisciglia"
+    },
+    {
+     "c": "Grazia",
+     "n": "Angela Finocchiaro"
+    },
+    {
+     "c": "Adelaide",
+     "n": "Anna Galiena"
+    },
+    {
+     "c": "Stefano",
+     "n": "Fabrizio Colica"
+    },
+    {
+     "c": "Maria",
+     "n": "Ludovica Di Donato"
+    },
+    {
+     "c": "Giuseppe",
+     "n": "Andrea Dianetti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Michela Andreozzi"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 1511549,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Maddalena has it all: a job she loves, the perfect fiancé, and a dream wedding ahead. Yet in the bedroom, something feels wrong. Urged on by her inner voice, embodied by pornstar Valentina Nappi, she begins to question her life. Meeting Bruno, a gardener with a troubled past, leads her to rediscover herself and realize the only path worth following is her own.",
+   "popularity": 1.6475,
+   "poster_path": "/yag6pzO68eMauPNam5SSFkZNg6b.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-12",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Still Sexy",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 40
+  },
+  "movie:1634949": {
+   "backdrop_path": "/53EmA2lkBQrhbRHZcGHZnzswj6F.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Lorne Michaels"
+    },
+    {
+     "c": "Self",
+     "n": "Steve Higgins"
+    },
+    {
+     "c": "Self",
+     "n": "Michael Che"
+    },
+    {
+     "c": "Self",
+     "n": "Colin Jost"
+    },
+    {
+     "c": "Self",
+     "n": "Tom Schiller"
+    },
+    {
+     "c": "Self",
+     "n": "Paul Simon"
+    },
+    {
+     "c": "Self",
+     "n": "James Andrew Miller"
+    },
+    {
+     "c": "Self",
+     "n": "Timothée Chalamet"
+    },
+    {
+     "c": "Self",
+     "n": "Paula Pell"
+    },
+    {
+     "c": "Self",
+     "n": "Adam Sandler"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Morgan Neville"
+   ],
+   "genres": [
+    "Comedy",
+    "Documentary"
+   ],
+   "id": 1634949,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An unprecedented, behind-the-scenes glimpse at the man who built the inimitable empire of comedy, shaping television and culture for generations. The documentary features exclusive footage, archival treasures, and candid interviews with the show’s most iconic cast members and writers including Tina Fey, Maya Rudolph, John Mulaney, Andy Samberg, Conan O’Brien, Chris Rock and many more.",
+   "popularity": 2.2004,
+   "poster_path": "/3n3mGGQI1HkmzUlcPubMZ9QvcJA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-17",
+   "revenue": 449135,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The legend behind the legends.",
+   "title": "Lorne",
+   "trailer": {
+    "key": "8jAzm4a5SLo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.05,
+   "vote_count": 20
+  },
+  "movie:1789549": {
+   "backdrop_path": "/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marlene Frischmann",
+     "n": "Jeanne Goursaud"
+    },
+    {
+     "c": "Timo",
+     "n": "Edin Hasanović"
+    },
+    {
+     "c": "Hans",
+     "n": "Heiner Lauterbach"
+    },
+    {
+     "c": "Theo Frischmann",
+     "n": "Levin Wopp"
+    },
+    {
+     "c": "Sofia",
+     "n": "Sogol Faghani"
+    },
+    {
+     "c": "",
+     "n": "Enzo Brumm"
+    },
+    {
+     "c": "",
+     "n": "Berit Künnecke"
+    },
+    {
+     "c": "Jenny",
+     "n": "Amal Keller"
+    },
+    {
+     "c": "",
+     "n": "Bastian Reiber"
+    },
+    {
+     "c": "Arthur",
+     "n": "Paul Henrich"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Vanessa Jopp"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1789549,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Single mother Marlene Frischmann organizes a birthday party for her son Theo at her brother's chic country villa, which quickly spirals into family drama, world-view quarrels, and chaos.",
+   "popularity": 10.6985,
+   "poster_path": "/jqGFILLsEDwsLteNDQextojsYFV.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-30",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Birthday​ Gift​",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.263,
+   "vote_count": 38
   },
   "movie:209249": {
    "backdrop_path": "/5YnUQ5oRXjQcxuqwn76NoIxwRV2.jpg",
@@ -894,6 +1553,179 @@
    "vote_average": 5.164,
    "vote_count": 495
   },
+  "movie:339849": {
+   "backdrop_path": "/rJ7PB78ZcBaCPxQRLrZxh4M2Z0N.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Nick Schuyler",
+     "n": "Zachary Levi"
+    },
+    {
+     "c": "Timothy Close",
+     "n": "Josh Duhamel"
+    },
+    {
+     "c": "Marquis Cooper",
+     "n": "Quentin Plair"
+    },
+    {
+     "c": "Corey Smith",
+     "n": "Terrence Terrell"
+    },
+    {
+     "c": "Will Bleakley",
+     "n": "Marshall Cook"
+    },
+    {
+     "c": "Marcia",
+     "n": "JoBeth Williams"
+    },
+    {
+     "c": "Paula",
+     "n": "Floriana Lima"
+    },
+    {
+     "c": "Rebekah Cooper",
+     "n": "Jessica Blackmore"
+    },
+    {
+     "c": "Stu Schuyler",
+     "n": "James Martin Kelly"
+    },
+    {
+     "c": "Coast Guard Radio Operator Davies",
+     "n": "Chris Dingli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joe Carnahan"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "id": 339849,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of friends' fishing boat capsizes off the coast of Mexico and they're left alone stranded at sea and struggling for survival.",
+   "popularity": 2.4339,
+   "poster_path": "/w5WJMJ6DWPFK0Gx0Ongh0FZBAlK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-04",
+   "revenue": 0,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Not Without Hope",
+   "trailer": {
+    "key": "rzDAcL3rOcU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.624,
+   "vote_count": 157
+  },
   "movie:473149": {
    "backdrop_path": "/fNIM6K8VdD7R33PL26f5KTfHpGH.jpg",
    "budget": 4000000,
@@ -1191,6 +2023,219 @@
    "type": "movie",
    "vote_average": 7.358,
    "vote_count": 490
+  },
+  "movie:964849": {
+   "backdrop_path": "/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
+   "budget": 5900000,
+   "cast": [
+    {
+     "c": "Jon",
+     "n": "Rupert Grint"
+    },
+    {
+     "c": "Saga",
+     "n": "Seidi Haarla"
+    },
+    {
+     "c": "Taru",
+     "n": "Pamela Tola"
+    },
+    {
+     "c": "Saga's Mother",
+     "n": "Pirkko Saisio"
+    },
+    {
+     "c": "Jon's Mother",
+     "n": "Rebecca Lacey"
+    },
+    {
+     "c": "Jon's Father",
+     "n": "John Thomson"
+    },
+    {
+     "c": "Anna",
+     "n": "Silvia Saloranta"
+    },
+    {
+     "c": "Saga's Colleague",
+     "n": "Satu Tuuli Karhu"
+    },
+    {
+     "c": "Saga's Colleague",
+     "n": "Amira Khalifa"
+    },
+    {
+     "c": "Saga's Colleague",
+     "n": "Johanna Kuuva"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Hanna Bergholm"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 964849,
+   "industry": "world",
+   "origin_country": [
+    "FI"
+   ],
+   "original_language": "fi",
+   "overview": "In Finnish forest, Saga and her husband Jon embark on a new chapter as parents. But Saga's joy is overshadowed by a chilling suspicion about their newborn, unbeknownst to Jon, causing a rift as she alone grapples with the disturbing truth.",
+   "popularity": 7.5523,
+   "poster_path": "/cF1g9qtuRyATaZ75O6zRop2zmfZ.jpg",
+   "production_countries": [
+    "FI",
+    "LT",
+    "FR",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-01",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fi",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Nightborn",
+   "trailer": {
+    "key": "dWePsu_Kd9c",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 175
   },
   "tv:123249": {
    "backdrop_path": "/sxBC3GJI1PZXpwb0xAYRxLL4nja.jpg",

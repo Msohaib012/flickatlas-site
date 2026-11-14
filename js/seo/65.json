@@ -1,6 +1,6 @@
 {
  "bucket": "65",
- "count": 16,
+ "count": 20,
  "titles": {
   "movie:1001865": {
    "d": "Scrooge: A Christmas Carol (2022): Animation/Family film. Story: On a cold Christmas Eve, selfish miser Ebenezer… See cast and TMDB rating 6.8/10.",
@@ -130,6 +130,70 @@
    "t": "Mindcage (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
   },
+  "movie:1057265": {
+   "d": "Peddi (2026): Action/Drama film. Story: In a village that doesn't officially exist, a… See cast, budget $36.5M, and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
+   "industry": "bollywood",
+   "k": "Peddi, Peddi movie, Peddi cast, Peddi story, Peddi box office collection, Peddi budget, Peddi review, Peddi rating, Peddi release date, Peddi trailer, Peddi Action, Peddi Drama, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ram Charan"
+     },
+     {
+      "@type": "Person",
+      "name": "Janhvi Kapoor"
+     },
+     {
+      "@type": "Person",
+      "name": "Shiva Rajkumar"
+     },
+     {
+      "@type": "Person",
+      "name": "Jagapati Babu"
+     },
+     {
+      "@type": "Person",
+      "name": "Divyendu Sharma"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 74,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Peddi (2026): Action/Drama film. Story: In a village that doesn't officially exist, a… See cast, budget $36.5M, and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Buchi Babu Sana"
+     }
+    ],
+    "duration": "PT189M",
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1057265",
+    "name": "Peddi",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1057265"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Peddi (2026)</h1>\n<p class=\"ssr-lead\">In a village that doesn&#x27;t officially exist, a laborer&#x27;s unmatched athletic talent becomes his weapon to fight for his people&#x27;s right to be recognized.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 June 2026</li><li>Runtime: 189 minutes</li><li>Director: Buchi Babu Sana</li><li>Genres: Action, Drama</li><li>Budget: $36.5M</li><li>TMDB rating: 5.6/10 (74 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ram Charan as Peddi Pehelwan</li><li>Janhvi Kapoor as Achiyyamma</li><li>Shiva Rajkumar as Gournaidu</li><li>Jagapati Babu as Appalasoori</li><li>Divyendu Sharma as Ram Bujji</li><li>Boman Irani as Kiran Singh Baiswal</li><li>Ravi Kishan as Ranadheer Sisodia</li><li>Rao Ramesh as Subhadra Rao</li><li>Upendra Limaye as Villager</li><li>John Vijay as Ammathalli</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Peddi (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:10765": {
    "d": "Private Benjamin (1980): Comedy film. Story: A sheltered young high society woman joins the US… See cast, budget $15M, and TMDB rating 6.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/bMWO0HQwfIe85CmXbWSI8Q6cCC2.jpg",
@@ -192,6 +256,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Private Benjamin (1980)</h1>\n<p class=\"ssr-lead\">A sheltered young high society woman joins the US Army on a whim and finds herself in a more difficult situation than she ever expected.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 October 1980</li><li>Runtime: 110 minutes</li><li>Director: Howard Zieff</li><li>Genres: Comedy</li><li>Budget: $15M</li><li>TMDB rating: 6.0/10 (439 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Goldie Hawn as Judy Benjamin</li><li>Eileen Brennan as Capt. Doreen Lewis</li><li>Armand Assante as Henrí Trémont</li><li>Robert Webber as Col. Clay Thornbush</li><li>Sam Wanamaker as Teddy Benjamin</li><li>Barbara Barrie as Harriet Benjamin</li><li>Mary Kay Place as Pvt. Mary Lou Glass</li><li>Harry Dean Stanton as Sgt. Jim Ballard</li><li>Albert Brooks as Yale Goodman</li><li>Alan Oppenheimer as Rabbi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "Private Benjamin (1980) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1980"
+  },
+  "movie:1148365": {
+   "d": "Matchbox the Movie (2026): Action/Comedy film. Story: When a group of former childhood friends reconnect… See cast and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+   "industry": "world",
+   "k": "Matchbox the Movie, Matchbox the Movie movie, Matchbox the Movie cast, Matchbox the Movie story, Matchbox the Movie box office collection, Matchbox the Movie budget, Matchbox the Movie review, Matchbox the Movie rating, Matchbox the Movie release date, Matchbox the Movie trailer, Matchbox the Movie Action, Matchbox the Movie Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "John Cena"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessica Biel"
+     },
+     {
+      "@type": "Person",
+      "name": "Arturo Castro"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Richardson"
+     },
+     {
+      "@type": "Person",
+      "name": "Teyonah Parris"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 629,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Matchbox the Movie (2026): Action/Comedy film. Story: When a group of former childhood friends reconnect… See cast and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sam Hargrave"
+     }
+    ],
+    "duration": "PT127M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1148365",
+    "name": "Matchbox the Movie",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1148365"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Matchbox the Movie (2026)</h1>\n<p class=\"ssr-lead\">When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 October 2026</li><li>Runtime: 127 minutes</li><li>Director: Sam Hargrave</li><li>Genres: Action, Comedy, Adventure</li><li>TMDB rating: 7.5/10 (629 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Cena as Sean</li><li>Jessica Biel as Aimee</li><li>Arturo Castro as Ted</li><li>Sam Richardson as Crosby</li><li>Teyonah Parris as Charmaine</li><li>Danai Gurira as Helen</li><li>Golshifteh Farahani as Robbie</li><li>Corey Stoll as Mosier</li><li>Daniel Bernhardt as Falko</li><li>Randeep Hooda as Mustafa</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Apple TV, Apple TV Amazon Channel</li></ul>\n</article>",
+   "t": "Matchbox the Movie (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:12165": {
    "d": "The Burning Plain (2008): Drama/Romance film. Story: A trailer is burning in the middle of a plain. The… See cast, budget $20M, and TMDB rating 6.6/10.",
@@ -321,6 +449,70 @@
    "t": "Fuze (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:1284465": {
+   "d": "The Death of Robin Hood (2026): Adventure/Drama film. Story: Grappling with his past after a life of crime and… See cast, budget $25M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+   "industry": "world",
+   "k": "The Death of Robin Hood, The Death of Robin Hood movie, The Death of Robin Hood cast, The Death of Robin Hood story, The Death of Robin Hood box office collection, The Death of Robin Hood budget, The Death of Robin Hood review, The Death of Robin Hood rating, The Death of Robin Hood release date, The Death of Robin Hood trailer, The Death of Robin Hood Adventure, The Death of Robin Hood Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hugh Jackman"
+     },
+     {
+      "@type": "Person",
+      "name": "Jodie Comer"
+     },
+     {
+      "@type": "Person",
+      "name": "Bill Skarsgård"
+     },
+     {
+      "@type": "Person",
+      "name": "Murray Bartlett"
+     },
+     {
+      "@type": "Person",
+      "name": "Noah Jupe"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 619,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "The Death of Robin Hood (2026): Adventure/Drama film. Story: Grappling with his past after a life of crime and… See cast, budget $25M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Sarnoski"
+     }
+    ],
+    "duration": "PT123M",
+    "genre": [
+     "Adventure",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1284465",
+    "name": "The Death of Robin Hood",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1284465"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Death of Robin Hood (2026)</h1>\n<p class=\"ssr-lead\">Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 July 2026</li><li>Runtime: 123 minutes</li><li>Director: Michael Sarnoski</li><li>Genres: Adventure, Drama, Action</li><li>Budget: $25M</li><li>TMDB rating: 6.7/10 (619 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hugh Jackman as Robin Hood</li><li>Jodie Comer as Sister Brigid</li><li>Bill Skarsgård as Little John</li><li>Murray Bartlett as The Leper</li><li>Noah Jupe as Arthur / Godwyn</li><li>Jade Croot as Wainwright</li><li>Faith Delaney as Little Margaret</li><li>Tabitha Smyth as Sarah</li><li>Beau Thompson as Hob</li><li>Alfie Lawless as Hendrie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Death of Robin Hood (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:13665": {
    "d": "Arthur (1981): Comedy/Drama film. Story: Arthur is a 30-year-old child who will inherit $750… See cast, budget $7M, and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/s7m59L9kv1JufLXsrWRRow9k2vT.jpg",
@@ -448,6 +640,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Red Balloon (1956)</h1>\n<p class=\"ssr-lead\">A young boy discovers a stray balloon, which seems to have a mind of its own, on the streets of Paris. The two become inseparable, yet the world’s harsh realities finally interfere.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 August 1956</li><li>Runtime: 34 minutes</li><li>Director: Albert Lamorisse</li><li>Genres: Comedy, Drama, Family, Fantasy</li><li>TMDB rating: 7.7/10 (463 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pascal Lamorisse as Pascal, the Little Boy</li><li>Georges Sellier as The Irritated Schoolmaster</li><li>Vladimir Popov as A Tenant</li><li>Paul Perey as Pascal&#x27;s Father</li><li>Renée Marion as Pascal&#x27;s Mother</li><li>Sabine Lamorisse as Little Girl with Blue Balloon</li><li>Michel Pezin</li><li>Renaud as A Twin in Red</li><li>David Séchan as A Twin in Red</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Artify</li><li>Rent: Artify</li></ul>\n</article>",
    "t": "The Red Balloon (1956) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1956"
+  },
+  "movie:1641965": {
+   "d": "Untold: Jail Blazers (2026): Documentary film. Story: Volatile players. Criminal charges. National… See cast and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/gyYTuYSwiqGNaqNomscb6oSZ8Mt.jpg",
+   "industry": "world",
+   "k": "Untold: Jail Blazers, Untold: Jail Blazers movie, Untold: Jail Blazers cast, Untold: Jail Blazers story, Untold: Jail Blazers box office collection, Untold: Jail Blazers budget, Untold: Jail Blazers review, Untold: Jail Blazers rating, Untold: Jail Blazers release date, Untold: Jail Blazers trailer, Untold: Jail Blazers Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rasheed Wallace"
+     },
+     {
+      "@type": "Person",
+      "name": "Damon Stoudamire"
+     },
+     {
+      "@type": "Person",
+      "name": "Bonzi Wells"
+     },
+     {
+      "@type": "Person",
+      "name": "Shawn Kemp"
+     },
+     {
+      "@type": "Person",
+      "name": "Bob Whitsitt"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 24,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Untold: Jail Blazers (2026): Documentary film. Story: Volatile players. Criminal charges. National… See cast and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sascha Gardner"
+     }
+    ],
+    "duration": "PT70M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gyYTuYSwiqGNaqNomscb6oSZ8Mt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1641965",
+    "name": "Untold: Jail Blazers",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1641965"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Untold: Jail Blazers (2026)</h1>\n<p class=\"ssr-lead\">Volatile players. Criminal charges. National headlines. Portland&#x27;s championship-caliber NBA team implodes spectacularly in this unflinching documentary.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 April 2026</li><li>Runtime: 70 minutes</li><li>Director: Sascha Gardner</li><li>Genres: Documentary</li><li>TMDB rating: 6.7/10 (24 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rasheed Wallace as Himself</li><li>Damon Stoudamire as Himself</li><li>Bonzi Wells as Himself</li><li>Shawn Kemp as Himself</li><li>Bob Whitsitt as Himself</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Untold: Jail Blazers (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:426865": {
    "d": "UFO (2018): Science Fiction/Thriller film. Story: A college student, who sees a UFO, uses his… See cast, TMDB rating 6.9/10, and release date 27 September 2018.",

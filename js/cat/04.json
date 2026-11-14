@@ -1,7 +1,373 @@
 {
  "bucket": "04",
- "count": 17,
+ "count": 27,
  "titles": {
+  "movie:1128204": {
+   "backdrop_path": "/4ZeaWA6DzFVOjWTi70b9ZAaQktf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Orla Ryan",
+     "n": "Grace Collender"
+    },
+    {
+     "c": "Austin",
+     "n": "Rhys Mannion"
+    },
+    {
+     "c": "Ciara Ryan",
+     "n": "Molly McCann"
+    },
+    {
+     "c": "Nora",
+     "n": "Charlotte Bradley"
+    },
+    {
+     "c": "Cathal",
+     "n": "Flynn Gray"
+    },
+    {
+     "c": "Nessa",
+     "n": "Daisy Jelley"
+    },
+    {
+     "c": "Lorcan",
+     "n": "Clinton Liberty"
+    },
+    {
+     "c": "Dearg Due",
+     "n": "Niamh Hogan"
+    },
+    {
+     "c": "Fiona Ryan",
+     "n": "Noella Brennan"
+    },
+    {
+     "c": "Gareth Ryan",
+     "n": "Dominic Wright"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Marco van Belle"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 1128204,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Five social media influencers spend a weekend at a forest retreat but inadvertently awaken and confront the world's first vampire.",
+   "popularity": 63.3311,
+   "poster_path": "/nICoMIb6FcHqnrKeO43zKY3w8vT.jpg",
+   "production_countries": [
+    "GB",
+    "IE",
+    "BE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-06",
+   "revenue": 0,
+   "runtime": 82,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Witness the first of her kind",
+   "title": "Feed",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 37
+  },
+  "movie:1276704": {
+   "backdrop_path": "/kFK6FpbbEvVKDH956qTKEHB4Sfp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Julián",
+     "n": "Javier Cámara"
+    },
+    {
+     "c": "Natalia",
+     "n": "Carmen Machi"
+    },
+    {
+     "c": "Víctor",
+     "n": "Javier Gutiérrez"
+    },
+    {
+     "c": "Carol",
+     "n": "Alexandra Jiménez"
+    },
+    {
+     "c": "Padre",
+     "n": "Ricardo Lacámara"
+    },
+    {
+     "c": "Marisa",
+     "n": "Rosa Vivas"
+    },
+    {
+     "c": "Hija 1 Víctor",
+     "n": "Carla Soto"
+    },
+    {
+     "c": "Hija 2 Víctor",
+     "n": "Leyre Soto"
+    },
+    {
+     "c": "Suegro Víctor",
+     "n": "Pedro Miguel Martínez"
+    },
+    {
+     "c": "Marido Natalia",
+     "n": "Antonio Márquez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Cesc Gay"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1276704,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "When three siblings agree to meet and discuss their aging father's future, their reunion spirals into bickering, bantering and reliving old grudges.",
+   "popularity": 3.0177,
+   "poster_path": "/olk6MkfHFWEpWmhQn6Mb4jNqspm.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-26",
+   "revenue": 0,
+   "runtime": 78,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "53 Sundays",
+   "trailer": {
+    "key": "WJ4x4b8iHsg",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.913,
+   "vote_count": 86
+  },
+  "movie:1302904": {
+   "backdrop_path": "/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+   "budget": 75000000,
+   "cast": [
+    {
+     "c": "Sally Owens",
+     "n": "Sandra Bullock"
+    },
+    {
+     "c": "Gillian Owens",
+     "n": "Nicole Kidman"
+    },
+    {
+     "c": "Jet",
+     "n": "Dianne Wiest"
+    },
+    {
+     "c": "Franny",
+     "n": "Stockard Channing"
+    },
+    {
+     "c": "Kylie",
+     "n": "Joey King"
+    },
+    {
+     "c": "Ian Wright",
+     "n": "Lee Pace"
+    },
+    {
+     "c": "Antonia",
+     "n": "Maisie Williams"
+    },
+    {
+     "c": "Gideon",
+     "n": "Xolo Maridueña"
+    },
+    {
+     "c": "Tom Lockland",
+     "n": "Solly McLeod"
+    },
+    {
+     "c": "Local Woman",
+     "n": "Amy Bowden"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Susanne Bier"
+   ],
+   "genres": [
+    "Romance",
+    "Fantasy",
+    "Comedy"
+   ],
+   "id": 1302904,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+   "popularity": 47.7163,
+   "poster_path": "/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-09",
+   "revenue": 105690022,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Everything you've witched for.",
+   "title": "Practical Magic 2",
+   "trailer": {
+    "key": "Ho10_4IX1jE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 394
+  },
   "movie:13704": {
    "backdrop_path": "/x7hYxRqj9s3NjpPGzdzMlsUJcvd.jpg",
    "budget": 8000000,
@@ -152,6 +518,788 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 436
+  },
+  "movie:1404304": {
+   "backdrop_path": "/mwqxKmbW6ssqa5CKHrgocqbkL0C.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "\"Fiddler\" John Good",
+     "n": "Sean Bean"
+    },
+    {
+     "c": "Ada Horn",
+     "n": "Mackenzie Foy"
+    },
+    {
+     "c": "Emily Moore",
+     "n": "Odeya Rush"
+    },
+    {
+     "c": "\"Burial\" Perry Parker",
+     "n": "Joe Pantoliano"
+    },
+    {
+     "c": "William \"Red\" Baker",
+     "n": "Jack Kesy"
+    },
+    {
+     "c": "Calvin Ed",
+     "n": "Ty Simpkins"
+    },
+    {
+     "c": "Ten Charlie",
+     "n": "Martin Sensmeier"
+    },
+    {
+     "c": "Colonel Hardwick",
+     "n": "Bryan Martin"
+    },
+    {
+     "c": "Soldier",
+     "n": "Philip McDermott Young"
+    },
+    {
+     "c": "Union Soldier",
+     "n": "Mark Alan Jaeger"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "John Suits"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Western"
+   ],
+   "id": 1404304,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "One bitter-cold winter during the Civil War, a young woman becomes the lone caretaker of a remote Union Army outpost. When a stash of stolen gold falls into her lap, a gang of vicious outlaws comes looking for it. As they turn her home into a battleground, she must stay one step ahead of them in order to survive.",
+   "popularity": 12.59,
+   "poster_path": "/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-10",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Underestimating her is a grave mistake.",
+   "title": "The Isolate Thief",
+   "trailer": {
+    "key": "jSwHRzmEhBI",
+    "name": "In Theaters Friday",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.135,
+   "vote_count": 37
+  },
+  "movie:1404604": {
+   "backdrop_path": "/lW9uSLT4t7trf1rG0nnOj14AoXT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fred",
+     "n": "Alexandra Lamy"
+    },
+    {
+     "c": "Adam",
+     "n": "Julien Le Berre"
+    },
+    {
+     "c": "Paul",
+     "n": "Eric Métayer"
+    },
+    {
+     "c": "Nadège",
+     "n": "Mélanie Doutey"
+    },
+    {
+     "c": "",
+     "n": "Cyril Gueï"
+    },
+    {
+     "c": "Mossi",
+     "n": "Malik Amraoui"
+    },
+    {
+     "c": "Estella",
+     "n": "Maëlle Vidou"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Yann Samuell"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1404604,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Fred and Adam have nothing in common. Yet, they will meet while walking the Way of St. James as a form of spiritual path.",
+   "popularity": 1.8007,
+   "poster_path": "/4FaoBpDtzhZk9R907epSN5WCelq.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-01",
+   "revenue": 0,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Walking means Saving.",
+   "title": "Compostelle",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.75,
+   "vote_count": 52
+  },
+  "movie:1431804": {
+   "backdrop_path": "/dgleeErFcEHEacYabCTDwr1zAl2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Leah Jones",
+     "n": "Bailee Madison"
+    },
+    {
+     "c": "Mason",
+     "n": "Joel Courtney"
+    },
+    {
+     "c": "Jackson",
+     "n": "Jack Schumacher"
+    },
+    {
+     "c": "Bianca",
+     "n": "Luxy Banner"
+    },
+    {
+     "c": "Buzz",
+     "n": "Eric Nelsen"
+    },
+    {
+     "c": "Edith",
+     "n": "Liz Mikel"
+    },
+    {
+     "c": "Tilda",
+     "n": "Jennifer Griffin"
+    },
+    {
+     "c": "Steven",
+     "n": "Jai Rodriguez"
+    },
+    {
+     "c": "Gigi",
+     "n": "Annie Potts"
+    },
+    {
+     "c": "Matt",
+     "n": "Joseph Rosa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Andy Delaney"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 1431804,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ready to quit the dating scene altogether, burned-out Leah accepts her grandmother's outrageous challenge—40 dates in 40 nights in exchange for a year's rent—only to discover amidst the awkward dinners and unexpected sparks that her biggest obstacle to love is herself.",
+   "popularity": 4.4843,
+   "poster_path": "/lWEhjO801M52CY5Gx6OAwZZ6m7o.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-16",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "How many dates does it take to find love?",
+   "title": "40 Dates and 40 Nights",
+   "trailer": {
+    "key": "Egk_FWQgW4w",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 43
+  },
+  "movie:1440304": {
+   "backdrop_path": "/dQ6WE975drdAQWKGWYx6nphNtoI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Serge Martin",
+     "n": "Gérard Jugnot"
+    },
+    {
+     "c": "Laurent Malbec",
+     "n": "Thierry Lhermitte"
+    },
+    {
+     "c": "Grégory Vassilian",
+     "n": "Philippe Lacheau"
+    },
+    {
+     "c": "Michèle",
+     "n": "Zabou Breitman"
+    },
+    {
+     "c": "Commissaire Taillade",
+     "n": "Jean-Pierre Darroussin"
+    },
+    {
+     "c": "Marie Duteil",
+     "n": "Michèle Laroque"
+    },
+    {
+     "c": "Léa Paoli",
+     "n": "Reem Kherici"
+    },
+    {
+     "c": "Jean",
+     "n": "François Morel"
+    },
+    {
+     "c": "Pascale Forzano",
+     "n": "Charlotte Gabris"
+    },
+    {
+     "c": "Madeline",
+     "n": "Claudia Bacos"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TP",
+   "date_kind": "release",
+   "director": [
+    "Gérard Jugnot"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1440304,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "​Arrested by mistake and mistaken for France’s most wanted man, Serge Martin, a peaceful retiree, becomes the target of the media. Caught up in a never-ending whirlwind, he’ll do everything he can to prove his innocence and get his life back… if that’s even possible!",
+   "popularity": 1.982,
+   "poster_path": "/wRPxSccJw6wckkBUOzM5CHd871w.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-01",
+   "revenue": 0,
+   "runtime": 0,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Is he the most wanted man in France?",
+   "title": "Tough Luck",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.904,
+   "vote_count": 52
+  },
+  "movie:1477104": {
+   "backdrop_path": "/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Shaun / Timmy (voice)",
+     "n": "Justin Fletcher"
+    },
+    {
+     "c": "The Farmer / Bitzer (voice)",
+     "n": "John Sparkes"
+    },
+    {
+     "c": "The Vet (voice)",
+     "n": "Nina Sosanya"
+    },
+    {
+     "c": "Timmy's Mum (voice)",
+     "n": "Kate Harbour"
+    },
+    {
+     "c": "Shirley (voice)",
+     "n": "Rich Webber"
+    },
+    {
+     "c": "Hazel (voice)",
+     "n": "Emma Tate"
+    },
+    {
+     "c": "The Twins (voice)",
+     "n": "Simon Greenall"
+    },
+    {
+     "c": "Nuts (voice)",
+     "n": "Andy Nyman"
+    },
+    {
+     "c": "Shop Keeper (voice)",
+     "n": "Paul Whitehouse"
+    },
+    {
+     "c": "Pizza Boy (voice)",
+     "n": "Roman Kemp"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Steve Cox",
+    "Matthew Walker"
+   ],
+   "genres": [
+    "Animation",
+    "Science Fiction",
+    "Comedy",
+    "Family"
+   ],
+   "id": 1477104,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
+   "popularity": 18.5567,
+   "poster_path": "/gayX49siwXf8eNs16rtk1fI91Ey.jpg",
+   "production_countries": [
+    "GB",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-17",
+   "revenue": 13438550,
+   "runtime": 81,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "What's that coming over the hill?",
+   "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+   "trailer": {
+    "key": "daZMq0AyOMc",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.328,
+   "vote_count": 61
+  },
+  "movie:1688804": {
+   "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self (archive footage)",
+     "n": "John Barnett"
+    },
+    {
+     "c": "Self - Attorney for John Barnett",
+     "n": "Rob Turkewitz"
+    },
+    {
+     "c": "Self - Boeing Quality Investigator",
+     "n": "Sam Mohawk"
+    },
+    {
+     "c": "Self - Boeing Quality Investigator (Former)",
+     "n": "Roy Irvin"
+    },
+    {
+     "c": "Self - Boeing Quality Engineer",
+     "n": "Sam Salehpour"
+    },
+    {
+     "c": "Self - Boeing Quality Manager (Former)",
+     "n": "Merle Meyers"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Jim McNerney"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "David G. Bradley"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Jack Welch"
+    },
+    {
+     "c": "Self - Author and Journalist, The New York Times",
+     "n": "David Gelles"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rory Kennedy"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1688804,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Following the highly publicized death of Boeing whistleblower John Barnett, the investigation continues into the once-iconic aviation giant, uncovering startling new revelations and insider accounts in the wake of a deepening corporate crisis..",
+   "popularity": 1.9954,
+   "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-14",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Freefall: A Reckoning for Boeing",
+   "trailer": {
+    "key": "7ZDSYBkcH2U",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.067,
+   "vote_count": 45
   },
   "movie:43904": {
    "backdrop_path": "/dFbCil5MUoRX2s4u2XcK7knJpT.jpg",
@@ -661,6 +1809,127 @@
    "type": "movie",
    "vote_average": 7.115,
    "vote_count": 492
+  },
+  "movie:898704": {
+   "backdrop_path": "/ohlNSR8MsHk5e6fcAxqAJmcz4Sm.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Hanzala",
+     "n": "Anthony Mackie"
+    },
+    {
+     "c": "Princess Hind",
+     "n": "Aiysha Hart"
+    },
+    {
+     "c": "Hani",
+     "n": "Sami Bouajila"
+    },
+    {
+     "c": "Jalabzeen",
+     "n": "Sharlto Copley"
+    },
+    {
+     "c": "Emperor Kisra II",
+     "n": "Ben Kingsley"
+    },
+    {
+     "c": "King Numan",
+     "n": "Ghassan Massoud"
+    },
+    {
+     "c": "Medicine Woman",
+     "n": "Lamis Ammar"
+    },
+    {
+     "c": "Ibn Qabisah",
+     "n": "Ramsey Faragallah"
+    },
+    {
+     "c": "Samir",
+     "n": "Saïd Boumazoughe"
+    },
+    {
+     "c": "Aasif",
+     "n": "Younes Bouab"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rupert Wyatt"
+   ],
+   "genres": [
+    "History",
+    "War",
+    "Action"
+   ],
+   "id": 898704,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 7th-century Arabia, Princess Hind becomes a warrior to defy the ruthless Emperor Kisra. Forged into a warrior and aided by legendary bandit Hanzala, Hind unites warring tribes for a last stand—the historic Battle of Dhi Qar—that will change history.",
+   "popularity": 5.5008,
+   "poster_path": "/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg",
+   "production_countries": [
+    "US",
+    "SA"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-23",
+   "revenue": 742066,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One warrior must unite them all.",
+   "title": "Desert Warrior",
+   "trailer": {
+    "key": "fraAGOuT3sA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 57
   },
   "tv:1104": {
    "backdrop_path": "/eYDTiJ88jfMJ5Vp3a0OAEihBzZX.jpg",

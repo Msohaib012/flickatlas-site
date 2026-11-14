@@ -1,6 +1,6 @@
 {
  "bucket": "63",
- "count": 16,
+ "count": 30,
  "titles": {
   "movie:10063": {
    "backdrop_path": "/81kbwVTU6Im3zcSnK0Pp2oP4piN.jpg",
@@ -124,6 +124,119 @@
    "type": "movie",
    "vote_average": 5.493,
    "vote_count": 447
+  },
+  "movie:1032863": {
+   "backdrop_path": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Olive Smith",
+     "n": "Lili Reinhart"
+    },
+    {
+     "c": "Dr. Adam Carlsen",
+     "n": "Tom Bateman"
+    },
+    {
+     "c": "Anh Pham",
+     "n": "Rachel Marsh"
+    },
+    {
+     "c": "Malcolm Browne",
+     "n": "Jaboukie Young-White"
+    },
+    {
+     "c": "Jeremy Langley",
+     "n": "Nicholas Duvernay"
+    },
+    {
+     "c": "Dr. Thomas Benton",
+     "n": "Arty Froushan"
+    },
+    {
+     "c": "Dr. Juliet Aslan",
+     "n": "Jeananne Goossen"
+    },
+    {
+     "c": "Dr. Eugene Fastuca",
+     "n": "Aladeen Tawfeek"
+    },
+    {
+     "c": "McConnell",
+     "n": "Kenny Wong"
+    },
+    {
+     "c": "Dr. Hargrave",
+     "n": "Daniel Brochu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Claire Scanlon"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 1032863,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
+   "popularity": 21.5011,
+   "poster_path": "/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-23",
+   "revenue": 0,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fake dating. Real chemistry.",
+   "title": "The Love Hypothesis",
+   "trailer": {
+    "key": "xwdamnfS6IM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.852,
+   "vote_count": 738
   },
   "movie:10763": {
    "backdrop_path": "/zf2eFbIgNvg4qRa8bUsHkw2JkSE.jpg",
@@ -288,6 +401,366 @@
    "vote_average": 5.665,
    "vote_count": 471
   },
+  "movie:1212763": {
+   "backdrop_path": "/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Alice",
+     "n": "Souheila Yacoub"
+    },
+    {
+     "c": "Susan",
+     "n": "Tandi Wright"
+    },
+    {
+     "c": "Joseph",
+     "n": "Hunter Doohan"
+    },
+    {
+     "c": "Thya",
+     "n": "Luciane Buchanan"
+    },
+    {
+     "c": "Edgar",
+     "n": "Erroll Shand"
+    },
+    {
+     "c": "Polly",
+     "n": "Maude Davey"
+    },
+    {
+     "c": "Will",
+     "n": "George Pullar"
+    },
+    {
+     "c": "Jessica",
+     "n": "Greta van den Brink"
+    },
+    {
+     "c": "Jared",
+     "n": "Keanu Karim"
+    },
+    {
+     "c": "Leo",
+     "n": "Victory Ndukwe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Sébastien Vaniček"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 1212763,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+   "popularity": 21.0052,
+   "poster_path": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-10",
+   "revenue": 71491178,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Every family has its demons.",
+   "title": "Evil Dead Burn",
+   "trailer": {
+    "key": "RddZObTlmA8",
+    "name": "Tickets on Sale",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.567,
+   "vote_count": 1947
+  },
+  "movie:1226863": {
+   "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+   "budget": 110000000,
+   "cast": [
+    {
+     "c": "Mario (voice)",
+     "n": "Chris Pratt"
+    },
+    {
+     "c": "Luigi (voice)",
+     "n": "Charlie Day"
+    },
+    {
+     "c": "Princess Peach (voice)",
+     "n": "Anya Taylor-Joy"
+    },
+    {
+     "c": "Bowser (voice)",
+     "n": "Jack Black"
+    },
+    {
+     "c": "Toad (voice)",
+     "n": "Keegan-Michael Key"
+    },
+    {
+     "c": "Bowser Junior (voice)",
+     "n": "Benny Safdie"
+    },
+    {
+     "c": "Yoshi (voice)",
+     "n": "Donald Glover"
+    },
+    {
+     "c": "Fox McCloud (voice)",
+     "n": "Glen Powell"
+    },
+    {
+     "c": "Rosalina (voice)",
+     "n": "Brie Larson"
+    },
+    {
+     "c": "Wart (voice)",
+     "n": "Luis Guzmán"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Aaron Horvath",
+    "Michael Jelenic"
+   ],
+   "genres": [
+    "Family",
+    "Comedy",
+    "Adventure",
+    "Fantasy",
+    "Animation"
+   ],
+   "id": 1226863,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+   "popularity": 31.9389,
+   "poster_path": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-01",
+   "revenue": 1012203331,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The galaxy awaits.",
+   "title": "The Super Mario Galaxy Movie",
+   "trailer": {
+    "key": "En5QZmL5R1s",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.18,
+   "vote_count": 3980
+  },
+  "movie:1356963": {
+   "backdrop_path": "/utpd4H566GFpw6hjufRxEuoSIIg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jimmy",
+     "n": "Stephen Amell"
+    },
+    {
+     "c": "Fr. Williams",
+     "n": "Sean Astin"
+    },
+    {
+     "c": "Agent Lozano",
+     "n": "J Balvin"
+    },
+    {
+     "c": "Officer Douglas",
+     "n": "Matt Walsh"
+    },
+    {
+     "c": "Tim",
+     "n": "Rhys Darby"
+    },
+    {
+     "c": "Huey",
+     "n": "Stephen McHattie"
+    },
+    {
+     "c": "Nancy",
+     "n": "Sugar Lyn Beard"
+    },
+    {
+     "c": "Alice",
+     "n": "Kaelen Ohm"
+    },
+    {
+     "c": "Jake",
+     "n": "Steve Lund"
+    },
+    {
+     "c": "Thibault",
+     "n": "Mike Dopud"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14A",
+   "date_kind": "release",
+   "director": [
+    "Andy Hines"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 1356963,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "Little Lorraine, a North Atlantic seaside town with a population of 60, becomes embroiled in an international cocaine smuggling operation under the noses of multiple governments, distributed in coffins through a network of funeral homes.",
+   "popularity": 1.2009,
+   "poster_path": "/rUzBqWq7idfMTBLCWs55Hkt9lpq.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-17",
+   "revenue": 0,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every Catch Has Its Cost",
+   "title": "Little Lorraine",
+   "trailer": {
+    "key": "Bksje0gVC80",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 20
+  },
   "movie:13763": {
    "backdrop_path": "/s3WFrpZV1QIo8Aao2TaAI5ERUTO.jpg",
    "budget": 7200000,
@@ -427,6 +900,1130 @@
    "type": "movie",
    "vote_average": 6.711,
    "vote_count": 444
+  },
+  "movie:1379963": {
+   "backdrop_path": "/rtv6da2U8poERiAZSAbCOePXzql.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kami",
+     "n": "Alícia Falcó"
+    },
+    {
+     "c": "Thiago",
+     "n": "Fernando Lindez"
+    },
+    {
+     "c": "Taylor",
+     "n": "Diego Vidales"
+    },
+    {
+     "c": "Dani",
+     "n": "Jan Buxaderas"
+    },
+    {
+     "c": "Cata",
+     "n": "Eve Ryan"
+    },
+    {
+     "c": "Jules",
+     "n": "Fernando Nagore"
+    },
+    {
+     "c": "Anne",
+     "n": "Patricia Vico"
+    },
+    {
+     "c": "Chiara",
+     "n": "Celia Freijeiro"
+    },
+    {
+     "c": "Clab",
+     "n": "Francisco Reyes"
+    },
+    {
+     "c": "Tino",
+     "n": "Andrés Velencoso"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Denis Rovira van Boekholt"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 1379963,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Kamila has everything under control: studies, social life, her image... Everything except the unexpected return of her neighbors, the Di Bianco brothers, after seven years of absence. Thiago stole her first kiss, and Taylor was her best friend, but now their return will turn Kami's world upside down. Can the three overcome the past that binds them? Or will everything explode into pieces once again?",
+   "popularity": 8.4504,
+   "poster_path": "/6Z37lW0JfLdeFcgH9yaTyg6B9A6.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-11",
+   "revenue": 0,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Tell Me Softly",
+   "trailer": {
+    "key": "maaZ6St22b8",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.288,
+   "vote_count": 217
+  },
+  "movie:1400763": {
+   "backdrop_path": "/kQ3V85ke3LKA4dnww2tH42bsZfX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joey",
+     "n": "Olivia Taylor Dudley"
+    },
+    {
+     "c": "Brian",
+     "n": "Lou Taylor Pucci"
+    },
+    {
+     "c": "Craig",
+     "n": "Jordan Gavaris"
+    },
+    {
+     "c": "Laura",
+     "n": "Marlene Forte"
+    },
+    {
+     "c": "Marge",
+     "n": "Paget Brewster"
+    },
+    {
+     "c": "Dr. Kelly",
+     "n": "Ashley Lauren Nedd"
+    },
+    {
+     "c": "Noah",
+     "n": "JJ Phillips"
+    },
+    {
+     "c": "Celeste",
+     "n": "Yumarie Morales"
+    },
+    {
+     "c": "River",
+     "n": "Eli Lucas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Addison Heimann"
+   ],
+   "genres": [
+    "Comedy",
+    "Science Fiction",
+    "Horror"
+   ],
+   "id": 1400763,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two codependent best friends become addicted to the heroin-like touch of an alien narcissist who may or may not be trying to take over the world.",
+   "popularity": 2.8077,
+   "poster_path": "/drcloenCH7ZautM7hnd9r9WScNV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-20",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Touch Me",
+   "trailer": {
+    "key": "vjWDJScsSuY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 23
+  },
+  "movie:1421963": {
+   "backdrop_path": "/yCo1Gs7vpROBC1uggQ3r7TrHiU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rose",
+     "n": "Sandrine Kiberlain"
+    },
+    {
+     "c": "Jean",
+     "n": "Pierre Lottin"
+    },
+    {
+     "c": "Tess",
+     "n": "Louise Labèque"
+    },
+    {
+     "c": "Simon",
+     "n": "Alexis Rosenstiehl"
+    },
+    {
+     "c": "Émily",
+     "n": "Alma Ngoc"
+    },
+    {
+     "c": "Madame Medrano",
+     "n": "Mélissa Izquierdo"
+    },
+    {
+     "c": "Axel",
+     "n": "Mogamed Bechiev"
+    },
+    {
+     "c": "vigile 1",
+     "n": "Frans Boyer"
+    },
+    {
+     "c": "vigile 2",
+     "n": "Matthieu Jordan"
+    },
+    {
+     "c": "chef de service soins intensifs",
+     "n": "Olivier Pierre Richard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TP",
+   "date_kind": "release",
+   "director": [
+    "Jean-Baptiste Léonetti"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1421963,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Rose and Jean have nothing in common. Rose is a force of nature who faces all her problems with a disarming joie de vivre. She lives with her 3 children upstairs in the family hotel that no longer belongs to her. They're not poor, they're broke... but only temporarily. Jean is a solitary, taciturn man who has buried his big heart under layers of modesty and resignation. When he arrives in this unusual family, however, he quickly becomes indispensable. What did they expect before they met? Probably nothing. He soon becomes indispensable.",
+   "popularity": 1.3737,
+   "poster_path": "/csxKag2TtQzBKm3KBDvHZ6wHKkb.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-25",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Whatever It Takes",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.119,
+   "vote_count": 59
+  },
+  "movie:1445363": {
+   "backdrop_path": "/ttOBvac1oW0OCCfFzZlXh3NeKyl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self (archive footage)",
+     "n": "Elvis Presley"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "James Burton"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "John Wilkinson"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Charlie Hodge"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Jerry Scheff"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Glen D. Hardin"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Ronnie Tutt"
+    },
+    {
+     "c": "Self (voice)",
+     "n": "Bono"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Sammy Davis Jr."
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Cary Grant"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Baz Luhrmann"
+   ],
+   "genres": [
+    "Music",
+    "Documentary"
+   ],
+   "id": 1445363,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "Long-lost footage from Elvis Presley's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
+   "popularity": 3.1667,
+   "poster_path": "/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
+   "production_countries": [
+    "US",
+    "AU"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-27",
+   "revenue": 23463883,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Elvis sings and tells his story like never before.",
+   "title": "EPiC: Elvis Presley in Concert",
+   "trailer": {
+    "key": "2s_dCvUgOBI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.2,
+   "vote_count": 116
+  },
+  "movie:1465063": {
+   "backdrop_path": "/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Jo (voice)",
+     "n": "H.E.R."
+    },
+    {
+     "c": "Raissa (voice)",
+     "n": "Liza Soberano"
+    },
+    {
+     "c": "Raww (voice)",
+     "n": "Dave Franco"
+    },
+    {
+     "c": "Batiba (voice)",
+     "n": "Jenny Slate"
+    },
+    {
+     "c": "Bungi Tiyanak (voice)",
+     "n": "Manny Jacinto"
+    },
+    {
+     "c": "Manang (voice)",
+     "n": "Lea Salonga"
+    },
+    {
+     "c": "Lola (voice)",
+     "n": "Dolly de Leon"
+    },
+    {
+     "c": "Datu (voice)",
+     "n": "Jo Koy"
+    },
+    {
+     "c": "King Truffle Wuffle (voice)",
+     "n": "Ronny Chieng"
+    },
+    {
+     "c": "Prince Mermahn (voice)",
+     "n": "Kevin McCann"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Januel Mercado",
+    "Joel Crawford"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Fantasy",
+    "Comedy",
+    "Family"
+   ],
+   "id": 1465063,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+   "popularity": 71.7142,
+   "poster_path": "/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-25",
+   "revenue": 77366134,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "tl"
+   ],
+   "status": "Released",
+   "tagline": "No memory left behind.",
+   "title": "Forgotten Island",
+   "trailer": {
+    "key": "PhgY8cOJiQA",
+    "name": "Get Tickets",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.994,
+   "vote_count": 252
+  },
+  "movie:1497463": {
+   "backdrop_path": "/liVDJBzSplrboMCykKydhaaR215.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Leah Jones",
+     "n": "Margarida Corceiro"
+    },
+    {
+     "c": "Axel Nguyen",
+     "n": "Maxi Iglesias"
+    },
+    {
+     "c": "Elena",
+     "n": "Natalia Rodríguez"
+    },
+    {
+     "c": "Oliver",
+     "n": "Sebastián Zurita"
+    },
+    {
+     "c": "Belén",
+     "n": "Adriana Hormigos"
+    },
+    {
+     "c": "Alejandro",
+     "n": "Javier Tolosa"
+    },
+    {
+     "c": "Axel de niño",
+     "n": "Alan Miranda"
+    },
+    {
+     "c": "Pablo",
+     "n": "Joan Pedrola"
+    },
+    {
+     "c": "Douglas",
+     "n": "Armando del Río"
+    },
+    {
+     "c": "Miriam",
+     "n": "Marta Solaz Cruz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Jorge Alonso"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 1497463,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "19-year-old Leah navigates a coming-of-age journey in the wake of a tragic car accident that claims her parents. Relocated to a coastal town under the care of her brother’s best friend Axel, Leah grapples with grief, haunting nightmares and a fractured sense of self.",
+   "popularity": 7.103,
+   "poster_path": "/4liJ6iU1IWdpUzMIpwJDcUpE3hI.jpg",
+   "production_countries": [
+    "ES",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-04",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "All That We Never Were",
+   "trailer": {
+    "key": "bMM-vqUyO3w",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.3,
+   "vote_count": 111
+  },
+  "movie:1514863": {
+   "backdrop_path": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maya Krishnaraj",
+     "n": "Maitreyi Ramakrishnan"
+    },
+    {
+     "c": "Anjali",
+     "n": "Priyanka Kedia"
+    },
+    {
+     "c": "Ronak",
+     "n": "Ankur Rathee"
+    },
+    {
+     "c": "Arjun",
+     "n": "Chaneil Kular"
+    },
+    {
+     "c": "Deepica",
+     "n": "Shreya Navile"
+    },
+    {
+     "c": "Dimple",
+     "n": "Becky Alex"
+    },
+    {
+     "c": "Nirbhay",
+     "n": "Nihar Duvvuri"
+    },
+    {
+     "c": "Harry",
+     "n": "Nico Greetham"
+    },
+    {
+     "c": "Sumi",
+     "n": "Amryn Khurana"
+    },
+    {
+     "c": "Vishal",
+     "n": "Tanishq Joshi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Lena Khan"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1514863,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two childhood besties join UCLA's competitive Bollywood-fusion dance team, only to find the road to the US championships is fiercer than they imagined.",
+   "popularity": 5.1646,
+   "poster_path": "/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-18",
+   "revenue": 0,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "It takes two to take over.",
+   "title": "Best of the Best",
+   "trailer": {
+    "key": "PuNATO-6a9U",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.722,
+   "vote_count": 97
+  },
+  "movie:1633263": {
+   "backdrop_path": "/43xC9erNcSoBBfZRokKgm5xb9Ek.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lui / Jane",
+     "n": "Kim Molina"
+    },
+    {
+     "c": "Julian",
+     "n": "Jerald Napoles"
+    },
+    {
+     "c": "Limbo Admin",
+     "n": "Al Tantay"
+    },
+    {
+     "c": "Jaja",
+     "n": "Althea Ruedas"
+    },
+    {
+     "c": "Justin",
+     "n": "Achilles Wenceslao"
+    },
+    {
+     "c": "Madam Chavez",
+     "n": "Candy Pangilinan"
+    },
+    {
+     "c": "Olga",
+     "n": "Yumi Lacsamana"
+    },
+    {
+     "c": "Sansan",
+     "n": "Quinn Carrillo"
+    },
+    {
+     "c": "Daisy",
+     "n": "Divine Aucina"
+    },
+    {
+     "c": "Tanod Alfie",
+     "n": "Kedebon Colim"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "RC Delos Reyes"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ],
+   "id": 1633263,
+   "industry": "world",
+   "origin_country": [
+    "PH"
+   ],
+   "original_language": "tl",
+   "overview": "A high-flying, career-driven lawyer dies prematurely due to a clerical error in heaven.",
+   "popularity": 3.2254,
+   "poster_path": "/5plgPtzwuIHUKMN044igzRkbd90.jpg",
+   "production_countries": [
+    "PH"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-04",
+   "revenue": 0,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "tl"
+   ],
+   "status": "Released",
+   "tagline": "New Life. Wrong Family.",
+   "title": "Wonderful Nightmare",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 38
+  },
+  "movie:1698863": {
+   "backdrop_path": "/z7OIUoVHZjB7aixSWR5FTAUoYTt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Odysseus",
+     "n": "Myrom Kingery"
+    },
+    {
+     "c": "Penelope",
+     "n": "Morgan Flanagan"
+    },
+    {
+     "c": "Telemachus",
+     "n": "Patrick Byrnes"
+    },
+    {
+     "c": "Antinous",
+     "n": "Dominic Keating"
+    },
+    {
+     "c": "Athena",
+     "n": "Llana Barron"
+    },
+    {
+     "c": "Polites",
+     "n": "Jordan Iverach"
+    },
+    {
+     "c": "Alkimos",
+     "n": "Tony Wood"
+    },
+    {
+     "c": "Eurylochus",
+     "n": "Ashton Rogers"
+    },
+    {
+     "c": "Lycaon",
+     "n": "Angelo Kern"
+    },
+    {
+     "c": "Narrator",
+     "n": "Martin Richard Chappell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Marcel Walz"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+   ],
+   "id": 1698863,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
+   "popularity": 15.6545,
+   "poster_path": "/b0z3ViIC5AkbJoqxmTpqyjgmoJs.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-03",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The most epic voyage of all time!",
+   "title": "The Odyssey",
+   "trailer": {
+    "key": "wD5w48WT3uo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.0,
+   "vote_count": 781
   },
   "movie:29963": {
    "backdrop_path": "/nnyaQslEbd2ST1FAhuDyF4228mb.jpg",
@@ -1032,6 +2629,160 @@
    "type": "movie",
    "vote_average": 6.763,
    "vote_count": 492
+  },
+  "movie:687163": {
+   "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Ryland Grace",
+     "n": "Ryan Gosling"
+    },
+    {
+     "c": "Eva Stratt",
+     "n": "Sandra Hüller"
+    },
+    {
+     "c": "Rocky (voice)",
+     "n": "James Ortiz"
+    },
+    {
+     "c": "Carl",
+     "n": "Lionel Boyce"
+    },
+    {
+     "c": "Olesya Ilyukhina",
+     "n": "Milana Vayntrub"
+    },
+    {
+     "c": "Yao",
+     "n": "Ken Leung"
+    },
+    {
+     "c": "Mary (voice)",
+     "n": "Priya Kansara"
+    },
+    {
+     "c": "Dr. Browne",
+     "n": "Mia Soteriou"
+    },
+    {
+     "c": "Olivia",
+     "n": "Annelle Olaleye"
+    },
+    {
+     "c": "Rekha",
+     "n": "Maya Eva Hosein"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Phil Lord",
+    "Christopher Miller"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Adventure"
+   ],
+   "id": 687163,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+   "popularity": 457.0377,
+   "poster_path": "/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-26",
+   "revenue": 684639091,
+   "runtime": 157,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "en",
+    "ja",
+    "ru",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Believe in the Hail Mary.",
+   "title": "Project Hail Mary",
+   "trailer": {
+    "key": "NKYea63tQmI",
+    "name": "Final Sneak Peak",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.625,
+   "vote_count": 8855
   },
   "movie:9263": {
    "backdrop_path": "/ic529Vlnxmp2ArVSYr5vBLoNFEK.jpg",

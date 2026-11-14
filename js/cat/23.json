@@ -1,6 +1,6 @@
 {
  "bucket": "23",
- "count": 22,
+ "count": 31,
  "titles": {
   "movie:11223": {
    "backdrop_path": "/vU6ZnOUcuP4RgB5esrWinzxWZUW.jpg",
@@ -107,6 +107,333 @@
    "type": "movie",
    "vote_average": 6.756,
    "vote_count": 485
+  },
+  "movie:1244523": {
+   "backdrop_path": "/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lena",
+     "n": "Kiana Madeira"
+    },
+    {
+     "c": "Alli",
+     "n": "Jessica Rothe"
+    },
+    {
+     "c": "Callum",
+     "n": "Will Close"
+    },
+    {
+     "c": "Miguel",
+     "n": "Juan Pablo Shuk"
+    },
+    {
+     "c": "Brennan",
+     "n": "Logan Marshall-Green"
+    },
+    {
+     "c": "Raúl",
+     "n": "Jaime Newball"
+    },
+    {
+     "c": "Shawn",
+     "n": "Jackson Bews"
+    },
+    {
+     "c": "Yaguari Leader",
+     "n": "Tonfy Andoque"
+    },
+    {
+     "c": "Reynaldo",
+     "n": "Andres Paier"
+    },
+    {
+     "c": "Garimpeiro Leader",
+     "n": "Victor Bustos"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mike P. Nelson"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Action"
+   ],
+   "id": 1244523,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
+   "popularity": 175.2564,
+   "poster_path": "/7mI13sTZcuwWEIUK9fckAb8Zmba.jpg",
+   "production_countries": [
+    "US",
+    "DE",
+    "CO"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-01",
+   "revenue": 962070,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "Witness terror on a gigantic scale.",
+   "title": "Beware Boiúna",
+   "trailer": {
+    "key": "MQKqgFVU4dQ",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 54
+  },
+  "movie:1248723": {
+   "backdrop_path": "/r3oPwy5HILetFqKlTI6BElFoAWf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Buratino",
+     "n": "Vitaliya Kornienko"
+    },
+    {
+     "c": "Papa Carlo",
+     "n": "Aleksandr Yatsenko"
+    },
+    {
+     "c": "Karabas",
+     "n": "Fyodor Bondarchuk"
+    },
+    {
+     "c": "Bazilio",
+     "n": "Alexander Petrov"
+    },
+    {
+     "c": "Alisa",
+     "n": "Viktoriya Isakova"
+    },
+    {
+     "c": "Tortila",
+     "n": "Svetlana Nemolyaeva"
+    },
+    {
+     "c": "Duremar",
+     "n": "Lev Zulkarnaev"
+    },
+    {
+     "c": "Artemon",
+     "n": "Mark Eydelshteyn"
+    },
+    {
+     "c": "Arlekin",
+     "n": "Ruzil Minekaev"
+    },
+    {
+     "c": "Piero",
+     "n": "Stepan Belozerov"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "ATP",
+   "date_kind": "release",
+   "director": [
+    "Igor Voloshin"
+   ],
+   "genres": [
+    "Family",
+    "Drama",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 1248723,
+   "industry": "world",
+   "origin_country": [
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "A screen adaptation of the beloved international fairy tale by Alexei Tolstoy in a new way. The story of everyone's favorite hero Pinocchio, his dad Carlo and their friends, told with the help of modern life-action technologies.",
+   "popularity": 1.6644,
+   "poster_path": "/An3iR7yPP6GKQi2SDscWlEMFXAC.jpg",
+   "production_countries": [
+    "RU"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-01",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Golden Key: A New Pinocchio Story",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.967,
+   "vote_count": 75
+  },
+  "movie:1370123": {
+   "backdrop_path": "/5Sfl1SdrCWNHuRcPcqJP6Vcx8I8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carmen Machi/Aída",
+     "n": "Carmen Machi"
+    },
+    {
+     "c": "Paco Léon/Luisma",
+     "n": "Paco León"
+    },
+    {
+     "c": "Miren Ibarguren/Soraya",
+     "n": "Miren Ibarguren"
+    },
+    {
+     "c": "Mariano Peña/Mauricio",
+     "n": "Mariano Peña"
+    },
+    {
+     "c": "Eduardo Casanova/Fidel",
+     "n": "Eduardo Casanova"
+    },
+    {
+     "c": "Marisol Ayuso/Eugenia",
+     "n": "Marisol Ayuso"
+    },
+    {
+     "c": "Canco Rodríguez/El Barajas",
+     "n": "Canco Rodríguez"
+    },
+    {
+     "c": "Secun de la Rosa/Toni",
+     "n": "Secun de la Rosa"
+    },
+    {
+     "c": "Pepe Viyuela/Chema",
+     "n": "Pepe Viyuela"
+    },
+    {
+     "c": "Melani Olivares/Paz",
+     "n": "Melani Olivares"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Paco León"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1370123,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "The film deals with the filming of an episode of the series with storylines that take place both within the fiction with the characters of 'Aída' and outside of it with the actors themselves and their relationships, which reflects on topics such as the limits of comedy, the work of a comedian and fame.",
+   "popularity": 2.2527,
+   "poster_path": "/h4QnoqmMPS50U7m1XByw29CJ1ws.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-30",
+   "revenue": 2000000,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "This never happened, but it could've happened.",
+   "title": "Aida, the Movie",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.788,
+   "vote_count": 85
   },
   "movie:14123": {
    "backdrop_path": "/A1CCx5tX8owG0CMQH0fvMHpkk6m.jpg",
@@ -259,6 +586,505 @@
    "type": "movie",
    "vote_average": 5.7,
    "vote_count": 484
+  },
+  "movie:1466123": {
+   "backdrop_path": "/m6lfhmhlH3zEZHlvNR3YmPd16wT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hannah Liebmann",
+     "n": "Agnès Jaoui"
+    },
+    {
+     "c": "Igor",
+     "n": "Daniel Auteuil"
+    },
+    {
+     "c": "Cora",
+     "n": "Eye Haïdara"
+    },
+    {
+     "c": "Mirabelle",
+     "n": "Claire Chust"
+    },
+    {
+     "c": "Samir",
+     "n": "Oussama Kheddam"
+    },
+    {
+     "c": "Clothilde",
+     "n": "Lucie Gallo"
+    },
+    {
+     "c": "Piazzoni",
+     "n": "Vincenzo Amato"
+    },
+    {
+     "c": "Sophie",
+     "n": "Tiphaine Daviot"
+    },
+    {
+     "c": "Baptiste",
+     "n": "Maxime Pambet"
+    },
+    {
+     "c": "Nicolas Poirier",
+     "n": "Patrick Mille"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Agnès Jaoui"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+   ],
+   "id": 1466123,
+   "industry": "world",
+   "origin_country": [
+    "BE",
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In the ruins of a Roman amphitheatre in the South of France, the cast and crew of an ambitious staging of The Marriage of Figaro is thrown off balance when troubling accusations threaten to derail the entire production.  As tensions intensify, loyalties slowly fracture and deep generational disagreement emerges, throwing their sheltered opera world into a great divide.",
+   "popularity": 0.9182,
+   "poster_path": "/qAcjyTgATrbqpv8h6jKXAaHU4u0.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-27",
+   "revenue": 0,
+   "runtime": 133,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Crescendo",
+   "trailer": {
+    "key": "HpJ_M4brFAI",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 41
+  },
+  "movie:1517123": {
+   "backdrop_path": "/hcPbtkReett3egrOnQRII2PqqvK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Veneno",
+     "n": "Victor Prieto Simental"
+    },
+    {
+     "c": "El Muñeco",
+     "n": "Osvaldo Sánchez"
+    },
+    {
+     "c": "El Eulas",
+     "n": "Mariano López Sosa"
+    },
+    {
+     "c": "El Pelón",
+     "n": "Héctor Cárdenas"
+    },
+    {
+     "c": "Lupe",
+     "n": "Obdulia Morales"
+    },
+    {
+     "c": "Licha",
+     "n": "Elizabeth Infante"
+    },
+    {
+     "c": "Hombre Mayor",
+     "n": "Victor Manuel Aguirre"
+    },
+    {
+     "c": "Omar",
+     "n": "Giovanni Ontiveros"
+    },
+    {
+     "c": "Padre de Veneno",
+     "n": "Francisco Navar Carrera"
+    },
+    {
+     "c": "Veneno Niño",
+     "n": "Neydan Ricardo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R 18+",
+   "date_kind": "release",
+   "director": [
+    "David Pablos"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 1517123,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Veneno, a rebellious young drifter, frequents roadside diners where he sleeps with truck drivers. Urgently needing a ride, he meets Muñeco, a hard-edged driver who keeps to himself. He convinces Muñeco to take him deep into the hyper-masculine world of long-haul trucking across the north of Mexico. As they travel together and an unexpected intimacy builds between them, shadows from Veneno’s past resurface, putting both their lives at risk.",
+   "popularity": 2.739,
+   "poster_path": "/u169hcLX3OsM9eRs4wtIzi0ymGZ.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-03",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "On the Road",
+   "trailer": {
+    "key": "vDFkdSdYiEs",
+    "name": "On The Road | Official US Trailer UHD | Strand Releasing",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.3,
+   "vote_count": 82
+  },
+  "movie:1628123": {
+   "backdrop_path": "/rI9VPEw13XlVZzhOcLXt3Tiweyx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "RM"
+    },
+    {
+     "c": "Self",
+     "n": "Jin"
+    },
+    {
+     "c": "Self",
+     "n": "SUGA"
+    },
+    {
+     "c": "Self",
+     "n": "j-hope"
+    },
+    {
+     "c": "Self",
+     "n": "Jimin"
+    },
+    {
+     "c": "Self",
+     "n": "V"
+    },
+    {
+     "c": "Self",
+     "n": "Jung Kook"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "date_kind": "release",
+   "director": [
+    "Hamish Hamilton",
+    "Cameron Whitelaw"
+   ],
+   "genres": [
+    "Music"
+   ],
+   "id": 1628123,
+   "industry": "world",
+   "origin_country": [
+    "KR",
+    "GB"
+   ],
+   "original_language": "ko",
+   "overview": "BTS is back. The iconic group returns to the stage for a live reunion concert to perform legendary hits and unveil brand-new tracks.",
+   "popularity": 2.7058,
+   "poster_path": "/tztql23n2UCoM76KyCSKoZxVUL1.jpg",
+   "production_countries": [
+    "GB",
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-21",
+   "revenue": 0,
+   "runtime": 66,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "BTS THE COMEBACK LIVE | ARIRANG",
+   "trailer": {
+    "key": "X6EHtzcmiPw",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.65,
+   "vote_count": 120
+  },
+  "movie:1630423": {
+   "backdrop_path": "/xA6AM5MvEkieZKlv1Tn3sN23I7i.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lhan",
+     "n": "Pimchanok Luevisadpaibul"
+    },
+    {
+     "c": "Pran",
+     "n": "Thanapob Leeratanakachorn"
+    },
+    {
+     "c": "M",
+     "n": "Sivakorn Adulsuttikul"
+    },
+    {
+     "c": "Poh",
+     "n": "Chartayodom Hiranyasthiti"
+    },
+    {
+     "c": "Pruek",
+     "n": "Toni Rakkaen"
+    },
+    {
+     "c": "Lhek",
+     "n": "Teerawat Mulvilai"
+    },
+    {
+     "c": "Deaw",
+     "n": "Dan Chupong"
+    },
+    {
+     "c": "Ja",
+     "n": "Kessarin Ektawatkul"
+    },
+    {
+     "c": "Chaba",
+     "n": "Chanudom Suksathit"
+    },
+    {
+     "c": "Doctor Der",
+     "n": "Nikorn Saetang"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Taweewat Wantha"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Romance"
+   ],
+   "id": 1630423,
+   "industry": "world",
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces.",
+   "popularity": 13.1532,
+   "poster_path": "/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-06",
+   "revenue": 0,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "th"
+   ],
+   "status": "Released",
+   "tagline": "Love, Sacrifice and Vengeance.",
+   "title": "My Dearest Assassin",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.542,
+   "vote_count": 325
+  },
+  "movie:1729723": {
+   "backdrop_path": "/rFjlsx5IygrHmBqr0KsVolAHhy7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Homer Simpson / Barney Gumble (voice)",
+     "n": "Dan Castellaneta"
+    },
+    {
+     "c": "Bart Simpson / Ralph Wiggum (voice)",
+     "n": "Nancy Cartwright"
+    },
+    {
+     "c": "Marge Simpson / Jacqueline Bouvier (voice)",
+     "n": "Julie Kavner"
+    },
+    {
+     "c": "Lisa Simpson (voice)",
+     "n": "Yeardley Smith"
+    },
+    {
+     "c": "Hailey (voice)",
+     "n": "Patti Harrison"
+    },
+    {
+     "c": "Lydia (voice)",
+     "n": "Demi Moore"
+    },
+    {
+     "c": "Lenny Leonard (voice)",
+     "n": "Harry Shearer"
+    },
+    {
+     "c": "Carl Carlson (voice)",
+     "n": "Alex Désert"
+    },
+    {
+     "c": "Chief Wiggum (voice)",
+     "n": "Hank Azaria"
+    },
+    {
+     "c": "Dr. Thurston (voice)",
+     "n": "Tress MacNeille"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Matthew Faughnan"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 1729723,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A defective lamp reveals a heartbreaking truth about what Homer believes is reality, and an AI-powered tablet befriends and controls Maggie. The Simpsons struggle to find the light through two dark tales of the curious and bizarre.",
+   "popularity": 2.4848,
+   "poster_path": "/1zdGvJAuuXC7dA3eV61OtUJNyjQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-26",
+   "revenue": 0,
+   "runtime": 27,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Yellow Mirror",
+   "trailer": {
+    "key": "zNyZ6OlMbh0",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.103,
+   "vote_count": 73
   },
   "movie:20123": {
    "backdrop_path": "/kWNvrV0lZY1kYGo50hIUq4n76vC.jpg",
@@ -473,6 +1299,100 @@
    "type": "movie",
    "vote_average": 7.1,
    "vote_count": 493
+  },
+  "movie:791523": {
+   "backdrop_path": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+   "budget": 100000000,
+   "cast": [
+    {
+     "c": "Prue McKeel (voice)",
+     "n": "Peyton Elizabeth Lee"
+    },
+    {
+     "c": "Curtis Mehlberg (voice)",
+     "n": "Jacob Tremblay"
+    },
+    {
+     "c": "Alexandra (voice)",
+     "n": "Carey Mulligan"
+    },
+    {
+     "c": "Brenden (voice)",
+     "n": "Mahershala Ali"
+    },
+    {
+     "c": "Owl Rex (voice)",
+     "n": "Richard E. Grant"
+    },
+    {
+     "c": "The General (voice)",
+     "n": "Angela Bassett"
+    },
+    {
+     "c": "Septima (voice)",
+     "n": "Awkwafina"
+    },
+    {
+     "c": "Niamh (voice)",
+     "n": "Amandla Stenberg"
+    },
+    {
+     "c": "Maxim (voice)",
+     "n": "Tom Waits"
+    },
+    {
+     "c": "Dmitri (voice)",
+     "n": "Charlie Day"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Travis Knight"
+   ],
+   "genres": [
+    "Animation",
+    "Fantasy",
+    "Adventure"
+   ],
+   "id": 791523,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+   "popularity": 81.4687,
+   "poster_path": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-11-13",
+   "revenue": 67760367,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "How far would you go for those you love?",
+   "title": "Wildwood",
+   "trailer": {
+    "key": "bJQGtSeLPII",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.471,
+   "vote_count": 274
   },
   "movie:808023": {
    "backdrop_path": "/aSglK0vFI50etQENUq4EIcwfoMR.jpg",

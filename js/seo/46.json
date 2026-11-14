@@ -1,7 +1,578 @@
 {
  "bucket": "46",
- "count": 9,
+ "count": 18,
  "titles": {
+  "movie:1196946": {
+   "d": "Ikkis (2026): History/War film. Story: Second Lieutenant and India's youngest Param Vir… See cast, TMDB rating 6.6/10, and release date 1 January 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/wbhoYwvqgadchfMgUOfOp87QZDS.jpg",
+   "industry": "bollywood",
+   "k": "Ikkis, Ikkis movie, Ikkis cast, Ikkis story, Ikkis box office collection, Ikkis budget, Ikkis review, Ikkis rating, Ikkis release date, Ikkis History, Ikkis War, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dharmendra"
+     },
+     {
+      "@type": "Person",
+      "name": "Jaideep Ahlawat"
+     },
+     {
+      "@type": "Person",
+      "name": "Agastya Nanda"
+     },
+     {
+      "@type": "Person",
+      "name": "Simar Bhatia"
+     },
+     {
+      "@type": "Person",
+      "name": "Shree Bishnoi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 29,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Ikkis (2026): History/War film. Story: Second Lieutenant and India's youngest Param Vir… See cast, TMDB rating 6.6/10, and release date 1 January 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sriram Raghavan"
+     }
+    ],
+    "duration": "PT148M",
+    "genre": [
+     "History",
+     "War"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wbhoYwvqgadchfMgUOfOp87QZDS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1196946",
+    "name": "Ikkis",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1196946"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ikkis (2026)</h1>\n<p class=\"ssr-lead\">Second Lieutenant and India&#x27;s youngest Param Vir Chakra recipient, Arun Khetarpal, gave his life fighting for his battalion and the country during the 1971 Battle of Basantar. Ikkis also takes a reflective look at the futility of war through the eyes of Khetarpal&#x27;s father, who visits his ancestral home in Sargodha and Alma Mater for reunion, which now happens to be in post-partition Pakistan, 30 years later.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 January 2026</li><li>Runtime: 148 minutes</li><li>Director: Sriram Raghavan</li><li>Genres: History, War, Drama</li><li>TMDB rating: 6.6/10 (29 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dharmendra as Brig. Madan Lal Khetarpal</li><li>Jaideep Ahlawat as Brig. Jaan Mohammad Khan</li><li>Agastya Nanda as 2nd Lt Arun Khetarpal</li><li>Simar Bhatia as Kiran Kochar</li><li>Shree Bishnoi as SWR Parag Singh</li><li>Suhasini Mulay as Mrs. Maheshwari Khetarpal</li><li>Rahul Dev as Lt Col Hanut Singh</li><li>Sikandar Kher as RIS Sagat Singh</li><li>Ekavali Khanna as Maryam Nisar</li><li>Vivaan Shah as Capt. Vijender Malhotra</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Ikkis (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1228246": {
+   "d": "Five Nights at Freddy's 2 (2025): Horror/Thriller film. Story: One year since the supernatural nightmare at Freddy… See cast and budget $36M.",
+   "img": "https://image.tmdb.org/t/p/w780/laWV5ohHOxYnCkvrJcZf6IDOIDO.jpg",
+   "industry": "world",
+   "k": "Five Nights at Freddy's 2, Five Nights at Freddy's 2 movie, Five Nights at Freddy's 2 cast, Five Nights at Freddy's 2 story, Five Nights at Freddy's 2 box office collection, Five Nights at Freddy's 2 budget, Five Nights at Freddy's 2 review, Five Nights at Freddy's 2 rating, Five Nights at Freddy's 2 release date, Five Nights at Freddy's 2 trailer, Five Nights at Freddy's 2 Horror, Five Nights at Freddy's 2 Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Josh Hutcherson"
+     },
+     {
+      "@type": "Person",
+      "name": "Piper Rubio"
+     },
+     {
+      "@type": "Person",
+      "name": "Elizabeth Lail"
+     },
+     {
+      "@type": "Person",
+      "name": "Matthew Lillard"
+     },
+     {
+      "@type": "Person",
+      "name": "Freddy Carter"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1254,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Five Nights at Freddy's 2 (2025): Horror/Thriller film. Story: One year since the supernatural nightmare at Freddy… See cast and budget $36M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Emma Tammi"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/laWV5ohHOxYnCkvrJcZf6IDOIDO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1228246",
+    "name": "Five Nights at Freddy's 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1228246"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Five Nights at Freddy&#x27;s 2 (2025)</h1>\n<p class=\"ssr-lead\">One year since the supernatural nightmare at Freddy Fazbear&#x27;s Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town&#x27;s first ever Fazfest. With the truth kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the real origin of Freddy&#x27;s, and unleash a decades-hidden horror.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 December 2025</li><li>Runtime: 104 minutes</li><li>Director: Emma Tammi</li><li>Genres: Horror, Thriller</li><li>Budget: $36M</li><li>TMDB rating: 6.6/10 (1254 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Josh Hutcherson as Mike</li><li>Piper Rubio as Abby</li><li>Elizabeth Lail as Vanessa</li><li>Matthew Lillard as William Afton / Yellow Rabbit</li><li>Freddy Carter as Michael</li><li>Wayne Knight as Mr. Berg</li><li>Mckenna Grace as Lisa</li><li>David Andrew Calvillo as Rob</li><li>Teo Briones as Alex</li><li>Audrey Lynn-Marie as Charlotte</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Five Nights at Freddy's 2 (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1284046": {
+   "d": "Onslaught (2026): Action/Thriller film. Story: When a rogue squad of genetically engineered super… See cast, budget $15M, and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+   "industry": "world",
+   "k": "Onslaught, Onslaught movie, Onslaught cast, Onslaught story, Onslaught box office collection, Onslaught budget, Onslaught review, Onslaught rating, Onslaught release date, Onslaught trailer, Onslaught Action, Onslaught Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Adria Arjona"
+     },
+     {
+      "@type": "Person",
+      "name": "Dan Stevens"
+     },
+     {
+      "@type": "Person",
+      "name": "Eric Wareheim"
+     },
+     {
+      "@type": "Person",
+      "name": "Reginald VelJohnson"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Biehn"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 147,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Onslaught (2026): Action/Thriller film. Story: When a rogue squad of genetically engineered super… See cast, budget $15M, and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Adam Wingard"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1284046",
+    "name": "Onslaught",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1284046"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Onslaught (2026)</h1>\n<p class=\"ssr-lead\">When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 September 2026</li><li>Runtime: 92 minutes</li><li>Director: Adam Wingard</li><li>Genres: Action, Thriller, Horror</li><li>Budget: $15M</li><li>TMDB rating: 5.6/10 (147 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Adria Arjona as Celeste</li><li>Dan Stevens as Hans Kammler</li><li>Eric Wareheim as Kovacks</li><li>Reginald VelJohnson as Josiah</li><li>Michael Biehn as Baylor</li><li>Blake Kennedy as Daisy</li><li>Alex Pereira as The Butcher</li><li>Drew Starkey as Cyrus</li><li>Rebecca Hall as Hanna Kammler</li><li>Jacob Scipio as Griffin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Onslaught (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1288246": {
+   "d": "The Huntsman (2026): Thriller/Mystery film. Story: When an ICU nurse volunteers to help a coma patient… See cast and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/woAG66LiyVHaueMVLBkNbYSgJ4c.jpg",
+   "industry": "world",
+   "k": "The Huntsman, The Huntsman movie, The Huntsman cast, The Huntsman story, The Huntsman box office collection, The Huntsman budget, The Huntsman review, The Huntsman rating, The Huntsman release date, The Huntsman trailer, The Huntsman Thriller, The Huntsman Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shawn Ashmore"
+     },
+     {
+      "@type": "Person",
+      "name": "Elizabeth Mitchell"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessy Schram"
+     },
+     {
+      "@type": "Person",
+      "name": "Garret Dillahunt"
+     },
+     {
+      "@type": "Person",
+      "name": "Brent Bailey"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 31,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "The Huntsman (2026): Thriller/Mystery film. Story: When an ICU nurse volunteers to help a coma patient… See cast and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kyle Kauwika Harris"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Thriller",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/woAG66LiyVHaueMVLBkNbYSgJ4c.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1288246",
+    "name": "The Huntsman",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1288246"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Huntsman (2026)</h1>\n<p class=\"ssr-lead\">When an ICU nurse volunteers to help a coma patient accused of murdering six women, he’s drawn into a chilling web of lies, obsession, and deadly secrets as a detective races to stop the killer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 May 2026</li><li>Runtime: 103 minutes</li><li>Director: Kyle Kauwika Harris</li><li>Genres: Thriller, Mystery</li><li>TMDB rating: 6.2/10 (31 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shawn Ashmore as Max Mason</li><li>Elizabeth Mitchell as Jolene Raider</li><li>Jessy Schram as Darby Albright</li><li>Garret Dillahunt as Lincoln Raider</li><li>Brent Bailey as Reynolds</li><li>Maddison Bullock as Ava</li><li>Jobie James as Detective</li><li>John W Heath as Physician</li><li>Adam Hampton as Daniel</li><li>Bruce Davis as Capt.Burnham</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "The Huntsman (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1297446": {
+   "d": "Slanted (2026): Horror/Comedy film. Story: An insecure Chinese-American teenager undergoes… See cast, TMDB rating 5.9/10, and release date 13 March 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/nHOs2CG7zgl7gJIdWA4KvIiDEBU.jpg",
+   "industry": "world",
+   "k": "Slanted, Slanted movie, Slanted cast, Slanted story, Slanted box office collection, Slanted budget, Slanted review, Slanted rating, Slanted release date, Slanted trailer, Slanted Horror, Slanted Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shirley Chen"
+     },
+     {
+      "@type": "Person",
+      "name": "Mckenna Grace"
+     },
+     {
+      "@type": "Person",
+      "name": "Amelie Zilber"
+     },
+     {
+      "@type": "Person",
+      "name": "Vivian Wu"
+     },
+     {
+      "@type": "Person",
+      "name": "Maitreyi Ramakrishnan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 67,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Slanted (2026): Horror/Comedy film. Story: An insecure Chinese-American teenager undergoes… See cast, TMDB rating 5.9/10, and release date 13 March 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Amy Wang"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Horror",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nHOs2CG7zgl7gJIdWA4KvIiDEBU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1297446",
+    "name": "Slanted",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1297446"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Slanted (2026)</h1>\n<p class=\"ssr-lead\">An insecure Chinese-American teenager undergoes experimental surgery to appear white, hoping to secure the prom queen title and peer acceptance.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 March 2026</li><li>Runtime: 104 minutes</li><li>Director: Amy Wang</li><li>Genres: Horror, Comedy, Science Fiction</li><li>TMDB rating: 5.9/10 (67 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shirley Chen as Joan Huang</li><li>Mckenna Grace as Jo Hunt</li><li>Amelie Zilber as Olivia Hammond</li><li>Vivian Wu as Sofia Huang</li><li>Maitreyi Ramakrishnan as Brindha</li><li>Fang Du as Roger Huang</li><li>Nicholas Myers as Nash</li><li>R. Keith Harris as Willie Singer</li><li>Kristen Cui as Young Joan</li><li>Sarah Kopkin as Greta</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Paramount Plus Premium, Paramount Plus Essential, Paramount+ Amazon Channel, Paramount+ Roku Premium Channel</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Slanted (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1375646": {
+   "d": "Colony (2026): Horror/Action film. Story: Professor Se-jeong is thrust into a bloody nightmare… See cast, budget $12M, and TMDB rating 8.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/iGViga8sDCET1S6GfwOlAbuhSGQ.jpg",
+   "industry": "world",
+   "k": "Colony, Colony movie, Colony cast, Colony story, Colony box office collection, Colony budget, Colony review, Colony rating, Colony release date, Colony trailer, Colony Horror, Colony Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gianna Jun"
+     },
+     {
+      "@type": "Person",
+      "name": "Koo Kyo-hwan"
+     },
+     {
+      "@type": "Person",
+      "name": "Ji Chang-wook"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Shin-rock"
+     },
+     {
+      "@type": "Person",
+      "name": "Shin Hyun-been"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1589,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "Colony (2026): Horror/Action film. Story: Professor Se-jeong is thrust into a bloody nightmare… See cast, budget $12M, and TMDB rating 8.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Yeon Sang-ho"
+     }
+    ],
+    "duration": "PT123M",
+    "genre": [
+     "Horror",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iGViga8sDCET1S6GfwOlAbuhSGQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1375646",
+    "name": "Colony",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1375646"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Colony (2026)</h1>\n<p class=\"ssr-lead\">Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 June 2026</li><li>Runtime: 123 minutes</li><li>Director: Yeon Sang-ho</li><li>Genres: Horror, Action, Science Fiction</li><li>Budget: $12M</li><li>TMDB rating: 8.2/10 (1589 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gianna Jun as Kwon Se-jeong</li><li>Koo Kyo-hwan as Seo Young-cheol</li><li>Ji Chang-wook as Choi Hyun-seok</li><li>Kim Shin-rock as Choi Hyun-hee</li><li>Shin Hyun-been as Kong Seol-hee</li><li>Go Soo as Han Kyu-seong</li><li>Lee Joong-ok as Lee Bong-seok</li><li>Kim Jong-tae as Kang Woo-cheol</li><li>Hwang Jae-yeol as Citizen</li><li>Lee Dam-hee as Lee So-eun</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Colony (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1462146": {
+   "d": "S4: The Bob Lazar Story (2026): Documentary film. Story: Over 35 years after Bob Lazar's revelations, this… See cast and TMDB rating 8.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/377Bqi11cmWEQeOAs7GOkCEfazk.jpg",
+   "industry": "world",
+   "k": "S4: The Bob Lazar Story, S4: The Bob Lazar Story movie, S4: The Bob Lazar Story cast, S4: The Bob Lazar Story story, S4: The Bob Lazar Story box office collection, S4: The Bob Lazar Story budget, S4: The Bob Lazar Story review, S4: The Bob Lazar Story rating, S4: The Bob Lazar Story release date, S4: The Bob Lazar Story Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bob Lazar"
+     },
+     {
+      "@type": "Person",
+      "name": "George Knapp"
+     },
+     {
+      "@type": "Person",
+      "name": "Gene Huff"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 54,
+     "ratingValue": 8.4,
+     "worstRating": 0
+    },
+    "description": "S4: The Bob Lazar Story (2026): Documentary film. Story: Over 35 years after Bob Lazar's revelations, this… See cast and TMDB rating 8.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Luigi Vendittelli"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/377Bqi11cmWEQeOAs7GOkCEfazk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1462146",
+    "name": "S4: The Bob Lazar Story",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1462146"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>S4: The Bob Lazar Story (2026)</h1>\n<p class=\"ssr-lead\">Over 35 years after Bob Lazar&#x27;s revelations, this documentary exposes secrets of a facility the government still denies. Featuring Lazar&#x27;s testimony, recreations, and new evidence, it reopens a case that continues to spark global curiosity</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 April 2026</li><li>Runtime: 114 minutes</li><li>Director: Luigi Vendittelli</li><li>Genres: Documentary</li><li>TMDB rating: 8.4/10 (54 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bob Lazar as Self</li><li>George Knapp as Self</li><li>Gene Huff as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "S4: The Bob Lazar Story (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1476746": {
+   "d": "The Florist (2026): Action/Thriller film. Story: A quiet horticulturalist harboring a secret life as a… See cast and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jpH1VRw74w0vvPTY0ryKEtMIXc.jpg",
+   "industry": "world",
+   "k": "The Florist, The Florist movie, The Florist cast, The Florist story, The Florist box office collection, The Florist budget, The Florist review, The Florist rating, The Florist release date, The Florist trailer, The Florist Action, The Florist Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dennis Quaid"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean Reno"
+     },
+     {
+      "@type": "Person",
+      "name": "Sky Katz"
+     },
+     {
+      "@type": "Person",
+      "name": "Jim Klock"
+     },
+     {
+      "@type": "Person",
+      "name": "Leonidas Gulaptis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 36,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "The Florist (2026): Action/Thriller film. Story: A quiet horticulturalist harboring a secret life as a… See cast and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Babak Najafi"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jpH1VRw74w0vvPTY0ryKEtMIXc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1476746",
+    "name": "The Florist",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1476746"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Florist (2026)</h1>\n<p class=\"ssr-lead\">A quiet horticulturalist harboring a secret life as a lethal assassin finds his true identity jeopardized when he forms an unlikely friendship with a witnesses to police corruption.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 September 2026</li><li>Runtime: 99 minutes</li><li>Director: Babak Najafi</li><li>Genres: Action, Thriller</li><li>TMDB rating: 5.7/10 (36 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dennis Quaid as Carl Rikker</li><li>Jean Reno as Charlie</li><li>Sky Katz as Layla</li><li>Jim Klock as Deckard</li><li>Leonidas Gulaptis as Woodrock</li><li>Elsa Mollien as Rebecca</li><li>Gabriel &#x27;G-Rod&#x27; Rodriguez as Jason</li><li>Dominick LaRuffa Jr. as Lloyd</li><li>Anna Schafer</li><li>Dylan Flashner as Detective Hutton</li></ul>\n</article>",
+   "t": "The Florist (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1684246": {
+   "d": "Untold UK: Vinnie Jones (2026): History/Documentary film. Story: This is the story of Vinnie Jones's rise, fall, and… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/29NF9iyZw2dztiKgV8r4dvHuTSx.jpg",
+   "industry": "world",
+   "k": "Untold UK: Vinnie Jones, Untold UK: Vinnie Jones movie, Untold UK: Vinnie Jones cast, Untold UK: Vinnie Jones story, Untold UK: Vinnie Jones box office collection, Untold UK: Vinnie Jones budget, Untold UK: Vinnie Jones review, Untold UK: Vinnie Jones rating, Untold UK: Vinnie Jones release date, Untold UK: Vinnie Jones trailer, Untold UK: Vinnie Jones History, Untold UK: Vinnie Jones Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vinnie Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "John Fashanu"
+     },
+     {
+      "@type": "Person",
+      "name": "Dave Bassett"
+     },
+     {
+      "@type": "Person",
+      "name": "Bobby Gould"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Hammam"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 31,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Untold UK: Vinnie Jones (2026): History/Documentary film. Story: This is the story of Vinnie Jones's rise, fall, and… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Tryhorn"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Nicholas"
+     }
+    ],
+    "duration": "PT77M",
+    "genre": [
+     "History",
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/29NF9iyZw2dztiKgV8r4dvHuTSx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1684246",
+    "name": "Untold UK: Vinnie Jones",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1684246"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Untold UK: Vinnie Jones (2026)</h1>\n<p class=\"ssr-lead\">This is the story of Vinnie Jones&#x27;s rise, fall, and comeback against odds – and red cards – from one of football&#x27;s most notorious hard men to FA cup winner.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 May 2026</li><li>Runtime: 77 minutes</li><li>Director: David Tryhorn, Ben Nicholas</li><li>Genres: History, Documentary</li><li>TMDB rating: 6.5/10 (31 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vinnie Jones as Self</li><li>John Fashanu as Self</li><li>Dave Bassett as Self</li><li>Bobby Gould as Self</li><li>Sam Hammam as Self</li><li>Piers Morgan as Self</li><li>Guy Ritchie as Self - (archive footage)</li><li>Sting as Self - (archive footage)</li><li>Brad Pitt as Self - (archive footage)</li><li>Ted Oliver as Self - (archive footage)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Untold UK: Vinnie Jones (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:475946": {
    "d": "Blade Runner: Black Out 2022 (2017): Animation/Science Fiction film. Story: This animated short revolves around the events… See cast and TMDB rating 7.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/7gZR9nztTzZIskcRCuDfhvrd5Ds.jpg",

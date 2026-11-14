@@ -1,6 +1,6 @@
 {
  "bucket": "06",
- "count": 22,
+ "count": 32,
  "titles": {
   "movie:10606": {
    "d": "The Philadelphia Experiment (1984): Science Fiction/Adventure film. Story: Based on an \"actual event\" that took place in 1943. See cast and budget $9M.",
@@ -130,6 +130,133 @@
    "t": "Cockneys vs Zombies (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2012"
   },
+  "movie:1159206": {
+   "d": "Father Mother Sister Brother (2025): Drama film. Story: Estranged siblings reunite after years apart, forced… See cast and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/n36zycrAqHn2uzx65IeAdnsZcMj.jpg",
+   "industry": "world",
+   "k": "Father Mother Sister Brother, Father Mother Sister Brother movie, Father Mother Sister Brother cast, Father Mother Sister Brother story, Father Mother Sister Brother box office collection, Father Mother Sister Brother budget, Father Mother Sister Brother review, Father Mother Sister Brother rating, Father Mother Sister Brother release date, Father Mother Sister Brother trailer, Father Mother Sister Brother Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tom Waits"
+     },
+     {
+      "@type": "Person",
+      "name": "Adam Driver"
+     },
+     {
+      "@type": "Person",
+      "name": "Mayim Bialik"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlotte Rampling"
+     },
+     {
+      "@type": "Person",
+      "name": "Cate Blanchett"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 366,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Father Mother Sister Brother (2025): Drama film. Story: Estranged siblings reunite after years apart, forced… See cast and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jim Jarmusch"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/n36zycrAqHn2uzx65IeAdnsZcMj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1159206",
+    "name": "Father Mother Sister Brother",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1159206"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Father Mother Sister Brother (2025)</h1>\n<p class=\"ssr-lead\">Estranged siblings reunite after years apart, forced to confront unresolved tensions and reevaluate their strained relationships with their emotionally distant parents.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 December 2025</li><li>Runtime: 111 minutes</li><li>Director: Jim Jarmusch</li><li>Genres: Drama</li><li>TMDB rating: 6.4/10 (366 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tom Waits as Father</li><li>Adam Driver as Jeff</li><li>Mayim Bialik as Emily</li><li>Charlotte Rampling as Mother</li><li>Cate Blanchett as Timothea</li><li>Vicky Krieps as Lilith</li><li>Sarah Greene as Jeanette</li><li>Lillah Indya Moore as Skye</li><li>Luka Sabbat as Billy</li><li>Françoise Lebrun as Madame Gautier</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI, MUBI Amazon Channel</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Father Mother Sister Brother (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1185806": {
+   "d": "PAW Patrol: The Dino Movie (2026): Animation/Adventure film. Story: The Paw Patrol lands on a mysterious dinosaur island… See cast and budget $40M.",
+   "img": "https://image.tmdb.org/t/p/w780/dY4LyVSvjk9dN20YsxuouaMIMox.jpg",
+   "industry": "world",
+   "k": "PAW Patrol: The Dino Movie, PAW Patrol: The Dino Movie movie, PAW Patrol: The Dino Movie cast, PAW Patrol: The Dino Movie story, PAW Patrol: The Dino Movie box office collection, PAW Patrol: The Dino Movie budget, PAW Patrol: The Dino Movie review, PAW Patrol: The Dino Movie rating, PAW Patrol: The Dino Movie release date, PAW Patrol: The Dino Movie trailer, PAW Patrol: The Dino Movie Animation, PAW Patrol: The Dino Movie Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Carter Young"
+     },
+     {
+      "@type": "Person",
+      "name": "Mckenna Grace"
+     },
+     {
+      "@type": "Person",
+      "name": "Terry Crews"
+     },
+     {
+      "@type": "Person",
+      "name": "Meredith MacNeill"
+     },
+     {
+      "@type": "Person",
+      "name": "Ron Pardo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 204,
+     "ratingValue": 8.1,
+     "worstRating": 0
+    },
+    "description": "PAW Patrol: The Dino Movie (2026): Animation/Adventure film. Story: The Paw Patrol lands on a mysterious dinosaur island… See cast and budget $40M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Cal Brunker"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Animation",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dY4LyVSvjk9dN20YsxuouaMIMox.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1185806",
+    "name": "PAW Patrol: The Dino Movie",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1185806"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>PAW Patrol: The Dino Movie (2026)</h1>\n<p class=\"ssr-lead\">The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger&#x27;s reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 July 2026</li><li>Runtime: 88 minutes</li><li>Director: Cal Brunker</li><li>Genres: Animation, Adventure, Family, Fantasy, Comedy</li><li>Budget: $40M</li><li>TMDB rating: 8.1/10 (204 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Carter Young as Marshall (voice)</li><li>Mckenna Grace as Skye (voice)</li><li>Terry Crews as Alistair Stonewall (voice)</li><li>Meredith MacNeill as Harper Cutlass (voice)</li><li>Ron Pardo as Mayor Humdinger / Cap’n Turbot (voice)</li><li>Jennifer Hudson as Lilian Ledes (voice)</li><li>Hayden Chemberlen as Rex (voice)</li><li>Fortune Feimster as Eugenia Bunsen (voice)</li><li>Jameela Jamil as Heidi Pothesis (voice)</li><li>Rain Janjua as Chase (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Zee5, Amazon Video</li></ul>\n</article>",
+   "t": "PAW Patrol: The Dino Movie (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:121606": {
    "d": "Resolution (2013): Horror/Thriller film. Story: A man imprisons his estranged junkie friend in an… See cast, TMDB rating 6.3/10, and release date 27 June 2013.",
    "img": "https://image.tmdb.org/t/p/w780/fF5XLTGoZEsP84wcDF3HtGNp5zm.jpg",
@@ -198,6 +325,320 @@
    "t": "Resolution (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
   },
+  "movie:1274706": {
+   "d": "The Marked Woman (2026): Thriller/Crime film. Story: When a woman is found in a shipping container with no… See cast and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/2fgcRuaseQ9RIiTAUDbLtymnj2z.jpg",
+   "industry": "world",
+   "k": "The Marked Woman, The Marked Woman movie, The Marked Woman cast, The Marked Woman story, The Marked Woman box office collection, The Marked Woman budget, The Marked Woman review, The Marked Woman rating, The Marked Woman release date, The Marked Woman trailer, The Marked Woman Thriller, The Marked Woman Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Candela Peña"
+     },
+     {
+      "@type": "Person",
+      "name": "Ana Rujas"
+     },
+     {
+      "@type": "Person",
+      "name": "Pol López"
+     },
+     {
+      "@type": "Person",
+      "name": "Manolo Solo"
+     },
+     {
+      "@type": "Person",
+      "name": "Kira Miró"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 136,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "The Marked Woman (2026): Thriller/Crime film. Story: When a woman is found in a shipping container with no… See cast and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gabe Ibáñez"
+     }
+    ],
+    "duration": "PT109M",
+    "genre": [
+     "Thriller",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2fgcRuaseQ9RIiTAUDbLtymnj2z.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1274706",
+    "name": "The Marked Woman",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1274706"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Marked Woman (2026)</h1>\n<p class=\"ssr-lead\">When a woman is found in a shipping container with no memory of who she is, two detectives race to figure out her identity — and who wants her dead.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 June 2026</li><li>Runtime: 109 minutes</li><li>Director: Gabe Ibáñez</li><li>Genres: Thriller, Crime</li><li>TMDB rating: 5.6/10 (136 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Candela Peña as Anna Ripoll</li><li>Ana Rujas as Desconocida/Clara</li><li>Pol López as Zárate</li><li>Manolo Solo as Falcó</li><li>Kira Miró as Lucía</li><li>Esther Noya as Enfermera Urgencias</li><li>Luka Peroš as Lolo Rojas</li><li>Swit Eme as Ferrán</li><li>Pilar Nogales as Amalia</li><li>Montse Germán as Neuróloga</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Marked Woman (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1340206": {
+   "d": "Tuner (2026): Crime/Thriller film. Story: A gifted piano tuner's meticulous skills for tuning… See cast, budget $7M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+   "industry": "world",
+   "k": "Tuner, Tuner movie, Tuner cast, Tuner story, Tuner box office collection, Tuner budget, Tuner review, Tuner rating, Tuner release date, Tuner trailer, Tuner Crime, Tuner Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Leo Woodall"
+     },
+     {
+      "@type": "Person",
+      "name": "Dustin Hoffman"
+     },
+     {
+      "@type": "Person",
+      "name": "Lior Raz"
+     },
+     {
+      "@type": "Person",
+      "name": "Havana Rose Liu"
+     },
+     {
+      "@type": "Person",
+      "name": "Tovah Feldshuh"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 672,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Tuner (2026): Crime/Thriller film. Story: A gifted piano tuner's meticulous skills for tuning… See cast, budget $7M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Daniel Roher"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1340206",
+    "name": "Tuner",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1340206"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Tuner (2026)</h1>\n<p class=\"ssr-lead\">A gifted piano tuner&#x27;s meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 May 2026</li><li>Runtime: 108 minutes</li><li>Director: Daniel Roher</li><li>Genres: Crime, Thriller</li><li>Budget: $7M</li><li>TMDB rating: 7.6/10 (672 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Leo Woodall as Niki White</li><li>Dustin Hoffman as Harry Horowitz</li><li>Lior Raz as Uri</li><li>Havana Rose Liu as Ruthie</li><li>Tovah Feldshuh as Marla</li><li>Gil Cohen as Yoni</li><li>Nissan Sakira as Benny</li><li>Alisen Richmond-Peck as Mansion Homeowner</li><li>Ellyn Jameson as Ellyn</li><li>Tim Blair as Studio Manager</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Tuner (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1366906": {
+   "d": "The Gates (2026): Thriller film. Story: Three friends on a road trip witness a murder inside… See cast, TMDB rating 7.3/10, and release date 13 March 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/1pI2Crm9YjSDbH75NZaW8FrYjs9.jpg",
+   "industry": "world",
+   "k": "The Gates, The Gates movie, The Gates cast, The Gates story, The Gates box office collection, The Gates budget, The Gates review, The Gates rating, The Gates release date, The Gates trailer, The Gates Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mason Gooding"
+     },
+     {
+      "@type": "Person",
+      "name": "Algee Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Keith Powers"
+     },
+     {
+      "@type": "Person",
+      "name": "James Van Der Beek"
+     },
+     {
+      "@type": "Person",
+      "name": "Brad Leland"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 113,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "The Gates (2026): Thriller film. Story: Three friends on a road trip witness a murder inside… See cast, TMDB rating 7.3/10, and release date 13 March 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Burr"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1pI2Crm9YjSDbH75NZaW8FrYjs9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1366906",
+    "name": "The Gates",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1366906"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Gates (2026)</h1>\n<p class=\"ssr-lead\">Three friends on a road trip witness a murder inside a gated community, only to become trapped and hunted by its residents as suspicion, fear and a sinister patriarch threaten to tear them apart.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 March 2026</li><li>Runtime: 99 minutes</li><li>Director: John Burr</li><li>Genres: Thriller</li><li>TMDB rating: 7.3/10 (113 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mason Gooding as Derek</li><li>Algee Smith as Kevin</li><li>Keith Powers as Tyon</li><li>James Van Der Beek as Jacob</li><li>Brad Leland as Christopher</li><li>Kylr Coffman as Officer Bobby</li><li>Elle Evans as Elizabeth</li><li>Sofia Hublitz as Roxy</li><li>Aliyah Celeste as Julissa</li><li>Rob Gallavan as Officer Horton</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Gates (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1432706": {
+   "d": "Bury the Devil (2026): Horror/Thriller film. Story: When a hospice nurse finds herself trapped with a… See cast and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lWVnUBYG7nIb84gxa3tSeP8CghA.jpg",
+   "industry": "world",
+   "k": "Bury the Devil, Bury the Devil movie, Bury the Devil cast, Bury the Devil story, Bury the Devil box office collection, Bury the Devil budget, Bury the Devil review, Bury the Devil rating, Bury the Devil release date, Bury the Devil trailer, Bury the Devil Horror, Bury the Devil Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Emmanuelle Lussier Martinez"
+     },
+     {
+      "@type": "Person",
+      "name": "Bill Rowat"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Antony Krupa"
+     },
+     {
+      "@type": "Person",
+      "name": "Dawn Ford"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 34,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Bury the Devil (2026): Horror/Thriller film. Story: When a hospice nurse finds herself trapped with a… See cast and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Adam O'Brien"
+     }
+    ],
+    "duration": "PT84M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lWVnUBYG7nIb84gxa3tSeP8CghA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1432706",
+    "name": "Bury the Devil",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1432706"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bury the Devil (2026)</h1>\n<p class=\"ssr-lead\">When a hospice nurse finds herself trapped with a dementia patient, she begins to suspect something else is wrong with the woman, something otherworldly, and must fight to survive the night.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 March 2026</li><li>Runtime: 84 minutes</li><li>Director: Adam O&#x27;Brien</li><li>Genres: Horror, Thriller</li><li>TMDB rating: 5.7/10 (34 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Emmanuelle Lussier Martinez as Julia</li><li>Bill Rowat as Randall</li><li>Mark Antony Krupa as Father Thierry</li><li>Dawn Ford as Evelyn</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Bury the Devil (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1517606": {
+   "d": "Notte prima degli esami 3.0 (2026): Comedy film. Story: On the eve of their final exams, a group of Roman… See cast and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wOkBd4oxrMjjrVczY0ycyH6FWr7.jpg",
+   "industry": "world",
+   "k": "Notte prima degli esami 3.0, Notte prima degli esami 3.0 movie, Notte prima degli esami 3.0 cast, Notte prima degli esami 3.0 story, Notte prima degli esami 3.0 box office collection, Notte prima degli esami 3.0 budget, Notte prima degli esami 3.0 review, Notte prima degli esami 3.0 rating, Notte prima degli esami 3.0 release date, Notte prima degli esami 3.0 Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tommaso Cassissa"
+     },
+     {
+      "@type": "Person",
+      "name": "Sabrina Ferilli"
+     },
+     {
+      "@type": "Person",
+      "name": "Adriano Moretti"
+     },
+     {
+      "@type": "Person",
+      "name": "Alice Lupparelli"
+     },
+     {
+      "@type": "Person",
+      "name": "Alice Maselli"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 47,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Notte prima degli esami 3.0 (2026): Comedy film. Story: On the eve of their final exams, a group of Roman… See cast and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tommaso Renzoni"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wOkBd4oxrMjjrVczY0ycyH6FWr7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1517606",
+    "name": "Notte prima degli esami 3.0",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1517606"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Notte prima degli esami 3.0 (2026)</h1>\n<p class=\"ssr-lead\">On the eve of their final exams, a group of Roman high school students find themselves experiencing their last great adventure together: secret loves, betrayals, tested friendships, and desperate plans to deceive the school&#x27;s most feared teacher.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 March 2026</li><li>Runtime: 95 minutes</li><li>Director: Tommaso Renzoni</li><li>Genres: Comedy</li><li>TMDB rating: 5.9/10 (47 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tommaso Cassissa as Giulio Sabatini</li><li>Sabrina Ferilli as Professoressa Martinelli</li><li>Adriano Moretti as Cesare</li><li>Alice Lupparelli as Allegra</li><li>Alice Maselli as Sole</li><li>Ditonellapiaga as Giulia</li><li>Aleandro Falciglia as Alberto</li><li>Bea Barret as Martina</li><li>Christian Dei as Barbagallo</li><li>Teresa Piergentili as Teresa</li></ul>\n</article>",
+   "t": "Notte prima degli esami 3.0 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:15206": {
    "d": "The Mother of Tears (2007): Horror film. Story: An ancient urn is found in a cemetery outside Rome. See cast, budget $3.5M, and TMDB rating 4.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/tEJf6vcobkTzIk2cRJYvLKeUuLY.jpg",
@@ -260,6 +701,132 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Mother of Tears (2007)</h1>\n<p class=\"ssr-lead\">An ancient urn is found in a cemetery outside Rome. Once opened, it triggers a series of violent incidents: robberies, rapes and murders increase dramatically, while several mysterious, evil-looking young women coming from all over the world are gathering in the city. All these events are caused by the return of Mater Lacrimarum, the last of three powerful witches who have been spreading terror and death for centuries. Alone against an army of psychos and demons, Sarah Mandy, an art student who seems to have supernatural abilities of her own, is the only person left to prevent the Mother of Tears from destroying Rome.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 October 2007</li><li>Runtime: 102 minutes</li><li>Director: Dario Argento</li><li>Genres: Horror</li><li>Budget: $3.5M</li><li>TMDB rating: 4.6/10 (469 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Asia Argento as Sarah Mandy</li><li>Cristian Solimeno as Detective Enzo Marchi</li><li>Adam James as Michael Pierce</li><li>Moran Atias as Mater Lachrymarum</li><li>Valéria Cavalli as Marta Colussi</li><li>Philippe Leroy as Guglielmo De Witt</li><li>Daria Nicolodi as Elisa Mandy</li><li>Coralina Cataldi-Tassoni as Giselle Mares</li><li>Udo Kier as Father Johannes</li><li>Robert Madison as Detective Lissoni</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MovieSphere+ Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The Mother of Tears (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
+  },
+  "movie:1631506": {
+   "d": "The Hanged Woman (2026): Horror film. Story: Rosa Martín, a singer-songwriter known as La… See cast, TMDB rating 5.5/10, and release date 22 April 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/9La8mRvH81YdUa6HwyQicVqIrUJ.jpg",
+   "industry": "world",
+   "k": "The Hanged Woman, The Hanged Woman movie, The Hanged Woman cast, The Hanged Woman story, The Hanged Woman box office collection, The Hanged Woman budget, The Hanged Woman review, The Hanged Woman rating, The Hanged Woman release date, The Hanged Woman trailer, The Hanged Woman Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Amaia Salamanca"
+     },
+     {
+      "@type": "Person",
+      "name": "Eduardo Noriega"
+     },
+     {
+      "@type": "Person",
+      "name": "Cosette Silguero"
+     },
+     {
+      "@type": "Person",
+      "name": "Norma Ruiz"
+     },
+     {
+      "@type": "Person",
+      "name": "Anastasia Fauteck"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 68,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "The Hanged Woman (2026): Horror film. Story: Rosa Martín, a singer-songwriter known as La… See cast, TMDB rating 5.5/10, and release date 22 April 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Miguel Ángel Lamata"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9La8mRvH81YdUa6HwyQicVqIrUJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1631506",
+    "name": "The Hanged Woman",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1631506"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Hanged Woman (2026)</h1>\n<p class=\"ssr-lead\">Rosa Martín, a singer-songwriter known as La Ahorcada, takes her own life in the garden of the man she loved, Fran, who treated her as nothing more than a sexual object. The ghost of La Ahorcada remains in Fran&#x27;s mansion, refusing to be ignored and determined to teach him a lesson. Her obsession will end up turning the lives of Fran and his family into a living hell.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 April 2026</li><li>Runtime: 91 minutes</li><li>Director: Miguel Ángel Lamata</li><li>Genres: Horror</li><li>TMDB rating: 5.5/10 (68 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Amaia Salamanca as Rosa Martín</li><li>Eduardo Noriega as Fran</li><li>Cosette Silguero as Patti a los 10 años</li><li>Norma Ruiz as Ana</li><li>Anastasia Fauteck as Janis</li><li>Veki Velilla as Patti a los 25 años</li><li>Cristina Gallego as Begoña</li><li>Raúl Sanz as Blasco</li><li>Emilio Buale as Exorcista</li><li>Carlota Callén as Sofía</li></ul>\n</article>",
+   "t": "The Hanged Woman (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1739206": {
+   "d": "Untold Mr. T: I Pity the Fool (2026): Documentary film. Story: Mr. T took the world by storm as an '80s icon. This… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/laiVx3X4J7GNUyWWNvwGpSgT7MX.jpg",
+   "industry": "world",
+   "k": "Untold Mr. T: I Pity the Fool, Untold Mr. T: I Pity the Fool movie, Untold Mr. T: I Pity the Fool cast, Untold Mr. T: I Pity the Fool story, Untold Mr. T: I Pity the Fool box office collection, Untold Mr. T: I Pity the Fool budget, Untold Mr. T: I Pity the Fool review, Untold Mr. T: I Pity the Fool rating, Untold Mr. T: I Pity the Fool release date, Untold Mr. T: I Pity the Fool trailer, Untold Mr. T: I Pity the Fool Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mr. T"
+     },
+     {
+      "@type": "Person",
+      "name": "Erica Nicole Clark"
+     },
+     {
+      "@type": "Person",
+      "name": "Terry Crews"
+     },
+     {
+      "@type": "Person",
+      "name": "Dirk Benedict"
+     },
+     {
+      "@type": "Person",
+      "name": "Scoop Jackson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 38,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Untold Mr. T: I Pity the Fool (2026): Documentary film. Story: Mr. T took the world by storm as an '80s icon. This… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Scott Weintrob"
+     }
+    ],
+    "duration": "PT49M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/laiVx3X4J7GNUyWWNvwGpSgT7MX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1739206",
+    "name": "Untold Mr. T: I Pity the Fool",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1739206"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Untold Mr. T: I Pity the Fool (2026)</h1>\n<p class=\"ssr-lead\">Mr. T took the world by storm as an &#x27;80s icon. This documentary reveals the full story behind the mohawk, chains and catchphrase from the man himself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 September 2026</li><li>Runtime: 49 minutes</li><li>Director: Scott Weintrob</li><li>Genres: Documentary</li><li>TMDB rating: 7.2/10 (38 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mr. T as Self</li><li>Erica Nicole Clark as Self</li><li>Terry Crews as Self</li><li>Dirk Benedict as Self</li><li>Scoop Jackson as Self</li><li>Henry O. Hardy as Self</li><li>Sylvester Stallone as Self (archive footage)</li><li>Ronald Reagan as Self (archive footage)</li><li>Nancy Reagan as Self (archive footage)</li><li>Hulk Hogan as Self (archive footage)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Untold Mr. T: I Pity the Fool (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:21506": {
    "d": "Noroi: The Curse (2005): Horror/Mystery film. Story: A documentary filmmaker explores seemingly unrelated… See cast, budget $2M, and TMDB rating 6.9/10.",
@@ -643,6 +1210,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Very Good Girls (2013)</h1>\n<p class=\"ssr-lead\">Two New York City girls make a pact to lose their virginity during their first summer out of high school. When they both fall for the same street artist, the friends find their connection tested for the first time.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 January 2013</li><li>Runtime: 91 minutes</li><li>Director: Naomi Foner</li><li>Genres: Drama</li><li>TMDB rating: 5.8/10 (470 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dakota Fanning as Lilly Berger</li><li>Elizabeth Olsen as Gerry</li><li>Boyd Holbrook as David Avery</li><li>Demi Moore as Kate</li><li>Richard Dreyfuss as Danny</li><li>Ellen Barkin as Norma Berger</li><li>Peter Sarsgaard as Fitzsimmons</li><li>Clark Gregg as Edward Berger</li><li>Kiernan Shipka as Eleanor Berger</li><li>Clare Foley as Phoebe Berger</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: AMC Plus Apple TV channel, AMC+</li><li>Rent: Amazon Video, FlixFling</li><li>Buy: Amazon Video, FlixFling</li></ul>\n</article>",
    "t": "Very Good Girls (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
+  },
+  "movie:772506": {
+   "d": "Love is Love (2026): Comedy/Romance film. Story: Enrique Juarez is an up-and-coming Mexican Telenovela… See cast and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8fN4YSYUOAlYmUcqzGCuztaXms6.jpg",
+   "industry": "world",
+   "k": "Love is Love, Love is Love movie, Love is Love cast, Love is Love story, Love is Love box office collection, Love is Love budget, Love is Love review, Love is Love rating, Love is Love release date, Love is Love trailer, Love is Love Comedy, Love is Love Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rob Schneider"
+     },
+     {
+      "@type": "Person",
+      "name": "Patricia Schneider"
+     },
+     {
+      "@type": "Person",
+      "name": "Vadhir Derbez"
+     },
+     {
+      "@type": "Person",
+      "name": "Paulina Dávila"
+     },
+     {
+      "@type": "Person",
+      "name": "Christian Vazquez"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 26,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Love is Love (2026): Comedy/Romance film. Story: Enrique Juarez is an up-and-coming Mexican Telenovela… See cast and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rob Schneider"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8fN4YSYUOAlYmUcqzGCuztaXms6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=772506",
+    "name": "Love is Love",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=772506"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Love is Love (2026)</h1>\n<p class=\"ssr-lead\">Enrique Juarez is an up-and-coming Mexican Telenovela actor on the verge of becoming a leading man, that has to hide his true self in order to achieve stardom.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 August 2026</li><li>Runtime: 91 minutes</li><li>Director: Rob Schneider</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 7.3/10 (26 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rob Schneider as Julian Rodin</li><li>Patricia Schneider as Secretary</li><li>Vadhir Derbez as Enrique</li><li>Paulina Dávila</li><li>Christian Vazquez</li><li>Eduardo España as Carlos</li><li>Anthony Giulietti as Niño</li><li>David Arizpe as Reportero</li><li>Juan Pablo Salazar as Switcher</li><li>Rogelio Nieto as Paparazzi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu</li></ul>\n</article>",
+   "t": "Love is Love (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:977506": {
    "d": "The Crime is Mine (2023): Crime/Comedy film. Story: In 1930s Paris, Madeleine, a pretty, young… See cast, budget $13.7M, and TMDB rating 6.5/10.",

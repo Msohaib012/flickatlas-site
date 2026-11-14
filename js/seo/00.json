@@ -1,6 +1,6 @@
 {
  "bucket": "00",
- "count": 17,
+ "count": 27,
  "titles": {
   "movie:12600": {
    "d": "Pokémon 4Ever (2001): Adventure/Fantasy film. Story: In order to escape a greedy Pokémon hunter, Celebi… See cast and TMDB rating 6.5/10.",
@@ -66,6 +66,70 @@
    "t": "Pokémon 4Ever (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2001"
   },
+  "movie:1266800": {
+   "d": "The Desert Child (2026): Adventure/Family film. Story: 14-year-old Sun has written and successfully… See cast and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/raTby3MY67GCHiF1S0VSwq01fds.jpg",
+   "industry": "world",
+   "k": "The Desert Child, The Desert Child movie, The Desert Child cast, The Desert Child story, The Desert Child box office collection, The Desert Child budget, The Desert Child review, The Desert Child rating, The Desert Child release date, The Desert Child Adventure, The Desert Child Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kev Adams"
+     },
+     {
+      "@type": "Person",
+      "name": "Nahel Tran"
+     },
+     {
+      "@type": "Person",
+      "name": "Nahïl Bouazzaoui"
+     },
+     {
+      "@type": "Person",
+      "name": "Neige de Maistre"
+     },
+     {
+      "@type": "Person",
+      "name": "Adriane Gradziel"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 34,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "The Desert Child (2026): Adventure/Family film. Story: 14-year-old Sun has written and successfully… See cast and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gilles de Maistre"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Adventure",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/raTby3MY67GCHiF1S0VSwq01fds.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1266800",
+    "name": "The Desert Child",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1266800"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Desert Child (2026)</h1>\n<p class=\"ssr-lead\">14-year-old Sun has written and successfully published a story based on an incredible story told by her late grandfather about a wild child called Hadara, who is saved by a group of ostriches when he becomes separated from his family in a storm, and is then raised in the desert amid a host of wild animals, including his best friend, a desert fox. When Sun is invited to travel to the Sahara by a local community who has heard about her book, she meets Kharouba, a Nomad girl of her own age, and realizes there may be much more to Hadara than just a character in a bedtime story.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 April 2026</li><li>Runtime: 92 minutes</li><li>Director: Gilles de Maistre</li><li>Genres: Adventure, Family</li><li>TMDB rating: 7.3/10 (34 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kev Adams as Christian</li><li>Nahel Tran</li><li>Nahïl Bouazzaoui</li><li>Neige de Maistre as Sun</li><li>Adriane Gradziel</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "The Desert Child (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:12700": {
    "d": "Dominion: Prequel to The Exorcist (2005): Horror film. Story: Father Merrin takes a sabbatical from the Church to… See cast and budget $30M.",
    "img": "https://image.tmdb.org/t/p/w780/vc31DWCeiEJn2eOe40CEVQiGXFY.jpg",
@@ -128,6 +192,390 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Dominion: Prequel to The Exorcist (2005)</h1>\n<p class=\"ssr-lead\">Father Merrin takes a sabbatical from the Church to devote himself to history and archaeology as he struggles with his shattered faith.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 August 2005</li><li>Runtime: 116 minutes</li><li>Director: Paul Schrader</li><li>Genres: Horror</li><li>Budget: $30M</li><li>TMDB rating: 5.3/10 (446 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Stellan Skarsgård as Father Lankester Merrin</li><li>Clara Bellar as Rachel Lesno</li><li>Gabriel Mann as Father Francis</li><li>Billy Crawford as Cheche</li><li>Julian Wadham as Major Granville</li><li>Andrew French as Chuma</li><li>Ralph Brown as Sergeant Major</li><li>Israel Aduramo as Jomo</li><li>Ilario Bisi-Pedro as Sebituana</li><li>Burt Caesar as Dr. Lamu</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, Shout! Factory Amazon Channel</li><li>Rent: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Dominion: Prequel to The Exorcist (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2005"
+  },
+  "movie:1306400": {
+   "d": "Merrily We Roll Along (2025): Comedy/Music film. Story: Franklin Shepard is a talented Broadway composer who… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tD9gHDBMUQaw07LKppyNnAWaK1y.jpg",
+   "industry": "world",
+   "k": "Merrily We Roll Along, Merrily We Roll Along movie, Merrily We Roll Along cast, Merrily We Roll Along story, Merrily We Roll Along box office collection, Merrily We Roll Along budget, Merrily We Roll Along review, Merrily We Roll Along rating, Merrily We Roll Along release date, Merrily We Roll Along trailer, Merrily We Roll Along Comedy, Merrily We Roll Along Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jonathan Groff"
+     },
+     {
+      "@type": "Person",
+      "name": "Lindsay Mendez"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Radcliffe"
+     },
+     {
+      "@type": "Person",
+      "name": "Krystal Joy Brown"
+     },
+     {
+      "@type": "Person",
+      "name": "Reg Rogers"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 26,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Merrily We Roll Along (2025): Comedy/Music film. Story: Franklin Shepard is a talented Broadway composer who… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Maria Friedman"
+     }
+    ],
+    "duration": "PT145M",
+    "genre": [
+     "Comedy",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tD9gHDBMUQaw07LKppyNnAWaK1y.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1306400",
+    "name": "Merrily We Roll Along",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1306400"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Merrily We Roll Along (2025)</h1>\n<p class=\"ssr-lead\">Franklin Shepard is a talented Broadway composer who abandons his theater career and all his friends in New York in order to produce films in Los Angeles. The story begins at the height of his Hollywood fame and moves backwards in time, showing snapshots of the most important moments in Frank’s life that shaped the man he is today. (A live recording of the 2024 Tony Award-winning Broadway revival of Stephen Sondheim and George Furth&#x27;s musical, filmed at the Hudson Theatre in New York City.)</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 December 2025</li><li>Runtime: 145 minutes</li><li>Director: Maria Friedman</li><li>Genres: Comedy, Music</li><li>TMDB rating: 6.9/10 (26 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jonathan Groff as Franklin Shepard</li><li>Lindsay Mendez as Mary Flynn</li><li>Daniel Radcliffe as Charley Kringas</li><li>Krystal Joy Brown as Gussie Carnegie</li><li>Reg Rogers as Joe Josephson</li><li>Katie Rose Clarke as Beth Shepard</li><li>Max Rackenberg as Franklin ‘Frankie’ Shepard Jr.</li><li>Sherz Aletaha as Scotty / Mrs. Spencer / Auditionee</li><li>Jacob Keith Watson as Terry / Mr. Spencer</li><li>Corey Mach as Tyler</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Merrily We Roll Along (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1309400": {
+   "d": "The Children of the Resistance (2026): Adventure/Drama film. Story: During the German occupation of World War II… See cast and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jfffiMPu7xzFbsds9PIUARw7LiQ.jpg",
+   "industry": "world",
+   "k": "The Children of the Resistance, The Children of the Resistance movie, The Children of the Resistance cast, The Children of the Resistance story, The Children of the Resistance box office collection, The Children of the Resistance budget, The Children of the Resistance review, The Children of the Resistance rating, The Children of the Resistance release date, The Children of the Resistance Adventure, The Children of the Resistance Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Artus"
+     },
+     {
+      "@type": "Person",
+      "name": "Gérard Jugnot"
+     },
+     {
+      "@type": "Person",
+      "name": "Pierre Deladonchamps"
+     },
+     {
+      "@type": "Person",
+      "name": "Julien Arruti"
+     },
+     {
+      "@type": "Person",
+      "name": "Oscar Boissière"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 83,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "The Children of the Resistance (2026): Adventure/Drama film. Story: During the German occupation of World War II… See cast and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Christophe Barratier"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Adventure",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jfffiMPu7xzFbsds9PIUARw7LiQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1309400",
+    "name": "The Children of the Resistance",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1309400"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Children of the Resistance (2026)</h1>\n<p class=\"ssr-lead\">During the German occupation of World War II, François, Eusèbe, and Lisa, three courageous children, embark on a secret adventure: resisting the Nazis in the heart of France. Through sabotage, hidden messages, and perilous escapes, they carry out clandestine actions right under the enemy&#x27;s nose. Daring and friendship are their only weapons in the fight against injustice.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 February 2026</li><li>Runtime: 99 minutes</li><li>Director: Christophe Barratier</li><li>Genres: Adventure, Drama, History, Family</li><li>TMDB rating: 6.4/10 (83 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Artus as Marcel</li><li>Gérard Jugnot as Père Proslier</li><li>Pierre Deladonchamps as Le maire</li><li>Julien Arruti as Germain</li><li>Oscar Boissière as Luc</li><li>Leslie Medina as Marceline</li><li>Julien Pestel as Marnier</li><li>Vanessa Guide as Julienne</li><li>Lucas Hector as François</li><li>Nina Filbrandt as Lisa</li></ul>\n</article>",
+   "t": "The Children of the Resistance (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1376400": {
+   "d": "Crawlers (2026): Horror/Thriller film. Story: Tenants at Paradiso Palms apartments fight a deadly… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
+   "industry": "world",
+   "k": "Crawlers, Crawlers movie, Crawlers cast, Crawlers story, Crawlers box office collection, Crawlers budget, Crawlers review, Crawlers rating, Crawlers release date, Crawlers trailer, Crawlers Horror, Crawlers Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Matilda Lutz"
+     },
+     {
+      "@type": "Person",
+      "name": "Gary Anthony Stennette"
+     },
+     {
+      "@type": "Person",
+      "name": "Elena Sanz"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrea Scott Méndez"
+     },
+     {
+      "@type": "Person",
+      "name": "Isabella Marie Egizi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 58,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Crawlers (2026): Horror/Thriller film. Story: Tenants at Paradiso Palms apartments fight a deadly… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ángel Gómez Hernández"
+     }
+    ],
+    "duration": "PT80M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1376400",
+    "name": "Crawlers",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1376400"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Crawlers (2026)</h1>\n<p class=\"ssr-lead\">Tenants at Paradiso Palms apartments fight a deadly spider invasion while the cunning building manager might be their only hope for survival.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 September 2026</li><li>Runtime: 80 minutes</li><li>Director: Ángel Gómez Hernández</li><li>Genres: Horror, Thriller</li><li>TMDB rating: 6.1/10 (58 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Matilda Lutz as Serena</li><li>Gary Anthony Stennette as Dr. Woodward</li><li>Elena Sanz as Dr. Callan</li><li>Andrea Scott Méndez as Molly</li><li>Isabella Marie Egizi as Bernice</li><li>Sam Lucas Smith as Lance</li><li>Gregg Sulkin as Bradley</li><li>Melina Matthews as Lady Lash</li><li>William Miller as Mr. Rossmore</li><li>Lex Salvador as Tonya</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Crawlers (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1390300": {
+   "d": "Over Your Dead Body (2026): Action/Comedy film. Story: A dysfunctional couple head to a remote cabin to… See cast and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
+   "industry": "world",
+   "k": "Over Your Dead Body, Over Your Dead Body movie, Over Your Dead Body cast, Over Your Dead Body story, Over Your Dead Body box office collection, Over Your Dead Body budget, Over Your Dead Body review, Over Your Dead Body rating, Over Your Dead Body release date, Over Your Dead Body trailer, Over Your Dead Body Action, Over Your Dead Body Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jason Segel"
+     },
+     {
+      "@type": "Person",
+      "name": "Samara Weaving"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Guilfoyle"
+     },
+     {
+      "@type": "Person",
+      "name": "Keith Jardine"
+     },
+     {
+      "@type": "Person",
+      "name": "Timothy Olyphant"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 689,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Over Your Dead Body (2026): Action/Comedy film. Story: A dysfunctional couple head to a remote cabin to… See cast and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jorma Taccone"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1390300",
+    "name": "Over Your Dead Body",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1390300"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Over Your Dead Body (2026)</h1>\n<p class=\"ssr-lead\">A dysfunctional couple head to a remote cabin to &quot;reconnect&quot;, but each has secret intentions to kill the other.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 March 2026</li><li>Runtime: 105 minutes</li><li>Director: Jorma Taccone</li><li>Genres: Action, Comedy, Thriller</li><li>TMDB rating: 6.4/10 (689 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jason Segel as Dan</li><li>Samara Weaving as Lisa</li><li>Paul Guilfoyle as Michael</li><li>Keith Jardine as Todd</li><li>Timothy Olyphant as Pete</li><li>Juliette Lewis as Allegra</li><li>Nikolai Kinski as Frank</li><li>Kayla Jenee Radomski as Renée</li><li>Jennifer Amaka Pettersson as Louise</li><li>Yoon Cha-Lee as Kevin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Over Your Dead Body (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1449400": {
+   "d": "Reckless (2026): Action/Comedy film. Story: A former convict on parole must outwit the police to… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/v82syfG9jrap5k7A82xuQzLssCJ.jpg",
+   "industry": "world",
+   "k": "Reckless, Reckless movie, Reckless cast, Reckless story, Reckless box office collection, Reckless budget, Reckless review, Reckless rating, Reckless release date, Reckless trailer, Reckless Action, Reckless Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Scott Adkins"
+     },
+     {
+      "@type": "Person",
+      "name": "Vinnie Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicole Deon"
+     },
+     {
+      "@type": "Person",
+      "name": "Kris Johnson"
+     },
+     {
+      "@type": "Person",
+      "name": "Dean Gaffney"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 34,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Reckless (2026): Action/Comedy film. Story: A former convict on parole must outwit the police to… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Elliott Montello"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/v82syfG9jrap5k7A82xuQzLssCJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1449400",
+    "name": "Reckless",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1449400"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Reckless (2026)</h1>\n<p class=\"ssr-lead\">A former convict on parole must outwit the police to get his share of an old heist.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 February 2026</li><li>Runtime: 91 minutes</li><li>Director: Elliott Montello</li><li>Genres: Action, Comedy, Crime, Thriller</li><li>TMDB rating: 6.3/10 (34 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Scott Adkins as Devon</li><li>Vinnie Jones as Trent</li><li>Nicole Deon as Kimber</li><li>Kris Johnson as Jackson</li><li>Dean Gaffney as Wilmott</li><li>Adam Deacon as Kyle</li><li>Jordan Long as George</li><li>Mark Strange as Bishop</li><li>Gavin Fraser as Toby</li><li>Kirsty J. Curtis as Veronica</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Reckless (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1493400": {
+   "d": "Camp Rock 3 (2026): Music/Comedy film. Story: When pop group Connect 3 returns to Camp Rock to… See cast, TMDB rating 6.5/10, and release date 13 August 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg",
+   "industry": "world",
+   "k": "Camp Rock 3, Camp Rock 3 movie, Camp Rock 3 cast, Camp Rock 3 story, Camp Rock 3 box office collection, Camp Rock 3 budget, Camp Rock 3 review, Camp Rock 3 rating, Camp Rock 3 release date, Camp Rock 3 trailer, Camp Rock 3 Music, Camp Rock 3 Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Liamani Segura"
+     },
+     {
+      "@type": "Person",
+      "name": "Malachi Barton"
+     },
+     {
+      "@type": "Person",
+      "name": "Lumi Pollack"
+     },
+     {
+      "@type": "Person",
+      "name": "Hudson Stone"
+     },
+     {
+      "@type": "Person",
+      "name": "Casey Trotter"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 141,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Camp Rock 3 (2026): Music/Comedy film. Story: When pop group Connect 3 returns to Camp Rock to… See cast, TMDB rating 6.5/10, and release date 13 August 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Veronica Rodriguez"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Music",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1493400",
+    "name": "Camp Rock 3",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1493400"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Camp Rock 3 (2026)</h1>\n<p class=\"ssr-lead\">When pop group Connect 3 returns to Camp Rock to search for an opening act for their reunion tour, rising tensions and fierce competition among campers test old friendships and spark unexpected romances.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 August 2026</li><li>Runtime: 93 minutes</li><li>Director: Veronica Rodriguez</li><li>Genres: Music, Comedy, Drama, TV Movie</li><li>TMDB rating: 6.5/10 (141 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Liamani Segura as Sage Scott</li><li>Malachi Barton as Fletch Robinson</li><li>Lumi Pollack as Rosie Kleinman</li><li>Hudson Stone as Desi Scott</li><li>Casey Trotter as Cliff Carmichael</li><li>Brooklynn Pitts as Callie Banks</li><li>Sherry Cola as Lark</li><li>Maria Canals-Barrera as Connie Torres</li><li>Joe Jonas as Shane Gray</li><li>Nick Jonas as Nate Gray</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Camp Rock 3 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:15600": {
    "d": "Missing (1982): Drama/Mystery film. Story: Based on the real-life experiences of Ed Horman. A… See cast, budget $9.6M, and TMDB rating 7.2/10.",
@@ -192,6 +640,120 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Missing (1982)</h1>\n<p class=\"ssr-lead\">Based on the real-life experiences of Ed Horman. A conservative American businessman travels to Chile to investigate the sudden disappearance of his son after a military takeover. Accompanied by his son&#x27;s wife he uncovers a trail of cover-ups that implicate the US State department which supports the dictatorship.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 February 1982</li><li>Runtime: 123 minutes</li><li>Director: Costa-Gavras</li><li>Genres: Drama, Mystery, Thriller</li><li>Budget: $9.6M</li><li>TMDB rating: 7.2/10 (453 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jack Lemmon as Ed Horman</li><li>Sissy Spacek as Beth Horman</li><li>Melanie Mayron as Terry Simon</li><li>John Shea as Charles Horman</li><li>Charles Cioffi as Captain Ray Tower</li><li>David Clennon as Consul Phil Putnam</li><li>Richard Venture as U.S. Ambassador</li><li>Jerry Hardin as Colonel Sean Patrick</li><li>Richard Bradford as Andrew Babcock</li><li>Joe Regalbuto as Frank Teruggi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Missing (1982) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1982"
+  },
+  "movie:1583500": {
+   "d": "Elway (2025): Documentary film. Story: Told in his own words, the definitive story of Denver… See cast, TMDB rating 6.6/10, and release date 21 December 2025.",
+   "img": "https://image.tmdb.org/t/p/w780/dM6EbI3T5O2PruUS5K7cbVAexON.jpg",
+   "industry": "world",
+   "k": "Elway, Elway movie, Elway cast, Elway story, Elway box office collection, Elway budget, Elway review, Elway rating, Elway release date, Elway trailer, Elway Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "John Elway"
+     },
+     {
+      "@type": "Person",
+      "name": "Adam Schefter"
+     },
+     {
+      "@type": "Person",
+      "name": "Terrell Davis"
+     },
+     {
+      "@type": "Person",
+      "name": "Mike Shanahan"
+     },
+     {
+      "@type": "Person",
+      "name": "Gary Kubiak"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 20,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Elway (2025): Documentary film. Story: Told in his own words, the definitive story of Denver… See cast, TMDB rating 6.6/10, and release date 21 December 2025.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ken Rodgers"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Weaver"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dM6EbI3T5O2PruUS5K7cbVAexON.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1583500",
+    "name": "Elway",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1583500"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Elway (2025)</h1>\n<p class=\"ssr-lead\">Told in his own words, the definitive story of Denver Broncos quarterback John Elway goes deep on his NFL dreams, heartbreaks and Super Bowl redemption.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 December 2025</li><li>Runtime: 99 minutes</li><li>Director: Ken Rodgers, Chris Weaver</li><li>Genres: Documentary</li><li>TMDB rating: 6.6/10 (20 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Elway as Self</li><li>Adam Schefter as Self</li><li>Terrell Davis as Self</li><li>Mike Shanahan as Self</li><li>Gary Kubiak as Self</li><li>Jana Elway as Self (archive footage)</li><li>Dennis Engel as Self</li><li>Janet Elway as Self</li><li>Terry Bradshaw as Self (archive footage)</li><li>Dan Reeves as Self (archive footage)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Elway (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1616400": {
+   "d": "#SKYKING (2026): Documentary film. Story: Tells the story of 28-year-old Horizon Air ground… See cast, TMDB rating 7.2/10, and release date 12 March 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/nBO0TV1N3BbY25BWLRUqLrefxe8.jpg",
+   "industry": "world",
+   "k": "#SKYKING, #SKYKING movie, #SKYKING cast, #SKYKING story, #SKYKING box office collection, #SKYKING budget, #SKYKING review, #SKYKING rating, #SKYKING release date, #SKYKING trailer, #SKYKING Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Richard Russell"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 27,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "#SKYKING (2026): Documentary film. Story: Tells the story of 28-year-old Horizon Air ground… See cast, TMDB rating 7.2/10, and release date 12 March 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Patricia E. Gillespie"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nBO0TV1N3BbY25BWLRUqLrefxe8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1616400",
+    "name": "#SKYKING",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1616400"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>#SKYKING (2026)</h1>\n<p class=\"ssr-lead\">Tells the story of 28-year-old Horizon Air ground service agent Richard “Beebo” Russell, who, to the shock of all who knew him, clocked into work wearing a shirt that said “sky’s no limit,” stole a 33-million-dollar plane, and took off into the skies of the Pacific Northwest embarking on a white-knuckle flight that would come to embody the hopes, dreams, and despair of the American working class, and offer a timely look into the U.S. mental health crisis.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 March 2026</li><li>Runtime: 91 minutes</li><li>Director: Patricia E. Gillespie</li><li>Genres: Documentary</li><li>TMDB rating: 7.2/10 (27 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Richard Russell as Self (archive footage)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "#SKYKING (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:16300": {
    "d": "Down to Earth (2001): Fantasy/Comedy film. Story: Struggling comic Lance Barton knows what it's like to… See cast, budget $30M, and TMDB rating 5.6/10.",
@@ -643,6 +1205,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Clean (2022)</h1>\n<p class=\"ssr-lead\">Tormented by a past life, garbage man Clean attempts a life of quiet redemption. But when his good intentions mark him a target of a local crime boss, Clean is forced to reconcile with the violence of his past.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 August 2022</li><li>Runtime: 93 minutes</li><li>Director: Paul Solet</li><li>Genres: Crime, Action, Drama</li><li>TMDB rating: 6.1/10 (474 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Adrien Brody as Clean</li><li>Glenn Fleshler as Michael</li><li>Richie Merritt as Mikey</li><li>Chandler DuPont as Dianda</li><li>Mykelti Williamson as Travis</li><li>Michelle Wilson as Ethel</li><li>John Bianco as Frank</li><li>RZA as Pawn Shop Kurt</li><li>Gerard Cordero as Vic</li><li>Alex Corrado as Tommy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC+ Amazon Channel, Sundance Now</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Clean (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:848700": {
+   "d": "Minotaur (2026): Drama/Crime film. Story: When Gleb, a successful company director, finds… See cast, budget $7.5M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/i5HacpkXOKQ85lfbnMO3jXvAnPy.jpg",
+   "industry": "world",
+   "k": "Minotaur, Minotaur movie, Minotaur cast, Minotaur story, Minotaur box office collection, Minotaur budget, Minotaur review, Minotaur rating, Minotaur release date, Minotaur trailer, Minotaur Drama, Minotaur Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dmitriy Mazurov"
+     },
+     {
+      "@type": "Person",
+      "name": "Iris Lebedeva"
+     },
+     {
+      "@type": "Person",
+      "name": "Varvara Shmykova"
+     },
+     {
+      "@type": "Person",
+      "name": "Juris Žagars"
+     },
+     {
+      "@type": "Person",
+      "name": "Anatoliy Belyy"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 45,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Minotaur (2026): Drama/Crime film. Story: When Gleb, a successful company director, finds… See cast, budget $7.5M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Andrei Zvyagintsev"
+     }
+    ],
+    "duration": "PT142M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/i5HacpkXOKQ85lfbnMO3jXvAnPy.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=848700",
+    "name": "Minotaur",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=848700"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Minotaur (2026)</h1>\n<p class=\"ssr-lead\">When Gleb, a successful company director, finds himself under siege from mounting corporate pressures, an increasingly unstable world, and the discovery of his wife&#x27;s affair, the collapse of his carefully ordered life accelerates toward violence.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 October 2026</li><li>Runtime: 142 minutes</li><li>Director: Andrei Zvyagintsev</li><li>Genres: Drama, Crime, Thriller</li><li>Budget: $7.5M</li><li>TMDB rating: 7.5/10 (45 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dmitriy Mazurov as Gleb</li><li>Iris Lebedeva as Galina</li><li>Varvara Shmykova as Natasha</li><li>Juris Žagars</li><li>Anatoliy Belyy</li><li>Vladimir Friedman as Mayor</li><li>Anastasia Mischenko as Dasha</li><li>Yurii Zavalnyuk as Anton</li><li>Rudgy Pajany as Adrien</li><li>Anton Lytvynov</li></ul>\n</article>",
+   "t": "Minotaur (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:874300": {
    "d": "South Park: Post COVID: The Return of COVID (2021): Animation/Comedy film. Story: If Stan, Kyle and Cartman could just work together… See cast.",

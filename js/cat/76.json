@@ -1,6 +1,6 @@
 {
  "bucket": "76",
- "count": 11,
+ "count": 16,
  "titles": {
   "movie:10476": {
    "backdrop_path": "/d4ZrRcwEPmLQvOCyrSdWw5NglGB.jpg",
@@ -109,6 +109,484 @@
    "type": "movie",
    "vote_average": 7.172,
    "vote_count": 480
+  },
+  "movie:1153576": {
+   "backdrop_path": "/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
+   "budget": 82000000,
+   "cast": [
+    {
+     "c": "Ryu",
+     "n": "Andrew Koji"
+    },
+    {
+     "c": "Ken Masters",
+     "n": "Noah Centineo"
+    },
+    {
+     "c": "Chun-Li",
+     "n": "Callina Liang"
+    },
+    {
+     "c": "M. Bison",
+     "n": "David Dastmalchian"
+    },
+    {
+     "c": "Dan Hibiki",
+     "n": "Andrew Schulz"
+    },
+    {
+     "c": "Akuma",
+     "n": "Roman Reigns"
+    },
+    {
+     "c": "Guile",
+     "n": "Cody Rhodes"
+    },
+    {
+     "c": "Blanka",
+     "n": "Jason Momoa"
+    },
+    {
+     "c": "Don Sauvage",
+     "n": "Eric André"
+    },
+    {
+     "c": "Balrog",
+     "n": "50 Cent"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Kitao Sakurai"
+   ],
+   "genres": [
+    "Action",
+    "Fantasy"
+   ],
+   "id": 1153576,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "JP"
+   ],
+   "original_language": "en",
+   "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+   "popularity": 70.7808,
+   "poster_path": "/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-16",
+   "revenue": 99526527,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Ready. Set. Fight.",
+   "title": "Street Fighter",
+   "trailer": {
+    "key": "U6sbm1OaJb8",
+    "name": "New Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 233
+  },
+  "movie:1242876": {
+   "backdrop_path": "/smTYZM6iSRwB9BJXFkOTQ0rG1VM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "John",
+     "n": "Bill Nighy"
+    },
+    {
+     "c": "Finn",
+     "n": "Roman Griffin Davis"
+    },
+    {
+     "c": "Charlie",
+     "n": "Dexter Sol Ansell"
+    },
+    {
+     "c": "Julie",
+     "n": "Clare Dunne"
+    },
+    {
+     "c": "Dan",
+     "n": "Michael Socha"
+    },
+    {
+     "c": "Kait",
+     "n": "Maisie Williams"
+    },
+    {
+     "c": "Ben",
+     "n": "Eoin Duffy"
+    },
+    {
+     "c": "Molly",
+     "n": "Deirdre Monaghan"
+    },
+    {
+     "c": "Josh",
+     "n": "David Ryan"
+    },
+    {
+     "c": "Sasha",
+     "n": "Harleen Sahota"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12A",
+   "date_kind": "release",
+   "director": [
+    "Morgan Matthews"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1242876,
+   "industry": "world",
+   "origin_country": [
+    "CY",
+    "IE",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A broken family is forced to come together when 16-year-old Finn and his livewire younger brother Charlie run away from trouble at home in England to reach their estranged grandfather on Ireland’s stunning and wild west coast.",
+   "popularity": 3.7775,
+   "poster_path": "/FhRosui9MSdxdyD3h0skOFhqED.jpg",
+   "production_countries": [
+    "IE",
+    "GB",
+    "CY"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-15",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Hope will lead you home.",
+   "title": "500 Miles",
+   "trailer": {
+    "key": "M0pP7xKvFJ0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.075,
+   "vote_count": 20
+  },
+  "movie:1339876": {
+   "backdrop_path": "/pfcyWSaPKGagqdunfBXQYCqZHxx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shivani Shivaji Roy",
+     "n": "Rani Mukerji"
+    },
+    {
+     "c": "Amma",
+     "n": "Mallika Prasad"
+    },
+    {
+     "c": "Fatima",
+     "n": "Janki Bodiwala"
+    },
+    {
+     "c": "Dr. Bikram Roy",
+     "n": "Jisshu Sengupta"
+    },
+    {
+     "c": "Inspector Balwinder Sodhi",
+     "n": "Mikhail Yawalkar"
+    },
+    {
+     "c": "DGP",
+     "n": "Jaipreet Singh"
+    },
+    {
+     "c": "",
+     "n": "Sachin Negi"
+    },
+    {
+     "c": "Gunner Jimpa",
+     "n": "Jimpa Sangpo Bhutia"
+    },
+    {
+     "c": "Ramanujan",
+     "n": "Prajesh Kashyap"
+    },
+    {
+     "c": "Sahu",
+     "n": "Indraneel Bhattacharya"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Abhiraj Minawala"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 1339876,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "Officer Shivani Shivaji Roy returns to hunt down those behind the disappearance of young girls, risking everything to bring them back alive.",
+   "popularity": 3.1282,
+   "poster_path": "/dHxLBtHw4InwsVumnthupZYz6NM.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-30",
+   "revenue": 0,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "Rescue begins.",
+   "title": "Mardaani 3",
+   "trailer": {
+    "key": "V4TJKSEftkU",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 45
+  },
+  "movie:1340076": {
+   "backdrop_path": "/xbYOxEQ69uQd5WRd4piqgW5besb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kevin Stanwell",
+     "n": "Jason Biggs"
+    },
+    {
+     "c": "Suzie Stone",
+     "n": "Meaghan Rath"
+    },
+    {
+     "c": "Heather",
+     "n": "Anna Konkle"
+    },
+    {
+     "c": "Stu Cho",
+     "n": "Justin H. Min"
+    },
+    {
+     "c": "Ernie Guerra",
+     "n": "Arturo Castro"
+    },
+    {
+     "c": "Victor",
+     "n": "Chris Young"
+    },
+    {
+     "c": "Oscar",
+     "n": "René Escobar Jr."
+    },
+    {
+     "c": "Murphy",
+     "n": "Steven Vlahos"
+    },
+    {
+     "c": "Young Suzie",
+     "n": "Tianna SwamiNathan"
+    },
+    {
+     "c": "Terry",
+     "n": "Neil Crone"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jason Biggs"
+   ],
+   "genres": [
+    "Action",
+    "Horror",
+    "Romance",
+    "Comedy"
+   ],
+   "id": 1340076,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As a last-ditch attempt to save his failing marriage, an actor stages a home invasion during a romantic getaway weekend.",
+   "popularity": 2.8951,
+   "poster_path": "/aBMnVU5yrsP5XMBZhG8aT2w6m9u.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-27",
+   "revenue": 0,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Untitled Home Invasion Romance",
+   "trailer": {
+    "key": "v5Ty4Whygtk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 57
   },
   "movie:1413976": {
    "backdrop_path": "/zUninC7dOHfzwcgCqQMLQjlMtiy.jpg",
@@ -265,6 +743,108 @@
    "type": "movie",
    "vote_average": 6.418,
    "vote_count": 458
+  },
+  "movie:1635276": {
+   "backdrop_path": "/7weSO3kEzMpMgdmte4AasS0tbeV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Urschi / Ursula",
+     "n": "Alexandra Maria Lara"
+    },
+    {
+     "c": "Nodon / Simon",
+     "n": "Rúrik Gíslason"
+    },
+    {
+     "c": "Helmut",
+     "n": "Devid Striesow"
+    },
+    {
+     "c": "Babs",
+     "n": "Anna Herrmann"
+    },
+    {
+     "c": "Ziggy",
+     "n": "Doğa Gürer"
+    },
+    {
+     "c": "Hakan",
+     "n": "Kerim Waller"
+    },
+    {
+     "c": "Birgit",
+     "n": "Brigitte Kren"
+    },
+    {
+     "c": "Gustl",
+     "n": "Martin Leutgeb"
+    },
+    {
+     "c": "Sue",
+     "n": "Yvonne Yung Hee"
+    },
+    {
+     "c": "Renate Huber",
+     "n": "Catalina Navarro Kirner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Marco Petry"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1635276,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Five eccentric dog owners seek help in dealing with their four-legged friends. Their last hope: an intensive course with the charismatic and legendary dog trainer Nodon in the Tyrolean mountains.",
+   "popularity": 2.4469,
+   "poster_path": "/kZ0ntedjG2X6hZ7upzupeUe2g5n.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-01",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "It seems not everyone gets off on the right 𝖿̶𝗈̶𝗈̶𝗍̶ paw ...",
+   "title": "Eat Pray Bark",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.565,
+   "vote_count": 123
   },
   "movie:166076": {
    "backdrop_path": "/y53r9qgxybrfuknz9356I7V8CP4.jpg",

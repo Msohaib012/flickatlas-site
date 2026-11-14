@@ -1,6 +1,6 @@
 {
  "bucket": "52",
- "count": 21,
+ "count": 27,
  "titles": {
   "movie:10452": {
    "backdrop_path": "/h0lGYUOxXKCM1W7cgvHN1UW1TC4.jpg",
@@ -160,6 +160,555 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 447
+  },
+  "movie:1421552": {
+   "backdrop_path": "/jmWgUSrqvlLytWgBHvNuRyKq0WZ.jpg",
+   "budget": 2500,
+   "cast": [
+    {
+     "c": "Jackie",
+     "n": "Jackie Chan"
+    },
+    {
+     "c": "Patriarch",
+     "n": "Ma Li"
+    },
+    {
+     "c": "Qiang Shan",
+     "n": "Qiao Shan"
+    },
+    {
+     "c": "Tu Lu",
+     "n": "Yu Yang"
+    },
+    {
+     "c": "Sha Yi",
+     "n": "Wang Yinglu"
+    },
+    {
+     "c": "High Priest",
+     "n": "Zhang Zidong"
+    },
+    {
+     "c": "Ben",
+     "n": "Ke Da"
+    },
+    {
+     "c": "Bo",
+     "n": "Song Muzi"
+    },
+    {
+     "c": "Ba",
+     "n": "Wang Chengsi"
+    },
+    {
+     "c": "Historiographer",
+     "n": "Feng Man"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Derek Hui Wang-Yu"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 1421552,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "The panda \"Huhu\" is about to move into a brand new panda enclosure when he's suddenly confronted by international robbers. Huhu falls off a cliff while battling the robbers, only to awaken to discover he's in a mysterious tribe. To return to the enclosure, this intriguing team helps the tribe solve various problems...",
+   "popularity": 7.4228,
+   "poster_path": "/ph8CrRJIW8ORoaJUCFLGYYFNywr.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Hi-YAH"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-17",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Panda Plan: The Magical Tribe",
+   "trailer": {
+    "key": "V3jKsgAqFas",
+    "name": "Official Trailer 2 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 27
+  },
+  "movie:1542352": {
+   "backdrop_path": "/eaknBFnMg8fPlwlegBaPtQfhyF8.jpg",
+   "budget": 752800,
+   "cast": [
+    {
+     "c": "Praveen",
+     "n": "Ken Karunaas"
+    },
+    {
+     "c": "Kanagavalli",
+     "n": "Anishma Anilkumar"
+    },
+    {
+     "c": "Unnikrishnan",
+     "n": "Suraj Venjaramoodu"
+    },
+    {
+     "c": "Saroja",
+     "n": "Devadarshini"
+    },
+    {
+     "c": "Preshika",
+     "n": "Meenakshi Dinesh"
+    },
+    {
+     "c": "Sonal",
+     "n": "Priyanshi Yadav"
+    },
+    {
+     "c": "Guna",
+     "n": "Abison Thevarasa"
+    },
+    {
+     "c": "Babloo",
+     "n": "Sarath"
+    },
+    {
+     "c": "David",
+     "n": "Eshwar Santhanalakshmi"
+    },
+    {
+     "c": "Grace",
+     "n": "Nalini"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Ken Karunaas"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ],
+   "id": 1542352,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "ta",
+   "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
+   "popularity": 3.1665,
+   "poster_path": "/odMKGyeC2rGuvr3Yy7S8txD0sFx.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-19",
+   "revenue": 7528000,
+   "runtime": 141,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ta"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Youth",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.897,
+   "vote_count": 29
+  },
+  "movie:1595852": {
+   "backdrop_path": "/98uiDns59GUw26SQSCFmuSHTki3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hasley Weigel",
+     "n": "Eve Ryan"
+    },
+    {
+     "c": "Luke Howland",
+     "n": "Mikel Niso"
+    },
+    {
+     "c": "Beatriz Weigel",
+     "n": "Esther Acebo"
+    },
+    {
+     "c": "Sr. Howland",
+     "n": "Luis Zahera"
+    },
+    {
+     "c": "Matt",
+     "n": "Biel Antón"
+    },
+    {
+     "c": "Neizan",
+     "n": "Enzo Oliver"
+    },
+    {
+     "c": "Olivia",
+     "n": "Ainara Helguera"
+    },
+    {
+     "c": "Carla",
+     "n": "Najwa Khliwa"
+    },
+    {
+     "c": "André",
+     "n": "Christian Checa"
+    },
+    {
+     "c": "Jane Howland",
+     "n": "Claudia Roset"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Sonia Méndez"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 1595852,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Hasley, a girl with a list of unfulfilled dreams, and Luke, a complex and vulnerable boy marked by a tragic past, find refuge on the boulevard where they discover if love can conquer all.",
+   "popularity": 6.1184,
+   "poster_path": "/hAKOp4AHaDiVdDMlobMNCNgJVD7.jpg",
+   "production_countries": [
+    "US",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-10",
+   "revenue": 0,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Boulevard",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.328,
+   "vote_count": 238
+  },
+  "movie:1621552": {
+   "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carmona",
+     "n": "Alfonso Herrera"
+    },
+    {
+     "c": "Rosales",
+     "n": "Noé Hernández"
+    },
+    {
+     "c": "El Chapo Guzmán",
+     "n": "Hector Kotsifakis"
+    },
+    {
+     "c": "Isaura",
+     "n": "Paola Fernández"
+    },
+    {
+     "c": "Valladares",
+     "n": "Gerardo Trejoluna"
+    },
+    {
+     "c": "Lagarto",
+     "n": "Fernando Cuautle"
+    },
+    {
+     "c": "Joana",
+     "n": "Alejandra Vazquez De Leon"
+    },
+    {
+     "c": "Sapo",
+     "n": "Santiago Colores"
+    },
+    {
+     "c": "Chabela",
+     "n": "Berenice Mastretta"
+    },
+    {
+     "c": "Liz",
+     "n": "Regina Arroyo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Chava Cartas"
+   ],
+   "genres": [
+    "Crime",
+    "Action",
+    "Thriller"
+   ],
+   "id": 1621552,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
+   "popularity": 22.179,
+   "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-21",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Facing El Chapo",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.742,
+   "vote_count": 991
+  },
+  "movie:1688652": {
+   "backdrop_path": "/dzoqvi7eiPGODZO0CsXRLPfmVAE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Richard 'Richie' Jerimovich",
+     "n": "Ebon Moss-Bachrach"
+    },
+    {
+     "c": "Michael Berzatto",
+     "n": "Jon Bernthal"
+    },
+    {
+     "c": "Sherri",
+     "n": "Marin Ireland"
+    },
+    {
+     "c": "Tiffany Jerimovich",
+     "n": "Gillian Jacobs"
+    },
+    {
+     "c": "Cowboy",
+     "n": "Nation Sage Henrikson"
+    },
+    {
+     "c": "Bar Patron",
+     "n": "T.J. Jagodowski"
+    },
+    {
+     "c": "Elisha",
+     "n": "Elisha Evans"
+    },
+    {
+     "c": "Gas Station Teller",
+     "n": "Richard Gomez"
+    },
+    {
+     "c": "",
+     "n": "Lisa Beasley"
+    },
+    {
+     "c": "",
+     "n": "Brooke Breit"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Christopher Storer"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1688652,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two friends go on a work trip and encounter unexpected challenges and local personalities as they navigate their assignment. Their efforts to adapt to unfamiliar surroundings highlight moments of humor, small-town culture and the unpredictable nature of work travel. Their experience offers new perspectives on their friendship.",
+   "popularity": 2.9742,
+   "poster_path": "/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-05",
+   "revenue": 0,
+   "runtime": 60,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Gary",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.521,
+   "vote_count": 73
   },
   "movie:24452": {
    "backdrop_path": "/sGz7JApiDtClRFxffIw3WgRK8y2.jpg",
@@ -993,6 +1542,126 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 452
+  },
+  "movie:843352": {
+   "backdrop_path": "/iBfpVJCn2nKSkuWjv1Wp4GTiqoG.jpg",
+   "budget": 4500000,
+   "cast": [
+    {
+     "c": "Erik Reed / White Dragon",
+     "n": "Jason David Frank"
+    },
+    {
+     "c": "Jai / Dragon Prime",
+     "n": "Aaron Schoenke"
+    },
+    {
+     "c": "Connor",
+     "n": "Jason Faunt"
+    },
+    {
+     "c": "Iris",
+     "n": "Rachele Brooke Smith"
+    },
+    {
+     "c": "Max Reed",
+     "n": "Michael Madsen"
+    },
+    {
+     "c": "U.R.I.",
+     "n": "Andrew Bachelor"
+    },
+    {
+     "c": "Mayor Trevon Sterns",
+     "n": "David Ramsey"
+    },
+    {
+     "c": "Xang",
+     "n": "Mark Dacascos"
+    },
+    {
+     "c": "Jade",
+     "n": "Chalet Lizette Brannan"
+    },
+    {
+     "c": "Lighthouse",
+     "n": "Kevin Porter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Aaron Schoenke"
+   ],
+   "genres": [
+    "Action",
+    "Fantasy",
+    "Science Fiction"
+   ],
+   "id": 843352,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
+   "popularity": 23.6901,
+   "poster_path": "/k0L5ZQP4PjdNziVGvcOeaihXyCc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-28",
+   "revenue": 643643,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Legends never die.",
+   "title": "Legend of the White Dragon",
+   "trailer": {
+    "key": "eqcTr34Y1Zw",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 90
   },
   "tv:129552": {
    "backdrop_path": "/gklrevVndG98GHGDwfm8y8kxESo.jpg",

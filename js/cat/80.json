@@ -1,6 +1,6 @@
 {
  "bucket": "80",
- "count": 19,
+ "count": 25,
  "titles": {
   "movie:10480": {
    "backdrop_path": "/8ZquU1oL90wNowQeXaXx7xPk7vZ.jpg",
@@ -208,6 +208,138 @@
    "vote_average": 6.332,
    "vote_count": 482
   },
+  "movie:1204680": {
+   "backdrop_path": "/rueyXwlewVPAP5NkqCUJx4RjhqB.jpg",
+   "budget": 72000000,
+   "cast": [
+    {
+     "c": "Kevin Avery",
+     "n": "Will Forte"
+    },
+    {
+     "c": "Paige Avery",
+     "n": "Lana Condor"
+    },
+    {
+     "c": "Buddy Crane",
+     "n": "John Cena"
+    },
+    {
+     "c": "Sal Maltese",
+     "n": "Tone Bell"
+    },
+    {
+     "c": "Dottie Jones",
+     "n": "Martha Kelly"
+    },
+    {
+     "c": "Judge Troppogrosso",
+     "n": "Luis Guzmán"
+    },
+    {
+     "c": "Bill Pelicanos",
+     "n": "P.J. Byrne"
+    },
+    {
+     "c": "Henry Heslop",
+     "n": "John Early"
+    },
+    {
+     "c": "Cherry",
+     "n": "Nancy Linehan Charles"
+    },
+    {
+     "c": "Oscar Jeon",
+     "n": "Kenneth Choi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Dave Green"
+   ],
+   "genres": [
+    "Comedy",
+    "Adventure",
+    "Family",
+    "Animation"
+   ],
+   "id": 1204680,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+   "popularity": 61.6361,
+   "poster_path": "/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-20",
+   "revenue": 101975991,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The movie ACME doesn't want you to see.",
+   "title": "Coyote vs. Acme",
+   "trailer": {
+    "key": "kMsiD1Nky5I",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.176,
+   "vote_count": 1462
+  },
   "movie:13980": {
    "backdrop_path": "/mfu8cTvpJwrnu3sm2vDqh7o4yXX.jpg",
    "budget": 0,
@@ -322,6 +454,461 @@
    "type": "movie",
    "vote_average": 7.601,
    "vote_count": 497
+  },
+  "movie:1454680": {
+   "backdrop_path": "/3g3MJ0UOXJNzvIngqjmsKi8uzAt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Robert Zuchini",
+     "n": "Fabrice Luchini"
+    },
+    {
+     "c": "Anabelle",
+     "n": "Chiara Mastroianni"
+    },
+    {
+     "c": "Suzanne",
+     "n": "Louise Orry-Diquéro"
+    },
+    {
+     "c": "Pia",
+     "n": "Suzanne de Baecque"
+    },
+    {
+     "c": "Lisbeth",
+     "n": "Marie Narbonne"
+    },
+    {
+     "c": "L'ouvreuse",
+     "n": "Lauretta Trefeu"
+    },
+    {
+     "c": "Georgia",
+     "n": "Iris Bry"
+    },
+    {
+     "c": "Cosima",
+     "n": "Naidra Ayadi"
+    },
+    {
+     "c": "Eponine",
+     "n": "Sarah Touffic Othman-Schmitt"
+    },
+    {
+     "c": "La Boulangère",
+     "n": "Agnès Sourdillon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "8",
+   "date_kind": "release",
+   "director": [
+    "Pascal Bonitzer"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1454680,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Imbued with Victor Hugo, the actor Robert Zucchini searches for his place between the stage and life. Every evening, he fills theaters by sharing his love of words. Until the day his daughter, whom he hasn’t seen grow up, reappears.",
+   "popularity": 2.2937,
+   "poster_path": "/eQnsG3eFupvzgn6BWuCNAFqlgMT.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Strand Releasing Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ugFLagb0elt6ssH89oY85UxXd4d.png",
+     "name": "Strand Releasing Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-11",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Hugo",
+   "trailer": {
+    "key": "XQxxIeqOI10",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.093,
+   "vote_count": 27
+  },
+  "movie:1584780": {
+   "backdrop_path": "/1IF24dyK06YXhItRBPV6XM28PYs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Chevy Chase"
+    },
+    {
+     "c": "Self - Actor",
+     "n": "Beverly D'Angelo"
+    },
+    {
+     "c": "Self - Actor",
+     "n": "Dan Aykroyd"
+    },
+    {
+     "c": "Self - Actor",
+     "n": "Goldie Hawn"
+    },
+    {
+     "c": "Self - Executive Producer, SNL",
+     "n": "Lorne Michaels"
+    },
+    {
+     "c": "Self - Actor",
+     "n": "Ryan Reynolds"
+    },
+    {
+     "c": "Self - Actor",
+     "n": "Martin Short"
+    },
+    {
+     "c": "Self - Chevy's Former Agent",
+     "n": "Michael Ovitz"
+    },
+    {
+     "c": "Self - Actor",
+     "n": "Johnny Galecki"
+    },
+    {
+     "c": "Self - Middle Daughter",
+     "n": "Caley Chase"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "date_kind": "release",
+   "director": [
+    "Marina Zenovich"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1584780,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "From his Saturday Night Live beginnings to a string of classic comedies, Chevy Chase has always had huge comedic range. He is also a complex and contradictory human being. Featuring revealing interviews with those closest to him, this documentary digs into the talent, flaws, and humanity that shaped an icon.",
+   "popularity": 1.3281,
+   "poster_path": "/gxPOVkbNQJX94M5wRznyxaV2Svy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-04",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "I'm Chevy Chase and You're Not",
+   "trailer": {
+    "key": "vIHEjXEI-l0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 25
+  },
+  "movie:1611380": {
+   "backdrop_path": "/mFNUFnQzvDJI9TLHa2YkofHf41W.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "",
+     "n": "Nataniel Sánchez"
+    },
+    {
+     "c": "",
+     "n": "Fiorella Luna"
+    },
+    {
+     "c": "",
+     "n": "Mateo Garrido-Lecca"
+    },
+    {
+     "c": "",
+     "n": "Omar García"
+    },
+    {
+     "c": "",
+     "n": "Kukuli Morante"
+    },
+    {
+     "c": "",
+     "n": "Carla Arriola"
+    },
+    {
+     "c": "",
+     "n": "Carlos Casella"
+    },
+    {
+     "c": "",
+     "n": "Katia Palma"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Saskia Bernaola"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1611380,
+   "industry": "world",
+   "origin_country": [
+    "PE"
+   ],
+   "original_language": "es",
+   "overview": "Valeria and her former high school classmates reunite twenty-five years later at the place where they shared their last unforgettable summer. During the reunion, old rivalries resurface, leading them into hilarious situations where they will discover the true value of friendship and the weight of the past on the present.",
+   "popularity": 0.7708,
+   "poster_path": "/tZ5I6cq7TpsY7nwpM4n47p7XcZK.jpg",
+   "production_countries": [
+    "PE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-05",
+   "revenue": 0,
+   "runtime": 0,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "My Worst Enemy",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 23
+  },
+  "movie:1700680": {
+   "backdrop_path": "/8gg1n99c3LC0SEq99FLIDDXVSa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Benito",
+     "n": "Silverio Palacios"
+    },
+    {
+     "c": "Juan",
+     "n": "Daniel Sosa"
+    },
+    {
+     "c": "Pancho",
+     "n": "Fernando Cuautle"
+    },
+    {
+     "c": "Melinda",
+     "n": "Sofía Carrera"
+    },
+    {
+     "c": "Adri",
+     "n": "Rocío Guzmán"
+    },
+    {
+     "c": "Pacha Nana",
+     "n": "Norma Reyna"
+    },
+    {
+     "c": "Marisela",
+     "n": "Flor Benítez"
+    },
+    {
+     "c": "Toña",
+     "n": "Shaní Lozano"
+    },
+    {
+     "c": "Fabio",
+     "n": "Alberto Gorgonio"
+    },
+    {
+     "c": "Dickens",
+     "n": "John Michael DeWall"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "B-15",
+   "date_kind": "release",
+   "director": [
+    "Carlos Santos"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1700680,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "A man finds the best motivation to secure and save his town: making an independent Mexican film.",
+   "popularity": 16.0464,
+   "poster_path": "/wCUD4k1EYhFwuTpsUwKfY3fvWOT.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-13",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Crazy Magical Mexico",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.698,
+   "vote_count": 81
   },
   "movie:3780": {
    "backdrop_path": "/jJK3skg06c2iUXgpJg9DTxQhRb4.jpg",
@@ -680,6 +1267,150 @@
    "type": "movie",
    "vote_average": 8.429,
    "vote_count": 478
+  },
+  "movie:798580": {
+   "backdrop_path": "/A7I7Hy7CJtK7QlL6Y2I0UnnYo6J.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Zach",
+     "n": "Chris Cavalier"
+    },
+    {
+     "c": "Natalia",
+     "n": "Veronica Jarvis"
+    },
+    {
+     "c": "Christopher Lambert",
+     "n": "Christopher Lambert"
+    },
+    {
+     "c": "Joe",
+     "n": "Kheba Touray"
+    },
+    {
+     "c": "Jaakko",
+     "n": "Matti Paalanen"
+    },
+    {
+     "c": "Biff",
+     "n": "Iiro Panula"
+    },
+    {
+     "c": "Sexy Nun #1",
+     "n": "Katariina Juselius"
+    },
+    {
+     "c": "Sexy Nun #2",
+     "n": "Erika Helin"
+    },
+    {
+     "c": "Uncle John",
+     "n": "Joe Dante"
+    },
+    {
+     "c": "KITT (voice)",
+     "n": "William Daniels"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Marko Mäkilaakso"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy",
+    "Action"
+   ],
+   "id": 798580,
+   "industry": "world",
+   "origin_country": [
+    "FI"
+   ],
+   "original_language": "fi",
+   "overview": "When a mysterious gateway between dimensions unleashes a horde of nasty little creatures into Vuokatti Ski Resort, Zach and his friends’ dream holiday takes a turn for the terrifying. What was supposed to be an epic party—filled with sex, drugs, rock ’n’ roll, and Hollywood legend Christopher Lambert—spirals into pure chaos as the Creeps run wild. Now, Zach must rise to the occasion, battle the pint-sized terrors, and prove that being a hero isn’t so different from the ‘80s movies he worships.",
+   "popularity": 1.2561,
+   "poster_path": "/9LU1uvxf0BZxfPGX0oInpYxZX0.jpg",
+   "production_countries": [
+    "FI"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-02",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fi"
+   ],
+   "status": "Released",
+   "tagline": "The Creeps are coming to destroy your holiday season!",
+   "title": "The Creeps",
+   "trailer": {
+    "key": "mUVqIOVwywM",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.5,
+   "vote_count": 21
   },
   "movie:94380": {
    "backdrop_path": "/yWaUueQsfojYlA7NQowbcKlj2BE.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "22",
- "count": 20,
+ "count": 23,
  "titles": {
   "movie:11222": {
    "backdrop_path": "/h59F8NcFSlucTK7fUcndD9TB9jg.jpg",
@@ -140,6 +140,275 @@
    "type": "movie",
    "vote_average": 7.087,
    "vote_count": 469
+  },
+  "movie:1295722": {
+   "backdrop_path": "/x39HHPUdRR5RbFdrLoHuyV8GORl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Noé",
+     "n": "Jérémy Ferrari"
+    },
+    {
+     "c": "Zoulika",
+     "n": "Laura Felpin"
+    },
+    {
+     "c": "Ryan",
+     "n": "Éric Judor"
+    },
+    {
+     "c": "Barberousse",
+     "n": "Fred Testot"
+    },
+    {
+     "c": "Aïcha",
+     "n": "Zaynab Alji"
+    },
+    {
+     "c": "Virginie",
+     "n": "Céline Groussard"
+    },
+    {
+     "c": "Amazane",
+     "n": "David Ayala"
+    },
+    {
+     "c": "Patricia",
+     "n": "Karina Marimon"
+    },
+    {
+     "c": "Maurice",
+     "n": "Renaud Rutten"
+    },
+    {
+     "c": "Prashi",
+     "n": "Chanaël Meïmoun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Jérémy Ferrari"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1295722,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Noah, who grew up believing he’s Gaddafi’s secret son, is now a treasure hunter obsessed with finding the Libyan leader’s lost gold, scattered across the Sahel after his death. To reach it, he teams up with Zoulika—formerly Louise—an endearing, unpredictable firebrand freshly out of civic reintegration camp. Their cover: joining forces with Ryan, a 52-year-old conservative, visually impaired late bloomer determined to run the legendary Marathon des Sables. Noah wants his father’s gold, Zoulika wants to slip across the border, and Ryan wants to fulfill a childhood dream. Off they go, heading straight into the Sahel.",
+   "popularity": 1.5984,
+   "poster_path": "/jmi7N7byG3J0HfOdjgdmjPQ0TZ5.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-11",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Les K d'Or",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.3,
+   "vote_count": 74
+  },
+  "movie:1341422": {
+   "backdrop_path": "/eoZGgOb3zbTZXKPbOx5cS6DZYwV.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Lelio",
+     "n": "Filippo Timi"
+    },
+    {
+     "c": "Elena",
+     "n": "Jasmine Trinca"
+    },
+    {
+     "c": "Cesare",
+     "n": "Matteo Olivetti"
+    },
+    {
+     "c": "Rossella",
+     "n": "Anna Ferzetti"
+    },
+    {
+     "c": "",
+     "n": "Vincenzo Crea"
+    },
+    {
+     "c": "Nicoletta",
+     "n": "Rita Abela"
+    },
+    {
+     "c": "Sandrone",
+     "n": "Roberto De Francesco"
+    },
+    {
+     "c": "Pasqualina",
+     "n": "Carmen Pommella"
+    },
+    {
+     "c": "Ricky",
+     "n": "Alberto Paradossi"
+    },
+    {
+     "c": "Silverio",
+     "n": "Gennaro Apicella"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Andrea De Sica"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1341422,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "In the untamed beauty of the island owned by an extraordinarily wealthy Marquis, Elena's arrival marks the beginning of a passionate love affair. Complicity and transgression, sex and power, in a film inspired by 1960s Italian true crime, where erotic play unfolds into obsession.",
+   "popularity": 1.9117,
+   "poster_path": "/lAxrqKEMbasiHj6C5Dfv5FKQTAD.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-19",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Eyes of Others",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.794,
+   "vote_count": 34
+  },
+  "movie:1442922": {
+   "backdrop_path": "/2stEL3ibnjg9B9Rjr0U4CyuYc5Z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fred",
+     "n": "Stella Wendick"
+    },
+    {
+     "c": "Antero",
+     "n": "Giacomo Covi"
+    },
+    {
+     "c": "Pasini",
+     "n": "Pietro Giustolisi"
+    },
+    {
+     "c": "Mitis",
+     "n": "Samuel Volturno"
+    },
+    {
+     "c": "Padre di Fred",
+     "n": "Magnus Krepper"
+    },
+    {
+     "c": "Prof.ssa Banti",
+     "n": "Silvia Gallerano"
+    },
+    {
+     "c": "Prof. Parmeggiani",
+     "n": "Maurizio Zacchigna"
+    },
+    {
+     "c": "Bidello",
+     "n": "Paolo Fagiolo"
+    },
+    {
+     "c": "Alice",
+     "n": "Sofia Mercandel"
+    },
+    {
+     "c": "Valeria",
+     "n": "Luna Isabel Perosa Perez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TP",
+   "date_kind": "release",
+   "director": [
+    "Laura Samani"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1442922,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "2007. Fred, a 17-year-old girl who just moved from Sweden to Northeast Italy, enrolls for her high school senior year—finding herself the only female student in an all-male class. Lively and good-looking, she quickly becomes the center of attention, especially for three classmates: Antero, charming and reserved; Pasini, a cocky womanizer; Mitis, gruff and sagacious. The three have been best friends for as long as they can remember, but Fred's arrival puts their longstanding bond to the test. As each of the guys secretly desires Fred for himself, she yearns to be accepted into the group and be considered 'one of them', but is asked to sacrifice more and more in order to belong.",
+   "popularity": 1.2854,
+   "poster_path": "/6Oha80OEhmtnDwlRYrdvLXP0mmo.jpg",
+   "production_countries": [
+    "IT",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-09",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "sv",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Year of School",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.959,
+   "vote_count": 37
   },
   "movie:20722": {
    "backdrop_path": "/1EfLDlkrcgSUgxVT56T9PGUGs5N.jpg",

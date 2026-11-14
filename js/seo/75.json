@@ -1,7 +1,71 @@
 {
  "bucket": "75",
- "count": 14,
+ "count": 20,
  "titles": {
+  "movie:1130875": {
+   "d": "Operation Taco Gary's (2026): Comedy/Science Fiction film. Story: Two brothers uncover an alien invasion hidden inside… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bjWqyS38dQA1Ra9sNcL62gSEWor.jpg",
+   "industry": "world",
+   "k": "Operation Taco Gary's, Operation Taco Gary's movie, Operation Taco Gary's cast, Operation Taco Gary's story, Operation Taco Gary's box office collection, Operation Taco Gary's budget, Operation Taco Gary's review, Operation Taco Gary's rating, Operation Taco Gary's release date, Operation Taco Gary's trailer, Operation Taco Gary's Comedy, Operation Taco Gary's Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Simon Rex"
+     },
+     {
+      "@type": "Person",
+      "name": "Dustin Milligan"
+     },
+     {
+      "@type": "Person",
+      "name": "Brenda Song"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Biggs"
+     },
+     {
+      "@type": "Person",
+      "name": "Arturo Castro"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 22,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Operation Taco Gary's (2026): Comedy/Science Fiction film. Story: Two brothers uncover an alien invasion hidden inside… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Kvamme"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Comedy",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bjWqyS38dQA1Ra9sNcL62gSEWor.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1130875",
+    "name": "Operation Taco Gary's",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1130875"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Operation Taco Gary&#x27;s (2026)</h1>\n<p class=\"ssr-lead\">Two brothers uncover an alien invasion hidden inside a fast-food chain and must save Earth.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 February 2026</li><li>Runtime: 87 minutes</li><li>Director: Michael Kvamme</li><li>Genres: Comedy, Science Fiction, Action</li><li>TMDB rating: 6.3/10 (22 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Simon Rex as Danny</li><li>Dustin Milligan as Luke</li><li>Brenda Song as Allison</li><li>Jason Biggs as Self</li><li>Arturo Castro as Tiago</li><li>Tony Cavalero as Klyle</li><li>Doug Jones as Elder</li><li>Stephen Ware as Clinton</li><li>Brian Duckson as Bartender</li><li>Benji Hughes as Camper Gary</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Operation Taco Gary's (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:120475": {
    "d": "Dragon Ball: Episode of Bardock (2011): Action/Animation film. Story: A spin-off scenario taking place after the events of… See cast and TMDB rating 7.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/pLctvg69kQGVfqSLqeL55sbWNRr.jpg",
@@ -65,6 +129,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Dragon Ball: Episode of Bardock (2011)</h1>\n<p class=\"ssr-lead\">A spin-off scenario taking place after the events of the TV special Dragon Ball Z: Bardock - The Father of Goku, in which Bardock survives the destruction of Planet Vegeta and is sent into the past, combating Frieza&#x27;s ancestor Chilled and turning into a Super Saiyan.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 December 2011</li><li>Runtime: 20 minutes</li><li>Director: Yoshihiro Ueda</li><li>Genres: Action, Animation, Science Fiction</li><li>TMDB rating: 7.2/10 (471 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Masako Nozawa as Bardock (voice)</li><li>Ryusei Nakao as Chilled / Frieza (voice)</li><li>Houko Kuwashima as Berry (voice)</li><li>Masashi Ebara as Ipana (voice)</li><li>Keiji Hirai as Toobi (voice)</li><li>Kazuyuki Ishikawa as Kyabira (voice)</li><li>Hiroaki Miura as Zarbon (voice)</li><li>Takashi Nagasako as Dodoria (voice)</li><li>Joji Yanami as Narrator (voice)</li><li>Tomoyo Sasaki as Inhabitant of Plant (voice)</li></ul>\n</article>",
    "t": "Dragon Ball: Episode of Bardock (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:1255775": {
+   "d": "Merv (2025): Comedy/Romance film. Story: When their beloved dog Merv loses his spark after… See cast, TMDB rating 5.9/10, and release date 9 December 2025.",
+   "img": "https://image.tmdb.org/t/p/w780/3MphYnIcLOqy5oVkDTZUiaGfPtN.jpg",
+   "industry": "world",
+   "k": "Merv, Merv movie, Merv cast, Merv story, Merv box office collection, Merv budget, Merv review, Merv rating, Merv release date, Merv trailer, Merv Comedy, Merv Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Zooey Deschanel"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlie Cox"
+     },
+     {
+      "@type": "Person",
+      "name": "Ellyn Jameson"
+     },
+     {
+      "@type": "Person",
+      "name": "Patricia Heaton"
+     },
+     {
+      "@type": "Person",
+      "name": "David Hunt"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 131,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Merv (2025): Comedy/Romance film. Story: When their beloved dog Merv loses his spark after… See cast, TMDB rating 5.9/10, and release date 9 December 2025.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jessica Swale"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3MphYnIcLOqy5oVkDTZUiaGfPtN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1255775",
+    "name": "Merv",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1255775"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Merv (2025)</h1>\n<p class=\"ssr-lead\">When their beloved dog Merv loses his spark after their split, Anna and Russ are forced into the world&#x27;s most awkward co-parenting arrangement. Hoping to shake Merv out of his funk, Russ takes him to Florida for a much-needed getaway-only for Anna to show up unexpectedly. As Merv slowly gets his groove back, turns out fixing their dog&#x27;s broken heart may lead to a few sparks of their own.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 December 2025</li><li>Runtime: 105 minutes</li><li>Director: Jessica Swale</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 5.9/10 (131 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Zooey Deschanel as Anna Finch</li><li>Charlie Cox as Russ Owens</li><li>Ellyn Jameson as Jocelyn Bentley</li><li>Patricia Heaton as MJ Owens</li><li>David Hunt as Jack Owens</li><li>Chris Redd as Vice Principal Desmond</li><li>Jasmine Mathews as Rebekah</li><li>Victoria Blade as Carly</li><li>Wynn Everett as Gaia</li><li>Jason Burkey as Sheriff Tom Bentley</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Merv (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
   },
   "movie:12775": {
    "d": "Flesh + Blood (1985): Adventure/Drama film. Story: A band of medieval mercenaries take revenge on a… See cast, budget $6.5M, and TMDB rating 6.6/10.",
@@ -193,6 +321,261 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>In the Electric Mist (2009)</h1>\n<p class=\"ssr-lead\">Lt. Dave Robicheaux, a detective in New Iberia, Louisiana, is trying to link the murder of a local hooker to New Orleans mobster Julie &#x27;Baby Feet&#x27; Balboni, who is co-producer of a Civil War film. When the star of the film, Elrod Sykes, reports finding another corpse in the Atchafalaya Swamp near the movie set, Robicheaux starts another investigation, believing the corpse to be the remains of a black man whose murder he witnessed 35 years earlier.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 April 2009</li><li>Runtime: 117 minutes</li><li>Director: Bertrand Tavernier</li><li>Genres: Thriller, Drama, Crime, Mystery</li><li>Budget: $17M</li><li>TMDB rating: 6.1/10 (492 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tommy Lee Jones as Dave Robicheaux</li><li>John Goodman as Julie &#x27;Baby Feet&#x27; Balboni</li><li>Peter Sarsgaard as Elrod Sykes</li><li>Mary Steenburgen as Bootsie Robicheaux</li><li>Kelly Macdonald as Kelly Drummond</li><li>Justina Machado as Rosie Gomez</li><li>Ned Beatty as Twinky LeMoyne</li><li>James Gammon as Ben Hebert</li><li>Pruitt Taylor Vince as Lou Girard</li><li>Levon Helm as General John Bell Hood</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "In the Electric Mist (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2009"
+  },
+  "movie:1591675": {
+   "d": "Look Back (2026): Drama film. Story: Popular, outgoing Fujino is celebrated by her… See cast, TMDB rating 8.0/10, and release date 11 September 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/ceOdqFmZy5kKImbGThuDHuifGpm.jpg",
+   "industry": "world",
+   "k": "Look Back, Look Back movie, Look Back cast, Look Back story, Look Back box office collection, Look Back budget, Look Back review, Look Back rating, Look Back release date, Look Back trailer, Look Back Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Natsuki Deguchi"
+     },
+     {
+      "@type": "Person",
+      "name": "Aju Makita"
+     },
+     {
+      "@type": "Person",
+      "name": "Fuuri Nanase"
+     },
+     {
+      "@type": "Person",
+      "name": "Rokka Okada"
+     },
+     {
+      "@type": "Person",
+      "name": "Masaki Suda"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 29,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "Look Back (2026): Drama film. Story: Popular, outgoing Fujino is celebrated by her… See cast, TMDB rating 8.0/10, and release date 11 September 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Hirokazu Kore-eda"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ceOdqFmZy5kKImbGThuDHuifGpm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1591675",
+    "name": "Look Back",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1591675"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Look Back (2026)</h1>\n<p class=\"ssr-lead\">Popular, outgoing Fujino is celebrated by her classmates for her funny comics in the class newspaper. One day, her teacher asks her to share the space with Kyomoto, a truant recluse whose beautiful artwork sparks a competitive fervor in Fujino. What starts as jealousy transforms when Fujino realizes their shared passion for drawing.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 September 2026</li><li>Runtime: 100 minutes</li><li>Director: Hirokazu Kore-eda</li><li>Genres: Drama</li><li>TMDB rating: 8.0/10 (29 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Natsuki Deguchi as Fujino</li><li>Aju Makita as Kyomoto</li><li>Fuuri Nanase as Young Fujino</li><li>Rokka Okada as Young Kyomoto</li><li>Masaki Suda as Maeda</li><li>Kankuro Kudo as Tamai</li><li>Kayo Noro as Akari</li><li>Ryo Ikeda as Hitoshi</li><li>Miyu Sasaki as Megumi</li><li>Maho Yamada as Manabe</li></ul>\n</article>",
+   "t": "Look Back (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1596275": {
+   "d": "Drive - The Pretenders (2026): Romance/Thriller film. Story: A young mechanic fakes an engagement with racing's… See cast and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+   "industry": "world",
+   "k": "Drive - The Pretenders, Drive - The Pretenders movie, Drive - The Pretenders cast, Drive - The Pretenders story, Drive - The Pretenders box office collection, Drive - The Pretenders budget, Drive - The Pretenders review, Drive - The Pretenders rating, Drive - The Pretenders release date, Drive - The Pretenders trailer, Drive - The Pretenders Romance, Drive - The Pretenders Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lisa-Marie Koroll"
+     },
+     {
+      "@type": "Person",
+      "name": "Amin Baahmed"
+     },
+     {
+      "@type": "Person",
+      "name": "Gustav Schmidt"
+     },
+     {
+      "@type": "Person",
+      "name": "Mišel Matičević"
+     },
+     {
+      "@type": "Person",
+      "name": "Lucie Heinze"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 170,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Drive - The Pretenders (2026): Romance/Thriller film. Story: A young mechanic fakes an engagement with racing's… See cast and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sergej Moya"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Romance",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1596275",
+    "name": "Drive - The Pretenders",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1596275"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Drive - The Pretenders (2026)</h1>\n<p class=\"ssr-lead\">A young mechanic fakes an engagement with racing&#x27;s most scandalous star — officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything — including what&#x27;s already become so much more than just a deal.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 October 2026</li><li>Runtime: 103 minutes</li><li>Director: Sergej Moya</li><li>Genres: Romance, Thriller</li><li>TMDB rating: 7.6/10 (170 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lisa-Marie Koroll as Sarah Jenkins</li><li>Amin Baahmed as Dante Annunziata</li><li>Gustav Schmidt as Ruben Laroch</li><li>Mišel Matičević as Alexander Bronson</li><li>Lucie Heinze as Tanya Stein</li><li>Frederic Linkemann as Jack Schroder</li><li>Inka Friedrich as Irene Jenkins</li><li>Jeanette Hain as Sofia Annunziata</li><li>Philippe Brenninkmeyer as Dr. Frederic Richter</li><li>Leslie Malton as Eva Maria Fischer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Drive - The Pretenders (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1698575": {
+   "d": "Snoopy Presents: There's No Place Like Home, Snoopy (2026): Animation/Family film. Story: When Snoopy's beloved doghouse goes missing, he tries… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/kpq5o3WbnTos5fQwtyfyOHwSMdm.jpg",
+   "industry": "world",
+   "k": "Snoopy Presents: There's No Place Like Home, Snoopy, Snoopy Presents: There's No Place Like Home, Snoopy movie, Snoopy Presents: There's No Place Like Home, Snoopy cast, Snoopy Presents: There's No Place Like Home, Snoopy story, Snoopy Presents: There's No Place Like Home, Snoopy box office collection, Snoopy Presents: There's No Place Like Home, Snoopy budget, Snoopy Presents: There's No Place Like Home, Snoopy review, Snoopy Presents: There's No Place Like Home, Snoopy rating, Snoopy Presents: There's No Place Like Home, Snoopy release date, Snoopy Presents: There's No Place Like Home, Snoopy trailer, Snoopy Presents: There's No Place Like Home, Snoopy Animation, Snoopy Presents: There's No Place Like Home, Snoopy Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Riley Kai Vargas"
+     },
+     {
+      "@type": "Person",
+      "name": "Terry McGurrin"
+     },
+     {
+      "@type": "Person",
+      "name": "Rob Tinkler"
+     },
+     {
+      "@type": "Person",
+      "name": "Kitai O'Garro"
+     },
+     {
+      "@type": "Person",
+      "name": "Josephine Nisbett"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 61,
+     "ratingValue": 8.4,
+     "worstRating": 0
+    },
+    "description": "Snoopy Presents: There's No Place Like Home, Snoopy (2026): Animation/Family film. Story: When Snoopy's beloved doghouse goes missing, he tries… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ridd Sorensen"
+     }
+    ],
+    "duration": "PT32M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kpq5o3WbnTos5fQwtyfyOHwSMdm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1698575",
+    "name": "Snoopy Presents: There's No Place Like Home, Snoopy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1698575"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Snoopy Presents: There&#x27;s No Place Like Home, Snoopy (2026)</h1>\n<p class=\"ssr-lead\">When Snoopy&#x27;s beloved doghouse goes missing, he tries to track it down, and learns what makes a house feel like home.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 July 2026</li><li>Runtime: 32 minutes</li><li>Director: Ridd Sorensen</li><li>Genres: Animation, Family</li><li>TMDB rating: 8.4/10 (61 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Riley Kai Vargas as Charlie Brown (voice)</li><li>Terry McGurrin as Snoopy (voice)</li><li>Rob Tinkler as Woodstock (voice)</li><li>Kitai O&#x27;Garro as Franklin (voice)</li><li>Josephine Nisbett as Marcie (voice)</li><li>Grace Nicolaou-Wood as Sally (voice)</li><li>Jo-Hannah Atchison as Lucy (voice)</li><li>Lexi Perri as Peppermint Patty (voice)</li><li>Athan Giazitzidis as Linus (voice)</li><li>Diego Whalen as Rerun (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Apple TV, Apple TV Amazon Channel</li></ul>\n</article>",
+   "t": "Snoopy Presents: There's No Place Like Home, Snoopy (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1759875": {
+   "d": "The Militia (2026): Drama/Thriller film. Story: Daniel Pierce dreams of joining the local Militia… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/twI5fNZrX4UnUVu8mAeO1P7VAUk.jpg",
+   "industry": "world",
+   "k": "The Militia, The Militia movie, The Militia cast, The Militia story, The Militia box office collection, The Militia budget, The Militia review, The Militia rating, The Militia release date, The Militia trailer, The Militia Drama, The Militia Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sam Williamson"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Broderick"
+     },
+     {
+      "@type": "Person",
+      "name": "Luke Stratte-McClure"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Bylsma"
+     },
+     {
+      "@type": "Person",
+      "name": "Laurel Feierbach"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 21,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "The Militia (2026): Drama/Thriller film. Story: Daniel Pierce dreams of joining the local Militia… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Dylan King Welter"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/twI5fNZrX4UnUVu8mAeO1P7VAUk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1759875",
+    "name": "The Militia",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1759875"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Militia (2026)</h1>\n<p class=\"ssr-lead\">Daniel Pierce dreams of joining the local Militia alongside his father once he turns eighteen, but when his Dad becomes the target of the local Sheriff, Daniel and his friends form their own militia in a troubled effort to save him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 September 2026</li><li>Runtime: 117 minutes</li><li>Director: Dylan King Welter</li><li>Genres: Drama, Thriller</li><li>TMDB rating: 7.4/10 (21 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sam Williamson as Daniel Pierce</li><li>Michael Broderick as Lee</li><li>Luke Stratte-McClure as Sheriff Webb</li><li>Chris Bylsma as Nathan</li><li>Laurel Feierbach as Elinor</li><li>Solomon Puckett as Tyler</li><li>Scott Callenberger as Russ</li><li>Noah Aronstein as John</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "The Militia (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:2075": {
    "d": "Prizzi's Honor (1985): Romance/Comedy film. Story: Charley Partanna is a hitman who works for the… See cast, TMDB rating 6.4/10, and release date 14 June 1985.",

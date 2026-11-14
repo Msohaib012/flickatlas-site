@@ -1,6 +1,6 @@
 {
  "bucket": "23",
- "count": 22,
+ "count": 31,
  "titles": {
   "movie:11223": {
    "d": "Coma (1978): Thriller/Mystery film. Story: When relatively healthy patients begin having… See cast, budget $4.5M, and TMDB rating 6.8/10.",
@@ -66,6 +66,197 @@
    "t": "Coma (1978) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1978"
   },
+  "movie:1244523": {
+   "d": "Beware Boiúna (2026): Horror/Thriller film. Story: A medical mission deep in the Amazon becomes a… See cast and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+   "industry": "world",
+   "k": "Beware Boiúna, Beware Boiúna movie, Beware Boiúna cast, Beware Boiúna story, Beware Boiúna box office collection, Beware Boiúna budget, Beware Boiúna review, Beware Boiúna rating, Beware Boiúna release date, Beware Boiúna trailer, Beware Boiúna Horror, Beware Boiúna Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kiana Madeira"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessica Rothe"
+     },
+     {
+      "@type": "Person",
+      "name": "Will Close"
+     },
+     {
+      "@type": "Person",
+      "name": "Juan Pablo Shuk"
+     },
+     {
+      "@type": "Person",
+      "name": "Logan Marshall-Green"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 54,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Beware Boiúna (2026): Horror/Thriller film. Story: A medical mission deep in the Amazon becomes a… See cast and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mike P. Nelson"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1244523",
+    "name": "Beware Boiúna",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1244523"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Beware Boiúna (2026)</h1>\n<p class=\"ssr-lead\">A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 October 2026</li><li>Runtime: 103 minutes</li><li>Director: Mike P. Nelson</li><li>Genres: Horror, Thriller, Action</li><li>TMDB rating: 6.2/10 (54 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kiana Madeira as Lena</li><li>Jessica Rothe as Alli</li><li>Will Close as Callum</li><li>Juan Pablo Shuk as Miguel</li><li>Logan Marshall-Green as Brennan</li><li>Jaime Newball as Raúl</li><li>Jackson Bews as Shawn</li><li>Tonfy Andoque as Yaguari Leader</li><li>Andres Paier as Reynaldo</li><li>Victor Bustos as Garimpeiro Leader</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Beware Boiúna (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1248723": {
+   "d": "The Golden Key: A New Pinocchio Story (2026): Family/Drama film. Story: A screen adaptation of the beloved international… See cast and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/r3oPwy5HILetFqKlTI6BElFoAWf.jpg",
+   "industry": "world",
+   "k": "The Golden Key: A New Pinocchio Story, The Golden Key: A New Pinocchio Story movie, The Golden Key: A New Pinocchio Story cast, The Golden Key: A New Pinocchio Story story, The Golden Key: A New Pinocchio Story box office collection, The Golden Key: A New Pinocchio Story budget, The Golden Key: A New Pinocchio Story review, The Golden Key: A New Pinocchio Story rating, The Golden Key: A New Pinocchio Story release date, The Golden Key: A New Pinocchio Story Family, The Golden Key: A New Pinocchio Story Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vitaliya Kornienko"
+     },
+     {
+      "@type": "Person",
+      "name": "Aleksandr Yatsenko"
+     },
+     {
+      "@type": "Person",
+      "name": "Fyodor Bondarchuk"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexander Petrov"
+     },
+     {
+      "@type": "Person",
+      "name": "Viktoriya Isakova"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 75,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "The Golden Key: A New Pinocchio Story (2026): Family/Drama film. Story: A screen adaptation of the beloved international… See cast and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Igor Voloshin"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Family",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/r3oPwy5HILetFqKlTI6BElFoAWf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1248723",
+    "name": "The Golden Key: A New Pinocchio Story",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1248723"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Golden Key: A New Pinocchio Story (2026)</h1>\n<p class=\"ssr-lead\">A screen adaptation of the beloved international fairy tale by Alexei Tolstoy in a new way. The story of everyone&#x27;s favorite hero Pinocchio, his dad Carlo and their friends, told with the help of modern life-action technologies.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 January 2026</li><li>Runtime: 102 minutes</li><li>Director: Igor Voloshin</li><li>Genres: Family, Drama, Adventure, Fantasy</li><li>TMDB rating: 7.0/10 (75 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vitaliya Kornienko as Buratino</li><li>Aleksandr Yatsenko as Papa Carlo</li><li>Fyodor Bondarchuk as Karabas</li><li>Alexander Petrov as Bazilio</li><li>Viktoriya Isakova as Alisa</li><li>Svetlana Nemolyaeva as Tortila</li><li>Lev Zulkarnaev as Duremar</li><li>Mark Eydelshteyn as Artemon</li><li>Ruzil Minekaev as Arlekin</li><li>Stepan Belozerov as Piero</li></ul>\n</article>",
+   "t": "The Golden Key: A New Pinocchio Story (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1370123": {
+   "d": "Aida, the Movie (2026): Comedy film. Story: The film deals with the filming of an episode of the… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5Sfl1SdrCWNHuRcPcqJP6Vcx8I8.jpg",
+   "industry": "world",
+   "k": "Aida, the Movie, Aida, the Movie movie, Aida, the Movie cast, Aida, the Movie story, Aida, the Movie box office collection, Aida, the Movie budget, Aida, the Movie review, Aida, the Movie rating, Aida, the Movie release date, Aida, the Movie Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Carmen Machi"
+     },
+     {
+      "@type": "Person",
+      "name": "Paco León"
+     },
+     {
+      "@type": "Person",
+      "name": "Miren Ibarguren"
+     },
+     {
+      "@type": "Person",
+      "name": "Mariano Peña"
+     },
+     {
+      "@type": "Person",
+      "name": "Eduardo Casanova"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 85,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Aida, the Movie (2026): Comedy film. Story: The film deals with the filming of an episode of the… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Paco León"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5Sfl1SdrCWNHuRcPcqJP6Vcx8I8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1370123",
+    "name": "Aida, the Movie",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1370123"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Aida, the Movie (2026)</h1>\n<p class=\"ssr-lead\">The film deals with the filming of an episode of the series with storylines that take place both within the fiction with the characters of &#x27;Aída&#x27; and outside of it with the actors themselves and their relationships, which reflects on topics such as the limits of comedy, the work of a comedian and fame.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 January 2026</li><li>Runtime: 98 minutes</li><li>Director: Paco León</li><li>Genres: Comedy</li><li>TMDB rating: 6.8/10 (85 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Carmen Machi as Carmen Machi/Aída</li><li>Paco León as Paco Léon/Luisma</li><li>Miren Ibarguren as Miren Ibarguren/Soraya</li><li>Mariano Peña as Mariano Peña/Mauricio</li><li>Eduardo Casanova as Eduardo Casanova/Fidel</li><li>Marisol Ayuso as Marisol Ayuso/Eugenia</li><li>Canco Rodríguez as Canco Rodríguez/El Barajas</li><li>Secun de la Rosa as Secun de la Rosa/Toni</li><li>Pepe Viyuela as Pepe Viyuela/Chema</li><li>Melani Olivares as Melani Olivares/Paz</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Aida, the Movie (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:14123": {
    "d": "Bratz (2007): Comedy/Music film. Story: The popular Bratz dolls come to life in their first… See cast, budget $20M, and TMDB rating 5.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/A1CCx5tX8owG0CMQH0fvMHpkk6m.jpg",
@@ -129,6 +320,329 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Bratz (2007)</h1>\n<p class=\"ssr-lead\">The popular Bratz dolls come to life in their first live-action feature film. Finding themselves being pulled further and further apart, the fashionable four band together to fight peer pressure, learn what it means to stand up for your friends, be true to oneself and live out your dreams.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 August 2007</li><li>Runtime: 102 minutes</li><li>Director: Sean McNamara</li><li>Genres: Comedy, Music, Family</li><li>Budget: $20M</li><li>TMDB rating: 5.7/10 (484 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Logan Browning as Sasha</li><li>Janel Parrish as Jade</li><li>Nathalia Ramos as Yasmin</li><li>Skyler Shaye as Cloe</li><li>Chelsea Kane as Meredith</li><li>Anneliese Van Der Pol as Avery</li><li>Melise as Quinn</li><li>Ian Nelson as Dylan</li><li>Stephen Ford as Cameron</li><li>Jon Voight as Principal Dimly</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Rakuten TV, Amazon Video, Sky Store, YouTube</li><li>Buy: Apple TV Store, Rakuten TV, Amazon Video, Sky Store, YouTube</li></ul>\n</article>",
    "t": "Bratz (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
+  },
+  "movie:1466123": {
+   "d": "Crescendo (2026): Comedy/Drama film. Story: In the ruins of a Roman amphitheatre in the South of… See cast, TMDB rating 6.1/10, and release date 27 May 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/m6lfhmhlH3zEZHlvNR3YmPd16wT.jpg",
+   "industry": "world",
+   "k": "Crescendo, Crescendo movie, Crescendo cast, Crescendo story, Crescendo box office collection, Crescendo budget, Crescendo review, Crescendo rating, Crescendo release date, Crescendo trailer, Crescendo Comedy, Crescendo Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Agnès Jaoui"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Auteuil"
+     },
+     {
+      "@type": "Person",
+      "name": "Eye Haïdara"
+     },
+     {
+      "@type": "Person",
+      "name": "Claire Chust"
+     },
+     {
+      "@type": "Person",
+      "name": "Oussama Kheddam"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 41,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Crescendo (2026): Comedy/Drama film. Story: In the ruins of a Roman amphitheatre in the South of… See cast, TMDB rating 6.1/10, and release date 27 May 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Agnès Jaoui"
+     }
+    ],
+    "duration": "PT133M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/m6lfhmhlH3zEZHlvNR3YmPd16wT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1466123",
+    "name": "Crescendo",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1466123"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Crescendo (2026)</h1>\n<p class=\"ssr-lead\">In the ruins of a Roman amphitheatre in the South of France, the cast and crew of an ambitious staging of The Marriage of Figaro is thrown off balance when troubling accusations threaten to derail the entire production. As tensions intensify, loyalties slowly fracture and deep generational disagreement emerges, throwing their sheltered opera world into a great divide.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 May 2026</li><li>Runtime: 133 minutes</li><li>Director: Agnès Jaoui</li><li>Genres: Comedy, Drama, Music</li><li>TMDB rating: 6.1/10 (41 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Agnès Jaoui as Hannah Liebmann</li><li>Daniel Auteuil as Igor</li><li>Eye Haïdara as Cora</li><li>Claire Chust as Mirabelle</li><li>Oussama Kheddam as Samir</li><li>Lucie Gallo as Clothilde</li><li>Vincenzo Amato as Piazzoni</li><li>Tiphaine Daviot as Sophie</li><li>Maxime Pambet as Baptiste</li><li>Patrick Mille as Nicolas Poirier</li></ul>\n</article>",
+   "t": "Crescendo (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1517123": {
+   "d": "On the Road (2026): Drama/Thriller film. Story: Veneno, a rebellious young drifter, frequents… See cast, TMDB rating 8.3/10, and release date 3 June 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/hcPbtkReett3egrOnQRII2PqqvK.jpg",
+   "industry": "world",
+   "k": "On the Road, On the Road movie, On the Road cast, On the Road story, On the Road box office collection, On the Road budget, On the Road review, On the Road rating, On the Road release date, On the Road trailer, On the Road Drama, On the Road Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Victor Prieto Simental"
+     },
+     {
+      "@type": "Person",
+      "name": "Osvaldo Sánchez"
+     },
+     {
+      "@type": "Person",
+      "name": "Mariano López Sosa"
+     },
+     {
+      "@type": "Person",
+      "name": "Héctor Cárdenas"
+     },
+     {
+      "@type": "Person",
+      "name": "Obdulia Morales"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 82,
+     "ratingValue": 8.3,
+     "worstRating": 0
+    },
+    "description": "On the Road (2026): Drama/Thriller film. Story: Veneno, a rebellious young drifter, frequents… See cast, TMDB rating 8.3/10, and release date 3 June 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Pablos"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hcPbtkReett3egrOnQRII2PqqvK.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1517123",
+    "name": "On the Road",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1517123"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>On the Road (2026)</h1>\n<p class=\"ssr-lead\">Veneno, a rebellious young drifter, frequents roadside diners where he sleeps with truck drivers. Urgently needing a ride, he meets Muñeco, a hard-edged driver who keeps to himself. He convinces Muñeco to take him deep into the hyper-masculine world of long-haul trucking across the north of Mexico. As they travel together and an unexpected intimacy builds between them, shadows from Veneno’s past resurface, putting both their lives at risk.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 June 2026</li><li>Runtime: 93 minutes</li><li>Director: David Pablos</li><li>Genres: Drama, Thriller, Crime</li><li>TMDB rating: 8.3/10 (82 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Victor Prieto Simental as Veneno</li><li>Osvaldo Sánchez as El Muñeco</li><li>Mariano López Sosa as El Eulas</li><li>Héctor Cárdenas as El Pelón</li><li>Obdulia Morales as Lupe</li><li>Elizabeth Infante as Licha</li><li>Victor Manuel Aguirre as Hombre Mayor</li><li>Giovanni Ontiveros as Omar</li><li>Francisco Navar Carrera as Padre de Veneno</li><li>Neydan Ricardo as Veneno Niño</li></ul>\n</article>",
+   "t": "On the Road (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1628123": {
+   "d": "BTS THE COMEBACK LIVE | ARIRANG (2026): Music film. Story: BTS is back. The iconic group returns to the stage… See cast and TMDB rating 8.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rI9VPEw13XlVZzhOcLXt3Tiweyx.jpg",
+   "industry": "world",
+   "k": "BTS THE COMEBACK LIVE | ARIRANG, BTS THE COMEBACK LIVE | ARIRANG movie, BTS THE COMEBACK LIVE | ARIRANG cast, BTS THE COMEBACK LIVE | ARIRANG story, BTS THE COMEBACK LIVE | ARIRANG box office collection, BTS THE COMEBACK LIVE | ARIRANG budget, BTS THE COMEBACK LIVE | ARIRANG review, BTS THE COMEBACK LIVE | ARIRANG rating, BTS THE COMEBACK LIVE | ARIRANG release date, BTS THE COMEBACK LIVE | ARIRANG trailer, BTS THE COMEBACK LIVE | ARIRANG Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "RM"
+     },
+     {
+      "@type": "Person",
+      "name": "Jin"
+     },
+     {
+      "@type": "Person",
+      "name": "SUGA"
+     },
+     {
+      "@type": "Person",
+      "name": "j-hope"
+     },
+     {
+      "@type": "Person",
+      "name": "Jimin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 120,
+     "ratingValue": 8.7,
+     "worstRating": 0
+    },
+    "description": "BTS THE COMEBACK LIVE | ARIRANG (2026): Music film. Story: BTS is back. The iconic group returns to the stage… See cast and TMDB rating 8.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Hamish Hamilton"
+     },
+     {
+      "@type": "Person",
+      "name": "Cameron Whitelaw"
+     }
+    ],
+    "duration": "PT66M",
+    "genre": [
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rI9VPEw13XlVZzhOcLXt3Tiweyx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1628123",
+    "name": "BTS THE COMEBACK LIVE | ARIRANG",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1628123"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>BTS THE COMEBACK LIVE | ARIRANG (2026)</h1>\n<p class=\"ssr-lead\">BTS is back. The iconic group returns to the stage for a live reunion concert to perform legendary hits and unveil brand-new tracks.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 March 2026</li><li>Runtime: 66 minutes</li><li>Director: Hamish Hamilton, Cameron Whitelaw</li><li>Genres: Music</li><li>TMDB rating: 8.7/10 (120 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>RM as Self</li><li>Jin as Self</li><li>SUGA as Self</li><li>j-hope as Self</li><li>Jimin as Self</li><li>V as Self</li><li>Jung Kook as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "BTS THE COMEBACK LIVE | ARIRANG (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1630423": {
+   "d": "My Dearest Assassin (2026): Action/Drama film. Story: Hunted for her rare blood type, a caged woman vows to… See cast and TMDB rating 8.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xA6AM5MvEkieZKlv1Tn3sN23I7i.jpg",
+   "industry": "world",
+   "k": "My Dearest Assassin, My Dearest Assassin movie, My Dearest Assassin cast, My Dearest Assassin story, My Dearest Assassin box office collection, My Dearest Assassin budget, My Dearest Assassin review, My Dearest Assassin rating, My Dearest Assassin release date, My Dearest Assassin Action, My Dearest Assassin Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Pimchanok Luevisadpaibul"
+     },
+     {
+      "@type": "Person",
+      "name": "Thanapob Leeratanakachorn"
+     },
+     {
+      "@type": "Person",
+      "name": "Sivakorn Adulsuttikul"
+     },
+     {
+      "@type": "Person",
+      "name": "Chartayodom Hiranyasthiti"
+     },
+     {
+      "@type": "Person",
+      "name": "Toni Rakkaen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 325,
+     "ratingValue": 8.5,
+     "worstRating": 0
+    },
+    "description": "My Dearest Assassin (2026): Action/Drama film. Story: Hunted for her rare blood type, a caged woman vows to… See cast and TMDB rating 8.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Taweewat Wantha"
+     }
+    ],
+    "duration": "PT128M",
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xA6AM5MvEkieZKlv1Tn3sN23I7i.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1630423",
+    "name": "My Dearest Assassin",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1630423"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>My Dearest Assassin (2026)</h1>\n<p class=\"ssr-lead\">Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 May 2026</li><li>Runtime: 128 minutes</li><li>Director: Taweewat Wantha</li><li>Genres: Action, Drama, Romance</li><li>TMDB rating: 8.5/10 (325 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pimchanok Luevisadpaibul as Lhan</li><li>Thanapob Leeratanakachorn as Pran</li><li>Sivakorn Adulsuttikul as M</li><li>Chartayodom Hiranyasthiti as Poh</li><li>Toni Rakkaen as Pruek</li><li>Teerawat Mulvilai as Lhek</li><li>Dan Chupong as Deaw</li><li>Kessarin Ektawatkul as Ja</li><li>Chanudom Suksathit as Chaba</li><li>Nikorn Saetang as Doctor Der</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "My Dearest Assassin (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1729723": {
+   "d": "Yellow Mirror (2026): Animation/Comedy film. Story: A defective lamp reveals a heartbreaking truth about… See cast and TMDB rating 8.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rFjlsx5IygrHmBqr0KsVolAHhy7.jpg",
+   "industry": "world",
+   "k": "Yellow Mirror, Yellow Mirror movie, Yellow Mirror cast, Yellow Mirror story, Yellow Mirror box office collection, Yellow Mirror budget, Yellow Mirror review, Yellow Mirror rating, Yellow Mirror release date, Yellow Mirror trailer, Yellow Mirror Animation, Yellow Mirror Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dan Castellaneta"
+     },
+     {
+      "@type": "Person",
+      "name": "Nancy Cartwright"
+     },
+     {
+      "@type": "Person",
+      "name": "Julie Kavner"
+     },
+     {
+      "@type": "Person",
+      "name": "Yeardley Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Patti Harrison"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 73,
+     "ratingValue": 8.1,
+     "worstRating": 0
+    },
+    "description": "Yellow Mirror (2026): Animation/Comedy film. Story: A defective lamp reveals a heartbreaking truth about… See cast and TMDB rating 8.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Matthew Faughnan"
+     }
+    ],
+    "duration": "PT27M",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rFjlsx5IygrHmBqr0KsVolAHhy7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1729723",
+    "name": "Yellow Mirror",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1729723"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Yellow Mirror (2026)</h1>\n<p class=\"ssr-lead\">A defective lamp reveals a heartbreaking truth about what Homer believes is reality, and an AI-powered tablet befriends and controls Maggie. The Simpsons struggle to find the light through two dark tales of the curious and bizarre.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 August 2026</li><li>Runtime: 27 minutes</li><li>Director: Matthew Faughnan</li><li>Genres: Animation, Comedy, Science Fiction</li><li>TMDB rating: 8.1/10 (73 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dan Castellaneta as Homer Simpson / Barney Gumble (voice)</li><li>Nancy Cartwright as Bart Simpson / Ralph Wiggum (voice)</li><li>Julie Kavner as Marge Simpson / Jacqueline Bouvier (voice)</li><li>Yeardley Smith as Lisa Simpson (voice)</li><li>Patti Harrison as Hailey (voice)</li><li>Demi Moore as Lydia (voice)</li><li>Harry Shearer as Lenny Leonard (voice)</li><li>Alex Désert as Carl Carlson (voice)</li><li>Hank Azaria as Chief Wiggum (voice)</li><li>Tress MacNeille as Dr. Thurston (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li></ul>\n</article>",
+   "t": "Yellow Mirror (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:20123": {
    "d": "Time of the Gypsies (1988): Drama/Crime film. Story: Perhan is a gypsy teenager with telekinetic powers. A… See cast and TMDB rating 7.6/10.",
@@ -257,6 +771,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Tale (2018)</h1>\n<p class=\"ssr-lead\">An investigation into one woman’s memory as she‘s forced to re-examine her first sexual relationship and the stories we tell ourselves in order to survive.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 January 2018</li><li>Runtime: 115 minutes</li><li>Director: Jennifer Fox</li><li>Genres: Drama, Mystery</li><li>TMDB rating: 7.1/10 (493 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Laura Dern as Jennifer</li><li>Isabelle Nélisse as Jenny (13 Years)</li><li>Elizabeth Debicki as Mrs. G</li><li>Jason Ritter as Bill</li><li>Frances Conroy as Jane Graham</li><li>John Heard as William P. Allens</li><li>Ellen Burstyn as Nettie</li><li>Laura Allen as Young Nettie</li><li>Matthew Rauch as Aaron</li><li>Jessica Sarah Flaum as Jenny (15 Years)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
    "t": "The Tale (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
+  },
+  "movie:791523": {
+   "d": "Wildwood (2026): Animation/Fantasy film. Story: Prue and her classmate Curtis are drawn into a… See cast, budget $100M, and TMDB rating 8.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+   "industry": "world",
+   "k": "Wildwood, Wildwood movie, Wildwood cast, Wildwood story, Wildwood box office collection, Wildwood budget, Wildwood review, Wildwood rating, Wildwood release date, Wildwood trailer, Wildwood Animation, Wildwood Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Peyton Elizabeth Lee"
+     },
+     {
+      "@type": "Person",
+      "name": "Jacob Tremblay"
+     },
+     {
+      "@type": "Person",
+      "name": "Carey Mulligan"
+     },
+     {
+      "@type": "Person",
+      "name": "Mahershala Ali"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard E. Grant"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 274,
+     "ratingValue": 8.5,
+     "worstRating": 0
+    },
+    "description": "Wildwood (2026): Animation/Fantasy film. Story: Prue and her classmate Curtis are drawn into a… See cast, budget $100M, and TMDB rating 8.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Travis Knight"
+     }
+    ],
+    "duration": "PT132M",
+    "genre": [
+     "Animation",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=791523",
+    "name": "Wildwood",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=791523"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wildwood (2026)</h1>\n<p class=\"ssr-lead\">Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue&#x27;s abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 November 2026</li><li>Runtime: 132 minutes</li><li>Director: Travis Knight</li><li>Genres: Animation, Fantasy, Adventure</li><li>Budget: $100M</li><li>TMDB rating: 8.5/10 (274 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Peyton Elizabeth Lee as Prue McKeel (voice)</li><li>Jacob Tremblay as Curtis Mehlberg (voice)</li><li>Carey Mulligan as Alexandra (voice)</li><li>Mahershala Ali as Brenden (voice)</li><li>Richard E. Grant as Owl Rex (voice)</li><li>Angela Bassett as The General (voice)</li><li>Awkwafina as Septima (voice)</li><li>Amandla Stenberg as Niamh (voice)</li><li>Tom Waits as Maxim (voice)</li><li>Charlie Day as Dmitri (voice)</li></ul>\n</article>",
+   "t": "Wildwood (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:808023": {
    "d": "The Virtuoso (2021): Thriller/Crime film. Story: Danger, deception and murder descend upon a sleepy… See cast and TMDB rating 5.9/10.",

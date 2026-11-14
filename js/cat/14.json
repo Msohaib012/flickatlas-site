@@ -1,6 +1,6 @@
 {
  "bucket": "14",
- "count": 19,
+ "count": 24,
  "titles": {
   "movie:12614": {
    "backdrop_path": "/tcMG8GQ0m61PWIWkdJfOERrl1sJ.jpg",
@@ -155,6 +155,367 @@
    "vote_average": 7.3,
    "vote_count": 471
   },
+  "movie:1368314": {
+   "backdrop_path": "/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Maddie Brecker",
+     "n": "Lou Llobell"
+    },
+    {
+     "c": "Tyler Genocchio",
+     "n": "Jacob Scipio"
+    },
+    {
+     "c": "The Passenger",
+     "n": "Joseph Lopez"
+    },
+    {
+     "c": "Diana Larson",
+     "n": "Melissa Leo"
+    },
+    {
+     "c": "Lucas Tedesco",
+     "n": "Miles Fowler"
+    },
+    {
+     "c": "Daniel",
+     "n": "Alan Trong"
+    },
+    {
+     "c": "Neighborhood Watch Volunteer",
+     "n": "Devielle Johnson"
+    },
+    {
+     "c": "Brad Fuller",
+     "n": "James William Clark"
+    },
+    {
+     "c": "Preacher",
+     "n": "Tony Doupe"
+    },
+    {
+     "c": "Gruff Nomad",
+     "n": "Charles Leggett"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "André Øvredal"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 1368314,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
+   "popularity": 9.8804,
+   "poster_path": "/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-29",
+   "revenue": 31620508,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "130 million people take road trips every year. 15,400 of them are never seen again.",
+   "title": "Passenger",
+   "trailer": {
+    "key": "eNIn8kW1kyE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 1010
+  },
+  "movie:1370814": {
+   "backdrop_path": "/kHyN3PejjlYWYz1Eah3jS64oV0g.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ben",
+     "n": "Everett Blunck"
+    },
+    {
+     "c": "Jake",
+     "n": "Kayo Martin"
+    },
+    {
+     "c": "Daddy Wags",
+     "n": "Joel Edgerton"
+    },
+    {
+     "c": "Eli",
+     "n": "Kenny Rasmussen"
+    },
+    {
+     "c": "Logan",
+     "n": "Lucas Adler"
+    },
+    {
+     "c": "Matt",
+     "n": "Caden Burris"
+    },
+    {
+     "c": "Tic Tac",
+     "n": "Elliott Heffernan"
+    },
+    {
+     "c": "Julian",
+     "n": "Lennox Espy"
+    },
+    {
+     "c": "Corbin",
+     "n": "Kolton Lee"
+    },
+    {
+     "c": "Old Man",
+     "n": "Geo Dobre"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Charlie Polinger"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1370814,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A socially awkward tween endures the ruthless hierarchy at a water polo camp, his anxiety spiraling into psychological turmoil over the summer.",
+   "popularity": 3.4615,
+   "poster_path": "/b0RWuqzgvyfiIYU4QfgJHhmxZF4.jpg",
+   "production_countries": [
+    "US",
+    "AE"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-02",
+   "revenue": 695518,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Plague",
+   "trailer": {
+    "key": "QGMRkHPAaVU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.41,
+   "vote_count": 155
+  },
   "movie:14114": {
    "backdrop_path": "/t2AGfYqtbx0BhWbzDpA9JC0RY34.jpg",
    "budget": 8000000,
@@ -269,6 +630,456 @@
    "type": "movie",
    "vote_average": 6.4,
    "vote_count": 490
+  },
+  "movie:1476614": {
+   "backdrop_path": "/ed1w4D49Zno1lqs9h9X2qzbcPpH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marie-Lou Fontaine",
+     "n": "Virginie Efira"
+    },
+    {
+     "c": "Mari Morisaki",
+     "n": "Tao Okamoto"
+    },
+    {
+     "c": "Goro Kiyomiya",
+     "n": "Kyōzō Nagatsuka"
+    },
+    {
+     "c": "Tomoki Kubodera",
+     "n": "Kodai Kurosaki"
+    },
+    {
+     "c": "Olivier",
+     "n": "Jean-Charles Clichet"
+    },
+    {
+     "c": "Sophie",
+     "n": "Marie Bunel"
+    },
+    {
+     "c": "Damien",
+     "n": "Romain Cottard"
+    },
+    {
+     "c": "Laurence",
+     "n": "Marie Denarnaud"
+    },
+    {
+     "c": "Djibril",
+     "n": "Gabriel Dahmani"
+    },
+    {
+     "c": "Adidja",
+     "n": "Sephora Pondi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ryusuke Hamaguchi"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1476614,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Director of a care facility for the elderly, Marie-Lou strives to introduce an innovative care philosophy based on listening and respecting residents’ dignity, despite resistance from part of her staff. Her encounter with Mari, a Japanese theater director battling cancer, will profoundly reshape her path. By forming a deep, supportive friendship, the two women join forces in a shared struggle to make the impossible possible.",
+   "popularity": 7.2163,
+   "poster_path": "/fgxhBo4elwt89J5k9wzhHSXGQmY.jpg",
+   "production_countries": [
+    "JP",
+    "FR",
+    "BE",
+    "DE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-19",
+   "revenue": 0,
+   "runtime": 196,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "ja",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One night. Two strangers. A lifetime of questions.",
+   "title": "All of a Sudden",
+   "trailer": {
+    "key": "2AxtdPvDojA",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.9,
+   "vote_count": 77
+  },
+  "movie:1564614": {
+   "backdrop_path": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
+   "budget": 3500000,
+   "cast": [
+    {
+     "c": "Naim Reid",
+     "n": "Joe Bird"
+    },
+    {
+     "c": "Ryan Whelan",
+     "n": "Stacy Clausen"
+    },
+    {
+     "c": "Arlene Reid",
+     "n": "Mia Wasikowska"
+    },
+    {
+     "c": "Deliverance Healer",
+     "n": "Nicholas Hope"
+    },
+    {
+     "c": "Marnie",
+     "n": "Tyallah Bullock"
+    },
+    {
+     "c": "Rod",
+     "n": "Ewen Leslie"
+    },
+    {
+     "c": "Hunter",
+     "n": "Jeremy Blewitt"
+    },
+    {
+     "c": "Izzie",
+     "n": "Davida McKenzie"
+    },
+    {
+     "c": "Jessica",
+     "n": "Shannon Berry"
+    },
+    {
+     "c": "Cathy Whelan",
+     "n": "Julia Grace"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Adrian Chiarella"
+   ],
+   "genres": [
+    "Horror",
+    "Romance"
+   ],
+   "id": 1564614,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "Two teenage boys must escape a violent entity that takes the form of the person they desire most:  each other.",
+   "popularity": 16.1763,
+   "poster_path": "/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
+   "production_countries": [
+    "AU",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-17",
+   "revenue": 9190274,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It will never stop.",
+   "title": "Leviticus",
+   "trailer": {
+    "key": "WXuK0vlFxII",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 654
+  },
+  "movie:1594914": {
+   "backdrop_path": "/uujYvxE9s6KY4SbBZ0ZFN3oBJhW.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Castle",
+     "n": "Scott Eastwood"
+    },
+    {
+     "c": "Colonel Neale",
+     "n": "Colin Hanks"
+    },
+    {
+     "c": "Mrs. Caldwell",
+     "n": "Aunjanue Ellis-Taylor"
+    },
+    {
+     "c": "Bellingham",
+     "n": "Taylor John Smith"
+    },
+    {
+     "c": "Major Barrett",
+     "n": "Lorne MacFadyen"
+    },
+    {
+     "c": "General Lauer",
+     "n": "Atanas Srebrev"
+    },
+    {
+     "c": "Burt Miller",
+     "n": "Alfie Stewart"
+    },
+    {
+     "c": "Cash",
+     "n": "Jonathan Yunger"
+    },
+    {
+     "c": "Wilhelm",
+     "n": "Timothy Blore"
+    },
+    {
+     "c": "Georges Marsaud",
+     "n": "Laurent Maurel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rod Lurie"
+   ],
+   "genres": [
+    "War",
+    "Action"
+   ],
+   "id": 1594914,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
+   "popularity": 21.1929,
+   "poster_path": "/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-17",
+   "revenue": 803112,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One man's fight to survive.",
+   "title": "Lucky Strike",
+   "trailer": {
+    "key": "vtEnjikCXyA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.455,
+   "vote_count": 67
   },
   "movie:16314": {
    "backdrop_path": "/qoSIw7XPwpbo5p3WuQoc5AvKZ4.jpg",

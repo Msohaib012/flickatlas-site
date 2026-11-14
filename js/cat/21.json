@@ -1,6 +1,6 @@
 {
  "bucket": "21",
- "count": 23,
+ "count": 35,
  "titles": {
   "movie:1103621": {
    "backdrop_path": "/6Ypt0zspYChnZM6JWVOirbUaBx3.jpg",
@@ -107,6 +107,285 @@
    "type": "movie",
    "vote_average": 8.117,
    "vote_count": 463
+  },
+  "movie:1140521": {
+   "backdrop_path": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fran Thompson",
+     "n": "Billie Gadsdon"
+    },
+    {
+     "c": "Silky",
+     "n": "Nicola Coughlan"
+    },
+    {
+     "c": "Beth Thompson",
+     "n": "Delilah Bennett-Cardy"
+    },
+    {
+     "c": "Joe Thompson",
+     "n": "Phoenix Laroche"
+    },
+    {
+     "c": "Moonface",
+     "n": "Nonso Anozie"
+    },
+    {
+     "c": "Tim Thompson",
+     "n": "Andrew Garfield"
+    },
+    {
+     "c": "Dame Snap",
+     "n": "Rebecca Ferguson"
+    },
+    {
+     "c": "Polly Thompson",
+     "n": "Claire Foy"
+    },
+    {
+     "c": "Dame Washalot",
+     "n": "Jessica Gunning"
+    },
+    {
+     "c": "Saucepan Man",
+     "n": "Dustin Demri-Burns"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Ben Gregor"
+   ],
+   "genres": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 1140521,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures.",
+   "popularity": 11.6538,
+   "poster_path": "/udXvLxC5gAqN8SinemyFBEcHpTf.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-26",
+   "revenue": 32241102,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Magic Faraway Tree",
+   "trailer": {
+    "key": "PAUEwUhAjzg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.783,
+   "vote_count": 113
+  },
+  "movie:1142921": {
+   "backdrop_path": "/3FgFKX1gW21LzjT0Yniflaqmhpr.jpg",
+   "budget": 9505286,
+   "cast": [
+    {
+     "c": "Shankar Gurrukkal",
+     "n": "Dhanush"
+    },
+    {
+     "c": "Mukti Behniwal",
+     "n": "Kriti Sanon"
+    },
+    {
+     "c": "Raghav Gurrukkal",
+     "n": "Prakash Raj"
+    },
+    {
+     "c": "Yashwant Behniwal",
+     "n": "Tota Roy Chowdhury"
+    },
+    {
+     "c": "Ved",
+     "n": "Priyanshu Painyuli"
+    },
+    {
+     "c": "Jasjeet Singh Shergill",
+     "n": "Paramvir Singh Cheema"
+    },
+    {
+     "c": "Group Capt. V Shekhawat",
+     "n": "Vineet Kumar Singh"
+    },
+    {
+     "c": "Murari Gupta",
+     "n": "Mohammed Zeeshan Ayyub"
+    },
+    {
+     "c": "Inspector Suraj Bhan",
+     "n": "Sushil Dahiya"
+    },
+    {
+     "c": "Professor Mathur",
+     "n": "Chittaranjan Tripathy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Aanand L. Rai"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 1142921,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "A psychology student attempts to rehabilitate a volatile young man, before evolving into a doomed romance.",
+   "popularity": 1.322,
+   "poster_path": "/7FsHlW9z7gDhDE4EXAE2WcXUVQj.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-11-28",
+   "revenue": 0,
+   "runtime": 169,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "hi",
+    "ta",
+    "te"
+   ],
+   "status": "Released",
+   "tagline": "Some souls are meant to collide. Some love stories are destined to burn brighter.",
+   "title": "Tere Ishk Mein",
+   "trailer": {
+    "key": "9AJsFRNJGZ8",
+    "name": "Tere Ishk Mein: Trailer (Hindi) | Dhanush, Kriti S | AR Rahman | Aanand L Rai | Bhushan K | 28 Nov",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.333,
+   "vote_count": 27
   },
   "movie:1241921": {
    "backdrop_path": "/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg",
@@ -403,6 +682,887 @@
    "vote_average": 5.6,
    "vote_count": 485
   },
+  "movie:1273221": {
+   "backdrop_path": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Cindy",
+     "n": "Anna Faris"
+    },
+    {
+     "c": "Brenda",
+     "n": "Regina Hall"
+    },
+    {
+     "c": "Shorty / 'Joe' / 'Tiffany' / Count Brolock",
+     "n": "Marlon Wayans"
+    },
+    {
+     "c": "Ray",
+     "n": "Shawn Wayans"
+    },
+    {
+     "c": "Sara",
+     "n": "Olivia Rose Keegan"
+    },
+    {
+     "c": "Jack",
+     "n": "Cameron Scott Roberts"
+    },
+    {
+     "c": "Tuesday",
+     "n": "Savannah Lee Nassif"
+    },
+    {
+     "c": "DEI",
+     "n": "Sydney Park"
+    },
+    {
+     "c": "Brad",
+     "n": "Gregg Wayans"
+    },
+    {
+     "c": "Jess",
+     "n": "Benny Zielke"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michael Tiddes"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1273221,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+   "popularity": 34.6153,
+   "poster_path": "/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-03",
+   "revenue": 231886052,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ko",
+    "pt",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Every line will be crossed.",
+   "title": "Scary Movie",
+   "trailer": {
+    "key": "cGgWAHXuTKc",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.298,
+   "vote_count": 2135
+  },
+  "movie:1290821": {
+   "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Mason",
+     "n": "Jason Statham"
+    },
+    {
+     "c": "Jesse",
+     "n": "Bodhi Rae Breathnach"
+    },
+    {
+     "c": "Roberta",
+     "n": "Naomi Ackie"
+    },
+    {
+     "c": "Booth",
+     "n": "Daniel Mays"
+    },
+    {
+     "c": "Prime Minister Fordham",
+     "n": "Harriet Walter"
+    },
+    {
+     "c": "Manafort",
+     "n": "Bill Nighy"
+    },
+    {
+     "c": "Uncle",
+     "n": "Michael Shaeffer"
+    },
+    {
+     "c": "Haneron",
+     "n": "Anna Crilly"
+    },
+    {
+     "c": "Shop Clerk",
+     "n": "Eugenia Caruso"
+    },
+    {
+     "c": "Maddison",
+     "n": "Céline Buckens"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Ric Roman Waugh"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 1290821,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+   "popularity": 22.6268,
+   "poster_path": "/cv7DeQQ7TOozPoTCBdNJIvWKhU1.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-30",
+   "revenue": 53933639,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Her safety. His mission.",
+   "title": "Shelter",
+   "trailer": {
+    "key": "auHiLFjaIc0",
+    "name": "Shelter | Official Trailer | Only In Theaters January 30",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.71,
+   "vote_count": 2033
+  },
+  "movie:1301421": {
+   "backdrop_path": "/g6uEVedSBXsZ3QuXKP4WDCeSsOy.jpg",
+   "budget": 75000000,
+   "cast": [
+    {
+     "c": "George Hardy",
+     "n": "Hugh Jackman"
+    },
+    {
+     "c": "Officer Tim Derry",
+     "n": "Nicholas Braun"
+    },
+    {
+     "c": "Elliot Matthews",
+     "n": "Nicholas Galitzine"
+    },
+    {
+     "c": "Rebecca Hampstead",
+     "n": "Molly Gordon"
+    },
+    {
+     "c": "Lily (voice)",
+     "n": "Julia Louis-Dreyfus"
+    },
+    {
+     "c": "Sebastian (voice)",
+     "n": "Bryan Cranston"
+    },
+    {
+     "c": "Mopple (voice)",
+     "n": "Chris O'Dowd"
+    },
+    {
+     "c": "Cloud (voice)",
+     "n": "Regina Hall"
+    },
+    {
+     "c": "Sir Ritchfield (voice)",
+     "n": "Patrick Stewart"
+    },
+    {
+     "c": "Zora (voice)",
+     "n": "Bella Ramsey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "date_kind": "release",
+   "director": [
+    "Kyle Balda"
+   ],
+   "genres": [
+    "Comedy",
+    "Family",
+    "Mystery"
+   ],
+   "id": 1301421,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+   "popularity": 16.8537,
+   "poster_path": "/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-08",
+   "revenue": 131550648,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A new breed of mystery.",
+   "title": "The Sheep Detectives",
+   "trailer": {
+    "key": "826SRt1CFbg",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.881,
+   "vote_count": 1927
+  },
+  "movie:1318621": {
+   "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Red",
+     "n": "Kylie Cantrall"
+    },
+    {
+     "c": "Chloe",
+     "n": "Malia Baker"
+    },
+    {
+     "c": "Pink",
+     "n": "Liamani Segura"
+    },
+    {
+     "c": "Queen of Hearts",
+     "n": "Rita Ora"
+    },
+    {
+     "c": "Cinderella",
+     "n": "Brandy Norwood"
+    },
+    {
+     "c": "Maddox Hatter",
+     "n": "Leonardo Nam"
+    },
+    {
+     "c": "Luis Madrigal",
+     "n": "Alexandro Byrd"
+    },
+    {
+     "c": "Max Hatter",
+     "n": "Brendon Tremblay"
+    },
+    {
+     "c": "Hazel Hook",
+     "n": "Kiara Romero"
+    },
+    {
+     "c": "Fairy Godmother",
+     "n": "Melanie Paxson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "date_kind": "release",
+   "director": [
+    "Kimmy Gatewood"
+   ],
+   "genres": [
+    "Fantasy",
+    "TV Movie",
+    "Family",
+    "Adventure"
+   ],
+   "id": 1318621,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe… But little do they know that changing the past created a new villain — Maddox Hatter. When Maddox captures the Queen of Hearts, Red and Chloe must work alongside Red’s new sister Pink, Luisa Madrigal’s son Luis, and Maddox’s son Max to save her and Wonderland.",
+   "popularity": 11.1773,
+   "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-16",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Descendants: Wicked Wonderland",
+   "trailer": {
+    "key": "0Gg7x3xBqBU",
+    "name": "Official Trailer!",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.5,
+   "vote_count": 202
+  },
+  "movie:1330021": {
+   "backdrop_path": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tova Sullivan",
+     "n": "Sally Field"
+    },
+    {
+     "c": "Cameron Cassmore",
+     "n": "Lewis Pullman"
+    },
+    {
+     "c": "Ethan Mack",
+     "n": "Colm Meaney"
+    },
+    {
+     "c": "Marcellus (voice)",
+     "n": "Alfred Molina"
+    },
+    {
+     "c": "Janice Kim",
+     "n": "Joan Chen"
+    },
+    {
+     "c": "Mary Ann Minetti",
+     "n": "Kathy Baker"
+    },
+    {
+     "c": "Barb Vanderhoof",
+     "n": "Beth Grant"
+    },
+    {
+     "c": "Avery",
+     "n": "Sofia Black-D'Elia"
+    },
+    {
+     "c": "Teenage Erik",
+     "n": "Brandon McEwan"
+    },
+    {
+     "c": "Terry",
+     "n": "Donald Sales"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Olivia Newman"
+   ],
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 1330021,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+   "popularity": 9.9677,
+   "poster_path": "/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-07",
+   "revenue": 0,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Brighter together.",
+   "title": "Remarkably Bright Creatures",
+   "trailer": {
+    "key": "b14IFe4an5k",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.333,
+   "vote_count": 1022
+  },
+  "movie:1391021": {
+   "backdrop_path": "/hgKtkrPT1mQEWRem7YO6kh3Jf7Q.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Xu Fu",
+     "n": "Shen Teng"
+    },
+    {
+     "c": "Ma Junsheng",
+     "n": "Jiang Qiming"
+    },
+    {
+     "c": "Seif",
+     "n": "Omar Sherif"
+    },
+    {
+     "c": "Tony",
+     "n": "Aarif Rahman"
+    },
+    {
+     "c": "Zayd",
+     "n": "Sherif Sabry"
+    },
+    {
+     "c": "Ali",
+     "n": "Ahmed Salim"
+    },
+    {
+     "c": "Jamal",
+     "n": "Faruk Muhammad"
+    },
+    {
+     "c": "Morgan",
+     "n": "Russell Shealy"
+    },
+    {
+     "c": "Lina",
+     "n": "Naira Al-Kasim"
+    },
+    {
+     "c": "Susu",
+     "n": "Karma Hazim"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Wen Muye"
+   ],
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "id": 1391021,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "Seeking a fresh start, chef Xu Fu travels to the Middle East to support his family and repay his debts. Alongside restaurant manager Ma Junsheng, he transforms the struggling Dragon Restaurant into a thriving business. But when war engulfs the city, their hard-won success is shattered and the restaurant becomes a refuge for those caught in the conflict. As danger closes in, Xu Fu must risk everything to protect his newfound community and preserve a small beacon of hope amid the devastation.",
+   "popularity": 7.2126,
+   "poster_path": "/uS5RSCYHw9DJFZ0mMLJaPnuKNjA.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-11",
+   "revenue": 305600000,
+   "runtime": 141,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "ar",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Eat well, stay alive.",
+   "title": "Once Upon a Time in the Middle East",
+   "trailer": {
+    "key": "TYKHXxCdGiU",
+    "name": "Official US Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.9,
+   "vote_count": 59
+  },
+  "movie:1493021": {
+   "backdrop_path": "/hk6tV2KIP8MkkDBNpvWRnvUrKyG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Umberto",
+     "n": "Antonio Albanese"
+    },
+    {
+     "c": "Beppe",
+     "n": "Giuseppe Battiston"
+    },
+    {
+     "c": "Gigi",
+     "n": "Nicola Rignanese"
+    },
+    {
+     "c": "Toni",
+     "n": "Niccolò Ferrero"
+    },
+    {
+     "c": "Mario Mario",
+     "n": "Alessandro Egger"
+    },
+    {
+     "c": "Moglie Mathias",
+     "n": "Chiara Pazzaglia"
+    },
+    {
+     "c": "Giulia",
+     "n": "Claudia Stecher"
+    },
+    {
+     "c": "Mathias",
+     "n": "Francesco Brandi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Antonio Albanese"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1493021,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Three friends, Beppe, Umberto, and Gigi, await the arrival of young Toni to celebrate his newfound freedom. After an evening of heavy drinking at the village bar, the car they're about to drive home in hits something. Or rather, someone. Setting off a series of relentless bad decisions, the four flee and take refuge at Umberto's house. It will be a long night of plot twists, paradoxical and ridiculous situations, encounters and clashes between the protagonists and other improbable figures who populate that interminable day. Until the most unimaginable of solutions arrives at first light.",
+   "popularity": 0.8421,
+   "poster_path": "/lRpHSwgcjcGrysxixDTek1ONiph.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-05",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Lavoreremo da grandi",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.359,
+   "vote_count": 71
+  },
+  "movie:1545621": {
+   "backdrop_path": "/ty9nLEKOskxq1CgBCzMbCpAhLn3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Conan Edogawa (voice)",
+     "n": "Minami Takayama"
+    },
+    {
+     "c": "Ran Mouri (voice)",
+     "n": "Wakana Yamazaki"
+    },
+    {
+     "c": "Kogoro Mouri (voice)",
+     "n": "Rikiya Koyama"
+    },
+    {
+     "c": "Ai Haibara (voice)",
+     "n": "Megumi Hayashibara"
+    },
+    {
+     "c": "Chihaya Hagiwara (voice)",
+     "n": "Miyuki Sawashiro"
+    },
+    {
+     "c": "Kenji Hagiwara (voice)",
+     "n": "Shin-ichiro Miki"
+    },
+    {
+     "c": "Jinpei Matsuda (voice)",
+     "n": "Nobutoshi Canna"
+    },
+    {
+     "c": "Kazuaki Omae (voice)",
+     "n": "Ryusei Yokohama"
+    },
+    {
+     "c": "Minato Tateoki (voice)",
+     "n": "Mei Hata"
+    },
+    {
+     "c": "Jyuugo Yokomizo (voice)",
+     "n": "Akio Otsuka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Takahiro Hasui"
+   ],
+   "genres": [
+    "Action",
+    "Animation",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 1545621,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "When a string of deadly highway incidents begin, Conan Edogawa's investigations point towards an orchestrated plot rather than mere accidents. As he uncovers a conspiracy involving hidden identities and advanced technology, the case escalates into a high-speed race against time to stop a calculating mastermind before more lives are lost.",
+   "popularity": 8.7244,
+   "poster_path": "/vvOk7a7k7Sp6UdHcqV4baRlK6CC.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-10",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "The goddess of the wind vs the fallen angel",
+   "title": "Detective Conan: Fallen Angel of the Highway",
+   "trailer": {
+    "key": "-OmZGxr23hY",
+    "name": "Final Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 22
+  },
   "movie:159121": {
    "backdrop_path": "/nS2QTnSyG0TTnyLAIrjud1aSk7N.jpg",
    "budget": 0,
@@ -554,6 +1714,132 @@
    "type": "movie",
    "vote_average": 6.437,
    "vote_count": 435
+  },
+  "movie:1600421": {
+   "backdrop_path": "/sEcWQzk7uTBNMrWnMGD6hfDmrEo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Bang Chan"
+    },
+    {
+     "c": "Self",
+     "n": "Lee Know"
+    },
+    {
+     "c": "Self",
+     "n": "Seo Chang-bin"
+    },
+    {
+     "c": "Self",
+     "n": "Hwang Hyun-jin"
+    },
+    {
+     "c": "Self",
+     "n": "Han"
+    },
+    {
+     "c": "Self",
+     "n": "Felix Lee"
+    },
+    {
+     "c": "Self",
+     "n": "Kim Seung-min"
+    },
+    {
+     "c": "Self",
+     "n": "I.N"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Paul Dugdale",
+    "Farah Khalid"
+   ],
+   "genres": [
+    "Music",
+    "Documentary"
+   ],
+   "id": 1600421,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Featuring the global K-Pop sensation Stray Kids and a live performance from their record-breaking world tour, alongside exclusive behind-the-scenes footage and intimate interviews with the band, Stray Kids: The dominATE Experience is an epic concert film that gives fans both a spectacular front-row seat and unique access to their favourite band.",
+   "popularity": 1.9571,
+   "poster_path": "/8pi8IZ2lqJB0k0XKgh2b89OYqYd.jpg",
+   "production_countries": [
+    "KR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-04",
+   "revenue": 23465818,
+   "runtime": 146,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Stray Kids: The dominATE Experience",
+   "trailer": {
+    "key": "2R8MBgJWn4w",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 9.14,
+   "vote_count": 75
   },
   "movie:1721": {
    "backdrop_path": "/iHJTF9WcXUfp8iy7EHPxMQ3XQyK.jpg",
@@ -1825,6 +3111,102 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 478
+  },
+  "movie:891621": {
+   "backdrop_path": "/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Chris",
+     "n": "John Malkovich"
+    },
+    {
+     "c": "Lee",
+     "n": "Sam Rockwell"
+    },
+    {
+     "c": "MJ",
+     "n": "Steve Buscemi"
+    },
+    {
+     "c": "Monica",
+     "n": "Mariana di Girolamo"
+    },
+    {
+     "c": "Alicia",
+     "n": "Ailín Salas"
+    },
+    {
+     "c": "Marge",
+     "n": "Parker Posey"
+    },
+    {
+     "c": "Jim",
+     "n": "Tom Waits"
+    },
+    {
+     "c": "Rosa",
+     "n": "Paola Giannini"
+    },
+    {
+     "c": "Priest",
+     "n": "Bastián Bodenhöfer"
+    },
+    {
+     "c": "Student",
+     "n": "Sofía Chacón"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Martin McDonagh"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 891621,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
+   "popularity": 68.9695,
+   "poster_path": "/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-11-04",
+   "revenue": 13982274,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Sometimes you've got to do a terrible thing for the greater good.",
+   "title": "Wild Horse Nine",
+   "trailer": {
+    "key": "kqxuamKxRTo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.07,
+   "vote_count": 172
   },
   "movie:996821": {
    "backdrop_path": "/lsOdEAkwQ0TcP71HocJi8WUftmp.jpg",

@@ -1,7 +1,104 @@
 {
  "bucket": "98",
- "count": 15,
+ "count": 28,
  "titles": {
+  "movie:1061798": {
+   "backdrop_path": "/gZDF8oChSplhdwTCjFR1SHwKw8s.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jim Perfect (voice)",
+     "n": "Alex Ramirès"
+    },
+    {
+     "c": "Lucien (voice)",
+     "n": "Jéremy Gillet"
+    },
+    {
+     "c": "La prostate (voice)",
+     "n": "Philippe Katerine"
+    },
+    {
+     "c": "Nina (voice)",
+     "n": "Shirley Souagnon"
+    },
+    {
+     "c": "Pavel (voice)",
+     "n": "Francois Sagat"
+    },
+    {
+     "c": "Glamydia (voice)",
+     "n": "Harald Marlot"
+    },
+    {
+     "c": "Christine Bayer (voice)",
+     "n": "Elisabeth Wiener"
+    },
+    {
+     "c": "Michel / Dr. Ragout / Assistant du docteur (voice)",
+     "n": "Brice Chevillard"
+    },
+    {
+     "c": "Robear (voice)",
+     "n": "Alexandre Brik"
+    },
+    {
+     "c": "Mr. Leather (voice)",
+     "n": "Fabrice Petithuguenin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Nicolas Athané",
+    "Marco Nguyen"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 1061798,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "BE"
+   ],
+   "original_language": "fr",
+   "overview": "When Heterosis, a mysterious virus that turns gay men straight, sweeps through the Parisian gay scene, Jim, the six-packed sovereign of the Gym Queens, goes from Pride royalty to social outcast. With only Lucien, a freshly-out twink with more heart than abs, still by his side, Jim must race to find a cure before the disease erases the community that once worshipped him.",
+   "popularity": 7.0663,
+   "poster_path": "/hi7MNT0OtviWqXxJDTxLxpfdoKp.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-17",
+   "revenue": 0,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "For better or for Queer.",
+   "title": "Jim Queen",
+   "trailer": {
+    "key": "CHof1Bc8oeM",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.9,
+   "vote_count": 101
+  },
   "movie:110398": {
    "backdrop_path": "/92MsvjpGoaiujgg6prkwmFvggoP.jpg",
    "budget": 0,
@@ -103,6 +200,104 @@
    "type": "movie",
    "vote_average": 7.19,
    "vote_count": 497
+  },
+  "movie:1117898": {
+   "backdrop_path": "/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+   "budget": 86000000,
+   "cast": [
+    {
+     "c": "The Cat in the Hat (voice)",
+     "n": "Bill Hader"
+    },
+    {
+     "c": "Gabby (voice)",
+     "n": "Xochitl Gomez"
+    },
+    {
+     "c": "Sebastian (voice)",
+     "n": "Tiago Martinez"
+    },
+    {
+     "c": "Waffles (voice)",
+     "n": "Matt Berry"
+    },
+    {
+     "c": "Sherrie from HR (voice)",
+     "n": "Quinta Brunson"
+    },
+    {
+     "c": "Gary (voice)",
+     "n": "Bowen Yang"
+    },
+    {
+     "c": "Mom (Carmen) (voice)",
+     "n": "America Ferrera"
+    },
+    {
+     "c": "Patty (voice)",
+     "n": "Paula Pell"
+    },
+    {
+     "c": "The Psychic Narwhal (voice)",
+     "n": "Tituss Burgess"
+    },
+    {
+     "c": "Mr. Hoogeboom (voice)",
+     "n": "Giancarlo Esposito"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Erica Rivinoja",
+    "Alessandro Carloni"
+   ],
+   "genres": [
+    "Animation",
+    "Fantasy",
+    "Adventure",
+    "Family",
+    "Comedy"
+   ],
+   "id": 1117898,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
+   "popularity": 60.097,
+   "poster_path": "/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-11-06",
+   "revenue": 32608372,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The cat's out of the bag.",
+   "title": "The Cat in the Hat",
+   "trailer": {
+    "key": "tkZpcypT8Z4",
+    "name": "The Cat In The Hat x Hilary Duff “CATastrophe”",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.109,
+   "vote_count": 23
   },
   "movie:11198": {
    "backdrop_path": "/6IvACiFRqZ7hNbmwYUWNzqCouAp.jpg",
@@ -222,6 +417,181 @@
    "vote_average": 6.6,
    "vote_count": 486
   },
+  "movie:1140498": {
+   "backdrop_path": "/argJlxQHbXAzyH8fKnjLfoEyDcd.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Alex Novak",
+     "n": "Will Arnett"
+    },
+    {
+     "c": "Tess Novak",
+     "n": "Laura Dern"
+    },
+    {
+     "c": "Christine",
+     "n": "Andra Day"
+    },
+    {
+     "c": "Balls",
+     "n": "Bradley Cooper"
+    },
+    {
+     "c": "Marilyn",
+     "n": "Christine Ebersole"
+    },
+    {
+     "c": "Jan",
+     "n": "Ciarán Hinds"
+    },
+    {
+     "c": "Kemp",
+     "n": "Amy Sedaris"
+    },
+    {
+     "c": "Stephen",
+     "n": "Sean Hayes"
+    },
+    {
+     "c": "Geoffrey",
+     "n": "Scott Icenogle"
+    },
+    {
+     "c": "Felix",
+     "n": "Blake Kane"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Bradley Cooper"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 1140498,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confronts the sacrifices she made for their family—forcing them to navigate co-parenting, identity, and whether love can take a new form.",
+   "popularity": 3.117,
+   "poster_path": "/YD6QzcokTMe3EViM0hLbNCxf4y.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/etdWe2BhDaHFvrTY9SLilTwZcTk.png",
+     "name": "Fandango",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-19",
+   "revenue": 10134166,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Is This Thing On?",
+   "trailer": {
+    "key": "dr14-Ebwcns",
+    "name": "Hulu Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.545,
+   "vote_count": 224
+  },
   "movie:11498": {
    "backdrop_path": "/guKFCL7DcAKP8IKWcZfm00CNBBB.jpg",
    "budget": 15000000,
@@ -340,6 +710,1116 @@
    "type": "movie",
    "vote_average": 6.445,
    "vote_count": 455
+  },
+  "movie:1213898": {
+   "backdrop_path": "/nusKn1Kkjz4NsAKXBswjJVOwMXQ.jpg",
+   "budget": 33000000,
+   "cast": [
+    {
+     "c": "Lt. Col. Fateh Singh Kaler",
+     "n": "Sunny Deol"
+    },
+    {
+     "c": "Major Hoshiar Singh Dahiya",
+     "n": "Varun Dhawan"
+    },
+    {
+     "c": "Fg. Offr. Nirmal Jit Singh Sekhon",
+     "n": "Diljit Dosanjh"
+    },
+    {
+     "c": "Lt. Cdr. Mahendra S. Rawat",
+     "n": "Ahan Shetty"
+    },
+    {
+     "c": "Simi Singh Kaler",
+     "n": "Mona Singh"
+    },
+    {
+     "c": "Manjit Sekhon",
+     "n": "Sonam Bajwa"
+    },
+    {
+     "c": "Sudha Rawat",
+     "n": "Anya Singh"
+    },
+    {
+     "c": "Dhanvanti",
+     "n": "Medha Rana"
+    },
+    {
+     "c": "Sub. Nishan Singh",
+     "n": "Paramvir Singh Cheema"
+    },
+    {
+     "c": "Angad Singh Kaler",
+     "n": "Guneet Sandhu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Anurag Singh"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "War"
+   ],
+   "id": 1213898,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "Three idealistic soldiers in the Indian army, navy and air force face grueling combat conditions in this film set during the 1971 Indo-Pak war.",
+   "popularity": 5.4378,
+   "poster_path": "/AmrCgmDPEJ6QxllS1rhjYwgO9Wb.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-23",
+   "revenue": 21000000,
+   "runtime": 201,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi",
+    "pa"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Border 2",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.5,
+   "vote_count": 38
+  },
+  "movie:1239198": {
+   "backdrop_path": "/u0FLlb0vKQLvKmiGE6nyhHODFWH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Adela/A.D.",
+     "n": "Elisabeth Martínez"
+    },
+    {
+     "c": "Isabel",
+     "n": "Anna Castillo"
+    },
+    {
+     "c": "Cruz",
+     "n": "Nagore Aranburu"
+    },
+    {
+     "c": "Santiago",
+     "n": "Eneko Sagardoy"
+    },
+    {
+     "c": "Gato",
+     "n": "Manu Ríos"
+    },
+    {
+     "c": "Ángela",
+     "n": "Lola Rodríguez"
+    },
+    {
+     "c": "Patricia",
+     "n": "Delphina Bianco"
+    },
+    {
+     "c": "Padre José María",
+     "n": "Paco León"
+    },
+    {
+     "c": "Adelina",
+     "n": "María Galiana"
+    },
+    {
+     "c": "Alonso",
+     "n": "Rodrigo Cuevas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Fernando González Molina"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 1239198,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "A young woman from a traditional family learns she's intersex, sparking a journey of self-discovery, gender identity and love found in unexpected places.",
+   "popularity": 3.507,
+   "poster_path": "/cTcJs2bEsJDhQEpeYSOZD3yayZI.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-17",
+   "revenue": 0,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "My Dearest Señorita",
+   "trailer": {
+    "key": "u0OhgW-RtW0",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.458,
+   "vote_count": 48
+  },
+  "movie:1373198": {
+   "backdrop_path": "/b13AuahXeffKtRYij0QYb9pBuEy.jpg",
+   "budget": 93,
+   "cast": [
+    {
+     "c": "Dr. Kezian",
+     "n": "Djimon Hounsou"
+    },
+    {
+     "c": "Paloma",
+     "n": "Lauren LaVera"
+    },
+    {
+     "c": "Smith",
+     "n": "Mia Healey"
+    },
+    {
+     "c": "Bradshaw",
+     "n": "Neal McDonough"
+    },
+    {
+     "c": "Rebecca",
+     "n": "Alicia Witt"
+    },
+    {
+     "c": "Warricker",
+     "n": "Gina Philips"
+    },
+    {
+     "c": "Crace",
+     "n": "Prof"
+    },
+    {
+     "c": "Tad",
+     "n": "David Call"
+    },
+    {
+     "c": "Greg",
+     "n": "Michael Lombardi"
+    },
+    {
+     "c": "Lenny",
+     "n": "Renes Rivera"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Darren Lynn Bousman"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 1373198,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two millennial scammers hit the jackpot by sub-leasing luxury New York apartments they don't own, but their lucrative scheme spirals out of control when they target a mysterious landlord who turns the scam back on them.",
+   "popularity": 2.8231,
+   "poster_path": "/rF6txsM6cgF9vg6Ra5sNbkvUwrw.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-06",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Do no harm.",
+   "title": "Twisted",
+   "trailer": {
+    "key": "fAkM20N5YV0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.5,
+   "vote_count": 62
+  },
+  "movie:1412598": {
+   "backdrop_path": "/ykigHs1OIyqqV04zfFqIlSHp546.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maddie",
+     "n": "Virginia Gardner"
+    },
+    {
+     "c": "Trish",
+     "n": "Mel Jarnson"
+    },
+    {
+     "c": "Josh",
+     "n": "Mitchell Hope"
+    },
+    {
+     "c": "Chad",
+     "n": "Isaac Crawley"
+    },
+    {
+     "c": "Hooded Man",
+     "n": "Scott James George"
+    },
+    {
+     "c": "Waiter",
+     "n": "Luke Cunningham"
+    },
+    {
+     "c": "Market Lady",
+     "n": "Anna Yen"
+    },
+    {
+     "c": "Cleaner",
+     "n": "Shinji Ikefuji"
+    },
+    {
+     "c": "Security Guard",
+     "n": "Ron Smyck"
+    },
+    {
+     "c": "Chelsea",
+     "n": "Aliandra Calabrese"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jo-Anne Brechin"
+   ],
+   "genres": [
+    "Thriller",
+    "Horror",
+    "Action"
+   ],
+   "id": 1412598,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "Follows best friends Maddie and Trish as they find themselves trapped in a remote lagoon with the dangerous killer whale named Ceto.",
+   "popularity": 9.1419,
+   "poster_path": "/xC6zdIoIHjhOIFmjNyGgtzhuhiF.jpg",
+   "production_countries": [
+    "AU",
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-05",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "It's feeding time.",
+   "title": "Killer Whale",
+   "trailer": {
+    "key": "lyfrcbIaTEE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.223,
+   "vote_count": 260
+  },
+  "movie:1418998": {
+   "backdrop_path": "/dqDUQGXNTdG67Gr7zGoV6GTR0gw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jeanne",
+     "n": "Marion Cotillard"
+    },
+    {
+     "c": "Marc",
+     "n": "Denis Ménochet"
+    },
+    {
+     "c": "Daniel",
+     "n": "Leonardo Sbaraglia"
+    },
+    {
+     "c": "Vasquez",
+     "n": "Luis Zahera"
+    },
+    {
+     "c": "",
+     "n": "Anne Le Forestier"
+    },
+    {
+     "c": "Jean",
+     "n": "Alain Blazquez"
+    },
+    {
+     "c": "Manager criée",
+     "n": "Ferran Font Benito"
+    },
+    {
+     "c": "L'épicière",
+     "n": "Stivell Perot"
+    },
+    {
+     "c": "Vincent Favre",
+     "n": "Vincent Treguier"
+    },
+    {
+     "c": "Thomas",
+     "n": "Hugo Trophardy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Guillaume Canet"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 1418998,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In a village in northern Spain, Jeanne tries to rebuild her life with Daniel, who knows nothing about her troubled past. One day, Jeanne's six-year-old godson mysteriously disappears and Jeanne becomes the main suspect.",
+   "popularity": 3.7793,
+   "poster_path": "/hwEZ6fOtXX9mIZHSZPoOJW7AvmP.jpg",
+   "production_countries": [
+    "FR",
+    "CY"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-21",
+   "revenue": 0,
+   "runtime": 140,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Karma",
+   "trailer": {
+    "key": "Zd6ylgh9qk4",
+    "name": "KARMA - Official teaser HD",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.404,
+   "vote_count": 57
+  },
+  "movie:1430698": {
+   "backdrop_path": "/8OQbUnXkEFtTMAakP6dg7bRvvip.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Emma",
+     "n": "Francesca Eastwood"
+    },
+    {
+     "c": "Lani",
+     "n": "Dani Oliveros"
+    },
+    {
+     "c": "Mandal",
+     "n": "Alexander Wraith"
+    },
+    {
+     "c": "Ruhan",
+     "n": "Ta'imua"
+    },
+    {
+     "c": "Kai",
+     "n": "Calan Scherer"
+    },
+    {
+     "c": "Christy",
+     "n": "Destiny Benner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15",
+   "date_kind": "release",
+   "director": [
+    "Phil Volken"
+   ],
+   "genres": [
+    "Thriller",
+    "Horror"
+   ],
+   "id": 1430698,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Best friends Emma and Lani, attending a destination wedding in Thailand, find themselves trapped on a sinking tour boat in the heart of a tiger shark sanctuary.",
+   "popularity": 4.9978,
+   "poster_path": "/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-02",
+   "revenue": 0,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Welcome to paradise.",
+   "title": "The Bay",
+   "trailer": {
+    "key": "aqRoxJdq1i4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.708,
+   "vote_count": 36
+  },
+  "movie:1440098": {
+   "backdrop_path": "/i65y7cMae36K0giN0GRaMjAHUru.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marfil",
+     "n": "Ester Expósito"
+    },
+    {
+     "c": "Sebastian",
+     "n": "Hugo Diego Garcia"
+    },
+    {
+     "c": "Alejandro Cortés",
+     "n": "Pablo Molinero"
+    },
+    {
+     "c": "Logan",
+     "n": "Lluís Homar"
+    },
+    {
+     "c": "Ray",
+     "n": "Joaquín Ferreira"
+    },
+    {
+     "c": "Gabriela",
+     "n": "Zoe Bonafonte"
+    },
+    {
+     "c": "Tami",
+     "n": "Majo Gámez"
+    },
+    {
+     "c": "Liam",
+     "n": "João Bettencourt"
+    },
+    {
+     "c": "Wilson",
+     "n": "Leander Vyvey"
+    },
+    {
+     "c": "Iván",
+     "n": "Eric Masip"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Óscar Pedraza"
+   ],
+   "genres": [
+    "Romance",
+    "Thriller"
+   ],
+   "id": 1440098,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Marfil, daughter of a powerful Spanish businessman, sees her life in New York turned upside down when she is kidnapped and released without explanation. Her father hires Sebastian Moore as bodyguard and, forced to spend every minute together, an inevitable attraction ignites in a world where nothing is as it seems.",
+   "popularity": 18.8367,
+   "poster_path": "/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-09",
+   "revenue": 0,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Drawn Together",
+   "trailer": {
+    "key": "WlGzP8FvsfY",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.905,
+   "vote_count": 242
+  },
+  "movie:1516698": {
+   "backdrop_path": "/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Oriah 'Ry' Pera",
+     "n": "Maia Reficco"
+    },
+    {
+     "c": "Julián",
+     "n": "Fernando Lindez"
+    },
+    {
+     "c": "Isolde Pera",
+     "n": "Eva Longoria"
+    },
+    {
+     "c": "Amara",
+     "n": "Chloé Sweetlove"
+    },
+    {
+     "c": "Mateo",
+     "n": "Andrés Velencoso"
+    },
+    {
+     "c": "Lena",
+     "n": "Stefanie Martini"
+    },
+    {
+     "c": "Prisha",
+     "n": "Sabrina Bartlett"
+    },
+    {
+     "c": "Carlos",
+     "n": "Àlex Peracaula"
+    },
+    {
+     "c": "Sofia",
+     "n": "Molly B. Thomas"
+    },
+    {
+     "c": "Chloe",
+     "n": "Razan Nassar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Carlson Young"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 1516698,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
+   "popularity": 22.1898,
+   "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+   "production_countries": [
+    "US",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-26",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One summer to feel everything.",
+   "title": "The Last Sunrise",
+   "trailer": {
+    "key": "NhI2UpkFAFw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.92,
+   "vote_count": 244
+  },
+  "movie:1613798": {
+   "backdrop_path": "/xyW8rJO3rwG2EGcTO6eaUEa8b9d.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carlos Estrada",
+     "n": "Omar Chaparro"
+    },
+    {
+     "c": "Miguel Díaz",
+     "n": "Alejandro Speitzer"
+    },
+    {
+     "c": "Cnel. Gabriela Rangel",
+     "n": "Paola Nuñez"
+    },
+    {
+     "c": "Dolores Ramirez 'Lola'",
+     "n": "Natalia Solián"
+    },
+    {
+     "c": "Aurelio Salazar 'Chunco'",
+     "n": "Luis Alberti"
+    },
+    {
+     "c": "Alicia",
+     "n": "Iazua Larios"
+    },
+    {
+     "c": "Edith Diaz",
+     "n": "Lizeth Selene"
+    },
+    {
+     "c": "Hector Luna",
+     "n": "Gustavo Sánchez Parra"
+    },
+    {
+     "c": "Assasin",
+     "n": "Vasil Simeonov"
+    },
+    {
+     "c": "Militar Archivero",
+     "n": "Manuel Cruz Vivas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rodrigo Valdes"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 1613798,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "The brutal murder of the wife of “Toro,” a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of fate makes him a millionaire, Carlos transforms his fortune into an arsenal and, together with his closest soldiers, sets out to hunt down those responsible.",
+   "popularity": 10.1619,
+   "poster_path": "/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
+   "production_countries": [
+    "US",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-26",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Vengeance",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.539,
+   "vote_count": 333
+  },
+  "movie:1639398": {
+   "backdrop_path": "/dRw70TX664CS3Gf19QpU8LcEfPD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nora",
+     "n": "Adriana Llabrés"
+    },
+    {
+     "c": "Ariel",
+     "n": "Hoze Meléndez"
+    },
+    {
+     "c": "Eder",
+     "n": "Andrés Almeida"
+    },
+    {
+     "c": "Ramírez",
+     "n": "Horacio García Rojas"
+    },
+    {
+     "c": "Celeste",
+     "n": "Ruth Ramos"
+    },
+    {
+     "c": "Hedra",
+     "n": "Nailea Norvind"
+    },
+    {
+     "c": "Melesio",
+     "n": "Gerardo Trejoluna"
+    },
+    {
+     "c": "Julieta",
+     "n": "Myriam Bravo"
+    },
+    {
+     "c": "Irene",
+     "n": "Ana Rivero"
+    },
+    {
+     "c": "Rafa",
+     "n": "Andrés Delgado"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "C",
+   "date_kind": "release",
+   "director": [
+    "J. Xavier Velasco"
+   ],
+   "genres": [
+    "Thriller",
+    "Horror"
+   ],
+   "id": 1639398,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Follows an \"ultra-violent and intelligent\" psychopath who challenges the police by leaving a white paper rabbit at each crime scene, connecting them all.",
+   "popularity": 1.8155,
+   "poster_path": "/7tIgfsTWuzXKR2kLRUPrLRTbcuo.jpg",
+   "production_countries": [],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-19",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Mexican Psycho",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.153,
+   "vote_count": 111
   },
   "movie:2998": {
    "backdrop_path": "/nLb3TOTjgvvjmHnUmlkg4Rwq9jG.jpg",

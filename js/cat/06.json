@@ -1,6 +1,6 @@
 {
  "bucket": "06",
- "count": 22,
+ "count": 32,
  "titles": {
   "movie:10606": {
    "backdrop_path": "/4wPZaKaucs4lN7V4JWwkCN8vSwp.jpg",
@@ -338,6 +338,250 @@
    "vote_average": 5.658,
    "vote_count": 477
   },
+  "movie:1159206": {
+   "backdrop_path": "/n36zycrAqHn2uzx65IeAdnsZcMj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Father",
+     "n": "Tom Waits"
+    },
+    {
+     "c": "Jeff",
+     "n": "Adam Driver"
+    },
+    {
+     "c": "Emily",
+     "n": "Mayim Bialik"
+    },
+    {
+     "c": "Mother",
+     "n": "Charlotte Rampling"
+    },
+    {
+     "c": "Timothea",
+     "n": "Cate Blanchett"
+    },
+    {
+     "c": "Lilith",
+     "n": "Vicky Krieps"
+    },
+    {
+     "c": "Jeanette",
+     "n": "Sarah Greene"
+    },
+    {
+     "c": "Skye",
+     "n": "Lillah Indya Moore"
+    },
+    {
+     "c": "Billy",
+     "n": "Luka Sabbat"
+    },
+    {
+     "c": "Madame Gautier",
+     "n": "Françoise Lebrun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jim Jarmusch"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1159206,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Estranged siblings reunite after years apart, forced to confront unresolved tensions and reevaluate their strained relationships with their emotionally distant parents.",
+   "popularity": 3.5595,
+   "poster_path": "/96O3Ol3f2veMxAxYqsML8rOumB9.jpg",
+   "production_countries": [
+    "US",
+    "FR",
+    "IE",
+    "IT",
+    "DE",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-12",
+   "revenue": 7693345,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Father Mother Sister Brother",
+   "trailer": {
+    "key": "PA07EmbZ0b0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.367,
+   "vote_count": 366
+  },
+  "movie:1185806": {
+   "backdrop_path": "/dY4LyVSvjk9dN20YsxuouaMIMox.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Marshall (voice)",
+     "n": "Carter Young"
+    },
+    {
+     "c": "Skye (voice)",
+     "n": "Mckenna Grace"
+    },
+    {
+     "c": "Alistair Stonewall (voice)",
+     "n": "Terry Crews"
+    },
+    {
+     "c": "Harper Cutlass (voice)",
+     "n": "Meredith MacNeill"
+    },
+    {
+     "c": "Mayor Humdinger / Cap’n Turbot (voice)",
+     "n": "Ron Pardo"
+    },
+    {
+     "c": "Lilian Ledes (voice)",
+     "n": "Jennifer Hudson"
+    },
+    {
+     "c": "Rex (voice)",
+     "n": "Hayden Chemberlen"
+    },
+    {
+     "c": "Eugenia Bunsen (voice)",
+     "n": "Fortune Feimster"
+    },
+    {
+     "c": "Heidi Pothesis (voice)",
+     "n": "Jameela Jamil"
+    },
+    {
+     "c": "Chase (voice)",
+     "n": "Rain Janjua"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Cal Brunker"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Family",
+    "Fantasy",
+    "Comedy"
+   ],
+   "id": 1185806,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+   "popularity": 27.1173,
+   "poster_path": "/cxXSF4aY5N2cOGwaga5OnpPFHzk.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-23",
+   "revenue": 138326933,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "An adventure of prehistoric pawportions.",
+   "title": "PAW Patrol: The Dino Movie",
+   "trailer": {
+    "key": "xgI5iYmOf5Q",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.123,
+   "vote_count": 204
+  },
   "movie:121606": {
    "backdrop_path": "/fF5XLTGoZEsP84wcDF3HtGNp5zm.jpg",
    "budget": 0,
@@ -507,6 +751,534 @@
    "vote_average": 6.329,
    "vote_count": 499
   },
+  "movie:1274706": {
+   "backdrop_path": "/2fgcRuaseQ9RIiTAUDbLtymnj2z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Anna Ripoll",
+     "n": "Candela Peña"
+    },
+    {
+     "c": "Desconocida/Clara",
+     "n": "Ana Rujas"
+    },
+    {
+     "c": "Zárate",
+     "n": "Pol López"
+    },
+    {
+     "c": "Falcó",
+     "n": "Manolo Solo"
+    },
+    {
+     "c": "Lucía",
+     "n": "Kira Miró"
+    },
+    {
+     "c": "Enfermera Urgencias",
+     "n": "Esther Noya"
+    },
+    {
+     "c": "Lolo Rojas",
+     "n": "Luka Peroš"
+    },
+    {
+     "c": "Ferrán",
+     "n": "Swit Eme"
+    },
+    {
+     "c": "Amalia",
+     "n": "Pilar Nogales"
+    },
+    {
+     "c": "Neuróloga",
+     "n": "Montse Germán"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "+16",
+   "date_kind": "release",
+   "director": [
+    "Gabe Ibáñez"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime"
+   ],
+   "id": 1274706,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "When a woman is found in a shipping container with no memory of who she is, two detectives race to figure out her identity — and who wants her dead.",
+   "popularity": 4.3333,
+   "poster_path": "/dyUZ6IKbzmgtdshHevJahpH51Eq.jpg",
+   "production_countries": [
+    "AR",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-05",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Marked Woman",
+   "trailer": {
+    "key": "161b4xLkokE",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.599,
+   "vote_count": 136
+  },
+  "movie:1340206": {
+   "backdrop_path": "/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Niki White",
+     "n": "Leo Woodall"
+    },
+    {
+     "c": "Harry Horowitz",
+     "n": "Dustin Hoffman"
+    },
+    {
+     "c": "Uri",
+     "n": "Lior Raz"
+    },
+    {
+     "c": "Ruthie",
+     "n": "Havana Rose Liu"
+    },
+    {
+     "c": "Marla",
+     "n": "Tovah Feldshuh"
+    },
+    {
+     "c": "Yoni",
+     "n": "Gil Cohen"
+    },
+    {
+     "c": "Benny",
+     "n": "Nissan Sakira"
+    },
+    {
+     "c": "Mansion Homeowner",
+     "n": "Alisen Richmond-Peck"
+    },
+    {
+     "c": "Ellyn",
+     "n": "Ellyn Jameson"
+    },
+    {
+     "c": "Studio Manager",
+     "n": "Tim Blair"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Daniel Roher"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "id": 1340206,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+   "popularity": 13.1903,
+   "poster_path": "/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-29",
+   "revenue": 13505364,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "he",
+    "en",
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "Everybody has one hidden talent.",
+   "title": "Tuner",
+   "trailer": {
+    "key": "XiehvETTjTQ",
+    "name": "TUNER Trailer 4K (2026) | Leo Woodall, Havana Rose Liu, Dustin Hoffman, Jean Reno | Crime, Thriller",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.555,
+   "vote_count": 672
+  },
+  "movie:1366906": {
+   "backdrop_path": "/1pI2Crm9YjSDbH75NZaW8FrYjs9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Derek",
+     "n": "Mason Gooding"
+    },
+    {
+     "c": "Kevin",
+     "n": "Algee Smith"
+    },
+    {
+     "c": "Tyon",
+     "n": "Keith Powers"
+    },
+    {
+     "c": "Jacob",
+     "n": "James Van Der Beek"
+    },
+    {
+     "c": "Christopher",
+     "n": "Brad Leland"
+    },
+    {
+     "c": "Officer Bobby",
+     "n": "Kylr Coffman"
+    },
+    {
+     "c": "Elizabeth",
+     "n": "Elle Evans"
+    },
+    {
+     "c": "Roxy",
+     "n": "Sofia Hublitz"
+    },
+    {
+     "c": "Julissa",
+     "n": "Aliyah Celeste"
+    },
+    {
+     "c": "Officer Horton",
+     "n": "Rob Gallavan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Burr"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 1366906,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Three friends on a road trip witness a murder inside a gated community, only to become trapped and hunted by its residents as suspicion, fear and a sinister patriarch threaten to tear them apart.",
+   "popularity": 2.4635,
+   "poster_path": "/dWMiHlKz0OsbVXEEZR3hYyWHcdq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-13",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One wrong turn. One long night.",
+   "title": "The Gates",
+   "trailer": {
+    "key": "rooCFaczeXQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.345,
+   "vote_count": 113
+  },
+  "movie:1432706": {
+   "backdrop_path": "/lWVnUBYG7nIb84gxa3tSeP8CghA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Julia",
+     "n": "Emmanuelle Lussier Martinez"
+    },
+    {
+     "c": "Randall",
+     "n": "Bill Rowat"
+    },
+    {
+     "c": "Father Thierry",
+     "n": "Mark Antony Krupa"
+    },
+    {
+     "c": "Evelyn",
+     "n": "Dawn Ford"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Adam O'Brien"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 1432706,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a hospice nurse finds herself trapped with a dementia patient, she begins to suspect something else is wrong with the woman, something otherworldly, and must fight to survive the night.",
+   "popularity": 7.6719,
+   "poster_path": "/yQ3GeVsebrhOPIBhIdoSslbndEv.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-06",
+   "revenue": 0,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Nothing stays buried forever.",
+   "title": "Bury the Devil",
+   "trailer": {
+    "key": "yHyzU7YMMIU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 34
+  },
+  "movie:1517606": {
+   "backdrop_path": "/wOkBd4oxrMjjrVczY0ycyH6FWr7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Giulio Sabatini",
+     "n": "Tommaso Cassissa"
+    },
+    {
+     "c": "Professoressa Martinelli",
+     "n": "Sabrina Ferilli"
+    },
+    {
+     "c": "Cesare",
+     "n": "Adriano Moretti"
+    },
+    {
+     "c": "Allegra",
+     "n": "Alice Lupparelli"
+    },
+    {
+     "c": "Sole",
+     "n": "Alice Maselli"
+    },
+    {
+     "c": "Giulia",
+     "n": "Ditonellapiaga"
+    },
+    {
+     "c": "Alberto",
+     "n": "Aleandro Falciglia"
+    },
+    {
+     "c": "Martina",
+     "n": "Bea Barret"
+    },
+    {
+     "c": "Barbagallo",
+     "n": "Christian Dei"
+    },
+    {
+     "c": "Teresa",
+     "n": "Teresa Piergentili"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Tommaso Renzoni"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1517606,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "On the eve of their final exams, a group of Roman high school students find themselves experiencing their last great adventure together: secret loves, betrayals, tested friendships, and desperate plans to deceive the school's most feared teacher.",
+   "popularity": 1.1932,
+   "poster_path": "/akMWdGoPmiBNBTCX3WpMLr8q2u3.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-19",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Notte prima degli esami 3.0",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 47
+  },
   "movie:15206": {
    "backdrop_path": "/tEJf6vcobkTzIk2cRJYvLKeUuLY.jpg",
    "budget": 3500000,
@@ -670,6 +1442,204 @@
    "type": "movie",
    "vote_average": 4.552,
    "vote_count": 469
+  },
+  "movie:1631506": {
+   "backdrop_path": "/9La8mRvH81YdUa6HwyQicVqIrUJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rosa Martín",
+     "n": "Amaia Salamanca"
+    },
+    {
+     "c": "Fran",
+     "n": "Eduardo Noriega"
+    },
+    {
+     "c": "Patti a los 10 años",
+     "n": "Cosette Silguero"
+    },
+    {
+     "c": "Ana",
+     "n": "Norma Ruiz"
+    },
+    {
+     "c": "Janis",
+     "n": "Anastasia Fauteck"
+    },
+    {
+     "c": "Patti a los 25 años",
+     "n": "Veki Velilla"
+    },
+    {
+     "c": "Begoña",
+     "n": "Cristina Gallego"
+    },
+    {
+     "c": "Blasco",
+     "n": "Raúl Sanz"
+    },
+    {
+     "c": "Exorcista",
+     "n": "Emilio Buale"
+    },
+    {
+     "c": "Sofía",
+     "n": "Carlota Callén"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Miguel Ángel Lamata"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 1631506,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Rosa Martín, a singer-songwriter known as La Ahorcada, takes her own life in the garden of the man she loved, Fran, who treated her as nothing more than a sexual object. The ghost of La Ahorcada remains in Fran's mansion, refusing to be ignored and determined to teach him a lesson. Her obsession will end up turning the lives of Fran and his family into a living hell.",
+   "popularity": 2.388,
+   "poster_path": "/j5016vxLjYd5pmXezXNHYTbsjro.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-22",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Hanged Woman",
+   "trailer": {
+    "key": "bQOcBnTGpuk",
+    "name": "LA AHORCADA. Tráiler oficial. 24 de abril en cines.",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 68
+  },
+  "movie:1739206": {
+   "backdrop_path": "/laiVx3X4J7GNUyWWNvwGpSgT7MX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Mr. T"
+    },
+    {
+     "c": "Self",
+     "n": "Erica Nicole Clark"
+    },
+    {
+     "c": "Self",
+     "n": "Terry Crews"
+    },
+    {
+     "c": "Self",
+     "n": "Dirk Benedict"
+    },
+    {
+     "c": "Self",
+     "n": "Scoop Jackson"
+    },
+    {
+     "c": "Self",
+     "n": "Henry O. Hardy"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Sylvester Stallone"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Ronald Reagan"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Nancy Reagan"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Hulk Hogan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Scott Weintrob"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1739206,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Mr. T took the world by storm as an '80s icon. This documentary reveals the full story behind the mohawk, chains and catchphrase from the man himself.",
+   "popularity": 2.0232,
+   "poster_path": "/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-08",
+   "revenue": 0,
+   "runtime": 49,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Untold Mr. T: I Pity the Fool",
+   "trailer": {
+    "key": "Txk5C-452ak",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.184,
+   "vote_count": 38
   },
   "movie:21506": {
    "backdrop_path": "/9gF8o7nNCWtzYiiAkvPNGw4yxsg.jpg",
@@ -1540,6 +2510,110 @@
    "type": "movie",
    "vote_average": 5.79,
    "vote_count": 470
+  },
+  "movie:772506": {
+   "backdrop_path": "/8fN4YSYUOAlYmUcqzGCuztaXms6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Julian Rodin",
+     "n": "Rob Schneider"
+    },
+    {
+     "c": "Secretary",
+     "n": "Patricia Schneider"
+    },
+    {
+     "c": "Enrique",
+     "n": "Vadhir Derbez"
+    },
+    {
+     "c": "",
+     "n": "Paulina Dávila"
+    },
+    {
+     "c": "",
+     "n": "Christian Vazquez"
+    },
+    {
+     "c": "Carlos",
+     "n": "Eduardo España"
+    },
+    {
+     "c": "Niño",
+     "n": "Anthony Giulietti"
+    },
+    {
+     "c": "Reportero",
+     "n": "David Arizpe"
+    },
+    {
+     "c": "Switcher",
+     "n": "Juan Pablo Salazar"
+    },
+    {
+     "c": "Paparazzi",
+     "n": "Rogelio Nieto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Rob Schneider"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 772506,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Enrique Juarez is an up-and-coming Mexican Telenovela actor on the verge of becoming a leading man, that has to hide his true self in order to achieve stardom.",
+   "popularity": 1.0887,
+   "poster_path": "/ueIkf1QS8yy88CyX1TniCLd18Aj.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-07",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Love is Love",
+   "trailer": {
+    "key": "AlE1gH-qkZA",
+    "name": "Love is love | Official Trailer New HULU",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.346,
+   "vote_count": 26
   },
   "movie:977506": {
    "backdrop_path": "/czVIuIXqDPgCBHI3vLYQcRtzAo7.jpg",

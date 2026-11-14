@@ -1,6 +1,6 @@
 {
  "bucket": "63",
- "count": 16,
+ "count": 30,
  "titles": {
   "movie:10063": {
    "d": "The Breed (2006): Thriller/Horror film. Story: Brothers John and Matt have inherited an island cabin… See cast and TMDB rating 5.5/10.",
@@ -66,6 +66,70 @@
    "t": "The Breed (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2006"
   },
+  "movie:1032863": {
+   "d": "The Love Hypothesis (2026): Romance/Comedy film. Story: Olive Smith, a biology PhD candidate, and Dr. Adam… See cast and TMDB rating 7.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+   "industry": "world",
+   "k": "The Love Hypothesis, The Love Hypothesis movie, The Love Hypothesis cast, The Love Hypothesis story, The Love Hypothesis box office collection, The Love Hypothesis budget, The Love Hypothesis review, The Love Hypothesis rating, The Love Hypothesis release date, The Love Hypothesis trailer, The Love Hypothesis Romance, The Love Hypothesis Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lili Reinhart"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Bateman"
+     },
+     {
+      "@type": "Person",
+      "name": "Rachel Marsh"
+     },
+     {
+      "@type": "Person",
+      "name": "Jaboukie Young-White"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicholas Duvernay"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 738,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "The Love Hypothesis (2026): Romance/Comedy film. Story: Olive Smith, a biology PhD candidate, and Dr. Adam… See cast and TMDB rating 7.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Claire Scanlon"
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1032863",
+    "name": "The Love Hypothesis",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1032863"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Love Hypothesis (2026)</h1>\n<p class=\"ssr-lead\">Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 September 2026</li><li>Runtime: 112 minutes</li><li>Director: Claire Scanlon</li><li>Genres: Romance, Comedy</li><li>TMDB rating: 7.9/10 (738 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lili Reinhart as Olive Smith</li><li>Tom Bateman as Dr. Adam Carlsen</li><li>Rachel Marsh as Anh Pham</li><li>Jaboukie Young-White as Malcolm Browne</li><li>Nicholas Duvernay as Jeremy Langley</li><li>Arty Froushan as Dr. Thomas Benton</li><li>Jeananne Goossen as Dr. Juliet Aslan</li><li>Aladeen Tawfeek as Dr. Eugene Fastuca</li><li>Kenny Wong as McConnell</li><li>Daniel Brochu as Dr. Hargrave</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "The Love Hypothesis (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:10763": {
    "d": "Dr. T & the Women (2000): Comedy/Drama film. Story: A successful Texas gynecologist finds himself amid a… See cast, budget $23M, and TMDB rating 5.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/zf2eFbIgNvg4qRa8bUsHkw2JkSE.jpg",
@@ -130,6 +194,201 @@
    "t": "Dr. T & the Women (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2000"
   },
+  "movie:1212763": {
+   "d": "Evil Dead Burn (2026): Horror film. Story: After her husband's abrupt death, Alice seeks solace… See cast, budget $20M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
+   "industry": "world",
+   "k": "Evil Dead Burn, Evil Dead Burn movie, Evil Dead Burn cast, Evil Dead Burn story, Evil Dead Burn box office collection, Evil Dead Burn budget, Evil Dead Burn review, Evil Dead Burn rating, Evil Dead Burn release date, Evil Dead Burn trailer, Evil Dead Burn Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Souheila Yacoub"
+     },
+     {
+      "@type": "Person",
+      "name": "Tandi Wright"
+     },
+     {
+      "@type": "Person",
+      "name": "Hunter Doohan"
+     },
+     {
+      "@type": "Person",
+      "name": "Luciane Buchanan"
+     },
+     {
+      "@type": "Person",
+      "name": "Erroll Shand"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1947,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Evil Dead Burn (2026): Horror film. Story: After her husband's abrupt death, Alice seeks solace… See cast, budget $20M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sébastien Vaniček"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1212763",
+    "name": "Evil Dead Burn",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1212763"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Evil Dead Burn (2026)</h1>\n<p class=\"ssr-lead\">After her husband&#x27;s abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 July 2026</li><li>Runtime: 110 minutes</li><li>Director: Sébastien Vaniček</li><li>Genres: Horror</li><li>Budget: $20M</li><li>TMDB rating: 7.6/10 (1947 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Souheila Yacoub as Alice</li><li>Tandi Wright as Susan</li><li>Hunter Doohan as Joseph</li><li>Luciane Buchanan as Thya</li><li>Erroll Shand as Edgar</li><li>Maude Davey as Polly</li><li>George Pullar as Will</li><li>Greta van den Brink as Jessica</li><li>Keanu Karim as Jared</li><li>Victory Ndukwe as Leo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Evil Dead Burn (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1226863": {
+   "d": "The Super Mario Galaxy Movie (2026): Family/Comedy film. Story: Having thwarted Bowser's previous plot to marry… See cast, budget $110M, and TMDB rating 8.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+   "industry": "world",
+   "k": "The Super Mario Galaxy Movie, The Super Mario Galaxy Movie movie, The Super Mario Galaxy Movie cast, The Super Mario Galaxy Movie story, The Super Mario Galaxy Movie box office collection, The Super Mario Galaxy Movie budget, The Super Mario Galaxy Movie review, The Super Mario Galaxy Movie rating, The Super Mario Galaxy Movie release date, The Super Mario Galaxy Movie trailer, The Super Mario Galaxy Movie Family, The Super Mario Galaxy Movie Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chris Pratt"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlie Day"
+     },
+     {
+      "@type": "Person",
+      "name": "Anya Taylor-Joy"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Black"
+     },
+     {
+      "@type": "Person",
+      "name": "Keegan-Michael Key"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 3980,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "The Super Mario Galaxy Movie (2026): Family/Comedy film. Story: Having thwarted Bowser's previous plot to marry… See cast, budget $110M, and TMDB rating 8.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Aaron Horvath"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Jelenic"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Family",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1226863",
+    "name": "The Super Mario Galaxy Movie",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1226863"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Super Mario Galaxy Movie (2026)</h1>\n<p class=\"ssr-lead\">Having thwarted Bowser&#x27;s previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir&#x27;s crusade.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 April 2026</li><li>Runtime: 98 minutes</li><li>Director: Aaron Horvath, Michael Jelenic</li><li>Genres: Family, Comedy, Adventure, Fantasy, Animation</li><li>Budget: $110M</li><li>TMDB rating: 8.2/10 (3980 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chris Pratt as Mario (voice)</li><li>Charlie Day as Luigi (voice)</li><li>Anya Taylor-Joy as Princess Peach (voice)</li><li>Jack Black as Bowser (voice)</li><li>Keegan-Michael Key as Toad (voice)</li><li>Benny Safdie as Bowser Junior (voice)</li><li>Donald Glover as Yoshi (voice)</li><li>Glen Powell as Fox McCloud (voice)</li><li>Brie Larson as Rosalina (voice)</li><li>Luis Guzmán as Wart (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Super Mario Galaxy Movie (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1356963": {
+   "d": "Little Lorraine (2026): Crime/Drama film. Story: Little Lorraine, a North Atlantic seaside town with a… See cast and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/utpd4H566GFpw6hjufRxEuoSIIg.jpg",
+   "industry": "world",
+   "k": "Little Lorraine, Little Lorraine movie, Little Lorraine cast, Little Lorraine story, Little Lorraine box office collection, Little Lorraine budget, Little Lorraine review, Little Lorraine rating, Little Lorraine release date, Little Lorraine trailer, Little Lorraine Crime, Little Lorraine Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Stephen Amell"
+     },
+     {
+      "@type": "Person",
+      "name": "Sean Astin"
+     },
+     {
+      "@type": "Person",
+      "name": "J Balvin"
+     },
+     {
+      "@type": "Person",
+      "name": "Matt Walsh"
+     },
+     {
+      "@type": "Person",
+      "name": "Rhys Darby"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 20,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Little Lorraine (2026): Crime/Drama film. Story: Little Lorraine, a North Atlantic seaside town with a… See cast and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Andy Hines"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/utpd4H566GFpw6hjufRxEuoSIIg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1356963",
+    "name": "Little Lorraine",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1356963"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Little Lorraine (2026)</h1>\n<p class=\"ssr-lead\">Little Lorraine, a North Atlantic seaside town with a population of 60, becomes embroiled in an international cocaine smuggling operation under the noses of multiple governments, distributed in coffins through a network of funeral homes.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 April 2026</li><li>Runtime: 115 minutes</li><li>Director: Andy Hines</li><li>Genres: Crime, Drama</li><li>TMDB rating: 6.6/10 (20 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Stephen Amell as Jimmy</li><li>Sean Astin as Fr. Williams</li><li>J Balvin as Agent Lozano</li><li>Matt Walsh as Officer Douglas</li><li>Rhys Darby as Tim</li><li>Stephen McHattie as Huey</li><li>Sugar Lyn Beard as Nancy</li><li>Kaelen Ohm as Alice</li><li>Steve Lund as Jake</li><li>Mike Dopud as Thibault</li></ul>\n</article>",
+   "t": "Little Lorraine (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:13763": {
    "d": "Purple Rain (1984): Drama/Music film. Story: A victim of his own anger, the Kid is a Minneapolis… See cast, budget $7.2M, and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/s3WFrpZV1QIo8Aao2TaAI5ERUTO.jpg",
@@ -193,6 +452,585 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Purple Rain (1984)</h1>\n<p class=\"ssr-lead\">A victim of his own anger, the Kid is a Minneapolis musician on the rise with his band, the Revolution, escaping a tumultuous home life through music. While trying to avoid making the same mistakes as his truculent father, the Kid navigates the club scene and a rocky relationship with a captivating singer, Apollonia. But another musician, Morris, looks to steal the Kid&#x27;s spotlight -- and his girl.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 July 1984</li><li>Runtime: 111 minutes</li><li>Director: Albert Magnoli</li><li>Genres: Drama, Music, Romance</li><li>Budget: $7.2M</li><li>TMDB rating: 6.7/10 (444 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Prince as The Kid</li><li>Apollonia Kotero as Apollonia</li><li>Morris Day as Morris</li><li>Jerome Benton as Jerome</li><li>Olga Karlatos as Mother</li><li>Clarence Williams III as Father</li><li>Billy Sparks as Billy</li><li>Wendy Melvoin as Wendy</li><li>Lisa Coleman as Lisa</li><li>Bobby Z as Bobby</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "Purple Rain (1984) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1984"
+  },
+  "movie:1379963": {
+   "d": "Tell Me Softly (2025): Romance/Drama film. Story: Kamila has everything under control: studies, social… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rtv6da2U8poERiAZSAbCOePXzql.jpg",
+   "industry": "world",
+   "k": "Tell Me Softly, Tell Me Softly movie, Tell Me Softly cast, Tell Me Softly story, Tell Me Softly box office collection, Tell Me Softly budget, Tell Me Softly review, Tell Me Softly rating, Tell Me Softly release date, Tell Me Softly trailer, Tell Me Softly Romance, Tell Me Softly Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alícia Falcó"
+     },
+     {
+      "@type": "Person",
+      "name": "Fernando Lindez"
+     },
+     {
+      "@type": "Person",
+      "name": "Diego Vidales"
+     },
+     {
+      "@type": "Person",
+      "name": "Jan Buxaderas"
+     },
+     {
+      "@type": "Person",
+      "name": "Eve Ryan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 217,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Tell Me Softly (2025): Romance/Drama film. Story: Kamila has everything under control: studies, social… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Denis Rovira van Boekholt"
+     }
+    ],
+    "duration": "PT119M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rtv6da2U8poERiAZSAbCOePXzql.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1379963",
+    "name": "Tell Me Softly",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1379963"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Tell Me Softly (2025)</h1>\n<p class=\"ssr-lead\">Kamila has everything under control: studies, social life, her image... Everything except the unexpected return of her neighbors, the Di Bianco brothers, after seven years of absence. Thiago stole her first kiss, and Taylor was her best friend, but now their return will turn Kami&#x27;s world upside down. Can the three overcome the past that binds them? Or will everything explode into pieces once again?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 December 2025</li><li>Runtime: 119 minutes</li><li>Director: Denis Rovira van Boekholt</li><li>Genres: Romance, Drama</li><li>TMDB rating: 6.3/10 (217 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alícia Falcó as Kami</li><li>Fernando Lindez as Thiago</li><li>Diego Vidales as Taylor</li><li>Jan Buxaderas as Dani</li><li>Eve Ryan as Cata</li><li>Fernando Nagore as Jules</li><li>Patricia Vico as Anne</li><li>Celia Freijeiro as Chiara</li><li>Francisco Reyes as Clab</li><li>Andrés Velencoso as Tino</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Tell Me Softly (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1400763": {
+   "d": "Touch Me (2026): Comedy/Science Fiction film. Story: Two codependent best friends become addicted to the… See cast and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kQ3V85ke3LKA4dnww2tH42bsZfX.jpg",
+   "industry": "world",
+   "k": "Touch Me, Touch Me movie, Touch Me cast, Touch Me story, Touch Me box office collection, Touch Me budget, Touch Me review, Touch Me rating, Touch Me release date, Touch Me trailer, Touch Me Comedy, Touch Me Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Olivia Taylor Dudley"
+     },
+     {
+      "@type": "Person",
+      "name": "Lou Taylor Pucci"
+     },
+     {
+      "@type": "Person",
+      "name": "Jordan Gavaris"
+     },
+     {
+      "@type": "Person",
+      "name": "Marlene Forte"
+     },
+     {
+      "@type": "Person",
+      "name": "Paget Brewster"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 23,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Touch Me (2026): Comedy/Science Fiction film. Story: Two codependent best friends become addicted to the… See cast and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Addison Heimann"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Comedy",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kQ3V85ke3LKA4dnww2tH42bsZfX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1400763",
+    "name": "Touch Me",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1400763"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Touch Me (2026)</h1>\n<p class=\"ssr-lead\">Two codependent best friends become addicted to the heroin-like touch of an alien narcissist who may or may not be trying to take over the world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 March 2026</li><li>Runtime: 99 minutes</li><li>Director: Addison Heimann</li><li>Genres: Comedy, Science Fiction, Horror</li><li>TMDB rating: 5.7/10 (23 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Olivia Taylor Dudley as Joey</li><li>Lou Taylor Pucci as Brian</li><li>Jordan Gavaris as Craig</li><li>Marlene Forte as Laura</li><li>Paget Brewster as Marge</li><li>Ashley Lauren Nedd as Dr. Kelly</li><li>JJ Phillips as Noah</li><li>Yumarie Morales as Celeste</li><li>Eli Lucas as River</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Shudder</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Touch Me (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1421963": {
+   "d": "Whatever It Takes (2026): Comedy/Drama film. Story: Rose and Jean have nothing in common. Rose is a force… See cast and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yCo1Gs7vpROBC1uggQ3r7TrHiU.jpg",
+   "industry": "world",
+   "k": "Whatever It Takes, Whatever It Takes movie, Whatever It Takes cast, Whatever It Takes story, Whatever It Takes box office collection, Whatever It Takes budget, Whatever It Takes review, Whatever It Takes rating, Whatever It Takes release date, Whatever It Takes Comedy, Whatever It Takes Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sandrine Kiberlain"
+     },
+     {
+      "@type": "Person",
+      "name": "Pierre Lottin"
+     },
+     {
+      "@type": "Person",
+      "name": "Louise Labèque"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexis Rosenstiehl"
+     },
+     {
+      "@type": "Person",
+      "name": "Alma Ngoc"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 59,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Whatever It Takes (2026): Comedy/Drama film. Story: Rose and Jean have nothing in common. Rose is a force… See cast and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jean-Baptiste Léonetti"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yCo1Gs7vpROBC1uggQ3r7TrHiU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1421963",
+    "name": "Whatever It Takes",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1421963"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Whatever It Takes (2026)</h1>\n<p class=\"ssr-lead\">Rose and Jean have nothing in common. Rose is a force of nature who faces all her problems with a disarming joie de vivre. She lives with her 3 children upstairs in the family hotel that no longer belongs to her. They&#x27;re not poor, they&#x27;re broke... but only temporarily. Jean is a solitary, taciturn man who has buried his big heart under layers of modesty and resignation. When he arrives in this unusual family, however, he quickly becomes indispensable. What did they expect before they met? Probably nothing. He soon becomes indispensable.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 March 2026</li><li>Runtime: 100 minutes</li><li>Director: Jean-Baptiste Léonetti</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 6.1/10 (59 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sandrine Kiberlain as Rose</li><li>Pierre Lottin as Jean</li><li>Louise Labèque as Tess</li><li>Alexis Rosenstiehl as Simon</li><li>Alma Ngoc as Émily</li><li>Mélissa Izquierdo as Madame Medrano</li><li>Mogamed Bechiev as Axel</li><li>Frans Boyer as vigile 1</li><li>Matthieu Jordan as vigile 2</li><li>Olivier Pierre Richard as chef de service soins intensifs</li></ul>\n</article>",
+   "t": "Whatever It Takes (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1445363": {
+   "d": "EPiC: Elvis Presley in Concert (2026): Music/Documentary film. Story: Long-lost footage from Elvis Presley's legendary Las… See cast and TMDB rating 8.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ttOBvac1oW0OCCfFzZlXh3NeKyl.jpg",
+   "industry": "world",
+   "k": "EPiC: Elvis Presley in Concert, EPiC: Elvis Presley in Concert movie, EPiC: Elvis Presley in Concert cast, EPiC: Elvis Presley in Concert story, EPiC: Elvis Presley in Concert box office collection, EPiC: Elvis Presley in Concert budget, EPiC: Elvis Presley in Concert review, EPiC: Elvis Presley in Concert rating, EPiC: Elvis Presley in Concert release date, EPiC: Elvis Presley in Concert trailer, EPiC: Elvis Presley in Concert Music, EPiC: Elvis Presley in Concert Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Elvis Presley"
+     },
+     {
+      "@type": "Person",
+      "name": "James Burton"
+     },
+     {
+      "@type": "Person",
+      "name": "John Wilkinson"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlie Hodge"
+     },
+     {
+      "@type": "Person",
+      "name": "Jerry Scheff"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 116,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "EPiC: Elvis Presley in Concert (2026): Music/Documentary film. Story: Long-lost footage from Elvis Presley's legendary Las… See cast and TMDB rating 8.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Baz Luhrmann"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Music",
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ttOBvac1oW0OCCfFzZlXh3NeKyl.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1445363",
+    "name": "EPiC: Elvis Presley in Concert",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1445363"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>EPiC: Elvis Presley in Concert (2026)</h1>\n<p class=\"ssr-lead\">Long-lost footage from Elvis Presley&#x27;s legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling &quot;his side of the story&quot; rediscovered during Baz Luhrmann&#x27;s research for his 2022 film, Elvis.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 February 2026</li><li>Runtime: 98 minutes</li><li>Director: Baz Luhrmann</li><li>Genres: Music, Documentary</li><li>TMDB rating: 8.2/10 (116 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Elvis Presley as Self (archive footage)</li><li>James Burton as Self (archive footage)</li><li>John Wilkinson as Self (archive footage)</li><li>Charlie Hodge as Self (archive footage)</li><li>Jerry Scheff as Self (archive footage)</li><li>Glen D. Hardin as Self (archive footage)</li><li>Ronnie Tutt as Self (archive footage)</li><li>Bono as Self (voice)</li><li>Sammy Davis Jr. as Self (archive footage)</li><li>Cary Grant as Self (archive footage)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "EPiC: Elvis Presley in Concert (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1465063": {
+   "d": "Forgotten Island (2026): Animation/Adventure film. Story: While celebrating their last night together, high… See cast, budget $80M, and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+   "industry": "world",
+   "k": "Forgotten Island, Forgotten Island movie, Forgotten Island cast, Forgotten Island story, Forgotten Island box office collection, Forgotten Island budget, Forgotten Island review, Forgotten Island rating, Forgotten Island release date, Forgotten Island trailer, Forgotten Island Animation, Forgotten Island Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "H.E.R."
+     },
+     {
+      "@type": "Person",
+      "name": "Liza Soberano"
+     },
+     {
+      "@type": "Person",
+      "name": "Dave Franco"
+     },
+     {
+      "@type": "Person",
+      "name": "Jenny Slate"
+     },
+     {
+      "@type": "Person",
+      "name": "Manny Jacinto"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 252,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "Forgotten Island (2026): Animation/Adventure film. Story: While celebrating their last night together, high… See cast, budget $80M, and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Januel Mercado"
+     },
+     {
+      "@type": "Person",
+      "name": "Joel Crawford"
+     }
+    ],
+    "duration": "PT109M",
+    "genre": [
+     "Animation",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1465063",
+    "name": "Forgotten Island",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1465063"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Forgotten Island (2026)</h1>\n<p class=\"ssr-lead\">While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 September 2026</li><li>Runtime: 109 minutes</li><li>Director: Januel Mercado, Joel Crawford</li><li>Genres: Animation, Adventure, Fantasy, Comedy, Family</li><li>Budget: $80M</li><li>TMDB rating: 8.0/10 (252 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>H.E.R. as Jo (voice)</li><li>Liza Soberano as Raissa (voice)</li><li>Dave Franco as Raww (voice)</li><li>Jenny Slate as Batiba (voice)</li><li>Manny Jacinto as Bungi Tiyanak (voice)</li><li>Lea Salonga as Manang (voice)</li><li>Dolly de Leon as Lola (voice)</li><li>Jo Koy as Datu (voice)</li><li>Ronny Chieng as King Truffle Wuffle (voice)</li><li>Kevin McCann as Prince Mermahn (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Forgotten Island (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1497463": {
+   "d": "All That We Never Were (2026): Drama/Romance film. Story: 19-year-old Leah navigates a coming-of-age journey in… See cast and TMDB rating 8.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/liVDJBzSplrboMCykKydhaaR215.jpg",
+   "industry": "world",
+   "k": "All That We Never Were, All That We Never Were movie, All That We Never Were cast, All That We Never Were story, All That We Never Were box office collection, All That We Never Were budget, All That We Never Were review, All That We Never Were rating, All That We Never Were release date, All That We Never Were trailer, All That We Never Were Drama, All That We Never Were Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Margarida Corceiro"
+     },
+     {
+      "@type": "Person",
+      "name": "Maxi Iglesias"
+     },
+     {
+      "@type": "Person",
+      "name": "Natalia Rodríguez"
+     },
+     {
+      "@type": "Person",
+      "name": "Sebastián Zurita"
+     },
+     {
+      "@type": "Person",
+      "name": "Adriana Hormigos"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 111,
+     "ratingValue": 8.3,
+     "worstRating": 0
+    },
+    "description": "All That We Never Were (2026): Drama/Romance film. Story: 19-year-old Leah navigates a coming-of-age journey in… See cast and TMDB rating 8.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jorge Alonso"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/liVDJBzSplrboMCykKydhaaR215.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1497463",
+    "name": "All That We Never Were",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1497463"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>All That We Never Were (2026)</h1>\n<p class=\"ssr-lead\">19-year-old Leah navigates a coming-of-age journey in the wake of a tragic car accident that claims her parents. Relocated to a coastal town under the care of her brother’s best friend Axel, Leah grapples with grief, haunting nightmares and a fractured sense of self.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 June 2026</li><li>Runtime: 107 minutes</li><li>Director: Jorge Alonso</li><li>Genres: Drama, Romance</li><li>TMDB rating: 8.3/10 (111 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Margarida Corceiro as Leah Jones</li><li>Maxi Iglesias as Axel Nguyen</li><li>Natalia Rodríguez as Elena</li><li>Sebastián Zurita as Oliver</li><li>Adriana Hormigos as Belén</li><li>Javier Tolosa as Alejandro</li><li>Alan Miranda as Axel de niño</li><li>Joan Pedrola as Pablo</li><li>Armando del Río as Douglas</li><li>Marta Solaz Cruz as Miriam</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "All That We Never Were (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1514863": {
+   "d": "Best of the Best (2026): Comedy film. Story: Two childhood besties join UCLA's competitive… See cast, TMDB rating 5.7/10, and release date 18 September 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+   "industry": "world",
+   "k": "Best of the Best, Best of the Best movie, Best of the Best cast, Best of the Best story, Best of the Best box office collection, Best of the Best budget, Best of the Best review, Best of the Best rating, Best of the Best release date, Best of the Best trailer, Best of the Best Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Maitreyi Ramakrishnan"
+     },
+     {
+      "@type": "Person",
+      "name": "Priyanka Kedia"
+     },
+     {
+      "@type": "Person",
+      "name": "Ankur Rathee"
+     },
+     {
+      "@type": "Person",
+      "name": "Chaneil Kular"
+     },
+     {
+      "@type": "Person",
+      "name": "Shreya Navile"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 97,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Best of the Best (2026): Comedy film. Story: Two childhood besties join UCLA's competitive… See cast, TMDB rating 5.7/10, and release date 18 September 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lena Khan"
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1514863",
+    "name": "Best of the Best",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1514863"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Best of the Best (2026)</h1>\n<p class=\"ssr-lead\">Two childhood besties join UCLA&#x27;s competitive Bollywood-fusion dance team, only to find the road to the US championships is fiercer than they imagined.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 September 2026</li><li>Runtime: 112 minutes</li><li>Director: Lena Khan</li><li>Genres: Comedy</li><li>TMDB rating: 5.7/10 (97 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Maitreyi Ramakrishnan as Maya Krishnaraj</li><li>Priyanka Kedia as Anjali</li><li>Ankur Rathee as Ronak</li><li>Chaneil Kular as Arjun</li><li>Shreya Navile as Deepica</li><li>Becky Alex as Dimple</li><li>Nihar Duvvuri as Nirbhay</li><li>Nico Greetham as Harry</li><li>Amryn Khurana as Sumi</li><li>Tanishq Joshi as Vishal</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Best of the Best (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1633263": {
+   "d": "Wonderful Nightmare (2026): Comedy/Romance film. Story: A high-flying, career-driven lawyer dies prematurely… See cast and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/43xC9erNcSoBBfZRokKgm5xb9Ek.jpg",
+   "industry": "world",
+   "k": "Wonderful Nightmare, Wonderful Nightmare movie, Wonderful Nightmare cast, Wonderful Nightmare story, Wonderful Nightmare box office collection, Wonderful Nightmare budget, Wonderful Nightmare review, Wonderful Nightmare rating, Wonderful Nightmare release date, Wonderful Nightmare Comedy, Wonderful Nightmare Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kim Molina"
+     },
+     {
+      "@type": "Person",
+      "name": "Jerald Napoles"
+     },
+     {
+      "@type": "Person",
+      "name": "Al Tantay"
+     },
+     {
+      "@type": "Person",
+      "name": "Althea Ruedas"
+     },
+     {
+      "@type": "Person",
+      "name": "Achilles Wenceslao"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 38,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Wonderful Nightmare (2026): Comedy/Romance film. Story: A high-flying, career-driven lawyer dies prematurely… See cast and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "RC Delos Reyes"
+     }
+    ],
+    "duration": "PT122M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/43xC9erNcSoBBfZRokKgm5xb9Ek.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1633263",
+    "name": "Wonderful Nightmare",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1633263"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wonderful Nightmare (2026)</h1>\n<p class=\"ssr-lead\">A high-flying, career-driven lawyer dies prematurely due to a clerical error in heaven.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 April 2026</li><li>Runtime: 122 minutes</li><li>Director: RC Delos Reyes</li><li>Genres: Comedy, Romance, Drama</li><li>TMDB rating: 7.6/10 (38 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kim Molina as Lui / Jane</li><li>Jerald Napoles as Julian</li><li>Al Tantay as Limbo Admin</li><li>Althea Ruedas as Jaja</li><li>Achilles Wenceslao as Justin</li><li>Candy Pangilinan as Madam Chavez</li><li>Yumi Lacsamana as Olga</li><li>Quinn Carrillo as Sansan</li><li>Divine Aucina as Daisy</li><li>Kedebon Colim as Tanod Alfie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Wonderful Nightmare (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1698863": {
+   "d": "The Odyssey (2026): Adventure/Fantasy film. Story: Based on the Ancient Greek epic. After ten years of… See cast and TMDB rating 4.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/z7OIUoVHZjB7aixSWR5FTAUoYTt.jpg",
+   "industry": "world",
+   "k": "The Odyssey, The Odyssey movie, The Odyssey cast, The Odyssey story, The Odyssey box office collection, The Odyssey budget, The Odyssey review, The Odyssey rating, The Odyssey release date, The Odyssey trailer, The Odyssey Adventure, The Odyssey Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Myrom Kingery"
+     },
+     {
+      "@type": "Person",
+      "name": "Morgan Flanagan"
+     },
+     {
+      "@type": "Person",
+      "name": "Patrick Byrnes"
+     },
+     {
+      "@type": "Person",
+      "name": "Dominic Keating"
+     },
+     {
+      "@type": "Person",
+      "name": "Llana Barron"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 781,
+     "ratingValue": 4.0,
+     "worstRating": 0
+    },
+    "description": "The Odyssey (2026): Adventure/Fantasy film. Story: Based on the Ancient Greek epic. After ten years of… See cast and TMDB rating 4.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Marcel Walz"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Adventure",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/z7OIUoVHZjB7aixSWR5FTAUoYTt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1698863",
+    "name": "The Odyssey",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1698863"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Odyssey (2026)</h1>\n<p class=\"ssr-lead\">Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 July 2026</li><li>Runtime: 86 minutes</li><li>Director: Marcel Walz</li><li>Genres: Adventure, Fantasy, Action</li><li>TMDB rating: 4.0/10 (781 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Myrom Kingery as Odysseus</li><li>Morgan Flanagan as Penelope</li><li>Patrick Byrnes as Telemachus</li><li>Dominic Keating as Antinous</li><li>Llana Barron as Athena</li><li>Jordan Iverach as Polites</li><li>Tony Wood as Alkimos</li><li>Ashton Rogers as Eurylochus</li><li>Angelo Kern as Lycaon</li><li>Martin Richard Chappell as Narrator</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store</li><li>Buy: Amazon Video, Apple TV Store</li></ul>\n</article>",
+   "t": "The Odyssey (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:29963": {
    "d": "Bright Star (2009): Drama/Romance film. Story: In 1818, high-spirited young Fanny Brawne finds… See cast, budget $10M, and TMDB rating 6.6/10.",
@@ -508,6 +1346,74 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Respect (2021)</h1>\n<p class=\"ssr-lead\">The rise of Aretha Franklin’s career from a child singing in her father’s church’s choir to her international superstardom.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 August 2021</li><li>Runtime: 145 minutes</li><li>Director: Liesl Tommy</li><li>Genres: Drama, Music, History</li><li>Budget: $55M</li><li>TMDB rating: 6.8/10 (492 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jennifer Hudson as Aretha Franklin</li><li>Forest Whitaker as C. L. Franklin</li><li>Marlon Wayans as Ted White</li><li>Audra McDonald as Barbara Franklin</li><li>Mary J. Blige as Dinah Washington</li><li>Marc Maron as Jerry Wexler</li><li>Tituss Burgess as Reverend Dr. James Cleveland</li><li>Saycon Sengbloh as Erma Franklin</li><li>Hailey Kilgore as Carolyn Franklin</li><li>Tate Donovan as John Hammond</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Respect (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
+  },
+  "movie:687163": {
+   "d": "Project Hail Mary (2026): Science Fiction/Adventure film. Story: Science teacher Ryland Grace wakes up on a spaceship… See cast and budget $200M.",
+   "img": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+   "industry": "world",
+   "k": "Project Hail Mary, Project Hail Mary movie, Project Hail Mary cast, Project Hail Mary story, Project Hail Mary box office collection, Project Hail Mary budget, Project Hail Mary review, Project Hail Mary rating, Project Hail Mary release date, Project Hail Mary trailer, Project Hail Mary Science Fiction, Project Hail Mary Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ryan Gosling"
+     },
+     {
+      "@type": "Person",
+      "name": "Sandra Hüller"
+     },
+     {
+      "@type": "Person",
+      "name": "James Ortiz"
+     },
+     {
+      "@type": "Person",
+      "name": "Lionel Boyce"
+     },
+     {
+      "@type": "Person",
+      "name": "Milana Vayntrub"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8855,
+     "ratingValue": 8.6,
+     "worstRating": 0
+    },
+    "description": "Project Hail Mary (2026): Science Fiction/Adventure film. Story: Science teacher Ryland Grace wakes up on a spaceship… See cast and budget $200M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Phil Lord"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher Miller"
+     }
+    ],
+    "duration": "PT157M",
+    "genre": [
+     "Science Fiction",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=687163",
+    "name": "Project Hail Mary",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=687163"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Project Hail Mary (2026)</h1>\n<p class=\"ssr-lead\">Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 March 2026</li><li>Runtime: 157 minutes</li><li>Director: Phil Lord, Christopher Miller</li><li>Genres: Science Fiction, Adventure</li><li>Budget: $200M</li><li>TMDB rating: 8.6/10 (8855 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ryan Gosling as Ryland Grace</li><li>Sandra Hüller as Eva Stratt</li><li>James Ortiz as Rocky (voice)</li><li>Lionel Boyce as Carl</li><li>Milana Vayntrub as Olesya Ilyukhina</li><li>Ken Leung as Yao</li><li>Priya Kansara as Mary (voice)</li><li>Mia Soteriou as Dr. Browne</li><li>Annelle Olaleye as Olivia</li><li>Maya Eva Hosein as Rekha</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Project Hail Mary (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:9263": {
    "d": "Now and Then (1995): Comedy/Drama film. Story: Waxing nostalgic about the bittersweet passage from… See cast, budget $12M, and TMDB rating 6.9/10.",

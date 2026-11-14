@@ -1,7 +1,74 @@
 {
  "bucket": "12",
- "count": 20,
+ "count": 27,
  "titles": {
+  "movie:1101412": {
+   "d": "Fall 2: Deadpoint (2026): Thriller film. Story: On a perilous climb across Thailand's Mount Kwan, two… See cast, budget $3M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+   "industry": "world",
+   "k": "Fall 2: Deadpoint, Fall 2: Deadpoint movie, Fall 2: Deadpoint cast, Fall 2: Deadpoint story, Fall 2: Deadpoint box office collection, Fall 2: Deadpoint budget, Fall 2: Deadpoint review, Fall 2: Deadpoint rating, Fall 2: Deadpoint release date, Fall 2: Deadpoint trailer, Fall 2: Deadpoint Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Harriet Slater"
+     },
+     {
+      "@type": "Person",
+      "name": "Arsema Thomas"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Brittney"
+     },
+     {
+      "@type": "Person",
+      "name": "Sahajak Boonthanakit"
+     },
+     {
+      "@type": "Person",
+      "name": "Korakod Yensuk"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 782,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Fall 2: Deadpoint (2026): Thriller film. Story: On a perilous climb across Thailand's Mount Kwan, two… See cast, budget $3M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Spierig"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Spierig"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1101412",
+    "name": "Fall 2: Deadpoint",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-09-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1101412"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fall 2: Deadpoint (2026)</h1>\n<p class=\"ssr-lead\">On a perilous climb across Thailand&#x27;s Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 September 2026</li><li>Runtime: 98 minutes</li><li>Director: Michael Spierig, Peter Spierig</li><li>Genres: Thriller</li><li>Budget: $3M</li><li>TMDB rating: 7.2/10 (782 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Harriet Slater as Jax Hunter</li><li>Arsema Thomas as Luce</li><li>Tom Brittney as Jon Platt</li><li>Sahajak Boonthanakit as Thai Barman</li><li>Korakod Yensuk as Large Woman</li><li>Jordan Coleman as Real Luce</li><li>Maryna Bennett as Female Teenager</li><li>Noen Perez as Male Teenager</li><li>Nattapon Sukphiam as Thai Climber 1</li><li>Charlie Ruedpokanon as Thai Climber 2</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Fall 2: Deadpoint (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:118412": {
    "d": "Berserk: The Golden Age Arc II - The Battle for Doldrey (2012): Animation/Action film. Story: The Band of the Hawk and their enigmatic leader… See cast.",
    "img": "https://image.tmdb.org/t/p/w780/A34inrFSAIQNatFGc8qP5kfwDmV.jpg",
@@ -66,6 +133,133 @@
    "t": "Berserk: The Golden Age Arc II - The Battle for Doldrey (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2012"
   },
+  "movie:1218412": {
+   "d": "Promised Sky (2026): Drama film. Story: Marie, Naney, and Jolie live together in Tunis… See cast, budget $6.8M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4ybz4iMieWkfSPy9yB7yjAKxUqc.jpg",
+   "industry": "world",
+   "k": "Promised Sky, Promised Sky movie, Promised Sky cast, Promised Sky story, Promised Sky box office collection, Promised Sky budget, Promised Sky review, Promised Sky rating, Promised Sky release date, Promised Sky trailer, Promised Sky Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Aïssa Maïga"
+     },
+     {
+      "@type": "Person",
+      "name": "Laëtitia Ky"
+     },
+     {
+      "@type": "Person",
+      "name": "Déborah Naney"
+     },
+     {
+      "@type": "Person",
+      "name": "Mohamed Grayaâ"
+     },
+     {
+      "@type": "Person",
+      "name": "Foued Zaazaa"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 22,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Promised Sky (2026): Drama film. Story: Marie, Naney, and Jolie live together in Tunis… See cast, budget $6.8M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Erige Sehiri"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4ybz4iMieWkfSPy9yB7yjAKxUqc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1218412",
+    "name": "Promised Sky",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1218412"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Promised Sky (2026)</h1>\n<p class=\"ssr-lead\">Marie, Naney, and Jolie live together in Tunis, sheltering Kenza, a shipwreck survivor. As this unorthodox family forms, crises make each woman reconsider her place.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 January 2026</li><li>Runtime: 92 minutes</li><li>Director: Erige Sehiri</li><li>Genres: Drama</li><li>Budget: $6.8M</li><li>TMDB rating: 6.0/10 (22 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aïssa Maïga as Marie</li><li>Laëtitia Ky as Jolie</li><li>Déborah Naney as Naney</li><li>Mohamed Grayaâ as Ismael</li><li>Foued Zaazaa as Foued</li><li>Estelle Dogbo as Kenza</li><li>Touré Blamassi as Noa</li><li>Sophie Tankou</li><li>Roxanne Takouri as Tenancière</li><li>Marie-Noël Ngwe as Pasteur Audrey</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Promised Sky (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1263012": {
+   "d": "Dead Man's Wire (2026): Crime/Drama film. Story: In 1977, former real estate developer Tony Kiritsis… See cast, budget $13M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ulw8SrKbDeDrsSVNKPb5211AseI.jpg",
+   "industry": "world",
+   "k": "Dead Man's Wire, Dead Man's Wire movie, Dead Man's Wire cast, Dead Man's Wire story, Dead Man's Wire box office collection, Dead Man's Wire budget, Dead Man's Wire review, Dead Man's Wire rating, Dead Man's Wire release date, Dead Man's Wire trailer, Dead Man's Wire Crime, Dead Man's Wire Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bill Skarsgård"
+     },
+     {
+      "@type": "Person",
+      "name": "Dacre Montgomery"
+     },
+     {
+      "@type": "Person",
+      "name": "Al Pacino"
+     },
+     {
+      "@type": "Person",
+      "name": "Colman Domingo"
+     },
+     {
+      "@type": "Person",
+      "name": "Myha'la"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 264,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Dead Man's Wire (2026): Crime/Drama film. Story: In 1977, former real estate developer Tony Kiritsis… See cast, budget $13M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gus Van Sant"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ulw8SrKbDeDrsSVNKPb5211AseI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1263012",
+    "name": "Dead Man's Wire",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1263012"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dead Man&#x27;s Wire (2026)</h1>\n<p class=\"ssr-lead\">In 1977, former real estate developer Tony Kiritsis puts a dead man&#x27;s switch on himself and the mortgage banker who did him wrong, demanding $5 million and a personal apology.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 January 2026</li><li>Runtime: 106 minutes</li><li>Director: Gus Van Sant</li><li>Genres: Crime, Drama, Thriller</li><li>Budget: $13M</li><li>TMDB rating: 6.5/10 (264 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bill Skarsgård as Tony Kiritsis</li><li>Dacre Montgomery as Richard Hall</li><li>Al Pacino as M.L. Hall</li><li>Colman Domingo as Fred Temple</li><li>Myha&#x27;la as Linda Page</li><li>Cary Elwes as Michael Grable</li><li>Kelly Lynch as Mabel Hall</li><li>John Robinson as John</li><li>Vinh Nguyen as James- Young Radio Producer</li><li>Mark Helms as Frank Love</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Netflix Standard with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Dead Man's Wire (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:12912": {
    "d": "Chaos Theory (2008): Comedy/Drama film. Story: Frank Allen, a professional speaker who lectures on… See cast and TMDB rating 6.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/41jcP1qLW6dxr2FYaaW5jSERVPR.jpg",
@@ -129,6 +323,262 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Chaos Theory (2008)</h1>\n<p class=\"ssr-lead\">Frank Allen, a professional speaker who lectures on time management has a perfectly ordered and scheduled life, down to the minute. When his wife sets his clock forward 10 minutes as a joke, his day is thrown off. Deciding that his strictly ordered life has done him little good, he begins to make multiple choice index cards, choosing one at random and doing what is written on the card.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 April 2008</li><li>Runtime: 87 minutes</li><li>Director: Marcos Siega</li><li>Genres: Comedy, Drama, Romance</li><li>TMDB rating: 6.4/10 (490 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ryan Reynolds as Frank Allen</li><li>Emily Mortimer as Susan Allen</li><li>Stuart Townsend as Buddy Endrow</li><li>Matreya Fedor as Jesse Allen (7 years)</li><li>Sarah Chalke as Paula Crowe</li><li>Mike Erwin as Ed</li><li>Constance Zimmer as Peg the Teacher</li><li>Elisabeth Harnois as Jesse Allen</li><li>Chris William Martin as Damon</li><li>Jovanna Huguet as Maid of Honor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Chaos Theory (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2008"
+  },
+  "movie:1376412": {
+   "d": "The Price to Pay (2026): Thriller/Drama film. Story: In the competitive landscape of French retail, Audrey… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bPGFqHk5Qfo0PDoYXFSCnXqIYgI.jpg",
+   "industry": "world",
+   "k": "The Price to Pay, The Price to Pay movie, The Price to Pay cast, The Price to Pay story, The Price to Pay box office collection, The Price to Pay budget, The Price to Pay review, The Price to Pay rating, The Price to Pay release date, The Price to Pay Thriller, The Price to Pay Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Olivier Gourmet"
+     },
+     {
+      "@type": "Person",
+      "name": "Ana Girardot"
+     },
+     {
+      "@type": "Person",
+      "name": "Julien Frison"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonas Bloquet"
+     },
+     {
+      "@type": "Person",
+      "name": "Camille Moutawakil"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 26,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "The Price to Pay (2026): Thriller/Drama film. Story: In the competitive landscape of French retail, Audrey… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Anthony Déchaux"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bPGFqHk5Qfo0PDoYXFSCnXqIYgI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1376412",
+    "name": "The Price to Pay",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1376412"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Price to Pay (2026)</h1>\n<p class=\"ssr-lead\">In the competitive landscape of French retail, Audrey Dumont navigates the delicate balance between her sustainable ideals and the relentless demands of corporate ambition.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 March 2026</li><li>Runtime: 96 minutes</li><li>Director: Anthony Déchaux</li><li>Genres: Thriller, Drama</li><li>TMDB rating: 6.5/10 (26 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Olivier Gourmet as Fournier</li><li>Ana Girardot as Audrey</li><li>Julien Frison as Ronan</li><li>Jonas Bloquet as Axel</li><li>Camille Moutawakil as Gaëlle</li><li>Catherine Vinatier as Corinne</li><li>Camille Sansterre as Sandrine</li><li>Grégoire Monsaingeon as Xavier Lambert</li><li>Grégoire Oestermann as Paul Vidal</li><li>Chad Chenouga as Dubois</li></ul>\n</article>",
+   "t": "The Price to Pay (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1477712": {
+   "d": "Ice Cream Man (2026): Horror/Comedy film. Story: An idyllic summer town descends into madness when an… See cast, budget $5.5M, and TMDB rating 5.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3DV7c9FoogMORFGUFDbTcCtzxOr.jpg",
+   "industry": "world",
+   "k": "Ice Cream Man, Ice Cream Man movie, Ice Cream Man cast, Ice Cream Man story, Ice Cream Man box office collection, Ice Cream Man budget, Ice Cream Man review, Ice Cream Man rating, Ice Cream Man release date, Ice Cream Man trailer, Ice Cream Man Horror, Ice Cream Man Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ari Millen"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlie Zeltzer"
+     },
+     {
+      "@type": "Person",
+      "name": "Shiloh O’Reilly"
+     },
+     {
+      "@type": "Person",
+      "name": "Kiori Mirza Waldman"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Abbott"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 329,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "Ice Cream Man (2026): Horror/Comedy film. Story: An idyllic summer town descends into madness when an… See cast, budget $5.5M, and TMDB rating 5.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Eli Roth"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Horror",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3DV7c9FoogMORFGUFDbTcCtzxOr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1477712",
+    "name": "Ice Cream Man",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1477712"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ice Cream Man (2026)</h1>\n<p class=\"ssr-lead\">An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 August 2026</li><li>Runtime: 86 minutes</li><li>Director: Eli Roth</li><li>Genres: Horror, Comedy, Thriller</li><li>Budget: $5.5M</li><li>TMDB rating: 5.3/10 (329 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ari Millen as The Ice Cream Man / Jonathan Smiley</li><li>Charlie Zeltzer as Jared</li><li>Shiloh O’Reilly as Tommy</li><li>Kiori Mirza Waldman as Mia</li><li>Sarah Abbott as Lizzie</li><li>Benjamin Byron Davis as The Priest</li><li>Karen Cliche as Alison</li><li>Dylan Hawco as Chris</li><li>Eli Roth as Marty</li><li>Lorenzo Antonucci as Terry</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Ice Cream Man (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1632812": {
+   "d": "Nothing Between Us (2026): Romance/Comedy film. Story: Living in Mexico City, Guillermo and Mechi, in Buenos… See cast and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mwfmOOWbchS1cY68zr5aFr21Hhx.jpg",
+   "industry": "world",
+   "k": "Nothing Between Us, Nothing Between Us movie, Nothing Between Us cast, Nothing Between Us story, Nothing Between Us box office collection, Nothing Between Us budget, Nothing Between Us review, Nothing Between Us rating, Nothing Between Us release date, Nothing Between Us Romance, Nothing Between Us Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gael García Bernal"
+     },
+     {
+      "@type": "Person",
+      "name": "Natalia Oreiro"
+     },
+     {
+      "@type": "Person",
+      "name": "Leonardo Daniel"
+     },
+     {
+      "@type": "Person",
+      "name": "Pia Watson"
+     },
+     {
+      "@type": "Person",
+      "name": "Axel Madrazo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 28,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Nothing Between Us (2026): Romance/Comedy film. Story: Living in Mexico City, Guillermo and Mechi, in Buenos… See cast and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Juan Taratuto"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mwfmOOWbchS1cY68zr5aFr21Hhx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1632812",
+    "name": "Nothing Between Us",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1632812"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Nothing Between Us (2026)</h1>\n<p class=\"ssr-lead\">Living in Mexico City, Guillermo and Mechi, in Buenos Aires, are separated by over 4,000 miles and their marriages, both having structured family lives. Working for the same multinational food manufacturer they meet by chance at a corporate offsite. The attraction between them proves immediate and irresistible. The sudden spark makes them face their own desires and changes them in deeper ways than they thought possible.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 May 2026</li><li>Runtime: 90 minutes</li><li>Director: Juan Taratuto</li><li>Genres: Romance, Comedy</li><li>TMDB rating: 5.6/10 (28 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gael García Bernal as Guillermo</li><li>Natalia Oreiro as Mechi</li><li>Leonardo Daniel as José Maria</li><li>Pia Watson as Javiera</li><li>Axel Madrazo as José Maria Jr.</li><li>Christian Cardoner as Abogado José María</li><li>María Laura Berch as Voz Llamada</li><li>Peto Menahem as Kato</li><li>Guillermina Fabbiani Comba as Frida</li><li>Claudia Fernández as Barbi</li></ul>\n</article>",
+   "t": "Nothing Between Us (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1752312": {
+   "d": "Papi Ricky: La Película (2026): Comedy/Romance film. Story: Alicia returns to Chile to introduce her future… See cast and TMDB rating 7.7/10.",
+   "img": "https://image.tmdb.org/t/p/w500/y0EhzwaNnpMezpIDNoBcRCoAhMN.jpg",
+   "industry": "world",
+   "k": "Papi Ricky: La Película, Papi Ricky: La Película movie, Papi Ricky: La Película cast, Papi Ricky: La Película story, Papi Ricky: La Película box office collection, Papi Ricky: La Película budget, Papi Ricky: La Película review, Papi Ricky: La Película rating, Papi Ricky: La Película release date, Papi Ricky: La Película Comedy, Papi Ricky: La Película Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Belén Soto"
+     },
+     {
+      "@type": "Person",
+      "name": "Jorge Zabaleta"
+     },
+     {
+      "@type": "Person",
+      "name": "María Elena Swett"
+     },
+     {
+      "@type": "Person",
+      "name": "Marc Bonnin"
+     },
+     {
+      "@type": "Person",
+      "name": "Matías Assler"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 24,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Papi Ricky: La Película (2026): Comedy/Romance film. Story: Alicia returns to Chile to introduce her future… See cast and TMDB rating 7.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sebastián Schindel"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/y0EhzwaNnpMezpIDNoBcRCoAhMN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1752312",
+    "name": "Papi Ricky: La Película",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1752312"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Papi Ricky: La Película (2026)</h1>\n<p class=\"ssr-lead\">Alicia returns to Chile to introduce her future husband, an eccentric young Spanish hipster who embodies modernity. His arrival causes a family upheaval, and the clash with the conservative Papi Ricky and the irreverent Catrala leads both parents to put aside their old differences and unite around a common goal: stopping their daughter’s wedding.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 August 2026</li><li>Runtime: 93 minutes</li><li>Director: Sebastián Schindel</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 7.7/10 (24 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Belén Soto as Alicia Montes</li><li>Jorge Zabaleta as Ricardo “Ricky” Montes</li><li>María Elena Swett as Catalina “Catrala” Rivera</li><li>Marc Bonnin as Droko</li><li>Matías Assler as Benjamín</li><li>Carmen Zabala as Ana</li><li>Silvia Santelices as Matilde Olazábal</li><li>Héctor Morales as Gabriel “Gabo” del Río</li><li>Ximena Rivas as Trinidad Azócar</li><li>Carmen Disa Gutiérrez as Filomena Mena</li></ul>\n</article>",
+   "t": "Papi Ricky: La Película (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:18912": {
    "d": "Angst (1983): Thriller/Crime film. Story: A killer is released from prison and breaks into a… See cast, budget $472.0k, and TMDB rating 7.0/10.",

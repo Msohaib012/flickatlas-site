@@ -1,7 +1,791 @@
 {
  "bucket": "45",
- "count": 18,
+ "count": 27,
  "titles": {
+  "movie:1171145": {
+   "backdrop_path": "/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
+   "budget": 90000000,
+   "cast": [
+    {
+     "c": "Davis",
+     "n": "Chris Hemsworth"
+    },
+    {
+     "c": "Lou",
+     "n": "Mark Ruffalo"
+    },
+    {
+     "c": "Sharon",
+     "n": "Halle Berry"
+    },
+    {
+     "c": "Ormon",
+     "n": "Barry Keoghan"
+    },
+    {
+     "c": "Maya",
+     "n": "Monica Barbaro"
+    },
+    {
+     "c": "Money",
+     "n": "Nick Nolte"
+    },
+    {
+     "c": "Tillman",
+     "n": "Corey Hawkins"
+    },
+    {
+     "c": "Angie",
+     "n": "Jennifer Jason Leigh"
+    },
+    {
+     "c": "Ben Haddad",
+     "n": "Peter Banifaz"
+    },
+    {
+     "c": "Ali",
+     "n": "Babak Tafti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Bart Layton"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "id": 1171145,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
+   "popularity": 16.4026,
+   "poster_path": "/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-13",
+   "revenue": 72900246,
+   "runtime": 141,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Always have an exit.",
+   "title": "Crime 101",
+   "trailer": {
+    "key": "KeEHsuZ4Ja4",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.02,
+   "vote_count": 1489
+  },
+  "movie:1236045": {
+   "backdrop_path": "/5yzM78Tp8nYwSCQtyRcmnHmCn5C.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mark Kimball",
+     "n": "Ben Affleck"
+    },
+    {
+     "c": "Abigail Kimball",
+     "n": "Kerry Washington"
+    },
+    {
+     "c": "Dayle Burton",
+     "n": "Gillian Anderson"
+    },
+    {
+     "c": "Sam Allison",
+     "n": "Steven Yeun"
+    },
+    {
+     "c": "Cecilia Trujillo",
+     "n": "Adriana Paz"
+    },
+    {
+     "c": "Ramon",
+     "n": "Luis Gerardo Méndez"
+    },
+    {
+     "c": "Denny Kimball",
+     "n": "Christopher Woodley"
+    },
+    {
+     "c": "Hector",
+     "n": "Jacob Estrada"
+    },
+    {
+     "c": "Ron Sperling",
+     "n": "Ray Fisher"
+    },
+    {
+     "c": "Hannah",
+     "n": "Taylor Cooper"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Ben Affleck"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Action",
+    "Crime"
+   ],
+   "id": 1236045,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+   "popularity": 37.9839,
+   "poster_path": "/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-10-09",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Power can't protect you.",
+   "title": "Animals",
+   "trailer": {
+    "key": "ZkN2M4ODdys",
+    "name": "Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.877,
+   "vote_count": 742
+  },
+  "movie:1288445": {
+   "backdrop_path": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Cole Reed",
+     "n": "Jason Statham"
+    },
+    {
+     "c": "Angie Ellis",
+     "n": "Annabelle Wallis"
+    },
+    {
+     "c": "Captain Marko Madsen",
+     "n": "Roland Møller"
+    },
+    {
+     "c": "Tibu Campallo",
+     "n": "Ramon Tikaram"
+    },
+    {
+     "c": "Mateo Pineda",
+     "n": "Arnas Fedaravičius"
+    },
+    {
+     "c": "Taran",
+     "n": "Jason Wong"
+    },
+    {
+     "c": "Captain Adam Spencer",
+     "n": "Adrian Lester"
+    },
+    {
+     "c": "Kameron Campallo",
+     "n": "Chaneil Kular"
+    },
+    {
+     "c": "BK Lobby Businessman",
+     "n": "Andrew John Tait"
+    },
+    {
+     "c": "Jaran Daniles",
+     "n": "Simon Kluth"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Jean-François Richet"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 1288445,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+   "popularity": 70.6046,
+   "poster_path": "/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-21",
+   "revenue": 30687906,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There's blood in the water.",
+   "title": "Mutiny",
+   "trailer": {
+    "key": "2Iqvbe98Gb4",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.62,
+   "vote_count": 1071
+  },
+  "movie:1510745": {
+   "backdrop_path": "/qmWypRw88VYp35oTQn0a1sqdZRs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Officer Jackson",
+     "n": "Jaime M. Callica"
+    },
+    {
+     "c": "Officer Bryce",
+     "n": "Sean Rogerson"
+    },
+    {
+     "c": "Ally Jackson",
+     "n": "Catherine Lough Haggquist"
+    },
+    {
+     "c": "Esposito",
+     "n": "Angel Prater"
+    },
+    {
+     "c": "The Mother",
+     "n": "Keegan Connor Tracy"
+    },
+    {
+     "c": "The Father",
+     "n": "Chris Casson"
+    },
+    {
+     "c": "Michelle",
+     "n": "Elizabeth Longshaw"
+    },
+    {
+     "c": "Neisha",
+     "n": "Colette Nwachi"
+    },
+    {
+     "c": "Tommy",
+     "n": "Joe Perry"
+    },
+    {
+     "c": "Customer",
+     "n": "Onyx Shelton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Brandon Christensen"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 1510745,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "A call to a quiet suburban home unleashes unthinkable carnage when two officers mistakenly shoot a man and his infant child, spiraling the tragedy into a fierce, unrelenting fall into the unknown.",
+   "popularity": 3.1944,
+   "poster_path": "/xFpBNcG3Dlr8mYF5Kz9Tizs3Pxn.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-12",
+   "revenue": 124154,
+   "runtime": 75,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Bodycam",
+   "trailer": {
+    "key": "Ga5xa3iyXKg",
+    "name": "BODYCAM | Official Trailer | Shudder",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.997,
+   "vote_count": 145
+  },
+  "movie:1523145": {
+   "backdrop_path": "/fRjy6zDeNjfzmjpKz8mElA9Aa6l.jpg",
+   "budget": 3716000,
+   "cast": [
+    {
+     "c": "Барс",
+     "n": "Daniel Vegas"
+    },
+    {
+     "c": "Полина",
+     "n": "Veronika Zhuravleva"
+    },
+    {
+     "c": "Лэйм",
+     "n": "Ivan Trushin"
+    },
+    {
+     "c": "Леха",
+     "n": "Maksim Saprykin"
+    },
+    {
+     "c": "Дилара",
+     "n": "Alya Mayer"
+    },
+    {
+     "c": "мама Полины",
+     "n": "Evgeniya Loza"
+    },
+    {
+     "c": "отчим Полины",
+     "n": "Pavel Kuzmin"
+    },
+    {
+     "c": "Саша",
+     "n": "Alexandra Tikhonova"
+    },
+    {
+     "c": "Лика",
+     "n": "Margarita Dyachenkova"
+    },
+    {
+     "c": "Власов",
+     "n": "Anton Solomatin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "+16",
+   "date_kind": "release",
+   "director": [
+    "Mikhail Vaynberg"
+   ],
+   "genres": [
+    "Romance"
+   ],
+   "id": 1523145,
+   "industry": "world",
+   "origin_country": [
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers.",
+   "popularity": 46.3771,
+   "poster_path": "/7wIBfBl2gejt6xHxNSK0reVIm7E.jpg",
+   "production_countries": [
+    "RU"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-26",
+   "revenue": 7578000,
+   "runtime": 134,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Your Heart Will Be Broken",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.867,
+   "vote_count": 233
+  },
+  "movie:1618945": {
+   "backdrop_path": "/1EVHnzF3gescyQZSqwbx5LfQ1EN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Thando Mokoena",
+     "n": "Katlego Lebogang"
+    },
+    {
+     "c": "",
+     "n": "Didie Makobane"
+    },
+    {
+     "c": "",
+     "n": "Kagiso Modupe"
+    },
+    {
+     "c": "",
+     "n": "Fikile Mthwalo"
+    },
+    {
+     "c": "Charles",
+     "n": "Siya Sepotekele"
+    },
+    {
+     "c": "",
+     "n": "Yonda Thomas"
+    },
+    {
+     "c": "Riri",
+     "n": "Didie Makobane"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "+13",
+   "date_kind": "release",
+   "director": [
+    "Johnny Barbuzano"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 1618945,
+   "industry": "world",
+   "origin_country": [
+    "ZA"
+   ],
+   "original_language": "en",
+   "overview": "Thando is perpetually unlucky in love, but when her bestie returns from his travels with a fiancée in tow, she's forced to face a new emotion — jealousy.",
+   "popularity": 2.3848,
+   "poster_path": "/9wBzRaeWfELNOPmcvOVTmB3kDEl.jpg",
+   "production_countries": [
+    "ZA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-06",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "zu"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Yoh! Bestie",
+   "trailer": {
+    "key": "e_IRbQfzgqM",
+    "name": "Yoh! Bestie | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.225,
+   "vote_count": 51
+  },
   "movie:17845": {
    "backdrop_path": "/eUM3rcy8tQjOJKqyp1VXxqJWCn3.jpg",
    "budget": 3200000,
@@ -948,6 +1732,265 @@
    "vote_average": 6.5,
    "vote_count": 444
   },
+  "movie:539745": {
+   "backdrop_path": "/rg1E0Ya6YYiGPcg5p1ZIkDd8u3F.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Napoleon (voice)",
+     "n": "Seth Rogen"
+    },
+    {
+     "c": "Lucky (voice)",
+     "n": "Gaten Matarazzo"
+    },
+    {
+     "c": "Mr. Whymper (voice)",
+     "n": "Steve Buscemi"
+    },
+    {
+     "c": "Frieda Pilkington (voice)",
+     "n": "Glenn Close"
+    },
+    {
+     "c": "Snowball (voice)",
+     "n": "Laverne Cox"
+    },
+    {
+     "c": "Squealer (voice)",
+     "n": "Kieran Culkin"
+    },
+    {
+     "c": "Boxer (voice)",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Carl / Sheep (voice)",
+     "n": "Jim Parsons"
+    },
+    {
+     "c": "Randolf the Rooster (voice)",
+     "n": "Andy Serkis"
+    },
+    {
+     "c": "Benjamin (voice)",
+     "n": "Kathleen Turner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Andy Serkis"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Family",
+    "Science Fiction"
+   ],
+   "id": 539745,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.",
+   "popularity": 3.8414,
+   "poster_path": "/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
+   "production_countries": [
+    "GB",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Angel Studios"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/pusUxS9dP5VK7HkN8SLf2wnP9gm.png",
+     "name": "Angel Studios",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-30",
+   "revenue": 6268861,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "It's time for these animals to stand and fight.",
+   "title": "Animal Farm",
+   "trailer": {
+    "key": "X1b6_699HqY",
+    "name": "Official UK Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 122
+  },
+  "movie:614945": {
+   "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jill",
+     "n": "Zoey Deutch"
+    },
+    {
+     "c": "Wes",
+     "n": "Nick Robinson"
+    },
+    {
+     "c": "Andy",
+     "n": "Harry Shum Jr."
+    },
+    {
+     "c": "Breeda",
+     "n": "Leah McKendrick"
+    },
+    {
+     "c": "Isabelle",
+     "n": "Ciara Bravo"
+    },
+    {
+     "c": "Tyler",
+     "n": "Toby Sandeman"
+    },
+    {
+     "c": "Chef Bastien",
+     "n": "Nick Offerman"
+    },
+    {
+     "c": "Arthur",
+     "n": "Lukas Gage"
+    },
+    {
+     "c": "Zella",
+     "n": "Megan Danso"
+    },
+    {
+     "c": "Mom",
+     "n": "Tanis Dolman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Leah McKendrick"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 614945,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
+   "popularity": 10.31,
+   "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-20",
+   "revenue": 0,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Sometimes the universe leaves you a message.",
+   "title": "Voicemails for Isabelle",
+   "trailer": {
+    "key": "9mi3YVYm3ZU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.3,
+   "vote_count": 1048
+  },
   "movie:74945": {
    "backdrop_path": "/swdekl4vQJ0LOnjSZcmKUIUz26S.jpg",
    "budget": 0,
@@ -1164,6 +2207,72 @@
    "type": "movie",
    "vote_average": 5.963,
    "vote_count": 451
+  },
+  "movie:972445": {
+   "backdrop_path": "/cbmeaWZtTA40He88eI8ua7kttJE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Cem Yılmaz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "19",
+   "date_kind": "release",
+   "director": [
+    "Cem Yılmaz"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 972445,
+   "industry": "world",
+   "origin_country": [
+    "TR"
+   ],
+   "original_language": "tr",
+   "overview": "Turkish comedy heavyweight Cem Yılmaz takes the stand-up stage in this dynamic special – covering everything from cancel culture to regretful tattoos.",
+   "popularity": 0.7304,
+   "poster_path": "/zN25h6zhlYLEnrCv1Zv3MWjtLoy.jpg",
+   "production_countries": [
+    "TR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-31",
+   "revenue": 0,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "tr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "CMXXIV",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.597,
+   "vote_count": 31
   },
   "tv:10545": {
    "backdrop_path": "/nGhC6P0lgcrY57NRB9nweu4nWaK.jpg",

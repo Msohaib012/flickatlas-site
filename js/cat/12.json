@@ -1,7 +1,110 @@
 {
  "bucket": "12",
- "count": 20,
+ "count": 27,
  "titles": {
+  "movie:1101412": {
+   "backdrop_path": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Jax Hunter",
+     "n": "Harriet Slater"
+    },
+    {
+     "c": "Luce",
+     "n": "Arsema Thomas"
+    },
+    {
+     "c": "Jon Platt",
+     "n": "Tom Brittney"
+    },
+    {
+     "c": "Thai Barman",
+     "n": "Sahajak Boonthanakit"
+    },
+    {
+     "c": "Large Woman",
+     "n": "Korakod Yensuk"
+    },
+    {
+     "c": "Real Luce",
+     "n": "Jordan Coleman"
+    },
+    {
+     "c": "Female Teenager",
+     "n": "Maryna Bennett"
+    },
+    {
+     "c": "Male Teenager",
+     "n": "Noen Perez"
+    },
+    {
+     "c": "Thai Climber 1",
+     "n": "Nattapon Sukphiam"
+    },
+    {
+     "c": "Thai Climber 2",
+     "n": "Charlie Ruedpokanon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Michael Spierig",
+    "Peter Spierig"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 1101412,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+   "popularity": 119.7785,
+   "poster_path": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+   "production_countries": [
+    "GB",
+    "US",
+    "TH"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-17",
+   "revenue": 9256541,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Are you down?",
+   "title": "Fall 2: Deadpoint",
+   "trailer": {
+    "key": "Krs0VDIjhmE",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.238,
+   "vote_count": 782
+  },
   "movie:118412": {
    "backdrop_path": "/A34inrFSAIQNatFGc8qP5kfwDmV.jpg",
    "budget": 0,
@@ -97,6 +200,354 @@
    "type": "movie",
    "vote_average": 7.311,
    "vote_count": 487
+  },
+  "movie:1218412": {
+   "backdrop_path": "/4ybz4iMieWkfSPy9yB7yjAKxUqc.jpg",
+   "budget": 6800000,
+   "cast": [
+    {
+     "c": "Marie",
+     "n": "Aïssa Maïga"
+    },
+    {
+     "c": "Jolie",
+     "n": "Laëtitia Ky"
+    },
+    {
+     "c": "Naney",
+     "n": "Déborah Naney"
+    },
+    {
+     "c": "Ismael",
+     "n": "Mohamed Grayaâ"
+    },
+    {
+     "c": "Foued",
+     "n": "Foued Zaazaa"
+    },
+    {
+     "c": "Kenza",
+     "n": "Estelle Dogbo"
+    },
+    {
+     "c": "Noa",
+     "n": "Touré Blamassi"
+    },
+    {
+     "c": "",
+     "n": "Sophie Tankou"
+    },
+    {
+     "c": "Tenancière",
+     "n": "Roxanne Takouri"
+    },
+    {
+     "c": "Pasteur Audrey",
+     "n": "Marie-Noël Ngwe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Erige Sehiri"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1218412,
+   "industry": "world",
+   "origin_country": [
+    "QA",
+    "FR",
+    "NL",
+    "TN"
+   ],
+   "original_language": "fr",
+   "overview": "Marie, Naney, and Jolie live together in Tunis, sheltering Kenza, a shipwreck survivor. As this unorthodox family forms, crises make each woman reconsider her place.",
+   "popularity": 1.4631,
+   "poster_path": "/gJCOjtz4rCxhrPfHH26lOb89reX.jpg",
+   "production_countries": [
+    "FR",
+    "TN",
+    "EG"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-28",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Promised Sky",
+   "trailer": {
+    "key": "Cdq8gcaBcM8",
+    "name": "Promised Sky (2025) | Trailer | Erige Sehiri",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 22
+  },
+  "movie:1263012": {
+   "backdrop_path": "/ulw8SrKbDeDrsSVNKPb5211AseI.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Tony Kiritsis",
+     "n": "Bill Skarsgård"
+    },
+    {
+     "c": "Richard Hall",
+     "n": "Dacre Montgomery"
+    },
+    {
+     "c": "M.L. Hall",
+     "n": "Al Pacino"
+    },
+    {
+     "c": "Fred Temple",
+     "n": "Colman Domingo"
+    },
+    {
+     "c": "Linda Page",
+     "n": "Myha'la"
+    },
+    {
+     "c": "Michael Grable",
+     "n": "Cary Elwes"
+    },
+    {
+     "c": "Mabel Hall",
+     "n": "Kelly Lynch"
+    },
+    {
+     "c": "John",
+     "n": "John Robinson"
+    },
+    {
+     "c": "James- Young Radio Producer",
+     "n": "Vinh Nguyen"
+    },
+    {
+     "c": "Frank Love",
+     "n": "Mark Helms"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gus Van Sant"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1263012,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1977, former real estate developer Tony Kiritsis puts a dead man's switch on himself and the mortgage banker who did him wrong, demanding $5 million and a personal apology.",
+   "popularity": 4.5443,
+   "poster_path": "/dgSoeebklY0IGKWbp36r9FwRXlv.jpg",
+   "production_countries": [
+    "US",
+    "IL",
+    "CY",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-16",
+   "revenue": 2248569,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "His revolution was televised.",
+   "title": "Dead Man's Wire",
+   "trailer": {
+    "key": "aHAwgnJL78Y",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.508,
+   "vote_count": 264
   },
   "movie:12912": {
    "backdrop_path": "/41jcP1qLW6dxr2FYaaW5jSERVPR.jpg",
@@ -201,6 +652,448 @@
    "type": "movie",
    "vote_average": 6.4,
    "vote_count": 490
+  },
+  "movie:1376412": {
+   "backdrop_path": "/bPGFqHk5Qfo0PDoYXFSCnXqIYgI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fournier",
+     "n": "Olivier Gourmet"
+    },
+    {
+     "c": "Audrey",
+     "n": "Ana Girardot"
+    },
+    {
+     "c": "Ronan",
+     "n": "Julien Frison"
+    },
+    {
+     "c": "Axel",
+     "n": "Jonas Bloquet"
+    },
+    {
+     "c": "Gaëlle",
+     "n": "Camille Moutawakil"
+    },
+    {
+     "c": "Corinne",
+     "n": "Catherine Vinatier"
+    },
+    {
+     "c": "Sandrine",
+     "n": "Camille Sansterre"
+    },
+    {
+     "c": "Xavier Lambert",
+     "n": "Grégoire Monsaingeon"
+    },
+    {
+     "c": "Paul Vidal",
+     "n": "Grégoire Oestermann"
+    },
+    {
+     "c": "Dubois",
+     "n": "Chad Chenouga"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TP",
+   "date_kind": "release",
+   "director": [
+    "Anthony Déchaux"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "id": 1376412,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In the competitive landscape of French retail, Audrey Dumont navigates the delicate balance between her sustainable ideals and the relentless demands of corporate ambition.",
+   "popularity": 1.7628,
+   "poster_path": "/vyjgmwVgSn10aqDojeztAwnDqWL.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-18",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Price to Pay",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 26
+  },
+  "movie:1477712": {
+   "backdrop_path": "/3DV7c9FoogMORFGUFDbTcCtzxOr.jpg",
+   "budget": 5500000,
+   "cast": [
+    {
+     "c": "The Ice Cream Man / Jonathan Smiley",
+     "n": "Ari Millen"
+    },
+    {
+     "c": "Jared",
+     "n": "Charlie Zeltzer"
+    },
+    {
+     "c": "Tommy",
+     "n": "Shiloh O’Reilly"
+    },
+    {
+     "c": "Mia",
+     "n": "Kiori Mirza Waldman"
+    },
+    {
+     "c": "Lizzie",
+     "n": "Sarah Abbott"
+    },
+    {
+     "c": "The Priest",
+     "n": "Benjamin Byron Davis"
+    },
+    {
+     "c": "Alison",
+     "n": "Karen Cliche"
+    },
+    {
+     "c": "Chris",
+     "n": "Dylan Hawco"
+    },
+    {
+     "c": "Marty",
+     "n": "Eli Roth"
+    },
+    {
+     "c": "Terry",
+     "n": "Lorenzo Antonucci"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Eli Roth"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy",
+    "Thriller"
+   ],
+   "id": 1477712,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+   "popularity": 23.371,
+   "poster_path": "/w2dr5aFRtRB1ojcHbCEPlfTXkbf.jpg",
+   "production_countries": [
+    "US",
+    "GB",
+    "FR",
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-05",
+   "revenue": 7788193,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "We all scream.",
+   "title": "Ice Cream Man",
+   "trailer": {
+    "key": "Cgw3zNmFtRo",
+    "name": "Official International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.3,
+   "vote_count": 329
+  },
+  "movie:1632812": {
+   "backdrop_path": "/mwfmOOWbchS1cY68zr5aFr21Hhx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Guillermo",
+     "n": "Gael García Bernal"
+    },
+    {
+     "c": "Mechi",
+     "n": "Natalia Oreiro"
+    },
+    {
+     "c": "José Maria",
+     "n": "Leonardo Daniel"
+    },
+    {
+     "c": "Javiera",
+     "n": "Pia Watson"
+    },
+    {
+     "c": "José Maria Jr.",
+     "n": "Axel Madrazo"
+    },
+    {
+     "c": "Abogado José María",
+     "n": "Christian Cardoner"
+    },
+    {
+     "c": "Voz Llamada",
+     "n": "María Laura Berch"
+    },
+    {
+     "c": "Kato",
+     "n": "Peto Menahem"
+    },
+    {
+     "c": "Frida",
+     "n": "Guillermina Fabbiani Comba"
+    },
+    {
+     "c": "Barbi",
+     "n": "Claudia Fernández"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Juan Taratuto"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 1632812,
+   "industry": "world",
+   "origin_country": [
+    "UY",
+    "AR"
+   ],
+   "original_language": "es",
+   "overview": "Living in Mexico City, Guillermo and Mechi, in Buenos Aires, are separated by over 4,000 miles and their marriages, both having structured family lives. Working for the same multinational food manufacturer they meet by chance at a corporate offsite. The attraction between them proves immediate and irresistible. The sudden spark makes them face their own desires and changes them in deeper ways than they thought possible.",
+   "popularity": 1.5545,
+   "poster_path": "/3kWEtUGI9pp18fviLOcCAwGOZco.jpg",
+   "production_countries": [
+    "US",
+    "UY",
+    "AR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-05-21",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Nothing Between Us",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 28
+  },
+  "movie:1752312": {
+   "backdrop_path": null,
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alicia Montes",
+     "n": "Belén Soto"
+    },
+    {
+     "c": "Ricardo “Ricky” Montes",
+     "n": "Jorge Zabaleta"
+    },
+    {
+     "c": "Catalina “Catrala” Rivera",
+     "n": "María Elena Swett"
+    },
+    {
+     "c": "Droko",
+     "n": "Marc Bonnin"
+    },
+    {
+     "c": "Benjamín",
+     "n": "Matías Assler"
+    },
+    {
+     "c": "Ana",
+     "n": "Carmen Zabala"
+    },
+    {
+     "c": "Matilde Olazábal",
+     "n": "Silvia Santelices"
+    },
+    {
+     "c": "Gabriel “Gabo” del Río",
+     "n": "Héctor Morales"
+    },
+    {
+     "c": "Trinidad Azócar",
+     "n": "Ximena Rivas"
+    },
+    {
+     "c": "Filomena Mena",
+     "n": "Carmen Disa Gutiérrez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Sebastián Schindel"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 1752312,
+   "industry": "world",
+   "origin_country": [
+    "CL"
+   ],
+   "original_language": "es",
+   "overview": "Alicia returns to Chile to introduce her future husband, an eccentric young Spanish hipster who embodies modernity. His arrival causes a family upheaval, and the clash with the conservative Papi Ricky and the irreverent Catrala leads both parents to put aside their old differences and unite around a common goal: stopping their daughter’s wedding.",
+   "popularity": 5.1593,
+   "poster_path": "/y0EhzwaNnpMezpIDNoBcRCoAhMN.jpg",
+   "production_countries": [
+    "CL"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-27",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Papi Ricky: La Película",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.667,
+   "vote_count": 24
   },
   "movie:18912": {
    "backdrop_path": "/jn5LRTCl8zR0jsV2Pf04WyhMcHZ.jpg",

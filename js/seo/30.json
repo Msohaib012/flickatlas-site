@@ -1,6 +1,6 @@
 {
  "bucket": "30",
- "count": 16,
+ "count": 24,
  "titles": {
   "movie:1024530": {
    "d": "Grimcutty (2022): Horror film. Story: A suburban teen girl and her little brother must stop… See cast, TMDB rating 5.0/10, and release date 10 October 2022.",
@@ -122,6 +122,70 @@
    "t": "Black Adam: Saviour or Destroyer? (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
   },
+  "movie:1122030": {
+   "d": "Alpha (2026): Action/Thriller film. Story: When Sita, a highly trained assassin raised in… See cast, budget $10.5M, and TMDB rating 5.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
+   "industry": "bollywood",
+   "k": "Alpha, Alpha movie, Alpha cast, Alpha story, Alpha box office collection, Alpha budget, Alpha review, Alpha rating, Alpha release date, Alpha trailer, Alpha Action, Alpha Thriller, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alia Bhatt"
+     },
+     {
+      "@type": "Person",
+      "name": "Sharvari"
+     },
+     {
+      "@type": "Person",
+      "name": "Bobby Deol"
+     },
+     {
+      "@type": "Person",
+      "name": "Anil Kapoor"
+     },
+     {
+      "@type": "Person",
+      "name": "Dibyendu Bhattacharya"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 36,
+     "ratingValue": 5.2,
+     "worstRating": 0
+    },
+    "description": "Alpha (2026): Action/Thriller film. Story: When Sita, a highly trained assassin raised in… See cast, budget $10.5M, and TMDB rating 5.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Shiv Rawail"
+     }
+    ],
+    "duration": "PT141M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1122030",
+    "name": "Alpha",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1122030"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Alpha (2026)</h1>\n<p class=\"ssr-lead\">When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 July 2026</li><li>Runtime: 141 minutes</li><li>Director: Shiv Rawail</li><li>Genres: Action, Thriller</li><li>Budget: $10.5M</li><li>TMDB rating: 5.2/10 (36 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alia Bhatt as Sita</li><li>Sharvari as Durga</li><li>Bobby Deol as Fateh Singh Lakhawat / Major Zarrar Khan</li><li>Anil Kapoor as Vikrant Kaul</li><li>Dibyendu Bhattacharya as Dr. John Verghese</li><li>Dia Mirza as Janaki Kaul</li><li>Hrithik Roshan as Kabir Dhaliwal</li><li>Shubhi Mehta as Susan Cherian</li><li>Pavleen Gujral as Dr. Preeti</li><li>Pranay Narayan as General Sodhi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Alpha (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:11330": {
    "d": "Pusher 3 (2005): Action/Thriller film. Story: Milo is aging, he is planning his daughter's 25th… See cast, TMDB rating 7.2/10, and release date 22 August 2005.",
    "img": "https://image.tmdb.org/t/p/w780/mRqM7jaTPCdzRELR5sjOMgiDDwo.jpg",
@@ -186,6 +250,69 @@
    "t": "Pusher 3 (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2005"
   },
+  "movie:1154730": {
+   "d": "La Gradiva (2026): Drama film. Story: Amid the ancient ruins of Pompeii, a group of French… See cast, TMDB rating 7.4/10, and release date 21 October 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/dZVZkmzHLnobFszwYZ9DybvhUHW.jpg",
+   "industry": "world",
+   "k": "La Gradiva, La Gradiva movie, La Gradiva cast, La Gradiva story, La Gradiva box office collection, La Gradiva budget, La Gradiva review, La Gradiva rating, La Gradiva release date, La Gradiva trailer, La Gradiva Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Colas Quignard"
+     },
+     {
+      "@type": "Person",
+      "name": "Antonia Buresi"
+     },
+     {
+      "@type": "Person",
+      "name": "Mitia Capellier-Audat"
+     },
+     {
+      "@type": "Person",
+      "name": "Suzanne Gerin"
+     },
+     {
+      "@type": "Person",
+      "name": "Hadya Fofana"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 47,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "La Gradiva (2026): Drama film. Story: Amid the ancient ruins of Pompeii, a group of French… See cast, TMDB rating 7.4/10, and release date 21 October 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Marine Atlan"
+     }
+    ],
+    "duration": "PT145M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dZVZkmzHLnobFszwYZ9DybvhUHW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1154730",
+    "name": "La Gradiva",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1154730"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>La Gradiva (2026)</h1>\n<p class=\"ssr-lead\">Amid the ancient ruins of Pompeii, a group of French teenagers on a class trip to Naples grapple with anxiety and exhilaration ahead of their high school graduation.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 October 2026</li><li>Runtime: 145 minutes</li><li>Director: Marine Atlan</li><li>Genres: Drama</li><li>TMDB rating: 7.4/10 (47 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Colas Quignard as Toni</li><li>Antonia Buresi as Madame Mercier</li><li>Mitia Capellier-Audat as James</li><li>Suzanne Gerin as Suzanne</li><li>Hadya Fofana as Angela</li><li>Rouge Isaac as Amaury</li><li>Lou-Ann Le Glorennec as Constance</li><li>Chamathka Warahena as Chamathka</li><li>Cherazade Hammedi as Cherazade</li><li>Camille Ménard-Harnish as Étienne</li></ul>\n</article>",
+   "t": "La Gradiva (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:11830": {
    "d": "Tampopo (1985): Comedy film. Story: In this humorous paean to the joys of food, a pair of… See cast, budget $1.5M, and TMDB rating 7.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/oq8HM9TOSbH54Xy0OBJGzYrtUC7.jpg",
@@ -248,6 +375,388 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Tampopo (1985)</h1>\n<p class=\"ssr-lead\">In this humorous paean to the joys of food, a pair of truck drivers happen onto a decrepit roadside shop selling ramen noodles. The widowed owner, Tampopo, begs them to help her turn her establishment into a paragon of the &quot;art of noodle-soup making&quot;. Interspersed are satirical vignettes about the importance of food to different aspects of human life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 November 1985</li><li>Runtime: 115 minutes</li><li>Director: Jūzō Itami</li><li>Genres: Comedy</li><li>Budget: $1.5M</li><li>TMDB rating: 7.8/10 (469 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tsutomu Yamazaki as Goro</li><li>Nobuko Miyamoto as Tampopo</li><li>Ken Watanabe as Gun</li><li>Koji Yakusho as White Suit Man</li><li>Rikiya Yasuoka as Pisken</li><li>Kinzō Sakura as Shohei</li><li>Hyōe Enoki as Pisken&#x27;s Henchman</li><li>Gō Awazu as Pisken&#x27;s Henchman</li><li>Mario Abe as Restaurant Owner</li><li>Izumi Hara as Old Woman Pressing Camembert Cheese</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Tampopo (1985) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1985"
+  },
+  "movie:1368830": {
+   "d": "Chers parents (2026): Comedy film. Story: A trio of siblings faces turmoil when their parents… See cast, TMDB rating 6.2/10, and release date 25 February 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/n2fbbUv9zSqbjgawJKLpPw064YW.jpg",
+   "industry": "world",
+   "k": "Chers parents, Chers parents movie, Chers parents cast, Chers parents story, Chers parents box office collection, Chers parents budget, Chers parents review, Chers parents rating, Chers parents release date, Chers parents Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "André Dussollier"
+     },
+     {
+      "@type": "Person",
+      "name": "Miou-Miou"
+     },
+     {
+      "@type": "Person",
+      "name": "Arnaud Ducret"
+     },
+     {
+      "@type": "Person",
+      "name": "Thomas Solivérès"
+     },
+     {
+      "@type": "Person",
+      "name": "Pauline Clément"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 69,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Chers parents (2026): Comedy film. Story: A trio of siblings faces turmoil when their parents… See cast, TMDB rating 6.2/10, and release date 25 February 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Emmanuel Patron"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/n2fbbUv9zSqbjgawJKLpPw064YW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1368830",
+    "name": "Chers parents",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1368830"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Chers parents (2026)</h1>\n<p class=\"ssr-lead\">A trio of siblings faces turmoil when their parents reveal they&#x27;ve won the lottery but refuse to share a cent, unraveling buried secrets, unspoken tensions, and deep-seated jealousy that shake the family to its core.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 February 2026</li><li>Runtime: 86 minutes</li><li>Director: Emmanuel Patron</li><li>Genres: Comedy</li><li>TMDB rating: 6.2/10 (69 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>André Dussollier as Vincent Gauthier</li><li>Miou-Miou as Alice Gauthier</li><li>Arnaud Ducret as Pierre Gauthier</li><li>Thomas Solivérès as Jules Gauthier</li><li>Pauline Clément as Louise Gauthier</li><li>Frédérique Tirmont as Marie-Anne</li><li>Bernard Alane as Yves</li></ul>\n</article>",
+   "t": "Chers parents (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1439930": {
+   "d": "The Punisher: One Last Kill (2026): Action/Drama film. Story: As Frank Castle searches for meaning beyond revenge… See cast and TMDB rating 8.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
+   "industry": "world",
+   "k": "The Punisher: One Last Kill, The Punisher: One Last Kill movie, The Punisher: One Last Kill cast, The Punisher: One Last Kill story, The Punisher: One Last Kill box office collection, The Punisher: One Last Kill budget, The Punisher: One Last Kill review, The Punisher: One Last Kill rating, The Punisher: One Last Kill release date, The Punisher: One Last Kill trailer, The Punisher: One Last Kill Action, The Punisher: One Last Kill Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jon Bernthal"
+     },
+     {
+      "@type": "Person",
+      "name": "Deborah Ann Woll"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason R. Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "Judith Light"
+     },
+     {
+      "@type": "Person",
+      "name": "Kelli Barrett"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 2408,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "The Punisher: One Last Kill (2026): Action/Drama film. Story: As Frank Castle searches for meaning beyond revenge… See cast and TMDB rating 8.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Reinaldo Marcus Green"
+     }
+    ],
+    "duration": "PT51M",
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1439930",
+    "name": "The Punisher: One Last Kill",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1439930"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Punisher: One Last Kill (2026)</h1>\n<p class=\"ssr-lead\">As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 May 2026</li><li>Runtime: 51 minutes</li><li>Director: Reinaldo Marcus Green</li><li>Genres: Action, Drama, Crime</li><li>TMDB rating: 8.2/10 (2408 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jon Bernthal as Frank Castle</li><li>Deborah Ann Woll as Karen Page</li><li>Jason R. Moore as Curtis Hoyle</li><li>Judith Light as Ma</li><li>Kelli Barrett as Maria Castle</li><li>Andre Royo as Dre</li><li>John Douglas Thompson as Old Vet</li><li>Colton Hill as Colton Hill</li><li>Nick Koumalatsos as Nick Koumalatsos</li><li>Addie Bernthal as Lisa</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "The Punisher: One Last Kill (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1470130": {
+   "d": "The Mortuary Assistant (2026): Horror/Mystery film. Story: Rebecca Owens, a recent mortuary science graduate… See cast, budget $18M, and TMDB rating 5.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
+   "industry": "world",
+   "k": "The Mortuary Assistant, The Mortuary Assistant movie, The Mortuary Assistant cast, The Mortuary Assistant story, The Mortuary Assistant box office collection, The Mortuary Assistant budget, The Mortuary Assistant review, The Mortuary Assistant rating, The Mortuary Assistant release date, The Mortuary Assistant trailer, The Mortuary Assistant Horror, The Mortuary Assistant Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Willa Holland"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Sparks"
+     },
+     {
+      "@type": "Person",
+      "name": "John Adams"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Steger"
+     },
+     {
+      "@type": "Person",
+      "name": "Shelly Gibson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 239,
+     "ratingValue": 5.2,
+     "worstRating": 0
+    },
+    "description": "The Mortuary Assistant (2026): Horror/Mystery film. Story: Rebecca Owens, a recent mortuary science graduate… See cast, budget $18M, and TMDB rating 5.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jeremiah Kipp"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1470130",
+    "name": "The Mortuary Assistant",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-02-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1470130"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Mortuary Assistant (2026)</h1>\n<p class=\"ssr-lead\">Rebecca Owens, a recent mortuary science graduate takes a night shift job at River Fields Mortuary. Initially, the job seems straightforward — embalming bodies, completing paperwork, and keeping things tidy. But once Rebecca starts working the night shift, things take a dark turn.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 February 2026</li><li>Runtime: 91 minutes</li><li>Director: Jeremiah Kipp</li><li>Genres: Horror, Mystery</li><li>Budget: $18M</li><li>TMDB rating: 5.2/10 (239 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Willa Holland as Rebecca Owens</li><li>Paul Sparks as Raymond Delver</li><li>John Adams as Ben</li><li>Mark Steger as The Mimic</li><li>Shelly Gibson as Grandma</li><li>Emily Bennett as Vallery</li><li>Keena Ferguson as Kelly</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Mortuary Assistant (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1534530": {
+   "d": "The Whisper (2026): Horror film. Story: Fleeing from their violent father, siblings Lucía… See cast, TMDB rating 7.1/10, and release date 22 January 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/vD2IsRkXyIzZkT8NHop8FUh4jwv.jpg",
+   "industry": "world",
+   "k": "The Whisper, The Whisper movie, The Whisper cast, The Whisper story, The Whisper box office collection, The Whisper budget, The Whisper review, The Whisper rating, The Whisper release date, The Whisper Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ana Clara Guanco"
+     },
+     {
+      "@type": "Person",
+      "name": "Marcelo Michinaux"
+     },
+     {
+      "@type": "Person",
+      "name": "Luciano Cáceres"
+     },
+     {
+      "@type": "Person",
+      "name": "Horacio Camandulle"
+     },
+     {
+      "@type": "Person",
+      "name": "Rasjid César"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 45,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Whisper (2026): Horror film. Story: Fleeing from their violent father, siblings Lucía… See cast, TMDB rating 7.1/10, and release date 22 January 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gustavo Hernández"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vD2IsRkXyIzZkT8NHop8FUh4jwv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1534530",
+    "name": "The Whisper",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-01-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1534530"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Whisper (2026)</h1>\n<p class=\"ssr-lead\">Fleeing from their violent father, siblings Lucía and Adrián take refuge in a remote mansion. With the help of a hidden micro-camera on a cat, Lucía uncovers a terrifying secret: their neighbors are part of a criminal network that kidnaps teenage girls to make snuff films, and they intend to get rid of the siblings. As Lucía fights to protect her brother, she must face a dark family curse that follows them into their newfound sanctuary.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 January 2026</li><li>Runtime: 101 minutes</li><li>Director: Gustavo Hernández</li><li>Genres: Horror</li><li>TMDB rating: 7.1/10 (45 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ana Clara Guanco as Lucía</li><li>Marcelo Michinaux as Adrián</li><li>Luciano Cáceres as Víctor</li><li>Horacio Camandulle as Miura</li><li>Rasjid César as Camuflado</li><li>Luana Bovino as Cautiva</li><li>Gonzalo Durante as Marrón</li><li>Soledad Lacassy as Policia</li><li>Eytan Lasca as Hombre Mayor</li><li>Joro Gorfain as Betun</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Whisper (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1657630": {
+   "d": "The Awakening (2026): Horror/Action film. Story: An elite military unit on a mission in the South… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
+   "industry": "world",
+   "k": "The Awakening, The Awakening movie, The Awakening cast, The Awakening story, The Awakening box office collection, The Awakening budget, The Awakening review, The Awakening rating, The Awakening release date, The Awakening trailer, The Awakening Horror, The Awakening Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Claudio Cataño"
+     },
+     {
+      "@type": "Person",
+      "name": "Alejandro Buitrago"
+     },
+     {
+      "@type": "Person",
+      "name": "Hector Sánchez"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrea Olaya"
+     },
+     {
+      "@type": "Person",
+      "name": "Quique Sanmartin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 124,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "The Awakening (2026): Horror/Action film. Story: An elite military unit on a mission in the South… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jaime Osorio Márquez"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Horror",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1657630",
+    "name": "The Awakening",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1657630"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Awakening (2026)</h1>\n<p class=\"ssr-lead\">An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 October 2026</li><li>Runtime: 96 minutes</li><li>Director: Jaime Osorio Márquez</li><li>Genres: Horror, Action, War, Fantasy, Thriller</li><li>TMDB rating: 6.5/10 (124 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Claudio Cataño as Rojas</li><li>Alejandro Buitrago as Díaz</li><li>Hector Sánchez as Doc</li><li>Andrea Olaya as Pardo</li><li>Quique Sanmartin as Excomulgado</li><li>Jaisson Jeack as Jackson</li><li>Carlos Mariño as Matías</li><li>Andres Londono as Castillo</li><li>Salvador Bridges as Capitán</li><li>Sebastian Velasquez</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Awakening (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1679730": {
+   "d": "THE RIBBON HERO (2026): Animation/Fantasy film. Story: When the monstrous Nergal devastates her kingdom… See cast and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
+   "industry": "world",
+   "k": "THE RIBBON HERO, THE RIBBON HERO movie, THE RIBBON HERO cast, THE RIBBON HERO story, THE RIBBON HERO box office collection, THE RIBBON HERO budget, THE RIBBON HERO review, THE RIBBON HERO rating, THE RIBBON HERO release date, THE RIBBON HERO trailer, THE RIBBON HERO Animation, THE RIBBON HERO Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Saaya"
+     },
+     {
+      "@type": "Person",
+      "name": "Seiran Kobayashi"
+     },
+     {
+      "@type": "Person",
+      "name": "Koki Uchiyama"
+     },
+     {
+      "@type": "Person",
+      "name": "Mayumi Shintani"
+     },
+     {
+      "@type": "Person",
+      "name": "Haruhiko Jo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 27,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "THE RIBBON HERO (2026): Animation/Fantasy film. Story: When the monstrous Nergal devastates her kingdom… See cast and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Yuki Igarashi"
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "Animation",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1679730",
+    "name": "THE RIBBON HERO",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1679730"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>THE RIBBON HERO (2026)</h1>\n<p class=\"ssr-lead\">When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 August 2026</li><li>Runtime: 112 minutes</li><li>Director: Yuki Igarashi</li><li>Genres: Animation, Fantasy, Drama, Action</li><li>TMDB rating: 6.4/10 (27 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Saaya as Sapphire / Princess Knight (voice)</li><li>Seiran Kobayashi as Pine (voice)</li><li>Koki Uchiyama as Velvet (voice)</li><li>Mayumi Shintani as Zirco (voice)</li><li>Haruhiko Jo as Pope (voice)</li><li>Yoshimasa Hosoya as Rock (voice)</li><li>Mito Tsukino as Hecate (voice)</li><li>Yusuke Tezuka as Chorogy (voice)</li><li>Lunlun as Chick (voice)</li><li>Debidebi Debiru as Tack (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "THE RIBBON HERO (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:238930": {
    "d": "Brain Drain (2013): Comedy film. Story: Five friends forge their resumes and enroll to Oxford… See cast, TMDB rating 3.9/10, and release date 21 November 2013.",

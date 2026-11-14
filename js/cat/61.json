@@ -1,7 +1,1038 @@
 {
  "bucket": "61",
- "count": 10,
+ "count": 19,
  "titles": {
+  "movie:1212461": {
+   "backdrop_path": "/77aCeoWOA5toCWk67lTAzrfW92Y.jpg",
+   "budget": 5000,
+   "cast": [
+    {
+     "c": "Conor / Ixaroth",
+     "n": "Albert Birney"
+    },
+    {
+     "c": "Sandy",
+     "n": "Dorothy the Dog"
+    },
+    {
+     "c": "Mary",
+     "n": "Callie Hernandez"
+    },
+    {
+     "c": "Mom",
+     "n": "Paisley Isaacs"
+    },
+    {
+     "c": "Victor",
+     "n": "Frank Mosley"
+    },
+    {
+     "c": "Knight / Nightmare Man / Ixaroth",
+     "n": "Tyler Davis"
+    },
+    {
+     "c": "Cicada Soldier",
+     "n": "Paul Oh"
+    },
+    {
+     "c": "Woman in Field",
+     "n": "Gloria Probably"
+    },
+    {
+     "c": "Man in Field",
+     "n": "Nate Krimmel"
+    },
+    {
+     "c": "Voice of Ixaroth (voice)",
+     "n": "Nicholas Gurewitch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Albert Birney"
+   ],
+   "genres": [
+    "Fantasy",
+    "Adventure",
+    "Horror"
+   ],
+   "id": 1212461,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "ER"
+   ],
+   "original_language": "en",
+   "overview": "Conor Marsh lives a secluded life with his dog, Sandy, until one day he begins playing OBEX, a new, state-of-the-art computer game. When Sandy goes missing, the line between reality and game blurs and Conor must venture into the strange world of OBEX to bring her home.",
+   "popularity": 1.2511,
+   "poster_path": "/989voQxc9qAJKuBaoBHngqnpLsD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JustWatch TV Plus"
+    },
+    {
+     "name": "Night Flight Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png",
+     "name": "JustWatch TV Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/acUxuVlP96MVPbUdxdGu0pUHTht.png",
+     "name": "Night Flight Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-09",
+   "revenue": 32453,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's just a game...",
+   "title": "Obex",
+   "trailer": {
+    "key": "sTzpC2tpO7I",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 24
+  },
+  "movie:1375161": {
+   "backdrop_path": "/1b0wNCRLYT3mGwvHyTEbqOk98Ix.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Megan Forrester",
+     "n": "Lyndsy Fonseca"
+    },
+    {
+     "c": "Ricky Vargas",
+     "n": "Russ"
+    },
+    {
+     "c": "Pastor Rizzo",
+     "n": "Tom Cavanagh"
+    },
+    {
+     "c": "Emma Rizzo",
+     "n": "Hunter King"
+    },
+    {
+     "c": "Ryan Stark",
+     "n": "Joseph Lee Anderson"
+    },
+    {
+     "c": "Paul DeLuca",
+     "n": "Rob Riggle"
+    },
+    {
+     "c": "Ranger Wright",
+     "n": "Brian Quinn"
+    },
+    {
+     "c": "Mike Forrester",
+     "n": "Matt Biedel"
+    },
+    {
+     "c": "D. Chiggins",
+     "n": "James Murray"
+    },
+    {
+     "c": "Maryanne Winston",
+     "n": "Dee Freeman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Maclain Nelson"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 1375161,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follows a prehistoric arachnid that terrifies a stranded group of campers who hike into the wrong woods. Based on the spine-tingling horror novel from the actor best known as \"Murr\" on TV's Impractical Jokers.",
+   "popularity": 12.1118,
+   "poster_path": "/uh0ZSdM8iOQgHwnUlhhanP8Dkl6.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-09-11",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Whatever you do…",
+   "title": "Don't Move",
+   "trailer": {
+    "key": "FwoYYKyJo1g",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.189,
+   "vote_count": 37
+  },
+  "movie:1395661": {
+   "backdrop_path": "/bJv3cwqJvurMZmO3Km42In4lHyv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rita",
+     "n": "Rozi Lovas"
+    },
+    {
+     "c": "Marci",
+     "n": "Áron Molnár"
+    },
+    {
+     "c": "Juli",
+     "n": "Dorka Gryllus"
+    },
+    {
+     "c": "Papa",
+     "n": "Tibor Szervét"
+    },
+    {
+     "c": "Anna",
+     "n": "Bettina Józsa"
+    },
+    {
+     "c": "Rudi",
+     "n": "István Znamenák"
+    },
+    {
+     "c": "Miklós",
+     "n": "Kornél Simon"
+    },
+    {
+     "c": "The Neighbour",
+     "n": "Kati Zsurzs"
+    },
+    {
+     "c": "Istvánka",
+     "n": "Soma Simon"
+    },
+    {
+     "c": "Tamás",
+     "n": "Szalay-Dimitrov Máté"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Gábor Holtai"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1395661,
+   "industry": "world",
+   "origin_country": [
+    "HU"
+   ],
+   "original_language": "hu",
+   "overview": "Rita, an ordinary, but lonely woman is kidnapped. Her captors are the Árpáds; they claim she is not called Rita but Szilvi, a runaway from their family. Rita eventually understands that the only way out is in - to escape she must impersonate Szilvi. The more she becomes the lost girl the more she finds out about the family - and understands that her life is on the line.",
+   "popularity": 2.186,
+   "poster_path": "/ckVdzd0E9mVQWqaZrfJo4OKaMzi.jpg",
+   "production_countries": [
+    "HU"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-19",
+   "revenue": 0,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hu"
+   ],
+   "status": "Released",
+   "tagline": "Family is safety. Family is joy. Family is prison.",
+   "title": "Feels Like Home",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.25,
+   "vote_count": 26
+  },
+  "movie:1436061": {
+   "backdrop_path": "/yU85xdxN3rmt4RgGPb2na1SSjdM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fabian Kurtz",
+     "n": "Bastian Pastewka"
+    },
+    {
+     "c": "Milva Piel",
+     "n": "Tamara Romera Ginés"
+    },
+    {
+     "c": "Clemens Piel",
+     "n": "Anton Dreger"
+    },
+    {
+     "c": "Freya Piel",
+     "n": "Barbara Philipp"
+    },
+    {
+     "c": "Armin Piel",
+     "n": "Ercan Durmaz"
+    },
+    {
+     "c": "Katja Nager",
+     "n": "Mira Partecke"
+    },
+    {
+     "c": "Gerhard Nager",
+     "n": "Bernhard Schütz"
+    },
+    {
+     "c": "Nikola Wankdorff",
+     "n": "Nicole Beutler"
+    },
+    {
+     "c": "Kim Orkin",
+     "n": "Taneshia Abt"
+    },
+    {
+     "c": "Annalena Ohlfeld",
+     "n": "Lena Dörrie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Markus Sehr"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 1436061,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Hapless con artist Fabian crashes a quirky winter wedding, planning to steal a valuable gift meant for the bride. But when a murder disrupts his scheme, Fabian finds himself unexpectedly drawn into solving the mystery. A thrilling murder mystery comedy packed with dark secrets.",
+   "popularity": 1.6909,
+   "poster_path": "/2T4gc5njZ0JJVYLn6Q8VxS9RoM6.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-06",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Fabian and the Deadly Wedding",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.33,
+   "vote_count": 47
+  },
+  "movie:1462861": {
+   "backdrop_path": "/gZt1KXQRawEg3CTqzTamXYkniT4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Clara",
+     "n": "Rose Williams"
+    },
+    {
+     "c": "Curtis",
+     "n": "Tim McInnerny"
+    },
+    {
+     "c": "Finca",
+     "n": "Avani Gregg"
+    },
+    {
+     "c": "David",
+     "n": "Andy Nyman"
+    },
+    {
+     "c": "Gary",
+     "n": "Abraham Lewis"
+    },
+    {
+     "c": "Rachel",
+     "n": "Carlotta Banat"
+    },
+    {
+     "c": "Glamma",
+     "n": "Anuschka van Lent"
+    },
+    {
+     "c": "Ed",
+     "n": "Justin Daniels Anene"
+    },
+    {
+     "c": "Kevin",
+     "n": "Owen Warner"
+    },
+    {
+     "c": "Jodi",
+     "n": "Léna Mahfouf"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Christopher Smith"
+   ],
+   "genres": [
+    "Comedy",
+    "Horror"
+   ],
+   "id": 1462861,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A group of social media influencers go to the launch of a new hotel on a tropical island, where they find deadly spiders.",
+   "popularity": 2.9757,
+   "poster_path": "/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-27",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Eight legs, one bite, no chance.",
+   "title": "Spider Island",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.6,
+   "vote_count": 36
+  },
+  "movie:1487861": {
+   "backdrop_path": "/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Elize Matsunaga",
+     "n": "Lorena Comparato"
+    },
+    {
+     "c": "Marcos Matsunaga",
+     "n": "Henrique Kimura"
+    },
+    {
+     "c": "Tia Marta",
+     "n": "Denise Weinberg"
+    },
+    {
+     "c": "Heitor",
+     "n": "Gustavo Falcão"
+    },
+    {
+     "c": "Clarice",
+     "n": "Julia Shimura"
+    },
+    {
+     "c": "Babá",
+     "n": "Flora Sandyá"
+    },
+    {
+     "c": "Takashi",
+     "n": "Edson Kameda"
+    },
+    {
+     "c": "Masuyo",
+     "n": "Miwa Yanagizawa"
+    },
+    {
+     "c": "Lauro",
+     "n": "Arthur Toyoshima"
+    },
+    {
+     "c": "Larissa \"aka\" Bianca",
+     "n": "Julia Konrad"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Vellas"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Drama"
+   ],
+   "id": 1487861,
+   "industry": "world",
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "In this retelling of a real case, a former escort discovers her wealthy husband's infidelity and struggles to cope as betrayal poisons their marriage.",
+   "popularity": 9.0983,
+   "poster_path": "/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg",
+   "production_countries": [
+    "BR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-22",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "The truth behind a perfect marriage.",
+   "title": "Elize: Shadows of a Woman",
+   "trailer": {
+    "key": "KiKnd3cusPo",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.411,
+   "vote_count": 246
+  },
+  "movie:1641961": {
+   "backdrop_path": "/sLHSspHOdkTdK30nZVigY4zxC8P.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Former NBA Player",
+     "n": "Lamar Odom"
+    },
+    {
+     "c": "Self - Lamar's Ex-Wife",
+     "n": "Khloé Kardashian"
+    },
+    {
+     "c": "Self - Lamar's Ex-Fiancée",
+     "n": "Liza Morales"
+    },
+    {
+     "c": "Self - Lamar's Son",
+     "n": "LJ Odom"
+    },
+    {
+     "c": "Self - Lamar's Daughter",
+     "n": "Destiny Odom"
+    },
+    {
+     "c": "Self - Lamar's Aunt",
+     "n": "Janeane Mercer"
+    },
+    {
+     "c": "Self - LA Lakers Coach / 13x NBA Champion",
+     "n": "Phil Jackson"
+    },
+    {
+     "c": "Self - Former LA Lakers Player (fka Metta World Peace)",
+     "n": "Metta Sandiford-Artest"
+    },
+    {
+     "c": "Self - Lamar's Childhood Friend",
+     "n": "Anthony 'Pumpkin' Booker"
+    },
+    {
+     "c": "Self - Former Manager of The Love Ranch",
+     "n": "Richard Hunter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "+16",
+   "date_kind": "release",
+   "director": [
+    "Ryan Duffy"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 1641961,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This documentary traces the life of Lamar Odom, from his rise to NBA fame and marriage to Khloé Kardashian to his near-fatal overdose in a Nevada brothel.",
+   "popularity": 2.3935,
+   "poster_path": "/9Go8VKSzJIzn65b9c9l02ymHRlv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-31",
+   "revenue": 0,
+   "runtime": 81,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Untold: The Death & Life of Lamar Odom",
+   "trailer": {
+    "key": "IqGuIQI1PD8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 25
+  },
+  "movie:1656061": {
+   "backdrop_path": "/hwg3vj8MAXM8WISFnvjJsXXLHdw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Aria",
+     "n": "Dominique Swain"
+    },
+    {
+     "c": "Joan Of Arc",
+     "n": "Eve Fournier"
+    },
+    {
+     "c": "Cleopatra",
+     "n": "Roxanne G.C. Brooks"
+    },
+    {
+     "c": "Genghis Khan",
+     "n": "Charlit Dae"
+    },
+    {
+     "c": "Shaka Zulu",
+     "n": "Samuel Selman"
+    },
+    {
+     "c": "Oda Nobunaga",
+     "n": "Josiah D. Lee"
+    },
+    {
+     "c": "Attila The Hun",
+     "n": "Sasha Di Capri"
+    },
+    {
+     "c": "Boudica",
+     "n": "Mila Orion"
+    },
+    {
+     "c": "Gordon",
+     "n": "Peter Laboy"
+    },
+    {
+     "c": "Mama Huaco",
+     "n": "Jenique Hendrix"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Monroe Robertson"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Adventure"
+   ],
+   "id": 1656061,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "History's greatest warriors, including Genghis Khan and Joan of Arc, are summoned by a shadowy organization to fight in a battle to the death. But unknown to their captors, the fighters have been plotting to turn the tables and dismantle the deadly enterprise from within.",
+   "popularity": 7.9869,
+   "poster_path": "/mhRAgvQ04DTE4zQN3OSyc9Lonj3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-04-24",
+   "revenue": 0,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The World's Greatest Warriors...Fight To The Death",
+   "title": "Immortal Combat",
+   "trailer": {
+    "key": "j5kldy4dRAI",
+    "name": "Immortal Combat Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.407,
+   "vote_count": 27
+  },
   "movie:222461": {
    "backdrop_path": "/rxf3zpKOxQTc0xobKewnGpFdNUt.jpg",
    "budget": 0,
@@ -863,6 +1894,104 @@
    "type": "movie",
    "vote_average": 7.384,
    "vote_count": 453
+  },
+  "movie:677561": {
+   "backdrop_path": "/vLEr8t7m5JXCZzmhjq9ZROq7dtr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Danaël (voice)",
+     "n": "Roman Doduik"
+    },
+    {
+     "c": "Jadina (voice)",
+     "n": "Esthèle Dumand"
+    },
+    {
+     "c": "Shimy (voice)",
+     "n": "Elise Tilloloy"
+    },
+    {
+     "c": "Razzia (voice)",
+     "n": "Thomas Sagols"
+    },
+    {
+     "c": "Gryf (voice)",
+     "n": "Antoine Schoumsky"
+    },
+    {
+     "c": "Darkhell (voice)",
+     "n": "Damien Witecka"
+    },
+    {
+     "c": "Elysio (voice)",
+     "n": "Arthur Raynal"
+    },
+    {
+     "c": "Ibycellia (voice)",
+     "n": "Lila Lacombe"
+    },
+    {
+     "c": "The King (voice)",
+     "n": "Lucien Jean-Baptiste"
+    },
+    {
+     "c": "The Queen (voice)",
+     "n": "Marjorie Frantz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Guillaume Ivernel"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 677561,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "They are brave, intrepid, indomitable, and they turned back to children! While fighting the terrible sorcerer Darkhell, the official heros of Alysia: The Legendaries accidentally broke the Jovenia stone, the one of eternal youth. This is how the whole kingdom of Alysia, and especially our champions, has fallen back into childhood. No more birth, but people keep on dying of accident or sickness… Humanity is then doomed to extinction. A real curse! And quite a blow to the myth of \"The Legendaries\". The five warriors, formerly admired, have now to lie low… Today blamed and discredited, they are well decided to break the spell and fix their mistake. \"Nothing is impossible for a willing heart\"… Even at 10!",
+   "popularity": 3.0051,
+   "poster_path": "/AlfndBQucnWC7igEIG2L0sk6tiF.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-28",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Legendaries",
+   "trailer": {
+    "key": "ErUl1MVZ180",
+    "name": "THE LEGENDARIES: THE MOVIE | Official Trailer | In Cinemas October 1",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.113,
+   "vote_count": 31
   },
   "movie:74461": {
    "backdrop_path": "/4BXLVLRwHxtydcUIhxphPVirJX5.jpg",

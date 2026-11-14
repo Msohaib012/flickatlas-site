@@ -1,7 +1,846 @@
 {
  "bucket": "38",
- "count": 10,
+ "count": 20,
  "titles": {
+  "movie:1154538": {
+   "backdrop_path": "/hs4QXgPuKJ4PPwYBWNTod61RKiA.jpg",
+   "budget": 1200000,
+   "cast": [
+    {
+     "c": "Matt",
+     "n": "Matt Johnson"
+    },
+    {
+     "c": "Jay",
+     "n": "Jay McCarrol"
+    },
+    {
+     "c": "Ben",
+     "n": "Ben Petrie"
+    },
+    {
+     "c": "Ethan",
+     "n": "Ethan Eng"
+    },
+    {
+     "c": "Michael",
+     "n": "Michael Scott"
+    },
+    {
+     "c": "Jared",
+     "n": "Jared Raab"
+    },
+    {
+     "c": "Reid",
+     "n": "Reid Janisse"
+    },
+    {
+     "c": "Steve",
+     "n": "Steve Hamelin"
+    },
+    {
+     "c": "Luke",
+     "n": "Luke Lalonde"
+    },
+    {
+     "c": "Maddy",
+     "n": "Maddy Wilde"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Matt Johnson"
+   ],
+   "genres": [
+    "Comedy",
+    "Science Fiction",
+    "Adventure"
+   ],
+   "id": 1154538,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008.",
+   "popularity": 5.4678,
+   "poster_path": "/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-13",
+   "revenue": 5191174,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One... last... plan.",
+   "title": "Nirvanna the Band the Show the Movie",
+   "trailer": {
+    "key": "y2K9ccMREOI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 160
+  },
+  "movie:1215638": {
+   "backdrop_path": "/7XjMb92bOVg51fA3RFbuoZwwTOK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ternet Ninja (voice)",
+     "n": "Anders Matthesen"
+    },
+    {
+     "c": "Emily (voice)",
+     "n": "Flora Ofelia Hofmann Lindahl"
+    },
+    {
+     "c": "Aske (voice)",
+     "n": "Louis Næss-Schmidt"
+    },
+    {
+     "c": "Jessica (voice)",
+     "n": "Emma Sehested Høeg"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Thorbjørn Christoffersen",
+    "Anders Matthesen"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Comedy"
+   ],
+   "id": 1215638,
+   "industry": "world",
+   "origin_country": [
+    "DK"
+   ],
+   "original_language": "da",
+   "overview": "In this 3rd installment Alex’s interest for Ninja missions is starting to vanish. He’ll rather spend his time with his friends and Checkered Ninja feels he is overlooked and is eager to engage in a new mission. The result of this is that Alex, by accident, ends up having a conflict with Marco, the bad boy boyfriend of Jessica, entangling him in a conflict he hasn’t asked for and he is pressured by Checkered Ninja to defend himself.",
+   "popularity": 2.5953,
+   "poster_path": "/sGUesG39H2LWZ6lUTwZXOqUHsxI.jpg",
+   "production_countries": [
+    "DK"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-09",
+   "revenue": 0,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "nl",
+    "da"
+   ],
+   "status": "Released",
+   "tagline": "You can ignore your problems, but you can't escape them",
+   "title": "Checkered Ninja 3",
+   "trailer": {
+    "key": "coRdidSZRTE",
+    "name": "Ternet Ninja 3 | Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.4,
+   "vote_count": 28
+  },
+  "movie:1280738": {
+   "backdrop_path": "/i0eR9O1FnCgBm1cH8WwqxGbAXMS.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Wang Wei",
+     "n": "Xie Miao"
+    },
+    {
+     "c": "Navin",
+     "n": "Joe Taslim"
+    },
+    {
+     "c": "Rainy",
+     "n": "Yang Enyou"
+    },
+    {
+     "c": "Tak",
+     "n": "Yayan Ruhian"
+    },
+    {
+     "c": "Matia",
+     "n": "JeeJa Yanin"
+    },
+    {
+     "c": "Ho",
+     "n": "Brian Le"
+    },
+    {
+     "c": "Pak Lung",
+     "n": "Joey Iwanaga"
+    },
+    {
+     "c": "Mr. Song",
+     "n": "Sahajak Boonthanakit"
+    },
+    {
+     "c": "Yadong",
+     "n": "Manatsanun Panlertwongskul"
+    },
+    {
+     "c": "Donkey Head",
+     "n": "Winai Wiangyangkung"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Kenji Tanigaki"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 1280738,
+   "industry": "world",
+   "origin_country": [
+    "CN",
+    "HK"
+   ],
+   "original_language": "zh",
+   "overview": "When Wang Wei's daughter is abducted by a criminal organization and law enforcement declines to intervene due to corruption, Wei embarks on a solo mission to find her. His sole ally is Navin, a determined journalist whose wife has also mysteriously disappeared. Together, this improbable pair confronts the kidnappers in a fierce martial arts confrontation, driven by an intense desire for retribution.",
+   "popularity": 22.516,
+   "poster_path": "/ivQ1Z3lI1xWvAeGDHBw3CCYZDGJ.jpg",
+   "production_countries": [
+    "HK",
+    "CN",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-06-12",
+   "revenue": 39745080,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "zh",
+    "tl",
+    "th",
+    "id"
+   ],
+   "status": "Released",
+   "tagline": "To save their loved ones, they will fight everyone.",
+   "title": "The Furious",
+   "trailer": {
+    "key": "Avky8dVaqAI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.2,
+   "vote_count": 896
+  },
+  "movie:1341138": {
+   "backdrop_path": "/ftFf9sfJq69xJ0AuiaIuDKBtfzg.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Jane",
+     "n": "Leslie Mann"
+    },
+    {
+     "c": "Coco",
+     "n": "Michelle Buteau"
+    },
+    {
+     "c": "Sophie",
+     "n": "Anna Faris"
+    },
+    {
+     "c": "Mel",
+     "n": "Isla Fisher"
+    },
+    {
+     "c": "Kai",
+     "n": "Adam Demos"
+    },
+    {
+     "c": "Roger",
+     "n": "Dominic Ona-Ariki"
+    },
+    {
+     "c": "Shanti",
+     "n": "Erika Heynatz"
+    },
+    {
+     "c": "Ayurveda",
+     "n": "Courtney Clarke"
+    },
+    {
+     "c": "Young Mel",
+     "n": "Quinn Aune"
+    },
+    {
+     "c": "Young Coco",
+     "n": "Sierra Rose"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jon Lucas",
+    "Scott Moore"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1341138,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
+   "popularity": 4.7657,
+   "poster_path": "/uhx4YjT9YbSxrKVE7GWJdjI412J.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-08-20",
+   "revenue": 10154377,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Friendship is a real trip.",
+   "title": "Spa Weekend",
+   "trailer": {
+    "key": "AhsA9ZqRAXQ",
+    "name": "Book Your Escape Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 70
+  },
+  "movie:1376838": {
+   "backdrop_path": "/lt7BVTAl7XL1uYYg8x6JI0LZWbb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yasmina",
+     "n": "Mounia Akl"
+    },
+    {
+     "c": "Nino",
+     "n": "Hasan Akil"
+    },
+    {
+     "c": "Antoine",
+     "n": "Camille Salameh"
+    },
+    {
+     "c": "Omaya",
+     "n": "Julia Kassar"
+    },
+    {
+     "c": "Chafic",
+     "n": "Tino Karam"
+    },
+    {
+     "c": "Leila",
+     "n": "Nadyn Chalhoub"
+    },
+    {
+     "c": "Young Yasmina",
+     "n": "Alex Choueiry"
+    },
+    {
+     "c": "Amal",
+     "n": "Valentina Hachem"
+    },
+    {
+     "c": "Young Nino",
+     "n": "Mohamad Farhat"
+    },
+    {
+     "c": "Young Omaya",
+     "n": "Yara Zakhour"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Cyril Aris"
+   ],
+   "genres": [
+    "Romance",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1376838,
+   "industry": "world",
+   "origin_country": [
+    "LB"
+   ],
+   "original_language": "ar",
+   "overview": "Across three decades of passion, loss, and hope, Nino and Yasmina are bound by a magnetic relationship. Torn between love and survival, they must decide whether to build a family in Lebanon or leave their home despite tragedies.",
+   "popularity": 1.0953,
+   "poster_path": "/gW3j8B4VPCnVTELgiZee9Xct49J.jpg",
+   "production_countries": [
+    "LB",
+    "US",
+    "DE",
+    "GR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-29",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Sad and Beautiful World",
+   "trailer": {
+    "key": "pGHWEz1-W-E",
+    "name": "A SAD AND BEAUTIFUL WORLD I Official Trailer I In Select Theaters July 24",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.885,
+   "vote_count": 26
+  },
+  "movie:1427838": {
+   "backdrop_path": "/w7hqriNqhyGZb30mPDmBW6tFyMs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Heribert Bräsemann",
+     "n": "Hape Kerkeling"
+    },
+    {
+     "c": "Torsten Pfaff",
+     "n": "Christoph Maria Herbst"
+    },
+    {
+     "c": "Erol Oturan",
+     "n": "Fahri Yardım"
+    },
+    {
+     "c": "Melanie Pfaff",
+     "n": "Anja Knauer"
+    },
+    {
+     "c": "Matthias Scholz",
+     "n": "Friedrich Mücke"
+    },
+    {
+     "c": "Elisabeth Scholz",
+     "n": "Gaby Dohm"
+    },
+    {
+     "c": "Hans-Günther Schnippering",
+     "n": "Milan Peschel"
+    },
+    {
+     "c": "Anne Ackermeier",
+     "n": "Katrin Röver"
+    },
+    {
+     "c": "Heinz Grumberger",
+     "n": "Patrick Joswig"
+    },
+    {
+     "c": "Laura",
+     "n": "Marlene Markt"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "10",
+   "date_kind": "release",
+   "director": [
+    "Marcus H. Rosenmüller"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1427838,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "At a tennis club in rural Germany, preparations for the summer party are led by Heribert. When a separate grill is suggested for Erol, the club's only Muslim member, tensions flare. What begins as a simple discussion quickly turns into a debate about societal and personal conflicts, threatening to tear the club apart.",
+   "popularity": 1.8023,
+   "poster_path": "/vZqnXMNzEsHi1YYbuM4QNtc1bEV.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-01-15",
+   "revenue": 21927663,
+   "runtime": 0,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Holy Grill",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.483,
+   "vote_count": 89
+  },
+  "movie:1457938": {
+   "backdrop_path": "/6IuoMwcq20Y8xZ7UqQzZwjn0Esc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Elisabetta Sferzi",
+     "n": "Matilda De Angelis"
+    },
+    {
+     "c": "Angelo Walder",
+     "n": "Stefano Accorsi"
+    },
+    {
+     "c": "Daniele",
+     "n": "Marlon Joubert"
+    },
+    {
+     "c": "Cristiano",
+     "n": "Eugenio Franceschini"
+    },
+    {
+     "c": "Giulia Ripamonti",
+     "n": "Lidia Liberman"
+    },
+    {
+     "c": "Fabrizio Fiori",
+     "n": "Marco Maccieri"
+    },
+    {
+     "c": "Paolo Valduga",
+     "n": "Alberto Benedetto Lutri"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Stefano Mordini"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1457938,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A brilliant, young lawyer from Trieste is contacted by a charismatic university professor, whom she previously successfully defended against an accusation of sexual violence, to sue his university which has reinstated him but relegated him to a marginal role. Meanwhile, her past comes back to haunt her: strange signs, a fleeting sense of a presence and an ongoing threatening feeling lead her to believe that her ex-partner - who was abusive and obsessive over her, to the point of being convicted of stalking – is once again harassing her.",
+   "popularity": 0.4812,
+   "poster_path": "/fck83vluL9Gih143i4q1SwIlRKh.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-14",
+   "release_date": "2026-03-05",
+   "revenue": 0,
+   "runtime": 0,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Lesson",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.229,
+   "vote_count": 48
+  },
   "movie:14638": {
    "backdrop_path": "/w6XdWl6L2WDHJGw2FKySbi86WDg.jpg",
    "budget": 0,
@@ -106,6 +945,215 @@
    "type": "movie",
    "vote_average": 7.374,
    "vote_count": 456
+  },
+  "movie:1472638": {
+   "backdrop_path": "/7Whk4F7xQYF5eUwJp50Oa8GvpVd.jpg",
+   "budget": 28100000,
+   "cast": [
+    {
+     "c": "Checco",
+     "n": "Checco Zalone"
+    },
+    {
+     "c": "Alma",
+     "n": "Beatriz Arjona"
+    },
+    {
+     "c": "Cristal",
+     "n": "Letizia Arnò"
+    },
+    {
+     "c": "Linda",
+     "n": "Martina Colombari"
+    },
+    {
+     "c": "Tarek",
+     "n": "Hossein Taheri"
+    },
+    {
+     "c": "Nonno Eugenio",
+     "n": "Alfonso Santagata"
+    },
+    {
+     "c": "Martina",
+     "n": "Mariana Rodríguez"
+    },
+    {
+     "c": "Elizabeth",
+     "n": "Cecilia Gragnani"
+    },
+    {
+     "c": "Corina",
+     "n": "Beatrice Abbro"
+    },
+    {
+     "c": "Maurice",
+     "n": "Maurizio Bousso"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Gennaro Nunziante"
+   ],
+   "genres": [
+    "Comedy",
+    "Family",
+    "Adventure"
+   ],
+   "id": 1472638,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Checco's life is a comfortable and luxurious one, and it couldn't be otherwise, considering he's the only son of Eugenio Zalone, a wealthy sofa manufacturer. Stranded by the pool in his luxurious villas, with an unspecified number of Filipinos serving him, a very young Mexican model as a girlfriend, and vacationing on his yacht with friends who share his passion for not wanting to work; it seems like a truly enviable life, considering he lacks nothing, absolutely nothing. Actually, no. Something is missing. It's his underage daughter, Cristal, named after the famous French sparkling wine, who has suddenly disappeared without a trace. Urgently summoned to Rome by his ex-wife, Linda, he finds himself facing the responsibilities of fatherhood for the first time, trying to find the girl—a very complicated task, considering he knows absolutely nothing about Cristal and her life.",
+   "popularity": 2.0096,
+   "poster_path": "/gYvlK73gKsJAaGjndyyiaZerEFb.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2025-12-25",
+   "revenue": 73797878,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "fr",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Buen Camino",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.283,
+   "vote_count": 637
+  },
+  "movie:1588838": {
+   "backdrop_path": "/vIYxi7G0nK64cgiiVwSV0sFeQ7F.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carlos Suárez",
+     "n": "Carlos Cuevas"
+    },
+    {
+     "c": "Armando del Rey",
+     "n": "Miguel Bernardeau"
+    },
+    {
+     "c": "Darío Barrio",
+     "n": "Miguel Ángel Silvestre"
+    },
+    {
+     "c": "Manolo Chana",
+     "n": "José Manuel Poga"
+    },
+    {
+     "c": "Álvaro Bultó",
+     "n": "David Marcé"
+    },
+    {
+     "c": "Saray",
+     "n": "Nuria Casas"
+    },
+    {
+     "c": "Leti",
+     "n": "Paloma Bloyd"
+    },
+    {
+     "c": "Myriam Montaña",
+     "n": "Candela González"
+    },
+    {
+     "c": "Iris",
+     "n": "Stéphanie Magnin"
+    },
+    {
+     "c": "Silka",
+     "n": "Nüll García"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Salvador Calvo"
+   ],
+   "genres": [
+    "Drama",
+    "Adventure"
+   ],
+   "id": 1588838,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "A group of friends bonded by their love for extreme sports discovers BASE jumping in wingsuits — but feeling like flying carries the highest risks.",
+   "popularity": 2.8282,
+   "poster_path": "/7KtjwHzp2EB5N63bZtxVb2gImjf.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-02-06",
+   "revenue": 1030147,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "To the Max",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.375,
+   "vote_count": 60
   },
   "movie:18238": {
    "backdrop_path": "/rw7mN0B8wkZcSuaEARJPIooUyBY.jpg",
@@ -888,6 +1936,113 @@
    "type": "movie",
    "vote_average": 4.5,
    "vote_count": 439
+  },
+  "movie:949838": {
+   "backdrop_path": "/hL5EIk48251OXlbIbRJq3yaBHk8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joe",
+     "n": "Kevin Hart"
+    },
+    {
+     "c": "Nick",
+     "n": "Marcello Hernández"
+    },
+    {
+     "c": "Mason",
+     "n": "Mason Gooding"
+    },
+    {
+     "c": "Freshman",
+     "n": "Kam Patterson"
+    },
+    {
+     "c": "Hunter",
+     "n": "Ben Marshall"
+    },
+    {
+     "c": "Barry",
+     "n": "Zach Cherry"
+    },
+    {
+     "c": "Jaze",
+     "n": "Michael Mando"
+    },
+    {
+     "c": "Jennifer",
+     "n": "Teyana Taylor"
+    },
+    {
+     "c": "Terry",
+     "n": "Kevin Dunn"
+    },
+    {
+     "c": "Trixie",
+     "n": "Anna Garcia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Tim Story"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 949838,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "To save his career, a 40-year-old ad exec joins a crew of twentysomethings for a wild Miami bachelor party after they mistakenly add him to a group chat.",
+   "popularity": 7.4771,
+   "poster_path": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-14",
+   "release_date": "2026-07-20",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The night is young. He isn't.",
+   "title": "72 HOURS",
+   "trailer": {
+    "key": "N-J-HR3quc4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.728,
+   "vote_count": 506
   },
   "tv:1438": {
    "backdrop_path": "/aQTtua5pG490fMfeKgtYg5B853e.jpg",

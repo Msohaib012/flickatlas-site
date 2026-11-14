@@ -1,6 +1,6 @@
 {
  "bucket": "26",
- "count": 17,
+ "count": 24,
  "titles": {
   "movie:10426": {
    "d": "Friday After Next (2002): Comedy/Drama film. Story: Craig and his cousin Day-Day have finally moved out… See cast, budget $20M, and TMDB rating 6.4/10.",
@@ -66,6 +66,70 @@
    "t": "Friday After Next (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2002"
   },
+  "movie:1187326": {
+   "d": "Tad and The Magic Lamp (2026): Animation/Comedy film. Story: Tadeo, his girlfriend Sara, and his friends Momia… See cast and TMDB rating 8.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
+   "industry": "world",
+   "k": "Tad and The Magic Lamp, Tad and The Magic Lamp movie, Tad and The Magic Lamp cast, Tad and The Magic Lamp story, Tad and The Magic Lamp box office collection, Tad and The Magic Lamp budget, Tad and The Magic Lamp review, Tad and The Magic Lamp rating, Tad and The Magic Lamp release date, Tad and The Magic Lamp trailer, Tad and The Magic Lamp Animation, Tad and The Magic Lamp Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Óscar Barberán"
+     },
+     {
+      "@type": "Person",
+      "name": "Michelle Jenner"
+     },
+     {
+      "@type": "Person",
+      "name": "Luis Posada"
+     },
+     {
+      "@type": "Person",
+      "name": "Joseph Balderrama"
+     },
+     {
+      "@type": "Person",
+      "name": "Trevor White"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 99,
+     "ratingValue": 8.3,
+     "worstRating": 0
+    },
+    "description": "Tad and The Magic Lamp (2026): Animation/Comedy film. Story: Tadeo, his girlfriend Sara, and his friends Momia… See cast and TMDB rating 8.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Enrique Gato"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1187326",
+    "name": "Tad and The Magic Lamp",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1187326"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Tad and The Magic Lamp (2026)</h1>\n<p class=\"ssr-lead\">Tadeo, his girlfriend Sara, and his friends Momia, Jeff, and Belzoni embark on an adventure after Tadeo accidentally unleashes an ancient spell.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 August 2026</li><li>Runtime: 94 minutes</li><li>Director: Enrique Gato</li><li>Genres: Animation, Comedy, Family</li><li>TMDB rating: 8.3/10 (99 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Óscar Barberán as Tadeo Jones (voice)</li><li>Michelle Jenner as Sara Lavrof (voice)</li><li>Luis Posada as Momia (voice)</li><li>Joseph Balderrama as Mummy / Tupac (voice)</li><li>Trevor White as Tad (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Tad and The Magic Lamp (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:12626": {
    "d": "Broadcast News (1987): Comedy/Romance film. Story: A high-strung news producer finds herself in a love… See cast, budget $20M, and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/wHSZJ8s0JfWIjoHkRknq6ZtGlZr.jpg",
@@ -129,6 +193,388 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Broadcast News (1987)</h1>\n<p class=\"ssr-lead\">A high-strung news producer finds herself in a love triangle between a talented but self-doubting reporter and a charming news anchor who embodies the growing trivialization of news that she is determined to fight against.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 December 1987</li><li>Runtime: 133 minutes</li><li>Director: James L. Brooks</li><li>Genres: Comedy, Romance</li><li>Budget: $20M</li><li>TMDB rating: 6.8/10 (495 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Holly Hunter as Jane Craig</li><li>William Hurt as Tom Grunick</li><li>Albert Brooks as Aaron Altman</li><li>Robert Prosky as Ernie Merriman</li><li>Lois Chiles as Jennifer Mack</li><li>Joan Cusack as Blair Litton</li><li>Peter Hackes as Paul Moore</li><li>Christian Clemenson as Bobby</li><li>Jack Nicholson as Bill Rorich</li><li>Robert Katims as Martin Klein</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Broadcast News (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1987"
+  },
+  "movie:1393326": {
+   "d": "Ghost in the Cell (2026): Horror/Comedy film. Story: In a notorious prison, an invisible force begins… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
+   "industry": "world",
+   "k": "Ghost in the Cell, Ghost in the Cell movie, Ghost in the Cell cast, Ghost in the Cell story, Ghost in the Cell box office collection, Ghost in the Cell budget, Ghost in the Cell review, Ghost in the Cell rating, Ghost in the Cell release date, Ghost in the Cell trailer, Ghost in the Cell Horror, Ghost in the Cell Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Abimana Aryasatya"
+     },
+     {
+      "@type": "Person",
+      "name": "Almanzo Konoralma"
+     },
+     {
+      "@type": "Person",
+      "name": "Aming"
+     },
+     {
+      "@type": "Person",
+      "name": "Arswendy Bening Swara"
+     },
+     {
+      "@type": "Person",
+      "name": "Bront Palarae"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 118,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Ghost in the Cell (2026): Horror/Comedy film. Story: In a notorious prison, an invisible force begins… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joko Anwar"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Horror",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1393326",
+    "name": "Ghost in the Cell",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1393326"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ghost in the Cell (2026)</h1>\n<p class=\"ssr-lead\">In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 April 2026</li><li>Runtime: 106 minutes</li><li>Director: Joko Anwar</li><li>Genres: Horror, Comedy</li><li>TMDB rating: 6.8/10 (118 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Abimana Aryasatya as Anggoro</li><li>Almanzo Konoralma as Buki</li><li>Aming as Tokek</li><li>Arswendy Bening Swara as Prakasa</li><li>Bront Palarae as Jefri</li><li>Dimas Danang as Irfan</li><li>Dewa Dayana as Young Prakasa</li><li>Endy Arfian as Dimas</li><li>Faiz Vishal as Vijay</li><li>Haydar Salishz as Donald Supanggah</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Ghost in the Cell (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1400626": {
+   "d": "Stromberg - Wieder alles wie immer (2025): Comedy film. Story: About twenty years ago, Germany got to know Bernd… See cast and TMDB rating 5.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/reLr5qPwMvYxK9IninlZT2qUxxL.jpg",
+   "industry": "world",
+   "k": "Stromberg - Wieder alles wie immer, Stromberg - Wieder alles wie immer movie, Stromberg - Wieder alles wie immer cast, Stromberg - Wieder alles wie immer story, Stromberg - Wieder alles wie immer box office collection, Stromberg - Wieder alles wie immer budget, Stromberg - Wieder alles wie immer review, Stromberg - Wieder alles wie immer rating, Stromberg - Wieder alles wie immer release date, Stromberg - Wieder alles wie immer Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christoph Maria Herbst"
+     },
+     {
+      "@type": "Person",
+      "name": "Bjarne Mädel"
+     },
+     {
+      "@type": "Person",
+      "name": "Oliver Wnuk"
+     },
+     {
+      "@type": "Person",
+      "name": "Diana Staehly"
+     },
+     {
+      "@type": "Person",
+      "name": "Milena Dreißig"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 70,
+     "ratingValue": 5.2,
+     "worstRating": 0
+    },
+    "description": "Stromberg - Wieder alles wie immer (2025): Comedy film. Story: About twenty years ago, Germany got to know Bernd… See cast and TMDB rating 5.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Arne Feldhusen"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/reLr5qPwMvYxK9IninlZT2qUxxL.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1400626",
+    "name": "Stromberg - Wieder alles wie immer",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-12-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1400626"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Stromberg - Wieder alles wie immer (2025)</h1>\n<p class=\"ssr-lead\">About twenty years ago, Germany got to know Bernd Stromberg and his team from the claims department at CAPITOL Insurance. Back then, there was nothing vegan in the cafeteria, and bullying and sexism were commonplace in the office. Since then, the world of work has changed enormously. But has Bernd Stromberg changed too?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 December 2025</li><li>Runtime: 100 minutes</li><li>Director: Arne Feldhusen</li><li>Genres: Comedy</li><li>TMDB rating: 5.2/10 (70 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christoph Maria Herbst as Bernd Stromberg</li><li>Bjarne Mädel as Berthold Heisterkamp</li><li>Oliver Wnuk as Ulf Steinke</li><li>Diana Staehly as Tanja Steinke</li><li>Milena Dreißig as Jennifer Schirrmann</li><li>László Branko Breiding as Julian Gilsmeyer</li><li>Sophia Burtscher as Luna</li><li>Anna Mateur as Sascha</li><li>Carlo Stolle as Marvin Steinke</li><li>Laurens Walter as Lars Lehnhoff</li></ul>\n</article>",
+   "t": "Stromberg - Wieder alles wie immer (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:1428226": {
+   "d": "Until the End of the World (2026): Drama film. Story: Manuel's life is upended when Esmeralda, his lost… See cast and TMDB rating 8.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hmoNULa9OEIM5pCzXr1XnuTVgUT.jpg",
+   "industry": "world",
+   "k": "Until the End of the World, Until the End of the World movie, Until the End of the World cast, Until the End of the World story, Until the End of the World box office collection, Until the End of the World budget, Until the End of the World review, Until the End of the World rating, Until the End of the World release date, Until the End of the World trailer, Until the End of the World Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mauricio Ochmann"
+     },
+     {
+      "@type": "Person",
+      "name": "Aislinn Derbez"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Pérez Prada"
+     },
+     {
+      "@type": "Person",
+      "name": "Melina Figueroa"
+     },
+     {
+      "@type": "Person",
+      "name": "Miguel Ángel Jiménez"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 120,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "Until the End of the World (2026): Drama film. Story: Manuel's life is upended when Esmeralda, his lost… See cast and TMDB rating 8.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Emiliano Castro Vizcarra"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hmoNULa9OEIM5pCzXr1XnuTVgUT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1428226",
+    "name": "Until the End of the World",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1428226"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Until the End of the World (2026)</h1>\n<p class=\"ssr-lead\">Manuel&#x27;s life is upended when Esmeralda, his lost love from 15 years ago, calls unexpectedly. Despite being set to marry another, he rediscovers Esmeralda, and they realize their love transcends time.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 July 2026</li><li>Runtime: 98 minutes</li><li>Director: Emiliano Castro Vizcarra</li><li>Genres: Drama</li><li>TMDB rating: 8.2/10 (120 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mauricio Ochmann as Manuel</li><li>Aislinn Derbez as Esmeralda</li><li>Daniel Pérez Prada as David Urquiza</li><li>Melina Figueroa as Cynthia</li><li>Miguel Ángel Jiménez as Guardia Civil</li><li>Eduardo Santacruz as Salvador Ramírez</li><li>Pedro Hernández as Doctor hospital privado</li><li>Manolo Caro as Alfredo Pacheco</li><li>Cuca Escribano as Mamá de Cinthya</li><li>Luz Cipriota as Alejandra Figueroa</li></ul>\n</article>",
+   "t": "Until the End of the World (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1514026": {
+   "d": "Buddy (2026): Horror/Comedy film. Story: Inside the colorful world of \"It's Buddy!\", a group… See cast, budget $3M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg",
+   "industry": "world",
+   "k": "Buddy, Buddy movie, Buddy cast, Buddy story, Buddy box office collection, Buddy budget, Buddy review, Buddy rating, Buddy release date, Buddy Horror, Buddy Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Keegan-Michael Key"
+     },
+     {
+      "@type": "Person",
+      "name": "Delaney Quinn"
+     },
+     {
+      "@type": "Person",
+      "name": "Tristan Borders"
+     },
+     {
+      "@type": "Person",
+      "name": "Madison Skyy Polan"
+     },
+     {
+      "@type": "Person",
+      "name": "Caleb Williams"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 276,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Buddy (2026): Horror/Comedy film. Story: Inside the colorful world of \"It's Buddy!\", a group… See cast, budget $3M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Casper Kelly"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Horror",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1514026",
+    "name": "Buddy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-08-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1514026"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Buddy (2026)</h1>\n<p class=\"ssr-lead\">Inside the colorful world of &quot;It&#x27;s Buddy!&quot;, a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 August 2026</li><li>Runtime: 96 minutes</li><li>Director: Casper Kelly</li><li>Genres: Horror, Comedy, Fantasy</li><li>Budget: $3M</li><li>TMDB rating: 6.8/10 (276 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Keegan-Michael Key as Buddy / Dark Buddy (voice)</li><li>Delaney Quinn as Freddy</li><li>Tristan Borders as Oliver</li><li>Madison Skyy Polan as Hannah</li><li>Caleb Williams as Wade</li><li>Cristin Milioti as Grace</li><li>Topher Grace as Ben</li><li>Patton Oswalt as Strappy (voice)</li><li>Michael Shannon as Willie (voice)</li><li>Clint Howard as George</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Buddy (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1561726": {
+   "d": "Masterplan (2026): Action/Thriller film. Story: When a legendary thief sets his sights on the Mona… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg",
+   "industry": "world",
+   "k": "Masterplan, Masterplan movie, Masterplan cast, Masterplan story, Masterplan box office collection, Masterplan budget, Masterplan review, Masterplan rating, Masterplan release date, Masterplan trailer, Masterplan Action, Masterplan Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Stanley Tucci"
+     },
+     {
+      "@type": "Person",
+      "name": "Simona Tabasco"
+     },
+     {
+      "@type": "Person",
+      "name": "Victor Belmondo"
+     },
+     {
+      "@type": "Person",
+      "name": "Eliott Margueron"
+     },
+     {
+      "@type": "Person",
+      "name": "Barbara Lo Gaglio"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 244,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Masterplan (2026): Action/Thriller film. Story: When a legendary thief sets his sights on the Mona… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Thomas Vincent"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1561726",
+    "name": "Masterplan",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1561726"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Masterplan (2026)</h1>\n<p class=\"ssr-lead\">When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 October 2026</li><li>Runtime: 110 minutes</li><li>Director: Thomas Vincent</li><li>Genres: Action, Thriller</li><li>TMDB rating: 6.8/10 (244 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Stanley Tucci as Roger</li><li>Simona Tabasco as Chiara</li><li>Victor Belmondo as Jay</li><li>Eliott Margueron</li><li>Barbara Lo Gaglio as Professor</li><li>Etienne Guillou-Kervern as French Spook Officer</li><li>Srbo Markovic as Bruno&#x27;s Bodyguard</li><li>Julia Messina as TV Reporter</li><li>Mark Ivanir as Bruno</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Masterplan (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1684226": {
+   "d": "Bride of the Year (2026): Comedy/Romance film. Story: When Lienkie's dream of budding a family of her own… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/es6wAAA72qIKGecMggiRZNQK0fa.jpg",
+   "industry": "world",
+   "k": "Bride of the Year, Bride of the Year movie, Bride of the Year cast, Bride of the Year story, Bride of the Year box office collection, Bride of the Year budget, Bride of the Year review, Bride of the Year rating, Bride of the Year release date, Bride of the Year trailer, Bride of the Year Comedy, Bride of the Year Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Carine Rous"
+     },
+     {
+      "@type": "Person",
+      "name": "Bouwer Bosch"
+     },
+     {
+      "@type": "Person",
+      "name": "Armand Aucamp"
+     },
+     {
+      "@type": "Person",
+      "name": "Laura-lee Mostert"
+     },
+     {
+      "@type": "Person",
+      "name": "Lisa Tredoux"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 38,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Bride of the Year (2026): Comedy/Romance film. Story: When Lienkie's dream of budding a family of her own… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joshua Rous"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/es6wAAA72qIKGecMggiRZNQK0fa.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1684226",
+    "name": "Bride of the Year",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1684226"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bride of the Year (2026)</h1>\n<p class=\"ssr-lead\">When Lienkie&#x27;s dream of budding a family of her own come crashing down, she hatches a devious plan to win &quot;Bride of the Year&quot; and get back at her ex.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 May 2026</li><li>Runtime: 98 minutes</li><li>Director: Joshua Rous</li><li>Genres: Comedy, Romance, Family</li><li>TMDB rating: 6.8/10 (38 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Carine Rous as Lienkie</li><li>Bouwer Bosch as Frank</li><li>Armand Aucamp as Zander</li><li>Laura-lee Mostert as Estelle</li><li>Lisa Tredoux as Johannika</li><li>Hanli Rolfes as Norma</li><li>Terence Bridgett as Martin</li><li>Tobie Cronje as Albie</li><li>Woutrine Theron as Tienie</li><li>Mila-Sofi Clasen as Young Lienkie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Bride of the Year (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:20726": {
    "d": "Little Giants (1994): Comedy/Family film. Story: When Danny O'Shea's daughter is cut from the Peewee… See cast, budget $20M, and TMDB rating 6.6/10.",
