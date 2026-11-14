@@ -146475,5 +146475,371 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 14 Nov 2026 13:30:12 GMT"
+  },
+  "gdiveb": {
+    "id": "gdiveb",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Surpasses Rs 1,000 Crore Globally in Eight Days",
+    "dek": "Nitesh Tiwari's mythological epic starring Ranbir Kapoor and Yash has achieved a massive milestone worldwide within little over a week.",
+    "body": [
+      {
+        "h": "Global Milestone Achieved",
+        "p": [
+          "The mythological epic Ramayana: Part 1 has officially powered past the monumental Rs 1,000 crore threshold at the worldwide box office. This major financial benchmark was reached in just eight days following its theatrical debut, according to announcements made by the production team.",
+          "Makers of the big-budget feature celebrated the achievement by sharing an official poster across social media platforms, expressing gratitude to audiences worldwide for embracing the project with immense enthusiasm and support."
+        ]
+      },
+      {
+        "h": "Director and Cast Ensemble",
+        "p": [
+          "Helmed by filmmaker Nitesh Tiwari, the venture serves as the inaugural chapter of a planned two-part cinematic adaptation centered on the traditional Indian epic. The ambitious project assembles a prominent ensemble cast featuring leading names from across the film industry.",
+          "Superstar Ranbir Kapoor steps into the role of Lord Rama, while Sai Pallavi portrays Sita. The movie also features Yash as Ravana, Ravie Dubey as Lakshman, and Sunny Deol as the divine deity Hanuman, anchoring the narrative core."
+        ]
+      },
+      {
+        "h": "Supporting Cast and Special Roles",
+        "p": [
+          "Beyond the primary protagonists, the movie incorporates a vast array of established performers in critical supporting and character parts. Veteran actor Anupam Kher lends his voice to Jatayu, the divine bird who attempts to rescue Sita during her abduction.",
+          "Additional key performances in the expansive feature include contributions from Arun Govil, Lara Dutta, and Rakul Preet Singh, rounding out the large-scale adaptation's theatrical roster."
+        ]
+      },
+      {
+        "h": "Festive Surge and Early Openings",
+        "p": [
+          "Trade analyst Taran Adarsh highlighted that the enterprise experienced a robust financial surge propelled by holiday festivities. The Monday collections alone comprised nearly 35.15 percent of the feature's initial five-day total earnings.",
+          "The project launched into cinemas with a Thursday opening figure of Rs 47 crore, continuing its trajectory with Rs 38.25 crore on Friday and scaling up to Rs 53 crore on Saturday."
+        ]
+      },
+      {
+        "h": "Makers' Public Statement",
+        "p": [
+          "Reflecting on the international reception, the creators released an official message on their Instagram handle to mark the Rs 1,000 crore milestone. Their post highlighted the global reach of the storytelling journey.",
+          "The studio's shared statement read, From Bharat to the world, the journey continues. Thank you for all the love. Yeh Ram ke yug ka aarambh hai, acknowledging the overwhelming audience turnout."
+        ]
+      },
+      {
+        "h": "Legacy and Cinematic Scale",
+        "p": [
+          "As the first instalment of a dual-part undertaking, Ramayana: Part 1 sets a high financial standard for future mythological adaptations in Indian cinema. The combination of high-profile casting and festive release timing proved vital to its early box office velocity.",
+          "The sheer scale of the production, paired with its rapid ascension into the four-figure crore club globally, cements its status as one of the prominent commercial successes of the current theatrical calendar."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 crossed the Rs 1,000 crore worldwide milestone in eight days following its theatrical release. Directed by Nitesh Tiwari, the film stars Ranbir Kapoor, Yash, Sai Pallavi, and Ravie Dubey, and benefited from strong festive box office numbers."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 crossed Rs 1,000 crore worldwide within eight days of release",
+      "The film is directed by Nitesh Tiwari",
+      "Ranbir Kapoor stars as Lord Rama",
+      "Sai Pallavi stars as Sita",
+      "Yash stars as Ravana",
+      "Ravie Dubey stars as Lakshman",
+      "Sunny Deol stars as Hanuman",
+      "Anupam Kher voices Jatayu",
+      "The film opened with Rs 47 crore on Thursday",
+      "Collections reached Rs 38.25 crore on Friday and Rs 53 crore on Saturday"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Nitesh Tiwari",
+        "Sunny Deol",
+        "Anupam Kher",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Taran Adarsh"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Ramayana Part I"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part I box office",
+      "Ranbir Kapoor Ramayana collection",
+      "Nitesh Tiwari Ramayana movie",
+      "Ramayana 1000 crore worldwide"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/11/5416-ramayana-ranbir-yash.jpg",
+        "caption": "Ramayana: Part 1 Surpasses Rs 1,000 Crore Globally in Eight Days",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T14:52:32Z"
+  },
+  "1iyiwta": {
+    "id": "1iyiwta",
+    "type": "news",
+    "headline": "India's 195-Minute Epic Reaches $100 Million Milestone at Global Box Office",
+    "dek": "A massive two-part Indian mythological epic crosses the significant $100 million threshold worldwide during its opening week, sharing the domestic top-five chart with Godzilla Minus Zero.",
+    "body": [
+      {
+        "h": "Global Box Office Showdown",
+        "p": [
+          "Two prominent global tentpole films aimed primarily at overseas territories recently debuted side by side, both successfully securing positions on the domestic top-five chart. While Godzilla Minus Zero outperformed projections to claim the leading position on the box office rankings, a major Indian epic also carved out a notable spot at number five.",
+          "Both projects generated substantial international buzz during their opening frames, drawing large crowds and establishing themselves as major commercial players in the global marketplace."
+        ]
+      },
+      {
+        "h": "Scale and Budget of the Indian Epic",
+        "p": [
+          "The Indian release in question draws its narrative inspiration from a sacred Hindu mythological text known globally. It was heavily promoted as the most expensive Indian cinematic venture in history, carrying a reported production budget of $400 million intended to cover a planned two-part structure.",
+          "At the time of this milestone, only the first installment has been released to audiences, yet its financial footprint already rivals the most expensive blockbusters produced by Hollywood studios."
+        ]
+      },
+      {
+        "h": "Hitting the $100 Million Mark",
+        "p": [
+          "Demonstrating its strong commercial pull, the lengthy Indian epic successfully reached the coveted $100 million worldwide threshold during its initial seven days in theaters. This performance matched certain high expectations set for its overseas market appeal.",
+          "By achieving this milestone, the film managed to pace alongside other international heavyweights currently dominating ticket sales charts across multiple territories."
+        ]
+      },
+      {
+        "h": "The Success of Godzilla Minus Zero",
+        "p": [
+          "In comparison, Godzilla Minus Zero achieved its own impressive financial milestones on a significantly smaller production budget reported at $15 million. The monster feature crossed the $100 million worldwide mark in less than forty-eight hours following its premiere.",
+          "The movie acts as a direct continuation of Godzilla Minus One, a critically praised predecessor that secured the Academy Award for Best Visual Effects three years prior while grossing over $110 million globally on a modest $10 million budget."
+        ]
+      },
+      {
+        "h": "Critical Reception and Legacy",
+        "p": [
+          "Takashi Yamazaki directed both the original acclaimed feature and its successful follow-up. The newer sequel currently holds a Certified Fresh critics' score on Rotten Tomatoes alongside a high audience approval rating.",
+          "Critics and audiences alike have praised the production for maintaining strong human-interest elements within its massive action sequences, further cementing the director's vision for the iconic monster."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "An expensive Indian epic based on Hindu mythology crossed the $100 million worldwide box office mark during its first week alongside Godzilla Minus Zero. Both international titles performed strongly on the domestic top-five chart, with the Godzilla sequel having previously achieved similar financial milestones on a much smaller budget under director Takashi Yamazaki."
+        ]
+      }
+    ],
+    "facts": [
+      "The runtime of the Indian epic is 195 minutes.",
+      "The budget for both installments of the Indian epic is reported at $400 million.",
+      "Godzilla Minus Zero has a reported production budget of $15 million.",
+      "Godzilla Minus One had a reported budget of $10 million and grossed more than $110 million worldwide.",
+      "Takashi Yamazaki directed Godzilla Minus One and Godzilla Minus Zero."
+    ],
+    "entities": {
+      "people": [
+        "Rohan Naahar",
+        "Francois Ozon",
+        "David Fincher",
+        "Takashi Yamazaki"
+      ],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Godzilla Minus One",
+        "The Lord of the Rings"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero box office",
+      "Godzilla Minus One",
+      "Takashi Yamazaki film",
+      "Indian epic 100 million"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/world-of-ramayana-2.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "India's 195-Minute Epic Reaches $100 Million Milestone at Global Box Office",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 14:30:12 GMT"
+  },
+  "1owot1y": {
+    "id": "1owot1y",
+    "type": "news",
+    "headline": "Diljit Dosanjh Wins Hearts By Touching Daddy Yankee's Mother's Feet At The Latin Grammys",
+    "dek": "A backstage moment featuring Diljit Dosanjh and Daddy Yankee's mother at the 2026 Latin Grammy Awards has captured widespread attention online.",
+    "body": [
+      {
+        "h": "Backstage Meeting Goes Viral",
+        "p": [
+          "A heartwarming interaction between Punjabi music star Diljit Dosanjh and Rosa Rodriguez, mother of reggaeton artist Daddy Yankee, has taken social media by storm. The meeting occurred backstage at the MGM Grand Garden Arena in Las Vegas during the 2026 Latin Grammy Awards. As Daddy Yankee introduced the two, Diljit immediately bent down to touch Rosa Rodriguez's feet in a traditional display of respect.",
+          "Rosa appeared pleasantly surprised by the gesture, reacting with a soft smile and placing her hand on her chest. Meanwhile, Daddy Yankee looked on happily, cheering as they greeted one another. The clip has since circulated widely across various digital platforms, capturing the imagination of international and domestic fans alike."
+        ]
+      },
+      {
+        "h": "Global Stage Meets Traditional Values",
+        "p": [
+          "Observers and fans on social media were quick to praise the singer for staying true to his cultural roots despite achieving massive global fame. One user on X highlighted the moment as an exhibition of pure Punjabi values on an international platform, noting that traditional respect remains untouched regardless of stardom.",
+          "Commentators lauded the humility displayed during the encounter, pointing out how the artist seamlessly integrated his upbringing into a high-profile Western event. The video quickly transformed into a major talking point across the internet, cementing its place as one of the most talked-about moments of the night."
+        ]
+      },
+      {
+        "h": "Historic Performance With Daddy Yankee",
+        "p": [
+          "The interaction followed a landmark evening for the Indian musician at the 27th Latin Grammy Awards held on November 12. Diljit made history at the ceremony by becoming the first Indian artist to ever perform live on the prestigious stage. He joined Daddy Yankee to deliver a live rendition of Pokito, their collaborative bilingual track fusing Punjabi and Latin rhythms.",
+          "Following the event, the artist took to social media to express his gratitude to his collaborator and the Latin Recording Academy. He celebrated the merging of two distinct musical cultures on a single platform, sharing his excitement with his followers online."
+        ]
+      },
+      {
+        "h": "Upcoming Global Appearances",
+        "p": [
+          "Beyond his historic Latin Grammys appearance, the performer is preparing for more major international stages. He is officially scheduled to return to Coachella in 2027, with performances lined up for April 9 and April 16. This follows his landmark debut appearance at the festival back in 2023.",
+          "At Coachella 2027, he will share space on the lineup with a star-studded roster of international acts including Dua Lipa, Madonna, JISOO, Zara Larsson, and Steve Lacy, further expanding his global footprint."
+        ]
+      },
+      {
+        "h": "Ongoing Aura India Tour 2026",
+        "p": [
+          "Domestically, the singer is in the midst of a massive concert run across the country. His Aura India Tour 2026 kicked off in Delhi on October 30 to packed arenas and immense fan enthusiasm.",
+          "The tour continues to sweep through multiple cities, with his next performance scheduled to take place in Indore on November 15, keeping him busy between international milestones."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Diljit Dosanjh went viral after a backstage video showed him touching Daddy Yankee's mother Rosa Rodriguez's feet during the 2026 Latin Grammy Awards. The moment followed his historic performance alongside Daddy Yankee on their bilingual track Pokito."
+        ]
+      }
+    ],
+    "facts": [
+      "Diljit Dosanjh met Daddy Yankee's mother, Rosa Rodriguez, backstage at the 2026 Latin Grammy Awards.",
+      "The event took place at the MGM Grand Garden Arena in Las Vegas on November 12, 2026.",
+      "Diljit Dosanjh performed Pokito with Daddy Yankee at the 27th Latin Grammy Awards.",
+      "Diljit Dosanjh is scheduled to perform at Coachella 2027 on April 9 and April 16.",
+      "The Aura India Tour 2026 began in Delhi on October 30, with the next show in Indore on November 15."
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Daddy Yankee",
+        "Rosa Rodriguez",
+        "Dua Lipa",
+        "Madonna",
+        "JISOO",
+        "Zara Larsson",
+        "Steve Lacy",
+        "Gurtej Singh",
+        "Mahi Pillai",
+        "Tiger Shroff",
+        "Rohit Shetty"
+      ],
+      "titles": [
+        "Pokito",
+        "Aura India Tour 2026"
+      ]
+    },
+    "keywords": [
+      "Diljit Dosanjh",
+      "Daddy Yankee",
+      "Pokito performance",
+      "Latin Grammy Awards"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/13171452/Miss-Malini-Wordpress-Images-2026-11-13T171420.216.jpg",
+        "caption": "Diljit Dosanjh Wins Hearts By Touching Daddy Yankee's Mother's Feet At The Latin Grammys",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-14T14:52:32Z"
+  },
+  "2db6vg": {
+    "id": "2db6vg",
+    "type": "news",
+    "headline": "YENA Overcomes Solo Doubts with Emotional Victory at MMA2026",
+    "dek": "The performer broke down in tears after winning Best Female Solo Artist at the major ceremony held in Seoul.",
+    "body": [
+      {
+        "h": "A Landmark Victory for YENA",
+        "p": [
+          "The recent music awards ceremony brought a monumental career milestone for YENA, who cemented her footprint as a formidable solo performer. Competing against an elite tier of nominees, she successfully captured the prestigious Best Female Solo Artist trophy at the event. Her triumph highlights the substantial growth and independent artistic identity she has built since transitioning to solo projects.",
+          "The victory served as a powerful validation of her musical journey, drawing cheers and widespread attention from fans and industry peers alike. Stepping onto the podium, the singer demonstrated both grace and vulnerability while holding the award."
+        ]
+      },
+      {
+        "h": "Triumph Over Fierce Competition",
+        "p": [
+          "Securing the trophy was no small feat, given the formidable roster of fellow artists nominated in the same category. YENA faced off against heavyweights such as BOL4, IU, JENNIE, and TAEYEON, all of whom boast massive global followings and chart-topping hits. Overcoming such fierce rivalry underscores just how far her solo career has progressed.",
+          "The sheer caliber of the nominees made her win one of the most talked-about moments of the evening, marking a turning point in how her solo catalog is received by critics and the public."
+        ]
+      },
+      {
+        "h": "Overcoming Self-Doubt and Isolation",
+        "p": [
+          "During her emotional acceptance speech, YENA opened up about the inner struggles and uncertainties she faced after making her solo debut. She admitted to questioning whether she could survive and thrive on her own without the collective safety net of a group. Major award stages often felt distant and unattainable during her early solo days.",
+          "Reflecting on those moments of vulnerability made her ultimate victory even more poignant, proving that persistence through anxiety can lead to extraordinary outcomes on a grand stage."
+        ]
+      },
+      {
+        "h": "A Surreal Fulfillment of Longtime Dreams",
+        "p": [
+          "Overwhelmed with emotion, the artist became visibly tearful as she described the surreal nature of the achievement. She noted that winning an accolade of this magnitude was something she had always fantasized about but rarely dared to expect so soon. Her remark that something she dreamed of had finally happened resonated deeply with everyone watching.",
+          "This milestone represents the realization of years of focused ambition, transforming abstract hopes into tangible history."
+        ]
+      },
+      {
+        "h": "Behind the Scenes of Hard Work",
+        "p": [
+          "Rather than relying purely on wishful thinking, YENA credited her success to a disciplined work ethic shared with her staff. She explained that she and her team maintained a steadfast mindset of maximizing whatever opportunities came their way. Every promotional cycle and release was approached with maximal effort.",
+          "This relentless drive behind the scenes laid the groundwork for her eventual breakout success, proving that preparation and opportunity go hand in hand."
+        ]
+      },
+      {
+        "h": "Spectacular Stage Productions",
+        "p": [
+          "Beyond her award win, the singer commanded the venue with a dynamic and visually arresting medley of tracks. Her setlist paid homage to her past with IZ*ONE's FIESTA while simultaneously showcasing her current solo identity through upbeat performances of SMILEY and Catch Catch. Complete with distinct costume changes, the performance captivated the audience from start to finish.",
+          "Her ability to hold the stage alone with such high energy proved her prowess as a complete entertainer."
+        ]
+      },
+      {
+        "h": "Vision for the Future",
+        "p": [
+          "Looking ahead, YENA promised to maintain her momentum by continually offering fresh and entertaining content to her supporters. She voiced her desire to cultivate lasting appeal so that fans will always remain curious and eager for her next project. Her commitment to evolution ensures she will remain a staple of the music scene for years to come.",
+          "By focusing on longevity and creative reinvention, she aims to build an enduring legacy as a solo act."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "YENA won Best Female Solo Artist at MMA2026 at the Gocheok Sky Dome in Seoul on November 14, defeating nominees like IU, JENNIE, TAEYEON, and BOL4. She grew emotional during her speech, reflecting on her initial doubts as a solo artist and calling the win a surreal dream come true."
+        ]
+      }
+    ],
+    "facts": [
+      "YENA won Best Female Solo Artist at MMA2026.",
+      "The ceremony took place on November 14, 2026.",
+      "The event was held at Gocheok Sky Dome in Seoul.",
+      "Nominees in her category included BOL4, IU, JENNIE, and TAEYEON.",
+      "She performed FIESTA, SMILEY, and Catch Catch during the event."
+    ],
+    "entities": {
+      "people": [
+        "YENA",
+        "BOL4",
+        "IU",
+        "JENNIE",
+        "TAEYEON"
+      ],
+      "titles": [
+        "FIESTA",
+        "SMILEY",
+        "Catch Catch"
+      ]
+    },
+    "keywords": [
+      "YENA MMA2026 win",
+      "YENA Best Female Solo Artist",
+      "YENA Melon Music Awards",
+      "YENA emotional speech"
+    ],
+    "images": [],
+    "published": "Sat, 14 Nov 2026 09:35:00 EST"
   }
 };
