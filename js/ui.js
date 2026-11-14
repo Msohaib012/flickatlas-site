@@ -593,7 +593,23 @@ const UI = (() => {
     if (cols.shows) headCells.push("<th>Shows</th>");
     if (cols.occupancy) headCells.push("<th>Occupancy</th>");
     if (cols.tickets) headCells.push("<th>Tickets</th>");
+    /* Summary boxes (owner order 2026-11-14): Bollywood shows two
+       boxes — India Net and Overseas totals. World Cinema shows the
+       overall Worldwide total (never India Net as the headline) plus
+       the India Net box when day-wise rows exist. A missing component
+       shows "—", the same honest empty state as the table cells. */
+    const boxVal = (v) => (typeof v === "number" && v > 0 ? fmtMoney(v) : "—");
+    const summaryBoxes = (o && o.industry === "world")
+      ? `<div class="bo-nums">
+        <div><span>Worldwide</span><b data-bo-box="worldwide">${boxVal(typeof o.worldwide === "number" ? o.worldwide : null)}</b></div>
+        <div><span>India Net</span><b>${boxVal(totalAll)}</b></div>
+      </div>`
+      : `<div class="bo-nums">
+        <div><span>India Net</span><b>${boxVal(totalAll)}</b></div>
+        <div><span>Overseas</span><b>${cols.overseas ? boxVal(totalOvAll) : "—"}</b></div>
+      </div>`;
     return `<div class="content-card"><h2>${esc(heading || "Day-Wise Box Office")}</h2>
+      ${summaryBoxes}
       <div class="table-scroll"><table class="data">
         <thead><tr>${headCells.join("")}</tr></thead>
         <tbody>${body}</tbody>${foot}</table></div></div>`;

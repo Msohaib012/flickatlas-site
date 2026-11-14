@@ -257,8 +257,21 @@
     const trailerName = pub.trailer && pub.trailer.name ? pub.trailer.name : "";
 
     const rows = (window.FA_DAYWISE || {})[String(id)] || null;
+    const industry = UI.industryOf(pub);
+    /* Detail boxes (owner order 2026-11-14): Bollywood = India Net +
+       Overseas; World Cinema = Worldwide overall (never India Net as
+       the headline) plus India Net when day-wise rows exist. The
+       synchronous Worldwide value is the curated FA_WORLDWIDE total
+       or TMDB revenue; the verified snapshot total replaces it after
+       render (see below), so the detail figure always matches the
+       homepage Total. */
+    const wwEntry = (window.FA_WORLDWIDE || {})[String(id)] || null;
+    const syncWorldwide = (wwEntry && typeof wwEntry.total_usd === "number" && wwEntry.total_usd > 0)
+      ? wwEntry.total_usd
+      : (typeof pub.revenue === "number" && pub.revenue > 0 ? pub.revenue : null);
     const daywiseCardHtml = rows && rows.length
-      ? UI.daywiseCard(rows, "Day-Wise Box Office (India Net + Overseas)", { titleId: id }) : "";
+      ? UI.daywiseCard(rows, industry === "world" ? "Day-Wise Box Office (Worldwide)" : "Day-Wise Box Office (India Net + Overseas)",
+        { titleId: id, industry, worldwide: syncWorldwide }) : "";
     /* Owner order 2026-10-30: no empty explanation card when a movie has
        no day-wise rows — the section simply does not appear. */
     const daywiseHtml = daywiseCardHtml || "";
@@ -438,7 +451,7 @@
     ${(pub.budget || pub.revenue) ? `<div class="content-card"><h2>Box Office</h2>
       <div class="bo-verdict-card"><div class="bo-nums">
         ${pub.budget ? `<div><span>Budget</span><b>${UI.fmtMoney(pub.budget)}</b></div>` : ""}
-        ${pub.revenue ? `<div><span>Worldwide Gross</span><b>${UI.fmtMoney(pub.revenue)}</b></div>` : ""}
+        ${pub.revenue ? `<div><span>Worldwide Gross</span><b data-bo-box="gross">${UI.fmtMoney(pub.revenue)}</b></div>` : ""}
         ${verdict ? `<div><span>Verdict</span><b>${UI.esc(verdict.label)}</b></div>` : ""}
       </div></div></div>` : ""}
 
@@ -495,6 +508,30 @@
     </section>`}
 
   </div>`;
+
+    /* Worldwide-box upgrade (owner order 2026-11-14): the homepage
+       Total and this page's Worldwide figure must be the same verified
+       number. The snapshot is fetched after render (never blocking the
+       page); when it resolves a cumulative total, both Worldwide
+       figures on this page are replaced with it. Bollywood titles
+       have no Worldwide box — their two boxes come from the day-wise
+       rows and never change. */
+    if (industry === "world" && window.FAHomeBoxOffice) {
+      const HB = window.FAHomeBoxOffice;
+      HB.loadSnapshot().then((snapshot) => {
+        try {
+          const report = (snapshot.reports || {})[String(id)] || {};
+          const explicit = (window.FA_WORLDWIDE || {})[String(id)] || null;
+          const metric = HB.resolveMetric(pub, rows || [], explicit, report, "cumulative_total", UI.todayPKT(), "world");
+          if (!metric) return;
+          const html = UI.fmtMoney(metric.amount);
+          const wwBox = document.querySelector('[data-bo-box="worldwide"]');
+          if (wwBox) wwBox.innerHTML = html;
+          const grossBox = document.querySelector('[data-bo-box="gross"]');
+          if (grossBox) grossBox.innerHTML = html;
+        } catch (_) { /* keep the synchronous figure */ }
+      });
+    }
 
     /* Shared viewer reviews are public in KV. A random per-review owner
        token stays in this browser's localStorage; only its SHA-256 hash is
