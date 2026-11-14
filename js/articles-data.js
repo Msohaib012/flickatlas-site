@@ -143130,5 +143130,377 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "2026-11-14T04:57:29Z"
+  },
+  "1hgbzu": {
+    "id": "1hgbzu",
+    "type": "news",
+    "headline": "Ali Abbas Zafar Makes Musical Debut in Parivarik ManuRanjan",
+    "dek": "Renowned filmmaker Ali Abbas Zafar has stepped into the world of music composition, lyric writing, and singing for the newly released Sony LIV slice-of-life entertainer Parivarik ManuRanjan.",
+    "body": [
+      {
+        "h": "The Musical Leap of a Blockbuster Director",
+        "p": [
+          "Ali Abbas Zafar has established a formidable reputation as a director behind prominent cinematic hits like Sultan and Tiger Zinda Hai. His career as a filmmaker spans more than a decade, starting with his directorial and writing debut in Mere Brother Ki Dulhan. Throughout his journey, he has also ventured into production with titles such as Khaali Peeli.",
+          "Continuing his expansion in the entertainment industry, his latest production titled Parivarik ManuRanjan recently premiered on Sony LIV. The slice-of-life project stars Pankaj Tripathi and Aditi Rao Hydari, bringing a fresh narrative to digital audiences while introducing an unexpected creative dimension from the director himself."
+        ]
+      },
+      {
+        "h": "Stepping into Composition and Vocals",
+        "p": [
+          "In a surprising career shift, Ali Abbas Zafar has taken on multiple musical responsibilities for Parivarik ManuRanjan. He officially debuts as a music composer, co-writing the lyrics for a track titled 'Jingle Bell'. Furthermore, he takes complete creative control over another song named 'Sir Sir Sir', functioning as the sole composer, lyricist, and even lending his voice alongside singer Vishal Mishra.",
+          "Reflecting on his entry into film music, the director noted that his lifelong appreciation for melodies combined with tight production budgets prompted him to suggest his own tunes. Having hummed and played guitar ideas during development, he pitched them to the crew, ultimately leading to three of his compositions making the final cut of the movie."
+        ]
+      },
+      {
+        "h": "Origins of the Track 'Sir Sir Sir'",
+        "p": [
+          "The track 'Sir Sir Sir' serves as an energetic focal point during birthday celebrations for the protagonist's boss in the narrative. The song's unusual and catchy title stems from a personal inside joke shared years ago between the filmmaker, Ranveer Singh, and Arjun Kapoor during promotional rounds for their past collaboration Gunday.",
+          "During those promotional events, Ranveer Singh humorously pointed out the director's habit of repeating the word 'sir' frequently. The filmmaker elaborated that this repetition mirrors common bureaucratic jargon found across government offices and local workplaces in central India, where employees habitually triple the word when acknowledging superiors."
+        ]
+      },
+      {
+        "h": "Director Varun V Sharma's Perspective",
+        "p": [
+          "Varun V Sharma, who directs Parivarik ManuRanjan and previously worked closely with Ali Abbas Zafar as an assistant and co-writer on Bharat, shared insights regarding the musical collaboration. During editing, temporary tracks are routinely inserted to establish scene pacing, and the director's intuitive musical background naturally filled those rhythmic gaps.",
+          "After incorporating the initial hook line 'Dil Mein Baj Gayi Jingle Bell' alongside background score composer Joel Crasto into a scratch version, the creative team realized it fit the sequence flawlessly. This seamless integration prompted Varun V Sharma to congratulate his mentor on officially launching his musical career."
+        ]
+      },
+      {
+        "h": "Full Circle Moments and Nostalgia",
+        "p": [
+          "The creative journey brings interesting parallels to earlier projects in the filmmakers' filmographies. Gunday featured a popular track titled 'Dil Mein Baji Ghantiyaan', prompting Varun V Sharma to playfully remark that moving from ringing bells to referencing festive jingles represents a complete circle in creative expression.",
+          "Parivarik ManuRanjan also benefits from strong performances by its lead cast, with Pankaj Tripathi expressing high praise for Aditi Rao Hydari's work during screenings. The project continues to draw attention for its unique blend of lighthearted storytelling and the multifaceted contributions of its creative team."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Ali Abbas Zafar has expanded his artistic repertoire by debuting as a composer, lyricist, and singer for the Sony LIV release Parivarik ManuRanjan. The project features his original musical tracks, including a song inspired by an old inside joke with Ranveer Singh and Arjun Kapoor. Directed by Varun V Sharma, the slice-of-life entertainer stars Pankaj Tripathi and Aditi Rao Hydari."
+        ]
+      }
+    ],
+    "facts": [
+      "Ali Abbas Zafar directed Mere Brother Ki Dulhan in 2011.",
+      "Parivarik ManuRanjan released on Sony LIV on November 13.",
+      "Pankaj Tripathi and Aditi Rao Hydari star in Parivarik ManuRanjan.",
+      "Ali Abbas Zafar composed three songs for the film."
+    ],
+    "entities": {
+      "people": [
+        "Ali Abbas Zafar",
+        "Ranveer Singh",
+        "Arjun Kapoor",
+        "Pankaj Tripathi",
+        "Aditi Rao Hydari",
+        "Varun V Sharma",
+        "Vishal Mishra",
+        "Joel Crasto",
+        "Rajkumar Hirani"
+      ],
+      "titles": [
+        "Parivarik ManuRanjan",
+        "Mere Brother Ki Dulhan",
+        "Gunday",
+        "Sultan",
+        "Tiger Zinda Hai",
+        "Bharat",
+        "Khaali Peeli",
+        "Agneepath"
+      ]
+    },
+    "keywords": [
+      "Parivarik ManuRanjan",
+      "Ali Abbas Zafar",
+      "Sir Sir Sir song",
+      "Pankaj Tripathi",
+      "Varun V Sharma"
+    ],
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/Ali-Abbas-Zafar-debuts-2.jpeg",
+        "caption": "Ali Abbas Zafar Makes Musical Debut in Parivarik ManuRanjan",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 09:34:30 +0200"
+  },
+  "1e1qom4": {
+    "id": "1e1qom4",
+    "type": "news",
+    "headline": "Game Of Thrones: The Lion's Reign Officially Announced For Mobile Puzzle RPG",
+    "dek": "The hit mobile puzzle role-playing game Game of Thrones: Legends introduces a major November event centered around Tywin Lannister.",
+    "body": [
+      {
+        "h": "The Expanding Franchise Universe",
+        "p": [
+          "Even though the television phenomenon concluded years ago, the fictional realm created by George R. R. Martin continues to exert immense influence across various media platforms. Alongside successful television spin-offs like House of the Dragon and A Knight of the Seven Kingdoms, the franchise has expanded significantly into the interactive gaming sphere.",
+          "While fans eagerly await upcoming interactive titles such as the real-time strategy release Game of Thrones: War for Westeros scheduled for 2027, mobile adaptations have already managed to capture the attention of a massive digital audience worldwide."
+        ]
+      },
+      {
+        "h": "Success Of Game Of Thrones: Legends",
+        "p": [
+          "Developed by Zynga, the puzzle role-playing mobile title Game of Thrones: Legends has successfully surpassed one million downloads since its initial launch in July 2024. Available for both iOS and Android devices, the game challenges participants to match colored gems in order to overcome adversaries.",
+          "The application features iconic figures drawn from multiple television properties, including Game of Thrones, House of the Dragon, and A Knight of the Seven Kingdoms. Players can interact with notable personalities such as Jon Snow, Rhaenyra Targaryen, and Ser Duncan Dunk the Tall while experiencing regular content updates and a dedicated story mode."
+        ]
+      },
+      {
+        "h": "The Lion's Reign Event Details",
+        "p": [
+          "The mobile title has officially announced its upcoming November event titled Kingsroad: The Lion's Reign. The special content period runs from November 9 at 3:00 a.m. ET through December 7 at 2:00 a.m. ET.",
+          "Set along the familiar routes of the Kingsroad and Goldroad, participants are encouraged to finish daily and weekly quests to advance through the available tier system and earn valuable in-game rewards."
+        ]
+      },
+      {
+        "h": "Unlocking Tywin Lannister And Rewards",
+        "p": [
+          "Progression through the event tiers grants users crucial items such as Champion Shards and Summoning Tokens. These specific shards serve as the key to unlocking new characters for a player's active roster.",
+          "Additionally, the monthly Goldroad Pass season pass offers opportunities to acquire shards that can be used to unlock Tywin Lannister, representing both his earlier years as a formidable soldier and his later reputation as a malicious tactician."
+        ]
+      },
+      {
+        "h": "More November Content And Summons",
+        "p": [
+          "The Lion's Reign is only one component of a broader schedule of updates planned throughout the month of November for the mobile game. Other recurring or upcoming events include Robb's War, Battle of the Bastards, House of the Dragon, and the Battle of Blackwater Bay.",
+          "In addition to these events, participants can access fresh summons like The Old Raven and Crow of the Free Folk, alongside newly introduced champions including Cersei Lannister and Sansa Stark."
+        ]
+      },
+      {
+        "h": "Accessibility For Franchise Fans",
+        "p": [
+          "With a steady stream of consistent updates planned throughout the entire year, the title positions itself as a prominent destination for enthusiasts of the fantasy television universe. Because the application is free to download on mobile devices, it provides an accessible entry point for anyone wishing to engage further with the fictional continents of Westeros and Essos."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The mobile puzzle role-playing game Game of Thrones: Legends has announced its upcoming November event titled Kingsroad: The Lion's Reign, running from November 9 to December 7. The update allows players to complete quests and earn Champion Shards to unlock Tywin Lannister alongside various other new characters and themed events."
+        ]
+      }
+    ],
+    "facts": [
+      "Game of Thrones: Legends was first launched in July 2024 by Zynga for iOS and Android.",
+      "The game has surpassed one million downloads.",
+      "The Kingsroad: The Lion's Reign event runs from November 9 at 3:00 a.m. ET to December 7 at 2:00 a.m. ET in 2026.",
+      "Game of Thrones: War for Westeros is set to launch in 2027."
+    ],
+    "entities": {
+      "people": [
+        "George R. R. Martin",
+        "Tywin Lannister",
+        "Jon Snow",
+        "Rhaenyra Targaryen",
+        "Ser Duncan Dunk the Tall",
+        "Cersei Lannister",
+        "Sansa Stark"
+      ],
+      "titles": [
+        "Game of Thrones",
+        "House of the Dragon",
+        "A Knight of the Seven Kingdoms",
+        "Game of Thrones: War for Westeros",
+        "Game of Thrones: Legends"
+      ]
+    },
+    "keywords": [
+      "Game of Thrones Legends",
+      "The Lions Reign event",
+      "Tywin Lannister mobile game",
+      "Zynga Game of Thrones mobile"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/cersei-sitting-on-the-iron-throne-with-jaime-lannister-next-to-her-in-game-of-thrones.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Game Of Thrones: The Lion's Reign Officially Announced For Mobile Puzzle RPG",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 05:00:18 GMT"
+  },
+  "1kvjjjo": {
+    "id": "1kvjjjo",
+    "type": "news",
+    "headline": "Harshvardhan Rane Reportedly Purchases Luxury Home at Lotus Amalfi in Mumbai",
+    "dek": "Actor Harshvardhan Rane has reportedly invested in a high-end property worth ₹15-16 crore located at Lotus Amalfi in Mumbai, adding another significant asset to his growing real estate portfolio.",
+    "body": [
+      {
+        "h": "The Reported Property Acquisition",
+        "p": [
+          "Actor Harshvardhan Rane has reportedly secured a high-end residential apartment at Lotus Amalfi, a prominent housing project developed by Lotus Developers in Mumbai. Sources indicate that the luxury home carries a substantial price tag ranging between ₹15 and 16 crore, marking a major investment in the city's upscale property market.",
+          "This notable purchase has quickly drawn considerable attention across entertainment and real estate circles, highlighting the actor's expanding footprint in Mumbai's housing landscape."
+        ]
+      },
+      {
+        "h": "Location and Appeal of Lotus Amalfi",
+        "p": [
+          "Situated in the desirable neighborhood of Versova, Lotus Amalfi stands out as a premium residential destination known for its close proximity to the coastline. Coastal addresses in Mumbai traditionally command high valuations due to their exclusivity, scenic appeal, and the luxurious lifestyle they afford residents.",
+          "In a metropolis where available prime land remains exceptionally scarce, properties boasting a coastal advantage consistently capture the interest of luxury homebuyers and investors alike."
+        ]
+      },
+      {
+        "h": "Expanding Real Estate Portfolio",
+        "p": [
+          "The reported transaction at Lotus Amalfi does not represent the actor's initial foray into Mumbai's property market. Previously, he acquired a pair of apartments located in Madh Island, which were collectively estimated to be valued between ₹10 and 12 crore.",
+          "When combining these earlier acquisitions with his latest reported purchase, his total estimated investments in Mumbai realisation span a substantial range of ₹25 to 28 crore."
+        ]
+      },
+      {
+        "h": "Unreleased Specifics and Silence on the Deal",
+        "p": [
+          "Despite the significant financial figures reported regarding the Lotus Amalfi residence, specific details concerning the apartment's exact square footage, interior architecture, and exclusive amenities have not been disclosed to the public.",
+          "Furthermore, the actor has chosen to remain quiet about the transaction, having issued no official statement confirming or elaborating on the reported real estate purchase."
+        ]
+      },
+      {
+        "h": "Professional Engagements and Career Slate",
+        "p": [
+          "Away from his property investments, Harshvardhan Rane maintains a busy schedule in the film industry. He was previously seen on screen in Ek Deewane Ki Deewaniyat, starring alongside Sonam Bajwa.",
+          "Looking ahead, his upcoming professional commitments include notable acting projects such as Force 3 and Police Company, keeping him actively engaged in upcoming cinematic ventures."
+        ]
+      },
+      {
+        "h": "Celebrity Real Estate Trend",
+        "p": [
+          "The latest financial move places Harshvardhan alongside numerous other film personalities whose real estate choices regularly capture public fascination and media coverage. High-value property transactions by public figures frequently offer a window into the trends dominating Mumbai's dynamic housing sector."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Harshvardhan Rane has reportedly bought a luxury residence at Lotus Amalfi in Versova, Mumbai, for ₹15-16 crore. This purchase builds on his previous investments in Madh Island, bringing his estimated total real estate expenditure in the city to ₹25-28 crore while he continues to manage upcoming film projects like Force 3 and Police Company."
+        ]
+      }
+    ],
+    "facts": [
+      "Harshvardhan Rane reportedly bought a luxury home worth ₹15-16 crore at Lotus Amalfi in Mumbai.",
+      "Lotus Amalfi is developed by Lotus Developers and located in Versova.",
+      "The actor previously acquired two apartments in Madh Island valued at around ₹10-12 crore.",
+      "His total property investments are estimated between ₹25-28 crore.",
+      "He was last seen in Ek Deewane Ki Deewaniyat with Sonam Bajwa.",
+      "His upcoming projects include Force 3 and Police Company."
+    ],
+    "entities": {
+      "people": [
+        "Harshvardhan Rane",
+        "Sonam Bajwa"
+      ],
+      "titles": [
+        "Ek Deewane Ki Deewaniyat",
+        "Force 3",
+        "Police Company"
+      ]
+    },
+    "keywords": [
+      "Harshvardhan Rane",
+      "Lotus Amalfi Mumbai",
+      "Ek Deewane Ki Deewaniyat",
+      "Force 3",
+      "Police Company"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/13110621/image-18.png",
+        "caption": "Harshvardhan Rane Reportedly Purchases Luxury Home at Lotus Amalfi in Mumbai",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-14T05:14:37Z"
+  },
+  "1o7wtfp": {
+    "id": "1o7wtfp",
+    "type": "news",
+    "headline": "How Netflix's Horror Miniseries Boldly Reimagines A 187-Year-Old Literary Masterpiece",
+    "dek": "Discover how the acclaimed Netflix horror miniseries takes classic literary themes and transforms them into a contemporary commentary on corporate greed and family ruin.",
+    "body": [
+      {
+        "h": "Adapting Horror Classics for the Screen",
+        "p": [
+          "Horror television and cinema have long relied on literary adaptations to frighten and captivate audiences. While numerous creators have attempted to translate the unsettling visions of legendary authors into visual media, achieving greatness on screen is far from guaranteed.",
+          "Among the pantheon of literary masters, certain authors stand out for the sheer volume of screen adaptations their works inspire. From Stephen King to H.P. Lovecraft, Shirley Jackson, and Edgar Allan Poe, these chilling foundational texts continue to shape modern scary stories."
+        ]
+      },
+      {
+        "h": "A Fresh Take on Edgar Allan Poe",
+        "p": [
+          "While historical adaptations of Edgar Allan Poe's work generally stick to straightforward translations, one prominent streaming project chose a radically different path. The Fall of the House of Usher takes the 187-year-old masterpiece and thoroughly modernizes its narrative core.",
+          "Rather than functioning as a direct book-to-screen transfer, the streaming miniseries grounds its spooky premise in relatable contemporary anxieties. It serves as an affectionate tribute while weaving in countless Easter eggs and nods to the author's broader bibliography and life."
+        ]
+      },
+      {
+        "h": "Expanding Beyond the Original Estate",
+        "p": [
+          "In the original text, the narrative unfolds inside an isolated 19th-century estate, zeroing in on twin siblings Roderick and Madeline. The psychological decay remains strictly confined to their immediate bloodline and hereditary rot.",
+          "The streaming adaptation broadens this scope significantly. It transforms the family tragedy into a biting critique of contemporary capitalism, examining the devastating personal toll of unchecked corporate ambition and extreme wealth accumulation."
+        ]
+      },
+      {
+        "h": "Capitalism, Greed, and Modern Parallels",
+        "p": [
+          "Within the series, the patriarch's relentless drive to expand a pharmaceutical empire at any cost offers a clear parallel to real-world tragedies like the opioid crisis. His pursuit of legacy is unmasked as hollow narcissism.",
+          "Instead of focusing entirely on a single character's slipping sanity, the narrative tracks the demises of the entire lineage. Each tragic end draws thematic and direct inspiration from various Poe poems and short stories."
+        ]
+      },
+      {
+        "h": "Weaving Iconic Literary References",
+        "p": [
+          "True to the showrunner's signature style, the production packs every single episode with subtle and overt references. Viewers can spot thematic nods to famous gothic works including The Masque of the Red Death and The Black Cat.",
+          "In addition to honoring Poe throughout its eight-episode run, the horror drama also incorporates storytelling touches reminiscent of other masters of suspense, such as the dark narrative beats found in Stephen King's bibliography."
+        ]
+      },
+      {
+        "h": "Potential Future Adaptations",
+        "p": [
+          "The creative mind behind the series has built an impressive track record with horror television, having previously tackled works by Henry James, Shirley Jackson, Christopher Pike, and Stephen King. This stellar run suggests a readiness to explore even more complex literary universes.",
+          "Observers and fans frequently wonder if H.P. Lovecraft's cosmic horror could be next on the agenda. Given that Lovecraft himself drew heavy inspiration from Poe, translating abstract and unsettling literary concepts to the screen feels like a natural next step."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Netflix horror miniseries successfully transforms a classic 19th-century gothic tale into a modern critique of corporate greed and pharmaceutical corruption. By blending elements from multiple literary works, the production delivers a unique viewing experience for horror fans."
+        ]
+      }
+    ],
+    "facts": [
+      "The Fall of the House of Usher is an 8-part horror series on Netflix.",
+      "The original story by Edgar Allan Poe is 187 years old.",
+      "The series was created by Mike Flanagan.",
+      "The show features references to works like The Masque of the Red Death and The Black Cat."
+    ],
+    "entities": {
+      "people": [
+        "Dhruv Sharma",
+        "Mike Flanagan",
+        "Edgar Allan Poe",
+        "Stephen King",
+        "H.P. Lovecraft",
+        "Shirley Jackson",
+        "Henry James",
+        "Christopher Pike"
+      ],
+      "titles": [
+        "The Fall of the House of Usher",
+        "The Masque of the Red Death",
+        "The Black Cat",
+        "The Mist",
+        "The Dark Tower",
+        "Midnight Mass",
+        "The Haunting of Hill House"
+      ]
+    },
+    "keywords": [
+      "The Fall of the House of Usher",
+      "Mike Flanagan Netflix series",
+      "Edgar Allan Poe adaptation",
+      "The Fall of the House of Usher horror"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/willa-fitzgerald-in-the-fall-of-the-house-of-usher.jpeg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "How Netflix's Horror Miniseries Boldly Reimagines A 187-Year-Old Literary Masterpiece",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 04:48:38 GMT"
   }
 };

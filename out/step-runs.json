@@ -3059,29 +3059,6 @@
    {
     "step": "convert_news",
     "category": "Trending News",
-    "run_at": "2026-11-13T14:20:16Z",
-    "run_id": "43437188446",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "MTV Roadies 21 Episode 9 Brings Fresh Audition Drama and New Gang Rivalries",
-      "Avatar: Seven Havens Transforms the Franchise With Genre Shifts in Season 1",
-      "Anupam Kher Explains Why Yash's Ravana Outshines Ranbir Kapoor's Ram in Ramayana",
-      "Chrisean Rock Strikes Adam22 During Wild N Out Live Event Over Parenting Remark"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
-   {
-    "step": "convert_news",
-    "category": "Trending News",
     "run_at": "2026-11-13T14:55:06Z",
     "run_id": "43446595142",
     "status": "success",
@@ -3585,6 +3562,29 @@
      ],
      "updated": [],
      "count": 1,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-14T05:19:51Z",
+    "run_id": "43559636962",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Harshvardhan Rane Reportedly Purchases Luxury Home at Lotus Amalfi in Mumbai",
+      "How Netflix's Horror Miniseries Boldly Reimagines A 187-Year-Old Literary Masterpiece",
+      "Ali Abbas Zafar Makes Musical Debut in Parivarik ManuRanjan",
+      "Game Of Thrones: The Lion's Reign Officially Announced For Mobile Puzzle RPG"
+     ],
+     "updated": [],
+     "count": 4,
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
@@ -8207,5 +8207,5 @@
    }
   ]
  },
- "updated_at": "2026-11-14T05:11:30Z"
+ "updated_at": "2026-11-14T05:19:51Z"
 }
