@@ -156029,5 +156029,75 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-15T14:45:19Z"
+  },
+  "eh6qc3": {
+    "id": "eh6qc3",
+    "type": "news",
+    "headline": "Zehar-e-Mohabbat Episode 26 — Watch Online on HUM TV",
+    "dek": "Zehar-e-Mohabbat episode 26 aired on 2026-11-15 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Zehar-e-Mohabbat Episode 26 aired on 2026-11-15 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=LgKCjFaEBXQ"
+        ]
+      }
+    ],
+    "facts": [
+      "Zehar-e-Mohabbat Episode 26 aired on 2026-11-15.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=LgKCjFaEBXQ",
+      "YouTube views: 26,749."
+    ],
+    "entities": {
+      "titles": [
+        "Zehar-e-Mohabbat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/LgKCjFaEBXQ/hqdefault.jpg",
+        "caption": "Zehar-e-Mohabbat Episode 26",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-15T17:00:10Z"
+  },
+  "9x05qr": {
+    "id": "9x05qr",
+    "type": "news",
+    "headline": "Bano Episode 32 — Watch Online on Geo TV",
+    "dek": "Bano episode 32 aired on 2026-11-15 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 32 aired on 2026-11-15 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=0SVhVP5W0u4"
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 32 aired on 2026-11-15.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=0SVhVP5W0u4",
+      "YouTube views: 254,646."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/0SVhVP5W0u4/hqdefault.jpg",
+        "caption": "Bano Episode 32",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-15T17:00:09Z"
   }
 };
