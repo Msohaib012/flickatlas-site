@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-14T15:12:47Z",
-    "run_id": "43608896421",
-    "status": "success",
-    "checked": {
-     "candidates": 324,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Children's Day 2026 Special: Check Out Cute Childhood Pictures of Pulkit, Nushrratt, Kriti and More",
-      "Bigg Boss 20 Eviction Voting Results: Who Is In Bottom 2? Who Will Be Evicted From Weekend Ka Vaar Today?",
-      "The Great Indian Kapil Show 5 Sharvari-Ayushmann Episode Dailymotion: Where To Watch Kapil Sharma Ep 8 Free",
-      "Avengers: Endgame Exposed the TVA’s Biggest Double Standard & Loki Ended Up Paying The Price!",
-      "Hindustan Times Leadership Summit 2026: Ananya Panday reacts to Tiger Shroff attack, calls safety concerns on Bollywood actors scary",
-      "Veteran Telugu actor Giri Babu dies at 80; Chiranjeevi, Anil Ravipudi pay tribute",
-      "I Never Thought I’d Agree With Pete Davidson’s Take On Greatest SNL Host, But I Totally Do",
-      "I Can’t Get Over Patrick Stewart And Ian McKellen’s Reactions When Two Avengers Were Caught Staring On Doomsday",
-      "The 8 Greatest Action Spy Movies of All Time, Ranked",
-      "8 Greatest Netflix Miniseries With 4 Episodes or Less",
-      "Prime Video’s Biggest Fantasy Series Officially Claims No. 1",
-      "Disney+'s New Sci-Fi Action Series Officially Compared to Harrison Ford Thriller Masterpiece",
-      "Netflix's Star-Studded 8-Part Crime Thriller Beats Guy Ritchie At His Own Game",
-      "Kevin Costner's 139-Minute Western Epic Officially Shoots Onto New Free Streaming Home",
-      "Today's Wordle Hints & Answer - November 14, 2026 (Puzzle #1974)",
-      "10 Bad Episodes That Stop Their Shows From Being Perfect",
-      "Tim Burton's $362M Sci-Fi Blockbuster Was The End Of An Era (& He's Only Just Recovered)",
-      "What Happened To Emma Culligan After The Curse Of Oak Island Season 12",
-      "Sex And The City: A Complete Timeline Of Samantha & Smith's Relationship",
-      "5 Years Later, Solo Leveling Brings Back An Enemy Not Even Jinwoo Could Beat"
-     ],
-     "updated": [],
-     "count": 316,
-     "detail": "324 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-14T16:51:50Z",
     "run_id": "43617799582",
     "status": "success",
@@ -936,27 +897,48 @@
      "detail": "310 stories, 1 duplicates removed, 56 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-11-15T15:13:15Z",
+    "run_id": "43728593942",
+    "status": "success",
+    "checked": {
+     "candidates": 301,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Bouma Kerala Box Office Collections: Malayalam horror thriller grows well, collects Rs 2.50 crore in 3 days",
+      "Scene Box Office Collections: Suriya starrer adds Rs 10 crore on 2nd Saturday, nears Rs 150 crore in India",
+      "Ramayana Kerala Box Office Collections: Ranbir Kapoor, Sai Pallavi and Yash starrer smashes BIGGEST single day collection on 2nd Saturday, grosses Rs 39 crore in 10 days",
+      "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer nets Rs. 70 Cr on 2nd Saturday",
+      "Soni recalls smoking 100 cigarettes a day when she was pregnant with Alia",
+      "Armaan: 'No better duo than AR Rahman, Hans Zimmer to capture musical DNA of 'Ramayana'",
+      "After Koffee with Karan fiasco, Vijay Deverakonda holds Rashmika Mandanna close and calls her ‘home’ in Japan vacation pics",
+      "Kunal Kapoor floored by Ramayana love in Thailand, thanks fans in moving post",
+      "Please don't quit acting like Vijay Sir: Sai Pallavi's emotional plea to Dhanush",
+      "article delhi police arrest two suspected shooters plotting separate attacks on a list bollywood actor 3162178",
+      "article diljit dosanjh indore concert police step up security with 250 cctvs facial recognition and bomb squads ahead of sold out show 3162187",
+      "article sonakshi sinha morphed photo case mumbai court orders release of arrested delhi man over procedural lapses report 3162191",
+      "article veteran actress moushumi chatterjee requests privacy following husband jayanta mukherjees demise 3162189",
+      "article veteran telugu actor filmmaker giri babu passes away at 80 ys jagan mohan reddy pays tribute 3162167",
+      "article veteran telugu actor giri babu passes away at 80 chiranjeevi pay tribute 3162184",
+      "article ami trivedi opens up on dubbing for sai pallavi sita in ramayana part 1 calls audition a divine placement 3162199",
+      "article dialogue of the day from kabhi khushi kabhie gham zindagi mein kuch banna ho 3162140",
+      "article sunday ott watchlist top 7 shows and movies to stream from kabhi khushi kabhie gham to cold feet 3162183",
+      "article reply 1988 actor ko kyung pyo caught drunk driving in seoul after crashing car into cleaning truck 3162180",
+      "article opinion secondary education in uttar pradesh how infrastructure and examination reforms changed school life 3162209"
+     ],
+     "updated": [],
+     "count": 294,
+     "detail": "301 stories, 0 duplicates removed, 0 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-11-14T18:14:48Z",
-    "run_id": "43620123291",
-    "status": "success",
-    "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "+0 articles, +0 box-office rows, 0 rows updated"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1459,27 +1441,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-15T15:13:42Z",
+    "run_id": "43728593942",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Vijay Deverakonda and Rashmika Mandanna Share Japan Vacation Photos After Online Backlash",
+      "Dutton Ranch Season 2: Everything We Know About Filming Timelines, Release Expectations, and Cast Updates",
+      "Soni Razdan Recalls Smoking 100 Cigarettes a Day During 'Gumraah' Shoot While Unaware She Was Pregnant with Alia Bhatt",
+      "Wordle Hints and Answer for November 15, 2026: Puzzle #1975 Guide"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-14T20:52:13Z",
-    "run_id": "43639615930",
-    "status": "success",
-    "checked": {
-     "candidates": 333,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 323, coming 10"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1885,19 +1872,27 @@
      "detail": "now 331, coming 12"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-15T15:13:42Z",
+    "run_id": "43728593942",
+    "status": "success",
+    "checked": {
+     "candidates": 343,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 331, coming 12"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-14T17:40:48Z",
-    "run_id": "43617799582",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2383,27 +2378,26 @@
      "count": 4
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-14T15:13:31Z",
-    "run_id": "43608896421",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-15T15:14:08Z",
+    "run_id": "43728593942",
     "status": "success",
     "checked": {
-     "candidates": 674,
-     "detail": "649 collected staging rows from readers; 228 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 657 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2801,19 +2795,27 @@
      "detail": "+0 new rows, 3 updated rows, 662 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-15T15:13:43Z",
+    "run_id": "43728593942",
+    "status": "success",
+    "checked": {
+     "candidates": 681,
+     "detail": "652 collected staging rows from readers; 228 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 662 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-14T15:14:15Z",
-    "run_id": "43608896421",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3050,19 +3052,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-15T15:14:14Z",
+    "run_id": "43728593942",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-14T17:40:48Z",
-    "run_id": "43617799582",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3572,19 +3574,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-15T15:14:07Z",
+    "run_id": "43728593942",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Vijay Deverakonda and Rashmika Mandanna Share Japan Vacation Photos After Online Backlash",
+      "Dutton Ranch Season 2: Everything We Know About Filming Timelines, Release Expectations, and Cast Updates",
+      "Wordle Hints and Answer for November 15, 2026: Puzzle #1975 Guide",
+      "Soni Razdan Recalls Smoking 100 Cigarettes a Day During 'Gumraah' Shoot While Unaware She Was Pregnant with Alia Bhatt"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-14T15:14:15Z",
-    "run_id": "43608896421",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3839,19 +3854,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-14T15:14:15Z",
-    "run_id": "43608896421",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-15T15:14:14Z",
+    "run_id": "43728593942",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4172,31 +4187,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-15T15:14:14Z",
+    "run_id": "43728593942",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-14T15:13:24Z",
-    "run_id": "43608896421",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 316 still unprocessed; today by category: movies 10/6, tv_dramas 7/4, episodes 2/2, box_office 13/6, celebrities_events 16/5, upcoming_releases 4/4, ott_streaming 8/4, trailers 3/3, awards 3/2, music_ost 4/2, viral 5/2"
-    },
-    "changed": {
-     "added": [
-      "Ananya Panday Calls Security Concerns in Bollywood Scary Following Tiger Shroff Car Attack",
-      "All Five Hunger Games Films Land on BBC Ahead of Sunrise on the Reaping Premiere",
-      "James Gunn Shuts Down Rumours of Sweeping Changes to Superman: Man of Tomorrow",
-      "Sofia Vergara Spotted Leaving Star-Studded GQ Event With Douglas Chabbott"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4682,19 +4685,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-15T15:13:42Z",
+    "run_id": "43728593942",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 294 still unprocessed; today by category: movies 8/6, tv_dramas 15/4, episodes 1/2, box_office 11/6, celebrities_events 10/5, upcoming_releases 3/4, ott_streaming 6/4, trailers 2/3, awards 2/2, music_ost 4/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Vijay Deverakonda and Rashmika Mandanna Share Japan Vacation Photos After Online Backlash",
+      "Dutton Ranch Season 2: Everything We Know About Filming Timelines, Release Expectations, and Cast Updates",
+      "Soni Razdan Recalls Smoking 100 Cigarettes a Day During 'Gumraah' Shoot While Unaware She Was Pregnant with Alia Bhatt",
+      "Wordle Hints and Answer for November 15, 2026: Puzzle #1975 Guide"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-14T15:14:15Z",
-    "run_id": "43608896421",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5008,24 +5023,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-15T15:14:14Z",
+    "run_id": "43728593942",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-14T15:14:15Z",
-    "run_id": "43608896421",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 379,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5360,24 +5370,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-14T15:14:15Z",
-    "run_id": "43608896421",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-15T15:14:14Z",
+    "run_id": "43728593942",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 14,
+     "count": 411,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5712,19 +5722,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-15T15:14:14Z",
+    "run_id": "43728593942",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-14T15:14:15Z",
-    "run_id": "43608896421",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5974,19 +5984,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-14T15:14:15Z",
-    "run_id": "43608896421",
+    "run_at": "2026-11-15T15:14:14Z",
+    "run_id": "43728593942",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6221,19 +6231,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-14T15:14:15Z",
-    "run_id": "43608896421",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-15T15:14:14Z",
+    "run_id": "43728593942",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6520,19 +6530,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-14T15:14:15Z",
-    "run_id": "43608896421",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-15T15:14:14Z",
+    "run_id": "43728593942",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6773,19 +6783,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-14T15:14:15Z",
-    "run_id": "43608896421",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-15T15:14:14Z",
+    "run_id": "43728593942",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7015,19 +7025,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-14T15:14:15Z",
-    "run_id": "43608896421",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-15T15:14:14Z",
+    "run_id": "43728593942",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7276,6 +7286,16 @@
     "category": "Trending News",
     "run_at": "2026-11-15T15:02:14Z",
     "run_id": "43726543806",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-15T15:14:14Z",
+    "run_id": "43728593942",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7796,16 +7816,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-14T15:14:15Z",
-    "run_id": "43608896421",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-14T17:40:48Z",
     "run_id": "43617799582",
     "status": "skipped",
@@ -8042,24 +8052,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-15T15:14:14Z",
+    "run_id": "43728593942",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-14T15:14:15Z",
-    "run_id": "43608896421",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 2521,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8324,8 +8329,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-15T15:14:14Z",
+    "run_id": "43728593942",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2705,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-15T15:02:14Z"
+ "updated_at": "2026-11-15T15:14:14Z"
 }

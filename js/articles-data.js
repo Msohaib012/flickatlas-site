@@ -155407,5 +155407,416 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 14:10:04 +0000"
+  },
+  "1xv45j0": {
+    "id": "1xv45j0",
+    "type": "news",
+    "headline": "Vijay Deverakonda and Rashmika Mandanna Share Japan Vacation Photos After Online Backlash",
+    "dek": "Following heavy criticism over their Koffee with Karan appearance, actors Vijay Deverakonda and Rashmika Mandanna shared joyful photos from their Japan trip alongside family.",
+    "body": [
+      {
+        "h": "Recent Online Backlash and Statement",
+        "p": [
+          "An appearance on the talk show Koffee With Karan provided fans with their first major insight into the relationship between newlywed actors Vijay Deverakonda and Rashmika Mandanna. Following the broadcast, the couple faced intense criticism across social media platforms, particularly directed at Vijay's behavior toward Rashmika during the episode.",
+          "The negative response escalated significantly, prompting the two actors to issue a joint statement on Instagram. Additionally, their management team lodged an official complaint with the Hyderabad Cyber Crime authorities regarding allegedly fake and misleading content circulating about them online."
+        ]
+      },
+      {
+        "h": "Japan Vacation and Family Trip",
+        "p": [
+          "In the wake of the controversy, Vijay Deverakonda posted a series of happy photographs on Instagram documenting a vacation in Japan. The trip included family members such as his brother Anand Deverakonda and his parents.",
+          "The shared images captured relaxed moments from the journey, including family time during coffee and matcha breaks. Vijay highlighted these memories by referring to the gathering as a family coloring time."
+        ]
+      },
+      {
+        "h": "Affectionate Social Media Captions",
+        "p": [
+          "Among the newly posted images, several captured intimate moments between Vijay and Rashmika. In one photograph, Vijay held Rashmika close with the simple caption, Mine.",
+          "Another picture featured him resting his head on her shoulder while she smiled warmly. Alongside this image, he wrote the word Home, accompanied by a red heart emoticon."
+        ]
+      },
+      {
+        "h": "Background of Their Marriage and Engagement",
+        "p": [
+          "The couple secretly engaged in October of the previous year before publicly announcing their marriage shortly before their Udaipur wedding in February. Their Koffee With Karan appearance marked the first public discussion of their romance.",
+          "During the talk show segment, Vijay mentioned that Rashmika proposed to him numerous times over a year before he considered marriage. He also discussed the ring he gave her and noted that he only proposed on one knee during their pre-wedding festivities."
+        ]
+      },
+      {
+        "h": "Controversial Talk Show Remarks",
+        "p": [
+          "Comments made during the television interview contributed to the online friction. Vijay remarked that he felt insulted regarding discussions about a separate ring Rashmika wore, which many viewers assumed was an engagement ring not of his choosing.",
+          "These remarks quickly circulated online, drawing sharp reactions from viewers and intensifying the social media scrutiny that eventually required legal and public relations intervention."
+        ]
+      },
+      {
+        "h": "Professional Collaboration in Ranabaali",
+        "p": [
+          "Beyond their personal lives, Vijay and Rashmika recently shared the screen in the film Ranabaali, marking their first professional collaboration since their wedding earlier in the year. The movie was directed by Rahul Sankrityan.",
+          "Produced by Naveen Yerneni and Y Ravi Shankar under Mythri Movie Makers and presented by T-Series Films, the 19th-century period drama explores famine caused by colonial rule in India and features Arnold Vosloo as the antagonist."
+        ]
+      },
+      {
+        "h": "Release and Streaming Details",
+        "p": [
+          "Ranabaali hit theater screens on October 16, opening to mixed reviews from critics and underperforming at the box office. Following its theatrical run, the film transitioned to digital platforms.",
+          "The feature made its premiere on Netflix on November 13, allowing audiences to stream the historical drama from home."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Vijay Deverakonda and Rashmika Mandanna shared family vacation photos from Japan following intense social media backlash over their joint appearance on Koffee With Karan. The couple, who married in February after getting secretly engaged in October, recently starred together in the film Ranabaali."
+        ]
+      }
+    ],
+    "facts": [
+      "Vijay Deverakonda and Rashmika Mandanna married in February after a secret engagement in October.",
+      "The couple appeared on Koffee With Karan following their wedding.",
+      "Their team filed a complaint with Hyderabad Cyber Crime authorities over misleading social media content.",
+      "Vijay shared Japan vacation photos with his brother Anand Deverakonda and his parents on Instagram on November 15, 2026.",
+      "Ranabaali was directed by Rahul Sankrityan and produced by Mythri Movie Makers.",
+      "Arnold Vosloo plays the antagonist in Ranabaali.",
+      "Ranabaali released in theaters on October 16 and premiered on Netflix on November 13."
+    ],
+    "entities": {
+      "people": [
+        "Vijay Deverakonda",
+        "Rashmika Mandanna",
+        "Anand Deverakonda",
+        "Rahul Sankrityan",
+        "Naveen Yerneni",
+        "Y Ravi Shankar",
+        "Arnold Vosloo",
+        "Santanu Das"
+      ],
+      "titles": [
+        "Koffee With Karan",
+        "Ranabaali"
+      ]
+    },
+    "keywords": [
+      "Vijay Deverakonda",
+      "Rashmika Mandanna",
+      "Koffee With Karan",
+      "Ranabaali",
+      "Vijay Deverakonda Japan vacation"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/15/1600x900/logo/vijay_rashmika_1794746412983_sf15_1794746413137_s758_1ecb341a-be04-4a07-942b-a8e9817faaab_DAYK.jpg",
+        "caption": "Vijay Deverakonda and Rashmika Mandanna Share Japan Vacation Photos After Online Backlash",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 18:31:40 +0530"
+  },
+  "fn7p49": {
+    "id": "fn7p49",
+    "type": "news",
+    "headline": "Dutton Ranch Season 2: Everything We Know About Filming Timelines, Release Expectations, and Cast Updates",
+    "dek": "As fans await the return of the hit Yellowstone spin-off, here is a complete breakdown of when Season 2 is set to film, cast status updates, and potential crossover developments.",
+    "body": [
+      {
+        "h": "Renewal Status And Massive Success",
+        "p": [
+          "Paramount+ officially greenlit a second season of the hit series ahead of the penultimate episode of its inaugural run. The decision came as little surprise given the monumental viewership numbers and critical reception the show enjoyed upon launch.",
+          "During its opening week across global markets, the program pulled in a massive 12.9 million viewers. Additionally, its two-episode cable debut on Paramount Network brought in nearly three million total viewers, cementing its status as a major cable triumph."
+        ]
+      },
+      {
+        "h": "Production Timeline And Expected Release",
+        "p": [
+          "Although scheduling details have kept a hard release date under wraps, key cast members have offered clear windows for when cameras are expected to roll again. Production for the upcoming episodes is slated to kick off in early 2027.",
+          "Entertainment industry reports and network appearances point toward a production start around February 2027. If the timeline holds steady, viewers might see the drama return by late autumn of that same year, or potentially early 2028 depending on post-production requirements."
+        ]
+      },
+      {
+        "h": "Addressing Cast Departure Rumors",
+        "p": [
+          "Recent headlines regarding rumored behind-the-scenes friction caused some followers to worry about potential cast exits. Specifically, reports concerning an upcoming FBI action thriller project led to questions about whether a major star would walk away from the ranch.",
+          "Despite those external projects, the narrative structure remains built entirely around continuing the journeys of core characters. Furthermore, with key talent serving in executive producer capacities, fans should expect familiar faces to remain firmly anchored in the story."
+        ]
+      },
+      {
+        "h": "Behind-The-Scenes Creative Shifts",
+        "p": [
+          "The creative leadership steering the production will look slightly different when the show makes its eventual comeback. A new showrunner has officially boarded the project to guide the creative direction for the upcoming sophomore run.",
+          "This leadership transition follows earlier creative changes that took place just weeks prior to the initial series premiere. The incoming showrunner will take the reins to steer the unfolding narrative arcs for the returning characters."
+        ]
+      },
+      {
+        "h": "Potential Crossover Possibilities",
+        "p": [
+          "Talk of a broader universe expansion has sparked heavy speculation regarding possible character crossovers with sister programs on air. Key actors from related series have openly discussed the narrative logic of bringing surviving family members together.",
+          "While schedules and current scripts have not yet guaranteed a combined storyline, creative teams acknowledge that a sibling reunion makes logical sense for the overarching television landscape. Dialogue between actors has kept the prospect alive for future episodes."
+        ]
+      },
+      {
+        "h": "Home Media And Streaming Access",
+        "p": [
+          "Viewers looking to catch up on the inaugural chapter before the next batch of episodes arrive have multiple viewing avenues available. The first season is rolling out on physical home video formats including Blu-ray and DVD.",
+          "For digital consumers, the entire first season remains accessible through subscription streaming platforms. Various digital storefronts and live television bundle packages also offer ways to access the network feed."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Paramount+ has officially renewed Dutton Ranch for a second season following a record-breaking debut. Filming is anticipated to begin in early 2027, with the main cast remaining intact under new showrunner Benjamin Cavell while fans also anticipate potential universe crossovers."
+        ]
+      }
+    ],
+    "facts": [
+      "Paramount+ renewed Dutton Ranch for Season 2 on June 24",
+      "Dutton Ranch amassed 12.9 million global viewers in the 7 days following its premiere",
+      "Season 2 is scheduled to begin filming in early 2027",
+      "Benjamin Cavell joined the team as the new showrunner for Season 2"
+    ],
+    "entities": {
+      "people": [
+        "Kelly Reilly",
+        "Cole Hauser",
+        "Finn Little",
+        "Raoul Max Trujillo",
+        "Annette Bening",
+        "Natalie Alyn Lind",
+        "Jai Courtney",
+        "Juan Pablo Raba",
+        "Benjamin Cavell",
+        "Chad Feehan",
+        "Grimes",
+        "Ash Santos"
+      ],
+      "titles": [
+        "Dutton Ranch",
+        "Yellowstone",
+        "Marshals",
+        "Pale Horse",
+        "Cupertino"
+      ]
+    },
+    "keywords": [
+      "Dutton Ranch Season 2",
+      "Kelly Reilly Dutton Ranch",
+      "Cole Hauser Pale Horse",
+      "Paramount Plus Dutton Ranch"
+    ],
+    "images": [
+      {
+        "url": "https://decider.com/wp-content/uploads/2026/04/dutton-ranch.jpg?quality=75&amp;strip=all&amp;w=680&amp;h=356&amp;crop=1",
+        "caption": "Dutton Ranch Season 2: Everything We Know About Filming Timelines, Release Expectations, and Cast Updates",
+        "source": "Decider"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 09:30:00 -0500"
+  },
+  "6vk1zt": {
+    "id": "6vk1zt",
+    "type": "news",
+    "headline": "Soni Razdan Recalls Smoking 100 Cigarettes a Day During 'Gumraah' Shoot While Unaware She Was Pregnant with Alia Bhatt",
+    "dek": "Veteran actor Soni Razdan shared a quirky anecdote about filming her husband Mahesh Bhatt's 1993 crime thriller, admitting she unknowingly smoked heavily on set before realizing she was expecting.",
+    "body": [
+      {
+        "h": "Unknowing Pregnancies and Intense Filming Schedules",
+        "p": [
+          "In a recent retrospective interview, veteran actor Soni Razdan shared fascinating details about working through her pregnancies during the peak of her acting career in the late 1980s and early 1990s. While her famous daughter Alia Bhatt has continued to push professional boundaries by working deeply into her own pregnancy, Soni revealed that a strong work ethic has long been a family trait.",
+          "Soni first discovered she was expecting her eldest daughter, Shaheen Bhatt, while working on the landmark television drama series 'Buniyaad'. Directed by Ramesh Sippy and Jyoti Swarup, the show served as her television debut and broadcast between 1986 and 1987."
+        ]
+      },
+      {
+        "h": "Logistical Support During Early Career Days",
+        "p": [
+          "Reflecting on those early years as a newly married couple living in the developing Lokhandwala complex, Soni expressed gratitude for the production team's kindness. Transportation was notoriously difficult, with morning taxis virtually nonexistent in the remote area.",
+          "To ease her daily routine, the Sippys arranged dedicated transport to pick her up at 6 am, sparing her any travel-related stress. On set, they ensured she received the finest available dressing room and was looked after attentively throughout production."
+        ]
+      },
+      {
+        "h": "The Unintentional Heavy Smoking on 'Gumraah'",
+        "p": [
+          "Years later, while filming her husband Mahesh Bhatt's 1993 crime thriller 'Gumraah', Soni experienced a particularly startling moment. Completely unaware that she was pregnant with her second daughter, Alia Bhatt, she filmed a demanding sequence that required her to chain-smoke.",
+          "Remarkably, despite not being a regular smoker, she consumed roughly one hundred cigarettes in a single day for the scene. She also performed the movie's intensive gallows sequence while carrying her unborn child, only realizing her condition later."
+        ]
+      },
+      {
+        "h": "Costume Adjustments and Changing Industry Mindsets",
+        "p": [
+          "As production resumed following a brief five-month hiatus, Soni's growing baby bump meant her original wardrobe no longer fit properly, requiring costume alterations. Looking back, she expressed immense relief that today's entertainment landscape treats expectant mothers with far greater understanding.",
+          "In earlier decades, actresses felt compelled to conceal their family responsibilities out of fear that producers would worry about sudden childcare emergencies. She praised the modern shift in mindset among filmmakers, which allows contemporary stars like Alia to embrace motherhood publicly without professional anxiety."
+        ]
+      },
+      {
+        "h": "Navigating Paging Calls and Motherhood",
+        "p": [
+          "Juggling active shoots and parenting presented constant logistical hurdles for the actor. She vividly recalled an incident during the filming of Mahesh Bhatt's 1995 television show 'A Mouthful of Sky' in Mumbai's Saki Naka.",
+          "An urgent paging call informed her that seven-year-old Shaheen and three-year-old Alia had accidentally locked themselves out of their home. Trapped on the steps, the young children caused immense panic on set as Soni frantically tried to coordinate help from neighbors."
+        ]
+      },
+      {
+        "h": "Support from Cinevistaas Limited",
+        "p": [
+          "Early in her marriage, Soni faced professional hurdles as certain industry members assumed she no longer needed work simply because she was married to Mahesh Bhatt. Fortunately, Cinevistaas Limited stepped in to provide steady and reliable career opportunities.",
+          "The production house cast her in major serials like A Salam's 'Junoon' and Surendra Mohan's family drama 'Saahil'. Soni credited key executives Prem Kishen Malhotra and Sunil Mehta for treating her like family and ensuring she had consistent work."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran actor Soni Razdan reflected on working through her pregnancies in the late 1980s and early 1990s, highlighting a humorous incident where she smoked heavily on the set of 'Gumraah' without knowing she was pregnant with Alia Bhatt. She also discussed the logistical hurdles of balancing early motherhood with demanding television and film shoots, while praising the entertainment industry's positive evolution toward working mothers."
+        ]
+      }
+    ],
+    "facts": [
+      "Soni Razdan smoked around 100 cigarettes in one day while shooting 'Gumraah'.",
+      "'Gumraah' is a 1993 crime thriller directed by Mahesh Bhatt.",
+      "Soni discovered her first pregnancy while shooting the television show 'Buniyaad'.",
+      "'Buniyaad' aired from 1986 to 1987 and was directed by Ramesh Sippy and Jyoti Swarup.",
+      "Soni gave birth to her first daughter, Shaheen Bhatt, in 1988.",
+      "Shaheen Bhatt was seven years old and Alia Bhatt was three years old during an incident on the set of 'A Mouthful of Sky'.",
+      "'A Mouthful of Sky' was a television show directed by Mahesh Bhatt in 1995 in Saki Naka, Mumbai.",
+      "Cinevistaas Limited backed Soni with projects like A Salam's 'Junoon' (1994-1998) and Surendra Mohan's 'Saahil' (1995-1996)."
+    ],
+    "entities": {
+      "people": [
+        "Soni Razdan",
+        "Alia Bhatt",
+        "Mahesh Bhatt",
+        "Shaheen Bhatt",
+        "Ramesh Sippy",
+        "Jyoti Swarup",
+        "Prem Kishen Malhotra",
+        "Sunil Mehta",
+        "A Salam",
+        "Surendra Mohan"
+      ],
+      "titles": [
+        "Gumraah",
+        "Buniyaad",
+        "A Mouthful of Sky",
+        "Junoon",
+        "Saahil",
+        "Heart of Stone",
+        "Darlings"
+      ]
+    },
+    "keywords": [
+      "Soni Razdan Gumraah",
+      "Soni Razdan Alia Bhatt pregnancy",
+      "Mahesh Bhatt Gumraah 1993",
+      "Soni Razdan Buniyaad"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135857547,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Soni Razdan Recalls Smoking 100 Cigarettes a Day During 'Gumraah' Shoot While Unaware She Was Pregnant with Alia Bhatt",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T19:29:48+05:30"
+  },
+  "88uxhp": {
+    "id": "88uxhp",
+    "type": "news",
+    "headline": "Wordle Hints and Answer for November 15, 2026: Puzzle #1975 Guide",
+    "dek": "Find helpful tips, starting words, and the final solution for today's Wordle puzzle on November 15, 2026.",
+    "body": [
+      {
+        "h": "Navigating Today's Wordle Puzzle",
+        "p": [
+          "Finding the correct solution for today's Wordle challenge can prove exceptionally difficult without proper guidance. Players lack strong initial foundations, putting active streaks at significant risk of breaking.",
+          "Success on this particular day requires stepping outside conventional thinking. Embracing unconventional experimentation prevents endless mistakes and can ultimately save your winning streak."
+        ]
+      },
+      {
+        "h": "Strategic Starting Words",
+        "p": [
+          "Choosing the right initial guesses sets the tone for solving the puzzle efficiently. Three specific starting words are recommended to target different aspects of the daily answer.",
+          "The suggested starting words include KAPPA, RAVEN, and SATYR. Each option shares specific consonants or vowels with the target solution, helping players narrow down possibilities without resorting to immediate spoilers."
+        ]
+      },
+      {
+        "h": "Breakdown of Recommended Openers",
+        "p": [
+          "The first recommendation, KAPPA, shares a single consonant and one vowel with the correct solution, with no letters placed in the right spots. RAVEN shares two consonants and one vowel, again with zero correct positions.",
+          "SATYR acts as the most revealing option, sharing two consonants and one vowel while placing one single letter in the exact correct position. Utilizing these choices carefully can guide players toward a successful four or five-attempt solve."
+        ]
+      },
+      {
+        "h": "Clues and Hints for Puzzle #1975",
+        "p": [
+          "For those who have already used several attempts and wish to avoid random guessing, several specific clues are available. The solution contains no repeating letters whatsoever.",
+          "The target word functions primarily as both a noun and a verb. The single vowel resides strictly in the third position of the letter sequence."
+        ]
+      },
+      {
+        "h": "Meaning and Context Clues",
+        "p": [
+          "Semantic hints point toward an attitude or expression characterized by mocking irreverence, sarcasm, or biting criticism. The verb form describes the act of making sarcastic remarks.",
+          "The overall theme connects to defining individuals who display rudeness or a lack of manners. Think of terms associated with expressing difficulty or contempt through speech."
+        ]
+      },
+      {
+        "h": "The Final Solution Revealed",
+        "p": [
+          "Players who have exhausted five attempts and need to protect their streak can rely on the direct answer. November 15's puzzle solution is SNARK.",
+          "Following the recommended opening guesses could have led players straight to this final word within four to five tries."
+        ]
+      },
+      {
+        "h": "Recent Past Wordle Answers",
+        "p": [
+          "Reviewing previous solutions offers context on recent letter patterns utilized by the game. Recent words include RANDY on November 14, MOXIE on November 13, and KARAT on November 12.",
+          "Earlier November solutions feature BLESS on November 11, TRUCE on November 10, LOAMY on November 9, FIRST on November 8, PRATE on November 7, DRECK on November 6, and PARCH on November 5."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Today's Wordle puzzle on November 15, 2026, designated as puzzle #1975, challenges players with a tricky set of rare letters and a single vowel in the third position. By utilizing recommended starting words like KAPPA, RAVEN, and SATYR alongside specific semantic clues about sarcasm and mockery, players can successfully solve the puzzle with the word SNARK."
+        ]
+      }
+    ],
+    "facts": [
+      "Date of puzzle: November 15, 2026",
+      "Puzzle number: #1975",
+      "Wordle answer: SNARK",
+      "November 14 answer: RANDY",
+      "November 13 answer: MOXIE",
+      "November 12 answer: KARAT",
+      "November 11 answer: BLESS",
+      "November 10 answer: TRUCE",
+      "November 9 answer: LOAMY",
+      "November 8 answer: FIRST",
+      "November 7 answer: PRATE",
+      "November 6 answer: DRECK",
+      "November 5 answer: PARCH",
+      "Puzzle release date: October 1, 2021"
+    ],
+    "entities": {
+      "people": [
+        "Matthew Danielson",
+        "Josh Wardle"
+      ],
+      "titles": [
+        "Wordle",
+        "Connections",
+        "Globle",
+        "The Password Game",
+        "Worldle"
+      ]
+    },
+    "keywords": [
+      "Wordle November 15 2026",
+      "Wordle answer today",
+      "Wordle hints November 15",
+      "Wordle puzzle 1975"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/image-psd-19.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Wordle Hints and Answer for November 15, 2026: Puzzle #1975 Guide",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 14:00:18 GMT"
   }
 };

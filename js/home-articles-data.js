@@ -48,6 +48,49 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sun, 15 Nov 2026 14:45:39 +0000"
   },
+  "fn7p49": {
+    "id": "fn7p49",
+    "type": "news",
+    "headline": "Dutton Ranch Season 2: Everything We Know About Filming Timelines, Release Expectations, and Cast Updates",
+    "dek": "As fans await the return of the hit Yellowstone spin-off, here is a complete breakdown of when Season 2 is set to film, cast status updates, and potential crossover developments.",
+    "entities": {
+      "people": [
+        "Kelly Reilly",
+        "Cole Hauser",
+        "Finn Little",
+        "Raoul Max Trujillo",
+        "Annette Bening",
+        "Natalie Alyn Lind",
+        "Jai Courtney",
+        "Juan Pablo Raba",
+        "Benjamin Cavell",
+        "Chad Feehan",
+        "Grimes",
+        "Ash Santos"
+      ],
+      "titles": [
+        "Dutton Ranch",
+        "Yellowstone",
+        "Marshals",
+        "Pale Horse",
+        "Cupertino"
+      ]
+    },
+    "keywords": [
+      "Dutton Ranch Season 2",
+      "Kelly Reilly Dutton Ranch",
+      "Cole Hauser Pale Horse",
+      "Paramount Plus Dutton Ranch"
+    ],
+    "images": [
+      {
+        "url": "https://decider.com/wp-content/uploads/2026/04/dutton-ranch.jpg?quality=75&amp;strip=all&amp;w=680&amp;h=356&amp;crop=1",
+        "caption": "Dutton Ranch Season 2: Everything We Know About Filming Timelines, Release Expectations, and Cast Updates",
+        "source": "Decider"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 09:30:00 -0500"
+  },
   "1mebcji": {
     "id": "1mebcji",
     "type": "news",
@@ -125,6 +168,82 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sun, 15 Nov 2026 14:10:04 +0000"
   },
+  "88uxhp": {
+    "id": "88uxhp",
+    "type": "news",
+    "headline": "Wordle Hints and Answer for November 15, 2026: Puzzle #1975 Guide",
+    "dek": "Find helpful tips, starting words, and the final solution for today's Wordle puzzle on November 15, 2026.",
+    "entities": {
+      "people": [
+        "Matthew Danielson",
+        "Josh Wardle"
+      ],
+      "titles": [
+        "Wordle",
+        "Connections",
+        "Globle",
+        "The Password Game",
+        "Worldle"
+      ]
+    },
+    "keywords": [
+      "Wordle November 15 2026",
+      "Wordle answer today",
+      "Wordle hints November 15",
+      "Wordle puzzle 1975"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/image-psd-19.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Wordle Hints and Answer for November 15, 2026: Puzzle #1975 Guide",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 14:00:18 GMT"
+  },
+  "6vk1zt": {
+    "id": "6vk1zt",
+    "type": "news",
+    "headline": "Soni Razdan Recalls Smoking 100 Cigarettes a Day During 'Gumraah' Shoot While Unaware She Was Pregnant with Alia Bhatt",
+    "dek": "Veteran actor Soni Razdan shared a quirky anecdote about filming her husband Mahesh Bhatt's 1993 crime thriller, admitting she unknowingly smoked heavily on set before realizing she was expecting.",
+    "entities": {
+      "people": [
+        "Soni Razdan",
+        "Alia Bhatt",
+        "Mahesh Bhatt",
+        "Shaheen Bhatt",
+        "Ramesh Sippy",
+        "Jyoti Swarup",
+        "Prem Kishen Malhotra",
+        "Sunil Mehta",
+        "A Salam",
+        "Surendra Mohan"
+      ],
+      "titles": [
+        "Gumraah",
+        "Buniyaad",
+        "A Mouthful of Sky",
+        "Junoon",
+        "Saahil",
+        "Heart of Stone",
+        "Darlings"
+      ]
+    },
+    "keywords": [
+      "Soni Razdan Gumraah",
+      "Soni Razdan Alia Bhatt pregnancy",
+      "Mahesh Bhatt Gumraah 1993",
+      "Soni Razdan Buniyaad"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135857547,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Soni Razdan Recalls Smoking 100 Cigarettes a Day During 'Gumraah' Shoot While Unaware She Was Pregnant with Alia Bhatt",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T19:29:48+05:30"
+  },
   "1kp1715": {
     "id": "1kp1715",
     "type": "news",
@@ -162,6 +281,43 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 18:35:36 +0530"
+  },
+  "1xv45j0": {
+    "id": "1xv45j0",
+    "type": "news",
+    "headline": "Vijay Deverakonda and Rashmika Mandanna Share Japan Vacation Photos After Online Backlash",
+    "dek": "Following heavy criticism over their Koffee with Karan appearance, actors Vijay Deverakonda and Rashmika Mandanna shared joyful photos from their Japan trip alongside family.",
+    "entities": {
+      "people": [
+        "Vijay Deverakonda",
+        "Rashmika Mandanna",
+        "Anand Deverakonda",
+        "Rahul Sankrityan",
+        "Naveen Yerneni",
+        "Y Ravi Shankar",
+        "Arnold Vosloo",
+        "Santanu Das"
+      ],
+      "titles": [
+        "Koffee With Karan",
+        "Ranabaali"
+      ]
+    },
+    "keywords": [
+      "Vijay Deverakonda",
+      "Rashmika Mandanna",
+      "Koffee With Karan",
+      "Ranabaali",
+      "Vijay Deverakonda Japan vacation"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/15/1600x900/logo/vijay_rashmika_1794746412983_sf15_1794746413137_s758_1ecb341a-be04-4a07-942b-a8e9817faaab_DAYK.jpg",
+        "caption": "Vijay Deverakonda and Rashmika Mandanna Share Japan Vacation Photos After Online Backlash",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 18:31:40 +0530"
   },
   "fldd7r": {
     "id": "fldd7r",
@@ -4286,153 +4442,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sat, 14 Nov 2026 14:14:12 +0530"
-  },
-  "1rufv0h": {
-    "id": "1rufv0h",
-    "type": "news",
-    "headline": "Ramayana Box Office Day 10: Ranbir Kapoor and Yash starrer crosses Rs 1000 crore worldwide",
-    "dek": "The mythological epic Ramayana: Rise of a Legend continues its historic box office run, racing past massive domestic and international milestones by its second weekend.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Yash",
-        "Sai Pallavi",
-        "Nitesh Tiwari",
-        "Namit Malhotra",
-        "Ravi Dubey",
-        "Sunny Deol",
-        "Lara Dutta",
-        "Arun Govil"
-      ],
-      "titles": [
-        "Ramayana: Rise of a Legend",
-        "Ramayana: Part 1",
-        "Ramayana"
-      ]
-    },
-    "keywords": [
-      "Ramayana box office collection",
-      "Ranbir Kapoor Ramayana film",
-      "Ramayana day 10 collection",
-      "Ramayana 1000 crore worldwide"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135827479,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Ramayana Box Office Day 10: Ranbir Kapoor and Yash starrer crosses Rs 1000 crore worldwide",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-14T14:04:38+05:30"
-  },
-  "1xooxlt": {
-    "id": "1xooxlt",
-    "type": "news",
-    "headline": "James Gunn Shuts Down Rumours of Sweeping Changes to Superman: Man of Tomorrow",
-    "dek": "Filmmaker James Gunn has firmly rejected online gossip suggesting that studio leadership changes have led to major cuts and recasting in the upcoming DCU film.",
-    "entities": {
-      "people": [
-        "James Gunn",
-        "Peter Safran",
-        "David Corenswet",
-        "Nicholas Hoult",
-        "Milly Alcock",
-        "Xolo Mariduena",
-        "Adria Arjona",
-        "Lars Eidinger",
-        "Rachel Brosnahan",
-        "Skyler Gisondo",
-        "Sara Sampaio"
-      ],
-      "titles": [
-        "Superman: Man of Tomorrow"
-      ]
-    },
-    "keywords": [
-      "Superman Man of Tomorrow",
-      "James Gunn Skydance rumours",
-      "David Corenswet Superman movie",
-      "Man of Tomorrow release date"
-    ],
-    "images": [
-      {
-        "url": "https://filmfare.wwmindia.com/content/2026/nov/man-of-tomorrow1794634866.jpg",
-        "caption": "James Gunn Shuts Down Rumours of Sweeping Changes to Superman: Man of Tomorrow",
-        "source": "Filmfare"
-      }
-    ],
-    "published": "2026-11-14T13:53:04+05:30"
-  },
-  "1ytrath": {
-    "id": "1ytrath",
-    "type": "news",
-    "headline": "Ramayana Box Office Collection Day 9: Ranbir Kapoor’s Epic Cruises Past Rs 1,100 Crores",
-    "dek": "Nitesh Tiwari's cinematic adaptation Ramayana crosses a major milestone globally as Day 9 numbers push total collections past the Rs. 1,100 crore mark.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Nitesh Tiwari",
-        "Siddharth Thampi",
-        "Pankaj Tripathi"
-      ],
-      "titles": [
-        "Ramayana",
-        "Pathaan",
-        "Kalki 2898 AD",
-        "Bajrangi Bhaijaan",
-        "Jawan",
-        "K.G.F: Chapter 2",
-        "RRR",
-        "Dhurandhar"
-      ]
-    },
-    "keywords": [
-      "Ramayana box office collection",
-      "Ramayana Day 9 collection",
-      "Ranbir Kapoor Ramayana",
-      "Nitesh Tiwari Ramayana"
-    ],
-    "images": [
-      {
-        "url": "https://filmfare.wwmindia.com/content/2026/nov/ramayana-box-office1794642247.jpg",
-        "caption": "Ramayana Box Office Collection Day 9: Ranbir Kapoor’s Epic Cruises Past Rs 1,100 Crores",
-        "source": "Filmfare"
-      }
-    ],
-    "published": "2026-11-14T13:46:33+05:30"
-  },
-  "1dzygf7": {
-    "id": "1dzygf7",
-    "type": "news",
-    "headline": "Tiffani Thiessen Faces Hip Replacement Surgery Following Unexpected Medical Diagnosis",
-    "dek": "The Saved by the Bell star opened up about her recent health struggles, attributing her joint issues to childhood dancing and hip dysplasia.",
-    "entities": {
-      "people": [
-        "Tiffani Thiessen",
-        "Tom Papa"
-      ],
-      "titles": [
-        "Saved by the Bell",
-        "Saved by the Bell: Wedding in Las Vegas",
-        "Beverly Hills, 90210",
-        "Coven Academy",
-        "LEGO Marvel Avengers: Mission Demolition"
-      ]
-    },
-    "keywords": [
-      "Tiffani Thiessen hip replacement",
-      "Saved by the Bell Tiffani Thiessen",
-      "Tiffani Thiessen hip dysplasia",
-      "Breaking Bread with Tom Papa Tiffani Thiessen"
-    ],
-    "images": [
-      {
-        "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148718709.jpg?quality=75&amp;strip=all&amp;w=1024",
-        "caption": "Tiffani Thiessen Faces Hip Replacement Surgery Following Unexpected Medical Diagnosis",
-        "source": "Page Six"
-      }
-    ],
-    "published": "Sat, 14 Nov 2026 03:13:37 -0500"
   },
   "1iumf04": {
     "id": "1iumf04",
