@@ -1,6 +1,6 @@
 {
  "bucket": "28",
- "count": 56,
+ "count": 57,
  "titles": {
   "movie:10128": {
    "backdrop_path": "/bsPZIQNhyqRZ5TbQbTGjbaUCdxt.jpg",
@@ -4540,6 +4540,181 @@
    "type": "movie",
    "vote_average": 6.011,
    "vote_count": 473
+  },
+  "movie:680028": {
+   "backdrop_path": "/kmxnUYcisJDED8oNNIRd9QwWYYP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Naomi",
+     "n": "Genesis Rodriguez"
+    },
+    {
+     "c": "Matt",
+     "n": "Vincent Piazza"
+    },
+    {
+     "c": "Baby Liv",
+     "n": "Benjamin Sokolow"
+    },
+    {
+     "c": "Baby Liv",
+     "n": "Emily Bayiokos"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Brendan Walsh"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 680028,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young American couple travel to the arctic mountains of Norway. After pulling over during a snowstorm, they wake up trapped in their SUV, buried underneath layers of snow and ice.",
+   "popularity": 1.6324,
+   "poster_path": "/hTFs6T2k0kdQHFcC4gisT0UtNX8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-06-16",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Based on chilling true events",
+   "title": "Centigrade",
+   "trailer": {
+    "key": "0RvV7TNUlkQ",
+    "name": "Centigrade - Official Trailer | HD | IFC Midnight",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.815,
+   "vote_count": 300
   },
   "movie:698128": {
    "backdrop_path": "/3QrD6F2MKooZhlnMqrzknzcQp92.jpg",
