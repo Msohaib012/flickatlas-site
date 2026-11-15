@@ -157345,5 +157345,402 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 21:30:12 GMT"
+  },
+  "skjenm": {
+    "id": "skjenm",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Crosses Rs 1200 Crore Globally on Day 10",
+    "dek": "The Ranbir Kapoor and Yash-starrer mythological epic has continued its unstoppable run at the box office, surpassing the massive milestone within ten days of its theatrical debut.",
+    "body": [
+      {
+        "h": "Global Milestone Achieved",
+        "p": [
+          "The mythological epic Ramayana: Part 1 has officially powered its way into the prestigious Rs 1200 crore club globally after completing ten days in cinemas. Despite initially opening to mixed critical reactions, the cinematic venture has demonstrated extraordinary momentum on ticket counters worldwide.",
+          "Overseas markets have continued to fuel this growth, registering a steady upward trajectory in collections. With international contributions adding substantially to the tally, the worldwide gross has officially touched impressive heights."
+        ]
+      },
+      {
+        "h": "Domestic Dominance and Day 10 Figures",
+        "p": [
+          "On its tenth day in theaters, the feature brought in notable numbers domestically. Early estimates indicate that the film secured a strong net collection in India, significantly bolstering its cumulative domestic standing.",
+          "The project has pulled impressive figures across multiple language versions. The Hindi belt alone contributed heavily across thousands of shows, while regional versions in Kannada, Malayalam, and Telugu added further weight to the domestic earnings."
+        ]
+      },
+      {
+        "h": "Trade Expert Analysis and Early Hurdles",
+        "p": [
+          "Discussing the movie's theatrical journey, trade analysts have pointed out that the feature overcame a slow start during its initial weekdays. Industry experts noted that despite facing four sluggish days early on, the production managed to pick up unprecedented pace.",
+          "Observers have closely compared its trajectory against other major contenders in the market. Analysts remain optimistic that the feature's current momentum will carry it forward securely through upcoming weeks."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "The grand mythological project features a prominent lineup of actors portraying key legendary figures. Ranbir Kapoor takes on the role of Lord Rama, while Yash stars as the formidable antagonist Ravana.",
+          "The ensemble is further rounded out by Sai Pallavi as Goddess Sita and Ravie Dubey as Lord Lakshman. Additional supporting performances feature veteran actors and popular stars in various significant parts throughout the narrative."
+        ]
+      },
+      {
+        "h": "Future Installments and Character Reveals",
+        "p": [
+          "Excitement among fans is already building for the continuation of the cinematic universe. Ramayana: Part 2 has been locked for a theatrical release during the festive period of Diwali in 2028.",
+          "The upcoming sequel is anticipated to feature the official unveiling of Sunny Deol's look as Lord Hanuman. The first installment notably concluded with the character's introduction, setting the stage for future events."
+        ]
+      },
+      {
+        "h": "Production and Digital Streaming Plans",
+        "p": [
+          "Behind the scenes, the feature has been brought to life through the collaborative efforts of key producers. Namit Malhotra and Yash serve as producers guiding the massive mythological venture.",
+          "Following the conclusion of its theatrical run, the project is scheduled to find its digital home on a prominent streaming platform. JioHotstar has been confirmed as the destination for its OTT premiere, though an exact release date remains unannounced."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The mythological epic Ramayana: Part 1 has crossed the Rs 1200 crore mark globally by its tenth day in theaters, driven by strong domestic earnings and international growth. The production stars Ranbir Kapoor and Yash alongside Sai Pallavi, with a sequel already slated for Diwali 2028 and an upcoming OTT release on JioHotstar."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 reached the Rs 1200 crore club after 10 days.",
+      "The film entered the Rs 1000 crore club within eight days of release.",
+      "Overseas gross reached Rs 408.50 crore, with Rs 30 crore collected overseas recently.",
+      "Day 10 net collection in India was Rs 72.90 crore, with a total domestic collection of Rs 685.60 crore.",
+      "India gross earnings reached Rs 819.50 crore, bringing the worldwide collection to Rs 1,228 crore.",
+      "Day 10 Hindi earnings were Rs 53.75 crore from 18,775 shows.",
+      "Day 10 collections included Rs 5.40 crore in Kannada, Rs 4.75 crore in Malayalam, and Rs 4.25 crore in Telugu.",
+      "Ramayana: Part 2 will release in theatres on Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Komal Nahta",
+        "Namit Malhotra",
+        "Sunny Deol",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Arun Govil",
+        "Indira Krishna",
+        "Rakul Preet Singh",
+        "Dhanush",
+        "Nirali Kanabar"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Ramayana: Part 2",
+        "Dhurandhar"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana worldwide collection day 10",
+      "Ramayana Part 2 Diwali 2028"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156511047,thumbsize-831003,width-1280,height-720,resizemode-75/156511047.jpg",
+        "caption": "Ramayana: Part 1 Crosses Rs 1200 Crore Globally on Day 10",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T22:51:34Z"
+  },
+  "7adwgu": {
+    "id": "7adwgu",
+    "type": "news",
+    "headline": "Taylor Sheridan's Yellowstone and Tulsa King Dominate Global Streaming Charts",
+    "dek": "Taylor Sheridan's renowned television universe continues to capture global audiences as Yellowstone returns to the top ten worldwide on Paramount+ while Tulsa King holds strong in second place.",
+    "body": [
+      {
+        "h": "The Streaming Dominance of Taylor Sheridan",
+        "p": [
+          "Taylor Sheridan has firmly reshaped contemporary television through an extensive portfolio of hard-hitting dramatic series. Programs such as Mayor of Kingstown, The Madison, Lioness, Landman, and Tulsa King showcase a distinct creative vision centered on complex power dynamics, survival, and loyalty. Among these heavy hitters, the fourth season of Tulsa King currently leads audience engagement on streaming platforms.",
+          "Viewers continue to follow Sylvester Stallone in his role as Dwight 'The General' Manfredi. The character navigates a relentless struggle to solidify his criminal enterprise while confronting hostile politicians and fresh adversaries week after week."
+        ]
+      },
+      {
+        "h": "Production Updates for Tulsa King Season 5",
+        "p": [
+          "While the fourth season airs weekly episodes, production for the fifth season of Tulsa King is already underway in New York. The expanding ensemble cast has added several notable recurring actors to enrich the narrative depth of the show.",
+          "Performers such as Erik Palladino, Glenn Fleshler, Anthony Skordi, and Nickola Shreli have secured regular series roles. Additionally, Girls and Ironheart star Manny Montana has joined the production as Gilberto Torres, described as a commanding gangster who projects a quiet yet undeniable presence."
+        ]
+      },
+      {
+        "h": "The Global Resurgence of Yellowstone",
+        "p": [
+          "In addition to ongoing successes, Sheridan's foundational series has reclaimed its prominent position on the international streaming stage. Yellowstone currently ranks among the ten most-watched shows on Paramount+ worldwide.",
+          "This resurgence highlights the enduring appeal of the modern Western saga, which sits comfortably near the top of the platform alongside its sister series, Tulsa King, which currently holds the second position globally."
+        ]
+      },
+      {
+        "h": "Legacy and Cultural Impact",
+        "p": [
+          "The flagship Western drama originally ran for five seasons across six years, comprising a total of 53 episodes. Throughout its broadcast run, the series rarely faltered and successfully sparked a major small-screen Western renaissance.",
+          "The cultural imprint left by the project remains profound. The current landscape of twenty-first-century television and streaming services would look vastly different without the cultural momentum generated by Sheridan's flagship production."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Taylor Sheridan's television catalog continues to achieve massive global viewership on Paramount+, with Yellowstone ranking among the top ten most-watched shows worldwide alongside Tulsa King in second place. Meanwhile, Tulsa King maintains strong momentum as its fourth season airs weekly and production on its fifth season proceeds in New York with newly added cast members."
+        ]
+      }
+    ],
+    "facts": [
+      "Taylor Sheridan's Yellowstone ran for six years, five seasons, and 53 episodes.",
+      "Yellowstone is currently one of the ten most-watched shows on Paramount+ globally.",
+      "Tulsa King is currently ranked second on Paramount+ worldwide.",
+      "Season 5 of Tulsa King is currently in production in New York.",
+      "Manny Montana, Erik Palladino, Glenn Fleshler, Anthony Skordi, and Nickola Shreli are added to Tulsa King."
+    ],
+    "entities": {
+      "people": [
+        "Taylor Sheridan",
+        "Sylvester Stallone",
+        "Erik Palladino",
+        "Glenn Fleshler",
+        "Anthony Skordi",
+        "Nickola Shreli",
+        "Manny Montana"
+      ],
+      "titles": [
+        "Tulsa King",
+        "Yellowstone",
+        "Mayor of Kingstown",
+        "The Madison",
+        "Lioness",
+        "Landman",
+        "Girls",
+        "Ironheart"
+      ]
+    },
+    "keywords": [
+      "Taylor Sheridan Yellowstone",
+      "Tulsa King Season 5",
+      "Sylvester Stallone Tulsa King",
+      "Yellowstone Paramount Plus"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/03/taylor-sheridan.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Taylor Sheridan's Yellowstone and Tulsa King Dominate Global Streaming Charts",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 21:45:12 GMT"
+  },
+  "3lcnro": {
+    "id": "3lcnro",
+    "type": "news",
+    "headline": "Ritika Singh Completes Special Track for Megastar Chiranjeevi's Kaaka",
+    "dek": "Actress Ritika Singh has reportedly finished filming a high-energy special song for director Bobby Kolli's upcoming Telugu film starring Megastar Chiranjeevi.",
+    "body": [
+      {
+        "h": "Shooting Wrapped for Special Number",
+        "p": [
+          "Production on a high-energy special song has concluded for Megastar Chiranjeevi's upcoming feature, tentatively known as Kaaka. According to recent reports, actress Ritika Singh has successfully wrapped up her portions for this energetic musical sequence, bringing the schedule to a close.",
+          "The collaboration brings together the star power of Chiranjeevi and the directorial vision of Bobby Kolli. Fans of the lead actor are eagerly anticipating how this new track will fit into the overall narrative of the upcoming project."
+        ]
+      },
+      {
+        "h": "A Surprising Casting Choice",
+        "p": [
+          "The decision to cast Ritika Singh in a special dance number has caught many industry observers off guard. Unlike performers who frequently take on glamorous roles, Singh has established her reputation primarily through intense and performance-oriented characters.",
+          "Transitioning into a high-octane dance track alongside a legendary dancer like Chiranjeevi marks a distinct departure from her usual filmography, making her appearance in the sequence a fascinating point of discussion."
+        ]
+      },
+      {
+        "h": "Breakthrough and Acclaimed Performances",
+        "p": [
+          "Ritika Singh first captured public and critical attention through her standout portrayal of a fiery boxer in the film Irudhi Suttru and its Hindi equivalent, Saala Khadoos. Given her real-life background as a kickboxer, she infused the character with genuine grit and authenticity.",
+          "Her compelling performance earned her widespread recognition, including a National Film Award Special Mention for the Tamil version. She subsequently starred in the Telugu adaptation Guru, as well as Shivalinga and Oh My Kadavule, continually opting for substance-driven scripts."
+        ]
+      },
+      {
+        "h": "Dedication to Athletic Roots",
+        "p": [
+          "Despite her busy schedule in the film industry, Singh has maintained a selective approach to accepting new projects. She has consistently stayed true to her athletic foundations, continuing her martial arts training outside of standard film sets.",
+          "In a previous 2023 interview with Filmfare, she revealed that she actively trains under the guidance of her father, who also serves as her boxing coach. Operating out of an academy located in Kalyan away from Mumbai, she helps train local children alongside her brother."
+        ]
+      },
+      {
+        "h": "Continuing a Director-Actor Partnership",
+        "p": [
+          "Kaaka represents another major partnership between Chiranjeevi and filmmaker Bobby Kolli. The duo previously collaborated on the commercial hit Waltair Veerayya, establishing a strong working dynamic between the star and the director.",
+          "This new venture allows the actor to continue his storied tradition of delivering memorable musical numbers that delight his massive fan base across various regions."
+        ]
+      },
+      {
+        "h": "Chiranjeevi's Tradition of Chartbuster Songs",
+        "p": [
+          "The Megastar has long maintained a legendary reputation for his intricate dance routines and his ability to share the stage with various leading ladies in chart-topping numbers. These segments have consistently served as major celebratory highlights for moviegoers over the decades.",
+          "Recent years have seen this tradition continue with prominent tracks in various films. Acharya featured the popular song Saana Kastam alongside Regina Cassandra, while Waltair Veerayya showcased the track Boss Party featuring Urvashi Rautela. Ritika Singh now joins this exclusive roster of performers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actress Ritika Singh has completed filming her schedule for a special song in Megastar Chiranjeevi and Bobby Kolli's upcoming film Kaaka. Known for her critically acclaimed, performance-oriented roles and kickboxing background, Singh's inclusion in this high-energy dance track marks a surprising addition to Chiranjeevi's long-standing tradition of blockbuster musical numbers."
+        ]
+      }
+    ],
+    "facts": [
+      "Ritika Singh wrapped up shooting for a special song in Chiranjeevi's Kaaka",
+      "Kaaka is directed by Bobby Kolli",
+      "Ritika Singh starred in Irudhi Suttru and its Hindi remake Saala Khadoos",
+      "She won a National Film Award Special Mention for Irudhi Suttru",
+      "She starred in the Telugu film Guru, Shivalinga, and Oh My Kadavule",
+      "Ritika Singh spoke to Filmfare in a 2023 interview about training under her father in Kalyan",
+      "Chiranjeevi and Bobby Kolli previously worked together on Waltair Veerayya",
+      "Acharya featured the song Saana Kastam with Regina Cassandra",
+      "Waltair Veerayya featured the song Boss Party with Urvashi Rautela",
+      "The article was published on Nov 15, 2026, 16:51 IST by Filmfare"
+    ],
+    "entities": {
+      "people": [
+        "Ritika Singh",
+        "Chiranjeevi",
+        "Bobby Kolli",
+        "Regina Cassandra",
+        "Urvashi Rautela"
+      ],
+      "titles": [
+        "Kaaka",
+        "Irudhi Suttru",
+        "Saala Khadoos",
+        "Guru",
+        "Shivalinga",
+        "Oh My Kadavule",
+        "Waltair Veerayya",
+        "Acharya"
+      ]
+    },
+    "keywords": [
+      "Ritika Singh Kaaka",
+      "Chiranjeevi Kaaka film",
+      "Bobby Kolli Kaaka",
+      "Ritika Singh special song"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/reports-ritika-singh-wraps-up-special-song-for-chiranjeevi-s-kaaka1794740833.jpg",
+        "caption": "Ritika Singh Completes Special Track for Megastar Chiranjeevi's Kaaka",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-15T16:51:19+05:30"
+  },
+  "1lh9owt": {
+    "id": "1lh9owt",
+    "type": "news",
+    "headline": "Matt Damon Praises Robert Pattinson's Performance in The Odyssey as James Bond Casting Rumors Intensify",
+    "dek": "Matt Damon heaps praise on Robert Pattinson's antagonist role in Christopher Nolan's epic film, while discussions heat up around potential future casting for James Bond.",
+    "body": [
+      {
+        "h": "The Academy Museum Q&A Session",
+        "p": [
+          "A star-studded group gathered this past Saturday at the Academy Museum to participate in a special discussion about Christopher Nolan's epic film The Odyssey. The panel featured prominent names including Matt Damon, Tom Holland, John Leguizamo, Zendaya, Charlize Theron, Himesh Patel, and Elliot Page.",
+          "Though Robert Pattinson was notably absent from the physical gathering, his presence was heavily felt throughout the conversation. Pattinson portrayed the slimy villain Antinous in the cinematic epic, leaving a lasting impression on his co-stars and industry peers alike."
+        ]
+      },
+      {
+        "h": "Ben Affleck's Deep Dive Analysis",
+        "p": [
+          "While addressing the gathered crowd, Matt Damon shared details of a lengthy conversation he had with his longtime creative partner and friend, Ben Affleck, regarding Pattinson's work in the movie. Affleck was apparently so captivated that he spoke exclusively about Pattinson for nearly twenty minutes after viewing the project.",
+          "Affleck highlighted the intense dynamic of the performance, pointing out that while Damon had the full backing of Christopher Nolan's storytelling power, Pattinson shouldered the full weight and pressure of that same storytelling force bearing down on his villainous character."
+        ]
+      },
+      {
+        "h": "Running Into an Avalanche",
+        "p": [
+          "Damon went on to express deep admiration for Pattinson's total dedication to making Antinous as loathsome and cowardly as possible. He memorably compared the actor's fearless approach to watching a man deliberately charge headfirst into an avalanche.",
+          "According to Damon, observing Pattinson constantly search for ways to make his character worse and more detestable was remarkably entertaining. He praised the actor's powerful inner life and dynamic screen presence."
+        ]
+      },
+      {
+        "h": "Viral Moments and 2026 Highlights",
+        "p": [
+          "Pattinson's memorable delivery of specific lines from the film, such as barking an order to get beggars out of the area, quickly spread and went viral across various social media platforms. This marked just one of several major career highlights for the actor during the year 2026.",
+          "Alongside his role in Christopher Nolan's epic, Pattinson shared the screen with Zendaya in The Drama, portrayed television host Chris Hansen in Primetime, and prepared for an upcoming antagonist role in Dune: Part Three."
+        ]
+      },
+      {
+        "h": "Rising James Bond Rumors",
+        "p": [
+          "Looking ahead toward 2027, speculation has intensified suggesting that Pattinson is currently the leading choice to portray the next James Bond. He has reportedly risen above other hopeful contenders such as Nicholas Hoult, Jack Lowden, and Callum Turner.",
+          "While Amazon MGM Studios has not yet issued any official casting announcement, securing the iconic spy role would add to an already crowded and impressive career resume that includes playing both Batman and the breakout vampire character Edward Cullen in the Twilight franchise."
+        ]
+      },
+      {
+        "h": "Current Projects and Oscar Buzz",
+        "p": [
+          "In addition to the ongoing secret agent speculation, Pattinson remains busy with active production work on The Batman: Part II, which has seen director Steven Soderbergh step in following Matt Reeves.",
+          "Furthermore, Pattinson is generating legitimate Academy Award buzz for his standout work in The Odyssey, which threatens to elevate his prominent Hollywood profile even higher."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Matt Damon publicly praised Robert Pattinson's villainous performance in Christopher Nolan's The Odyssey during a recent Q&A event, sharing insights from Ben Affleck about the role. Meanwhile, Pattinson continues to generate significant industry buzz as a top frontrunner for the next James Bond role alongside other high-profile 2026 projects."
+        ]
+      }
+    ],
+    "facts": [
+      "Matt Damon, Tom Holland, John Leguizamo, Zendaya, Charlize Theron, Himesh Patel, and Elliot Page participated in a Q&A about The Odyssey.",
+      "Robert Pattinson played the character Antinous in Christopher Nolan's The Odyssey.",
+      "Ben Affleck talked to Matt Damon about Robert Pattinson for about 20 minutes after seeing the movie.",
+      "Robert Pattinson appeared alongside Zendaya in The Drama.",
+      "Robert Pattinson played To Catch a Predator host Chris Hansen in Primetime.",
+      "Robert Pattinson is reportedly the top choice to play the next James Bond, ahead of Nicholas Hoult, Jack Lowden, and Callum Turner.",
+      "Steven Soderbergh stepped in for Matt Reeves on The Batman: Part II."
+    ],
+    "entities": {
+      "people": [
+        "Matt Damon",
+        "Robert Pattinson",
+        "Ben Affleck",
+        "Christopher Nolan",
+        "Tom Holland",
+        "John Leguizamo",
+        "Zendaya",
+        "Charlize Theron",
+        "Himesh Patel",
+        "Elliot Page",
+        "Chris Hansen",
+        "Nicholas Hoult",
+        "Jack Lowden",
+        "Callum Turner",
+        "Steven Soderbergh",
+        "Matt Reeves",
+        "Edward Cullen"
+      ],
+      "titles": [
+        "The Odyssey",
+        "The Drama",
+        "Primetime",
+        "Dune: Part Three",
+        "The Batman: Part II",
+        "Twilight",
+        "James Bond",
+        "Batman"
+      ]
+    },
+    "keywords": [
+      "Matt Damon Robert Pattinson Odyssey",
+      "Robert Pattinson James Bond frontrunner",
+      "Christopher Nolan The Odyssey cast",
+      "Ben Affleck Robert Pattinson Odyssey"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/07/matt-damon-in-the-odyssey.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Matt Damon Praises Robert Pattinson's Performance in The Odyssey as James Bond Casting Rumors Intensify",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 21:19:59 GMT"
   }
 };
