@@ -942,29 +942,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-11-14T19:54:06Z",
-    "run_id": "43634264338",
-    "status": "success",
-    "checked": {
-     "candidates": 15,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana: Part 1 Reaches Day 11 As Total Box Office Collections Cross Significant Milestones",
-      "Adam Driver Slams Disney for Cancelling The Hunt for Ben Solo",
-      "Dhindora Season 2 Trailer Released: Bhuvan Bam and Sanjeeda Sheikh Gear Up for Netflix Premiere",
-      "Ewan McGregor and Claire Danes Headline the New Psychological Thriller Series The Spot"
-     ],
-     "updated": [],
-     "count": 9,
-     "detail": "+4 articles, +0 box-office rows, 5 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-11-14T20:52:02Z",
     "run_id": "43639615930",
     "status": "success",
@@ -1454,6 +1431,24 @@
      "updated": [],
      "count": 211,
      "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-15T18:31:26Z",
+    "run_id": "43740615635",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
    }
@@ -8265,5 +8260,5 @@
    }
   ]
  },
- "updated_at": "2026-11-15T17:40:49Z"
+ "updated_at": "2026-11-15T18:31:26Z"
 }
