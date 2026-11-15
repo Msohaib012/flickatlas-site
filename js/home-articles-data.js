@@ -35,6 +35,149 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sun, 15 Nov 2026 13:47:23 +0200"
   },
+  "1cga3a": {
+    "id": "1cga3a",
+    "type": "news",
+    "headline": "Ramayana Box Office: Set For A Historic 2nd Weekend In India, Dethroning Dhurandhar 2!",
+    "dek": "Ramayana is having a riot at the Indian box office during its second weekend, gearing up for the biggest second weekend in history by overtaking Dhurandhar 2.",
+    "entities": {
+      "people": [],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar 2",
+        "Pushpa 2",
+        "Baahubali 2",
+        "Dhurandhar",
+        "Kalki 2898 AD"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana second weekend",
+      "Dhurandhar 2 box office",
+      "Ramayana collection"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-box-office-set-for-a-historic-2nd-weekend-in-india-dethroning-dhurandhar-2.jpg",
+        "caption": "Ramayana Box Office: Set For A Historic 2nd Weekend In India, Dethroning Dhurandhar 2!",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 11:44:32 +0000"
+  },
+  "1r273ae": {
+    "id": "1r273ae",
+    "type": "news",
+    "headline": "NCT Member Jisung Charms the Force in New Crash 2 Teaser",
+    "dek": "The hit traffic crime K-drama is returning for a second season, bringing new faces like NCT's Jisung into the fold.",
+    "entities": {
+      "people": [
+        "Jisung",
+        "Min So Hee",
+        "Kwak Sun Young",
+        "Eo Hyun Kyung",
+        "Moon Hee",
+        "Yeom Bo Yeon",
+        "Yang Jo Ah",
+        "S Nam"
+      ],
+      "titles": [
+        "Crash 2",
+        "Crash",
+        "ALL or NOTHING",
+        "The Scarecrow"
+      ]
+    },
+    "keywords": [
+      "Crash 2 drama",
+      "NCT Jisung Crash 2",
+      "Crash 2 release date",
+      "Jisung rookie officer"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/15202805/crash-2-jisung-kwaksunyoung-moonhee.png",
+        "caption": "NCT Member Jisung Charms the Force in New Crash 2 Teaser",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 11:39:31 +0000"
+  },
+  "1qqudlq": {
+    "id": "1qqudlq",
+    "type": "news",
+    "headline": "Bigg Boss 20 Weekend Ka Vaar Episode 71: Salman Khan Confronts Kanika Mann",
+    "dek": "Salman Khan takes center stage in the latest Weekend Ka Vaar episode of Bigg Boss 20, calling out Kanika Mann for her silence during an offensive comment directed at Love Gill.",
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Kanika Mann",
+        "Love Gill",
+        "Scout OP",
+        "Qazi",
+        "Aamrapali"
+      ],
+      "titles": [
+        "Bigg Boss 20",
+        "Character Dheela Hai"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20",
+      "Salman Khan",
+      "Kanika Mann",
+      "Weekend Ka Vaar Episode 71",
+      "JioHotstar"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/biggboss20wkvnov15eptimed1-46631794741385.jpg",
+        "caption": "Bigg Boss 20 Weekend Ka Vaar Episode 71: Salman Khan Confronts Kanika Mann",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 16:51:16 +0530"
+  },
+  "gm5xog": {
+    "id": "gm5xog",
+    "type": "news",
+    "headline": "Netflix Officially Cancels Crime Drama Blood Legacy After Two Seasons",
+    "dek": "Streaming giant Netflix has decided not to move forward with a third season of the gritty crime and family power struggle drama, Blood Legacy, leaving viewers without resolution after a dramatic second season cliffhanger.",
+    "entities": {
+      "people": [
+        "Lade Omotade",
+        "Xolile Tshabalala",
+        "Anthony Oseyemi",
+        "Buyile Mdladla",
+        "Mike Ndlangamandla",
+        "Enhle Mbali Mlotshwa",
+        "Connie Chiume",
+        "Thembi Nyandeni",
+        "Amanda Seome"
+      ],
+      "titles": [
+        "Blood Legacy",
+        "Monarca",
+        "Blood Water",
+        "Black Panther"
+      ]
+    },
+    "keywords": [
+      "Blood Legacy Netflix",
+      "Blood Legacy cancelled",
+      "Blood Legacy Season 3",
+      "Xolile Tshabalala Blood Legacy"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/netflix-sign.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Officially Cancels Crime Drama Blood Legacy After Two Seasons",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 11:01:13 GMT"
+  },
   "159a28": {
     "id": "159a28",
     "type": "news",
@@ -4312,146 +4455,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sat, 14 Nov 2026 11:49:18 +0530"
   },
-  "1q60x9b": {
-    "id": "1q60x9b",
-    "type": "news",
-    "headline": "Michael Mann and New Regency Clash in Legal Battle Over Ownership of 1995 Crime Classic Heat",
-    "dek": "Acclaimed filmmaker Michael Mann finds himself locked in a federal court dispute with New Regency over the copyright ownership of his 1995 masterpiece Heat.",
-    "entities": {
-      "people": [
-        "Michael Mann",
-        "Al Pacino",
-        "Robert De Niro",
-        "Yariv Milchan",
-        "Robert Klieger",
-        "Meg Gardiner",
-        "Leonardo DiCaprio",
-        "Christian Bale",
-        "Adam Driver",
-        "Stephen Graham",
-        "Jason Clarke"
-      ],
-      "titles": [
-        "Heat",
-        "Heat 2"
-      ]
-    },
-    "keywords": [
-      "Michael Mann lawsuit",
-      "Heat film rights",
-      "New Regency Heat",
-      "Heat 2 movie"
-    ],
-    "images": [
-      {
-        "url": "https://deadline.com/wp-content/uploads/2025/10/GettyImages-1857917735.jpg?w=1024",
-        "caption": "Michael Mann and New Regency Clash in Legal Battle Over Ownership of 1995 Crime Classic Heat",
-        "source": "Deadline"
-      }
-    ],
-    "published": "Sat, 14 Nov 2026 05:56:57 +0000"
-  },
-  "15p0lut": {
-    "id": "15p0lut",
-    "type": "news",
-    "headline": "YENA Teams Up with Japanese Idol Group CUTIE STREET for Surprise \"Sakuranbo\" Collaboration",
-    "dek": "Singer YENA has surprised fans by revealing a collaborative music video teaser with Japanese idol group CUTIE STREET for her upcoming track \"Sakuranbo\".",
-    "entities": {
-      "people": [
-        "YENA",
-        "Ai Otsuka",
-        "Minsoo-Kim"
-      ],
-      "titles": [
-        "Sakuranbo",
-        "SMILEY",
-        "SMARTPHONE",
-        "Good Morning",
-        "NEMONEMO",
-        "Catch Catch",
-        "IZ*ONE",
-        "CUTIE STREET"
-      ]
-    },
-    "keywords": [
-      "YENA Sakuranbo",
-      "CUTIE STREET collaboration",
-      "Ai Otsuka Sakuranbo cover",
-      "YENA new song 2026"
-    ],
-    "images": [],
-    "published": "Sat, 14 Nov 2026 00:30:00 EST"
-  },
-  "1kvjjjo": {
-    "id": "1kvjjjo",
-    "type": "news",
-    "headline": "Harshvardhan Rane Reportedly Purchases Luxury Home at Lotus Amalfi in Mumbai",
-    "dek": "Actor Harshvardhan Rane has reportedly invested in a high-end property worth ₹15-16 crore located at Lotus Amalfi in Mumbai, adding another significant asset to his growing real estate portfolio.",
-    "entities": {
-      "people": [
-        "Harshvardhan Rane",
-        "Sonam Bajwa"
-      ],
-      "titles": [
-        "Ek Deewane Ki Deewaniyat",
-        "Force 3",
-        "Police Company"
-      ]
-    },
-    "keywords": [
-      "Harshvardhan Rane",
-      "Lotus Amalfi Mumbai",
-      "Ek Deewane Ki Deewaniyat",
-      "Force 3",
-      "Police Company"
-    ],
-    "images": [
-      {
-        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/13110621/image-18.png",
-        "caption": "Harshvardhan Rane Reportedly Purchases Luxury Home at Lotus Amalfi in Mumbai",
-        "source": "MissMalini"
-      }
-    ],
-    "published": "2026-11-14T05:14:37Z"
-  },
-  "1e1qom4": {
-    "id": "1e1qom4",
-    "type": "news",
-    "headline": "Game Of Thrones: The Lion's Reign Officially Announced For Mobile Puzzle RPG",
-    "dek": "The hit mobile puzzle role-playing game Game of Thrones: Legends introduces a major November event centered around Tywin Lannister.",
-    "entities": {
-      "people": [
-        "George R. R. Martin",
-        "Tywin Lannister",
-        "Jon Snow",
-        "Rhaenyra Targaryen",
-        "Ser Duncan Dunk the Tall",
-        "Cersei Lannister",
-        "Sansa Stark"
-      ],
-      "titles": [
-        "Game of Thrones",
-        "House of the Dragon",
-        "A Knight of the Seven Kingdoms",
-        "Game of Thrones: War for Westeros",
-        "Game of Thrones: Legends"
-      ]
-    },
-    "keywords": [
-      "Game of Thrones Legends",
-      "The Lions Reign event",
-      "Tywin Lannister mobile game",
-      "Zynga Game of Thrones mobile"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/cersei-sitting-on-the-iron-throne-with-jaime-lannister-next-to-her-in-game-of-thrones.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Game Of Thrones: The Lion's Reign Officially Announced For Mobile Puzzle RPG",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Sat, 14 Nov 2026 05:00:18 GMT"
-  },
   "1iumf04": {
     "id": "1iumf04",
     "type": "news",
@@ -4660,66 +4663,41 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-13T14:45:17Z"
   },
-  "9gq6m9": {
-    "id": "9gq6m9",
+  "xwrv3l": {
+    "id": "xwrv3l",
     "type": "news",
-    "headline": "Ryan Reynolds and Hugh Jackman Receive Writing Credits for Avengers: Doomsday",
-    "dek": "Recent guild updates clarify the involvement of the Deadpool and Wolverine stars in the upcoming Marvel ensemble film.",
+    "headline": "Anupam Kher Explains Why Yash's Ravana Outshines Ranbir Kapoor's Ram in Ramayana",
+    "dek": "Actor Anupam Kher has weighed in on the character dynamics in Nitesh Tiwari's Ramayana, explaining why the villain appears larger-than-life in the first installment.",
     "entities": {
       "people": [
-        "Ryan Reynolds",
-        "Hugh Jackman",
-        "Patrick Stewart",
-        "James Marsden",
-        "Channing Tatum",
-        "Destin Daniel Cretton",
-        "Michael Waldron",
-        "Stephen McFeely",
-        "Eric Pearson",
-        "Chris McKenna",
-        "Erik Sommers",
-        "Jeff Loveness",
-        "Andrew Lanham",
-        "Anthony Russo",
-        "Joe Russo",
-        "Robert Downey Jr.",
-        "Pedro Pascal",
-        "Chris Hemsworth",
-        "Vanessa Kirby",
-        "Kevin Feige",
-        "Louis D'Esposito",
-        "Jonathan Schwartz"
+        "Anupam Kher",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Vibha Maru"
       ],
       "titles": [
-        "Avengers: Doomsday",
-        "Deadpool Wolverine",
-        "Spider-Man: Brand New Day",
-        "Loki",
-        "Avengers: Infinity War",
-        "Avengers: Endgame",
-        "Deadpool 2",
-        "The Odyssey",
-        "Avengers: Secret Wars",
-        "Fantastic Four",
-        "Black Panther",
-        "Thor",
-        "X-Men"
+        "Ramayana",
+        "Sholay",
+        "Karma"
       ]
     },
     "keywords": [
-      "Avengers Doomsday Ryan Reynolds",
-      "Hugh Jackman Avengers Doomsday",
-      "Avengers Doomsday writers",
-      "Ryan Reynolds Hugh Jackman WGA"
+      "Anupam Kher Ramayana",
+      "Ramayana Part 1 release date",
+      "Nitesh Tiwari Ramayana cast",
+      "Yash Ravana Ramayana Ranbir Kapoor"
     ],
     "images": [
       {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/ryan-reynolds-and-hugh-jackman-in-deadpool-wolverine.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Ryan Reynolds and Hugh Jackman Receive Writing Credits for Avengers: Doomsday",
-        "source": "Screen Rant"
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/13/1600x900/logo/ramayana_1794571122821_3j1Z_1794571122935_rkFU_a472b298-04b7-4275-ba6b-c8ea2009141a_MKrZ.jpg",
+        "caption": "Anupam Kher Explains Why Yash's Ravana Outshines Ranbir Kapoor's Ram in Ramayana",
+        "source": "Hindustan Times — Entertainment"
       }
     ],
-    "published": "Thu, 12 Nov 2026 17:32:40 GMT"
+    "published": "Fri, 13 Nov 2026 18:51:44 +0530"
   },
   "8c197r": {
     "id": "8c197r",
@@ -4852,38 +4830,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-12T14:45:12Z"
-  },
-  "10ntio2": {
-    "id": "10ntio2",
-    "type": "news",
-    "headline": "Daayra OTT Release: Kareena Kapoor and Prithviraj Sukumaran Film Heads to Netflix",
-    "dek": "Meghna Gulzar's directorial venture Daayra, starring Kareena Kapoor Khan and Prithviraj Sukumaran, is officially heading to Netflix for its digital streaming premiere in Hindi and Malayalam.",
-    "entities": {
-      "people": [
-        "Kareena Kapoor",
-        "Prithviraj Sukumaran",
-        "Meghna Gulzar",
-        "Rishabh Suri",
-        "Rohit Shetty"
-      ],
-      "titles": [
-        "Daayra"
-      ]
-    },
-    "keywords": [
-      "Daayra OTT release",
-      "Kareena Kapoor Daayra",
-      "Prithviraj Sukumaran Netflix",
-      "Meghna Gulzar Daayra film"
-    ],
-    "images": [
-      {
-        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/12/1600x900/logo/Daayra_1794490673280_cxEu_1794490673489_O9Y4_2495bf3a-2c75-4f1c-ba1c-79633523709e_gTOG.jpg",
-        "caption": "Daayra OTT Release: Kareena Kapoor and Prithviraj Sukumaran Film Heads to Netflix",
-        "source": "Hindustan Times — Entertainment"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 19:26:20 +0530"
   },
   "1643vxd": {
     "id": "1643vxd",
@@ -5042,6 +4988,49 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-10T17:05:39Z"
+  },
+  "19hv84j": {
+    "id": "19hv84j",
+    "type": "news",
+    "headline": "Yash's Heavy Ravana Wardrobe In Ramayana Reached 33 Kilograms",
+    "dek": "Costume designer Saniya Sardhariya details the extensive craftsmanship behind the heavy garments and unique jewelry created for Yash in Nitesh Tiwari's mythological epic.",
+    "entities": {
+      "people": [
+        "Yash",
+        "Saniya Sardhariya",
+        "Tarang Arora",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Sunny Deol",
+        "Namit Malhotra",
+        "Hans Zimmer",
+        "AR Rahman"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Dangal",
+        "Baahubali 2",
+        "Pushpa 2",
+        "Dhurandhar 2",
+        "Dhurandhar"
+      ]
+    },
+    "keywords": [
+      "Yash Ramayana costume",
+      "Saniya Sardhariya Ravana weight",
+      "Ramayana box office collection",
+      "Tribe Amrapali Ravana jewelry"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135716120,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Yash's Heavy Ravana Wardrobe In Ramayana Reached 33 Kilograms",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-10T21:52:52+05:30"
   },
   "1wgu9wm": {
     "id": "1wgu9wm",

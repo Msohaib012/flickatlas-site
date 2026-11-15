@@ -154239,5 +154239,382 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "Sun, 15 Nov 2026 04:27:00 EST"
+  },
+  "1qqudlq": {
+    "id": "1qqudlq",
+    "type": "news",
+    "headline": "Bigg Boss 20 Weekend Ka Vaar Episode 71: Salman Khan Confronts Kanika Mann",
+    "dek": "Salman Khan takes center stage in the latest Weekend Ka Vaar episode of Bigg Boss 20, calling out Kanika Mann for her silence during an offensive comment directed at Love Gill.",
+    "body": [
+      {
+        "h": "Weekend Ka Vaar Confrontations",
+        "p": [
+          "The latest Weekend Ka Vaar episode of Bigg Boss 20 brings fresh tensions into the house as host Salman Khan takes the floor to address the housemates. With the competition intensifying week by week, contestants are held accountable for their choices, remarks, and actions over the preceding days.",
+          "Ever since its premiere on September 6, the reality show has consistently engaged audiences through unexpected twists, fierce arguments, and shifting dynamics among the participants. This weekend's special episodes put the most significant developments of the past week directly under the spotlight."
+        ]
+      },
+      {
+        "h": "Salman Khan Blasts Kanika Mann",
+        "p": [
+          "In the Saturday segment, host Salman Khan did not hold back while addressing Kanika Mann during the Weekend Ka Vaar proceedings. Following questions directed at Love Gill and Scout OP regarding their previous statements, Salman shifted his focus to Kanika for failing to support Love when Scout made a personal remark.",
+          "The controversy began when Love was singing the song 'Character Dheela Hai', prompting Scout to make an inappropriate comment about her character. Scout also mocked Love's clothing style, stating that his pants came with a belt while her pyjamas lacked a string."
+        ]
+      },
+      {
+        "h": "Accusations of Hypocrisy",
+        "p": [
+          "Salman pointed out that Kanika was standing right there when Scout made the derogatory statement but chose not to intervene. He further accused her of showing partiality toward her friends and behaving differently with various housemates inside the compound.",
+          "Calling out her inaction directly, Salman told her that she did not take a stand despite witnessing the ridiculous statement. Concurring with the host's observation, fellow contestant Qazi agreed and labeled Kanika a hypocrite for her double standards."
+        ]
+      },
+      {
+        "h": "Heated Arguments Escalate",
+        "p": [
+          "The tension escalated further when Kanika got into a subsequent argument with Qazi and Aamrapali, raising her voice while confronting them. Salman immediately stepped in to warn her against adopting that tone or manner of speaking in his presence.",
+          "The host firmly told her not to raise her voice in front of him, noting that he was fully capable of matching that energy. The confrontation spilled over into upcoming promotional material, signaling further friction between the host and the contestant."
+        ]
+      },
+      {
+        "h": "Continued Clash in the Promo",
+        "p": [
+          "Promotional clips for the upcoming November 15 episode show Salman continuing his interrogation of Kanika Mann. He questions whether she considers herself overly smart, even labeling her a 'tubelight' and calling her 'dumb' out of sheer frustration.",
+          "Losing his patience with her persistent justifications, Salman remarks that he has heard enough of her arguments and warns her that his statements are meant for her own good rather than pointless debates."
+        ]
+      },
+      {
+        "h": "Streaming and Schedule Details",
+        "p": [
+          "Episode 71 of Bigg Boss 20 is scheduled to premiere on Sunday, November 15, offering viewers a comprehensive look at the latest house fights and evolving friendships. Fans can catch the broadcast on Colors TV.",
+          "For online viewers, the episode is available to stream on JioHotstar. The reality show maintains a daily release schedule with fresh episodes streaming every day from Monday to Sunday on the platform."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Salman Khan confronted contestant Kanika Mann during the Bigg Boss 20 Weekend Ka Vaar episode for failing to defend Love Gill against derogatory remarks made by Scout OP. Episode 71 premieres on November 15 and is available to watch on Colors TV and JioHotstar."
+        ]
+      }
+    ],
+    "facts": [
+      "Bigg Boss 20 premiered on September 6.",
+      "Episode 71 airs on November 15.",
+      "Salman Khan hosted the Weekend Ka Vaar episode.",
+      "Kanika Mann was questioned for not standing up for Love Gill.",
+      "Scout OP made personal comments about Love Gill's character and clothing."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Kanika Mann",
+        "Love Gill",
+        "Scout OP",
+        "Qazi",
+        "Aamrapali"
+      ],
+      "titles": [
+        "Bigg Boss 20",
+        "Character Dheela Hai"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20",
+      "Salman Khan",
+      "Kanika Mann",
+      "Weekend Ka Vaar Episode 71",
+      "JioHotstar"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/biggboss20wkvnov15eptimed1-46631794741385.jpg",
+        "caption": "Bigg Boss 20 Weekend Ka Vaar Episode 71: Salman Khan Confronts Kanika Mann",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 16:51:16 +0530"
+  },
+  "1r273ae": {
+    "id": "1r273ae",
+    "type": "news",
+    "headline": "NCT Member Jisung Charms the Force in New Crash 2 Teaser",
+    "dek": "The hit traffic crime K-drama is returning for a second season, bringing new faces like NCT's Jisung into the fold.",
+    "body": [
+      {
+        "h": "Introduction to Crash 2",
+        "p": [
+          "The popular K-drama Crash is officially returning with a second installment, expanding the scope of its unique storytelling. As the first Korean television series to center specifically on traffic crime investigations, the original 2024 broadcast carved out a distinct legacy in the industry. Now, the upcoming sequel promises to elevate the action and stakes to a much larger platform.",
+          "With the premiere fast approaching, fans and drama enthusiasts are eagerly awaiting how the narrative will develop. The new season is set to build directly upon the foundation established by its predecessor while introducing fresh narrative directions."
+        ]
+      },
+      {
+        "h": "Evolution of the T.C.I. Team",
+        "p": [
+          "In this upcoming second season, the core police characters are stepping into a much bigger arena. The specialized Traffic Crime Investigation team originating from the Namgang Police Station experiences a major structural upgrade. They transition into an official regional investigative unit operating under the National Office of Investigation.",
+          "This promotion allows the dedicated squad to handle complex traffic crime cases not just locally, but across the entire nation. The expansion opens up numerous storytelling possibilities as the characters face broader and more dangerous criminal networks."
+        ]
+      },
+      {
+        "h": "Teaser Highlights and Plot Setup",
+        "p": [
+          "The newly released promotional footage kicks off with characters Min So Hee and Eo Hyun Kyung experiencing immediate shock due to an unexpected commotion at the precinct. Prompted by curiosity, the two officers walk over to see what is causing the loud disturbance.",
+          "To their surprise, they discover a young rookie officer entertaining his colleagues with impressive dance moves inside the building. This lighthearted moment injects a distinct comedic and charming energy into the typically high-stress environment of a police station."
+        ]
+      },
+      {
+        "h": "Introduction of Rookie Officer Ji Dae Sae",
+        "p": [
+          "The teaser clip introduces the character Ji Dae Sae, played by NCT member Jisung, who steps into the role of a rookie officer. His vibrant presence immediately commands attention from both his fictional peers within the precinct and viewers watching the preview.",
+          "Observing the newcomer's natural stage presence and striking appearance, Min So Hee questions if he is an undercover celebrity. Meanwhile, Eo Hyun Kyung playfully remarks that he resembles an active idol who might simply be filming a project on location."
+        ]
+      },
+      {
+        "h": "Character Interactions and Cast Dynamics",
+        "p": [
+          "Fellow officer Yeom Bo Yeon quickly steps in to introduce the enthusiastic rookie to the bewildered senior staff members. Displaying visible excitement over the new recruit, Yeom Bo Yeon's lively reaction prompts a witty inquiry from Min So Hee regarding her pregnancy.",
+          "Refusing to back down, Yeom Bo Yeon humorously fires back that expecting a child does not strip away her appreciation for a visual treat. This witty exchange highlights the warm camaraderie and realistic chemistry shared among the members of the law enforcement squad."
+        ]
+      },
+      {
+        "h": "Broadcast Schedule and Cast Background",
+        "p": [
+          "The anticipated K-drama is scheduled to make its official television debut on November 16 at 10 p.m. KST. Fans of the ensemble cast can also explore other notable works featuring the lead actors while counting down the hours until the first broadcast.",
+          "Viewers looking for additional content can watch cast member Jisung in projects such as ALL or NOTHING. Similarly, actress Kwak Sun Young can be seen in alternative streaming releases like The Scarecrow."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The upcoming K-drama Crash 2 has released a new teaser ahead of its November 16 premiere at 10 p.m. KST. The preview showcases NCT member Jisung joining the cast as rookie officer Ji Dae Sae, charming his colleagues at the regional investigative unit."
+        ]
+      }
+    ],
+    "facts": [
+      "Crash is the first Korean drama to focus on traffic crime investigations, originally airing in 2024.",
+      "In Crash 2, the T.C.I. team from Namgang Police Station evolves into a regional investigative unit under the National Office of Investigation.",
+      "Crash 2 premieres on November 16 at 10 p.m. KST.",
+      "NCT's Jisung plays rookie officer Ji Dae Sae.",
+      "Kwak Sun Young plays Min So Hee and Moon Hee plays Eo Hyun Kyung.",
+      "Yang Jo Ah plays Yeom Bo Yeon."
+    ],
+    "entities": {
+      "people": [
+        "Jisung",
+        "Min So Hee",
+        "Kwak Sun Young",
+        "Eo Hyun Kyung",
+        "Moon Hee",
+        "Yeom Bo Yeon",
+        "Yang Jo Ah",
+        "S Nam"
+      ],
+      "titles": [
+        "Crash 2",
+        "Crash",
+        "ALL or NOTHING",
+        "The Scarecrow"
+      ]
+    },
+    "keywords": [
+      "Crash 2 drama",
+      "NCT Jisung Crash 2",
+      "Crash 2 release date",
+      "Jisung rookie officer"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/15202805/crash-2-jisung-kwaksunyoung-moonhee.png",
+        "caption": "NCT Member Jisung Charms the Force in New Crash 2 Teaser",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 11:39:31 +0000"
+  },
+  "1cga3a": {
+    "id": "1cga3a",
+    "type": "news",
+    "headline": "Ramayana Box Office: Set For A Historic 2nd Weekend In India, Dethroning Dhurandhar 2!",
+    "dek": "Ramayana is having a riot at the Indian box office during its second weekend, gearing up for the biggest second weekend in history by overtaking Dhurandhar 2.",
+    "body": [
+      {
+        "h": "Phenomenal Box Office Performance",
+        "p": [
+          "The theatrical run of Ramayana is turning into a massive celebration at the Indian box office during its second weekend. Following a very strong opening week, the feature is cashing in on wonderful word-of-mouth and drawing remarkable footfall from audiences everywhere.",
+          "On the second Friday, the cinema release maintained an exceptionally sturdy grip on ticket windows. Yesterday, on the second Saturday, the title went completely wild and registered record-breaking collections that established a completely new benchmark in the industry."
+        ]
+      },
+      {
+        "h": "Factors Driving The Historic Numbers",
+        "p": [
+          "Several vital elements are contributing to this incredible commercial success. Due to overwhelmingly positive word-of-mouth and the complete absence of any major competing releases, the Bollywood magnum opus has retained a truly historic level of showcasing throughout its second week.",
+          "Aside from widespread screen availability, the enterprise also holds a distinct edge stemming from higher ticket prices, particularly within the crucial Hindi belt. This specific financial dynamic is actively assisting the picture in securing massive monetary totals."
+        ]
+      },
+      {
+        "h": "Exceptional Performance In Southern Markets",
+        "p": [
+          "While the Hindi belt is driving substantial revenue, the cinematic outing is simultaneously pulling off a surprise in the South market. The film is performing remarkably well across southern territories, contributing a vital share to its overall business.",
+          "This cross-market appeal has broadened the revenue streams for the project, allowing it to sustain extraordinary momentum well beyond its initial opening frame and into the current weekend phase."
+        ]
+      },
+      {
+        "h": "Detailed Daily Breakdown And Projections",
+        "p": [
+          "Examining the numbers closely, the feature scored a notable 48.6 crore net on its second Friday, marking the ninth day in theaters. This was immediately followed by a massive surge of 56.69 percent, propelling the collections to 76.15 crore net on Saturday for day ten.",
+          "Looking at the current trajectory on the eleventh day, which is the second Sunday, the cinematic attraction is poised to pull in another tremendous figure expected to land between 74 and 78 crore net."
+        ]
+      },
+      {
+        "h": "Surpassing Previous Record Holders",
+        "p": [
+          "With these staggering figures combined, the venture is projected to conclude its second weekend with an accumulated total ranging from 198.75 to 202.75 crore net at the domestic box office. This performance places it on track to comfortably eclipse the previous record holder, Dhurandhar 2.",
+          "Dhurandhar 2 previously held the top spot for second-weekend earnings with 177 crore, followed by Pushpa 2 at 176.5 crore, Baahubali 2 at 153 crore, and the original Dhurandhar at 146.6 crore."
+        ]
+      },
+      {
+        "h": "Additional Milestones And Global Reach",
+        "p": [
+          "Beyond its domestic dominance, the cinematic giant is making significant waves internationally. In North America, the feature successfully surpassed Kalki 2898 AD within just nine days of release to claim the position of the fourth highest-grossing Indian film in that region.",
+          "Back home, the milestone-heavy run continued as the project officially entered Bollywood's top three grossers in India following its historic performance on the second Saturday."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana is experiencing a record-shattering second weekend at the Indian box office, driven by strong word-of-mouth and high ticket rates in the Hindi belt alongside solid performance in the South market.",
+          "With expected total second weekend earnings between 198.75 and 202.75 crore net, the film is set to comfortably surpass Dhurandhar 2 and claim the title of the biggest second weekend in Indian history."
+        ]
+      }
+    ],
+    "facts": [
+      "Second Friday day 9 collection was 48.6 crore",
+      "Second Saturday day 10 collection was 76.15 crore with a 56.69 percent jump",
+      "Second Sunday day 11 expected collection is 74 to 78 crore",
+      "Expected total second weekend collection is 198.75 to 202.75 crore net",
+      "Dhurandhar 2 previous second weekend record was 177 crore",
+      "Pushpa 2 second weekend collection was 176.5 crore",
+      "Baahubali 2 second weekend collection was 153 crore",
+      "Dhurandhar second weekend collection was 146.6 crore"
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar 2",
+        "Pushpa 2",
+        "Baahubali 2",
+        "Dhurandhar",
+        "Kalki 2898 AD"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana second weekend",
+      "Dhurandhar 2 box office",
+      "Ramayana collection"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-box-office-set-for-a-historic-2nd-weekend-in-india-dethroning-dhurandhar-2.jpg",
+        "caption": "Ramayana Box Office: Set For A Historic 2nd Weekend In India, Dethroning Dhurandhar 2!",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 11:44:32 +0000"
+  },
+  "gm5xog": {
+    "id": "gm5xog",
+    "type": "news",
+    "headline": "Netflix Officially Cancels Crime Drama Blood Legacy After Two Seasons",
+    "dek": "Streaming giant Netflix has decided not to move forward with a third season of the gritty crime and family power struggle drama, Blood Legacy, leaving viewers without resolution after a dramatic second season cliffhanger.",
+    "body": [
+      {
+        "h": "The Shocking Cancellation News",
+        "p": [
+          "Streaming giant Netflix has officially pulled the plug on its high-stakes crime drama series, Blood Legacy, choosing not to renew the show for a third season. The announcement arrived abruptly, catching both fans and cast members completely off guard just six weeks after the second season debuted on the platform.",
+          "The surprising development was first made public when lead star Xolile Tshabalala took to social media to bid farewell to the production and her character. In a since-deleted Instagram post, the actress expressed her heartbreak over the sudden news and reflected fondly on her time working across the two successfully delivered seasons."
+        ]
+      },
+      {
+        "h": "A Dramatic Second Season Finale",
+        "p": [
+          "The cancellation lands right on the heels of an explosive second season that left the show's narrative hanging in extreme uncertainty. Spanning a total of twenty episodes and featuring an impactful time jump, the season plunged deeper into the merciless rivalries tearing a powerful family apart.",
+          "The high-tension narrative culminated in a bloody shooting massacre during the finale that decimated several major members of the central dynasty. With the fates of the surviving characters left entirely unresolved, followers of the program are now facing the disappointing reality that the story's conclusion may never be told on screen."
+        ]
+      },
+      {
+        "h": "Origins and Adaptation Background",
+        "p": [
+          "Blood Legacy first premiered on Netflix on September 20, 2024, introducing audiences to a twenty-episode run that adapted the well-known Mexican drama series Monarca. Produced by Gambit Films, the South African production company also recognized for its work on Blood Water, the project quickly established a distinct voice within the streaming catalog.",
+          "During its debut window, the scandalous series managed to break into the Netflix Global Top 10 for TV (Non-English), securing the tenth position during the week of September 22, 2024. That initial launch period generated nine million hours viewed from 1.1 million individual views, while subsequent company engagement reports for late 2024 revealed cumulative numbers climbing to 26.2 million hours."
+        ]
+      },
+      {
+        "h": "Audience Metrics and Global Reception",
+        "p": [
+          "Despite a strong start for its freshman run, the trajectory for the show shifted when its sophomore season dropped. Even with another full twenty-episode order, the second season struggled to capture the same immediate global momentum, failing to break into the coveted Global Top 10 chart during its first five weeks on the service.",
+          "Netflix executives have not provided an official reason for terminating the series, leaving industry observers to weigh streaming metrics against production realities. While the creative team crafted a sweeping narrative arc, the engagement levels ultimately did not secure a continuation beyond the second chapter."
+        ]
+      },
+      {
+        "h": "An Ensemble Cast of Notable Talent",
+        "p": [
+          "The series anchored its tense family dynamics with a powerhouse cast led by Xolile Tshabalala as Khanyi Adesina, the estranged daughter who returns home following the shocking murder of the CEO of Spear Industries in the sugarcane fields of KwaZulu-Natal. Her return immediately triggered an unforgiving battle for dominance over the family business empire.",
+          "Supporting the central conflict were actors Anthony Oseyemi as Akin Adesina, Buyile Mdladla as Mandla Ndlovu, Mike Ndlangamandla as Siya Ndlovu, and Enhle Mbali Mlotshwa as Gabisile Ndlovu. Notably, the production also featured one of the final on-screen performances by the late Black Panther star Connie Chiume, who passed away in August 2024, alongside later season additions Thembi Nyandeni and Amanda Seome."
+        ]
+      },
+      {
+        "h": "The Unresolved Legacy of Spear Industries",
+        "p": [
+          "The narrative core of Blood Legacy relied heavily on the brutal fallout of corporate greed, family betrayals, and regional power dynamics set against the scenic backdrop of South Africa. The inciting incident—the violent demise of the Spear Industries CEO—set in motion a chain of events that continually tested the moral boundaries of every relative involved.",
+          "As the series concludes prematurely after two intense chapters, it leaves behind a distinct imprint on the platform's international thriller lineup. Viewers who invested in the intricate power struggles and emotional toll of the Adesina and Ndlovu families must now reconcile with an abrupt end to a turbulent saga."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has cancelled the South African crime drama Blood Legacy after two seasons, just six weeks after the release of its twenty-episode second season. Lead actress Xolile Tshabalala revealed the cancellation on social media, leaving the show's violent finale and family power struggles permanently unresolved."
+        ]
+      }
+    ],
+    "facts": [
+      "Blood Legacy was cancelled by Netflix just six weeks after Season 2 was released.",
+      "Season 1 of Blood Legacy premiered on September 20, 2024.",
+      "The series adapted the Mexican drama series Monarca.",
+      "Season 1 had 20 episodes and spent one week in Netflix's Global Top 10 for TV (Non-English).",
+      "Connie Chiume, who appeared in the show, passed away in August 2024.",
+      "Xolile Tshabalala starred as Khanyi Adesina."
+    ],
+    "entities": {
+      "people": [
+        "Lade Omotade",
+        "Xolile Tshabalala",
+        "Anthony Oseyemi",
+        "Buyile Mdladla",
+        "Mike Ndlangamandla",
+        "Enhle Mbali Mlotshwa",
+        "Connie Chiume",
+        "Thembi Nyandeni",
+        "Amanda Seome"
+      ],
+      "titles": [
+        "Blood Legacy",
+        "Monarca",
+        "Blood Water",
+        "Black Panther"
+      ]
+    },
+    "keywords": [
+      "Blood Legacy Netflix",
+      "Blood Legacy cancelled",
+      "Blood Legacy Season 3",
+      "Xolile Tshabalala Blood Legacy"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/netflix-sign.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Officially Cancels Crime Drama Blood Legacy After Two Seasons",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 11:01:13 GMT"
   }
 };

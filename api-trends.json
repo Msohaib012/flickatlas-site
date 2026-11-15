@@ -1,78 +1,56 @@
 {
- "generated": "2026-11-15T10:52:51.365894Z",
+ "generated": "2026-11-15T12:01:22.711254Z",
  "items": [
   {
-   "q": "espncricinfo",
+   "q": "orlando weather",
+   "traffic": "1000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-15T11:40:00Z",
+   "observed_at": "2026-11-15T12:01:22.104862Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Coldest weekend in Tampa Bay of the season so far",
+     "url": "https://www.wfla.com/weather/forecast/coldest-weekend-in-tampa-bay-of-the-season-so-far/"
+    },
+    {
+     "title": "Chilly mornings, cool afternoons bring fall weather to the Palm Beaches and Treasure Coast",
+     "url": "https://cbs12.com/news/local/chilly-mornings-cool-afternoons-bring-fall-weather-to-the-palm-beaches-and-treasure-coast"
+    },
+    {
+     "title": "Coolest air of the season so far! Afternoon temperatures in the 60s today",
+     "url": "https://www.gulfcoastnewsnow.com/article/weather-forecast-cold-front-florida-gulf-coast-saturday-cool/74429653"
+    }
+   ]
+  },
+  {
+   "q": "weather houston",
+   "traffic": "100+",
+   "geo": "US",
+   "trending_started_at": "2026-11-15T11:40:00Z",
+   "observed_at": "2026-11-15T12:01:22.104862Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Timeline: Strong cold front hits Houston Sunday",
+     "url": "https://www.click2houston.com/weather/2026/11/14/timeline-strong-cold-front-hits-houston-sunday/"
+    },
+    {
+     "title": "Houston weather: Weather Impact Alert for Strong Storms and Heavy Rain Sunday",
+     "url": "https://www.khou.com/article/weather/forecast/houston-texas-weather-forecast-update/285-eef90a85-8b4b-472f-b573-d23213b4f4b1"
+    },
+    {
+     "title": "Widespread showers and thunderstorms likely on Sunday in the Houston region",
+     "url": "https://spacecityweather.com/widespread-showers-and-thunderstorms-likely-on-sunday-in-the-houston-region/"
+    }
+   ]
+  },
+  {
+   "q": "knock knock",
    "traffic": "200+",
    "geo": "US",
-   "trending_started_at": "2026-11-15T10:40:00Z",
-   "observed_at": "2026-11-15T10:52:50.630718Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Sandpaper scandal: Bowler Chadd Sayers says he took sandpaper from the field and rejects Pat Cummins recount",
-     "url": "https://www.bbc.com/sport/cricket/articles/c9ly4jm8djy7o"
-    },
-    {
-     "title": "Cricket Australia admits it is ‘very unlikely’ players will ever reach agreement on sandpapergate",
-     "url": "https://www.theguardian.com/sport/2026/nov/15/chadd-sayers-rejects-pat-cummins-view-on-sandpapergate-ntwnfb"
-    },
-    {
-     "title": "Usman Khawaja claims fall on deaf ears in South Africa",
-     "url": "https://www.cricbuzz.com/cricket-news/140897/usman-khawaja-claims-fall-on-deaf-ears-in-south-africa-cricbuzzcom"
-    }
-   ]
-  },
-  {
-   "q": "unruly aircraft passenger",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-15T10:30:00Z",
-   "observed_at": "2026-11-15T10:52:50.630718Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "United Airlines flight emergency: Unruly passenger hospitalized after being removed from plane from Tokyo, Japan to Chicago O'Hare",
-     "url": "https://abc7chicago.com/post/united-airlines-flight-emergency-unruly-passenger-hospitalized-being-removed-plane-tokyo-japan-chicago-ohare/20034439/"
-    },
-    {
-     "title": "Unruly passenger and cabin flooding reported on 2 separate flights that landed in Chicago",
-     "url": "https://www.cbsnews.com/video/unruly-passenger-cabin-flooding-reported-separate-flights-landed-chicago/"
-    },
-    {
-     "title": "United Flight 868 Crew Reports Level 3 Threat as Passenger Restrained on Tokyo to Chicago Flight",
-     "url": "https://fish4news.co.uk/united-flight-868-level-three-threat-passenger-restrained/"
-    }
-   ]
-  },
-  {
-   "q": "the tomb of the unknown soldier",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-15T10:30:00Z",
-   "observed_at": "2026-11-15T10:52:50.630718Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "A Warrior Secretary and a Lesson at the Tomb of the Unknowns",
-     "url": "https://www.nytimes.com/2026/11/12/us/politics/pete-hegseth-warrior-image.html"
-    },
-    {
-     "title": "Former Army sentinel explains why Defense Secretary Pete Hegseth was reprimanded at Tomb of the Unknown Soldier",
-     "url": "https://www.wkyc.com/article/news/national/military-news/pete-hegseth-reprimanded-tomb-of-the-unknown-soldier-army-sentinel-defense-secretary-veterans-day-bob-weinberg/95-4eac66ca-433e-4c98-92a0-2ae4d482f544"
-    },
-    {
-     "title": "Hegseth awards medal to guard who scolded him at the Tomb of the Unknown Soldier",
-     "url": "https://www.nbcwashington.com/news/national-international/hegseth-awards-medal-guard-tomb-of-the-unknown-soldier/4181944/"
-    }
-   ]
-  },
-  {
-   "q": "ana de armas",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-15T10:30:00Z",
-   "observed_at": "2026-11-15T10:52:50.630718Z",
+   "trending_started_at": "2026-11-15T11:20:00Z",
+   "observed_at": "2026-11-15T12:01:22.104862Z",
    "feed_url": "https://trends.google.com/trending/rss?geo=US",
    "news": [
     {
@@ -90,121 +68,77 @@
    ]
   },
   {
-   "q": "robot",
+   "q": "uzbekistan",
+   "traffic": "200+",
+   "geo": "US",
+   "trending_started_at": "2026-11-15T11:10:00Z",
+   "observed_at": "2026-11-15T12:01:22.104862Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "China carrying out charm offensive in Uzbekistan",
+     "url": "https://eurasianet.org/china-carrying-out-charm-offensive-in-uzbekistan"
+    },
+    {
+     "title": "CGTN released about 70 reports on China’s ties with Uzbekistan — OilPrice",
+     "url": "https://ua.news/en/dovkolo-svitu/cgtn-vipustiv-blizko-70-materialiv-pro-zviazki-kitaiu-z-uzbekistanom-oilprice"
+    },
+    {
+     "title": "Reforms in New Uzbekistan in the spotlight of the Chinese public",
+     "url": "https://dunyo.info/en/actual/reformy-novogo-uzbekistana-v-centre-vnimaniya-kitayskoy-obshchestvennosti"
+    }
+   ]
+  },
+  {
+   "q": "ron howard",
    "traffic": "100+",
    "geo": "US",
-   "trending_started_at": "2026-11-15T10:00:00Z",
-   "observed_at": "2026-11-15T10:52:50.630718Z",
+   "trending_started_at": "2026-11-15T11:10:00Z",
+   "observed_at": "2026-11-15T12:01:22.104862Z",
    "feed_url": "https://trends.google.com/trending/rss?geo=US",
    "news": [
     {
-     "title": "Robot dogs mounted with rifles deployed in anti-gang stadium operation in Haiti",
-     "url": "https://www.foxnews.com/world/robot-dogs-mounted-rifles-deployed-anti-gang-stadium-operation-haiti"
+     "title": "Ron Howard Says He Falls in Love with Wife Cheryl ‘Over and Over’ (Exclusive)",
+     "url": "https://people.com/ron-howard-reveals-makes-him-fall-in-love-wife-cheryl-over-and-over-after-51-years-marriage-exclusive-12250278"
     },
     {
-     "title": "El Salvador has built up a military presence in Haiti. What's in it for the Central American country?",
-     "url": "https://www.dw.com/en/why-does-el-salvadors-bukele-have-troops-in-haiti/a-79940771"
+     "title": "Ron Howard Reveals What Keeps His Marriage Strong After 51 Years",
+     "url": "https://parade.com/celebrities/ron-howard-reveals-what-keeps-his-marriage-strong-after-51-years"
     },
     {
-     "title": "Haitian police retake national stadium after two years of gang control",
-     "url": "https://www.france24.com/en/americas/20261113-haitian-police-retake-national-stadium-from-gangs-after-two-years"
+     "title": "Ron Howard Calls Wife Cheryl His Career’s ‘Secret Weapon’: ‘She’s Been So Influential’ (Exclusive)",
+     "url": "https://www.aol.com/articles/ron-howard-calls-wife-cheryl-224146000.html"
     }
    ]
   },
   {
-   "q": "india vs new zealand",
-   "traffic": "50000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-15T09:50:00Z",
-   "observed_at": "2026-11-15T10:52:50.630718Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Arshdeep and Co help India defend 209 for 3-1 series win",
-     "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-5th-odi-1539441/match-report"
-    },
-    {
-     "title": "India tour of New Zealand 2026: Bowlers step up as India complete 3-1 series win",
-     "url": "https://www.cricbuzz.com/cricket-news/140916/bowlers-step-up-as-india-complete-3-1-series-win"
-    },
-    {
-     "title": "Sharma and Kohli struggle again as India reach 209 in the 5th ODI against New Zealand",
-     "url": "https://www.foxsports.com/articles/soccer/sharma-and-kohli-struggle-again-as-india-reach-209-in-the-5th-odi-against-new-zealand"
-    }
-   ]
-  },
-  {
-   "q": "powerball winning numbers nov 14 2026",
-   "traffic": "200+",
-   "geo": "US",
-   "trending_started_at": "2026-11-15T09:10:00Z",
-   "observed_at": "2026-11-15T10:52:50.630718Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Powerball numbers are in for Saturday’s $63M jackpot",
-     "url": "https://www.usatoday.com/story/money/lottery/2026/11/14/powerball-winning-numbers-november-14-2026/92789626007/"
-    },
-    {
-     "title": "Powerball numbers tonight, Nov. 14? Powerball winning numbers last night",
-     "url": "https://www.yahoo.com/news/us/articles/powerball-numbers-tonight-nov-14-030016388.html"
-    },
-    {
-     "title": "Ohio Lottery Powerball, Pick 3 Midday winning numbers for Nov. 14, 2026",
-     "url": "https://www.cincinnati.com/story/news/local/2026/11/14/ohio-lottery-results-saturday-november-14-2026/92792276007/"
-    }
-   ]
-  },
-  {
-   "q": "donald trump iran war",
+   "q": "dallas weather",
    "traffic": "500+",
    "geo": "US",
-   "trending_started_at": "2026-11-15T09:10:00Z",
-   "observed_at": "2026-11-15T10:52:50.630718Z",
+   "trending_started_at": "2026-11-15T11:00:00Z",
+   "observed_at": "2026-11-15T12:01:22.104862Z",
    "feed_url": "https://trends.google.com/trending/rss?geo=US",
    "news": [
     {
-     "title": "What's Trump's strategy now with Iran? To keep things as they are",
-     "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are"
+     "title": "Dallas weather: Cold, wet weekend for North Texas starts late Saturday",
+     "url": "https://www.fox4news.com/weather/dallas-weather-cold-wet-weekend-north-texas-starts-late-saturday"
     },
     {
-     "title": "US-Iran war: Trump says more US attacks on Iran 'highly unlikely'",
-     "url": "https://www.bbc.com/news/articles/cq5yny4nl2d3o"
+     "title": "Live radar: Here’s when rain arrives across D-FW this weekend",
+     "url": "https://www.dallasnews.com/news/weather/article/dallas-weather-storms-bring-2-inches-rain-weekend-22520987.php"
     },
     {
-     "title": "As Trump shifts Iran strategy, Gulf allies pursue diplomacy with Tehran - Compass Points",
-     "url": "https://www.pbs.org/newshour/video/compass-points/2026/11/as-trump-shifts-iran-strategy-gulf-allies-pursue-diplomacy-with-tehran"
+     "title": "Rain, thunderstorms expected across North Texas Sunday",
+     "url": "https://www.cbsnews.com/texas/video/rain-thunderstorms-expected-across-north-texas-sunday/"
     }
    ]
   },
   {
-   "q": "gta 6 pc release date",
+   "q": "rory mcilroy",
    "traffic": "200+",
    "geo": "US",
-   "trending_started_at": "2026-11-15T09:10:00Z",
-   "observed_at": "2026-11-15T10:52:50.630718Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Here’s when GTA 6 could come to PC and Nintendo Switch 2",
-     "url": "https://www.the-independent.com/extras/indybest/gadgets-tech/video-games-consoles/gta-6-pc-nintendo-switch-2-b3084736.html"
-    },
-    {
-     "title": "Take-Two CEO Zelnick: AI Wont Kill Gaming Jobs",
-     "url": "https://finance.yahoo.com/video/two-ceo-zelnick-ai-wont-130209253.html"
-    },
-    {
-     "title": "GTA 6 PC News - Tracking When It Will Release",
-     "url": "https://mobalytics.gg/gamebase/guides/grand-theft-auto-6-pc-release-date"
-    }
-   ]
-  },
-  {
-   "q": "dp world tour championship",
-   "traffic": "1000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-15T09:10:00Z",
-   "observed_at": "2026-11-15T10:52:50.630718Z",
+   "trending_started_at": "2026-11-15T10:50:00Z",
+   "observed_at": "2026-11-15T12:01:22.104862Z",
    "feed_url": "https://trends.google.com/trending/rss?geo=US",
    "news": [
     {
@@ -212,56 +146,122 @@
      "url": "https://www.espn.com/golf/story/_/id/50479782/mcilroy-chacarra-set-sunday-showdown-dubai"
     },
     {
-     "title": "The DP World Tour Championship title, the Race to Dubai Crown, PGA Tour Dual Membership and Open exemptions: Here's what's at stake on the final day",
-     "url": "https://www.europeantour.com/dpworld-tour/news/articles/detail/pga-tour-dual-membership-what-s-at-stake-on-the-final-day-of-dp-world-tour-championship/"
+     "title": "Here’s the prize money payout for the DP World Tour's 2026 Race to Dubai bonus pool",
+     "url": "https://www.golfdigest.com/story/heres-prize-money-payout-for-dp-world-tour-2026-race-to-dubai-bonus-pool"
     },
     {
-     "title": "Here’s the prize money payout for each golfer at the 2026 DP World Tour Championship",
-     "url": "https://www.golfdigest.com/story/heres-prize-money-payout-for-each-golfer-at-2026-dp-world-tour-championship"
+     "title": "DP World Tour Championship - final round LIVE! Latest scores, highlights as Rory McIlroy chases Race to Dubai win",
+     "url": "https://www.skysports.com/golf/live-blog/13612212/dp-world-tour-championship-final-round-live-latest-scores-highlights-as-rory-mcilroy-chases-race-to-dubai-win"
     }
    ]
   },
   {
-   "q": "donald trump iran war",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-15T10:20:00Z",
-   "observed_at": "2026-11-15T10:52:50.630718Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "q": "espncricinfo",
+   "traffic": "2000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-15T10:40:00Z",
+   "observed_at": "2026-11-15T12:01:22.104862Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
    "news": [
     {
-     "title": "US Iran War Live Updates: Iran claims attack on US base in Bahrain in response to 'hostile' actions",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-khamenei-saudi-houthi-drone-attack-middle-east-tensions-latest-news/liveblog/135841424.cms"
+     "title": "India’s Under-19 Asia Cup win over Pakistan marred by post-match aggression",
+     "url": "https://www.aljazeera.com/sports/2026/11/15/indias-under-19-asia-cup-win-over-pakistan-marred-by-post-match-aggression"
     },
     {
-     "title": "Video | US Iran War | Iran Accuses US Of 'Economic Terrorism', Says Blockade Threatens Livelihoods Of People",
-     "url": "https://www.ndtv.com/video/us-iran-war-iran-accuses-us-of-economic-terrorism-says-blockade-threatens-livelihoods-of-people-1191594"
+     "title": "Mo-hits! Last-ball boundary seals U19 Asia Cup triumph for India",
+     "url": "https://sports.yahoo.com/articles/mo-hits-last-ball-boundary-094200200.html"
     },
     {
-     "title": "Iran accuses US of threatening to starve its people | Tap to know more | Inshorts",
-     "url": "https://inshorts.com/en/news/iran-accuses-us-of-threatening-to-starve-its-people-1794730220917"
+     "title": "Ball by Ball Commentary & Live Score - IND19 vs PAK19, Final",
+     "url": "https://www.cricinfo.com/series/under-19s-asia-cup-2026-27-1558428/india-under-19s-vs-pakistan-under-19s-final-1558444/ball-by-ball-commentary"
     }
    ]
   },
   {
-   "q": "raj shamani",
+   "q": "unruly aircraft passenger",
    "traffic": "200+",
+   "geo": "US",
+   "trending_started_at": "2026-11-15T10:30:00Z",
+   "observed_at": "2026-11-15T12:01:22.104862Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "United Airlines flight emergency: Unruly passenger hospitalized after being removed from plane from Tokyo, Japan to Chicago O'Hare",
+     "url": "https://abc7chicago.com/post/united-airlines-flight-emergency-unruly-passenger-hospitalized-being-removed-plane-tokyo-japan-chicago-ohare/20034439/"
+    },
+    {
+     "title": "Unruly passenger and cabin flooding reported on 2 separate flights that landed in Chicago",
+     "url": "https://www.cbsnews.com/video/unruly-passenger-cabin-flooding-reported-separate-flights-landed-chicago/"
+    },
+    {
+     "title": "United Airlines Flight 868 Declares Level 3 Emergency As Unruly Passenger Is Restrained With Flex Cuffs During 12-Hour Flight To Chicago",
+     "url": "https://www.thetravel.com/united-airlines-flight-868-declares-level-3-emergency-unruly-passenger-restrained-with-flex-cuffs-chicago-tokyo/"
+    }
+   ]
+  },
+  {
+   "q": "the tomb of the unknown soldier",
+   "traffic": "200+",
+   "geo": "US",
+   "trending_started_at": "2026-11-15T10:30:00Z",
+   "observed_at": "2026-11-15T12:01:22.104862Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "A Warrior Secretary and a Lesson at the Tomb of the Unknowns",
+     "url": "https://www.nytimes.com/2026/11/12/us/politics/pete-hegseth-warrior-image.html"
+    },
+    {
+     "title": "Former Army sentinel explains why Defense Secretary Pete Hegseth was reprimanded at Tomb of the Unknown Soldier",
+     "url": "https://www.wkyc.com/article/news/national/military-news/pete-hegseth-reprimanded-tomb-of-the-unknown-soldier-army-sentinel-defense-secretary-veterans-day-bob-weinberg/95-4eac66ca-433e-4c98-92a0-2ae4d482f544"
+    },
+    {
+     "title": "Hegseth awards medal to guard who scolded him at the Tomb of the Unknown Soldier",
+     "url": "https://www.nbcwashington.com/news/national-international/hegseth-awards-medal-guard-tomb-of-the-unknown-soldier/4181944/"
+    }
+   ]
+  },
+  {
+   "q": "மழை",
+   "traffic": "5000+",
    "geo": "IN",
-   "trending_started_at": "2026-11-15T10:20:00Z",
-   "observed_at": "2026-11-15T10:52:50.630718Z",
+   "trending_started_at": "2026-11-15T11:40:00Z",
+   "observed_at": "2026-11-15T12:01:22.104862Z",
    "feed_url": "https://trends.google.com/trending/rss?geo=IN",
    "news": [
     {
-     "title": "Indian podcaster Raj Shamani beats Joe Rogan and Steven Bartlett to become no. 1",
-     "url": "https://americanbazaaronline.com/2026/11/14/indian-podcaster-raj-shamani-beats-joe-rogan-and-steven-bartlett-to-become-no-1-492312/"
+     "title": "சென்னை - கடலூர் இடையே கரையைக் கடக்கிறதா அக்வான் புயல்?",
+     "url": "https://www.dinamani.com/tamilnadu/2026/Nov/15/will-cyclone-akwan-cross-the-coast-between-chennai-and-cuddalore"
     },
     {
-     "title": "Raj Shamani’s Figuring Out becomes world’s most-subscribed YouTube podcast",
-     "url": "https://indiantelevision.com/iworld/raj-shamanis-figuring-out-becomes-worlds-most-subscribed-youtube-podcast/"
+     "title": "Akwan Cyclone| கடலில் நின்று `கன்பார்ம்’ செய்த அசுரன்.. சென்னை நடுவே கரையை கடக்கிறது",
+     "url": "https://www.thanthitv.com/news/breaking/asuran-cyclone-confirmed-at-sea-set-to-make-landfall-near-chennai"
     },
     {
-     "title": "Raj Shamani’s ‘Figuring Out’ Passes ‘The Diary of a CEO’ and Joe Rogan in YouTube Subscribers",
-     "url": "https://www.netinfluencer.com/raj-shamani-figuring-out-passes-diary-of-a-ceo-joe-rogan-youtube-subscribers/"
+     "title": "வங்கக் கடலில் நவம்பர் 16ல் தீவிர புயல்! Severe cyclonic storm in the Bay of Bengal on November 16",
+     "url": "https://minnambalam.com/severe-cyclonic-storm-in-the-bay-of-bengal-on-november-16/"
+    }
+   ]
+  },
+  {
+   "q": "panchayat season 5",
+   "traffic": "100+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-15T11:40:00Z",
+   "observed_at": "2026-11-15T12:01:22.104862Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Prime Video’s cryptic message puts Panchayat season 5 in doubt",
+     "url": "https://indiantelevision.com/iworld/prime-videos-cryptic-message-puts-panchayat-season-5-in-doubt/"
+    },
+    {
+     "title": "Panchayat Season 5 OTT release date update: When and where to watch Jitendra Kumar, Neena Gupta's hit ser",
+     "url": "https://m.economictimes.com/magazines/panache/panchayat-season-5-ott-release-date-update-when-and-where-to-watch-jitendra-kumar-neena-guptas-hit-series-online/articleshow/135850211.cms"
+    },
+    {
+     "title": "Panchayat Season 5 Release Date, Cast & OTT Details | Vi",
+     "url": "https://www.myvi.in/blog/panchayat-season-5-release-date-cast-ott"
     }
    ]
   }

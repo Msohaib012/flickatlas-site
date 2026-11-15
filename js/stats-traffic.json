@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-15T10:52:58Z",
+  "generated": "2026-11-15T12:01:29Z",
   "realtime": {
     "active_users": 6
   },
   "today": {
-    "users": 81,
-    "pageviews": 91,
-    "sessions": 82,
-    "avg_session_seconds": 2.8
+    "users": 87,
+    "pageviews": 102,
+    "sessions": 88,
+    "avg_session_seconds": 4.1
   },
   "last7": {
-    "users": 397,
-    "pageviews": 674,
-    "sessions": 446,
-    "avg_session_seconds": 31.4
+    "users": 403,
+    "pageviews": 685,
+    "sessions": 451,
+    "avg_session_seconds": 31.3
   },
   "top_pages": [
     {
@@ -26,8 +26,8 @@
     {
       "path": "/box-office",
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
-      "views": 24,
-      "avg_time_seconds": 14.9
+      "views": 27,
+      "avg_time_seconds": 17.2
     },
     {
       "path": "/ott",
@@ -82,8 +82,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 422,
-      "users": 385
+      "sessions": 427,
+      "users": 391
     },
     {
       "source": "(not set)",
@@ -107,7 +107,7 @@
   "countries": [
     {
       "country": "United States",
-      "users": 97
+      "users": 101
     },
     {
       "country": "Brazil",
@@ -115,7 +115,7 @@
     },
     {
       "country": "Singapore",
-      "users": 52
+      "users": 53
     },
     {
       "country": "Hong Kong",
@@ -131,7 +131,7 @@
     },
     {
       "country": "Colombia",
-      "users": 17
+      "users": 18
     },
     {
       "country": "Bangladesh",
@@ -149,7 +149,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 390
+      "users": 396
     },
     {
       "device": "mobile",
