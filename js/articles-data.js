@@ -150804,5 +150804,387 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-15T02:04:44Z"
+  },
+  "it29do": {
+    "id": "it29do",
+    "type": "news",
+    "headline": "BTS Dominates Melon Music Awards 2026 With Four Major Wins and Special Tribute",
+    "dek": "BTS received a dedicated video tribute for their global ARIRANG World Tour and secured four major awards, including two Daesangs, at Day 1 of the 2026 Melon Music Awards.",
+    "body": [
+      {
+        "h": "Special Tribute at MMA 2026",
+        "p": [
+          "The 2026 Melon Music Awards paid special tribute to BTS with a dedicated VCR celebrating their monumental ARIRANG World Tour. The montage highlighted the group's massive global influence and their ongoing efforts to expand the reach of K-pop to audiences worldwide.",
+          "Showcased in front of the entire K-pop industry, the visual presentation featured powerful messages like MAKE A LEGEND and hailed the group as the No.1 Artist who connected fans across the globe through music."
+        ]
+      },
+      {
+        "h": "Pioneering Musical Evolution",
+        "p": [
+          "The awards ceremony acknowledged the musical evolution demonstrated in the group's fifth album, ARIRANG. The project successfully blends their Korean identity with their early hip-hop spirit.",
+          "According to the event's presentation, BTS continues to go beyond changing the music game, pioneering an entirely new path while proving that their name remains their strongest competitive edge."
+        ]
+      },
+      {
+        "h": "Four Major Victories",
+        "p": [
+          "BTS emerged as one of the biggest winners on the first day of the ceremony, taking home four major awards in total. Their accolades included the prestigious Stage Of The Year for their live performances on the ARIRANG World Tour.",
+          "The group also secured Album Of The Year (Daesang) for ARIRANG, alongside Global Top 10 and Top 10 Artists honours, further cementing their status in the music industry."
+        ]
+      },
+      {
+        "h": "Milestones and Record Achievements",
+        "p": [
+          "These victories added to an already historic legacy for the group. As of November 14, 2026, BTS has accumulated a record 78 Daesangs throughout their career.",
+          "The recognition at the Melon Music Awards underscored their sustained dominance and enduring impact on the international music scene."
+        ]
+      },
+      {
+        "h": "ARIRANG World Tour Continues",
+        "p": [
+          "Following their success at the ceremony, BTS is set to resume their massive concert schedule. The ARIRANG World Tour will head to Kaohsiung, Taiwan.",
+          "The group has scheduled three back-to-back performances taking place on November 19, 21, and 22, 2026, at the city's Kaohsiung National Stadium."
+        ]
+      },
+      {
+        "h": "Fan Reactions and ARMY Pride",
+        "p": [
+          "Supporters worldwide took to social media to celebrate the special VCR and the group's achievements. The fandom, known as ARMY, flooded online platforms with expressions of pride.",
+          "Fans highlighted the tribute's inspiring declarations, with one admirer calling the montage iconic and others proclaiming the group to be the greatest of all time."
+        ]
+      },
+      {
+        "h": "Day 1 Ceremony Highlights",
+        "p": [
+          "The first day of the Melon Music Awards 2026 featured honours for several prominent K-pop acts. Alongside BTS, aespa claimed the Global K-Artist of the Year Daesang.",
+          "Other notable winners included ATEEZ, I.O.I, RIIZE, Hearts2Hearts, RESCENE, and Lim Young Woong, as the event celebrated achievements in music and global popularity."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "BTS received a special shout-out video celebrating their ARIRANG World Tour and won four major awards at the 2026 Melon Music Awards. The group's accomplishments include taking home the Album Of The Year and Stage Of The Year Daesangs, bringing their total career Daesang count to 78 as they prepare to resume their tour in Taiwan."
+        ]
+      }
+    ],
+    "facts": [
+      "BTS won four major awards at the 2026 Melon Music Awards on Day 1.",
+      "Awards won include Stage Of The Year and Album Of The Year (Daesang) for ARIRANG, Global Top 10, and Top 10 Artists.",
+      "BTS has won a record 78 Daesangs as of November 14, 2026.",
+      "The ARIRANG World Tour will resume in Kaohsiung, Taiwan, at Kaohsiung National Stadium on November 19, 21, and 22, 2026.",
+      "Other winners on Day 1 included aespa, ATEEZ, I.O.I, RIIZE, Hearts2Hearts, RESCENE, and Lim Young Woong."
+    ],
+    "entities": {
+      "people": [
+        "Arpita Sarkar",
+        "Lim Young Woong"
+      ],
+      "titles": [
+        "ARIRANG"
+      ]
+    },
+    "keywords": [
+      "BTS ARIRANG World Tour",
+      "Melon Music Awards 2026",
+      "BTS four major awards",
+      "BTS ARIRANG album"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156510064,thumbsize-498770,width-1280,height-720,resizemode-75/156510064.jpg",
+        "caption": "BTS Dominates Melon Music Awards 2026 With Four Major Wins and Special Tribute",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T02:56:42Z"
+  },
+  "kfp21m": {
+    "id": "kfp21m",
+    "type": "news",
+    "headline": "ENHYPEN Unveils I Want You Music Video From THE SIN: PARALLEL WORLD",
+    "dek": "K-pop group ENHYPEN has dropped the music video for their latest track, I Want You, offering a fresh human perspective on their vampire-inspired universe ahead of their debut performance in India.",
+    "body": [
+      {
+        "h": "Introduction to the New Music Video",
+        "p": [
+          "K-pop boy group ENHYPEN has transported fans into an alternate reality with the release of their latest music video for the track I Want You. The song serves as a major piece from their upcoming spin-off single album.",
+          "The newly dropped video presents a departure from the group's signature darker aesthetic by reimagining the six members as ordinary humans experiencing everyday life and romance."
+        ]
+      },
+      {
+        "h": "Exploring the Alternate Human Reality",
+        "p": [
+          "The visual narrative opens in a peaceful world where the members engage in relatable daily activities and personal moments. Jay is featured going about his routine inside a cosy home, while Ni-ki captures the nervous excitement of accidental physical contact.",
+          "Other members enjoy similarly intimate settings: Jake prepares dinner for a date, Jungwon visits an amusement park, Sunoo spends time at a snow-covered campsite, and Sunghoon shares an emotional moment in an art gallery."
+        ]
+      },
+      {
+        "h": "Interruption of the Vampire Lore",
+        "p": [
+          "Despite the peaceful and romantic tone of the opening scenes, the narrative eventually shifts. Rapid-fire flashbacks and memories tied to the group's established vampire storyline begin to interrupt the mortal reality.",
+          "This blending of ordinary human experiences with sudden supernatural reminders highlights the ongoing evolution of the group's fictional universe."
+        ]
+      },
+      {
+        "h": "Album Details and Release Schedule",
+        "p": [
+          "The track I Want You belongs to ENHYPEN's upcoming spin-off single album titled THE SIN: PARALLEL WORLD, scheduled for release on November 23.",
+          "This release adds a fresh chapter to their overarching fictional universe following a busy promotional year that included multiple mini-albums and international singles."
+        ]
+      },
+      {
+        "h": "Context of Previous 2026 Releases",
+        "p": [
+          "The upcoming album follows a series of musical projects launched by the group throughout the year. Their output began in January with the release of their seventh mini album, THE SIN: VANISH.",
+          "Later in the year, the group expanded their discography with a Japanese single titled We'll Be Fine in June, followed by their eighth mini album, THE SIN: BLISS, in August."
+        ]
+      },
+      {
+        "h": "Anticipated India Debut at Weverse Con Festival",
+        "p": [
+          "In addition to their music releases, ENHYPEN is preparing for their official India debut at Weverse Con Festival India 2027. The festival is set to take place on March 27 and 28 in New Delhi.",
+          "The event will be held at the Outdoor Expo Site, Yashobhoomi, marking the first time the festival is organised outside South Korea, with tickets available through BookMyShow Live."
+        ]
+      },
+      {
+        "h": "Festival Lineup and Significance",
+        "p": [
+          "The landmark festival features a star-studded lineup alongside ENHYPEN, including TOMORROW X TOGETHER, LE SSERAFIM, Hwasa, Eric Nam, Dayoung, Lee Hyun, BUMZU, Lara of KATSEYE, and Rhea Raj.",
+          "This upcoming live performance in New Delhi represents a significant milestone for the group's growing fanbase in India."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "ENHYPEN has released the music video for I Want You from their upcoming spin-off single album, THE SIN: PARALLEL WORLD, portraying the members as ordinary humans before supernatural memories interrupt. The release arrives ahead of the group's scheduled live debut in New Delhi at Weverse Con Festival India 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "ENHYPEN released the music video for I Want You on Friday.",
+      "THE SIN: PARALLEL WORLD is scheduled for release on November 23.",
+      "ENHYPEN will perform at Weverse Con Festival India 2027 on March 27 and 28.",
+      "The festival will take place at the Outdoor Expo Site, Yashobhoomi, in New Delhi."
+    ],
+    "entities": {
+      "people": [
+        "Jay",
+        "Ni-ki",
+        "Jake",
+        "Jungwon",
+        "Sunoo",
+        "Sunghoon",
+        "Hwasa",
+        "Eric Nam",
+        "Dayoung",
+        "Lee Hyun",
+        "BUMZU",
+        "Lara",
+        "Rhea Raj"
+      ],
+      "titles": [
+        "I Want You",
+        "THE SIN: PARALLEL WORLD",
+        "THE SIN: VANISH",
+        "We'll Be Fine",
+        "THE SIN: BLISS"
+      ]
+    },
+    "keywords": [
+      "ENHYPEN I Want You",
+      "THE SIN PARALLEL WORLD",
+      "ENHYPEN Weverse Con Festival India 2027",
+      "ENHYPEN music video release"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156509535,thumbsize-115146,width-1280,height-720,resizemode-75/156509535.jpg",
+        "caption": "ENHYPEN Unveils I Want You Music Video From THE SIN: PARALLEL WORLD",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T02:56:42Z"
+  },
+  "1act8a8": {
+    "id": "1act8a8",
+    "type": "news",
+    "headline": "TREASURE Hits a Major Milestone as SHOCK Becomes Their Fastest Music Video to Reach 100 Million Views",
+    "dek": "The K-pop group has shattered their personal milestone, crossing the massive YouTube threshold in under twelve days.",
+    "body": [
+      {
+        "h": "Reaching the Century Mark",
+        "p": [
+          "The popular musical group TREASURE has achieved a remarkable new milestone on YouTube with their latest title track. Their music video officially surpassed the one hundred million views mark, capturing massive attention from fans across the globe.",
+          "According to the official announcement by YG Entertainment, the viewing threshold was crossed during the afternoon hours on November 14."
+        ]
+      },
+      {
+        "h": "Setting a New Personal Best",
+        "p": [
+          "This achievement marks a brand new record for the group, making this particular release their absolute fastest music video to scale the hundred million view count.",
+          "The visual project managed to complete the ascent in less than twelve days, narrowly outpacing their previous best benchmark set earlier in the year."
+        ]
+      },
+      {
+        "h": "Release Timeline and Speed",
+        "p": [
+          "The music video was originally unveiled to the public on November 2 during the evening hours. It required a precise duration of eleven days, twenty-one hours, and fifty minutes to reach the massive milestone.",
+          "This rapid accumulation of views highlights the immense dedication of their fan base and the strong momentum behind their latest musical era."
+        ]
+      },
+      {
+        "h": "Surpassing Previous Successes",
+        "p": [
+          "With this recent accomplishment, SHOCK becomes the fifth music video from the group to officially cross the one hundred million view threshold on the platform.",
+          "They previously achieved this feat with earlier hits including BOY, I LOVE YOU, JIKJIN, and IF I."
+        ]
+      },
+      {
+        "h": "Breaking Past the Former Record Holder",
+        "p": [
+          "The newly crowned music video successfully dethroned the group's prior record holder, which was their previous title track titled IF I.",
+          "That earlier release had reached the one hundred million mark with a timing of eleven days, twenty-two hours, and forty-nine minutes, setting a very tight margin for the new release to beat."
+        ]
+      },
+      {
+        "h": "Agency Confirmation",
+        "p": [
+          "The milestone was formally verified and shared with the public by the group's agency, YG Entertainment, following the data update on the video sharing platform.",
+          "Fans and supporters have been celebrating the achievement across various social media platforms since the announcement was made."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "TREASURE has set a personal record when their music video for SHOCK surpassed 100 million views on YouTube on November 14. Released on November 2, the video reached the milestone in 11 days, 21 hours, and 50 minutes, beating their previous record held by the track IF I."
+        ]
+      }
+    ],
+    "facts": [
+      "TREASURE's SHOCK music video surpassed 100 million views on November 14, 2026 at approximately 3:50 p.m. KST.",
+      "The music video for SHOCK was originally released on November 2 at 6 p.m. KST.",
+      "It took 11 days, 21 hours, and 50 minutes to reach 100 million views.",
+      "SHOCK is TREASURE's fifth music video to hit 100 million views, following BOY, I LOVE YOU, JIKJIN, and IF I.",
+      "The previous record was held by IF I at 11 days, 22 hours, and 49 minutes."
+    ],
+    "entities": {
+      "people": [
+        "E Cha"
+      ],
+      "titles": [
+        "SHOCK",
+        "BOY",
+        "I LOVE YOU",
+        "JIKJIN",
+        "IF I"
+      ]
+    },
+    "keywords": [
+      "TREASURE SHOCK music video",
+      "TREASURE 100 million views",
+      "YG Entertainment TREASURE",
+      "SHOCK music video record"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/15111554/TREASURE.jpeg",
+        "caption": "TREASURE Hits a Major Milestone as SHOCK Becomes Their Fastest Music Video to Reach 100 Million Views",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 02:18:12 +0000"
+  },
+  "dursz5": {
+    "id": "dursz5",
+    "type": "news",
+    "headline": "Parineeti Chopra Praises Ramayana: Rise of a Legend as the Film Crosses ₹1,200 Crore Worldwide",
+    "dek": "Bollywood actress Parineeti Chopra shares her admiration for Nitesh Tiwari's mythological epic, which continues its stellar box-office run during its second weekend.",
+    "body": [
+      {
+        "h": "Parineeti Chopra Lauds The Visual Spectacle",
+        "p": [
+          "Bollywood actress Parineeti Chopra has added her voice to the widespread appreciation for the recent mythological release, Ramayana: Rise of a Legend. Following its theatrical run, the film has drawn steady praise from critics, general audiences, and various members of the film fraternity.",
+          "Taking to her official social media channels, Parineeti shared her enthusiastic reaction after experiencing the cinematic project on the big screen. Her comments focused particularly on the ambitious scale of the production and the technical execution."
+        ]
+      },
+      {
+        "h": "Praise For 3D Visuals And Immersion",
+        "p": [
+          "The actress was specifically drawn to the film's visual effects and the immersive nature of its 3D presentation. She noted how the modern technology elevated the storytelling, making the fictional realm feel remarkably tangible and close to the viewers.",
+          "According to her review, every scene carried a larger-than-life weight that helped forge a deeper connection between the audience and the narrative universe crafted by the filmmakers."
+        ]
+      },
+      {
+        "h": "Emotional Resonance And National Pride",
+        "p": [
+          "Beyond technical merits, Parineeti highlighted the emotional weight of the storytelling. She described the viewing experience as both a proud milestone for the domestic film industry and an emotional journey for devotees.",
+          "Her post emphasized that the project demonstrates the capability of local filmmakers to deliver world-class spectacles that resonate deeply with traditional and contemporary audiences alike."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast And Direction",
+        "p": [
+          "Directed by acclaimed filmmaker Nitesh Tiwari, best known for his previous work on Dangal, the movie brings together a prominent lead cast. The feature stars Ranbir Kapoor, Sai Pallavi, and Yash in central roles.",
+          "The involvement of these major performers has been a key factor in driving continuous footfalls into cinema halls since the feature officially debuted on the big screen."
+        ]
+      },
+      {
+        "h": "Massive Second Weekend Box Office Surge",
+        "p": [
+          "While celebrity praise circulates online, Ramayana: Rise of a Legend continues to dominate the box office. Tracking data indicates a massive surge in earnings during its second Saturday in theatres.",
+          "On its tenth day of release, the film registered a notable 51.6 percent jump compared to its previous day's numbers, bringing in a significant single-day haul domestically."
+        ]
+      },
+      {
+        "h": "Milestone Collection Figures",
+        "p": [
+          "Industry trackers report that the domestic net collection for the mythological drama has climbed to impressive heights. Concurrently, the total domestic gross figures have reached substantial levels across the country.",
+          "On a global scale, the feature has officially surpassed the major milestone of ₹1,200 crore in worldwide gross earnings, underscoring its widespread commercial success."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Parineeti Chopra recently praised Ramayana: Rise of a Legend on Instagram, highlighting its 3D visuals, emotional depth, and scale. Meanwhile, the Nitesh Tiwari directorial starring Ranbir Kapoor, Sai Pallavi, and Yash crossed ₹1,200 crore worldwide after a strong second-weekend jump."
+        ]
+      }
+    ],
+    "facts": [
+      "Parineeti Chopra praised Ramayana: Rise of a Legend on Instagram.",
+      "Nitesh Tiwari is the director of Ramayana: Rise of a Legend.",
+      "The film stars Ranbir Kapoor, Sai Pallavi, and Yash.",
+      "Ramayana: Rise of a Legend earned Rs 72.90 cr net in India on Day 10.",
+      "Day 10 collections marked a 51.6% rise over the previous day.",
+      "The domestic net collection reached Rs 685.60 cr.",
+      "The India gross stands at Rs 819.50 cr.",
+      "Worldwide gross crossed the Rs 1,200 cr mark, reaching Rs 1,228 cr."
+    ],
+    "entities": {
+      "people": [
+        "Parineeti Chopra",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Dangal"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend",
+      "Parineeti Chopra Ramayana",
+      "Ramayana box office collection",
+      "Ranbir Kapoor Yash Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135845616,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Parineeti Chopra Praises Ramayana: Rise of a Legend as the Film Crosses ₹1,200 Crore Worldwide",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T07:41:15+05:30"
   }
 };
