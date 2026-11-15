@@ -156887,5 +156887,463 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 16 Nov 2026 01:29:37 +0530"
+  },
+  "gislkv": {
+    "id": "gislkv",
+    "type": "news",
+    "headline": "Seven OTT Titles Curated for Family and Children Viewing This Weekend",
+    "dek": "Discover a curated list of seven movies and shows streaming across various OTT platforms to celebrate Children's Day with family-friendly entertainment.",
+    "body": [
+      {
+        "h": "Celebrating Children's Day with OTT Streaming",
+        "p": [
+          "Families looking to take a break from schoolwork and daily routines can explore a specially curated watchlist designed for young viewers and adults alike. This year's digital streaming selection offers a diverse blend of content ranging from playful animation and school comedies to imaginative fantasy realms.",
+          "The current line-up ensures that audiences of all ages find something engaging. Younger viewers can enjoy vibrant colors and slapstick comedy, while older children can dive into narratives centered on courage, friendship, and empathy."
+        ]
+      },
+      {
+        "h": "Mythological Mischief in Shivlok Ke Kundakka Mundakka",
+        "p": [
+          "Streaming on KidZ on Zee 5, Shivlok Ke Kundakka Mundakka brings a humorous spin to mythology within a school environment. The narrative is adapted from a book written by Anand Neelakantan.",
+          "The story centers on twin Asura brothers whose mischievous antics land them straight into an Asura Gurukul, where they must navigate the watchful supervision of Guru Mantasari."
+        ]
+      },
+      {
+        "h": "Body-Swapping Empathy in Swapped",
+        "p": [
+          "Available on Netflix, Swapped presents a lighthearted adventure based on the premise of two characters from rival species accidentally exchanging bodies.",
+          "Characters Ollie and Ivy have to step into each other's shoes, delivering a meaningful underlying message about overcoming prejudice and learning true empathy."
+        ]
+      },
+      {
+        "h": "Alien Tales and Detective Sheep",
+        "p": [
+          "The Great Grand Superhero on KidZ on Zee 5 follows a young child named Dipu trying to adjust to a new town. When he boasts that his grandfather secretly battles aliens, his classmates take the claim seriously, leading to comical challenges.",
+          "Meanwhile, Amazon Prime Video features The Sheep Detectives, showcasing a quirky premise where a flock of sheep uses wisdom from detective novels written by their late shepherd George to solve his mysterious death."
+        ]
+      },
+      {
+        "h": "School Chaos and Jungle Adventures",
+        "p": [
+          "Bandbudh Aur Budbak 2.0 on KidZ on Zee 5 returns with characters Badri and Budhdeb, bringing modern school chaos involving smart classrooms, pranks, and unexpected trouble.",
+          "Jungle Tales with Mowgli on JioHotstar offers high-energy entertainment featuring familiar characters like Baloo, Bagheera, and Sher Khan in classic slapstick jungle escapades."
+        ]
+      },
+      {
+        "h": "Block-World Survival in A Minecraft Movie",
+        "p": [
+          "A Minecraft Movie on Netflix rounds out the selection by transporting viewers into a block-shaped universe through a portal.",
+          "Guided by Steve, four misfits navigate an imaginative survival journey that appeals naturally to children who enjoy gaming and crafting environments."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A variety of seven movies and shows have been highlighted for family streaming on OTT platforms to celebrate Children's Day. The selections include animated series, school comedies, and fantasy adventures suitable for viewers of different age groups."
+        ]
+      }
+    ],
+    "facts": [
+      "There are 7 OTT movies and shows featured for family viewing.",
+      "Shivlok Ke Kundakka Mundakka is based on Anand Neelakantan's children's book.",
+      "Shivlok Ke Kundakka Mundakka streams on KidZ on Zee 5.",
+      "Swapped streams on Netflix and features characters Ollie and Ivy.",
+      "The Great Grand Superhero streams on KidZ on Zee 5 and features Dipu.",
+      "The Sheep Detectives streams on Amazon Prime Video and features the shepherd George.",
+      "Bandbudh Aur Budbak 2.0 streams on KidZ on Zee 5 and features Badri and Budhdeb.",
+      "Jungle Tales with Mowgli streams on JioHotstar and features Baloo, Bagheera, and Sher Khan.",
+      "A Minecraft Movie streams on Netflix and features Steve alongside four misfits."
+    ],
+    "entities": {
+      "people": [
+        "Anand Neelakantan",
+        "Guru Mantasari",
+        "Ollie",
+        "Ivy",
+        "Dipu",
+        "George",
+        "Badri",
+        "Budhdeb",
+        "Baloo",
+        "Bagheera",
+        "Sher Khan",
+        "Steve"
+      ],
+      "titles": [
+        "Shivlok Ke Kundakka Mundakka",
+        "Swapped",
+        "The Great Grand Superhero",
+        "The Sheep Detectives",
+        "Bandbudh Aur Budbak 2.0",
+        "Jungle Tales with Mowgli",
+        "A Minecraft Movie"
+      ]
+    },
+    "keywords": [
+      "Childrens Day OTT movies shows",
+      "Shivlok Ke Kundakka Mundakka",
+      "The Sheep Detectives Amazon Prime",
+      "A Minecraft Movie Netflix",
+      "Bandbudh Aur Budbak 2.0"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/childrendayottshows-82361794779189.jpg",
+        "caption": "Seven OTT Titles Curated for Family and Children Viewing This Weekend",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 03:16:50 +0530"
+  },
+  "1gojm8d": {
+    "id": "1gojm8d",
+    "type": "news",
+    "headline": "Club Kid Dominates Specialty Box Office Expansion While Paper Tiger Debuts Strongly",
+    "dek": "A24 feature debut Club Kid leads limited expansions with impressive numbers, while James Gray's Paper Tiger achieves a top-tier per-screen opening.",
+    "body": [
+      {
+        "h": "Club Kid Leads Limited Expansion",
+        "p": [
+          "A24 release Club Kid achieved the most successful limited expansion of the year during its second week in theaters. Playing across 27 screens, the feature debut directed by Jordan Firstman brought in a strong gross, drawing in a young demographic where eighty percent of the audience was under the age of thirty-five.",
+          "The film achieved a notable per-screen average, pushing its cumulative gross higher. Industry comparisons placed its successful rollout on par with the expansion of Anora while outperforming previous summer releases."
+        ]
+      },
+      {
+        "h": "James Gray Directs Paper Tiger",
+        "p": [
+          "Director James Gray achieved his highest per-screen opening with the release of Paper Tiger. The Neon crime thriller brought in a substantial gross across a handful of screens in New York and Los Angeles, bolstered by sold-out director question-and-answer sessions.",
+          "The project was captured entirely on 35mm film, a format that was preserved for its theatrical screenings in both major metropolitan markets."
+        ]
+      },
+      {
+        "h": "Strong Performances Across Indie Releases",
+        "p": [
+          "Searchlight Pictures' Wild Horse Nine continued a steady run during its second week in release. The Martin McDonagh film, featuring performances from John Malkovich and Sam Rockwell, demonstrated one of the tightest holds among major titles in the United States.",
+          "Meanwhile, Bleecker Street horror thriller Victorian Psycho, directed by Zachary Wigon and starring Maika Monroe, Jason Isaacs, and Ruth Wilson, opened widely across more than a thousand screens to cross the million-dollar threshold."
+        ]
+      },
+      {
+        "h": "Event Releases and Unique Debuts",
+        "p": [
+          "Variance Films and Blue Harbor Entertainment collaborated on the event release of Jimmy Jenkins' Nativity-inspired parable God With Us. The project generated significant ticket sales across key markets like Washington D.C., Chicago, and Atlanta despite launching initially without regular evening showtimes.",
+          "Due to widespread sold-out screenings and high demand, theater operators elected to extend the presentation of the movie through the upcoming holiday season."
+        ]
+      },
+      {
+        "h": "Documentary and International Adaptations",
+        "p": [
+          "Assembly Releasing introduced Sean Ono Lennon's documentary feature directing debut, ThreeASFOUR: FULL CIRCLE, at New York's Film Forum. The project features discussions with Lennon alongside design collective members Gabi Asfour, Adi Gil, and Angela Donhauser.",
+          "Oscilloscope also introduced Virgilio Villoresi's Orfeo on a select number of screens. The picture adapts the classic Orpheus and Eurydice myth using Dino Buzzati's graphic novel Poema a fumetti as its foundation."
+        ]
+      },
+      {
+        "h": "Additional Notable Specialty Titles",
+        "p": [
+          "Sony Pictures Classics launched Pedro Almodóvar's latest work, Bitter Christmas, on four screens. Concurrently, the studio's holdover feature The Only Living Pickpocket in New York, featuring John Turturro, continued its steady theatrical run.",
+          "Angel Studios reported solid figures for Drummer Boy in its second week, while Regal Entertainment Distribution managed independent box office returns for packaged episodes of the HBO Max series Heated Rivalry."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A24 release Club Kid captured the top limited expansion spot of the year during its second week on a select number of screens. At the same time, James Gray's crime thriller Paper Tiger achieved a personal best per-screen opening for its director with screenings captured entirely on 35mm."
+        ]
+      }
+    ],
+    "facts": [
+      "Club Kid brought in $756k in week 2 on 27 screens.",
+      "Paper Tiger grossed $215k on 6 screens with a $35.8k per-screen opening.",
+      "Wild Horse Nine grossed $4.6 million on 2,175 screens in week 2 for a cume of $13.3 million.",
+      "Victorian Psycho opened on 1,206 screens to $1.08 million.",
+      "God With Us opened to $885k on 432 screens."
+    ],
+    "entities": {
+      "people": [
+        "Jill Goldsmith",
+        "James Gray",
+        "Pedro Almodóvar",
+        "Alex Gibney",
+        "Jordan Firstman",
+        "Adam Driver",
+        "Scarlett Johansson",
+        "Miles Teller",
+        "Peter Farrelly",
+        "Zachary Wigon",
+        "Maika Monroe",
+        "Jason Isaacs",
+        "Ruth Wilson",
+        "Martin McDonagh",
+        "John Malkovich",
+        "Sam Rockwell",
+        "John Turturro",
+        "Jimmy Jenkins",
+        "Sean Ono Lennon",
+        "Gabi Asfour",
+        "Adi Gil",
+        "Angela Donhauser",
+        "Rosanna Arquette",
+        "Marisa Tomei",
+        "Virgilio Villoresi",
+        "Dino Buzzati",
+        "Johnny Depp",
+        "Bowen Yang",
+        "Jensen Huang",
+        "John Mulaney",
+        "Russell Brand",
+        "David Tennant",
+        "Kevin Feige",
+        "Jeremy Culhane",
+        "Skip Hinnant"
+      ],
+      "titles": [
+        "Victorian Psycho",
+        "Club Kid",
+        "Paper Tiger",
+        "Anora",
+        "The Invite",
+        "I Play Rocky",
+        "Mouse",
+        "Wild Horse Nine",
+        "Bitter Christmas",
+        "The Only Living Pickpocket in New York",
+        "God With Us",
+        "ThreeASFOUR: FULL CIRCLE",
+        "Orfeo",
+        "Poema a fumetti",
+        "Jimmy",
+        "Drummer Boy",
+        "Heated Rivalry",
+        "Ebenezer",
+        "Ramayana",
+        "Godzilla Minus Zero",
+        "Wildwood",
+        "Only Murders In The Building",
+        "Doctor Who",
+        "Harry Potter",
+        "Avengers",
+        "X-Men",
+        "Glee",
+        "Electric Company",
+        "You're A Good Man, Charlie Brown"
+      ]
+    },
+    "keywords": [
+      "Club Kid film",
+      "James Gray Paper Tiger",
+      "Jordan Firstman Club Kid",
+      "Wild Horse Nine box office",
+      "Victorian Psycho movie"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/MCDCLKI_EC011.jpg?w=1024",
+        "caption": "Club Kid Dominates Specialty Box Office Expansion While Paper Tiger Debuts Strongly",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 21:01:07 +0000"
+  },
+  "o63m2n": {
+    "id": "o63m2n",
+    "type": "news",
+    "headline": "Veteran Telugu Actor and Filmmaker Giri Babu Passes Away at 80",
+    "dek": "Renowned Telugu cinema personality Giri Babu has died at the age of 80 while receiving treatment at a hospital in Hyderabad, drawing condolences from political figures and the film industry.",
+    "body": [
+      {
+        "h": "Passing of a Veteran Performer",
+        "p": [
+          "The Telugu film fraternity and fans are mourning the loss of veteran actor, director, and producer Giri Babu, who breathed his last at the age of 80. He passed away on Saturday while undergoing medical treatment at a private hospital located in Kondapur, Hyderabad.",
+          "His death marks the end of a remarkable multi-decade career that left a permanent imprint on regional cinema through diverse roles and dedicated service behind and in front of the camera."
+        ]
+      },
+      {
+        "h": "Early Life and Entry into Cinema",
+        "p": [
+          "Born on June 8, 1946, in Ravinuthala village situated within the Prakasam district of Andhra Pradesh, Giri Babu built a rich foundation in the arts before stepping onto the silver screen.",
+          "He officially launched his acting career in 1973 with his debut appearance in the feature film 'Jagame Maya', which set the stage for a long and productive journey in the entertainment sector."
+        ]
+      },
+      {
+        "h": "Evolution of Roles on Screen",
+        "p": [
+          "During the early stages of his acting journey, Giri Babu frequently portrayed negative characters, showcasing his versatility and ability to captivate audiences with intense villainous performances.",
+          "Over time, he successfully transitioned into a wide variety of other roles, seamlessly taking on heroic parts and nuanced character artist positions that cemented his reputation as a dependable performer."
+        ]
+      },
+      {
+        "h": "Contributions as Director and Producer",
+        "p": [
+          "Beyond his accomplishments as an actor, Giri Babu extended his creative reach into filmmaking by taking on responsibilities as both a director and a producer for several notable projects.",
+          "His producing credits feature titles such as 'Simha Garjana', 'Merupudadi', and 'Indrajith', while his directorial portfolio included films like 'Ranarangam', 'Indrajith', and 'Nee Sukhame Ne Korukunna'."
+        ]
+      },
+      {
+        "h": "Later Career and Final Screen Roles",
+        "p": [
+          "Maintaining an active presence in the industry well into his later years, the veteran artist continued to accept select acting assignments that showcased his enduring passion for the craft.",
+          "His final cinematic appearance on the silver screen took place in the 2023 Telugu movie 'Anni Manchi Sakunamule', marking the concluding chapter of his extensive performance history."
+        ]
+      },
+      {
+        "h": "Family and Personal Background",
+        "p": [
+          "On the personal side, the veteran actor experienced a major loss prior to his own passing when his wife passed away in 2016 following an illness.",
+          "He is survived by his two sons, Bose Babu and the well-known Telugu actor and comedian Raghu Babu, who carries forward the family's legacy in the entertainment world."
+        ]
+      },
+      {
+        "h": "Tributes from Political and Industry Figures",
+        "p": [
+          "Following the news of his death, prominent leaders and colleagues shared heartfelt messages honoring his life, including YSRCP president and former Andhra Pradesh Chief Minister YS Jagan Mohan Reddy.",
+          "Reddy utilized social media to recall Giri Babu as a close friend of his father and an active party member, emphasizing his lasting legacy as an actor, director, and producer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran Telugu actor, director, and producer Giri Babu passed away at the age of 80 on Saturday while undergoing treatment at a Hyderabad hospital. Political figures like YS Jagan Mohan Reddy joined the film fraternity in paying heartfelt tributes to the veteran performer, remembering his extensive contributions to cinema and his personal ties."
+        ]
+      }
+    ],
+    "facts": [
+      "Giri Babu passed away at the age of 80 on November 14, 2026.",
+      "He was undergoing treatment at a private hospital in Kondapur, Hyderabad.",
+      "He was born on June 8, 1946, in Ravinuthala village of Andhra Pradesh's Prakasam district.",
+      "His acting debut was in the 1973 film 'Jagame Maya'.",
+      "He produced films such as 'Simha Garjana', 'Merupudadi', and 'Indrajith'.",
+      "He directed films including 'Ranarangam', 'Indrajith', and 'Nee Sukhame Ne Korukunna'.",
+      "His last screen appearance was in the 2023 Telugu film 'Anni Manchi Sakunamule'.",
+      "His wife passed away in 2016 following an illness.",
+      "He is survived by his two sons, Bose Babu and Raghu Babu.",
+      "YS Jagan Mohan Reddy paid tribute to Giri Babu on X."
+    ],
+    "entities": {
+      "people": [
+        "Giri Babu",
+        "YS Jagan Mohan Reddy",
+        "Bose Babu",
+        "Raghu Babu"
+      ],
+      "titles": [
+        "Jagame Maya",
+        "Simha Garjana",
+        "Merupudadi",
+        "Indrajith",
+        "Ranarangam",
+        "Nee Sukhame Ne Korukunna",
+        "Anni Manchi Sakunamule"
+      ]
+    },
+    "keywords": [
+      "Giri Babu",
+      "Giri Babu death",
+      "Raghu Babu father",
+      "YS Jagan Mohan Reddy tribute Giri Babu"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/14/6624-giri-sirish.png",
+        "caption": "Veteran Telugu Actor and Filmmaker Giri Babu Passes Away at 80",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T21:52:36Z"
+  },
+  "1m1m6fv": {
+    "id": "1m1m6fv",
+    "type": "news",
+    "headline": "Guy Ritchie's Spy Thriller Finds New Life on VOD",
+    "dek": "After finishing its streaming run in America, the action feature starring Jason Statham is climbing the digital rental charts.",
+    "body": [
+      {
+        "h": "A Director's Busy Year",
+        "p": [
+          "Filmmaker Guy Ritchie has maintained an exceptionally active schedule throughout 2026, delivering multiple projects that drew varied responses from audiences and critics alike. His creative output ranged from historical television prequels to gritty modern crime dramas, keeping him consistently in the entertainment headlines.",
+          "While several of his recent small-screen ventures secured swift renewals for subsequent seasons, his cinematic endeavours experienced a more turbulent journey through traditional distribution channels."
+        ]
+      },
+      {
+        "h": "The Theatrical and Streaming Landscape",
+        "p": [
+          "Ritchie's cinematic output this year encountered mixed fortunes, notably highlighted by the theatrical release of In The Grey, which paired Henry Cavill with Jake Gyllenhaal. Despite struggling heavily during its initial box office run, that particular feature subsequently found massive viewership numbers upon transitioning to the Starz subscription platform.",
+          "At the same time, television projects helmed by the director, such as The Gentlemen featuring Theo James and MobLand starring Tom Hardy, continued to capture significant viewer attention and earned additional season orders."
+        ]
+      },
+      {
+        "h": "Frequent Collaborative Partnership",
+        "p": [
+          "Known for his distinct stylistic approach to action cinema, Ritchie frequently partners with prominent leading men who fit his kinetic aesthetic. Among his most reliable collaborators is action star Jason Statham, with whom the filmmaker has already completed five distinct feature films.",
+          "Their professional relationship spans multiple decades and styles, establishing a reliable formula of fast-paced dialogue, stylish action choreography, and charismatic criminal protagonists."
+        ]
+      },
+      {
+        "h": "Operation Fortune's Original Run",
+        "p": [
+          "The creative duo previously teamed up for Operation Fortune: Ruse de Guerre, a James Bond-style espionage thriller designed to test high-stakes international scenarios. In that narrative, Jason Statham portrays top-tier operative Orson Fortune, who is tasked with preventing the acquisition of dangerous weapons technology.",
+          "To accomplish his mission, the operative is forced to recruit a major movie star to act as leverage, blending traditional spy tropes with Ritchie's signature comedic timing and heightened action sequences."
+        ]
+      },
+      {
+        "h": "The VOD Comeback",
+        "p": [
+          "Following its departure from standard subscription streaming libraries in the United States, the spy feature has begun mounting an unexpected comeback. Fans have turned to Video on Demand services to experience the caper once more.",
+          "Digital storefronts including Prime Video and Apple TV have registered a notable surge in rentals, proving that audience interest in the high-concept espionage adventure remains steady."
+        ]
+      },
+      {
+        "h": "Legacy of the Action Partnership",
+        "p": [
+          "The enduring popularity of these digital rentals highlights the durable appeal of the director-actor pairing, which continues to resonate with home viewers. Even years after initial production, their joint efforts retain enough cultural footprint to climb rental charts whenever they pivot to new distribution formats.",
+          "With additional theatrical and streaming collaborations planned for the coming years, the partnership shows no signs of slowing down its output."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Guy Ritchie's spy thriller Operation Fortune: Ruse de Guerre has begun climbing VOD rental charts on platforms like Prime Video and Apple TV after leaving American subscription streaming. The film stars Jason Statham as operative Orson Fortune alongside a supporting cast in a narrative about stopping dangerous weapons technology."
+        ]
+      }
+    ],
+    "facts": [
+      "Guy Ritchie released Young Sherlock on Prime Video earlier in the year.",
+      "In The Grey co-starred Henry Cavill and Jake Gyllenhaal.",
+      "The Gentlemen starred Theo James.",
+      "MobLand starred Tom Hardy.",
+      "Guy Ritchie and Jason Statham have worked together on five movies.",
+      "Operation Fortune: Ruse de Guerre stars Jason Statham as Orson Fortune."
+    ],
+    "entities": {
+      "people": [
+        "Guy Ritchie",
+        "Henry Cavill",
+        "Jake Gyllenhaal",
+        "Theo James",
+        "Tom Hardy",
+        "Jason Statham",
+        "Orson Fortune",
+        "Adam Blevins"
+      ],
+      "titles": [
+        "Young Sherlock",
+        "In The Grey",
+        "The Gentlemen",
+        "MobLand",
+        "Operation Fortune: Ruse de Guerre"
+      ]
+    },
+    "keywords": [
+      "Operation Fortune: Ruse de Guerre",
+      "Guy Ritchie",
+      "Jason Statham",
+      "In The Grey"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/operation-fortune-ruse-de-guerre-cary-elwes.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Guy Ritchie's Spy Thriller Finds New Life on VOD",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 21:30:12 GMT"
   }
 };

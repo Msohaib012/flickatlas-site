@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-15T20:53:42Z",
+  "generated": "2026-11-15T22:00:37Z",
   "realtime": {
-    "active_users": 2
+    "active_users": 0
   },
   "today": {
-    "users": 0,
-    "pageviews": 0,
-    "sessions": 0,
-    "avg_session_seconds": 0
+    "users": 1,
+    "pageviews": 1,
+    "sessions": 1,
+    "avg_session_seconds": 0.0
   },
   "last7": {
-    "users": 440,
-    "pageviews": 708,
-    "sessions": 481,
-    "avg_session_seconds": 40.7
+    "users": 450,
+    "pageviews": 722,
+    "sessions": 491,
+    "avg_session_seconds": 40.0
   },
   "top_pages": [
     {
@@ -66,24 +66,24 @@
       "avg_time_seconds": 12.4
     },
     {
+      "path": "/movie",
+      "title": "Movie Details: Cast, Story & Box Office | FlickAtlas",
+      "views": 14,
+      "avg_time_seconds": 9.9
+    },
+    {
       "path": "/news",
       "title": "Bollywood & Entertainment News | FlickAtlas",
       "views": 14,
       "avg_time_seconds": 11.5
-    },
-    {
-      "path": "/tv",
-      "title": "TV Shows & Series: Cast, Seasons & Episodes | FlickAtlas",
-      "views": 14,
-      "avg_time_seconds": 8.2
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 462,
-      "users": 428
+      "sessions": 471,
+      "users": 437
     },
     {
       "source": "(not set)",
@@ -94,8 +94,8 @@
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 7,
-      "users": 4
+      "sessions": 8,
+      "users": 5
     },
     {
       "source": "search.google.com",
@@ -107,7 +107,7 @@
   "countries": [
     {
       "country": "United States",
-      "users": 111
+      "users": 114
     },
     {
       "country": "Brazil",
@@ -115,7 +115,7 @@
     },
     {
       "country": "Singapore",
-      "users": 53
+      "users": 54
     },
     {
       "country": "Hong Kong",
@@ -123,7 +123,7 @@
     },
     {
       "country": "Vietnam",
-      "users": 26
+      "users": 28
     },
     {
       "country": "Argentina",
@@ -131,7 +131,7 @@
     },
     {
       "country": "Colombia",
-      "users": 20
+      "users": 22
     },
     {
       "country": "Bangladesh",
@@ -149,11 +149,11 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 433
+      "users": 442
     },
     {
       "device": "mobile",
-      "users": 7
+      "users": 8
     }
   ],
   "per_post": {}
