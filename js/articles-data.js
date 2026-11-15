@@ -150034,5 +150034,415 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 14 Nov 2026 23:59:26 GMT"
+  },
+  "1uru85o": {
+    "id": "1uru85o",
+    "type": "news",
+    "headline": "James Gunn Denies Rumours That Skydance Executives Ordered Changes To Man Of Tomorrow",
+    "dek": "Following his sudden departure from DC Studios, filmmaker James Gunn has taken to social media to debunk claims that the upcoming Superman sequel is undergoing sweeping edits and reshoots.",
+    "body": [
+      {
+        "h": "Addressing The Online Speculation",
+        "p": [
+          "In the wake of significant leadership shifts at DC Studios, filmmaker James Gunn has stepped forward to address rampant speculation regarding the upcoming superhero sequel Man of Tomorrow. Rumours had rapidly circulated suggesting that the franchise's creative direction was being overhauled following major corporate changes.",
+          "To clear the air, Gunn utilized social media platform Threads to issue a direct statement. He firmly pushed back against claims that the production was facing mandatory alterations, assuring followers that the narrative surrounding studio interference was entirely fabricated."
+        ]
+      },
+      {
+        "h": "Setting The Record Straight On Studio Access",
+        "p": [
+          "Addressing specific claims about executive oversight, Gunn clarified that leadership from Skydance had not even viewed the footage yet. He noted that outside of his former co-head Peter Safran and a very tight-knit circle of family and trusted friends, no one else had laid eyes on the project.",
+          "This direct denial specifically targeted reports alleging that final cut privileges had been revoked and that impending reshoots were being mandated to alter the cinematic vision originally established for the upcoming franchise installment."
+        ]
+      },
+      {
+        "h": "Unpacking The Rumoured Production Changes",
+        "p": [
+          "Prior to Gunn's public clarification, various reports had surfaced outlining dramatic alterations to the film's cast and narrative structure. Speculation suggested that specific cameos, including Xolo Maridueña's Blue Beetle and Milly Alcock's Supergirl, were slated for removal from the final cut.",
+          "Additionally, unverified stories claimed that reshoots were imminent. Despite these swirling rumours, the reports consistently maintained that lead actor David Corenswet would remain attached to the project to reprise his role as the iconic superhero."
+        ]
+      },
+      {
+        "h": "Leadership Overhaul At DC Studios",
+        "p": [
+          "The current wave of speculation follows a shocking leadership transition at DC Studios that occurred shortly after a major corporate merger involving Paramount and Warner Bros. James Gunn and Peter Safran, who had initially taken the helm in October 2022, were abruptly ousted from their co-head positions.",
+          "In the wake of their departure, former Marvel executive Jeremy Latcham was announced as their replacement. This sudden change in management triggered immediate widespread discussion among industry followers regarding the future viability of the broader comic book universe."
+        ]
+      },
+      {
+        "h": "Fan Backlash And Financial Context",
+        "p": [
+          "The transition at the top has sparked notable backlash online, with dedicated fans loudly voicing their support for Gunn's overarching vision for the studio's cinematic properties. This passionate public response has unfolded against a mixed financial backdrop for recent studio releases, highlighted by the box office struggle of Supergirl alongside the commercial success of Clayface.",
+          "Reports indicated that incoming corporate stakeholders harboured concerns over the profitability of several recent theatrical outings, which ultimately fueled the broader discussions surrounding structural adjustments at the studio."
+        ]
+      },
+      {
+        "h": "Cast And Creative Lineup For The Sequel",
+        "p": [
+          "As a follow-up to Superman (2025), Man of Tomorrow will continue the narrative arc of Clark Kent, with David Corenswet returning to the title role. The ensemble cast features many returning fan-favourites, such as Nicholas Hoult as Lex Luthor, Rachel Brosnahan as Lois Lane, Skyler Gisondo as Jimmy Olsen, Sara Sampaio as Eve Teschmacher, Isabela Merced as Hawkgirl, Nathan Fillion as Guy Gardner, and Edi Gathegi as Mister Terrific.",
+          "The production also welcomes several fresh faces to the franchise. Lars Eidinger joins the cast as Brainiac, Adria Arjona steps in as Maxima, and Aaron Pierre is set to reprise his role as John Stewart from the television series Lanterns."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Following his sudden exit as co-head of DC Studios, James Gunn used social media to deny rumours that executives from Skydance have ordered changes or reshoots for the upcoming film Man of Tomorrow. Gunn confirmed that no outside studio figures have viewed the project, maintaining that work on the David Corenswet vehicle proceeds without the rumored interference."
+        ]
+      }
+    ],
+    "facts": [
+      "James Gunn and Peter Safran were fired as DC Studios co-heads on November 9, 2026.",
+      "Jeremy Latcham replaced James Gunn and Peter Safran as DC Studios head.",
+      "Man of Tomorrow is scheduled for release in 2027.",
+      "David Corenswet stars as Superman in Man of Tomorrow.",
+      "Nicholas Hoult plays Lex Luthor and Rachel Brosnahan plays Lois Lane."
+    ],
+    "entities": {
+      "people": [
+        "James Gunn",
+        "David Ellison",
+        "Peter Safran",
+        "David Corenswet",
+        "Nicholas Hoult",
+        "Xolo Maridueña",
+        "Milly Alcock",
+        "Jeremy Latcham",
+        "Rachel Brosnahan",
+        "Skyler Gisondo",
+        "Sara Sampaio",
+        "Isabela Merced",
+        "Nathan Fillion",
+        "Edi Gathegi",
+        "Lars Eidinger",
+        "Adria Arjona",
+        "Aaron Pierre"
+      ],
+      "titles": [
+        "Man of Tomorrow",
+        "Blue Beetle",
+        "Supergirl",
+        "Clayface",
+        "Superman",
+        "Lanterns"
+      ]
+    },
+    "keywords": [
+      "Man of Tomorrow film",
+      "James Gunn Skydance",
+      "David Corenswet Superman",
+      "DC Studios leadership change"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156509660,thumbsize-1054190,width-1280,height-720,resizemode-75/156509660.jpg",
+        "caption": "James Gunn Denies Rumours That Skydance Executives Ordered Changes To Man Of Tomorrow",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T01:52:01Z"
+  },
+  "1rlpqk0": {
+    "id": "1rlpqk0",
+    "type": "news",
+    "headline": "HBO Reveals First Full Footage From Upcoming Harry Potter Reboot Highlighting Hogwarts Magic",
+    "dek": "HBO has officially dropped the first complete video clip from the highly anticipated Harry Potter television series, showcasing the magical Welcoming Feast and Hogwarts first-day-of-school events.",
+    "body": [
+      {
+        "h": "First Footage Released",
+        "p": [
+          "HBO has officially launched the very first full-length clip from the upcoming television reboot of the iconic franchise. The newly unveiled footage gives fans an immersive look at the magical academy.",
+          "The newly released video centers directly on the first day of school, capturing the atmosphere of the iconic magical castle as students experience it for the first time."
+        ]
+      },
+      {
+        "h": "Welcoming Feast and Sorting",
+        "p": [
+          "A major portion of the released video showcases the traditional Welcoming Feast inside the Great Hall. Viewers get to watch characters participate in their initial house placements.",
+          "The sequence highlights the wonder of the magical academy as the young characters settle into their newly assigned living quarters and social groups following the sorting ceremony."
+        ]
+      },
+      {
+        "h": "Faculty Reactions to Harry",
+        "p": [
+          "The newly debuted scene features significant interactions between key faculty members observing the young protagonist. Professors Dumbledore and McGonagall share a private moment of reflection.",
+          "During this exchange, Professor McGonagall celebrates successfully placing the boy in her Gryffindor house, while both educators express deep astonishment over his striking resemblance to his late father, James."
+        ]
+      },
+      {
+        "h": "Star-Studded Casting Choices",
+        "p": [
+          "The newly shared promotional footage provides audiences with their initial look at the newly assembled cast embodying these legendary literary roles. Veteran actors have stepped into the foundational faculty positions.",
+          "John Lithgow takes on the monumental role of Professor Dumbledore, bringing his extensive acting experience to the headmaster's office. Meanwhile, Janet McTeer assumes the mantle of the strict yet caring Professor McGonagall."
+        ]
+      },
+      {
+        "h": "Franchise Background and Context",
+        "p": [
+          "This upcoming television project represents a major new adaptation spearheaded by HBO, aiming to re-explore the beloved source material through an episodic television format. The network has been gradually rolling out promotional materials.",
+          "Fans and entertainment enthusiasts have been closely tracking every development regarding the production, casting choices, and creative direction since the series was first announced for the platform."
+        ]
+      },
+      {
+        "h": "Significance of the New Preview",
+        "p": [
+          "The release of this initial footage marks a major milestone for the television adaptation, offering tangible proof of the visual tone and stylistic choices the production team is pursuing.",
+          "By focusing the first public clip on the iconic Welcoming Feast and faculty discussions about the protagonist's lineage, the network has successfully generated substantial discussion among global fandoms."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "HBO has officially released the first full clip from the upcoming Harry Potter reboot, highlighting the first day of school and the Welcoming Feast at Hogwarts. The footage features John Lithgow as Dumbledore and Janet McTeer as McGonagall discussing Harry's resemblance to his late father, James, after being sorted into Gryffindor."
+        ]
+      }
+    ],
+    "facts": [
+      "HBO released the first full clip from the Harry Potter reboot on Nov 14, 2026",
+      "John Lithgow plays Professor Dumbledore",
+      "Janet McTeer plays Professor McGonagall",
+      "The clip features the first day of school and Welcoming Feast at Hogwarts",
+      "Professors Dumbledore and McGonagall talk about Harry's resemblance to his late father, James, after he gets into Gryffindor"
+    ],
+    "entities": {
+      "people": [
+        "Richard Nebens",
+        "John Lithgow",
+        "Janet McTeer",
+        "James"
+      ],
+      "titles": [
+        "Harry Potter",
+        "Ray Gunn",
+        "Insidious: Out of the Further",
+        "Constantine 2",
+        "Family Guy"
+      ]
+    },
+    "keywords": [
+      "Harry Potter HBO",
+      "John Lithgow Dumbledore",
+      "Janet McTeer McGonagall",
+      "Harry Potter reboot footage"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/harry-potter-dominic-mclaughlin.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "HBO Reveals First Full Footage From Upcoming Harry Potter Reboot Highlighting Hogwarts Magic",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 01:48:02 GMT"
+  },
+  "pbth5o": {
+    "id": "pbth5o",
+    "type": "news",
+    "headline": "'I Play Rocky' Box Office Collection Day 2: Anthony Ippolito Starrer Earns Rs 62 Lakh in India",
+    "dek": "Anthony Ippolito's biographical drama 'I Play Rocky' experienced a 58.3% surge in Saturday earnings, bringing its two-day domestic net total to Rs 62 lakh.",
+    "body": [
+      {
+        "h": "Initial Box Office Performance and Saturday Growth",
+        "p": [
+          "Anthony Ippolito's biographical feature 'I Play Rocky' had a slow start at the Indian box office, though it saw notable improvement on its second day. The theatrical release brought in Rs 38 lakh net domestically on Saturday, November 14, elevating its cumulative two-day domestic net collection to Rs 62 lakh. Simultaneously, the picture's total India gross earnings advanced to a combined total of Rs 70 lakh.",
+          "The Saturday figures represented a 58.3% increase in net earnings compared to the film's opening day performance. On Friday, November 13, the project had opened with Rs 24 lakh net and an initial India gross of Rs 27 lakh across 223 shows, translating to a 22% occupancy rate."
+        ]
+      },
+      {
+        "h": "Occupancy Improvements and Show Counts",
+        "p": [
+          "Alongside the monetary uptick, audience attendance parameters demonstrated positive movement on the second day. The general occupancy rate improved significantly to reach 33% across the country.",
+          "The screening footprint remained stable with a total of 218 shows recorded on Saturday, contributing to a national cumulative total of 441 shows across the first two days of release according to Sacnilk reports."
+        ]
+      },
+      {
+        "h": "Theatrical Trajectory and Audience Momentum",
+        "p": [
+          "While the second-day jump offered a measure of relief for the production following its modest opening, industry observers note that the overall collection figures remain relatively limited. The enhanced occupancy rate points to a warmer reception among attendees who did turn out for weekend screenings.",
+          "Nonetheless, the feature will require sustained, stronger footfalls if it hopes to establish substantial momentum during its ongoing theatrical run in domestic markets."
+        ]
+      },
+      {
+        "h": "Plot and Historical Context of the Narrative",
+        "p": [
+          "Directed by Peter Farrelly, 'I Play Rocky' transports viewers back to New York City during the mid-1970s. The biographical narrative centers on Sylvester Stallone, brought to life by Anthony Ippolito, during a remarkably difficult phase in his early professional journey.",
+          "Facing a severe shortage of acting opportunities, the struggling artist finds himself unable to pay basic bills while caring for his loyal dog, Butkus. A transformative moment arrives when he watches an intense underdog boxing match against a heavyweight champion, sparking the inspiration to write a screenplay centered on a Philadelphia club fighter named Rocky Balboa."
+        ]
+      },
+      {
+        "h": "Creative Hurdles and Personal Sacrifices",
+        "p": [
+          "The project immediately encountered industry resistance when producers Irvin Winkler, played by P.J. Byrne, and Robert Chartoff, portrayed by Toby Kebbell, faced studio demands to cast an established leading man instead of the writer himself. Stallone steadfastly refused to sell his script unless granted the titular role, plunging himself deeper into financial jeopardy amidst constant rejections.",
+          "Supported faithfully through the ordeal by his partner Sasha, played by AnnaSophia Robb, the financial strain eventually grew so severe that Stallone was forced to part with his dog, Butkus. Eventually, director John Avildsen, portrayed by Jay Duplass, came on board, allowing production to move forward on a restricted budget that ultimately culminated in unexpected cinematic success."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Critical Reception",
+        "p": [
+          "Beyond the central performance by Anthony Ippolito, the supporting cast features Stephan James, Matt Dillon, P.J. Byrne, and Jay Duplass. Behind the camera, Peter Farrelly directs alongside cinematographer Sean Porter and editor Sam Seig.",
+          "Upon release, the title earned a strong four-star rating out of five from ETimes. The review praised the straightforward charm of telling an unbelievable true story, highlighting Farrelly's evident enjoyment in depicting Stallone's refusal to abandon a cherished script despite the heavy production obstacles."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Anthony Ippolito's biographical drama 'I Play Rocky' collected Rs 38 lakh net in India on Saturday, November 14, bringing its two-day domestic net total to Rs 62 lakh and gross earnings to Rs 70 lakh. This marked a 58.3% increase from its Friday opening as occupancy improved to 33% across 218 shows. Directed by Peter Farrelly, the film details Sylvester Stallone's struggles to bring his screenplay to the screen."
+        ]
+      }
+    ],
+    "facts": [
+      "Anthony Ippolito stars as Sylvester Stallone in 'I Play Rocky'",
+      "The film collected Rs 38 lakh net in India on Saturday, November 14",
+      "Two-day domestic net collection reached Rs 62 lakh",
+      "India gross earnings reached Rs 70 lakh",
+      "Saturday earnings rose by 58.3% compared to opening day",
+      "Opening day India net collection was Rs 24 lakh on Friday, November 13",
+      "Opening day India gross stood at Rs 27 lakh across 223 shows with 22% occupancy",
+      "Saturday occupancy rate improved to 33% across 218 shows",
+      "Total combined shows across the first two days reached 441",
+      "Peter Farrelly directed the film",
+      "ETimes gave the film four stars out of five"
+    ],
+    "entities": {
+      "people": [
+        "Anthony Ippolito",
+        "Sylvester Stallone",
+        "Peter Farrelly",
+        "Irvin Winkler",
+        "P.J. Byrne",
+        "Robert Chartoff",
+        "Toby Kebbell",
+        "Sasha",
+        "AnnaSophia Robb",
+        "Butkus",
+        "John Avildsen",
+        "Jay Duplass",
+        "Stephan James",
+        "Matt Dillon",
+        "Sean Porter",
+        "Sam Seig"
+      ],
+      "titles": [
+        "I Play Rocky",
+        "Rocky",
+        "Rocky Balboa"
+      ]
+    },
+    "keywords": [
+      "I Play Rocky box office collection",
+      "Anthony Ippolito I Play Rocky",
+      "I Play Rocky Saturday earnings",
+      "I Play Rocky movie India collection"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135845187,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "'I Play Rocky' Box Office Collection Day 2: Anthony Ippolito Starrer Earns Rs 62 Lakh in India",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T06:39:24+05:30"
+  },
+  "8mloar": {
+    "id": "8mloar",
+    "type": "news",
+    "headline": "Gerard Butler's R-Rated Action Blockbuster 300 Is Leaving Paramount+",
+    "dek": "Zack Snyder's visually distinct Spartan epic is officially departing its streaming home on Paramount+ by the end of the month, prompting a final window for fans to stream the movie.",
+    "body": [
+      {
+        "h": "Departure From Streaming",
+        "p": [
+          "Viewers looking to revisit one of the defining action hits of the late 2000s on subscription streaming will soon need to find an alternative platform. The R-rated feature is set to exit its current home on Paramount+ in the United States, leaving fans with a limited time to stream it as part of their subscription library before it vanishes from the catalog.",
+          "The impending removal brings an end to its current streaming availability, making this final stretch the last opportunity for audiences to watch the stylized historical war drama on the service without renting or purchasing it digitally."
+        ]
+      },
+      {
+        "h": "Background of the Graphic Novel Adaptation",
+        "p": [
+          "Directed by Zack Snyder, the film adapted Frank Miller's acclaimed graphic novel about ancient warfare and Spartan defiance. Warner Bros. harbored behind-the-scenes reservations prior to its theatrical debut, yet the project defied expectations to become a massive financial success upon its release.",
+          "The production ultimately pulled in nearly $470 million at the worldwide box office against a reported production budget of $65 million, proving that its distinct visual approach resonated strongly with ticket buyers despite initial studio skepticism."
+        ]
+      },
+      {
+        "h": "Cast and Production Team",
+        "p": [
+          "The movie was propelled by a notable ensemble cast led by Gerard Butler as King Leonidas, alongside Lena Headey as Queen Gorgo. Other key members of the cast included Dominic West, David Wenham, Rodrigo Santoro, and Michael Fassbender.",
+          "Behind the camera, the project was directed by Zack Snyder from a screenplay co-written with Kurt Johnstad, establishing a bold aesthetic that would define the filmmaker's early career trajectory."
+        ]
+      },
+      {
+        "h": "Critical Reception and Audience Score",
+        "p": [
+          "Upon its initial release, the feature earned mixed-to-positive reviews from critics. Reviewers frequently lauded its groundbreaking visual style and action sequences while offering some criticism toward the narrative depth.",
+          "On Rotten Tomatoes, the film holds a 69 percent approval rating from critics alongside a much higher 89 percent audience score, backed by a consensus describing it as a visually exciting experience filled with intense violence and memorable dialogue."
+        ]
+      },
+      {
+        "h": "Box Office Context and Genre Comparisons",
+        "p": [
+          "The period action film arrived during a cycle of historical epics, arriving a few years after Wolfgang Petersen's Troy. While Troy generated nearly $500 million globally against a much larger budget exceeding $150 million, the Spartan feature achieved immense profitability relative to its modest costs.",
+          "Renewed interest in ancient historical settings has recently surged following the massive theatrical run of Christopher Nolan's The Odyssey, which sparked fresh viewership across older genre titles on various streaming services."
+        ]
+      },
+      {
+        "h": "Franchise Legacy and Future Projects",
+        "p": [
+          "The success of the original movie paved the way for a broader franchise, leading to a follow-up feature titled 300: Rise of an Empire. Furthermore, Zack Snyder has been actively working on a streaming spin-off series set within the same universe.",
+          "As the title leaves its current platform, enthusiasts of the franchise can look toward these ongoing expansions and potential future announcements regarding where the classic action film might land next."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Zack Snyder's 2007 action blockbuster 300 is officially leaving Paramount+ on November 30. The film, which starred Gerard Butler and grossed nearly $470 million worldwide, leaves behind a legacy of distinct visual styling and a dedicated fanbase."
+        ]
+      }
+    ],
+    "facts": [
+      "300 was released on March 7, 2007.",
+      "The film has a runtime of 117 minutes.",
+      "It grossed nearly $470 million worldwide against a budget of $65 million.",
+      "Troy grossed nearly $500 million against a budget of more than $150 million.",
+      "The movie holds a 69 percent critics score and an 89 percent audience score on Rotten Tomatoes.",
+      "300 is leaving Paramount+ on November 30."
+    ],
+    "entities": {
+      "people": [
+        "Gerard Butler",
+        "Zack Snyder",
+        "Christopher Nolan",
+        "Frank Miller",
+        "Lena Headey",
+        "Dominic West",
+        "David Wenham",
+        "Rodrigo Santoro",
+        "Michael Fassbender",
+        "Kurt Johnstad"
+      ],
+      "titles": [
+        "300",
+        "The Odyssey",
+        "Troy",
+        "Percy Jackson the Olympians",
+        "Man of Steel",
+        "Dawn of the Dead",
+        "Watchmen",
+        "Legend of the Guardians: The Owls of Ga'hoole",
+        "Sucker Punch",
+        "300: Rise of an Empire"
+      ]
+    },
+    "keywords": [
+      "300 movie Paramount plus",
+      "Zack Snyder 300 leaving streaming",
+      "Gerard Butler 300 streaming",
+      "300 release date cast"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/300-gerard-butler.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Gerard Butler's R-Rated Action Blockbuster 300 Is Leaving Paramount+",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 01:45:12 GMT"
   }
 };
