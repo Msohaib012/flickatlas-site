@@ -155010,5 +155010,402 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 12:39:39 +0000"
+  },
+  "1mebcji": {
+    "id": "1mebcji",
+    "type": "news",
+    "headline": "Fool In Love Episode 12 Climax And Ending Explained",
+    "dek": "The latest chapter of the Thai BL series brings massive confrontations, shocking betrayals, and a staggering cliffhanger on iQIYI.",
+    "body": [
+      {
+        "h": "Introduction to Episode 12",
+        "p": [
+          "The popular Thai BL series Fool In Love has returned with its twelfth installment, offering viewers intense drama, heated confrontations, and unexpected revelations. Based on the Chinese web novel My Beloved Fool, the show continues to pull in strong engagement from international audiences.",
+          "Starrring Bank Artit and Copter Nuntapong, the latest episode has become a massive talking point across social media platforms. Fans tracking the narrative on streaming platforms have been dissecting every single moment of the dramatic runtime."
+        ]
+      },
+      {
+        "h": "The Search for the Truth Behind Phet",
+        "p": [
+          "In the twelfth chapter, the narrative picks up directly inside Ing's meeting room where Yok attempts to sneak a look. Although Ing notices Yok's presence, he chooses to conceal that he is aware of the intrusion.",
+          "Desperate to clear his brother Phet of wrongdoing, Yok dives deep into digital investigations. Scouring browsing history, foreign websites, and financial transfer logs, Yok uncovers the real culprit behind the frame-up."
+        ]
+      },
+      {
+        "h": "Unmasking Itt as the Real Culprit",
+        "p": [
+          "The digital trail assembled by Yok leads directly to Itt rather than Ing. Itt deliberately orchestrated the setup to strain and damage the relationship between Ing and Yok.",
+          "This revelation changes the dynamic of the conflict, shifting the primary source of tension away from Ing and placing the blame squarely on Itt's manipulative schemes."
+        ]
+      },
+      {
+        "h": "Office Confrontation and Penalty Transfer",
+        "p": [
+          "The episode delivers a series of heavy emotional outbursts, including an emotional breakdown from Ing and a brutal physical beating administered by Ing's father against Itt for his betrayal.",
+          "During a tense office confrontation, Itt transfers a penalty fee of two million to Ing. Yok expresses complete shock, insisting he knew nothing about the financial exchange, while Ing declares he is entirely finished caring about Yok and focuses solely on Itt's actions."
+        ]
+      },
+      {
+        "h": "An Emotional Exchange Between Ing and Yok",
+        "p": [
+          "Outside the main meeting room, Ing and Yok share a fragile, heartbreaking moment. Yok explains that he had actually backed away from their joint plan long beforehand.",
+          "In response, Ing questions why Yok kept quiet if he truly intended to walk away, asking whether they could ever return to how things used to be between them."
+        ]
+      },
+      {
+        "h": "The Cliffhanger Ending",
+        "p": [
+          "The episode closes with a tense sequence where Yok issues a severe warning to Itt via a threatening message, promising to expose his actions, file formal complaints, and submit all collected evidence.",
+          "Following this, Yok rushes to Ing's house, uses a key to open the entrance, and is met with a startling sight inside that leaves him completely frozen in shock."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Episode 12 of the Thai BL series Fool In Love reveals that Itt framed Yok's brother to ruin Ing and Yok's relationship. The chapter concludes with a major cliffhanger after Yok discovers a shocking scene at Ing's house."
+        ]
+      }
+    ],
+    "facts": [
+      "Fool In Love Episode 12 is streaming on iQIYI.",
+      "The series is based on the Chinese web novel My Beloved Fool.",
+      "Bank Artit and Copter Nuntapong star in Fool In Love.",
+      "Itt transferred a penalty fee of 2 million to Ing.",
+      "The episode aired on November 15, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Bank Artit",
+        "Copter Nuntapong",
+        "Ing",
+        "Yok",
+        "Phet",
+        "Itt"
+      ],
+      "titles": [
+        "Fool In Love",
+        "My Beloved Fool"
+      ]
+    },
+    "keywords": [
+      "Fool In Love Episode 12",
+      "Fool In Love Thai BL",
+      "Bank Artit Copter Nuntapong",
+      "Fool In Love iQIYI",
+      "Fool In Love ending explained"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-15t190840-654-87691794749924.jpg",
+        "caption": "Fool In Love Episode 12 Climax And Ending Explained",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 19:42:10 +0530"
+  },
+  "twijxk": {
+    "id": "twijxk",
+    "type": "news",
+    "headline": "Virgin River Season 8: Release Updates, Cast Changes, and Story Clues",
+    "dek": "Everything we know about Virgin River Season 8 on Netflix, including production schedules, director lineups, new cast members, and official episode titles.",
+    "body": [
+      {
+        "h": "First Look at Mel and Jack",
+        "p": [
+          "Netflix released the very first official photograph from Season 8, offering fans a reassuring glimpse of Melinda Monroe and Jack Sheridan together with their baby boy. The image, originating from the season premiere, captures an emotional Jack cradling his newborn son while Mel rests her hand gently on the child's head.",
+          "Significantly, the first-look premiere episode was directed by series star Martin Henderson himself. While the picture confirms that the baby is safely in his parents' arms after the intense finale, Netflix is keeping the infant's name under wraps for the time being."
+        ]
+      },
+      {
+        "h": "Netflix History and Renewal Milestones",
+        "p": [
+          "Virgin River continues to achieve historic milestones for Netflix, having secured an early renewal for Season 8 ahead of the Season 7 premiere. This achievement made the romantic drama Netflix’s longest-running scripted English-language live-action series.",
+          "Demonstrating continued confidence in the property, Netflix subsequently renewed the show for Season 9 before Season 8 even premiered. Season 8 will consist of ten episodes, and the forthcoming Season 9 will bring the total series episode count to 94."
+        ]
+      },
+      {
+        "h": "Production Schedule and Scenic Locations",
+        "p": [
+          "Cameras began rolling for the eighth season on April 22, 2026, and successfully wrapped following a 110-day shoot on August 10, 2026. Series star Kandyse McClure celebrated the completion of production by sharing her excitement over social media.",
+          "The production utilized nine distinct filming regions across British Columbia to maintain the show's signature small-town aesthetic. Regular filming hubs included Vancouver, North Vancouver, Burnaby, Chilliwack, Langley, Maple Ridge, New Westminster, Port Coquitlam, and the Squamish-Lillooet Regional District."
+        ]
+      },
+      {
+        "h": "Director Lineup and Creative Team",
+        "p": [
+          "A mix of returning favorites and new talent will helm the episodes of Season 8. Martin Henderson directs the premiere episode, while veteran director Martin Wood extends his series record to 23 total episodes by directing episodes five and six.",
+          "Norman Buckley joins the directorial roster for episodes seven and eight, bringing his extensive experience from Sweet Magnolias to the production. The behind-the-shelf creative team is led by showrunner and executive producer Patrick Sean Smith."
+        ]
+      },
+      {
+        "h": "Expected Release Window",
+        "p": [
+          "Netflix officially confirmed that Season 8 will premiere in 2027, though an exact launch day has not yet been announced. Industry watchers have noted that original book author Robyn Carr is releasing a special Collector's Edition of the first novel in March 2027, sparking speculation about a potential Q1 release window.",
+          "The forthcoming season follows a seventh season that pulled in strong global viewership, maintaining substantial engagement figures across Netflix's weekly charts and global metrics."
+        ]
+      },
+      {
+        "h": "Cast Departures and New Additions",
+        "p": [
+          "The ensemble cast is undergoing a notable reshuffle for the eighth season. Several recurring characters will not return, including Marco Grazzini as Mike, Sara Canning as Veronica, Lauren Hammersley as Charmaine, Rachel Drance as Marley, and Mark Ghanimé as Dr. Cameron Hayek.",
+          "To fill the gaps, Natasha Calis joins the cast as Dr. Astrid, a confident surgical resident assigned to Doc’s clinic. Additionally, Mitchell Slaggert joins as a laid-back local EMT named Eddie, while core leads like Alexandra Breckenridge, Martin Henderson, Tim Matheson, and Benjamin Hollingsworth all return."
+        ]
+      },
+      {
+        "h": "Episode Titles and Narrative Teases",
+        "p": [
+          "Netflix revealed the ten alphabetical episode titles for Season 8, hinting at a darker tone dealing with trauma and high-stakes drama. Titles include 'A Spirited Affair', 'Bad Moon Rising', 'Fearless', 'Grave Consequences', 'Haunted', 'Hell or High Water', 'The Body Keeps the Score', 'The Harvest', 'The Visitor', and 'Til Death (Do Us Part)'.",
+          "A commemorative wrap T-shirt given to the cast also offered visual clues about upcoming plots, including Jack driving a tractor and a mysterious image of Mel holding two babies, leaving fans to speculate about future developments."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has officially confirmed a 2027 premiere for Season 8 of Virgin River alongside an early renewal for Season 9. Production on the ten-episode season ran from April to August 2026, featuring new cast members alongside returning favorites and a slate of upcoming dramatic storylines."
+        ]
+      }
+    ],
+    "facts": [
+      "Season 8 of Virgin River will premiere on Netflix in 2027.",
+      "Season 8 production started on April 22, 2026, and wrapped on August 10, 2026.",
+      "Season 8 consists of 10 episodes.",
+      "Netflix officially renewed Virgin River for Season 9 on November 13, 2026.",
+      "Season 7 amassed 175.6 million viewing hours and 21.2 million completed views over four weeks in the top 10.",
+      "Natasha Calis joins the cast as Dr. Astrid and Mitchell Slaggert joins as Eddie."
+    ],
+    "entities": {
+      "people": [
+        "Martin Henderson",
+        "Alexandra Breckenridge",
+        "Kandyse McClure",
+        "Martin Wood",
+        "Norman Buckley",
+        "Patrick Sean Smith",
+        "Robyn Carr",
+        "Marco Grazzini",
+        "Sara Canning",
+        "Lauren Hammersley",
+        "Rachel Drance",
+        "Mark Ghanimé",
+        "Natasha Calis",
+        "Mitchell Slaggert",
+        "Tim Matheson",
+        "Benjamin Hollingsworth"
+      ],
+      "titles": [
+        "Virgin River",
+        "Grace and Frankie",
+        "Orange Is the New Black",
+        "Big Mouth",
+        "Sweet Magnolias",
+        "SkyMed"
+      ]
+    },
+    "keywords": [
+      "Virgin River Season 8",
+      "Virgin River Netflix release date",
+      "Virgin River cast changes",
+      "Martin Henderson Virgin River"
+    ],
+    "images": [
+      {
+        "url": "https://www.whats-on-netflix.com/wp-content/uploads/2026/10/virgin-river-season-8-everything-we-know-so-far.jpg",
+        "caption": "Virgin River Season 8: Release Updates, Cast Changes, and Story Clues",
+        "source": "What's on Netflix"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 14:45:39 +0000"
+  },
+  "1kp1715": {
+    "id": "1kp1715",
+    "type": "news",
+    "headline": "Josh actor Sharad Kapoor seeks work after battling depression and health issues",
+    "dek": "Sharad Kapoor has appealed to the film industry for professional opportunities after spending years away from the screen due to severe health struggles and a battle with depression.",
+    "body": [
+      {
+        "h": "An Appeal to the Film Fraternity",
+        "p": [
+          "Actor Sharad Kapoor has openly reached out to the Hindi film industry, requesting casting directors, producers, and filmmakers to consider him for upcoming projects. Known for his memorable performances in mainstream cinema, the actor has made it clear that he is seeking employment opportunities rather than direct financial charity.",
+          "His public appeal comes at a time when he is trying to rebuild his career and reclaim his footing in the entertainment world following a prolonged absence from film and television sets."
+        ]
+      },
+      {
+        "h": "Struggles with Health and Depression",
+        "p": [
+          "The actor disclosed that he has faced a severe phase of depression and multiple physical ailments over the past two to three years. Confined largely to his bed, he had to deal with a brain-related condition and a broken leg, which severely limited his mobility and ability to function.",
+          "Compounding his physical difficulties was the immense emotional toll he experienced after a sexual harassment case was registered against him by Mumbai Police in 2024, an allegation which he has previously denied but which pushed him to isolate himself from social contact and work."
+        ]
+      },
+      {
+        "h": "Parting With His Pets",
+        "p": [
+          "Public attention recently turned toward the actor when a video surfaced showing him parting ways with his four pet dogs named Josh, Rebel, Star, and Panther. Unable to look after them due to his deteriorating health, he had to send his pets to an animal welfare centre.",
+          "This heart-wrenching development sparked widespread concern on social media, prompting industry peers and welfare organizations to check in on his well-being and bring his difficult living conditions to light."
+        ]
+      },
+      {
+        "h": "Support from Friends and Welfare Associations",
+        "p": [
+          "In the wake of his video, friend Hema Choudhary, who operates the Bezubaan Public Welfare Trust, and fellow actor Jaya Bhattacharya visited him to assess his condition and offer support. They provided insights into his nearly two-year struggle with serious physical and mental health hurdles.",
+          "Additionally, the All Indian Cine Workers Association stepped forward to champion his cause, urging the entire film community to give the fifty-year-old artist a fresh platform to showcase his talent."
+        ]
+      },
+      {
+        "h": "Seeking Moral Support and Work",
+        "p": [
+          "Clarifying his stance on monetary assistance, Kapoor emphasized that money is not his primary concern, noting that he primarily desires a chance to act again. He appealed to bodies like CINTAA for moral backing and guidance.",
+          "He expressed deep admiration for veteran actors whom he views as heroes, hoping that a bit of encouragement and professional trust from his peers would help him emerge from this dark chapter of his life."
+        ]
+      },
+      {
+        "h": "Career Background and Notable Roles",
+        "p": [
+          "Sharad Kapoor started his journey in the film industry with the movie Dastak in 1996 and subsequently appeared in several notable titles including Lakshya, LOC: Kargil, and Jai Ho, with his final credited appearance in the 2019 film Cabaret.",
+          "He carved a special niche for himself by playing the antagonist Prakash Sharma in the Shah Rukh Khan and Aishwarya Rai Bachchan starrer Josh, a performance that earned him a Filmfare nomination for Best Actor in a Negative Role."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Sharad Kapoor has appealed to the film industry for work after spending years bedridden due to health issues and depression. With support from the All Indian Cine Workers Association, he hopes to return to acting and overcome his recent challenges."
+        ]
+      }
+    ],
+    "facts": [
+      "Sharad Kapoor is 50 years old.",
+      "He played Prakash Sharma in the film Josh.",
+      "He was last seen in the 2019 film Cabaret.",
+      "A sexual harassment case was registered against him in 2024."
+    ],
+    "entities": {
+      "people": [
+        "Sharad Kapoor",
+        "Shah Rukh Khan",
+        "Aishwarya Rai Bachchan",
+        "Hema Choudhary",
+        "Jaya Bhattacharya",
+        "Suresh Shyamlal Gupta"
+      ],
+      "titles": [
+        "Josh",
+        "Dastak",
+        "Lakshya",
+        "LOC: Kargil",
+        "Jai Ho",
+        "Cabaret"
+      ]
+    },
+    "keywords": [
+      "Sharad Kapoor",
+      "Sharad Kapoor Josh actor",
+      "Sharad Kapoor depression health issues",
+      "AICWA Sharad Kapoor work appeal"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/15/1600x900/logo/Josh_1794747734934_UMeS_1794747739482_zWMn_f31e48fe-dac7-4e15-a478-c82f93a7d76f_haua.jpg",
+        "caption": "Josh actor Sharad Kapoor seeks work after battling depression and health issues",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 18:35:36 +0530"
+  },
+  "bmyimh": {
+    "id": "bmyimh",
+    "type": "news",
+    "headline": "Netflix Unveils Trailer for Historical Documentary Series 'World War II: Behind Enemy Lines'",
+    "dek": "Narrated by Oscar-nominated actor Josh Brolin and directed by Rob Coldstream, the new docuseries uses restored archival media to chronicle the 101st Airborne.",
+    "body": [
+      {
+        "h": "Netflix Announces New Historical Documentary Series",
+        "p": [
+          "Streaming giant Netflix has officially released the full promotional preview for its upcoming historical documentary project titled World War II: Behind Enemy Lines. Scheduled to launch globally this winter, the program aims to give audiences a detailed look at major historical military operations through newly restored media.",
+          "The project serves as a follow-up to a previous streaming success, drawing from the creative team responsible for earlier broadcast achievements in historical nonfiction."
+        ]
+      },
+      {
+        "h": "Focus on the 101st Airborne and Secret Missions",
+        "p": [
+          "The narrative centers specifically on the hazardous undertakings of the 101st Airborne Division operating deep within Nazi-occupied Europe. Viewers will follow these military personnel through a timeline stretching from the historic D-Day landings in 1944 all the way to the conclusion of the conflict in Europe on VE-Day in 1945.",
+          "Producers describe the featured soldiers as a true-life counterpart to legendary historical infantry units, highlighting their courage during covert operations behind enemy lines."
+        ]
+      },
+      {
+        "h": "Restored Archival Footage and Visual Style",
+        "p": [
+          "A primary selling point of the production is its heavy reliance on authentic wartime media captured during the actual combat years. Much of this visual material has undergone extensive cleaning, digital colorization, and enhancement processes.",
+          "This aesthetic choice follows a technical presentation approach originally popularized by filmmaker Peter Jackson during his earlier documentary work covering the First World War."
+        ]
+      },
+      {
+        "h": "Narration by Josh Brolin",
+        "p": [
+          "Guiding viewers through the historical narrative is acclaimed actor Josh Brolin, whose voiceover work anchors the documentary episodes. Brolin brings his recognized vocal delivery to the project, lending emotional gravity to the accounts of wartime hardship.",
+          "The promotional preview highlights his introductory statements regarding the shocking experiences of those who lived through the era."
+        ]
+      },
+      {
+        "h": "Creative Leadership and Production Team",
+        "p": [
+          "Direction for the series comes from British historical non-fiction filmmaker Rob Coldstream. His extensive catalog of past factual titles includes productions such as The Queen in 3-D, Queen Victoria's Last Love, and John Lennon: Murder Without a Trial.",
+          "The production is handled by 72 Films with Caroline Marsden serving as producer. Executive production duties are split between David Glover and Mark Raphael, working alongside the creators of the previous Emmy-winning venture World War II: From The Frontlines."
+        ]
+      },
+      {
+        "h": "Global Streaming Release Schedule",
+        "p": [
+          "Subscribers worldwide will be able to access the program starting on December 2nd, 2026, when it makes its official debut on the platform.",
+          "The release falls squarely into the winter viewing calendar for the streaming service as one of its major upcoming nonfiction titles."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has shared the official preview for the historical documentary series World War II: Behind Enemy Lines, scheduled for a global release on December 2, 2026. Narrated by Josh Brolin and directed by Rob Coldstream, the show utilizes colorized archival footage to chronicle the 101st Airborne division from D-Day to VE-Day."
+        ]
+      }
+    ],
+    "facts": [
+      "World War II: Behind Enemy Lines premieres globally on Netflix on December 2, 2026.",
+      "The series is narrated by Oscar-nominated actor Josh Brolin.",
+      "Director Rob Coldstream leads the project alongside producer Caroline Marsden and 72 Films.",
+      "The documentary follows the 101st Airborne from D-Day in 1944 to VE-Day in 1945."
+    ],
+    "entities": {
+      "people": [
+        "Alex Billington",
+        "Josh Brolin",
+        "Peter Jackson",
+        "Rob Coldstream",
+        "Caroline Marsden",
+        "David Glover",
+        "Mark Raphael"
+      ],
+      "titles": [
+        "World War II: Behind Enemy Lines",
+        "World War II: From The Frontlines",
+        "The Queen in 3-D",
+        "Queen Victoria's Last Love",
+        "The Queen's Mother in Law",
+        "The Last Days of Anne Boleyn",
+        "The Plane That Saved Britain",
+        "North Korea: Inside the Mind of a Dictator",
+        "John Lennon: Murder Without a Trial"
+      ]
+    },
+    "keywords": [
+      "World War II Behind Enemy Lines Netflix",
+      "Josh Brolin World War II Behind Enemy Lines",
+      "Rob Coldstream World War II Behind Enemy Lines",
+      "World War II From The Frontlines"
+    ],
+    "images": [
+      {
+        "url": "https://media2.firstshowing.net/firstshowing/img18/wwiibehindenemydocnfxbigtw1.jpg",
+        "caption": "Netflix Unveils Trailer for Historical Documentary Series 'World War II: Behind Enemy Lines'",
+        "source": "FirstShowing.net"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 14:10:04 +0000"
   }
 };

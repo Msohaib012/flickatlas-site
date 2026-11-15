@@ -1,27 +1,27 @@
 {
   "connected": true,
-  "generated": "2026-11-15T13:05:30Z",
+  "generated": "2026-11-15T15:02:13Z",
   "realtime": {
-    "active_users": 1
+    "active_users": 3
   },
   "today": {
-    "users": 94,
-    "pageviews": 109,
-    "sessions": 95,
-    "avg_session_seconds": 3.9
+    "users": 104,
+    "pageviews": 119,
+    "sessions": 105,
+    "avg_session_seconds": 3.7
   },
   "last7": {
-    "users": 410,
-    "pageviews": 692,
-    "sessions": 458,
-    "avg_session_seconds": 30.9
+    "users": 420,
+    "pageviews": 702,
+    "sessions": 468,
+    "avg_session_seconds": 39.7
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
       "views": 102,
-      "avg_time_seconds": 169.5
+      "avg_time_seconds": 225.9
     },
     {
       "path": "/box-office",
@@ -82,14 +82,14 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 433,
-      "users": 397
+      "sessions": 444,
+      "users": 407
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 16,
-      "users": 14
+      "sessions": 13,
+      "users": 13
     },
     {
       "source": "search.google.com",
@@ -107,11 +107,11 @@
   "countries": [
     {
       "country": "United States",
-      "users": 102
+      "users": 105
     },
     {
       "country": "Brazil",
-      "users": 58
+      "users": 61
     },
     {
       "country": "Singapore",
@@ -122,20 +122,20 @@
       "users": 28
     },
     {
+      "country": "Vietnam",
+      "users": 24
+    },
+    {
       "country": "Argentina",
       "users": 23
     },
     {
-      "country": "Vietnam",
-      "users": 23
+      "country": "Bangladesh",
+      "users": 18
     },
     {
       "country": "Colombia",
       "users": 18
-    },
-    {
-      "country": "Bangladesh",
-      "users": 17
     },
     {
       "country": "Indonesia",
@@ -149,7 +149,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 402
+      "users": 412
     },
     {
       "device": "mobile",
