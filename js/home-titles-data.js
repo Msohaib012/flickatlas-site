@@ -743,7 +743,14 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-10-26",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-10-15"
   },
   "1612811": {
@@ -3536,14 +3543,7 @@ window.FA_PUBLISHED = {
     "published_at": "2026-10-28",
     "date_kind": "release",
     "status": "Released",
-    "providers": [
-      {
-        "name": "MGM Plus",
-        "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
-        "region": "US",
-        "type": "flatrate"
-      }
-    ],
+    "providers": [],
     "release_date": "2026-10-02",
     "popularity": 138.1498
   },
@@ -4825,27 +4825,15 @@ window.FA_PUBLISHED = {
     "status": "Ended",
     "providers": [
       {
-        "name": "Philo",
-        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
-        "region": "US",
+        "name": "Lionsgate Play Apple TV Channel",
+        "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+        "region": "IN",
         "type": "flatrate"
       },
       {
-        "name": "AMC Plus Apple TV channel",
-        "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
-        "region": "US",
-        "type": "flatrate"
-      },
-      {
-        "name": "AMC+ Amazon Channel",
-        "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
-        "region": "US",
-        "type": "flatrate"
-      },
-      {
-        "name": "AMC+",
-        "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
-        "region": "US",
+        "name": "Lionsgate Play Amazon Channel",
+        "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+        "region": "IN",
         "type": "flatrate"
       }
     ],
@@ -19264,7 +19252,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-07",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Sonyliv Amazon Channel",
+        "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-12",
     "popularity": 4.0174
   },
@@ -22431,7 +22426,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-09",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-08",
     "popularity": 2.8881
   },
@@ -25766,7 +25768,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-12",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-12",
     "popularity": 1.6379
   },
@@ -26704,7 +26713,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-13",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-13",
     "popularity": 3.4729
   },
@@ -26947,7 +26963,20 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-13",
     "status": "Returning Series",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Apple TV",
+        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Apple TV Amazon Channel",
+        "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "first_air_date": "2026-11-12",
     "popularity": 14.1474
   },
@@ -27872,7 +27901,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-14",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-12",
     "popularity": 1.5552
   },

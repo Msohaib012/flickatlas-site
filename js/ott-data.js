@@ -165,6 +165,18 @@ window.FA_OTT = {
     },
     {
       "date": "2026-11-13",
+      "date_kind": "release",
+      "id": 1543469,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-13",
       "date_kind": "digital",
       "id": 1780407,
       "providers": [
@@ -229,12 +241,32 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "IN",
       "date": "2026-11-13",
       "date_kind": "digital",
       "id": 1389379,
-      "providers": [],
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
       "type": "movie"
+    },
+    {
+      "date": "2026-11-12",
+      "date_kind": "release",
+      "id": 254630,
+      "providers": [
+        {
+          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        },
+        {
+          "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "name": "Apple TV Amazon Channel"
+        }
+      ],
+      "type": "tv"
     },
     {
       "date": "2026-11-12",
@@ -247,6 +279,18 @@ window.FA_OTT = {
         }
       ],
       "type": "tv"
+    },
+    {
+      "date": "2026-11-12",
+      "date_kind": "release",
+      "id": 1493572,
+      "providers": [
+        {
+          "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+          "name": "Sonyliv Amazon Channel"
+        }
+      ],
+      "type": "movie"
     },
     {
       "date": "2026-11-12",
@@ -268,6 +312,30 @@ window.FA_OTT = {
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-12",
+      "date_kind": "release",
+      "id": 1757174,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-12",
+      "date_kind": "release",
+      "id": 1695819,
+      "providers": [
+        {
+          "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
         }
       ],
       "type": "movie"
@@ -595,14 +663,13 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "CA",
       "date": "2026-11-08",
       "date_kind": "digital",
       "id": 1807995,
       "providers": [
         {
-          "logo_path": "/a2o4bE63LR71m8jHrkx9BnBucN0.png",
-          "name": "Crave"
+          "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
         }
       ],
       "type": "movie"
@@ -1638,15 +1705,11 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "US",
       "date": "2026-10-27",
       "date_kind": "digital",
       "id": 1283515,
-      "providers": [
-        {
-          "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
-          "name": "MGM Plus"
-        }
-      ],
+      "providers": [],
       "type": "movie"
     },
     {
@@ -1747,20 +1810,12 @@ window.FA_OTT = {
       "id": 314360,
       "providers": [
         {
-          "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
-          "name": "Philo"
+          "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+          "name": "Lionsgate Play Apple TV Channel"
         },
         {
-          "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
-          "name": "AMC Plus Apple TV channel"
-        },
-        {
-          "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
-          "name": "AMC+ Amazon Channel"
-        },
-        {
-          "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
-          "name": "AMC+"
+          "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+          "name": "Lionsgate Play Amazon Channel"
         }
       ],
       "type": "tv"

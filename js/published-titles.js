@@ -1271,7 +1271,14 @@ window.FA_PUBLISHED = {
     "certification": "U/A 16+",
     "release_date": "2026-10-15",
     "runtime": 179,
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1612811": {
     "id": 1612811,
@@ -5712,14 +5719,7 @@ window.FA_PUBLISHED = {
     "release_date": "2026-10-02",
     "date_kind": "release",
     "runtime": 121,
-    "providers": [
-      {
-        "name": "MGM Plus",
-        "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
-        "region": "US",
-        "type": "flatrate"
-      }
-    ]
+    "providers": []
   },
   "1422041": {
     "id": 1422041,
@@ -8025,27 +8025,15 @@ window.FA_PUBLISHED = {
     ],
     "providers": [
       {
-        "name": "Philo",
-        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
-        "region": "US",
+        "name": "Lionsgate Play Apple TV Channel",
+        "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+        "region": "IN",
         "type": "flatrate"
       },
       {
-        "name": "AMC Plus Apple TV channel",
-        "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
-        "region": "US",
-        "type": "flatrate"
-      },
-      {
-        "name": "AMC+ Amazon Channel",
-        "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
-        "region": "US",
-        "type": "flatrate"
-      },
-      {
-        "name": "AMC+",
-        "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
-        "region": "US",
+        "name": "Lionsgate Play Amazon Channel",
+        "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+        "region": "IN",
         "type": "flatrate"
       }
     ]
@@ -30421,7 +30409,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-12",
     "date_kind": "release",
     "runtime": 114,
-    "providers": []
+    "providers": [
+      {
+        "name": "Sonyliv Amazon Channel",
+        "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1819575": {
     "id": 1819575,
@@ -35305,7 +35300,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-08",
     "date_kind": "release",
     "runtime": 84,
-    "providers": []
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
   },
   "313738": {
     "id": 313738,
@@ -40660,7 +40662,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-12",
     "date_kind": "release",
     "runtime": 103,
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "249565": {
     "id": 249565,
@@ -42146,7 +42155,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-13",
     "date_kind": "release",
     "runtime": 0,
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1540824": {
     "id": 1540824,
@@ -42541,7 +42557,20 @@ window.FA_PUBLISHED = {
       "Dudi Appleton",
       "Jim Keeble"
     ],
-    "providers": []
+    "providers": [
+      {
+        "name": "Apple TV",
+        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Apple TV Amazon Channel",
+        "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1505424": {
     "id": 1505424,
@@ -43994,7 +44023,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-12",
     "date_kind": "release",
     "runtime": 0,
-    "providers": [],
+    "providers": [
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "providers_wtw": []
   },
   "1819796": {

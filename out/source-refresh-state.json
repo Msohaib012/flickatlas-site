@@ -49,10 +49,10 @@
    "detail": "no valid nonempty source staging; last-good retained"
   },
   "bollybourse_boxoffice": {
-   "last_attempt_at": "2026-11-14T18:59:02Z",
-   "last_run": "2026-11-14T18:59:02Z",
+   "last_attempt_at": "2026-11-15T02:11:34Z",
+   "last_run": "2026-11-15T02:11:34Z",
    "last_status": "success",
-   "last_success": "2026-11-14T18:59:02Z",
+   "last_success": "2026-11-15T02:11:34Z",
    "consecutive_failures": 0,
    "detail": "validated 73 rows; 0 staging files changed"
   },
@@ -73,5 +73,5 @@
    "detail": "reader timed out; last-good staging retained"
   }
  },
- "updated_at": "2026-11-15T01:00:15Z"
+ "updated_at": "2026-11-15T02:11:34Z"
 }

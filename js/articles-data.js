@@ -150444,5 +150444,365 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 01:45:12 GMT"
+  },
+  "wfji8a": {
+    "id": "wfji8a",
+    "type": "news",
+    "headline": "Ramayana OTT Deal Update: Makers Have Not Sold Digital Rights Yet, Producer Dil Raju Claims",
+    "dek": "Producer Dil Raju has made a major claim about the lifetime box office collections of Ramayana while also revealing that the makers have not sold its digital and satellite rights yet.",
+    "body": [
+      {
+        "h": "Global Success of Ramayana",
+        "p": [
+          "The film Ramayana, directed by Nitesh Tiwari and produced by Namit Malhotra, is currently making waves across the globe. Audiences in India and various international territories are flocking to watch the epic spectacle.",
+          "Even before its release in countries like China, Japan, and South America, the project has already accumulated around 400 crore rupees internationally, marking a massive milestone for an Indian film."
+        ]
+      },
+      {
+        "h": "Dil Raju Predicts 2000 Crore Box Office",
+        "p": [
+          "Prominent Telugu producer and distributor Dil Raju stated during a success meet that Namit Malhotra's film is on track to cross the 2000 crore rupee mark at the box office.",
+          "He noted that reaching this staggering milestone will heavily depend on whether the movie eventually secures a release in China and how well it connects with audiences there."
+        ]
+      },
+      {
+        "h": "Strong Expectations in Telugu States",
+        "p": [
+          "Dil Raju expressed high confidence in the performance of the film's Telugu version, predicting that net collections in Andhra Pradesh and Telangana alone will surpass 100 crore rupees.",
+          "In these two states, the feature has been distributed through Sri Venkateswara Creations, pulling in a solid initial 9-day run according to trade tracking."
+        ]
+      },
+      {
+        "h": "No OTT or Satellite Rights Sold Yet",
+        "p": [
+          "Addressing rumors surrounding the film's digital future, Dil Raju revealed a major twist by stating that the makers have not yet finalized any OTT or satellite deals.",
+          "The deliberate delay in selling streaming rights is intended to encourage as many people as possible to experience the grand scale of the film exclusively inside movie theaters."
+        ]
+      },
+      {
+        "h": "Potential Pay-Per-View Model on Horizon",
+        "p": [
+          "Although JioHotstar was previously mentioned as an associated partner during production, the official status of the digital agreement remains in the hands of producer Namit Malhotra.",
+          "Speculation suggests that when the movie eventually arrives on a streaming platform, it may follow a pay-per-view structure where viewers must pay a separate fee outside of standard subscriptions."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Producer Dil Raju has predicted that Ramayana will achieve a 2000 crore rupee box office collection depending on its potential release in China. He also disclosed that the makers have withheld selling digital and satellite rights to encourage theatrical viewing."
+        ]
+      }
+    ],
+    "facts": [
+      "Namit Malhotra and Nitesh Tiwari are associated with Ramayana.",
+      "Dil Raju is a Telugu producer and distributor who distributed Ramayana through Sri Venkateswara Creations in Andhra Pradesh and Telangana.",
+      "The film has earned around 400 crore rupees internationally.",
+      "Dil Raju predicted a 2000 crore rupee box office collection depending on a China release.",
+      "The makers have not sold OTT or satellite rights as of the latest updates."
+    ],
+    "entities": {
+      "people": [
+        "Dil Raju",
+        "Namit Malhotra",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana",
+        "JioHotstar",
+        "Sri Venkateswara Creations"
+      ]
+    },
+    "keywords": [
+      "Ramayana OTT deal",
+      "Dil Raju Ramayana collection",
+      "Ramayana 2000 crore box office",
+      "Namit Malhotra Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af872d8cd678-dil-raju-on-ramayana-144023787-16x9.jpg",
+        "caption": "Ramayana OTT Deal Update: Makers Have Not Sold Digital Rights Yet, Producer Dil Raju Claims",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T02:04:44Z"
+  },
+  "v7gnvd": {
+    "id": "v7gnvd",
+    "type": "news",
+    "headline": "Salman Khan Bashes Scout OP in Bigg Boss 20 Over Physical Altercation With Young DSA",
+    "dek": "Scout OP faces Salman Khan's wrath in the upcoming Weekend Ka Vaar episode of Bigg Boss 20 after getting into a physical fight with Young DSA and experiencing a strained relationship with Love Gill.",
+    "body": [
+      {
+        "h": "Scout OP's Troubled Week in the House",
+        "p": [
+          "The reality television house has witnessed immense tension lately, specifically centering around YouTuber Scout OP. The contestant has had a very difficult period inside the premises, marked by growing friction and confrontations with his fellow housemates.",
+          "His journey took a major downward turn following a severe disagreement with his close friend and rapper Young DSA. The argument escalated quickly, creating a hostile environment for everyone living under the same roof."
+        ]
+      },
+      {
+        "h": "Physical Fight and Bigg Boss's Punishment",
+        "p": [
+          "Things worsened when the verbal dispute between Scout OP and Young DSA turned physical, involving intense shoving and pushing. Their aggressive actions crossed the boundary of house rules.",
+          "As a direct consequence of this physical altercation, Bigg Boss penalized Scout by nominating him for the entire season. The strict disciplinary action was meant to make him realize the gravity of his misconduct."
+        ]
+      },
+      {
+        "h": "Salman Khan Takes Center Stage",
+        "p": [
+          "The consequences of Scout OP's actions do not end with the makers' punishment, as superstar host Salman Khan is set to address the issue directly. A newly released promo indicates that the upcoming Weekend Ka Vaar episode will be exceptionally harsh for the YouTuber.",
+          "Salman appears visibly furious in the promotional clips, showing zero tolerance for the aggressive behavior displayed inside the house. The actor decided to confront Scout openly about the pushing incident and the attitude he maintained afterward."
+        ]
+      },
+      {
+        "h": "Questioning Confidence and Behavior",
+        "p": [
+          "During the upcoming episode, Salman Khan specifically questions the attitude Scout OP exhibited after shoving Young DSA. The host points out how Scout claimed he would repeat the action a hundred times, challenging the logic behind such a statement.",
+          "The Bollywood icon strongly condemns the combination of threats and physical pushing, signaling that such behavior is completely unacceptable. He notes that intimidation does not reflect strength, but rather exposes underlying weaknesses."
+        ]
+      },
+      {
+        "h": "Impact on Public Image and Role Model Status",
+        "p": [
+          "Salman Khan goes further by highlighting the larger responsibility Scout OP carries as a public figure. Since the contestant represents the country and inspires thousands of people, his actions set a problematic precedent for his followers.",
+          "The host sarcastically extends wishes to those who look up to Scout as an inspiration, emphasizing the disappointment caused by his conduct. Despite Scout attempting to apologize for his mistakes, Salman remains completely unimpressed and in no mood to listen to excuses."
+        ]
+      },
+      {
+        "h": "Strained Bonds and Personal Turmoil",
+        "p": [
+          "Apart from his conflict with Young DSA, Scout OP has also faced emotional distress due to his distance from Love Gill. Their changing equation and subsequent distance have visibly impacted his state of mind inside the house.",
+          "Viewers have witnessed various emotional phases from the YouTuber, including dramatic moments like shaving his head, which further showcased the heavy toll the house environment is taking on him."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Scout OP faces heavy criticism from host Salman Khan in Bigg Boss 20 after getting into a physical altercation and pushing Young DSA. Alongside season-long nomination penalties and strained ties with Love Gill, the YouTuber struggles to defend his aggressive actions before the superstar."
+        ]
+      }
+    ],
+    "facts": [
+      "The event occurred in November 2026.",
+      "Salman Khan hosts the show Bigg Boss 20.",
+      "Scout OP pushed Young DSA during a fight.",
+      "Scout OP was nominated for the entire season as punishment.",
+      "Love Gill shares a strained relationship with Scout OP in the house."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Scout OP",
+        "Young DSA",
+        "Love Gill"
+      ],
+      "titles": [
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20",
+      "Scout OP",
+      "Salman Khan",
+      "Young DSA",
+      "Love Gill"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af87555f0c7f-salman-khan-bashes-scout-op-145100961-16x9.jpg",
+        "caption": "Salman Khan Bashes Scout OP in Bigg Boss 20 Over Physical Altercation With Young DSA",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T02:04:44Z"
+  },
+  "14i9727": {
+    "id": "14i9727",
+    "type": "news",
+    "headline": "Cillian Murphy’s Sci-Fi Classic Sunshine Becomes a Major Streaming Hit on Apple TV",
+    "dek": "Apple TV expands its streaming catalog beyond traditional originals, welcoming classic hits including Cillian Murphy's acclaimed science fiction venture.",
+    "body": [
+      {
+        "h": "Apple TV Expands Its Streaming Horizons",
+        "p": [
+          "Streaming platforms are constantly evolving their content strategies to capture wider audiences, and Apple TV is no exception. After sticking strictly to a model of showcasing exclusively original movies for seven years, the platform has pivoted to include a broader selection of outside titles. This strategic shift has introduced a brand new section titled Great Movies Available Now on Apple TV, giving subscribers access to a diverse library of modern favorites and timeless classics.",
+          "This notable catalog expansion brings several iconic cinematic works to the service, offering viewers a mix of blockbuster entertainment and celebrated dramas. Alongside newer additions, the platform now features renowned titles such as Steven Spielberg's legendary E.T. the Extra-Terrestrial, Ryan Murphy's biographical drama Eat, Pray, Love, and Sony's 2019 Marvel entry Spider-Man: Far From Home."
+        ]
+      },
+      {
+        "h": "Sunshine Finds New Life on Streaming",
+        "p": [
+          "Among the standout non-original titles drawing immense viewer attention on the platform is a celebrated science fiction gem starring Cillian Murphy. Originally released nearly two decades ago, the film has unexpectedly climbed the charts to become one of the most-watched movies globally on the service.",
+          "The renewed popularity of this space exploration thriller highlights the enduring appeal of intelligent science fiction. Audiences are rediscovering the gripping narrative and striking visuals that made the project a critical talking point upon its initial theatrical run."
+        ]
+      },
+      {
+        "h": "A Landmark Collaboration Between Boyle and Garland",
+        "p": [
+          "The success of the streaming title brings renewed focus to the exceptional creative partnership behind it. The film was crafted through the collaborative vision of director Danny Boyle and writer Alex Garland, who previously teamed up to create flesh-hungry horror magic with their iconic outbreak thriller.",
+          "Years after their initial cinematic success, Boyle and Garland reunited to build a haunting, tense environment in deep space. Their collective storytelling approach yielded a unique visual experience that continues to resonate with contemporary sci-fi enthusiasts."
+        ]
+      },
+      {
+        "h": "Cillian Murphy's Remarkable Career Milestone",
+        "p": [
+          "The streaming resurgence of the science fiction project caps off yet another exceptionally busy and successful year for its lead actor, Cillian Murphy. Earlier in the year, the celebrated performer officially bid farewell to his most iconic television persona, Tommy Shelby, in a highly anticipated feature continuation.",
+          "That big-screen continuation, penned by Steven Knight, landed on Netflix to enormous fanfare and substantial viewership numbers. Generating millions of views within its opening days, the project proved that the gritty crime saga still retained massive cultural momentum."
+        ]
+      },
+      {
+        "h": "Expanding Universes and Future Projects",
+        "p": [
+          "The overwhelming demand for the crime saga even prompted the greenlighting of two additional six-episode seasons before the film adaptation had officially premiered. This proactive expansion underscores the devoted following that Murphy's past characters continue to command across platforms.",
+          "In addition to his television triumphs, Murphy made headlines with another major appearance in the horror realm. He reprised his classic role as Jim in the closing moments of Nia DaCosta's expansion film, setting the stage for the ultimate chapter in the terrifying franchise."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Apple TV has shifted away from its seven-year tradition of exclusively hosting original movies by introducing a new section featuring outside cinematic classics. Among these newly accessible titles is a 19-year-old science fiction film starring Cillian Murphy, which has quickly become a global streaming hit. This milestone arrives during a busy year for Murphy, who also reprised his iconic roles in notable franchise extensions."
+        ]
+      }
+    ],
+    "facts": [
+      "Apple TV shifted from a seven-year tradition of only showcasing original movies to include non-Apple TV films.",
+      "The new section is titled Great Movies Available Now on Apple TV.",
+      "Added films include E.T. the Extra-Terrestrial, Eat, Pray, Love, and Spider-Man: Far From Home.",
+      "The featured sci-fi gem starring Cillian Murphy is 19 years old.",
+      "Peaky Blinders: The Immortal Man earned 25.3 million views in its first three days of release on Netflix.",
+      "Two 6-episode seasons of Peaky Blinders were given the green light before the film debuted.",
+      "Cillian Murphy reprised his role as Jim in 28 Years Later: The Bone Temple, directed by Nia DaCosta."
+    ],
+    "entities": {
+      "people": [
+        "Cillian Murphy",
+        "Steven Spielberg",
+        "Ryan Murphy",
+        "Steven Knight",
+        "Nia DaCosta",
+        "Danny Boyle",
+        "Alex Garland",
+        "Jim",
+        "Tommy Shelby"
+      ],
+      "titles": [
+        "E.T. the Extra-Terrestrial",
+        "Eat, Pray, Love",
+        "Spider-Man: Far From Home",
+        "Peaky Blinders: The Immortal Man",
+        "28 Years Later: The Bone Temple",
+        "28 Days Later",
+        "Sunshine"
+      ]
+    },
+    "keywords": [
+      "Cillian Murphy Apple TV",
+      "Sunshine movie streaming",
+      "Danny Boyle Alex Garland sci-fi",
+      "Peaky Blinders The Immortal Man Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/cillian-murphy.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Cillian Murphy’s Sci-Fi Classic Sunshine Becomes a Major Streaming Hit on Apple TV",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 01:30:12 GMT"
+  },
+  "1qfzmed": {
+    "id": "1qfzmed",
+    "type": "news",
+    "headline": "Bigg Boss 20 Episode 70: Salman Khan Warns Kanika Mann As Qazi Exposes Her Double Standards",
+    "dek": "During the latest Weekend Ka Vaar episode of Bigg Boss 20, host Salman Khan reprimanded Kanika Mann for her tone while Qazi Touqeer called out her selective outrage regarding house comments.",
+    "body": [
+      {
+        "h": "Weekend Ka Vaar Confrontation",
+        "p": [
+          "Kanika Mann found herself at the center of intense scrutiny during Episode 70 of Bigg Boss 20. Host Salman Khan took her to task over her tone and mannerisms during a discussion involving other housemates.",
+          "The situation escalated when Salman had to step in and explicitly warn Kanika against shouting at him, telling her not to raise her voice in front of him."
+        ]
+      },
+      {
+        "h": "Selective Reactions Questioned",
+        "p": [
+          "The host heavily questioned Kanika's selective responses to different incidents inside the reality show house. He pointed out that she had a starkly different attitude toward separate remarks made by fellow contestants.",
+          "Specifically, Salman noted that she reacted aggressively to one particular comment while appearing to laugh when derogatory remarks were passed about another housemate."
+        ]
+      },
+      {
+        "h": "Qazi Exposes Double Standards",
+        "p": [
+          "Contestant Qazi Touqeer seized the moment during the episode to call out Kanika's contrasting behavior. He argued that she displayed blatant double standards regarding how she chooses to defend house dignity.",
+          "Qazi reminded everyone that Kanika stood by smiling while Scout passed personal comments about Love, contrasting it with her loud outrage over his own Lollipop remark."
+        ]
+      },
+      {
+        "h": "Accountability and Strong Personalities",
+        "p": [
+          "The fiery exchange tied back into an earlier house discussion about what defines a strong personality. Inmates like Qazi, Arishfa, and Manish had previously agreed that standing up at the right time is crucial.",
+          "Kanika's failure to maintain consistent standards when witnessing insults put her own adherence to those principles under direct public evaluation."
+        ]
+      },
+      {
+        "h": "Scout and Love Equation Examined",
+        "p": [
+          "Beyond Kanika, Salman Khan also turned his attention to the dynamic between ScoutOP and Love. He questioned why Scout frequently judges others yet grows defensive when his own actions are evaluated.",
+          "The host also pointed out that Scout often listens to Kanika while reacting aggressively to reasoning attempts from Yung and Amrapali, questioning his overall gameplay."
+        ]
+      },
+      {
+        "h": "Friendship and Support in Question",
+        "p": [
+          "Salman further scrutinized Scout for failing to stand up for Love when Mahhi labeled her a home breaker. This line of questioning probed whether Scout's game truly centers on supporting his friends.",
+          "The house dynamics faced heavy realignment as the host systematically unpacked individual loyalties and contradictions during the Weekend Ka Vaar segment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "During Bigg Boss 20 Episode 70, host Salman Khan warned Kanika Mann about her tone and questioned her selective outrage over house remarks. Concurrently, Qazi Touqeer exposed her double standards regarding past comments, while Salman also evaluated ScoutOP and Love's complex equation."
+        ]
+      }
+    ],
+    "facts": [
+      "Bigg Boss 20 Episode 70 aired on November 14, 2026.",
+      "Salman Khan warned Kanika Mann not to raise her voice in front of him.",
+      "Qazi Touqeer exposed Kanika Mann's double standards regarding Scout's remarks about Love.",
+      "Contestants involved in the discussions included Kanika Mann, Qazi Touqeer, ScoutOP, Love, Amrapali, Arishfa, Manish, Yung, and Mahhi."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Kanika Mann",
+        "Qazi Touqeer",
+        "Amrapali",
+        "Arishfa",
+        "Manish",
+        "ScoutOP",
+        "Love",
+        "Yung",
+        "Mahhi",
+        "Arpita Sarkar"
+      ],
+      "titles": [
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20 Episode 70",
+      "Salman Khan Kanika Mann",
+      "Qazi Touqeer double standards",
+      "Bigg Boss 20 Weekend Ka Vaar",
+      "ScoutOP and Love Bigg Boss"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156510337,thumbsize-236185,width-1280,height-720,resizemode-75/156510337.jpg",
+        "caption": "Bigg Boss 20 Episode 70: Salman Khan Warns Kanika Mann As Qazi Exposes Her Double Standards",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T02:04:44Z"
   }
 };
