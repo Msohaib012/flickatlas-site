@@ -155818,5 +155818,216 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 14:00:18 GMT"
+  },
+  "6cw7r5": {
+    "id": "6cw7r5",
+    "type": "news",
+    "headline": "Mohabbat Mukhtasir Episode 8 — Watch Online on HUM TV",
+    "dek": "Mohabbat Mukhtasir episode 8 aired on 2026-11-15 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Mohabbat Mukhtasir Episode 8 aired on 2026-11-15 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=qS8h7DtuS6Y"
+        ]
+      },
+      {
+        "h": "About Mohabbat Mukhtasir",
+        "p": [
+          "Some stories are written by fate, while others are shaped by love, sacrifice, and the choices we make. ❤️✨\n\nPresenting Mohabbat Mukhtasir, a captivating drama serial that explores the complexities of relationships, the power of emotions, and the unexpected turns of life."
+        ]
+      }
+    ],
+    "facts": [
+      "Mohabbat Mukhtasir Episode 8 aired on 2026-11-15.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=qS8h7DtuS6Y",
+      "YouTube views: 77,661.",
+      "TMDB: Mohabbat Mukhtasir (id 337079)."
+    ],
+    "entities": {
+      "titles": [
+        "Mohabbat Mukhtasir"
+      ],
+      "people": [
+        "Usama Khan",
+        "Syeda Madiha Imam",
+        "Atiqa Odho",
+        "Alyy Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/qS8h7DtuS6Y/hqdefault.jpg",
+        "caption": "Mohabbat Mukhtasir Episode 8",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-15T16:00:21Z"
+  },
+  "1oehwc8": {
+    "id": "1oehwc8",
+    "type": "news",
+    "headline": "Nashtar Episode 32 — Watch Online on Geo TV",
+    "dek": "Nashtar episode 32 aired on 2026-11-15 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Nashtar Episode 32 aired on 2026-11-15 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=J-T2B6zA_iQ"
+        ]
+      },
+      {
+        "h": "About Nashtar",
+        "p": [
+          "Shah Dawood, the arrogant heir to a powerful landowning family, clashes with Bareera Aijaz, a principled university student who refuses to bow to his authority. Forced into an unexpected marriage, their constant battles gradually give way to respect and love. But when Tamseel, Shah’s longtime admirer, refuses to accept Bareera, their fragile relationship is put to the ultimate test. Can Shah and Bareera overcome jealousy, family pressure, and their differences to find lasting love?"
+        ]
+      }
+    ],
+    "facts": [
+      "Nashtar Episode 32 aired on 2026-11-15.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=J-T2B6zA_iQ",
+      "YouTube views: 502,007.",
+      "TMDB: Nashtar (id 332312)."
+    ],
+    "entities": {
+      "titles": [
+        "Nashtar"
+      ],
+      "people": [
+        "Danish Taimoor",
+        "Anmol Baloch",
+        "Naeema Butt"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/J-T2B6zA_iQ/hqdefault.jpg",
+        "caption": "Nashtar Episode 32",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-15T16:00:09Z"
+  },
+  "m39j1k": {
+    "id": "m39j1k",
+    "type": "news",
+    "headline": "Khushi Episode 64 — Watch Online on HUM TV",
+    "dek": "Khushi episode 64 aired on 2026-11-15 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 64 aired on 2026-11-15 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=GrEoFeTfzQ0"
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 64 aired on 2026-11-15.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=GrEoFeTfzQ0",
+      "YouTube views: 319,741."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/GrEoFeTfzQ0/hqdefault.jpg",
+        "caption": "Khushi Episode 64",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-15T15:00:22Z"
+  },
+  "1u7u754": {
+    "id": "1u7u754",
+    "type": "news",
+    "headline": "Uswah Episode 53 — Watch Online on Geo TV",
+    "dek": "Uswah episode 53 aired on 2026-11-15 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 53 aired on 2026-11-15 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=n3Hc8bIN54A"
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 53 aired on 2026-11-15.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=n3Hc8bIN54A",
+      "YouTube views: 885,928."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/n3Hc8bIN54A/hqdefault.jpg",
+        "caption": "Uswah Episode 53",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-15T15:00:04Z"
+  },
+  "nzefns": {
+    "id": "nzefns",
+    "type": "news",
+    "headline": "Dastoor Episode 86 — Watch Online on Green TV",
+    "dek": "Dastoor episode 86 aired on 2026-11-15 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 86 aired on 2026-11-15 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=eWOFWs8jEvM"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 86 aired on 2026-11-15.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=eWOFWs8jEvM",
+      "YouTube views: 113,245.",
+      "TMDB: Dastoor (id 329481)."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/eWOFWs8jEvM/hqdefault.jpg",
+        "caption": "Dastoor Episode 86",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-15T14:45:19Z"
   }
 };
