@@ -49,12 +49,15 @@
      OTT, not even under f=all. Excluded CATEGORICALLY here, not via
      providers or the industry gate: all 15 catalogue "TV" entries
      today are Pakistani dramas. */
-  const inFilter = (x) => {
+  /* inFilter takes an optional industry override so the Coming
+     fallback can re-run the same gate for World titles without
+     touching the page filter. */
+  const inFilter = (x, ind = f) => {
     if (UI.industryOf(x) === "pakistani") return false;
     if (t === "movie" && (x.type || "movie") !== "movie") return false;
     if (t === "tv" && (x.type || "movie") !== "tv") return false;
-    return f === "all" ? true
-      : f === "bollywood" ? UI.industryOf(x) === "bollywood"
+    return ind === "all" ? true
+      : ind === "bollywood" ? UI.industryOf(x) === "bollywood"
       : UI.industryOf(x) === "world";
   };
   /* Local tag dropped 2026-10-28 (merge): the fixed UI.industryTag()
@@ -93,7 +96,7 @@
   const groups = (ott && Array.isArray(ott.now) && Array.isArray(ott.coming))
     ? ott : deriveFromPublished();
   const pub = window.FA_PUBLISHED || {};
-  const entriesFor = (group, groupName) => (group || [])
+  const entriesFor = (group, groupName, ind = f) => (group || [])
     .map(g => ({ g, x: pub[String(g.id)] }))
     .filter(({ g, x }) => {
       if (!x || !x.poster_path || !Array.isArray(g.providers)) return false;
@@ -121,8 +124,24 @@
       if (groupName === "coming" && g.date <= today) return false;
       return true;
     })
-    .filter(({ x }) => inFilter(x))
+    .filter(({ x }) => inFilter(x, ind))
     .sort((a, b) => groupName === "now" ? String(b.g.date).localeCompare(String(a.g.date)) || (Number(b.x.popularity) || 0) - (Number(a.x.popularity) || 0) : String(a.g.date).localeCompare(String(b.g.date)) || (Number(b.x.popularity) || 0) - (Number(a.x.popularity) || 0));
+  /* OTT Coming fallback (owner order 2026-11-14, extended to /ott
+     2026-11-15): when the Bollywood Coming set is empty, the page
+     shows World Cinema Coming titles instead of standing empty —
+     the same rule as the homepage rail. DISPLAY fill only — World
+     titles are NOT reclassified as Bollywood (their data and
+     industry tags are untouched); the group carries an honest note
+     saying so. Applies to Coming only; the Now group is untouched.
+     When World has no Coming titles either, fallback stays false
+     and the honest empty message shows. */
+  const OTT_COMING_FALLBACK_NOTE = "No Bollywood titles are coming to OTT yet — showing World Cinema titles.";
+  const comingFor = () => {
+    const items = entriesFor(groups.coming, "coming");
+    if (items.length || f !== "bollywood") return { items, fallback: false };
+    const worldItems = entriesFor(groups.coming, "coming", "international");
+    return { items: worldItems, fallback: worldItems.length > 0 };
+  };
   const cardHtml = ({ g, x }) => UI.ottCard(x, {
     coming: (g.date || "") > today,
     providers: g.providers,
@@ -140,21 +159,22 @@
       ? `No upcoming OTT releases reported for ${indNoun} ${typeNoun} yet.`
       : `${t === "tv" ? "No TV series currently streaming on OTT" : `No ${typeNoun} streaming on OTT`} for ${indNoun} yet.`;
   };
-  const groupHtml = (title, list, coming) => `<div class="ott-group"><h3>${title} (${list.length})</h3>
+  const groupHtml = (title, list, coming, fallback = false) => `<div class="ott-group"><h3>${title} (${list.length})</h3>
+    ${fallback ? `<p class="ott-group-note">${OTT_COMING_FALLBACK_NOTE}</p>` : ""}
     ${list.length
       ? `<div class="grid">${list.map(cardHtml).join("")}</div>`
       : `<p class="prov-note">${emptyNote(coming)}</p>`}
   </div>`;
 
   const nowList = entriesFor(groups.now, "now");
-  const comingList = entriesFor(groups.coming, "coming");
+  const comingRes = comingFor();
 
   function renderGroups() {
     const now = entriesFor(groups.now, "now");
-    const coming = entriesFor(groups.coming, "coming");
+    const coming = comingFor();
     main.querySelector("#ottGroups").innerHTML =
       groupHtml("Now on OTT", now, false)
-      + groupHtml("Coming to OTT", coming, true);
+      + groupHtml("Coming to OTT", coming.items, true, coming.fallback);
   }
 
   main.innerHTML = `<div class="wrap">
@@ -166,7 +186,7 @@
     </div></div>
     <div id="ottGroups">
     ${groupHtml("Now on OTT", nowList, false)}
-    ${groupHtml("Coming to OTT", comingList, true)}
+    ${groupHtml("Coming to OTT", comingRes.items, true, comingRes.fallback)}
     </div>
 
   </div>`;
