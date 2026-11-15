@@ -1,6 +1,6 @@
 {
  "bucket": "90",
- "count": 53,
+ "count": 54,
  "titles": {
   "movie:10390": {
    "backdrop_path": "/jYg7oXQUB3yW6WHYVXn5ltXfcpa.jpg",
@@ -3451,6 +3451,111 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 450
+  },
+  "movie:331190": {
+   "backdrop_path": "/jeLEiX8my7cqEO7Ut5LOgc45Oet.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Ashley Smith",
+     "n": "Kate Mara"
+    },
+    {
+     "c": "Brian Nichols",
+     "n": "David Oyelowo"
+    },
+    {
+     "c": "Detective John Chestnut",
+     "n": "Michael Kenneth Williams"
+    },
+    {
+     "c": "Kim Rogers",
+     "n": "Mimi Rogers"
+    },
+    {
+     "c": "Sergeant Carmen Sandoval",
+     "n": "Leonor Varela"
+    },
+    {
+     "c": "Sergeant Teasley",
+     "n": "E. Roger Mitchell"
+    },
+    {
+     "c": "FBI Agent",
+     "n": "Kevin J. O'Connor"
+    },
+    {
+     "c": "Randy",
+     "n": "Matt Lowe"
+    },
+    {
+     "c": "Meredith MacKenzie",
+     "n": "Jessica Oyelowo"
+    },
+    {
+     "c": "Mrs. Nichols",
+     "n": "J. Karen Thomas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jerry Jameson"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 331190,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Based on a miraculous true story that drew the attention of the entire nation, is the dramatic, thrilling, and spiritual journey of Ashley Smith and Brian Nichols.  After being taken hostage by Brian in her own apartment, Ashley turns to Rick Warren’s inspirational book, The Purpose Driven Life, for guidance.  In reading from the book, Ashley not only finds purpose in her own life, but helps Brian find a more peaceful resolution to a harrowing situation.",
+   "popularity": 1.4147,
+   "poster_path": "/rKOY6QwmnuZYPaMIvdmZQHjxDLI.jpg",
+   "production_countries": [
+    "US",
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2015-09-17",
+   "revenue": 2801508,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Faith. Redemption. Survival.",
+   "title": "Captive",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 300
   },
   "movie:336890": {
    "backdrop_path": "/piJ8gpsbGdxlxdaYLQnw7SguVMH.jpg",

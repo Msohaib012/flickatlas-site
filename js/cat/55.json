@@ -1,6 +1,6 @@
 {
  "bucket": "55",
- "count": 68,
+ "count": 69,
  "titles": {
   "movie:1002155": {
    "backdrop_path": "/jLvNVWqyfvaMaYrOwtuVmNaGGXQ.jpg",
@@ -3402,6 +3402,133 @@
    "type": "movie",
    "vote_average": 7.4,
    "vote_count": 342
+  },
+  "movie:26255": {
+   "backdrop_path": "/dXGECXMTs0SEJGg4qwuisHbe2vc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Diane Farrow",
+     "n": "Sandra Bullock"
+    },
+    {
+     "c": "Paul Matthews",
+     "n": "Tate Donovan"
+    },
+    {
+     "c": "Madame Ruth",
+     "n": "Anne Bancroft"
+    },
+    {
+     "c": "Motorcycle Cop",
+     "n": "Blake Clark"
+    },
+    {
+     "c": "Cheryl",
+     "n": "Rebecca Staab"
+    },
+    {
+     "c": "Marisa",
+     "n": "Mary Mara"
+    },
+    {
+     "c": "Gary",
+     "n": "Dale Midkiff"
+    },
+    {
+     "c": "Sally",
+     "n": "Hillary B. Smith"
+    },
+    {
+     "c": "Prince Geoffrey",
+     "n": "Dylan Baker"
+    },
+    {
+     "c": "Jeff",
+     "n": "Bruce McCarty"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Dale Launer"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Fantasy"
+   ],
+   "id": 26255,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Unlucky in love, chemist Paul Matthews visits gypsy Madame Rosa for help. Quickly realizing he is a hopeless nerd, she gifts him with Love Potion No. 8, which makes anyone who wears it irresistible to the opposite sex for four hours. Paul and animal psychologist coworker Diane Farrow decide to test it on themselves. The awkward pair suddenly find themselves alluring to anyone they approach, but soon realize they are most attracted to each other.",
+   "popularity": 2.1596,
+   "poster_path": "/n0DYahGGueR96mhajPGGgZpFL4k.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1992-11-13",
+   "revenue": 754935,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Imagine if sex appeal came in a bottle.",
+   "title": "Love Potion No. 9",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.197,
+   "vote_count": 304
   },
   "movie:28055": {
    "backdrop_path": "/6eW84lUWSJ09OuWTCNOmTY1i2Cm.jpg",

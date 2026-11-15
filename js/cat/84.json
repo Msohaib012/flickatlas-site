@@ -1,6 +1,6 @@
 {
  "bucket": "84",
- "count": 61,
+ "count": 62,
  "titles": {
   "movie:10384": {
    "backdrop_path": "/przsU4aiGsdlDkCp5uV8kq8gbLe.jpg",
@@ -4843,6 +4843,96 @@
    "type": "movie",
    "vote_average": 7.479,
    "vote_count": 496
+  },
+  "movie:49084": {
+   "backdrop_path": "/bBcwHo2KmadOh1W4MuCt42QtGJm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Blaise / Chuck",
+     "n": "Éric Judor"
+    },
+    {
+     "c": "Georges",
+     "n": "Ramzy Bedia"
+    },
+    {
+     "c": "Serge",
+     "n": "Jonathan Lambert"
+    },
+    {
+     "c": "Dan",
+     "n": "Kavinsky"
+    },
+    {
+     "c": "Félix",
+     "n": "SebastiAn"
+    },
+    {
+     "c": "Max",
+     "n": "Laurent Nicolas"
+    },
+    {
+     "c": "Prisme",
+     "n": "Sébastien Tellier"
+    },
+    {
+     "c": "Le militaire",
+     "n": "Alain Gendreau"
+    },
+    {
+     "c": "Le professeur aveugle",
+     "n": "Mark Latrémouille"
+    },
+    {
+     "c": "L'infirmière",
+     "n": "Marie-Claude Michaud"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Quentin Dupieux"
+   ],
+   "genres": [
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 49084,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "George is the scapegoat of his classmates. One day he cracks and shoots them. His best and only friend Blaise is accused in his place and sentenced to 7 years in a psychiatric hospital. At the day of his release, Blaise realizes he only has one family: his best friend George. But he does not want to hear about his childhood friend, as he tries to integrate with the “Chivers” a gang whose members wear red jackets and boots, drink milk, drive sport trucks and play an incomprehensible and violent game that mixes cricket and mental arithmetic.",
+   "popularity": 1.0235,
+   "poster_path": "/IugtyTSEBusqT9F8nIcc3tD6hN.jpg",
+   "production_countries": [
+    "CA",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2007-06-20",
+   "revenue": 0,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Steak",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.578,
+   "vote_count": 302
   },
   "movie:576784": {
    "backdrop_path": "/9Ttizfo7RkG7rbZZ71vIEkHIQde.jpg",

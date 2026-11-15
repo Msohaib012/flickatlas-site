@@ -1,6 +1,6 @@
 {
  "bucket": "12",
- "count": 49,
+ "count": 50,
  "titles": {
   "movie:103112": {
    "backdrop_path": "/tN7oA9zSQQICIPxBr3xS1ekFrLR.jpg",
@@ -2331,6 +2331,116 @@
    "type": "movie",
    "vote_average": 6.095,
    "vote_count": 465
+  },
+  "movie:29912": {
+   "backdrop_path": "/nWCcl7iY718qikjbYfERstvcBrn.jpg",
+   "budget": 4350000,
+   "cast": [
+    {
+     "c": "Marcellus Gallio",
+     "n": "Richard Burton"
+    },
+    {
+     "c": "Diana",
+     "n": "Jean Simmons"
+    },
+    {
+     "c": "Demetrius",
+     "n": "Victor Mature"
+    },
+    {
+     "c": "Pontius Pilate",
+     "n": "Richard Boone"
+    },
+    {
+     "c": "Abidor",
+     "n": "Leon Askin"
+    },
+    {
+     "c": "Peter",
+     "n": "Michael Rennie"
+    },
+    {
+     "c": "Justus",
+     "n": "Dean Jagger"
+    },
+    {
+     "c": "Caligula",
+     "n": "Jay Robinson"
+    },
+    {
+     "c": "Sen. Gallio",
+     "n": "Torin Thatcher"
+    },
+    {
+     "c": "Miriam",
+     "n": "Betta St. John"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Henry Koster"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 29912,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Drunk and disillusioned Roman, Marcellus Gallio, wins Jesus' robe in a dice game after the crucifixion. Marcellus has never been a man of faith like his slave, Demetrius, but when Demetrius escapes with the robe, Marcellus experiences disturbing visions and feels guilty for his actions. Convinced that destroying the robe will cure him, Marcellus sets out to find Demetrius — and discovers his Christian faith along the way.",
+   "popularity": 2.3283,
+   "poster_path": "/qFYZNGzftIM8dqGMJBToGraAFJp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "FlixFling"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1953-09-16",
+   "revenue": 36000000,
+   "runtime": 135,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The first motion picture in CinemaScope--the modern miracle you see without glasses!",
+   "title": "The Robe",
+   "trailer": {
+    "key": "f4TXamLcmZE",
+    "name": "#TBT Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.82,
+   "vote_count": 302
   },
   "movie:329712": {
    "backdrop_path": "/s14TKXCYH8dotfBIBuanNaYyBst.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "80",
- "count": 54,
+ "count": 56,
  "titles": {
   "movie:10480": {
    "backdrop_path": "/8ZquU1oL90wNowQeXaXx7xPk7vZ.jpg",
@@ -2240,6 +2240,138 @@
    "vote_average": 7.0,
    "vote_count": 372
   },
+  "movie:3480": {
+   "backdrop_path": "/mI81t7CG1QECwQWb1bJkCRvZMt1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Julien Dandieu",
+     "n": "Philippe Noiret"
+    },
+    {
+     "c": "Clara Dandieu",
+     "n": "Romy Schneider"
+    },
+    {
+     "c": "François",
+     "n": "Jean Bouise"
+    },
+    {
+     "c": "SS Officer",
+     "n": "Joachim Hansen"
+    },
+    {
+     "c": "German Lieutenant",
+     "n": "Robert Hoffmann"
+    },
+    {
+     "c": "Dr. Müller",
+     "n": "Karl Michael Vogler"
+    },
+    {
+     "c": "Florence Dandieu (8 years old)",
+     "n": "Caroline Bonhomme"
+    },
+    {
+     "c": "Florence Dandieu (13 years old)",
+     "n": "Catherine Delaporte"
+    },
+    {
+     "c": "Mme Dandieu, la mère de Julien",
+     "n": "Madeleine Ozeray"
+    },
+    {
+     "c": "Le chef milicien",
+     "n": "Jean-Paul Cisife"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Robert Enrico"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "id": 3480,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In Montauban in 1944, Julien Dandieu is a surgeon in the local hospital. Frightened by the German army entering Montauban, he asks his friend Francois to drive his wife and his daughter in the back country village where Julien has an old castle. One week later, Julien decides to meet them for the week end, but the Germans are already occupying the village.",
+   "popularity": 2.2346,
+   "poster_path": "/hLoEBn5kbMlnLA30Y5M3H6lwyUp.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Film Movement Plus"
+    },
+    {
+     "name": "Film Movement Plus Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sooner Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/c8H4Jp8qInInqkPSryR80rb7jYO.png",
+     "name": "Film Movement Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zy8e5KYnkpB8qbLJUvzMnaynBSZ.png",
+     "name": "Film Movement Plus Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1975-08-20",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Old Gun",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.521,
+   "vote_count": 303
+  },
   "movie:3780": {
    "backdrop_path": "/jJK3skg06c2iUXgpJg9DTxQhRb4.jpg",
    "budget": 650000,
@@ -2383,6 +2515,107 @@
    "type": "movie",
    "vote_average": 8.172,
    "vote_count": 436
+  },
+  "movie:4180": {
+   "backdrop_path": "/21i0STBZUzhdNqJ2SpiBFpUGWZw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Pierre",
+     "n": "Roland Giraud"
+    },
+    {
+     "c": "Michel",
+     "n": "Michel Boujenah"
+    },
+    {
+     "c": "Jacques",
+     "n": "André Dussollier"
+    },
+    {
+     "c": "Sylvia",
+     "n": "Philippine Leroy-Beaulieu"
+    },
+    {
+     "c": "Ms. Rapons",
+     "n": "Dominique Lavanant"
+    },
+    {
+     "c": "Antoinette",
+     "n": "Marthe Villalonga"
+    },
+    {
+     "c": "Pharmacist",
+     "n": "Annick Alane"
+    },
+    {
+     "c": "Ms. Rodriguez, concierge",
+     "n": "Josine Comellas"
+    },
+    {
+     "c": "Marie Nr. 2",
+     "n": "Jennifer Moret"
+    },
+    {
+     "c": "Paul",
+     "n": "François Domange"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Coline Serreau"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 4180,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Three young men - Jacques, Pierre, and Michel - share an apartment in Paris, and have many girlfriends and parties. Once, during a party, a friend of Jacques' tells him he has a quite compromising package to deliver, and asks him if he can leave it discreetly at their place. Jacques agrees and, as he works as a steward, flies away for a one-month trip in Japan, telling Pierre and Michel about the package. Then, one of Jacques' former girlfriends drops a baby before their door, making Pierre and Michel believing it is the package they are waiting for. Their lives are then completely changed.",
+   "popularity": 1.5397,
+   "poster_path": "/3TfJL5jbyWFUOe1NB81iI8w7Gct.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1985-09-18",
+   "revenue": 2052466,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "In one split second, their lives went from party to potty.",
+   "title": "Three Men and a Cradle",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.383,
+   "vote_count": 303
   },
   "movie:425980": {
    "backdrop_path": "/eRfANc4xSRNaR8E9fUI9hdLkCWB.jpg",

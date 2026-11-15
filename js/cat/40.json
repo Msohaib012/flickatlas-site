@@ -1,6 +1,6 @@
 {
  "bucket": "40",
- "count": 58,
+ "count": 59,
  "titles": {
   "movie:10640": {
    "backdrop_path": "/kGdrLjZ1J3XlD57LFjUQN6npCFQ.jpg",
@@ -2017,6 +2017,144 @@
    "type": "movie",
    "vote_average": 5.99,
    "vote_count": 343
+  },
+  "movie:319340": {
+   "backdrop_path": "/uQViA6gDNHaEfO6ryDybvoX9QWD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jérémie Deprez",
+     "n": "Pio Marmaï"
+    },
+    {
+     "c": "Charles",
+     "n": "Franck Gastambide"
+    },
+    {
+     "c": "Antoine",
+     "n": "Lannick Gautry"
+    },
+    {
+     "c": "Clémence",
+     "n": "Camille Cottin"
+    },
+    {
+     "c": "Adna",
+     "n": "Adriane Gradziel"
+    },
+    {
+     "c": "Hubert Deprez",
+     "n": "Frédéric Pierrot"
+    },
+    {
+     "c": "Françoise Deprez",
+     "n": "Isabelle Candelier"
+    },
+    {
+     "c": "Nounours",
+     "n": "Sébastien Castro"
+    },
+    {
+     "c": "Sarah Deprez",
+     "n": "Nicole Ferroni"
+    },
+    {
+     "c": "Jean",
+     "n": "Etienne Guiraud"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "8",
+   "date_kind": "release",
+   "director": [
+    "Noémie Saglio",
+    "Maxime Govare"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 319340,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Jérémie, 34, wakes up in an apartment he doesn't know, next to a woman he doesn't know. She is Adna, a stunning Swedish woman who is as funny as she is sweet. Is this the beginning of a fairy tale? Not quite, since Jérémie is about to get married—to Antoine.",
+   "popularity": 0.8565,
+   "poster_path": "/s0L9olKKjcUOiU4JOuq8fJuXTNH.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2015-01-28",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "I Kissed a Girl",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 304
   },
   "movie:32040": {
    "backdrop_path": "/71oqZMM6dgKvi1WQztOoUHSzDdZ.jpg",

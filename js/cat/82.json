@@ -1,6 +1,6 @@
 {
  "bucket": "82",
- "count": 57,
+ "count": 58,
  "titles": {
   "movie:11082": {
    "backdrop_path": "/9f7JNJc7bvUgGN96RkHZYUSuk4a.jpg",
@@ -3465,6 +3465,94 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 323
+  },
+  "movie:33282": {
+   "backdrop_path": "/uIM194h5adOGZP59BvIAJbLjsfV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Carlo / Germano",
+     "n": "Christian De Sica"
+    },
+    {
+     "c": "Serena",
+     "n": "Michelle Hunziker"
+    },
+    {
+     "c": "Cristina",
+     "n": "Sabrina Ferilli"
+    },
+    {
+     "c": "Aliprando",
+     "n": "Massimo Ghini"
+    },
+    {
+     "c": "Marcello",
+     "n": "Alessandro Gassmann"
+    },
+    {
+     "c": "Rocco",
+     "n": "Gianmarco Tognazzi"
+    },
+    {
+     "c": "Claudio",
+     "n": "Paolo Conticini"
+    },
+    {
+     "c": "Lele",
+     "n": "Vittorio Emanuele Propizio"
+    },
+    {
+     "c": "Susanna",
+     "n": "Michela Quattrociocche"
+    },
+    {
+     "c": "Rosario",
+     "n": "Rossano Rubicondi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Neri Parenti"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 33282,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Carlo descends on his former lover's unsuspecting family and the scheming Rocco tries to break up his old rival Marcello's wedding.",
+   "popularity": 0.911,
+   "poster_path": "/1XkhgSNga06JO5JFcbkn2KT9mRg.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2009-12-18",
+   "revenue": 23324363,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Natale a Beverly Hills",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.8,
+   "vote_count": 303
   },
   "movie:340382": {
    "backdrop_path": "/s2ymiH8yTigrWZjoWvLOtZ9npB2.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "74",
- "count": 55,
+ "count": 56,
  "titles": {
   "movie:1049574": {
    "backdrop_path": "/rSRA1p4e3laAAJflzdgtqNlx27Y.jpg",
@@ -5681,6 +5681,188 @@
    "type": "movie",
    "vote_average": 7.006,
    "vote_count": 393
+  },
+  "movie:9674": {
+   "backdrop_path": "/noRX8VyyAFK1tt0DQSq5qy1tE10.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Sadako Yamamura",
+     "n": "Yukie Nakama"
+    },
+    {
+     "c": "Hiroshi Tôyama",
+     "n": "Seiichi Tanabe"
+    },
+    {
+     "c": "Etsuko Tachihara",
+     "n": "Kumiko Aso"
+    },
+    {
+     "c": "Akiko Miyaji",
+     "n": "Yoshiko Tanaka"
+    },
+    {
+     "c": "Yûsaku Shigemori",
+     "n": "Takeshi Wakamatsu"
+    },
+    {
+     "c": "Wataru Kuno",
+     "n": "Ryushi Mizukami"
+    },
+    {
+     "c": "Aiko Hazuki",
+     "n": "Kaoru Okunuki"
+    },
+    {
+     "c": "Togashi",
+     "n": "Yasushi Kimura"
+    },
+    {
+     "c": "Joshikôsei",
+     "n": "Mami Hashimoto"
+    },
+    {
+     "c": "Heihachirô Ikuma",
+     "n": "Daisuke Ban"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Norio Tsuruta"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 9674,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Taking place thirty years before the events of Ringu, Ringu 0 provides the shocking background story of how the girl on the video became a deadly, vengeful spirit.",
+   "popularity": 45.5662,
+   "poster_path": "/nuhEWlaoMD00rTDCiYxdEc7d1tD.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "AsianCrush"
+    },
+    {
+     "name": "ARROW"
+    },
+    {
+     "name": "Arrow Video Amazon Channel"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/oPEgKhJZjWEjCjySvwozKQyrNKi.png",
+     "name": "AsianCrush",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uVhUzKH7taAxHZGrRMZ4IqIbQxe.png",
+     "name": "ARROW",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2000-01-22",
+   "revenue": 11918069,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Discover the secret...",
+   "title": "Ring 0",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.139,
+   "vote_count": 303
   },
   "tv:1274": {
    "backdrop_path": "/5NOQNDMVXe8t5wIuY6r6b6iUXcc.jpg",

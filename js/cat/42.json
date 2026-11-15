@@ -1,6 +1,6 @@
 {
  "bucket": "42",
- "count": 54,
+ "count": 55,
  "titles": {
   "movie:10342": {
    "backdrop_path": "/i64i2v5EvY0qmpUkyKs5cSOwdGG.jpg",
@@ -2518,6 +2518,159 @@
    "type": "movie",
    "vote_average": 7.121,
    "vote_count": 429
+  },
+  "movie:31642": {
+   "backdrop_path": "/o0F4QDlH12j8GmGEV8GvSDGmyFT.jpg",
+   "budget": 33000000,
+   "cast": [
+    {
+     "c": "Le Ly",
+     "n": "Hiep Thi Le"
+    },
+    {
+     "c": "Steve Butler",
+     "n": "Tommy Lee Jones"
+    },
+    {
+     "c": "Mama",
+     "n": "Joan Chen"
+    },
+    {
+     "c": "Papa",
+     "n": "Haing S. Ngor"
+    },
+    {
+     "c": "Eugenia",
+     "n": "Debbie Reynolds"
+    },
+    {
+     "c": "Bernice",
+     "n": "Conchata Ferrell"
+    },
+    {
+     "c": "Sau",
+     "n": "Dustin Nguyen"
+    },
+    {
+     "c": "Madame Lien",
+     "n": "Vivian Wu"
+    },
+    {
+     "c": "Paul",
+     "n": "Robert John Burke"
+    },
+    {
+     "c": "Big Mike",
+     "n": "Timothy Carhart"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Oliver Stone"
+   ],
+   "genres": [
+    "History",
+    "War",
+    "Drama"
+   ],
+   "id": 31642,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a small Vietnamese village torn apart by war, a young woman faces unimaginable horrors before deciding to escape to the city. There, she encounters a compassionate Marine who offers her hope and a chance at a new life, igniting the possibility of a future together.",
+   "popularity": 1.9855,
+   "poster_path": "/hvvR7Yf743pc2E2F1VJ2dfZl7OZ.jpg",
+   "production_countries": [
+    "FR",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1993-12-25",
+   "revenue": 5900000,
+   "runtime": 140,
+   "source": "catalogue",
+   "spoken_languages": [
+    "vi",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Lasting victories are won in the heart.",
+   "title": "Heaven & Earth",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.625,
+   "vote_count": 301
   },
   "movie:32042": {
    "backdrop_path": "/bXZhQAI5Gm06QtN7Kj6JHIuSzc5.jpg",

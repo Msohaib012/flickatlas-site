@@ -1,6 +1,6 @@
 {
  "bucket": "95",
- "count": 52,
+ "count": 53,
  "titles": {
   "movie:10295": {
    "backdrop_path": "/sS0MhzRDPAUxT412DqAyhhs6yFY.jpg",
@@ -3623,6 +3623,137 @@
    "type": "movie",
    "vote_average": 6.27,
    "vote_count": 437
+  },
+  "movie:62395": {
+   "backdrop_path": "/1EoZR0hGuuFIGlxcwChgS3qcCY6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marcelino",
+     "n": "Pablito Calvo"
+    },
+    {
+     "c": "Padre Superior",
+     "n": "Rafael Rivelles"
+    },
+    {
+     "c": "Fray Puerta",
+     "n": "Antonio Vico"
+    },
+    {
+     "c": "Fray Papilla",
+     "n": "Juan Calvo"
+    },
+    {
+     "c": "Pascual",
+     "n": "José Marco Davó"
+    },
+    {
+     "c": "Civil Guard Commander",
+     "n": "José Nieto"
+    },
+    {
+     "c": "Monje narrador",
+     "n": "Fernando Rey"
+    },
+    {
+     "c": "Fray Giles",
+     "n": "Juanjo Menéndez"
+    },
+    {
+     "c": "Monk",
+     "n": "Adriano Domínguez"
+    },
+    {
+     "c": "Marcelino (voice) (uncredited)",
+     "n": "Matilde F. Vilariño"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Ladislao Vajda"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 62395,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Left on the doorstep of a monastery as an infant, Marcelino was raised by the monks. He was well-cared for but lonely and missed having a mother. One day he found a special friend in the forbidden attic, hanging on a cross. A friend that would repay Marcelino's kindness by granting him one heart-felt wish.",
+   "popularity": 1.981,
+   "poster_path": "/w4uW544NZnP9gAtYigkJCewDmi1.jpg",
+   "production_countries": [
+    "IT",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "Dove Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bu9lWI6L0BPjAh3j1CJh6KDMEqk.png",
+     "name": "Dove Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1955-02-24",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Miracle of Marcelino",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.413,
+   "vote_count": 305
   },
   "movie:654895": {
    "backdrop_path": "/ljYHyD0ZOQqIKDjRyxHYzlmvY2t.jpg",

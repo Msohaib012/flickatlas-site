@@ -1,6 +1,6 @@
 {
  "bucket": "70",
- "count": 50,
+ "count": 54,
  "titles": {
   "movie:10170": {
    "d": "The Russia House (1990): Drama/Thriller film. Story: Barley Scott Blair, a Lisbon-based editor of Russian… See cast, budget $21.8M, and TMDB rating 6.1/10.",
@@ -1613,6 +1613,70 @@
    "t": "Oceans (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
   },
+  "movie:369770": {
+   "d": "The Sense of Wonder (2015): Comedy/Romance film. Story: Louise, a widow with two children, almost crushes a… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/2vT5Sam04hUhGGneR8cOhjF5GgK.jpg",
+   "industry": "world",
+   "k": "The Sense of Wonder, The Sense of Wonder movie, The Sense of Wonder cast, The Sense of Wonder story, The Sense of Wonder box office collection, The Sense of Wonder budget, The Sense of Wonder review, The Sense of Wonder rating, The Sense of Wonder release date, The Sense of Wonder Comedy, The Sense of Wonder Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Virginie Efira"
+     },
+     {
+      "@type": "Person",
+      "name": "Benjamin Lavernhe"
+     },
+     {
+      "@type": "Person",
+      "name": "Lucie Fagedet"
+     },
+     {
+      "@type": "Person",
+      "name": "Léo Lorléac'h"
+     },
+     {
+      "@type": "Person",
+      "name": "Hervé Pierre"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 300,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "The Sense of Wonder (2015): Comedy/Romance film. Story: Louise, a widow with two children, almost crushes a… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Éric Besnard"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2vT5Sam04hUhGGneR8cOhjF5GgK.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=369770",
+    "name": "The Sense of Wonder",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-12-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=369770"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Sense of Wonder (2015)</h1>\n<p class=\"ssr-lead\">Louise, a widow with two children, almost crushes a stranger with her car. She takes care of him, even if he&#x27;s not really wounded. It turns out that he has mental disorders and that they can help each other much more than they thought.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 December 2015</li><li>Runtime: 100 minutes</li><li>Director: Éric Besnard</li><li>Genres: Comedy, Romance, Drama</li><li>TMDB rating: 6.8/10 (300 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Virginie Efira as Louise</li><li>Benjamin Lavernhe as Pierre</li><li>Lucie Fagedet as Emma</li><li>Léo Lorléac&#x27;h as Felix</li><li>Hervé Pierre as Jules</li><li>Hiam Abbass as Dr. Mélanie Ferenza</li><li>Laurent Bateau as Paul</li><li>France Darry as Market client</li><li>Natalie Beder as Young woman in bookshop</li><li>Valentin Merlet as Banker</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, France Channel Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "The Sense of Wonder (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:37770": {
    "d": "Fantozzi to the Rescue (1990): Comedy film. Story: Fantozzi is now retired but continues to go to the… See cast and TMDB rating 6.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/2jeuM7yHUcXF7WUubnuJO4tXosT.jpg",
@@ -1803,6 +1867,70 @@
    "t": "Sharknado 5: Global Swarming (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
+  "movie:446170": {
+   "d": "Black Tide (2018): Thriller/Mystery film. Story: When a teenager suddenly disappears without a trace… See cast and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/u29V5gkLeMjQrCZwOZDxGywnDqj.jpg",
+   "industry": "world",
+   "k": "Black Tide, Black Tide movie, Black Tide cast, Black Tide story, Black Tide box office collection, Black Tide budget, Black Tide review, Black Tide rating, Black Tide release date, Black Tide trailer, Black Tide Thriller, Black Tide Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vincent Cassel"
+     },
+     {
+      "@type": "Person",
+      "name": "Romain Duris"
+     },
+     {
+      "@type": "Person",
+      "name": "Sandrine Kiberlain"
+     },
+     {
+      "@type": "Person",
+      "name": "Élodie Bouchez"
+     },
+     {
+      "@type": "Person",
+      "name": "Charles Berling"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 302,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Black Tide (2018): Thriller/Mystery film. Story: When a teenager suddenly disappears without a trace… See cast and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Erick Zonca"
+     }
+    ],
+    "duration": "PT109M",
+    "genre": [
+     "Thriller",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/u29V5gkLeMjQrCZwOZDxGywnDqj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=446170",
+    "name": "Black Tide",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-07-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=446170"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Black Tide (2018)</h1>\n<p class=\"ssr-lead\">When a teenager suddenly disappears without a trace, the case is assigned to an alcoholic police officer who maintains a complicated relationship with his own troubled teenage son, suspected of drug trafficking.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 July 2018</li><li>Runtime: 109 minutes</li><li>Director: Erick Zonca</li><li>Genres: Thriller, Mystery</li><li>TMDB rating: 5.7/10 (302 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vincent Cassel as François</li><li>Romain Duris as Yan</li><li>Sandrine Kiberlain as Solange</li><li>Élodie Bouchez as Lola</li><li>Charles Berling as Marc</li><li>Hafsia Herzi as Chérifa</li><li>Jérôme Pouly as Raphäel</li><li>Félix Back as Denis</li><li>Lauréna Thellier as Marie Arnault</li><li>Stéphan Wojtowicz as Franck</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, France Channel Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Black Tide (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
   "movie:452970": {
    "d": "Mazinger Z: Infinity (2017): Action/Science Fiction film. Story: When the evil Dr. Hell attacks the Earth, the mighty… See cast and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/7BZiAmm3qPK7QQ2HmUnScv2EvBM.jpg",
@@ -1866,6 +1994,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Mazinger Z: Infinity (2017)</h1>\n<p class=\"ssr-lead\">When the evil Dr. Hell attacks the Earth, the mighty giant mecha Mazinger Z is formed to stop him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 October 2017</li><li>Runtime: 95 minutes</li><li>Director: Junji Shimizu</li><li>Genres: Action, Science Fiction, Animation</li><li>TMDB rating: 7.0/10 (361 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Showtaro Morikubo as Koji Kabuto (voice)</li><li>Ai Kayano as Sayaka Yumi (voice)</li><li>Sumire Uesaka as Lisa (voice)</li><li>Toshihiko Seki as Tetsuya Tsurugi (voice)</li><li>Ami Koshimizu as Jun Hono (voice)</li><li>Junpei Morita as Prime Minister Yumi (voice)</li><li>Unsho Ishizuka as Dr. Hell (voice)</li><li>Keiji Fujiwara as Count Brocken (voice)</li><li>Romi Park as Baron Ashura&#x27;s Female Side (voice)</li><li>Hiroyuki Miyasako as Baron Ashura&#x27;s Male Side (voice)</li></ul>\n</article>",
    "t": "Mazinger Z: Infinity (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
+  },
+  "movie:459670": {
+   "d": "Monica and Friends: Bonds (2019): Family/Adventure film. Story: Fluffy, Jimmy Five's pet dog, vanished. He develops… See cast and budget $1.8M.",
+   "img": "https://image.tmdb.org/t/p/w780/zN5eohKqT9Rww6m7PQOfyCXPi4.jpg",
+   "industry": "world",
+   "k": "Monica and Friends: Bonds, Monica and Friends: Bonds movie, Monica and Friends: Bonds cast, Monica and Friends: Bonds story, Monica and Friends: Bonds box office collection, Monica and Friends: Bonds budget, Monica and Friends: Bonds review, Monica and Friends: Bonds rating, Monica and Friends: Bonds release date, Monica and Friends: Bonds Family, Monica and Friends: Bonds Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Giulia Benite"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin Vechiatto"
+     },
+     {
+      "@type": "Person",
+      "name": "Laura Rauseo"
+     },
+     {
+      "@type": "Person",
+      "name": "Gabriel Moreira"
+     },
+     {
+      "@type": "Person",
+      "name": "Rodrigo Santoro"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 303,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Monica and Friends: Bonds (2019): Family/Adventure film. Story: Fluffy, Jimmy Five's pet dog, vanished. He develops… See cast and budget $1.8M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Daniel Rezende"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Family",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zN5eohKqT9Rww6m7PQOfyCXPi4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=459670",
+    "name": "Monica and Friends: Bonds",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-06-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=459670"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Monica and Friends: Bonds (2019)</h1>\n<p class=\"ssr-lead\">Fluffy, Jimmy Five&#x27;s pet dog, vanished. He develops an infallible plan to rescue the little dog, but, he will need help from his faithful friends: Monica, Maggy and Smudge. Together, they will face challengers and live incredible adventures to get Fluffy back home.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 June 2019</li><li>Runtime: 97 minutes</li><li>Director: Daniel Rezende</li><li>Genres: Family, Adventure, Comedy</li><li>Budget: $1.8M</li><li>TMDB rating: 7.7/10 (303 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Giulia Benite as Mônica</li><li>Kevin Vechiatto as Cebolinha</li><li>Laura Rauseo as Magali</li><li>Gabriel Moreira as Cascão</li><li>Rodrigo Santoro as Louco</li><li>Monica Iozzi as Dona Luísa</li><li>Luiz Pacini as Seu Sousa</li><li>Fafá Rennó as Dona Cebola</li><li>Paulo Vilhena as Seu Cebola</li><li>Ana Carolina Godoy as Dona Lina</li></ul>\n</article>",
+   "t": "Monica and Friends: Bonds (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:486070": {
    "d": "Blessed Madness (2018): Comedy/Family film. Story: A man dedicated to religion and very faithful husband… See cast and TMDB rating 6.0/10.",
@@ -2057,6 +2249,70 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Dog Man (2025)</h1>\n<p class=\"ssr-lead\">When a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is sworn to protect and serve—and fetch, sit and roll over. As Dog Man embraces his new identity and strives to impress his Chief, he must stop the pretty evil plots of feline supervillain Petey the Cat.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 April 2025</li><li>Runtime: 89 minutes</li><li>Director: Peter Hastings</li><li>Genres: Family, Comedy, Adventure, Animation, Action</li><li>Budget: $40M</li><li>TMDB rating: 7.3/10 (406 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Peter Hastings as Dog Man / Officer Knight / Harold&#x27;s House (voice)</li><li>Pete Davidson as Petey the Cat (voice)</li><li>Lil Rel Howery as Chief (voice)</li><li>Isla Fisher as Sarah Hatoff (voice)</li><li>Lucas Hopkins Calderon as Li&#x27;l Petey (voice)</li><li>Ricky Gervais as Flippy (voice)</li><li>Poppy Liu as Butler (voice)</li><li>Stephen Root as Grampa (voice)</li><li>Billy Boyd as Seamus (voice)</li><li>Luenell as Milly (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "Dog Man (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:804370": {
+   "d": "Arco (2025): Adventure/Animation film. Story: Ten-year-old Arco lives in a far future. During his… See cast, budget $10M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7qSUxLjtgU97nSGNzvw8rdNJ0FT.jpg",
+   "industry": "world",
+   "k": "Arco, Arco movie, Arco cast, Arco story, Arco box office collection, Arco budget, Arco review, Arco rating, Arco release date, Arco trailer, Arco Adventure, Arco Animation, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Margot Ringard Oldra"
+     },
+     {
+      "@type": "Person",
+      "name": "Oscar Tresanini"
+     },
+     {
+      "@type": "Person",
+      "name": "Nathanaël Perrot"
+     },
+     {
+      "@type": "Person",
+      "name": "Alma Jodorowsky"
+     },
+     {
+      "@type": "Person",
+      "name": "Swann Arlaud"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 304,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Arco (2025): Adventure/Animation film. Story: Ten-year-old Arco lives in a far future. During his… See cast, budget $10M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ugo Bienvenu"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Adventure",
+     "Animation"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7qSUxLjtgU97nSGNzvw8rdNJ0FT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=804370",
+    "name": "Arco",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-10-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=804370"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Arco (2025)</h1>\n<p class=\"ssr-lead\">Ten-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age from 2075, comes to his rescue and tries by any means to help send him back to his own era.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 October 2025</li><li>Runtime: 89 minutes</li><li>Director: Ugo Bienvenu</li><li>Genres: Adventure, Animation, Family, Science Fiction</li><li>Budget: $10M</li><li>TMDB rating: 7.5/10 (304 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Margot Ringard Oldra as Iris (voice)</li><li>Oscar Tresanini as Arco (voice)</li><li>Nathanaël Perrot as Clifford (voice)</li><li>Alma Jodorowsky as Jeanne / Mikki (voice)</li><li>Swann Arlaud as Tom / Mikki (voice)</li><li>Vincent Macaigne as Dougie (voice)</li><li>Louis Garrel as Stewie (voice)</li><li>William Lebghil as Frankie (voice)</li><li>Sophie Mas as La mère d&#x27;Arco (voix)</li><li>Frédérique Cantrel as La mère d&#x27;Arco - séquence finale (voix)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Arco (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
   },
   "movie:85870": {

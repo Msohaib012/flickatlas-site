@@ -1,6 +1,6 @@
 {
  "bucket": "43",
- "count": 43,
+ "count": 44,
  "titles": {
   "movie:10243": {
    "backdrop_path": "/kQVe1fh6H3q5bCMM5nXt1tKS0hv.jpg",
@@ -3506,6 +3506,201 @@
    "type": "movie",
    "vote_average": 6.764,
    "vote_count": 426
+  },
+  "movie:670243": {
+   "backdrop_path": "/7I1Yj4vz57L6BF6theOaKOs9QYS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joseph Haffmann",
+     "n": "Daniel Auteuil"
+    },
+    {
+     "c": "François Mercier",
+     "n": "Gilles Lellouche"
+    },
+    {
+     "c": "Blanche Mercier",
+     "n": "Sara Giraudeau"
+    },
+    {
+     "c": "Commander Jünger",
+     "n": "Nikolai Kinski"
+    },
+    {
+     "c": "Suzanne",
+     "n": "Mathilde Bisson"
+    },
+    {
+     "c": "Hannah Haffmann",
+     "n": "Anne Coesens"
+    },
+    {
+     "c": "Civilian Police",
+     "n": "Jérôme Cachon"
+    },
+    {
+     "c": "Police Officer",
+     "n": "Guillaume Marquet"
+    },
+    {
+     "c": "The Butcher Smuggler",
+     "n": "Yoann Blanc"
+    },
+    {
+     "c": "The Doctor",
+     "n": "Pierre Forest"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Fred Cavayé"
+   ],
+   "genres": [
+    "History",
+    "Drama"
+   ],
+   "id": 670243,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Paris 1942. François Mercier is an ordinary man who only aspires to start a family with the woman he loves, Blanche. He is also the employee of a talented jeweler, Mr. Haffmann. But faced with the German occupation, the two men will have no other choice but to conclude an agreement whose consequences, over the months, will upset the fate of our three characters.",
+   "popularity": 1.1328,
+   "poster_path": "/7PnzcmLH5j4gek0Z8OT3uTilAQT.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Chai Flicks"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/b1cu4YuZF6xRagXjCjVeZBbnSD2.png",
+     "name": "Chai Flicks",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-01-12",
+   "revenue": 0,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Farewell, Mr. Haffmann",
+   "trailer": {
+    "key": "ynh8hXoLza8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.887,
+   "vote_count": 304
   },
   "movie:7343": {
    "backdrop_path": "/1mJFeIf51DKAz84895htRmRzhs7.jpg",

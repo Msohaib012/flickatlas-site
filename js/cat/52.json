@@ -1,6 +1,6 @@
 {
  "bucket": "52",
- "count": 52,
+ "count": 54,
  "titles": {
   "movie:10452": {
    "backdrop_path": "/h0lGYUOxXKCM1W7cgvHN1UW1TC4.jpg",
@@ -1963,6 +1963,107 @@
    "vote_average": 4.51,
    "vote_count": 491
   },
+  "movie:29452": {
+   "backdrop_path": "/g1C4dj1tTqtwKPjSBfWr01v9e7N.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mr. Okuyama",
+     "n": "Tatsuya Nakadai"
+    },
+    {
+     "c": "Dr. Hori",
+     "n": "Mikijiro Hira"
+    },
+    {
+     "c": "Mrs. Okuyama",
+     "n": "Machiko Kyō"
+    },
+    {
+     "c": "Nurse",
+     "n": "Kyôko Kishida"
+    },
+    {
+     "c": "The Boss",
+     "n": "Eiji Okada"
+    },
+    {
+     "c": "Scarred Girl",
+     "n": "Miki Irie"
+    },
+    {
+     "c": "Elder Brother of Scarred Girl",
+     "n": "Kakuya Saeki"
+    },
+    {
+     "c": "Apartment Superintendent",
+     "n": "Minoru Chiaki"
+    },
+    {
+     "c": "Yoko",
+     "n": "Etsuko Ichihara"
+    },
+    {
+     "c": "Man with Mole",
+     "n": "Hisashi Igawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Hiroshi Teshigahara"
+   ],
+   "genres": [
+    "Drama",
+    "Science Fiction"
+   ],
+   "id": 29452,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A businessman with a disfigured face obtains a lifelike mask from his new doctor, but the mask starts altering his personality and causing him to question his identity.",
+   "popularity": 1.998,
+   "poster_path": "/eUnFdf1Mf1b8AD3ChMPOCUfTBDQ.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1966-07-15",
+   "revenue": 0,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "It’s always lonely being free.",
+   "title": "The Face of Another",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.766,
+   "vote_count": 305
+  },
   "movie:317952": {
    "backdrop_path": "/lHFsMi0uprGSD25sIR1OVeqFiFR.jpg",
    "budget": 0,
@@ -2955,6 +3056,183 @@
    "type": "movie",
    "vote_average": 7.128,
    "vote_count": 344
+  },
+  "movie:503752": {
+   "backdrop_path": "/ebcNmjWoq14VSnfj9wM87uJ1blQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jackie",
+     "n": "Hannah Emily Anderson"
+    },
+    {
+     "c": "Jules",
+     "n": "Brittany Allen"
+    },
+    {
+     "c": "Sarah",
+     "n": "Martha MacIsaac"
+    },
+    {
+     "c": "Daniel",
+     "n": "Joey Klein"
+    },
+    {
+     "c": "Young Jackie",
+     "n": "Charlotte Lindsay Marron"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Colin Minihan"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 503752,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "Majestic mountains, a still lake and venomous betrayals engulf a married couple attempting to celebrate their first anniversary.",
+   "popularity": 1.8688,
+   "poster_path": "/iHrNKFoG3XOy5oPygR90TR5nfJt.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-08-24",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There's a demon inside.",
+   "title": "What Keeps You Alive",
+   "trailer": {
+    "key": "FfADKNDJcP8",
+    "name": "What Keeps You Alive - Official Red Band Trailer I HD I IFC Midnight",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 305
   },
   "movie:510452": {
    "backdrop_path": "/c77bO2lrTaGU4662hPeu5vsaESL.jpg",

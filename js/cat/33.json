@@ -1,6 +1,6 @@
 {
  "bucket": "33",
- "count": 40,
+ "count": 42,
  "titles": {
   "movie:10333": {
    "backdrop_path": "/oqosaCWqrh3geYMksXhBaZQjwOJ.jpg",
@@ -2469,6 +2469,182 @@
    "type": "movie",
    "vote_average": 7.297,
    "vote_count": 323
+  },
+  "movie:427033": {
+   "backdrop_path": "/r3bDWZUniD06x3gAXWtbNifhSYZ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "David Müller",
+     "n": "Philip Noah Schwarz"
+    },
+    {
+     "c": "Lenny Reinhard",
+     "n": "Elyas M'Barek"
+    },
+    {
+     "c": "Betty Müller",
+     "n": "Nadine Wrietz"
+    },
+    {
+     "c": "Dr. Reinhard",
+     "n": "Uwe Preuss"
+    },
+    {
+     "c": "Astrid",
+     "n": "Karin Thaler"
+    },
+    {
+     "c": "Herr Petry",
+     "n": "Jürgen Tonkel"
+    },
+    {
+     "c": "Sanitäter",
+     "n": "Sebastian Gerold"
+    },
+    {
+     "c": "Barbara",
+     "n": "Lena Meckel"
+    },
+    {
+     "c": "Dr. Julia Mann",
+     "n": "Lisa Bitter"
+    },
+    {
+     "c": "Sarah",
+     "n": "Tesha Moon Krieg"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "AA",
+   "date_kind": "release",
+   "director": [
+    "Marc Rothemund"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 427033,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "When 30-ish rich kid Lenny has to take care of 15-year-old David, who’s suffering from heart disease, it’s the beginning of a wild adventure. Lenny fearlessly breaks all the rules to fulfill his young friend’s every wish.",
+   "popularity": 0.9799,
+   "poster_path": "/5URz6UQ9ZjKc0rEQsckcsMjO1jK.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2017-12-21",
+   "revenue": 0,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "This Crazy Heart",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.325,
+   "vote_count": 305
+  },
+  "movie:42733": {
+   "backdrop_path": "/sn5dvn1g977bejLHGyMUlXeEXn7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Interviewer (uncredited)",
+     "n": "Pier Paolo Pasolini"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Lello Bersani"
+    },
+    {
+     "c": "Self - Writer",
+     "n": "Alberto Moravia"
+    },
+    {
+     "c": "Self - Psychoanalyst",
+     "n": "Cesare Musatti"
+    },
+    {
+     "c": "Self - Singer",
+     "n": "Peppino Di Capri"
+    },
+    {
+     "c": "Self - Football Player",
+     "n": "Ezio Pascutti"
+    },
+    {
+     "c": "Self - Football Player",
+     "n": "William Negri"
+    },
+    {
+     "c": "Self - Football Player",
+     "n": "Carlo Furlanis"
+    },
+    {
+     "c": "Self - Poet",
+     "n": "Giuseppe Ungaretti"
+    },
+    {
+     "c": "Self - Writer",
+     "n": "Camilla Cederna"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "VM18",
+   "date_kind": "release",
+   "director": [
+    "Pier Paolo Pasolini"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 42733,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Pier Paolo Pasolini sets out to interview Italians about sex, apparently their least favorite thing to talk about in public: he asks children if they know where babies come from; asks old and young women if they support gender equality; asks both sexes if a woman's virginity still matters, what do they think of homosexuality, if divorce should be legal, or if they support the recent abolition of brothels. He interviews blue-collar workers, intellectuals, college students, rural farmers, the bourgeoisie, and every other kind of people, painting a vivid portrait of a rapidly-industrializing Italy, hanging between modernity and tradition — toward both of which Pasolini shows equal distrust.",
+   "popularity": 1.1116,
+   "poster_path": "/olOuK4gkrYzgo7xJWR1EugZ2vdS.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "1965-07-05",
+   "revenue": 2248,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Love Meetings",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.2,
+   "vote_count": 301
   },
   "movie:501633": {
    "backdrop_path": "/5IseU9V6zu6T3ZQrPdTjke2WNbz.jpg",

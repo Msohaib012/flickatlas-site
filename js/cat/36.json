@@ -1,6 +1,6 @@
 {
  "bucket": "36",
- "count": 44,
+ "count": 46,
  "titles": {
   "movie:11536": {
    "backdrop_path": "/uCH6NY9qstOLbBTGv0rWxB1oJJH.jpg",
@@ -121,6 +121,178 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 460
+  },
+  "movie:11936": {
+   "backdrop_path": "/v3OBPtCS4iHOGKNBwiO22QFfMQ1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Snàporaz",
+     "n": "Marcello Mastroianni"
+    },
+    {
+     "c": "Elena, the Wife",
+     "n": "Anna Prucnal"
+    },
+    {
+     "c": "Lady on the Train",
+     "n": "Bernice Stegers"
+    },
+    {
+     "c": "Motorcyclist",
+     "n": "Jole Silvani"
+    },
+    {
+     "c": "Donatella, Woman on Roller Skates",
+     "n": "Donatella Damiani"
+    },
+    {
+     "c": "Dr. Xavier Katzone",
+     "n": "Ettore Manni"
+    },
+    {
+     "c": "Oliver Hardy",
+     "n": "Fiammetta Baralla"
+    },
+    {
+     "c": "Feminist",
+     "n": "Hélène Calzarelli"
+    },
+    {
+     "c": "Commandant",
+     "n": "Catherine Carrel"
+    },
+    {
+     "c": "Slave",
+     "n": "Marcella Di Falco"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Federico Fellini"
+   ],
+   "genres": [
+    "Comedy",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 11936,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "The charismatic Snaporaz encounters an alluring woman on a train and pursues her through a forest. He ends up at a hotel populated by women gathered for a feminist conference, where he is an unwanted presence. Snaporaz soon discovers he’s entered a phantasmagoric world where women have taken power.",
+   "popularity": 2.3353,
+   "poster_path": "/hSX2YnpQebGlw5ljNlr1jnNSt5q.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1980-03-28",
+   "revenue": 0,
+   "runtime": 140,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "City of Women",
+   "trailer": {
+    "key": "6UjQqbNXdDw",
+    "name": "City of Women - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 304
   },
   "movie:121936": {
    "backdrop_path": "/cRDXDysyWRh3b2UquaBykvoZRLJ.jpg",
@@ -2387,6 +2559,133 @@
    "type": "movie",
    "vote_average": 7.275,
    "vote_count": 322
+  },
+  "movie:411736": {
+   "backdrop_path": "/oBwzYKdcbT7K8CEkKDbTspPAJkG.jpg",
+   "budget": 3500000,
+   "cast": [
+    {
+     "c": "Bruce Wayne / Batman (voice)",
+     "n": "Adam West"
+    },
+    {
+     "c": "Dick Grayson / Robin (voice)",
+     "n": "Burt Ward"
+    },
+    {
+     "c": "Catwoman (voice)",
+     "n": "Julie Newmar"
+    },
+    {
+     "c": "Announcer / Joker (voice)",
+     "n": "Jeff Bergman"
+    },
+    {
+     "c": "Miranda Moore (voice)",
+     "n": "Sirena Irwin"
+    },
+    {
+     "c": "Chief O'Hara (voice)",
+     "n": "Thomas Lennon"
+    },
+    {
+     "c": "Penguin (voice)",
+     "n": "William Salyers"
+    },
+    {
+     "c": "Aunt Harriet (voice)",
+     "n": "Lynne Marie Stewart"
+    },
+    {
+     "c": "James Gordon (voice)",
+     "n": "Jim Ward"
+    },
+    {
+     "c": "Alfred Pennyworth (voice)",
+     "n": "Steven Weber"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Rick Morales"
+   ],
+   "genres": [
+    "Action",
+    "Animation",
+    "Adventure",
+    "Family",
+    "Science Fiction"
+   ],
+   "id": 411736,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Adam West and Burt Ward return to their iconic roles of Batman and Robin. The film sees the superheroes going up against classic villains like The Joker, The Riddler, The Penguin and Catwoman, both in Gotham City… and in space.",
+   "popularity": 2.3874,
+   "poster_path": "/kXV5rVxxRYWHksELUi6dxzWG7Sj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2016-10-08",
+   "revenue": 0,
+   "runtime": 78,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The crusade continues...",
+   "title": "Batman: Return of the Caped Crusaders",
+   "trailer": {
+    "key": "hGeQKu8RXDc",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.474,
+   "vote_count": 305
   },
   "movie:42436": {
    "backdrop_path": "/u1jyuVJtNOgE5eSq4BNedf9sjg3.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "60",
- "count": 63,
+ "count": 65,
  "titles": {
   "movie:10560": {
    "backdrop_path": "/f3cTz9cEPgrWWECMAGIYO9gRSLs.jpg",
@@ -2694,6 +2694,161 @@
    "type": "movie",
    "vote_average": 7.153,
    "vote_count": 365
+  },
+  "movie:2860": {
+   "backdrop_path": "/eirSTJkaGgEB8mpunntNrXI1nNH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jérôme",
+     "n": "Jean-Claude Brialy"
+    },
+    {
+     "c": "Aurora, the novelist",
+     "n": "Aurora Cornu"
+    },
+    {
+     "c": "Laura",
+     "n": "Béatrice Romand"
+    },
+    {
+     "c": "Claire",
+     "n": "Laurence de Monaghan"
+    },
+    {
+     "c": "Madame Walter",
+     "n": "Michèle Montel"
+    },
+    {
+     "c": "Gilles",
+     "n": "Gérard Falconetti"
+    },
+    {
+     "c": "Vincent",
+     "n": "Fabrice Luchini"
+    },
+    {
+     "c": "",
+     "n": "Sandra Franchina"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Éric Rohmer"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 2860,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "On the eve of his wedding, on holiday on the Lake Annecy shore, career diplomat Jérôme visits an old acquaintance, perhaps a former girlfriend. Through her, he meets an intense teenager, Laura, and then lusts after her sister, Claire. Whilst Laura attempts to flirt with him, Jérôme's fantasy becomes focused on wanting to caress Claire's knee.",
+   "popularity": 2.3125,
+   "poster_path": "/wekWNf0Nj6fkfR6pOjPojMAqz69.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1970-12-11",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Claire's Knee",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 304
   },
   "movie:297160": {
    "backdrop_path": "/5eAR0hLTl3xSYPDAiQMz2nTByWt.jpg",
@@ -5919,6 +6074,132 @@
    "type": "movie",
    "vote_average": 6.072,
    "vote_count": 345
+  },
+  "movie:9460": {
+   "backdrop_path": "/bHeNjLRJGuQjDXD5CzJzFm6aQF2.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Tsui Chik / Black Mask",
+     "n": "Jet Li"
+    },
+    {
+     "c": "Inspector 'Rock' Shek Wai-Ho",
+     "n": "Lau Ching-wan"
+    },
+    {
+     "c": "Tracy Lee",
+     "n": "Karen Mok Man-wai"
+    },
+    {
+     "c": "Yeuk Laan",
+     "n": "Françoise Yip"
+    },
+    {
+     "c": "Commander Hung Guk",
+     "n": "Patrick Lung Kong"
+    },
+    {
+     "c": "King Kau",
+     "n": "Anthony Wong Chau-sang"
+    },
+    {
+     "c": "Jimmy",
+     "n": "Xiong Xinxin"
+    },
+    {
+     "c": "Ricky Tai",
+     "n": "Henry Fong Ping"
+    },
+    {
+     "c": "Chief of Library",
+     "n": "Sze Mei-Yee"
+    },
+    {
+     "c": "Szeto",
+     "n": "Roy Szeto Wai-cheuk"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Daniel Lee"
+   ],
+   "genres": [
+    "Action"
+   ],
+   "id": 9460,
+   "industry": "world",
+   "origin_country": [
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "Super-soldier recruit Tsui Chik is forced to escape with his comrades after the project is canceled. Months later, he's trying to have a quiet life as a librarian with his best friend, Inspector Shek Wai-Ho. However, a string of vicious gangland murders begins that has all the markings of Tsui's former compatriots who seem to have turned to crime. Realizing that the police are helpless, he decides to take them on himself. With a disguise, Tsui becomes the mysterious superhero known only as Black Mask.",
+   "popularity": 3.3212,
+   "poster_path": "/eEmG43S9o5C6XeFschoFQU4Bcub.jpg",
+   "production_countries": [
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1996-11-07",
+   "revenue": 60004461,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es",
+    "cn"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Black Mask",
+   "trailer": {
+    "key": "Z_vQ939U7YQ",
+    "name": "Original Home Video Trailer [Dubbed]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.222,
+   "vote_count": 304
   },
   "movie:964960": {
    "backdrop_path": "/yDA4vgY6Thi8jflN94kHa05mqjj.jpg",

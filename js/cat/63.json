@@ -1,6 +1,6 @@
 {
  "bucket": "63",
- "count": 51,
+ "count": 52,
  "titles": {
   "movie:10063": {
    "backdrop_path": "/81kbwVTU6Im3zcSnK0Pp2oP4piN.jpg",
@@ -2629,6 +2629,94 @@
    "type": "movie",
    "vote_average": 4.0,
    "vote_count": 781
+  },
+  "movie:19963": {
+   "backdrop_path": "/vDlHGqV1FKzXarAoxLaorBB9cPd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marion",
+     "n": "Claude Perron"
+    },
+    {
+     "c": "Donald Willis",
+     "n": "Roland Blanche"
+    },
+    {
+     "c": "Bernie Noël",
+     "n": "Albert Dupontel"
+    },
+    {
+     "c": "Ramonda",
+     "n": "Roland Bertin"
+    },
+    {
+     "c": "la mère",
+     "n": "Hélène Vincent"
+    },
+    {
+     "c": "la grand-mère",
+     "n": "Catherine Samie"
+    },
+    {
+     "c": "Marie-Solange Clermont",
+     "n": "Emmanuelle Bougerol"
+    },
+    {
+     "c": "Me Clermont",
+     "n": "Alain Libolt"
+    },
+    {
+     "c": "le député Vallois",
+     "n": "Philippe Uchan"
+    },
+    {
+     "c": "l'agent immobilier",
+     "n": "Antoinette Moya"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Albert Dupontel"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 19963,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Bernie, a 30 years old orphan, decides to leave his orphanage and find his parents. After an investigation, he meets Marion, a young heroin addict and falls in love with her. He believes that his family was victim of a plot and this is why they deserted him.",
+   "popularity": 0.9521,
+   "poster_path": "/c5jNOFSbUttQZl4CesnpAe1LrPR.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "1996-11-27",
+   "revenue": 0,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Bernie",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.771,
+   "vote_count": 301
   },
   "movie:208763": {
    "backdrop_path": "/d7SWh0taIIfWyO2Yuy2wrO6z6p6.jpg",

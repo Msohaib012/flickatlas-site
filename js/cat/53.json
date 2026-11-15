@@ -1,6 +1,6 @@
 {
  "bucket": "53",
- "count": 48,
+ "count": 50,
  "titles": {
   "movie:1008953": {
    "backdrop_path": "/1XmbgjIpqpdnSBaEzN0YaaaZObd.jpg",
@@ -3343,6 +3343,114 @@
    "vote_average": 6.58,
    "vote_count": 425
   },
+  "movie:423453": {
+   "backdrop_path": "/cVaCZtH5kl0cftYgH3l8j0q54nF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ajar (voice)",
+     "n": "Omar Sy"
+    },
+    {
+     "c": "Eva (voice)",
+     "n": "Louane"
+    },
+    {
+     "c": "Pitt (voice)",
+     "n": "Franck Gastambide"
+    },
+    {
+     "c": "Gary (voice)",
+     "n": "Vincent Lacoste"
+    },
+    {
+     "c": "Chef Chef (voice)",
+     "n": "Ramzy Bedia"
+    },
+    {
+     "c": "Ver Luisant (voice)",
+     "n": "Clovis Cornillac"
+    },
+    {
+     "c": "Georges (voice)",
+     "n": "Jean Dujardin"
+    },
+    {
+     "c": "Alexandrie (voice)",
+     "n": "Reem Kherici"
+    },
+    {
+     "c": "Michael (voice)",
+     "n": "Jonathan Lambert"
+    },
+    {
+     "c": "Alexandra (voice)",
+     "n": "Sabrina Ouazani"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "L",
+   "date_kind": "release",
+   "director": [
+    "Pierre Coré"
+   ],
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 423453,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A young cobra and his scorpion best friend go on a journey across the Sahara desert to save a new-found love.",
+   "popularity": 1.5237,
+   "poster_path": "/4YYaBvush9fAcXdpyowXEXDEbjm.jpg",
+   "production_countries": [
+    "CA",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-02-01",
+   "revenue": 8061843,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Sahara",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.968,
+   "vote_count": 300
+  },
   "movie:461053": {
    "backdrop_path": "/cz1EXa6aRBzrX0q2lByOHo079jI.jpg",
    "budget": 0,
@@ -4277,6 +4385,79 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 344
+  },
+  "movie:618253": {
+   "backdrop_path": "/jHILyT8ZQ4w1YFJ2RY8KdsLHrbH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Chiara Ferragni"
+    },
+    {
+     "c": "Self",
+     "n": "Fedez"
+    },
+    {
+     "c": "Self",
+     "n": "Paris Hilton"
+    },
+    {
+     "c": "Self",
+     "n": "Delphine Arnault"
+    },
+    {
+     "c": "Self",
+     "n": "Derek Blasberg"
+    },
+    {
+     "c": "Self",
+     "n": "Silvia Avallone"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Elisa Amoruso"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 618253,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Chiara Ferragni, the first fashion influencer in the world, reveals how the digital revolution has changes business world, communication, fashion, culture, through a portrait in which she's the protagonist, both as a woman and as digital entrepreneur.",
+   "popularity": 0.3417,
+   "poster_path": "/aJaJrgexnUjL1dEGMJQoLIvBjuu.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2019-09-17",
+   "revenue": 0,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Chiara Ferragni: Unposted",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 300
   },
   "movie:618353": {
    "backdrop_path": "/kU7ZiyeUwcpTkYj3UcxSqGdZmxY.jpg",

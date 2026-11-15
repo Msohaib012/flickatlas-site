@@ -1,6 +1,6 @@
 {
  "bucket": "98",
- "count": 64,
+ "count": 65,
  "titles": {
   "movie:1061798": {
    "backdrop_path": "/gZDF8oChSplhdwTCjFR1SHwKw8s.jpg",
@@ -5028,6 +5028,182 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 415
+  },
+  "movie:486898": {
+   "backdrop_path": "/zJDaoc3HIHIgIOiY60NxqZUdXcp.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Wan Qiwen / Kaizhen",
+     "n": "Tang Wei"
+    },
+    {
+     "c": "Luo Hongwu",
+     "n": "Huang Jue"
+    },
+    {
+     "c": "Wildcat's Mother / Red-haired Woman",
+     "n": "Sylvia Chang Ai-chia"
+    },
+    {
+     "c": "Wildcat",
+     "n": "Lee Hong-Chi"
+    },
+    {
+     "c": "Zuo Hongyuan",
+     "n": "Chen Yongzhong"
+    },
+    {
+     "c": "Pager",
+     "n": "Chloe Maayan"
+    },
+    {
+     "c": "Wan Qiwen's Ex-husband",
+     "n": "Duan Chun-hao"
+    },
+    {
+     "c": "Woman Prisoner",
+     "n": "Bi Yanmin"
+    },
+    {
+     "c": "Child Wildcat",
+     "n": "Feiyang Luo"
+    },
+    {
+     "c": "Lover of Red-haired Woman",
+     "n": "Xie Lixun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Bi Gan"
+   ],
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "id": 486898,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "Luo Hongwu returns to Kaili, the hometown from which he fled many years ago. He begins the search for the woman he loved and whom he has never been able to forget.",
+   "popularity": 2.6576,
+   "poster_path": "/8wUxYW7v2sahnFwipwzjRo8Z3sP.jpg",
+   "production_countries": [
+    "CN",
+    "FR",
+    "TW"
+   ],
+   "providers": [
+    {
+     "name": "Kino Film Collection"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vzHdqyLVfEXK6dNIbsVYH28mn9k.png",
+     "name": "Kino Film Collection",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-12-31",
+   "revenue": 42140000,
+   "runtime": 138,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Long Day's Journey Into Night",
+   "trailer": {
+    "key": "0yPt3kQzxa8",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.99,
+   "vote_count": 300
   },
   "movie:509598": {
    "backdrop_path": "/66ToN6sQ9Q2GHVYevbzUz3cM9jq.jpg",

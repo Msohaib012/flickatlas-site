@@ -1,6 +1,6 @@
 {
  "bucket": "65",
- "count": 49,
+ "count": 52,
  "titles": {
   "movie:1001865": {
    "backdrop_path": "/wMNY6tU9WOUeAMRfqbCYwceOl9u.jpg",
@@ -476,6 +476,146 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 314
+  },
+  "movie:11365": {
+   "backdrop_path": "/8WquHvFVBq9jtfRUUOzMVJBzNW4.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Oscar Wilde",
+     "n": "Stephen Fry"
+    },
+    {
+     "c": "Lord Alfred 'Bosie' Douglas",
+     "n": "Jude Law"
+    },
+    {
+     "c": "Lady Speranza Wilde",
+     "n": "Vanessa Redgrave"
+    },
+    {
+     "c": "Constance Lloyd Wilde",
+     "n": "Jennifer Ehle"
+    },
+    {
+     "c": "Lady Queensberry",
+     "n": "Gemma Jones"
+    },
+    {
+     "c": "Lady Mount-Temple",
+     "n": "Judy Parfitt"
+    },
+    {
+     "c": "Robbie Ross",
+     "n": "Michael Sheen"
+    },
+    {
+     "c": "Ada Leverson 'Sphinx'",
+     "n": "Zoë Wanamaker"
+    },
+    {
+     "c": "Marquess of Queensberry",
+     "n": "Tom Wilkinson"
+    },
+    {
+     "c": "John Gray",
+     "n": "Ioan Gruffudd"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Brian Gilbert"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 11365,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Oscar Wilde is a married playwright who has occasionally indulged his weakness for male suitors. After much toil, Wilde debuts 'The Importance of Being Earnest' in London, and a chat at the theatre with Lord Alfred 'Bosie' Douglas leads to a full-fledged romance. However, this affair leads to a legal dispute with Lord Alfred's oppressive father, the Marquess of Queensberry, and, given the local anti-gay laws, Wilde is jailed. Wilde's vast intellect helps him survive until he regains his freedom.",
+   "popularity": 2.4762,
+   "poster_path": "/66ieZHIIOkeQAjAi4ekFpcCLozA.jpg",
+   "production_countries": [
+    "DE",
+    "JP",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1997-09-01",
+   "revenue": 2158775,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Loved for being unique. Hated for being different.",
+   "title": "Wilde",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.593,
+   "vote_count": 301
   },
   "movie:11465": {
    "backdrop_path": "/A4sFrTjB4JOrmCQLRqnfz91BQTK.jpg",
@@ -2662,6 +2802,122 @@
    "vote_average": 7.313,
    "vote_count": 402
   },
+  "movie:36865": {
+   "backdrop_path": "/fJmeyANTcpTRWUHPi5cGj5rpBJ4.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Kyon (voice)",
+     "n": "Tomokazu Sugita"
+    },
+    {
+     "c": "Haruhi Suzumiya (voice)",
+     "n": "Aya Hirano"
+    },
+    {
+     "c": "Yuki Nagato (voice)",
+     "n": "Minori Chihara"
+    },
+    {
+     "c": "Mikuru Asahina (voice)",
+     "n": "Yuko Goto"
+    },
+    {
+     "c": "Itsuki Koizumi (voice)",
+     "n": "Daisuke Ono"
+    },
+    {
+     "c": "Ryoko Asakura (voice)",
+     "n": "Natsuko Kuwatani"
+    },
+    {
+     "c": "Tsuruya (voice)",
+     "n": "Yuki Matsuoka"
+    },
+    {
+     "c": "Taniguchi (voice)",
+     "n": "Minoru Shiraishi"
+    },
+    {
+     "c": "Kunikida (voice)",
+     "n": "Megumi Matsumoto"
+    },
+    {
+     "c": "Kyon's Sister (voice)",
+     "n": "Sayaka Aoki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Yasuhiro Takemoto",
+    "Tatsuya Ishihara"
+   ],
+   "genres": [
+    "Animation",
+    "Science Fiction",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 36865,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A week before Christmas, Kyon wakes up in a world where the SOS Brigade doesn't exist. Mikuru and Yuki don't recognize him, and Haruhi and Itsuki seem to have vanished.",
+   "popularity": 1.9815,
+   "poster_path": "/x52WmUnfpB2AB0YUNGWJZaRzcBx.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2010-02-05",
+   "revenue": 7701498,
+   "runtime": 162,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Am I happier in the world that had Haruhi in it, or the one where she disappeared?",
+   "title": "The Disappearance of Haruhi Suzumiya",
+   "trailer": {
+    "key": "eHKyNQopYXo",
+    "name": "「涼宮ハルヒの消失」劇場版予告編",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.885,
+   "vote_count": 301
+  },
   "movie:370665": {
    "backdrop_path": "/axCqDdiznyQxmTO2hjYjDPYHZvO.jpg",
    "budget": 26000000,
@@ -3934,6 +4190,142 @@
    "type": "movie",
    "vote_average": 6.8,
    "vote_count": 337
+  },
+  "movie:539565": {
+   "backdrop_path": "/zL7CozbpAbGSdhBsuTI847tu5Fo.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Zola",
+     "n": "Taylour Paige"
+    },
+    {
+     "c": "Stefani",
+     "n": "Riley Keough"
+    },
+    {
+     "c": "X",
+     "n": "Colman Domingo"
+    },
+    {
+     "c": "Derrek",
+     "n": "Nicholas Braun"
+    },
+    {
+     "c": "Sean",
+     "n": "Ari'el Stachel"
+    },
+    {
+     "c": "Gail",
+     "n": "Nelcie Souffrant"
+    },
+    {
+     "c": "Jonathan",
+     "n": "Nasir Rahim"
+    },
+    {
+     "c": "Dion",
+     "n": "Jason Mitchell"
+    },
+    {
+     "c": "Hollywood",
+     "n": "Ts Madison"
+    },
+    {
+     "c": "Dancer",
+     "n": "Latasha Glenn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Janicza Bravo"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "id": 539565,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A waitress agrees to accompany an exotic dancer, her put-upon boyfriend, and her mysterious and domineering roommate on a road trip to Florida to seek their fortune at a high-end strip club.",
+   "popularity": 1.9824,
+   "poster_path": "/bJLCPROp9bmNndurwZpVnOioVpB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2021-06-30",
+   "revenue": 3500000,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Y'all wanna hear a story?",
+   "title": "Zola",
+   "trailer": {
+    "key": "KB0EJrV6k2U",
+    "name": "Official Greenband Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 300
   },
   "movie:567965": {
    "backdrop_path": "/pfgIFToEcoXkOg83Cpx5lUct3qV.jpg",

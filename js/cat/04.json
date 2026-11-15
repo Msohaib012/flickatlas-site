@@ -1,6 +1,6 @@
 {
  "bucket": "04",
- "count": 61,
+ "count": 63,
  "titles": {
   "movie:10604": {
    "backdrop_path": "/fdKE05kO9lch613DR2rfIqbv7dN.jpg",
@@ -386,6 +386,125 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 37
+  },
+  "movie:1235304": {
+   "backdrop_path": "/b28RiKlALbdC2Dmnndt93MBt76h.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Adèle Meunier born Vermillard",
+     "n": "Suzanne Lindon"
+    },
+    {
+     "c": "Seb / Claude Monet 1874",
+     "n": "Abraham Wapler"
+    },
+    {
+     "c": "Guy",
+     "n": "Vincent Macaigne"
+    },
+    {
+     "c": "Céline",
+     "n": "Julia Piaton"
+    },
+    {
+     "c": "Abdelkrim",
+     "n": "Zinedine Soualem"
+    },
+    {
+     "c": "Anatole",
+     "n": "Paul Kircher"
+    },
+    {
+     "c": "Lucien",
+     "n": "Vassili Schneider"
+    },
+    {
+     "c": "Odette Vermillard",
+     "n": "Sara Giraudeau"
+    },
+    {
+     "c": "Calixte de La Ferrière",
+     "n": "Cécile de France"
+    },
+    {
+     "c": "Claude Monet 1895",
+     "n": "Olivier Gourmet"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Cédric Klapisch"
+   ],
+   "genres": [
+    "History",
+    "Drama",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 1235304,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "When four distant cousins inherit a 19th-century home in Normandy, they decide to visit and examine their family history. No one has lived there since the 1940s, and the cousins are intrigued by all of the items they find there, little things that help them to understand their ancestor, Adèle Vermillard. Jumping back and forth in time, they meet the mysterious Adèle, whose bohemian lifestyle, and her relationships with the leading artists of the time, changes their lives.",
+   "popularity": 2.9387,
+   "poster_path": "/hPj1RiuhW72lIfa8UrIncDGSSD0.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "France Channel Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2025-05-22",
+   "revenue": 10111905,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Colours of Time",
+   "trailer": {
+    "key": "_sTdOm2BID8",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.327,
+   "vote_count": 304
   },
   "movie:1242404": {
    "backdrop_path": "/sb8Aq1RohASXyjT0uEOUUZJi5oI.jpg",
@@ -3182,6 +3301,94 @@
    "type": "movie",
    "vote_average": 7.484,
    "vote_count": 489
+  },
+  "movie:451504": {
+   "backdrop_path": "/ndyDDRLitBb97W27PYsF7c8UHKP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jean",
+     "n": "Didier Bourdon"
+    },
+    {
+     "c": "Virginie",
+     "n": "Isabelle Carré"
+    },
+    {
+     "c": "Sandrine",
+     "n": "Valérie Bonneton"
+    },
+    {
+     "c": "Mère de Sandrine",
+     "n": "Hélène Vincent"
+    },
+    {
+     "c": "Michel",
+     "n": "Laurent Stocker"
+    },
+    {
+     "c": "Félix",
+     "n": "Michel Vuillermoz"
+    },
+    {
+     "c": "Père de Sandrine",
+     "n": "Jackie Berroyer"
+    },
+    {
+     "c": "Jeanne",
+     "n": "Billie Blain"
+    },
+    {
+     "c": "Antoine",
+     "n": "Marty Berreby"
+    },
+    {
+     "c": "Etudiante Juliette",
+     "n": "Agnès Hurstel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Alexandra Leclère"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 451504,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A wife finds out her husband has a mistress. She decides to propose her to share her life with her husband, alternating every two weeks.",
+   "popularity": 0.8097,
+   "poster_path": "/pqJ8cudwelvRG46ytKSGTYVkaiC.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2017-12-20",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Joint Custody",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.738,
+   "vote_count": 305
   },
   "movie:485504": {
    "backdrop_path": "/9DbG4Xr6H0gxyHpnBg7haeL5xVH.jpg",

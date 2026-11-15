@@ -1,6 +1,6 @@
 {
  "bucket": "27",
- "count": 51,
+ "count": 53,
  "titles": {
   "movie:103327": {
    "backdrop_path": "/1ESciDN81pKupe1Gb8rmWhmYzKr.jpg",
@@ -460,6 +460,183 @@
    "type": "movie",
    "vote_average": 7.547,
    "vote_count": 426
+  },
+  "movie:12627": {
+   "backdrop_path": "/bFXrPXV6GjWK5mQZYMncve0bisi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Edouard Frenhofer",
+     "n": "Michel Piccoli"
+    },
+    {
+     "c": "Marianne",
+     "n": "Emmanuelle Béart"
+    },
+    {
+     "c": "Liz",
+     "n": "Jane Birkin"
+    },
+    {
+     "c": "Julienne",
+     "n": "Marianne Denicourt"
+    },
+    {
+     "c": "Nicolas",
+     "n": "David Bursztein"
+    },
+    {
+     "c": "Porbus",
+     "n": "Gilles Arbona"
+    },
+    {
+     "c": "Magali",
+     "n": "Marie Belluc"
+    },
+    {
+     "c": "Françoise",
+     "n": "Marie-Claude Roger"
+    },
+    {
+     "c": "La servante",
+     "n": "Leïla Remili"
+    },
+    {
+     "c": "Une touriste",
+     "n": "Daphne Goodfellow"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18A",
+   "date_kind": "release",
+   "director": [
+    "Jacques Rivette"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 12627,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "CH"
+   ],
+   "original_language": "fr",
+   "overview": "The former famous painter Frenhofer lives quietly with his wife on a countryside residence in the French Provence. When the young artist Nicolas visits him with his girlfriend Marianne, Frenhofer decides to start again the work on a painting he long ago stopped: La Belle Noiseuse. And he wants Marianne as model.",
+   "popularity": 2.4494,
+   "poster_path": "/n6f7I9RUdoDa9AgM9X2oAc3pk4l.jpg",
+   "production_countries": [
+    "FR",
+    "CH"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Cohen Media Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/89EaG6G6QpQnxfquTLSPNlpRhF8.png",
+     "name": "Cohen Media Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1991-09-04",
+   "revenue": 0,
+   "runtime": 238,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "La Belle Noiseuse",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.284,
+   "vote_count": 306
   },
   "movie:1266127": {
    "backdrop_path": "/lE9CIX0NqKppnwopQdnabID6hZ1.jpg",
@@ -4527,6 +4704,109 @@
    "type": "movie",
    "vote_average": 8.073,
    "vote_count": 395
+  },
+  "movie:852427": {
+   "backdrop_path": "/xp6ZNacNFf9GmJe648fUqfbdyph.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mathieu Roussel",
+     "n": "Gilles Lellouche"
+    },
+    {
+     "c": "Svetlana",
+     "n": "Joanna Kulig"
+    },
+    {
+     "c": "Rostov",
+     "n": "Mikhail Gorevoy"
+    },
+    {
+     "c": "Sergey",
+     "n": "Sasha Piltsin"
+    },
+    {
+     "c": "Ivanovich",
+     "n": "Mikhail Safronov"
+    },
+    {
+     "c": "Borodin",
+     "n": "Oleksiy Horbunov"
+    },
+    {
+     "c": "Sagarine",
+     "n": "Igor Jijikine"
+    },
+    {
+     "c": "Alica",
+     "n": "Elisa Lasowski"
+    },
+    {
+     "c": "Sacha",
+     "n": "Daniil Vorobyov"
+    },
+    {
+     "c": "Michèle",
+     "n": "Judith Henry"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Jérôme Salle"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "id": 852427,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Mathieu, a member of the French institute in Irkutsk, is arrested overnight by the Russian authorities.  Imprisoned and accused of sexual abuse on his own daughter, he realises he is a victim of a Kompromat. With the help of the FSB, someone has built up a case to frame him. Isolated, he has no one to turn to. Proving his innocence is impossible: the only solution is to escape.",
+   "popularity": 1.2442,
+   "poster_path": "/6OimOLolZ94sy0KVmimRxqfxy8.jpg",
+   "production_countries": [
+    "FR",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-09-07",
+   "revenue": 4283431,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "An ordinary frenchman trapped by the Russian state",
+   "title": "Kompromat",
+   "trailer": {
+    "key": "ktlAmBOmcEg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 303
   },
   "movie:9827": {
    "backdrop_path": "/sfZsUTH7MYxX2FsHOcWcx0YgkYa.jpg",

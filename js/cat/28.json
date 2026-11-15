@@ -1,6 +1,6 @@
 {
  "bucket": "28",
- "count": 55,
+ "count": 56,
  "titles": {
   "movie:10128": {
    "backdrop_path": "/bsPZIQNhyqRZ5TbQbTGjbaUCdxt.jpg",
@@ -2745,6 +2745,171 @@
    "type": "movie",
    "vote_average": 6.318,
    "vote_count": 346
+  },
+  "movie:353728": {
+   "backdrop_path": "/sgVPO6fgi6FzD3IbpkHvqjfa5hq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Oscar Madly",
+     "n": "Connor Jessup"
+    },
+    {
+     "c": "Peter Madly",
+     "n": "Aaron Abrams"
+    },
+    {
+     "c": "Brin Madly",
+     "n": "Joanne Kelly"
+    },
+    {
+     "c": "Wilder",
+     "n": "Aliocha Schneider"
+    },
+    {
+     "c": "Gemma",
+     "n": "Sofia Banzhaf"
+    },
+    {
+     "c": "Young Oscar",
+     "n": "Jack Fulton"
+    },
+    {
+     "c": "Allison",
+     "n": "Mary Walsh"
+    },
+    {
+     "c": "Buffy (voice)",
+     "n": "Isabella Rossellini"
+    },
+    {
+     "c": "Anna",
+     "n": "Jinji Dawson"
+    },
+    {
+     "c": "Kathryn",
+     "n": "Meghan Cullen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Stephen Dunn"
+   ],
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Mystery"
+   ],
+   "id": 353728,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "A creative and driven teenager is desperate to escape his hometown and the haunting memories of his turbulent childhood.",
+   "popularity": 1.1236,
+   "poster_path": "/mJYAloVKf20Ko5OE9F9VSfAvmXY.jpg",
+   "production_countries": [
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Strand Releasing Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ugFLagb0elt6ssH89oY85UxXd4d.png",
+     "name": "Strand Releasing Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2016-07-15",
+   "revenue": 33962,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Closet Monster",
+   "trailer": {
+    "key": "eCUvzx1x3a4",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.017,
+   "vote_count": 303
   },
   "movie:38528": {
    "backdrop_path": "/8cg1VtHc2fdiRJYchbvvo2srswZ.jpg",

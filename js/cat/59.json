@@ -1,6 +1,6 @@
 {
  "bucket": "59",
- "count": 52,
+ "count": 53,
  "titles": {
   "movie:10359": {
    "backdrop_path": "/deqB89VLPy9WJzGrb51tU1DyuhN.jpg",
@@ -2336,6 +2336,167 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 105
+  },
+  "movie:14059": {
+   "backdrop_path": "/AhlZZscvXIRigOtaSLCw9vSKH7J.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "B-Dawg (voice)",
+     "n": "Skyler Gisondo"
+    },
+    {
+     "c": "Budderball (voice)",
+     "n": "Josh Flitter"
+    },
+    {
+     "c": "Rosebud (voice)",
+     "n": "Liliana Mumy"
+    },
+    {
+     "c": "Mudbud (voice)",
+     "n": "Henry Hodges"
+    },
+    {
+     "c": "Buddha (voice)",
+     "n": "Jimmy Bennett"
+    },
+    {
+     "c": "Shasta (voice)",
+     "n": "Dylan Sprouse"
+    },
+    {
+     "c": "Pete",
+     "n": "Cainan Wiebe"
+    },
+    {
+     "c": "Meg",
+     "n": "Lise Simms"
+    },
+    {
+     "c": "Talon (voice)",
+     "n": "Kris Kristofferson"
+    },
+    {
+     "c": "Buddy (voice)",
+     "n": "Tom Everett Scott"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Robert Vince"
+   ],
+   "genres": [
+    "Family",
+    "Adventure"
+   ],
+   "id": 14059,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Dylan Sprouse, Jim Belushi and Kris Kristofferson lend their voices to this family-friendly tale about a feisty pack of golden retriever puppies that embarks on an Alaskan adventure. When they find themselves stranded in the northern wilderness, the canine offspring of famed sports star Air Bud team up with an experienced sled dog and a husky pup, who teach them the importance of working together.",
+   "popularity": 2.5349,
+   "poster_path": "/7eOFi6eVxbbVmkDg0f1lYsUO4O2.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2008-02-05",
+   "revenue": 50802372,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Snow Buddies",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 302
   },
   "movie:14859": {
    "backdrop_path": "/emBph7jfl9XYAwJovxjsAzM6mKq.jpg",

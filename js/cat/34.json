@@ -1,6 +1,6 @@
 {
  "bucket": "34",
- "count": 45,
+ "count": 46,
  "titles": {
   "movie:10534": {
    "backdrop_path": "/kpVQHZrBLUsB35S1pTbP8apgT5W.jpg",
@@ -3029,6 +3029,219 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 380
+  },
+  "movie:754934": {
+   "backdrop_path": "/mRZDHjArYNWpOv06kxRK1cduQKh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Laura",
+     "n": "Andi Matichak"
+    },
+    {
+     "c": "Paul",
+     "n": "Emile Hirsch"
+    },
+    {
+     "c": "David",
+     "n": "Luke David Blumm"
+    },
+    {
+     "c": "Steve",
+     "n": "Cranston Johnson"
+    },
+    {
+     "c": "Jimmy Naegle",
+     "n": "Blaine Maye"
+    },
+    {
+     "c": "Dr. Bauhn",
+     "n": "J. Robert Spencer"
+    },
+    {
+     "c": "Dr. Bradlee",
+     "n": "Rocco Sisto"
+    },
+    {
+     "c": "Mrs. Naegle",
+     "n": "Kristine Nielsen"
+    },
+    {
+     "c": "Susan",
+     "n": "Erin Bradley Dangar"
+    },
+    {
+     "c": "Father",
+     "n": "Adam Stephenson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Ivan Kavanagh"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 754934,
+   "industry": "world",
+   "origin_country": [
+    "IE",
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When a young boy contracts a mysterious illness, his mother must decide how far she will go to protect him from terrifying forces in her past.",
+   "popularity": 1.3596,
+   "poster_path": "/4fl6EdtMp6p0RKJgESdFti1J3dC.jpg",
+   "production_countries": [
+    "IE",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2021-03-18",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You can't outrun a family secret.",
+   "title": "Son",
+   "trailer": {
+    "key": "OxwA_E0ywUs",
+    "name": "Son - Official Trailer [HD] | A Shudder Exclusive",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 302
   },
   "movie:785534": {
    "backdrop_path": "/ctckqAvz9aTZDtfXLmDUdMflesU.jpg",

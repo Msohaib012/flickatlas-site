@@ -1,6 +1,6 @@
 {
  "bucket": "31",
- "count": 59,
+ "count": 60,
  "titles": {
   "movie:101731": {
    "backdrop_path": "/fM4TVNg27IBCYAz8FUiLefWck1p.jpg",
@@ -2409,6 +2409,102 @@
    "type": "movie",
    "vote_average": 7.107,
    "vote_count": 354
+  },
+  "movie:27331": {
+   "backdrop_path": "/3fQ3C4SetoVxSsODFPqJqmIOhJQ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Charley Varrick",
+     "n": "Walter Matthau"
+    },
+    {
+     "c": "Molly",
+     "n": "Joe Don Baker"
+    },
+    {
+     "c": "Sybil Fort",
+     "n": "Felicia Farr"
+    },
+    {
+     "c": "Harman Sullivan",
+     "n": "Andrew Robinson"
+    },
+    {
+     "c": "Jewell Everett",
+     "n": "Sheree North"
+    },
+    {
+     "c": "Mr. Garfinkle",
+     "n": "Norman Fell"
+    },
+    {
+     "c": "Honest John",
+     "n": "Benson Fong"
+    },
+    {
+     "c": "Harold Young",
+     "n": "Woodrow Parfrey"
+    },
+    {
+     "c": "Bill Horton",
+     "n": "William Schallert"
+    },
+    {
+     "c": "Nadine",
+     "n": "Jacqueline Scott"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Don Siegel"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "id": 27331,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Charley Varrick robs a bank in a small town with his friends, but instead of obtaining a small amount of money, they discover they stole a very large amount of money belonging to the mob. Charley must now come up with a plan to not only evade the police but the mob as well.",
+   "popularity": 1.615,
+   "poster_path": "/qPG2VPNA72he1Kczm2yFmslPNZN.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1973-09-19",
+   "revenue": 0,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "When he runs out of dumb luck, he always has genius to fall back on!",
+   "title": "Charley Varrick",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 304
   },
   "movie:27431": {
    "backdrop_path": "/5yunPf3vpOMYon7HBJtrwZNs1YG.jpg",

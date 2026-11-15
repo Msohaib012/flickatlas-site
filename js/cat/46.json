@@ -1,6 +1,6 @@
 {
  "bucket": "46",
- "count": 56,
+ "count": 58,
  "titles": {
   "movie:10646": {
    "backdrop_path": "/eCtRseKCbltn8C6XW1GhqW0c4VA.jpg",
@@ -2292,6 +2292,107 @@
    "type": "movie",
    "vote_average": 6.8,
    "vote_count": 309
+  },
+  "movie:257346": {
+   "backdrop_path": "/vqQhjCeXbGDz8IeB27IPk0alfKA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Natasha Romanoff / Black Widow (voice)",
+     "n": "Miyuki Sawashiro"
+    },
+    {
+     "c": "Frank Castle / The Punisher (voice)",
+     "n": "Tessyo Genda"
+    },
+    {
+     "c": "Nick Fury (voice)",
+     "n": "Hideaki Tezuka"
+    },
+    {
+     "c": "Elihas Starr (voice)",
+     "n": "Hiroki Touchi"
+    },
+    {
+     "c": "Cain (voice)",
+     "n": "Ryuuzaburou Ootomo"
+    },
+    {
+     "c": "Maria Hill (voice)",
+     "n": "Junko Minagawa"
+    },
+    {
+     "c": "Amadeus Cho (voice)",
+     "n": "Daisuke Namikawa"
+    },
+    {
+     "c": "Orion (voice)",
+     "n": "Masashi Sugawara"
+    },
+    {
+     "c": "The Hulk (voice)",
+     "n": "Yuichi Karasuma"
+    },
+    {
+     "c": "Ren (voice)",
+     "n": "Hisashi Izumi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Kenichi Shimizu"
+   ],
+   "genres": [
+    "Animation",
+    "Science Fiction",
+    "Action"
+   ],
+   "id": 257346,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "ja",
+   "overview": "When the Punisher takes out a black-market weapons dealer, he stumbles upon a far-reaching terrorist plot devised by a group known as Leviathan.",
+   "popularity": 2.9278,
+   "poster_path": "/z6KvqfkAdmdCcNpCecPioEDjxfq.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2014-04-19",
+   "revenue": 0,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Two legendary heroes. One unstoppable force.",
+   "title": "Avengers Confidential: Black Widow & Punisher",
+   "trailer": {
+    "key": "s5mpaToJ6V8",
+    "name": "Marvel's AVENGERS CONFIDENTIAL: BLACK WIDOW & PUNISHER- Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.368,
+   "vote_count": 303
   },
   "movie:31646": {
    "backdrop_path": "/27IZSY74Wmr4JrrhG8oDzO23mRE.jpg",
@@ -5088,6 +5189,214 @@
    "type": "movie",
    "vote_average": 7.209,
    "vote_count": 326
+  },
+  "movie:744746": {
+   "backdrop_path": "/6RVsEZGdDpwZhZkaptSgF7AznHF.jpg",
+   "budget": 350000,
+   "cast": [
+    {
+     "c": "Isaac",
+     "n": "Jonathan French"
+    },
+    {
+     "c": "Olga",
+     "n": "Leila Sykes"
+    },
+    {
+     "c": "Moe Barrett",
+     "n": "Ben Caplan"
+    },
+    {
+     "c": "Olga's Dad",
+     "n": "Conor Dwane"
+    },
+    {
+     "c": "Olga's Mother",
+     "n": "Inma Pavon"
+    },
+    {
+     "c": "(voice)",
+     "n": "Siobhan Burton"
+    },
+    {
+     "c": "Mike",
+     "n": "Sam White"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Damian McCarthy"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 744746,
+   "industry": "world",
+   "origin_country": [
+    "IE",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A lone drifter suffering from partial memory loss accepts a job to look after a psychologically troubled woman in an abandoned house on an isolated island.",
+   "popularity": 2.6201,
+   "poster_path": "/nbug05AceVU8PMXIONDFxMRtq54.jpg",
+   "production_countries": [
+    "IE",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2021-10-20",
+   "revenue": 78665,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You've been warned.",
+   "title": "Caveat",
+   "trailer": {
+    "key": "HoOkSYrf8ew",
+    "name": "Caveat - Official Trailer [HD] | A Shudder Original",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.359,
+   "vote_count": 304
   },
   "movie:81446": {
    "backdrop_path": "/fynGPtLcobYqBIPTeKIxW8tNvjo.jpg",

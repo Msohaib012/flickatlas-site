@@ -1,6 +1,6 @@
 {
  "bucket": "41",
- "count": 65,
+ "count": 66,
  "titles": {
   "movie:1068141": {
    "backdrop_path": "/5gbeErtfkOgrppxlRYM3whR82NN.jpg",
@@ -1543,6 +1543,119 @@
    "type": "movie",
    "vote_average": 6.031,
    "vote_count": 179
+  },
+  "movie:13341": {
+   "backdrop_path": "/tpL6vrHgT3QVWdqUyWzoQCdZKAZ.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Morris Buttermaker",
+     "n": "Billy Bob Thornton"
+    },
+    {
+     "c": "Roy Bullock",
+     "n": "Greg Kinnear"
+    },
+    {
+     "c": "Liz Whitewood",
+     "n": "Marcia Gay Harden"
+    },
+    {
+     "c": "Amanda Whurlitzer",
+     "n": "Sammi Kane Kraft"
+    },
+    {
+     "c": "Toby Whitewood",
+     "n": "Ridge Canipe"
+    },
+    {
+     "c": "Mike Engelberg",
+     "n": "Brandon Craggs"
+    },
+    {
+     "c": "Kelly Leak",
+     "n": "Jeffrey Davies"
+    },
+    {
+     "c": "Tanner Boyle",
+     "n": "Timmy Deters"
+    },
+    {
+     "c": "Miguel Agilar",
+     "n": "Carlos Estrada"
+    },
+    {
+     "c": "Jose Agilar",
+     "n": "Emmanuel Estrada"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Richard Linklater"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 13341,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Morris Buttermaker is a burned-out minor league baseball player who loves to drink and can't keep his hands to himself. His long-suffering lawyer arranges for him to manage a local Little League team, and Buttermaker soon finds himself the head of a rag-tag group of misfit players. Through unconventional team-building exercises and his offbeat coaching style, Buttermaker helps his hapless Bears prepare to meet their rivals, the Yankees.",
+   "popularity": 2.1516,
+   "poster_path": "/ja1yrgfYAGmwnridioMY3MV0GDm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2005-07-22",
+   "revenue": 34252847,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Baseball has rules. Meet the exceptions.",
+   "title": "Bad News Bears",
+   "trailer": {
+    "key": "1RPfmcc5L7A",
+    "name": "Bad News Bears (2005) - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 306
   },
   "movie:13641": {
    "backdrop_path": "/41D8Z0OXw3qCUhFxACBSMilGTIO.jpg",

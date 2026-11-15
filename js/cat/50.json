@@ -1,6 +1,6 @@
 {
  "bucket": "50",
- "count": 55,
+ "count": 58,
  "titles": {
   "movie:10050": {
    "backdrop_path": "/saQxwnIr4ftRmFpJeV9DQI1lsWd.jpg",
@@ -201,6 +201,140 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 391
+  },
+  "movie:10350": {
+   "backdrop_path": "/AknsmgqjjDtzH5bPMCjKYoiEwAg.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "1st Lt. Christopher Blair",
+     "n": "Freddie Prinze Jr."
+    },
+    {
+     "c": "Lt. Cmdr. 'Angel' Devereaux",
+     "n": "Saffron Burrows"
+    },
+    {
+     "c": "Lt. Todd 'Maniac' Marshall",
+     "n": "Matthew Lillard"
+    },
+    {
+     "c": "Cmmdre. James 'Paladin' Taggart",
+     "n": "Tchéky Karyo"
+    },
+    {
+     "c": "Cdr. Paul Gerald",
+     "n": "Jürgen Prochnow"
+    },
+    {
+     "c": "Capt. Jason Sansky",
+     "n": "David Suchet"
+    },
+    {
+     "c": "Admiral Geoffrey Tolwyn",
+     "n": "David Warner"
+    },
+    {
+     "c": "Lt. Rosie Forbes",
+     "n": "Ginny Holder"
+    },
+    {
+     "c": "Lt. Obutu",
+     "n": "Hugh Quarshie"
+    },
+    {
+     "c": "Admiral Bill Wilson",
+     "n": "Ken Bones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Christopher Roberts"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+   ],
+   "id": 10350,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the mid-27th century, the Terran Confederation is at war with the vicious alien Kilrathi Empire. When the Kilrathi capture a crucial navigational device that could lead them to Earth, the Confederation’s only hope rests with a small group of young fighter pilots. Lieutenant Christopher Blair, along with his wingman Todd 'Maniac' Marshall and Commander Jeanette 'Angel' Deveraux, must intercept the alien fleet and prevent the destruction of mankind. Battling overwhelming odds and racing against time, they face not only external threats but also inner fears and rivalries as they fight to save Earth from annihilation.",
+   "popularity": 2.1055,
+   "poster_path": "/e3p2vkA4mnFaBlyAIntkZWkzOJW.jpg",
+   "production_countries": [
+    "LU",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1999-03-11",
+   "revenue": 11578022,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "At the edge of our universe, all hell is about to break loose.",
+   "title": "Wing Commander",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.853,
+   "vote_count": 302
   },
   "movie:10550": {
    "backdrop_path": "/k7CLxxoZXmVf1iKAY9xn5DpsNMQ.jpg",
@@ -3820,6 +3954,199 @@
    "type": "movie",
    "vote_average": 7.004,
    "vote_count": 460
+  },
+  "movie:433150": {
+   "backdrop_path": "/1dxeDO4MNAYey6wPD0IspSTm7tu.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Michele",
+     "n": "Ludovico Girardello"
+    },
+    {
+     "c": "Yelena",
+     "n": "Kseniya Rappoport"
+    },
+    {
+     "c": "Natasha",
+     "n": "Galatea Bellugi"
+    },
+    {
+     "c": "Andreij",
+     "n": "Ivan Franěk"
+    },
+    {
+     "c": "Morfeo",
+     "n": "Dario Cantarelli"
+    },
+    {
+     "c": "Cinetica",
+     "n": "Katia Mironova"
+    },
+    {
+     "c": "Dottor K",
+     "n": "Emilio De Marchi"
+    },
+    {
+     "c": "Roccia",
+     "n": "Mikołaj Chroboczek"
+    },
+    {
+     "c": "Libellula",
+     "n": "Matej Martinak"
+    },
+    {
+     "c": "Igor Zavarov",
+     "n": "Kristof Konrad"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Gabriele Salvatores"
+   ],
+   "genres": [
+    "Fantasy",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 433150,
+   "industry": "world",
+   "origin_country": [],
+   "original_language": "it",
+   "overview": "Three years later Michele (The Invisible boy) meets his mother and his twin sister. Both have stories and superpowers but their intentions may not be what Michele thinks.",
+   "popularity": 1.44,
+   "poster_path": "/fwDQyPy9OfsDCJOz0VR2hhsyAA7.jpg",
+   "production_countries": [
+    "IT",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-01-04",
+   "revenue": 1500000,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [],
+   "status": "Released",
+   "tagline": "We all must face our dark side. It’s called growing up.",
+   "title": "The Invisible Boy: Second Generation",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 304
+  },
+  "movie:43650": {
+   "backdrop_path": "/tZtawSPJIMCjXOJrUHOlOjJQf5e.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Narrator",
+     "n": "Bing Crosby"
+    },
+    {
+     "c": "Ichabod Crane (screaming) / Other Townspeople (voice)",
+     "n": "Pinto Colvig"
+    },
+    {
+     "c": "Headless Horseman Laugh (voice)",
+     "n": "Billy Bletcher"
+    },
+    {
+     "c": "Ichabod's horse (voice) (uncredited)",
+     "n": "Clarence Nash"
+    },
+    {
+     "c": "Chorus / Additional voices (voice) (uncredited)",
+     "n": "The Rhythmaires"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "L",
+   "date_kind": "release",
+   "director": [
+    "Jack Kinney",
+    "Clyde Geronimi"
+   ],
+   "genres": [
+    "Family",
+    "Animation",
+    "Horror",
+    "Comedy"
+   ],
+   "id": 43650,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Washington Irving's tale of Ichabod Crane and the headless horseman is brought to life, narrated by Bing Crosby.",
+   "popularity": 1.2306,
+   "poster_path": "/gLOD5joJ9WP3VmW2qHmiYuVk91C.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "1949-10-08",
+   "revenue": 0,
+   "runtime": 37,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Bing and Walt ride herd on The Headless Horseman!",
+   "title": "The Legend of Sleepy Hollow",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.447,
+   "vote_count": 302
   },
   "movie:516850": {
    "backdrop_path": "/dze068iVyTADUG4WyUxL3H1k2XA.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "56",
- "count": 51,
+ "count": 55,
  "titles": {
   "movie:1010756": {
    "d": "The Strangers: Chapter 2 (2025): Horror/Thriller film. Story: After learning that one of their victims, Maya, is… See cast, budget $8M, and TMDB rating 6.0/10.",
@@ -1015,6 +1015,69 @@
    "t": "Scooby-Doo! and the Monster of Mexico (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2003"
   },
+  "movie:255456": {
+   "d": "Sotto una buona stella (2014): Comedy film. Story: A wealthy broker, Federico Picchioni, within two days… See cast and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vLNpnZwxTqv1hxHoT1Bz6sxn3V.jpg",
+   "industry": "world",
+   "k": "Sotto una buona stella, Sotto una buona stella movie, Sotto una buona stella cast, Sotto una buona stella story, Sotto una buona stella box office collection, Sotto una buona stella budget, Sotto una buona stella review, Sotto una buona stella rating, Sotto una buona stella release date, Sotto una buona stella Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Carlo Verdone"
+     },
+     {
+      "@type": "Person",
+      "name": "Paola Cortellesi"
+     },
+     {
+      "@type": "Person",
+      "name": "Tea Falco"
+     },
+     {
+      "@type": "Person",
+      "name": "Lorenzo Richelmy"
+     },
+     {
+      "@type": "Person",
+      "name": "Fausto Maria Sciarappa"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 302,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Sotto una buona stella (2014): Comedy film. Story: A wealthy broker, Federico Picchioni, within two days… See cast and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Carlo Verdone"
+     }
+    ],
+    "duration": "PT109M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vLNpnZwxTqv1hxHoT1Bz6sxn3V.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=255456",
+    "name": "Sotto una buona stella",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-02-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=255456"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sotto una buona stella (2014)</h1>\n<p class=\"ssr-lead\">A wealthy broker, Federico Picchioni, within two days forfeits his partner and work, finishing well to living with two children and granddaughter (abandoned by her father). He is, at this point, in the face of many difficulties of adjustment but finds comfort in the help of his neighbor.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 February 2014</li><li>Runtime: 109 minutes</li><li>Director: Carlo Verdone</li><li>Genres: Comedy</li><li>TMDB rating: 5.8/10 (302 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Carlo Verdone as Federico Picchioni</li><li>Paola Cortellesi as Luisa Tombolini</li><li>Tea Falco as Lia Picchioni</li><li>Lorenzo Richelmy as Niccolo Picchioni</li><li>Fausto Maria Sciarappa as Duilio Tombolini</li><li>Eleonora Sergio as Gemma</li><li>Stefano Ambrogi as Organizzatore Rassegna</li><li>Riccardo Flammini as Brigadiere Finanza</li><li>Massimiliano Vitullo as Giorgio Marchini</li><li>Augusto Zucchi as imprenditore al campo da golf</li></ul>\n</article>",
+   "t": "Sotto una buona stella (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:255756": {
    "d": "Black Coal, Thin Ice (2014): Drama/Crime film. Story: Two former cops start investigating the series of… See cast and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/6qpPqn33a3XrsnOds4wKNinsIu5.jpg",
@@ -1271,6 +1334,70 @@
    "t": "Elisa & Marcela (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
+  "movie:5956": {
+   "d": "Joshua (2007): Drama/Thriller film. Story: The arrival of a newborn girl causes the gradual… See cast, TMDB rating 5.6/10, and release date 21 January 2007.",
+   "img": "https://image.tmdb.org/t/p/w780/veCjJV6Zk2hRXGfWv73RHca4hAJ.jpg",
+   "industry": "world",
+   "k": "Joshua, Joshua movie, Joshua cast, Joshua story, Joshua box office collection, Joshua budget, Joshua review, Joshua rating, Joshua release date, Joshua Drama, Joshua Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sam Rockwell"
+     },
+     {
+      "@type": "Person",
+      "name": "Vera Farmiga"
+     },
+     {
+      "@type": "Person",
+      "name": "Jacob Kogan"
+     },
+     {
+      "@type": "Person",
+      "name": "Celia Weston"
+     },
+     {
+      "@type": "Person",
+      "name": "Dallas Roberts"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 300,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Joshua (2007): Drama/Thriller film. Story: The arrival of a newborn girl causes the gradual… See cast, TMDB rating 5.6/10, and release date 21 January 2007.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "George Ratliff"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/veCjJV6Zk2hRXGfWv73RHca4hAJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=5956",
+    "name": "Joshua",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-01-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=5956"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Joshua (2007)</h1>\n<p class=\"ssr-lead\">The arrival of a newborn girl causes the gradual disintegration of the Cairn family; particularly for 9-year-old Joshua, an eccentric boy whose proper upbringing and refined tastes both take a sinister turn.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 January 2007</li><li>Runtime: 105 minutes</li><li>Director: George Ratliff</li><li>Genres: Drama, Thriller, Horror</li><li>TMDB rating: 5.6/10 (300 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sam Rockwell as Brad Cairn</li><li>Vera Farmiga as Abby Cairn</li><li>Jacob Kogan as Joshua Cairn</li><li>Celia Weston as Hazel Cairn</li><li>Dallas Roberts as Uncle Ned</li><li>Michael McKean as Chester</li><li>Randy Ryan as Soccer Dad</li><li>Nancy Giles as Betsy Polsheck</li><li>Linda Larkin as Ms. Danforth</li><li>Alex Draper as Stewart Slocum</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Joshua (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:597156": {
    "d": "The Boys in the Band (2020): Drama film. Story: At a birthday party in 1968 New York, a surprise… See cast and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/wX1n8ndD7l6PsHSUmo66GRJHcwG.jpg",
@@ -1461,6 +1588,69 @@
    "t": "Let Them All Talk (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
   },
+  "movie:645856": {
+   "d": "The Seventh Day (2021): Horror film. Story: A renowned exorcist teams up with a rookie priest for… See cast, TMDB rating 5.2/10, and release date 26 March 2021.",
+   "img": "https://image.tmdb.org/t/p/w780/xH23sRbfMtwZ2oBtBf607VUNrGt.jpg",
+   "industry": "world",
+   "k": "The Seventh Day, The Seventh Day movie, The Seventh Day cast, The Seventh Day story, The Seventh Day box office collection, The Seventh Day budget, The Seventh Day review, The Seventh Day rating, The Seventh Day release date, The Seventh Day trailer, The Seventh Day Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Guy Pearce"
+     },
+     {
+      "@type": "Person",
+      "name": "Vadhir Derbez"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephen Lang"
+     },
+     {
+      "@type": "Person",
+      "name": "Brady Jenness"
+     },
+     {
+      "@type": "Person",
+      "name": "Robin Bartlett"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 303,
+     "ratingValue": 5.2,
+     "worstRating": 0
+    },
+    "description": "The Seventh Day (2021): Horror film. Story: A renowned exorcist teams up with a rookie priest for… See cast, TMDB rating 5.2/10, and release date 26 March 2021.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Justin P. Lange"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xH23sRbfMtwZ2oBtBf607VUNrGt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=645856",
+    "name": "The Seventh Day",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-03-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=645856"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Seventh Day (2021)</h1>\n<p class=\"ssr-lead\">A renowned exorcist teams up with a rookie priest for his first day of training. As they plunge deeper into hell on earth, the lines between good and evil blur, and their own demons emerge.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 March 2021</li><li>Runtime: 87 minutes</li><li>Director: Justin P. Lange</li><li>Genres: Horror</li><li>TMDB rating: 5.2/10 (303 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Guy Pearce as Father Peter</li><li>Vadhir Derbez as Father Daniel</li><li>Stephen Lang as Archbishop</li><li>Brady Jenness as Charlie Giroux</li><li>Robin Bartlett as Helen</li><li>Keith David as Father Louis</li><li>Chris Galust as Young Peter</li><li>Acoryé White as George</li><li>James Healy Jr. as Forensic Psychologist</li><li>Heath Freeman as Mr. Miller</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Seventh Day (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
   "movie:64956": {
    "d": "Inception: The Cobol Job (2010): Animation/Action film. Story: Cobb, Arthur and Nash are enlisted by Cobol… See cast and TMDB rating 7.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/p8K8Z4yjaslJx5mTsIC5L6LJxQB.jpg",
@@ -1630,6 +1820,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Lucy Shimmers and the Prince of Peace (2020)</h1>\n<p class=\"ssr-lead\">Second chances start when a hardened criminal crosses paths with a precocious little girl who is helped by an angel to change hearts during the holiday season.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 October 2020</li><li>Runtime: 87 minutes</li><li>Director: Rob Diamond</li><li>Genres: Drama, Family</li><li>TMDB rating: 8.4/10 (385 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Scarlett Diamond as Lucy Shimmers</li><li>Vincent Vargas as Edgar Ruiz</li><li>Adam Hightower as James Shimmers</li><li>Shawn Stevens as Grandpa Jackson</li><li>Florencia Contreras Stevens as Isabelle Shimmers</li><li>Tara Barrett as April Shimmers</li><li>Aaron J. Owen as Luther</li><li>April Dean West as Dr. Stanswick</li><li>Rachel Olvera as Nurse Angie</li><li>Albert Huerta as Bart</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Angel Studios, UP Faith &amp; Family Apple TV channel, Amazon Prime Video with Ads, Kartoon Channel Amazon Channel, UP Faith &amp; Family Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Lucy Shimmers and the Prince of Peace (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
+  },
+  "movie:8056": {
+   "d": "Train of Life (1998): Drama/Comedy film. Story: In 1941, the inhabitants of a small Jewish village in… See cast, budget $154.8k, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7QDnuj2T6CCY5wOSnKfYH7cIb6M.jpg",
+   "industry": "world",
+   "k": "Train of Life, Train of Life movie, Train of Life cast, Train of Life story, Train of Life box office collection, Train of Life budget, Train of Life review, Train of Life rating, Train of Life release date, Train of Life Drama, Train of Life Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lionel Abelanski"
+     },
+     {
+      "@type": "Person",
+      "name": "Rufus"
+     },
+     {
+      "@type": "Person",
+      "name": "Clément Harari"
+     },
+     {
+      "@type": "Person",
+      "name": "Agathe de La Fontaine"
+     },
+     {
+      "@type": "Person",
+      "name": "Michel Muller"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 306,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Train of Life (1998): Drama/Comedy film. Story: In 1941, the inhabitants of a small Jewish village in… See cast, budget $154.8k, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Radu Mihăileanu"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7QDnuj2T6CCY5wOSnKfYH7cIb6M.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=8056",
+    "name": "Train of Life",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1998-09-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=8056"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Train of Life (1998)</h1>\n<p class=\"ssr-lead\">In 1941, the inhabitants of a small Jewish village in Central Europe organize a fake deportation train so that they can escape the Nazis and flee to Palestine.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 September 1998</li><li>Runtime: 103 minutes</li><li>Director: Radu Mihăileanu</li><li>Genres: Drama, Comedy, War</li><li>Budget: $154.8k</li><li>TMDB rating: 7.3/10 (306 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lionel Abelanski as Shlomo</li><li>Rufus as Mordechai</li><li>Clément Harari as Rabbi</li><li>Agathe de La Fontaine as Esther</li><li>Michel Muller as Yossi</li><li>Johan Leysen as Schmecht</li><li>Bruno Abraham-Kremer as Yankele</li><li>Gad Elmaleh as Manzatou</li><li>Marie-José Nat as Sura</li><li>Serge Kribus</li></ul>\n</article>",
+   "t": "Train of Life (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1998"
   },
   "movie:811656": {
    "d": "Monstrous (2022): Horror/Mystery film. Story: Laura, traumatized by an abusive relationship, runs… See cast and TMDB rating 5.9/10.",

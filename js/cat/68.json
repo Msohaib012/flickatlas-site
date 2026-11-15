@@ -1,6 +1,6 @@
 {
  "bucket": "68",
- "count": 51,
+ "count": 52,
  "titles": {
   "movie:10168": {
    "backdrop_path": "/xbYDtVWOOL84KaZjM5JnQ5QYAuX.jpg",
@@ -1932,6 +1932,103 @@
    "type": "movie",
    "vote_average": 5.5,
    "vote_count": 55
+  },
+  "movie:15668": {
+   "backdrop_path": "/tj0UzAnR1texxcYi0eeafY4fRGZ.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Kira",
+     "n": "Olivia Newton-John"
+    },
+    {
+     "c": "Danny McGuire",
+     "n": "Gene Kelly"
+    },
+    {
+     "c": "Sonny Malone",
+     "n": "Michael Beck"
+    },
+    {
+     "c": "Simpson",
+     "n": "James Sloyan"
+    },
+    {
+     "c": "Sandra",
+     "n": "Katie Hanley"
+    },
+    {
+     "c": "Richie",
+     "n": "Fred McCarren"
+    },
+    {
+     "c": "Jo",
+     "n": "Ren Woods"
+    },
+    {
+     "c": "Helen",
+     "n": "Dimitra Arliss"
+    },
+    {
+     "c": "Muse 1",
+     "n": "Sandahl Bergman"
+    },
+    {
+     "c": "Muse 2",
+     "n": "Lynn Latham"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Robert Greenwald"
+   ],
+   "genres": [
+    "Fantasy",
+    "Science Fiction",
+    "Romance"
+   ],
+   "id": 15668,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Kira, a Greek muse incarnated on Earth to inspire people, helps Dan McGuire and an artist named Sonny Malone to meet. She inspires them to build a huge disco roller rink called Xanadu.",
+   "popularity": 2.2128,
+   "poster_path": "/4r1cHzhksHO3u1QS1Ct9mId7kQL.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1980-08-08",
+   "revenue": 22762571,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A Fantasy, A Musical, A Place Where Dreams Come True.",
+   "title": "Xanadu",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.668,
+   "vote_count": 301
   },
   "movie:1643768": {
    "backdrop_path": "/yOkXnvEWxm7TVBeutGXJXWzwdfe.jpg",

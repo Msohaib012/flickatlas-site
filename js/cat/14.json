@@ -1,6 +1,6 @@
 {
  "bucket": "14",
- "count": 52,
+ "count": 55,
  "titles": {
   "movie:11414": {
    "backdrop_path": "/jhIdEe9oCZjxLt2Cq1KR8IbnJvj.jpg",
@@ -161,6 +161,117 @@
    "type": "movie",
    "vote_average": 7.159,
    "vote_count": 347
+  },
+  "movie:11614": {
+   "backdrop_path": "/bE5aeaFL5Da4l9SLXNDrvrT2U4X.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bud Graziano",
+     "n": "Bud Spencer"
+    },
+    {
+     "c": "Jerry",
+     "n": "Jerry Calà"
+    },
+    {
+     "c": "Giorgio Desideri",
+     "n": "Stefano Mingardo"
+    },
+    {
+     "c": "Rosco Dunn",
+     "n": "Kallie Knoetze"
+    },
+    {
+     "c": "Susanna",
+     "n": "Gegia"
+    },
+    {
+     "c": "Claudia",
+     "n": "Valéria Cavalli"
+    },
+    {
+     "c": "Lauretta",
+     "n": "Angela Campanella"
+    },
+    {
+     "c": "Krupp",
+     "n": "Ferdinando Murolo"
+    },
+    {
+     "c": "Ossario",
+     "n": "Nando Paone"
+    },
+    {
+     "c": "Samuel Newman",
+     "n": "Bobby Rhodes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Michele Lupo"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 11614,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Bomber is an unemployed boat captain. One day he meets Jerry, a manager of boxers who are struck by the force of his fists. That is when they see the chance to win big money.",
+   "popularity": 1.1451,
+   "poster_path": "/n82A7mfaWZHajDo2VhYyQpRbwvu.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1982-08-05",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Bomber",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.466,
+   "vote_count": 305
   },
   "movie:1214314": {
    "backdrop_path": "/ay0PJQZizDXk0pzhoGX4v7K9h7A.jpg",
@@ -3340,6 +3451,176 @@
    "type": "movie",
    "vote_average": 6.935,
    "vote_count": 468
+  },
+  "movie:34314": {
+   "backdrop_path": "/pkL5Irj4WYU27jziUSgwl1d7d0D.jpg",
+   "budget": 55000000,
+   "cast": [
+    {
+     "c": "Ryan Weaver",
+     "n": "Ray Liotta"
+    },
+    {
+     "c": "Teri Halloran",
+     "n": "Lauren Holly"
+    },
+    {
+     "c": "Stubbs",
+     "n": "Brendan Gleeson"
+    },
+    {
+     "c": "Lt. Aldo Hines",
+     "n": "Héctor Elizondo"
+    },
+    {
+     "c": "Rachel Taper",
+     "n": "Rachel Ticotin"
+    },
+    {
+     "c": "Captain Samuel Bowen",
+     "n": "Ben Cross"
+    },
+    {
+     "c": "Maggie",
+     "n": "Catherine Hicks"
+    },
+    {
+     "c": "Brooks",
+     "n": "Jeffrey DeMunn"
+    },
+    {
+     "c": "FBI Agent Frank Sinclair",
+     "n": "John Finn"
+    },
+    {
+     "c": "Betty",
+     "n": "Heidi Kling"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Robert Butler"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 34314,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On a flight transporting dangerous convicts, murderer Ryan Weaver manages to break free and cause complete chaos throughout the plane. As various people on board fall victim to Weaver, it is ultimately down to flight attendant Teri Halloran to keep the aircraft from crashing, with on-ground support from an air traffic controller. While Halloran struggles to pilot the plane, Weaver continues to terrorize the surviving members of the crew.",
+   "popularity": 2.2678,
+   "poster_path": "/8N63NGWIErS7jUvR5NeVWDZEeZJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1997-01-09",
+   "revenue": 11466088,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "If you weren't afraid of flying before, you will be now.",
+   "title": "Turbulence",
+   "trailer": {
+    "key": "arr-4RGgJvU",
+    "name": "Turbulence - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.368,
+   "vote_count": 300
+  },
+  "movie:35114": {
+   "backdrop_path": "/hsx40OreCcM84gNmOeVssUvetRg.jpg",
+   "budget": 1500000,
+   "cast": [
+    {
+     "c": "Rebecca Drummond (voice)",
+     "n": "Jennifer Esposito"
+    },
+    {
+     "c": "Singer (voice)",
+     "n": "Dora Luz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Dominique Monfery"
+   ],
+   "genres": [
+    "Animation",
+    "Music",
+    "Fantasy"
+   ],
+   "id": 35114,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Short film to a song of love lost and rediscovered, a woman sees and undergoes surreal transformations. Her lover's face melts off, she dons a dress from the shadow of a bell and becomes a dandelion, ants crawl out of a hand and become Frenchmen riding bicycles. Not to mention the turtles with faces on their backs that collide to form a ballerina, or the bizarre baseball game.",
+   "popularity": 0.8012,
+   "poster_path": "/7IyDJdaGlU7olLC08mSwLJTmsC3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2003-08-05",
+   "revenue": 0,
+   "runtime": 7,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Destino",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.16,
+   "vote_count": 300
   },
   "movie:391714": {
    "backdrop_path": "/lX3ag7lRucBnplL2nQiYkOyssbj.jpg",

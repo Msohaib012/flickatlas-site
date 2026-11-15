@@ -1,6 +1,6 @@
 {
  "bucket": "73",
- "count": 62,
+ "count": 63,
  "titles": {
   "movie:1024773": {
    "backdrop_path": "/dp0rdbGSbZTyWumnbWspXQp87hA.jpg",
@@ -791,6 +791,128 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 358
+  },
+  "movie:121873": {
+   "backdrop_path": "/li3pr2ZQjmrYuX4YWAPKvU8JaWc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hannah Arendt",
+     "n": "Barbara Sukowa"
+    },
+    {
+     "c": "Heinrich Blücher",
+     "n": "Axel Milberg"
+    },
+    {
+     "c": "Mary McCarthy",
+     "n": "Janet McTeer"
+    },
+    {
+     "c": "Lotte Köhler",
+     "n": "Julia Jentsch"
+    },
+    {
+     "c": "William Shawn",
+     "n": "Nicholas Woodeson"
+    },
+    {
+     "c": "Hans Jonas",
+     "n": "Ulrich Noethen"
+    },
+    {
+     "c": "Laureen",
+     "n": "Leila Schaus"
+    },
+    {
+     "c": "Ms Serkin",
+     "n": "Claire Johnston"
+    },
+    {
+     "c": "Kurt Blumenfeld",
+     "n": "Michael Degen"
+    },
+    {
+     "c": "Young Hannah Arendt",
+     "n": "Friederike Becht"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Margarethe von Trotta"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 121873,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "A portrait of the genius that shook the world with her discovery of “the banality of evil.” After she attends the Nazi Adolf Eichmann’s trial in Jerusalem, Arendt dares to write about the Holocaust in terms no one has ever heard before. Her work instantly provokes a furious scandal, and Arendt stands strong as she is attacked by friends and foes alike. But as the German-Jewish émigré also struggles to suppress her own painful associations with the past, the film exposes her beguiling blend of arrogance and vulnerability — revealing a soul defined and derailed by exile.",
+   "popularity": 1.6318,
+   "poster_path": "/kB4hUbhIYmx7Xdpo1DGn15pstO3.jpg",
+   "production_countries": [
+    "DE",
+    "FR",
+    "LU",
+    "IL"
+   ],
+   "providers": [
+    {
+     "name": "Chai Flicks"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/b1cu4YuZF6xRagXjCjVeZBbnSD2.png",
+     "name": "Chai Flicks",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2012-09-11",
+   "revenue": 717205,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en",
+    "fr",
+    "he",
+    "la"
+   ],
+   "status": "Released",
+   "tagline": "Her ideas changed the world",
+   "title": "Hannah Arendt",
+   "trailer": {
+    "key": "WTQNWgZVctM",
+    "name": "HANNAH ARENDT by Margarethe von Trotta - Trailer (HQ)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.86,
+   "vote_count": 300
   },
   "movie:127373": {
    "backdrop_path": "/kk1MMdWF9Z4vBMM0ebBjD7G5zFf.jpg",

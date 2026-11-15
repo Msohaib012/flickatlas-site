@@ -1,6 +1,6 @@
 {
  "bucket": "83",
- "count": 49,
+ "count": 51,
  "titles": {
   "movie:10183": {
    "backdrop_path": "/gOhtvGwrVkEM5hCFdyyWKJEOBk8.jpg",
@@ -927,6 +927,233 @@
    "type": "movie",
    "vote_average": 6.029,
    "vote_count": 349
+  },
+  "movie:1262983": {
+   "backdrop_path": "/8lL13GCrlOii2KvMaSom2rC16Zr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Romain",
+     "n": "Milton Riche"
+    },
+    {
+     "c": "Anaïs",
+     "n": "Laurie Pavy"
+    },
+    {
+     "c": "Julia",
+     "n": "Lucille Guillaume"
+    },
+    {
+     "c": "Noa",
+     "n": "Yovel Lewkowski"
+    },
+    {
+     "c": "Woman on the Road",
+     "n": "Sasha Rudakova"
+    },
+    {
+     "c": "Dealer",
+     "n": "Vincent Pasdermadjian"
+    },
+    {
+     "c": "Voisin",
+     "n": "Jeremiah Bourgeois"
+    },
+    {
+     "c": "Ryan",
+     "n": "Najim Zeghoudi"
+    },
+    {
+     "c": "Samara",
+     "n": "Valentine Goujon"
+    },
+    {
+     "c": "Sekou",
+     "n": "Lyam Stiti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "+16",
+   "date_kind": "release",
+   "director": [
+    "David Moreau"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 1262983,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A teenager stops off to see his dealer to test a new drug before heading off for a night of partying. On the way home, he picks up an injured woman, and the night takes a surreal turn.",
+   "popularity": 2.823,
+   "poster_path": "/hLJJT2vTGPSRKlTOBe68xjQCCob.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2024-10-25",
+   "revenue": 49816,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "MadS",
+   "trailer": {
+    "key": "Vm6_MDnj3Hg",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.414,
+   "vote_count": 302
   },
   "movie:1283": {
    "backdrop_path": "/cKLsNFf88VQrJDT4NJu7HN8Bsi8.jpg",
@@ -4906,6 +5133,148 @@
    "type": "movie",
    "vote_average": 5.808,
    "vote_count": 386
+  },
+  "movie:8583": {
+   "backdrop_path": "/nT6udCjGaYih9VUZQU7xnwX99RK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Veronica Franco",
+     "n": "Catherine McCormack"
+    },
+    {
+     "c": "Marco Venier",
+     "n": "Rufus Sewell"
+    },
+    {
+     "c": "Maffio Venier",
+     "n": "Oliver Platt"
+    },
+    {
+     "c": "Domenico Venier",
+     "n": "Fred Ward"
+    },
+    {
+     "c": "Giulia De Lezze",
+     "n": "Naomi Watts"
+    },
+    {
+     "c": "Paola Franco",
+     "n": "Jacqueline Bisset"
+    },
+    {
+     "c": "Beatrice Venier",
+     "n": "Moira Kelly"
+    },
+    {
+     "c": "Pietro Venier",
+     "n": "Jeroen Krabbé"
+    },
+    {
+     "c": "Laura Venier",
+     "n": "Joanna Cassidy"
+    },
+    {
+     "c": "Livia",
+     "n": "Melina Kanakaredes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Marshall Herskovitz"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 8583,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Veronica is brilliant, gifted and beautiful, but the handsome aristocrat she loves, Marco Venier, cannot marry her because she is penniless and of questionable family. So Veronica's mother, Paola, teaches her to become a courtesan, one of the exotic companions favored by the richest and most powerful Venetian men. Veronica courageously uses her charms to change destiny -- and to give herself a chance at true love.",
+   "popularity": 2.4433,
+   "poster_path": "/7uHX8qIr8VYPwdpVv4TCjXcVxDo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1998-02-20",
+   "revenue": 4553271,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Born without privilege. Bound by tradition. She found the courage to follow her heart.",
+   "title": "Dangerous Beauty",
+   "trailer": {
+    "key": "n_g4qspx3es",
+    "name": "Original Theatrical Trailer 1",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.995,
+   "vote_count": 304
   },
   "movie:877183": {
    "backdrop_path": "/djnEP20aAs5mVXNANJsjmVhkzrk.jpg",

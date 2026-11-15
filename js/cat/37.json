@@ -1,6 +1,6 @@
 {
  "bucket": "37",
- "count": 52,
+ "count": 53,
  "titles": {
   "movie:10337": {
    "backdrop_path": "/t353Hj5sFXWQFriVzB1GiT3TSlm.jpg",
@@ -5007,6 +5007,116 @@
    "type": "movie",
    "vote_average": 6.341,
    "vote_count": 380
+  },
+  "movie:989937": {
+   "backdrop_path": "/24fe6ou97ammOg3O6ShCgaiolp4.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tristan (voice)",
+     "n": "Ayumu Murase"
+    },
+    {
+     "c": "Elizabeth (voice)",
+     "n": "Sora Amamiya"
+    },
+    {
+     "c": "Deathpierce (voice)",
+     "n": "Yohei Azakami"
+    },
+    {
+     "c": "King (voice)",
+     "n": "Jun Fukuyama"
+    },
+    {
+     "c": "Man (voice)",
+     "n": "Keisuke Hamaoka"
+    },
+    {
+     "c": "Mercenary B (voice)",
+     "n": "Setsuo Ito"
+    },
+    {
+     "c": "Meliodas (voice)",
+     "n": "Yuki Kaji"
+    },
+    {
+     "c": "Maid A (voice)",
+     "n": "Natsumi Kawaida"
+    },
+    {
+     "c": "Minika (voice)",
+     "n": "Makoto Koichi"
+    },
+    {
+     "c": "Elaine (voice)",
+     "n": "Kotori Koiwai"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Bob Shirohata"
+   ],
+   "genres": [
+    "Animation",
+    "Fantasy",
+    "Adventure",
+    "Action"
+   ],
+   "id": 989937,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Tristan, the son of Meliodas and Elizabeth, inherits the power of the Goddess Clan and can heal people’s wounds and injuries, but he often ends up hurting others due to his inability to control his Demon Clan power. To protect his family, Tristan heads to Edinburgh Castle and meets a host of new friends along the way.",
+   "popularity": 1.8252,
+   "poster_path": "/g1CSJZwI51YPGATc5iiExxfwvyg.jpg",
+   "production_countries": [
+    "JP",
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-12-20",
+   "revenue": 0,
+   "runtime": 52,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Are you ready to revisit the Kingdom of Leones?",
+   "title": "The Seven Deadly Sins: Grudge of Edinburgh Part 1",
+   "trailer": {
+    "key": "hskfrLEkrxc",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.7,
+   "vote_count": 300
   },
   "tv:12637": {
    "backdrop_path": "/coHgKyLRwhbMktEWr6dwSYUg2BH.jpg",

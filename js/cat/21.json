@@ -1,6 +1,6 @@
 {
  "bucket": "21",
- "count": 66,
+ "count": 67,
  "titles": {
   "movie:1010821": {
    "backdrop_path": "/hlAPsSBPnwGVeBuhCd8llKYBsNT.jpg",
@@ -4365,6 +4365,114 @@
    "type": "movie",
    "vote_average": 7.302,
    "vote_count": 494
+  },
+  "movie:33521": {
+   "backdrop_path": "/9aDnMjUHhfX0WaCicEaejdKgvlV.jpg",
+   "budget": 12200000,
+   "cast": [
+    {
+     "c": "Count Dracula",
+     "n": "Frank Langella"
+    },
+    {
+     "c": "Prof. Abraham Van Helsing",
+     "n": "Laurence Olivier"
+    },
+    {
+     "c": "Dr. Jack Seward",
+     "n": "Donald Pleasence"
+    },
+    {
+     "c": "Lucy Seward",
+     "n": "Kate Nelligan"
+    },
+    {
+     "c": "Jonathan Harker",
+     "n": "Trevor Eve"
+    },
+    {
+     "c": "Mina Van Helsing",
+     "n": "Jan Francis"
+    },
+    {
+     "c": "Annie",
+     "n": "Janine Duvitski"
+    },
+    {
+     "c": "Milo Renfield",
+     "n": "Tony Haygarth"
+    },
+    {
+     "c": "Swales",
+     "n": "Teddy Turner"
+    },
+    {
+     "c": "Walter",
+     "n": "Sylvester McCoy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Badham"
+   ],
+   "genres": [
+    "Romance",
+    "Drama",
+    "Fantasy",
+    "Horror"
+   ],
+   "id": 33521,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In 1913, charming, seductive, and sinister Count Dracula travels to England seeking an immortal bride.",
+   "popularity": 1.9043,
+   "poster_path": "/gU0BMydJQV9HES5fRAEAPs2qw2M.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1979-07-20",
+   "revenue": 31158970,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "nl",
+    "ro",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Throughout history he has filled the hearts of men with terror, and the hearts of women with desire.",
+   "title": "Dracula",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 303
   },
   "movie:409421": {
    "backdrop_path": "/9orgGrjh0Jivz0zZLn1Ufj4NRZP.jpg",

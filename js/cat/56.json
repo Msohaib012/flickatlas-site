@@ -1,6 +1,6 @@
 {
  "bucket": "56",
- "count": 51,
+ "count": 55,
  "titles": {
   "movie:1010756": {
    "backdrop_path": "/AkzGC9vQbKMHGebetpjBF4bU4VS.jpg",
@@ -2275,6 +2275,94 @@
    "vote_average": 7.275,
    "vote_count": 363
   },
+  "movie:255456": {
+   "backdrop_path": "/vLNpnZwxTqv1hxHoT1Bz6sxn3V.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Federico Picchioni",
+     "n": "Carlo Verdone"
+    },
+    {
+     "c": "Luisa Tombolini",
+     "n": "Paola Cortellesi"
+    },
+    {
+     "c": "Lia Picchioni",
+     "n": "Tea Falco"
+    },
+    {
+     "c": "Niccolo Picchioni",
+     "n": "Lorenzo Richelmy"
+    },
+    {
+     "c": "Duilio Tombolini",
+     "n": "Fausto Maria Sciarappa"
+    },
+    {
+     "c": "Gemma",
+     "n": "Eleonora Sergio"
+    },
+    {
+     "c": "Organizzatore Rassegna",
+     "n": "Stefano Ambrogi"
+    },
+    {
+     "c": "Brigadiere Finanza",
+     "n": "Riccardo Flammini"
+    },
+    {
+     "c": "Giorgio Marchini",
+     "n": "Massimiliano Vitullo"
+    },
+    {
+     "c": "imprenditore al campo da golf",
+     "n": "Augusto Zucchi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Carlo Verdone"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 255456,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A wealthy broker, Federico Picchioni, within two days forfeits his partner and work, finishing well to living with two children and granddaughter (abandoned by her father). He is, at this point, in the face of many difficulties of adjustment but finds comfort in the help of his neighbor.",
+   "popularity": 0.8457,
+   "poster_path": "/4JXtUrAKrfdiZa8dSZwuKWzTadS.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2014-02-13",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Sotto una buona stella",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.808,
+   "vote_count": 302
+  },
   "movie:255756": {
    "backdrop_path": "/6qpPqn33a3XrsnOds4wKNinsIu5.jpg",
    "budget": 0,
@@ -2833,6 +2921,176 @@
    "vote_average": 7.294,
    "vote_count": 406
   },
+  "movie:5956": {
+   "backdrop_path": "/veCjJV6Zk2hRXGfWv73RHca4hAJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Brad Cairn",
+     "n": "Sam Rockwell"
+    },
+    {
+     "c": "Abby Cairn",
+     "n": "Vera Farmiga"
+    },
+    {
+     "c": "Joshua Cairn",
+     "n": "Jacob Kogan"
+    },
+    {
+     "c": "Hazel Cairn",
+     "n": "Celia Weston"
+    },
+    {
+     "c": "Uncle Ned",
+     "n": "Dallas Roberts"
+    },
+    {
+     "c": "Chester",
+     "n": "Michael McKean"
+    },
+    {
+     "c": "Soccer Dad",
+     "n": "Randy Ryan"
+    },
+    {
+     "c": "Betsy Polsheck",
+     "n": "Nancy Giles"
+    },
+    {
+     "c": "Ms. Danforth",
+     "n": "Linda Larkin"
+    },
+    {
+     "c": "Stewart Slocum",
+     "n": "Alex Draper"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "George Ratliff"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Horror"
+   ],
+   "id": 5956,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The arrival of a newborn girl causes the gradual disintegration of the Cairn family; particularly for 9-year-old Joshua, an eccentric boy whose proper upbringing and refined tastes both take a sinister turn.",
+   "popularity": 1.2559,
+   "poster_path": "/91yHfa0apWqMr8HmuwUPrVKYuDR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2007-01-21",
+   "revenue": 719968,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The story of a perfect boy who had the perfect plan.",
+   "title": "Joshua",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 300
+  },
   "movie:597156": {
    "backdrop_path": "/wX1n8ndD7l6PsHSUmo66GRJHcwG.jpg",
    "budget": 0,
@@ -3129,6 +3387,179 @@
    "type": "movie",
    "vote_average": 5.597,
    "vote_count": 315
+  },
+  "movie:645856": {
+   "backdrop_path": "/xH23sRbfMtwZ2oBtBf607VUNrGt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Father Peter",
+     "n": "Guy Pearce"
+    },
+    {
+     "c": "Father Daniel",
+     "n": "Vadhir Derbez"
+    },
+    {
+     "c": "Archbishop",
+     "n": "Stephen Lang"
+    },
+    {
+     "c": "Charlie Giroux",
+     "n": "Brady Jenness"
+    },
+    {
+     "c": "Helen",
+     "n": "Robin Bartlett"
+    },
+    {
+     "c": "Father Louis",
+     "n": "Keith David"
+    },
+    {
+     "c": "Young Peter",
+     "n": "Chris Galust"
+    },
+    {
+     "c": "George",
+     "n": "Acoryé White"
+    },
+    {
+     "c": "Forensic Psychologist",
+     "n": "James Healy Jr."
+    },
+    {
+     "c": "Mr. Miller",
+     "n": "Heath Freeman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Justin P. Lange"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 645856,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A renowned exorcist teams up with a rookie priest for his first day of training. As they plunge deeper into hell on earth, the lines between good and evil blur, and their own demons emerge.",
+   "popularity": 1.5146,
+   "poster_path": "/dtt2dfMdmlCcgaJZkPPQsIY5oR6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2021-03-26",
+   "revenue": 0,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "God help us.",
+   "title": "The Seventh Day",
+   "trailer": {
+    "key": "LV4f9ELo9gg",
+    "name": "The Seventh Day | Official Trailer (HD) | Vertical Entertainment",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.2,
+   "vote_count": 303
   },
   "movie:64956": {
    "backdrop_path": "/p8K8Z4yjaslJx5mTsIC5L6LJxQB.jpg",
@@ -3545,6 +3976,101 @@
    "type": "movie",
    "vote_average": 8.406,
    "vote_count": 385
+  },
+  "movie:8056": {
+   "backdrop_path": "/7QDnuj2T6CCY5wOSnKfYH7cIb6M.jpg",
+   "budget": 154790,
+   "cast": [
+    {
+     "c": "Shlomo",
+     "n": "Lionel Abelanski"
+    },
+    {
+     "c": "Mordechai",
+     "n": "Rufus"
+    },
+    {
+     "c": "Rabbi",
+     "n": "Clément Harari"
+    },
+    {
+     "c": "Esther",
+     "n": "Agathe de La Fontaine"
+    },
+    {
+     "c": "Yossi",
+     "n": "Michel Muller"
+    },
+    {
+     "c": "Schmecht",
+     "n": "Johan Leysen"
+    },
+    {
+     "c": "Yankele",
+     "n": "Bruno Abraham-Kremer"
+    },
+    {
+     "c": "Manzatou",
+     "n": "Gad Elmaleh"
+    },
+    {
+     "c": "Sura",
+     "n": "Marie-José Nat"
+    },
+    {
+     "c": "",
+     "n": "Serge Kribus"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Radu Mihăileanu"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "War"
+   ],
+   "id": 8056,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In 1941, the inhabitants of a small Jewish village in Central Europe organize a fake deportation train so that they can escape the Nazis and flee to Palestine.",
+   "popularity": 1.0458,
+   "poster_path": "/uFyKJfels7BJ31D4rGfAYowzdjd.jpg",
+   "production_countries": [
+    "BE",
+    "IL",
+    "NL",
+    "RO",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "1998-09-16",
+   "revenue": 3311162,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Train of Life",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 306
   },
   "movie:811656": {
    "backdrop_path": "/591Cjf3DWGAcJbQYdHmRS7fHH3z.jpg",

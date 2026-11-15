@@ -1,6 +1,6 @@
 {
  "bucket": "05",
- "count": 63,
+ "count": 65,
  "titles": {
   "movie:10105": {
    "backdrop_path": "/nTyyyUg8p5EWfze3haCzL6aKWfj.jpg",
@@ -3543,6 +3543,113 @@
    "vote_average": 6.697,
    "vote_count": 320
   },
+  "movie:411405": {
+   "backdrop_path": "/dEJTxbGz53wYiVzDWcN5gJ0cjTd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Joe Denton",
+     "n": "Nikolaj Coster-Waldau"
+    },
+    {
+     "c": "Joe Denton Sr.",
+     "n": "Robert Forster"
+    },
+    {
+     "c": "Irma Denton",
+     "n": "Jacki Weaver"
+    },
+    {
+     "c": "Charlotte Boyd",
+     "n": "Molly Parker"
+    },
+    {
+     "c": "Lieutenant Pleasant",
+     "n": "Gary Cole"
+    },
+    {
+     "c": "Scotty",
+     "n": "Macon Blair"
+    },
+    {
+     "c": "Phil Coakley",
+     "n": "Michael Kinney"
+    },
+    {
+     "c": "Cara Coakley",
+     "n": "Daniela Sandiford"
+    },
+    {
+     "c": "Manny Vassey",
+     "n": "Shawn Lawrence"
+    },
+    {
+     "c": "Junior Vassey",
+     "n": "Pat Healy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "19",
+   "date_kind": "release",
+   "director": [
+    "E.L. Katz"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 411405,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A disgraced former cop, fresh off a six-year prison sentence for attempted murder, returns home looking for redemption but winds up trapped in the mess he left behind.",
+   "popularity": 0.9812,
+   "poster_path": "/z7jmLmrs0pLlDU4GI6ItaJeqlET.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-04-28",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Small Crimes",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.362,
+   "vote_count": 304
+  },
   "movie:444705": {
    "backdrop_path": "/xlwFzTxkqoBm3dLkfPSZU0rWS9L.jpg",
    "budget": 0,
@@ -3598,6 +3705,178 @@
    "type": "movie",
    "vote_average": 7.613,
    "vote_count": 306
+  },
+  "movie:455605": {
+   "backdrop_path": "/8xvB5hKnAoJktPgRIVlzTTV9Tmc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marnie",
+     "n": "Sonja Gerhardt"
+    },
+    {
+     "c": "Theo",
+     "n": "Tim Oliver Schultz"
+    },
+    {
+     "c": "Emma",
+     "n": "Lisa-Marie Koroll"
+    },
+    {
+     "c": "Finn",
+     "n": "Timmi Trinks"
+    },
+    {
+     "c": "Charly",
+     "n": "Emilio Sakraya"
+    },
+    {
+     "c": "Chris",
+     "n": "Davis Schulz"
+    },
+    {
+     "c": "",
+     "n": "Torge Oelrich"
+    },
+    {
+     "c": "",
+     "n": "Leon Machère"
+    },
+    {
+     "c": "Betty",
+     "n": "Nilam Farooq"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Michael David Pate",
+    "Martin Goeres"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 455605,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Group of Youtubers enter an abandoned surgery ward for 24-hour challenge, hoping to go viral. They will soon learn that they're not welcome.",
+   "popularity": 1.4566,
+   "poster_path": "/6BjiB3kju34PRhTHiJD5MTJHTrk.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Channel 101 Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-02-22",
+   "revenue": 2330777,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Haunted Hospital: Heilstatten",
+   "trailer": {
+    "key": "yR1Jc0NVbb4",
+    "name": "HAUNTED HOSPITAL: HEILSTATTEN Official Trailer | Evil German Horror | Directed by Michael David Pate",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 302
   },
   "movie:458005": {
    "backdrop_path": "/7RIYU3mMHiK0QzMP8hG6IX4Sntl.jpg",

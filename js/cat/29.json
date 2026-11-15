@@ -1,6 +1,6 @@
 {
  "bucket": "29",
- "count": 44,
+ "count": 48,
  "titles": {
   "movie:10629": {
    "backdrop_path": "/pku59jhFJGLqrFIP0m1ITyqfQcB.jpg",
@@ -1146,6 +1146,118 @@
    "vote_average": 7.319,
    "vote_count": 331
   },
+  "movie:1203329": {
+   "backdrop_path": "/1YL8ksfwm3p2Tgt1yaNVYYOvOKC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Geralt (voice)",
+     "n": "Doug Cockle"
+    },
+    {
+     "c": "Jaskier / Young Jaskier (voice)",
+     "n": "Joey Batey"
+    },
+    {
+     "c": "Essi (voice)",
+     "n": "Christina Wren"
+    },
+    {
+     "c": "Sh'eenaz (voice)",
+     "n": "Emily Carey"
+    },
+    {
+     "c": "Agloval (voice)",
+     "n": "Camrus Johnson"
+    },
+    {
+     "c": "King Usveldt (voice)",
+     "n": "Simon Templeman"
+    },
+    {
+     "c": "Melusina / Princess Nispen (voice)",
+     "n": "Mallory Jansen"
+    },
+    {
+     "c": "Yennefer (voice)",
+     "n": "Anya Chalotra"
+    },
+    {
+     "c": "Zelest (voice)",
+     "n": "Ray Chase"
+    },
+    {
+     "c": "Queen Dahut (voice)",
+     "n": "Cynthia Kaye McWilliams"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Kang Hei Chul"
+   ],
+   "genres": [
+    "Animation",
+    "Fantasy",
+    "Action"
+   ],
+   "id": 1203329,
+   "industry": "world",
+   "origin_country": [
+    "PL",
+    "KR",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When human sailors are attacked by mysterious creatures of the deep, only one person can stop the war between land and sea: the Witcher, Geralt of Rivia.",
+   "popularity": 3.6763,
+   "poster_path": "/y0pR5aBVvPn5uncaZjl94ZEnuEF.jpg",
+   "production_countries": [
+    "PL",
+    "KR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2025-02-10",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Witcher: Sirens of the Deep",
+   "trailer": {
+    "key": "PYzqa1CDTik",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.733,
+   "vote_count": 305
+  },
   "movie:123229": {
    "backdrop_path": "/uVulZOgJmNEqzdd1Q5I0OdNUkqo.jpg",
    "budget": 0,
@@ -2039,6 +2151,125 @@
    "vote_average": 5.913,
    "vote_count": 23
   },
+  "movie:14729": {
+   "backdrop_path": "/hFidONuvMRoWdpgsysBRknXU74J.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Cole Younger",
+     "n": "David Carradine"
+    },
+    {
+     "c": "Jim Younger",
+     "n": "Keith Carradine"
+    },
+    {
+     "c": "Bob Younger",
+     "n": "Robert Carradine"
+    },
+    {
+     "c": "Jesse James",
+     "n": "James Keach"
+    },
+    {
+     "c": "Frank James",
+     "n": "Stacy Keach"
+    },
+    {
+     "c": "Ed Miller",
+     "n": "Dennis Quaid"
+    },
+    {
+     "c": "Clell Miller",
+     "n": "Randy Quaid"
+    },
+    {
+     "c": "John Younger",
+     "n": "Kevin Brophy"
+    },
+    {
+     "c": "George Arthur",
+     "n": "Harry Carey Jr."
+    },
+    {
+     "c": "Charlie Ford",
+     "n": "Christopher Guest"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Walter Hill"
+   ],
+   "genres": [
+    "Western"
+   ],
+   "id": 14729,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The origins, exploits and the ultimate fate of the James gang is told in a sympathetic portrayal of the bank robbers made up of brothers who begin their legendary bank raids because of revenge.",
+   "popularity": 3.7358,
+   "poster_path": "/1Dk9dieSkZeiEVarZFsPJdF9Qel.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1980-05-16",
+   "revenue": 15795189,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "\"All the world likes an outlaw. For some damn reason they remember 'em.\" - Jesse James",
+   "title": "The Long Riders",
+   "trailer": {
+    "key": "x-iV2P0eP-M",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.67,
+   "vote_count": 306
+  },
   "movie:157829": {
    "backdrop_path": "/a3riLgP1Dncd0tzGPI6wrv3cHlU.jpg",
    "budget": 3000000,
@@ -2509,6 +2740,99 @@
    "type": "movie",
    "vote_average": 7.08,
    "vote_count": 25
+  },
+  "movie:16729": {
+   "backdrop_path": "/obZ3HXsiIhZtfCUBgvzBXOYfOhE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Italia",
+     "n": "Penélope Cruz"
+    },
+    {
+     "c": "Timoteo",
+     "n": "Sergio Castellitto"
+    },
+    {
+     "c": "Elsa",
+     "n": "Claudia Gerini"
+    },
+    {
+     "c": "Ada",
+     "n": "Angela Finocchiaro"
+    },
+    {
+     "c": "Manlio",
+     "n": "Marco Giallini"
+    },
+    {
+     "c": "Alfredo",
+     "n": "Pietro De Silva"
+    },
+    {
+     "c": "Raffaella",
+     "n": "Vittoria Piancastelli"
+    },
+    {
+     "c": "Angela",
+     "n": "Elena Perino"
+    },
+    {
+     "c": "Pino",
+     "n": "Renato Marchetti"
+    },
+    {
+     "c": "Padre Elsa",
+     "n": "Gianni Musy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Sergio Castellitto"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 16729,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "IT",
+    "ES"
+   ],
+   "original_language": "it",
+   "overview": "While waiting for the brain surgery of his daughter Angela, victim of a motorcycle accident, the surgeon Timoteo recalls his torrid affair with and passion for Italia, a simple woman from slums in the periphery of the big city where he lives. The ghost of the beloved and sexual object of desire Italia chases him in his memories.",
+   "popularity": 1.397,
+   "poster_path": "/o5kErZoLG5eAQ5IqZxUoIzNmlJ1.jpg",
+   "production_countries": [
+    "IT",
+    "ES",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2004-03-12",
+   "revenue": 11837022,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Don't Move",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.002,
+   "vote_count": 305
   },
   "movie:1705729": {
    "backdrop_path": "/jEvff0AJue5DtzNd2rvFDgSNVuH.jpg",
@@ -4142,6 +4466,99 @@
    "type": "movie",
    "vote_average": 7.519,
    "vote_count": 368
+  },
+  "movie:897429": {
+   "backdrop_path": "/4WQazr0JlLNgEybdeL4jTxbUrRt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Her",
+     "n": "Sadie Sink"
+    },
+    {
+     "c": "Him",
+     "n": "Dylan O'Brien"
+    },
+    {
+     "c": "Her, Later On",
+     "n": "Taylor Swift"
+    },
+    {
+     "c": "Him, Later On",
+     "n": "Jake Lyon"
+    },
+    {
+     "c": "Her Dad",
+     "n": "Shawn Levy"
+    },
+    {
+     "c": "His Friend",
+     "n": "Rashauna Eastman"
+    },
+    {
+     "c": "His Friend",
+     "n": "Anthony Espino"
+    },
+    {
+     "c": "His Friend",
+     "n": "Jeffrey Castillo Peña"
+    },
+    {
+     "c": "His Friend",
+     "n": "Elise Turin"
+    },
+    {
+     "c": "Her Friend",
+     "n": "Mariama Bonetti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Taylor Swift"
+   ],
+   "genres": [
+    "Drama",
+    "Music"
+   ],
+   "id": 897429,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Short film featuring the extended version of the song “All Too Well” by Taylor Swift. A troubled couple's romance blossoms before it eventually falls apart.",
+   "popularity": 1.9111,
+   "poster_path": "/zfgHyodGNdtBxO8R7d0qmR2JSEz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2021-11-12",
+   "revenue": 0,
+   "runtime": 15,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Love is so short, forgetting is so long.",
+   "title": "All Too Well: The Short Film",
+   "trailer": {
+    "key": "t0Yf43ONyNo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.005,
+   "vote_count": 303
   },
   "movie:911129": {
    "backdrop_path": "/fY6n7AeEUnQuSKbfAF2Ftd3Z6sG.jpg",

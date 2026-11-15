@@ -1,6 +1,6 @@
 {
  "bucket": "51",
- "count": 52,
+ "count": 53,
  "titles": {
   "movie:10451": {
    "backdrop_path": "/tllmUjmEQKF0OaH7FgqZYnLBsYB.jpg",
@@ -3220,6 +3220,111 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 375
+  },
+  "movie:43751": {
+   "backdrop_path": "/fB6Al7U2jfW8DSFKwBqWB8PWAcm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tom",
+     "n": "Lewis Fiander"
+    },
+    {
+     "c": "Evelyn",
+     "n": "Prunella Ransome"
+    },
+    {
+     "c": "Crying Child Father",
+     "n": "Antonio Iranzo"
+    },
+    {
+     "c": "Coastguard",
+     "n": "Miguel Narros"
+    },
+    {
+     "c": "",
+     "n": "María Luisa Arias"
+    },
+    {
+     "c": "Beach House Mother",
+     "n": "Marisa Porcel"
+    },
+    {
+     "c": "",
+     "n": "Juan Cazalilla"
+    },
+    {
+     "c": "Postman Enrique Amorós",
+     "n": "Luis Ciges"
+    },
+    {
+     "c": "",
+     "n": "Antonio Canal"
+    },
+    {
+     "c": "Male Nurse",
+     "n": "Aparicio Rivero"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Chicho Ibáñez Serrador"
+   ],
+   "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "id": 43751,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "A couple of English tourists arrive at the island of Almanzora, off the Spanish Mediterranean coast, where they discover that there are no adults in a small fishing village, only some children who stare at them and smile mysteriously.",
+   "popularity": 1.7292,
+   "poster_path": "/uLHgyZv6IRtMFFuglDFQIW31tos.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1976-04-26",
+   "revenue": 0,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Suddenly… They were the only adults left alive on the island",
+   "title": "Who Can Kill a Child?",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.002,
+   "vote_count": 304
   },
   "movie:455551": {
    "backdrop_path": "/60qjADBGGjgFLcYSIG5zaPlxUQk.jpg",

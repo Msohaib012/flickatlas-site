@@ -1,6 +1,6 @@
 {
  "bucket": "09",
- "count": 55,
+ "count": 57,
  "titles": {
   "movie:1002109": {
    "backdrop_path": "/h7VBwwztl4it7BSA6HsJR41nC37.jpg",
@@ -2439,6 +2439,116 @@
    "vote_average": 6.561,
    "vote_count": 343
   },
+  "movie:31909": {
+   "backdrop_path": "/2MLj4TuEuc8r25c9RNTANoRqjav.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "David Gardner",
+     "n": "Hunter Carson"
+    },
+    {
+     "c": "Linda Magnusson",
+     "n": "Karen Black"
+    },
+    {
+     "c": "George Gardner",
+     "n": "Timothy Bottoms"
+    },
+    {
+     "c": "Ellen Gardner",
+     "n": "Laraine Newman"
+    },
+    {
+     "c": "Gen. Climet Wilson",
+     "n": "James Karen"
+    },
+    {
+     "c": "Mark Weinstein",
+     "n": "Bud Cort"
+    },
+    {
+     "c": "Mrs. McKeltch",
+     "n": "Louise Fletcher"
+    },
+    {
+     "c": "Sgt. Maj. Rinaski",
+     "n": "Eric Pierpoint"
+    },
+    {
+     "c": "Captain Curtis",
+     "n": "Christopher Allport"
+    },
+    {
+     "c": "Heather",
+     "n": "Virginya Keehne"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Tobe Hooper"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 31909,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A boy tries to stop aliens that have taken over his town and are brainwashing its inhabitants.",
+   "popularity": 2.2471,
+   "poster_path": "/1IwCZPgAmwiP7n5EDe0N0niIpYE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Artiflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/hO4tZhtSJ7VrVnJusimkY3MltSx.png",
+     "name": "Artiflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1986-06-06",
+   "revenue": 4884663,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Their conquest has already begun. . . . He knows they’re here.",
+   "title": "Invaders from Mars",
+   "trailer": {
+    "key": "wVH4RWzKZvk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 300
+  },
   "movie:32909": {
    "backdrop_path": "/rBhSUf8CHwZ442maEvF0tF4CoMd.jpg",
    "budget": 12000000,
@@ -3925,6 +4035,108 @@
    "type": "movie",
    "vote_average": 6.138,
    "vote_count": 482
+  },
+  "movie:588009": {
+   "backdrop_path": "/bwXvBFejQFaoXa2TBkZuKPgSjeA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gonzalo",
+     "n": "Luis Tosar"
+    },
+    {
+     "c": "Mateo",
+     "n": "Álvaro Cervantes"
+    },
+    {
+     "c": "Sandra",
+     "n": "Anna Castillo"
+    },
+    {
+     "c": "Adú",
+     "n": "Moustapha Oumarou"
+    },
+    {
+     "c": "Miguel",
+     "n": "Miquel Fernández"
+    },
+    {
+     "c": "Javi",
+     "n": "Jesús Carroza"
+    },
+    {
+     "c": "Massar",
+     "n": "Adam Nourou"
+    },
+    {
+     "c": "Alika",
+     "n": "Zayidiyya Dissou"
+    },
+    {
+     "c": "Paloma",
+     "n": "Ana Wagener"
+    },
+    {
+     "c": "Carmen",
+     "n": "Nora Navas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Salvador Calvo"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 588009,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "In a desperate attempt to reach Europe and crouched before an airstrip in Cameroon, a six-year-old boy and his older sister wait to sneak into the holds of an airplane. Not too far away, an environmental activist contemplates the terrible image of an elephant, dead and fangless. Not only do you have to fight against poaching, but you will also have to meet the problems of your newly arrived daughter from Spain. Thousands of kilometers to the north, in Melilla, a group of civil guards prepare to face the furious crowd of sub-Saharan people who have begun the assault on the fence. Three stories linked by a central theme, in which none of its protagonists know that their destinies are doomed to cross and that their lives will no longer be the same.",
+   "popularity": 0.9834,
+   "poster_path": "/tigbVfTJ4mJccucmov2UThgOQbJ.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2020-01-31",
+   "revenue": 0,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Adú",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.856,
+   "vote_count": 303
   },
   "movie:673309": {
    "backdrop_path": "/jUJP67Lqmwc0hyaDeLKBS2WuS5Y.jpg",

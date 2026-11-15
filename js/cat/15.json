@@ -1,6 +1,6 @@
 {
  "bucket": "15",
- "count": 47,
+ "count": 49,
  "titles": {
   "movie:11215": {
    "backdrop_path": "/i3aD438nOLOASyf1KOZrDZxQXfX.jpg",
@@ -1684,6 +1684,119 @@
    "vote_average": 6.416,
    "vote_count": 149
   },
+  "movie:168615": {
+   "backdrop_path": "/f6HX16K8EJ1ERdDmCHv5yB2fQLh.jpg",
+   "budget": 22160664,
+   "cast": [
+    {
+     "c": "Papa Boule",
+     "n": "Franck Dubosc"
+    },
+    {
+     "c": "Maman Boule",
+     "n": "Marina Foïs"
+    },
+    {
+     "c": "Boule",
+     "n": "Charles Crombez"
+    },
+    {
+     "c": "Downstairs Neighbor",
+     "n": "Nicolas Vaude"
+    },
+    {
+     "c": "Garbage Truck Driver",
+     "n": "Jean-Jacques Domingues"
+    },
+    {
+     "c": "Garbage Collector",
+     "n": "Géraud Thomas"
+    },
+    {
+     "c": "Garbage Collector",
+     "n": "Alain Cerrer"
+    },
+    {
+     "c": "Headmaster",
+     "n": "Lionel Abelanski"
+    },
+    {
+     "c": "Bill (voice)",
+     "n": "Manu Payet"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Alexandre Charlot",
+    "Franck Magnier"
+   ],
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 168615,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Buddy is an abandoned young cocker spaniel waiting dejectedly in his cage for a kind, new owner to adopt him. Suddenly, Billy, a little boy whose hair is as red as Buddy's, appears. It's love at first sight and the beginning of a great friendship. But for Billy's parents, this is where the trouble begins.",
+   "popularity": 0.6882,
+   "poster_path": "/zBDw96kEEPgbfAjGpALsefLsjiU.jpg",
+   "production_countries": [
+    "FR",
+    "BE",
+    "LU"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2013-02-27",
+   "revenue": 0,
+   "runtime": 82,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Billy and Buddy",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.5,
+   "vote_count": 305
+  },
   "movie:18615": {
    "backdrop_path": "/xkyqLhklybD8BnWHOJo22jliJD6.jpg",
    "budget": 16800000,
@@ -1827,6 +1940,120 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 315
+  },
+  "movie:20815": {
+   "backdrop_path": "/ti84zQAKUm049pf2yLIZqy53Hw1.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Kate",
+     "n": "Natasha Richardson"
+    },
+    {
+     "c": "Serena Joy",
+     "n": "Faye Dunaway"
+    },
+    {
+     "c": "Nick",
+     "n": "Aidan Quinn"
+    },
+    {
+     "c": "Moira",
+     "n": "Elizabeth McGovern"
+    },
+    {
+     "c": "Aunt Lydia",
+     "n": "Victoria Tennant"
+    },
+    {
+     "c": "Commander",
+     "n": "Robert Duvall"
+    },
+    {
+     "c": "Ofglen",
+     "n": "Blanche Baker"
+    },
+    {
+     "c": "Ofwarren / Janine",
+     "n": "Traci Lind"
+    },
+    {
+     "c": "Aunt Helena",
+     "n": "Zoey Wilson"
+    },
+    {
+     "c": "Aunt Elizabeth",
+     "n": "Kathryn Doby"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Volker Schlöndorff"
+   ],
+   "genres": [
+    "Drama",
+    "Science Fiction"
+   ],
+   "id": 20815,
+   "industry": "world",
+   "origin_country": [
+    "DE",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a dystopian, polluted right-wing religious tyranny, a young woman is put in sexual slavery on account of her now rare fertility.",
+   "popularity": 3.3274,
+   "poster_path": "/cnkKQyRzoCMZliMaknTOXHqXKaz.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1990-02-15",
+   "revenue": 4960385,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "A haunting tale of sexuality in a country gone wrong.",
+   "title": "The Handmaid's Tale",
+   "trailer": {
+    "key": "oTnhx_N7nro",
+    "name": "The Handmaid's Tale (1990) - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.076,
+   "vote_count": 304
   },
   "movie:24615": {
    "backdrop_path": "/7gvgpPaDmqPEIMaZTz04Zwhe8dP.jpg",

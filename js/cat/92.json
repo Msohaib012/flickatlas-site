@@ -1,6 +1,6 @@
 {
  "bucket": "92",
- "count": 47,
+ "count": 49,
  "titles": {
   "movie:1008392": {
    "backdrop_path": "/iHSE8lEkPFHHPqaCv6Eh2aUfe6q.jpg",
@@ -1578,6 +1578,183 @@
    "vote_average": 7.169,
    "vote_count": 89
   },
+  "movie:17792": {
+   "backdrop_path": "/7IJHdLr4Bi0rCBgXblVzHGfeyAg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Karen York",
+     "n": "Faye Grant"
+    },
+    {
+     "c": "Gene York",
+     "n": "Michael Woods"
+    },
+    {
+     "c": "Earl",
+     "n": "Michael Lerner"
+    },
+    {
+     "c": "Dr. Hastings",
+     "n": "Madison Mason"
+    },
+    {
+     "c": "Jo Thueson",
+     "n": "Ann Hearn"
+    },
+    {
+     "c": "Noah",
+     "n": "Jim Byrnes"
+    },
+    {
+     "c": "Jake Madison",
+     "n": "Don S. Davis"
+    },
+    {
+     "c": "Delia",
+     "n": "Asia Vieira"
+    },
+    {
+     "c": "Sister Yvonne / Felicity",
+     "n": "Megan Leitch"
+    },
+    {
+     "c": "Sister Francesca",
+     "n": "Joy Coghill"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jorge Montesi",
+    "Dominique Othenin-Girard"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller",
+    "TV Movie"
+   ],
+   "id": 17792,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Damien Thorn is dead, but his prophecy is reborn in a mysterious girl named Delia, who is adopted by two attorneys.",
+   "popularity": 2.7308,
+   "poster_path": "/oRcRyiVRnR1u3LJQL8VMryvyatF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1991-07-19",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Damien's prophecy is reborn!",
+   "title": "Omen IV: The Awakening",
+   "trailer": {
+    "key": "QgFR3GWl5OI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.992,
+   "vote_count": 303
+  },
   "movie:186992": {
    "backdrop_path": "/kwhZU5VYcikvoGMejg6gBo4kpwx.jpg",
    "budget": 1400000,
@@ -1714,6 +1891,131 @@
    "type": "movie",
    "vote_average": 6.249,
    "vote_count": 485
+  },
+  "movie:19592": {
+   "backdrop_path": "/WyCraJdklEeet3hTJiAjzhmhWx.jpg",
+   "budget": 1500000,
+   "cast": [
+    {
+     "c": "William",
+     "n": "Henry Thomas"
+    },
+    {
+     "c": "Sam",
+     "n": "Patrick Fugit"
+    },
+    {
+     "c": "Clyde",
+     "n": "Michael Shannon"
+    },
+    {
+     "c": "Annabelle",
+     "n": "Nicki Aycox"
+    },
+    {
+     "c": "Todd",
+     "n": "Isaiah Washington"
+    },
+    {
+     "c": "Joseph",
+     "n": "Mark Boone Junior"
+    },
+    {
+     "c": "Father",
+     "n": "Muse Watson"
+    },
+    {
+     "c": "Black Woman",
+     "n": "Donna Biscoe"
+    },
+    {
+     "c": "Kormer",
+     "n": "Russell Durham Comegys"
+    },
+    {
+     "c": "Girl Ghost",
+     "n": "Melanie Abramoff"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Alex Turner"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Western"
+   ],
+   "id": 19592,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Towards the end of the Civil War, a group of Confederate soldiers hole up on an abandoned plantation after robbing a bank, and find themselves at the mercy of supernatural forces.",
+   "popularity": 1.4962,
+   "poster_path": "/xB1qpndocvnS23qIv0F7OqYZLpj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2005-04-22",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There are worse things than dying.",
+   "title": "Dead Birds",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.668,
+   "vote_count": 301
   },
   "movie:22292": {
    "backdrop_path": "/m1QTfbKD90j63Gh9bOJt0g67LvA.jpg",

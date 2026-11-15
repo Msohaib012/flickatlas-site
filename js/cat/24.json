@@ -1,6 +1,6 @@
 {
  "bucket": "24",
- "count": 50,
+ "count": 53,
  "titles": {
   "movie:10424": {
    "backdrop_path": "/dAWlWircXrlnMjsVZSyb7vgMlIo.jpg",
@@ -396,6 +396,100 @@
    "type": "movie",
    "vote_average": 5.452,
    "vote_count": 444
+  },
+  "movie:12524": {
+   "backdrop_path": "/xwlShstQ7tODGkJJQ2ddM2JoNMu.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Titus Andronicus",
+     "n": "Anthony Hopkins"
+    },
+    {
+     "c": "Tamora",
+     "n": "Jessica Lange"
+    },
+    {
+     "c": "Chiron",
+     "n": "Jonathan Rhys Meyers"
+    },
+    {
+     "c": "Demetrius",
+     "n": "Matthew Rhys"
+    },
+    {
+     "c": "Aaron",
+     "n": "Harry Lennix"
+    },
+    {
+     "c": "Lucius",
+     "n": "Angus Macfadyen"
+    },
+    {
+     "c": "Marcus Andronicus",
+     "n": "Colm Feore"
+    },
+    {
+     "c": "Saturninus",
+     "n": "Alan Cumming"
+    },
+    {
+     "c": "Lavinia",
+     "n": "Laura Fraser"
+    },
+    {
+     "c": "Alarbus",
+     "n": "Raz Degan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Julie Taymor"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 12524,
+   "industry": "world",
+   "origin_country": [
+    "IT",
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Titus Andronicus returns from the wars and sees his sons and daughters taken from him, one by one. Shakespeare's goriest and earliest tragedy.",
+   "popularity": 2.3409,
+   "poster_path": "/82mCeQoeT2C7h7vR6Ot9MQotE1R.jpg",
+   "production_countries": [
+    "GB",
+    "IT",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "1999-12-25",
+   "revenue": 2259680,
+   "runtime": 162,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "la"
+   ],
+   "status": "Released",
+   "tagline": "The fate of an empire. The descent of man.",
+   "title": "Titus",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 301
   },
   "movie:1254624": {
    "backdrop_path": "/cVqQdzqo0ymSFJqU87bIiHV8bA7.jpg",
@@ -2863,6 +2957,94 @@
    "vote_average": 6.261,
    "vote_count": 341
   },
+  "movie:514124": {
+   "backdrop_path": "/zLWReMiAMwrfqQ3ULq6MK2rZp99.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Stephan",
+     "n": "Christoph Maria Herbst"
+    },
+    {
+     "c": "Thomas",
+     "n": "Florian David Fitz"
+    },
+    {
+     "c": "Elisabeth",
+     "n": "Caroline Peters"
+    },
+    {
+     "c": "René",
+     "n": "Justus von Dohnányi"
+    },
+    {
+     "c": "Anna",
+     "n": "Janina Uhse"
+    },
+    {
+     "c": "Dorothea",
+     "n": "Iris Berben"
+    },
+    {
+     "c": "Pizza Delivery Guy",
+     "n": "Serkan Kaya"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Sönke Wortmann"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 514124,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "The family dinner at Stephan and Elisabeth could have been wonderful. But when Thomas announces that he and his pregnant girlfriend Anna are going to call their son Adolf, the hosts and the family friend René are stuck in the throat.",
+   "popularity": 0.7383,
+   "poster_path": "/uJ8MvRQdlCIvqKiRBwW9Zxxa9N7.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Chai Flicks"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/b1cu4YuZF6xRagXjCjVeZBbnSD2.png",
+     "name": "Chai Flicks",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-10-18",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "How About Adolf?",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.817,
+   "vote_count": 303
+  },
   "movie:52124": {
    "backdrop_path": "/gMaZeKbx3BG7AwnqP6rAAbGwWAl.jpg",
    "budget": 0,
@@ -3499,6 +3681,139 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 394
+  },
+  "movie:79224": {
+   "backdrop_path": "/l9KInBleoVHFB2TXxChn6pjlDxz.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Nam-yi",
+     "n": "Park Hae-il"
+    },
+    {
+     "c": "Ja-in",
+     "n": "Moon Chae-won"
+    },
+    {
+     "c": "Seo-goon",
+     "n": "Kim Moo-yul"
+    },
+    {
+     "c": "Jyu Shin-ta",
+     "n": "Ryu Seung-ryong"
+    },
+    {
+     "c": "Prince Hooge",
+     "n": "Park Ki-woong"
+    },
+    {
+     "c": "Nogami",
+     "n": "Ryohei Otani"
+    },
+    {
+     "c": "Young Nam-yi",
+     "n": "David Lee"
+    },
+    {
+     "c": "Gab-yong",
+     "n": "Lee Han-wi"
+    },
+    {
+     "c": "Jang-sun",
+     "n": "Park No-shik"
+    },
+    {
+     "c": "Kim Mu-seon",
+     "n": "Lee Kyung-young"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Kim Han-min"
+   ],
+   "genres": [
+    "Drama",
+    "Action",
+    "History"
+   ],
+   "id": 79224,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "After the death of their father, two siblings are raised by their father's best friend. However, when one gets kidnapped just before her wedding, the other rises against the Manchus.",
+   "popularity": 2.1241,
+   "poster_path": "/iOTRRHt9GNbUfQhV3MhMCznjrPI.jpg",
+   "production_countries": [
+    "KR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hungama Play"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hi-YAH"
+    },
+    {
+     "name": "ViX Premium Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hi-YAH Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/yUUqCizzC0JWznvH1eqUmzIhJBK.png",
+     "name": "Hungama Play",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2011-08-10",
+   "revenue": 49000000,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "A hero is born, the legend begins",
+   "title": "War of the Arrows",
+   "trailer": {
+    "key": "-9qhQUxBTx4",
+    "name": "War of the Arrows Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 304
   },
   "movie:8324": {
    "backdrop_path": "/eV3ad3ALbIVwfKvLgw2f3T79zxh.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "39",
- "count": 55,
+ "count": 56,
  "titles": {
   "movie:1019939": {
    "backdrop_path": "/krN2V7leYVBp6dOLzP11sM44eNb.jpg",
@@ -1151,6 +1151,158 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 445
+  },
+  "movie:16139": {
+   "backdrop_path": "/uLZ3NgKf2qLjSPyqNIEYYMABboB.jpg",
+   "budget": 2500000,
+   "cast": [
+    {
+     "c": "Mike",
+     "n": "A. Michael Baldwin"
+    },
+    {
+     "c": "Reggie",
+     "n": "Reggie Bannister"
+    },
+    {
+     "c": "Jody",
+     "n": "Bill Thornbury"
+    },
+    {
+     "c": "Rocky",
+     "n": "Gloria Lynne Henry"
+    },
+    {
+     "c": "Tim",
+     "n": "Kevin Connors"
+    },
+    {
+     "c": "Edna",
+     "n": "Cindy Ambuehl"
+    },
+    {
+     "c": "Henry",
+     "n": "John Davis Chandler"
+    },
+    {
+     "c": "Rufus",
+     "n": "Brooks Gardner"
+    },
+    {
+     "c": "The Tall Man",
+     "n": "Angus Scrimm"
+    },
+    {
+     "c": "Demon Nurse",
+     "n": "Irene Roseen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Don Coscarelli"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction",
+    "Action"
+   ],
+   "id": 16139,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Tall Man, that imposing menace from Morningside Mortuary, is back and once again haunting the thoughts of the now-adult Mike and his friend, ex-Ice Cream vendor Reggie. The two continue their hunt for the mysterious figure and in his path of destruction encounter a variety of dangerous situations, friends and enemies.",
+   "popularity": 1.6333,
+   "poster_path": "/uFv3H39YgyL568PTse5jGB6Ll8a.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1994-05-06",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "If You Don't Get It This Time, He'll Have To Drill It Into Your Head!",
+   "title": "Phantasm III: Lord of the Dead",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.794,
+   "vote_count": 301
   },
   "movie:17339": {
    "backdrop_path": "/5HzyoetjiRl3VJ4R6q0jiewGzQZ.jpg",

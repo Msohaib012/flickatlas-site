@@ -1,7 +1,105 @@
 {
  "bucket": "75",
- "count": 44,
+ "count": 48,
  "titles": {
+  "movie:1000075": {
+   "backdrop_path": "/gqlsgPgxXgWTJsta183hkg3szjW.jpg",
+   "budget": 17000000,
+   "cast": [
+    {
+     "c": "Largo Winch",
+     "n": "Tomer Sisley"
+    },
+    {
+     "c": "Ezio Burntwood",
+     "n": "James Franco"
+    },
+    {
+     "c": "Chloé Riva",
+     "n": "Clotilde Hesme"
+    },
+    {
+     "c": "Bonnie",
+     "n": "Elise Tilloloy"
+    },
+    {
+     "c": "Dwight Cochrane",
+     "n": "Denis O'Hare"
+    },
+    {
+     "c": "Noom",
+     "n": "Narayan David Hecter"
+    },
+    {
+     "c": "Rudy Gessner",
+     "n": "Koen De Bouw"
+    },
+    {
+     "c": "Arun",
+     "n": "Supachai Girdsuwan"
+    },
+    {
+     "c": "Kao Shen",
+     "n": "Banyong Phoonsap"
+    },
+    {
+     "c": "Cheering woman",
+     "n": "Liliya Atanasova"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Olivier Masset-Depasse"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+   ],
+   "id": 1000075,
+   "industry": "world",
+   "origin_country": [
+    "BE",
+    "FR",
+    "US"
+   ],
+   "original_language": "fr",
+   "overview": "Largo Winch, devastated by the kidnapping of his son, realizes that if he finds those responsible for his bankruptcy, maybe he'll see his son again.",
+   "popularity": 3.3399,
+   "poster_path": "/myS41ZUmFvslkT8LeD2irAKxyrf.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2024-07-31",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Largo Winch: The Price of Money",
+   "trailer": {
+    "key": "8bgZE7IJRM8",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.795,
+   "vote_count": 300
+  },
   "movie:10075": {
    "backdrop_path": "/wHzR9AzN9ePToQbCsz0ZZPpzWZp.jpg",
    "budget": 15000000,
@@ -205,6 +303,121 @@
    "type": "movie",
    "vote_average": 5.6,
    "vote_count": 349
+  },
+  "movie:10575": {
+   "backdrop_path": "/i2Qu0ZLOvNONkHZRuqxII9QkbTX.jpg",
+   "budget": 11000000,
+   "cast": [
+    {
+     "c": "Philippa",
+     "n": "Cate Blanchett"
+    },
+    {
+     "c": "Filippo",
+     "n": "Giovanni Ribisi"
+    },
+    {
+     "c": "Filippo's Father",
+     "n": "Remo Girone"
+    },
+    {
+     "c": "Regina",
+     "n": "Stefania Rocca"
+    },
+    {
+     "c": "Ariel",
+     "n": "Alessandro Sperduti"
+    },
+    {
+     "c": "Major Pini",
+     "n": "Mattia Sbragia"
+    },
+    {
+     "c": "Mr. Vendice",
+     "n": "Stefano Santospago"
+    },
+    {
+     "c": "The Prosecutor",
+     "n": "Alberto Di Stasio"
+    },
+    {
+     "c": "The Inspector",
+     "n": "Giovanni Vettorazzo"
+    },
+    {
+     "c": "The Lieutenant",
+     "n": "Gianfranco Barra"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tom Tykwer"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Romance",
+    "Crime"
+   ],
+   "id": 10575,
+   "industry": "world",
+   "origin_country": [
+    "DE",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A woman takes the law into her own hands after police ignore her pleas to arrest the man responsible for her husband's death, and finds herself not only under arrest for murder but falling in love with an officer.",
+   "popularity": 2.0929,
+   "poster_path": "/xPdtOuGtcQt655uRrmIdBkSRmVx.jpg",
+   "production_countries": [
+    "FR",
+    "DE",
+    "US",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2002-02-06",
+   "revenue": 4251037,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "When you take justice into your own hands, what are the consequences?",
+   "title": "Heaven",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.466,
+   "vote_count": 305
   },
   "movie:10875": {
    "backdrop_path": "/iUpEDBcoYzND2MhIWr10C93ikFV.jpg",
@@ -2512,6 +2725,96 @@
    "vote_average": 6.423,
    "vote_count": 452
   },
+  "movie:241875": {
+   "backdrop_path": "/krsjIU8fiZRBLp6OakpI0PpiSSx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Julie",
+     "n": "Alexandra Lamy"
+    },
+    {
+     "c": "Louise",
+     "n": "Mélanie Doutey"
+    },
+    {
+     "c": "Rose",
+     "n": "Julie Ferrier"
+    },
+    {
+     "c": "Marc",
+     "n": "Jean-Paul Rouve"
+    },
+    {
+     "c": "Ange",
+     "n": "Grégory Fitoussi"
+    },
+    {
+     "c": "Charles",
+     "n": "Julien Boisselier"
+    },
+    {
+     "c": "Viktor Bells",
+     "n": "Michel Vuillermoz"
+    },
+    {
+     "c": "Gilles",
+     "n": "Arnaud Henriet"
+    },
+    {
+     "c": "L'animatrice",
+     "n": "Olivia Côte"
+    },
+    {
+     "c": "Chadenat",
+     "n": "Pascal Demolon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Mélissa Drigeard"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Family"
+   ],
+   "id": 241875,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Julie, a woman who is unlucky in love despite her bubbly demeanor. Her job at a bookstore takes an interesting twist when she discovers a book titled \"Happiness Can Be Learned,\" and she sets out to fix her love life once and for all.",
+   "popularity": 0.979,
+   "poster_path": "/1GWYmch5Amwr5CJ84h1m9e59D5P.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2014-01-01",
+   "revenue": 7255685,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Never on the First Night",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.1,
+   "vote_count": 302
+  },
   "movie:27275": {
    "backdrop_path": "/g90Hlbaj8OofowG9hDg9ScD5fqG.jpg",
    "budget": 0,
@@ -3020,6 +3323,148 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 411
+  },
+  "movie:407375": {
+   "backdrop_path": "/kgjg3FaCgv37ivD9g7v9d02Ap7J.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Brandon Beckett",
+     "n": "Chad Michael Collins"
+    },
+    {
+     "c": "Richard Miller",
+     "n": "Billy Zane"
+    },
+    {
+     "c": "Cervantes",
+     "n": "Nick Gomez"
+    },
+    {
+     "c": "Andrei Mashkov",
+     "n": "Ravil Isyanov"
+    },
+    {
+     "c": "Robin",
+     "n": "Stephanie Vogt"
+    },
+    {
+     "c": "Mothershed",
+     "n": "Navid Negahban"
+    },
+    {
+     "c": "Aungst",
+     "n": "Presciliana Esparolini"
+    },
+    {
+     "c": "Barnes",
+     "n": "Ene Frost"
+    },
+    {
+     "c": "Bidwell",
+     "n": "Dominic Mafham"
+    },
+    {
+     "c": "Killian Grun",
+     "n": "Nigel Barber"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Don Michael Paul"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "War"
+   ],
+   "id": 407375,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Elite snipers Brandon Beckett and Richard Miller are fighting extremists in the Middle East when the Colonel gives them a new mission: to protect a gas pipeline stretching from the Republic of Georgia to Western Europe from extremists eager to make a political statement. But when skirmishes with the enemy lead to U.S. snipers being killed by a ghost shooter who locks into their exact location, a security breach is suspected. Fingers are pointed and battle lines are drawn, all leading up to an explosive climax.",
+   "popularity": 3.4129,
+   "poster_path": "/92YFviTZnjA6rj2jADoA2gmsjsz.jpg",
+   "production_countries": [
+    "US",
+    "BG"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2016-08-02",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Sniper: Ghost Shooter",
+   "trailer": {
+    "key": "Y1IdgK-YtGQ",
+    "name": "Sniper: Ghost Shooter - OFFICIAL TRAILER",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 304
   },
   "movie:434775": {
    "backdrop_path": "/kHejbCUiGHVVqIj2RmweEnVb6LJ.jpg",

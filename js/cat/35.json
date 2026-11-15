@@ -1,6 +1,6 @@
 {
  "bucket": "35",
- "count": 53,
+ "count": 54,
  "titles": {
   "movie:1001835": {
    "backdrop_path": "/3xvdNyZ9WsVJpyeGhm85fukeZz4.jpg",
@@ -4615,6 +4615,179 @@
    "type": "movie",
    "vote_average": 5.966,
    "vote_count": 494
+  },
+  "movie:804435": {
+   "backdrop_path": "/mYM8x2Atv4MaLulaV0KVJWI1Djv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Victoria",
+     "n": "Ruby Rose"
+    },
+    {
+     "c": "Damon",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Agent Monroe",
+     "n": "Patrick Muldoon"
+    },
+    {
+     "c": "Governor Ann Driscoll",
+     "n": "Julie Lott Gallo"
+    },
+    {
+     "c": "Galyna",
+     "n": "Ekaterina Baker"
+    },
+    {
+     "c": "Detective Stevens",
+     "n": "Nick Vallelonga"
+    },
+    {
+     "c": "Rayo",
+     "n": "Joel Michaely"
+    },
+    {
+     "c": "Erik",
+     "n": "Miles Doleac"
+    },
+    {
+     "c": "Detective Kehoe",
+     "n": "Chris Mullinax"
+    },
+    {
+     "c": "Max",
+     "n": "Ele Bardha"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "George Gallo"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+   ],
+   "id": 804435,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Victoria is a young mother trying to put her dark past as a Russian drug courier behind her, but retired cop Damon forces Victoria to do his bidding by holding her daughter hostage. Now, Victoria must use guns, guts and a motorcycle to take out a series of violent gangsters—or she may never see her child again.",
+   "popularity": 2.4039,
+   "poster_path": "/AoWY1gkcNzabh229Icboa1Ff0BM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2021-04-16",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "tr",
+    "en",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "She's got one night to save her life.",
+   "title": "Vanquish",
+   "trailer": {
+    "key": "fUElfp3DJ5Y",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.177,
+   "vote_count": 303
   },
   "movie:85435": {
    "backdrop_path": "/udq3vR6jqIT8U6lw4zmEMnfFSyK.jpg",

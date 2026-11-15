@@ -1,6 +1,6 @@
 {
  "bucket": "25",
- "count": 48,
+ "count": 52,
  "titles": {
   "movie:10425": {
    "backdrop_path": "/o1QOSrwY9cjkEi1f9RL3tYxUFta.jpg",
@@ -1363,6 +1363,108 @@
    "vote_average": 4.9,
    "vote_count": 483
   },
+  "movie:14325": {
+   "backdrop_path": "/aIGwGMQFPniaRZ3YxKHX7BHhgz6.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Ernie Davis",
+     "n": "Rob Brown"
+    },
+    {
+     "c": "Ben Schwartzwalder",
+     "n": "Dennis Quaid"
+    },
+    {
+     "c": "Jim Brown",
+     "n": "Darrin Henson"
+    },
+    {
+     "c": "Jack Buckley",
+     "n": "Omar Benson Miller"
+    },
+    {
+     "c": "Will Davis, Jr.",
+     "n": "Nelsan Ellis"
+    },
+    {
+     "c": "Willie 'Pops' Davis",
+     "n": "Charles S. Dutton"
+    },
+    {
+     "c": "Young Ernie",
+     "n": "Justin Martin"
+    },
+    {
+     "c": "Young Will",
+     "n": "Justin Jones"
+    },
+    {
+     "c": "Sarah Ward",
+     "n": "Nicole Beharie"
+    },
+    {
+     "c": "Marie Davis",
+     "n": "Aunjanue Ellis-Taylor"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Gary Fleder"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 14325,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow the inspirational life of college football hero Ernie Davis, the first African-American to win the Heisman Trophy.",
+   "popularity": 1.2755,
+   "poster_path": "/l4bOPaxwx1WebQXTeqXzXwf9n3M.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2008-10-10",
+   "revenue": 9793496,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He changed our country... one yard at a time.",
+   "title": "The Express",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.146,
+   "vote_count": 304
+  },
   "movie:1510325": {
    "backdrop_path": "/ccQ9abrYHA0aDmaZGqZ1zDaaUem.jpg",
    "budget": 0,
@@ -2185,6 +2287,115 @@
    "vote_average": 6.288,
    "vote_count": 396
   },
+  "movie:2525": {
+   "backdrop_path": "/6xBqZoj40gIAyLSuemwI38c6OID.jpg",
+   "budget": 16500000,
+   "cast": [
+    {
+     "c": "Adam",
+     "n": "Michael Parks"
+    },
+    {
+     "c": "Eve",
+     "n": "Ulla Bergryd"
+    },
+    {
+     "c": "Cain",
+     "n": "Richard Harris"
+    },
+    {
+     "c": "Noah",
+     "n": "John Huston"
+    },
+    {
+     "c": "Nimrod",
+     "n": "Stephen Boyd"
+    },
+    {
+     "c": "Abraham",
+     "n": "George C. Scott"
+    },
+    {
+     "c": "Sarah",
+     "n": "Ava Gardner"
+    },
+    {
+     "c": "The Three Angels",
+     "n": "Peter O'Toole"
+    },
+    {
+     "c": "Hagar",
+     "n": "Zoe Sallis"
+    },
+    {
+     "c": "Lot",
+     "n": "Gabriele Ferzetti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "John Huston"
+   ],
+   "genres": [
+    "Adventure",
+    "History",
+    "Drama"
+   ],
+   "id": 2525,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "IT"
+   ],
+   "original_language": "en",
+   "overview": "Covering only the first 22 chapters of the Book of Genesis, vignettes include: Adam and Eve frolicking in the Garden of Eden until their indulgence in the forbidden fruit sees them driven out; Cain murdering his brother Abel; Noah building an ark to preserve the animals of the world from the coming flood; and Abraham making a covenant with God.",
+   "popularity": 4.0717,
+   "poster_path": "/2BtesvzFQJYFS2sPVVbUdet0TTC.jpg",
+   "production_countries": [
+    "IT",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Wonder Project Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1966-09-28",
+   "revenue": 34900000,
+   "runtime": 175,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The unforgettable adventure of man from the creation!",
+   "title": "The Bible: In the Beginning...",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 305
+  },
   "movie:27725": {
    "backdrop_path": "/6AcvQvapwSI0fw2j9fVUxMOkwNB.jpg",
    "budget": 455000,
@@ -2812,6 +3023,181 @@
    "type": "movie",
    "vote_average": 4.492,
    "vote_count": 424
+  },
+  "movie:345925": {
+   "backdrop_path": "/8DSy5xZzDOukQpWCUs91bN1HCwY.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Renee",
+     "n": "Noomi Rapace"
+    },
+    {
+     "c": "Terrence",
+     "n": "Peter Stormare"
+    },
+    {
+     "c": "Diane",
+     "n": "Kerry Bishé"
+    },
+    {
+     "c": "Dr. Nyman",
+     "n": "Lesley Manville"
+    },
+    {
+     "c": "Dr. Raxlen",
+     "n": "Ari Millen"
+    },
+    {
+     "c": "Bald Man",
+     "n": "Michael Chiklis"
+    },
+    {
+     "c": "Van Driver",
+     "n": "Sergio Di Zio"
+    },
+    {
+     "c": "Tommy",
+     "n": "Morgan Kelly"
+    },
+    {
+     "c": "Stacey",
+     "n": "Mayko Nguyen"
+    },
+    {
+     "c": "Evan",
+     "n": "Percy Hynes White"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18A",
+   "date_kind": "release",
+   "director": [
+    "Steven Shainberg"
+   ],
+   "genres": [
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 345925,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A single mom tries to break free from a mysterious organization that has abducted her.",
+   "popularity": 1.6663,
+   "poster_path": "/41MCf9bzSpqhr7EAu95su0XdjVQ.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2016-11-04",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Face your fears.",
+   "title": "Rupture",
+   "trailer": {
+    "key": "F2SSdtQUX5U",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.915,
+   "vote_count": 301
   },
   "movie:35025": {
    "backdrop_path": "/5yhXOc685Pybx7M5CiEetJhEgbY.jpg",
@@ -3733,6 +4119,131 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 423
+  },
+  "movie:58925": {
+   "backdrop_path": "/d6ELJEiJDoOZhoGe48o4L7qTQKa.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mr. Robert Klein",
+     "n": "Alain Delon"
+    },
+    {
+     "c": "Florence",
+     "n": "Jeanne Moreau"
+    },
+    {
+     "c": "Nicole",
+     "n": "Francine Bergé"
+    },
+    {
+     "c": "Jeanine, Robert's mistress",
+     "n": "Juliet Berto"
+    },
+    {
+     "c": "Seller of the painting",
+     "n": "Jean Bouise"
+    },
+    {
+     "c": "Concierge of rue des Abbesses",
+     "n": "Suzanne Flon"
+    },
+    {
+     "c": "Charles, Florence's husband",
+     "n": "Massimo Girotti"
+    },
+    {
+     "c": "Pierre",
+     "n": "Michael Lonsdale"
+    },
+    {
+     "c": "Jew Affairs Section Official",
+     "n": "Michel Aumont"
+    },
+    {
+     "c": "Newspaper Director",
+     "n": "Roland Bertin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Joseph Losey"
+   ],
+   "genres": [
+    "Mystery",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 58925,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "IT"
+   ],
+   "original_language": "fr",
+   "overview": "Paris, France, 1942, during the Nazi occupation. Robert Klein, a successful art dealer who benefits from the misfortunes of those who are ruthlessly persecuted, discovers by chance that there is another Robert Klein, apparently a Jewish man; someone with whom he could be mistakenly identified, something dangerous in such harsh times.",
+   "popularity": 1.6042,
+   "poster_path": "/6FRa43WgyhIXzMYLO3yxDb0OY6O.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1976-09-23",
+   "revenue": 0,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "In the nightmare labyrinth of the Occupation",
+   "title": "Mr. Klein",
+   "trailer": {
+    "key": "EMq7B85H5D0",
+    "name": "MR. KLEIN Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.205,
+   "vote_count": 302
   },
   "movie:66125": {
    "backdrop_path": "/jNGxNW6POZvxecTcfWhSmP1uU2m.jpg",

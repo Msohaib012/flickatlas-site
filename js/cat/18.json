@@ -1,6 +1,6 @@
 {
  "bucket": "18",
- "count": 62,
+ "count": 64,
  "titles": {
   "movie:1010818": {
    "backdrop_path": "/9bColKVEAaWfmOLiLZoUhdYfevy.jpg",
@@ -5575,6 +5575,208 @@
    "vote_average": 6.023,
    "vote_count": 310
   },
+  "movie:68818": {
+   "backdrop_path": "/xmdmLndfx6eibdyp7kDWyFCrhmo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "James Blackthorn",
+     "n": "Sam Shepard"
+    },
+    {
+     "c": "Eduardo Apodaca",
+     "n": "Eduardo Noriega"
+    },
+    {
+     "c": "Mackinley",
+     "n": "Stephen Rea"
+    },
+    {
+     "c": "Yana",
+     "n": "Magaly Solier"
+    },
+    {
+     "c": "Butch Cassidy",
+     "n": "Nikolaj Coster-Waldau"
+    },
+    {
+     "c": "Sundance Kid",
+     "n": "Pádraic Delaney"
+    },
+    {
+     "c": "Etta",
+     "n": "Dominique McElligott"
+    },
+    {
+     "c": "Doctor",
+     "n": "Luis Bredow"
+    },
+    {
+     "c": "General of the Bolivian Army",
+     "n": "Cristian Mercado"
+    },
+    {
+     "c": "Ivan",
+     "n": "Daniel Aguirre"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mateo Gil"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Western"
+   ],
+   "id": 68818,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "BO",
+    "GB",
+    "ES"
+   ],
+   "original_language": "en",
+   "overview": "In Bolivia, Butch Cassidy (now calling himself James Blackthorn) pines for one last sight of home, an adventure that aligns him with a young robber and makes the duo a target for gangs and lawmen alike.",
+   "popularity": 1.3842,
+   "poster_path": "/3QtOCerjSPkS9fo8IBwDr7qAwoj.jpg",
+   "production_countries": [
+    "BO",
+    "FR",
+    "ES",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Dox Amazon Channel"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Warriors and Gangsters Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/t9kQOukUOI9EcnXN5vtV76HbTfO.png",
+     "name": "Dox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tYRiW2QvjPtCbBhRVYFUyyfApVl.png",
+     "name": "Warriors and Gangsters Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2011-07-01",
+   "revenue": 987883,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "No destiny",
+   "title": "Blackthorn",
+   "trailer": {
+    "key": "eWltDO4nKyQ",
+    "name": "Blackthorn - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 302
+  },
   "movie:736918": {
    "backdrop_path": "/kP5k4gA6yJiQCeN5FNcGwRtGDuq.jpg",
    "budget": 0,
@@ -5684,6 +5886,113 @@
    "type": "movie",
    "vote_average": 6.286,
    "vote_count": 415
+  },
+  "movie:80518": {
+   "backdrop_path": "/jW5YmMRjSCQRPZJ9r5Hf62bX604.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Edward Elric (voice)",
+     "n": "Romi Park"
+    },
+    {
+     "c": "Alphonse Elric (voice)",
+     "n": "Rie Kugimiya"
+    },
+    {
+     "c": "Julia Crichton (voice)",
+     "n": "Maaya Sakamoto"
+    },
+    {
+     "c": "Melvin Voyager (voice) / Atlas (voice)",
+     "n": "Toshiyuki Morikawa"
+    },
+    {
+     "c": "Miranda (voice)",
+     "n": "Sakiko Tamagawa"
+    },
+    {
+     "c": "Roy Mustang (voice)",
+     "n": "Shin-ichiro Miki"
+    },
+    {
+     "c": "Herschel (voice) / Ashley Crichton (voice)",
+     "n": "Hidenobu Kiuchi"
+    },
+    {
+     "c": "Riza Hawkeye (voice)",
+     "n": "Fumiko Orikasa"
+    },
+    {
+     "c": "Winry Rockbell (voice)",
+     "n": "Megumi Takamoto"
+    },
+    {
+     "c": "Peter Soyuz (voice)",
+     "n": "Hideyuki Umezu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Kazuya Murata"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Animation",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 80518,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A fugitive alchemist with mysterious abilities leads the Elric brothers to a distant valley of slums inhabited by the Milos, a proud people struggling against bureaucratic exploitation. Ed and Al quickly find themselves in the middle of a rising rebellion, as the exiled Milos lash out against their oppressors. At the heart of the conflict is Julia, a young alchemist befriended by Alphonse. She'll stop at nothing to restore the Milos to their former glory – even if that means harnessing the awful power of the mythical Philosopher's Stone.",
+   "popularity": 2.9433,
+   "poster_path": "/7RvBQOTZGhCoPvLiF3Ugp2Q94Ux.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Anime Times Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+     "name": "Anime Times Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2011-07-02",
+   "revenue": 7621364,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Finally tell the story of forbidden bonds",
+   "title": "Fullmetal Alchemist: The Sacred Star of Milos",
+   "trailer": {
+    "key": "37Iofk7wNjE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 302
   },
   "movie:813418": {
    "backdrop_path": "/mATo9RWAc7IWGVbetpmmKJqWDiJ.jpg",

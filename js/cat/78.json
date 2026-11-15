@@ -1,6 +1,6 @@
 {
  "bucket": "78",
- "count": 45,
+ "count": 47,
  "titles": {
   "movie:10178": {
    "backdrop_path": "/xSN7sVwIC6ExQZVMIUMjm4Tl2TN.jpg",
@@ -1959,6 +1959,303 @@
    "type": "movie",
    "vote_average": 7.653,
    "vote_count": 310
+  },
+  "movie:22478": {
+   "backdrop_path": "/2cH8vxci9QjUP9oT2OLW2OHn6U6.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Marion",
+     "n": "Gena Rowlands"
+    },
+    {
+     "c": "Hope",
+     "n": "Mia Farrow"
+    },
+    {
+     "c": "Ken",
+     "n": "Ian Holm"
+    },
+    {
+     "c": "Lydia",
+     "n": "Blythe Danner"
+    },
+    {
+     "c": "Larry",
+     "n": "Gene Hackman"
+    },
+    {
+     "c": "Kathy",
+     "n": "Betty Buckley"
+    },
+    {
+     "c": "Laura",
+     "n": "Martha Plimpton"
+    },
+    {
+     "c": "Marion's Father",
+     "n": "John Houseman"
+    },
+    {
+     "c": "Claire",
+     "n": "Sandy Dennis"
+    },
+    {
+     "c": "Young Marion's Father",
+     "n": "David Ogden Stiers"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Woody Allen"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 22478,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Marion is a woman who has learned to shield herself from her emotions. She rents an apartment to work undisturbed on her new book, but by some acoustic anomaly she can hear all that is said in the next apartment in which a psychiatrist holds his office. When she hears a young woman tell that she finds it harder and harder to bear her life, Marion starts to reflect on her own life. After a series of events she comes to understand how her unemotional attitude towards the people around her affected them and herself.",
+   "popularity": 1.8,
+   "poster_path": "/ds4CcnlACh0r1r3VGa7y85dz72R.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+     "name": "MGM Plus Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1988-10-13",
+   "revenue": 1562749,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Relationships and the choices we make in life",
+   "title": "Another Woman",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 301
+  },
+  "movie:24478": {
+   "backdrop_path": "/fRO9qAhDq7WtP9cluMOexzghaAE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Richard Newton",
+     "n": "Judge Reinhold"
+    },
+    {
+     "c": "Beth Newton",
+     "n": "Julia Sweeney"
+    },
+    {
+     "c": "Brennan Newton",
+     "n": "Joe Pichler"
+    },
+    {
+     "c": "Sara Newton",
+     "n": "Michaela Gallo"
+    },
+    {
+     "c": "Madison Sedgewick",
+     "n": "Kaleigh Krish"
+    },
+    {
+     "c": "Reginald Sedgewick",
+     "n": "Matt McCoy"
+    },
+    {
+     "c": "Martha Sedgewick",
+     "n": "Veanne Cox"
+    },
+    {
+     "c": "Hayley",
+     "n": "Natalie Elizabeth Marston"
+    },
+    {
+     "c": "Sgt. Rutledge",
+     "n": "Art LaFleur"
+    },
+    {
+     "c": "Bill",
+     "n": "Jeff Coopwood"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "David Mickey Evans"
+   ],
+   "genres": [
+    "Family",
+    "Comedy"
+   ],
+   "id": 24478,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The family is pleasantly surprised and puzzled when Beethoven suddenly becomes obedient. Turns out it's a prince and the pauper scenario, with the real Beethoven now living with a pompous rich family.",
+   "popularity": 1.6936,
+   "poster_path": "/dvw8mJlEjxvBggoiAbiPkXfvbFO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2001-12-04",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The family is pleasantly surprised and puzzled when Beethoven suddenly becomes obedient.",
+   "title": "Beethoven's 4th",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.257,
+   "vote_count": 305
   },
   "movie:25678": {
    "backdrop_path": "/vu7Pbne8Fwpkj1su4DuHW7WQH9k.jpg",

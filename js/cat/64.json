@@ -1,6 +1,6 @@
 {
  "bucket": "64",
- "count": 56,
+ "count": 59,
  "titles": {
   "movie:10064": {
    "backdrop_path": "/secc9CFi6OERSCB6RZ9yusDYlEm.jpg",
@@ -1046,6 +1046,185 @@
    "type": "movie",
    "vote_average": 5.447,
    "vote_count": 339
+  },
+  "movie:13764": {
+   "backdrop_path": "/aMy9dAcWcSVhXaHYUBYN8JONQZB.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Patch",
+     "n": "Dudley Moore"
+    },
+    {
+     "c": "B.Z.",
+     "n": "John Lithgow"
+    },
+    {
+     "c": "Santa Claus",
+     "n": "David Huddleston"
+    },
+    {
+     "c": "Ancient Elf",
+     "n": "Burgess Meredith"
+    },
+    {
+     "c": "Anya Claus",
+     "n": "Judy Cornwell"
+    },
+    {
+     "c": "Towzer",
+     "n": "Jeffrey Kramer"
+    },
+    {
+     "c": "Joe",
+     "n": "Christian Fitzpatrick"
+    },
+    {
+     "c": "Cornelia",
+     "n": "Carrie Kei Heim"
+    },
+    {
+     "c": "Dooley",
+     "n": "John Barrard"
+    },
+    {
+     "c": "Puffy",
+     "n": "Anthony O'Donnell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jeannot Szwarc"
+   ],
+   "genres": [
+    "Family",
+    "Fantasy",
+    "Adventure"
+   ],
+   "id": 13764,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In ancient times, a man named Claus, who delivers toys in his small village, fulfils his destiny to become Santa Claus after meeting an expert toy-making elf, Patch, in the North Pole. In the present day, Santa Claus has become overwhelmed by his workload, and the disgruntled Patch flees the workshop to New York City. There, Patch unknowingly threatens the fate of Christmas by taking a job at a failing toy company run by a scheming businessman.",
+   "popularity": 3.2331,
+   "poster_path": "/tZvGQF2623FD0MZgvOy18J5d7x5.jpg",
+   "production_countries": [
+    "US",
+    "GB",
+    "NL"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Kartoon Channel Amazon Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/l9ceMtT6Lb4zCDDzavGkVeFmPNV.png",
+     "name": "Kartoon Channel Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1985-10-29",
+   "revenue": 23717291,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You'd better watch out! This year he REALLY IS coming to town.",
+   "title": "Santa Claus: The Movie",
+   "trailer": {
+    "key": "M_P4Bz_go5o",
+    "name": "4K Restoration Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 300
   },
   "movie:1397364": {
    "backdrop_path": "/baIjN7xPyw2In1CuHACTgzcsF20.jpg",
@@ -2827,6 +3006,145 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 380
+  },
+  "movie:26564": {
+   "backdrop_path": "/1mlfORlfu2PtZnlEB3gMKqJy7Qp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Robert Crumb"
+    },
+    {
+     "c": "Self",
+     "n": "Aline Kominsky"
+    },
+    {
+     "c": "Self",
+     "n": "Charles Crumb"
+    },
+    {
+     "c": "Self",
+     "n": "Maxon Crumb"
+    },
+    {
+     "c": "Self",
+     "n": "Robert Hughes"
+    },
+    {
+     "c": "Self",
+     "n": "Martin Müller"
+    },
+    {
+     "c": "Self",
+     "n": "Spain Rodriguez"
+    },
+    {
+     "c": "Self",
+     "n": "Don Donahue"
+    },
+    {
+     "c": "Self",
+     "n": "Dana Morgan"
+    },
+    {
+     "c": "Self",
+     "n": "Trina Robbins"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Terry Zwigoff"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 26564,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This movie chronicles the life and times of R. Crumb. Robert Crumb is the cartoonist/artist who drew Keep On Truckin', Fritz the Cat, and played a major pioneering role in the genesis of underground comix. Through interviews with his mother, two brothers, wife, ex-wife and ex-girlfriends, as well as selections from his vast quantity of graphic art, we are treated to a darkly comic ride through one man's subconscious mind.",
+   "popularity": 1.0386,
+   "poster_path": "/9ocTHdBCJdwJ65Tubg3lYlfMxEY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1995-04-28",
+   "revenue": 3041083,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Weird sex · Obsession · Comic books",
+   "title": "Crumb",
+   "trailer": {
+    "key": "67uWAtFmjYI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 300
   },
   "movie:27064": {
    "backdrop_path": "/PnwQJeWhmx9wh9wWM0a0YhLmE.jpg",
@@ -4824,6 +5142,126 @@
    "type": "movie",
    "vote_average": 5.352,
    "vote_count": 401
+  },
+  "movie:52264": {
+   "backdrop_path": "/7elTncNsrmfSb2JCC2y9zPUI750.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jeanne (voice)",
+     "n": "Dominique Blanc"
+    },
+    {
+     "c": "Nico (voice)",
+     "n": "Bruno Salomone"
+    },
+    {
+     "c": "Victor Costa (voice)",
+     "n": "Jean Benguigui"
+    },
+    {
+     "c": "Claudine (voice)",
+     "n": "Bernadette Lafont"
+    },
+    {
+     "c": "Zoé (voice)",
+     "n": "Oriane Zani"
+    },
+    {
+     "c": "Monsieur Grenouille (voice)",
+     "n": "Patrick Ridremont"
+    },
+    {
+     "c": "Monsieur Bébé (voice)",
+     "n": "Jacques Ramade"
+    },
+    {
+     "c": "Monsieur Hulot (voice)",
+     "n": "Jean-Pierre Yvars"
+    },
+    {
+     "c": "Lucas (voice)",
+     "n": "Bernard Bouillon"
+    },
+    {
+     "c": "Mr. Hulot (voice)",
+     "n": "Philippe Hartmann"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jean-Loup Felicioli",
+    "Alain Gagnol"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "id": 52264,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A thrilling mystery that unfurls in the alleys and on the rooftops of the French capital, Paris, over the course of one adventurous evening.",
+   "popularity": 2.0743,
+   "poster_path": "/oTAC9Htd7rAZuxrmkgTMIihtqMR.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2010-12-15",
+   "revenue": 2082071,
+   "runtime": 70,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "By day, a pet... By night, a thief!",
+   "title": "A Cat in Paris",
+   "trailer": {
+    "key": "H7e07c52VWg",
+    "name": "A CAT IN PARIS - Official HD Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.763,
+   "vote_count": 300
   },
   "movie:572164": {
    "backdrop_path": "/wx9dK8ke3hcC4qBZsovI1SICZl9.jpg",

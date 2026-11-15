@@ -1,6 +1,6 @@
 {
  "bucket": "77",
- "count": 48,
+ "count": 51,
  "titles": {
   "movie:10077": {
    "backdrop_path": "/cdR9ESJzcocgVphpwO5AYZRwrWg.jpg",
@@ -1779,6 +1779,183 @@
    "vote_average": 6.8,
    "vote_count": 356
   },
+  "movie:18477": {
+   "backdrop_path": "/a9F2cldYpiwyOvR528D66wZ4git.jpg",
+   "budget": 700000,
+   "cast": [
+    {
+     "c": "Pluto",
+     "n": "Michael Berryman"
+    },
+    {
+     "c": "Roy",
+     "n": "Kevin Spirtas"
+    },
+    {
+     "c": "The Reaper",
+     "n": "John Bloom"
+    },
+    {
+     "c": "Rachel / Ruby",
+     "n": "Janus Blythe"
+    },
+    {
+     "c": "Cass",
+     "n": "Tamara Stafford"
+    },
+    {
+     "c": "Jane",
+     "n": "Colleen Riley"
+    },
+    {
+     "c": "Foster",
+     "n": "Willard E. Pugh"
+    },
+    {
+     "c": "Sue",
+     "n": "Penny Johnson Jerald"
+    },
+    {
+     "c": "Bobby",
+     "n": "Robert Houston"
+    },
+    {
+     "c": "Harry",
+     "n": "Peter Frechette"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Wes Craven"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 18477,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A motocross team on their way to trial a new super-fuel head out across the desert lead by Rachel, who, unbeknownst to the rest of the group, is a survivor of the cannibal clan which menaced the Carter family several years before.",
+   "popularity": 1.9542,
+   "poster_path": "/cGLzgE2BTcHHyCXxS1lMxyY0iuc.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Cineverse"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rqCIpmrCBpnL6oliak6E1mrq5DD.png",
+     "name": "Cineverse",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1985-08-02",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "So you think you're lucky to be alive...",
+   "title": "The Hills Have Eyes Part 2",
+   "trailer": {
+    "key": "FcZHVs8lHTo",
+    "name": "Original Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.328,
+   "vote_count": 303
+  },
   "movie:20077": {
    "backdrop_path": "/326o6Tw8QHP6TtIXqU56dDYgnzL.jpg",
    "budget": 0,
@@ -2327,6 +2504,203 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 489
+  },
+  "movie:341077": {
+   "backdrop_path": "/6hCYCEJFAbKMb2plBDsu4jeVhcX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kelly",
+     "n": "Kaya Scodelario"
+    },
+    {
+     "c": "Callum",
+     "n": "Ed Skrein"
+    },
+    {
+     "c": "Shane",
+     "n": "Dougray Scott"
+    },
+    {
+     "c": "Reg",
+     "n": "Brandon Auret"
+    },
+    {
+     "c": "Sveta",
+     "n": "Langley Kirkwood"
+    },
+    {
+     "c": "Lynn",
+     "n": "Julie Summers"
+    },
+    {
+     "c": "Mark",
+     "n": "Daniel Boyd"
+    },
+    {
+     "c": "Doug",
+     "n": "Andrew Brent"
+    },
+    {
+     "c": "Ferdinand",
+     "n": "Nicholas Dallas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tom Daley"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 341077,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A young gymnast battles a group of bank robbers at the home of her boyfriend.",
+   "popularity": 1.3011,
+   "poster_path": "/heqehuEfbg2283Z9hFmsVuv3UE3.jpg",
+   "production_countries": [
+    "ZA",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Monsters and Nightmares Amazon Channel"
+    },
+    {
+     "name": "Warriors and Gangsters Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pcSzaYgwXvQaoPYqtrPXu6nrEdW.png",
+     "name": "Monsters and Nightmares Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tYRiW2QvjPtCbBhRVYFUyyfApVl.png",
+     "name": "Warriors and Gangsters Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2015-08-24",
+   "revenue": 0,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "12 Hours, 4 Killers, 1 Way Out.",
+   "title": "Tiger House",
+   "trailer": {
+    "key": "LsEDbkZQEEQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 300
   },
   "movie:37777": {
    "backdrop_path": "/x1m4kDPv4qmmEFvUVdxh9WN672H.jpg",
@@ -4555,6 +4929,121 @@
    "type": "movie",
    "vote_average": 7.383,
    "vote_count": 467
+  },
+  "movie:788977": {
+   "backdrop_path": "/5pUJhaYpDdmOiyMvCh3G1R6G1wi.jpg",
+   "budget": 7047000,
+   "cast": [
+    {
+     "c": "Adam",
+     "n": "Tawfeek Barhom"
+    },
+    {
+     "c": "Ibrahim",
+     "n": "Fares Fares"
+    },
+    {
+     "c": "General Al Sakran",
+     "n": "Mohammad Bakri"
+    },
+    {
+     "c": "Sheikh Negm",
+     "n": "Makram J. Khoury"
+    },
+    {
+     "c": "Zizo",
+     "n": "Mehdi Dehbi"
+    },
+    {
+     "c": "Sobhy",
+     "n": "Younes Medhat"
+    },
+    {
+     "c": "Teacher Of Sharia",
+     "n": "Yunus Albayrak"
+    },
+    {
+     "c": "Soliman",
+     "n": "Sherwan Haji"
+    },
+    {
+     "c": "Harun",
+     "n": "Amr Mosad"
+    },
+    {
+     "c": "",
+     "n": "Hassan El Sayed"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "+13",
+   "date_kind": "release",
+   "director": [
+    "Tarik Saleh"
+   ],
+   "genres": [
+    "Thriller"
+   ],
+   "id": 788977,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A fisherman's son is offered the ultimate privilege to study at the Al-Azhar University in Cairo, the epicenter of power of Sunni Islam. Shortly after his arrival, the university’s highest ranking religious leader, the Grand Imam, dies and the young student becomes a pawn in a ruthless power struggle between Egypt's religious and political elite.",
+   "popularity": 2.0897,
+   "poster_path": "/zDRAA4UJWgQnSFxhJuefnwO74v5.jpg",
+   "production_countries": [
+    "DK",
+    "FI",
+    "FR",
+    "SE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-10-26",
+   "revenue": 3646605,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Cairo Conspiracy",
+   "trailer": {
+    "key": "EG8C70oQYd0",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.778,
+   "vote_count": 304
   },
   "movie:813477": {
    "backdrop_path": "/ccFavvHGfhA5yI32K0bzDjlyKSN.jpg",

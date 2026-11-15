@@ -1,6 +1,6 @@
 {
  "bucket": "25",
- "count": 48,
+ "count": 52,
  "titles": {
   "movie:10425": {
    "d": "The Death and Life of Bobby Z (2007): Drama/Action film. Story: A DEA agent provides former Marine Tim Kearney with a… See cast and budget $22M.",
@@ -580,6 +580,69 @@
    "t": "Captivity (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
   },
+  "movie:14325": {
+   "d": "The Express (2008): Drama film. Story: Follow the inspirational life of college football… See cast, budget $40M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/aIGwGMQFPniaRZ3YxKHX7BHhgz6.jpg",
+   "industry": "world",
+   "k": "The Express, The Express movie, The Express cast, The Express story, The Express box office collection, The Express budget, The Express review, The Express rating, The Express release date, The Express Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rob Brown"
+     },
+     {
+      "@type": "Person",
+      "name": "Dennis Quaid"
+     },
+     {
+      "@type": "Person",
+      "name": "Darrin Henson"
+     },
+     {
+      "@type": "Person",
+      "name": "Omar Benson Miller"
+     },
+     {
+      "@type": "Person",
+      "name": "Nelsan Ellis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 304,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Express (2008): Drama film. Story: Follow the inspirational life of college football… See cast, budget $40M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gary Fleder"
+     }
+    ],
+    "duration": "PT130M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aIGwGMQFPniaRZ3YxKHX7BHhgz6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14325",
+    "name": "The Express",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-10-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14325"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Express (2008)</h1>\n<p class=\"ssr-lead\">Follow the inspirational life of college football hero Ernie Davis, the first African-American to win the Heisman Trophy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 October 2008</li><li>Runtime: 130 minutes</li><li>Director: Gary Fleder</li><li>Genres: Drama</li><li>Budget: $40M</li><li>TMDB rating: 7.1/10 (304 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rob Brown as Ernie Davis</li><li>Dennis Quaid as Ben Schwartzwalder</li><li>Darrin Henson as Jim Brown</li><li>Omar Benson Miller as Jack Buckley</li><li>Nelsan Ellis as Will Davis, Jr.</li><li>Charles S. Dutton as Willie &#x27;Pops&#x27; Davis</li><li>Justin Martin as Young Ernie</li><li>Justin Jones as Young Will</li><li>Nicole Beharie as Sarah Ward</li><li>Aunjanue Ellis-Taylor as Marie Davis</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "The Express (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
+  },
   "movie:1510325": {
    "d": "Sweetheart (2025): Drama film. Story: A reluctant summer together transforms into an… See cast, TMDB rating 6.6/10, and release date 11 December 2025.",
    "img": "https://image.tmdb.org/t/p/w780/ccQ9abrYHA0aDmaZGqZ1zDaaUem.jpg",
@@ -1012,6 +1075,70 @@
    "t": "The Duke of Burgundy (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:2525": {
+   "d": "The Bible: In the Beginning... (1966): Adventure/History film. Story: Covering only the first 22 chapters of the Book of… See cast and budget $16.5M.",
+   "img": "https://image.tmdb.org/t/p/w780/6xBqZoj40gIAyLSuemwI38c6OID.jpg",
+   "industry": "world",
+   "k": "The Bible: In the Beginning..., The Bible: In the Beginning... movie, The Bible: In the Beginning... cast, The Bible: In the Beginning... story, The Bible: In the Beginning... box office collection, The Bible: In the Beginning... budget, The Bible: In the Beginning... review, The Bible: In the Beginning... rating, The Bible: In the Beginning... release date, The Bible: In the Beginning... Adventure, The Bible: In the Beginning... History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Parks"
+     },
+     {
+      "@type": "Person",
+      "name": "Ulla Bergryd"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Harris"
+     },
+     {
+      "@type": "Person",
+      "name": "John Huston"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephen Boyd"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 305,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "The Bible: In the Beginning... (1966): Adventure/History film. Story: Covering only the first 22 chapters of the Book of… See cast and budget $16.5M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Huston"
+     }
+    ],
+    "duration": "PT175M",
+    "genre": [
+     "Adventure",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6xBqZoj40gIAyLSuemwI38c6OID.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2525",
+    "name": "The Bible: In the Beginning...",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1966-09-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2525"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Bible: In the Beginning... (1966)</h1>\n<p class=\"ssr-lead\">Covering only the first 22 chapters of the Book of Genesis, vignettes include: Adam and Eve frolicking in the Garden of Eden until their indulgence in the forbidden fruit sees them driven out; Cain murdering his brother Abel; Noah building an ark to preserve the animals of the world from the coming flood; and Abraham making a covenant with God.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 September 1966</li><li>Runtime: 175 minutes</li><li>Director: John Huston</li><li>Genres: Adventure, History, Drama</li><li>Budget: $16.5M</li><li>TMDB rating: 7.3/10 (305 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Parks as Adam</li><li>Ulla Bergryd as Eve</li><li>Richard Harris as Cain</li><li>John Huston as Noah</li><li>Stephen Boyd as Nimrod</li><li>George C. Scott as Abraham</li><li>Ava Gardner as Sarah</li><li>Peter O&#x27;Toole as The Three Angels</li><li>Zoe Sallis as Hagar</li><li>Gabriele Ferzetti as Lot</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "The Bible: In the Beginning... (1966) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1966"
+  },
   "movie:27725": {
    "d": "High Sierra (1941): Crime/Drama film. Story: Given a pardon from jail, Roy Earle gets back into… See cast, budget $455.0k, and TMDB rating 7.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/6AcvQvapwSI0fw2j9fVUxMOkwNB.jpg",
@@ -1267,6 +1394,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Extraction (2015)</h1>\n<p class=\"ssr-lead\">When a former CIA operative is kidnapped by a group of terrorists, his son learns there is no plan for his father to be saved—so he launches his own rescue operation.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 December 2015</li><li>Runtime: 92 minutes</li><li>Director: Steven C. Miller</li><li>Genres: Action, Thriller</li><li>TMDB rating: 4.5/10 (424 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bruce Willis as Leonard Turner</li><li>Gina Carano as Victoria</li><li>Kellan Lutz as Harry Turner</li><li>D. B. Sweeney as Ken Robertson</li><li>Dan Bilzerian as Higgins</li><li>Nick Loeb as Vinn</li><li>Roman Mitichyan as Dmitri Kovrov</li><li>Christopher Rob Bowen as Agent Nick Purvis</li><li>Steve Coulter as Theodore Sitterson</li><li>Heather Johansen as Agent Stevens</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Extraction (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
+  },
+  "movie:345925": {
+   "d": "Rupture (2016): Thriller/Science Fiction film. Story: A single mom tries to break free from a mysterious… See cast and TMDB rating 4.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8DSy5xZzDOukQpWCUs91bN1HCwY.jpg",
+   "industry": "world",
+   "k": "Rupture, Rupture movie, Rupture cast, Rupture story, Rupture box office collection, Rupture budget, Rupture review, Rupture rating, Rupture release date, Rupture trailer, Rupture Thriller, Rupture Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Noomi Rapace"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Stormare"
+     },
+     {
+      "@type": "Person",
+      "name": "Kerry Bishé"
+     },
+     {
+      "@type": "Person",
+      "name": "Lesley Manville"
+     },
+     {
+      "@type": "Person",
+      "name": "Ari Millen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 301,
+     "ratingValue": 4.9,
+     "worstRating": 0
+    },
+    "description": "Rupture (2016): Thriller/Science Fiction film. Story: A single mom tries to break free from a mysterious… See cast and TMDB rating 4.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Steven Shainberg"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Thriller",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8DSy5xZzDOukQpWCUs91bN1HCwY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=345925",
+    "name": "Rupture",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-11-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=345925"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Rupture (2016)</h1>\n<p class=\"ssr-lead\">A single mom tries to break free from a mysterious organization that has abducted her.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 November 2016</li><li>Runtime: 102 minutes</li><li>Director: Steven Shainberg</li><li>Genres: Thriller, Science Fiction</li><li>TMDB rating: 4.9/10 (301 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Noomi Rapace as Renee</li><li>Peter Stormare as Terrence</li><li>Kerry Bishé as Diane</li><li>Lesley Manville as Dr. Nyman</li><li>Ari Millen as Dr. Raxlen</li><li>Michael Chiklis as Bald Man</li><li>Sergio Di Zio as Van Driver</li><li>Morgan Kelly as Tommy</li><li>Mayko Nguyen as Stacey</li><li>Percy Hynes White as Evan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Rupture (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
   },
   "movie:35025": {
    "d": "The Pimp (2010): Comedy film. Story: A mild-mannered banker is forced to masquerade as a… See cast, TMDB rating 5.8/10, and release date 16 February 2010.",
@@ -1777,6 +1968,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Bride &amp; Prejudice (2004)</h1>\n<p class=\"ssr-lead\">Mrs. Bakshi is eager to find suitors for her four unmarried daughters when a family friend introduces them to handsome American Will Darcy. A Bollywood-style modern adaptation of Jane Austen&#x27;s classic novel.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 October 2004</li><li>Runtime: 112 minutes</li><li>Director: Gurinder Chadha</li><li>Genres: Drama, Comedy, Romance</li><li>Budget: $7M</li><li>TMDB rating: 6.5/10 (423 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aishwarya Rai Bachchan as Lalita Bakshi</li><li>Martin Henderson as William Darcy</li><li>Naveen Andrews as Balraj</li><li>Daniel Gillies as Johnny Wickham</li><li>Indira Varma as Kiran</li><li>Marsha Mason as Catherine Darcy</li><li>Nadira Babbar as Manorama Bakshi</li><li>Anupam Kher as Chaman Bakshi</li><li>Namrata Shirodkar as Jaya Bakshi</li><li>Sonali Kulkarni as Chandra Lamba</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "Bride & Prejudice (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2004"
+  },
+  "movie:58925": {
+   "d": "Mr. Klein (1976): Mystery/Drama film. Story: Paris, France, 1942, during the Nazi occupation. See cast, TMDB rating 7.2/10, and release date 23 September 1976.",
+   "img": "https://image.tmdb.org/t/p/w780/d6ELJEiJDoOZhoGe48o4L7qTQKa.jpg",
+   "industry": "world",
+   "k": "Mr. Klein, Mr. Klein movie, Mr. Klein cast, Mr. Klein story, Mr. Klein box office collection, Mr. Klein budget, Mr. Klein review, Mr. Klein rating, Mr. Klein release date, Mr. Klein trailer, Mr. Klein Mystery, Mr. Klein Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alain Delon"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeanne Moreau"
+     },
+     {
+      "@type": "Person",
+      "name": "Francine Bergé"
+     },
+     {
+      "@type": "Person",
+      "name": "Juliet Berto"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean Bouise"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 302,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Mr. Klein (1976): Mystery/Drama film. Story: Paris, France, 1942, during the Nazi occupation. See cast, TMDB rating 7.2/10, and release date 23 September 1976.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joseph Losey"
+     }
+    ],
+    "duration": "PT123M",
+    "genre": [
+     "Mystery",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/d6ELJEiJDoOZhoGe48o4L7qTQKa.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=58925",
+    "name": "Mr. Klein",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1976-09-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=58925"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mr. Klein (1976)</h1>\n<p class=\"ssr-lead\">Paris, France, 1942, during the Nazi occupation. Robert Klein, a successful art dealer who benefits from the misfortunes of those who are ruthlessly persecuted, discovers by chance that there is another Robert Klein, apparently a Jewish man; someone with whom he could be mistakenly identified, something dangerous in such harsh times.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 September 1976</li><li>Runtime: 123 minutes</li><li>Director: Joseph Losey</li><li>Genres: Mystery, Drama, Thriller</li><li>TMDB rating: 7.2/10 (302 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alain Delon as Mr. Robert Klein</li><li>Jeanne Moreau as Florence</li><li>Francine Bergé as Nicole</li><li>Juliet Berto as Jeanine, Robert&#x27;s mistress</li><li>Jean Bouise as Seller of the painting</li><li>Suzanne Flon as Concierge of rue des Abbesses</li><li>Massimo Girotti as Charles, Florence&#x27;s husband</li><li>Michael Lonsdale as Pierre</li><li>Michel Aumont as Jew Affairs Section Official</li><li>Roland Bertin as Newspaper Director</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Mr. Klein (1976) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1976"
   },
   "movie:66125": {
    "d": "Red Dog (2011): Drama/Comedy film. Story: The legendary true story of the Red Dog who united a… See cast, budget $5, and TMDB rating 7.3/10.",

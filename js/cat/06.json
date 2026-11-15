@@ -1,6 +1,6 @@
 {
  "bucket": "06",
- "count": 62,
+ "count": 65,
  "titles": {
   "movie:10606": {
    "backdrop_path": "/4wPZaKaucs4lN7V4JWwkCN8vSwp.jpg",
@@ -1055,6 +1055,130 @@
    "type": "movie",
    "vote_average": 6.329,
    "vote_count": 499
+  },
+  "movie:12206": {
+   "backdrop_path": "/1cqCq9KJUeeygcUpip4qfokmQG2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dr. Mabuse",
+     "n": "Rudolf Klein-Rogge"
+    },
+    {
+     "c": "Prof. Dr. Baum",
+     "n": "Oscar Beregi Sr."
+    },
+    {
+     "c": "Juwelen-Anna",
+     "n": "Camilla Spira"
+    },
+    {
+     "c": "Kommissar Lohmann",
+     "n": "Otto Wernicke"
+    },
+    {
+     "c": "Lithograph",
+     "n": "Paul Henckels"
+    },
+    {
+     "c": "Karetzky",
+     "n": "Theo Lingen"
+    },
+    {
+     "c": "Hardy",
+     "n": "Rudolf Schündler"
+    },
+    {
+     "c": "Dr. Kramm",
+     "n": "Theodor Loos"
+    },
+    {
+     "c": "Hofmeister",
+     "n": "Karl Meixner"
+    },
+    {
+     "c": "Kent",
+     "n": "Gustav Diessl"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Fritz Lang"
+   ],
+   "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 12206,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "After a detective is assaulted by thugs and placed in an asylum run by Professor Baum, he observes the professor's preoccupation with another patient, the criminal genius Dr. Mabuse the hypnotist. When Mabuse's notes are found to be connected with a rash of recent crimes, Commissioner Lohmann must determine how Mabuse is communicating with the criminals, despite conflicting reports on the doctor's whereabouts, and capture him for good.",
+   "popularity": 2.4106,
+   "poster_path": "/tc2ET7j6X066VCjdHblSwLr8sEz.jpg",
+   "production_countries": [
+    "DE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1933-04-21",
+   "revenue": 27690,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "Madman? Monster? Murderer? Scientist?",
+   "title": "The Testament of Dr. Mabuse",
+   "trailer": {
+    "key": "IEEjeviFMeY",
+    "name": "Original German Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.589,
+   "vote_count": 302
   },
   "movie:1226406": {
    "backdrop_path": "/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg",
@@ -3977,6 +4101,140 @@
    "vote_average": 7.262,
    "vote_count": 323
   },
+  "movie:463906": {
+   "backdrop_path": "/5yzpA7odHcs926hLptTwAZmFoVN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Simon Templar",
+     "n": "Adam Rayner"
+    },
+    {
+     "c": "Patricia Holm",
+     "n": "Eliza Dushku"
+    },
+    {
+     "c": "The Fixer",
+     "n": "Ian Ogilvy"
+    },
+    {
+     "c": "Arnold Valecross",
+     "n": "James Remar"
+    },
+    {
+     "c": "Jasper",
+     "n": "Roger Moore"
+    },
+    {
+     "c": "Inspector Fernack",
+     "n": "Enrique Murciano"
+    },
+    {
+     "c": "Rayt Marius",
+     "n": "Thomas Kretschmann"
+    },
+    {
+     "c": "Katherine Valecross",
+     "n": "Beatrice Rosen"
+    },
+    {
+     "c": "Detective Garces",
+     "n": "Greg Grunberg"
+    },
+    {
+     "c": "Doyle Constantino",
+     "n": "Yani Gellman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ernie Barbarash"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Crime"
+   ],
+   "id": 463906,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "International master thief, Simon Templar, also known as The Saint, is asked by a desperate rich man to find his kidnapped daughter. However, in addition to evading the authorities, Simon must face a dangerous adversary from his past.",
+   "popularity": 1.6039,
+   "poster_path": "/n8tsrPLem70exhXHfSausV7FlPx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-07-11",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Saint",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 301
+  },
   "movie:500006": {
    "backdrop_path": "/w4pUYpFTywnCn40NV9XKy2Wdacv.jpg",
    "budget": 22000000,
@@ -5094,6 +5352,158 @@
    "type": "movie",
    "vote_average": 7.044,
    "vote_count": 435
+  },
+  "movie:7006": {
+   "backdrop_path": "/1g8u78FExsr4NZjHDOvHDi2uCgq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Abe Dale",
+     "n": "Nathan Fillion"
+    },
+    {
+     "c": "Sherry Clarke",
+     "n": "Katee Sackhoff"
+    },
+    {
+     "c": "Henry Caine",
+     "n": "Craig Fairbrass"
+    },
+    {
+     "c": "Marty Bloom",
+     "n": "Adrian Holmes"
+    },
+    {
+     "c": "Rebecca Dale",
+     "n": "Kendall Cross"
+    },
+    {
+     "c": "Julia Caine",
+     "n": "Teryl Rothery"
+    },
+    {
+     "c": "Dr. Karras",
+     "n": "William MacDonald"
+    },
+    {
+     "c": "Danny Dale",
+     "n": "Joshua J. Ballard"
+    },
+    {
+     "c": "Kurt",
+     "n": "David Milchard"
+    },
+    {
+     "c": "Liz",
+     "n": "Tegan Moss"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Patrick Lussier"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 7006,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A man's family brought back from the verge of death, he then discovers he can identify people who are about to die.",
+   "popularity": 1.7581,
+   "poster_path": "/7rp6W0Rj7BoopylLnIRsIScDu9W.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2007-01-05",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Sometimes they don't come back alone.",
+   "title": "White Noise 2: The Light",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.533,
+   "vote_count": 305
   },
   "movie:70706": {
    "backdrop_path": "/8NUTSNVeWDLZ97KBQM7IwK8HgTQ.jpg",

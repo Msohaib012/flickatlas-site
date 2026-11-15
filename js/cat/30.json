@@ -1,6 +1,6 @@
 {
  "bucket": "30",
- "count": 53,
+ "count": 55,
  "titles": {
   "movie:1024530": {
    "backdrop_path": "/navvd9bBMuBYbQzKaWKifCw6wsU.jpg",
@@ -2877,6 +2877,96 @@
    "vote_average": 6.459,
    "vote_count": 434
   },
+  "movie:413730": {
+   "backdrop_path": "/mZAX0T6Y4UzI5a9ptMQK17xZ45.jpg",
+   "budget": 5800000,
+   "cast": [
+    {
+     "c": "Marco",
+     "n": "Brando Pacitto"
+    },
+    {
+     "c": "Maria",
+     "n": "Matilda Lutz"
+    },
+    {
+     "c": "Paul",
+     "n": "Joseph Haro"
+    },
+    {
+     "c": "Matt",
+     "n": "Taylor Frey"
+    },
+    {
+     "c": "Paul's Mom",
+     "n": "Laura Cayouette"
+    },
+    {
+     "c": "Jules",
+     "n": "Jessica Rothe"
+    },
+    {
+     "c": "Amy",
+     "n": "Tatiana Luter"
+    },
+    {
+     "c": "Ken",
+     "n": "Timothy Martin"
+    },
+    {
+     "c": "Go-go Dancer",
+     "n": "Vanessa Ross"
+    },
+    {
+     "c": "Flight Attendant",
+     "n": "Stephanie Johnston"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Gabriele Muccino"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 413730,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A gay couple living in San Francisco takes in two strangers traveling from Italy to start a new life in America, discovering each other and forming the most unlikely of relationships along the way.",
+   "popularity": 0.8041,
+   "poster_path": "/uoqQnRX7WQJoGlOWCXJasvWtBhv.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2016-09-15",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Summertime",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.326,
+   "vote_count": 304
+  },
   "movie:430": {
    "backdrop_path": "/4safDVSZx7a4I1TQoSyz6E1agzM.jpg",
    "budget": 3000000,
@@ -3437,6 +3527,133 @@
    "type": "movie",
    "vote_average": 6.565,
    "vote_count": 330
+  },
+  "movie:57230": {
+   "backdrop_path": "/sNjRnpuMVSmavDnyWUiuTn6cY7T.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Khoma Brut",
+     "n": "Leonid Kuravlyov"
+    },
+    {
+     "c": "Pannochka, the Centurion's Daughter",
+     "n": "Natalya Varley"
+    },
+    {
+     "c": "Centurion",
+     "n": "Aleksey Glazyrin"
+    },
+    {
+     "c": "Witch",
+     "n": "Nikolay Kutuzov"
+    },
+    {
+     "c": "Freebie",
+     "n": "Vadim Zakharchenko"
+    },
+    {
+     "c": "Dorosh",
+     "n": "Petro Vesklyarov"
+    },
+    {
+     "c": "Horobets",
+     "n": "Vladimir Salnikov"
+    },
+    {
+     "c": "Overko",
+     "n": "Dmytro Kapka"
+    },
+    {
+     "c": "Yavtukh",
+     "n": "Stepan Shkurat"
+    },
+    {
+     "c": "Stepan",
+     "n": "Georgiy Sochevko"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Georgi Kropachyov",
+    "Konstantin Ershov"
+   ],
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+   ],
+   "id": 57230,
+   "industry": "world",
+   "origin_country": [
+    "SU"
+   ],
+   "original_language": "ru",
+   "overview": "A seminary student on monastery holiday kills an old witch in a remote village. The hag then transforms into a beautiful young woman whose dying wish is for him to watch over her wake for three nights. With terrors occurring and his faith waning, he reads prayers on the overnight watch and tries to survive the supernatural encounters.",
+   "popularity": 2.2879,
+   "poster_path": "/rgkp4X9C1NNobH8bq55zcMTQFCl.jpg",
+   "production_countries": [
+    "SU"
+   ],
+   "providers": [
+    {
+     "name": "Bloodstream"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Eternal Family"
+    },
+    {
+     "name": "Klassiki"
+    },
+    {
+     "name": "Troma NOW"
+    },
+    {
+     "name": "Chilling"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1967-11-27",
+   "revenue": 0,
+   "runtime": 76,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "The Soviet Union’s first horror film!",
+   "title": "Viy",
+   "trailer": {
+    "key": "keuYSRXwcVg",
+    "name": "VIY (Masters of Cinema) New & Exclusive Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 301
   },
   "movie:573730": {
    "backdrop_path": "/tQprwIKzFx83JpM5dVrGRC4UpF.jpg",

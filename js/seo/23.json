@@ -1,6 +1,6 @@
 {
  "bucket": "23",
- "count": 63,
+ "count": 65,
  "titles": {
   "movie:11123": {
    "d": "Earthquake (1974): Drama film. Story: Various interconnected people struggle to survive… See cast, budget $7M, and TMDB rating 6.1/10.",
@@ -1219,6 +1219,70 @@
    "t": "Young Detective Dee: Rise of the Sea Dragon (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
   },
+  "movie:25523": {
+   "d": "Shrek 3-D (2004): Fantasy/Comedy film. Story: Lord Farquaad was eaten by the dragon, but his ghost… See cast, TMDB rating 6.0/10, and release date 3 April 2004.",
+   "img": "https://image.tmdb.org/t/p/w780/qhL6H6UmYQw0k2DZPtb2hREpw36.jpg",
+   "industry": "world",
+   "k": "Shrek 3-D, Shrek 3-D movie, Shrek 3-D cast, Shrek 3-D story, Shrek 3-D box office collection, Shrek 3-D budget, Shrek 3-D review, Shrek 3-D rating, Shrek 3-D release date, Shrek 3-D Fantasy, Shrek 3-D Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mike Myers"
+     },
+     {
+      "@type": "Person",
+      "name": "Eddie Murphy"
+     },
+     {
+      "@type": "Person",
+      "name": "Cameron Diaz"
+     },
+     {
+      "@type": "Person",
+      "name": "John Lithgow"
+     },
+     {
+      "@type": "Person",
+      "name": "Conrad Vernon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 301,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Shrek 3-D (2004): Fantasy/Comedy film. Story: Lord Farquaad was eaten by the dragon, but his ghost… See cast, TMDB rating 6.0/10, and release date 3 April 2004.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Simon J. Smith"
+     }
+    ],
+    "duration": "PT16M",
+    "genre": [
+     "Fantasy",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qhL6H6UmYQw0k2DZPtb2hREpw36.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=25523",
+    "name": "Shrek 3-D",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-04-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=25523"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Shrek 3-D (2004)</h1>\n<p class=\"ssr-lead\">Lord Farquaad was eaten by the dragon, but his ghost has returned, and he&#x27;s still evil. With the help of his henchman, Thelonious, he kidnaps Fiona. Shrek and the donkey set out to save her, with help from the dragon, before she goes over a waterfall on a raft.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 April 2004</li><li>Runtime: 16 minutes</li><li>Director: Simon J. Smith</li><li>Genres: Fantasy, Comedy, Family, Adventure, Animation</li><li>TMDB rating: 6.0/10 (301 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mike Myers as Shrek (voice)</li><li>Eddie Murphy as Donkey (voice)</li><li>Cameron Diaz as Fiona (voice)</li><li>John Lithgow as Ghost of Farquaad (voice)</li><li>Conrad Vernon as Gingerbread Man (voice)</li><li>Christopher Knights as Theolonius / Blind Mouse (voice)</li><li>Cody Cameron as Pinocchio / Three Little Pigs (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Buy: Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Shrek 3-D (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
+  },
   "movie:285423": {
    "d": "Jarhead 2: Field of Fire (2014): War/Action film. Story: Battle-scarred and disillusioned by the war, Corporal… See cast and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/e3mb4TdBQi0KitKjgrK4b737jch.jpg",
@@ -2236,6 +2300,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Kika (1993)</h1>\n<p class=\"ssr-lead\">When American author Nicholas brings in a cosmetologist named Kika to prepare the corpse of his recently deceased son, she inadvertently revives the young man, then falls in love with him. Forces conspire against the couple, though, as Nicholas wants Kika for himself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 October 1993</li><li>Runtime: 117 minutes</li><li>Director: Pedro Almodóvar</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 6.4/10 (333 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Verónica Forqué as Kika</li><li>Victoria Abril as Andrea Caracortada</li><li>Peter Coyote as Nicholas Pierce</li><li>Rossy de Palma as Juana</li><li>Àlex Casanovas as Ramón</li><li>Santiago Lajusticia as Pablo</li><li>Bibiana Fernández as Susana</li><li>Anabel Alonso as Amparo</li><li>Jesús Bonilla as Police</li><li>Karra Elejalde as Police</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Kika (1993) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1993"
+  },
+  "movie:848123": {
+   "d": "Black Site (2022): Action/Thriller film. Story: A group of officers based in a labyrinthine… See cast, TMDB rating 6.0/10, and release date 30 June 2022.",
+   "img": "https://image.tmdb.org/t/p/w780/6FbWhRR5B7OWVgzXuTkIFiaI2N3.jpg",
+   "industry": "world",
+   "k": "Black Site, Black Site movie, Black Site cast, Black Site story, Black Site box office collection, Black Site budget, Black Site review, Black Site rating, Black Site release date, Black Site trailer, Black Site Action, Black Site Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michelle Monaghan"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Clarke"
+     },
+     {
+      "@type": "Person",
+      "name": "Jai Courtney"
+     },
+     {
+      "@type": "Person",
+      "name": "Pallavi Sharda"
+     },
+     {
+      "@type": "Person",
+      "name": "Phoenix Raei"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 304,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Black Site (2022): Action/Thriller film. Story: A group of officers based in a labyrinthine… See cast, TMDB rating 6.0/10, and release date 30 June 2022.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sophia Banks"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6FbWhRR5B7OWVgzXuTkIFiaI2N3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=848123",
+    "name": "Black Site",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-06-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=848123"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Black Site (2022)</h1>\n<p class=\"ssr-lead\">A group of officers based in a labyrinthine top-secret prison must fight for their lives against Hatchet, a brilliant and infamous high-value detainee. When he escapes, his mysterious and deadly agenda has far reaching and dire consequences.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 June 2022</li><li>Runtime: 99 minutes</li><li>Director: Sophia Banks</li><li>Genres: Action, Thriller, Crime, Drama</li><li>TMDB rating: 6.0/10 (304 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michelle Monaghan as Abby Trent</li><li>Jason Clarke as Hatchet</li><li>Jai Courtney as Miller</li><li>Pallavi Sharda as Tessa</li><li>Phoenix Raei as Uri</li><li>Fayssal Bazzi as Rashid Nassar</li><li>Uli Latukefu as Palau</li><li>Logan Huffman as Chaplain</li><li>Todd Lasance as Darren Wesley</li><li>Lincoln Lewis as Landon Briggs</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Black Site (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
   },
   "movie:855823": {
    "d": "Schumacher (2021): Documentary film. Story: Through exclusive interviews and archival footage… See cast, TMDB rating 7.3/10, and release date 14 September 2021.",

@@ -1,6 +1,6 @@
 {
  "bucket": "93",
- "count": 53,
+ "count": 57,
  "titles": {
   "movie:11593": {
    "backdrop_path": "/qvcgsoiC5AV8JDExNd5eL4jxvVa.jpg",
@@ -1939,6 +1939,120 @@
    "vote_average": 7.271,
    "vote_count": 349
   },
+  "movie:26593": {
+   "backdrop_path": "/yxAw8UE3MiYbc6yCN3XhVXdG9yx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Col. Cord McNally",
+     "n": "John Wayne"
+    },
+    {
+     "c": "Capt. Pierre Cordona",
+     "n": "Jorge Rivero"
+    },
+    {
+     "c": "Shasta Delaney",
+     "n": "Jennifer O'Neill"
+    },
+    {
+     "c": "Phillips",
+     "n": "Jack Elam"
+    },
+    {
+     "c": "Sgt. Tuscarora Phillips",
+     "n": "Christopher Mitchum"
+    },
+    {
+     "c": "Ketcham",
+     "n": "Victor French"
+    },
+    {
+     "c": "Maria Carmen",
+     "n": "Susana Dosamantes"
+    },
+    {
+     "c": "Amelita",
+     "n": "Sherry Lansing"
+    },
+    {
+     "c": "Dr. Ivor Jones",
+     "n": "David Huddleston"
+    },
+    {
+     "c": "Rio Lobo Sheriff 'Blue Tom' Hendricks",
+     "n": "Mike Henry"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Howard Hawks"
+   ],
+   "genres": [
+    "Western"
+   ],
+   "id": 26593,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the Civil War, a former Union colonel searches for the two traitors whose perfidy led to the loss of a close friend.",
+   "popularity": 2.3571,
+   "poster_path": "/2vlpjEE5GxJr7CiURQ4e2DWybkw.jpg",
+   "production_countries": [
+    "US",
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1970-04-01",
+   "revenue": 0,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Give 'Em Hell, John.",
+   "title": "Rio Lobo",
+   "trailer": {
+    "key": "nFteTTDde0c",
+    "name": "Masters of Cinema Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 301
+  },
   "movie:27793": {
    "backdrop_path": "/12Tr8MQ3z4M2Kpsz7bQQhghNJ5X.jpg",
    "budget": 17000000,
@@ -2411,6 +2525,297 @@
    "type": "movie",
    "vote_average": 6.802,
    "vote_count": 339
+  },
+  "movie:363093": {
+   "backdrop_path": "/gdG48Tgkq0wEdi5wJars68baXgF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Man-deok",
+     "n": "Choi Min-sik"
+    },
+    {
+     "c": "Goo-gyeong",
+     "n": "Jeong Man-sik"
+    },
+    {
+     "c": "Chil-goo",
+     "n": "Kim Sang-ho"
+    },
+    {
+     "c": "Seok",
+     "n": "Sung Yoo-bin"
+    },
+    {
+     "c": "Maezono",
+     "n": "Ren Osugi"
+    },
+    {
+     "c": "Ryoo",
+     "n": "Jung Suk-won"
+    },
+    {
+     "c": "Herbal Shop Owner",
+     "n": "Kim Hong-pa"
+    },
+    {
+     "c": "Chil-goo's Wife",
+     "n": "Ra Mi-ran"
+    },
+    {
+     "c": "Mal-nyeon",
+     "n": "Lee Na-ra"
+    },
+    {
+     "c": "Seon-yi",
+     "n": "Jung Zi-so"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Park Hoon-jung"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "id": 363093,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "In 1925 Korea, Japanese rulers demand the last remaining tiger be killed. The tiger easily defeats his pursuers until a legendary hunter takes him on.",
+   "popularity": 2.1242,
+   "poster_path": "/tPI6t2Cvu7vWO9iDs4Cigq8svWl.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hi-YAH"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hi-YAH Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/VSkdYiq9YA34Oaucl2Ga0dBL11.png",
+     "name": "Hi-YAH",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mlciWnmFopns3WZGENR6ZZoNnZO.png",
+     "name": "Hi-YAH Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2015-12-16",
+   "revenue": 11083449,
+   "runtime": 139,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "A hunter's fight to protect.",
+   "title": "The Tiger",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.7,
+   "vote_count": 301
+  },
+  "movie:37793": {
+   "backdrop_path": "/mYi8ZYtHaoEBSJU8pbOAjfATUtF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maestro / Mayor / Mayor Ghoul / Superghoul / Skeleton",
+     "n": "Michael Jackson"
+    },
+    {
+     "c": "Pat",
+     "n": "Pat Dade"
+    },
+    {
+     "c": "Amy",
+     "n": "Amy Smallman"
+    },
+    {
+     "c": "Edwina",
+     "n": "Edwina Moore"
+    },
+    {
+     "c": "Dante",
+     "n": "Yasiin Bey"
+    },
+    {
+     "c": "Seth",
+     "n": "Seth Smith"
+    },
+    {
+     "c": "Kendall",
+     "n": "Kendall Cunningham"
+    },
+    {
+     "c": "Loren",
+     "n": "Loren Randolph"
+    },
+    {
+     "c": "Heather",
+     "n": "Heather Ehlers"
+    },
+    {
+     "c": "Dancer",
+     "n": "Michael Balderrama"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Stan Winston"
+   ],
+   "genres": [
+    "Music",
+    "Horror"
+   ],
+   "id": 37793,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the town of Normal Valley, an eccentric magician named Maestro entertains the local children every day in his spooky mansion. One stormy night, the town's mayor leads a group of angry citizens to the mansion in an attempt to run Maestro out of town.",
+   "popularity": 1.7772,
+   "poster_path": "/aLMS2GWnJwkAADd8Dnl2dK1eg13.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1997-09-04",
+   "revenue": 0,
+   "runtime": 39,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Are you scared yet?",
+   "title": "Ghosts",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.097,
+   "vote_count": 305
   },
   "movie:38093": {
    "backdrop_path": "/gvNBgLoVxEGZrzjyudnTY0tdDlz.jpg",
@@ -3386,6 +3791,84 @@
    "type": "movie",
    "vote_average": 5.1,
    "vote_count": 458
+  },
+  "movie:574093": {
+   "backdrop_path": "/noXgfgDAeVt8ZMUc4Ov6u9PHtOK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Baby Alex (voice)",
+     "n": "Eli Fucile"
+    },
+    {
+     "c": "Dad (voice)",
+     "n": "Bobby Rubio"
+    },
+    {
+     "c": "Toddler Alex (voice)",
+     "n": "Luna Watson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Bobby Rubio"
+   ],
+   "genres": [
+    "Animation",
+    "Drama",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 574093,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A father discovers that his son floats, which makes him different from other kids.  To keep them both safe from the judgement of the world, Dad hides, covers, and grounds him. But when his son's ability becomes public, Dad must decide whether to run and hide or to accept his son as he is.",
+   "popularity": 0.7284,
+   "poster_path": "/mgwObpU1NCXfPqF7ZaTpi80mxsF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2019-11-12",
+   "revenue": 0,
+   "runtime": 7,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Float",
+   "trailer": {
+    "key": "JG7Xgy1akzI",
+    "name": "Pixar SparkShorts – Official Trailer | Disney+ | Start Streaming Nov. 12",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 305
   },
   "movie:613093": {
    "backdrop_path": "/h6XfgbzQEV4sitsIVY63pawLI0s.jpg",

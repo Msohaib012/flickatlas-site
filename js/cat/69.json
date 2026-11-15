@@ -1,6 +1,6 @@
 {
  "bucket": "69",
- "count": 51,
+ "count": 53,
  "titles": {
   "movie:101669": {
    "backdrop_path": "/yiTNRdUZ5CTUcojwdjITKfBfjRB.jpg",
@@ -3567,6 +3567,94 @@
    "vote_average": 5.773,
    "vote_count": 330
   },
+  "movie:41669": {
+   "backdrop_path": "/oVXWmGJgDTp0BCUer3oLgGgJSGt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rag. Ugo Fantozzi",
+     "n": "Paolo Villaggio"
+    },
+    {
+     "c": "Pina Fantozzi",
+     "n": "Milena Vukotić"
+    },
+    {
+     "c": "Signorina Silvani",
+     "n": "Anna Mazzamauro"
+    },
+    {
+     "c": "Mega Presidente, Duca Conte G.M.Balabam",
+     "n": "Paolo Paoloni"
+    },
+    {
+     "c": "Ughina",
+     "n": "Dodi Conti"
+    },
+    {
+     "c": "Impresario dei Centocelle Nightmare",
+     "n": "Stefano Masciarelli"
+    },
+    {
+     "c": "Commissario",
+     "n": "Mirta Pepe"
+    },
+    {
+     "c": "Contessa Serbelloni Mazzanti Viendalmare",
+     "n": "Irma Capece Minutolo"
+    },
+    {
+     "c": "Scienziato",
+     "n": "Aldo Ralli"
+    },
+    {
+     "c": "Contessa Madre Serbelloni Mazzanti Viendalmare",
+     "n": "Evelina Gori"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Domenico Saverni"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 41669,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Ugo Fantozzi was resurrected from the company where he worked because of a crisis, how it will end?Tenth and final chapter of the film series of Fantozzi character.",
+   "popularity": 0.7321,
+   "poster_path": "/4L3RIGmtmucY2cYRHu2ThsIlIiv.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "1999-12-23",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Fantozzi 2000 - The Cloning",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.054,
+   "vote_count": 303
+  },
   "movie:46169": {
    "backdrop_path": "/siidi1AD6JNwWqrepY5DhqCCuEX.jpg",
    "budget": 0,
@@ -4320,6 +4408,180 @@
    "type": "movie",
    "vote_average": 6.291,
    "vote_count": 443
+  },
+  "movie:765869": {
+   "backdrop_path": "/pinPGZW5r9SOFNlSLugpdLwvdyD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ken",
+     "n": "Devon Sawa"
+    },
+    {
+     "c": "Marnie",
+     "n": "Ivana Baquero"
+    },
+    {
+     "c": "Chris",
+     "n": "Ryan Lee"
+    },
+    {
+     "c": "Brian",
+     "n": "Stephen Amethyst Peck"
+    },
+    {
+     "c": "Archie",
+     "n": "Michael Jai White"
+    },
+    {
+     "c": "Jonathan",
+     "n": "Bruce Campbell"
+    },
+    {
+     "c": "Emmett",
+     "n": "Louie Kurtzman"
+    },
+    {
+     "c": "Anita",
+     "n": "Celeste Oliva"
+    },
+    {
+     "c": "Ruth",
+     "n": "Ellen Colton"
+    },
+    {
+     "c": "Angry Gran",
+     "n": "Peg Holzemer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Casey Tebo"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 765869,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of toy store employees must protect each other from a horde of parasite infected shoppers.",
+   "popularity": 2.2556,
+   "poster_path": "/vf9Ex4EwSPlwbva4ZJdljsQQOML.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2021-11-19",
+   "revenue": 0,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They have no idea what tonight has in-store.",
+   "title": "Black Friday",
+   "trailer": {
+    "key": "3zKvx4qP0oA",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.9,
+   "vote_count": 300
   },
   "movie:826769": {
    "backdrop_path": "/s4ZEtO5Lo444WJ5lBVyYARAq08.jpg",

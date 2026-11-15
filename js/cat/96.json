@@ -1,6 +1,6 @@
 {
  "bucket": "96",
- "count": 54,
+ "count": 57,
  "titles": {
   "movie:1028196": {
    "backdrop_path": "/kmLssINCNdXnIDjWkBsk6LUNSbe.jpg",
@@ -943,6 +943,119 @@
    "type": "movie",
    "vote_average": 7.579,
    "vote_count": 375
+  },
+  "movie:13496": {
+   "backdrop_path": "/6TkIKjHz4UYu2Z1I7tF57Frcz7i.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Jesse James",
+     "n": "Colin Farrell"
+    },
+    {
+     "c": "Cole Younger",
+     "n": "Scott Caan"
+    },
+    {
+     "c": "Zerelda \"Zee\" Mimms",
+     "n": "Ali Larter"
+    },
+    {
+     "c": "Frank James",
+     "n": "Gabriel Macht"
+    },
+    {
+     "c": "Jim Younger",
+     "n": "Gregory Smith"
+    },
+    {
+     "c": "Thaddeus Rains",
+     "n": "Harris Yulin"
+    },
+    {
+     "c": "Ma James",
+     "n": "Kathy Bates"
+    },
+    {
+     "c": "Allan Pinkerton",
+     "n": "Timothy Dalton"
+    },
+    {
+     "c": "Bob Younger",
+     "n": "Will McCormack"
+    },
+    {
+     "c": "Doc Mimms",
+     "n": "Ronny Cox"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Les Mayfield"
+   ],
+   "genres": [
+    "Western",
+    "Action"
+   ],
+   "id": 13496,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a Midwest town learns that a corrupt railroad baron has captured the deeds to their homesteads without their knowledge, a group of young ranchers join forces to take back what is rightfully theirs. They will become the object of the biggest manhunt in the history of the Old West and, as their fame grows, so will the legend of their leader, a young outlaw by the name of Jesse James.",
+   "popularity": 2.3978,
+   "poster_path": "/ov9PIn56yrwvrwOfvVTKplmV0S6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2001-08-17",
+   "revenue": 13678913,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Sometimes the wrong side of the law is the right place to be.",
+   "title": "American Outlaws",
+   "trailer": {
+    "key": "tJMUjVG6ZRg",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.906,
+   "vote_count": 304
   },
   "movie:13696": {
    "backdrop_path": "/scHIDomz6Irdf4pQt53Q6pqdSk1.jpg",
@@ -3275,6 +3388,121 @@
    "vote_average": 7.882,
    "vote_count": 449
   },
+  "movie:53596": {
+   "backdrop_path": "/wIgN4qGIydCAkgeFfPomqLRqRbg.jpg",
+   "budget": 10600000,
+   "cast": [
+    {
+     "c": "Costa",
+     "n": "Luis Tosar"
+    },
+    {
+     "c": "Sebastián",
+     "n": "Gael García Bernal"
+    },
+    {
+     "c": "Daniel / Hatuey",
+     "n": "Juan Carlos Aduviri"
+    },
+    {
+     "c": "Antón / Christopher Columbus",
+     "n": "Karra Elejalde"
+    },
+    {
+     "c": "Juan / Antonio de Montesinos",
+     "n": "Raúl Arévalo"
+    },
+    {
+     "c": "María",
+     "n": "Cassandra Ciangherotti"
+    },
+    {
+     "c": "Alberto / Bartolomé de las Casas",
+     "n": "Carlos Santos"
+    },
+    {
+     "c": "Belén / Panuca",
+     "n": "Milena Soliz"
+    },
+    {
+     "c": "Teresa",
+     "n": "Leónidas Chiri"
+    },
+    {
+     "c": "Bruno",
+     "n": "Ezequiel Díaz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Icíar Bollaín"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 53596,
+   "industry": "world",
+   "origin_country": [
+    "MX",
+    "ES",
+    "FR"
+   ],
+   "original_language": "es",
+   "overview": "As a director and his crew shoot a controversial film about Christopher Columbus in Cochabamba, Bolivia, local people rise up against plans to privatize the water supply.",
+   "popularity": 1.012,
+   "poster_path": "/4jFjNgGtqc4W1yemAoMi4h32dxB.jpg",
+   "production_countries": [
+    "FR",
+    "MX",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2011-01-05",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es",
+    "qu"
+   ],
+   "status": "Released",
+   "tagline": "Many want to change the world... Few want to change themselves.",
+   "title": "Even the Rain",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.989,
+   "vote_count": 305
+  },
   "movie:598896": {
    "backdrop_path": "/2ZzmfwgvVh2KLH4A8HMzX5TytAc.jpg",
    "budget": 0,
@@ -4002,6 +4230,138 @@
    "type": "movie",
    "vote_average": 6.279,
    "vote_count": 312
+  },
+  "movie:811596": {
+   "backdrop_path": "/n5QLk1pm2Z4EW3PM1BYFgxSXbP8.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "General Gontier",
+     "n": "Samuel Labarthe"
+    },
+    {
+     "c": "General Gallet",
+     "n": "Jean-Paul Bordes"
+    },
+    {
+     "c": "Laurent Prades",
+     "n": "Mickaël Chirinian"
+    },
+    {
+     "c": "Chief Adjutant Joël",
+     "n": "Jérémie Laheurte"
+    },
+    {
+     "c": "Chief Sergeant Reynald",
+     "n": "Maximilien Seweryn"
+    },
+    {
+     "c": "Aurélien, young manager",
+     "n": "Garlan Le Martelot"
+    },
+    {
+     "c": "Captain Francis",
+     "n": "Dimitri Storoge"
+    },
+    {
+     "c": "Lieutenant Alexandre",
+     "n": "Pierre Lottin"
+    },
+    {
+     "c": "Chief Sergeant Jordan",
+     "n": "Jules Sadoughi"
+    },
+    {
+     "c": "Chief Corporal Marianne",
+     "n": "Chloé Jouannet"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "10",
+   "date_kind": "release",
+   "director": [
+    "Jean-Jacques Annaud"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 811596,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A film relating from the inside the Notre-Dame de Paris fire of April 2019.",
+   "popularity": 1.3556,
+   "poster_path": "/kXj3FqzQABWsElUuT9y3WhfGPdT.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-03-16",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Notre-Dame on Fire",
+   "trailer": {
+    "key": "GvMSR1FeOIU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.535,
+   "vote_count": 300
   },
   "movie:830896": {
    "backdrop_path": "/drNH9o8DHvFh648LRdxAm8BMZVJ.jpg",

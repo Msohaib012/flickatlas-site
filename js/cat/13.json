@@ -1,6 +1,6 @@
 {
  "bucket": "13",
- "count": 47,
+ "count": 48,
  "titles": {
   "movie:10213": {
    "backdrop_path": "/n4ChV0MskyVOzOMBO8V6xoi6Z94.jpg",
@@ -5101,6 +5101,179 @@
    "type": "movie",
    "vote_average": 5.238,
    "vote_count": 484
+  },
+  "movie:9813": {
+   "backdrop_path": "/w1vvBqUQpKrOndLuQ7lci47nY4h.jpg",
+   "budget": 900000,
+   "cast": [
+    {
+     "c": "Nina Deer",
+     "n": "Elisha Cuthbert"
+    },
+    {
+     "c": "Dot",
+     "n": "Camilla Belle"
+    },
+    {
+     "c": "Paul Deer",
+     "n": "Martin Donovan"
+    },
+    {
+     "c": "Olivia Deer",
+     "n": "Edie Falco"
+    },
+    {
+     "c": "Connor",
+     "n": "Shawn Ashmore"
+    },
+    {
+     "c": "Michelle Fell",
+     "n": "Katy Mixon"
+    },
+    {
+     "c": "Brian",
+     "n": "David Gallagher"
+    },
+    {
+     "c": "Fiona",
+     "n": "Shannon Woodward"
+    },
+    {
+     "c": "Mrs. Feltswatter",
+     "n": "Maria Cash"
+    },
+    {
+     "c": "Myrna",
+     "n": "Jo Baker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jamie Babbit"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 9813,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After her widowed father dies, deaf teenager Dot moves in with her godparents, Olivia and Paul Deer. The Deers' daughter, Nina, is openly hostile to Dot, but that does not prevent her from telling her secrets to her silent stepsister, including the fact that she wants to kill her lecherous father.",
+   "popularity": 1.9083,
+   "poster_path": "/lXIuHcRGCRk0YBOi41MCHMvGst5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2006-08-25",
+   "revenue": 381420,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Isn't it time everyone hears your secrets?",
+   "title": "The Quiet",
+   "trailer": {
+    "key": "lAXi9ITMpOw",
+    "name": "The Quiet - Official Trailer (2005)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.113,
+   "vote_count": 304
   },
   "tv:107113": {
    "backdrop_path": "/WCnEPf4ZNPjszndmrFlDxZ5Uvd.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "57",
- "count": 58,
+ "count": 59,
  "titles": {
   "movie:10857": {
    "backdrop_path": "/lnOGnHqDlZMRGQTEukwWBu5s7fd.jpg",
@@ -2905,6 +2905,147 @@
    "type": "movie",
    "vote_average": 7.197,
    "vote_count": 452
+  },
+  "movie:352157": {
+   "backdrop_path": "/qJy1TAgMi0FmPVmrjedgfri63kc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marguerite Dumont",
+     "n": "Catherine Frot"
+    },
+    {
+     "c": "Georges Dumont",
+     "n": "André Marcon"
+    },
+    {
+     "c": "Atos Pezzini / Divo",
+     "n": "Michel Fau"
+    },
+    {
+     "c": "Hazel",
+     "n": "Christa Théret"
+    },
+    {
+     "c": "Madelbos",
+     "n": "Denis Mpunga"
+    },
+    {
+     "c": "Lucien Beaumont",
+     "n": "Sylvain Dieuaide"
+    },
+    {
+     "c": "Kyril Von Priest",
+     "n": "Aubert Fenoy"
+    },
+    {
+     "c": "Félicité La Barbue",
+     "n": "Sophia Leboutte"
+    },
+    {
+     "c": "Diego",
+     "n": "Théo Cholbi"
+    },
+    {
+     "c": "Françoise Bellaire",
+     "n": "Astrid Whettnall"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Xavier Giannoli"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+   ],
+   "id": 352157,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Paris in the 1920s. Marguerite Dumont is a wealthy woman with a passion for music and the opera. For years, she has performed regularly for a circle of guests. But Marguerite sings tragically out of tune and no one has ever told her. Her husband and her close friends have always encouraged her in her illusions. Things become very complicated the day she gets it into her head to perform in front of a genuine public, at the Opera.",
+   "popularity": 1.1326,
+   "poster_path": "/lfIleyisIzYfvUNXTLIfJjHiJz6.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "CZ"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2015-09-16",
+   "revenue": 497323,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Marguerite",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.329,
+   "vote_count": 301
   },
   "movie:354857": {
    "backdrop_path": "/An1FS6Baec7uogTcQyEYqruYAtM.jpg",

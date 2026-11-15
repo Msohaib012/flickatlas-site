@@ -1,6 +1,6 @@
 {
  "bucket": "07",
- "count": 52,
+ "count": 53,
  "titles": {
   "movie:10407": {
    "backdrop_path": "/yUUIrkbDObGN6f77QkeDBV9Fsb.jpg",
@@ -3845,6 +3845,107 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 482
+  },
+  "movie:58007": {
+   "backdrop_path": "/idseJDUwZyCDuXttkRL0LrhjyKV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Don Felice Sciosciammocca",
+     "n": "Totò"
+    },
+    {
+     "c": "Gemma",
+     "n": "Sophia Loren"
+    },
+    {
+     "c": "Pasquale",
+     "n": "Enzo Turco"
+    },
+    {
+     "c": "Luisella",
+     "n": "Dolores Palumbo"
+    },
+    {
+     "c": "Gaetano",
+     "n": "Gianni Cavalieri"
+    },
+    {
+     "c": "Nadia",
+     "n": "Franca Faldini"
+    },
+    {
+     "c": "Luigino",
+     "n": "Carlo Croccolo"
+    },
+    {
+     "c": "Concetta",
+     "n": "Liana Billi"
+    },
+    {
+     "c": "Ottavio",
+     "n": "Giuseppe Porelli"
+    },
+    {
+     "c": "Bettina",
+     "n": "Giulia Melidoni"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Mario Mattoli"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 58007,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Eugene, a young nobleman, asks two penniless idlers to impersonate his noble relatives to help him marry Gemma, the daughter of an enriched cook.",
+   "popularity": 0.8389,
+   "poster_path": "/yOwn3agwatgzHtEGJ8Dda9hANGj.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1954-04-17",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Poverty and Nobility",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.0,
+   "vote_count": 304
   },
   "movie:621707": {
    "backdrop_path": "/2v6tOt3yedtb9urqXr7qCBS2gyl.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "61",
- "count": 51,
+ "count": 53,
  "titles": {
   "movie:10361": {
    "backdrop_path": "/lhiLBuFJcRC0wkjsj04vfAfZWPm.jpg",
@@ -3690,6 +3690,182 @@
    "vote_average": 7.462,
    "vote_count": 378
   },
+  "movie:32961": {
+   "backdrop_path": "/vPA53RF6clLSWlpoCLgYvmygiOl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Henry 'Dutch' Holland",
+     "n": "Alec Guinness"
+    },
+    {
+     "c": "Albert Pendlebury",
+     "n": "Stanley Holloway"
+    },
+    {
+     "c": "Lackery Wood",
+     "n": "Sidney James"
+    },
+    {
+     "c": "Shorty Fisher",
+     "n": "Alfie Bass"
+    },
+    {
+     "c": "Mrs. Chalk",
+     "n": "Marjorie Fielding"
+    },
+    {
+     "c": "Miss Evesham",
+     "n": "Edie Martin"
+    },
+    {
+     "c": "Parkin",
+     "n": "John Salew"
+    },
+    {
+     "c": "Turner",
+     "n": "Ronald Adam"
+    },
+    {
+     "c": "Wallis",
+     "n": "Arthur Hambling"
+    },
+    {
+     "c": "Godwin",
+     "n": "Gibb McLaughlin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Charles Crichton"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 32961,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A meek bank clerk who oversees the shipments of bullion joins with an eccentric neighbor to steal gold bars and smuggle them out of the country.",
+   "popularity": 1.8705,
+   "poster_path": "/u4mZyim3CwXHu0zVhXjfK8fqoN7.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1951-06-28",
+   "revenue": 31288,
+   "runtime": 78,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The men who broke the bank and lost the cargo!",
+   "title": "The Lavender Hill Mob",
+   "trailer": {
+    "key": "5jlyDZvCpCQ",
+    "name": "4K Restoration Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 303
+  },
   "movie:352161": {
    "backdrop_path": "/wbA13Xns8EtbIubDOPLl7kCYYA4.jpg",
    "budget": 3500000,
@@ -4892,6 +5068,139 @@
    "type": "movie",
    "vote_average": 8.0,
    "vote_count": 393
+  },
+  "movie:615761": {
+   "backdrop_path": "/laoolYvTVis3Ld5tVm8ACdBgdG7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Undine",
+     "n": "Paula Beer"
+    },
+    {
+     "c": "Christoph",
+     "n": "Franz Rogowski"
+    },
+    {
+     "c": "Monika",
+     "n": "Maryam Zaree"
+    },
+    {
+     "c": "Johannes",
+     "n": "Jacob Matschenz"
+    },
+    {
+     "c": "Anna",
+     "n": "Anne Ratte-Polle"
+    },
+    {
+     "c": "Jochen",
+     "n": "Rafael Stachowiak"
+    },
+    {
+     "c": "Nora",
+     "n": "Julia Franz Richter"
+    },
+    {
+     "c": "Antonia",
+     "n": "Gloria de Oliveira"
+    },
+    {
+     "c": "Miguel",
+     "n": "José Barros"
+    },
+    {
+     "c": "Server",
+     "n": "Enno Trebs"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Christian Petzold"
+   ],
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 615761,
+   "industry": "world",
+   "origin_country": [
+    "DE",
+    "FR"
+   ],
+   "original_language": "de",
+   "overview": "Undine is a historian and tour guide at the Berlin City Museum specializing in urban development, while Christoph is an industrial diver. Linked by a love of the water, the two form an intense bond, which can only do so much to help Undine overcome the considerable baggage of her former affair.",
+   "popularity": 1.9488,
+   "poster_path": "/7PeaXj2EKef84zEZazxiGL8bXRH.jpg",
+   "production_countries": [
+    "FR",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2020-07-01",
+   "revenue": 1170267,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Undine",
+   "trailer": {
+    "key": "77guSAUb6qs",
+    "name": "Official MUBI Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.465,
+   "vote_count": 302
   },
   "movie:661": {
    "backdrop_path": "/ejp6CZQ64mEvewfit2fSIpOYxGR.jpg",
