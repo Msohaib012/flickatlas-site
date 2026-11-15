@@ -154616,5 +154616,399 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 11:01:13 GMT"
+  },
+  "h031zf": {
+    "id": "h031zf",
+    "type": "news",
+    "headline": "Ramayana Part 1 Crosses Rs 1,228 Crore Globally as Second Weekend Box Office Surges",
+    "dek": "Ranbir Kapoor and Yash’s epic drama Ramayana Part 1 continues its record-shattering theatrical run, crossing major milestones in India and overseas.",
+    "body": [
+      {
+        "h": "Phenomenal Second Saturday Collections",
+        "p": [
+          "The theatrical journey of Ramayana Part 1 reached new heights on its second Saturday, November 14. Directed by Nitesh Tiwari, the big-budget epic raked in a massive Rs 72.90 crore net in India on Day 10, elevating its total domestic net collection to an impressive Rs 685.60 crore. Meanwhile, the film's India gross collection reached Rs 819.50 crore.",
+          "On the international front, the feature added Rs 30 crore on Saturday alone, pushing its worldwide gross collection past the Rs 1,228 crore mark. Trade analysts have closely monitored this relentless upward trend as the film eyes the coveted Rs 1,500 crore milestone globally."
+        ]
+      },
+      {
+        "h": "Breaking Records and Outperforming Rivals",
+        "p": [
+          "With its staggering Rs 72.90 crore net collection on Day 10, Ramayana officially surpassed Dhurandhar 2, which previously held the record with Rs 58 crore, to register the highest second Saturday collection in the history of Indian cinema.",
+          "Furthermore, trade trackers noted that the movie is on track to eclipse Dhurandhar 2's worldwide collection at the same 11-day stage. While the Aditya Dhar directorial had amassed Rs 1,354.92 crore globally in 11 days, Ramayana is projected to land between Rs 1,356 crore and Rs 1,372 crore by the conclusion of its second Sunday."
+        ]
+      },
+      {
+        "h": "Language-Wise Breakdown and Dubbed Version Success",
+        "p": [
+          "The Hindi version remained the undisputed leader in contributions on Day 10, drawing Rs 53.75 crore across 18,557 shows. South Indian iterations also performed admirably, with the Kannada version bringing in Rs 5.40 crore from 893 shows, while Tamil and Malayalam versions secured Rs 4.75 crore each.",
+          "Trade circles have praised the performance of the dubbed versions, noting that the movie is poised to cross Rs 300 crore net from its dubbed versions alone across India—an unprecedented feat at a time when many major releases struggle to hit that number across all languages combined."
+        ]
+      },
+      {
+        "h": "Massive Advance Bookings and Sunday Projections",
+        "p": [
+          "Pre-sales for the second Sunday maintained extraordinary momentum, crossing Rs 42.84 crore in gross advance bookings including block seats, and selling over 13.14 lakh tickets across 24,502 shows. This marked the highest advance booking figure of the second weekend.",
+          "Projections for the entire second weekend estimated total India net collections to land between Rs 208 crore and Rs 216 crore, with global gross figures anticipated to touch between Rs 328 crore and Rs 343 crore by Sunday night."
+        ]
+      },
+      {
+        "h": "Strategic Decision on OTT and Satellite Rights",
+        "p": [
+          "Amid the phenomenal theatrical response, producer and distributor Dil Raju revealed that the makers have deliberately chosen to withhold digital streaming and satellite agreements. By refusing to sell these rights prior to release, the team ensured that audiences are strongly encouraged to experience the epic on the big screen.",
+          "Dil Raju also voiced extreme optimism during a success meet, predicting that Ramayana: Part 1 could ultimately gross between Rs 1,800 crore and Rs 2,000 crore worldwide, contingent upon its eventual reception and release in international territories like China."
+        ]
+      },
+      {
+        "h": "Expanding Global Footprint in 2027",
+        "p": [
+          "Plans are already underway to take the cinematic spectacle to broader international markets. Trade analyst Taran Adarsh confirmed that the movie is slated for release in China, Russia, Japan, and South Korea during the first quarter of 2027.",
+          "As part of this global rollout, the feature has already been formally submitted for censor clearance in China, setting the stage for what industry experts expect to be a massive international expansion."
+        ]
+      },
+      {
+        "h": "Music Reception and Fan Reactions",
+        "p": [
+          "Beyond box office figures, the film's soundtrack has resonated deeply with listeners. Singer Armaan Malik publicly thanked fans on social media for the overwhelming love received by 'Mangala Sangama', a popular track from the Kannada version of the movie.",
+          "Meanwhile, audiences on social media platforms like X shared amusing observations about recurring casting dynamics, highlighting actor Saurabh Sachdeva playing yet another adversarial role opposite Ranbir Kapoor following his appearance in Animal."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor and Yash's Ramayana Part 1 has achieved historic box-office milestones, crossing Rs 1,228 crore globally and setting a new record for the highest second Saturday collection in Indian cinema with Rs 72.90 crore net. Backed by strong advance bookings, ambitious global projections, and upcoming international releases in 2027, the makers have purposely delayed OTT and satellite deals to maximize theatrical audiences."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor's film Ramayana Part 1 crossed Rs 1,228 crore globally.",
+      "On Saturday, November 14 (Day 10), the film collected Rs 72.90 crore net in India.",
+      "The total India net collection reached Rs 685.60 crore, with a gross of Rs 819.50 crore.",
+      "The overseas collection on Saturday was Rs 30 crore.",
+      "The Hindi version collected Rs 53.75 crore from 18,557 shows on Day 10.",
+      "Ramayana Part 1 released worldwide on November 5 in Hindi, Telugu, Tamil, Malayalam and Kannada.",
+      "Part 2 is scheduled to release during Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Dil Raju",
+        "Saurabh Sachdeva",
+        "Aditya Dhar",
+        "Namit Malhotra",
+        "Taran Adarsh",
+        "Armaan Malik"
+      ],
+      "titles": [
+        "Ramayana Part 1",
+        "Dhurandhar 2",
+        "Animal",
+        "Mangala Sangama"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ranbir Kapoor Ramayana collection",
+      "Ramayana Part 1 worldwide gross",
+      "Ramayana second Saturday collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.indianexpress.com/2026/11/ramayana-blog-2.jpg",
+        "caption": "Ramayana Part 1 Crosses Rs 1,228 Crore Globally as Second Weekend Box Office Surges",
+        "source": "Indian Express — Entertainment"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 02:53:24 +0000"
+  },
+  "1olgytt": {
+    "id": "1olgytt",
+    "type": "news",
+    "headline": "Ram Gopal Varma Claims Ramayana Part 1 Budget Is Under Rs 800 Crore, Predicts Sequel Will Do Ten Times Better",
+    "dek": "Filmmaker Ram Gopal Varma has voiced strong support for Nitesh Tiwari's mythological epic Ramayana, arguing that its initial chapter will easily recover expenses for both parts.",
+    "body": [
+      {
+        "h": "Ram Gopal Varma Defends Ramayana Part 1 Budget",
+        "p": [
+          "Filmmaker Ram Gopal Varma has stepped forward to champion Nitesh Tiwari's cinematic adaptation of the Indian epic Ramayana. Amid circulating rumors regarding massive production expenses, Varma addressed the financial figures associated with the high-profile venture.",
+          "While reports have estimated a combined budget of Rs 4700 crore for both halves, Varma asserted that the first installment actually cost less than Rs 800 crore."
+        ]
+      },
+      {
+        "h": "Breaking Down Financial Realities",
+        "p": [
+          "The outspoken director pointed out that the expenses for the opening chapter factor in global tax benefits, mutually beneficial agreements, and subsidy elements. He noted that these financial adjustments naturally reduce the overall capital required.",
+          "Furthermore, Varma criticized assumptions that both parts share identical expenditures, drawing parallels to how climax sequences often consume significantly larger shares of a movie's total budget."
+        ]
+      },
+      {
+        "h": "Additional Revenue Streams and Co-Producer Plans",
+        "p": [
+          "Highlighting the commercial strategy mapped out by co-producer Namit Malhotra, Varma emphasized that theatrical ticket sales are only one component of the venture's financial model.",
+          "The rollout of merchandise, theme parks, and gaming properties are designed to act as lucrative auxiliary revenue streams that will bolster the overall profitability of the enterprise."
+        ]
+      },
+      {
+        "h": "Recovery Prospects for the Epic",
+        "p": [
+          "Given the strong momentum at the global box office, Varma expressed confidence that the opening chapter will generate enough revenue to cover the financial commitments of both films combined.",
+          "He suggested that non-theatrical revenues and future inflows from the upcoming sequel will leave the production team with substantial financial surplus."
+        ]
+      },
+      {
+        "h": "High Praise for Namit Malhotra",
+        "p": [
+          "The director didn't hold back in his admiration for co-producer Namit Malhotra, comparing his industry impact to foundational milestones in Indian cinema.",
+          "Varma went as far as calling Malhotra a transformative figure in Hindi cinema history, referencing Dadasaheb Phalke's silent film Raja Harishchandra released over a century ago."
+        ]
+      },
+      {
+        "h": "Lofty Predictions for Ramayana 2",
+        "p": [
+          "Looking ahead to the sequel scheduled for 2028, Varma offered an ambitious projection regarding its commercial performance compared to the debut film.",
+          "Drawing a comparison to Prashanth Neel's action franchise, he noted that if KGF Chapter 2 outperformed its predecessor by five times, the upcoming mythological sequel could potentially multiply those earnings tenfold."
+        ]
+      },
+      {
+        "h": "Box Office Milestone and Personal Connection",
+        "p": [
+          "The mythological feature has already achieved significant milestones, crossing the Rs 1288 crore mark worldwide within its first ten days in cinemas following its release three days prior to Diwali.",
+          "Demonstrating the wide demographic reach of the film, Varma shared a personal anecdote about his mother purchasing tickets for building staff, a gesture she never extended to his own directorial projects."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Ram Gopal Varma has claimed that the production budget for Nitesh Tiwari's Ramayana Part 1 is under Rs 800 crore, arguing that the opening chapter will comfortably cover expenses for both installments. Backed by strong global box office collections surpassing Rs 1288 crore, Varma also predicted that the 2028 sequel will achieve exponential financial success compared to the original film."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana Part 1 budget is claimed by Ram Gopal Varma to be under Rs 800 crore.",
+      "Combined budget for both parts of Ramayana is estimated at Rs 4700 crore.",
+      "Ramayana Part 1 crossed Rs 1288 crore at the worldwide box office.",
+      "Ramayana Part 1 released on November 5, three days before Diwali.",
+      "Ramayana Part 2 is slated to release in cinemas worldwide in 2028.",
+      "KGF: Chapter 1 earned over Rs 250 crore worldwide.",
+      "KGF: Chapter 2 earned Rs 1250 crore globally.",
+      "Dada Saheb Phalke's silent film Raja Harishchandra released in 1913."
+    ],
+    "entities": {
+      "people": [
+        "Ram Gopal Varma",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Prashanth Neel",
+        "Yash",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Dadasaheb Phalke"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana Part 1",
+        "Ramayana 2",
+        "Satya",
+        "Company",
+        "Sarkar",
+        "KGF: Chapter 1",
+        "KGF: Chapter 2",
+        "Raja Harishchandra",
+        "Dhurandhar 2",
+        "Chhaava"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1",
+      "Ram Gopal Varma Ramayana",
+      "Ramayana budget",
+      "Ramayana 2"
+    ],
+    "images": [
+      {
+        "url": "https://images.indianexpress.com/2026/11/ramayana-latest-collection-1.jpg",
+        "caption": "Ram Gopal Varma Claims Ramayana Part 1 Budget Is Under Rs 800 Crore, Predicts Sequel Will Do Ten Times Better",
+        "source": "Indian Express — Entertainment"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 05:32:34 +0000"
+  },
+  "dwuq5x": {
+    "id": "dwuq5x",
+    "type": "news",
+    "headline": "Salman Khan Criticizes Kanika Mann and ScoutOP During Weekend Ka Vaar on Bigg Boss 20",
+    "dek": "Host Salman Khan took contestants to task on the latest Weekend Ka Vaar episode of Bigg Boss 20, confronting Kanika Mann over her reactions and questioning ScoutOP about his behavior in the house.",
+    "body": [
+      {
+        "h": "Weekend Ka Vaar Episode Brings High Drama",
+        "p": [
+          "Every Saturday on the reality show Bigg Boss, the host connects with the housemates to evaluate their performance over the preceding week. During the latest Weekend Ka Vaar episode of Bigg Boss 20, host Salman Khan did not hold back his thoughts. He addressed several participants directly regarding controversial statements and actions that occurred inside the residence over the past week.",
+          "The weekly evaluation sessions are known for shedding light on underlying tensions and shifting alliances among the participants. This particular Saturday brought intense scrutiny from the host, leaving multiple housemates to answer for their conduct and interactions in front of the cameras."
+        ]
+      },
+      {
+        "h": "Salman Khan Confronts Kanika Mann",
+        "p": [
+          "One of the major focal points of the episode was Salman's sharp exchange with contestant Kanika Mann. The host questioned her intelligence and awareness after she laughed at a remark made earlier in the house. Salman asked her whether she considered herself very smart and why she failed to recognize the inappropriate nature of the comment when another contestant, Qazi, immediately caught it.",
+          "When Kanika attempted to defend herself and justify her stance, Salman firmly told her that she was choosing to argue instead of listening to his feedback. The direct confrontation left the housemate struggling to explain her reaction to the initial incident involving fellow participants."
+        ]
+      },
+      {
+        "h": "ScoutOP Under Fire for Shaving His Head",
+        "p": [
+          "Another major shocker discussed during the episode involved contestant Tanmay Singh, widely known as ScoutOP. A few days prior to the weekend, ScoutOP had shaved his head inside the Bigg Boss 20 house following an intense emotional breakdown and a heated disagreement with co-contestant Love Gill.",
+          "The emotional fallout stemmed from an earlier moment when Scout made a remark regarding the drawstrings of Love's trousers, which she later deemed inappropriate. Although Kanika and Love had initially laughed during the exchange, the aftermath led to Scout's drastic physical transformation inside the game."
+        ]
+      },
+      {
+        "h": "Questioning ScoutOP's Identity and Strategy",
+        "p": [
+          "Salman directed pointed questions toward ScoutOP, asking why a professional gamer was attempting to act like an actor inside the house. The host criticized his decision to cut off his hair, suggesting that Scout was letting himself be heavily influenced by Love Gill and allowing others to overpower him.",
+          "According to the host, certain friends were taking advantage of Scout without him even realizing it. Salman pointed out that the entire group had started revolving around Love, who allegedly played the victim card after altercations while everyone else rushed to her defense."
+        ]
+      },
+      {
+        "h": "Shifting Dynamics and Previous Controversies",
+        "p": [
+          "ScoutOP and Love Gill originally entered the house as good friends, with their bond later evolving into a sibling-like dynamic alongside fellow participant Yung DSA. However, Scout seemingly developed romantic feelings for Love, leading to physical closeness that included massaging her shoulders and thighs under a blanket.",
+          "This dynamic had previously drawn criticism during an earlier Weekend Ka Vaar episode hosted by Rohit Shetty. Furthermore, Scout's outside girlfriend, Kaashvi Hiranandani, had previously entered the show to confront both of them regarding their controversial behavior."
+        ]
+      },
+      {
+        "h": "Where to Watch Bigg Boss 20",
+        "p": [
+          "Audiences following the ongoing drama, arguments, and weekend interventions can catch every episode of Bigg Boss 20 on television and digital platforms. The reality show broadcasts regularly on Colors TV and streams digitally for viewers through JioHotstar.",
+          "As the season progresses, housemates continue to navigate alliances, public scrutiny, and the strict evaluations delivered by the weekend hosts, keeping viewers engaged with the unfolding controversies."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Host Salman Khan confronted contestants Kanika Mann and ScoutOP during the latest Weekend Ka Vaar episode of Bigg Boss 20 regarding their recent behavior and statements inside the house. Salman questioned Kanika for laughing at an inappropriate remark and criticized ScoutOP for shaving his head and being overly influenced by Love Gill. The show airs on Colors TV and JioHotstar."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on Nov 15, 2026",
+      "Host is Salman Khan",
+      "Show is Bigg Boss 20",
+      "Contestants involved are Kanika Mann, Tanmay Singh known as ScoutOP, Love Gill, Qazi, and Yung DSA",
+      "Guest host mentioned from a previous month is Rohit Shetty",
+      "Scout's girlfriend is Kaashvi Hiranandani",
+      "Show airs on JioHotstar and Colors TV"
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Kanika Mann",
+        "Tanmay Singh",
+        "ScoutOP",
+        "Love Gill",
+        "Qazi",
+        "Yung DSA",
+        "Rohit Shetty",
+        "Kaashvi Hiranandani",
+        "Santanu Das"
+      ],
+      "titles": [
+        "Bigg Boss 20",
+        "Bigg Boss"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20",
+      "Salman Khan Bigg Boss 20",
+      "ScoutOP Bigg Boss",
+      "Kanika Mann Bigg Boss"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/15/1600x900/logo/bigg_boss_1794741214007_fajT_1794741214263_CEYJ_d537b8c4-2c56-4f70-9deb-c909e0f0f8ae_4l3y.jpg",
+        "caption": "Salman Khan Criticizes Kanika Mann and ScoutOP During Weekend Ka Vaar on Bigg Boss 20",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 17:12:21 +0530"
+  },
+  "fldd7r": {
+    "id": "fldd7r",
+    "type": "news",
+    "headline": "Star Wars: Fate of the Old Republic Director Teases New Updates for Next Year",
+    "dek": "Project director Casey Hudson reveals that fresh announcements regarding the spiritual successor to Knights of the Old Republic are slated for the upcoming year.",
+    "body": [
+      {
+        "h": "Upcoming Details on the Horizon",
+        "p": [
+          "Fans eagerly anticipating news on Star Wars: Fate of the Old Republic can expect fresh updates to roll out next year. Project director Casey Hudson recently shared that the team plans to gradually release new announcements and information regarding the highly anticipated roleplaying game.",
+          "While the title was initially revealed approximately a year ago, updates have remained scarce since the announcement that the veteran BioWare creator would spearhead the studio. According to Hudson, players will not have to wait too much longer into the coming year before concrete details begin to surface."
+        ]
+      },
+      {
+        "h": "Studio Progress and Development Pace",
+        "p": [
+          "Behind the scenes, Arcanaut Studio is reportedly operating at a notably brisk pace. Hudson highlighted that the team organizes its workflow around structured six-month cycles, hitting major developmental milestones consistently.",
+          "This steady momentum ensures that the staff constantly evaluates their progress and advances smoothly through production phases, avoiding a drawn-out development process where goals are only defined toward the end of the timeline."
+        ]
+      },
+      {
+        "h": "No Official Release Date Yet",
+        "p": [
+          "Despite the encouraging operational rhythm, Hudson confirmed that a definitive release date has not been locked in stone just yet. Development is ongoing as the studio shapes the project into a spiritual successor to the beloved classic.",
+          "The team's focus remains squarely on building out the experience properly, ensuring that the title meets the high internal standards set by the veteran-led crew."
+        ]
+      },
+      {
+        "h": "Connection to a Sci-Fi Legacy",
+        "p": [
+          "The overarching franchise carries deep historical roots in gaming and cinematic history. As Disney prepares to roll out year-long festivities for the franchise's upcoming 50th anniversary, industry watchers speculate about potential synergy.",
+          "Whether the RPG will tie directly into the broader corporate celebrations slated for that milestone remains to be seen, but the timing aligns with ongoing excitement surrounding the universe."
+        ]
+      },
+      {
+        "h": "Creative Direction and Stand-Apolitical Stance",
+        "p": [
+          "Creative discussions around the game have hinted at potential narrative themes, with past commentary pointing toward a straightforward heroic structure reminiscent of classic tales. Additionally, leadership has maintained a traditional approach to development.",
+          "Notably, the former Mass Effect lead addressed modern industry trends by confirming that the studio is steering clear of artificial intelligence tools during production, expressing a distinct lack of interest in incorporating such technology."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Project director Casey Hudson announced that fresh information regarding Star Wars: Fate of the Old Republic will be shared next year. Although the game currently lacks a fixed release date, development under Arcanaut Studio continues to progress steadily through structured six-month milestones without utilizing artificial intelligence."
+        ]
+      }
+    ],
+    "facts": [
+      "Star Wars: Fate of the Old Republic was announced about a year ago.",
+      "Casey Hudson is the director of Star Wars: Fate of the Old Republic.",
+      "Arcanaut Studio works in six-month development cycles.",
+      "Star Wars' 50th anniversary is in 2027."
+    ],
+    "entities": {
+      "people": [
+        "Casey Hudson"
+      ],
+      "titles": [
+        "Star Wars: Fate of the Old Republic",
+        "Mass Effect",
+        "Knights of the Old Republic"
+      ]
+    },
+    "keywords": [
+      "Star Wars Fate of the Old Republic",
+      "Casey Hudson Star Wars game",
+      "Star Wars Fate of the Old Republic release date",
+      "Arcanaut Studio Star Wars RPG"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/zjAwNrwhgPRhTAGPD9pVZ3-1920-80.jpg",
+        "caption": "Star Wars: Fate of the Old Republic Director Teases New Updates for Next Year",
+        "source": "Total Film (GamesRadar)"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 12:39:39 +0000"
   }
 };
