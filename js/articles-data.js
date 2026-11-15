@@ -153461,5 +153461,411 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 08:00:33 +0000"
+  },
+  "yufmxy": {
+    "id": "yufmxy",
+    "type": "news",
+    "headline": "Godzilla Minus Zero Surpasses Avengers: Endgame Encore Domestically in Eight Days",
+    "dek": "The R-rated sequel Godzilla Minus Zero has officially beaten the North American total of Avengers: Endgame Encore in under ten days.",
+    "body": [
+      {
+        "h": "Milestone in North America",
+        "p": [
+          "The Japanese live-action sequel Godzilla Minus Zero has achieved a significant box office milestone in North America. In just eight days, the film managed to surpass the domestic total of Avengers: Endgame Encore. This feat highlights the growing reach of the franchise among international audiences.",
+          "Reaching this landmark in less than ten days is expected to boost the film's profile further across the region. Industry watchers note that the achievement sets a high bar for foreign releases competing in the same market."
+        ]
+      },
+      {
+        "h": "Comparison With Marvel Re-Release",
+        "p": [
+          "Avengers: Endgame was brought back to theaters in September under the title Avengers: Endgame Encore, featuring additional post-credits footage. Despite the excitement surrounding the Marvel Cinematic Universe entry, its box office run tapered off quickly after an initial surge.",
+          "The re-release ultimately accumulated $40.1 million during its domestic run. In contrast, Godzilla Minus Zero raced past that exact figure in a much shorter timeframe, underscoring its strong momentum."
+        ]
+      },
+      {
+        "h": "Box Office Numbers and Cume",
+        "p": [
+          "According to data from Box Office Mojo, the sequel pulled in $2.1 million on its second Friday in North America. This figure represented an 85.6% drop compared to the opening day numbers from the previous weekend.",
+          "Despite the steep decline, the feature successfully pushed its total domestic cumulative gross to $42.7 million within eight days of release. Projections indicate the film is well on its way to crossing the $50 million mark during its second weekend."
+        ]
+      },
+      {
+        "h": "Weekend Projections and Trends",
+        "p": [
+          "Market analysts project that Godzilla Minus Zero will secure between $7 million and $9 million over its second three-day weekend in North America. This anticipated result factors in an expected drop of 70% to 77% from its debut weekend.",
+          "While a sharp decline is projected, the overall earnings remain robust for an R-rated foreign sequel. The film is also inching closer to surpassing the domestic totals of its direct predecessor in the market."
+        ]
+      },
+      {
+        "h": "Performance in Japan",
+        "p": [
+          "Away from North America, the movie continues to exhibit strong theatrical legs in its home territory of Japan. Domestic audiences have turned out in high numbers to support the blockbuster.",
+          "In just twelve days of release in Japan, the picture recorded nearly 2.3 million admissions. This domestic success reinforces the widespread appeal of the creature feature globally."
+        ]
+      },
+      {
+        "h": "Plot and Release Background",
+        "p": [
+          "The narrative of Godzilla Minus Zero is set in Japan two years after the conclusion of wartime devastation and an earlier monster assault. The story follows a nation striving to rebuild infrastructure and return to a sense of normalcy.",
+          "Just as society begins to experience a fragile peace, a fresh catastrophic threat arises, threatening to wipe out the hard-earned recovery and forcing the country into another battle for survival. The film originally premiered in theaters on November 6."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Godzilla Minus Zero has successfully crossed the North American box office total of Avengers: Endgame Encore in just eight days. The R-rated sequel reached a cumulative gross of $42.7 million and is projected to surpass $50 million during its second weekend."
+        ]
+      }
+    ],
+    "facts": [
+      "Godzilla Minus Zero collected $2.1 million on its second Friday at the North American box office.",
+      "The film hit a $42.7 million cume at the North American box office in eight days.",
+      "Avengers: Endgame Encore collected $40.1 million in its domestic run.",
+      "Godzilla Minus Zero was released on November 6.",
+      "The film has seen almost 2.3 million admissions in Japan in 12 days."
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Avengers: Endgame",
+        "Avengers: Endgame Encore",
+        "Godzilla Minus One"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero",
+      "Avengers Endgame Encore",
+      "Godzilla Minus Zero North America Box Office",
+      "Godzilla Minus Zero box office cume"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/godzilla-minus-zero-north-america-box-office-scores-a-major-win-over-avengers-endgame-encore-001.jpg",
+        "caption": "Godzilla Minus Zero Surpasses Avengers: Endgame Encore Domestically in Eight Days",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 08:40:14 +0000"
+  },
+  "1knsa3i": {
+    "id": "1knsa3i",
+    "type": "news",
+    "headline": "Halo: Campaign Evolved to Introduce Firefight in Winter 2026 Update",
+    "dek": "Microsoft announces the upcoming arrival of the fan-favorite cooperative mode to Halo: Campaign Evolved as part of the 25th-anniversary celebrations for the Xbox brand.",
+    "body": [
+      {
+        "h": "Introduction of Firefight",
+        "p": [
+          "Xbox has officially confirmed that the cooperative PvE mode Firefight is heading to Halo: Campaign Evolved. The announcement was made as part of ongoing multi-city Xbox FanFest celebrations marking a quarter-century of the original console.",
+          "The upcoming addition will bring the beloved survival format to the recent remake, allowing squads of up to four players to team up against waves of enemies."
+        ]
+      },
+      {
+        "h": "Background of Halo: Campaign Evolved",
+        "p": [
+          "Halo: Campaign Evolved launched to generally positive reviews for maintaining the narrative integrity of the franchise's very first entry. Although the remake omitted competitive multiplayer features upon its release, it did incorporate online and split-screen campaign co-op.",
+          "The upcoming inclusion of Firefight addresses a major request from the community, expanding the cooperative gameplay options available within the title."
+        ]
+      },
+      {
+        "h": "History of the Franchise Mode",
+        "p": [
+          "Firefight originally made its debut in Halo 3: ODST, offering players an entirely fresh way to experience the universe outside of standard competitive matches. The survival mode subsequently returned in other entries like Halo: Reach and Halo 5: Guardians.",
+          "Over the years, the mode has grown into a definitive fan favorite, known for pitting players against increasingly difficult enemy forces in structured waves."
+        ]
+      },
+      {
+        "h": "Winter Update Content",
+        "p": [
+          "While specific details remain somewhat limited, Xbox has verified that the free Winter Update will introduce brand-new maps and weapons. Players will utilize these fresh additions while fending off onslaughts from the Covenant.",
+          "Attendees at the Seattle Xbox FanFest were given the initial opportunity to try out Firefight firsthand, with subsequent hands-on sessions scheduled for Halo Fest on December 12 through 13."
+        ]
+      },
+      {
+        "h": "Broader Anniversary Celebrations",
+        "p": [
+          "The return of the cooperative mode was part of a wider array of announcements celebrating 25 years of Xbox. Players across multiple major franchises are receiving free commemorative items during the festivities.",
+          "Among the rewards are an Xbox-themed GR GT livery for Forza Horizon 6, an anniversary weapon skin set for Gears of War: E-Day, and an original Xbox green character item in Minecraft."
+        ]
+      },
+      {
+        "h": "In-Game Rewards and Armor",
+        "p": [
+          "In addition to the broader franchise perks, players of Halo: Campaign Evolved can acquire a specific cosmetic bonus. The Damascus Prototype Armor Style for Master Chief is available at no cost via Halo Waypoint.",
+          "Fans can claim their anniversary armor immediately while awaiting further concrete information regarding the official release date of the winter update."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Xbox has announced that Firefight will arrive in Halo: Campaign Evolved as part of a free Winter Update in 2026, coinciding with the 25th anniversary of the original Xbox console. The cooperative mode will bring new maps, weapons, and wave-based combat alongside wider franchise rewards and armor unlocks."
+        ]
+      }
+    ],
+    "facts": [
+      "Firefight is coming to Halo: Campaign Evolved in the Winter 2026 update.",
+      "Xbox FanFest is celebrating 25 years since the release of the original Xbox console.",
+      "Halo: Campaign Evolved launched with online and split-screen co-op.",
+      "Firefight originally debuted in Halo 3: ODST and later appeared in Halo: Reach and Halo 5: Guardians.",
+      "Halo Fest takes place on Dec. 12-13.",
+      "Forza Horizon 6 features an Xbox-themed GR GT livery.",
+      "Gears of War: E-Day features an anniversary weapon skin set.",
+      "Minecraft features an original Xbox green character item.",
+      "Halo: Campaign Evolved players can claim the Damascus Prototype Armor Style for Master Chief via Halo Waypoint."
+    ],
+    "entities": {
+      "people": [
+        "Devin Coull"
+      ],
+      "titles": [
+        "Halo: Firefight",
+        "Halo: Campaign Evolved",
+        "Halo: Combat Evolved Anniversary",
+        "Halo 3: ODST",
+        "Halo: Reach",
+        "Halo 5: Guardians",
+        "Forza Horizon 6",
+        "Gears of War: E-Day",
+        "Minecraft"
+      ]
+    },
+    "keywords": [
+      "Halo Campaign Evolved Firefight",
+      "Halo Firefight Winter 2026 update",
+      "Xbox FanFest 25th anniversary",
+      "Halo Campaign Evolved update maps weapons"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/halo-campaign-evolved.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Halo: Campaign Evolved to Introduce Firefight in Winter 2026 Update",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 08:00:18 GMT"
+  },
+  "3ei1if": {
+    "id": "3ei1if",
+    "type": "news",
+    "headline": "Dhurandhar and Kantara: Chapter 1 Lead IFFI Indian Panorama Lineup",
+    "dek": "The 57th International Film Festival of India reveals its official Indian Panorama selections, showcasing a diverse array of feature and non-feature titles from across the country.",
+    "body": [
+      {
+        "h": "Opening the Festival",
+        "p": [
+          "The 57th International Film Festival of India in Goa has announced its official Indian Panorama selection, highlighting a diverse collection of cinematic works from all over the nation. Aditya Dhar's Hindi-language movie Dhurandhar has been chosen to open the feature film section of the prestigious annual event.",
+          "Joining the opening spotlight is Rishab Shetty's Kannada-language epic Kantara: A Legend – Chapter 1. Both major titles sit comfortably at the forefront of the festival's highly anticipated programming."
+        ]
+      },
+      {
+        "h": "The Mainstream Cinema Strand",
+        "p": [
+          "Dhurandhar and Kantara: A Legend – Chapter 1 are part of a select five-title Mainstream Cinema strand curated for the festival. This specialized category highlights films that bridge artistic vision with widespread commercial appeal.",
+          "Rounding out this specific strand are Samir Tewari's Marathi-language film Baapya, Anil Ravipudi's Telugu feature Mana Shankara Vara Prasad Garu (Pandaga Ki Vastunnaru), and Pravin Vitthal Tarde's Marathi title Deool Band 2."
+        ]
+      },
+      {
+        "h": "Non-Feature and Diverse Language Selections",
+        "p": [
+          "Beyond the mainstream features, the non-feature program will kick off with Leena Yadav's Ladakhi-language work Becoming. In total, the festival's annual survey of domestic filmmaking features 25 narrative feature films and 20 non-feature projects.",
+          "The broader selection spans an impressive 12 different languages, ranging from mainstream tongues like Hindi, Tamil, and Bengali to more regional dialects such as Tulu and Nyishi, ensuring representation from every corner of the country's filmmaking landscape."
+        ]
+      },
+      {
+        "h": "Jury Selection and Notable Feature Titles",
+        "p": [
+          "The exhaustive feature lineup was chosen by a 12-member jury led by Indian National Film Award-winning filmmaker Madhur Bhandarkar. The panel sorted through a massive pool of 404 total submissions to finalize their choices.",
+          "Among the other prominent feature titles making the official cut are Kamakhya Narayan Singh's The Kerala Story 2 Goes Beyond, Bharatbala Ganapathy's Banaras, Akhil Sathyan's Malayalam project Sarvam Maya, P. Sheshadri's Kannada film Ruby-Cube, and Singeetham Srinivasa Rao's Telugu feature Sing Geetham."
+        ]
+      },
+      {
+        "h": "Debut Directors and Special Categories",
+        "p": [
+          "The festival jury also shortlisted five distinct films vying for the best debut director of an Indian feature film award. The nominees include Ravi Varma Namburi's Telugu venture Chennai Love Story, Samarpan Sengupta's Bengali film Pratyabartan, Jeejivisha Kale's Marathi project Tighi, Raja Shabir Mohd Khan's Kashmiri title Sledge, and Vishal Chaturvedi's Hindi feature Hanuman Ansh.",
+          "In addition to the feature and debut director categories, the festival has named five separate nominees for its best web series prize, reflecting the growing scope of serialized storytelling in the country."
+        ]
+      },
+      {
+        "h": "Non-Feature Jury and Highlights",
+        "p": [
+          "On the non-feature side of the program, a six-member jury led by director and educator Himanshu Sekhar Khatua whittled down 358 entries to the final 20 selections. This group showcases a wide variety of short-form and documentary storytelling.",
+          "Standout picks in this category include Bhasker Vishwanathan's Hindi project The Unseen Holy River – Saraswati, Aimee Baruah's Assamese film Red Carpet, Suraj Kumar's English-language title Nirmanjali: The Chandigarh of Maciej Nowicki, and Baba Tassaduq Hussain's Kashmiri work Naqsh-e-Daur."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 57th International Film Festival of India in Goa has officially announced its Indian Panorama lineup, featuring Dhurandhar and Kantara: A Legend – Chapter 1 as part of its Mainstream Cinema strand. Selected by expert juries from hundreds of submissions, the festival will showcase a diverse array of feature and non-feature works across multiple languages."
+        ]
+      }
+    ],
+    "facts": [
+      "The 57th International Film Festival of India takes place in Goa.",
+      "Aditya Dhar directed the Hindi-language film Dhurandhar.",
+      "Rishab Shetty directed Kantara: A Legend – Chapter 1.",
+      "Leena Yadav directed the Ladakhi-language film Becoming.",
+      "The feature film selection consists of 25 features and 20 non-features.",
+      "A 12-member jury chaired by Madhur Bhandarkar picked the features from 404 submissions.",
+      "A six-member jury led by Himanshu Sekhar Khatua selected the non-feature films from 358 entries."
+    ],
+    "entities": {
+      "people": [
+        "Aditya Dhar",
+        "Rishab Shetty",
+        "Leena Yadav",
+        "Samir Tewari",
+        "Anil Ravipudi",
+        "Pravin Vitthal Tarde",
+        "Madhur Bhandarkar",
+        "Kamakhya Narayan Singh",
+        "Bharatbala Ganapathy",
+        "Akhil Sathyan",
+        "P. Sheshadri",
+        "Singeetham Srinivasa Rao",
+        "Sahil Shah",
+        "Duyu Tabyo",
+        "Ravi Varma Namburi",
+        "Samarpan Sengupta",
+        "Jeejivisha Kale",
+        "Raja Shabir Mohd Khan",
+        "Vishal Chaturvedi",
+        "Himanshu Sekhar Khatua",
+        "Bhasker Vishwanathan",
+        "Aimee Baruah",
+        "Suraj Kumar",
+        "Baba Tassaduq Hussain"
+      ],
+      "titles": [
+        "Dhurandhar",
+        "Kantara: A Legend – Chapter 1",
+        "Becoming",
+        "Baapya",
+        "Mana Shankara Vara Prasad Garu (Pandaga Ki Vastunnaru)",
+        "Deool Band 2",
+        "The Kerala Story 2 Goes Beyond",
+        "Banaras",
+        "Sarvam Maya",
+        "Ruby-Cube",
+        "Sing Geetham",
+        "Birds on Ice",
+        "Urum",
+        "Chennai Love Story",
+        "Pratyabartan",
+        "Tighi",
+        "Sledge",
+        "Hanuman Ansh",
+        "The Unseen Holy River – Saraswati",
+        "Red Carpet",
+        "Nirmanjali: The Chandigarh of Maciej Nowicki",
+        "Naqsh-e-Daur"
+      ]
+    },
+    "keywords": [
+      "Dhurandhar film",
+      "Kantara Chapter 1",
+      "IFFI Indian Panorama",
+      "Madhur Bhandarkar jury",
+      "Dhurandhar IFFI Goa"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2025/07/Dhurandhar.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Dhurandhar and Kantara: Chapter 1 Lead IFFI Indian Panorama Lineup",
+        "source": "Variety"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 08:17:29 +0000"
+  },
+  "jmegyc": {
+    "id": "jmegyc",
+    "type": "news",
+    "headline": "Go Kyung Pyo Halts All Activities and Issues Personal Apology Following Drunk-Driving Incident",
+    "dek": "South Korean actor Go Kyung Pyo has stepped away from all scheduled work after crashing his vehicle into a sanitation truck while driving under the influence.",
+    "body": [
+      {
+        "h": "The Incident and Direct Admission",
+        "p": [
+          "Actor Go Kyung Pyo has publicly admitted to driving under the influence and crashing into a sanitation vehicle during the early hours of November 14, 2026. The collision occurred when his blood alcohol level had exceeded the legal threshold required for license revocation.",
+          "Following confirmation of the accident by his management agency, the performer published an extensive statement on his social media channels on November 15, taking full accountability for his actions behind the wheel."
+        ]
+      },
+      {
+        "h": "Apology to Sanitation Workers",
+        "p": [
+          "In his public message, the actor expressed deep remorse toward the sanitation workers who were performing their duties at dawn when the collision took place. He acknowledged that his reckless driving endangered individuals who were simply trying to do their jobs.",
+          "Reports from several outlets confirmed that a sanitation company worker in his sixties sustained minor injuries as a result of being inside the truck at the time of the crash."
+        ]
+      },
+      {
+        "h": "Sequence of Events After the Collision",
+        "p": [
+          "Addressing the specifics of the accident, the actor explained that he did not immediately find a safe location to halt his vehicle, prompting him to drive a short distance further before finally pulling over to inspect the damage.",
+          "He stated that he offered immediate apologies to the two workers upon encountering them, at which point he was informed that local authorities had already been contacted. He also clarified that circulating CCTV footage showing him placing an object in his coat pocket merely depicted him securing his car key."
+        ]
+      },
+      {
+        "h": "Breach of Personal Standards",
+        "p": [
+          "The entertainer expressed intense frustration with himself for contradicting his own past advice against drunk driving. He noted that the irresponsible behavior could easily have resulted in severe injuries to others.",
+          "He emphasized that getting behind the wheel after consuming alcohol was entirely his own fault and stated that he feels profound shame regarding the entire situation."
+        ]
+      },
+      {
+        "h": "Impact on Television Projects",
+        "p": [
+          "The fallout from the accident has heavily affected multiple upcoming television productions. The tvN program 'Bogum Magical 2', which was scheduled for a November 29 premiere, removed promotional material featuring the actor.",
+          "Meanwhile, the TVING series 'The Great Escape: Urban Legends' announced that production teams will actively re-edit scenes to minimize his presence, placing pressure on colleagues and production staff."
+        ]
+      },
+      {
+        "h": "Cooperation and Halting Activities",
+        "p": [
+          "To address the consequences of the incident, the actor announced the immediate suspension of all scheduled professional activities to focus entirely on accountability and remediation.",
+          "He confirmed his intention to cooperate fully with ongoing police investigations, address the property damage caused by the collision, and accept any legal penalties handed down by authorities."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Go Kyung Pyo issued a personal apology and halted all scheduled activities after crashing into a sanitation truck while driving under the influence in the early hours of November 14, 2026. The incident resulted in minor injuries to a sanitation worker and has forced production changes on upcoming shows like 'Bogum Magical 2' and 'The Great Escape: Urban Legends'."
+        ]
+      }
+    ],
+    "facts": [
+      "Go Kyung Pyo drove after drinking and hit a sanitation truck in the early hours of November 14, 2026.",
+      "His blood alcohol level was over the limit for license revocation.",
+      "A sanitation company worker in his 60s inside the truck suffered minor injuries.",
+      "Go Kyung Pyo posted his statement on November 15, 2026.",
+      "'Bogum Magical 2' premieres November 29, 2026 on tvN."
+    ],
+    "entities": {
+      "people": [
+        "Go Kyung Pyo",
+        "Hana"
+      ],
+      "titles": [
+        "Bogum Magical 2",
+        "The Great Escape: Urban Legends",
+        "The Remarried Empress",
+        "Doctor X",
+        "Pursuit of Jade",
+        "Where the Mask Ends"
+      ]
+    },
+    "keywords": [
+      "Go Kyung Pyo",
+      "Go Kyung Pyo drunk driving",
+      "Bogum Magical 2",
+      "The Great Escape Urban Legends"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/zvvlkA_2d.jpg",
+        "caption": "Go Kyung Pyo Halts All Activities and Issues Personal Apology Following Drunk-Driving Incident",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 08:45:49 +0000"
   }
 };

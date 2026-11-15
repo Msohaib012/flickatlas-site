@@ -107,6 +107,69 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-15T08:52:39Z"
   },
+  "jmegyc": {
+    "id": "jmegyc",
+    "type": "news",
+    "headline": "Go Kyung Pyo Halts All Activities and Issues Personal Apology Following Drunk-Driving Incident",
+    "dek": "South Korean actor Go Kyung Pyo has stepped away from all scheduled work after crashing his vehicle into a sanitation truck while driving under the influence.",
+    "entities": {
+      "people": [
+        "Go Kyung Pyo",
+        "Hana"
+      ],
+      "titles": [
+        "Bogum Magical 2",
+        "The Great Escape: Urban Legends",
+        "The Remarried Empress",
+        "Doctor X",
+        "Pursuit of Jade",
+        "Where the Mask Ends"
+      ]
+    },
+    "keywords": [
+      "Go Kyung Pyo",
+      "Go Kyung Pyo drunk driving",
+      "Bogum Magical 2",
+      "The Great Escape Urban Legends"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/zvvlkA_2d.jpg",
+        "caption": "Go Kyung Pyo Halts All Activities and Issues Personal Apology Following Drunk-Driving Incident",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 08:45:49 +0000"
+  },
+  "yufmxy": {
+    "id": "yufmxy",
+    "type": "news",
+    "headline": "Godzilla Minus Zero Surpasses Avengers: Endgame Encore Domestically in Eight Days",
+    "dek": "The R-rated sequel Godzilla Minus Zero has officially beaten the North American total of Avengers: Endgame Encore in under ten days.",
+    "entities": {
+      "people": [],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Avengers: Endgame",
+        "Avengers: Endgame Encore",
+        "Godzilla Minus One"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero",
+      "Avengers Endgame Encore",
+      "Godzilla Minus Zero North America Box Office",
+      "Godzilla Minus Zero box office cume"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/godzilla-minus-zero-north-america-box-office-scores-a-major-win-over-avengers-endgame-encore-001.jpg",
+        "caption": "Godzilla Minus Zero Surpasses Avengers: Endgame Encore Domestically in Eight Days",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 08:40:14 +0000"
+  },
   "beadog": {
     "id": "beadog",
     "type": "news",
@@ -139,6 +202,79 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 08:21:02 +0000"
+  },
+  "3ei1if": {
+    "id": "3ei1if",
+    "type": "news",
+    "headline": "Dhurandhar and Kantara: Chapter 1 Lead IFFI Indian Panorama Lineup",
+    "dek": "The 57th International Film Festival of India reveals its official Indian Panorama selections, showcasing a diverse array of feature and non-feature titles from across the country.",
+    "entities": {
+      "people": [
+        "Aditya Dhar",
+        "Rishab Shetty",
+        "Leena Yadav",
+        "Samir Tewari",
+        "Anil Ravipudi",
+        "Pravin Vitthal Tarde",
+        "Madhur Bhandarkar",
+        "Kamakhya Narayan Singh",
+        "Bharatbala Ganapathy",
+        "Akhil Sathyan",
+        "P. Sheshadri",
+        "Singeetham Srinivasa Rao",
+        "Sahil Shah",
+        "Duyu Tabyo",
+        "Ravi Varma Namburi",
+        "Samarpan Sengupta",
+        "Jeejivisha Kale",
+        "Raja Shabir Mohd Khan",
+        "Vishal Chaturvedi",
+        "Himanshu Sekhar Khatua",
+        "Bhasker Vishwanathan",
+        "Aimee Baruah",
+        "Suraj Kumar",
+        "Baba Tassaduq Hussain"
+      ],
+      "titles": [
+        "Dhurandhar",
+        "Kantara: A Legend – Chapter 1",
+        "Becoming",
+        "Baapya",
+        "Mana Shankara Vara Prasad Garu (Pandaga Ki Vastunnaru)",
+        "Deool Band 2",
+        "The Kerala Story 2 Goes Beyond",
+        "Banaras",
+        "Sarvam Maya",
+        "Ruby-Cube",
+        "Sing Geetham",
+        "Birds on Ice",
+        "Urum",
+        "Chennai Love Story",
+        "Pratyabartan",
+        "Tighi",
+        "Sledge",
+        "Hanuman Ansh",
+        "The Unseen Holy River – Saraswati",
+        "Red Carpet",
+        "Nirmanjali: The Chandigarh of Maciej Nowicki",
+        "Naqsh-e-Daur"
+      ]
+    },
+    "keywords": [
+      "Dhurandhar film",
+      "Kantara Chapter 1",
+      "IFFI Indian Panorama",
+      "Madhur Bhandarkar jury",
+      "Dhurandhar IFFI Goa"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2025/07/Dhurandhar.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Dhurandhar and Kantara: Chapter 1 Lead IFFI Indian Panorama Lineup",
+        "source": "Variety"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 08:17:29 +0000"
   },
   "9q94lk": {
     "id": "9q94lk",
@@ -177,6 +313,42 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 08:00:33 +0000"
+  },
+  "1knsa3i": {
+    "id": "1knsa3i",
+    "type": "news",
+    "headline": "Halo: Campaign Evolved to Introduce Firefight in Winter 2026 Update",
+    "dek": "Microsoft announces the upcoming arrival of the fan-favorite cooperative mode to Halo: Campaign Evolved as part of the 25th-anniversary celebrations for the Xbox brand.",
+    "entities": {
+      "people": [
+        "Devin Coull"
+      ],
+      "titles": [
+        "Halo: Firefight",
+        "Halo: Campaign Evolved",
+        "Halo: Combat Evolved Anniversary",
+        "Halo 3: ODST",
+        "Halo: Reach",
+        "Halo 5: Guardians",
+        "Forza Horizon 6",
+        "Gears of War: E-Day",
+        "Minecraft"
+      ]
+    },
+    "keywords": [
+      "Halo Campaign Evolved Firefight",
+      "Halo Firefight Winter 2026 update",
+      "Xbox FanFest 25th anniversary",
+      "Halo Campaign Evolved update maps weapons"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/halo-campaign-evolved.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Halo: Campaign Evolved to Introduce Firefight in Winter 2026 Update",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 08:00:18 GMT"
   },
   "1lurq8g": {
     "id": "1lurq8g",
@@ -4296,154 +4468,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sat, 14 Nov 2026 04:48:38 GMT"
-  },
-  "1tynyr7": {
-    "id": "1tynyr7",
-    "type": "news",
-    "headline": "James Gunn and Peter Safran Exit DC Studios, Casting Doubt on The People Vs. Gorilla Grodd",
-    "dek": "The departure of studio heads James Gunn and Peter Safran has created major uncertainty around upcoming experimental DC projects like the Superman spin-off series, The People Vs. Gorilla Grodd.",
-    "entities": {
-      "people": [
-        "James Gunn",
-        "Peter Safran",
-        "Tony Yacenda",
-        "Dan Perrault",
-        "Skyler Gisondo",
-        "Wendell Pierce",
-        "Beck Bennett",
-        "Mikaela Hoover",
-        "Gorilla Grodd"
-      ],
-      "titles": [
-        "Superman",
-        "Clayface",
-        "Supergirl",
-        "Man of Tomorrow",
-        "The People Vs. Gorilla Grodd",
-        "Peacemaker",
-        "Creature Commandos",
-        "Wonder Man"
-      ]
-    },
-    "keywords": [
-      "James Gunn DCU exit",
-      "The People Vs. Gorilla Grodd",
-      "DC Studios leadership change",
-      "Superman spin off series"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/david-corenswet-s-superman-smiling-as-he-flies-into-the-camera-in-superman-2025.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "James Gunn and Peter Safran Exit DC Studios, Casting Doubt on The People Vs. Gorilla Grodd",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Sat, 14 Nov 2026 04:00:18 GMT"
-  },
-  "1irvzf2": {
-    "id": "1irvzf2",
-    "type": "news",
-    "headline": "Boston Blue Season 2 Episode 6 Bloodlines Episode Rating and Discussion",
-    "dek": "Share your thoughts, rate the latest chapter of Boston Blue titled Bloodlines, and vote for your favorite standout character from the episode.",
-    "entities": {
-      "people": [
-        "Donny Wahlberg",
-        "Sonequa Martin-Green",
-        "Maggie Lawson",
-        "Marcus Scribner",
-        "Mika Amonsen",
-        "Gloria Reuben",
-        "Ernie Hudson",
-        "Marg Helgenberger",
-        "Matia Jackett"
-      ],
-      "titles": [
-        "Boston Blue"
-      ]
-    },
-    "keywords": [
-      "Boston Blue Bloodlines",
-      "Boston Blue episode 206",
-      "Donny Wahlberg Boston Blue",
-      "Boston Blue review"
-    ],
-    "images": [],
-    "published": "2026-11-14T04:00:00.176+00:00"
-  },
-  "1wo3nsr": {
-    "id": "1wo3nsr",
-    "type": "news",
-    "headline": "O.M Trailer Review: Mammootty, Dhanush And Sai Pallavi Starrer Promises High-Octane Action",
-    "dek": "The newly released trailer for the upcoming Tamil action drama O.M offers a thrilling look at its star-studded cast and real-life-inspired plot.",
-    "entities": {
-      "people": [
-        "Mammootty",
-        "Dhanush",
-        "Sai Pallavi",
-        "Rajkumar Periaswamy",
-        "Sreeleela",
-        "Naseeruddin Shah",
-        "Sai Abhyankar",
-        "Rajinikanth",
-        "Suriya",
-        "Dulquer Salmaan"
-      ],
-      "titles": [
-        "O.M",
-        "Amaran",
-        "Ramayana",
-        "Jailer 2",
-        "Scene",
-        "Aakasamlo Oka Tara"
-      ]
-    },
-    "keywords": [
-      "O.M trailer review",
-      "Mammootty O.M film",
-      "Dhanush Sai Pallavi O.M",
-      "Rajkumar Periaswamy O.M"
-    ],
-    "images": [
-      {
-        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/om-trailer-review-001.jpg",
-        "caption": "O.M Trailer Review: Mammootty, Dhanush And Sai Pallavi Starrer Promises High-Octane Action",
-        "source": "Koimoi"
-      }
-    ],
-    "published": "Sat, 14 Nov 2026 03:56:40 +0000"
-  },
-  "1s36fg0": {
-    "id": "1s36fg0",
-    "type": "news",
-    "headline": "Bigg Boss 20 Episode 69 Sees Love Gill And Scout OP Respond To Kanika Mann's Claims",
-    "dek": "Kanika Mann spots romantic feelings between Scout OP and Love Gill in Bigg Boss 20 Episode 69, leading to denials and a surprising headline-making remark.",
-    "entities": {
-      "people": [
-        "Kanika Mann",
-        "Love Gill",
-        "Scout OP",
-        "Mahhi",
-        "Amrapali"
-      ],
-      "titles": [
-        "Bigg Boss 20"
-      ]
-    },
-    "keywords": [
-      "Bigg Boss 20",
-      "Love Gill",
-      "Scout OP",
-      "Kanika Mann",
-      "Bigg Boss 20 Episode 69"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156506423,thumbsize-174908,width-1280,height-720,resizemode-75/156506423.jpg",
-        "caption": "Bigg Boss 20 Episode 69 Sees Love Gill And Scout OP Respond To Kanika Mann's Claims",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-14T03:40:56Z"
   },
   "1iumf04": {
     "id": "1iumf04",
