@@ -156503,5 +156503,389 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 16 Nov 2026 00:05:16 +0530"
+  },
+  "ew6skl": {
+    "id": "ew6skl",
+    "type": "news",
+    "headline": "Delhi Police Apprehends Two Alleged Shooters Targeting Bollywood Actor and Businessman",
+    "dek": "The Delhi Police Special Cell has taken two suspected operatives into custody for allegedly orchestrating separate attacks against an A-list Bollywood star and a Delhi entrepreneur on behalf of overseas handlers.",
+    "body": [
+      {
+        "h": "Special Cell Operation",
+        "p": [
+          "Authorities in the capital have successfully apprehended two alleged gunmen accused of plotting distinct assaults on a prominent Bollywood celebrity and a businessman based in Delhi. The operation was executed by the Delhi Police Special Cell.",
+          "According to law enforcement briefings, the suspects were operating under the direct instructions of handlers located overseas. The quick response by the authorities has reportedly disrupted a major security threat aimed at high-profile targets."
+        ]
+      },
+      {
+        "h": "Suspect Identification and Arrests",
+        "p": [
+          "The apprehended individuals have been identified as Deep, also known as Deepak Singh, and Vikas Thakur, alias Vicky. While Deepak was captured in Mumbai, Vikas was apprehended within the territory of Delhi.",
+          "Investigators noted that Deepak had been residing underground in Mumbai for approximately one month. His presence in the western metropolis was allegedly linked to an earlier high-profile homicide that occurred in October."
+        ]
+      },
+      {
+        "h": "Connection to Prior Incidents",
+        "p": [
+          "Police records indicate that Deepak had been evading the law following the October 3 murder of social media influencer Mad Sandhu in Amritsar, Punjab. He fled to Mumbai and managed to secure a rented hideout in the Malad neighborhood.",
+          "Furthermore, law enforcement officials suspect that the same network of shooters involved in a previous firing incident targeting actor Tiger Shroff had also conducted reconnaissance around the residence of the targeted Bollywood celebrity."
+        ]
+      },
+      {
+        "h": "Financial Tactics and Covert Communication",
+        "p": [
+          "During his month-long stay in Mumbai, Deepak reportedly relied on unusual financial methods to sustain his daily expenses without raising suspicion. Investigators found that funds were funneled to him using QR codes belonging to local vendors, including restaurants, paan shops, and vegetable sellers.",
+          "Communication with his overseas controllers was maintained through a secure private messaging platform. His foreign handlers consistently instructed him to alter his hideouts frequently and maintain a low profile while waiting for further orders."
+        ]
+      },
+      {
+        "h": "The Target and Motive",
+        "p": [
+          "The primary Bollywood target of the conspiracy is a prominent A-list actor who found himself on the syndicate's hitlist. Police investigations suggest the animosity stemmed from the actor's alleged remarks concerning the historical events of 1984 involving the Sikh community.",
+          "Law enforcement officials disclosed that another operative was expected to arrive in Mumbai to assist in executing the planned assault on the actor before the Special Cell intervened and arrested the suspects."
+        ]
+      },
+      {
+        "h": "Ongoing Inquiries",
+        "p": [
+          "With both suspects now in custody, the Delhi Police Special Cell is expanding its inquiry to uncover the broader conspiracy and identify other potential members of the foreign-backed network.",
+          "Authorities are examining all electronic evidence and financial transactions linked to the accused to track down remaining handlers and accomplices connected to the threats."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Delhi Police Special Cell arrested two suspected shooters in Mumbai and Delhi who were allegedly plotting separate attacks against an A-list Bollywood actor and a Delhi-based businessman under foreign instructions. One of the suspects, Deepak Singh, had been hiding in Malad using vendor QR codes for funds following an October murder in Amritsar.",
+          "Investigators revealed that the Bollywood actor was targeted due to past remarks about the 1984 events, and police continue to probe deeper links involving previous threats against industry figures like Tiger Shroff."
+        ]
+      }
+    ],
+    "facts": [
+      "Delhi Police Special Cell arrested two suspected shooters named Deep alias Deepak Singh and Vikas Thakur alias Vicky",
+      "Deepak Singh was arrested from Mumbai and Vikas Thakur was arrested from Delhi",
+      "Mad Sandhu was murdered on October 3 in Amritsar, Punjab",
+      "Deepak Singh stayed in a rented house in Mumbai's Malad area",
+      "Money for daily expenses was transferred to Deepak using QR codes belonging to vegetable vendors, paan shops, and restaurants",
+      "The targeted Bollywood actor was allegedly on the hit list over remarks against the Sikh community concerning the 1984 events"
+    ],
+    "entities": {
+      "people": [
+        "Deep",
+        "Deepak Singh",
+        "Vikas Thakur",
+        "Vicky",
+        "Mad Sandhu",
+        "Tiger Shroff"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Delhi Police arrest",
+      "Bollywood actor targeted",
+      "Deepak Singh arrest",
+      "Tiger Shroff",
+      "Mad Sandhu"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/15/6635-ani-1.png",
+        "caption": "Delhi Police Apprehends Two Alleged Shooters Targeting Bollywood Actor and Businessman",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T20:53:22Z"
+  },
+  "kwho9s": {
+    "id": "kwho9s",
+    "type": "news",
+    "headline": "Diljit Dosanjh Indore Concert Security Heightened With CCTVs And Bomb Squads",
+    "dek": "Authorities in Indore have implemented rigorous security measures, including facial recognition and drone surveillance, for Diljit Dosanjh's sold-out Sunday musical performance.",
+    "body": [
+      {
+        "h": "Massive Security Overhaul for Indore Concert",
+        "p": [
+          "Local authorities have significantly upgraded security provisions at the C21 Estate Ground in Indore ahead of the highly anticipated musical performance by Punjabi artist Diljit Dosanjh. Following various reported threats directed at the gathering, the police department took comprehensive steps to secure the location and protect the massive audience.",
+          "The venue is set to host a sold-out crowd, requiring meticulous planning from law enforcement agencies to maintain public safety and manage the large influx of attendees expected throughout the day."
+        ]
+      },
+      {
+        "h": "Advanced Technology and Surveillance Systems",
+        "p": [
+          "Law enforcement has incorporated high-tech surveillance infrastructure across the sector, installing approximately 250 closed-circuit television cameras. Furthermore, a facial recognition system has been integrated into the network, preloaded with a database containing information on habitual offenders to instantly spot suspicious individuals.",
+          "To ensure continuous oversight after dark, authorities have arranged drone monitoring alongside night-vision devices for deployed personnel. Special traffic diversions and volunteer assistance have also been organized to handle vehicular movement efficiently."
+        ]
+      },
+      {
+        "h": "Specialized Units and Emergency Preparedness",
+        "p": [
+          "The Bomb Detection and Disposal Squad, alongside trained canine units, has been thoroughly examining the concert grounds for several days. These exhaustive sweeps are scheduled to continue right up until the commencement of the live program.",
+          "Medical contingencies have been fully addressed with the allocation of six ambulances, five temporary care centers, and a dedicated team of medical professionals. Additionally, fire engines will remain stationed at the site to counter any potential fire safety hazards."
+        ]
+      },
+      {
+        "h": "Focus on Women's Safety and Crowd Control",
+        "p": [
+          "Ensuring the protection of female attendees remains a primary focus, prompting the deployment of numerous female police officers on-site. Shakti Mobile patrol units are also assigned to maintain continuous surveillance around the perimeter of the venue.",
+          "Plainclothes officers will mingle within the crowds to intercept any disruptive or anti-social behaviour promptly. Breathalyser testing will also be conducted actively to deter instances of drunk driving around the area."
+        ]
+      },
+      {
+        "h": "Massive Turnout Expected at Venue",
+        "p": [
+          "Organizers have distributed approximately 20,500 tickets for the musical night, bringing total attendance figures past the twenty-thousand mark. Alongside ticket holders, nearly 2,000 additional individuals comprising support personnel and event volunteers are anticipated to be present.",
+          "The unprecedented scale of the gathering necessitates strict adherence to checklists provided by law enforcement to guarantee that all safety parameters are met seamlessly by the management team."
+        ]
+      },
+      {
+        "h": "Artist Reassures Fans Live on Instagram",
+        "p": [
+          "Amidst speculation surrounding security concerns, the Punjabi musician addressed his supporters directly through an Instagram live session. He firmly confirmed his arrival in Indore for the scheduled date, urging fans to trust his word over external rumors.",
+          "During the broadcast, he lightheartedly mentioned looking forward to enjoying local poha upon arrival before channeling his energy into the live performance to deliver an unforgettable show."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Authorities in Indore have established extensive security protocols featuring advanced surveillance and bomb squads for Diljit Dosanjh's sold-out concert. The artist previously reassured his fanbase via social media that the performance would proceed as scheduled."
+        ]
+      }
+    ],
+    "facts": [
+      "Diljit Dosanjh is set to perform in Indore on Sunday, November 15, 2026.",
+      "The venue for the concert is the C21 Estate Ground.",
+      "Organizers issued approximately 20,500 tickets for the event.",
+      "Nearly 2,000 additional people, including volunteers and support staff, are expected.",
+      "Police installed around 250 CCTV cameras at the venue.",
+      "Six ambulances and five temporary medical centres have been arranged.",
+      "DCP Zone 2 is Aman Singh Rathore."
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Aman Singh Rathore"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Diljit Dosanjh Indore concert",
+      "Diljit Dosanjh C21 Estate Ground",
+      "Diljit Dosanjh security Indore",
+      "Diljit Dosanjh November 15"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/10/5337-diljit-dosanjh.jpg",
+        "caption": "Diljit Dosanjh Indore Concert Security Heightened With CCTVs And Bomb Squads",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T20:53:22Z"
+  },
+  "t0ku1e": {
+    "id": "t0ku1e",
+    "type": "news",
+    "headline": "Tallinn Film Festival Satire 'When I Existed' Follows a Retired Pensioner Declared Dead by the State",
+    "dek": "Writers-directors Alejandro Damiani and Martin Avdolov debut their social satire at the Tallinn Black Nights Film Festival, starring César Troncoso as a man fighting a Kafkaesque bureaucratic nightmare.",
+    "body": [
+      {
+        "h": "Introduction to a Bureaucratic Nightmare",
+        "p": [
+          "The social satire feature film When I Existed brings a bizarre and frustrating plight to the big screen. The narrative centers around Silvio Bertolini, a resident of Montevideo, Uruguay, who has just finished a career spanning 40 years of work. Instead of enjoying a peaceful retirement with his wife and visiting his pregnant daughter in Barcelona, he discovers that the government has officially declared him dead.",
+          "Left with no simple recourse, Silvio embarks on a desperate mission to correct this catastrophic administrative error. His struggle to reclaim his legal identity and his pension takes him through endless loops of official paperwork, touching on a universal exhaustion with modern administrative hurdles."
+        ]
+      },
+      {
+        "h": "Festival Premiere and Production Background",
+        "p": [
+          "When I Existed marks the feature-length directorial debut for writers and directors Alejandro Damiani and Martin Avdolov. Blending social commentary with black humor, the project functions as a cross-continental co-production between Uruguay and Spain. The film is scheduled to hold its world premiere within the Critics’ Picks Competition at the 30th edition of the Tallinn Black Nights Film Festival in Estonia.",
+          "The journey to complete the film took roughly five to six years. Much of that timeline was consumed by the writing process—which began during the COVID-19 pandemic—and the complex task of securing financial support from various regional and international bodies."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Financial Backers",
+        "p": [
+          "Prominent Uruguayan actor César Troncoso anchors the production in the lead role, joined by a supporting cast featuring Silvia Kutica, Néstor Guzzini, Maruja Bustamante, Mónica Gonzaga, and Mirella Pascual. Behind the camera, the creative team includes cinematographer Manuel Branaa and editors Dan Avram, Martí Rocca, Damiani, and Avdolov.",
+          "The movie was produced by Federico Cetta under El Cielo Cine, alongside co-producers David Matamoros of Spain's Doce Entertainment and Andrés Rosenblatt of Uruguay's Metropolis Films, with Matías Burgos acting as associate producer. Financial backing was provided by ACAU, FONA, MVD Filma, MVD Socio, FIC, and Ibermedia, while international sales are managed by m-appeal."
+        ]
+      },
+      {
+        "h": "A Post-Kafka Perspective on Modern Systems",
+        "p": [
+          "The filmmakers describe their movie not just as a standard Kafkaesque tale, but as a distinctly post-modern version of it. According to the directors, contemporary administrative encounters differ from classic literature because modern office buildings often feel eerily empty and devoid of actual human interaction, replaced instead by automated digital logic.",
+          "The physical setting of Montevideo offered ideal visual textures for this theme. The directors utilized the region's brutalist architecture to construct the towering, intimidating presence of the pension office that Silvio must repeatedly visit."
+        ]
+      },
+      {
+        "h": "Intense Production Demands and Narrative Shifts",
+        "p": [
+          "Starring César Troncoso presented unique technical demands for the production. Because the filmmakers maintained a strict first-person perspective throughout the narrative, Troncoso had to appear in virtually every single shot and scene of the movie, requiring immense stamina from the veteran actor.",
+          "As casting finalized, the directors chose to reshape the script. They leaned further into dramatic elements rather than pure comedy, adjusting the tone to better match Troncoso's acting strengths and elevate the emotional weight of the story."
+        ]
+      },
+      {
+        "h": "Universal Themes of Time, Technology, and Resistance",
+        "p": [
+          "Beyond its specific focus on a bureaucratic error, the filmmakers intend for the story to resonate universally. They view the narrative as an exploration of how modern individuals spend their finite time amidst relentless distractions, technological saturation, and societal pressures.",
+          "Drawing inspiration from cinematic touchstones like Terry Gilliam's Brazil, the creators hope audiences walk away reflecting on their own lives. Rather than attempting to defeat an unbeatable system, the film suggests that individuals retain the freedom to re-evaluate their priorities away from the superficial demands of daily automation."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Directors Alejandro Damiani and Martin Avdolov are premiering their debut social satire feature When I Existed at the 30th Tallinn Black Nights Film Festival. Starring César Troncoso as a retired Uruguayan worker incorrectly declared dead by the state, the Uruguay and Spain co-production explores themes of bureaucracy, modern alienation, and personal reinvention."
+        ]
+      }
+    ],
+    "facts": [
+      "Silvio Bertolini is a retiree from Montevideo, Uruguay, who worked for 40 years.",
+      "When I Existed is a social satire feature debut by writers-directors Alejandro Damiani and Martin Avdolov.",
+      "The film is a Uruguay and Spain co-production.",
+      "The world premiere takes place in the Critics’ Picks Competition of the 30th edition of the Tallinn Black Nights Film Festival (PÖFF) in Estonia on Wednesday, Nov. 18, 2026.",
+      "César Troncoso leads the cast alongside Silvia Kutica, Néstor Guzzini, Maruja Bustamante, Mónica Gonzaga, and Mirella Pascual.",
+      "The producer is Federico Cetta for El Cielo Cine, co-produced by Doce Entertainment and Metropolis Films.",
+      "The making of the film took roughly five to six years, starting during the COVID pandemic."
+    ],
+    "entities": {
+      "people": [
+        "Georg Szalai",
+        "Silvio Bertolini",
+        "Alejandro Damiani",
+        "Martin Avdolov",
+        "César Troncoso",
+        "Silvia Kutica",
+        "Néstor Guzzini",
+        "Maruja Bustamante",
+        "Mónica Gonzaga",
+        "Mirella Pascual",
+        "Manuel Branaa",
+        "Dan Avram",
+        "Martí Rocca",
+        "Federico Cetta",
+        "David Matamoros",
+        "Andrés Rosenblatt",
+        "Matías Burgos",
+        "Terry Gilliam",
+        "Ryan Gajewski",
+        "Kimberly Nordyke",
+        "Kirsten Chuba",
+        "Rick Porter",
+        "Erin Lassner",
+        "Mike Barnes",
+        "Lacey Rose",
+        "Nancy Jo Sales",
+        "Scott Roxborough"
+      ],
+      "titles": [
+        "When I Existed",
+        "Fatherland",
+        "Wild Horse Nine",
+        "Another Story of the World",
+        "Ebenezer",
+        "The Odyssey",
+        "Arrow for a Stone Heart",
+        "Guardians of the Galaxy",
+        "Man of Tomorrow",
+        "Superman",
+        "Spider-Man: Brand New Day",
+        "The Electric Company",
+        "Brazil"
+      ]
+    },
+    "keywords": [
+      "When I Existed film",
+      "Alejandro Damiani Martin Avdolov",
+      "César Troncoso When I Existed",
+      "Tallinn Black Nights Film Festival 2026"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/When-I-Existed-film-still-POFF-H-2026.jpeg?w=1440&#038;h=810&#038;crop=1",
+        "caption": "Tallinn Film Festival Satire 'When I Existed' Follows a Retired Pensioner Declared Dead by the State",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 19:12:00 +0000"
+  },
+  "1x37hn2": {
+    "id": "1x37hn2",
+    "type": "news",
+    "headline": "Salman Khan Steps In During Bigg Boss 20 Weekend Ka Vaar to Address Qazi Touqeer and Manish Goel Clash",
+    "dek": "Host Salman Khan intervened on the latest Weekend Ka Vaar episode to call out Qazi Touqeer over his conduct toward Manish Goel, emphasizing the importance of setting boundaries inside the house.",
+    "body": [
+      {
+        "h": "Salman Khan Addresses House Dynamics",
+        "p": [
+          "The recent Weekend Ka Vaar episode of the reality television series brought a tense confrontation into the spotlight, with host Salman Khan taking center stage to address the ongoing tensions inside the house. During the broadcast, the host focused heavily on the interactions between housemates and the responsibilities that come with living under constant surveillance.",
+          "Rather than letting interpersonal friction go unnoticed, the production highlighted how studio interventions often shift the tone of the season. Salman specifically targeted an interaction between contestants Qazi Touqeer and Manish Goel, signaling that inappropriate behaviour would be directly addressed during the weekend segment."
+        ]
+      },
+      {
+        "h": "Pranks and Boundaries Discussed",
+        "p": [
+          "The primary issue on the agenda was a specific incident involving a prank initiated by Qazi directed at Manish. While lighthearted banter and playful antics are standard components of the entertainment format, the host noted that such actions must have distinct limits.",
+          "Salman pointed out that it is crucial to clarify when an action is meant as a joke, telling Qazi that he should have revealed the nature of his actions immediately. The critique emphasized that humor should never cross into territory that compromises another participant's comfort or dignity."
+        ]
+      },
+      {
+        "h": "Manish Goel Perspective Validated",
+        "p": [
+          "A significant portion of the segment validated Manish Goel and his reaction to the situation. Throughout his time in the house, Manish has maintained a composed demeanor while expressing strong opinions when necessary, yet his patience was tested by the ongoing dynamic.",
+          "The host ensured that Manish's side of the story was properly acknowledged, demonstrating that a contestant's silence or cooperative nature should not be interpreted as an open invitation to tolerate discomfort."
+        ]
+      },
+      {
+        "h": "The Limits of Reality TV Entertainment",
+        "p": [
+          "The exchange opened up a broader conversation regarding the boundaries of amusement within the confined environment. The intervention served as a timely reminder that production value and dramatic moments must remain balanced with mutual respect among participants.",
+          "By addressing the incident directly, the show reinforced the principle that entertainment cannot come at the expense of an individual's personal boundaries, establishing a clearer standard for acceptable conduct moving forward."
+        ]
+      },
+      {
+        "h": "No Evictions and Lifeline Twist",
+        "p": [
+          "Aside from the verbal reprimand and the deep dive into house behavior, the episode brought relief to one particular contestant facing the threat of elimination. Audience voting placed Mahhi Vij at the bottom with the lowest number of votes.",
+          "Despite receiving the least support from viewers, the Balika Vadhu actress avoided being evicted from the premises because she still possessed two lifelines, resulting in the loss of one of those safety measures instead."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "During the Bigg Boss 20 Weekend Ka Vaar episode, host Salman Khan reprimanded Qazi Touqeer for crossing the line during a prank on Manish Goel, validating Manish's perspective on respect and boundaries. Meanwhile, Mahhi Vij secured safety from eviction by utilizing one of her remaining lifelines despite receiving the lowest audience votes."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan hosted the Bigg Boss 20 Weekend Ka Vaar episode.",
+      "The episode addressed a clash between Manish Goel and Qazi Touqeer.",
+      "Mahhi Vij received the lowest votes from the audience.",
+      "Mahhi Vij was saved from eviction by using one of her two lifelines."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Manish Goel",
+        "Qazi Touqeer",
+        "Mahhi Vij"
+      ],
+      "titles": [
+        "Bigg Boss 20",
+        "Balika Vadhu"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20",
+      "Salman Khan",
+      "Manish Goel",
+      "Qazi Touqeer",
+      "Mahhi Vij"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/manishgoelqazitouqeerbiggboss20writtenupdate-27771794772419.jpg",
+        "caption": "Salman Khan Steps In During Bigg Boss 20 Weekend Ka Vaar to Address Qazi Touqeer and Manish Goel Clash",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 01:29:37 +0530"
   }
 };

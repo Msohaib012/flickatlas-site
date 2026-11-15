@@ -38,7 +38,7 @@
    "name": "World Cinema Movies & TV Shows",
    "url": "https://flickatlas.co.uk/category?cat=world"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>World Cinema Movies &amp; TV Shows</h1>\n<p>Browse international films and television series on FlickAtlas, including Hollywood titles. Explore available cast, story and release information.</p>\n<h2>Latest covered titles</h2>\n<ul><li>Mo Amor (2027)</li><li>The Liberation (2027)</li><li>Dune: Part Three (2026)</li><li>Avengers: Doomsday (2026)</li><li>Tsuri Komachi (2026)</li><li>Hexed (2026)</li><li>บรรยากาศฝนตก (2026)</li><li>Ultra Women (2026)</li><li>Soy Boy: The Soyfather (2026)</li><li>Slowly Through the Red Mountains (2026)</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>World Cinema Movies &amp; TV Shows</h1>\n<p>Browse international films and television series on FlickAtlas, including Hollywood titles. Explore available cast, story and release information.</p>\n<h2>Latest covered titles</h2>\n<ul><li>Mo Amor (2027)</li><li>The Liberation (2027)</li><li>Dune: Part Three (2026)</li><li>Avengers: Doomsday (2026)</li><li>Tsuri Komachi (2026)</li><li>Hexed (2026)</li><li>บรรยากาศฝนตก (2026)</li><li>Ultra Women (2026)</li><li>This Land (2026)</li><li>Soy Boy: The Soyfather (2026)</li></ul>\n</article>",
   "t": "World Cinema Movies & TV Shows | FlickAtlas"
  },
  "daywise:1081010": {
@@ -7041,7 +7041,7 @@
    "name": "Bollywood, World Cinema & Box Office | FlickAtlas",
    "url": "https://flickatlas.co.uk/"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>FlickAtlas</h1>\n<p>Explore Bollywood and Indian cinema, World Cinema, Pakistani dramas, reported box office, OTT availability, release dates and entertainment news.</p>\n<h2>Latest news</h2>\n<ul><li>Sunshine Through The Rain Episodes 20-21 Release Schedule And Plot Updates</li><li>Frisco King Release Date, Cast, and Streaming Details for the Tulsa King Spinoff</li><li>Tamil Romantic Drama Haiku Sets Official Netflix OTT Premiere Date for November</li><li>418 OTT Release Date: Telugu Horror Thriller Eyed for November Digital Premiere</li><li>Zehar-e-Mohabbat Episode 26 — Watch Online on HUM TV</li></ul>\n<h2>Trending titles</h2>\n<ul><li>MobLand (2025) — TMDB rating 8.6/10</li><li>VisionQuest (2026) — TMDB rating 8.7/10</li><li>Tulsa King (2022) — TMDB rating 8.3/10</li><li>The Odyssey (2026) — TMDB rating 8.0/10</li><li>Heart of the Beast (2026) — TMDB rating 7.3/10</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>FlickAtlas</h1>\n<p>Explore Bollywood and Indian cinema, World Cinema, Pakistani dramas, reported box office, OTT availability, release dates and entertainment news.</p>\n<h2>Latest news</h2>\n<ul><li>Delhi Police Apprehends Two Alleged Shooters Targeting Bollywood Actor and Businessman</li><li>Diljit Dosanjh Indore Concert Security Heightened With CCTVs And Bomb Squads</li><li>Salman Khan Steps In During Bigg Boss 20 Weekend Ka Vaar to Address Qazi Touqeer and Manish Goel Clash</li><li>Tallinn Film Festival Satire &#x27;When I Existed&#x27; Follows a Retired Pensioner Declared Dead by the State</li><li>Sunshine Through The Rain Episodes 20-21 Release Schedule And Plot Updates</li></ul>\n<h2>Trending titles</h2>\n<ul><li>MobLand (2025) — TMDB rating 8.6/10</li><li>VisionQuest (2026) — TMDB rating 8.7/10</li><li>Tulsa King (2022) — TMDB rating 8.3/10</li><li>The Odyssey (2026) — TMDB rating 8.0/10</li><li>Heart of the Beast (2026) — TMDB rating 7.3/10</li></ul>\n</article>",
   "t": "Bollywood, World Cinema & Box Office | FlickAtlas"
  },
  "movie:1003494": {
@@ -27843,6 +27843,70 @@
   "t": "The Awakening (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1658555": {
+  "d": "Hadoota (2026): Crime/Comedy film. Story: Hadoota, a 40-year-old thug, can’t remember the… See cast, TMDB rating 7.0/10, and release date 11 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/x4wQePzvBw1eJjWHOk6PUZBch7N.jpg",
+  "industry": "world",
+  "k": "Hadoota, Hadoota movie, Hadoota cast, Hadoota story, Hadoota box office collection, Hadoota budget, Hadoota review, Hadoota rating, Hadoota release date, Hadoota Crime, Hadoota Comedy, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Ahmed Helmy"
+    },
+    {
+     "@type": "Person",
+     "name": "Amina Khalil"
+    },
+    {
+     "@type": "Person",
+     "name": "Maged Elmasry"
+    },
+    {
+     "@type": "Person",
+     "name": "Khaled El Sawy"
+    },
+    {
+     "@type": "Person",
+     "name": "Ahmed Basyoni"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 1,
+    "ratingValue": 7.0,
+    "worstRating": 0
+   },
+   "description": "Hadoota (2026): Crime/Comedy film. Story: Hadoota, a 40-year-old thug, can’t remember the… See cast, TMDB rating 7.0/10, and release date 11 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Mazen Ashraf"
+    }
+   ],
+   "duration": "PT120M",
+   "genre": [
+    "Crime",
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/x4wQePzvBw1eJjWHOk6PUZBch7N.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1658555",
+   "name": "Hadoota",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-11"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1658555"
+  },
+  "modified": "",
+  "published": "2026-11-15",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Hadoota (2026)</h1>\n<p class=\"ssr-lead\">Hadoota, a 40-year-old thug, can’t remember the hiding place of a witness he kidnapped. He resorts to a hypnosis therapist to retrieve this missing information. But, in order to restore his memory, he needs to confront old enemies, past events, and most importantly… himself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 November 2026</li><li>Runtime: 120 minutes</li><li>Director: Mazen Ashraf</li><li>Genres: Crime, Comedy, Drama</li><li>TMDB rating: 7.0/10 (1 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ahmed Helmy as Hadoota</li><li>Amina Khalil as Dr. Hoda</li><li>Maged Elmasry as El Fakharany</li><li>Khaled El Sawy as Metwally</li><li>Ahmed Basyoni as Sando</li><li>Omar Sherif as Hadoota (Child)</li><li>Sherine Reda as Nawal (Old)</li><li>Mohamed Mamdouh as Hegazy</li><li>Rahma Ahmed Farag as Amany</li><li>Mohamed Abd El Azim as The Pope</li></ul>\n</article>",
+  "t": "Hadoota (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1662511": {
   "d": "Daffy Season (2026): Animation/Comedy film. Story: Daffy is ready for Duck Season, but Elmer is too… See cast and TMDB rating 4.7/10.",
   "img": "https://image.tmdb.org/t/p/w780/71Kly7myXlClhmMoimEVw5iqSkl.jpg",
@@ -29085,6 +29149,62 @@
   "published": "2026-10-29",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Luv Di Saun (2026)</h1>\n<p class=\"ssr-lead\">The story follows a young man from Lahore’s inner city who falls in love with a woman facing social restrictions and personal struggles. Their relationship develops amid violence, emotional conflict, and opposition from society. The film explores themes of love, destiny, womanhood, and sacrifice against the cultural backdrop of Old Lahore.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 May 2026</li><li>Runtime: 142 minutes</li><li>Director: Imran Malik</li><li>Genres: Drama, Romance</li></ul>\n<h2>Top cast</h2>\n<ul><li>Farhan Saeed</li><li>Rana Ejaz</li><li>Mamya Shajaffar</li><li>Mehrunisa Iqbal</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 5/10. Luv Di Saun is a mixed bag that primarily appeals to fans of its lead actors through its strong chemistry and Old Lahore setting. However, due to its thin story, poor craftsmanship, and sound design issues, it may only satisfy viewers looking for a casual one-time watch. Recommendation is reserved for dedicated fans of the cast.</p>\n<ul><li>Action &amp; Cinematography: 5/10</li><li>Comedy &amp; Entertainment: 5/10</li><li>Direction: 4.5/10</li><li>Music &amp; BGM: 6/10</li><li>Performances: 6.5/10</li><li>Story &amp; Screenplay: 4/10</li></ul>\n</article>",
   "t": "Luv Di Saun (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1703877": {
+  "d": "Ghamela (2026): Drama film. Story: Bharat, a simple working-class man, finds himself in… See cast and release date 13 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/6b2FZH3MPylJaIgyB7dwHw2TNaZ.jpg",
+  "industry": "bollywood",
+  "k": "Ghamela, Ghamela movie, Ghamela cast, Ghamela story, Ghamela box office collection, Ghamela budget, Ghamela review, Ghamela rating, Ghamela release date, Ghamela Drama, Indian movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Akshata Dodamani"
+    },
+    {
+     "@type": "Person",
+     "name": "Akarsh Khurana"
+    },
+    {
+     "@type": "Person",
+     "name": "Imaad Shah"
+    },
+    {
+     "@type": "Person",
+     "name": "Delzad Hiwale"
+    },
+    {
+     "@type": "Person",
+     "name": "Vijay Maurya"
+    }
+   ],
+   "description": "Ghamela (2026): Drama film. Story: Bharat, a simple working-class man, finds himself in… See cast and release date 13 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Vasudha Rungta"
+    }
+   ],
+   "duration": "PT28M",
+   "genre": [
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/6b2FZH3MPylJaIgyB7dwHw2TNaZ.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1703877",
+   "name": "Ghamela",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-13"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1703877"
+  },
+  "modified": "",
+  "published": "2026-11-15",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Ghamela (2026)</h1>\n<p class=\"ssr-lead\">Bharat, a simple working-class man, finds himself in a fix after his wife makes a demand for a gold necklace for Dhanteras (annual festival for buying gold). He chances upon a world entirely different from his own which takes him down an unknown rabbit hole. Will he be able to get his wife a gold necklace before Dhanteras?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 November 2026</li><li>Runtime: 28 minutes</li><li>Director: Vasudha Rungta</li><li>Genres: Drama</li></ul>\n<h2>Top cast</h2>\n<ul><li>Akshata Dodamani as Radhi</li><li>Akarsh Khurana as Chacha Ji</li><li>Imaad Shah as Shahid</li><li>Delzad Hiwale as Bharat</li><li>Vijay Maurya as Inspector Viju Pandey</li></ul>\n</article>",
+  "t": "Ghamela (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1707955": {
@@ -30735,6 +30855,63 @@
   "published": "2026-11-07",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Rammstein – Live in Mexico City (2026)</h1>\n<p class=\"ssr-lead\">A three-night compilation that captures their spectacular October 2022 shows at the Foro Sol Stadium in Mexico City during the Stadium Tour era. This live has become the band&#x27;s most massive and longest one of their entire career.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 November 2026</li><li>Runtime: 110 minutes</li><li>Director: Paul Dugdale</li><li>Genres: Documentary, Music</li></ul>\n<h2>Top cast</h2>\n<ul><li>Till Lindemann as Self</li><li>Richard Kruspe as Self</li><li>Christoph Schneider as Self</li><li>Paul Landers as Self</li><li>Oliver Riedel as Self</li><li>Christian Lorenz as Self</li></ul>\n</article>",
   "t": "Rammstein – Live in Mexico City (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1755500": {
+  "d": "Five Figurines (2026): Drama/Mystery film. Story: A young man’s mysterious death sets off a chain of… See cast and release date 13 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/kbCVv6IoxSEK6857ZS1lIkMbBtc.jpg",
+  "industry": "world",
+  "k": "Five Figurines, Five Figurines movie, Five Figurines cast, Five Figurines story, Five Figurines box office collection, Five Figurines budget, Five Figurines review, Five Figurines rating, Five Figurines release date, Five Figurines Drama, Five Figurines Mystery, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Bimbo Akintola"
+    },
+    {
+     "@type": "Person",
+     "name": "Clinton Joshua"
+    },
+    {
+     "@type": "Person",
+     "name": "Ini Edo"
+    },
+    {
+     "@type": "Person",
+     "name": "Odunlade Adekola"
+    },
+    {
+     "@type": "Person",
+     "name": "Ireti Doyle"
+    }
+   ],
+   "description": "Five Figurines (2026): Drama/Mystery film. Story: A young man’s mysterious death sets off a chain of… See cast and release date 13 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Akay Mason"
+    }
+   ],
+   "duration": "PT120M",
+   "genre": [
+    "Drama",
+    "Mystery"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/kbCVv6IoxSEK6857ZS1lIkMbBtc.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1755500",
+   "name": "Five Figurines",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-13"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1755500"
+  },
+  "modified": "",
+  "published": "2026-11-15",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Five Figurines (2026)</h1>\n<p class=\"ssr-lead\">A young man’s mysterious death sets off a chain of suspicion after his grieving mother turns to traditional means for revenge.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 November 2026</li><li>Runtime: 120 minutes</li><li>Director: Akay Mason</li><li>Genres: Drama, Mystery</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bimbo Akintola as Ebi</li><li>Clinton Joshua as Richard</li><li>Ini Edo as Chidinma</li><li>Odunlade Adekola as Kayode</li><li>Ireti Doyle as Aisha Usman</li><li>Uche Montana as Grace</li><li>Chimezie Imo as Innocent</li><li>Chukwuemeka Joseph as David</li><li>Emeka Nwagbaraocha as Emmanuel</li><li>Mike Ezuruonye as Edet Bassey</li></ul>\n</article>",
+  "t": "Five Figurines (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1755818": {
@@ -34347,6 +34524,62 @@
   "t": "The Death of Eskel McLaughlin (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1788638": {
+  "d": "Nice to Meet You, Amigo (2026): Comedy/Science Fiction film. Story: TTFC-exclusive movie of Super Space Sheriff Gavan… See cast.",
+  "img": "https://image.tmdb.org/t/p/w780/mP8gWkbXJmLWKEwbqa9K2zzEz9D.jpg",
+  "industry": "world",
+  "k": "Nice to Meet You, Amigo, Nice to Meet You, Amigo movie, Nice to Meet You, Amigo cast, Nice to Meet You, Amigo story, Nice to Meet You, Amigo box office collection, Nice to Meet You, Amigo budget, Nice to Meet You, Amigo review, Nice to Meet You, Amigo rating, Nice to Meet You, Amigo release date, Nice to Meet You, Amigo Comedy, Nice to Meet You, Amigo Science Fiction, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Ayako Kawasumi"
+    },
+    {
+     "@type": "Person",
+     "name": "Yahiro Nagase"
+    },
+    {
+     "@type": "Person",
+     "name": "Ryuga Akahane"
+    },
+    {
+     "@type": "Person",
+     "name": "Anna Iriyama"
+    },
+    {
+     "@type": "Person",
+     "name": "Kokona Sumi"
+    }
+   ],
+   "description": "Nice to Meet You, Amigo (2026): Comedy/Science Fiction film. Story: TTFC-exclusive movie of Super Space Sheriff Gavan… See cast.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Kyouhei Yamaguchi"
+    }
+   ],
+   "genre": [
+    "Comedy",
+    "Science Fiction"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/mP8gWkbXJmLWKEwbqa9K2zzEz9D.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1788638",
+   "name": "Nice to Meet You, Amigo",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-22"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1788638"
+  },
+  "modified": "",
+  "published": "2026-11-15",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Nice to Meet You, Amigo (2026)</h1>\n<p class=\"ssr-lead\">TTFC-exclusive movie of Super Space Sheriff Gavan Infinity that takes place in a parallel universe, featuring the main cast in different roles: a mysterious alien named Amigo appears before an elementary school student named Taiyo! Amigo, who came to Earth for a certain investigation, asks Taiyo for his cooperation, but Taiyo is completely bewildered by the strange request. Amigo says &quot;On my planet, it&#x27;s so much easier to become friends&quot;, and Taiyo gets dragged into the situation. Will friendship blossom between the boy and the alien?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Director: Kyouhei Yamaguchi</li><li>Genres: Comedy, Science Fiction</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ayako Kawasumi as Amigo (voice)</li><li>Yahiro Nagase as Taiyo Oizumi</li><li>Ryuga Akahane as Mamoru Oizumi</li><li>Anna Iriyama as Ai Oizumi</li><li>Kokona Sumi as Kokoro Oizumi</li><li>Lana Tanida as Mirai Hoshi</li><li>Kohei Nagata as Kohei Atsui</li><li>Hiroto Yasuda as Yuki Niwa</li><li>Yuta Hiraoka as Karenai Hoshi</li></ul>\n</article>",
+  "t": "Nice to Meet You, Amigo (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1788727": {
   "d": "Mahout (2026): Drama film. Story: A story of family, faith, and a bond that time cannot… See cast and release date 12 November 2026.",
   "img": "https://image.tmdb.org/t/p/w500/opLRTKBDm6Gvr1a3knT1lHOpcdH.jpg",
@@ -36628,6 +36861,44 @@
   "t": "Stellar Romance (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1796870": {
+  "d": "Mother, There’s a Star in Me (2026): Documentary film. Story: This 65 min documentary feature an all-female… See cast and release date 22 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/858d0SZX0IHPh1cKOoPHGXVYgOW.jpg",
+  "industry": "world",
+  "k": "Mother, There’s a Star in Me, Mother, There’s a Star in Me movie, Mother, There’s a Star in Me cast, Mother, There’s a Star in Me story, Mother, There’s a Star in Me box office collection, Mother, There’s a Star in Me budget, Mother, There’s a Star in Me review, Mother, There’s a Star in Me rating, Mother, There’s a Star in Me release date, Mother, There’s a Star in Me Documentary, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Mother, There’s a Star in Me (2026): Documentary film. Story: This 65 min documentary feature an all-female… See cast and release date 22 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Mab Sreymom"
+    },
+    {
+     "@type": "Person",
+     "name": "Benjamin Rigley"
+    }
+   ],
+   "duration": "PT65M",
+   "genre": [
+    "Documentary"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/858d0SZX0IHPh1cKOoPHGXVYgOW.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1796870",
+   "name": "Mother, There’s a Star in Me",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-22"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1796870"
+  },
+  "modified": "",
+  "published": "2026-11-15",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Mother, There’s a Star in Me (2026)</h1>\n<p class=\"ssr-lead\">This 65 min documentary feature an all-female drumming troop, Medha, from Siem Reap, Cambodia who symbolizes resilience and empowerment. Through powerful performances and intimate glimpses into their daily lives, the film sheds light on their courage to pursue their passion for the arts while navigating societal challenges, advocating for women’s rights, and raising their children as single mothers. This documentary not only celebrates the strength of remarkable women but also highlights the transformative power of music, exploring its deep, hereditary roots.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 65 minutes</li><li>Director: Mab Sreymom, Benjamin Rigley</li><li>Genres: Documentary</li></ul>\n</article>",
+  "t": "Mother, There’s a Star in Me (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1796880": {
   "d": "The Holiday Spark (2026): Romance film. Story: Firefight Dean enlists illustrator Laura to help plan… See cast and TMDB rating 6.0/10.",
   "img": "https://image.tmdb.org/t/p/w780/oQyFYI8HdaKkB1gNaehbs8D0dIP.jpg",
@@ -37114,6 +37385,46 @@
   "t": "Kordell Stewart / Slash & Burn (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1797421": {
+  "d": "This Land (2026): Horror film. Story: Laura Orson, a disabled elderly woman, has nightmares… See cast and release date 22 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/seMxVC1QMyn8pDmHRIPARfVCZHK.jpg",
+  "industry": "world",
+  "k": "This Land, This Land movie, This Land cast, This Land story, This Land box office collection, This Land budget, This Land review, This Land rating, This Land release date, This Land Horror, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Renee Pezzotta"
+    }
+   ],
+   "description": "This Land (2026): Horror film. Story: Laura Orson, a disabled elderly woman, has nightmares… See cast and release date 22 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Aiyana Shuler"
+    }
+   ],
+   "duration": "PT14M",
+   "genre": [
+    "Horror"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/seMxVC1QMyn8pDmHRIPARfVCZHK.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1797421",
+   "name": "This Land",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-22"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1797421"
+  },
+  "modified": "",
+  "published": "2026-11-15",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>This Land (2026)</h1>\n<p class=\"ssr-lead\">Laura Orson, a disabled elderly woman, has nightmares of a startling creature that begin to haunt her daily life. As she grapples with her guilt over her deceased father, the creature closes in until she has no choice but to ask for help.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 14 minutes</li><li>Director: Aiyana Shuler</li><li>Genres: Horror</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Renee Pezzotta as Laura Orson</li></ul>\n</article>",
+  "t": "This Land (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1797426": {
   "d": "Janet's Island (2026) is a film. Story: During their holiday, two little girls help Janet, a… See cast and release date 15 November 2026.",
   "img": "https://image.tmdb.org/t/p/w500/3IWf93znytzZxmkRVoiZNiGgy6f.jpg",
@@ -37449,6 +37760,50 @@
   "published": "2026-11-03",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Thank You for Your Review (2026)</h1>\n<p class=\"ssr-lead\">A people-pleasing waiter sabotages his own evening trying to impress his boss; a self-conscious friend competes for attention at someone else’s birthday dinner; and two sisters turn a simple meal into a battlefield. Through quiet frustrations and misplaced priorities, the night unravels into an elegant mess of misunderstandings. No wonder this restaurant’s online reviews are so confusing.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 November 2026</li><li>Runtime: 22 minutes</li><li>Director: Līva Polkmane, Marta Šleiere</li><li>Genres: Comedy</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ričards Murāns as Alfrēds</li><li>Matīss Budovskis as Valters</li><li>Rūdolfs Apse as Pauls</li><li>Marija Linarte as Katrīna</li><li>Igors Šelegovskis as Mārtiņš</li><li>Alise Dzene as Amanda</li><li>Elza Gauja as Helga</li><li>Mārcis Lācis</li></ul>\n</article>",
   "t": "Thank You for Your Review (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1798143": {
+  "d": "LVX (2026): Drama film. Story: In times of the Belle Époque. Amidst a thriving… See cast and release date 22 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/buk31Y2BO4uPAo3eUWVfJegJ1Yz.jpg",
+  "industry": "world",
+  "k": "LVX, LVX movie, LVX cast, LVX story, LVX box office collection, LVX budget, LVX review, LVX rating, LVX release date, LVX Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Christina Brandenberg"
+    },
+    {
+     "@type": "Person",
+     "name": "André David Winter"
+    }
+   ],
+   "description": "LVX (2026): Drama film. Story: In times of the Belle Époque. Amidst a thriving… See cast and release date 22 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Fabian Villiger"
+    }
+   ],
+   "duration": "PT20M",
+   "genre": [
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/buk31Y2BO4uPAo3eUWVfJegJ1Yz.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1798143",
+   "name": "LVX",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-22"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1798143"
+  },
+  "modified": "",
+  "published": "2026-11-15",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>LVX (2026)</h1>\n<p class=\"ssr-lead\">In times of the Belle Époque. Amidst a thriving society a young woman no longer recognizes herself. She has lost her inner light. In her desperation, the woman seeks out a peculiar place where someone has supposedly developed a new method for treating such deep inner darkness.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 20 minutes</li><li>Director: Fabian Villiger</li><li>Genres: Drama</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christina Brandenberg as Lucy</li><li>André David Winter as Sigmund</li></ul>\n</article>",
+  "t": "LVX (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1798181": {
@@ -39669,6 +40024,91 @@
   "t": "Curb Appeal (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1803106": {
+  "d": "Rifugiati climatici (2026): Documentary film. See cast, budget $50, and release date 22 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/emjcvMIPrZF6XyFL7uXdxIoJDEs.jpg",
+  "industry": "world",
+  "k": "Rifugiati climatici, Rifugiati climatici movie, Rifugiati climatici cast, Rifugiati climatici story, Rifugiati climatici box office collection, Rifugiati climatici budget, Rifugiati climatici review, Rifugiati climatici rating, Rifugiati climatici release date, Rifugiati climatici Documentary, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Rifugiati climatici (2026): Documentary film. See cast, budget $50, and release date 22 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Christofer Antonio dos Reis Miranda Lopes"
+    },
+    {
+     "@type": "Person",
+     "name": "Giorgia Ciraolo"
+    }
+   ],
+   "genre": [
+    "Documentary"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/emjcvMIPrZF6XyFL7uXdxIoJDEs.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1803106",
+   "name": "Rifugiati climatici",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-22"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1803106"
+  },
+  "modified": "",
+  "published": "2026-11-15",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Rifugiati climatici (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Director: Christofer Antonio dos Reis Miranda Lopes, Giorgia Ciraolo</li><li>Genres: Documentary</li><li>Budget: $50</li></ul>\n</article>",
+  "t": "Rifugiati climatici (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1803124": {
+  "d": "A Song from Beyond (2026): Drama film. Story: One day, when photographer Momoko is eating lunch at… See cast and release date 22 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/2QJZmhwIrlSkJZ96c4gKerN3c6q.jpg",
+  "industry": "world",
+  "k": "A Song from Beyond, A Song from Beyond movie, A Song from Beyond cast, A Song from Beyond story, A Song from Beyond box office collection, A Song from Beyond budget, A Song from Beyond review, A Song from Beyond rating, A Song from Beyond release date, A Song from Beyond Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Saori"
+    },
+    {
+     "@type": "Person",
+     "name": "Kazuhiro Suzuki"
+    },
+    {
+     "@type": "Person",
+     "name": "Yukino Murakami"
+    }
+   ],
+   "description": "A Song from Beyond (2026): Drama film. Story: One day, when photographer Momoko is eating lunch at… See cast and release date 22 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Kyoshi Sugita"
+    }
+   ],
+   "duration": "PT80M",
+   "genre": [
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/2QJZmhwIrlSkJZ96c4gKerN3c6q.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1803124",
+   "name": "A Song from Beyond",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-22"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1803124"
+  },
+  "modified": "",
+  "published": "2026-11-15",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>A Song from Beyond (2026)</h1>\n<p class=\"ssr-lead\">One day, when photographer Momoko is eating lunch at a cafe, a university student studying film production asks her to appear in their graduation film. On the day of the shoot, the man cast to play her father turns out to be her real father, who she hasn&#x27;t seen for years.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 80 minutes</li><li>Director: Kyoshi Sugita</li><li>Genres: Drama</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Saori as Momoko</li><li>Kazuhiro Suzuki as Ippaku, Momoko&#x27;s father</li><li>Yukino Murakami</li></ul>\n</article>",
+  "t": "A Song from Beyond (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1803151": {
   "d": "Sotto la stessa pelle (2026) is a film. See cast, budget $270.0k, and release date 11 November 2026.",
   "img": "https://image.tmdb.org/t/p/w500/cfGKtqkgSG1m3wjyq5FoUiB0ZSj.jpg",
@@ -40899,6 +41339,47 @@
   "t": "Memory from the Sea (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1804633": {
+  "d": "Forgotten Founder: The Untold Story of Samson Occom and Dartmouth (2026) is a film. Story: Despite his central role in the founding of Dartmouth… See cast.",
+  "img": "https://image.tmdb.org/t/p/w500/xtdXV4O989IvvQdbfqHC0nhU22U.jpg",
+  "industry": "world",
+  "k": "Forgotten Founder: The Untold Story of Samson Occom and Dartmouth, Forgotten Founder: The Untold Story of Samson Occom and Dartmouth movie, Forgotten Founder: The Untold Story of Samson Occom and Dartmouth cast, Forgotten Founder: The Untold Story of Samson Occom and Dartmouth story, Forgotten Founder: The Untold Story of Samson Occom and Dartmouth box office collection, Forgotten Founder: The Untold Story of Samson Occom and Dartmouth budget, Forgotten Founder: The Untold Story of Samson Occom and Dartmouth review, Forgotten Founder: The Untold Story of Samson Occom and Dartmouth rating, Forgotten Founder: The Untold Story of Samson Occom and Dartmouth release date, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Bruce Two Dogs Bozsum"
+    }
+   ],
+   "description": "Forgotten Founder: The Untold Story of Samson Occom and Dartmouth (2026) is a film. Story: Despite his central role in the founding of Dartmouth… See cast.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Signe Margueritte Taylor"
+    },
+    {
+     "@type": "Person",
+     "name": "Melissa Tantaquidgeon Zobel"
+    }
+   ],
+   "duration": "PT29M",
+   "image": "https://image.tmdb.org/t/p/w500/xtdXV4O989IvvQdbfqHC0nhU22U.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1804633",
+   "name": "Forgotten Founder: The Untold Story of Samson Occom and Dartmouth",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-22"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1804633"
+  },
+  "modified": "",
+  "published": "2026-11-15",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Forgotten Founder: The Untold Story of Samson Occom and Dartmouth (2026)</h1>\n<p class=\"ssr-lead\">Despite his central role in the founding of Dartmouth College, Samson Occom, a Mohegan minister, educator and Indigenous intellectual, was erased from the historical record along with the promises made to Native communities.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 29 minutes</li><li>Director: Signe Margueritte Taylor, Melissa Tantaquidgeon Zobel</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bruce Two Dogs Bozsum as Self</li></ul>\n</article>",
+  "t": "Forgotten Founder: The Untold Story of Samson Occom and Dartmouth (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1804642": {
   "d": "The Magic of It All: The Story of Strawbs (2026) is a film. Story: A Cape Town recording session becomes the final… See cast and release date 8 November 2026.",
   "img": "https://image.tmdb.org/t/p/w500/Au9Zoz3QUQPdqJpJ41CKDS278Dn.jpg",
@@ -41137,6 +41618,46 @@
   "published": "2026-11-07",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Daredevil: Man Without Fear (2026)</h1>\n<p class=\"ssr-lead\">Based upon the early Man Without Fear comics, explore Matt Murdocks world in Hell’s Kitchen seeing his beginnings with his best friend Foggy Nelson, falling in love for the first time with Elektra Natchios, and even beginning a law firm with his best friend. Then see the present day and how Matt handles life as a lawyer and as a vigilante of the night, going against foes such as the Kingpin and Bullseye! Will Matt survive these horrible encounters? Find out!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2026</li><li>Runtime: 90 minutes</li><li>Director: Nikolas Khoury</li><li>Genres: Action, Drama</li><li>Budget: $3.0k</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nikolas Khoury as Matthew Murdock</li><li>Aidan Jenks as Foggy Nelson</li><li>Eleanor Caldwell as Karen Page</li><li>Abigail Willson as Elektra Natchios</li><li>Jacob Davis as Bullseye</li><li>Lucas Birnie as Wilson Fisk</li><li>Jeremiah Johnson as Spider-Man / J. Jonah Jameson</li><li>Yousef Khoury as James Wesley</li><li>Ronnie Khoury as Father Lantom</li><li>Tristan Turnbull as Ben Urich</li></ul>\n</article>",
   "t": "Daredevil: Man Without Fear (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1805276": {
+  "d": "No Trees, No Seas (2026): Documentary film. Story: A people-led climate documentary rooted in Cornwall… See cast and budget $100.0k.",
+  "img": "https://image.tmdb.org/t/p/w780/7TWzuiA9q5pZlR2bnlKg20RLxkb.jpg",
+  "industry": "world",
+  "k": "No Trees, No Seas, No Trees, No Seas movie, No Trees, No Seas cast, No Trees, No Seas story, No Trees, No Seas box office collection, No Trees, No Seas budget, No Trees, No Seas review, No Trees, No Seas rating, No Trees, No Seas release date, No Trees, No Seas Documentary, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Sam Bleakley"
+    }
+   ],
+   "description": "No Trees, No Seas (2026): Documentary film. Story: A people-led climate documentary rooted in Cornwall… See cast and budget $100.0k.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "James Stuart"
+    }
+   ],
+   "duration": "PT60M",
+   "genre": [
+    "Documentary"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/7TWzuiA9q5pZlR2bnlKg20RLxkb.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1805276",
+   "name": "No Trees, No Seas",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-22"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1805276"
+  },
+  "modified": "",
+  "published": "2026-11-15",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>No Trees, No Seas (2026)</h1>\n<p class=\"ssr-lead\">A people-led climate documentary rooted in Cornwall, where stories, science and surfing come together to reveal how restoring the connections between land, sea and community could change everything.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 60 minutes</li><li>Director: James Stuart</li><li>Genres: Documentary</li><li>Budget: $100.0k</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sam Bleakley as Presenter</li></ul>\n</article>",
+  "t": "No Trees, No Seas (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1805289": {
@@ -46724,6 +47245,62 @@
   "t": "Salon Saphir (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1810503": {
+  "d": "Kill You! (2026): Drama film. Story: Tim is an ordinary student who enjoys spending his… See cast and release date 22 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/zshnRzi5tR8aA9lMeqRFZ2hFmMR.jpg",
+  "industry": "world",
+  "k": "Kill You!, Kill You! movie, Kill You! cast, Kill You! story, Kill You! box office collection, Kill You! budget, Kill You! review, Kill You! rating, Kill You! release date, Kill You! Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Paul Kölsch"
+    },
+    {
+     "@type": "Person",
+     "name": "Daniela Kölsch"
+    },
+    {
+     "@type": "Person",
+     "name": "Michael Aigner"
+    },
+    {
+     "@type": "Person",
+     "name": "Abdolhalim Ibrahim"
+    },
+    {
+     "@type": "Person",
+     "name": "Helena Katharina Hölzl"
+    }
+   ],
+   "description": "Kill You! (2026): Drama film. Story: Tim is an ordinary student who enjoys spending his… See cast and release date 22 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Raphael Gebauer"
+    }
+   ],
+   "duration": "PT23M",
+   "genre": [
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/zshnRzi5tR8aA9lMeqRFZ2hFmMR.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1810503",
+   "name": "Kill You!",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-22"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1810503"
+  },
+  "modified": "",
+  "published": "2026-11-15",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Kill You! (2026)</h1>\n<p class=\"ssr-lead\">Tim is an ordinary student who enjoys spending his free time playing video games. When his mother tells him that she won&#x27;t be home in the mornings for the next two weeks, Tim sees an opportunity to immerse himself even further in his virtual world, unaware of the consequences his decision might bring.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 23 minutes</li><li>Director: Raphael Gebauer</li><li>Genres: Drama</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paul Kölsch as Tim Höra</li><li>Daniela Kölsch as Daniela Höra</li><li>Michael Aigner as Uwe Kloß</li><li>Abdolhalim Ibrahim as Cem</li><li>Helena Katharina Hölzl as Helen</li><li>Nelly Huber as Nelly</li></ul>\n</article>",
+  "t": "Kill You! (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1810617": {
   "d": "Better Alone (2026): Comedy film. Story: Overwhelmed by living with their teenage children… See cast and release date 3 November 2026.",
   "img": "https://image.tmdb.org/t/p/w500/xoTFybhaLxanhGtY3ep1MvN9cIr.jpg",
@@ -46984,6 +47561,37 @@
   "published": "2026-11-03",
   "ssr": "<article class=\"ssr-facts\">\n<h1>The making of Vincent - Dreams, Monsters &amp; Independent Film (2026)</h1>\n<p class=\"ssr-lead\">Go behind the scenes of Vincent, the multi award-winning supernatural dark fantasy, and discover the creative vision, artistic collaboration and challenges of bringing an independent film about friendship, loneliness and monsters to life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 November 2026</li><li>Runtime: 34 minutes</li><li>Director: David Noel Bourke</li><li>Genres: Documentary</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mikkel Vadsholt as Himself</li><li>Herman Knop as Himself</li><li>Silke Biranell as Herself</li><li>Joachim Knop as Himself</li><li>Marie-Louise Coninck as Herself</li><li>Mona De Souza as Herself</li><li>Maja Munsberg as Herself</li><li>Ebbe Engmark as Himself</li><li>Julie Wieth as Herself</li><li>Anders Skibsted as Himself</li></ul>\n</article>",
   "t": "The making of Vincent - Dreams, Monsters & Independent Film (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1810733": {
+  "d": "In the Sweet Arms (2026) is a film. Story: When night falls, director Julian Flavin hosts a… See cast and release date 22 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/4Rwnryi33eEUd7f8ex9clKuStad.jpg",
+  "industry": "world",
+  "k": "In the Sweet Arms, In the Sweet Arms movie, In the Sweet Arms cast, In the Sweet Arms story, In the Sweet Arms box office collection, In the Sweet Arms budget, In the Sweet Arms review, In the Sweet Arms rating, In the Sweet Arms release date, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "In the Sweet Arms (2026) is a film. Story: When night falls, director Julian Flavin hosts a… See cast and release date 22 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Julian Flavin"
+    }
+   ],
+   "duration": "PT94M",
+   "image": "https://image.tmdb.org/t/p/w500/4Rwnryi33eEUd7f8ex9clKuStad.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1810733",
+   "name": "In the Sweet Arms",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-22"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1810733"
+  },
+  "modified": "",
+  "published": "2026-11-15",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>In the Sweet Arms (2026)</h1>\n<p class=\"ssr-lead\">When night falls, director Julian Flavin hosts a radio show, pondering the meaning and scope, both latent and overt, of music. Guided by an enthralling voice and a camera that captures time suspended in the city at night, In The Sweet Arms shows music in its most unusual forms: a choir singing to those on their deathbeds, a U.S. Army rock group rehearsal, a superstar moved by the crowd during a concert, a teenager setting Call of Duty clips to music, an AI-generated song mimicking the band that the filmmaker once belonged to. These encounters probe the ideological, social and political dimensions of music and what it reveals about how we see the world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 94 minutes</li><li>Director: Julian Flavin</li><li>Status: In Production</li></ul>\n</article>",
+  "t": "In the Sweet Arms (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1810754": {
@@ -49587,6 +50195,46 @@
   "t": "Mi hermano Roberto (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1814100": {
+  "d": "Craig Simons Is James Acaster (2026): Comedy film. Story: Meet your new favourite comedian Craig Simons, a… See cast and release date 9 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/toXElOl1RIjEWaFBYqW36NaG8dA.jpg",
+  "industry": "world",
+  "k": "Craig Simons Is James Acaster, Craig Simons Is James Acaster movie, Craig Simons Is James Acaster cast, Craig Simons Is James Acaster story, Craig Simons Is James Acaster box office collection, Craig Simons Is James Acaster budget, Craig Simons Is James Acaster review, Craig Simons Is James Acaster rating, Craig Simons Is James Acaster release date, Craig Simons Is James Acaster Comedy, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "James Acaster"
+    }
+   ],
+   "description": "Craig Simons Is James Acaster (2026): Comedy film. Story: Meet your new favourite comedian Craig Simons, a… See cast and release date 9 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Stuart Laws"
+    }
+   ],
+   "duration": "PT60M",
+   "genre": [
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/toXElOl1RIjEWaFBYqW36NaG8dA.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1814100",
+   "name": "Craig Simons Is James Acaster",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-09"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1814100"
+  },
+  "modified": "",
+  "published": "2026-11-15",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Craig Simons Is James Acaster (2026)</h1>\n<p class=\"ssr-lead\">Meet your new favourite comedian Craig Simons, a James Acaster tribute act that definitely ISN&#x27;T Acaster himself. Filmed at Edinburgh’s legendary Monkey Barrel after a sellout UK, Ireland and US tour, Simons shows why he’s the best in the game.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 November 2026</li><li>Runtime: 60 minutes</li><li>Director: Stuart Laws</li><li>Genres: Comedy</li></ul>\n<h2>Top cast</h2>\n<ul><li>James Acaster as Craig Simons</li></ul>\n</article>",
+  "t": "Craig Simons Is James Acaster (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1814364": {
   "d": "EKEKEKEK (2026): Drama/Comedy film. Story: A man who is forced to kill his cat after it suddenly… See cast, budget $500, and release date 21 November 2026.",
   "img": "https://image.tmdb.org/t/p/w780/tnTuExWYHiXgZNsAPT2QdC9cvCf.jpg",
@@ -50203,6 +50851,53 @@
   "published": "2026-11-04",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Zaljubljeno srce moje (2026)</h1>\n<p class=\"ssr-lead\">My enslaved heart</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 November 2026</li><li>Runtime: 26 minutes</li><li>Director: Dzan Harba</li><li>Genres: Drama</li></ul>\n<h2>Top cast</h2>\n<ul><li>Izudin Bajrović as Avdo</li><li>Jasna Žalica as Zlatan</li><li>Muhamed Hadžović as Slobodan</li><li>Mirza Tanović as Salko</li></ul>\n</article>",
   "t": "Zaljubljeno srce moje (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1814810": {
+  "d": "Matrona (2026): Horror film. See cast, budget $800, and release date 22 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/35TxKWlAicoIT8ZoShJzBJWzrzs.jpg",
+  "industry": "world",
+  "k": "Matrona, Matrona movie, Matrona cast, Matrona story, Matrona box office collection, Matrona budget, Matrona review, Matrona rating, Matrona release date, Matrona Horror, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Josefina Fariña"
+    },
+    {
+     "@type": "Person",
+     "name": "Nacho Gil"
+    },
+    {
+     "@type": "Person",
+     "name": "Nazareth Cordero"
+    }
+   ],
+   "description": "Matrona (2026): Horror film. See cast, budget $800, and release date 22 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Lara Slaibe"
+    }
+   ],
+   "genre": [
+    "Horror"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/35TxKWlAicoIT8ZoShJzBJWzrzs.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1814810",
+   "name": "Matrona",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-22"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1814810"
+  },
+  "modified": "",
+  "published": "2026-11-15",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Matrona (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Director: Lara Slaibe</li><li>Genres: Horror</li><li>Budget: $800</li></ul>\n<h2>Top cast</h2>\n<ul><li>Josefina Fariña</li><li>Nacho Gil</li><li>Nazareth Cordero</li></ul>\n</article>",
+  "t": "Matrona (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1814871": {
@@ -53778,6 +54473,69 @@
   "t": "FOOSED (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1821748": {
+  "d": "我没错！ (2026): Drama/Comedy film. See cast, TMDB rating 5.0/10, and release date 14 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/xPw16NMyAtgwub5Du8j3ByAqPxV.jpg",
+  "industry": "world",
+  "k": "我没错！, 我没错！ movie, 我没错！ cast, 我没错！ story, 我没错！ box office collection, 我没错！ budget, 我没错！ review, 我没错！ rating, 我没错！ release date, 我没错！ Drama, 我没错！ Comedy, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Tong Liya"
+    },
+    {
+     "@type": "Person",
+     "name": "Wang Hao"
+    },
+    {
+     "@type": "Person",
+     "name": "Wang Zhi"
+    },
+    {
+     "@type": "Person",
+     "name": "Wu You"
+    },
+    {
+     "@type": "Person",
+     "name": "Wang Likun"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 1,
+    "ratingValue": 5.0,
+    "worstRating": 0
+   },
+   "description": "我没错！ (2026): Drama/Comedy film. See cast, TMDB rating 5.0/10, and release date 14 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Zong Haiying"
+    }
+   ],
+   "genre": [
+    "Drama",
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/xPw16NMyAtgwub5Du8j3ByAqPxV.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1821748",
+   "name": "我没错！",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-14"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1821748"
+  },
+  "modified": "",
+  "published": "2026-11-15",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>我没错！ (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2026</li><li>Director: Zong Haiying</li><li>Genres: Drama, Comedy, Crime</li><li>TMDB rating: 5.0/10 (1 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tong Liya as 黎响</li><li>Wang Hao as 韩铮</li><li>Wang Zhi as 王海燕</li><li>Wu You as 李欣怡</li><li>Wang Likun as 刘思涵</li><li>Zhang Huiwen</li><li>Liu Mintao</li><li>Xu Juncong</li><li>Yu Entai</li><li>Zhou Zhengjie</li></ul>\n</article>",
+  "t": "我没错！ (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1821967": {
   "d": "Disharmony (2026): Drama film. Story: During one night in an alternative bar, young Alex… See cast and release date 21 November 2026.",
   "img": "https://image.tmdb.org/t/p/w780/tvZ0AJyV2tpjaO0jBziy86Z2984.jpg",
@@ -54521,6 +55279,62 @@
   "published": "2026-11-15",
   "ssr": "<article class=\"ssr-facts\">\n<h1>บรรยากาศฝนตก (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Director: Kasidid Kangkarn</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kasidid Kangkarn</li></ul>\n</article>",
   "t": "บรรยากาศฝนตก (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1823544": {
+  "d": "The Other Mother's Child (2026): Thriller film. Story: Andy's son is kidnapped by mistake. The target was… See cast and release date 13 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/pjGKKOvlpPaiDEJBWv5jiBdVmCR.jpg",
+  "industry": "world",
+  "k": "The Other Mother's Child, The Other Mother's Child movie, The Other Mother's Child cast, The Other Mother's Child story, The Other Mother's Child box office collection, The Other Mother's Child budget, The Other Mother's Child review, The Other Mother's Child rating, The Other Mother's Child release date, The Other Mother's Child Thriller, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Ashley Newbrough"
+    },
+    {
+     "@type": "Person",
+     "name": "Kate Watson"
+    },
+    {
+     "@type": "Person",
+     "name": "Jesse Kove"
+    },
+    {
+     "@type": "Person",
+     "name": "Francis Cronin"
+    },
+    {
+     "@type": "Person",
+     "name": "Dorren Lee"
+    }
+   ],
+   "description": "The Other Mother's Child (2026): Thriller film. Story: Andy's son is kidnapped by mistake. The target was… See cast and release date 13 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Brian Skiba"
+    }
+   ],
+   "duration": "PT90M",
+   "genre": [
+    "Thriller"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/pjGKKOvlpPaiDEJBWv5jiBdVmCR.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1823544",
+   "name": "The Other Mother's Child",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-13"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1823544"
+  },
+  "modified": "",
+  "published": "2026-11-15",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>The Other Mother&#x27;s Child (2026)</h1>\n<p class=\"ssr-lead\">Andy&#x27;s son is kidnapped by mistake. The target was her friend Katrina&#x27;s child. The kidnappers give her one way to get him back: kill Katrina.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 November 2026</li><li>Runtime: 90 minutes</li><li>Director: Brian Skiba</li><li>Genres: Thriller</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ashley Newbrough as Andy</li><li>Kate Watson as Katrina</li><li>Jesse Kove as Travis</li><li>Francis Cronin as Porter</li><li>Dorren Lee as Ella Liu</li><li>Brian Skiba as Big B</li><li>Laurie Love as Doctor</li></ul>\n</article>",
+  "t": "The Other Mother's Child (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1823756": {
@@ -82915,6 +83729,39 @@
   "ssr": "<article class=\"ssr-facts\">\n<h1>Madaar Episode 29 Promo Highlights New Twists on Green TV</h1>\n<p class=\"ssr-lead\">Green TV has released the official preview for Episode 29 of its popular drama series Madaar, featuring lead actors Humayoun Ashraf and Sumaiyya Bukhsh.</p>\n<p class=\"ssr-date\">Published 30 October 2026</p>\n<h2>The Latest Teaser Release</h2>\n<p>Audiences following the schedule of Green TV have received a fresh preview for the upcoming installment of their favorite serial. The newly dropped promotional clip offers a glimpse into forthcoming dramatic events, generating excitement among regular viewers who tune in to follow the unfolding narrative.</p>\n<p>The short video highlights key interactions between the primary cast members, pointing toward intense emotional sequences and shifting dynamics within the main storyline as the narrative progresses further.</p>\n<h2>Broadcast Schedule and Network</h2>\n<p>Fans can catch the television serial regularly during the week, with fresh installments airing from Monday through Friday. The network has slotted the broadcast time firmly at 9:00 PM, allowing dedicated followers to easily incorporate the show into their evening routines.</p>\n<p>Green TV serves as the official platform distributing the project, ensuring widespread accessibility for households who track contemporary television programming across the region.</p>\n<h2>Starring Cast Members</h2>\n<p>The television serial features prominent performers in the central roles, bringing depth to the character arcs. Humayoun Ashraf takes on significant responsibilities on screen, delivering a compelling performance that drives much of the central conflict.</p>\n<p>Accompanying him is Sumaiyya Bukhsh, whose portrayal adds crucial emotional resonance to the unfolding plot. Together, the lead duo anchors the dramatic weight of the ongoing television project.</p>\n<h2>Plot Background and Context</h2>\n<p>The overarching narrative of the show revolves around heavy familial responsibilities following significant life losses. Specifically, after the father&#x27;s passing, the character Sammar steps up to shoulder the duties of providing for and protecting his family, which includes his mother.</p>\n<p>This premise sets up a foundation filled with trials, sacrifices, and interpersonal struggles, resonating deeply with viewers who appreciate grounded domestic storytelling and character-driven drama.</p>\n<h2>Audience Reception and Engagement</h2>\n<p>Since hitting digital platforms, the promotional clip has quickly drawn thousands of views from eager fans tracking the show&#x27;s progress online. Viewers have taken to comment sections to share their enthusiasm and anticipation for the upcoming broadcast.</p>\n<p>The strong digital footprint underscores the dedicated fanbase surrounding the project, with enthusiasts frequently discussing plot theories and character developments across various social channels.</p>\n<h2>Music and Accompanying Soundtracks</h2>\n<p>Beyond the episodes themselves, the production features dedicated musical compositions that enhance the viewing atmosphere. The official soundtrack, often searched by fans, complements the emotional tone established by the directors and writers.</p>\n<p>These musical elements play a vital role in cementing the mood of pivotal scenes, further elevating the overall presentation of the television drama.</p>\n<h2>News Overview</h2>\n<p>Green TV has shared the promotional preview for Episode 29 of the drama Madaar, starring Humayoun Ashraf and Sumaiyya Bukhsh. The series airs weekday nights at 9:00 PM, following Sammar as he takes care of his family after his father&#x27;s death.</p>\n<h2>Key facts</h2>\n<ul><li>Madaar Episode 29 airs on Green TV</li><li>The show broadcasts Monday to Friday at 9:00 PM</li><li>Humayoun Ashraf and Sumaiyya Bukhsh star in the series</li><li>Sammar takes on responsibility for his family including his mother after the father&#x27;s death</li></ul>\n</article>",
   "t": "Madaar Episode 29 Promo Highlights New Twists on Green TV"
  },
+ "news:1x37hn2": {
+  "d": "Bigg Boss 20: Host Salman Khan intervened on the latest Weekend Ka Vaar episode to call out Qazi Touqeer over his conduct toward Manish Goel, emphasizing the…",
+  "img": "https://images.filmibeat.com/img/2026/11/manishgoelqazitouqeerbiggboss20writtenupdate-27771794772419.jpg",
+  "k": "Bigg Boss 20, Salman Khan, Manish Goel, Qazi Touqeer, Mahhi Vij, Salman Khan Bigg Boss 20, Manish Goel Bigg Boss 20, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "Salman Khan Addresses House Dynamics\n\nThe recent Weekend Ka Vaar episode of the reality television series brought a tense confrontation into the spotlight, with host Salman Khan taking center stage to address the ongoing tensions inside the house. During the broadcast, the host focused heavily on the interactions between housemates and the responsibilities that come with living under constant surveillance.\n\nRather than letting interpersonal friction go unnoticed, the production highlighted how studio interventions often shift the tone of the season. Salman specifically targeted an interaction between contestants Qazi Touqeer and Manish Goel, signaling that inappropriate behaviour would be directly addressed during the weekend segment.\n\nPranks and Boundaries Discussed\n\nThe primary issue on the agenda was a specific incident involving a prank initiated by Qazi directed at Manish. While lighthearted banter and playful antics are standard components of the entertainment format, the host noted that such actions must have distinct limits.\n\nSalman pointed out that it is crucial to clarify when an action is meant as a joke, telling Qazi that he should have revealed the nature of his actions immediately. The critique emphasized that humor should never cross into territory that compromises another participant's comfort or dignity.\n\nManish Goel Perspective Validated\n\nA significant portion of the segment validated Manish Goel and his reaction to the situation. Throughout his time in the house, Manish has maintained a composed demeanor while expressing strong opinions when necessary, yet his patience was tested by the ongoing dynamic.\n\nThe host ensured that Manish's side of the story was properly acknowledged, demonstrating that a contestant's silence or cooperative nature should not be interpreted as an open invitation to tolerate discomfort.\n\nThe Limits of Reality TV Entertainment\n\nThe exchange opened up a broader conversation regarding the boundaries of amusement within the confined environment. The intervention served as a timely reminder that production value and dramatic moments must remain balanced with mutual respect among participants.\n\nBy addressing the incident directly, the show reinforced the principle that entertainment cannot come at the expense of an individual's personal boundaries, establishing a clearer standard for acceptable conduct moving forward.\n\nNo Evictions and Lifeline Twist\n\nAside from the verbal reprimand and the deep dive into house behavior, the episode brought relief to one particular contestant facing the threat of elimination. Audience voting placed Mahhi Vij at the bottom with the lowest number of votes.\n\nDespite receiving the least support from viewers, the Balika Vadhu actress avoided being evicted from the premises because she still possessed two lifelines, resulting in the loss of one of those safety measures instead.\n\nNews Overview\n\nDuring the Bigg Boss 20 Weekend Ka Vaar episode, host Salman Khan reprimanded Qazi Touqeer for crossing the line during a prank on Manish Goel, validating Manish's perspective on respect and boundaries. Meanwhile, Mahhi Vij secured safety from eviction by utilizing one of her remaining lifelines despite receiving the lowest audience votes.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-15T19:59:37.000Z",
+   "description": "Bigg Boss 20: Host Salman Khan intervened on the latest Weekend Ka Vaar episode to call out Qazi Touqeer over his conduct toward Manish Goel, emphasizing the…",
+   "headline": "Salman Khan Steps In During Bigg Boss 20 Weekend Ka Vaar to Address Qazi Touqeer and Manish Goel Clash",
+   "image": "https://images.filmibeat.com/img/2026/11/manishgoelqazitouqeerbiggboss20writtenupdate-27771794772419.jpg",
+   "keywords": "Bigg Boss 20, Salman Khan, Manish Goel, Qazi Touqeer, Mahhi Vij",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=1x37hn2",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=1x37hn2"
+  },
+  "modified": "",
+  "published": "2026-11-15T19:59:37.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Salman Khan Steps In During Bigg Boss 20 Weekend Ka Vaar to Address Qazi Touqeer and Manish Goel Clash</h1>\n<p class=\"ssr-lead\">Host Salman Khan intervened on the latest Weekend Ka Vaar episode to call out Qazi Touqeer over his conduct toward Manish Goel, emphasizing the importance of setting boundaries inside the house.</p>\n<p class=\"ssr-date\">Published 15 November 2026</p>\n<h2>Salman Khan Addresses House Dynamics</h2>\n<p>The recent Weekend Ka Vaar episode of the reality television series brought a tense confrontation into the spotlight, with host Salman Khan taking center stage to address the ongoing tensions inside the house. During the broadcast, the host focused heavily on the interactions between housemates and the responsibilities that come with living under constant surveillance.</p>\n<p>Rather than letting interpersonal friction go unnoticed, the production highlighted how studio interventions often shift the tone of the season. Salman specifically targeted an interaction between contestants Qazi Touqeer and Manish Goel, signaling that inappropriate behaviour would be directly addressed during the weekend segment.</p>\n<h2>Pranks and Boundaries Discussed</h2>\n<p>The primary issue on the agenda was a specific incident involving a prank initiated by Qazi directed at Manish. While lighthearted banter and playful antics are standard components of the entertainment format, the host noted that such actions must have distinct limits.</p>\n<p>Salman pointed out that it is crucial to clarify when an action is meant as a joke, telling Qazi that he should have revealed the nature of his actions immediately. The critique emphasized that humor should never cross into territory that compromises another participant&#x27;s comfort or dignity.</p>\n<h2>Manish Goel Perspective Validated</h2>\n<p>A significant portion of the segment validated Manish Goel and his reaction to the situation. Throughout his time in the house, Manish has maintained a composed demeanor while expressing strong opinions when necessary, yet his patience was tested by the ongoing dynamic.</p>\n<p>The host ensured that Manish&#x27;s side of the story was properly acknowledged, demonstrating that a contestant&#x27;s silence or cooperative nature should not be interpreted as an open invitation to tolerate discomfort.</p>\n<h2>The Limits of Reality TV Entertainment</h2>\n<p>The exchange opened up a broader conversation regarding the boundaries of amusement within the confined environment. The intervention served as a timely reminder that production value and dramatic moments must remain balanced with mutual respect among participants.</p>\n<p>By addressing the incident directly, the show reinforced the principle that entertainment cannot come at the expense of an individual&#x27;s personal boundaries, establishing a clearer standard for acceptable conduct moving forward.</p>\n<h2>No Evictions and Lifeline Twist</h2>\n<p>Aside from the verbal reprimand and the deep dive into house behavior, the episode brought relief to one particular contestant facing the threat of elimination. Audience voting placed Mahhi Vij at the bottom with the lowest number of votes.</p>\n<p>Despite receiving the least support from viewers, the Balika Vadhu actress avoided being evicted from the premises because she still possessed two lifelines, resulting in the loss of one of those safety measures instead.</p>\n<h2>News Overview</h2>\n<p>During the Bigg Boss 20 Weekend Ka Vaar episode, host Salman Khan reprimanded Qazi Touqeer for crossing the line during a prank on Manish Goel, validating Manish&#x27;s perspective on respect and boundaries. Meanwhile, Mahhi Vij secured safety from eviction by utilizing one of her remaining lifelines despite receiving the lowest audience votes.</p>\n<h2>Key facts</h2>\n<ul><li>Salman Khan hosted the Bigg Boss 20 Weekend Ka Vaar episode.</li><li>The episode addressed a clash between Manish Goel and Qazi Touqeer.</li><li>Mahhi Vij received the lowest votes from the audience.</li><li>Mahhi Vij was saved from eviction by using one of her two lifelines.</li></ul>\n</article>",
+  "t": "Salman Khan Steps In During Bigg Boss 20 Weekend Ka Vaar to Address Qazi Touqeer and Manish Goel Clash"
+ },
  "news:1x45e1n": {
   "d": "Blind Game: Television star Rohit Chandel discusses his transition to the big screen, working alongside Arjun Rampal and Priyamani, and why he chose a…",
   "img": "https://images.filmibeat.com/img/2026/11/rohitchandelblindgameexcld2-88521794492094.jpg",
@@ -94414,6 +95261,39 @@
   "ssr": "<article class=\"ssr-facts\">\n<h1>Venkatesh&#x27;s Aadarsha Kutumbam Achieves Rs 75 Crore Worldwide in Three Days</h1>\n<p class=\"ssr-lead\">The family entertainer starring Venkatesh and Srinidhi Shetty has crossed Rs 75 crore worldwide in its opening three days, earning blockbuster status from its makers.</p>\n<p class=\"ssr-date\">Published 2 November 2026</p>\n<h2>Strong Opening Weekend</h2>\n<p>The theatrical release of Aadarsha Kutumbam has resulted in impressive global box office numbers during its opening stretch. Within the first three days of its theatrical run, the feature crossed the Rs 75 crore mark worldwide.</p>\n<p>Following this initial performance, the production team officially declared the venture a blockbuster, citing phenomenal love and reception from ticket-buyers across various regions.</p>\n<h2>Release and Cast Details</h2>\n<p>The project officially arrived in cinemas on October 30, 2026. It features Venkatesh in the lead role alongside co-star Srinidhi Shetty.</p>\n<p>Srinidhi Shetty portrays Swarna, the wife of Venkatesh&#x27;s character, contributing to the central family dynamics of the narrative.</p>\n<h2>Promotional Strategy and Direction</h2>\n<p>Trivikram Srinivas directed the project, adopting a patient and calculated promotional rollout leading up to the premiere. The campaign initially revealed individual characters, starting with Venkatesh&#x27;s role as Chitti Babu.</p>\n<p>Public curiosity was further stimulated by subsequent teasers, a successful trailer, and clever wordplay surrounding the alternative title House No: 47 – AK 47.</p>\n<h2>Creative Vision and Choices</h2>\n<p>During the pre-release event, Trivikram shared his deep confidence in traditional family systems. He highlighted Chitti Babu as an ordinary family man prepared to defend his relatives at all costs.</p>\n<p>The filmmaker selected Venkatesh for the lead because stories centered around family values have historically remained one of the prominent strengths of the actor&#x27;s career.</p>\n<h2>Humor and Technical Elements</h2>\n<p>Audiences have responded warmly to the comedic elements, particularly praising Satya for his performance. Viewers have found his interrogation sequence alongside Nara Rohith especially entertaining due to his precise comic timing.</p>\n<p>On the technical side, Thaman received recognition for his background score, which infuses crime sequences with a modern aesthetic and enhances their dramatic tension.</p>\n<h2>Supporting Cast and Genre Blend</h2>\n<p>The broader cast features Udaybir Sandhu as a dangerous dacoit, alongside Rao Ramesh and Sachin Khedekar portraying police officers.</p>\n<p>By combining domestic humor with crime thriller elements, the story maintains its core focus on the emotional ties uniting a household.</p>\n<h2>Future Projects for Lead Talent</h2>\n<p>Looking ahead, Venkatesh is preparing for the theatrical debut of Vidudala, directed by Anil Ravipudi, which is slated for a Sankranthi 2027 release on January 12.</p>\n<p>Meanwhile, Trivikram is lined up to direct an upcoming film starring Jr NTR, which currently holds the tentative working title God of War.</p>\n<h2>News Overview</h2>\n<p>Venkatesh&#x27;s family entertainer Aadarsha Kutumbam grossed over Rs 75 crore worldwide within its first three days after releasing in theatres on October 30. Directed by Trivikram Srinivas and co-starring Srinidhi Shetty, the film has been declared a blockbuster by its makers following strong audience reception.</p>\n<h2>Key facts</h2>\n<ul><li>Aadarsha Kutumbam grossed over Rs 75 crore worldwide in its first three days.</li><li>The film was released in theatres on October 30, 2026.</li><li>The feature is directed by Trivikram Srinivas.</li><li>Venkatesh plays the character Chitti Babu.</li><li>Srinidhi Shetty plays Venkatesh&#x27;s wife, Swarna.</li><li>Satya stars in a comedy track alongside Nara Rohith.</li><li>Thaman composed the background score.</li><li>Udaybir Sandhu plays a dacoit, while Rao Ramesh and Sachin Khedekar play police officers.</li><li>Venkatesh&#x27;s next film Vidudala, directed by Anil Ravipudi, is scheduled for release on January 12 during Sankranthi 2027.</li></ul>\n</article>",
   "t": "Venkatesh's Aadarsha Kutumbam Achieves Rs 75 Crore Worldwide in Three Days"
  },
+ "news:ew6skl": {
+  "d": "The Delhi Police Special Cell has taken two suspected operatives into custody for allegedly orchestrating separate attacks against an A-list Bollywood star…",
+  "img": "https://cdn-english.zeenews.com/sites/default/files/2026/11/15/6635-ani-1.png",
+  "k": "Delhi Police arrest, Bollywood actor targeted, Deepak Singh arrest, Tiger Shroff, Mad Sandhu, Deep, Deep Deepak Singh, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "Special Cell Operation\n\nAuthorities in the capital have successfully apprehended two alleged gunmen accused of plotting distinct assaults on a prominent Bollywood celebrity and a businessman based in Delhi. The operation was executed by the Delhi Police Special Cell.\n\nAccording to law enforcement briefings, the suspects were operating under the direct instructions of handlers located overseas. The quick response by the authorities has reportedly disrupted a major security threat aimed at high-profile targets.\n\nSuspect Identification and Arrests\n\nThe apprehended individuals have been identified as Deep, also known as Deepak Singh, and Vikas Thakur, alias Vicky. While Deepak was captured in Mumbai, Vikas was apprehended within the territory of Delhi.\n\nInvestigators noted that Deepak had been residing underground in Mumbai for approximately one month. His presence in the western metropolis was allegedly linked to an earlier high-profile homicide that occurred in October.\n\nConnection to Prior Incidents\n\nPolice records indicate that Deepak had been evading the law following the October 3 murder of social media influencer Mad Sandhu in Amritsar, Punjab. He fled to Mumbai and managed to secure a rented hideout in the Malad neighborhood.\n\nFurthermore, law enforcement officials suspect that the same network of shooters involved in a previous firing incident targeting actor Tiger Shroff had also conducted reconnaissance around the residence of the targeted Bollywood celebrity.\n\nFinancial Tactics and Covert Communication\n\nDuring his month-long stay in Mumbai, Deepak reportedly relied on unusual financial methods to sustain his daily expenses without raising suspicion. Investigators found that funds were funneled to him using QR codes belonging to local vendors, including restaurants, paan shops, and vegetable sellers.\n\nCommunication with his overseas controllers was maintained through a secure private messaging platform. His foreign handlers consistently instructed him to alter his hideouts frequently and maintain a low profile while waiting for further orders.\n\nThe Target and Motive\n\nThe primary Bollywood target of the conspiracy is a prominent A-list actor who found himself on the syndicate's hitlist. Police investigations suggest the animosity stemmed from the actor's alleged remarks concerning the historical events of 1984 involving the Sikh community.\n\nLaw enforcement officials disclosed that another operative was expected to arrive in Mumbai to assist in executing the planned assault on the actor before the Special Cell intervened and arrested the suspects.\n\nOngoing Inquiries\n\nWith both suspects now in custody, the Delhi Police Special Cell is expanding its inquiry to uncover the broader conspiracy and identify other potential members of the foreign-backed network.\n\nAuthorities are examining all electronic evidence and financial transactions linked to the accused to track down remaining handlers and accomplices connected to the threats.\n\nNews Overview\n\nThe Delhi Police Special Cell arrested two suspected shooters in Mumbai and Delhi who were allegedly plotting separate attacks against an A-list Bollywood actor and a Delhi-based businessman under foreign instructions. One of the suspects, Deepak Singh, had been hiding in Malad using vendor QR codes for funds following an October murder in Amritsar.\n\nInvestigators revealed that the Bollywood actor was targeted due to past remarks about the 1984 events, and police continue to probe deeper links involving previous threats against industry figures like Tiger Shroff.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-15T20:53:22.000Z",
+   "description": "The Delhi Police Special Cell has taken two suspected operatives into custody for allegedly orchestrating separate attacks against an A-list Bollywood star…",
+   "headline": "Delhi Police Apprehends Two Alleged Shooters Targeting Bollywood Actor and Businessman",
+   "image": "https://cdn-english.zeenews.com/sites/default/files/2026/11/15/6635-ani-1.png",
+   "keywords": "Delhi Police arrest, Bollywood actor targeted, Deepak Singh arrest, Tiger Shroff, Mad Sandhu",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=ew6skl",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=ew6skl"
+  },
+  "modified": "",
+  "published": "2026-11-15T20:53:22.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Delhi Police Apprehends Two Alleged Shooters Targeting Bollywood Actor and Businessman</h1>\n<p class=\"ssr-lead\">The Delhi Police Special Cell has taken two suspected operatives into custody for allegedly orchestrating separate attacks against an A-list Bollywood star and a Delhi entrepreneur on behalf of overseas handlers.</p>\n<p class=\"ssr-date\">Published 15 November 2026</p>\n<h2>Special Cell Operation</h2>\n<p>Authorities in the capital have successfully apprehended two alleged gunmen accused of plotting distinct assaults on a prominent Bollywood celebrity and a businessman based in Delhi. The operation was executed by the Delhi Police Special Cell.</p>\n<p>According to law enforcement briefings, the suspects were operating under the direct instructions of handlers located overseas. The quick response by the authorities has reportedly disrupted a major security threat aimed at high-profile targets.</p>\n<h2>Suspect Identification and Arrests</h2>\n<p>The apprehended individuals have been identified as Deep, also known as Deepak Singh, and Vikas Thakur, alias Vicky. While Deepak was captured in Mumbai, Vikas was apprehended within the territory of Delhi.</p>\n<p>Investigators noted that Deepak had been residing underground in Mumbai for approximately one month. His presence in the western metropolis was allegedly linked to an earlier high-profile homicide that occurred in October.</p>\n<h2>Connection to Prior Incidents</h2>\n<p>Police records indicate that Deepak had been evading the law following the October 3 murder of social media influencer Mad Sandhu in Amritsar, Punjab. He fled to Mumbai and managed to secure a rented hideout in the Malad neighborhood.</p>\n<p>Furthermore, law enforcement officials suspect that the same network of shooters involved in a previous firing incident targeting actor Tiger Shroff had also conducted reconnaissance around the residence of the targeted Bollywood celebrity.</p>\n<h2>Financial Tactics and Covert Communication</h2>\n<p>During his month-long stay in Mumbai, Deepak reportedly relied on unusual financial methods to sustain his daily expenses without raising suspicion. Investigators found that funds were funneled to him using QR codes belonging to local vendors, including restaurants, paan shops, and vegetable sellers.</p>\n<p>Communication with his overseas controllers was maintained through a secure private messaging platform. His foreign handlers consistently instructed him to alter his hideouts frequently and maintain a low profile while waiting for further orders.</p>\n<h2>The Target and Motive</h2>\n<p>The primary Bollywood target of the conspiracy is a prominent A-list actor who found himself on the syndicate&#x27;s hitlist. Police investigations suggest the animosity stemmed from the actor&#x27;s alleged remarks concerning the historical events of 1984 involving the Sikh community.</p>\n<p>Law enforcement officials disclosed that another operative was expected to arrive in Mumbai to assist in executing the planned assault on the actor before the Special Cell intervened and arrested the suspects.</p>\n<h2>Ongoing Inquiries</h2>\n<p>With both suspects now in custody, the Delhi Police Special Cell is expanding its inquiry to uncover the broader conspiracy and identify other potential members of the foreign-backed network.</p>\n<p>Authorities are examining all electronic evidence and financial transactions linked to the accused to track down remaining handlers and accomplices connected to the threats.</p>\n<h2>News Overview</h2>\n<p>The Delhi Police Special Cell arrested two suspected shooters in Mumbai and Delhi who were allegedly plotting separate attacks against an A-list Bollywood actor and a Delhi-based businessman under foreign instructions. One of the suspects, Deepak Singh, had been hiding in Malad using vendor QR codes for funds following an October murder in Amritsar.</p>\n<p>Investigators revealed that the Bollywood actor was targeted due to past remarks about the 1984 events, and police continue to probe deeper links involving previous threats against industry figures like Tiger Shroff.</p>\n<h2>Key facts</h2>\n<ul><li>Delhi Police Special Cell arrested two suspected shooters named Deep alias Deepak Singh and Vikas Thakur alias Vicky</li><li>Deepak Singh was arrested from Mumbai and Vikas Thakur was arrested from Delhi</li><li>Mad Sandhu was murdered on October 3 in Amritsar, Punjab</li><li>Deepak Singh stayed in a rented house in Mumbai&#x27;s Malad area</li><li>Money for daily expenses was transferred to Deepak using QR codes belonging to vegetable vendors, paan shops, and restaurants</li><li>The targeted Bollywood actor was allegedly on the hit list over remarks against the Sikh community concerning the 1984 events</li></ul>\n</article>",
+  "t": "Delhi Police Apprehends Two Alleged Shooters Targeting Bollywood Actor and Businessman"
+ },
  "news:ewu04k": {
   "d": "Priyanka Chopra is set to star in the sci-fi feature Bluefly, portraying a UN interpreter who embarks on a covert mission to the Congo with Russell Crowe.",
   "img": "https://images.timesnownews.com/thumb/msid-156505189,thumbsize-1121750,width-1280,height-720,resizemode-75/156505189.jpg",
@@ -99639,6 +100519,39 @@
   "published": "2026-10-28T03:48:43.000Z",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Academy Leaders Address Artificial Intelligence and Global Expansion at Tokyo Film Festival</h1>\n<p class=\"ssr-lead\">During a visit to the Tokyo International Film Festival, top executives from the Academy of Motion Picture Arts and Sciences emphasized a commitment to honoring human-driven creativity while detailing ongoing adjustments to international feature film rules.</p>\n<p class=\"ssr-date\">Published 28 October 2026</p>\n<h2>Upholding Human Creativity in the Age of Artificial Intelligence</h2>\n<p>As modern cinematic workflows increasingly incorporate automated technology, the leadership of the Academy of Motion Picture Arts and Sciences remains firm on its core values. Academy president Lynette Howell Taylor addressed the topic during a recent industry appearance, noting that digital tools have been utilized in post-production for roughly a decade.</p>\n<p>Despite these technological advancements, Howell Taylor stressed that the organization will continuously prioritize human achievement. She acknowledged that while technical innovations can improve the viewing experience, the core of any recognized project must rely on human-driven effort, while also pointing out valid industry concerns regarding transparency and copyright.</p>\n<h2>Refining Qualification Pathways for International Features</h2>\n<p>The organization is also evaluating the newly established pathway for the international feature film category. Under guidelines introduced for the 99th Oscars, non-English-language projects can secure eligibility by capturing top honors at six major international film festivals, bypassing the traditional requirement of being an official national selection.</p>\n<p>Meredith Shea, the chief membership, impact and industry officer, noted that the International Feature Executive Committee will constantly assess these standards to ensure they accurately represent filmmakers globally. This approach mirrors existing qualification frameworks already utilized for documentary and short film categories.</p>\n<h2>Creating Multiple Avenues for Exiled and Global Artists</h2>\n<p>Recent updates to eligibility rules are specifically designed to assist creators working far from their native countries. Academy CEO Bill Kramer highlighted that past adjustments allow refugee filmmakers living abroad to represent the nations granting them asylum.</p>\n<p>These structural adaptations work in tandem with festival-based qualifications to provide alternative routes for entry. By removing the sole reliance on home-country submissions, the institution aims to open doors for a wider array of global storytellers.</p>\n<h2>Expanding International Representation and Membership</h2>\n<p>The leadership delegation&#x27;s presence in Japan underscores a broader international outreach initiative. Kramer noted that non-U.S. participants now account for a quarter of the total membership, reflecting a steady shift in the demographic makeup of the voting body.</p>\n<p>By engaging directly with foreign film communities in regions like Rio, Marrakesh, Morelia, Busan, and Tokyo, the organization seeks to connect with current members and cultivate relationships with emerging international talent.</p>\n<h2>Addressing Economic Barriers and Leveling the Playing Field</h2>\n<p>Recognizing that promotional expenses can disadvantage smaller film industries in South and Southeast Asia, Academy executives discussed ways to mitigate financial hurdles. Howell Taylor reiterated that while the institution does not dictate promotional spending, conversations regarding accessibility remain ongoing.</p>\n<p>To ensure fair consideration, the Academy utilizes its internal screening platform, where every submitted title is presented under uniform conditions. Furthermore, voting members operate under an honor system requiring them to view all contenders within a specific category before casting ballots.</p>\n<h2>Preparing for Future Broadcasts and Global Reach</h2>\n<p>Looking ahead to the 2029 ceremony, the organization is preparing for its first broadcast under a new agreement with YouTube. Kramer explained that the partnership aims to expand the viewer base by potentially reaching billions of users worldwide with multi-language viewing options.</p>\n<p>With international viewership already rivaling domestic metrics, the digital shift is expected to enhance direct audience engagement. Meanwhile, Amy Homma, director and president of the Academy Museum of Motion Pictures, highlighted the institution&#x27;s ongoing commitment to preserving international film histories and featuring Asian and Asian American cinema.</p>\n<h2>News Overview</h2>\n<p>Academy leaders visiting the Tokyo International Film Festival confirmed that future awards will continue to honor human-driven craftsmanship despite the rise of artificial intelligence. Additionally, executives discussed potential adjustments to international feature qualification rules and emphasized the organization&#x27;s ongoing efforts toward global inclusivity and wider international membership.</p>\n<h2>Key facts</h2>\n<ul><li>Lynette Howell Taylor is the Academy president.</li><li>Bill Kramer is the Academy CEO.</li><li>Meredith Shea is the chief membership, impact and industry officer.</li><li>Amy Homma is the director and president of the Academy Museum of Motion Pictures and Academy Collection.</li><li>The new international feature rules apply starting with the 99th Oscars.</li><li>There are six qualifying festivals for the international feature route under the new rules.</li><li>Non-U.S. membership currently stands at 25%.</li><li>The partnership with YouTube is set for the 2029 ceremony.</li><li>The Academy Museum opened in 2021.</li></ul>\n</article>",
   "t": "Academy Leaders Address Artificial Intelligence and Global Expansion at Tokyo Film Festival"
+ },
+ "news:kwho9s": {
+  "d": "Authorities in Indore have implemented rigorous security measures, including facial recognition and drone surveillance, for Diljit Dosanjh's sold-out Sunday…",
+  "img": "https://cdn-english.zeenews.com/sites/default/files/2026/11/10/5337-diljit-dosanjh.jpg",
+  "k": "Diljit Dosanjh Indore concert, Diljit Dosanjh C21 Estate Ground, Diljit Dosanjh security Indore, Diljit Dosanjh November 15, Diljit Dosanjh, Diljit Dosanjh Aman Singh Rathore, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "Massive Security Overhaul for Indore Concert\n\nLocal authorities have significantly upgraded security provisions at the C21 Estate Ground in Indore ahead of the highly anticipated musical performance by Punjabi artist Diljit Dosanjh. Following various reported threats directed at the gathering, the police department took comprehensive steps to secure the location and protect the massive audience.\n\nThe venue is set to host a sold-out crowd, requiring meticulous planning from law enforcement agencies to maintain public safety and manage the large influx of attendees expected throughout the day.\n\nAdvanced Technology and Surveillance Systems\n\nLaw enforcement has incorporated high-tech surveillance infrastructure across the sector, installing approximately 250 closed-circuit television cameras. Furthermore, a facial recognition system has been integrated into the network, preloaded with a database containing information on habitual offenders to instantly spot suspicious individuals.\n\nTo ensure continuous oversight after dark, authorities have arranged drone monitoring alongside night-vision devices for deployed personnel. Special traffic diversions and volunteer assistance have also been organized to handle vehicular movement efficiently.\n\nSpecialized Units and Emergency Preparedness\n\nThe Bomb Detection and Disposal Squad, alongside trained canine units, has been thoroughly examining the concert grounds for several days. These exhaustive sweeps are scheduled to continue right up until the commencement of the live program.\n\nMedical contingencies have been fully addressed with the allocation of six ambulances, five temporary care centers, and a dedicated team of medical professionals. Additionally, fire engines will remain stationed at the site to counter any potential fire safety hazards.\n\nFocus on Women's Safety and Crowd Control\n\nEnsuring the protection of female attendees remains a primary focus, prompting the deployment of numerous female police officers on-site. Shakti Mobile patrol units are also assigned to maintain continuous surveillance around the perimeter of the venue.\n\nPlainclothes officers will mingle within the crowds to intercept any disruptive or anti-social behaviour promptly. Breathalyser testing will also be conducted actively to deter instances of drunk driving around the area.\n\nMassive Turnout Expected at Venue\n\nOrganizers have distributed approximately 20,500 tickets for the musical night, bringing total attendance figures past the twenty-thousand mark. Alongside ticket holders, nearly 2,000 additional individuals comprising support personnel and event volunteers are anticipated to be present.\n\nThe unprecedented scale of the gathering necessitates strict adherence to checklists provided by law enforcement to guarantee that all safety parameters are met seamlessly by the management team.\n\nArtist Reassures Fans Live on Instagram\n\nAmidst speculation surrounding security concerns, the Punjabi musician addressed his supporters directly through an Instagram live session. He firmly confirmed his arrival in Indore for the scheduled date, urging fans to trust his word over external rumors.\n\nDuring the broadcast, he lightheartedly mentioned looking forward to enjoying local poha upon arrival before channeling his energy into the live performance to deliver an unforgettable show.\n\nNews Overview\n\nAuthorities in Indore have established extensive security protocols featuring advanced surveillance and bomb squads for Diljit Dosanjh's sold-out concert. The artist previously reassured his fanbase via social media that the performance would proceed as scheduled.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-15T20:53:22.000Z",
+   "description": "Authorities in Indore have implemented rigorous security measures, including facial recognition and drone surveillance, for Diljit Dosanjh's sold-out Sunday…",
+   "headline": "Diljit Dosanjh Indore Concert Security Heightened With CCTVs And Bomb Squads",
+   "image": "https://cdn-english.zeenews.com/sites/default/files/2026/11/10/5337-diljit-dosanjh.jpg",
+   "keywords": "Diljit Dosanjh Indore concert, Diljit Dosanjh C21 Estate Ground, Diljit Dosanjh security Indore, Diljit Dosanjh November 15",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=kwho9s",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=kwho9s"
+  },
+  "modified": "",
+  "published": "2026-11-15T20:53:22.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Diljit Dosanjh Indore Concert Security Heightened With CCTVs And Bomb Squads</h1>\n<p class=\"ssr-lead\">Authorities in Indore have implemented rigorous security measures, including facial recognition and drone surveillance, for Diljit Dosanjh&#x27;s sold-out Sunday musical performance.</p>\n<p class=\"ssr-date\">Published 15 November 2026</p>\n<h2>Massive Security Overhaul for Indore Concert</h2>\n<p>Local authorities have significantly upgraded security provisions at the C21 Estate Ground in Indore ahead of the highly anticipated musical performance by Punjabi artist Diljit Dosanjh. Following various reported threats directed at the gathering, the police department took comprehensive steps to secure the location and protect the massive audience.</p>\n<p>The venue is set to host a sold-out crowd, requiring meticulous planning from law enforcement agencies to maintain public safety and manage the large influx of attendees expected throughout the day.</p>\n<h2>Advanced Technology and Surveillance Systems</h2>\n<p>Law enforcement has incorporated high-tech surveillance infrastructure across the sector, installing approximately 250 closed-circuit television cameras. Furthermore, a facial recognition system has been integrated into the network, preloaded with a database containing information on habitual offenders to instantly spot suspicious individuals.</p>\n<p>To ensure continuous oversight after dark, authorities have arranged drone monitoring alongside night-vision devices for deployed personnel. Special traffic diversions and volunteer assistance have also been organized to handle vehicular movement efficiently.</p>\n<h2>Specialized Units and Emergency Preparedness</h2>\n<p>The Bomb Detection and Disposal Squad, alongside trained canine units, has been thoroughly examining the concert grounds for several days. These exhaustive sweeps are scheduled to continue right up until the commencement of the live program.</p>\n<p>Medical contingencies have been fully addressed with the allocation of six ambulances, five temporary care centers, and a dedicated team of medical professionals. Additionally, fire engines will remain stationed at the site to counter any potential fire safety hazards.</p>\n<h2>Focus on Women&#x27;s Safety and Crowd Control</h2>\n<p>Ensuring the protection of female attendees remains a primary focus, prompting the deployment of numerous female police officers on-site. Shakti Mobile patrol units are also assigned to maintain continuous surveillance around the perimeter of the venue.</p>\n<p>Plainclothes officers will mingle within the crowds to intercept any disruptive or anti-social behaviour promptly. Breathalyser testing will also be conducted actively to deter instances of drunk driving around the area.</p>\n<h2>Massive Turnout Expected at Venue</h2>\n<p>Organizers have distributed approximately 20,500 tickets for the musical night, bringing total attendance figures past the twenty-thousand mark. Alongside ticket holders, nearly 2,000 additional individuals comprising support personnel and event volunteers are anticipated to be present.</p>\n<p>The unprecedented scale of the gathering necessitates strict adherence to checklists provided by law enforcement to guarantee that all safety parameters are met seamlessly by the management team.</p>\n<h2>Artist Reassures Fans Live on Instagram</h2>\n<p>Amidst speculation surrounding security concerns, the Punjabi musician addressed his supporters directly through an Instagram live session. He firmly confirmed his arrival in Indore for the scheduled date, urging fans to trust his word over external rumors.</p>\n<p>During the broadcast, he lightheartedly mentioned looking forward to enjoying local poha upon arrival before channeling his energy into the live performance to deliver an unforgettable show.</p>\n<h2>News Overview</h2>\n<p>Authorities in Indore have established extensive security protocols featuring advanced surveillance and bomb squads for Diljit Dosanjh&#x27;s sold-out concert. The artist previously reassured his fanbase via social media that the performance would proceed as scheduled.</p>\n<h2>Key facts</h2>\n<ul><li>Diljit Dosanjh is set to perform in Indore on Sunday, November 15, 2026.</li><li>The venue for the concert is the C21 Estate Ground.</li><li>Organizers issued approximately 20,500 tickets for the event.</li><li>Nearly 2,000 additional people, including volunteers and support staff, are expected.</li><li>Police installed around 250 CCTV cameras at the venue.</li><li>Six ambulances and five temporary medical centres have been arranged.</li><li>DCP Zone 2 is Aman Singh Rathore.</li></ul>\n</article>",
+  "t": "Diljit Dosanjh Indore Concert Security Heightened With CCTVs And Bomb Squads"
  },
  "news:kwx5g4": {
   "d": "Ranbir Kapoor: Cinemas across Mumbai, Pune, and Ahmedabad are adjusting to massive demand by scheduling extra screenings well past midnight, including a 4:50…",
@@ -106317,6 +107230,39 @@
   "published": "2026-10-26T06:30:38.000Z",
   "ssr": "<article class=\"ssr-facts\">\n<h1>EastEnders Unveils Dark Truths About Lee Carter and a New Mick Twist on BBC iPlayer</h1>\n<p class=\"ssr-lead\">Recent episodes of the BBC One soap bring heartbreaking revelations to Walford as Lee Carter&#x27;s struggles come to light alongside complications surrounding Mick Carter&#x27;s legal status.</p>\n<p class=\"ssr-date\">Published 26 October 2026</p>\n<h2>Nancy Returns to Walford</h2>\n<p>Viewers tuning into the latest episodes of EastEnders on BBC iPlayer and BBC One have been met with a wave of heavy emotional drama centering on the Carter family. The trouble began when Nancy Carter made her return to Walford heavily pregnant, acting as a surrogate for her brother Lee Carter and his now-estranged partner, Jess Fang.</p>\n<h2>The Search for Jess</h2>\n<p>Upon her arrival, Lee claimed that Jess had abandoned both him and Nancy, cutting off all contact and refusing to be involved in plans for the incoming child. This prompted Linda Carter to intervene, forcing Lee to embark on a search alongside her to track Jess down and sort out the mounting domestic turmoil.</p>\n<h2>Jess Confronts the Family</h2>\n<p>The situation took a sharp turn when Linda and Lee returned from their fruitless search to find Jess waiting for them in Walford. Jess immediately flipped the narrative, disclosing that it was actually Lee who had abandoned her after she confronted him about a deeply serious personal issue: his growing battle with alcoholism.</p>\n<h2>Grief and Addiction</h2>\n<p>When confronted in front of his family, Lee vehemently denied the accusations and fled the scene. However, a private conversation between Jess and Linda revealed that Lee had turned heavily to drinking following the apparent death of his father, Mick Carter, struggling immensely to accept the devastating loss even after Mick&#x27;s declaration of death was officially rescinded.</p>\n<h2>Linda Catches Lee</h2>\n<p>Determined to get to the bottom of the turmoil, Linda tracked her son down to a park bench. Despite her probing, Lee continued to maintain his innocence, blaming Jess for their relationship breakdown and insisting he was merely grieving Mick rather than dealing with an alcohol addiction.</p>\n<p>The truth came crashing down when Linda noticed a bottle of orange juice left behind by Lee. Upon smelling the container, she realized it was laced with vodka, confirming that her son had been lying to her face. When Linda confronted him with this damning discovery, Lee deflected by pointing out her own historical struggles with alcoholism, arguing that their respective situations were entirely different.</p>\n<h2>Nancy&#x27;s Decision</h2>\n<p>Amid the colliding stories and the toxic, dysfunctional environment now surrounding the household, Nancy reached a firm conclusion regarding her pregnancy. Believing the unfolding chaos was entirely unhealthy, she resolved that the child she is carrying should not be anywhere near Lee and Jess.</p>\n<h2>Family Questions</h2>\n<p>As the dust settles on these latest dramatic developments, major questions loom over the Carter family. Viewers are left wondering if Linda can successfully guide her son through the exact same demons she has personally fought, and what broader impact Mick being legally alive will ultimately have on their lives moving forward.</p>\n<h2>Upcoming Cast Changes</h2>\n<p>The current emotional landscape is set to become even more complicated with upcoming casting shifts in Walford. Fans are already aware that Charlie Brooks is slated to make a brief return as Janine Carter, who served as Linda&#x27;s nemesis and Mick&#x27;s scheming wife during the time of his apparent death on Christmas Day 2022.</p>\n<p>With Janine&#x27;s impending return and ongoing discussions regarding Linda&#x27;s eventual exit from the soap alongside her children in 2027, these current storylines are expected to lay heavy groundwork for future heartbreak and dramatic fireworks in the iconic BBC drama.</p>\n<h2>News Overview</h2>\n<p>Nancy Carter returns to Walford pregnant as a surrogate for Lee Carter and Jess Fang, leading to conflicting accounts of abandonment and alcoholism struggles related to Mick Carter&#x27;s past disappearance. Linda discovers Lee has been hiding vodka in his juice, while Nancy decides the chaotic environment is unsuitable for her unborn child. Future episodes promise further drama with Janine Carter&#x27;s return and impending cast exits.</p>\n<h2>Key facts</h2>\n<ul><li>The episode discussed aired on Monday 26 October 2026.</li><li>Lee Carter is played by Danny Hatchard.</li><li>Linda Carter is played by Kellie Bright.</li><li>Nancy Carter is played by Maddy Hill.</li><li>Jess Fang is played by Emma Lau.</li><li>Mick Carter&#x27;s apparent death occurred on Christmas Day 2022.</li><li>Charlie Brooks is returning for a short stint as Janine Carter.</li><li>Linda&#x27;s exit with her children is scheduled for 2027.</li></ul>\n</article>",
   "t": "EastEnders Unveils Dark Truths About Lee Carter and a New Mick Twist on BBC iPlayer"
+ },
+ "news:t0ku1e": {
+  "d": "When I Existed: Writers-directors Alejandro Damiani and Martin Avdolov debut their social satire at the Tallinn Black Nights Film Festival, starring César…",
+  "img": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/When-I-Existed-film-still-POFF-H-2026.jpeg?w=1440&#038;h=810&#038;crop=1",
+  "k": "When I Existed film, Alejandro Damiani Martin Avdolov, César Troncoso When I Existed, Tallinn Black Nights Film Festival 2026, Georg Szalai When I Existed, When I Existed, Georg Szalai, Silvio Bertolini When I Existed, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "Introduction to a Bureaucratic Nightmare\n\nThe social satire feature film When I Existed brings a bizarre and frustrating plight to the big screen. The narrative centers around Silvio Bertolini, a resident of Montevideo, Uruguay, who has just finished a career spanning 40 years of work. Instead of enjoying a peaceful retirement with his wife and visiting his pregnant daughter in Barcelona, he discovers that the government has officially declared him dead.\n\nLeft with no simple recourse, Silvio embarks on a desperate mission to correct this catastrophic administrative error. His struggle to reclaim his legal identity and his pension takes him through endless loops of official paperwork, touching on a universal exhaustion with modern administrative hurdles.\n\nFestival Premiere and Production Background\n\nWhen I Existed marks the feature-length directorial debut for writers and directors Alejandro Damiani and Martin Avdolov. Blending social commentary with black humor, the project functions as a cross-continental co-production between Uruguay and Spain. The film is scheduled to hold its world premiere within the Critics’ Picks Competition at the 30th edition of the Tallinn Black Nights Film Festival in Estonia.\n\nThe journey to complete the film took roughly five to six years. Much of that timeline was consumed by the writing process—which began during the COVID-19 pandemic—and the complex task of securing financial support from various regional and international bodies.\n\nCast, Crew, and Financial Backers\n\nProminent Uruguayan actor César Troncoso anchors the production in the lead role, joined by a supporting cast featuring Silvia Kutica, Néstor Guzzini, Maruja Bustamante, Mónica Gonzaga, and Mirella Pascual. Behind the camera, the creative team includes cinematographer Manuel Branaa and editors Dan Avram, Martí Rocca, Damiani, and Avdolov.\n\nThe movie was produced by Federico Cetta under El Cielo Cine, alongside co-producers David Matamoros of Spain's Doce Entertainment and Andrés Rosenblatt of Uruguay's Metropolis Films, with Matías Burgos acting as associate producer. Financial backing was provided by ACAU, FONA, MVD Filma, MVD Socio, FIC, and Ibermedia, while international sales are managed by m-appeal.\n\nA Post-Kafka Perspective on Modern Systems\n\nThe filmmakers describe their movie not just as a standard Kafkaesque tale, but as a distinctly post-modern version of it. According to the directors, contemporary administrative encounters differ from classic literature because modern office buildings often feel eerily empty and devoid of actual human interaction, replaced instead by automated digital logic.\n\nThe physical setting of Montevideo offered ideal visual textures for this theme. The directors utilized the region's brutalist architecture to construct the towering, intimidating presence of the pension office that Silvio must repeatedly visit.\n\nIntense Production Demands and Narrative Shifts\n\nStarring César Troncoso presented unique technical demands for the production. Because the filmmakers maintained a strict first-person perspective throughout the narrative, Troncoso had to appear in virtually every single shot and scene of the movie, requiring immense stamina from the veteran actor.\n\nAs casting finalized, the directors chose to reshape the script. They leaned further into dramatic elements rather than pure comedy, adjusting the tone to better match Troncoso's acting strengths and elevate the emotional weight of the story.\n\nUniversal Themes of Time, Technology, and Resistance\n\nBeyond its specific focus on a bureaucratic error, the filmmakers intend for the story to resonate universally. They view the narrative as an exploration of how modern individuals spend their finite time amidst relentless distractions, technological saturation, and societal pressures.\n\nDrawing inspiration from cinematic touchstones like Terry Gilliam's Brazil, the creators hope audiences walk away reflecting on their own lives. Rather than attempting to defeat an unbeatable system, the film suggests that individuals retain the freedom to re-evaluate their priorities away from the superficial demands of daily automation.\n\nNews Overview\n\nDirectors Alejandro Damiani and Martin Avdolov are premiering their debut social satire feature When I Existed at the 30th Tallinn Black Nights Film Festival. Starring César Troncoso as a retired Uruguayan worker incorrectly declared dead by the state, the Uruguay and Spain co-production explores themes of bureaucracy, modern alienation, and personal reinvention.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-15T19:12:00.000Z",
+   "description": "When I Existed: Writers-directors Alejandro Damiani and Martin Avdolov debut their social satire at the Tallinn Black Nights Film Festival, starring César…",
+   "headline": "Tallinn Film Festival Satire 'When I Existed' Follows a Retired Pensioner Declared Dead by the State",
+   "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/When-I-Existed-film-still-POFF-H-2026.jpeg?w=1440&#038;h=810&#038;crop=1",
+   "keywords": "When I Existed film, Alejandro Damiani Martin Avdolov, César Troncoso When I Existed, Tallinn Black Nights Film Festival 2026",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=t0ku1e",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=t0ku1e"
+  },
+  "modified": "",
+  "published": "2026-11-15T19:12:00.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Tallinn Film Festival Satire &#x27;When I Existed&#x27; Follows a Retired Pensioner Declared Dead by the State</h1>\n<p class=\"ssr-lead\">Writers-directors Alejandro Damiani and Martin Avdolov debut their social satire at the Tallinn Black Nights Film Festival, starring César Troncoso as a man fighting a Kafkaesque bureaucratic nightmare.</p>\n<p class=\"ssr-date\">Published 15 November 2026</p>\n<h2>Introduction to a Bureaucratic Nightmare</h2>\n<p>The social satire feature film When I Existed brings a bizarre and frustrating plight to the big screen. The narrative centers around Silvio Bertolini, a resident of Montevideo, Uruguay, who has just finished a career spanning 40 years of work. Instead of enjoying a peaceful retirement with his wife and visiting his pregnant daughter in Barcelona, he discovers that the government has officially declared him dead.</p>\n<p>Left with no simple recourse, Silvio embarks on a desperate mission to correct this catastrophic administrative error. His struggle to reclaim his legal identity and his pension takes him through endless loops of official paperwork, touching on a universal exhaustion with modern administrative hurdles.</p>\n<h2>Festival Premiere and Production Background</h2>\n<p>When I Existed marks the feature-length directorial debut for writers and directors Alejandro Damiani and Martin Avdolov. Blending social commentary with black humor, the project functions as a cross-continental co-production between Uruguay and Spain. The film is scheduled to hold its world premiere within the Critics’ Picks Competition at the 30th edition of the Tallinn Black Nights Film Festival in Estonia.</p>\n<p>The journey to complete the film took roughly five to six years. Much of that timeline was consumed by the writing process—which began during the COVID-19 pandemic—and the complex task of securing financial support from various regional and international bodies.</p>\n<h2>Cast, Crew, and Financial Backers</h2>\n<p>Prominent Uruguayan actor César Troncoso anchors the production in the lead role, joined by a supporting cast featuring Silvia Kutica, Néstor Guzzini, Maruja Bustamante, Mónica Gonzaga, and Mirella Pascual. Behind the camera, the creative team includes cinematographer Manuel Branaa and editors Dan Avram, Martí Rocca, Damiani, and Avdolov.</p>\n<p>The movie was produced by Federico Cetta under El Cielo Cine, alongside co-producers David Matamoros of Spain&#x27;s Doce Entertainment and Andrés Rosenblatt of Uruguay&#x27;s Metropolis Films, with Matías Burgos acting as associate producer. Financial backing was provided by ACAU, FONA, MVD Filma, MVD Socio, FIC, and Ibermedia, while international sales are managed by m-appeal.</p>\n<h2>A Post-Kafka Perspective on Modern Systems</h2>\n<p>The filmmakers describe their movie not just as a standard Kafkaesque tale, but as a distinctly post-modern version of it. According to the directors, contemporary administrative encounters differ from classic literature because modern office buildings often feel eerily empty and devoid of actual human interaction, replaced instead by automated digital logic.</p>\n<p>The physical setting of Montevideo offered ideal visual textures for this theme. The directors utilized the region&#x27;s brutalist architecture to construct the towering, intimidating presence of the pension office that Silvio must repeatedly visit.</p>\n<h2>Intense Production Demands and Narrative Shifts</h2>\n<p>Starring César Troncoso presented unique technical demands for the production. Because the filmmakers maintained a strict first-person perspective throughout the narrative, Troncoso had to appear in virtually every single shot and scene of the movie, requiring immense stamina from the veteran actor.</p>\n<p>As casting finalized, the directors chose to reshape the script. They leaned further into dramatic elements rather than pure comedy, adjusting the tone to better match Troncoso&#x27;s acting strengths and elevate the emotional weight of the story.</p>\n<h2>Universal Themes of Time, Technology, and Resistance</h2>\n<p>Beyond its specific focus on a bureaucratic error, the filmmakers intend for the story to resonate universally. They view the narrative as an exploration of how modern individuals spend their finite time amidst relentless distractions, technological saturation, and societal pressures.</p>\n<p>Drawing inspiration from cinematic touchstones like Terry Gilliam&#x27;s Brazil, the creators hope audiences walk away reflecting on their own lives. Rather than attempting to defeat an unbeatable system, the film suggests that individuals retain the freedom to re-evaluate their priorities away from the superficial demands of daily automation.</p>\n<h2>News Overview</h2>\n<p>Directors Alejandro Damiani and Martin Avdolov are premiering their debut social satire feature When I Existed at the 30th Tallinn Black Nights Film Festival. Starring César Troncoso as a retired Uruguayan worker incorrectly declared dead by the state, the Uruguay and Spain co-production explores themes of bureaucracy, modern alienation, and personal reinvention.</p>\n<h2>Key facts</h2>\n<ul><li>Silvio Bertolini is a retiree from Montevideo, Uruguay, who worked for 40 years.</li><li>When I Existed is a social satire feature debut by writers-directors Alejandro Damiani and Martin Avdolov.</li><li>The film is a Uruguay and Spain co-production.</li><li>The world premiere takes place in the Critics’ Picks Competition of the 30th edition of the Tallinn Black Nights Film Festival (PÖFF) in Estonia on Wednesday, Nov. 18, 2026.</li><li>César Troncoso leads the cast alongside Silvia Kutica, Néstor Guzzini, Maruja Bustamante, Mónica Gonzaga, and Mirella Pascual.</li><li>The producer is Federico Cetta for El Cielo Cine, co-produced by Doce Entertainment and Metropolis Films.</li><li>The making of the film took roughly five to six years, starting during the COVID pandemic.</li></ul>\n</article>",
+  "t": "Tallinn Film Festival Satire 'When I Existed' Follows a Retired Pensioner Declared Dead by the State"
  },
  "news:t1p0y3": {
   "d": "Filmmaker Ritesh Batra has begun production on his next directorial venture, Long Years Ago, bringing together Saif Ali Khan, Vidya Balan, and French actress…",
@@ -114197,6 +115143,68 @@
   "t": "Campus Drivers (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
   "year": "2026"
  },
+ "tv:303182": {
+  "d": "Murder in Galicia (2026) is a Crime and Mystery TV series. Explore its story: In Pazos, Irene is brutally attacked, and Civil Guard…, cast, and 1 season.",
+  "img": "https://image.tmdb.org/t/p/w780/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
+  "industry": "world",
+  "k": "Murder in Galicia, Murder in Galicia TV series, Murder in Galicia cast, Murder in Galicia story, Murder in Galicia seasons, Murder in Galicia episodes, Murder in Galicia season 1, Murder in Galicia 3 episodes, Murder in Galicia first air date, Murder in Galicia Crime, Murder in Galicia Mystery, World Cinema TV series, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "TVSeries",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Tristán Ulloa"
+    },
+    {
+     "@type": "Person",
+     "name": "Carlos Blanco"
+    },
+    {
+     "@type": "Person",
+     "name": "Fer Fraga"
+    },
+    {
+     "@type": "Person",
+     "name": "Miguel Borines"
+    },
+    {
+     "@type": "Person",
+     "name": "Marta Nieto"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 5,
+    "ratingValue": 7.0,
+    "worstRating": 0
+   },
+   "description": "Murder in Galicia (2026) is a Crime and Mystery TV series. Explore its story: In Pazos, Irene is brutally attacked, and Civil Guard…, cast, and 1 season.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Carlos Sedes"
+    }
+   ],
+   "genre": [
+    "Crime",
+    "Mystery"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/show?id=303182",
+   "name": "Murder in Galicia",
+   "numberOfEpisodes": 3,
+   "numberOfSeasons": 1,
+   "startDate": "2026-11-13",
+   "url": "https://flickatlas.co.uk/show?id=303182"
+  },
+  "modified": "",
+  "published": "2026-11-15",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Murder in Galicia (2026)</h1>\n<p class=\"ssr-lead\">In Pazos, Irene is brutally attacked, and Civil Guard sergeant Elías suspects her husband Aniceto, racing against time to uncover the truth before it’s too late.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 13 November 2026</li><li>Seasons: 1 · Episodes: 3</li><li>Created by: Curro Serrano</li><li>Director: Carlos Sedes</li><li>Genres: Crime, Mystery, Drama</li><li>TMDB rating: 7.0/10 (5 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tristán Ulloa as Elías Lago</li><li>Carlos Blanco as Turrientes &quot;Turri&quot;</li><li>Fer Fraga as Barreiro</li><li>Miguel Borines as Aniceto Rodríguez Caneiro</li><li>Marta Nieto</li><li>Verónica Sánchez as Begoña</li><li>Fernando Guillén Cuervo</li><li>Nacho Fresneda</li><li>Tito Asorey as Santi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Netflix (IN)</li></ul>\n</article>",
+  "t": "Murder in Galicia (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+  "year": "2026"
+ },
  "tv:303745": {
   "d": "Love in Disguise (2026) is a Comedy and Drama TV series. Explore its story: Taekang Group's successor, Yoon Yi-jun, is the prime…, cast, and 1 season.",
   "img": "https://image.tmdb.org/t/p/w780/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
@@ -116886,6 +117894,39 @@
   "published": "2026-10-29",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Matargashti (2026)</h1>\n<p class=\"ssr-lead\">Dhara&#x27;s plan to explore her sexuality puts her at odds with her horrified father, who becomes determined to sabotage her love life.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 21 October 2026</li><li>Seasons: 1 · Episodes: 5</li><li>Director: Siddhant Chavan</li><li>Genres: Drama</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rajesh Kumar as Prakash</li><li>Adrija Sinha as Dhara</li><li>Saumya Uniyal as Charu</li><li>Shakti Kumar as Sunil</li><li>Tulika Banerjee as Sangeeta</li><li>Sachin Jeet Singh as Dhruv</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Netflix (IN)</li></ul>\n</article>",
   "t": "Matargashti (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+  "year": "2026"
+ },
+ "tv:340053": {
+  "d": "Get Huge: Looksmaxxing to Death (2026) is a Documentary TV series. Explore its story: An unflinching portrait of masculinity in the…, cast, and 1 season.",
+  "img": "https://image.tmdb.org/t/p/w780/ddJt3lGs2vMzvXY4Nb7xbvTfJ3Q.jpg",
+  "industry": "world",
+  "k": "Get Huge: Looksmaxxing to Death, Get Huge: Looksmaxxing to Death TV series, Get Huge: Looksmaxxing to Death cast, Get Huge: Looksmaxxing to Death story, Get Huge: Looksmaxxing to Death seasons, Get Huge: Looksmaxxing to Death episodes, Get Huge: Looksmaxxing to Death season 1, Get Huge: Looksmaxxing to Death 3 episodes, Get Huge: Looksmaxxing to Death first air date, Get Huge: Looksmaxxing to Death trailer, Get Huge: Looksmaxxing to Death Documentary, World Cinema TV series, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "TVSeries",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 2,
+    "ratingValue": 8.0,
+    "worstRating": 0
+   },
+   "description": "Get Huge: Looksmaxxing to Death (2026) is a Documentary TV series. Explore its story: An unflinching portrait of masculinity in the…, cast, and 1 season.",
+   "genre": [
+    "Documentary"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/ddJt3lGs2vMzvXY4Nb7xbvTfJ3Q.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/show?id=340053",
+   "name": "Get Huge: Looksmaxxing to Death",
+   "numberOfEpisodes": 3,
+   "numberOfSeasons": 1,
+   "startDate": "2026-11-10",
+   "url": "https://flickatlas.co.uk/show?id=340053"
+  },
+  "modified": "",
+  "published": "2026-11-15",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Get Huge: Looksmaxxing to Death (2026)</h1>\n<p class=\"ssr-lead\">An unflinching portrait of masculinity in the influencer age, where extreme biohacking, online performance and a series of suspicious deaths converge.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 10 November 2026</li><li>Seasons: 1 · Episodes: 3</li><li>Genres: Documentary</li><li>TMDB rating: 8.0/10 (2 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on JioHotstar (IN)</li></ul>\n</article>",
+  "t": "Get Huge: Looksmaxxing to Death (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
   "year": "2026"
  },
  "tv:340197": {

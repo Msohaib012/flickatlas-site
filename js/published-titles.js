@@ -45815,5 +45815,823 @@ window.FA_PUBLISHED = {
     "runtime": 20,
     "providers": [],
     "providers_wtw": []
+  },
+  "1703877": {
+    "id": 1703877,
+    "type": "movie",
+    "title": "Ghamela",
+    "poster_path": "/saZ2XvP3g6f8VALPlKB2bqYP5g1.jpg",
+    "backdrop_path": "/6b2FZH3MPylJaIgyB7dwHw2TNaZ.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Bharat, a simple working-class man, finds himself in a fix after his wife makes a demand for a gold necklace for Dhanteras (annual festival for buying gold). He chances upon a world entirely different from his own which takes him down an unknown rabbit hole. Will he be able to get his wife a gold necklace before Dhanteras?",
+    "industry": "bollywood",
+    "popularity": 0.347,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-15",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "hi",
+      "mr"
+    ],
+    "certification": "UA",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 28,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1821748": {
+    "id": 1821748,
+    "type": "movie",
+    "title": "我没错！",
+    "poster_path": "/5ceN7TJ27djX29YtPYvliik9e1T.jpg",
+    "backdrop_path": "/xPw16NMyAtgwub5Du8j3ByAqPxV.jpg",
+    "vote_average": 5.0,
+    "vote_count": 1,
+    "overview": "",
+    "industry": "world",
+    "popularity": 1.9782,
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-15",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Crime"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "303182": {
+    "id": 303182,
+    "type": "tv",
+    "title": "Murder in Galicia",
+    "poster_path": "/pooxlKqgM7NhBHkgt9RjmrY7n2l.jpg",
+    "backdrop_path": "/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
+    "vote_average": 7.0,
+    "vote_count": 5,
+    "overview": "In Pazos, Irene is brutally attacked, and Civil Guard sergeant Elías suspects her husband Aniceto, racing against time to uncover the truth before it’s too late.",
+    "industry": "world",
+    "popularity": 28.3412,
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-15",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Ended",
+    "production_countries": [
+      "ES"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "NC16",
+    "first_air_date": "2026-11-13",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 3,
+    "channel": "Netflix",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 3,
+        "air_date": "2026-11-13",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Curro Serrano"
+    ],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "1814810": {
+    "id": 1814810,
+    "type": "movie",
+    "title": "Matrona",
+    "poster_path": "/35TxKWlAicoIT8ZoShJzBJWzrzs.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.1648,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-15",
+    "source": "tmdb",
+    "budget": 800,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-22",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1755500": {
+    "id": 1755500,
+    "type": "movie",
+    "title": "Five Figurines",
+    "poster_path": "/kbCVv6IoxSEK6857ZS1lIkMbBtc.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A young man’s mysterious death sets off a chain of suspicion after his grieving mother turns to traditional means for revenge.",
+    "industry": "world",
+    "popularity": 2.1308,
+    "original_language": "en",
+    "origin_country": [
+      "NG"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-15",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 120,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "340053": {
+    "id": 340053,
+    "type": "tv",
+    "title": "Get Huge: Looksmaxxing to Death",
+    "poster_path": "/9qODvXSjoQmRKU9Xp24Oiucv9aZ.jpg",
+    "backdrop_path": "/ddJt3lGs2vMzvXY4Nb7xbvTfJ3Q.jpg",
+    "vote_average": 8.0,
+    "vote_count": 2,
+    "overview": "An unflinching portrait of masculinity in the influencer age, where extreme biohacking, online performance and a series of suspicious deaths converge.",
+    "industry": "world",
+    "popularity": 26.7343,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "PUUpAn7QzPY",
+      "name": "Get Huge: Looksmaxxing To Death - Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-15",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "M18",
+    "first_air_date": "2026-11-10",
+    "networks": [
+      "Hulu"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 3,
+    "channel": "Hulu",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 3,
+        "air_date": "2026-11-10",
+        "name": "Miniseries"
+      }
+    ],
+    "created_by": [],
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "1810733": {
+    "id": 1810733,
+    "type": "movie",
+    "title": "In the Sweet Arms",
+    "poster_path": "/4Rwnryi33eEUd7f8ex9clKuStad.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When night falls, director Julian Flavin hosts a radio show, pondering the meaning and scope, both latent and overt, of music. Guided by an enthralling voice and a camera that captures time suspended in the city at night, In The Sweet Arms shows music in its most unusual forms: a choir singing to those on their deathbeds, a U.S. Army rock group rehearsal, a superstar moved by the crowd during a concert, a teenager setting Call of Duty clips to music, an AI-generated song mimicking the band that the filmmaker once belonged to. These encounters probe the ideological, social and political dimensions of music and what it reveals about how we see the world.",
+    "industry": "world",
+    "popularity": 0.1529,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-15",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-22",
+    "date_kind": "release",
+    "runtime": 94,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1823544": {
+    "id": 1823544,
+    "type": "movie",
+    "title": "The Other Mother's Child",
+    "poster_path": "/84BLgi5wbdgMttRHmUSMFy9yDqN.jpg",
+    "backdrop_path": "/pjGKKOvlpPaiDEJBWv5jiBdVmCR.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Andy's son is kidnapped by mistake. The target was her friend Katrina's child. The kidnappers give her one way to get him back: kill Katrina.",
+    "industry": "world",
+    "popularity": 1.5023,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-15",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 90,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1810503": {
+    "id": 1810503,
+    "type": "movie",
+    "title": "Kill You!",
+    "poster_path": "/14qsQSol1K1FPlpecbzbgaOrMPd.jpg",
+    "backdrop_path": "/zshnRzi5tR8aA9lMeqRFZ2hFmMR.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Tim is an ordinary student who enjoys spending his free time playing video games. When his mother tells him that she won't be home in the mornings for the next two weeks, Tim sees an opportunity to immerse himself even further in his virtual world, unaware of the consequences his decision might bring.",
+    "industry": "world",
+    "popularity": 0.0424,
+    "original_language": "de",
+    "origin_country": [
+      "AT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-15",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "de"
+    ],
+    "certification": "12",
+    "release_date": "2026-11-22",
+    "date_kind": "festival",
+    "runtime": 23,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1658555": {
+    "id": 1658555,
+    "type": "movie",
+    "title": "Hadoota",
+    "poster_path": "/tHAJ1951bRuQp7P7YY5PYvWzRdK.jpg",
+    "backdrop_path": "/x4wQePzvBw1eJjWHOk6PUZBch7N.jpg",
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "overview": "Hadoota, a 40-year-old thug, can’t remember the hiding place of a witness he kidnapped. He resorts to a hypnosis therapist to retrieve this missing information. But, in order to restore his memory, he needs to confront old enemies, past events, and most importantly… himself.",
+    "industry": "world",
+    "popularity": 1.6873,
+    "original_language": "ar",
+    "origin_country": [
+      "EG"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-15",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "EG",
+      "SA"
+    ],
+    "spoken_languages": [
+      "ar"
+    ],
+    "certification": "15A",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 120,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1805276": {
+    "id": 1805276,
+    "type": "movie",
+    "title": "No Trees, No Seas",
+    "poster_path": "/boV3KViD9hy4tG83Y0pJnMLi24F.jpg",
+    "backdrop_path": "/7TWzuiA9q5pZlR2bnlKg20RLxkb.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A people-led climate documentary rooted in Cornwall, where stories, science and surfing come together to reveal how restoring the connections between land, sea and community could change everything.",
+    "industry": "world",
+    "popularity": 0.2227,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-15",
+    "source": "tmdb",
+    "budget": 100000,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "Could restoring our forests be the key to saving our seas?",
+    "status": "Released",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-22",
+    "date_kind": "release",
+    "runtime": 60,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1814100": {
+    "id": 1814100,
+    "type": "movie",
+    "title": "Craig Simons Is James Acaster",
+    "poster_path": "/toXElOl1RIjEWaFBYqW36NaG8dA.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Meet your new favourite comedian Craig Simons, a James Acaster tribute act that definitely ISN'T Acaster himself. Filmed at Edinburgh’s legendary Monkey Barrel after a sellout UK, Ireland and US tour, Simons shows why he’s the best in the game.",
+    "industry": "world",
+    "popularity": 1.5462,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-15",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-09",
+    "date_kind": "release",
+    "runtime": 60,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1804633": {
+    "id": 1804633,
+    "type": "movie",
+    "title": "Forgotten Founder: The Untold Story of Samson Occom and Dartmouth",
+    "poster_path": "/xtdXV4O989IvvQdbfqHC0nhU22U.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Despite his central role in the founding of Dartmouth College, Samson Occom, a Mohegan minister, educator and Indigenous intellectual, was erased from the historical record along with the promises made to Native communities.",
+    "industry": "world",
+    "popularity": 0.1951,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-15",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-22",
+    "date_kind": "festival",
+    "runtime": 29,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1803124": {
+    "id": 1803124,
+    "type": "movie",
+    "title": "A Song from Beyond",
+    "poster_path": "/tigBt5INRb7QG0ZZM3iCphBuh7n.jpg",
+    "backdrop_path": "/2QJZmhwIrlSkJZ96c4gKerN3c6q.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "One day, when photographer Momoko is eating lunch at a cafe, a university student studying film production asks her to appear in their graduation film. On the day of the shoot, the man cast to play her father turns out to be her real father, who she hasn't seen for years.",
+    "industry": "world",
+    "popularity": 0.1526,
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-15",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "certification": "",
+    "release_date": "2026-11-22",
+    "date_kind": "festival",
+    "runtime": 80,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1803106": {
+    "id": 1803106,
+    "type": "movie",
+    "title": "Rifugiati climatici",
+    "poster_path": "/xwCEFsCJmDTB18rOOE4G5E5tyPM.jpg",
+    "backdrop_path": "/emjcvMIPrZF6XyFL7uXdxIoJDEs.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.1534,
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-15",
+    "source": "tmdb",
+    "budget": 50,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-22",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1798143": {
+    "id": 1798143,
+    "type": "movie",
+    "title": "LVX",
+    "poster_path": "/buk31Y2BO4uPAo3eUWVfJegJ1Yz.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In times of the Belle Époque. Amidst a thriving society a young woman no longer recognizes herself. She has lost her inner light. In her desperation, the woman seeks out a peculiar place where someone has supposedly developed a new method for treating such deep inner darkness.",
+    "industry": "world",
+    "popularity": 0.5579,
+    "original_language": "en",
+    "origin_country": [
+      "GB",
+      "CH"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-15",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "The mind is like an iceberg.",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "de"
+    ],
+    "certification": "",
+    "release_date": "2026-11-22",
+    "date_kind": "release",
+    "runtime": 20,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1797421": {
+    "id": 1797421,
+    "type": "movie",
+    "title": "This Land",
+    "poster_path": "/seMxVC1QMyn8pDmHRIPARfVCZHK.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Laura Orson, a disabled elderly woman, has nightmares of a startling creature that begin to haunt her daily life. As she grapples with her guilt over her deceased father, the creature closes in until she has no choice but to ask for help.",
+    "industry": "world",
+    "popularity": 0.3608,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-15",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-22",
+    "date_kind": "festival",
+    "runtime": 14,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1796870": {
+    "id": 1796870,
+    "type": "movie",
+    "title": "Mother, There’s a Star in Me",
+    "poster_path": "/858d0SZX0IHPh1cKOoPHGXVYgOW.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "This 65 min documentary feature an all-female drumming troop, Medha, from Siem Reap, Cambodia who symbolizes resilience and empowerment. Through powerful performances and intimate glimpses into their daily lives, the film sheds light on their courage to pursue their passion for the arts while navigating societal challenges, advocating for women’s rights, and raising their children as single mothers. This documentary not only celebrates the strength of remarkable women but also highlights the transformative power of music, exploring its deep, hereditary roots.",
+    "industry": "world",
+    "popularity": 0.1128,
+    "original_language": "km",
+    "origin_country": [
+      "KH"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-15",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "KH"
+    ],
+    "spoken_languages": [
+      "km"
+    ],
+    "certification": "",
+    "release_date": "2026-11-22",
+    "date_kind": "release",
+    "runtime": 65,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1788638": {
+    "id": 1788638,
+    "type": "movie",
+    "title": "Nice to Meet You, Amigo",
+    "poster_path": "/nJjsisKIw4hSHAPO8T8CoCL5S8Q.jpg",
+    "backdrop_path": "/mP8gWkbXJmLWKEwbqa9K2zzEz9D.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "TTFC-exclusive movie of Super Space Sheriff Gavan Infinity that takes place in a parallel universe, featuring the main cast in different roles: a mysterious alien named Amigo appears before an elementary school student named Taiyo! Amigo, who came to Earth for a certain investigation, asks Taiyo for his cooperation, but Taiyo is completely bewildered by the strange request. Amigo says \"On my planet, it's so much easier to become friends\", and Taiyo gets dragged into the situation. Will friendship blossom between the boy and the alien?",
+    "industry": "world",
+    "popularity": 0.2542,
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-15",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Science Fiction"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "certification": "",
+    "release_date": "2026-11-22",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
   }
 };
