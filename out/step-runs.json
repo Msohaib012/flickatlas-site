@@ -942,29 +942,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-11-14T06:54:04Z",
-    "run_id": "43568278297",
-    "status": "success",
-    "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Day 10 Advance Booking Proves Massive As Presales Cross 400 Crore Milestone",
-      "Michael Mann and New Regency Clash in Legal Battle Over Ownership of 1995 Crime Classic Heat",
-      "YENA Teams Up with Japanese Idol Group CUTIE STREET for Surprise \"Sakuranbo\" Collaboration",
-      "Dakota Mortensen Files Defamation Lawsuit Against Producers of The Secret Lives of Mormon Wives"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "+4 articles, +0 box-office rows, 0 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-11-14T07:52:07Z",
     "run_id": "43572965637",
     "status": "success",
@@ -1476,6 +1453,24 @@
      "detail": "+4 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-15T05:10:29Z",
+    "run_id": "43678567141",
+    "status": "success",
+    "checked": {
+     "candidates": 16,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
@@ -1913,23 +1908,6 @@
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-14T05:11:30Z",
-    "run_id": "43559407296",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2397,6 +2375,23 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-15T05:10:30Z",
+    "run_id": "43678567141",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "multisource_boxoffice": [
@@ -3078,29 +3073,6 @@
    {
     "step": "convert_news",
     "category": "Trending News",
-    "run_at": "2026-11-14T05:19:51Z",
-    "run_id": "43559636962",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Harshvardhan Rane Reportedly Purchases Luxury Home at Lotus Amalfi in Mumbai",
-      "How Netflix's Horror Miniseries Boldly Reimagines A 187-Year-Old Literary Masterpiece",
-      "Ali Abbas Zafar Makes Musical Debut in Parivarik ManuRanjan",
-      "Game Of Thrones: The Lion's Reign Officially Announced For Mobile Puzzle RPG"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
-   {
-    "step": "convert_news",
-    "category": "Trending News",
     "run_at": "2026-11-14T07:01:13Z",
     "run_id": "43568278297",
     "status": "success",
@@ -3610,6 +3582,24 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-15T05:10:30Z",
+    "run_id": "43678567141",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -8406,5 +8396,5 @@
    }
   ]
  },
- "updated_at": "2026-11-15T04:59:26Z"
+ "updated_at": "2026-11-15T05:10:30Z"
 }
