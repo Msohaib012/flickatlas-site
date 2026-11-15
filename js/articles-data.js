@@ -149658,5 +149658,381 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 14 Nov 2026 22:46:44 +0000"
+  },
+  "hym7a5": {
+    "id": "hym7a5",
+    "type": "news",
+    "headline": "Ramayana: Rise of a Legend Crosses Rs 1,200 Crore Worldwide on Day 10",
+    "dek": "Ranbir Kapoor and Yash's mythological epic records strong growth on its second Saturday, outperforming previous benchmarks and leading across multiple languages.",
+    "body": [
+      {
+        "h": "The Second Saturday Surge",
+        "p": [
+          "The theatrical journey of the mythological epic reached a major milestone as audiences turned out in large numbers over the weekend. On its tenth day in theaters, the movie registered a notable 51.6 percent jump compared to its earnings from the previous day.",
+          "This weekend growth pushed domestic figures higher, solidifying a strong position for the production during its ongoing theatrical run across the country."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "The Hindi version continued to dominate ticket sales, bringing in the vast majority of the revenue from over eighteen thousand screenings. Other regional markets also contributed to the overall figures, with strong contributions from Kannada, Malayalam, Tamil, and Telugu versions.",
+          "Occupancy rates remained high across different territories, with Malayalam screenings noting particularly high attendance followed closely by Tamil and Kannada language formats."
+        ]
+      },
+      {
+        "h": "Global Box Office Milestones",
+        "p": [
+          "International markets added substantial sums to the global tally, pushing the cumulative worldwide gross past the significant twelve hundred crore rupee milestone.",
+          "Domestic earnings account for the majority of the total revenue, while overseas territories make up the remaining share of the global box office collections."
+        ]
+      },
+      {
+        "h": "Comparison With Animal",
+        "p": [
+          "The latest numbers place the film significantly ahead of Ranbir Kapoor's earlier release, Animal, when comparing collections at the exact same stage of their respective runs.",
+          "While the previous action drama had managed solid totals by its tenth day, the mythological film achieved more than triple those earnings, highlighting a vastly expanded box office reach."
+        ]
+      },
+      {
+        "h": "Theatrical Journey and Daily Trends",
+        "p": [
+          "Since launching at the box office on November 5, the feature has experienced fluctuating daily earnings, peaking notably during early weekdays before stabilizing into its second week.",
+          "The initial eight-day run established a heavy domestic foundation, which was further boosted by the strong weekend performance."
+        ]
+      },
+      {
+        "h": "Subject Matter and Adaptation",
+        "p": [
+          "The production adapts traditional Indian epic narratives concerning Lord Rama and King Ravana into a contemporary cinematic presentation.",
+          "Headlined by prominent actors, the first instalment centers on the early life of Prince Rama and the hurdles he faces as the rightful heir to Ayodhya."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Rise of a Legend crossed Rs 1,200 crore globally by its tenth day following a major second Saturday jump in India. The film outperformed Ranbir Kapoor's previous release Animal by earning over three times its collections at the same stage.",
+          "Industry data indicates that the Hindi version led the domestic collections while international territories added significantly to the worldwide gross."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Rise of a Legend collected Rs 72.90 cr net in India on Day 10",
+      "Film's domestic net collection reached Rs 685.60 cr",
+      "India gross stands at Rs 819.50 cr",
+      "Worldwide gross collection reached Rs 1228 cr",
+      "Hindi version collected Rs 53.75 cr from 18557 shows on Saturday",
+      "Animal collected Rs 36 cr net in India on its tenth day",
+      "Film began its theatrical journey on November 5 with Rs 64.85 cr net in India"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sandeep Reddy Vanga"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend box office",
+      "Ramayana Day 10 collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana Rs 1200 cr worldwide"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135844974,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ramayana: Rise of a Legend Crosses Rs 1,200 Crore Worldwide on Day 10",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T05:57:13+05:30"
+  },
+  "19d8ylq": {
+    "id": "19d8ylq",
+    "type": "news",
+    "headline": "The Body Season 2 Renewal Status Revealed: Netflix Creator and Cast Tease What is Next After Finale",
+    "dek": "Fans of Netflix's hit teen thriller series are eager to learn whether the show will return for a second season following its dramatic conclusion.",
+    "body": [
+      {
+        "h": "The Debut and Immediate Impact of the Series",
+        "p": [
+          "The Body has quickly emerged as one of the most talked-about new additions to the Netflix streaming library. The inaugural season of the teen thriller made its official debut on Wednesday, November 11, drawing considerable attention from audiences across the globe.",
+          "The plot centers around a group of Catholic school girls whose routine dance-team initiation goes terribly wrong. This disastrous event triggers a chain reaction involving mysterious visions and widespread mass hysteria throughout their town."
+        ]
+      },
+      {
+        "h": "Current Status Regarding a Second Season",
+        "p": [
+          "As of November 14, Netflix has not yet officially renewed or canceled the series for a second season. The platform is evaluating the early performance metrics before making a final commitment.",
+          "Despite the lack of an official greenlight, the creative minds behind the project have expressed strong enthusiasm for continuing the narrative further."
+        ]
+      },
+      {
+        "h": "Creator Insights and Future Plans",
+        "p": [
+          "Creator Quinn Shephard and co-showrunner Gina Gammell have confirmed that they are actively developing concepts for a potential continuation. Quinn noted in an interview published on November 12 that several ideas are already percolating in their minds.",
+          "Gina described the conclusion of the first chapter as a deliberate setup and tease for where they hope to take the overarching plot if the streaming network orders more episodes."
+        ]
+      },
+      {
+        "h": "Early Performance on the Streaming Charts",
+        "p": [
+          "The thriller is already demonstrating strong early traction on the platform since its initial release. According to figures highlighted by Forbes, the program climbed to the No. 2 position on the domestic television rankings by Saturday, November 14.",
+          "This robust viewer engagement provides a solid foundation for the creators' hopes of securing an official renewal from the service."
+        ]
+      },
+      {
+        "h": "Unpacking the Cliffhanger Ending",
+        "p": [
+          "The first season concludes with a major cliffhanger involving Sofia Wylie's character, Grace, who finally awakens from a coma and utters the shocking final words declaring she is God.",
+          "Quinn Shephard mentioned in an interview on November 13 that she is eager to explore the aftermath of Grace waking up and finally being able to speak for herself."
+        ]
+      },
+      {
+        "h": "Cast Involvement and Enthusiasm",
+        "p": [
+          "The ensemble cast is equally invested in the possibility of returning for another installment. Sara Boustany, who portrays Elise, revealed that the actors frequently pitch ideas to the showrunners.",
+          "Kristina Bogic, who plays Anya, shared that the performers grew close during production and were encouraged to contribute character-driven concepts, though none of the actors have been officially confirmed for a continuation yet."
+        ]
+      },
+      {
+        "h": "Timeline and Availability",
+        "p": [
+          "There is currently no official release date or production schedule for a potential second season. All eight episodes of the first season are currently available to stream on Netflix.",
+          "Audiences can view the entire initial run while awaiting further announcements from the platform regarding the future of the series."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has not yet officially renewed The Body for a second season following its November 11 premiere. However, creator Quinn Shephard and co-showrunner Gina Gammell have already developed ideas for the future, while the show has climbed to No. 2 on the U.S. television rankings."
+        ]
+      }
+    ],
+    "facts": [
+      "The show premiered on Wednesday, November 11, 2026.",
+      "The series reached No. 2 on Netflix's U.S. television rankings by Saturday, November 14, 2026.",
+      "The first season consists of eight episodes.",
+      "As of November 14, 2026, Netflix has not officially renewed or canceled the series."
+    ],
+    "entities": {
+      "people": [
+        "Quinn Shephard",
+        "Kristina Bogic",
+        "Sara Boustany",
+        "Geena Meszaros",
+        "Sofia Wylie",
+        "Shirley Chen",
+        "Gina Gammell"
+      ],
+      "titles": [
+        "The Body"
+      ]
+    },
+    "keywords": [
+      "The Body Netflix series",
+      "Quinn Shephard The Body",
+      "The Body season 2 renewal",
+      "Sofia Wylie The Body"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/08/the-body-netflix-first-look.jpg",
+        "caption": "The Body Season 2 Renewal Status Revealed: Netflix Creator and Cast Tease What is Next After Finale",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 00:46:35 +0000"
+  },
+  "7uwjmz": {
+    "id": "7uwjmz",
+    "type": "news",
+    "headline": "Om Chapter 1 Hindi Trailer Released Featuring Dhanush, Sai Pallavi and Mammootty",
+    "dek": "The official Hindi trailer for Om: Chapter 1, Udhiram: The Blood Wood has been released, showcasing an intense red sandalwood smuggling thriller directed by Rajkumar Periyasamy.",
+    "body": [
+      {
+        "h": "Introduction to the Hindi Trailer",
+        "p": [
+          "The makers of the upcoming action drama have officially released its Hindi trailer, generating significant excitement across various digital platforms. Officially titled Om: Chapter 1, Udhiram: The Blood Wood, the project promises an immersive cinematic dive into the dangerous and underground economy of illegal timber operations.",
+          "Upon its arrival on social media, the promotional video immediately captured attention and garnered largely positive initial reactions. It opens with an intriguing textual disclaimer noting that certain depicted events are rooted in actual occurrences, accompanied by the traditional morning prayer Suprabhatam playing in the background."
+        ]
+      },
+      {
+        "h": "Plot and Setting",
+        "p": [
+          "The narrative centers around the illicit trade of red sandalwood across two distinct temple towns, drawing inspiration from real-life incidents involving woodcutters within the Tiruvannamalai forest region. To combat this sprawling syndicate, law enforcement initiates a covert operation titled Operation Mole.",
+          "At the helm of this investigative mission is CBI officer Nithya Reddy, portrayed by Sai Pallavi in a fierce uniform-clad role that stands in stark contrast to her character Sita in Ramayan. The storyline explores the clash between two powerful factions standing on opposing sides of the law."
+        ]
+      },
+      {
+        "h": "Dhanush's Undercover Persona",
+        "p": [
+          "Superstar Dhanush steps into the shoes of D-402, an operative belonging to the Organized Crime Intelligence Unit's D team. The trailer introduces him both as a rugged timber laborer caught deep within the smuggling syndicate and as a secret operative.",
+          "Visuals suggest his character has infiltrated the criminal network from within as part of the undercover mission. This dual identity—whether he operates as a victim, an undercover mole, or a double agent—forms a central mystery of the plot."
+        ]
+      },
+      {
+        "h": "Mammootty's Return to Tamil Cinema",
+        "p": [
+          "Veteran actor Mammootty makes his much-anticipated return to Tamil cinema with this project, marking his first on-screen collaboration with Dhanush after a long gap of seven years. He essays the character of Sia, also referred to as Burma Karthikeyan or Burma Kartik.",
+          "In the promotional footage, Mammootty projects an imposing aura, appearing alternately as a politician and as the mastermind controlling the entire contraband empire. His commanding presence in the role of Sia has drawn considerable praise from fans online."
+        ]
+      },
+      {
+        "h": "Supporting Cast and Crew",
+        "p": [
+          "Beyond the primary trio, the movie features prominent performances from Sreeleela and veteran actor Naseeruddin Shah. Sreeleela appears as the wife of Dhanush's character, while Naseeruddin Shah makes a brief appearance that keeps details about his role under wraps.",
+          "The musical background score, composed by Sai Abhyankar, has received widespread appreciation from viewers for elevating the intensity of the action sequences. The project has been written and directed by Rajkumar Periyasamy, best known for his work on Amaran."
+        ]
+      },
+      {
+        "h": "Release Schedule and Box Office Window",
+        "p": [
+          "The theatrical release for Om Chapter 1 is scheduled for November 20, with the promotional trailer arriving just six days prior to the premiere. The makers deliberately positioned the debut close to the launch date following adjustments to avoid potential clashes with Jailer 2 and Suriya's upcoming film.",
+          "These schedule shifts have successfully secured a clean solo theatrical window for the feature. Backed by its prominent cast, the narrative positions itself as a gripping thriller arriving in cinemas very soon."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The official Hindi trailer for Om: Chapter 1, Udhiram: The Blood Wood has launched ahead of its November 20 theatrical release. Directed by Rajkumar Periyasamy, the film stars Dhanush, Sai Pallavi, and Mammootty in a red sandalwood smuggling thriller."
+        ]
+      }
+    ],
+    "facts": [
+      "The film's official title is Om: Chapter 1, Udhiram: The Blood Wood.",
+      "The film releases in cinemas on November 20.",
+      "The trailer was released six days before the film's premiere.",
+      "Mammootty returns to Tamil cinema after a gap of seven years.",
+      "Rajkumar Periyasamy is the writer and director of the film."
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Sai Pallavi",
+        "Mammootty",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Rajkumar Periyasamy",
+        "Sai Abhyankar",
+        "Suriya"
+      ],
+      "titles": [
+        "Om: Chapter 1, Udhiram: The Blood Wood",
+        "Ramayan",
+        "Amaran",
+        "Jailer 2"
+      ]
+    },
+    "keywords": [
+      "Om Chapter 1 Hindi trailer",
+      "Dhanush Om movie",
+      "Sai Pallavi CBI officer Om",
+      "Mammootty Burma Kartik Om",
+      "Rajkumar Periyasamy film"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af896d04fcf0-om-trailer-relesed-141351220-16x9.jpg",
+        "caption": "Om Chapter 1 Hindi Trailer Released Featuring Dhanush, Sai Pallavi and Mammootty",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T00:52:22Z"
+  },
+  "1va309p": {
+    "id": "1va309p",
+    "type": "news",
+    "headline": "Hugh Jackman Confirms Creative Role on Avengers: Doomsday Script",
+    "dek": "Wolverine star Hugh Jackman has been officially credited for contributing additional literary material to the upcoming Marvel Studios blockbuster.",
+    "body": [
+      {
+        "h": "The Road to Avengers: Doomsday",
+        "p": [
+          "Marvel Studios is rapidly approaching the debut of its fifth major ensemble film centered around Earth's Mightiest Heroes. Slated for release in mid-December 2026, the upcoming blockbuster is anticipated to be one of the studio's most ambitious cinematic endeavors to date.",
+          "The production brings back massive star power alongside a sprawling ensemble cast. While exact plot details remain heavily guarded, the narrative is expected to explore multiversal threats and feature Robert Downey Jr. taking on the mantle of Doctor Doom as a primary character."
+        ]
+      },
+      {
+        "h": "Hugh Jackman Joining the Writing Team",
+        "p": [
+          "Ahead of the film's premiere, reports surfaced detailing the extensive creative team behind the screenplay. Variety revealed that ten different individuals contributed to shaping the script for the massive crossover event.",
+          "Among those credited in Writers Guild of America records is Hugh Jackman. The veteran actor received an official credit for providing additional literary material, which encompasses behind-the-scenes writing contributions and dialogue refinements."
+        ]
+      },
+      {
+        "h": "Social Media Acknowledgments",
+        "p": [
+          "Following the public disclosure of the writing credits, the actor himself seemingly acknowledged the news online. He shared the report directly through his personal Instagram Stories feed.",
+          "His frequent collaborator also joined in on the public reaction. Ryan Reynolds responded to the Variety report by highlighting a humorous moment from their previous work together in Deadpool & Wolverine."
+        ]
+      },
+      {
+        "h": "Uncertainty Surrounding an On-Screen Appearance",
+        "p": [
+          "Despite his confirmed behind-the-scenes contributions to the screenplay, whether the iconic mutant will appear physically on screen remains unconfirmed. The actor has maintained silence regarding any potential acting role in the feature.",
+          "Given the massive success of his previous outing as the character and the complex multiversal nature of the narrative, fans continue to speculate about a possible physical cameo alongside the rest of the colossal cast."
+        ]
+      },
+      {
+        "h": "A Massive Ensemble Cast",
+        "p": [
+          "The film's roster already includes more than thirty confirmed stars drawn from both the mainstream Marvel Cinematic Universe and legacy superhero franchises. Many supporting roles are being kept under wraps to surprise audiences.",
+          "If the actor does appear on screen, it could lead to exciting reunions with other veteran franchise stars like Sir Patrick Stewart, Sir Ian McKellen, and Channing Tatum, following their recent collaborative appearances."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Hugh Jackman has officially been credited by the Writers Guild of America for providing additional literary material to the script of Avengers: Doomsday. While this confirms his behind-the-scenes creative involvement, it leaves open the question of whether he will reprise his famous role on screen alongside the film's massive cast."
+        ]
+      }
+    ],
+    "facts": [
+      "Hugh Jackman received an 'additional literary material' credit for Avengers: Doomsday.",
+      "Variety reported on Nov. 12, 2026, that 10 people contributed to the script for Avengers: Doomsday.",
+      "Avengers: Doomsday is scheduled for release on December 18, 2026.",
+      "Robert Downey Jr. plays Doctor Doom in Avengers: Doomsday."
+    ],
+    "entities": {
+      "people": [
+        "Hugh Jackman",
+        "Robert Downey Jr.",
+        "Ryan Reynolds",
+        "Sir Patrick Stewart",
+        "Sir Ian McKellen",
+        "Channing Tatum",
+        "Anthony Russo",
+        "Joe Russo",
+        "Pedro Pascal",
+        "Chris Hemsworth",
+        "Vanessa Kirby"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Deadpool & Wolverine",
+        "The Odyssey",
+        "Logan",
+        "Ray Gunn",
+        "Insidious: Out of the Further"
+      ]
+    },
+    "keywords": [
+      "Hugh Jackman Avengers Doomsday",
+      "Avengers Doomsday script",
+      "Hugh Jackman writing credit",
+      "Avengers Doomsday cast"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2024/10/hugh-jackman-as-wolverine-with-a-bullet-in-his-mouth-in-deadpool-wolverine.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Hugh Jackman Confirms Creative Role on Avengers: Doomsday Script",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 23:59:26 GMT"
   }
 };

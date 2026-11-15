@@ -4453,7 +4453,10 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-14",
       "day": "Day 10",
-      "collection": 3169572
+      "collection": 7702060,
+      "overseas": 3169572,
+      "shows": 23451,
+      "occupancy": 45.5
     }
   ],
   "1607833": [
@@ -4687,7 +4690,10 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-14",
       "day": "Day 9",
-      "collection": 739567
+      "collection": 739567,
+      "overseas": 528262,
+      "shows": 4309,
+      "occupancy": 43.2
     }
   ],
   "1612811": [
