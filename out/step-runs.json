@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-14T03:40:33Z",
-    "run_id": "43552796244",
-    "status": "success",
-    "checked": {
-     "candidates": 255,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "'Baththa' to 'Valatty': South Indian films to watch with kids",
-      "'Gondhal' director Santosh Davakhar reveals Ilaiyaraaja's musical preparation",
-      "Lara Dutta says she almost had her wrist ‘sawn off’ on Ramayana set, shares BTS clip of stuck bracelet being cut off with hacksaw blade",
-      "Pankaj Tripathi says money doesn't excite him anymore, refuses offers despite large fees | Interview",
-      "DC’s R-Rated Batman Spin-Off Officially Removed From 1,000 Theaters",
-      "Prime Video's 2-Season Action Thriller Just Surged 307% To Become the No. 1 Streaming Original",
-      "The Longest ‘Harry Potter’ Sequel Is Officially Casting a Spell On Prime Video",
-      "Tom Hardy’s Crowd-Pleasing Sci-Fi Thriller Officially Hits 100-Day Milestone",
-      "‘The Rings of Power’s Best Storyline Kicks Off With an Emotional Death",
-      "Ghost Soldier Ending Explained: How Jim Caviezel's New Action Hero Destroys Brownstone",
-      "3 Best Movies To Watch On HBO Max This Weekend (November 14-15)",
-      "12 Best Sci-Fi Movies Released Since Blade Runner, Ranked",
-      "Bloodborne Just Got A Complete Overhaul On PC",
-      "Christian Bale's Iconic Crime Thriller Franchise Faces New Legal Battle Over Rights",
-      "DC Studios To-Do List: Here’s What Incoming Boss Jeremy Latcham Will Sort Through From The Gunn-Safran Era",
-      "Zosia Mamet Says ‘Girls’ Revival Was “In Talks For A Very Long Time”: “I Kind Of Gave Up”",
-      "5 Takeaways From China’s Golden Rooster and Hundred Flowers Film Festival",
-      "Shane Gillis Thought His ‘SNL’ Monologue Was a ‘C Minus’",
-      "‘Secret Lives of Mormon Wives OC’: Aspyn Ovard Reveals Hopes for Her Ex, Jen Affleck Shares Why She Filed for Divorce and More",
-      "Zendaya, Timothée Chalamet and Anya Taylor-Joy Prank Interviewer During ‘Dune: Part 3’ Press"
-     ],
-     "updated": [],
-     "count": 245,
-     "detail": "255 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-14T04:06:50Z",
     "run_id": "43554900774",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "197 stories, 0 duplicates removed, 2 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-14T04:57:29Z",
-    "run_id": "43559023588",
+    "run_at": "2026-11-15T03:51:03Z",
+    "run_id": "43674141348",
     "status": "success",
     "checked": {
-     "candidates": 15,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 193,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Suriya's Crime Thriller 'Scene' Secures Massive Digital Deal and Strong Box Office Run",
-      "Priyanka Chopra To Star As UN Interpreter In Sci-Fi Film Bluefly Alongside Russell Crowe",
-      "Kim Soo-Hyun Faces 1.16 Billion Payment Order Following Brand Dispute Verdict",
-      "Sydney Sweeney Faces Industry Scrutiny Over Romance With Scooter Braun and Brand Choices"
+      "Joe Jonas and Tatiana Gabriela called it quits after a year",
+      "Vir Hirani to voice Mowgli in AI-generated 'Jungle Book' film",
+      "Katrina Kaif calls Vicky Kaushal the ‘peace to her hysteria’ as she talks about juggling business, marriage, motherhood",
+      "When Sharmila Tagore, Tiger Pataudi met Nehru: Soha Ali Khan shares rare photos",
+      "7 Near-Perfect Prime Video Miniseries You Can Binge in One Sitting",
+      "Tom Hanks’ $760M Mystery Thriller Is Officially Making an HBO Max Comeback",
+      "8 Survival Thrillers That Are 10/10 Masterpieces, Ranked",
+      "CBS’ New ‘Lincoln Lawyer’ Replacement Just Proved Network TV Isn’t Dead",
+      "Netflix Officially Loses Its Best Historical Epic Next Month",
+      "‘The Rings of Power’ Rewrites 72 Years of ‘Lord of the Rings’ Lore With Its Nazgul Replacement",
+      "HBO's Harry Potter Season 1 Clip Shows Harry’s First Night Dining At Hogwarts",
+      "Michael Jackson Movie Sequel Faces A Bigger Challenge Than The First Film",
+      "18-Part 'The Crown Meets Bridgerton' Series Is Hands Down Netflix's Best Historical Drama",
+      "5 Best Cartoon Network Anime Available Now On Netflix",
+      "40-Episode Sci-Fi Series Delivers Flawless Post-Apocalyptic Worldbuilding",
+      "Friday The 13th Prequel's Crystal Lake Season 2 Hopes Officially Addressed By Showrunner",
+      "VisionQuest Season 2 Hopes Officially Addressed By Paul Bettany",
+      "‘Wicker’ Star Alexander Skarsgård Appreciated “Social Commentary” Of Feminist Romantasy Film Without It Being “Too Preachy” – Contenders L.A.",
+      "US flight chaos caused by repair of old copper wiring: Trump admin",
+      "Pakistan guidebooks author dies at 83"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +1 box-office rows, 3 rows updated"
+     "count": 185,
+     "detail": "193 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1471,27 +1448,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-15T03:51:29Z",
+    "run_id": "43674141348",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Katrina Kaif praises Vicky Kaushal as the peace to her hysteria while managing business, marriage, and motherhood",
+      "Michael Jackson Sequel Film Faces Massive Hurdles After the First Biopic",
+      "HBO Unveils First Clip From Upcoming Harry Potter TV Series Showing Hogwarts Dining Hall",
+      "Vir Hirani Set to Voice Mowgli in Soumitra Ranade's AI-Generated 'Jungle Book' Feature"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-14T06:54:05Z",
-    "run_id": "43568278297",
-    "status": "success",
-    "checked": {
-     "candidates": 333,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 323, coming 10"
-    },
-    "reason": null
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1905,32 +1887,27 @@
      "detail": "now 328, coming 10"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-15T03:51:29Z",
+    "run_id": "43674141348",
+    "status": "success",
+    "checked": {
+     "candidates": 338,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 328, coming 10"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-14T04:09:03Z",
-    "run_id": "43554900774",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "13qktwu",
-      "k9pdf2",
-      "8hl26d",
-      "1ml6m6z",
-      "t1we2z"
-     ],
-     "updated": [],
-     "count": 5
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2394,27 +2371,28 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-15T03:56:53Z",
+    "run_id": "43674141348",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "m3p2ee"
+     ],
+     "updated": [],
+     "count": 1
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-14T03:40:57Z",
-    "run_id": "43552796244",
-    "status": "success",
-    "checked": {
-     "candidates": 669,
-     "detail": "644 collected staging rows from readers; 227 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 651 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2820,19 +2798,27 @@
      "detail": "+0 new rows, 3 updated rows, 659 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-15T03:56:35Z",
+    "run_id": "43674141348",
+    "status": "success",
+    "checked": {
+     "candidates": 679,
+     "detail": "649 collected staging rows from readers; 228 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 659 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-14T03:41:08Z",
-    "run_id": "43552796244",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3069,32 +3055,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-15T03:57:05Z",
+    "run_id": "43674141348",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-14T05:00:55Z",
-    "run_id": "43559023588",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Priyanka Chopra To Star As UN Interpreter In Sci-Fi Film Bluefly Alongside Russell Crowe",
-      "Kim Soo-Hyun Faces 1.16 Billion Payment Order Following Brand Dispute Verdict",
-      "Sydney Sweeney Faces Industry Scrutiny Over Romance With Scooter Braun and Brand Choices",
-      "Suriya's Crime Thriller 'Scene' Secures Massive Digital Deal and Strong Box Office Run"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3604,19 +3577,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-15T03:56:52Z",
+    "run_id": "43674141348",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Katrina Kaif praises Vicky Kaushal as the peace to her hysteria while managing business, marriage, and motherhood",
+      "Michael Jackson Sequel Film Faces Massive Hurdles After the First Biopic",
+      "HBO Unveils First Clip From Upcoming Harry Potter TV Series Showing Hogwarts Dining Hall",
+      "Vir Hirani Set to Voice Mowgli in Soumitra Ranade's AI-Generated 'Jungle Book' Feature"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-14T03:41:08Z",
-    "run_id": "43552796244",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3878,19 +3864,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-14T03:41:08Z",
-    "run_id": "43552796244",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-15T03:57:05Z",
+    "run_id": "43674141348",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4212,31 +4198,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-15T03:57:05Z",
+    "run_id": "43674141348",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-14T03:40:56Z",
-    "run_id": "43552796244",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 245 still unprocessed; today by category: movies 3/6, tv_dramas 3/4, episodes 1/2, box_office 3/6, celebrities_events 5/5, upcoming_releases 2/4, ott_streaming 2/4, trailers 1/3, awards 2/2, music_ost 0/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Bigg Boss 20 Episode 69 Sees Love Gill And Scout OP Respond To Kanika Mann's Claims",
-      "DC's R-Rated Horror Spin-Off Exits Theaters Ahead of Digital Launch",
-      "Shilpa Shetty To Host New Reality Television Series Pyaar Ka Pressure Cooker On Colors",
-      "The Terminal List Ascends to the Summit of Prime Video Streaming Charts"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4733,19 +4707,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-15T03:51:29Z",
+    "run_id": "43674141348",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 185 still unprocessed; today by category: movies 4/6, tv_dramas 5/4, episodes 0/2, box_office 3/6, celebrities_events 1/5, upcoming_releases 0/4, ott_streaming 3/4, trailers 1/3, awards 0/2, music_ost 3/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Katrina Kaif praises Vicky Kaushal as the peace to her hysteria while managing business, marriage, and motherhood",
+      "Michael Jackson Sequel Film Faces Massive Hurdles After the First Biopic",
+      "HBO Unveils First Clip From Upcoming Harry Potter TV Series Showing Hogwarts Dining Hall",
+      "Vir Hirani Set to Voice Mowgli in Soumitra Ranade's AI-Generated 'Jungle Book' Feature"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-14T03:41:08Z",
-    "run_id": "43552796244",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5059,24 +5045,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-14T03:41:08Z",
-    "run_id": "43552796244",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-15T03:52:40Z",
+    "run_id": "43674141348",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 53,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 386,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5416,19 +5404,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-15T03:57:05Z",
+    "run_id": "43674141348",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 440,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-14T03:41:08Z",
-    "run_id": "43552796244",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5768,19 +5761,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-15T03:57:05Z",
+    "run_id": "43674141348",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 19,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-14T03:41:08Z",
-    "run_id": "43552796244",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6030,19 +6028,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-14T03:41:08Z",
-    "run_id": "43552796244",
+    "run_at": "2026-11-15T03:57:05Z",
+    "run_id": "43674141348",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6277,19 +6275,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-14T03:41:08Z",
-    "run_id": "43552796244",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-15T03:57:05Z",
+    "run_id": "43674141348",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6576,19 +6574,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-14T03:41:08Z",
-    "run_id": "43552796244",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-15T03:57:05Z",
+    "run_id": "43674141348",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6829,19 +6827,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-14T03:41:08Z",
-    "run_id": "43552796244",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-15T03:57:05Z",
+    "run_id": "43674141348",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7071,19 +7069,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-15T03:57:05Z",
+    "run_id": "43674141348",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-14T03:41:08Z",
-    "run_id": "43552796244",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7313,30 +7311,42 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-15T03:56:51Z",
+    "run_id": "43674141348",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "keyword refresh: 15 articles, sources {'gemini': 14, 'mixed': 1}"
+    },
+    "changed": {
+     "added": [],
+     "updated": [
+      "The Rings of Power Season 3 Explores Deep Lore, New Factions, and Sauron's Quest",
+      "Deadly Building Collapse Strikes Brooklyn Neighborhood",
+      "Scene Day 6 Box Office Collection: Suriya's Action Comedy Crosses ₹105 Crore Ind",
+      "Survivor Season 51 Episode 8 Recap: A Twisting Pair Dynamic and High-Stakes Trib",
+      "Ben Stiller, Robert De Niro, and Owen Wilson Reunite for the New York City Premi",
+      "Mookuthi Amman 2 Day 6 Collection Versus Jailer 2 Day 28 Milestone",
+      "‘The Real Housewives of Salt Lake City’ Season 7 Episode 9 Recap: Tensions Reach",
+      "Randall England, General Hospital Star and Versatile Actor, Passes Away at 75",
+      "Ramayana: Rise of a Legend Crosses Rs 900 Crore Worldwide by Day 7",
+      "Ramayana Enters Oscars 2027 Race In Visual Effects Following Independent Submiss",
+      "Ram Gopal Varma Declares Ramayana: Part 1 a New Benchmark for Indian Cinema Foll",
+      "Suriya and Nazriya Nazim's 'Scene' crosses Rs 100 crore in domestic net collecti",
+      "Netflix Develops True-Crime Docuseries Following Russell Brand Conviction",
+      "Netflix UK Set to Lose One Piece Film: Red This December",
+      "Daniel Craig's Final James Bond Outing Nears Domestic Defeat by 95-Minute Action"
+     ],
+     "count": 15
+    },
+    "reason": null
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-13T08:38:47Z",
-    "run_id": "43394672932",
-    "status": "success",
-    "checked": {
-     "candidates": 546,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 14; attempt cooldown deferred: 532"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7823,19 +7833,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-15T03:51:46Z",
+    "run_id": "43674141348",
+    "status": "success",
+    "checked": {
+     "candidates": 557,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 544"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-14T03:41:08Z",
-    "run_id": "43552796244",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8075,19 +8096,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-14T03:41:08Z",
-    "run_id": "43552796244",
+    "run_at": "2026-11-15T03:57:05Z",
+    "run_id": "43674141348",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8357,8 +8378,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-15T03:57:05Z",
+    "run_id": "43674141348",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3665,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-15T02:56:53Z"
+ "updated_at": "2026-11-15T03:57:05Z"
 }

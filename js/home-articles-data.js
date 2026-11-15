@@ -73,6 +73,123 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-15T02:56:42Z"
   },
+  "1n6gs1b": {
+    "id": "1n6gs1b",
+    "type": "news",
+    "headline": "HBO Unveils First Clip From Upcoming Harry Potter TV Series Showing Hogwarts Dining Hall",
+    "dek": "HBO has released the first full video preview for its upcoming Harry Potter television adaptation, featuring Harry experiencing his first night dining at Hogwarts.",
+    "entities": {
+      "people": [
+        "Jennifer Chu",
+        "J.K. Rowling",
+        "Dominic McLaughlin",
+        "Alastair Stout",
+        "Arabella Stanton",
+        "Francesca Gardiner",
+        "John Lithgow",
+        "Janet McTeer",
+        "James Potter",
+        "Mark Mylod"
+      ],
+      "titles": [
+        "Alien: Earth",
+        "Kitchen Nightmares",
+        "Harry Potter and the Sorcerer's Stone",
+        "Harry Potter and the Philosopher's Stone",
+        "Harry Potter and the Chamber of Secrets",
+        "Harry Potter"
+      ]
+    },
+    "keywords": [
+      "HBO Harry Potter series",
+      "Harry Potter TV show clip",
+      "Dominic McLaughlin Harry Potter",
+      "Francesca Gardiner Harry Potter",
+      "Harry Potter release date 2026"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/untitled2.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "HBO Unveils First Clip From Upcoming Harry Potter TV Series Showing Hogwarts Dining Hall",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 02:45:46 GMT"
+  },
+  "16u9kqz": {
+    "id": "16u9kqz",
+    "type": "news",
+    "headline": "Michael Jackson Sequel Film Faces Massive Hurdles After the First Biopic",
+    "dek": "Lionsgate is moving forward with a sequel to the 2026 musical biopic Michael, but the next installment faces intense creative and tonal hurdles by tackling the pop star's later years.",
+    "entities": {
+      "people": [
+        "Michael Jackson",
+        "Paris",
+        "Prince",
+        "Bigi"
+      ],
+      "titles": [
+        "Michael",
+        "Michael 2",
+        "Bad",
+        "Dangerous",
+        "Black or White",
+        "Invincible"
+      ]
+    },
+    "keywords": [
+      "Michael 2",
+      "Michael Jackson biopic sequel",
+      "Michael Lionsgate movie",
+      "Michael Jackson film controversies"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/jaafar-jackson-as-michael-jackson-in-michael.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Michael Jackson Sequel Film Faces Massive Hurdles After the First Biopic",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 02:45:18 GMT"
+  },
+  "bbj7df": {
+    "id": "bbj7df",
+    "type": "news",
+    "headline": "Katrina Kaif praises Vicky Kaushal as the peace to her hysteria while managing business, marriage, and motherhood",
+    "dek": "Katrina Kaif opened up about her entrepreneurial journey with Kay Beauty, balancing her career with family life, and how her husband Vicky Kaushal provides crucial support.",
+    "entities": {
+      "people": [
+        "Katrina Kaif",
+        "Vicky Kaushal",
+        "Adwaita Nayar",
+        "Karan Johar",
+        "Vihaan Kaushal"
+      ],
+      "titles": [
+        "Kay Beauty",
+        "Young Turks Reloaded",
+        "Koffee With Karan",
+        "Merry Christmas",
+        "Chhaava",
+        "Love War",
+        "Mahavatar"
+      ]
+    },
+    "keywords": [
+      "Katrina Kaif Kay Beauty",
+      "Katrina Kaif Vicky Kaushal",
+      "Vihaan Kaushal",
+      "Kay Beauty UAE UK"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/15/1600x900/logo/Vicky_Kaushal_Katrina_Kaif_2_1794708303937_CMyF_1794708318196_H8QZ_279fb667-6b13-4d0a-8502-8b014adcb62e_M78O.jpg",
+        "caption": "Katrina Kaif praises Vicky Kaushal as the peace to her hysteria while managing business, marriage, and motherhood",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 08:05:08 +0530"
+  },
   "1act8a8": {
     "id": "1act8a8",
     "type": "news",
@@ -240,6 +357,40 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-15T02:04:44Z"
+  },
+  "krcvls": {
+    "id": "krcvls",
+    "type": "news",
+    "headline": "Vir Hirani Set to Voice Mowgli in Soumitra Ranade's AI-Generated 'Jungle Book' Feature",
+    "dek": "Actor Vir Hirani is expanding his artistic horizons by taking on the iconic role of Mowgli in an upcoming artificial intelligence-generated Indian adaptation of Rudyard Kipling's classic tale.",
+    "entities": {
+      "people": [
+        "Vir Hirani",
+        "Soumitra Ranade",
+        "Avinash Arun",
+        "Arshad Warsi",
+        "Vikrant Massey"
+      ],
+      "titles": [
+        "The Jungle Book",
+        "Pritam Pedro",
+        "Jajantaram Mamantaram"
+      ]
+    },
+    "keywords": [
+      "Vir Hirani",
+      "Jungle Book AI film",
+      "Soumitra Ranade",
+      "Pritam Pedro"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135845480,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Vir Hirani Set to Voice Mowgli in Soumitra Ranade's AI-Generated 'Jungle Book' Feature",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T07:25:28+05:30"
   },
   "1uru85o": {
     "id": "1uru85o",
@@ -4314,182 +4465,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-14T00:51:37Z"
-  },
-  "1ffe4dp": {
-    "id": "1ffe4dp",
-    "type": "news",
-    "headline": "Isla Fisher and Blake Ritson Join Al Pacino in Thriller Captivated",
-    "dek": "The upcoming feature exploring the 1973 kidnapping of John Paul Getty III adds new cast members as production moves forward in Italy.",
-    "entities": {
-      "people": [
-        "Al Pacino",
-        "Isla Fisher",
-        "Blake Ritson",
-        "Jackson Kelly",
-        "Dito Montiel",
-        "John Paul Getty III",
-        "Michael Mammoliti",
-        "Manasvi Mamgai",
-        "Andrea Bucko",
-        "Nicky Weinstock",
-        "Cassian Elwes",
-        "Stefan Ciupek"
-      ],
-      "titles": [
-        "Captivated",
-        "All the Money in the World",
-        "Trust",
-        "A Guide to Recognizing Your Saints",
-        "Fighting",
-        "Slumdog Millionaire",
-        "Rumors",
-        "Brother Verses Brother"
-      ]
-    },
-    "keywords": [
-      "Captivated film",
-      "Al Pacino Captivated",
-      "Isla Fisher Captivated",
-      "Blake Ritson Captivated",
-      "John Paul Getty III movie"
-    ],
-    "images": [
-      {
-        "url": "https://deadline.com/wp-content/uploads/2026/11/Isla-Fisher-Blake-Ritson-Al-Pacino.jpg?w=1000",
-        "caption": "Isla Fisher and Blake Ritson Join Al Pacino in Thriller Captivated",
-        "source": "Deadline"
-      }
-    ],
-    "published": "Sat, 14 Nov 2026 00:41:20 +0000"
-  },
-  "p5d6en": {
-    "id": "p5d6en",
-    "type": "news",
-    "headline": "Sony Targets Historic Oscar Push for Tom Holland's $2 Billion Blockbuster",
-    "dek": "Sony Pictures is launching a robust awards campaign and global screening strategy to secure a historic Best Picture nomination for Spider-Man: Brand New Day.",
-    "entities": {
-      "people": [
-        "Tom Holland",
-        "Destin Daniel Cretton",
-        "Jon Watts",
-        "Tom Rothman",
-        "Zendaya"
-      ],
-      "titles": [
-        "Spider-Man: Brand New Day",
-        "Onward",
-        "Uncharted",
-        "The Odyssey",
-        "Black Panther",
-        "Joker",
-        "Dune: Part Three"
-      ]
-    },
-    "keywords": [
-      "Spider-Man Brand New Day",
-      "Tom Holland Spider-Man",
-      "Tom Rothman Sony Pictures",
-      "Spider-Man Brand New Day Oscar"
-    ],
-    "images": [
-      {
-        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/07/tom-holland.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Sony Targets Historic Oscar Push for Tom Holland's $2 Billion Blockbuster",
-        "source": "MovieWeb"
-      }
-    ],
-    "published": "Sat, 14 Nov 2026 00:35:38 GMT"
-  },
-  "e7asgm": {
-    "id": "e7asgm",
-    "type": "news",
-    "headline": "VisionQuest Concludes WandaVision Trilogy with Record Viewership",
-    "dek": "The latest Marvel television finale pulls in massive global streaming numbers on Disney+, marking the studio's highest viewership for a series finale in three years.",
-    "entities": {
-      "people": [
-        "Paul Bettany",
-        "James Spader",
-        "Todd Stashwick",
-        "Faran Tahir",
-        "Lauren Morais",
-        "Diane Morgan",
-        "Orla Brady",
-        "Polly Frame",
-        "Henry Lewis",
-        "Jonathan Sayer",
-        "Emily Hampshire",
-        "James D'Arcy",
-        "Wanda Maximoff"
-      ],
-      "titles": [
-        "VisionQuest",
-        "WandaVision",
-        "Loki",
-        "Avengers: Doomsday",
-        "Age of Ultron",
-        "Infinity War",
-        "Iron Man"
-      ]
-    },
-    "keywords": [
-      "VisionQuest finale",
-      "Paul Bettany VisionQuest",
-      "Marvel Disney plus VisionQuest",
-      "Avengers Doomsday ticket sales"
-    ],
-    "images": [
-      {
-        "url": "https://deadline.com/wp-content/uploads/2026/10/TM_Trailer2_Still_4.jpeg?w=1024",
-        "caption": "VisionQuest Concludes WandaVision Trilogy with Record Viewership",
-        "source": "Deadline"
-      }
-    ],
-    "published": "Fri, 13 Nov 2026 23:24:42 +0000"
-  },
-  "12m1liv": {
-    "id": "12m1liv",
-    "type": "news",
-    "headline": "Donald Trump Pushes Congress to Pass Motion Picture, Television, and Entertainment Revitalization Act",
-    "dek": "Donald Trump uses social media to call for bipartisan support of federal tax incentives aimed at bringing the entertainment industry back to the United States.",
-    "entities": {
-      "people": [
-        "Donald Trump",
-        "Adam Schiff",
-        "Tim Scott",
-        "John Cornyn",
-        "Raphael Warnock",
-        "Steve Daines",
-        "Bernie Moreno",
-        "Tim Sheehy",
-        "Alex Padilla",
-        "Mark Warner",
-        "Thom Tillis",
-        "Chris Coons",
-        "Katie Britt",
-        "Dick Durbin",
-        "Jason Smith",
-        "Nathaniel Moran",
-        "Brian Jack",
-        "Linda Sanchez"
-      ],
-      "titles": [
-        "Motion Picture, Television, and Entertainment Revitalization Act"
-      ]
-    },
-    "keywords": [
-      "Donald Trump film tax incentive",
-      "Motion Picture Television and Entertainment Revitalization Act",
-      "federal film TV tax bill",
-      "Trump entertainment industry tax credit"
-    ],
-    "images": [
-      {
-        "url": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2292328576-e1792074477445.jpg?w=1024",
-        "caption": "Donald Trump Pushes Congress to Pass Motion Picture, Television, and Entertainment Revitalization Act",
-        "source": "Deadline"
-      }
-    ],
-    "published": "Fri, 13 Nov 2026 23:14:55 +0000"
   },
   "1iumf04": {
     "id": "1iumf04",

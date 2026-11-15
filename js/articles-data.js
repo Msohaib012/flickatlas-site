@@ -120473,10 +120473,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "One Piece Film Red",
-      "Netflix UK One Piece",
+      "One Piece Film Red Netflix UK",
       "One Piece Film Red leaving Netflix",
-      "One Piece box office collection"
+      "One Piece Film Red box office",
+      "Netflix UK December releases"
     ],
     "images": [
       {
@@ -120771,10 +120771,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Oscars 2027",
-      "Ranbir Kapoor Yash Ramayana",
-      "Ramayana visual effects category",
-      "Nitesh Tiwari Ramayana cast"
+      "Ramayana Oscars 2027 visual effects",
+      "Ranbir Kapoor Ramayana submission",
+      "Ramayana Academy Awards race",
+      "Yash Sai Pallavi Ramayana"
     ],
     "images": [
       {
@@ -120985,11 +120985,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana",
-      "Ram Gopal Varma",
-      "Yash Ravana",
-      "Ranbir Kapoor Ramayana",
-      "Nitesh Tiwari Ramayana"
+      "Ram Gopal Varma Ramayana review",
+      "Ramayana Part 1 benchmark",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ram Gopal Varma Ramayana viewing"
     ],
     "images": [
       {
@@ -121094,10 +121093,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "No Time to Die box office",
-      "Resident Evil movie reboot",
-      "Daniel Craig final James Bond film",
-      "Zach Cregger Resident Evil earnings"
+      "Daniel Craig James Bond No Time to Die",
+      "Zach Cregger Resident Evil reboot",
+      "No Time to Die domestic box office",
+      "Daniel Craig 007 run"
     ],
     "images": [
       {
@@ -121183,10 +121182,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Rise of a Legend",
-      "Ramayana box office Day 7",
-      "Ranbir Kapoor Ramayana collection",
-      "Ramayana worldwide gross"
+      "Ramayana Rise of a Legend box office",
+      "Ramayana Rs 900 crore worldwide",
+      "Nitesh Tiwari Ramayana",
+      "Ranbir Kapoor Ramayana collection"
     ],
     "images": [
       {
@@ -121288,10 +121287,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Russell Brand Netflix documentary",
+      "Russell Brand Netflix docuseries",
       "Russell Brand prison sentence",
-      "72 Films Russell Brand series",
-      "Russell Brand trial Southwark Crown Court"
+      "Russell Brand crime series",
+      "Russell Brand Southwark Crown Court"
     ],
     "images": [
       {
@@ -121381,11 +121380,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Scene box office collection",
-      "Suriya Scene film",
-      "Nazriya Nazim Scene",
-      "Jana Nayagan North America",
-      "Jithu Madhavan film"
+      "Suriya Scene crosses 100 crore",
+      "Nazriya Nazim Scene collection",
+      "Jithu Madhavan Scene box office",
+      "Scene domestic net revenue"
     ],
     "images": [
       {
@@ -121484,10 +121482,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Randall England",
-      "General Hospital Jack Slater",
-      "Randall England death",
-      "General Hospital cast"
+      "Randall England General Hospital",
+      "Randall England passes away",
+      "Jack Slater General Hospital actor",
+      "Randall England Los Angeles death"
     ],
     "images": [
       {
@@ -121592,10 +121590,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Scene box office collection",
-      "Suriya Scene film",
-      "Scene Day 6 collection",
-      "Scene worldwide gross"
+      "Suriya Scene box office",
+      "Scene movie Rs 105 crore",
+      "Scene India net collections",
+      "Suriya action comedy Scene"
     ],
     "images": [
       {
@@ -121686,9 +121684,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "Brooklyn building collapse",
-      "Flatbush building disaster",
-      "Zohran Mamdani New York",
-      "John Esposito FDNY rescue"
+      "New York structure collapses",
+      "Zohran Mamdani Brooklyn",
+      "deadly building collapse Brooklyn"
     ],
     "images": [
       {
@@ -121791,10 +121789,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Mookuthi Amman 2 box office",
-      "Jailer 2 box office collection",
-      "Nayanthara Mookuthi Amman 2 day 6",
-      "Rajinikanth Jailer 2 worldwide gross"
+      "Mookuthi Amman 2 Day 6 collection",
+      "Jailer 2 worldwide gross",
+      "Nayanthara Mookuthi Amman 2",
+      "Rajinikanth Jailer 2 milestone"
     ],
     "images": [
       {
@@ -121889,9 +121887,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "The Rings of Power Season 3",
-      "Sauron One Ring",
-      "Celeborn Rings of Power",
-      "Khamul the Easterling"
+      "Sauron One Ring lore",
+      "Durin IV dwarf rings",
+      "Charles Papadopoulos Rings of Power"
     ],
     "images": [
       {
@@ -122199,10 +122197,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Focker-in-Law premiere",
+      "Focker-in-Law New York premiere",
       "Ben Stiller Robert De Niro",
-      "Ariana Grande Focker-in-Law",
-      "Focker-in-Law release date"
+      "Beacon Theatre premiere",
+      "Focker-in-Law red carpet"
     ],
     "images": [
       {
@@ -125128,10 +125126,10 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "Survivor Season 51 Episode 8",
-      "Survivor Load the Ark Two by Two",
-      "Jeffrey Lee Probst Survivor",
-      "Brody Brady Survivor",
-      "Survivor Episode 8 recap"
+      "Survivor pair twist",
+      "Jeffrey Probst Survivor",
+      "Jeffrey Lee Probst",
+      "Mike"
     ],
     "images": [
       {
@@ -125342,9 +125340,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "The Real Housewives of Salt Lake City Season 7 Episode 9",
-      "RHOSLC Feed Her to the Sharks recap",
-      "Angie Mary fight RHOSLC",
-      "Bronwyn Muzzy Brandon RHOSLC"
+      "Feed Her to the Sharks recap",
+      "Bronwyn and Brandon Salt Lake City",
+      "Angy and Mary Salt Lake City"
     ],
     "images": [
       {
@@ -151186,5 +151184,391 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-15T07:41:15+05:30"
+  },
+  "bbj7df": {
+    "id": "bbj7df",
+    "type": "news",
+    "headline": "Katrina Kaif praises Vicky Kaushal as the peace to her hysteria while managing business, marriage, and motherhood",
+    "dek": "Katrina Kaif opened up about her entrepreneurial journey with Kay Beauty, balancing her career with family life, and how her husband Vicky Kaushal provides crucial support.",
+    "body": [
+      {
+        "h": "Juggling Multiple Roles",
+        "p": [
+          "Actor and entrepreneur Katrina Kaif has been exceptionally busy managing her personal and professional milestones. Beyond her established film career, she continues to direct considerable energy into her beauty enterprise, Kay Beauty.",
+          "Juggling the demands of business expansion alongside domestic responsibilities requires immense dedication. The actor has been navigating these multifaceted duties while simultaneously embracing new phases in her personal life."
+        ]
+      },
+      {
+        "h": "Insights on Kay Beauty",
+        "p": [
+          "Launched initially in India back in 2019, Kay Beauty steadily grew its footprint to international markets including the UAE and the UK. Managing such an expansive brand demands constant attention and long hours.",
+          "During her appearance on CNBC-TV18's Young Turks Reloaded alongside Adwaita Nayar from Nykaa, Katrina discussed the relentless commitment needed to nurture a passion project. She humorously noted that her husband is usually the one keeping track of the hours and reminding her to step away from her phone."
+        ]
+      },
+      {
+        "h": "Support from Vicky Kaushal",
+        "p": [
+          "Katrina credited Vicky Kaushal for being an exceptionally supportive partner throughout her busy routine. Describing him as the calm to her hectic schedule, she emphasized how invaluable his backing has been.",
+          "The couple frequently communicates about their respective work and shared responsibilities even on weekends. Despite both being relatively new parents who experience moments of stress and fatigue by the end of the day, Katrina expressed that her husband serves as the peace to her hysteria."
+        ]
+      },
+      {
+        "h": "Romance and Marriage",
+        "p": [
+          "The couple's romantic history includes a memorable moment on an episode of Koffee With Karan in 2018, where Katrina mentioned she felt they would look good together, prompting Karan Johar to jokingly faint.",
+          "They officially met in 2019 at an awards show and later at a gathering hosted by Karan Johar. After keeping their relationship private and dating quietly, they grew closer during the COVID-19 pandemic before tying the knot in December 2021 at Six Senses Fort Barwara in Rajasthan."
+        ]
+      },
+      {
+        "h": "Expanding Family and Film Projects",
+        "p": [
+          "The couple welcomed their first child, Vihaan Kaushal, in November 2025. This new chapter of motherhood runs parallel to their active schedules in the film industry.",
+          "On the cinematic front, Katrina was last seen in Merry Christmas in 2024. Meanwhile, Vicky starred in Chhaava and has upcoming projects such as Love War and Mahavatar lined up."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Katrina Kaif discussed her beauty brand Kay Beauty and the realities of balancing business, acting, marriage, and motherhood on a television show. She credited her husband Vicky Kaushal for providing immense support and acting as a calming presence amidst her busy lifestyle."
+        ]
+      }
+    ],
+    "facts": [
+      "Katrina Kaif launched Kay Beauty in India in 2019.",
+      "Katrina Kaif and Vicky Kaushal got married in December 2021 at Six Senses Fort Barwara in Rajasthan.",
+      "The couple welcomed their first child, Vihaan Kaushal, in November 2025.",
+      "Katrina Kaif last starred in Merry Christmas in 2024.",
+      "Vicky Kaushal starred in Chhaava and has Love War and Mahavatar lined up."
+    ],
+    "entities": {
+      "people": [
+        "Katrina Kaif",
+        "Vicky Kaushal",
+        "Adwaita Nayar",
+        "Karan Johar",
+        "Vihaan Kaushal"
+      ],
+      "titles": [
+        "Kay Beauty",
+        "Young Turks Reloaded",
+        "Koffee With Karan",
+        "Merry Christmas",
+        "Chhaava",
+        "Love War",
+        "Mahavatar"
+      ]
+    },
+    "keywords": [
+      "Katrina Kaif Kay Beauty",
+      "Katrina Kaif Vicky Kaushal",
+      "Vihaan Kaushal",
+      "Kay Beauty UAE UK"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/15/1600x900/logo/Vicky_Kaushal_Katrina_Kaif_2_1794708303937_CMyF_1794708318196_H8QZ_279fb667-6b13-4d0a-8502-8b014adcb62e_M78O.jpg",
+        "caption": "Katrina Kaif praises Vicky Kaushal as the peace to her hysteria while managing business, marriage, and motherhood",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 08:05:08 +0530"
+  },
+  "16u9kqz": {
+    "id": "16u9kqz",
+    "type": "news",
+    "headline": "Michael Jackson Sequel Film Faces Massive Hurdles After the First Biopic",
+    "dek": "Lionsgate is moving forward with a sequel to the 2026 musical biopic Michael, but the next installment faces intense creative and tonal hurdles by tackling the pop star's later years.",
+    "body": [
+      {
+        "h": "The Challenge of a Sequel",
+        "p": [
+          "Lionsgate's musical biopic Michael brought the legacy of Michael Jackson to theaters in April 2026. Following the film's release, a confirmed sequel with the working title Michael 2 has been announced to be in the works.",
+          "While the first movie focused on earlier periods of the singer's career, the upcoming sequel will likely follow the remainder of his life until his death in 2009. This transition brings a much more complicated and daunting set of circumstances for the filmmakers to navigate."
+        ]
+      },
+      {
+        "h": "Critical Backlash Versus Audience Praise",
+        "p": [
+          "The initial film experienced a sharp divide between professional reviewers and general viewers. Rotten Tomatoes recorded a critic score of 38 percent from 312 reviews, while the audience score reached 97 percent from over 25,000 ratings.",
+          "Critics heavily faulted the production for ignoring real-life controversies and portraying the singer in an overly glowing light. Because the narrative concluded in 1988 during the Bad tour, reviewers argued it purposely avoided the more contentious eras of his life."
+        ]
+      },
+      {
+        "h": "Navigating Later Years and Family",
+        "p": [
+          "Michael 2 is expected to pick up after the 1988 conclusion, stepping directly into a turbulent period of the artist's personal and professional timeline. This era includes the births of his three children, Prince, Paris, and Bigi, born between the late 1990s and 2002.",
+          "Incorporating his children into the storyline presents potential familial objections and narrative challenges. However, because they played a central role in his life, completely omitting them would be nearly impossible for a biographical project."
+        ]
+      },
+      {
+        "h": "Music and Major Artistic Milestones",
+        "p": [
+          "The chronological progression of the sequel means it will encompass some of the most famous musical works and albums released during the later stages of the artist's career.",
+          "Among these key milestones is the 1991 studio album Dangerous, which featured iconic tracks like Black or White, alongside his final studio album of new material released during his lifetime, Invincible."
+        ]
+      },
+      {
+        "h": "Concert-Level Screen Experiences",
+        "p": [
+          "A major triumph of the first film was Lionsgate's ability to recreate concert-level energy within a narrative framework. Many fans online expressed that the cinematic experience felt remarkably close to seeing the performer live again.",
+          "Replicating this concert atmosphere will be essential for the sequel, though it remains only one piece of a much larger puzzle involving heavier dramatic themes."
+        ]
+      },
+      {
+        "h": "Confronting Legal Controversies and Allegations",
+        "p": [
+          "The single greatest obstacle for Michael 2 is its unavoidable need to address the multiple allegations of child sexual abuse brought against the singer during his lifetime. The first movie bypassed these issues due to its timeframe and legal constraints, but the sequel cannot skirt around them.",
+          "This subject matter demands a distinct tonal shift from the upbeat portrayal seen in the original. The film will also have to take a definitive stance on the allegations, risking alienating either the dedicated fanbase or the critics who condemned the first project."
+        ]
+      },
+      {
+        "h": "An Impossible Ending and Legacy",
+        "p": [
+          "Assuming the project follows the timeline up to his death in 2009, the creators face the monumental task of providing a narrative conclusion to a story that continues to evolve through ongoing legal updates and public debate.",
+          "Capturing his immense global impact and complex public legacy on the big screen proved challenging the first time around, leaving audiences to wonder if the follow-up can successfully pull it off."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Lionsgate is moving forward with Michael 2 following the April 2026 release of the musical biopic Michael. The upcoming sequel faces severe challenges as it must address sensitive real-life controversies, legal allegations, and the later years of the pop star's life leading up to 2009."
+        ]
+      }
+    ],
+    "facts": [
+      "Michael was released in theaters in April 2026.",
+      "The critic score for Michael on Rotten Tomatoes is 38% based on 312 reviews.",
+      "The audience score for Michael is 97% based on over 25,000 ratings.",
+      "Michael concluded in 1988 during the Bad tour.",
+      "Michael 2 is a working title for the confirmed sequel.",
+      "Prince and Paris were born in the late 1990s, and Bigi was born in 2002.",
+      "The studio album Dangerous was released in 1991.",
+      "Michael Jackson passed away in 2009."
+    ],
+    "entities": {
+      "people": [
+        "Michael Jackson",
+        "Paris",
+        "Prince",
+        "Bigi"
+      ],
+      "titles": [
+        "Michael",
+        "Michael 2",
+        "Bad",
+        "Dangerous",
+        "Black or White",
+        "Invincible"
+      ]
+    },
+    "keywords": [
+      "Michael 2",
+      "Michael Jackson biopic sequel",
+      "Michael Lionsgate movie",
+      "Michael Jackson film controversies"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/jaafar-jackson-as-michael-jackson-in-michael.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Michael Jackson Sequel Film Faces Massive Hurdles After the First Biopic",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 02:45:18 GMT"
+  },
+  "1n6gs1b": {
+    "id": "1n6gs1b",
+    "type": "news",
+    "headline": "HBO Unveils First Clip From Upcoming Harry Potter TV Series Showing Hogwarts Dining Hall",
+    "dek": "HBO has released the first full video preview for its upcoming Harry Potter television adaptation, featuring Harry experiencing his first night dining at Hogwarts.",
+    "body": [
+      {
+        "h": "First Look At Hogwarts Dining Hall",
+        "p": [
+          "HBO has released a brand-new video clip from its upcoming television series adaptation of the beloved J.K. Rowling novels. This marks the very first full-length preview made public by the network for the much-anticipated project, which is scheduled to debut next month.",
+          "The newly unveiled footage transports viewers directly into the iconic Great Hall at Hogwarts. In the scene, young students can be seen eating at the long tables as food magically appears, offering audiences a fresh visual take on the famous wizarding school."
+        ]
+      },
+      {
+        "h": "Faculty Discussions About Harry",
+        "p": [
+          "Alongside the dining students, the new preview highlights key faculty members within the Great Hall setting. Albus Dumbledord and Professor McGonagall are featured in the clip engaged in a conversation.",
+          "During their exchange, the two professors discuss Harry's recent placement into Gryffindor. The dialogue also hints at a lively personality for the titular character, with Dumbledord and McGonagall remarking that he appears very similar to his father, James Potter."
+        ]
+      },
+      {
+        "h": "Introducing The New Cast",
+        "p": [
+          "The upcoming television adaptation introduces an entirely new generation of child actors to take on the legendary roles. Dominic McLaughlin steps into the role of Harry Potter, joined by Alastair Stout as Ron Weasley and Arabella Stanton as Hermione Granger.",
+          "Additionally, the series features seasoned performers rounding out the faculty. John Lithgow takes on the role of Albus Dumbledore, while Janet McTeer portrays Professor McGonagall in the ambitious new adaptation."
+        ]
+      },
+      {
+        "h": "Set Design And Atmosphere",
+        "p": [
+          "The newly constructed set for the Great Hall bears a strong resemblance to the version seen in the original 2001 film adaptation, Harry Potter and the Sorcerer's Stone. However, creators have introduced several distinct updates.",
+          "The overall atmosphere of the dining sequence feels notably more lively and upbeat compared to the original motion picture. Changes to how the food is served also help distinguish this fresh television interpretation from past cinematic versions."
+        ]
+      },
+      {
+        "h": "Development And Production Background",
+        "p": [
+          "Plans for the long-form television adaptation were officially confirmed by HBO in 2021 as a long-term project based on the bestselling books. The show is developed and written by showrunner Francesca Gardiner.",
+          "Auditions kicked off in 2024, drawing over 40,000 young actors competing for the three main parts before the final trio was cast in May 2025. Principal photography subsequently commenced in July 2025 at Warner Bros. Studios Leavesden in Hertfordshire, England."
+        ]
+      },
+      {
+        "h": "Release Schedule And Future Plans",
+        "p": [
+          "The inaugural season carries the title Harry Potter and the Philosopher's Stone and will span a total of eight episodes. It is officially set to premiere on December 25, 2026, broadcasting on HBO and streaming simultaneously on HBO Max.",
+          "Looking ahead, the network demonstrated its long-term commitment to the franchise by confirming a second season in May 2026. That subsequent season will adapt the events of Harry Potter and the Chamber of Secrets."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "HBO has released the first clip from its upcoming Harry Potter television series, offering a glimpse of the Hogwarts dining hall and a conversation between Albus Dumbledore and Professor McGonagall. The eight-episode first season is scheduled to premiere on December 25, 2026, on HBO and HBO Max."
+        ]
+      }
+    ],
+    "facts": [
+      "Over 40,000 young actors auditioned for the three main roles.",
+      "Dominic McLaughlin plays Harry Potter, Alastair Stout plays Ron Weasley, and Arabella Stanton plays Hermione Granger.",
+      "John Lithgow plays Albus Dumbledore and Janet McTeer plays Professor McGonagall.",
+      "Filming began in July 2025 at Warner Bros. Studios Leavesden in Hertfordshire, England.",
+      "The first season is titled Harry Potter and the Philosopher's Stone and consists of eight episodes.",
+      "The series is scheduled to premiere on December 25, 2026, on HBO and HBO Max.",
+      "A second season adapting Harry Potter and the Chamber of Secrets was confirmed in May 2026."
+    ],
+    "entities": {
+      "people": [
+        "Jennifer Chu",
+        "J.K. Rowling",
+        "Dominic McLaughlin",
+        "Alastair Stout",
+        "Arabella Stanton",
+        "Francesca Gardiner",
+        "John Lithgow",
+        "Janet McTeer",
+        "James Potter",
+        "Mark Mylod"
+      ],
+      "titles": [
+        "Alien: Earth",
+        "Kitchen Nightmares",
+        "Harry Potter and the Sorcerer's Stone",
+        "Harry Potter and the Philosopher's Stone",
+        "Harry Potter and the Chamber of Secrets",
+        "Harry Potter"
+      ]
+    },
+    "keywords": [
+      "HBO Harry Potter series",
+      "Harry Potter TV show clip",
+      "Dominic McLaughlin Harry Potter",
+      "Francesca Gardiner Harry Potter",
+      "Harry Potter release date 2026"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/untitled2.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "HBO Unveils First Clip From Upcoming Harry Potter TV Series Showing Hogwarts Dining Hall",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 02:45:46 GMT"
+  },
+  "krcvls": {
+    "id": "krcvls",
+    "type": "news",
+    "headline": "Vir Hirani Set to Voice Mowgli in Soumitra Ranade's AI-Generated 'Jungle Book' Feature",
+    "dek": "Actor Vir Hirani is expanding his artistic horizons by taking on the iconic role of Mowgli in an upcoming artificial intelligence-generated Indian adaptation of Rudyard Kipling's classic tale.",
+    "body": [
+      {
+        "h": "Stepping Into New Creative Territory",
+        "p": [
+          "Vir Hirani is preparing to undertake a major new professional challenge by lending his voice to one of the most famous figures in world literature. Reports indicate that he has been cast as Mowgli in an innovative Indian feature film produced entirely through artificial intelligence methods.",
+          "This upcoming cinematic venture intends to reinterpret the timeless adventures set deep within the jungle, utilizing modern technology while relying on traditional vocal performances to drive the narrative forward."
+        ]
+      },
+      {
+        "h": "The Impact of 'Pritam Pedro'",
+        "p": [
+          "This exciting casting development follows closely on the heels of Vir Hirani's recent entry into the digital streaming space. His notable work on his debut series caught the attention of industry insiders and audiences alike, putting a fresh spotlight on his distinct vocal delivery.",
+          "The response to his performance on the platform proved instrumental in opening doors beyond standard on-screen acting roles, drawing considerable interest from creators working across different mediums."
+        ]
+      },
+      {
+        "h": "Growing Demand for Voice Work",
+        "p": [
+          "In the wake of his recent streaming success, the young performer has reportedly fielded multiple inquiries regarding specialized audio assignments. Industry observers note that offers for dubbing and voice-over projects have steadily increased.",
+          "His distinctive vocal tone has even resonated with admirers who have reached out independently to request personalized voice notes and ambient sound recordings, demonstrating a growing connection with his expanding fan base."
+        ]
+      },
+      {
+        "h": "Embodying a Literary Legend",
+        "p": [
+          "Portraying a character as iconic as Mowgli presents a unique artistic challenge that relies entirely on emotional and auditory nuance. Rather than depending on physical expressions, the actor must convey intense curiosity, fear, and wonder strictly through his voice.",
+          "Given the character's long history across numerous cinematic and television adaptations, this upcoming AI-driven production offers a distinct platform to reinterpret a well-worn literary legacy for modern viewers."
+        ]
+      },
+      {
+        "h": "Soumitra Ranade at the Helm",
+        "p": [
+          "The ambitious feature is set to be directed by veteran filmmaker Soumitra Ranade, who brings a wealth of experience in family-oriented storytelling and animation to the production. His creative background includes helming the 2003 fantasy adventure 'Jajantaram Mamantaram', which famously blended live-action elements with visual effects.",
+          "With a dedicated Hindi voice track planned for the release, Ranade's supervision ensures the project will maintain a strong connection to its roots while exploring cutting-edge technological advancements in filmmaking."
+        ]
+      },
+      {
+        "h": "Background on the Streaming Debut",
+        "p": [
+          "Vir Hirani officially entered the entertainment industry with his streaming debut in 'Pritam Pedro', a series directed by Avinash Arun that also featured established actors Arshad Warsi and Vikrant Massey. In the show, he portrayed the character Pritam Parker.",
+          "The narrative centered around an unexpected cybercrime investigation that completely upended the protagonist's normal routine, earning a respectable 3.5-star rating out of 5 from critics upon its release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Vir Hirani is reportedly slated to voice the character of Mowgli in an upcoming AI-generated Indian film adaptation of 'The Jungle Book', directed by Soumitra Ranade with a Hindi voice track. This opportunity follows the attention he garnered from his streaming debut in 'Pritam Pedro', which has led to various voice-over and dubbing offers in animation."
+        ]
+      }
+    ],
+    "facts": [
+      "Vir Hirani is set to play Mowgli in an AI-generated Jungle Book film.",
+      "Soumitra Ranade is directing the film with a Hindi voice track.",
+      "Vir Hirani made his streaming debut in Pritam Pedro directed by Avinash Arun.",
+      "Pritam Pedro also stars Arshad Warsi and Vikrant Massey.",
+      "Vir Hirani played Pritam Parker in Pritam Pedro.",
+      "Pritam Pedro received a 3.5-star rating out of 5 from ETimes.",
+      "Soumitra Ranade directed Jajantaram Mamantaram in 2003."
+    ],
+    "entities": {
+      "people": [
+        "Vir Hirani",
+        "Soumitra Ranade",
+        "Avinash Arun",
+        "Arshad Warsi",
+        "Vikrant Massey"
+      ],
+      "titles": [
+        "The Jungle Book",
+        "Pritam Pedro",
+        "Jajantaram Mamantaram"
+      ]
+    },
+    "keywords": [
+      "Vir Hirani",
+      "Jungle Book AI film",
+      "Soumitra Ranade",
+      "Pritam Pedro"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135845480,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Vir Hirani Set to Voice Mowgli in Soumitra Ranade's AI-Generated 'Jungle Book' Feature",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T07:25:28+05:30"
   }
 };
