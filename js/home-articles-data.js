@@ -67,6 +67,147 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sun, 15 Nov 2026 13:01:01 +0200"
   },
+  "p2dq2x": {
+    "id": "p2dq2x",
+    "type": "news",
+    "headline": "Full Winners List Revealed for the Second Day of the 2026 Melon Music Awards in Seoul",
+    "dek": "Discover all the major winners, top artists, and special category victors from the second day of the 18th Melon Music Awards held at the Gocheok Sky Dome.",
+    "entities": {
+      "people": [
+        "Lee Se Young",
+        "Moon Sang Min",
+        "Choi Daniel",
+        "Lee Joo Bin",
+        "Roh Jeong Eui",
+        "Kim Shin Rock",
+        "Kim Jae Young",
+        "Hong Jong Hyun",
+        "Ahn Jae Hyun",
+        "Lee Joon"
+      ],
+      "titles": [
+        "The Remarried Empress",
+        "NCT WISH",
+        "IVE",
+        "CORTIS",
+        "PLAVE",
+        "KiiiKiii",
+        "ILLIT",
+        "AND2BLE",
+        "BTS",
+        "BANG BANG"
+      ]
+    },
+    "keywords": [
+      "2026 Melon Music Awards",
+      "MMA winners list",
+      "BTS IVE NCT WISH MMA",
+      "18th Melon Music Awards"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-15t153102-175-27901794736882.jpg",
+        "caption": "Full Winners List Revealed for the Second Day of the 2026 Melon Music Awards in Seoul",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 16:16:56 +0530"
+  },
+  "19mms53": {
+    "id": "19mms53",
+    "type": "news",
+    "headline": "Shah Rukh Khan and Deepika Padukone's Tu Mil Jaaye Dominates Music Charts Ahead of King's Christmas Debut",
+    "dek": "The musical track Tu Mil Jaaye from the upcoming feature King has captured the top spot on streaming charts, generating massive anticipation for its December arrival.",
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Deepika Padukone",
+        "Siddharth Anand"
+      ],
+      "titles": [
+        "King",
+        "Tu Mil Jaaye"
+      ]
+    },
+    "keywords": [
+      "Tu Mil Jaaye song",
+      "Shah Rukh Khan King film",
+      "Deepika Padukone King",
+      "Siddharth Anand King"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028555.jpg",
+        "caption": "Shah Rukh Khan and Deepika Padukone's Tu Mil Jaaye Dominates Music Charts Ahead of King's Christmas Debut",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 10:21:03 +0000"
+  },
+  "15sjo7j": {
+    "id": "15sjo7j",
+    "type": "news",
+    "headline": "BTS, Rosé, Jennie, KPop Demon Hunters, and KATSEYE Emerge Victorious at the 2026 Nickelodeon Kids' Choice Awards",
+    "dek": "Several major names in global music and animation took home top honors at the annual ceremony held on November 14, 2026.",
+    "entities": {
+      "people": [
+        "S Nam",
+        "Rosé",
+        "Jennie",
+        "Arden Cho",
+        "Ahn Hyo Seop"
+      ],
+      "titles": [
+        "SWIM",
+        "ARIRANG",
+        "Dracula",
+        "KPop Demon Hunters",
+        "Golden",
+        "Omniscient Reader: The Prophecy",
+        "BREAK THE SILENCE"
+      ]
+    },
+    "keywords": [
+      "2026 Nickelodeon Kids Choice Awards",
+      "BTS wins KChoice Awards",
+      "KPop Demon Hunters",
+      "Jennie Tame Impala Dracula"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/15182922/bts-kdh-katseye-bp-KCA.png",
+        "caption": "BTS, Rosé, Jennie, KPop Demon Hunters, and KATSEYE Emerge Victorious at the 2026 Nickelodeon Kids' Choice Awards",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 09:44:00 +0000"
+  },
+  "16y000w": {
+    "id": "16y000w",
+    "type": "news",
+    "headline": "Son Hyun Joo Embraces Viral 'Son Hyun Dyu' Nickname in 'Doctor X: Mafia in White' Farewell Message",
+    "dek": "The veteran actor acknowledged his internet-famous puppy moniker in a handwritten goodbye letter released by SBS Drama.",
+    "entities": {
+      "people": [
+        "Son Hyun Joo",
+        "Jjal-sseul-saram",
+        "Kim Ji Won",
+        "Lee Jung Eun",
+        "Kim Woo Seok"
+      ],
+      "titles": [
+        "Doctor X: Mafia in White"
+      ]
+    },
+    "keywords": [
+      "Son Hyun Joo",
+      "Doctor X Mafia in White",
+      "Son Hyun Dyu",
+      "Bu Seung Gwon"
+    ],
+    "images": [],
+    "published": "Sun, 15 Nov 2026 04:27:00 EST"
+  },
   "1w8c31p": {
     "id": "1w8c31p",
     "type": "news",
@@ -4311,164 +4452,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sat, 14 Nov 2026 05:00:18 GMT"
   },
-  "ewu04k": {
-    "id": "ewu04k",
-    "type": "news",
-    "headline": "Priyanka Chopra To Star As UN Interpreter In Sci-Fi Film Bluefly Alongside Russell Crowe",
-    "dek": "Priyanka Chopra is set to star in the sci-fi feature Bluefly, portraying a UN interpreter who embarks on a covert mission to the Congo with Russell Crowe.",
-    "entities": {
-      "people": [
-        "Priyanka Chopra",
-        "Russell Crowe",
-        "Nimród Antal",
-        "David Frigerio",
-        "William Eubank",
-        "Carlyle Eubank",
-        "Michael Chiklis",
-        "Malti Marie Jonas",
-        "SS Rajamouli",
-        "Mahesh Babu",
-        "Prithviraj Sukumaran",
-        "Mira Nair",
-        "Amrita Sher-Gil",
-        "Ritesh Batra",
-        "Saif Ali Khan",
-        "Vidya Balan"
-      ],
-      "titles": [
-        "Bluefly",
-        "Baywatch",
-        "Citadel",
-        "Heads of State",
-        "The Bluff",
-        "Varanasi",
-        "Amri",
-        "Reset",
-        "Judgement Day",
-        "Long Years Ago"
-      ]
-    },
-    "keywords": [
-      "Priyanka Chopra Bluefly",
-      "Russell Crowe Bluefly film",
-      "Nimrod Antal Bluefly",
-      "Priyanka Chopra UN interpreter"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156505189,thumbsize-1121750,width-1280,height-720,resizemode-75/156505189.jpg",
-        "caption": "Priyanka Chopra To Star As UN Interpreter In Sci-Fi Film Bluefly Alongside Russell Crowe",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-14T04:57:29Z"
-  },
-  "v18wa1": {
-    "id": "v18wa1",
-    "type": "news",
-    "headline": "Sydney Sweeney Faces Industry Scrutiny Over Romance With Scooter Braun and Brand Choices",
-    "dek": "Insiders raise concerns about Sydney Sweeney's career trajectory, highlighting her relationship with music mogul Scooter Braun, professional friction in Hollywood, and controversial marketing choices.",
-    "entities": {
-      "people": [
-        "Sydney Sweeney",
-        "Scooter Braun",
-        "Amanda Seyfried",
-        "Jeff Bezos",
-        "Ari Emanuel",
-        "Taylor Swift",
-        "Steven",
-        "Lisa",
-        "Trent"
-      ],
-      "titles": [
-        "The Housemaid's Secret",
-        "The Housemaid",
-        "Euphoria",
-        "How The Grinch Stole Christmas"
-      ]
-    },
-    "keywords": [
-      "Sydney Sweeney The Housemaid's Secret",
-      "Sydney Sweeney Scooter Braun marriage",
-      "Sydney Sweeney SYRN lingerie brand",
-      "Sydney Sweeney movies casting"
-    ],
-    "images": [],
-    "published": "2026-11-14T04:57:29Z"
-  },
-  "w5ovij": {
-    "id": "w5ovij",
-    "type": "news",
-    "headline": "Kim Soo-Hyun Faces 1.16 Billion Payment Order Following Brand Dispute Verdict",
-    "dek": "South Korean actor Kim Soo-Hyun has been ordered to make a multi-billion won payment to dietary supplement brand FromBIO in a civil lawsuit stemming from past personal controversies.",
-    "entities": {
-      "people": [
-        "Kim Soo-Hyun",
-        "Kim Sae-Ron",
-        "Moon Hyun-ho",
-        "Kim Se Ui",
-        "Arpita Sarkar"
-      ],
-      "titles": [
-        "Garosero Research Institute"
-      ]
-    },
-    "keywords": [
-      "Kim Soo-Hyun FromBIO lawsuit",
-      "Kim Soo-Hyun payment order",
-      "Kim Soo-Hyun Kim Sae-Ron controversy",
-      "Suwon District Court Kim Soo-Hyun"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156506329,thumbsize-158065,width-1280,height-720,resizemode-75/156506329.jpg",
-        "caption": "Kim Soo-Hyun Faces 1.16 Billion Payment Order Following Brand Dispute Verdict",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-14T04:57:29Z"
-  },
-  "1o7wtfp": {
-    "id": "1o7wtfp",
-    "type": "news",
-    "headline": "How Netflix's Horror Miniseries Boldly Reimagines A 187-Year-Old Literary Masterpiece",
-    "dek": "Discover how the acclaimed Netflix horror miniseries takes classic literary themes and transforms them into a contemporary commentary on corporate greed and family ruin.",
-    "entities": {
-      "people": [
-        "Dhruv Sharma",
-        "Mike Flanagan",
-        "Edgar Allan Poe",
-        "Stephen King",
-        "H.P. Lovecraft",
-        "Shirley Jackson",
-        "Henry James",
-        "Christopher Pike"
-      ],
-      "titles": [
-        "The Fall of the House of Usher",
-        "The Masque of the Red Death",
-        "The Black Cat",
-        "The Mist",
-        "The Dark Tower",
-        "Midnight Mass",
-        "The Haunting of Hill House"
-      ]
-    },
-    "keywords": [
-      "The Fall of the House of Usher",
-      "Mike Flanagan Netflix series",
-      "Edgar Allan Poe adaptation",
-      "The Fall of the House of Usher horror"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/willa-fitzgerald-in-the-fall-of-the-house-of-usher.jpeg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "How Netflix's Horror Miniseries Boldly Reimagines A 187-Year-Old Literary Masterpiece",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Sat, 14 Nov 2026 04:48:38 GMT"
-  },
   "1iumf04": {
     "id": "1iumf04",
     "type": "news",
@@ -4676,45 +4659,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-13T14:45:17Z"
-  },
-  "bbirbl": {
-    "id": "bbirbl",
-    "type": "news",
-    "headline": "Viral Leak Alleges Elizabeth Olsen's Wanda Will Eliminate Anthony Mackie's Captain America in Avengers: Doomsday",
-    "dek": "An unverified social media rumor has thrown MCU fans into a frenzy, claiming that the Scarlet Witch will turn on Sam Wilson in the upcoming crossover event.",
-    "entities": {
-      "people": [
-        "Elizabeth Olsen",
-        "Anthony Mackie",
-        "Doctor Doom",
-        "Sam Wilson",
-        "Wanda Maximoff",
-        "Russo Brothers",
-        "Billy",
-        "Tommy",
-        "Vision"
-      ],
-      "titles": [
-        "Avengers: Doomsday",
-        "Doctor Strange in the Multiverse of Madness",
-        "VisionQuest",
-        "Captain America: Brave New World"
-      ]
-    },
-    "keywords": [
-      "Avengers Doomsday",
-      "Elizabeth Olsen Wanda",
-      "Anthony Mackie Captain America",
-      "Doctor Doom Marvel"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156499097,thumbsize-205666,width-1280,height-720,resizemode-75/156499097.jpg",
-        "caption": "Viral Leak Alleges Elizabeth Olsen's Wanda Will Eliminate Anthony Mackie's Captain America in Avengers: Doomsday",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-13T02:01:49Z"
   },
   "9gq6m9": {
     "id": "9gq6m9",
@@ -5072,36 +5016,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-11T14:45:35Z"
-  },
-  "3nmfly": {
-    "id": "3nmfly",
-    "type": "news",
-    "headline": "‘The Legend of Zelda: Ocarina of Time’ Remake Sells 5.2 Million Copies in First Four Days on Nintendo Switch 2",
-    "dek": "Nintendo's newly launched remake of the 1998 classic has shattered records, moving 5.2 million units globally in its opening four days.",
-    "entities": {
-      "people": [
-        "Link"
-      ],
-      "titles": [
-        "The Legend of Zelda: Ocarina of Time",
-        "Grand Theft Auto VI",
-        "The Legend of Zelda"
-      ]
-    },
-    "keywords": [
-      "The Legend of Zelda Ocarina of Time",
-      "Nintendo Switch 2 Zelda sales",
-      "Legend of Zelda 40th anniversary",
-      "Zelda live-action film 2027"
-    ],
-    "images": [
-      {
-        "url": "https://variety.com/wp-content/uploads/2026/11/The-Legend-of-Zelda-Ocarina-of-Time-Remake.png?w=1000&#038;h=563&#038;crop=1",
-        "caption": "‘The Legend of Zelda: Ocarina of Time’ Remake Sells 5.2 Million Copies in First Four Days on Nintendo Switch 2",
-        "source": "Variety"
-      }
-    ],
-    "published": "Wed, 11 Nov 2026 14:30:43 +0000"
   },
   "e7b7dd": {
     "id": "e7b7dd",

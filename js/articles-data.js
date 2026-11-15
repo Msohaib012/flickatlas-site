@@ -153867,5 +153867,377 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 08:45:49 +0000"
+  },
+  "19mms53": {
+    "id": "19mms53",
+    "type": "news",
+    "headline": "Shah Rukh Khan and Deepika Padukone's Tu Mil Jaaye Dominates Music Charts Ahead of King's Christmas Debut",
+    "dek": "The musical track Tu Mil Jaaye from the upcoming feature King has captured the top spot on streaming charts, generating massive anticipation for its December arrival.",
+    "body": [
+      {
+        "h": "Rising Popularity on Music Charts",
+        "p": [
+          "The newly released musical track Tu Mil Jaaye, originating from the heavily anticipated film King, has quickly climbed to the peak of the charts. Listeners across various streaming platforms have embraced the song, propelling it to the number one position on Ormax Heartbeats' Top 5 Songs of the Week. This strong charting performance highlights the immediate connection the composition has forged with audiences.",
+          "Beyond standard streaming metrics, the track has inspired widespread social media participation. Fans everywhere are actively recreating the signature hookstep of the song online, turning it into a prominent internet trend and expanding its reach far beyond conventional music listeners."
+        ]
+      },
+      {
+        "h": "Star Power and On-Screen Reunion",
+        "p": [
+          "A major catalyst behind the immense popularity of the song is the pairing of leading stars Shah Rukh Khan and Deepika Padukone. Their electric chemistry together on screen has consistently resonated with viewers throughout their careers, and their latest collaboration is no exception.",
+          "Accompanied by soulful music and stunning visual aesthetics, the performance of the two lead actors in the track has captivated fans. Their celebrated on-screen reunion has injected fresh excitement into the overall promotional campaign of the project."
+        ]
+      },
+      {
+        "h": "Building Anticipation for the Feature",
+        "p": [
+          "The stellar response to Tu Mil Jaaye has significantly boosted the commercial momentum surrounding King. Trade analysts are taking note of the high level of audience engagement, which is setting a solid foundation for the picture's upcoming theatrical exhibition.",
+          "With the musical score successfully generating substantial interest well in advance, the film stands to gain a distinct competitive edge upon its arrival in cinemas. The enthusiastic reception serves as a major promotional advantage for the production team."
+        ]
+      },
+      {
+        "h": "Director and Release Schedule",
+        "p": [
+          "The upcoming cinematic venture is directed by Siddharth Anand, who brings his signature style to the production. The project features Shah Rukh Khan in the primary role, driving immense attention from Bollywood enthusiasts.",
+          "Audiences will not have to wait much longer to see the complete feature on the big screen, as the film is officially slated to make its theatrical debut on December 24, 2026, targeting the lucrative Christmas release window."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The track Tu Mil Jaaye from the upcoming film King, directed by Siddharth Anand and starring Shah Rukh Khan and Deepika Padukone, has claimed the number one spot on Ormax Heartbeats' Top 5 Songs of the Week. Driven by viral social media trends and strong fan engagement, the successful single is building considerable trade buzz ahead of the movie's theatrical release on December 24, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan stars in King",
+      "Deepika Padukone stars in King",
+      "Siddharth Anand directs King",
+      "King releases on December 24, 2026",
+      "Tu Mil Jaaye is ranked No. 1 on Ormax Heartbeats' Top 5 Songs of the Week",
+      "The article was published on November 15, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Deepika Padukone",
+        "Siddharth Anand"
+      ],
+      "titles": [
+        "King",
+        "Tu Mil Jaaye"
+      ]
+    },
+    "keywords": [
+      "Tu Mil Jaaye song",
+      "Shah Rukh Khan King film",
+      "Deepika Padukone King",
+      "Siddharth Anand King"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028555.jpg",
+        "caption": "Shah Rukh Khan and Deepika Padukone's Tu Mil Jaaye Dominates Music Charts Ahead of King's Christmas Debut",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 10:21:03 +0000"
+  },
+  "15sjo7j": {
+    "id": "15sjo7j",
+    "type": "news",
+    "headline": "BTS, Rosé, Jennie, KPop Demon Hunters, and KATSEYE Emerge Victorious at the 2026 Nickelodeon Kids' Choice Awards",
+    "dek": "Several major names in global music and animation took home top honors at the annual ceremony held on November 14, 2026.",
+    "body": [
+      {
+        "h": "Introduction to the 2026 Ceremony",
+        "p": [
+          "The results of the 2026 Nickelodeon Kids’ Choice Awards have officially been revealed to the public. The festive annual event took place on November 14 according to local time, celebrating favorite figures across the entertainment landscape as chosen by young audiences.",
+          "A wide array of popular musicians, groups, and animated projects secured wins during the evening. The ceremony once again highlighted the massive global footprint of contemporary Asian music and culture."
+        ]
+      },
+      {
+        "h": "BTS Extends Historic Winning Streak",
+        "p": [
+          "Global superstars BTS triumphed across every single category they faced nomination in. The septet claimed the trophies for Favorite Music Group, Favorite Song with their track 'SWIM', and Favorite Album with 'ARIRANG'.",
+          "This latest success adds to an already legendary history at the event. Having previously secured the Favorite Music Group title across four consecutive years between 2020 and 2023, the group has now pushed their record-setting total of wins in that specific category even further."
+        ]
+      },
+      {
+        "h": "BLACKPINK Members Shine Solo",
+        "p": [
+          "Members of BLACKPINK also made a tremendous impact during the night by winning individual accolades. Rosé was awarded the title of Favorite Female Artist following her recent successful musical endeavors.",
+          "Meanwhile, her groupmate Jennie earned the prize for Favorite Music Collaboration. This recognition came on the heels of her creative partnership with Tame Impala on the track titled 'Dracula'."
+        ]
+      },
+      {
+        "h": "Breakout Success for KATSEYE",
+        "p": [
+          "The rising musical act KATSEYE also had a night to remember at the ceremony. The group successfully captured the trophy for Favorite Female Breakout Artist/Group.",
+          "Following their victory, the members shared a brief acceptance speech with viewers to express their gratitude for the support from young fans around the world."
+        ]
+      },
+      {
+        "h": "KPop Demon Hunters Dominates Animation Categories",
+        "p": [
+          "The animated film 'KPop Demon Hunters' proved to be a major force by securing multiple wins. The movie won Favorite Song from a Movie thanks to the popularity of its hit original soundtrack 'Golden'.",
+          "In addition to the music win, the principal voice cast members were individually honored. Arden Cho received the award for Favorite Female Animated Voice from a Movie for voicing Rumi, while Ahn Hyo Seop took home Favorite Male Animated Voice from a Movie for his portrayal of Jinu."
+        ]
+      },
+      {
+        "h": "Significance of the Night",
+        "p": [
+          "The impressive sweep by K-pop acts and related projects at a major mainstream American awards show underscores the ongoing globalization of the entertainment industry. Young audiences continue to demonstrate their immense voting power in backing international artists.",
+          "Such widespread recognition cements the enduring appeal of these performers and animated features across diverse demographics and international borders."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 2026 Nickelodeon Kids' Choice Awards took place on November 14, honoring top stars like BTS, Rosé, Jennie, KATSEYE, and the film KPop Demon Hunters. BTS extended their record for Favorite Music Group while winning additional categories, alongside multiple wins for their fellow artists and the animated movie's cast and soundtrack."
+        ]
+      }
+    ],
+    "facts": [
+      "The 2026 Nickelodeon Kids' Choice Awards took place on November 14.",
+      "BTS won Favorite Music Group, Favorite Song for 'SWIM', and Favorite Album for 'ARIRANG'.",
+      "BTS previously won Favorite Music Group for four consecutive years from 2020 to 2023.",
+      "BLACKPINK's Rosé won Favorite Female Artist.",
+      "Jennie won Favorite Music Collaboration for 'Dracula' with Tame Impala.",
+      "KATSEYE won Favorite Female Breakout Artist/Group.",
+      "'KPop Demon Hunters' won Favorite Song from a Movie for 'Golden'.",
+      "Arden Cho won Favorite Female Animated Voice from a Movie for voicing Rumi.",
+      "Ahn Hyo Seop won Favorite Male Animated Voice from a Movie for voicing Jinu."
+    ],
+    "entities": {
+      "people": [
+        "S Nam",
+        "Rosé",
+        "Jennie",
+        "Arden Cho",
+        "Ahn Hyo Seop"
+      ],
+      "titles": [
+        "SWIM",
+        "ARIRANG",
+        "Dracula",
+        "KPop Demon Hunters",
+        "Golden",
+        "Omniscient Reader: The Prophecy",
+        "BREAK THE SILENCE"
+      ]
+    },
+    "keywords": [
+      "2026 Nickelodeon Kids Choice Awards",
+      "BTS wins KChoice Awards",
+      "KPop Demon Hunters",
+      "Jennie Tame Impala Dracula"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/15182922/bts-kdh-katseye-bp-KCA.png",
+        "caption": "BTS, Rosé, Jennie, KPop Demon Hunters, and KATSEYE Emerge Victorious at the 2026 Nickelodeon Kids' Choice Awards",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 09:44:00 +0000"
+  },
+  "p2dq2x": {
+    "id": "p2dq2x",
+    "type": "news",
+    "headline": "Full Winners List Revealed for the Second Day of the 2026 Melon Music Awards in Seoul",
+    "dek": "Discover all the major winners, top artists, and special category victors from the second day of the 18th Melon Music Awards held at the Gocheok Sky Dome.",
+    "body": [
+      {
+        "h": "Setting the Stage at the Gocheok Sky Dome",
+        "p": [
+          "Following an action-packed opening, the second day of the 18th Melon Music Awards has officially taken over the Gocheok Sky Dome in Seoul, South Korea. Fans and industry insiders turned their full attention to the venue as the main ceremony unfolded with high anticipation.",
+          "The event brought together some of the biggest names in the South Korean entertainment industry to celebrate the absolute pinnacle of musical achievement over the past year."
+        ]
+      },
+      {
+        "h": "Star-Studded Presenter Lineup",
+        "p": [
+          "Adding immense star power to the evening, a roster of celebrated Korean actors took the stage as presenters. The lineup featured notable television and film stars guiding the proceedings.",
+          "Among the prominent presenters stepping up to hand out trophies were Lee Se Young from The Remarried Empress, Moon Sang Min, Choi Daniel, Lee Joo Bin, and Roh Jeong Eui."
+        ]
+      },
+      {
+        "h": "More Celebrity Presenters Join the Evening",
+        "p": [
+          "The presenter roster continued with additional heavy-hitting actors building excitement throughout the venue. Fans cheered as familiar faces appeared on stage.",
+          "The remaining presenters included Kim Shin Rock, Kim Jae Young, Hong Jong Hyun, Ahn Jae Hyun, and Lee Joon, rounding out an impressive group of hosts for the second day."
+        ]
+      },
+      {
+        "h": "Top 10 Artists Claim Bonsang Honors",
+        "p": [
+          "The highly competitive Top 10 Artists category, known as the Bonsang, recognized the most influential musical acts of the period. Several standout groups captured this prestigious recognition.",
+          "The winning roster for the Bonsang category included NCT WISH, IVE, CORTIS, and PLAVE, each celebrated for their massive commercial impact and fan support."
+        ]
+      },
+      {
+        "h": "Celebrating Group and Genre Excellence",
+        "p": [
+          "Major group categories highlighted the dominance of South Korea's premier musical acts. BTS secured the title of Best Male Group, while IVE claimed the award for Best Female Group.",
+          "In addition, Best Performance honors were distributed to KiiiKiii for the female category, showcasing exceptional stagecraft and choreography."
+        ]
+      },
+      {
+        "h": "Global and Regional Recognition",
+        "p": [
+          "Special accolades celebrated artists making waves beyond domestic borders and across specific international markets. ILLIT and NCT WISH both shared the Global Impact Artist designation.",
+          "Further international awards included the Global Rising Artist honor given to AND2BLE, alongside NCT WISH capturing the title of Japan Favorite Artist."
+        ]
+      },
+      {
+        "h": "Music Video and Additional Honors",
+        "p": [
+          "Visual storytelling in South Korean music received its spotlight when the Best Music Video award was announced. IVE took home this trophy for their work on BANG BANG.",
+          "ILLIT also secured recognition in the Best Performance category for females, cementing a successful outing at the Gocheok Sky Dome."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 18th Melon Music Awards successfully concluded its second day at the Gocheok Sky Dome in Seoul with numerous top artists taking home major trophies. Major wins went to groups like BTS, IVE, and NCT WISH while a star-studded lineup of actors served as presenters for the ceremony."
+        ]
+      }
+    ],
+    "facts": [
+      "The 18th Melon Music Awards 2026 took place at the Gocheok Sky Dome in Seoul, South Korea.",
+      "Presenters included Lee Se Young, Moon Sang Min, Choi Daniel, Lee Joo Bin, Roh Jeong Eui, Kim Shin Rock, Kim Jae Young, Hong Jong Hyun, Ahn Jae Hyun, and Lee Joon.",
+      "Top 10 Artists Bonsang winners included NCT WISH, IVE, CORTIS, and PLAVE.",
+      "Best Performance Female winners were KiiiKiii and ILLIT.",
+      "Global Impact Artist winners were ILLIT and NCT WISH.",
+      "Global Rising Artist winner was AND2BLE.",
+      "Japan Favorite Artist winner was NCT WISH.",
+      "Best Male Group winner was BTS.",
+      "Best Female Group winner was IVE.",
+      "Best Music Video winner was BANG BANG by IVE."
+    ],
+    "entities": {
+      "people": [
+        "Lee Se Young",
+        "Moon Sang Min",
+        "Choi Daniel",
+        "Lee Joo Bin",
+        "Roh Jeong Eui",
+        "Kim Shin Rock",
+        "Kim Jae Young",
+        "Hong Jong Hyun",
+        "Ahn Jae Hyun",
+        "Lee Joon"
+      ],
+      "titles": [
+        "The Remarried Empress",
+        "NCT WISH",
+        "IVE",
+        "CORTIS",
+        "PLAVE",
+        "KiiiKiii",
+        "ILLIT",
+        "AND2BLE",
+        "BTS",
+        "BANG BANG"
+      ]
+    },
+    "keywords": [
+      "2026 Melon Music Awards",
+      "MMA winners list",
+      "BTS IVE NCT WISH MMA",
+      "18th Melon Music Awards"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-15t153102-175-27901794736882.jpg",
+        "caption": "Full Winners List Revealed for the Second Day of the 2026 Melon Music Awards in Seoul",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 16:16:56 +0530"
+  },
+  "16y000w": {
+    "id": "16y000w",
+    "type": "news",
+    "headline": "Son Hyun Joo Embraces Viral 'Son Hyun Dyu' Nickname in 'Doctor X: Mafia in White' Farewell Message",
+    "dek": "The veteran actor acknowledged his internet-famous puppy moniker in a handwritten goodbye letter released by SBS Drama.",
+    "body": [
+      {
+        "h": "Embracing the Internet Moniker",
+        "p": [
+          "Veteran actor Son Hyun Joo has officially leaned into his viral internet moniker by signing his final goodbye letter with a playful twist on his identity. As the SBS medical noir series came to an end, the production team shared handwritten notes from the main cast to express gratitude to the audience.",
+          "Instead of using his given name to sign off his message, Son surprised fans by appending the moniker 'Son Hyun Dyu' to the bottom of the page. The network later verified that the actor had genuinely penned the lighthearted sign-off himself."
+        ]
+      },
+      {
+        "h": "Origins of the 'Son Hyun Dyu' Trend",
+        "p": [
+          "The viral nickname emerged across South Korean online forums after internet users noticed distinct similarities between the actor's mournful gaze and soft facial contours and a popular illustrated character called 'Ganadi'. The term itself stems from a playful corruption of 'gangaji', the native word for a puppy.",
+          "The internet buzz gained massive traction when the character's creator, Jjal-sseul-saram, published unique illustrations inspired by the star. These drawings captured specific details like his rounded cheeks and faint beard shadow while dressing the cartoon puppy in medical scrubs."
+        ]
+      },
+      {
+        "h": "Role as Bu Seung Gwon",
+        "p": [
+          "In the concluded series, Son portrayed Bu Seung Gwon, the conflicted hospital director of Guseo University Hospital. His performance offered a striking contrast to the cute, puppy-inspired meme circulating online, as he navigated heavy dramatic stakes within a corrupt medical establishment.",
+          "Despite his intense and commanding presence on screen, fans quickly bridged the gap between his stern character and the humorous online persona, making the final sign-off a delightful surprise for viewers."
+        ]
+      },
+      {
+        "h": "Conclusion of 'Doctor X: Mafia in White'",
+        "p": [
+          "The handwritten notes were uploaded to the official social media accounts of SBS Drama on November 14, marking the official wrap of the program. The cast expressed their appreciation for the hard work put in by the production crew and the steadfast support from the audience.",
+          "The series wrapped its 12-episode journey on the same day, having followed the gripping story of a genius surgeon challenging a powerful medical cartel."
+        ]
+      },
+      {
+        "h": "Cast and Production Background",
+        "p": [
+          "Helmed as a high-stakes medical noir project, the show featured a powerhouse ensemble cast alongside Son Hyun Joo. Viewers tuned in weekly to watch the intricate power struggles unfold within the hospital walls.",
+          "Alongside Son, the main lineup included prominent stars Kim Ji Won, Lee Jung Eun, and Kim Woo Seok, who anchored the narrative through their intense portrayals of medical professionals and administrators."
+        ]
+      },
+      {
+        "h": "Fan Reactions and Cultural Impact",
+        "p": [
+          "The public reaction to the actor adopting his meme name was overwhelmingly enthusiastic. Social media users flooded comment sections with amused disbelief, questioning whether the hospital director actor had genuinely written the cute moniker with his own hand.",
+          "This lighthearted moment successfully united the audience, the original illustrator, and the veteran actor in a cheerful three-way interaction, giving the dramatic series a warm and memorable send-off."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Son Hyun Joo officially adopted his viral internet nickname 'Son Hyun Dyu' in a handwritten farewell note shared by SBS Drama on November 14. The moniker originated from fan comparisons between the star and a puppy-like character created by Jjal-sseul-saram during the run of his 12-episode medical noir series."
+        ]
+      }
+    ],
+    "facts": [
+      "The farewell messages were uploaded on November 14, 2026.",
+      "Doctor X: Mafia in White concluded its 12-episode run on November 14, 2026.",
+      "Son Hyun Joo portrayed hospital director Bu Seung Gwon at Guseo University Hospital.",
+      "The character 'Ganadi' was created by Jjal-sseul-saram.",
+      "The main cast of Doctor X: Mafia in White includes Kim Ji Won, Lee Jung Eun, Son Hyun Joo, and Kim Woo Seok."
+    ],
+    "entities": {
+      "people": [
+        "Son Hyun Joo",
+        "Jjal-sseul-saram",
+        "Kim Ji Won",
+        "Lee Jung Eun",
+        "Kim Woo Seok"
+      ],
+      "titles": [
+        "Doctor X: Mafia in White"
+      ]
+    },
+    "keywords": [
+      "Son Hyun Joo",
+      "Doctor X Mafia in White",
+      "Son Hyun Dyu",
+      "Bu Seung Gwon"
+    ],
+    "images": [],
+    "published": "Sun, 15 Nov 2026 04:27:00 EST"
   }
 };
