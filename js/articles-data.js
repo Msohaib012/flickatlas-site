@@ -152345,5 +152345,418 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-15T08:31:08+05:30"
+  },
+  "1kxibnl": {
+    "id": "1kxibnl",
+    "type": "news",
+    "headline": "Ramayana Hits 500 Crore Hindi Net in Just Ten Days",
+    "dek": "Namit Malhotra's Ramayana has stormed past the 500 crore mark in its Hindi version within ten days, locking in the second-fastest record in Indian cinema history.",
+    "body": [
+      {
+        "h": "Reaching the 500 Crore Landmark",
+        "p": [
+          "Namit Malhotra's epic production Ramayana has officially crossed the monumental 500 crore net collection in its Hindi version. Achieving this major feat in just ten days, the movie has cemented its place among the biggest commercial hits in the country.",
+          "The Nitesh Tiwari directorial managed to cruise past the landmark faster than numerous massive blockbusters, establishing an impressive pace at the box office during its ongoing theatrical run."
+        ]
+      },
+      {
+        "h": "Second-Fastest Entry Into Elite Club",
+        "p": [
+          "With this rapid climb, Ramayana has earned the title of the second-fastest film to hit the 500 crore Hindi net milestone. It successfully outpaced the speed of several prominent cinematic successes.",
+          "Among the films left behind in terms of reaching this specific benchmark are notable blockbusters like Pushpa 2, Dhurandhar, and Jawan, leaving only Dhurandhar 2 ahead of it in speed."
+        ]
+      },
+      {
+        "h": "Strong Second Weekend Momentum",
+        "p": [
+          "The milestone comes directly out of a powerful second weekend at the box office. Even as the extended Diwali holiday period concluded, the feature continued pulling massive crowds to theaters.",
+          "The Hindi version brought in roughly 53.75 crore net on its second Saturday alone, pushing its cumulative total past 525 crore and demonstrating lasting audience appeal."
+        ]
+      },
+      {
+        "h": "Growth Beyond Festive Demand",
+        "p": [
+          "A notable highlight of the weekend performance was a strong 47.3% jump from Friday numbers. Family audiences turned out in large numbers to support the screening.",
+          "Because Saturday was a normal weekend day rather than a major holiday, this growth signals that the project's box office strength goes far beyond temporary festive excitement."
+        ]
+      },
+      {
+        "h": "All-Time Grossers Standing",
+        "p": [
+          "Beyond its speed records, the title has broken into the top seven highest Hindi net grossers of all time in India. Its lifetime earnings have already overtaken past hits.",
+          "By surpassing movies such as Animal, Baahubali 2, Pathaan, and Gadar 2, the feature has also become Ranbir Kapoor's highest-grossing Hindi net film to date."
+        ]
+      },
+      {
+        "h": "Looking Ahead at Upcoming Rivals",
+        "p": [
+          "The immediate competition on the all-time charts includes heavyweights like Jawan, Chhaava, and Stree 2. Their lifetime totals are within striking distance if current momentum holds.",
+          "However, facing the higher benchmarks set by Pushpa 2 and the Dhurandhar franchise will require steady weekday and weekend numbers going forward."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Namit Malhotra's Ramayana has crossed the 500 crore Hindi net milestone in ten days, securing its position as the second-fastest film to reach the mark. The Nitesh Tiwari directorial achieved this during a strong second weekend supported by family audiences.",
+          "The theatrical run has also placed the movie inside the all-time top grossers, making it Ranbir Kapoor's highest Hindi net-grosser."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana crossed 500 crore Hindi net in 10 days.",
+      "The film's second Saturday collection was estimated at 53.75 crore net.",
+      "The cumulative collection reached over 525 crore.",
+      "The film witnessed a 47.3% jump from Friday.",
+      "The movie was directed by Nitesh Tiwari and produced by Namit Malhotra."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor"
+      ],
+      "titles": [
+        "Ramayana",
+        "Pushpa 2",
+        "Dhurandhar",
+        "Jawan",
+        "Dhurandhar 2",
+        "Animal",
+        "Baahubali 2",
+        "Pathaan",
+        "Gadar 2",
+        "Stree 2",
+        "Chhaava"
+      ]
+    },
+    "keywords": [
+      "Ramayana film box office",
+      "Ramayana 500 crore Hindi net",
+      "Namit Malhotra Ramayana",
+      "Nitesh Tiwari Ramayana collection"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028548.jpg",
+        "caption": "Ramayana Hits 500 Crore Hindi Net in Just Ten Days",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 05:17:09 +0000"
+  },
+  "10ku136": {
+    "id": "10ku136",
+    "type": "news",
+    "headline": "Amanda Seyfried To Make Hosting Debut On Upcoming Episode Of Saturday Night Live",
+    "dek": "The actress will take the stage at Studio 8H alongside musical guest Don Toliver following a brief three-week hiatus for the long-running sketch comedy program.",
+    "body": [
+      {
+        "h": "The Hosting Announcement",
+        "p": [
+          "Saturday Night Live has officially confirmed that actress Amanda Seyfried will lead the upcoming December 5 episode as host. The news was shared during the live broadcast of the November 14 installment, which was hosted by John Mulaney.",
+          "Accompanying Seyfried for the night will be Don Toliver, who is scheduled to perform as the musical guest. This upcoming appearance marks a first-time milestone for both prominent figures on the late-night program."
+        ]
+      },
+      {
+        "h": "Season 52 Break and Schedule",
+        "p": [
+          "Following the conclusion of John Mulaney's Season 52 episode, the sketch comedy staple is entering a three-week hiatus. Production will pause before the show returns to Studio 8H during the first week of December.",
+          "As the program moves toward the end of the year, the network has not yet announced the hosts or musical guests for the subsequent episodes scheduled for December 12 and December 19."
+        ]
+      },
+      {
+        "h": "First-Time Hosts This Season",
+        "p": [
+          "When Amanda Seyfried steps into the hosting role next month, she will achieve a notable distinction within the current broadcast run. Her appearance establishes her as the fourth first-time host of Season 52.",
+          "The previous debut hosts for this season include Jalen Brunson, Inde Navarrette, and Druski, all of whom stepped up to lead the show for the very first time in their careers."
+        ]
+      },
+      {
+        "h": "Recent Success With You Can See Everything",
+        "p": [
+          "The hosting announcement caps off a remarkably busy autumn period for the performer. She has generated substantial media attention over the past month due to her surprising involvement in a conversation-starting documentary.",
+          "Directed by Lance Oppenheim and Nathan Fielder, the project titled You Can See Everything has sparked major discussions. In the documentary, the actress reprises elements of her previous dramatic work by portraying Elizabeth Holmes during unrecorded reenactments."
+        ]
+      },
+      {
+        "h": "On-Screen Confrontations",
+        "p": [
+          "Within the framework of the documentary, the performer steps beyond simple reenactments to become a confrontational figure against the divisive partner of Holmes, Billy Evans.",
+          "A fierce argument between these two individuals serves as the focal point for one of the feature's most widely analyzed and discussed scenes."
+        ]
+      },
+      {
+        "h": "Interviews and Silence Broken",
+        "p": [
+          "The late-night program announcement arrived in the exact same week that the actress broke her silence regarding the documentary project. She engaged in a comprehensive, wide-ranging interview alongside both Fielder and Oppenheim.",
+          "This media appearance allowed the star to finally address her secretive involvement in the project, which had already managed to light up the box office following its October theatrical release."
+        ]
+      },
+      {
+        "h": "Prior Parodies on the Show",
+        "p": [
+          "The upcoming December episode will not be the first time Season 52 has touched upon the popular documentary. The cultural phenomenon was previously referenced during the November 7 installment hosted by Druski.",
+          "That particular episode featured a pre-taped sketch where the internet personality imagined a scenario where the documentary subjects approached him instead of the actual directors, complete with a memorable impersonation of Holmes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Saturday Night Live has announced that Amanda Seyfried will make her hosting debut on the December 5 episode, accompanied by musical guest Don Toliver. The news follows a major career fall for the actress, highlighted by her role in the documentary You Can See Everything directed by Lance Oppenheim and Nathan Fielder."
+        ]
+      }
+    ],
+    "facts": [
+      "Saturday Night Live tapped Amanda Seyfried to host the December 5 episode.",
+      "Don Toliver will serve as the musical guest for the December 5 episode.",
+      "The hosting announcement was made during the November 14 episode hosted by John Mulaney.",
+      "Saturday Night Live is taking a three-week break following the Mulaney episode.",
+      "Seyfried is Season 52's fourth first-time host, joining Jalen Brunson, Inde Navarrette, and Druski.",
+      "You Can See Everything is a documentary directed by Lance Oppenheim and Nathan Fielder.",
+      "Amanda Seyfried plays Elizabeth Holmes in dramatized reenactments in You Can See Everything.",
+      "The documentary lit up the box office in October."
+    ],
+    "entities": {
+      "people": [
+        "Amanda Seyfried",
+        "Don Toliver",
+        "John Mulaney",
+        "Jalen Brunson",
+        "Inde Navarrette",
+        "Druski",
+        "Lance Oppenheim",
+        "Nathan Fielder",
+        "Elizabeth Holmes",
+        "Billy Evans",
+        "Jane Wickline",
+        "Ben Marshall"
+      ],
+      "titles": [
+        "Saturday Night Live",
+        "You Can See Everything",
+        "Dropout"
+      ]
+    },
+    "keywords": [
+      "Amanda Seyfried SNL",
+      "Saturday Night Live December 5",
+      "Don Toliver SNL musical guest",
+      "You Can See Everything documentary",
+      "Amanda Seyfried You Can See Everything"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/Amanda-Seyfried-2026.jpg",
+        "caption": "Amanda Seyfried To Make Hosting Debut On Upcoming Episode Of Saturday Night Live",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 05:11:59 +0000"
+  },
+  "1ilvaza": {
+    "id": "1ilvaza",
+    "type": "news",
+    "headline": "Sonakshi Sinha Files Complaint Over Morphed Photos, Man Arrested in Delhi Later Released by Mumbai Court",
+    "dek": "Actor Sonakshi Sinha approached the police after objecting to morphed photographs of herself circulating on social media, resulting in an arrest in Delhi that was later overturned by a Mumbai court due to procedural lapses.",
+    "body": [
+      {
+        "h": "Complaint and Initial Police Action",
+        "p": [
+          "Bollywood actor Sonakshi Sinha recently took formal legal action after discovering that objectionable, digitally altered photographs of herself were being widely circulated across various social media platforms. Troubled by the unauthorized spread of these manipulated images, she approached the authorities to lodge a formal complaint.",
+          "Acting swiftly on her grievance, the Bandra Police registered an official case and launched an investigation into the matter, ultimately tracing the alleged digital activity to the national capital and identifying a suspect."
+        ]
+      },
+      {
+        "h": "The Arrest in Delhi",
+        "p": [
+          "Following the identification of the suspect, a police team traveled to Delhi to apprehend the individual allegedly responsible for circulating the objectionable material. The suspect, identified as Aryan Deepak Jain, was taken into custody from the Jagatpuri Police Station area located in Delhi's Shahdara district.",
+          "The arrest took place around 10:11 AM, after which the accused was immediately flown to Mumbai by flight to be presented before the local authorities for further interrogation and legal processing."
+        ]
+      },
+      {
+        "h": "Court Proceedings and Police Custody Request",
+        "p": [
+          "Upon arriving in Mumbai, the Bandra Police produced Aryan Deepak Jain before a local magistrate. During the hearing, the investigating officers formally requested a three-day custody period for the accused.",
+          "The primary justification provided by the police for seeking custody was to trace and recover the electronic devices that were allegedly utilized to create, modify, and distribute the morphed photographs online."
+        ]
+      },
+      {
+        "h": "Procedural Objections Raised by the Court",
+        "p": [
+          "The presiding magistrate immediately questioned the legal procedures adopted by the police during the apprehension and transit of the accused. Specifically, the court pointed out that the police had brought the suspect straight from Delhi to Mumbai without first presenting him before the nearest magistrate in Delhi.",
+          "The court noted that the law enforcement agency had failed to follow the mandatory transit protocol and could not offer a satisfactory explanation for overlooking this vital legal requirement."
+        ]
+      },
+      {
+        "h": "Arguments from the Defence Counsel",
+        "p": [
+          "During the court proceedings, the defence lawyers representing the accused—comprising Aman Shahi, Prashant Trivedi, and Aditya Jain—vigorously challenged the legality of the entire arrest operation. They argued that the police failed to serve a mandatory notice or inform their client of the specific reasons for his detention.",
+          "Furthermore, the defence raised concerns regarding the haste of the police action, suggesting that the complainant's influential position might have unduly pressured the authorities, and maintained that no actual offence had been committed by the accused."
+        ]
+      },
+      {
+        "h": "Violations of the Bharatiya Nagarik Suraksha Sanhita",
+        "p": [
+          "The magistrate further scrutinized the arrest in light of the guidelines established under the Bharatiya Nagarik Suraksha Sanhita (BNSS). Because the alleged offences carry a maximum possible jail term of seven years, the investigating officer was legally obligated to record written reasons justifying why the arrest was strictly necessary under Section 35(1)(b) of the BNSS.",
+          "The court explicitly observed that the general necessity for further investigation does not, on its own, justify taking a citizen into custody without strictly adhering to statutory safeguards and prescribed protocols."
+        ]
+      },
+      {
+        "h": "Release of the Accused and Ongoing Investigation",
+        "p": [
+          "Citing clear procedural lapses and a failure to respect statutory safeguards during the arrest, the magistrate formally rejected the police request for three days of custody and ordered the immediate release of Aryan Deepak Jain.",
+          "Despite the setback in securing the suspect's detention, the Bandra Police confirmed that the broader investigation into Sonakshi Sinha's original complaint remains very much active as authorities continue to look into the circulation of the images."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Sonakshi Sinha filed a police complaint regarding objectionable morphed photos of herself circulating on social media, leading to the arrest of Aryan Deepak Jain in Delhi. A Mumbai court subsequently ordered his release after rejecting a custody request due to procedural violations of the BNSS during transit and arrest. The underlying investigation into the complaint remains active."
+        ]
+      }
+    ],
+    "facts": [
+      "Sonakshi Sinha filed a complaint over morphed photos.",
+      "Aryan Deepak Jain was arrested in Delhi.",
+      "The arrest took place around 10:11 AM from the Jagatpuri Police Station area in Delhi's Shahdara.",
+      "A Mumbai court ordered the release of the arrested man, rejecting a three-day custody request.",
+      "The defence lawyers were Aman Shahi, Prashant Trivedi, and Aditya Jain.",
+      "The magistrate pointed to violations under Section 35(1)(b) of the Bharatiya Nagarik Suraksha Sanhita."
+    ],
+    "entities": {
+      "people": [
+        "Sonakshi Sinha",
+        "Aryan Deepak Jain",
+        "Aman Shahi",
+        "Prashant Trivedi",
+        "Aditya Jain",
+        "Monica Yadav"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Sonakshi Sinha",
+      "Aryan Deepak Jain",
+      "morphed photographs complaint",
+      "Mumbai court release"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/15/1600x900/logo/Sonakshi_Sinha_1794722659291_tctK_1794722659413_FGin_36186392-981a-4b5a-b6ed-755031d61fd9_2Qz8.jpg",
+        "caption": "Sonakshi Sinha Files Complaint Over Morphed Photos, Man Arrested in Delhi Later Released by Mumbai Court",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 11:40:36 +0530"
+  },
+  "62m0ls": {
+    "id": "62m0ls",
+    "type": "news",
+    "headline": "Donga Naa Koduku Day 2 Box Office: Mouli Tanuj Prashanth Starrer Nears Rs 4 Crore",
+    "dek": "The Telugu crime comedy Donga Naa Koduku saw an uptick in collections on its second day in theatres, pushing its cumulative domestic net closer to the Rs 4 crore milestone.",
+    "body": [
+      {
+        "h": "Second Day Box Office Performance",
+        "p": [
+          "The Telugu crime comedy Donga Naa Koduku experienced a modest growth in ticket sales on its second day running in cinemas. The feature added Rs 2 crore to its domestic earnings on Saturday, bringing its two-day India net collection closer to the Rs 4 crore threshold.",
+          "According to tracking data provided by Sacnilk, this latest figure represents an 8.1% improvement over its opening-day collection of Rs 1.85 crore. Consequently, the movie's cumulative India net stands at Rs 3.85 crore, while its domestic gross has climbed to Rs 4.45 crore after two days."
+        ]
+      },
+      {
+        "h": "Theatre Occupancy and Show Counts",
+        "p": [
+          "Alongside the monetary rise, the project also demonstrated an upward tick in theatrical occupancy. On its release day, the feature recorded an average occupancy of 41% spread across 965 screenings.",
+          "By the following day, the overall occupancy moved up slightly to 43% while the screening count expanded to 995 shows. Across the first two days combined, the title has been screened in a total of 1,960 shows."
+        ]
+      },
+      {
+        "h": "Audience Footfalls and Averages",
+        "p": [
+          "The theatrical run has accumulated an estimated 3,40,690 footfalls so far during its opening weekend window. On Saturday alone, the average collection per show hovered around the Rs 20,101 mark.",
+          "With Sunday marking its third day on the big screen, the feature remains squarely in the middle of its crucial opening weekend. The upcoming collections will help determine if it can maintain this upward trajectory."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "Directed and written by Sreenu Kambala, the narrative centers on a young man burdened by a compulsive stealing habit. His recurrent thefts continually create massive difficulties for his eccentric family members.",
+          "The household is left scrambling to cope with and manage the fallout of his disruptive actions. These chaotic events drive the core narrative of the crime comedy."
+        ]
+      },
+      {
+        "h": "Cast and Crew",
+        "p": [
+          "The leading roles are played by Mouli Tanuj Prashanth and Sushmita Shetty. They are supported by an ensemble cast featuring Ali, Raghu Babu, Rajitha, Priya, Babloo, Nanda Gopal, Bhadram, and Gundu Sudarshan.",
+          "Behind the scenes, the project was backed by producers Naveen Yerneni and Y. Ravi Shankar under the Mythri Movie Makers banner. The technical crew features music by Sinjith Yerramilli, cinematography by Suriya Balaji, and editing by Sreedhar Sompally."
+        ]
+      },
+      {
+        "h": "Release Context",
+        "p": [
+          "The cinematic release hit theatres worldwide on Friday, November 13, 2026. It immediately commenced its box office journey as a weekend release in the Telugu film market.",
+          "The conclusion of the opening weekend will offer a more comprehensive look at its overall theatrical potential."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mouli Tanuj Prashanth's Telugu crime comedy Donga Naa Koduku reported a slight growth in ticket sales on its second day in theatres. The feature added Rs 2 crore to its domestic earnings, lifting its cumulative India net closer to Rs 4 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Donga Naa Koduku released on Friday, November 13, 2026",
+      "Day 2 box office collection was Rs 2 crore",
+      "Day 1 box office collection was Rs 1.85 crore",
+      "Cumulative India net collection after two days is Rs 3.85 crore",
+      "Domestic gross after two days is Rs 4.45 crore",
+      "Day 1 occupancy was 41% across 965 shows",
+      "Day 2 occupancy was 43% across 995 shows",
+      "Total shows across the first two days reached 1,960",
+      "Estimated footfalls stand at 3,40,690",
+      "Average collection per show on Saturday was approximately Rs 20,101",
+      "Written and directed by Sreenu Kambala",
+      "Produced by Naveen Yerneni and Y. Ravi Shankar under Mythri Movie Makers",
+      "Music composed by Sinjith Yerramilli",
+      "Cinematography by Suriya Balaji",
+      "Editing by Sreedhar Sompally"
+    ],
+    "entities": {
+      "people": [
+        "Mouli Tanuj Prashanth",
+        "Sushmita Shetty",
+        "Sreenu Kambala",
+        "Naveen Yerneni",
+        "Y. Ravi Shankar",
+        "Sinjith Yerramilli",
+        "Suriya Balaji",
+        "Sreedhar Sompally",
+        "Ali",
+        "Raghu Babu",
+        "Rajitha",
+        "Priya",
+        "Babloo",
+        "Nanda Gopal",
+        "Bhadram",
+        "Gundu Sudarshan"
+      ],
+      "titles": [
+        "Donga Naa Koduku"
+      ]
+    },
+    "keywords": [
+      "Donga Naa Koduku",
+      "Mouli Tanuj Prashanth",
+      "Donga Naa Koduku box office",
+      "DNK Telugu movie"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/donganaakoduku1-86541794721333.jpg",
+        "caption": "Donga Naa Koduku Day 2 Box Office: Mouli Tanuj Prashanth Starrer Nears Rs 4 Crore",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 11:13:22 +0530"
   }
 };

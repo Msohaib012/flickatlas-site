@@ -18,6 +18,14 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "US",
+      "date": "2026-11-17",
+      "date_kind": "digital",
+      "id": 1535652,
+      "providers": [],
+      "type": "movie"
+    },
+    {
       "country": "BR",
       "date": "2026-11-19",
       "date_kind": "digital",
@@ -69,6 +77,19 @@ window.FA_OTT = {
     },
     {
       "country": "US",
+      "date": "2026-11-27",
+      "date_kind": "digital",
+      "id": 1506401,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "US",
       "date": "2026-12-02",
       "date_kind": "digital",
       "id": 1422041,
@@ -98,6 +119,14 @@ window.FA_OTT = {
     }
   ],
   "now": [
+    {
+      "country": "FR",
+      "date": "2026-11-15",
+      "date_kind": "digital",
+      "id": 1820578,
+      "providers": [],
+      "type": "movie"
+    },
     {
       "country": "US",
       "date": "2026-11-14",
@@ -152,6 +181,19 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "IN",
+      "date": "2026-11-13",
+      "date_kind": "digital",
+      "id": 1823907,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-11-13",
       "date_kind": "digital",
       "id": 1050981,
@@ -165,7 +207,7 @@ window.FA_OTT = {
     },
     {
       "date": "2026-11-13",
-      "date_kind": "release",
+      "date_kind": "digital",
       "id": 1543469,
       "providers": [
         {
@@ -282,7 +324,7 @@ window.FA_OTT = {
     },
     {
       "date": "2026-11-12",
-      "date_kind": "release",
+      "date_kind": "digital",
       "id": 1493572,
       "providers": [
         {
@@ -317,8 +359,16 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "US",
       "date": "2026-11-12",
-      "date_kind": "release",
+      "date_kind": "digital",
+      "id": 1374853,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-12",
+      "date_kind": "digital",
       "id": 1757174,
       "providers": [
         {

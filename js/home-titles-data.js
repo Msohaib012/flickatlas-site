@@ -8771,7 +8771,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-14",
-    "popularity": 0.4852
+    "popularity": 0.2822
   },
   "1804652": {
     "id": 1804652,
@@ -13726,7 +13726,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-14",
-    "popularity": 0.1216
+    "popularity": 0.1333
   },
   "1561834": {
     "id": 1561834,
@@ -19284,7 +19284,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-14",
-    "popularity": 0.1226
+    "popularity": 0.1699
   },
   "1781485": {
     "id": 1781485,
@@ -19409,7 +19409,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-14",
-    "popularity": 0.3934
+    "popularity": 0.5447
   },
   "1778721": {
     "id": 1778721,
@@ -19461,7 +19461,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-14",
-    "popularity": 0.3784
+    "popularity": 0.3158
   },
   "1817773": {
     "id": 1817773,
@@ -19518,7 +19518,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-14",
-    "popularity": 0.1418
+    "popularity": 0.2924
   },
   "1618188": {
     "id": 1618188,
@@ -19568,7 +19568,7 @@ window.FA_PUBLISHED = {
     "status": "In Production",
     "providers": [],
     "release_date": "2026-11-14",
-    "popularity": 0.1938
+    "popularity": 0.2448
   },
   "1447206": {
     "id": 1447206,
@@ -19673,7 +19673,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-14",
-    "popularity": 0.276
+    "popularity": 0.4167
   },
   "1480158": {
     "id": 1480158,
@@ -19736,7 +19736,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-14",
-    "popularity": 0.6088
+    "popularity": 0.843
   },
   "1637577": {
     "id": 1637577,
@@ -19790,7 +19790,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-14",
-    "popularity": 0.2131
+    "popularity": 0.1969
   },
   "1820303": {
     "id": 1820303,
@@ -19983,7 +19983,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-14",
-    "popularity": 0.152
+    "popularity": 0.2229
   },
   "1405002": {
     "id": 1405002,
@@ -20037,7 +20037,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-14",
-    "popularity": 0.0412
+    "popularity": 0.1102
   },
   "1260263": {
     "id": 1260263,
@@ -20091,7 +20091,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-14",
-    "popularity": 0.3954
+    "popularity": 0.3303
   },
   "1630420": {
     "id": 1630420,
@@ -20153,7 +20153,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-14",
-    "popularity": 0.3351
+    "popularity": 0.2374
   },
   "1753205": {
     "id": 1753205,
@@ -20207,7 +20207,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-14",
-    "popularity": 0.0545
+    "popularity": 0.3054
   },
   "1810617": {
     "id": 1810617,
@@ -20263,7 +20263,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-14",
-    "popularity": 0.3402
+    "popularity": 0.2727
   },
   "1806212": {
     "id": 1806212,
@@ -20369,7 +20369,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-14",
-    "popularity": 0.113
+    "popularity": 0.0967
   },
   "1578488": {
     "id": 1578488,
@@ -20423,7 +20423,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-14",
-    "popularity": 0.1177
+    "popularity": 0.1272
   },
   "1583853": {
     "id": 1583853,
@@ -20477,7 +20477,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-14",
-    "popularity": 0.2941
+    "popularity": 0.2637
   },
   "1582025": {
     "id": 1582025,
@@ -20532,7 +20532,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-14",
-    "popularity": 0.0768
+    "popularity": 0.1417
   },
   "1810019": {
     "id": 1810019,
@@ -20582,7 +20582,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-14",
-    "popularity": 0.0785
+    "popularity": 0.0824
   },
   "1806356": {
     "id": 1806356,
@@ -20839,10 +20839,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-08",
     "date_kind": "release",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0
+    "popularity": 0.4793
   },
   "1687464": {
     "id": 1687464,
@@ -20912,18 +20912,18 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "The film bears a joint Egyptian-German character, and through its title and artistic journey, it provides a space to celebrate one of the most prominent figures of Arab music, composer Mohamed Abdel Wahab, and to explore his musical legacy and influence, with the participation of Fatma Said, who is considered one of the most prominent Egyptian voices in the world of opera and classical singing globally blending cinematic and musical language.",
     "industry": "world",
-    "original_language": "en",
+    "original_language": "ar",
     "origin_country": [
-      "US"
+      "EG"
     ],
     "production_countries": [],
     "spoken_languages": [],
     "published_at": "2026-11-08",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.2047
+    "popularity": 0.3947
   },
   "1724722": {
     "id": 1724722,
@@ -20973,7 +20973,7 @@ window.FA_PUBLISHED = {
     "status": "In Production",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.2904
+    "popularity": 0.2929
   },
   "1811878": {
     "id": 1811878,
@@ -20993,10 +20993,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-08",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.2903
+    "popularity": 0.1538
   },
   "1810457": {
     "id": 1810457,
@@ -21022,10 +21022,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-08",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.1555
+    "popularity": 0.1456
   },
   "1808310": {
     "id": 1808310,
@@ -21045,10 +21045,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-08",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.2895
+    "popularity": 0.103
   },
   "1806778": {
     "id": 1806778,
@@ -21072,10 +21072,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-08",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.6405
+    "popularity": 0.2752
   },
   "1806776": {
     "id": 1806776,
@@ -21099,10 +21099,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-08",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.1422
+    "popularity": 0.0596
   },
   "1806769": {
     "id": 1806769,
@@ -21126,10 +21126,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-08",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.1464
+    "popularity": 0.1804
   },
   "1806768": {
     "id": 1806768,
@@ -21155,10 +21155,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-08",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.3455
+    "popularity": 0.0323
   },
   "1806765": {
     "id": 1806765,
@@ -21182,10 +21182,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-08",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.3653
+    "popularity": 0.1162
   },
   "1806755": {
     "id": 1806755,
@@ -21210,10 +21210,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-08",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.292
+    "popularity": 0.1488
   },
   "1806752": {
     "id": 1806752,
@@ -21237,10 +21237,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-08",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.2643
+    "popularity": 0.1224
   },
   "1806738": {
     "id": 1806738,
@@ -21266,10 +21266,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-08",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.1553
+    "popularity": 0.1137
   },
   "1806730": {
     "id": 1806730,
@@ -21294,10 +21294,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-08",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.8146
+    "popularity": 0.3605
   },
   "1820980": {
     "id": 1820980,
@@ -21349,10 +21349,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-08",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.1147
+    "popularity": 0.0926
   },
   "1805289": {
     "id": 1805289,
@@ -21486,10 +21486,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-08",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.3791
+    "popularity": 0.4816
   },
   "1815736": {
     "id": 1815736,
@@ -21542,10 +21542,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-08",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.6035
+    "popularity": 0.0779
   },
   "1662511": {
     "id": 1662511,
@@ -21596,10 +21596,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-08",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.2964
+    "popularity": 0.2617
   },
   "1803546": {
     "id": 1803546,
@@ -21619,10 +21619,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-08",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.0805
+    "popularity": 0.128
   },
   "1800295": {
     "id": 1800295,
@@ -21638,14 +21638,16 @@ window.FA_PUBLISHED = {
     "origin_country": [
       "MX"
     ],
-    "production_countries": [],
+    "production_countries": [
+      "MX"
+    ],
     "spoken_languages": [],
     "published_at": "2026-11-08",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.2299
+    "popularity": 0.2921
   },
   "1799909": {
     "id": 1799909,
@@ -21667,16 +21669,16 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-08",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.2357
+    "popularity": 0.2186
   },
   "1798430": {
     "id": 1798430,
     "type": "movie",
     "title": "The New Extinction",
-    "poster_path": "/nDx19jbPrexfHWcoyDC6PYEab6j.jpg",
+    "poster_path": "/i4oSDFsX9RvbXRRJXwn8N5d14W8.jpg",
     "backdrop_path": null,
     "vote_average": 0.0,
     "vote_count": 0,
@@ -21690,10 +21692,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-08",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.5667
+    "popularity": 0.3932
   },
   "1797426": {
     "id": 1797426,
@@ -21718,10 +21720,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-08",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.6025
+    "popularity": 0.181
   },
   "1796923": {
     "id": 1796923,
@@ -21745,16 +21747,16 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-08",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.9032
+    "popularity": 0.4237
   },
   "1796550": {
     "id": 1796550,
     "type": "movie",
     "title": "Women and War",
-    "poster_path": "/26OLsKYdoAo1cuCjN3vDX0fdkKJ.jpg",
+    "poster_path": "/9kF74qInB8AKeiB4FcQ6whoMw6j.jpg",
     "backdrop_path": "/7d5gYhAOLtEjrNUf3DP3bQRdgHm.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
@@ -21775,10 +21777,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-08",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.2577
+    "popularity": 0.2776
   },
   "293610": {
     "id": 293610,
@@ -28524,5 +28526,492 @@ window.FA_PUBLISHED = {
     "providers": [],
     "release_date": "2026-11-21",
     "popularity": 0.8704
+  },
+  "1826011": {
+    "id": 1826011,
+    "type": "movie",
+    "title": "RaTaTaTurn",
+    "poster_path": "/1yddub0CXFVtmxRaiMgbzm9h15F.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "They've shared blood, money, and years of friendship. They know each other's habits, their weaknesses, their tells.  But someone at the table has been playing a different game all along...",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "hi",
+      "en"
+    ],
+    "published_at": "2026-11-15",
+    "date_kind": "festival",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-15",
+    "popularity": 0.0194
+  },
+  "1825179": {
+    "id": 1825179,
+    "type": "movie",
+    "title": "A faház",
+    "poster_path": "/3B828xRiNSnI3lp90hnskN3i4o2.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "hu",
+    "origin_country": [
+      "HU"
+    ],
+    "production_countries": [
+      "HU"
+    ],
+    "spoken_languages": [
+      "hu"
+    ],
+    "published_at": "2026-11-15",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-22",
+    "popularity": 0.2139
+  },
+  "1703273": {
+    "id": 1703273,
+    "type": "movie",
+    "title": "L'Autre",
+    "poster_path": "/7zy3GMIvxSzB2sfSLuRhIhEcJ3T.jpg",
+    "backdrop_path": "/SI0bfMSGMLXITcuANK15TlBTVz.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Bedridden following a severe cancer, a man sees his recovery falter when his young roommate begins to stir up his deepest fears.",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "CA"
+    ],
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "published_at": "2026-11-15",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-14",
+    "popularity": 1.1014
+  },
+  "1825167": {
+    "id": 1825167,
+    "type": "movie",
+    "title": "Bogárbecsület",
+    "poster_path": "/uggX7Pe2BoZ97zu1dOQnfGq4gxL.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "hu",
+    "origin_country": [
+      "HU"
+    ],
+    "production_countries": [
+      "HU"
+    ],
+    "spoken_languages": [
+      "hu"
+    ],
+    "published_at": "2026-11-15",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-22",
+    "popularity": 0.0194
+  },
+  "1773350": {
+    "id": 1773350,
+    "type": "movie",
+    "title": "My Christmas Cowboy",
+    "poster_path": "/9WHyLhAvjbnW2c2srR6SZGyBssm.jpg",
+    "backdrop_path": "/fm5JNEALy1FeL9P2lsASW8t84bm.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Meg set aside her newscaster aspirations after a disastrous audition experience in college and has been happy as a news producer in her small town of Fern, Texas. Billy Kane, her former college crush and audition partner, is a well-known celebrity host in Hollywood on the brink of losing his career after an on-camera gaffe. At the advice of his publicist, Billy begrudgingly returns to Texas to lay low and spend the holidays with his sister and her family. When Meg and Billy cross paths he’s happy to see her but her feelings are on the frostier side: she’s still upset he took advantage of her failed audition to get the gig himself. Meg finds herself seeing Billy more than she’d like since his nephew Graham is in the horse therapy program her dad runs at their ranch. With the annual Reindeer Roundup holiday event coming up, Meg’s dad gets sidelined after an injury and enlists Billy to serve has its host, much to Meg’s chagrin.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-15",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-13",
+    "popularity": 4.1437
+  },
+  "1823438": {
+    "id": 1823438,
+    "type": "movie",
+    "title": "บรรยากาศฝนตก",
+    "poster_path": "/f3V49wrhstLATVABOgKu5S06hS3.jpg",
+    "backdrop_path": "/3AHodH1hPS5jAiWRgNs0x7eJvBA.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "th",
+    "origin_country": [
+      "TH"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-15",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-22",
+    "popularity": 0.0953
+  },
+  "1426957": {
+    "id": 1426957,
+    "type": "movie",
+    "title": "The Loneliest Man in Town",
+    "poster_path": "/iDfNSFTiy9vuTMURQWhYSR9VY5B.jpg",
+    "backdrop_path": "/zeDYPzldn22WfFsnTfuBkCCFJIZ.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Blues musician Al Cook lives in an apartment filled with memories. Outside, the world carries on without him. But when his home is slated for demolition, out of the ruins of his existence, a long-forgotten dream suddenly resurfaces.",
+    "industry": "world",
+    "original_language": "de",
+    "origin_country": [
+      "AT"
+    ],
+    "production_countries": [
+      "AT"
+    ],
+    "spoken_languages": [
+      "de",
+      "en"
+    ],
+    "published_at": "2026-11-15",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-13",
+    "popularity": 1.5567
+  },
+  "1821973": {
+    "id": 1821973,
+    "type": "movie",
+    "title": "DRACHEN",
+    "poster_path": "/7IubDfutBJhh2eeEu4q17IVRDoc.jpg",
+    "backdrop_path": "/zV0bcREA62JxOK4brp2H4mDNmmy.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-15",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-22",
+    "popularity": 0.0573
+  },
+  "1757389": {
+    "id": 1757389,
+    "type": "movie",
+    "title": "Ben Sana İnanıyorum",
+    "poster_path": "/ocVDTpoWgouD6L0fiat2GSLon5g.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Eager to land prestigious clients, Mahsun, an ambitious lawyer puts up an online ad, only to end up saddled with a ruthless crime boss confined to house arrest. Dragged headfirst into dangerous underworld chaos, he must scramble to rid himself of his unwanted client before his career and life completely unravel.",
+    "industry": "world",
+    "original_language": "tr",
+    "origin_country": [
+      "TR"
+    ],
+    "production_countries": [
+      "TR"
+    ],
+    "spoken_languages": [
+      "tr"
+    ],
+    "published_at": "2026-11-15",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-13",
+    "popularity": 2.1088
+  },
+  "1821656": {
+    "id": 1821656,
+    "type": "movie",
+    "title": "FOOSED",
+    "poster_path": "/A5wGJus6dSRw4yPzt7vsNSDUxpF.jpg",
+    "backdrop_path": "/qdEK1tue1LBzepXj8iHSp278Ijg.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Johnny Johnson wants to be a foosball legend, like his dad. There’s just one problem- he’s really, REALLY bad at foosball. Also, his mother wants him to continue working at her diner instead of playing a silly game. So when Johnny runs into his dad’s former coach, he is determined to train in secret in order to play in the upcoming tournament - because when you foose, you never lose. Inspired by the 2022 unfinished MG&J Studios short film of the same name, FOOSED has everything you want in an underdog story - and more!",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-15",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-22",
+    "popularity": 0.1439
+  },
+  "1701947": {
+    "id": 1701947,
+    "type": "movie",
+    "title": "The Best Summer of My Life",
+    "poster_path": "/xZJLLY8DkBUdYQyKpeg8L86yS8s.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Brother and sister, teenagers Savva and Aglaya, live in the city and do what they like most. Savva is a fan of computer games and an eternal fidget. Aglaya is a young genius of science who dreams of making an important discovery. Each has plans for the summer holidays: Savva is going to a games festival, and Aglaya is working on a project at a science camp. But one day, their plans fall apart. Since the guys are always teasing each other, arguing about everything and can't agree on anything, one day a disaster occurs, as a result of which their apartment is simultaneously flooded with water and engulfed in fire. As punishment, the parents send the children to the village to their grandparents. For Savva and Aglaya, this is a nightmare: they are used to food delivery, entertainment, games and the Internet, and in the village they have to get up early, work in the garden, feed for slaughter, go to the bathhouse and a bunch of other village \"delights\".",
+    "industry": "world",
+    "original_language": "ru",
+    "origin_country": [
+      "RU"
+    ],
+    "production_countries": [
+      "RU"
+    ],
+    "spoken_languages": [
+      "ru"
+    ],
+    "published_at": "2026-11-15",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-12",
+    "popularity": 1.3833
+  },
+  "1819759": {
+    "id": 1819759,
+    "type": "movie",
+    "title": "Soy Boy: The Soyfather",
+    "poster_path": "/rRR8PKOeNuY9yuK1P9HvbFNrmyG.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An absurdist neo-noir comedy about two rival Soy Sauce distributors. Using student politics, manipulation and violence to get their revenge.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "AU"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-15",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-22",
+    "popularity": 0.1451
+  },
+  "1771620": {
+    "id": 1771620,
+    "type": "movie",
+    "title": "Laatbloeier",
+    "poster_path": "/xWaqhCGOoQbT9mBmGEAdnvTwnIc.jpg",
+    "backdrop_path": "/zLRK3LCtE9VHrIFLoiB5wkz80nt.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "nl",
+    "origin_country": [
+      "NL"
+    ],
+    "production_countries": [
+      "NL"
+    ],
+    "spoken_languages": [
+      "nl"
+    ],
+    "published_at": "2026-11-15",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-12",
+    "popularity": 1.0645
+  },
+  "1819751": {
+    "id": 1819751,
+    "type": "movie",
+    "title": "Guretako eztia",
+    "poster_path": "/fIC1u7S1c3ugwEnIV5QY1JVcuCk.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Through a series of encounters between a researcher, a beekeeper, and a group of children, the film explores the intertwined relationships between bees, beeswax, and mourning in the Basque Country.",
+    "industry": "world",
+    "original_language": "eu",
+    "origin_country": [
+      "FR"
+    ],
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "eu"
+    ],
+    "published_at": "2026-11-15",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-22",
+    "popularity": 0.11
+  },
+  "1819740": {
+    "id": 1819740,
+    "type": "movie",
+    "title": "Neska bat desagertu da",
+    "poster_path": "/bLGQnV92cX9IgNMJdJtLxqcWJWe.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "People, objects, and places have changed the way they relate—or at least, that’s how Oihana perceives it. Now the emptiness takes up space. A path, a window, a bed, a wardrobe, a mirror. With these, and what fits into a hiking backpack, she has all she needs to reset her coordinates and rest.",
+    "industry": "world",
+    "original_language": "eu",
+    "origin_country": [
+      "ES"
+    ],
+    "production_countries": [
+      "ES"
+    ],
+    "spoken_languages": [
+      "eu"
+    ],
+    "published_at": "2026-11-15",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-22",
+    "popularity": 0.249
+  },
+  "1815790": {
+    "id": 1815790,
+    "type": "movie",
+    "title": "Ultra Women",
+    "poster_path": "/v3h8AAsP995H1A8qqPLzMaNSkjX.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The Spine Race is one of the world’s toughest ultra marathons: 268 miles along the backbone of England, through some of the country’s wildest and most unforgiving terrain in the depths of winter. Ultra Women isn't just a film about running. It asks a deeper question: why do we choose to push ourselves beyond what seems possible? Following the stories of Anna, Llinos, Allie and Sal, we explore what drives four women to take on a challenge that takes them to their physical and emotional limits. Through exhaustion, injury, doubt and moments of unexpected strength, four very different journeys reveal what it really takes to face the winter Spine race.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-15",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-22",
+    "popularity": 0.1284
+  },
+  "1815025": {
+    "id": 1815025,
+    "type": "movie",
+    "title": "Slowly Through the Red Mountains",
+    "poster_path": "/l4n0Uq5ESANWsWm21JzUHTkz2sl.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "What happens when we slow down and let the landscape set the pace? The film follows a six-day journey through the Cairngorms National Park. Two humans, two dogs and one pony, travelling through ancient Caledonian pine forests, across wild rivers and beneath the vast mountains of the Scottish Highlands. Moving slowly, carrying what they need and allowing the landscape and animals to dictate the journey.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-15",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-22",
+    "popularity": 0.2304
+  },
+  "1813127": {
+    "id": 1813127,
+    "type": "movie",
+    "title": "Lotería",
+    "poster_path": "/gxD6KaGxNY87L2qeTuN7mFTDxgH.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "East Side High seniors discover a haunted Lotería deck where every card they’re dealt exposes who they truly are and the horrifying way they’ll die.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-15",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-22",
+    "popularity": 0.0939
+  },
+  "1812797": {
+    "id": 1812797,
+    "type": "movie",
+    "title": "Oly's Dean",
+    "poster_path": "/cxgkyh6VUH2TKZ1gQfAo3hzmcyU.jpg",
+    "backdrop_path": "/yQABmYeLYwPLQDIcoMu0Xm1OiVf.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Set along British Columbia’s remote Dean River, the film follows 9-year-old Oly Hickman as he moves through his family’s fishing lodge in the heart of steelhead country.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-15",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-22",
+    "popularity": 0.0371
   }
 };
