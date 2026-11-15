@@ -151987,5 +151987,363 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-15T09:25:08+05:30"
+  },
+  "1xr8wvf": {
+    "id": "1xr8wvf",
+    "type": "news",
+    "headline": "Veteran Telugu Actor Giri Babu Passes Away at 83, Son Raghu Babu Shares Final Rites Details",
+    "dek": "Renowned Telugu cinema icon Giri Babu passed away on November 14 at the age of 83, drawing emotional tributes from across the film industry as his family prepares to fulfill his final wishes in Ravinuthala.",
+    "body": [
+      {
+        "h": "Passing of a Tollywood Legend",
+        "p": [
+          "The Telugu film fraternity is in deep mourning following the death of veteran actor Giri Babu, who passed away on November 14 at the age of 83. His departure marks the end of an era for regional cinema, leaving fans and colleagues grieving the loss of a foundational talent. Prominent figures from the industry, including major stars like Chiranjeevi and Pawan Kalyan, immediately offered their condolences and paid public tributes to the late actor.",
+          "Following his demise, his mortal remains were brought to the Film Chamber so that admirers, friends, and industry peers could pay their final respects. The short viewing window allowed countless individuals to offer their farewells before the journey to his hometown began."
+        ]
+      },
+      {
+        "h": "Fulfilling a Final Wish in Ravinuthala",
+        "p": [
+          "Speaking to the press during the solemn gathering, his eldest son and fellow actor Raghu Babu revealed heartfelt details regarding his father's final wishes. He explained that the veteran performer held a profound attachment to his birthplace, Ravinuthala, a village situated near Ongole.",
+          "According to Raghu Babu, the veteran star had explicitly expressed a desire for his final rites to be performed in his hometown. Respecting this wish, the family scheduled the ceremony to take place in Ravinuthala."
+        ]
+      },
+      {
+        "h": "A Storied Career Spanning Decades",
+        "p": [
+          "Giri Babu leaves behind an impressive legacy forged across nearly five decades in the entertainment industry. His active professional career spanned from 1973 through 2022, during which he appeared in approximately 650 films.",
+          "In addition to his prolific acting credits, he demonstrated a pioneering spirit as a filmmaker early in his career by launching his own production company. Notably, he directed the very first black-and-white Cinemascope movie in Telugu cinema, titled 'Devathalara Deevinchandi', which turned out to be a massive commercial success. He also helmed other notable projects, including the big-budget feature 'Simha Garjana'."
+        ]
+      },
+      {
+        "h": "Industry Colleagues Pay Emotional Tributes",
+        "p": [
+          "The Film Chamber saw a steady stream of emotional visitors as prominent members of the Tollywood community arrived to bid farewell. Veteran actress Annapurna, who shared screen space with him in numerous productions, visibly broke down while recalling their long-standing professional and personal bond.",
+          "Annapurna noted that Giri Babu had experienced deep loneliness following the passing of his wife some time ago, which subsequently took a toll on his health. She remembered him as an exceptionally warm colleague who always ensured everyone around him was fed before he ate himself."
+        ]
+      },
+      {
+        "h": "Final Farewells from Film Association Leaders",
+        "p": [
+          "Movie Artists Association (MAA) president and actor Vishnu Manchu was among the prominent industry leaders who turned up to offer condolences and support to the grieving family. He was joined by actors Rajasekhar, Jeevitha, Rajeev Kanakala, Sivaji Raja, and several other notable personalities.",
+          "The veteran actor's extensive filmography concluded with his appearance in the 2023 film 'Anni Manchi Sakunamule', directed by Nandini Reddy, marking the final on-screen performance of his illustrious career."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran Telugu actor Giri Babu passed away on November 14 at the age of 83, prompting widespread mourning and tributes from prominent film industry figures. His eldest son, actor Raghu Babu, shared that his father's final rites would be held in his hometown of Ravinuthala according to his final wishes. Colleagues gathered at the Film Chamber to honor his extensive 47-year career encompassing around 650 films."
+        ]
+      }
+    ],
+    "facts": [
+      "Giri Babu died on November 14",
+      "He was 83 years old",
+      "Raghu Babu is his elder son",
+      "His career spanned from 1973 to 2022",
+      "He acted in around 650 films",
+      "His final film was Anni Manchi Sakunamule released in 2023",
+      "The last rites were planned in Ravinuthala, Andhra Pradesh"
+    ],
+    "entities": {
+      "people": [
+        "Giri Babu",
+        "Raghu Babu",
+        "Chiranjeevi",
+        "Pawan Kalyan",
+        "Annapurna",
+        "Vishnu Manchu",
+        "Rajasekhar",
+        "Jeevitha",
+        "Rajeev Kanakala",
+        "Sivaji Raja",
+        "Nandini Reddy",
+        "Neeshita Nyayapati"
+      ],
+      "titles": [
+        "Devathalara Deevinchandi",
+        "Simha Garjana",
+        "Anni Manchi Sakunamule"
+      ]
+    },
+    "keywords": [
+      "Giri Babu death",
+      "Raghu Babu father",
+      "Giri Babu last rites",
+      "Telugu actor Giri Babu"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/15/1600x900/logo/Raghu_Babu_Giri_Babu_1794711812687_Jnb0_1794711851536_Utmr_4a50035e-1c08-4e54-86f7-6a2742968120_rqOj.jpg",
+        "caption": "Veteran Telugu Actor Giri Babu Passes Away at 83, Son Raghu Babu Shares Final Rites Details",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 09:12:43 +0530"
+  },
+  "d5sbwc": {
+    "id": "d5sbwc",
+    "type": "news",
+    "headline": "Tyriq Withers and Daniel Kaluuya Go Viral After FAA Ground Stop Strands Them in Oregon",
+    "dek": "Actors Tyriq Withers and Daniel Kaluuya turned an unexpected airport delay in Eugene into comedy gold with a hilarious local news interview.",
+    "body": [
+      {
+        "h": "An Unexpected Airport Delay",
+        "p": [
+          "Actors Tyriq Withers and Daniel Kaluuya found themselves stranded in Eugene, Oregon, following a sudden nationwide travel disruption. The unexpected delay occurred on Friday during a major transportation halt that affected air travelers across the country.",
+          "Rather than remaining frustrated inside the terminal, the two Hollywood figures decided to embrace the downtime. Their impromptu appearance on local television quickly captured widespread attention online."
+        ]
+      },
+      {
+        "h": "A Memorable Local TV Appearance",
+        "p": [
+          "While stuck at the facility, the duo participated in coverage led by CBS affiliate KVAL and reporter Gold Meadows. The actors were initially preparing to catch a flight back to Los Angeles when they were instructed to deboard their aircraft.",
+          "During the broadcast, Withers delivered lighthearted commentary expressing gratitude for safety measures while weaving in classic internet humor. His companion struggled to keep a straight face as the interview unfolded."
+        ]
+      },
+      {
+        "h": "Meme Culture Takes Flight",
+        "p": [
+          "During the broadcast, Withers referenced a popular internet meme originating from a 2015 WBRZ interview regarding a Louisiana nightclub incident. He joked about travel restrictions using the iconic phrasing, bringing laughter to the news crew.",
+          "Kaluuya joined in on the fun by enthusiastically representing the local area. He shouted slogans alongside Withers to rally spirits during the unexpected travel interruption."
+        ]
+      },
+      {
+        "h": "The Nationwide Ground Stop",
+        "p": [
+          "The lighthearted moment stemmed from a serious aviation disruption that occurred on Friday afternoon. A telecommunication failure within the air traffic control network forced the Federal Aviation Administration to issue a rare nationwide ground stop.",
+          "The sweeping directive impacted approximately 12,500 flights throughout the nation. Travelers across various airports experienced significant delays before normal operations resumed later that evening."
+        ]
+      },
+      {
+        "h": "Historical Aviation Context",
+        "p": [
+          "System-wide groundings of this magnitude remain exceptionally rare within the American aviation sector. A similar nationwide stoppage occurred in 2023, lasting for a much shorter duration due to a safety alert system malfunction.",
+          "Prior to the 2023 incident, widespread groundings had not been implemented nationally since September 11, 2001. This highlighted the unusual severity of Friday's telecommunication issues."
+        ]
+      },
+      {
+        "h": "Uncovering the Root Cause",
+        "p": [
+          "Transportation Secretary Sean Duffy provided clarity on Saturday morning regarding the technical failure. Officials determined that outdated copper communication wiring had become overloaded, triggering the nationwide system outage.",
+          "Despite the infrastructure challenges, authorities managed to restore normal operations by Friday. Passengers stranded across various terminals gradually resumed their journeys home."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Tyriq Withers and Daniel Kaluuya went viral after being stranded in Eugene, Oregon, during a nationwide FAA ground stop caused by overloaded copper communication wires. The actors gave a humorous interview to local reporter Gold Meadows, blending internet memes with local spirit while roughly 12,500 flights were grounded."
+        ]
+      }
+    ],
+    "facts": [
+      "Tyriq Withers and Daniel Kaluuya were stranded in Eugene, Oregon, on Friday.",
+      "The FAA issued a nationwide ground stop affecting roughly 12,500 flights.",
+      "Transportation Secretary Sean Duffy explained the outage was due to old copper communication wires becoming overloaded.",
+      "The actors were interviewed by reporter Gold Meadows for CBS affiliate KVAL."
+    ],
+    "entities": {
+      "people": [
+        "Tyriq Withers",
+        "Daniel Kaluuya",
+        "Gold Meadows",
+        "Sean Duffy"
+      ],
+      "titles": [
+        "Him",
+        "Get Out"
+      ]
+    },
+    "keywords": [
+      "Tyriq Withers Daniel Kaluuya",
+      "FAA ground stop Eugene Oregon",
+      "Tyriq Withers KVAL interview",
+      "Sean Duffy FAA outage"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/Image-43.jpg",
+        "caption": "Tyriq Withers and Daniel Kaluuya Go Viral After FAA Ground Stop Strands Them in Oregon",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 22:20:50 +0000"
+  },
+  "fpqlsp": {
+    "id": "fpqlsp",
+    "type": "news",
+    "headline": "Chris Pratt Addresses Potential Marvel Reunion With James Gunn",
+    "dek": "Marvel star Chris Pratt shares his thoughts on the possibility of working with director James Gunn again following changes at DC Studios.",
+    "body": [
+      {
+        "h": "Leadership Changes at DC Studios",
+        "p": [
+          "Major structural adjustments are underway at Skydance and DC Studios, highlighted by James Gunn and Peter Safran stepping down from their positions as co-CEOs. Their tenure involved mixed outcomes for the fledgling DCU, with television series like Lanterns achieving solid viewership while cinematic entries such as Supergirl fell short of financial and critical expectations.",
+          "With Gunn stepping down from his executive role, former Marvel producer Jeremy Latcham is stepping in to oversee DC operations. Although Gunn remains committed to finalizing his work on Man of Tomorrow, his future career trajectory following his departure from executive duties has sparked widespread speculation across the entertainment industry."
+        ]
+      },
+      {
+        "h": "Chris Pratt Responds to Possible Reunion",
+        "p": [
+          "The shift in leadership has naturally led fans and commentators to question whether James Gunn might eventually return to Marvel Studios. Having helmed the hugely successful Guardians of the Galaxy trilogy from 2014 to 2023, a potential homecoming to the MCU has become a major talking point.",
+          "MCU star Chris Pratt recently shared his perspective on a possible creative reunion with the filmmaker during an interview with MovieZine. Although Pratt noted that they had not yet spoken since the recent executive announcement, he enthusiastically endorsed the idea of collaborating with Gunn once again."
+        ]
+      },
+      {
+        "h": "Praising a Frequent Collaborator",
+        "p": [
+          "Expressing immense admiration for his former director, Pratt highlighted their extensive history together across all three installments of the cosmic superhero franchise. He emphasized that directing every single film in a trilogy is a rare accomplishment in modern cinema.",
+          "Calling the prospect of working together again awesome, the actor made it clear that he holds deep affection for the filmmaker. Should the opportunity arise for Gunn to return to the Marvel fold, Pratt stated that he would embrace the chance with open arms."
+        ]
+      },
+      {
+        "h": "Legacy of the Guardians Trilogy",
+        "p": [
+          "James Gunn's tenure with Marvel Studios left an indelible mark on the superhero genre, transforming lesser-known comic book characters into household names. The three Guardians of the Galaxy films collectively amassed nearly $2.5 billion at the global box office.",
+          "Beyond financial success, Gunn earned a distinguished place in MCU history as one of only three filmmakers to direct every movie in a standalone trilogy, sharing that rare distinction alongside Spider-Man director Jon Watts and Ant-Man director Peyton Reed."
+        ]
+      },
+      {
+        "h": "Future of Star-Lord in the MCU",
+        "p": [
+          "The conclusion of the trilogy left fans with plenty of narrative possibilities, notably featuring an explicit message during the credits of Guardians of the Galaxy Vol. 3 stating that the legendary Star-Lord will return. This teased a future for Chris Pratt's character within the broader cinematic universe.",
+          "However, the realization of those future stories initially seemed uncertain following Gunn's departure to lead DC Studios. Now that his executive role at DC has concluded, the door may theoretically be open for a reunion between the director and the cosmic team."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Chris Pratt has expressed enthusiasm about a potential reunion with James Gunn in the Marvel cinematic universe following the filmmaker's departure from his executive role at DC Studios. While no official return has been announced, Pratt's supportive remarks highlight their successful past collaboration on the Guardians of the Galaxy trilogy."
+        ]
+      }
+    ],
+    "facts": [
+      "James Gunn and Peter Safran stepped down as DC Studios co-CEOs.",
+      "Jeremy Latcham is taking over the duties of running DC.",
+      "James Gunn is finishing his work on Man of Tomorrow.",
+      "Chris Pratt spoke with MovieZine about James Gunn.",
+      "The Guardians of the Galaxy trilogy grossed nearly $2.5 billion at the box office.",
+      "James Gunn directed all three Guardians of the Galaxy movies from 2014 to 2023.",
+      "James Gunn is one of three directors to direct every movie of an MCU trilogy alongside Jon Watts and Peyton Reed."
+    ],
+    "entities": {
+      "people": [
+        "Chris Pratt",
+        "James Gunn",
+        "Peter Safran",
+        "Jeremy Latcham",
+        "Jon Watts",
+        "Peyton Reed"
+      ],
+      "titles": [
+        "Guardians of the Galaxy",
+        "Lanterns",
+        "Supergirl",
+        "Man of Tomorrow",
+        "Guardians of the Galaxy Vol. 3",
+        "Spider-Man",
+        "Ant-Man"
+      ]
+    },
+    "keywords": [
+      "Chris Pratt",
+      "James Gunn",
+      "Guardians of the Galaxy",
+      "DC Studios"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2025/09/chris-pratt-in-guardians-of-the-galaxy-vol-3.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Chris Pratt Addresses Potential Marvel Reunion With James Gunn",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 03:53:43 GMT"
+  },
+  "15ibeiy": {
+    "id": "15ibeiy",
+    "type": "news",
+    "headline": "Actor Vimal Suffers Legal Setback as Madras High Court Dismisses Plea in Cheque Bounce Dispute",
+    "dek": "The Madras High Court has rejected actor Vimal's petition seeking an investigation into allegedly fabricated documents tied to his ongoing legal trouble over the film Mannar Vagaiyara.",
+    "body": [
+      {
+        "h": "The Madras High Court Ruling",
+        "p": [
+          "Actor Vimal faced another legal setback when the Madras High Court dismissed his petition seeking an investigation into allegedly fraudulent documents submitted against him. The high-profile legal battle stems from financial disputes linked to the production of his cinematic project Mannar Vagaiyara.",
+          "Justice G K Ilanthiraiyan heard the petition and concluded that there was no legal error in the lower court's prior decision. Consequently, the court found no valid basis to intervene or alter the existing rulings, dealing a fresh blow to the actor's ongoing efforts to overturn the proceedings."
+        ]
+      },
+      {
+        "h": "Origins of the Financial Dispute",
+        "p": [
+          "The entire controversy traces back to the making of the movie Mannar Vagaiyara, during which the actor secured a substantial loan of Rs 4.5 crore from a financier named Gopi. When the lender subsequently attempted to deposit the security cheque at the bank, it was dishonoured due to insufficient funds in the account.",
+          "Following the bounced payment, Gopi initiated formal legal proceedings against the actor for financial default. The case was heard at the 11th Metropolitan Magistrate Court in Chennai, where the presiding authorities ultimately found the charges proven against Vimal and handed down a one-year jail sentence."
+        ]
+      },
+      {
+        "h": "Allegations of Fabricated Records",
+        "p": [
+          "Seeking to challenge the developments following his conviction, Vimal approached the judicial system with complaints regarding the integrity of the paperwork presented by the financier. The actor contended that specific cheque details referenced in the official legal case were entirely absent from the original agreements.",
+          "Insisting that forged paperwork had been utilized against him, Vimal urged the court to take strict action over the alleged submission of fabricated records. However, these contentions failed to secure the desired legal relief from the bench."
+        ]
+      },
+      {
+        "h": "Lower Court Rejection and High Court Appeal",
+        "p": [
+          "Before escalating the matter to the higher judiciary, Vimal had filed an initial complaint asking for punitive action against financier Gopi regarding the disputed documents. The lower court promptly rejected that request on the grounds that the core cheque bounce matter had already reached its resolution.",
+          "Dissatisfied with that outcome, the actor petitioned the Madras High Court to direct the filing and hearing of his grievance regarding the paperwork. Unfortunately for the film star, the high court affirmed that the lower court had acted entirely within legal bounds."
+        ]
+      },
+      {
+        "h": "Context and Background of Mannar Vagaiyara",
+        "p": [
+          "Mannar Vagaiyara is a Tamil-language film whose production journey has since become overshadowed by off-screen financial troubles and subsequent court litigation. The massive Rs 4.5 crore borrowing has snowballed into a prolonged courtroom drama involving multiple judicial tiers in Chennai.",
+          "While production budgets and external financing are routine aspects of the regional film industry, disputes of this magnitude rarely culminate in criminal cheque bounce convictions and high-profile appellate hearings."
+        ]
+      },
+      {
+        "h": "Legal Significance and Disclaimer",
+        "p": [
+          "This recent high court development underscores the strict enforcement of financial accountability regarding dishonoured commercial instruments within the entertainment sector. Courts continue to emphasize that settled criminal matters related to financial default cannot easily be reopened through supplementary petitions concerning documentation disputes.",
+          "As highlighted by legal observers, this account reflects the current procedural status based on available reports and does not replace the official court order or formal legal counsel."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Madras High Court dismissed actor Vimal's petition seeking an inquiry into allegedly fabricated documents connected to a Rs 4.5 crore loan dispute over the film Mannar Vagaiyara. Justice G K Ilanthiraiyan found no legal errors in the lower court's decision, upholding the previous rulings stemming from the initial cheque bounce case."
+        ]
+      }
+    ],
+    "facts": [
+      "Vimal borrowed Rs 4.5 crore from financier Gopi for Mannar Vagaiyara.",
+      "The cheque bounce case was handled by the 11th Metropolitan Magistrate Court in Chennai.",
+      "Vimal was sentenced to one year in jail after the charges were proven.",
+      "Justice G K Ilanthiraiyan heard the recent petition at the Madras High Court."
+    ],
+    "entities": {
+      "people": [
+        "Vimal",
+        "Gopi",
+        "G K Ilanthiraiyan"
+      ],
+      "titles": [
+        "Mannar Vagaiyara"
+      ]
+    },
+    "keywords": [
+      "Vimal",
+      "Mannar Vagaiyara",
+      "Madras High Court",
+      "cheque bounce case"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135846142,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Actor Vimal Suffers Legal Setback as Madras High Court Dismisses Plea in Cheque Bounce Dispute",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T08:31:08+05:30"
   }
 };

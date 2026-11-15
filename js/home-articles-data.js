@@ -131,6 +131,86 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-15T09:25:08+05:30"
   },
+  "fpqlsp": {
+    "id": "fpqlsp",
+    "type": "news",
+    "headline": "Chris Pratt Addresses Potential Marvel Reunion With James Gunn",
+    "dek": "Marvel star Chris Pratt shares his thoughts on the possibility of working with director James Gunn again following changes at DC Studios.",
+    "entities": {
+      "people": [
+        "Chris Pratt",
+        "James Gunn",
+        "Peter Safran",
+        "Jeremy Latcham",
+        "Jon Watts",
+        "Peyton Reed"
+      ],
+      "titles": [
+        "Guardians of the Galaxy",
+        "Lanterns",
+        "Supergirl",
+        "Man of Tomorrow",
+        "Guardians of the Galaxy Vol. 3",
+        "Spider-Man",
+        "Ant-Man"
+      ]
+    },
+    "keywords": [
+      "Chris Pratt",
+      "James Gunn",
+      "Guardians of the Galaxy",
+      "DC Studios"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2025/09/chris-pratt-in-guardians-of-the-galaxy-vol-3.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Chris Pratt Addresses Potential Marvel Reunion With James Gunn",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 03:53:43 GMT"
+  },
+  "1xr8wvf": {
+    "id": "1xr8wvf",
+    "type": "news",
+    "headline": "Veteran Telugu Actor Giri Babu Passes Away at 83, Son Raghu Babu Shares Final Rites Details",
+    "dek": "Renowned Telugu cinema icon Giri Babu passed away on November 14 at the age of 83, drawing emotional tributes from across the film industry as his family prepares to fulfill his final wishes in Ravinuthala.",
+    "entities": {
+      "people": [
+        "Giri Babu",
+        "Raghu Babu",
+        "Chiranjeevi",
+        "Pawan Kalyan",
+        "Annapurna",
+        "Vishnu Manchu",
+        "Rajasekhar",
+        "Jeevitha",
+        "Rajeev Kanakala",
+        "Sivaji Raja",
+        "Nandini Reddy",
+        "Neeshita Nyayapati"
+      ],
+      "titles": [
+        "Devathalara Deevinchandi",
+        "Simha Garjana",
+        "Anni Manchi Sakunamule"
+      ]
+    },
+    "keywords": [
+      "Giri Babu death",
+      "Raghu Babu father",
+      "Giri Babu last rites",
+      "Telugu actor Giri Babu"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/15/1600x900/logo/Raghu_Babu_Giri_Babu_1794711812687_Jnb0_1794711851536_Utmr_4a50035e-1c08-4e54-86f7-6a2742968120_rqOj.jpg",
+        "caption": "Veteran Telugu Actor Giri Babu Passes Away at 83, Son Raghu Babu Shares Final Rites Details",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 09:12:43 +0530"
+  },
   "8o1d1s": {
     "id": "8o1d1s",
     "type": "news",
@@ -168,6 +248,36 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 09:08:11 +0530"
+  },
+  "15ibeiy": {
+    "id": "15ibeiy",
+    "type": "news",
+    "headline": "Actor Vimal Suffers Legal Setback as Madras High Court Dismisses Plea in Cheque Bounce Dispute",
+    "dek": "The Madras High Court has rejected actor Vimal's petition seeking an investigation into allegedly fabricated documents tied to his ongoing legal trouble over the film Mannar Vagaiyara.",
+    "entities": {
+      "people": [
+        "Vimal",
+        "Gopi",
+        "G K Ilanthiraiyan"
+      ],
+      "titles": [
+        "Mannar Vagaiyara"
+      ]
+    },
+    "keywords": [
+      "Vimal",
+      "Mannar Vagaiyara",
+      "Madras High Court",
+      "cheque bounce case"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135846142,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Actor Vimal Suffers Legal Setback as Madras High Court Dismisses Plea in Cheque Bounce Dispute",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T08:31:08+05:30"
   },
   "it29do": {
     "id": "it29do",
@@ -957,6 +1067,38 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sat, 14 Nov 2026 22:46:44 +0000"
+  },
+  "d5sbwc": {
+    "id": "d5sbwc",
+    "type": "news",
+    "headline": "Tyriq Withers and Daniel Kaluuya Go Viral After FAA Ground Stop Strands Them in Oregon",
+    "dek": "Actors Tyriq Withers and Daniel Kaluuya turned an unexpected airport delay in Eugene into comedy gold with a hilarious local news interview.",
+    "entities": {
+      "people": [
+        "Tyriq Withers",
+        "Daniel Kaluuya",
+        "Gold Meadows",
+        "Sean Duffy"
+      ],
+      "titles": [
+        "Him",
+        "Get Out"
+      ]
+    },
+    "keywords": [
+      "Tyriq Withers Daniel Kaluuya",
+      "FAA ground stop Eugene Oregon",
+      "Tyriq Withers KVAL interview",
+      "Sean Duffy FAA outage"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/Image-43.jpg",
+        "caption": "Tyriq Withers and Daniel Kaluuya Go Viral After FAA Ground Stop Strands Them in Oregon",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 22:20:50 +0000"
   },
   "1bhelu8": {
     "id": "1bhelu8",
@@ -4291,208 +4433,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sat, 14 Nov 2026 02:30:12 GMT"
-  },
-  "1o3p2to": {
-    "id": "1o3p2to",
-    "type": "news",
-    "headline": "Avengers: Doomsday Smashes Pre-Sales Records With $70 Million in North America",
-    "dek": "Marvel Studios gears up for another massive cinematic event as Avengers: Doomsday crosses $70 million in advance ticket sales across North America ahead of its December premiere.",
-    "entities": {
-      "people": [
-        "Sonal Pandya",
-        "Tom Holland",
-        "Anthony Russo",
-        "Joe Russo",
-        "Paul Bettany",
-        "James Spader",
-        "Robert Downey Jr.",
-        "Elizabeth Olsen",
-        "Reed Richards",
-        "Sue Storm",
-        "Franklin Richards",
-        "Mark Ruffalo",
-        "Ryan Reynolds",
-        "Hugh Jackman",
-        "Destin Daniel Cretton",
-        "Michael Waldron",
-        "Stephen McFeely",
-        "Eric Pearson",
-        "Chris McKenna",
-        "Erik Sommers",
-        "Jeff Loveness",
-        "Andrew Lanham",
-        "Satya Nadella",
-        "Moushumi Chatterjee",
-        "Jayanta Mukherjee",
-        "Diljit Dosanjh",
-        "Daddy Yankee",
-        "Anupam Kher",
-        "Ranbir Kapoor",
-        "Kareena Kapoor Khan",
-        "Prithviraj Sukumaran",
-        "Gambhir",
-        "Rohit",
-        "Virat",
-        "Shreyas"
-      ],
-      "titles": [
-        "Spider-Man Brand New Day",
-        "Avengers Doomsday",
-        "Avengers Endgame",
-        "VisionQuest",
-        "The Fantastic Four First Steps",
-        "Avengers Endgame Encore",
-        "Daayra",
-        "Ramayana"
-      ]
-    },
-    "keywords": [
-      "Avengers Doomsday",
-      "Spider-Man Brand New Day",
-      "Anthony and Joe Russo",
-      "Robert Downey Jr Doctor Doom",
-      "VisionQuest"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156504839,thumbsize-1414365,width-1280,height-720,resizemode-75/156504839.jpg",
-        "caption": "Avengers: Doomsday Smashes Pre-Sales Records With $70 Million in North America",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-14T02:13:14Z"
-  },
-  "rirvqp": {
-    "id": "rirvqp",
-    "type": "news",
-    "headline": "Producer Dil Raju Confirms 2027 Theatrical Windows For Salman Khan And Akshay Kumar Projects",
-    "dek": "Prominent producer Dil Raju has shared significant updates regarding the release schedules for Salman Khan's action film Monster and Akshay Kumar's comedy venture.",
-    "entities": {
-      "people": [
-        "Salman Khan",
-        "Nayanthara",
-        "Akshay Kumar",
-        "Anees Bazmee",
-        "Dil Raju",
-        "Vamshi Paidipally",
-        "Vidya Balan",
-        "Raashii Khanna",
-        "Shahid Kapoor"
-      ],
-      "titles": [
-        "Monster",
-        "SVC63",
-        "Welcome",
-        "Singh Is Kinng",
-        "Mauja Hi Mauja",
-        "Jersey"
-      ]
-    },
-    "keywords": [
-      "Salman Khan Monster",
-      "Akshay Kumar Anees Bazmee comedy",
-      "Monster Eid 2027 release",
-      "Dil Raju Bollywood films"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156505982,thumbsize-198406,width-1280,height-720,resizemode-75/156505982.jpg",
-        "caption": "Producer Dil Raju Confirms 2027 Theatrical Windows For Salman Khan And Akshay Kumar Projects",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-14T02:13:14Z"
-  },
-  "y6w730": {
-    "id": "y6w730",
-    "type": "news",
-    "headline": "Nationwide FAA Ground Stop Lifted After Airspace Shutdown",
-    "dek": "Transportation Secretary Sean Duffy points to outdated hardware following an unprecedented radar instability issue that halted domestic airspace.",
-    "entities": {
-      "people": [
-        "Sean Duffy",
-        "Markwayne Mullin",
-        "Donald Trump",
-        "Dominic Patten",
-        "Scott Jennings",
-        "Ynon Kreiz",
-        "Hasan Piker",
-        "Johnny Depp",
-        "Tom Rothman",
-        "James Gunn",
-        "Steve Miner",
-        "Anthony Clark",
-        "Shane Gillis",
-        "Christian Cousins"
-      ],
-      "titles": [
-        "Ebenezer",
-        "Brand New Day",
-        "Man Of Tomorrow",
-        "Kindergarten Cop",
-        "Knots Landing",
-        "Friday The 13th",
-        "Yes, Dear",
-        "VisionQuest"
-      ]
-    },
-    "keywords": [
-      "FAA ground stop",
-      "Sean Duffy airspace shutdown",
-      "nationwide flight grounding",
-      "FAA radar instability"
-    ],
-    "images": [
-      {
-        "url": "https://deadline.com/wp-content/uploads/2026/11/sf-airports.jpg?w=1024",
-        "caption": "Nationwide FAA Ground Stop Lifted After Airspace Shutdown",
-        "source": "Deadline"
-      }
-    ],
-    "published": "Sat, 14 Nov 2026 01:48:37 +0000"
-  },
-  "1fdqjbf": {
-    "id": "1fdqjbf",
-    "type": "news",
-    "headline": "Ramayana Hits Rs 1110 Crore Worldwide on Day 9",
-    "dek": "Nitesh Tiwari's mythological drama Ramayana crosses the Rs 1100 crore mark globally within nine days, overtaking Pushpa 2 to secure its spot as the second fastest Indian film to reach the milestone.",
-    "entities": {
-      "people": [
-        "Nitesh Tiwari",
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Ravi Dubey",
-        "Lara Dutta",
-        "Arun Govil",
-        "Rakul Preet Singh",
-        "Allu Arjun",
-        "Mahesh Babu",
-        "Gautam Ghattamaneni",
-        "AR Rahman",
-        "Zimmer"
-      ],
-      "titles": [
-        "Ramayana",
-        "Bawaal",
-        "Pushpa 2",
-        "Dhurandhar 2"
-      ]
-    },
-    "keywords": [
-      "Ramayana worldwide collection",
-      "Ramayana day 9 box office",
-      "Ranbir Kapoor Ramayana",
-      "Ramayana beats Pushpa 2"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday9wwfeature1-94641794604870.jpg",
-        "caption": "Ramayana Hits Rs 1110 Crore Worldwide on Day 9",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Sat, 14 Nov 2026 07:15:19 +0530"
   },
   "1iumf04": {
     "id": "1iumf04",
