@@ -1,27 +1,27 @@
 {
   "connected": true,
-  "generated": "2026-11-15T06:59:52Z",
+  "generated": "2026-11-15T07:59:24Z",
   "realtime": {
-    "active_users": 5
+    "active_users": 3
   },
   "today": {
-    "users": 63,
-    "pageviews": 72,
-    "sessions": 63,
-    "avg_session_seconds": 3.1
+    "users": 70,
+    "pageviews": 80,
+    "sessions": 71,
+    "avg_session_seconds": 3.2
   },
   "last7": {
-    "users": 379,
-    "pageviews": 655,
-    "sessions": 427,
-    "avg_session_seconds": 32.7
+    "users": 386,
+    "pageviews": 663,
+    "sessions": 435,
+    "avg_session_seconds": 32.2
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 101,
-      "avg_time_seconds": 172.4
+      "views": 102,
+      "avg_time_seconds": 169.5
     },
     {
       "path": "/box-office",
@@ -82,14 +82,14 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 403,
-      "users": 367
+      "sessions": 411,
+      "users": 374
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 14,
-      "users": 12
+      "sessions": 15,
+      "users": 13
     },
     {
       "source": "search.google.com",
@@ -107,11 +107,11 @@
   "countries": [
     {
       "country": "United States",
-      "users": 92
+      "users": 93
     },
     {
       "country": "Brazil",
-      "users": 55
+      "users": 56
     },
     {
       "country": "Singapore",
@@ -142,14 +142,14 @@
       "users": 14
     },
     {
-      "country": "Pakistan",
+      "country": "Japan",
       "users": 13
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 372
+      "users": 379
     },
     {
       "device": "mobile",
