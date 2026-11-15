@@ -151570,5 +151570,422 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-15T07:25:28+05:30"
+  },
+  "8o1d1s": {
+    "id": "8o1d1s",
+    "type": "news",
+    "headline": "Ramayana Box Office Day 10: Ranbir Kapoor and Yash starrer crosses Rs 1200-crore milestone globally",
+    "dek": "The Nitesh Tiwari directorial adaptation of Valmiki's epic has achieved major box office milestones worldwide within ten days of release.",
+    "body": [
+      {
+        "h": "Global Box Office Milestone",
+        "p": [
+          "The epic cinematic venture Ramayana has officially surpassed the monumental threshold of Rs 1,200 crore globally in just ten days following its theatrical arrival. Driven by massive audience turnouts both domestically and internationally, the feature has quickly established itself as a massive commercial success.",
+          "With total worldwide earnings climbing to Rs 1,228 crore, the film continues to dominate box office charts globally. International territories have contributed a substantial Rs 408.50 crore to this cumulative global gross figure."
+        ]
+      },
+      {
+        "h": "Domestic Performance and Day 10 Surge",
+        "p": [
+          "Within the domestic market, the movie secured a massive India gross of Rs 819.50 crore alongside total nett collections reaching Rs 685.60 crore. A notable upward trend was observed on its tenth day, where the feature accumulated Rs 72.90 crore nett in India, marking a 51.6 percent jump compared to its Day 9 earnings of Rs 48.10 crore.",
+          "During its opening week spanning the first eight days, the production brought in Rs 564.60 crore. The subsequent second-week run accumulated an additional Rs 121 crore across the ninth and tenth days combined."
+        ]
+      },
+      {
+        "h": "Day-Wise Collection Breakdown",
+        "p": [
+          "The theatrical journey began with a strong nett collection of Rs 64.85 crore on Day 1, followed by Rs 48.05 crore on Day 2 and Rs 69.80 crore on Day 3. Collections remained robust during the Diwali holiday on Day 4 with Rs 56.15 crore, before peaking significantly on Day 5 at Rs 107.50 crore and maintaining strong momentum with Rs 94.10 crore on Day 6.",
+          "Subsequent daily figures included Rs 70.65 crore on Day 7 coinciding with Bhai Dooj, Rs 53.50 crore on Day 8, Rs 47.85 crore on Day 9, and the strong rebound to Rs 72.90 crore on Day 10."
+        ]
+      },
+      {
+        "h": "Surpassing Previous Blockbusters",
+        "p": [
+          "By achieving a domestic nett collection of Rs 685.60 crore, Ramayana has successfully overtaken the lifetime figures of several notable cinematic titles. Its total domestic earnings have now surpassed the lifetime records of Jawan at Rs 643.87 crore and Stree 2 at Rs 625.27 crore.",
+          "Prior to these milestones, the film had already crossed the lifetime collections previously established by Pathaan and Animal, cementing its dominant position in contemporary box office history."
+        ]
+      },
+      {
+        "h": "Language-Wise Contributions",
+        "p": [
+          "The multi-lingual release strategy has allowed the feature to connect with diverse audiences across the country. The Hindi version alone generated Rs 527.25 crore of the total domestic nett collection.",
+          "Regional versions also contributed meaningfully to the overall domestic performance, with the Kannada version earning Rs 57.35 crore, Telugu contributing Rs 44.90 crore, Tamil bringing in Rs 29.65 crore, and Malayalam rounding it out with Rs 26.45 crore."
+        ]
+      },
+      {
+        "h": "Cast and Creative Background",
+        "p": [
+          "Based on Valmiki's ancient epic, the two-part adaptation is directed by Nitesh Tiwari and produced by Namit Malhotra’s Prime Focus Studios alongside DNEG and Yash’s Monster Mind Creations. The narrative centers on Lord Rama and his conflict with the asura king Ravana after the abduction of Sita.",
+          "The star-studded cast features Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, Ravie Dubey as Lakshman, and Sunny Deol as Lord Hanuman. The first part premiered on November 5, 2026, while the second part is slated for a Diwali 2028 release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor and Yash's Ramayana has crossed Rs 1,200 crore globally within ten days of its November 5 release. Directed by Nitesh Tiwari, the feature has surpassed the lifetime domestic nett collections of Jawan and Stree 2 while maintaining strong multi-lingual earnings across India."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana crossed Rs 1,200 crore worldwide within 10 days of its release.",
+      "The film was released in theatres on November 5, 2026.",
+      "Total global earnings reached Rs 1,228 crore, including Rs 819.50 crore India gross and Rs 408.50 crore from overseas markets.",
+      "India nett collections stand at Rs 685.60 crore.",
+      "Day 10 nett collection in India was Rs 72.90 crore, up 51.6 per cent from Day 9.",
+      "First week collections from Days 1 to 8 totaled Rs 564.60 crore.",
+      "Second-week total stands at Rs 121 crore after Days 9 and 10.",
+      "Day 1 collection was Rs 64.85 crore, Day 2 was Rs 48.05 crore, Day 3 was Rs 69.80 crore, Day 4 was Rs 56.15 crore, Day 5 was Rs 107.50 crore, Day 6 was Rs 94.10 crore, Day 7 was Rs 70.65 crore, Day 8 was Rs 53.50 crore, Day 9 was Rs 47.85 crore, and Day 10 was Rs 72.90 crore.",
+      "The film surpassed the lifetime totals of Jawan (Rs 643.87 crore) and Stree 2 (Rs 625.27 crore).",
+      "Hindi version contributed Rs 527.25 crore, Kannada contributed Rs 57.35 crore, Telugu contributed Rs 44.90 crore, Tamil contributed Rs 29.65 crore, and Malayalam contributed Rs 26.45 crore.",
+      "The film recorded 2,36,994 shows across India during its first 10 days.",
+      "The second part of Ramayana is scheduled for Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Sunny Deol",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana",
+        "Jawan",
+        "Stree 2",
+        "Pathaan",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana Day 10 collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana global collection"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ranbir-kapoor--yash-051207968-original-sixteen-to-nine.jpg?VersionId=JbDS7oYZumJO4A9UPGtPI_CtwkJqvc1M",
+        "caption": "Ramayana Box Office Day 10: Ranbir Kapoor and Yash starrer crosses Rs 1200-crore milestone globally",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 09:08:11 +0530"
+  },
+  "heamn6": {
+    "id": "heamn6",
+    "type": "news",
+    "headline": "2026 Kids’ Choice Awards: BTS, Spider-Man: Brand New Day, and ROSÉ Dominate the Winners List",
+    "dek": "The 2026 Kids’ Choice Awards made history by airing on CBS for the first time, bringing massive wins for BTS, ROSÉ, and Spider-Man: Brand New Day alongside plenty of trademark slime.",
+    "body": [
+      {
+        "h": "A Historic Night on CBS",
+        "p": [
+          "The 2026 Kids’ Choice Awards brought an energetic and fast-paced ceremony to television screens, marking a major milestone by airing on CBS for the very first time on Saturday, November 14. Broadcast live from Television City in Hollywood, the 90-minute show combined lighthearted comedy, musical performances, and the iconic green slime that fans have come to expect. Hosted by Alex Warren during his memorable hosting debut, the PG-rated event focused on delivering positive messages alongside its chaotic fun.",
+          "While many top winners were not physically present to accept their trophies in person, global superstars still made their presence felt. Artists such as ROSÉ and the girl group KATSEYE accepted their honors via video messages, while other winners like BTS took home multiple accolades without appearing on the broadcast. The ceremony balanced its televised presentations with live performances from artists like Ashe, Jamie Miller, and Sofi Tukker, all of whom ultimately fell victim to the evening's famous slime dousings."
+        ]
+      },
+      {
+        "h": "BTS and K-Pop Continue Their Global Reign",
+        "p": [
+          "K-Pop secured a massive footprint at the 2026 ceremony, led by BTS who achieved a historic night with three major wins. The iconic group extended their record for favorite group to a fifth time, while also capturing favorite song for \"Swim\" and winning favorite album for ARIRANG. Their enduring popularity underscored the immense influence of Korean pop music among younger audiences worldwide.",
+          "Adding to the genre's triumphs, ROSÉ made history as the first K-Pop star to win favorite female artist, triumphing over formidable contenders like Ariana Grande and Taylor Swift. Meanwhile, her Blackpink colleague JENNIE shared the award for favorite music collaboration alongside Tame Impala for their hit track \"Dracula.\" Filipino girl group Bini also joined the winners circle, taking home the trophy for global music star."
+        ]
+      },
+      {
+        "h": "Cinematic Triumphs and Animated Hits",
+        "p": [
+          "On the film side, Spider-Man: Brand New Day emerged as a powerhouse winner, claiming the trophy for favorite movie. Its lead stars, Tom Holland and Zendaya, captured favorite movie actor and favorite movie actress respectively, cementing the blockbuster's massive appeal among young moviegoers. Additionally, Sadie Sink earned the favorite villain award for her role in the superhero feature.",
+          "Animated projects also had a stellar evening, with KPop Demon Hunters taking home multiple awards. The film's track \"Golden\" won favorite song from a movie, beating out high-profile competition from Toy Story 5. Furthermore, the voice actors behind the movie's main characters, Rumi and Jinu, earned accolades for favorite female and male animated voices from a movie."
+        ]
+      },
+      {
+        "h": "Television Favorites and Reality Winners",
+        "p": [
+          "Television categories celebrated a mix of beloved returning hits and breakout streaming favorites. Stranger Things won the award for favorite family TV show, with Joe Keery taking home favorite male TV star in the family category. Jenna Ortega continued her reign by winning favorite female TV star for her work on Wednesday.",
+          "In the younger television brackets, The Thundermans: Undercover scored wins with Kira Kosarin and Jack Griffo capturing favorite female and male TV stars respectively. Meanwhile, America’s Got Talent claimed the award for favorite TV show reality competition, accepted in humorous fashion by Howie Mandel."
+        ]
+      },
+      {
+        "h": "Memorable Moments and Celebrity Highlights",
+        "p": [
+          "Actor Chris Pratt was honored with the prestigious King of Comedy Award during the ceremony. Accepting his miniature orange blimp, Pratt delivered an entertaining speech about his four children and the joy of making people laugh, emphasizing that kind comedy remains the best kind of comedy.",
+          "Throughout the evening, presenters such as Ice Spice, Teyana Taylor, and Stella Lefty added extra star power to the stage. Keke Palmer humorously remarked on the lavish production values of the broadcast, while host Alex Warren embraced the evening's chaotic energy by interacting with the slime-drenched set pieces."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 2026 Kids’ Choice Awards aired on CBS for the first time on Saturday, November 14, delivering a memorable 90-minute ceremony hosted by Alex Warren. Major winners included BTS with three awards, ROSÉ as the first K-Pop star to win favorite female artist, and Spider-Man: Brand New Day taking home favorite movie. The event featured notable wins across music, film, and television, alongside musical performances and the traditional green slime."
+        ]
+      }
+    ],
+    "facts": [
+      "The 2026 Kids Choice Awards aired on CBS for the first time on Saturday, Nov. 14.",
+      "BTS won three major awards including favorite group for a fifth time, favorite song for \"Swim\", and favorite album for ARIRANG.",
+      "ROSÉ became the first K-Pop star to win favorite female artist.",
+      "Spider-Man: Brand New Day won favorite movie, with Tom Holland and Zendaya winning favorite movie actor and actress.",
+      "Chris Pratt received the King of Comedy Award."
+    ],
+    "entities": {
+      "people": [
+        "Alex Warren",
+        "ROSÉ",
+        "Ariana Grande",
+        "Taylor Swift",
+        "Miley Cyrus",
+        "JENNIE",
+        "Tame Impala",
+        "Tom Holland",
+        "Zendaya",
+        "Howie Mandel",
+        "Chris Pratt",
+        "Joe Keery",
+        "Jenna Ortega",
+        "Kira Kosarin",
+        "Jack Griffo"
+      ],
+      "titles": [
+        "Swim",
+        "ARIRANG",
+        "Dynamite",
+        "What Makes You Beautiful",
+        "Story of My Life",
+        "Dracula",
+        "Golden",
+        "Toy Story 5",
+        "Man I Need",
+        "Stop the Wedding!",
+        "Babydoll",
+        "Tsunami",
+        "Spider-Man: Brand New Day",
+        "America’s Got Talent",
+        "Stranger Things",
+        "Wednesday",
+        "The Thundermans: Undercover",
+        "KPop Demon Hunters"
+      ]
+    },
+    "keywords": [
+      "2026 Kids Choice Awards",
+      "BTS Kids Choice Awards",
+      "ROSÉ Kids Choice Awards",
+      "Spider-Man Brand New Day movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/3228383_KCA_2026_2014b-e1794714903780.jpg?w=1024",
+        "caption": "2026 Kids’ Choice Awards: BTS, Spider-Man: Brand New Day, and ROSÉ Dominate the Winners List",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 04:41:14 +0000"
+  },
+  "1oeas7p": {
+    "id": "1oeas7p",
+    "type": "news",
+    "headline": "Scene Day 9 Box Office Collections Witness Strong Growth",
+    "dek": "Suriya starrer Scene records a major surge in earnings on its second Saturday, bringing its domestic net total past ₹125 crore.",
+    "body": [
+      {
+        "h": "Second Saturday Surge",
+        "p": [
+          "The Tamil film Scene experienced a notable revival in its theatrical earnings on its second Saturday, November 14. After seeing a dip in revenues on the previous day, the action comedy jumped by 58.3 percent in its collections.",
+          "Tracking data indicates that the feature brought in an estimated ₹9.50 crore net across India for its ninth day in cinemas, giving the production a substantial boost as it entered its second weekend."
+        ]
+      },
+      {
+        "h": "Domestic Net And Gross Totals",
+        "p": [
+          "The latest single-day figures push the cumulative domestic net collection of the movie to ₹127.20 crore, successfully maintaining its position above the ₹125 crore milestone.",
+          "In addition to the net earnings, the film's total India gross collection has reached ₹147.75 crore, reflecting strong overall ticket sales across domestic territories."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "The ninth-day domestic earnings were distributed across two primary language versions playing in theatres. The Tamil language track pulled in ₹7.25 crore from 3,111 shows, achieving an occupancy rate of 46 percent.",
+          "Meanwhile, the Telugu version contributed an additional ₹2.25 crore from 1,198 shows, recording an overall occupancy of 36.1 percent to round out the domestic total."
+        ]
+      },
+      {
+        "h": "Worldwide And Overseas Figures",
+        "p": [
+          "Beyond domestic borders, the movie earned approximately ₹5 crore from international markets on Day 9, lifting its total overseas gross to roughly ₹79.50 crore.",
+          "Combined with the domestic gross, the estimated worldwide gross collection for the feature has now climbed to ₹227.25 crore, though overseas numbers remain provisional."
+        ]
+      },
+      {
+        "h": "Ticket Sales And Opening Week Trajectory",
+        "p": [
+          "Box office trackers estimate that roughly 7.16 lakh tickets were purchased for the feature on Saturday alone, taking the total ticket sales across its nine-day run past 95.38 lakh.",
+          "The picture originally debuted on November 6 with an India net of ₹19.15 crore, eventually hitting its highest single-day peak of ₹23.65 crore on Sunday, November 8, before closing its first week at ₹111.70 crore net."
+        ]
+      },
+      {
+        "h": "Cast, Crew, And Production Details",
+        "p": [
+          "Scene is written and directed by Jithu Madhavan, marking his Tamil directorial debut. The action comedy features Suriya, Nazriya Nazim, and Naslen in the primary roles, alongside supporting performances from Anandraj, Lal, and Raj Priyan.",
+          "The project is produced by Suriya and Jyothika under Zhagaram Studios and 2D Entertainment. It also introduces Malayalam actor Naslen and music composer Sushin Shyam to Tamil cinema, with cinematography by Vineeth Augustian and editing by Ajmal Sabu."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Tamil film Scene saw a 58.3 percent increase in its collections on its second Saturday, November 14, bringing its domestic net total to ₹127.20 crore. With international numbers included, the worldwide gross for the Jithu Madhavan directorial has reached ₹227.25 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene released worldwide on November 6, 2026",
+      "Day 9 box office took place on Saturday, November 14, 2026",
+      "Day 9 India net collection was ₹9.50 crore",
+      "Cumulative domestic net collection reached ₹127.20 crore",
+      "Total India gross collection stands at ₹147.75 crore",
+      "Friday, November 13 collection was approximately ₹6 crore",
+      "Tamil version earned ₹7.25 crore from 3,111 shows with 46% occupancy",
+      "Telugu version added ₹2.25 crore from 1,198 shows with 36.1% occupancy",
+      "International markets contributed around ₹5 crore on Day 9",
+      "Cumulative overseas gross collection is approximately ₹79.50 crore",
+      "Worldwide gross collection has reached ₹227.25 crore",
+      "Saturday ticket sales were approximately 7.16 lakh",
+      "Total ticket sales across nine days crossed 95.38 lakh",
+      "Opening day net collection on November 6 was ₹19.15 crore",
+      "Day 2 collection was ₹20.35 crore",
+      "Highest single-day domestic net collection on Sunday, November 8 was ₹23.65 crore",
+      "Day 4 collection was ₹21.40 crore",
+      "Day 5 collection was ₹12.85 crore",
+      "Day 6 collection was ₹8.05 crore",
+      "Day 7 collection was ₹6.25 crore",
+      "First-week India net collection stood at ₹111.70 crore",
+      "Second Friday collection was ₹6 crore",
+      "Sunday, November 15 marks the tenth day in theatres"
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Nazriya Nazim",
+        "Naslen",
+        "Anandraj",
+        "Lal",
+        "Raj Priyan",
+        "Jyothika",
+        "Sushin Shyam",
+        "Vineeth Augustian",
+        "Ajmal Sabu"
+      ],
+      "titles": [
+        "Scene"
+      ]
+    },
+    "keywords": [
+      "Scene box office collection",
+      "Suriya Scene movie",
+      "Scene Day 9 collection",
+      "Scene worldwide collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/scene-73641794715618.jpg",
+        "caption": "Scene Day 9 Box Office Collections Witness Strong Growth",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 09:38:18 +0530"
+  },
+  "2f3jbe": {
+    "id": "2f3jbe",
+    "type": "news",
+    "headline": "Kamal Haasan's Upcoming Film 'Sandiyar' Sparks Title Controversy and Political Objections",
+    "dek": "Actor Kamal Haasan's forthcoming project directed by SU Arun Kumar faces severe backlash over its title, prompting a detailed clarification from the Tamil Film Producers Council and strong warnings from political leaders.",
+    "body": [
+      {
+        "h": "Introduction to the Controversy",
+        "p": [
+          "Actor Kamal Haasan's upcoming cinematic venture, helmed by director SU Arun Kumar, has encountered a major hurdle even before beginning its theatrical run. The announcement of the film carrying the title 'Sandiyar' immediately triggered intense objections from political circles, most notably from Puthiya Tamilagam party leader Krishnasamy.",
+          "This brewing dispute has thrust the production back into familiar territory, as a nearly identical naming controversy occurred more than two decades ago when the legendary actor attempted to use the same title."
+        ]
+      },
+      {
+        "h": "Historical Background and Past Precedents",
+        "p": [
+          "The recent naming choice echoes a controversy from 2003, when Kamal Haasan announced a film under the exact same moniker, 'Sandiyar'. That earlier project faced heavy resistance from various groups, eventually leading the makers to alter the title to 'Virumaandi', which subsequently achieved a successful theatrical release.",
+          "The revival of the title decades later has instantly dragged the new production into the public eye, stirring up memories of past social tensions and putting the makers under immediate scrutiny from community leaders."
+        ]
+      },
+      {
+        "h": "Producers Council Clarification on Title Registration",
+        "p": [
+          "Amid the escalating debate, Tamil Film Producers Council president Tamil Kumaran stepped forward to shed light on how the title was officially approved and handed over to the production unit. During a media interaction, Kumaran explained that titles registered with the council are typically reserved for a duration of ten years.",
+          "He further noted that once that stipulated period expires, any filmmaker can acquire the rights provided the original producer grants permission. According to Kumaran, because thirteen years had elapsed since the moniker was last utilized, Kamal Haasan's production team successfully secured the title through the standard availability checks."
+        ]
+      },
+      {
+        "h": "Political Objections and Social Concerns",
+        "p": [
+          "The friction escalated significantly when Puthiya Tamilagam leader Krishnasamy voiced deep reservations, cautioning that the title could potentially incite caste-based conflicts, particularly within the southern regions of Tamil Nadu. The politician argued that using this specific name risks deepening community divides and heightening regional tensions.",
+          "Consequently, Krishnasamy issued an ultimatum demanding that the creative team alter the title within a span of one week. He also formally submitted representations detailing his grievances to government and industry representatives, including Minister Raj and Tamil Kumaran."
+        ]
+      },
+      {
+        "h": "Warnings of Protests and Central Government Intervention",
+        "p": [
+          "Demonstrating the seriousness of his demands, the political leader warned that failure to comply with the title change request would prompt his party to stage direct demonstrations at the film's shooting locations. Furthermore, he indicated that he is prepared to escalate the matter to the Central Government if local appeals go unheeded.",
+          "Despite these mounting threats and public warnings, the production team behind the film has maintained a silent stance, refusing to issue an official statement addressing the ultimatum."
+        ]
+      },
+      {
+        "h": "Upcoming Council Discussions and Future Outlook",
+        "p": [
+          "With pressure mounting from political factions, Tamil Kumaran indicated that the thorny issue will be formally addressed during the upcoming meeting of the Tamil Film Producers Council. The governing body is expected to review the registration process and discuss the unfolding situation in greater detail.",
+          "As director SU Arun Kumar prepares to move forward with the project, the ongoing debate over the title has quickly transformed into one of the most prominent controversies surrounding the film's early development phases."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kamal Haasan's upcoming film directed by SU Arun Kumar has sparked a title controversy over the name 'Sandiyar', mirroring a similar naming dispute from 2003 that led to the film 'Virumaandi'. Tamil Film Producers Council president Tamil Kumaran defended the title's approval, stating it was legally available after thirteen years, while political leader Krishnasamy threatened protests and urged a name change to prevent potential social tensions in southern Tamil Nadu."
+        ]
+      }
+    ],
+    "facts": [
+      "Kamal Haasan's upcoming film is directed by SU Arun Kumar.",
+      "The film's title is 'Sandiyar'.",
+      "Puthiya Tamilagam party leader Krishnasamy raised objections to the title.",
+      "A film with the same title was announced in 2003 and later renamed 'Virumaandi'.",
+      "Tamil Film Producers Council president Tamil Kumaran explained the approval process.",
+      "The council retains registered titles for 10 years before they can be reassigned with permission.",
+      "Krishnasamy demanded a title change within a week and warned of protests at shooting locations."
+    ],
+    "entities": {
+      "people": [
+        "Kamal Haasan",
+        "SU Arun Kumar",
+        "Krishnasamy",
+        "Tamil Kumaran",
+        "Minister Raj"
+      ],
+      "titles": [
+        "Sandiyar",
+        "Virumaandi"
+      ]
+    },
+    "keywords": [
+      "Kamal Haasan Sandiyar",
+      "Sandiyar title controversy",
+      "SU Arun Kumar film",
+      "Tamil Film Producers Council Sandiyar",
+      "Krishnasamy Sandiyar objection"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135846728,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Kamal Haasan's Upcoming Film 'Sandiyar' Sparks Title Controversy and Political Objections",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T09:25:08+05:30"
   }
 };
