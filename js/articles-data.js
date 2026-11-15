@@ -153121,5 +153121,345 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 07:15:57 +0000"
+  },
+  "az30kz": {
+    "id": "az30kz",
+    "type": "news",
+    "headline": "Ramayana Gears Up For A Massive International Rollout Across Major Global Markets In Early 2027",
+    "dek": "The highly anticipated cinematic epic starring Ranbir Kapoor and Yash eyes an extensive overseas release across China, Russia, Japan, and South Korea, with official censor submission already underway in the Chinese territory.",
+    "body": [
+      {
+        "h": "Expanding The Global Footprint",
+        "p": [
+          "The international journey for the upcoming cinematic adaptation of the epic tale is preparing to scale unprecedented heights. Industry insiders have revealed that the high-profile feature is slated for an extensive theatrical rollout across four major foreign territories during the opening quarter of 2027.",
+          "This ambitious strategy marks a pivotal milestone for the production as it aims to capture diverse audiences far beyond traditional diaspora viewing hubs. By targeting multiple powerful international territories simultaneously, the makers are laying down a robust framework for worldwide theatrical penetration."
+        ]
+      },
+      {
+        "h": "Targeted Territories And Strategic Markets",
+        "p": [
+          "The upcoming schedule highlights four distinct regions that form the core of this overseas strategy: China, Russia, Japan, and South Korea. Each of these nations presents unique cultural landscapes and substantial box-office potential for large-scale fantasy and mythological storytelling.",
+          "Among these targeted zones, China holds a particularly vital position due to its historical reception of high-concept Indian cinema. Several notable titles have previously secured impressive commercial returns in the region, establishing a welcoming precedent for incoming cultural epics."
+        ]
+      },
+      {
+        "h": "Early Censor Submissions In Motion",
+        "p": [
+          "Preparations for the overseas premiere are already operating well ahead of schedule. The production has officially submitted the feature for regulatory censor clearance within the Chinese territory, confirming that administrative wheels are turning smoothly.",
+          "Securing this approval early in the timeline is crucial for navigating foreign distribution protocols. This proactive approach ensures that the title remains on track for its planned debut window without unexpected bureaucratic hurdles delaying the process."
+        ]
+      },
+      {
+        "h": "Star Power And Production Scale",
+        "p": [
+          "A primary driver behind the massive international expectations is the formidable talent assembled behind and in front of the camera. The project features celebrated leading performers Ranbir Kapoor and Yash, whose combined star appeal transcends domestic boundaries.",
+          "Furthermore, the venture is built on a grand mythological foundation and a massive financial and visual scale. These elements naturally position the production as a prime candidate for premium international exhibition formats."
+        ]
+      },
+      {
+        "h": "Significance Of The Q1 2027 Window",
+        "p": [
+          "The first quarter of 2027 is rapidly crystallizing as a defining period for the film's global commercial journey. Successfully launching across four major non-traditional markets during this timeframe could exponentially amplify its eventual worldwide revenue.",
+          "Industry analysts are closely monitoring these developments as a potential benchmark for how contemporary Indian mythologies are packaged for international audiences. The unfolding distribution strategy signals a confident new era for cross-border cinema marketing."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The upcoming cinematic adaptation starring Ranbir Kapoor and Yash is scheduled for a wide theatrical release across China, Russia, Japan, and South Korea in the first quarter of 2027. Official paperwork has already been submitted for censor clearance in China as part of a broader push to expand the film's global footprint."
+        ]
+      }
+    ],
+    "facts": [
+      "The film features Ranbir Kapoor and Yash.",
+      "The international release is planned for the first quarter of 2027.",
+      "Targeted overseas markets include China, Russia, Japan, and South Korea.",
+      "The movie has already been submitted for censor clearance in China."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Ram Gopal Varma",
+        "Nitesh Tiwari",
+        "Ravi Dubey",
+        "Sai Pallavi",
+        "Sunny Deol"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana Part: I"
+      ]
+    },
+    "keywords": [
+      "Ramayana release date",
+      "Ramayana China Russia Japan South Korea",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana international release"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/Ramayana-10-1.jpg",
+        "caption": "Ramayana Gears Up For A Massive International Rollout Across Major Global Markets In Early 2027",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 13:47:23 +0200"
+  },
+  "1w8c31p": {
+    "id": "1w8c31p",
+    "type": "news",
+    "headline": "Maya Jama Steps Down From A Second Major ITV Programme Following Her Departure From Dating Reality Series",
+    "dek": "The high-profile presenter has reportedly exited her role on a popular singing competition series just after finishing only one day of filming, following her sudden resignation from her primary dating show.",
+    "body": [
+      {
+        "h": "Another Major Departure From Television",
+        "p": [
+          "Popular presenter Maya Jama has made headlines by walking away from a second major network production following her sudden exit from the popular matchmaking reality show she hosted for nearly four years. The 32-year-old media personality initially stunned fans when she took to social media to announce that she was stepping down from her primary hosting duties, expressing immense gratitude for an incredible era and stating that all good things must eventually conclude.",
+          "Reports quickly surfaced indicating that this departure was not an isolated event. Insiders revealed that she has also chosen to walk away from a prominent singing competition series on the same network, appearing in just a single episode of the upcoming run after filming only on the opening day."
+        ]
+      },
+      {
+        "h": "Changes Behind The Scenes",
+        "p": [
+          "Network representatives addressed the sudden exit by pointing to significant shifts in the production's format for upcoming runs. According to official statements, the alterations involve introducing new rival elements to the detective panel featuring established figures such as Davina McCall, Jonathan Ross, and Mo Gilligan.",
+          "Because of these sweeping structural updates, network officials clarified that her limited presence was planned due to the introduction of competing panel dynamics, meaning she was never scheduled to complete the entire upcoming run of episodes."
+        ]
+      },
+      {
+        "h": "Expanding Into Acting And Strategy",
+        "p": [
+          "The recent television shake-up arrives as the presenter experiences a massive surge in career momentum across multiple genres. Earlier, she made her formal acting debut in the second season of Netflix's hit drama series, portraying a character named Aisha and earning considerable acclaim for her performance.",
+          "In addition to her scripted television work, she also threw herself into the strategic gameplay of a popular celebrity competition series. Operating fiercely as a faithful traitor throughout the intense run, she managed to outlast numerous competitors to reach the dramatic final showdown."
+        ]
+      },
+      {
+        "h": "Pursuing New Professional Horizons",
+        "p": [
+          "Reflecting on her career trajectory, the star noted that she had always wanted to explore scripted performance but remained too occupied with her heavy presenting schedule to pursue formal training. Now, having successfully dipped her toes into dramatic roles, she has expressed a desire to take on grittier characters in future projects.",
+          "Her recent career choices point to a deliberate shift toward personal growth and embracing fresh professional challenges. By stepping away from long-running hosting commitments, she aims to clear her schedule for ambitious new acting ventures."
+        ]
+      },
+      {
+        "h": "Speculation Surrounding Future Roles",
+        "p": [
+          "As her profile continues to rise internationally, bookmakers and viewers have begun linking her name to high-profile film franchises. Industry odds have placed her notably high on lists for potential casting in future installments of a legendary spy thriller series.",
+          "While hanging from a helicopter during her reality competition finale, she humorously leaned into the speculation herself, admitting that her dramatic stunt was partially a playful bid to catch the attention of casting directors for the iconic cinematic role."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Maya Jama has stepped away from a second network series following her recent exit from her primary dating program. While network representatives attribute her limited appearance on the singing competition to format updates, the presenter is actively shifting her focus toward new acting opportunities and career growth."
+        ]
+      }
+    ],
+    "facts": [
+      "Maya Jama is 32 years old.",
+      "She hosted Love Island for almost four years after joining in 2024.",
+      "She filmed only one episode of the next series of The Masked Singer.",
+      "Bookies have put her at 7/1 odds for a role in the next James Bond film."
+    ],
+    "entities": {
+      "people": [
+        "Maya Jama",
+        "Davina McCall",
+        "Jonathan Ross",
+        "Mo Gilligan",
+        "Richard E. Grant",
+        "James Acaster",
+        "Zendaya",
+        "Daisy Edgar-Jones"
+      ],
+      "titles": [
+        "Love Island",
+        "The Masked Singer",
+        "Celebrity Traitors",
+        "The Gentlemen",
+        "Love Island All Stars"
+      ]
+    },
+    "keywords": [
+      "Maya Jama",
+      "Love Island",
+      "The Masked Singer",
+      "The Gentlemen",
+      "Celebrity Traitors"
+    ],
+    "images": [
+      {
+        "url": "https://metro.co.uk/wp-content/uploads/2024/02/Joel-Harley-Professional-2cd8.jpg?quality=90&strip=all&w=1024&resize=200,200&zoom=1",
+        "caption": "Maya Jama Steps Down From A Second Major ITV Programme Following Her Departure From Dating Reality Series",
+        "source": "Metro — Entertainment"
+      }
+    ],
+    "published": "2026-11-15T08:52:39Z"
+  },
+  "beadog": {
+    "id": "beadog",
+    "type": "news",
+    "headline": "Nitesh Tiwari Enters Koimoi Director Ranking Top 3 As Ramayana Crosses 700 Crore Net",
+    "dek": "Filmmaker Nitesh Tiwari secures the third spot in the Koimoi Director Ranking after his latest theatrical epic Ramayana crosses the 700 crore net milestone at the Indian box office.",
+    "body": [
+      {
+        "h": "The Return of Nitesh Tiwari",
+        "p": [
+          "After maintaining silence for a span of six years, acclaimed filmmaker Nitesh Tiwari has made a triumphant comeback to the silver screen with his massive theatrical release, Ramayana. The cinematic spectacle enjoyed a robust opening week at the domestic box office before hitting top gear during its second weekend in theaters.",
+          "This tremendous momentum culminated on the tenth day of its theatrical run when the magnum opus officially crossed the monumental 700 crore net collection club in India. The extraordinary commercial performance has directly elevated the director's standing within industry leaderboards."
+        ]
+      },
+      {
+        "h": "Understanding the Koimoi Director Ranking System",
+        "p": [
+          "The Koimoi Directors' Ranking evaluates filmmakers based on the box office milestones achieved by their Hindi and Bollywood cinematic ventures within prestigious domestic clubs. Directors receive 100 points for a film entering the 100-crore club, 200 points for the 200-crore club, and corresponding points for higher tiers.",
+          "Additionally, filmmakers earn an extra 50 points for each feature film that secures a spot among the top ten overseas grossers. For films originating from South India, only the earnings generated by their respective Hindi-dubbed versions are factored into the scoring system."
+        ]
+      },
+      {
+        "h": "Point Breakdown and Overseas Success",
+        "p": [
+          "Prior to the grand premiere of Ramayana, Nitesh Tiwari held a respectable standing with a tally of 450 points. With his newest creation smashing past the 700 crore net mark domestically, he was immediately credited with 700 points for that specific tier.",
+          "Furthermore, an additional 50 points were granted because the movie successfully cracked the top 10 Bollywood grossers in international overseas markets. This brought his cumulative overall score to an impressive 1200 points."
+        ]
+      },
+      {
+        "h": "Surpassing Industry Peers",
+        "p": [
+          "Accumulating a total of 1200 points allowed Nitesh Tiwari to leapfrog filmmaker Siddharth Anand, who holds 1150 points. This strategic shift in the rankings places Tiwari securely in the coveted third position among elite directors.",
+          "Given the remarkable and steady trajectory of Ramayana at ticket counters everywhere, analysts project that Tiwari might soon challenge Rohit Shetty's tally of 1450 points. Meanwhile, Aditya Dhar continues to maintain a strong lead with 2200 points."
+        ]
+      },
+      {
+        "h": "A Legacy Built on Blockbusters",
+        "p": [
+          "Nitesh Tiwari's current ranking is supported by a strong portfolio of commercially successful movies across different milestones. His points breakdown includes one film in the 100 crore club with Chhichhore yielding 100 points.",
+          "He also secured 300 points from his blockbuster hit Dangal in the 300 crore club, alongside the 700 points from Ramayana, complemented by two films featuring in Bollywood's top 10 overseas grossers list."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Nitesh Tiwari has reached the top 3 of the Koimoi Director Ranking with a total of 1200 points after his latest feature Ramayana surpassed 700 crore net at the domestic box office. The milestone reflects his strong career track record alongside notable contributions from past hits like Dangal and Chhichhore."
+        ]
+      }
+    ],
+    "facts": [
+      "Nitesh Tiwari was quiet for six years before releasing Ramayana.",
+      "Ramayana crossed the 700 crore net club on its 10th day.",
+      "Nitesh Tiwari's overall tally stands at 1200 points.",
+      "Siddharth Anand has 1150 points.",
+      "Rohit Shetty has 1450 points.",
+      "Aditya Dhar has 2200 points.",
+      "Chhichhore is in the 100 crore club.",
+      "Dangal is in the 300 crore club."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Siddharth Anand",
+        "Rohit Shetty",
+        "Aditya Dhar"
+      ],
+      "titles": [
+        "Ramayana",
+        "Chhichhore",
+        "Dangal"
+      ]
+    },
+    "keywords": [
+      "Nitesh Tiwari Ramayana",
+      "Koimoi Director Ranking",
+      "Ramayana 700 crore net",
+      "Nitesh Tiwari points"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/box-office-nitesh-tiwari-enters-koimoi-director-rankings-top-3-as-ramayana-crosses-700-crore-net-002.jpg",
+        "caption": "Nitesh Tiwari Enters Koimoi Director Ranking Top 3 As Ramayana Crosses 700 Crore Net",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 08:21:02 +0000"
+  },
+  "9q94lk": {
+    "id": "9q94lk",
+    "type": "news",
+    "headline": "Fresh Trailer Released for Upcoming Korean Series Crash 2 Highlighting Dangerous Cases",
+    "dek": "The Traffic Crime Investigative Team returns for another season of high stakes investigations in the brand new promotional trailer for the upcoming Korean television series Crash 2.",
+    "body": [
+      {
+        "h": "Latest Promotional Footage Released",
+        "p": [
+          "Audiences awaiting the return of the popular Korean television series have received a fresh preview of what to expect in the upcoming episodes. A brand new promotional trailer has been made available for viewing, giving fans a closer look at the high stakes investigations awaiting the main characters.",
+          "The newly dropped footage emphasizes the perilous nature of the assignments handled by the specialized division. Viewers are treated to glimpses of intense situations and high-energy investigations that set the tone for the upcoming broadcast."
+        ]
+      },
+      {
+        "h": "Returning Cast Members",
+        "p": [
+          "The upcoming season brings back several notable performers to reprise their roles within the narrative. Fans of the original run will recognize familiar faces leading the ensemble cast once again.",
+          "The core group leading the investigative unit features talented actors such as Lee Min Ki, Kwak Sun Young, and Heo Sung Tae. Their collective performances form the foundation of the unfolding narrative."
+        ]
+      },
+      {
+        "h": "Focus on the Traffic Crime Investigative Team",
+        "p": [
+          "The narrative once again centers around the dedicated professionals making up the Traffic Crime Investigative Team. This specialized unit is tasked with tracking down perpetrators and resolving complex transport-related offenses.",
+          "Throughout the upcoming run of episodes, the team will dive into a wide variety of perilous situations. Each case presents distinct challenges that test their professional capabilities and teamwork."
+        ]
+      },
+      {
+        "h": "Broadcast Schedule and Network",
+        "p": [
+          "Eager followers of the series do not have to wait much longer to catch the premiere of the new episodes. The network has locked in the official launch date for the upcoming season.",
+          "Crash 2 is officially slated to make its broadcast debut on November 16. Viewers will be able to tune in to watch the premiere directly through the ENA network."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A fresh trailer for the upcoming Korean drama Crash 2 highlights the dangerous cases tackled by the Traffic Crime Investigative Team. The series stars Lee Min Ki, Kwak Sun Young, and Heo Sung Tae, and is scheduled to premiere on ENA on November 16."
+        ]
+      }
+    ],
+    "facts": [
+      "Crash 2 is a Korean drama",
+      "The series stars Lee Min Ki, Kwak Sun Young, and Heo Sung Tae",
+      "The show follows the Traffic Crime Investigative Team",
+      "Crash 2 is scheduled to premiere on November 16",
+      "The show will air on ENA"
+    ],
+    "entities": {
+      "people": [
+        "Lee Min Ki",
+        "Kwak Sun Young",
+        "Heo Sung Tae",
+        "Kay"
+      ],
+      "titles": [
+        "Crash 2",
+        "New Neighborhood",
+        "Good Partner",
+        "Sword and Silence",
+        "Pyramid",
+        "Materesa",
+        "The Red Sleeve",
+        "Take Charge of My Heart"
+      ]
+    },
+    "keywords": [
+      "Crash 2 trailer",
+      "Lee Min Ki Crash 2",
+      "Kwak Sun Young Heo Sung Tae",
+      "Crash 2 ENA premiere"
+    ],
+    "images": [
+      {
+        "url": "https://i0.wp.com/kdramakisses.com/wp-content/uploads/2026/11/Crash-2-Lee-Min-Ki-3.jpg?fit=400%2C224&ssl=1",
+        "caption": "Fresh Trailer Released for Upcoming Korean Series Crash 2 Highlighting Dangerous Cases",
+        "source": "Kdrama Kisses"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 08:00:33 +0000"
   }
 };
