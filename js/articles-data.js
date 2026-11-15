@@ -156099,5 +156099,409 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-15T17:00:09Z"
+  },
+  "1ftxgoc": {
+    "id": "1ftxgoc",
+    "type": "news",
+    "headline": "Tamil Romantic Drama Haiku Sets Official Netflix OTT Premiere Date for November",
+    "dek": "Yuvaraj Chinnasamy directorial Haiku, starring Aegan, Sri Devi Apalla and Femina George, is heading to digital platforms in five languages following its October theatrical run.",
+    "body": [
+      {
+        "h": "Theatrical Journey and Digital Transition",
+        "p": [
+          "The Tamil romantic drama Haiku originally opened in cinemas on October 23, 2026, welcoming audiences to its poetic narrative. After completing its theatrical run, the feature is swiftly moving toward its digital premiere for fans awaiting an online release.",
+          "Viewers who missed seeing the movie on the big screen will soon have the opportunity to stream it comfortably from their homes as the official streaming window opens less than a month after its theatrical debut."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "At its core, the storyline follows a young protagonist who employs poetry as a unique medium to convey his deep affections to his partner. This poetic expression drives the romantic plot forward through a light-hearted examination of the couple's bond.",
+          "The narrative explores romance through gentle storytelling, focusing heavily on how creative communication shapes and nurtures their relationship over time."
+        ]
+      },
+      {
+        "h": "Starring Cast and Key Performers",
+        "p": [
+          "The leading roles in the romantic drama are brought to life by actors Aegan, Sri Devi Apalla, and Femina George. Their performances anchor the central relationship of the story.",
+          "A supporting ensemble further populates the film, featuring talents such as Adirchi Arun, Subramanian Sethu, Adhiyaman, Mime Gopi, Indhumathi Manigandan, and Shree Tej SK in important supporting capacities."
+        ]
+      },
+      {
+        "h": "Direction and Creative Leadership",
+        "p": [
+          "Filmmaker Yuvaraj Chinnasamy took charge of both the writing and directing duties for the project, establishing the artistic vision of the feature. Additional screenplay contributions were provided by Hariharan Ram.",
+          "Production responsibilities were managed under the banner of Vision Cinema House, with Dr. D. Arulanandhu and Mathewo Arulanandhu serving as producers, alongside Aegan Arulanandhu as the executive producer."
+        ]
+      },
+      {
+        "h": "Technical Crew and Production Department",
+        "p": [
+          "Sidhu Kumar composed the musical score, while Priyesh Gurusamy looked after cinematography and Sakthi Pranesh P managed the editing process. The art direction was handled by Prem Karunthamalai, with costume design by Dinesh Manoharan.",
+          "Choreography was directed by Anusha Vishwanathan, and RP Bala contributed as the dubbing director from RP Studios. Visual effects were executed by ONE STUDIOS under the supervision of Mohmad Akram M."
+        ]
+      },
+      {
+        "h": "Streaming Platform and Language Availability",
+        "p": [
+          "Netflix has officially announced that it will host the digital premiere of the feature, making it accessible to subscribers globally. The platform will roll out the film in five distinct linguistic versions.",
+          "Audiences can look forward to watching the project in Tamil, Telugu, Kannada, Malayalam, and Hindi, ensuring a broad reach across multiple regional language preferences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Tamil romantic drama Haiku, directed by Yuvaraj Chinnasamy and starring Aegan, Sri Devi Apalla, and Femina George, is scheduled for its digital debut on Netflix on November 20, 2026. Following its theatrical run in October, the film will stream in Tamil, Telugu, Kannada, Malayalam, and Hindi."
+        ]
+      }
+    ],
+    "facts": [
+      "Haiku was released in theatres on October 23, 2026.",
+      "Haiku is scheduled to stream on Netflix on November 20, 2026.",
+      "The film will be available in Tamil, Telugu, Kannada, Malayalam, and Hindi.",
+      "Yuvaraj Chinnasamy wrote and directed the film.",
+      "The film stars Aegan, Sri Devi Apalla, and Femina George."
+    ],
+    "entities": {
+      "people": [
+        "Aegan",
+        "Sri Devi Apalla",
+        "Femina George",
+        "Yuvaraj Chinnasamy",
+        "Shree Tej SK",
+        "Adirchi Arun",
+        "Subramanian Sethu",
+        "Adhiyaman",
+        "Mime Gopi",
+        "Indhumathi Manigandan",
+        "Hariharan Ram",
+        "Dr. D. Arulanandhu",
+        "Mathewo Arulanandhu",
+        "Aegan Arulanandhu",
+        "Sidhu Kumar",
+        "Priyesh Gurusamy",
+        "Sakthi Pranesh P",
+        "Prem Karunthamalai",
+        "Dinesh Manoharan",
+        "Anusha Vishwanathan",
+        "RP Bala",
+        "Mohmad Akram M"
+      ],
+      "titles": [
+        "Haiku"
+      ]
+    },
+    "keywords": [
+      "Haiku OTT Release",
+      "Haiku Netflix release date",
+      "Aegan Sri Devi Apalla Femina George film",
+      "Yuvaraj Chinnasamy Haiku movie"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/haiku-13111794766603.jpg",
+        "caption": "Tamil Romantic Drama Haiku Sets Official Netflix OTT Premiere Date for November",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 23:50:24 +0530"
+  },
+  "1dmqcbm": {
+    "id": "1dmqcbm",
+    "type": "news",
+    "headline": "Frisco King Release Date, Cast, and Streaming Details for the Tulsa King Spinoff",
+    "dek": "Everything you need to know about Taylor Sheridan's upcoming Paramount+ series Frisco King, starring Samuel L. Jackson.",
+    "body": [
+      {
+        "h": "Introduction to the Spinoff",
+        "p": [
+          "Fans of the hit drama Tulsa King have a major new series to look forward to with the arrival of Taylor Sheridan's highly anticipated expansion project, Frisco King. Coming exclusively to Paramount+, the new thriller centers on a compelling expansion of the criminal universe that originally captured audiences on the streaming service.",
+          "The upcoming project shifts the geographic focus and narrative energy to a fresh backdrop while keeping the gritty, high-stakes crime elements that viewers have come to expect from the creative mind behind the broader franchise."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "The narrative is anchored by Samuel L. Jackson in the role of Russell Lee Washington Jr., a New Orleans gangster who previously appeared on Tulsa King. In this new chapter, his character relocates to Frisco, Texas, where he begins turning modest illegal operations into massive commercial enterprises.",
+          "To achieve this criminal expansion, he relies on a dedicated team consisting of an ambitious protégé, a dependable driver, and a rapidly expanding circle of unique and unpredictable partners."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast Additions",
+        "p": [
+          "Alongside the legendary Samuel L. Jackson leading the ensemble, Frisco King features a talented roster of rising and established performers. The main cast includes Asa Germann, Kai Caster, Lilah Pate, and Savanna Gann.",
+          "In addition to the core players, viewers can expect an exciting crossover connection when Sylvester Stallone makes a special guest appearance reprising his role as Dwight 'The General' Manfredi from Tulsa King."
+        ]
+      },
+      {
+        "h": "Release Schedule and Episode Count",
+        "p": [
+          "The first season of the thriller is structured across eight episodes. Viewers will be able to dive into the premiere when the first two episodes drop simultaneously.",
+          "Following the two-episode debut on Friday, December 18 at 3:01 a.m. ET, fresh installments will roll out weekly on Fridays through the end of January."
+        ]
+      },
+      {
+        "h": "Complete Weekly Rollout Plan",
+        "p": [
+          "Following the grand premiere on December 18, Episode 3 is slated for release on Friday, December 25. The schedule continues with Episode 4 on January 1 and Episode 5 on January 8.",
+          "The latter half of the season progresses with Episode 6 on January 15 and Episode 7 on January 22, culminating in the action-packed season finale, Episode 8, on Friday, January 29."
+        ]
+      },
+      {
+        "h": "Streaming Options and Pricing",
+        "p": [
+          "Frisco King will stream exclusively on Paramount+, which provides two primary subscription tiers for subscribers. The ad-supported Essential plan is priced at $8.99 per month, while the ad-free Premium tier costs $13.99 per month and includes Showtime content alongside live CBS broadcasts.",
+          "New users can test the service using a seven-day free trial on the Premium plan. Alternative options include bundling the platform through Prime Video or Hulu for $13.99 a month, or purchasing access via YouTube."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Taylor Sheridan's upcoming Tulsa King spinoff Frisco King is scheduled to premiere on Paramount+ with its first two episodes on December 18. The eight-episode thriller stars Samuel L. Jackson as a New Orleans gangster building an empire in Texas, alongside a supporting cast and a special appearance by Sylvester Stallone."
+        ]
+      }
+    ],
+    "facts": [
+      "Frisco King is a spinoff of Tulsa King created by Taylor Sheridan.",
+      "The series premieres on Friday, December 18 at 3:01 a.m. ET on Paramount+.",
+      "The first season consists of eight episodes.",
+      "Samuel L. Jackson stars as Russell Lee Washington Jr.",
+      "Sylvester Stallone makes a special appearance as Dwight 'The General' Manfredi.",
+      "The cast also includes Asa Germann, Kai Caster, Lilah Pate, and Savanna Gann.",
+      "Paramount+ offers an Essential plan at $8.99/month and a Premium plan at $13.99/month with a seven-day free trial."
+    ],
+    "entities": {
+      "people": [
+        "Taylor Sheridan",
+        "Samuel L. Jackson",
+        "Asa Germann",
+        "Kai Caster",
+        "Lilah Pate",
+        "Savanna Gann",
+        "Sylvester Stallone"
+      ],
+      "titles": [
+        "Frisco King",
+        "Tulsa King",
+        "Scream 7",
+        "Gen V",
+        "Spider-Noir",
+        "Yellowstone",
+        "The Runarounds",
+        "The Summer I Turned Pretty",
+        "English Teacher",
+        "Tell Me Lies"
+      ]
+    },
+    "keywords": [
+      "Frisco King",
+      "Tulsa King spinoff",
+      "Samuel L. Jackson Frisco King",
+      "Frisco King release date",
+      "Taylor Sheridan Paramount+"
+    ],
+    "images": [
+      {
+        "url": "https://decider.com/wp-content/uploads/2026/11/Frisco-King.jpg?quality=75&amp;strip=all&amp;w=680&amp;h=356&amp;crop=1",
+        "caption": "Frisco King Release Date, Cast, and Streaming Details for the Tulsa King Spinoff",
+        "source": "Decider"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 13:30:00 -0500"
+  },
+  "1bxoc2d": {
+    "id": "1bxoc2d",
+    "type": "news",
+    "headline": "418 OTT Release Date: Telugu Horror Thriller Eyed for November Digital Premiere",
+    "dek": "Telugu horror thriller 418, starring Chaithra J Achar and directed by Kirtan Nadagouda, is reportedly gearing up for its digital premiere on Netflix.",
+    "body": [
+      {
+        "h": "Theatrical Run Concludes",
+        "p": [
+          "The Telugu horror thriller 418 successfully completed its theatrical run following its initial release on October 23, 2026. Audiences who missed the cinematic exhibition are now turning their attention toward digital platforms for updates on its upcoming online streaming premiere.",
+          "The film managed to capture viewer interest during its time in cinemas, setting the stage for a swift transition to the digital space less than a month after its theatrical debut."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The storyline of 418 centers around a specific room inside a medical college hostel that students have avoided for a period of fifteen years. As unexplained and mysterious incidents begin to manifest, the residents of the hostel try to uncover the truth.",
+          "Their ongoing investigation eventually pulls them deeper into the terrifying secrets concealed within Room 418, driving the main narrative forward through suspense and supernatural elements."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast",
+        "p": [
+          "The horror project features a prominent ensemble cast led by Chaithra J Achar, Surya Raj Veerabathini, and Ramesh Indira in key acting roles. Each actor contributes significantly to the eerie atmosphere of the campus mystery.",
+          "In addition to the primary leads, the supporting cast includes performances by Charan Lakkaraju, Preethi Pagadala, Shree Vaishnav, Shashank Patil, Kota Jayaram, and Goparaju Vijay, rounding out the hostel's student and faculty dynamics."
+        ]
+      },
+      {
+        "h": "Direction and Production Team",
+        "p": [
+          "The film was written and directed by Kirtan Nadagouda, who shaped its chilling narrative and visual style. The production duties were handled by Naveen Yerneni and Ravi Shankar under the esteemed banner of Mythri Movie Makers.",
+          "Furthermore, Prashanth Neel lent his name to the project as a presenter, while Anil Yerneni took on the role of co-producer, ensuring a robust backing for the regional horror venture."
+        ]
+      },
+      {
+        "h": "Technical Craft and Crew",
+        "p": [
+          "A large team of technical professionals contributed to the eerie aesthetic of 418. Dinesh Divakaran managed the cinematography, capturing the dark tones of the hostel, while Venky GG composed the original score.",
+          "The post-production crew featured Akul Avinash as editor and Ullas Hydoor as production designer. Sound design and mixing were overseen by Anupam C and Vishnu Sujathan, alongside art direction by Vithal Kosanam and stunt choreography by K. Dilip Master."
+        ]
+      },
+      {
+        "h": "Digital Streaming Details",
+        "p": [
+          "According to recent reports circulating online, 418 is expected to make its digital debut on November 20, 2026. Netflix is reportedly slated to host the streaming premiere of the horror title.",
+          "If these reports hold true, the movie will be made available in five distinct languages, catering to viewers in Telugu, Tamil, Kannada, Malayalam, and Hindi."
+        ]
+      },
+      {
+        "h": "Official Confirmation Awaited",
+        "p": [
+          "Despite widespread reports regarding the November 20 digital release date, neither the filmmakers nor Netflix have issued an official confirmation. Audiences are advised to treat the date as a tentative streaming window.",
+          "An official announcement from the production team or the platform is still awaited to verify both the release schedule and the multilingual availability of the project."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Telugu horror thriller 418, directed by Kirtan Nadagouda and starring Chaithra J Achar, is reportedly heading to Netflix for a digital premiere on November 20, 2026. While the film completed its theatrical run following its October release, an official confirmation from the makers regarding the streaming date and five-language lineup is still pending."
+        ]
+      }
+    ],
+    "facts": [
+      "418 released in theatres on October 23, 2026.",
+      "The film is written and directed by Kirtan Nadagouda.",
+      "Chaithra J Achar, Surya Raj Veerabathini, and Ramesh Indira star in key roles.",
+      "The film is reportedly set to stream on Netflix on November 20, 2026.",
+      "It is expected to be available in Telugu, Tamil, Kannada, Malayalam, and Hindi."
+    ],
+    "entities": {
+      "people": [
+        "Chaithra J Achar",
+        "Surya Raj Veerabathini",
+        "Ramesh Indira",
+        "Kirtan Nadagouda",
+        "Naveen Yerneni",
+        "Ravi Shankar",
+        "Prashanth Neel",
+        "Anil Yerneni"
+      ],
+      "titles": [
+        "418"
+      ]
+    },
+    "keywords": [
+      "418 movie ott release",
+      "Chaithra J Achar 418",
+      "418 telugu horror thriller",
+      "418 netflix release date"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/418-95821794765697.jpg",
+        "caption": "418 OTT Release Date: Telugu Horror Thriller Eyed for November Digital Premiere",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 23:32:19 +0530"
+  },
+  "143ih4p": {
+    "id": "143ih4p",
+    "type": "news",
+    "headline": "Sunshine Through The Rain Episodes 20-21 Release Schedule And Plot Updates",
+    "dek": "Discover the release timings, platform details, and upcoming plot twists for episodes 20 and 21 of the popular romantic Chinese drama Sunshine Through The Rain.",
+    "body": [
+      {
+        "h": "Introduction To The Chinese Drama Sensation",
+        "p": [
+          "The romantic Chinese television drama Sunshine Through The Rain has rapidly gained traction among audiences, transforming into an unexpected hit as it moves closer to its dramatic finale. Viewers have closely followed the narrative arc of the primary characters.",
+          "The chemistry between the main leads has captured widespread attention, turning the show into a major talking point across international fandoms and digital platforms."
+        ]
+      },
+      {
+        "h": "Lead Characters And Romance Arc",
+        "p": [
+          "The central couple, consisting of the characters Chen Yan and Zheng Yu, officially transitioned into a romantic relationship much to the delight of followers. Fans have eagerly anticipated how their dynamic would evolve in subsequent chapters.",
+          "Upcoming sequences promise to deliver heartwarming interactions as the duo steps into a fresh phase of companionship, characterized by supportive gestures and affectionate text message exchanges."
+        ]
+      },
+      {
+        "h": "Upcoming Plot Twists In Berlin And Beyond",
+        "p": [
+          "A significant narrative shift is on the horizon for the protagonists, as hinted in recent preview materials. During a dinner scene set in Berlin, Zheng Yu demonstrates her language skills by speaking German.",
+          "She shares a major personal milestone regarding her acceptance into the Sino-German Master's program. However, she opts to keep this achievement confidential until corporate backing from Ningsheng Biotech receives final official approval."
+        ]
+      },
+      {
+        "h": "Key Cast Members",
+        "p": [
+          "The series stars Winwin, also known as Dong Si Chen, alongside actress Yang Chao Yue. Their dynamic screen presence has been a major driving force behind the program's growing viewership.",
+          "Their performances have generated substantial social media engagement, with fans frequently highlighting their visual appeal and emotional delivery."
+        ]
+      },
+      {
+        "h": "Release Timings And Platforms",
+        "p": [
+          "Fresh installments of the series are scheduled to launch on Monday, November 16, 2026. The platform MGTV serves as the primary home for the broadcast.",
+          "SVIP subscribers gain access to episodes 20 and 21 immediately, while VIP users receive availability for episodes 19 and 20. Indian audiences can view the program via Netflix."
+        ]
+      },
+      {
+        "h": "Specific Time Zones For International Viewers",
+        "p": [
+          "The official premiere time is set for 12:00 PM Beijing Time, corresponding to CST. For viewers located in India, this translates to a morning release at 9:30 AM IST."
+        ]
+      },
+      {
+        "h": "Alternative Streaming Options",
+        "p": [
+          "Aside from official subscription platforms, alternative viewing avenues occasionally emerge through community uploads. Fans frequently look for English-subtitled editions shared by other users on Dailymotion after the initial broadcast."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sunshine Through The Rain is rolling out its latest installments on November 16, 2026, bringing new romance and a hidden career milestone for the main characters. Fans can catch the fresh chapters through official channels like MGTV and Netflix depending on their subscription tier."
+        ]
+      }
+    ],
+    "facts": [
+      "Sunshine Through The Rain episodes 20 and 21 release on November 16, 2026.",
+      "The release time is 12:00 PM Beijing Time (CST), which is 9:30 AM IST.",
+      "The show stars Winwin (Dong Si Chen) and Yang Chao Yue.",
+      "Platforms broadcasting the series include MGTV, Netflix, and Dailymotion."
+    ],
+    "entities": {
+      "people": [
+        "Winwin",
+        "Dong Si Chen",
+        "Yang Chao Yue",
+        "Chen Yan",
+        "Zheng Yu",
+        "Chen Yanzhou",
+        "Yan Zhou",
+        "Gaoxing"
+      ],
+      "titles": [
+        "Sunshine Through The Rain"
+      ]
+    },
+    "keywords": [
+      "Sunshine Through The Rain episodes 20-21",
+      "Winwin Yang Chao Yue cdrama",
+      "Sunshine Through The Rain Netflix release",
+      "Sunshine Through The Rain MGTV time"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-15t172602-225-48031794743898.jpg",
+        "caption": "Sunshine Through The Rain Episodes 20-21 Release Schedule And Plot Updates",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 00:05:16 +0530"
   }
 };

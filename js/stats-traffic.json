@@ -1,45 +1,39 @@
 {
   "connected": true,
-  "generated": "2026-11-15T15:02:13Z",
+  "generated": "2026-11-15T20:27:10Z",
   "realtime": {
-    "active_users": 3
+    "active_users": 2
   },
   "today": {
-    "users": 104,
-    "pageviews": 119,
-    "sessions": 105,
-    "avg_session_seconds": 3.7
+    "users": 0,
+    "pageviews": 0,
+    "sessions": 0,
+    "avg_session_seconds": 0
   },
   "last7": {
-    "users": 420,
-    "pageviews": 702,
-    "sessions": 468,
-    "avg_session_seconds": 39.7
+    "users": 437,
+    "pageviews": 705,
+    "sessions": 478,
+    "avg_session_seconds": 41.0
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 102,
-      "avg_time_seconds": 225.9
+      "views": 91,
+      "avg_time_seconds": 265.5
     },
     {
       "path": "/box-office",
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
-      "views": 27,
-      "avg_time_seconds": 17.2
+      "views": 26,
+      "avg_time_seconds": 17.5
     },
     {
       "path": "/ott",
       "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
-      "views": 21,
-      "avg_time_seconds": 26.3
-    },
-    {
-      "path": "/movies",
-      "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
-      "views": 17,
-      "avg_time_seconds": 24.9
+      "views": 22,
+      "avg_time_seconds": 32.5
     },
     {
       "path": "/search",
@@ -48,70 +42,76 @@
       "avg_time_seconds": 23.9
     },
     {
+      "path": "/movies",
+      "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
+      "views": 16,
+      "avg_time_seconds": 23.0
+    },
+    {
       "path": "/most-awaited",
       "title": "Upcoming Movies: Coming Soon Releases | FlickAtlas",
-      "views": 16,
-      "avg_time_seconds": 7.1
+      "views": 15,
+      "avg_time_seconds": 7.5
     },
     {
       "path": "/upcoming",
       "title": "Upcoming Movies & TV Release Dates | FlickAtlas",
-      "views": 16,
-      "avg_time_seconds": 8.9
+      "views": 15,
+      "avg_time_seconds": 8.5
     },
     {
       "path": "/episode-guides",
       "title": "Pakistani Drama Episode Guides | FlickAtlas",
-      "views": 15,
-      "avg_time_seconds": 12.9
+      "views": 14,
+      "avg_time_seconds": 12.4
     },
     {
       "path": "/news",
       "title": "Bollywood & Entertainment News | FlickAtlas",
-      "views": 15,
-      "avg_time_seconds": 11.1
+      "views": 14,
+      "avg_time_seconds": 11.5
     },
     {
       "path": "/tv",
       "title": "TV Shows & Series: Cast, Seasons & Episodes | FlickAtlas",
-      "views": 15,
-      "avg_time_seconds": 8.3
+      "views": 14,
+      "avg_time_seconds": 8.2
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 444,
-      "users": 407
+      "sessions": 459,
+      "users": 425
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 13,
-      "users": 13
-    },
-    {
-      "source": "search.google.com",
-      "medium": "referral",
-      "sessions": 9,
-      "users": 1
+      "sessions": 12,
+      "users": 12
     },
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 8,
-      "users": 5
+      "sessions": 7,
+      "users": 4
+    },
+    {
+      "source": "search.google.com",
+      "medium": "referral",
+      "sessions": 6,
+      "users": 1
     }
   ],
   "countries": [
     {
       "country": "United States",
-      "users": 105
+      "users": 110
     },
     {
       "country": "Brazil",
-      "users": 61
+      "users": 65
     },
     {
       "country": "Singapore",
@@ -123,7 +123,7 @@
     },
     {
       "country": "Vietnam",
-      "users": 24
+      "users": 26
     },
     {
       "country": "Argentina",
@@ -131,29 +131,29 @@
     },
     {
       "country": "Bangladesh",
-      "users": 18
+      "users": 19
     },
     {
       "country": "Colombia",
-      "users": 18
+      "users": 19
     },
     {
       "country": "Indonesia",
-      "users": 15
+      "users": 17
     },
     {
-      "country": "Japan",
-      "users": 13
+      "country": "Malaysia",
+      "users": 14
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 412
+      "users": 430
     },
     {
       "device": "mobile",
-      "users": 8
+      "users": 7
     }
   ],
   "per_post": {}
